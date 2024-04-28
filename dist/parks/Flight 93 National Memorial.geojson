@@ -1,0 +1,20 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8850894547,
+          40.0771450272
+        ]
+      },
+      "properties": {
+        "name": "Tower of Voices",
+        "notes": "Tower of Voices\nhttps://www.nps.gov/places/tower-of-voices.htm\n\nThe Tower of Voices is a momumental, ninety-three foot tall musical instrument holding forty wind chimes, represtenting the forty passengers and crew members. It is intended to be a landmark feature near the memorial entrance, visable from US Route 30/Lincoln Highway. The Tower of Voices provides a living memorial in sound to remember the forty through the sybolic voices as the wind blows.<br /> <br /> There are no other chime structures like the Tower of Voices in the world. The shape and orientation of the tower are designed to optimize air flow through the tower walls. The chime system is designed using music theory to identify a mathmetically developed range of frequencies needed to produce musical notes.",
+        "icon": "red-pin-down.png"
+      }
+    }
+  ]
+}

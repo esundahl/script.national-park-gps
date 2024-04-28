@@ -1,0 +1,470 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.89464378356934,
+          41.760780618548324
+        ]
+      },
+      "properties": {
+        "name": "A Walk Through Time",
+        "notes": "A Walk Through Time\nhttps://www.nps.gov/places/a-walk-through-time.htm\n\nThe naturally stony soil produces a crop of fieldstone once gathered by land dwellers to build walls that defined their fields and property lines. Today, it is a place for you to stop and consider your surroundings.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.89119982719421,
+          41.76301341193257
+        ]
+      },
+      "properties": {
+        "name": "A Walk for All Seasons",
+        "notes": "A Walk for All Seasons\nhttps://www.nps.gov/places/a-walk-for-all-seasons.htm\n\n<p>While FDR proclaimed the Tulip Tree his favorite tree, he nevertheless made special journeys to Hyde Park in spring when he learned that the dogwood was in bloom.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.934825,
+          41.768057
+        ]
+      },
+      "properties": {
+        "name": "Burial Site of Franklin and Eleanor Roosevelt",
+        "notes": "Burial Site of Franklin and Eleanor Roosevelt\nhttps://www.nps.gov/places/burial-site-of-franklin-and-eleanor-roosevelt.htm\n\n<p>According to Franklin D. Roosevelt's own instructions, written on December 26, 1937, his body was to be buried \"where the sun dial stands in the garden.\" His wishes reflect his intense connection to the place of his birth and formative years, the launching point of his rise to public prominence, his refuge from the serious demands of the world, and the place where he found the resources to face head on the challenges first of polio, then of executive office in a time of dire national crisis. FDR's burial at Springwood ensured his home's establishment as a national shrine. </p> <p>Franklin Delano Roosevelt died unexpectedly from a cerebral hemorrhage on April 12, 1945 at Warm Springs, Georgia. He made his last journey from Warm Springs on the morning of April 13, 1945. His bronze coffin, covered by the American flag, followed a procession from the Little White House between double ranks of 2,000 servicemen en route to the funeral train for Washington. The roll of muffled drums added a solemn mood to the slow-moving cortege, which paused momentarily where all of the patients of his infantile paralysis Foundation were assembled.</p> <p>The train moved slowly throughout the night, passing stations filled with silent crowds gathered in reverence to watch as the President passed by. At Union Station, the procession continued with full military escort along Pennsylvania Avenue to the White House for a funeral service in the East Room.</p> <p>That evening, the funeral train embarked on the final length of the journey. In the rose garden at Hyde Park, three hundred people waited in silence on the morning of April 15. The approaching sound of Chopin’s “Funeral March,” performed by the West Point band, signified the horse-drawn caisson was climbing the hillside through the woods toward the President’s final resting place.</p> <p>The monument marking FDR’s grave was executed to the president’s design by the Vermont Marble Company in Proctor, Vermont. For more than a century, Vermont marble was used in the construction of important public buildings and monuments, including many of the nation’s finest structures—the Jefferson Memorial, the U.S. Supreme Court Building, and eventually the United Nations headquarters in New York City.</p> <p>FDR specified that a plain white marble monument without carving or decoration be placed at his grave, situated east and west, measuring 8 feet long, 4 feet wide, and 3 feet high with a base extending 2 feet around the perimeter. The memorial stone was manufactured to President Roosevelt’s design and installed in fall of 1945. According to the President’s wishes, Mrs. Roosevelt was interred here also upon her death in 1962.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.90302836894989,
+          41.76509008012756
+        ]
+      },
+      "properties": {
+        "name": "Eleanor Roosevelt Center at Val-Kill",
+        "notes": "Eleanor Roosevelt Center at Val-Kill\nhttps://www.nps.gov/places/eleanor-roosevelt-center-at-val-kill.htm\n\n<p>The Eleanor Roosevelt Center at Val-Kill (ERVK) is an official education partner of the National Park Service offering national youth leadership and character development programs, human rights education, and advocacy initiatives that inspire and empower individuals, organizations and communities to build a just and sustainable world. Programs are dedicated to breathing new life into the legacy of Eleanor Roosevelt.</p> <p>The Center's cutting-edge programs and experiences are based on Eleanor Roosevelt’s passion and commitment to principled leadership, social justice, and human rights. The Center inspires young emerging leaders with programs that equip them to be self-reliant and empowered agents of change.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8923692703247,
+          41.76185300929676
+        ]
+      },
+      "properties": {
+        "name": "Escaping the Mob",
+        "notes": "Escaping the Mob\nhttps://www.nps.gov/places/escaping-the-mob.htm\n\n<p>Lamenting his lack of private time on his trips from Washington to Hyde Park, FDR began talking about “building a small place to go to escape the mob.”</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.89531433582306,
+          41.76178498504282
+        ]
+      },
+      "properties": {
+        "name": "For Love of the Land",
+        "notes": "For Love of the Land\nhttps://www.nps.gov/places/for-love-of-the-land.htm\n\n<p>The reminiscences of Daisy Suckley, cousin and close companion of FDR, remind us of a man who understood, valued, and preserved nature, sharing its restorative benefits with close friends, his Hyde Park community, and the entire nation.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.93389785706043,
+          41.768831535652204
+        ]
+      },
+      "properties": {
+        "name": "Franklin D. Roosevelt Presidential Library and Museum",
+        "notes": "Franklin D. Roosevelt Presidential Library and Museum\nhttps://www.nps.gov/places/franklin-d-roosevelt-presidential-library-and-museum.htm\n\n<p>When President Franklin D. Roosevelt proposed the idea of building a library to house his papers and memorabilia, detractors believed he was simply interested in constructing a monument to himself. Roosevelt, however, viewed the library as a solution to two problems—how to simultaneously preserve and provide public access to the records of his presidency. His was an attitude of “open government,” believing that the people of the United States were entitled to a better look at how their government was working, even at the executive level.</p> <p>As an avid amateur historian, Roosevelt recognized the value of his papers and believed they should be saved for future historians and the American people. His collections contain personal and family papers, manuscripts related to his public career at the state and national level, photographs, sound and motion picture recordings, books, and periodicals. FDR also had a vast memorabilia collection, including ship models, prints and paintings, state gifts, gifts from the American people, and family items.</p> <p>By the time FDR reached the Presidency, his personal and professional papers amounted to such a large collection of material there was no single place that could adequately house it all. During his presidency, Roosevelt received approximately 4,000 letters a day from people commenting on his policies and his running of the government. He enjoyed his contact with the people and encouraged their writing. On November 19, 1939 at the cornerstone laying ceremony for the library, Roosevelt said, “Of the papers which will come to rest here I personally attach less importance to the documents of those who have occupied high public or private office, than I do the spontaneous letters which have come to me and my family and my associates from men, from women, and from children in every part of the United States, telling me of their conditions and problems, and giving me their opinions.”</p> <p>In 1934, Roosevelt signed legislation allowing for the creation of the National Archives, a repository dedicated to preserving the nation’s history. He had always had an interest in history and recordkeeping, and often involved himself in the organization of the new agency. In a 1949 article published in The American Archivist, Dr. R.D.W. Connor recalls his first meeting with Roosevelt, during which he was appointed Archivist of the United States. Connor described his meeting with Roosevelt, saying he “delivered a dissertation on the importance of the National Archives, both to the government and to scholars, pointed out some of its problems that required immediate attention, and assured me that I could rely on his continued interest in its development. ‘You know,’ [Roosevelt] added, ‘it’s my baby!’”</p> <p>At a press conference held December 10, 1938, Roosevelt explained the need for a place to keep his own papers after his presidency, saying, “For the last two years I have been considering more and more the final disposal of what amounts to probably the largest collection of original source material of almost anybody over the last quarter of a century.” To solve this problem, FDR wanted to build a library to house his collections on his family property in Hyde Park.</p> <p>Roosevelt shared this vision with those at the press conference, saying, “Because these papers relate to so many periods and activities which are not connected with my service in the Federal Government, I do not wish to break them up, leaving a portion of them to the National Archives and dividing the rest . . . It is my desire that they be kept as a whole and intact in their original condition, available to scholars of the future in one definite locality.”</p> <p>In addition, Roosevelt hoped the library would also become the repository for the papers of his associates and contemporaries. He envisioned creating a source material collection, a place where people could research not just the FDR administration, but a significant period in American and International history. Roosevelt explained this idea at his press conference, saying the library would hold all of his own collections along with “other source material relating to this period in our history as might be donated to the collection in the future by other members of the present Administration.”</p> <p>FDR’s idea was to build a new library using private funds, then to give the structure and its historical collections over to the United States government. The National Archives would become stewards of the library and its historical materials—museum objects, archival documents, photographs, and moving images. The government would also be charged with maintaining open access to these materials in the form of a museum and research room.</p> <p>His plan for the first presidential library set a precedent that all future chief executives have followed since, and the National Archives and Records Administration (NARA) now administers 13 of these institutions in all.<br /> <br /> <em>Article courtesy of the Franklin D. Roosevelt Presidential Library and Museum.</em></p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.88927936553955,
+          41.76611838612457
+        ]
+      },
+      "properties": {
+        "name": "Multiple Homes, Multiple Purposes",
+        "notes": "Multiple Homes, Multiple Purposes\nhttps://www.nps.gov/places/multiple-homes-multiple-purposes.htm\n\n<p>Top Cottage was one of several homes used by the Roosevelts, yet it was never intended to serve as a full-time residence. It would be a place where he could experience solitude, or invite select companions.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.89732599258423,
+          41.758971918922526
+        ]
+      },
+      "properties": {
+        "name": "Old Beaver Dam",
+        "notes": "Old Beaver Dam\nhttps://www.nps.gov/places/old-beaver-dam.htm\n\nAll along the Val Kill trail you will encounter the endless pattern of change in nature.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.90021741390228,
+          41.76300941058021
+        ]
+      },
+      "properties": {
+        "name": "Picnic Fireplace",
+        "notes": "Picnic Fireplace\nhttps://www.nps.gov/places/picnic-fireplace.htm\n\nThis fireplace was constructed on the picnic lawn in 1933. Nancy Cook prepared simple sketches from which Henry Toombs, architect of the cottage at Val-Kill, made final drawings. Made from local fieldstone, it has five feet of grilling length with warming shleves on either side. The fireplace was an important and central feature to the many picnics hosted by the Roosevelts at Val-Kill, including FDR's annual picnic for the press, ER's annual picnic for the boys at the Wyltwick School, and holiday gatherings for the large Roosevelt family. ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.89378547668457,
+          41.75974022233679
+        ]
+      },
+      "properties": {
+        "name": "Pond Wildlife",
+        "notes": "Pond Wildlife\nhttps://www.nps.gov/places/pond-wildlife.htm\n\nThis was one of his favorite places to drive and park his car for a rare moment of tranquility and enjoy a view of this small pond. What his casual observance may not have readily revealed is that this habitat supports an amazing diversity of amphibian and bird life, as well as an uncommon reptile.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.89964878559113,
+          41.76304142139198
+        ]
+      },
+      "properties": {
+        "name": "Tennis Court",
+        "notes": "Tennis Court\nhttps://www.nps.gov/places/tennis-court.htm\n\nEarl Miller supervised the construction of the tennis court for Eleanor Roosevelt in 1950. Two courses of black top were laid over six inches of compacted gravel. The wire backstops were installed at the same time. With he picnic fireplace, doll house, swimming pool, and stables, the tennis court provided recreational pastime at Val-Kill. In summer, Roosevelt family members and guests would play a round of tennis in the morning before lunch, as noted in ER's <em>My Day</em> column for July 7, 1955. ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.89693439006805,
+          41.762089092912696
+        ]
+      },
+      "properties": {
+        "name": "The Climb to Top Cottage",
+        "notes": "The Climb to Top Cottage\nhttps://www.nps.gov/places/the-climb-to-top-cottage.htm\n\nSituated at the peak of a hill, with a commanding view of Hyde Park, is Top Cottage, a modest home where kings and queens and heads of state met with the President, their discussions shaping modern history.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8985683254,
+          41.7632451634
+        ]
+      },
+      "properties": {
+        "name": "The Cutting Garden at Val-Kill",
+        "notes": "The Cutting Garden at Val-Kill\nhttps://www.nps.gov/places/cutting-garden.htm\n\n<p>Mrs. Roosevelt, Nancy Cook, and Marion Dickerman built a garden for cut flowers, known as the cutting garden, behind the playhouse in 1937 to provide the cottages with fresh flowers in the spring and summer months. They located the roughly 55' X 90' rectangular garden in a former meadow dominated by birch and cedar trees, just yards from the cottages. It featured wood- edged, raised beds containing a variety of flowers, surrounded by a tall arborvitae hedge. They planted Eleanor’s favorite tea roses, as well as peonies, asters, zinnias, marigolds, lantana, and phlox.</p> <p>A potting shed and tool shed were built behind the Forge in the early 1940s to supplement the existing garden structures. Mrs. Roosevelt added vegetables to the cutting garden, departing from the prior planting plan that featured only flowers. Writing in July 1940, Mrs. Roosevelt said, \"We are very proud of our garden this year. The vegetables seem to be thriving with plenty of rain, even though the sun visits us fitfully and the weather is nearly like autumn than mid-summer.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.900198883,
+          41.763164527
+        ]
+      },
+      "properties": {
+        "name": "The Doll House",
+        "notes": "The Doll House\nhttps://www.nps.gov/places/doll-house.htm\n\nThis small building was called Swan Cottage when it was first built in 1935 by FDR's mother, Sara Roosevelt, for use by her grandchildren. At that time, it was located on a graveled walk about 300 yards southeast of the Big House, Springwood. New York architect Charles Short designed the house. The original configuration was a single large room with four windows. The cottage also had electricity for a single light fixture suspended from the ceiling. A kitchen was on one side of the room and included a sink with hot and cold running water, a cabinet stocked with dishes, and a small electric stove on an enameled table. The other side of the cottage was furnished as a living room with bookcases, chairs, and a table. In 1945, Eleanor Roosevelt relocated the cottage from Springwood to Val-Kill. It is not known when the cottage assumed the name Doll House.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.88872683048248,
+          41.765162102095985
+        ]
+      },
+      "properties": {
+        "name": "The Legacy of the Land",
+        "notes": "The Legacy of the Land\nhttps://www.nps.gov/places/the-legacy-of-the-land.htm\n\n<p>FDR had great input in the overall design of Top Cottage, which came from his life-long passion for history. He worked to preserve and interpret the past, making it valuable and relevant to future generations.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.90058219432831,
+          41.76168094780914
+        ]
+      },
+      "properties": {
+        "name": "The Orchard at Val-Kill",
+        "notes": "The Orchard at Val-Kill\nhttps://www.nps.gov/places/the-orchard-at-val-kill.htm\n\nThe orchard was created in 1931. Here, Eleanor, Marion, and Nancy grew a variety of crops including raspberries, blueberries, pears, grapes, and apples. Fruiting trees included Bosc and Bartlett pears, Mackintosh, Red and Yellow Delicious, Spy, and Pippin apples. The orchard was also home to bee hives. The original orchard was about twice the size it is today. Half was claimed for the parking lot when Val-Kill was under development as a National Historic Site. The stone pillars at the present parking lot provided entry into the orchard which was surrounded by stone walls and a paling fence.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8988382325,
+          41.7633685324
+        ]
+      },
+      "properties": {
+        "name": "The Playhouse",
+        "notes": "The Playhouse\nhttps://www.nps.gov/places/the-playhouse.htm\n\n<p>Playhouses, as they were generally known, were a typical feature of country house life in America. The playhouse reflects the enthusiasm for sport in America in the late nineteenth and early twentieth centuries.The Playhouse at Val-Kill was originally constructed in 1928 as a three-car garage and tool shed, smaller in size than it appears today. In 1936, the building was expanded to relocate the forge for manufacturing Val-Kill Industries pewter wares from the adjacent factory building (known today Mrs. Roosevelt’s cottage, or Val-Kill Cottage).</p> <p>When Val-Kill Industries closed in 1937, Eleanor Roosevelt leased the forge to former Industries employee Arnold Berge, who continued manufacturing pewter until raw materials became too difficult to obtain with the U.S. involvement in World War II.</p> <p>By 1941, the building was used and known as the Playhouse, as observed by a local news article noting a meeting of the Women’s Democratic Club at Hyde Park hosted at the “new play room” at Val-Kill. At other times, the Roosevelts used the playhouse for square dancing and other social events. In addition, a portion of the building was used by Elliott Roosevelt as a business office for the farm, and later was made into a small apartment for visiting family or guests.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8998955488205,
+          41.76242921184925
+        ]
+      },
+      "properties": {
+        "name": "The Pond",
+        "notes": "The Pond\nhttps://www.nps.gov/places/pond.htm\n\n<p>Val-Kill's water resources have long played an active role in influencing land use and spatial organization of the area. No evidence of Native American settlements have been found within the park, possibly because of the wet and swampy land. The Fall-Kill that runs south through the center of the property was traditionally a slow moving, shallow, wide creek, resulting in a large wetland area through the center of the site. Low-lying areas west of the creek in the northern and southern regions of the site impeded agricultural or residential use in those areas.</p> <p>The Roosevelts dammed the Fall-Kill in the 1920s and 1930s, changing the stream north and west of the Val-Kill cottages into a seven-acre pond. Numerous changes were made to the steam and pond between the 1920s and 1940s to enlarge and deepen the amount of open water as well as to further define the shoreline. When Val-Kill was the most intensively maintained, between 1936 and 1947, the pond had two distinct and separate components—one long narrow section due west of the cottages and a larger, round section to the north, near the mouth of the creek. Reduced maintenance from the 1940s onward allowed the wetland character to return. The pond's area of open water is greatly reduced from historic times.</p> <p>Val-Kill was created on the east bank of the Fall-Kill, on a farm purchased by FDR in 1911. Prior to his ownership, the property had been worked by generations of family farmers, dating to the early 1800s. The site served as grazing land and cultivated fields for farmers based out of an agricultural complex on the west side of Violet Avenue, the road that bounds the west side of the site. It is likely that most of the site was devoid of trees and devoted to agriculture although much of the site would not have been considered prime farm land as it contained large areas of low wetland and some steep and rocky terrain.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8997310757,
+          41.7623121372
+        ]
+      },
+      "properties": {
+        "name": "The Pond & Bridge",
+        "notes": "The Pond & Bridge\nhttps://www.nps.gov/places/the-pond-and-bridge.htm\n\nVal-Kill established itself as the gathering and recreation place for the Roosevelt family. The Roosevelts enjoyed outdoor activities, and Val Kill offered plenty of opportunities—tennis, horseback riding, swimming, and hiking on wooded trails.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.89702022075653,
+          41.762117102775605
+        ]
+      },
+      "properties": {
+        "name": "The Road to Top Cottage",
+        "notes": "The Road to Top Cottage\nhttps://www.nps.gov/places/the-road-to-top-cottage.htm\n\nWhen you are the President of the United States, there is no vacation from the immeasurable responsibility of the office. But the trail you are about to climb leads to a place that, for Franklin Delano Roosevelt, came as close to a retreat as possible.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.89939061023182,
+          41.76278788085076
+        ]
+      },
+      "properties": {
+        "name": "The Stone Cottage at Val-Kill",
+        "notes": "The Stone Cottage at Val-Kill\nhttps://www.nps.gov/places/the-stone-cottage-at-val-kill.htm\n\n<p>The stone cottage was the first structure built at Val-Kill. Architect Henry Toombs of Georgia designed the cottage, with substantial input from Franklin Roosevelt, who insisted on Dutch vernacular traditions of the Hudson Valley. Franklin offered to serve as general contractor, but the entire building was financed by Eleanor and her friends Marion Dickerman and Nancy Cook. Construction began in 1925 and it was completed in early 1926. This one-and-a-half story cottage is clad in fieldstone gathered from the stone walls crisscrossing the estate. The oak floor boards were harvested from local trees. Nancy took on the work of interior finishes—walls were finished with “Craytex,” a tinted liquid plaster rather than paint. When complete, the cottage included a large, two-story living room, bedroom, bathroom, shop room, and kitchen on the first floor, and a second bedroom and bathroom on the second floor.</p> <p>The cottage was originally intended to serve as the residence and a small furniture workshop. As plans for Val-Kill Industries developed into a much larger operation, construction for a separate factory were underway before the stone cottage was complete. Nancy spent more time at the cottage from where she managed the Val-Kill Industries. Marion was in New York City for much of her week serving as Principal of the Todhunter School (also jointly owned by Eleanor, Marion, and Nancy). Eleanor’s time was divided between Hyde Park, Albany, Washington, or New York City, as dictated by Franklin’s political career and the needs of her family.</p> <p>Alterations to the original building occurred after 1936, when Val-Kill Industries closed and Eleanor began conversion of the factory into a cottage for her independent use. Additions and changes made to the stone cottage at this time, from 1936 to 1937, included enlargement of the second floor bedroom, an additional bedroom and bathroom on the first floor, and an enclosed terrace with pergola.</p> <p>Shortly following Franklin’s death in 1945, Marion and Nancy sold their interest in the property to Eleanor and moved to Connecticut. From that time, the stone cottage served as Eleanor’s guest house until her son John Roosevelt and his family moved to Val-Kill in the 1950s. Subsequent alterations were made on the second floor while John occupied the cottage, adding the dormer window on the second floor to create an additional small bedroom, and a partition dividing the large bedroom into two rooms.</p> <p>Today, the Stone Cottage is open to the public with exhibits illustrating the history of Val-Kill, the use of the property by Franklin and Eleanor, and the early political work of women who helped shape the New Deal during FDR's presidency.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.89921650412172,
+          41.76260635408631
+        ]
+      },
+      "properties": {
+        "name": "The Swimming Pool",
+        "notes": "The Swimming Pool\nhttps://www.nps.gov/places/the-swimming-pool.htm\n\n<p>The swimming pool provided FDR with one of his few opportunities for rigorous physical exercise. Constructed in 1935, it replaced an earlier pool fed naturally by the adjacent pond. The new swimming pool was necessary to meet water filtration requirements established by FDR’s doctors when he became President of the United States.</p> <p>The new pool was designed by M. K. Hasbrouck, also responsible for the President’s swimming pool at the White House (still beneath what is today the White House Press Room). The new pool at Val-Kill measures 50 by 20 feet and holds 9 feet of water at the deep end.</p> <p>Eleanor Roosevelt enjoyed the swimming pool as well. Friends of Eleanor remembered her swimming daily, and \"her effort to go off the diving board head first was a demonstration of sheer grit: she bent over the edge slowly, her fingers reaching toward her toes, at last tilting into the pool with a great splash. She never mastered it; she never gave up trying….Whoever interested her was invited to spend the day at Val-Kill and told to bring his bathing suit.”</p> <p>In addition to grandchildren, family, and friends, distinguished guests who enjoyed the refreshing waters of this pool included Sir Winston Churchill and King George V. The recent restoration of the swimming pool was an official National Park Service Centennial project, with financial support from the park's philanthropic partner, The Eleanor Roosevelt Val-Kill Partnership.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.89518022537231,
+          41.76214111121976
+        ]
+      },
+      "properties": {
+        "name": "Time and Transition",
+        "notes": "Time and Transition\nhttps://www.nps.gov/places/time-and-transition.htm\n\n<p>Since the President’s death in 1945, the 1,525-acre family estate has undergone extensive transformation.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.88895915659305,
+          41.765164691441754
+        ]
+      },
+      "properties": {
+        "name": "Top Cottage",
+        "notes": "Top Cottage\nhttps://www.nps.gov/places/topcottage.htm\n\n<p>Franklin D. Roosevelt built Top Cottage for use as a private retreat where, after his presidency, he could write his memoirs and history. But world events intervened. FDR was re-elected for an unprecedented third and fourth term during a period of intense international crisis. The simplicity of Top Cottage belies its significance as a gathering place for the Roosevelts, world leaders, royalty, and the president's administration who convened in this restful setting to witness a world disintegrating into war and imagine a future with nations united in peace. </p> <h4>History of the Building</h4> <p>FDR began purchasing the property on which he would eventually build Top Cottage in June of 1935. Later that year he was discussing plans for its construction with his sixth cousin and close companion Margaret \"Daisy\" Suckley. Together, they refined and developed the concept for a simple and modest two-bedroom house over the next few years. By 1938, FDR had assembled a parcel of land that included the wooded hilltop plateau for the cottage as well as some buffers to the south and east to protect the serene setting. Architect Henry Toombs, with whom FDR had collaborated on earlier projects (including the Little White House at Warm Springs and Val-Kill Cottage), prepared the detailed construction drawings and specifications. Construction began later that summer and concluded in June 1939.</p> <h4>The Architecture and Furnishings</h4> <p>Top Cottage recalls the massing, materials, and simple detailing of Dutch colonial architecture of the Hudson Valley. The house is a one-and-one-half story, random-coursed fieldstone building with steeply pitched gable roofs. The west facade of the house extends in a concave pitch over an open, full-width porch.</p> <p>The primary interior space is the living room, which occupies the entire first floor of the central block and is organized around a large stone fireplace. FDR furnished the room with the things that reflected his interests, family history, and his long public career and presidency, including replicas of furniture owned by George Washington, Thomas Jefferson, and Andrew Jackson. Framed prints documented the scenic beauty of the Hudson Valley and American political traditions. The room feels spacious, with a plastered cathedral ceiling, four large windows, and sliding glass doors that open onto the porch, allowing views out into the wooded landscape and the Hudson River Valley in the distance.</p> <h4>Accommodating FDR's Disability</h4> <p>FDR's plan for Top Cottage eliminated a number of mobility barriers traditionally present in residences of the period. With its primary spaces on a single floor and its ground-level exterior entries, the cottage plan accommodated the president's wheelchair. Once over the small lip at the entries, FDR could move freely from room to room in his wheelchair and onto the expansive porch. An earthen ramp, believed to be original to the house, provides access between the porch and the lawn. </p> <h4>A Retreat for Allies During Turbulent Times</h4> <p>Roosevelt's use of Top Cottage as the setting for the final event in the carefully organized royal visit of King George VI and Queen Elizabeth in 1939 is typical of how the Roosevelts employed personal space to foster relationships with world leaders and Washington colleagues. FDR's well-documented personal style of governing softened distinctions between official state business and social entertainments. Hosting the royal couple not only strengthened the relationship between FDR and George VI, but also the relationship between the United States and Britain, a relationship which would be instrumental in fighting the world-wide threat of fascism. </p> <p>Following the very public opening of Top Cottage with the royal picnic of 1939, FDR's use of the cottage took on a decidedly more private character. Numerous visits by Prime Minister Winston Churchill, American military officers and ambassadors, and European royal families in exile transpired here without the audience gathered to witness the king and queen's visit. Subsequent visits to Top Cottage from other government officials and international personalities, included Madame Chiang Kai-shek, Crown Princess Louise of Sweden, Queen Wilhelmina and Princess Juliana of the Netherlands, Princess Martha of Norway, and Canadian Prime Minister Mackenzie King. </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.89914569666794,
+          41.763204688457684
+        ]
+      },
+      "properties": {
+        "name": "Val-Kill",
+        "notes": "Val-Kill\nhttps://www.nps.gov/places/val-kill.htm\n\n<p>The wife of a rising political star, <a href=\"https://www.nps.gov/people/eleanor-roosevelt.htm\">Eleanor Roosevelt</a> emerged during the 1920s as a major leader in her own right. Val-Kill, built during this time, was central to her development and today is the place where we honor her life and legacy.</p> <p>Originally purchased by FDR in 1911, Val-Kill became a favorite family picnic site. In 1924, Eleanor and her friends <a href=\"https://www.nps.gov/people/nancycook.htm\">Nancy Cook</a> and <a href=\"https://www.nps.gov/people/mariondickerman.htm\">Marion Dickerman</a> built a cottage they could share to enjoy the country year-round. Construction began in 1925 and was completed the following year. At the same time, they built an adjacent factory for Val-Kill Industries to demonstrate how a revival of handicraft traditions could support local economies. The Industries employed furniture makers, finishers, metal crafters, and weavers producing a range of goods for the retail market. Under financial stress brought about by the Great Depression, Val-Kill Industries would close just ten years later in 1936. At that time, Eleanor Roosevelt converted the factory into a residence for her separate use.  </p> <p>Following FDR’s death in 1945, Val-Kill became Eleanor Roosevelt's primary home. At Val-Kill, she surrounded herself with family and friends and hosted individuals who shared her diverse interests, including national and world leaders, activists, students, and local youth and students.</p> <p>Other important structures at Val-Kill are the Stable-Garage, the Doll House, the Playhouse, and the swimming pool. The Doll House is a small wooden structure, originally located near the FDR Home and moved to Val-Kill by Eleanor Roosevelt in 1945 for the use of her grandchildren. The Playhouse, a one-story frame building, was built in several phases beginning in 1928 and was adapted for various uses, including a forge and metal-working shop for Val-Kill Industries.</p> <p>Eleanor Roosevelt loved the beauty and tranquility of the Val-Kill landscape, characteristics that endure today. Val-Kill Pond, a dammed section of the Fall Kill, is a central feature around which the main buildings, Stone Cottage and Val-Kill Cottage, are arranged. Lawns, gardens, and woodlands.</p> <p>FDR's forest plantations surround the setting, including a large white pine plantation set out by FDR in 1914 known as the “Secret Woods.” It is said to be where Eleanor Roosevelt read stories to her grandchildren. In addition, the remains of several plantations survive, including white cedar, tulip tree, and Scotch pine plantations set out as experimental plots by the New York State College of Forestry. The agricultural context of Val-Kill remained important throughout Eleanor Roosevelt’s life, and she actively sought to continue it after FDR’s death, when she and her son Elliott launched Val-Kill Farms.</p> <p>Although most of the furnishings and her personal possessions were dispersed following Eleanor Roosevelt’s death, the National Park Service has since acquired many of the original historic furnishings associated with the cottage. The house is furnished much the way Eleanor Roosevelt left it. Knotty pine paneled rooms with cozy upholstered chairs and sofas, handcrafted Val-Kill Industries furniture, family photographs, and personal memorabilia offer a glimpse of the personal side of an outstanding American woman.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8991888286,
+          41.7632004384
+        ]
+      },
+      "properties": {
+        "name": "Val-Kill Cottage",
+        "notes": "Val-Kill Cottage\nhttps://www.nps.gov/places/val-kill-cottage.htm\n\n<p>Val-Kill Cottage was originally constructed to house the furniture shop for Val-Kill Industries, a joint business venture of Eleanor Roosevelt and her friends Marion Dickerman and Nancy Cook. The large, irregularly shaped factory was built over several years with a series of additions, from 1926 to 1932. When Val-Kill Industries closed in 1936, Eleanor Roosevelt hired Eric Gugler, an architect who redesigned the West Wing and Oval Office, to convert the former factory into an independent residence for use by herself and her secretary Malvina \"Tommy\" Thompson. This is the building known today as Val-Kill Cottage.</p> <p>Eleanor Roosevelt's friend, activist and author Joseph Lash, described the cottage as \"a warm, rambling retreat, where she and Tommy could work and which she was constantly seeking to improve . . .</p> <p style=\"margin-left: 40px;\">The house had what seemed like an enormous number of guest rooms, stuck in all sorts of out-of-the-way places, of all sizes and shapes, each with its surprises in the way of books and pictures (which Mrs. R. was always changing). And the guest rooms were always full.</p> <p>From early spring to late fall, whenever President Roosevelt was not at the Big House, Eleanor spent as much time at Val-Kill as she could. Tommy's wing was semi-independent, with its own kitchen, bedroom, guest room, porch, and living room, where guests always assembled for drinks before dinner. After dinner, the party gathered in Eleanor's living room, around the fireplace engaged in lively discussions over politics. Piles of mail (as many as 130,000 letters per year) and manuscripts on her desk were evidence that her work never ceased. </p> <p>Eleanor frequently made Val-Kill available to friends and family, and in later years, the rooms were filled with rambunctious grandchildren running in and out of doors. The many rooms at Val-Kill and photographs that cover the walls remind us that Eleanor Roosevelt had a compelling emotional need to have people who were close, as Lash recalled, people, \"who in a sense were hers and upon whom she could lavish help, attention, tenderness. Without such friends, she feared she would dry up and die.\"</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.89860272407532,
+          41.76258926719561
+        ]
+      },
+      "properties": {
+        "name": "Val-Kill Cottages",
+        "notes": "Val-Kill Cottages\nhttps://www.nps.gov/places/val-kill-cottages.htm\n\nStopping here for a moment gives you an opportunity to view the historic core of her former property, buildings with great stories to tell!",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.88886094093323,
+          41.76555822147723
+        ]
+      },
+      "properties": {
+        "name": "Welcome to Top Cottage",
+        "notes": "Welcome to Top Cottage\nhttps://www.nps.gov/places/welcome-to-top-cottage.htm\n\n<p>While never designed to be a residential home, Top Cottage nonetheless received an astounding list of visitors.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8967090845108,
+          41.76156490608021
+        ]
+      },
+      "properties": {
+        "name": "Where Eleanor Walked",
+        "notes": "Where Eleanor Walked\nhttps://www.nps.gov/places/where-eleanor-walked.htm\n\nToday, you can walk these woods just as Eleanor Roosevelt did each day during her time at Val Kill. This was often a starting point for Eleanor’s daily exercise routine.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Women's Rights National Historical Park",
+        "notes": "Women's Rights National Historical Park\nhttps://www.nps.gov/places/crwomensrights.htm\n\n<p><span style=\"font-size: 11pt;\">Many people who actively supported women’s rights supported the abolition of slavery. Several participants in the 1848 First Women’s Rights Convection in Seneca Falls, New York had already labored in the antislavery movement. The organizers and their families, the Motts, Wrights, Stantons, M’Clintocks, and Hunts, were active abolitionists to a greater or lesser degree. Frederick Douglass, noted abolitionist and former slave, attended and addressed the 1848 convention.</span></p> <p>Arguments for women’s rights came from experiences in the antislavery movement. As reformers, women developed organizational skills necessary for a successful social movement. They learned townie persuasively, raise funds, organize supporters and events, and to speak to large groups of men and women about important social and political issues. In the service of antislavery, many women found their voice.</p> <p>At the 1848 First Women’s Rights Convention, the Declaration of Sentiments, drafted by Elizabeth Cady Stanton and Elizabeth and Mary M’Clintock, was read and signed by 100 men and women. Claiming that “all men and women are created equal,” the signers called for extending to women the right to vote, control property, sign legal documents, serve on juries, and enjoy equal access to education and the professions.</p> <p>Today at Women’s Rights National Historical Park, the connection between the organizers of the 1848 convention and anti-slavery movement is incorporated into interpretive programs. The M’Clinock House in nearby Waterloo, a site on the Underground Railroad, offers a unique opportunity to learn about the relationship between these two reform movements of the 19<sup>th</sup> century.</p>",
+        "icon": "red-pin-down.png"
+      }
+    }
+  ]
+}

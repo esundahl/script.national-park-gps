@@ -1,0 +1,50 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.13791465759277,
+          38.44945766542416
+        ]
+      },
+      "properties": {
+        "name": "Harriet Tubman Underground Railroad Visitor Center",
+        "notes": "Harriet Tubman Underground Railroad Visitor Center\nhttps://www.nps.gov/places/harriet-tubman-underground-railroad-visitor-center.htm\n\n<p>Welcome to the Harriet Tubman Underground Railroad Visitor Center in scenic and historic Church Creek, Maryland. The center is managed through a partnership between the National Park Service and Maryland State Parks. The exhibit building is the primary destination for visitors.It features a permanent exhibit that focuses on Tubman's life, including her formative years in Maryland's Eastern Shore, and a short introductory movie about her life. The museum also contains exhibits featuring the Underground Railroad resistance movement from a regional perspective. There is also a museum store, information desk, and research library located within visitor center.</p> <p>For more information on other Underground Railroad and Harriet Tubman related sites, please visit the <a href=\"https://dnr.maryland.gov/publiclands/pages/eastern/tubman.aspx\">Harriet Tubman Underground Railroad State Park</a>, <a href=\"https://www.nps.gov/subjects/undergroundrailroad/network-to-freedom.htm\">National Underground Railroad Network to Freedom Program</a> and <a href=\"https://harriettubmanbyway.org/\">Harriet Tubman Byway</a>. </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "name": "The National Underground Railroad Network to Freedom",
+        "notes": "The National Underground Railroad Network to Freedom\nhttps://www.nps.gov/places/crnurr.htm\n\n<p>The Underground Railroad – the resistance to enslavement through escape and flight through the end of the civil war – refers to the efforts of enslaved African Americans to gain their freedom by escaping bondage. Wherever slavery existed, there were efforts to escape at first communities in rugged terrain away from settled areas, and later across state and international borders. While most began and completed their journeys unassisted, each subsequent decade in which slavery was legal in the US saw an increase in active efforts to assist escape. The decision to assist a freedom seeker may have ben spontaneous. However, in some places, particularly after the Fugitive Slave Act of 1850, the Underground Railroad was deliberate and organized.</p> <p><br /> The National Underground Railroad Network to Freedom commemorates the stories of the men and women who risked everything for freedom and those who helped them. The Network to Freedom, through shared leadership with local, state, and federal entities, as well as interested individuals and organizations, programs and partnerships to commemorate and educate the public about historical significance of the Underground Railroad.</p> <p>The Underground Railroad extended through the Civil War as thousands of enslaved African Americans used the opportunity of approaching Union forces to escape and seek protection in contraband camps. Many of the men subsequently enlisted in the US Colored Troops and served as soldiers or sailors during the war. </p> <p>Visit the National Underground Railroad Network to Freedom <a href=\"https://www.nps.gov/ugrr/\">website</a>.</p> <p> </p> <p> </p> <p> </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.55250644683838,
+          39.73646528587883
+        ]
+      },
+      "properties": {
+        "name": "Tubman-Garrett Riverfront Park",
+        "notes": "Tubman-Garrett Riverfront Park\nhttps://www.nps.gov/places/tubman-garrett-riverfront-park.htm\n\n<p paraeid=\"{51c3cf46-aa2c-46b3-ba9b-7cb8106669f5}{222}\" paraid=\"1392055742\">Tubman-Garrett Riverfront Park honors two friends and collaborators of the Underground Railroad, Harriet Tubman and Thomas Garrett. <br /> Born in Upper Darby, Pennsylvania in 1789, Garrett moved to Wilmington in the 1820s and immediately began to assist enslaved and free people of color. He became known as “stationmaster” and, according to biographer James McGowan, assisted about 2,300 enslaved people to freedom over four decades. Garrett’s extensive family ties and connections with Black Underground Railroad operatives across Southeastern Pennsylvania proved essential to Wilmington’s Underground Railroad network. A member of the Society of Friends, Garrett served as the inspiration for the Quaker character, Simeon Halliday, in Harriet Beecher Stowe’s pivotal novel, Uncle Tom’s Cabin. </p> <p paraeid=\"{51c3cf46-aa2c-46b3-ba9b-7cb8106669f5}{234}\" paraid=\"969960482\">By the time that Tubman claimed her freedom, Garrett had lost his personal wealth in federal civil suits <a href=\"https://history.delaware.gov/flight-to-freedom/\">related to the escape of the Hawkins family in 1845</a>. Whether Tubman heard of this prior to meeting him is unknown. </p> <p paraeid=\"{51c3cf46-aa2c-46b3-ba9b-7cb8106669f5}{249}\" paraid=\"850420061\">Tubman and Garrett worked together from about 1854 until 1860, as documented in Garrett’s surviving letters. He raised money to aid Tubman’s missions and supported her in his home. When Tubman rescued her parents, she entrusted them to Garrett’s care until she could follow. Both Tubman and Garrett shared a deep connection to faith and commitment to humanitarian activism. In 1868 Garrett wrote to Sarah Bradford of Tubman:  </p> <blockquote> <p paraeid=\"{51c3cf46-aa2c-46b3-ba9b-7cb8106669f5}{253}\" paraid=\"2022514260\">I never met with a person, of any color, who had more confidence in the voice of God, as spoken direct to her soul. She has frequently told me that she talked with God, and he talked with her every day of her life, and she has declared to me that she felt no more fear of being arrested by her former master, or any other person, when in his immediate neighborhood, than she did in the State of New York, or Canada, for she said she never ventured only where God sent her, and her faith in a Supreme Power truly was great. </p> </blockquote> <p paraeid=\"{3c1763e2-1f94-4281-ad2f-298c0098cf44}{6}\" paraid=\"1324844253\">See also:  </p> <ul role=\"list\"> <li aria-setsize=\"-1\" data-aria-level=\"1\" data-aria-posinset=\"1\" data-font=\"Symbol\" data-leveltext=\"·\" data-listid=\"2\" role=\"listitem\"> <p paraeid=\"{3c1763e2-1f94-4281-ad2f-298c0098cf44}{10}\" paraid=\"927382053\"><a href=\"https://riverfrontwilm.com/\">Riverfront Wilmington</a> </p> </li> <li aria-setsize=\"-1\" data-aria-level=\"1\" data-aria-posinset=\"2\" data-font=\"Symbol\" data-leveltext=\"·\" data-listid=\"2\" role=\"listitem\"> <p paraeid=\"{3c1763e2-1f94-4281-ad2f-298c0098cf44}{18}\" paraid=\"306311717\"><a href=\"https://deldot.gov/Programs/byways/index.shtml?dc=railroad\">Delaware Byways, Harriet Tubman</a>:  </p> </li> <li aria-setsize=\"-1\" data-aria-level=\"1\" data-aria-posinset=\"3\" data-font=\"Symbol\" data-leveltext=\"·\" data-listid=\"2\" role=\"listitem\"> <p paraeid=\"{3c1763e2-1f94-4281-ad2f-298c0098cf44}{28}\" paraid=\"749647447\"><a href=\"https://quakerhillhistoric.org/\">Quaker Hill Historic Preservation Foundation</a>:  </p> </li> </ul> <ul role=\"list\"> <li aria-setsize=\"-1\" data-aria-level=\"1\" data-aria-posinset=\"1\" data-font=\"Symbol\" data-leveltext=\"·\" data-listid=\"2\" role=\"listitem\"> <p paraeid=\"{3c1763e2-1f94-4281-ad2f-298c0098cf44}{38}\" paraid=\"557945140\"><a href=\"https://dehistory.org/visit/jane-and-littleton-mitchell-center-for-african-american-heritage/\">Delaware Historical Society & Mitchell Center for African American Heritage</a> </p> </li> <li aria-setsize=\"-1\" data-aria-level=\"1\" data-aria-posinset=\"2\" data-font=\"Symbol\" data-leveltext=\"·\" data-listid=\"2\" role=\"listitem\"> <p paraeid=\"{3c1763e2-1f94-4281-ad2f-298c0098cf44}{46}\" paraid=\"1645881533\"><a href=\"https://www.wilmingtonde.gov/about-us/about-wilmington/wilmington-underground-railroad-tour\">Wilmington Underground Railroad Walking Tour</a></p> </li> </ul>",
+        "icon": "red-pin-down.png"
+      }
+    }
+  ]
+}

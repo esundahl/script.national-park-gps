@@ -1,0 +1,20 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.7218170166016,
+          39.4499778747559
+        ]
+      },
+      "properties": {
+        "name": "Great Egg Harbor River",
+        "notes": "Great Egg Harbor River\nhttps://www.nps.gov/places/great-egg-harbor-river.htm\n\n<p>The Great Egg Harbor River begins in suburban towns and meanders for 59 miles, draining 304 square miles of pristine wetlands in the heart of New Jersey's Pinelands Reserve (the famous \"Pine Barrens\") on its way to the Atlantic Ocean. Known locally as the \"Great Egg,\" the river is close to Philadelphia, Pennsylvania; Trenton and Camden, New Jersey; and Wilmington, Delaware.<br /> <br /> Starting as a trickle near Berlin, NJ, the River gradually widens as it picks up the waters of 17 tributaries on its way to Great Egg Harbor and the Atlantic Ocean. Established by Congress in 1992, nearly all of this 129-mile river system rests within the <a href=\"https://www.nps.gov/places/new-jersey-pinelands-national-reserve.htm\">Pinelands National Reserve</a>. This National Park Service unit is unusual in that local jurisdictions continue to administer the lands.</p> <p>Two key ingredients make up this largely undeveloped landscape: sand and water. The sand, deposited by an ancient river more than 20 million years ago, is morte than 95% silica. The water quickly seeps through the layers of sand and beds of gravel to form one of North America's largest inderground reservoirs, or aquifers, jolding 17 trillion gallons of fresh, drinkable water.<br />  </p> <p>Natural vegetation in the Pinelands varies with moisture and elevation. In the dry uplands, vegetation consists of pitch pine and scrub oak with an understory of blueberry and huckleberry. In the lowlands, red maple and tupelo trees dominate, with blueberry, sweetbay, magnolia, holly, sweet pepperbush and swamp azaleas fill in along the waterways.<br /> <br /> Backpacking, biking, bird watching, boating, camping, fishing, hiking, hunting, kayaking, nature walks, stargazing, and wildlife viewing can all be enjoyed along the banks of this unique system.<br /> <br /> <strong>Classification/Mileage:</strong><br /> Scenic — 30.6 miles; Recreational — 98.4 miles; Total — 129.0 miles.</p>",
+        "icon": "red-pin-down.png"
+      }
+    }
+  ]
+}

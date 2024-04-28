@@ -1,0 +1,80 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.80972960310831,
+          34.97836212214801
+        ]
+      },
+      "properties": {
+        "name": "Beginning of the Boardwalk",
+        "notes": "Beginning of the Boardwalk\nhttps://www.nps.gov/places/ruca-beginning-of-boardwalk.htm\n\nBegin the short, .2-mile stroll to the cave shelter once inhabited for thousands of years. This boardwalk trail is made of recycled materials, and makes an easy and smooth walk out to the cave shelter. The entire boardwalk is handicap accessible, and a wheelchair is available for use in the Visitor Center upon request. Here at the beginning of the trail as well as near the end, benches are available to rest on, however, there are no benches between these points, so please plan accordingly. A slight incline exists at the beginning of the walk, as well as another slight incline near the entrance of the cave. Handrails are present along the whole walk.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.80958713850474,
+          34.97706232327755
+        ]
+      },
+      "properties": {
+        "name": "Cave Shelter",
+        "notes": "Cave Shelter\nhttps://www.nps.gov/places/ruca-cave-shelter.htm\n\nLong known as a cave where stone points could sometimes be found, it wasn’t until a surveyor for the Tennessee Valley Authority and member of the Chattanooga chapter of the Tennessee Archeological Society was shown this site by the locals that anyone thought there may be more to Russell Cave than a cool cave and swimming area. In 1953, the Tennessee archeological society would begin a dig that was immediately recognized as massive and then contact the Smithsonian Institute to ensure the most care and resources were given to this special site. From 1956 to 1958 the Smithsonian Institute would lead a major excavation, going over 32 feet into the ground and finding artifacts that would later be dated to about 10,000 BCE.   The National Geographic Society purchased the land that Russell Cave sits on and would eventually donate the land to the American people. Due to the massive amount of evidence found of human occupation, President John F. Kennedy decided to declare Russell Cave a National Monument in 1961 for everyone to have the chance to learn from and enjoy. Once the National Park Service took over, another dig was planned, and ten and a half feet were excavated where you can now see the concrete lined pit. Overall, close to three tons worth of artifacts were found ranging through all four of the time periods found in the southeast.<br /> Today, visitors can stand at the entrance to this archeological site and view where these excavations took place as well as learn about the different time periods represented in the artifacts.  ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.80922121339684,
+          34.97739879256097
+        ]
+      },
+      "properties": {
+        "name": "First View of Russell Cave",
+        "notes": "First View of Russell Cave\nhttps://www.nps.gov/places/first-view-of-russell-cave.htm\n\nTurning around the corner, you will get your first glimpse of Russell Cave. A stream of water usually flows into the left cave entrance. This water is what formed Russell Cave in the first place and broke down enough rock below the surface for a massive sinkhole to open up and expose the entrances you see today and those that people made their home in thousands of years ago. This spot makes a great place to rest from your walk and enjoy the sounds of nature and the moving water below you as you reflect on the people of the past.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.80974089600315,
+          34.978584682229474
+        ]
+      },
+      "properties": {
+        "name": "Russell Cave Bookstore",
+        "notes": "Russell Cave Bookstore\nhttps://www.nps.gov/places/russell-cave-bookstore.htm\n\nThe America’s National Parks Bookstore offers a wide range of educational items for all ages. Shopping in person at the bookstore or <a href=\"https://shop.americasnationalparks.org/store/home/5671/Russell-Cave-National-Monument/\">online</a> is a wonderful way to support your park. As a non-profit organization, the America’s National Parks support education and visitor programs as well as vital research on park resources.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.80947226340503,
+          34.97779607916692
+        ]
+      },
+      "properties": {
+        "name": "Trail Sign by the Sinkhole",
+        "notes": "Trail Sign by the Sinkhole\nhttps://www.nps.gov/places/ruca-trail-sign-by-sinkhole.htm\n\nShortly after beginning the boardwalk trail, a sign will show the way to continue to the cave shelter, or where to break off for the hiking trail. To the right, a short staircase will lead to a prime example of a sinkhole, a telltale sign that a cave is near. Further on, the 1.2 mile loop hiking trail begins. This trail is strenuous, taking hikers straight up the mountain side and back down on poured asphalt switchbacks.  ",
+        "icon": "red-pin-down.png"
+      }
+    }
+  ]
+}

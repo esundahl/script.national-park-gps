@@ -1,0 +1,132 @@
+[
+  {
+    "id": "84818BE6-07AD-43D1-813D-EAD57F6B16C9",
+    "url": "https://www.nps.gov/places/place_eastportal.htm",
+    "title": "East Portal",
+    "listingDescription": "",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/16115A0A-DA16-18F2-4EED3157511DC29C.jpg",
+        "credit": "NPS Photo",
+        "altText": "East Portal",
+        "title": "East Portal",
+        "description": "",
+        "caption": "The Gunnison River at East Portal.",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/16115A0A-DA16-18F2-4EED3157511DC29C.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/16115A0A-DA16-18F2-4EED3157511DC29C.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "CO",
+        "parkCode": "cure",
+        "designation": "National Recreation Area",
+        "fullName": "Curecanti National Recreation Area",
+        "url": "https://www.nps.gov/cure/index.htm",
+        "name": "Curecanti"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [],
+    "latitude": "38.524444580078125",
+    "longitude": "-107.6500015258789",
+    "latLong": "38.524444580078125,-107.6500015258789",
+    "bodyText": "<p>East Portal is within the boundary of Curecanti National Recreation Area, but only accessible from the South Rim of Black Canyon National Park. East Portal is named for the Gunnison Tunnel and the town that developed around its construction. Although not much remains of the town, visitors can still experience the trepidation of winding down the canyon and appreciate the difficulties and joys of creating a community at the bottom.</p> <p> </p> <h3>What To Do Here</h3> East Portal has a small campground next to the Gunnison River. This stretch of the river is designated Gold Medal Waters and special fishing regulations apply. Visitors can also catch a glimpse of the Crystal Dam at the end of the road. <p> </p> <p> </p> <h3>Getting Here</h3> East Portal is accessible from the South Rim of Black Canyon of the Gunnison National Park. Turn right immediately after the entrance station. <p> </p> <p> </p> <h3>The Road</h3> The East Portal Road is managed by the Bureau of Reclamation. The road is paved and two-way, but windy and steep. Vehicles over 22 feet are prohibited on the East Portal Road. In a few places, the road is a 16% grade; vehicles should be in low gear on the road to avoid burning out the brakes. <strong>The road is closed in winter, typically from November to April.</strong> <p> </p> <p> </p> <h3>Water</h3> In the summer months, a water fill-up station is available in the campground. We ask that you use the fill-up stations conservatively and be prepared with your own water. In the Spring and Fall, water is not available. <p> </p>",
+    "audioDescription": "",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "",
+    "isManagedByNps": "1",
+    "amenities": [
+      "Animal-Safe Food Storage",
+      "Historical/Interpretive Information/Exhibits",
+      "Picnic Shelter/Pavilion",
+      "Toilet - Vault/Composting",
+      "Water - Drinking/Potable"
+    ],
+    "managedByOrg": "",
+    "quickFacts": [],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  },
+  {
+    "id": "3DBE6A9D-3A40-47EA-85E6-3392B42DEC9E",
+    "url": "https://www.nps.gov/places/pioneer-point-overlook.htm",
+    "title": "Pioneer Point Overlook",
+    "listingDescription": "",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/827436F9-A512-0AF6-1D75802B6F09EA3F.jpg",
+        "credit": "",
+        "altText": "Pioneer Point Overlook",
+        "title": "Pioneer Point Overlook",
+        "description": "",
+        "caption": "Pioneer Point Overlook",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/827436F9-A512-0AF6-1D75802B6F09EA3F.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/827436F9-A512-0AF6-1D75802B6F09EA3F.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "CO",
+        "parkCode": "cure",
+        "designation": "National Recreation Area",
+        "fullName": "Curecanti National Recreation Area",
+        "url": "https://www.nps.gov/cure/index.htm",
+        "name": "Curecanti"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [],
+    "latitude": "38.453879671",
+    "longitude": "-107.415030013",
+    "latLong": "38.453879671,-107.415030013",
+    "bodyText": "Pioneer Point offers stunning views of the upper Black Canyon and Morrow Point Reservoir. The overlooks are over 800 feet above the water level. The Curecanti Needle can be seen from here. This is also the trailhead for the Curecanti Creek Trail. Elevation: 8040 feet ",
+    "audioDescription": "",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "53e2eea3-ff06-4f52-b4d1-61247cf0f98f",
+    "isManagedByNps": "1",
+    "amenities": [
+      "Restroom",
+      "Trailhead",
+      "Wheelchair Accessible"
+    ],
+    "managedByOrg": "",
+    "quickFacts": [],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  }
+]

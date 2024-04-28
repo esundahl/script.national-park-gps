@@ -1,0 +1,650 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.381810338,
+          43.5912296930001
+        ]
+      },
+      "properties": {
+        "name": "Boland Ridge Trail",
+        "notes": "Boland Ridge Trail\nhttps://www.nps.gov/places/boland-ridge-trail.htm\n\n<p>Boland Ridge is a strenuous, 5.2 mi (8.4 km) round-trip, hike. The trail begins at a small parking area on NPS 6, one mile north of the junction with NPS 5. A series of climbs offer panoramic views of the Black Hills, Red Valley, and the plains beyond. Elk are often seen from this trail. <br /> <br /> <strong>Hiking Safety</strong><br /> Hiking off trail is permitted. Watch out for wildlife.<br /> <br /> Bison and other wildlife are dangerous and unpredictable. Do not approach. <br /> <br /> Carry and drink plenty of water. There is no drinking water on this trail. <br /> <br /> Check the weather forecast before you hike. Bring extra layers.  </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.440387921,
+          43.6295267360001
+        ]
+      },
+      "properties": {
+        "name": "Centennial Trail",
+        "notes": "Centennial Trail\nhttps://www.nps.gov/places/centennial-trail.htm\n\nThe Centennial trail is part of a 111 mile (178 km) trail that begins in Bear Butte State Park and ends at Wind Cave. The 6 mile segment (one-way) of the Centennial trail at Wind Cave is moderately strenuous and can be accesses from SD HWY 87 or from NPS 5. Here, this trail crosses through prairies, ponderosa forests, and winds along Beaver Creek. <br /> <br /> Over night, backcountry camping is allowed in the northern areas of the park with a free backcountry permit. Please visit the visitor center to pick up your permit. More information can be found on our website. <br /> <br /> <strong>Trail Safety</strong><br /> Hiking off trail is permitted. Watch out for wildlife.<br /> <br /> Bison and other wildlife are dangerous and unpredictable. Do not approach. <br /> <br /> Carry and drink plenty of water. There is no drinking water on this trail. <br /> <br /> Check the weather forecast before you hike. Bring extra layers.  ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.49803766499997,
+          43.535452279000026
+        ]
+      },
+      "properties": {
+        "name": "Cold Brook Canyon Trail",
+        "notes": "Cold Brook Canyon Trail\nhttps://www.nps.gov/places/cold-brook-canyon-trail.htm\n\n<p>This moderately strenuous, 2.8 mile (4.6 km) round-trip, trail winds through Cold Brook Canyon to the park boundary. Along the way, a ponderosa forest gives way to the open prairie and crosses a prairie dog town, a good place to see prairie falcons and other raptors. <br /> <br /> <strong>Hiking Safety</strong><br /> Hiking off trail is permitted. Watch out for wildlife.<br /> <br /> Bison and other wildlife are dangerous and unpredictable. Do not approach. <br /> <br /> Carry and drink plenty of water. There is no drinking water on this trail. <br /> <br /> Check the weather forecast before you hike. Bring extra layers.  </p> <br />  ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.47758084399999,
+          43.521359371000074
+        ]
+      },
+      "properties": {
+        "name": "East Bison Flats Trail",
+        "notes": "East Bison Flats Trail\nhttps://www.nps.gov/places/east-bison-flats-trail.htm\n\nEast Bison Flats is a 3.7 mi (5.9 km) one-way, moderately strenuous hiking trail. Begin this trail on HWY 385, right near the south entrance of the park at Gobbler Pass. After a short climb, hikers will be rewarded with the rolling hills of the prairie. Panoramic views of the prairie, Buffalo Gap and the Black Hills await. This trail can also be accessed by hiking one-half mile down the Wind Cave Canyon Trail to reach the East Bison Flats Trail.<br /> <br /> <strong>Trail Safety</strong><br /> Hiking off trail is permitted. Watch out for wildlife.<br /> <br /> Bison and other wildlife are dangerous and unpredictable. Do not approach. <br /> <br /> Carry and drink plenty of water. There is no drinking water on this trail. <br /> <br /> Check the weather forecast before you hike. Bring extra layers.  ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.49493660899998,
+          43.56563001100005
+        ]
+      },
+      "properties": {
+        "name": "Elk Mountain Nature Trail",
+        "notes": "Elk Mountain Nature Trail\nhttps://www.nps.gov/places/elk-mountain-nature-trail.htm\n\n<p>The grassland and forest meet on this peaceful, 1 mile (1.6 km), pet friendly, trail around the campground. While hiking, follow along with the self-guided tour for this trail in the app. <br /> <br /> <strong>Pets on Trail</strong><br /> Pets must be leashed at all times. <br /> <br /> Please clean up after your pet.<br /> <br /> Do not leave your pet in the car for any length of time.<br /> <br /> <strong>Trail Safety </strong><br /> Hiking off trail is permitted. Watch out for wildlife.<br /> <br /> Bison and other wildlife are dangerous and unpredictable. Do not approach. <br /> <br /> Carry and drink plenty of water. There is no drinking water on this trail. <br /> <br /> Check the weather forecast before you hike. Bring extra layers.  </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.42124603299999,
+          43.62243879700003
+        ]
+      },
+      "properties": {
+        "name": "Highland Creek Trail",
+        "notes": "Highland Creek Trail\nhttps://www.nps.gov/places/highland-creek-trail.htm\n\nHighland Creek is a moderately strenuous, 8.6 mile (13.8 km) one-way, trail. The trail can be reached by a 1-mile hike down the Wind Cave Canyon trail or from its northern trailhead on NPS 5. This trail is the longest and most diverse in the park, crossing mixed-grass prairies, ponderosa pine forests, and riparian habitats of Highland Creek, Beaver Creek, and Wind Cave Canyon. <br /> <br /> <strong>Hiking Safety</strong><br /> <br /> Carry and drink plenty of water. There is no drinking water available on this trail. <br /> <br /> Walking off trail is permitted. Watch out for wildlife.<br /> <br /> Check the weather forecast before you hike. Bring extra layers. <br />  ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.483766847,
+          43.581423623
+        ]
+      },
+      "properties": {
+        "name": "Lookout Point Trail",
+        "notes": "Lookout Point Trail\nhttps://www.nps.gov/places/lookout-point-trail.htm\n\nLookout Point trail is a popular, moderately difficult trail that follows the rolling hills of the prairie across Lookout Point to Beaver Creek. A side trip up Lookout Point offers views of the American Elk Prescribed Fire from 2010. This trail can be combined with a section of the Highland Creek and Centennial trails to create a 4.5 mi (7.2 km) loop.<br /> <br /> <strong>Hiking Safety</strong><br /> <br /> Carry and drink plenty of water. There is no drinking water at this trailhead. <br /> <br /> Hiking off trail is permitted. <br /> <br /> Watch out for wildlife.<br /> <br /> Check the weather forecast before you hike. Bring extra layers. ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.48549,
+          43.623744
+        ]
+      },
+      "properties": {
+        "name": "Post # 3 Life and Times of Snags",
+        "notes": "Post # 3 Life and Times of Snags\nhttps://www.nps.gov/places/post-3-life-and-times-of-snags.htm\n\n<p>One result of the 2005 fire was to leave dead standing trees called snags. You can see some of these to the right of the trail. Snags attract many forms of wildlife. For example some insects, such as longhorned beetles, lay their eggs in slips cut into the bark. When the larvae emerge from the eggs, they initially bore into the nutritious inner bark and eventually tunnel through the wood before developing into adult beetles. Some boreholes may be seen if you look closely at these snags.</p> <p>The longhorned beetled and the other insects found on the snags are an important food for many types of birds. Over time, the snags may become nesting sites for the common flicker and black-capped chickadee.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.494998,
+          43.565763
+        ]
+      },
+      "properties": {
+        "name": "Post #1 A \"Lively\" Place",
+        "notes": "Post #1 A \"Lively\" Place\nhttps://www.nps.gov/places/post-1-a-lively-place.htm\n\nRight now you are in a very lively place! To find out why, imagine yourself as a small animal standing at the bottom of the gully. One thing you might notice is the amount of moisture . After a major rain, this little ravine will flow with water. Even when it appears dry, it still contains more water than the surrounding forest or prairie. The additional moisture allows for greater plant diversity, which supports more animal life.<br /> <br /> As you hike, notice the different plants and animals in these lifelines.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.482241,
+          43.626875
+        ]
+      },
+      "properties": {
+        "name": "Post #10 Soil Formation",
+        "notes": "Post #10 Soil Formation\nhttps://www.nps.gov/places/post-10-soil-formation.htm\n\n<p>Rocks and mountains change very slowly, but they do change. As soon as a rocky mass is pushed upward, forces of erosion slowly begin to level it again. Wind and rain wear it away, grain by grain. Freezing water expands, enlarging small cracks until the rocks begin to crumble.</p> <p>Lichens are often the first organisms to colonize the rocks. The dead lichens combined with dust from the air to become soil for mosses and small plants. As plant roots fill the cracks, the rocks break apart and the formation of soil continues. Decomposing plants add a fertile top layer to the soil. Burrowing mammals and insects mix and loosen the soil, which increases the amount of water available to plants.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.481647,
+          43.627073
+        ]
+      },
+      "properties": {
+        "name": "Post #11 The Great Prairie",
+        "notes": "Post #11 The Great Prairie\nhttps://www.nps.gov/places/post-11-the-great-prairie.htm\n\n<p>As you reach the crest of the ridge, look to the east and to the prairie beyond. Clearly visible is the zone between forest and prairie. Here open meadows mix with forested hilltops. Under most conditions, the forest expands its range and competes with the prairie for water and space. Wet years provided the moisture that allows young pine seedlings to establish themselves on the prairie. Given time and the right conditions they eventually will crowd out the grasses.</p> <p>Fire acts as the balancing mechanism, burning off trees and maintaining the prairie. Due to fire suppression practices over the past century, the forest has expanded. With the increase in forest size there has been a corresponding decrease in the amount of water flowing from the mountains. Trees, even ponderosa pines, need more water than grasses, so the streams of the Black Hills are smaller than they used to be, because of fire suppression. Historically, the lands of Wind Cave National Park burned every 8-12 years.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.481747,
+          43.626428
+        ]
+      },
+      "properties": {
+        "name": "Post #12 Fire Maintains The Balance",
+        "notes": "Post #12 Fire Maintains The Balance\nhttps://www.nps.gov/places/post-12-fire-maintains-the-balance.htm\n\n<p>Fire plays many roles in the ecological schemes of things and has been a major force on our plant for millions of years. Fires opens the canopy of the forest allowing a healthy sub-canopy. The sub-canopy provides food and habitat for forest birds, mammals, and insects. Fire creates and maintains open areas needed by animals large and small. Fire thins the doghair stands allowing the remaining seedlings the space to grow.</p> <p>People have only recently recognized the importance of fire in maintaining healthy ecosystems. More than 100 years of fire suppression have resulted in heavy build-ups of dead vegetation and dense stands of trees. Because of these conditions, today’s wildlife tend to be larger, burn otter, and spread faster and farther. This makes them more severe, more dangerous, and more costly in human, economic, and ecological terms.</p> <p>Today in Wind Cave National Park, wildfires are suppressed. The park uses a prescribed fire program to stimulate the natural fires needed to maintain a healthy habitat and reduce the expansion of the ponderosa pine forest.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.482144,
+          43.62586
+        ]
+      },
+      "properties": {
+        "name": "Post #13 The Fire Tower—A Reminder of Days Gone By",
+        "notes": "Post #13 The Fire Tower—A Reminder of Days Gone By\nhttps://www.nps.gov/places/post-13-the-fire-tower-a-reminder-of-days-gone-by.htm\n\nYou’ve reached the top of the ridge where the park fire tower stands as a lonely sentinel. Gone are the days of fire lookouts watching for smoke from fire towers. Today’s fire fighters detect smoke over a large area from airplanes. The fire tower is staffed only during periods of extreme fire danger and following intense electrical storms since it provides a panoramic view similar to the one you can see. For safety reasons the fire tower is closed to climbing.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.482242,
+          43.625524
+        ]
+      },
+      "properties": {
+        "name": "Post #14 The Never Ending Story",
+        "notes": "Post #14 The Never Ending Story\nhttps://www.nps.gov/places/post-14-the-never-ending-story.htm\n\nLook to the valley below and the distant horizon, and let your mind travel back two hundred years to a time before Euro-Americans settled the Black Hills. Imagine a rolling, unbroken plain without a single fence, building, or road. This was a time when bison roamed free in herds approaching a million; when prairie dog towns stretched for miles; when the forest was limited by fire; when the process of formation and natural regeneration took place. Those processes are still active today. Wind Cave National Park is one of the few remaining places with examples of those events, a place where the past is preserved.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.485789,
+          43.622925
+        ]
+      },
+      "properties": {
+        "name": "Post #1: Forest Animals",
+        "notes": "Post #1: Forest Animals\nhttps://www.nps.gov/places/post-1-forest-animals.htm\n\nRankin Ridge is at the southern boundary of the Black Hills, where fingers of the forest and prairie interlace. Look for red squirrels, porcupines, woodpeckers and turkeys in the forest. You may see mule deer, elk, coyotes, cottontails, and hawks that range through both forest and prairie. On the prairie surrounding Rankin Ridge, bison, prairie dogs, and meadowlarks may be present. As you walk the trail please be aware that bison, prairie rattlesnakes and poison ivy may be encountered.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.494355,
+          43.566837
+        ]
+      },
+      "properties": {
+        "name": "Post #2 Diversity as a Way of Life",
+        "notes": "Post #2 Diversity as a Way of Life\nhttps://www.nps.gov/places/post-2-diversity-as-a-way-of-life.htm\n\nDiversity is healthy because it means a wide variety of species exist. More variety means a more dynamic life system. Nature needs diversity. A good diversity of animal life is found along the trail. Look for wildlife and note what types of animals are found in riparian, prairie and forest habitats. You might want to think about change and diversity from your own experience. Is it possible that people visit National Parks out of a need for diversity and change?",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.485512,
+          43.62352
+        ]
+      },
+      "properties": {
+        "name": "Post #2 The Ponderosa Pine",
+        "notes": "Post #2 The Ponderosa Pine\nhttps://www.nps.gov/places/post-2-the-ponderosa-pine.htm\n\nPonderosa pine dominates Rankin Ridge. As a drought resistant species, its extensive root system and limited need to water to make well suited to live in the Black Hills. On this arid northerly exposure, in such rocky soil, pines grow about four inches taller each year. Under ideal conditions a ponderosa pine will extend 150 to 180 feet into the air. But here its needs are marginally met, so it seldom seems to deserve the adjective “ponderous,” meaning of great size.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.494197,
+          43.567352
+        ]
+      },
+      "properties": {
+        "name": "Post #3 Cooperative Living",
+        "notes": "Post #3 Cooperative Living\nhttps://www.nps.gov/places/post-3-cooperative-living.htm\n\nWhether it's a city, town or neighborhood, chances are you live in some type of community. As a matter of fact you are standing in a community called the mixed grass prairie. Like the communities we create, this grassland contains individuals that have important jobs. <br /> <br /> The mixed grass prairie is unique becuase it contains the tall grasses of the humid eastern states and the short grasses of the arid western states, which adds further to the park's diversity.<br /> <br /> Over forty grasses have been identified at the park. How many can you see blooming along the trail? ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.493445,
+          43.568152
+        ]
+      },
+      "properties": {
+        "name": "Post #4 An \"Uplifting\" Story",
+        "notes": "Post #4 An \"Uplifting\" Story\nhttps://www.nps.gov/places/post-4-an-uplifting-story.htm\n\nNow here's a pretty sight! Look at those hills! The valleys! It's rather inspiring don't you think? Maybe even uplifting!<br /> <br /> As a matter of fact, it took an uplifting event to create these beautiful hills. Geologists estimate that about 60 to 65 million years ago two large land masses to the west began to collide. This collision created the Rocky Mountains, but also produced a rippling effect in the earth's crust producing the dome mountains that we now call the Black Hills.<br /> <br /> The Rockies and the Black Hills greatly influence weather by creating a barrier for storms. Clouds, coming from the north ro west, are forced upward and cooled causing moisture to be released in the northern hills, or to be diverted around the hills. This accounts for the dry climate here.<br /> <br /> Take a moment to enjoy this magnificent landscape. The open spaces and colors combined with the gentle hills make it truly memorable.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.485216,
+          43.624432
+        ]
+      },
+      "properties": {
+        "name": "Post #4 Water: Substance of Life",
+        "notes": "Post #4 Water: Substance of Life\nhttps://www.nps.gov/places/post-4-water-substance-of-life.htm\n\n<p>Many factors determine what types of plants will grow in an area. Elevation, latitude, soil, terrain and climate are all significant, but the most important factor is water.</p> <p>Water from spring rains and snowmelt is critical to plant growth and survival. Wind Cave National Park receives about 17 inches of precipitation a year so it is extremely important for plants and animals to use it efficiently. Because the needles of conifers, such as pine, juniper, and spruce, have less surface area than leaves of most deciduous trees, they are more efficient water users. Therefore, conifers can survive in areas where aspens or cottonwoods would die of thirst.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.496796,
+          43.567707
+        ]
+      },
+      "properties": {
+        "name": "Post #5 Life on the Edge",
+        "notes": "Post #5 Life on the Edge\nhttps://www.nps.gov/places/post-5-life-on-the-edge.htm\n\nYou may not realize it, but you're on the edge of something exciting! Look around and you will see that three of the park's ecosystems meet at this very spot. Where ecosystems meet is called an edge. This edge is exciting becasue it has characteristics of the forest, prairie and riparian areas, making it very diverse. Forest animals, such as deer and elk, feed along the edges during dawn and dusk then return to the shelter of the forest during the day. Edges provide both food and shelter, which is why you will often see more wildlife in these areas.<br /> <br /> Edges are constantly changing. As the trees drop pine cones onto the prairie, seedlings begin to grow. When fire sweeps across the land it burns the young seedlings, reclaiming land for the prairie. In years between fires, seedlings again flourish. This cycle has occurred throughout history under natural conditions. As you hike look for signs of the fire cycle. Also, think about why many animals prefer to live \"life on the edge.\"",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.484722,
+          43.62503
+        ]
+      },
+      "properties": {
+        "name": "Post #5 Open Spaces are Great Places",
+        "notes": "Post #5 Open Spaces are Great Places\nhttps://www.nps.gov/places/post-5-open-spaces-are-great-places.htm\n\nEven in the most dense forest, natural events can create open spaces. Fire is probably the most significant force in a pine forest, but something as commonplace as the falling of a large tree can open the forest canopy and let sunlight reach the forest floor. Then, after a few years in that sunny place, conditions are right for the growth of grasses, wildflowers, and some shrubs. Conditions are also right for the sprouting of pine seedlings from the surrounding trees. This combination of grasses, shrubs, and seedlings provide ideal cover and food for wildlife.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.497306,
+          43.566994
+        ]
+      },
+      "properties": {
+        "name": "Post #6 Pondering the Ponderosa",
+        "notes": "Post #6 Pondering the Ponderosa\nhttps://www.nps.gov/places/post-6-pondering-the-ponderosa.htm\n\nPart of being inquisitive is asking \"why.\" \"Why\" is an especially good word on a nature trail. For instance, you might find yourself asking, \"why am I suddenly walking in a ponderosa pine forest? Why is it here?\" For an answer, you need to consider two things, moisture and soil. <br /> <br /> Moisture is necessary in every community. The movement of water through the soil and the amount of water available to vegetation is influenced by soil texture. Because ponderosa pine trees grow best on well-drained, silty soils they are usually found on the park's hilltops where this type of soil exists. These pines seldom grow in the middle of the prairie due to unfavorable soil conditions and a lack of moisture.<br /> <br /> Moisture is also important for the germination of pine seeds. Once germinated, the nourishment contained in the seed enables it to send down a fast-growing tap root. Because this root grows deeply, the seedling can better survive wind and drought. Look for seedlings as you walk. Do they grow close together or far apart? Why would this happen?",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.484557,
+          43.625259
+        ]
+      },
+      "properties": {
+        "name": "Post #6 The Challenge To Survive",
+        "notes": "Post #6 The Challenge To Survive\nhttps://www.nps.gov/places/post-6-the-challenge-to-survive.htm\n\n<p>For the ponderosa pine seedling to eventually become a mature tree it must survive many challenges. The cones of a ponderosa pine require two years to mature before releasing their seeds. Once released, the seeds must have the right conditions to germinate and grow. Growth depends on soil texture, plant competition, seedling condition, and moisture. Moisture is the critical factor. The ponderosa pine’s fast growing taproot seeks out moisture at many levels within the soil. But even before germination the seed may be eaten by mammals or birds.</p> <p>If conditions are right, many seeds may germinate and the seedlings must compete for survival. Trees growing close together are called “doghair”. Fire is the major force that things these doghair stands, allowing the surviving trees to get the required nutrients, moisture, and sunlight.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.483781,
+          43.625906
+        ]
+      },
+      "properties": {
+        "name": "Post #7 Beyond the Forest",
+        "notes": "Post #7 Beyond the Forest\nhttps://www.nps.gov/places/post-7-beyond-the-forest.htm\n\n<p>While the ponderosa pines provide the canopy for the Rankin Ridge forested area, many shrubs and flowering plants grow here are well. This sub-canopy, or understory, provides food for many forest animals. One shrub, visible here, is the western snowberry. The white berry this plant produces is an important food source for many birds.</p> <p>The sub-canopy in the ponderosa forest changes with soil types and moisture. In areas where the forest is not too thick, chokecherry, raspberry, and juniper are the primary shrubs. The berries from these plants provide food for birds and small animals.</p> <p>Other plants found in this sub-canopy are grasses and forbs or flowering plants such as pasqueflower, shooting star, leadplant and sagewart.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.497368,
+          43.566499
+        ]
+      },
+      "properties": {
+        "name": "Post #7 Fire as a Friend",
+        "notes": "Post #7 Fire as a Friend\nhttps://www.nps.gov/places/post-7-fire-as-a-friend.htm\n\nFor many years, a bear wearing a ranger's hat and dungarees has described forest fires solely in destructive terms. While Smokey has done a great job of reminding us to be careful with fire, we must be aware that fire can also be a friend. <br /> <br /> Consider these ponderosa pines. They are prolific and under the right conditions, like the ones found here, many seedlings will survive. This creates very dense stands of small trees like you see beyond the fence. Because of competition for nutrients, moisture, and sunlight, few seedlings grow into mature trees. Historically, fire has prevented the trees from becoming overcrowded by killing many of the smaller ones. This thinning also allows more sunlight to reach the ground encouraging grasses to grow on the forest floor. As you walk the path, notice how fire has thinned out the forest yet left many trees standing. <br /> <br /> Although fire is beneficial to the forest, human structures and lives must be protected. Today, the National Park Service is using prescribed fire, one started under carefully calculated conditions, to keep the soil and vegetation healthy and in a more natural state. ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.497842,
+          43.56605
+        ]
+      },
+      "properties": {
+        "name": "Post #8 Lessons of Nature",
+        "notes": "Post #8 Lessons of Nature\nhttps://www.nps.gov/places/post-8-lessons-of-nature.htm\n\nIf a contest were held to select the world's greatest teacher, Mother Nature would receive many votes. Her style is unique in that she teaches from example and rarely announces an exam. As a student of nature, you will need to do lots of field work - closely observe and expect the unexpected. <br /> <br /> Because fire can be beneficial or destructive, it is a hard lesson to learn. But destruction is often greater when we interfere with its natural cycle. Since the first Euro-American settlements in the 1880s until the early 1970s, fire was immediately suppressed. As a result, many of the forests have become crowded and stagnant with large amounts of forest debris. Increases in dead material has meant more fuel is available to produce hotter, more destructive fires.<br /> <br /> At Wind Cave National Park, managers are attempting to catch up with the fire cycle, yet reduce the odds of fire spreading to buildings or neighboring lands. To reduce fuels, managers remove part of the forest's understory. The tree stumps in front of you serve as an example. However, beyond the fence no fuels were removed. In 1991, a wildfire burned this area. Comparing the forest beyond the fence with the one here, you can see how fuel removal reduced the severity of the fire in the campground. Removal of fuels may become less common as prescribed burns allow us to catch up with fire's natural cycle.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.482854,
+          43.626387
+        ]
+      },
+      "properties": {
+        "name": "Post #8 The Busybody",
+        "notes": "Post #8 The Busybody\nhttps://www.nps.gov/places/post-8-the-busybody.htm\n\n<p>If you are being pursued by a little bird on the trail, chances are it is by the Black-Capped Chicadee. The Black-Capped Chickadee is a bit of snoop and tends to follow you through its territory. Its familiar chick-a-dee-dee-dee song means that you have just invaded its space. Chickadees stay in the Black Hills year-round, feeding on seeds, insects and wild fruits. Take a moment to look and listen for this feisty little bird. Chickadees may be seen nesting in the cavities of snags that the fire provided.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.496614,
+          43.565427
+        ]
+      },
+      "properties": {
+        "name": "Post #9 Happy Trails",
+        "notes": "Post #9 Happy Trails\nhttps://www.nps.gov/places/post-9-happy-trails.htm\n\nThank you for hiking Elk Mountain Nature Trail. You have seen and experienced a lot in a short time. As you've seen the prairie, forest and riparian ecosystems blend to create a truly spectacular landscape. However, when viewing the park over a distance it is easy to conclude that the land, with its gentle rolling hills, lacks complexity. This deception in itself is amazing. In a way the terrain is somewhat like the sea. From the shore it appears to be little more than rolling waves. Who would suspect, without close examination, that below the surface lies a complex web of life that may never be fully understood? That complexity and the forces that make it possible are important to a balanced ecology. <br /> <br /> Wind Cave National Park is working to protect this balance by allowing natural processes to continue to shape the land. This is a difficult task. There are many challenges to be met, such as the encroachment of non-native plants onto the prairie and misunderstandings of the importance of fire.<br /> <br /> As you travel across the prairie, along the riparian habitat or through the forest, think of the broad spectrum of life that each supports. Also, remember that the park's staff is eager to disucss natural resources and the challenges that lie ahead.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.48246,
+          43.626661
+        ]
+      },
+      "properties": {
+        "name": "Post #9 Life In the Rocks",
+        "notes": "Post #9 Life In the Rocks\nhttps://www.nps.gov/places/post-9-life-in-the-rocks.htm\n\nOccasionally a rockslide can create an open space. The resulting slope of the jumbled rocks, though open and sunny, is an inhospitable place for most plants and the scar is slow to heal. Though few plants find a foothold, the bounders now provide new homes for rodents, insects and reptiles.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.47925215699996,
+          43.55780593000003
+        ]
+      },
+      "properties": {
+        "name": "Prairie Vista Nature Trail",
+        "notes": "Prairie Vista Nature Trail\nhttps://www.nps.gov/places/prairie-vista-nature-trail.htm\n\nThe Prairie Vista Nature Trail is an easy 1 mi (1.6 km) stroll that begins behind the visitor center. The trail passes the cave's natural entrance, and then meanders through the prairie grassland where there are waysides to read and learn. This trail can also be accessed from the picnic area about 0.15 of a mile from the visitor center. Leashed pets are permitted on this trail. <br /> <br /> <strong>Pets on Trail</strong><br /> Pets must be leashed<br /> <br /> Please clean up after your pet<br /> <br /> Do not leave your pet in the car for any length of time<br /> <br /> <strong>Trail Safety </strong><br /> Hiking off trail is permitted. Watch out for wildlife.<br /> <br /> Bison and other wildlife are dangerous and unpredictable. Do not approach. <br /> <br /> Carry and drink plenty of water. There is no drinking water on this trail. <br /> <br /> Check the weather forecast before you hike. Bring extra layers.  <br />  ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.48586156299996,
+          43.62285999900007
+        ]
+      },
+      "properties": {
+        "name": "Rankin Ridge Nature Trail",
+        "notes": "Rankin Ridge Nature Trail\nhttps://www.nps.gov/places/rankin-ridge-nature-trail.htm\n\n<p>This short but beautiful, 1 mi (1.6 km) hike, meanders through ponderosa trees and up to the highest point in the park. On clear days, you can see Badlands National Park and Buffalo Gap in the distance. While hiking, follow along with a self-guided tour, which can be found in this app. <u>Climbing up the historic fire tower is not permitted</u>. <strong>No pets on this trail. </strong><br /> <br /> <strong>Trail Safety</strong><br /> Hiking off trail is permitted. Watch out for wildlife.<br /> <br /> Bison and other wildlife are dangerous and unpredictable. Do not approach. <br /> <br /> Carry and drink plenty of water. There is no drinking water on this trail. <br /> <br /> Check the weather forecast before you hike. Bring extra layers.  </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.484114732,
+          43.636054814
+        ]
+      },
+      "properties": {
+        "name": "Sanctuary Trail",
+        "notes": "Sanctuary Trail\nhttps://www.nps.gov/places/sanctuary-trail.htm\n\nThe Sanctuary trail is a moderately strenuous, 3.6 mile (5.8 km) one-way trail. The trailhead is about one mile (1.6 km) north of the Rankin Ridge fire tower turnoff. This trail follows the rolling hills of the prairie, crosses a large prairie dog town, and ends when it meets the Highland Creek trail. The Sanctuary trail can be combined with other trails to make a longer route.   <br /> <br /> <strong>Hiking Safety</strong><br /> <br /> Carry and drink plenty of water. This is no drinking water at this trailhead.<br /> <br /> Check the weather before you start. Bring extra layers.<br /> <br /> Walking off trail is permitted. Watch out for wildlife. <br /> <br />  ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.47913093723973,
+          43.55791705427679
+        ]
+      },
+      "properties": {
+        "name": "Stop #1: Pahasapa Limestone",
+        "notes": "Stop #1: Pahasapa Limestone\nhttps://www.nps.gov/places/pahasapa-limestone.htm\n\nGeologic age: Mississippian<br /> <br /> Go down the central stairs of the visitor center and exit the building through the double doors directly ahead. Once outside, follow the trail 225 yards to the cave's natural entrance at the end of the sidewalk. You can also get to the natural entrance by following the gravel path from the picnic area back toward the visitor center. The natural entrance is about 150 yards down this trail.<br /> <br /> Limestone is a sedimentary rock deposited in oceans. It is mainly composed of calcium carbonate. Pahasapa Limestone is gray to light tan and forms steep slopes or cliffs.<br /> <br /> Notice that the cave's natural entrance formed in a ravine. Can you think why?",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.47652846393198,
+          43.52127935821223
+        ]
+      },
+      "properties": {
+        "name": "Stop #2: Minnekahta Limestone",
+        "notes": "Stop #2: Minnekahta Limestone\nhttps://www.nps.gov/places/minnekahta-limestone.htm\n\nGeologic age: Permian<br /> <br /> From the visitor center, drive 3.6 miles to this stop. Exit the south end of the visitor center parking lots, turn right onto route 385 South. Near the park's south boundary, you will see outcrops from road cuts. This is the Minnekahta Limestone.<br /> <br /> The Minnekahta Limestone is a thinly bedded gray to purplish-gray slabby limestone. Caves rarely form in this limestone because it is so thinly bedded that the ceilings would collapse.<br /> <br /> Look for prominent layers and folds. Note the differences between the Minnekahta and the Pahasapa Limestones.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.45907069396976,
+          43.55452665374038
+        ]
+      },
+      "properties": {
+        "name": "Stop #3: Minnelusa Formation",
+        "notes": "Stop #3: Minnelusa Formation\nhttps://www.nps.gov/places/minnelusa-formation.htm\n\nGeologic age: Pennsylvanian & Permian<br /> <br /> Drive 3.9 miles north on route 385. Park at the Wind Cave Canyon trailhead. A short hike on the trail (1 mile round trip) is required. Outcrops of this formation are on the left side of the canyon.<br /> <br /> The Minnelusa Formation consists of interbedded limestones, sandstones and shales. It is yellow to red, with the shales being a grayish cream. Interbedded means that the limestones, sandstones, and shales alternate with distinct horizontal layers.<br /> <br /> Can you see distinct layers? How are the layers different from those seen in the Minnekahta Limestone?",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4853690844415,
+          43.57994653745679
+        ]
+      },
+      "properties": {
+        "name": "Stop #4: Deadwood Sandstone",
+        "notes": "Stop #4: Deadwood Sandstone\nhttps://www.nps.gov/places/deadwood-sandstone.htm\n\nGeologic age: Cambrian<br /> <br /> The distance is 2.2 miles to the Deadwood Sandstone. Continue north for 1.7 miles on route 385 to the junction of route 87. Turn right and drive 0.5 miles. Look for a large basin on the left side of the road. Much of the Deadwood Sandstone is on the north end and at the bottom of the basin.<br /> <br /> Sandstone is sedimentary rock composed mostly of grains of quartz that vary in size. The Deadwood Sandstone is brown to light gray in color.<br /> <br /> In what types of environments does sand accumulate?",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.48720359802246,
+          43.59257846502438
+        ]
+      },
+      "properties": {
+        "name": "Stop #5: Pegmatites",
+        "notes": "Stop #5: Pegmatites\nhttps://www.nps.gov/places/pegmatites.htm\n\nGeologic age: Precambrian<br /> <br /> Continue north on route 87 for 1.8 miles. The pegmatites are found at a parking area on the right side of the road with a wayside exhibit titled <em>Ancient Foundations</em>.<br /> <br /> Pegmatites are part of the Precambrian core of the Black Hills. They are extremely coarse grained igneous rocks that formed deep within the earth. The large crystals indicate that they cooled very slowly.<br /> <br /> Look for three common minerals in pegmatite: quartz (whitish and glassy), feldspar (pink with shiny flat surfaces), and tourmaline (black and long with slender crystals).",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4936233255723,
+          43.601468846712244
+        ]
+      },
+      "properties": {
+        "name": "Stop #6: Schists",
+        "notes": "Stop #6: Schists\nhttps://www.nps.gov/places/schists.htm\n\nGeologic age: Precambrian<br /> <br /> Drive 0.2 miles north from Stop #5. There is an outcrop of schists along the left side of the road. Park at the small pullout on the right side immediately after driving under the bridge. Be careful of traffic on this curved road.<br /> <br /> Like pegmatite, schist is part of the Precambrian core of the Black Hills. Schist is a metamorphic rock composed of shiny mica minerals. It is identified by distinct foliation, which is a geologic term meaning very fine layering. Distinct foliation indicates that great pressures occurred within the earth. Rock layers form at right angles to the source of pressure.<br /> <br /> In what direction have the layers formed? What does this tell us about the direction from which the pressures came? Can you find any small folds in the schists?",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.40174582770626,
+          43.61204855847037
+        ]
+      },
+      "properties": {
+        "name": "Stop #7: Spearfish Formation / Inyan Kara Group",
+        "notes": "Stop #7: Spearfish Formation / Inyan Kara Group\nhttps://www.nps.gov/places/spearfish-and-inyan-kara.htm\n\nSpearfish Formation: Permian and Triassic<br /> Inyan Kara Group: Cretaceous and Jurassic<br /> <br /> The distance is 8.4 miles from Stop #6 to Stop #7. Continue north on route 87 for 4.4 miles. Just before you enter Custer State Park, turn onto a gravel road called NPS 5. Drive 4 miles to a lone pine tree on the right side of the road. Park at the gravel parking area to the left. Look to the valley below.<br /> <br /> The Spearfish Formation is composed of red shales and siltstones, both are extremely fine grained sedimentary rocks. The red color comes form iron oxides. The Spearfish Formation is often called Red Valley. The shales and siltstones have formed a valley because they are easily eroded in the semi-arid Black Hills climate.<br /> <br /> The Inyan Kara Group consists of iron rich sandstones and claystones that form the hogback ridge that defines the outer rim of the Black Hills.<br /> <br /> If you want, take a walk toward the valley. Can you see evidence that water has eroded the shales and siltstones?<br /> <br /> As the last stop on the geology driving tour, you are invited to continue your drive through the park. Driving north along NPS 6 will take you along Red Valley into Custer State Park. Alternatively, continuing south on NPS 5 will take you out of the park to 7-11 Road (Custer County Road 101). You can also explore the park's geology up close by <a href=\"https://www.nps.gov/thingstodo/hiking-wica.htm\">hiking</a> one of Wind Cave's many trails.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.46675422799996,
+          43.55461988300004
+        ]
+      },
+      "properties": {
+        "name": "Wind Cave Canyon Trail",
+        "notes": "Wind Cave Canyon Trail\nhttps://www.nps.gov/places/wind-cave-canyon-trail.htm\n\n<p>Wind Cave Canyon trail is an easy, 3.6 mi (5.7 km) round-trip, hike.This trail follows an old road down Wind Cave Canyon to the park boundary. Limestone cliffs provide nesting areas for cliff swallows, canyon wrens, and great horned owls. Look for Red-headed and Lewis's woodpeckers among the snap trees of forested hillsides. <br />  </p> <p><strong>Trail Safety</strong><br /> Hiking off trail is permitted. Watch out for wildlife.<br /> <br /> Bison and other wildlife are dangerous and unpredictable. Do not approach. <br /> <br /> Carry and drink plenty of water. There is no drinking water on this trail. <br /> <br /> Check the weather forecast before you hike. Bring extra layers.  <br /> <br /> A topographic map is recommended and can be purchased at the visitor center bookstore. </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.47825274162972,
+          43.556390761379156
+        ]
+      },
+      "properties": {
+        "name": "Wind Cave National Park Store",
+        "notes": "Wind Cave National Park Store\nhttps://www.nps.gov/places/wind-cave-national-park-store.htm\n\nThe park store is operated by Black Hills Parks and Forests Association (BHPFA), an official non-profit partner of the National Park Service dedicated to supporting the educational mission of Wind Cave National Park. The park store has a wide range of educational products and services available for retail sale. These products complement the interpretive themes you experience when visiting the park. The park store is located at the visitor center, or you can visit the online park store <a href=\"http://www.blackhillsparks.org\">blackhillsparks.org</a>. <br />  ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4782731188606,
+          43.55701973134293
+        ]
+      },
+      "properties": {
+        "name": "Wind Cave Visitor Center",
+        "notes": "Wind Cave Visitor Center\nhttps://www.nps.gov/places/wind-cave-visitor-center.htm\n\n<table cellpadding=\"0\" cellspacing=\"0\" id=\"cs_idLayout2\" summary=\"\" width=\"100%\"> <tbody> <tr> <td id=\"cs_idCell2x1x1\" width=\"100%\"><img alt=\"\" height=\"1\" src=\"https://www.nps.gov/commonspot/images/clear.gif\" width=\"1\" /></td> </tr> <tr> <td id=\"cs_idCell2x2x1\" width=\"100%\"> <p>The Visitor Center is a great place to start your park visit. Whether you are intrigued with the cave, the prairie, or both, it is easy to discover more about the park by exploring the exhibit rooms.</p> <p>Wind Cave Visitor Center is opened daily all year except Thanksgiving, Christmas, and New Year's Days. The visitor center is opened 8:00 am - 4:30 pm with expanded hours during the summer. All cave tours leave from the visitor center. <strong>Do not use your GPS to find the visitor center - you will get lost. </strong>Click here for <a href=\"https://www.nps.gov/wica/planyourvisit/directions.htm\">directions</a>.</p> <p>The upper exhibit room has displays ranging from how the Plains Indians used the bison to how the park manages the prairie. The cave exhibit room explains cave formations, the development of the cave, and the park's colorful history. A movie, <em>Wind Cave, Two Worlds</em>, about the cave, the prairie, and the park is shown in our auditorium.</p> <p>Stop in at the visitor center for information, cave tours, exhibits, maps, books, backcountry permits, Interagency Senior and Access Passes, and Federal Lands Passes. The visitor center and the cave are accessible to people with disabilities, please inquire at the visitor center. For more information call 605-745-4600.</p> </td> </tr> </tbody> </table>",
+        "icon": "red-pin-down.png"
+      }
+    }
+  ]
+}

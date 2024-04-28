@@ -1,0 +1,20 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0168288994,
+          40.7033477002
+        ]
+      },
+      "properties": {
+        "name": "Southwest Battery (Castle Clinton)",
+        "notes": "Southwest Battery (Castle Clinton)\nhttps://www.nps.gov/places/southwest-battery.htm\n\n<p>As tensions between the United States and Great Britan built in 1807 and 1808, American harbor cities began building forts for protection. New York, with a large natural harbor, significant economic interests and a Revolutionary War history of British invasion, was no exception. Four forts were built before 1811 to add to another dozen forts already in existance.</p><p>The Southwest Battery<span style=\"font-size: 11pt;\" data-mce-style=\"font-size: 11pt;\"> was constructed on the rocks off the tip of Manhattan between 1808 and 1811. The fort was fully armed with 28 cannons. Each cannon could shoot a 32 pound cannonball a distance of 1.5 miles, about the distance the <a href=\"https://www.nps.gov/stli/index.htm\">Statue of Liberty National Monument</a> is from lower Manhattan today.</span></p><p><span style=\"font-size: 11pt;\" data-mce-style=\"font-size: 11pt;\">This combined defense ensured that there was no possible approach by sea to the island of Manhattan. Indeed, the defense was so good that it wasn't needed – none of New York's harbor defense forts, including the Southwest Battery, fired a shot throughout the War of 1812. </span></p><p><span style=\"font-size: 11pt;\" data-mce-style=\"font-size: 11pt;\">In 1817, the fort was renamed Castle Clinton</span><span style=\"font-size: 11pt;\" data-mce-style=\"font-size: 11pt;\"> in honor of Dewitt Clinton, Mayor and later Governor of New York. The Castle has enjoyed a long and <a href=\"https://www.nps.gov/cacl/historyculture/index.htm\">ecclectic history</a> after its use as a fort ended, repurposed as a world-class entertainment venue, an immigration processing station prior to the opening of <a href=\"https://www.nps.gov/elis/index.htm\">Ellis Island</a>, and an aquarium. It was preserved as a National Monument in 1975, and today receives over 3 million visitors annually. </span></p>",
+        "icon": "red-pin-down.png"
+      }
+    }
+  ]
+}

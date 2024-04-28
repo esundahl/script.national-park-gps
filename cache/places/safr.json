@@ -1,0 +1,158 @@
+[
+  {
+    "id": "3ED6CC30-7CBC-47E1-A1BC-700330D8C519",
+    "url": "https://www.nps.gov/places/000/san-francisco-maritime-museum.htm",
+    "title": "San Francisco Maritime Museum",
+    "listingDescription": "Housed in a Works Progress Administration building originally designed as a bathhouse, the Maritime Museum features exhibits on navigation, naval history, ships and more. The museum is free, and open seven days a week from 10 a.m. to 4 p.m.",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/D8802810-C8FD-D78B-052E7A8E7B37C2D9.jpg",
+        "credit": "Roland Greenberg",
+        "altText": "A walkway passes in front of the museum on the waterfront.",
+        "title": "San Francisco Martime Museum",
+        "description": "",
+        "caption": "San Francisco Martime Museum",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/D8802810-C8FD-D78B-052E7A8E7B37C2D9.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/D8802810-C8FD-D78B-052E7A8E7B37C2D9.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "CA",
+        "parkCode": "goga",
+        "designation": "National Recreation Area",
+        "fullName": "Golden Gate National Recreation Area",
+        "url": "https://www.nps.gov/goga/index.htm",
+        "name": "Golden Gate"
+      },
+      {
+        "states": "CA",
+        "parkCode": "safr",
+        "designation": "National Historical Park",
+        "fullName": "San Francisco Maritime National Historical Park",
+        "url": "https://www.nps.gov/safr/index.htm",
+        "name": "San Francisco Maritime"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [
+      "Golden Gate National Recreation Area",
+      "goga",
+      "Maritime Museum",
+      "San Francisco Maritime National Historical Park",
+      "maritime",
+      "GGNRA"
+    ],
+    "latitude": "37.80627",
+    "longitude": "-122.423873",
+    "latLong": "37.80627,-122.423873",
+    "bodyText": "<p>Housed in a Works Progress Administration building originally designed as a bathhouse, the <a href=\"https://www.nps.gov/safr/learn/historyculture/bathhousebuilding.htm\">Maritime Museum</a> features exhibits on navigation, naval history, ships and more. The museum is free, and open seven days a week from 10 a.m. to 4 p.m.</p> <h3>San Francisco Senior Center</h3> <p>Founded in 1947, the <a href=\"http://www.sfsenior.com/\">San Francisco Senior Center</a> is located in the Maritime Museum building near the Aquatic Park and is the oldest non-profit senior center in the entire US. With an array of programs, including low-cost nutritious lunches served daily, the Senior Center is dedicated to improving the lives of San Francisco's elders.</p>",
+    "audioDescription": "",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "",
+    "isManagedByNps": "1",
+    "amenities": [
+      "Information",
+      "Restroom"
+    ],
+    "managedByOrg": "",
+    "quickFacts": [],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  },
+  {
+    "id": "7DFE1F1D-8B3B-4BF2-A979-F5F1C38C1C66",
+    "url": "https://www.nps.gov/places/000/san-francisco-maritime-national-historical-park-and-visitor-center.htm",
+    "title": "San Francisco Maritime National Historical Park and Visitor Center",
+    "listingDescription": "The Maritime Museum is your one stop spot for all things naval in San Francisco. In addition to the outdoor waterfront exhibit on Hyde Street Pier, the Visitor Center in the Argonaut Hotel (at the corner of Jefferson and Hyde Streets) has fascinating exhibits on the maritime history of the San Francisco area.",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/D8A5A83B-050D-C49D-664FDA57B53EAF85.jpg",
+        "credit": "Chad Beale",
+        "altText": "The front entrance to the Maritime Museum Visitor Center in the red brick Argonaut Hotel.",
+        "title": "Entrance to the visitor center",
+        "description": "",
+        "caption": "Entrance to the visitor center",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/D8A5A83B-050D-C49D-664FDA57B53EAF85.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/D8A5A83B-050D-C49D-664FDA57B53EAF85.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "CA",
+        "parkCode": "goga",
+        "designation": "National Recreation Area",
+        "fullName": "Golden Gate National Recreation Area",
+        "url": "https://www.nps.gov/goga/index.htm",
+        "name": "Golden Gate"
+      },
+      {
+        "states": "CA",
+        "parkCode": "safr",
+        "designation": "National Historical Park",
+        "fullName": "San Francisco Maritime National Historical Park",
+        "url": "https://www.nps.gov/safr/index.htm",
+        "name": "San Francisco Maritime"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [
+      "Golden Gate National Recreation Area",
+      "goga",
+      "San Francisco Maritime National Historical Park",
+      "San Francisco Maritime",
+      "maritime",
+      "GGNRA"
+    ],
+    "latitude": "37.807572",
+    "longitude": "-122.420531",
+    "latLong": "37.807572,-122.420531",
+    "bodyText": "<p>The <a href=\"http://www.maritime.org/index.htm\">Maritime Museum</a> is your one stop spot for all things naval in San Francisco. In addition to the outdoor waterfront exhibit on Hyde Street Pier, the Visitor Center in the Argonaut Hotel (at the corner of Jefferson and Hyde Streets) has fascinating exhibits on the maritime history of the San Francisco area.</p>",
+    "audioDescription": "",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "",
+    "isManagedByNps": "1",
+    "amenities": [
+      "Information",
+      "Restroom"
+    ],
+    "managedByOrg": "",
+    "quickFacts": [],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  }
+]

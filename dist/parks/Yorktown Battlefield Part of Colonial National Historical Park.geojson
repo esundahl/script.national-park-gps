@@ -1,0 +1,50 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.48595640702503,
+          37.22177406566413
+        ]
+      },
+      "properties": {
+        "name": "The Moore House",
+        "notes": "The Moore House\nhttps://www.nps.gov/places/the-moore-house.htm\n\n<p>Commissioners met at the Moore House to negotiate the terms of surrender.  The British sent Lt. Col. Thomas Dundas and Major Alexander Ross. The allies sent the Viscomte do Noilles (Lafayette's brother-in-law) and Colonel John Laurens. The British argue the terms for many hours, but to no avail.</p> <p align=\"left\">The site on which the Moore House now stands was first patented by Governor John Harvey in the 1630's, and was named \"York Plantation.\" A century later, it was part of a 500 acre plantation called \"Temple Farm\" where Lawrence Smith II built a family home. In 1754, the estate passed to Smith's son, Robert. By 1760, however, Robert found himself in financial straits, and was forced to sell the farm that had been in his family for three generations. He sold the 500 acre estate to his brother-in-law, Augustine Moore.</p> <p align=\"left\"><b>Augustine Moore</b></p> <p align=\"left\">Augustine Moore began his career as a merchant at the age of 14, when he became an apprentice to William Nelson of Yorktown. He served the Nelson firm for many years, and became parter of \"Thos Nelson, Jr. & Co.\" in 1773.<br /> In 1767, Augustine inherited three plantations from his father, establishing him as a landowner of some estate. The following year he purchased \"Temple Farm\", and eventually moved his wife and son into the present plantation house to become a gentleman farmer in the fashion then prevalent in Virginia.<br /> In 1781, when General Cornwallis moved his British army into Yorktown, many residents left their homes and fled the area. The Moore family may also have abandoned their home, temporarily moving to Richmond during the Yorktown Siege. What they certainly could not have known, was that their home would become a site of national significance on October 18, 1781, when it was selected to be the backdrop for one of the final scenes of the American Revolution.</p> <p align=\"left\"><b>The Surrender Negotiations</b></p> <p align=\"left\">At 10 o'clock on the morning of October 17, 1781, a drummer beating a \"parley,\" and a British officer with a flag of truce, mounted a parapet south of Yorktown. The allies saw the signal, and soon the incessant, devastating artillery fire ceased. A hushed stillness fell over the field.<br /> Lord Cornwallis, realizing the defeat of his army was inevitable, sent a message to General George Washington:</p> <p align=\"left\"><i>\"Sir, I propose a cessation of hostilities for twenty-four hours, and that two officers may be appointed by each side, to meet at Mr. Moore's house, to settle terms for the surrender of the posts of York and Gloucester.\"</i></p> <p align=\"left\">Why Cornwallis selected the Moore House for the negotiations was not explained, however, there are a number of possibilities.The Moore House was well outside the line of siege fire, and therefore, not damaged. It was a neutral location, hiding the British situation in town, and possibly selected in the hope of securing better surrender terms. And finally, it was a convenient location for both sides to reach, as it was situated along the York River.<br /> <br /> Washington agreed to only a two hour cease fire for Cornwallis to submit general terms of surrender. Messages continued to pass over the battlefield between the two commanders.<br /> <br /> Finally, on the afternoon of October 18, the two British commissioners, Lieutenant Colonel Thomas Dundas and Major Alexander Ross met in \"Mr. Moore's house\" with the allied officers, Lieutenant Colonel John Laurens, for the Americans, and Second Colonel Viscount de Noailles (Marquis de Lafayette's brother-in-law), representing the French.<br /> <br /> The negotiations ended before midnight, and Laurens carried a rough draft of the articles to General Washington. Washington, however, was not completely happy with the results and made a few minor changes. Once the articles were revised and redrafted, a copy was sent to Cornwallis in Yorktown for his signature.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.50719754143236,
+          37.23420852521773
+        ]
+      },
+      "properties": {
+        "name": "The Nelson House in Yorktown",
+        "notes": "The Nelson House in Yorktown\nhttps://www.nps.gov/places/the-nelson-house-in-yorktown.htm\n\nThe Nelson House was the home of Thomas Nelson, Jr. (1738-89), Yorktown's most famous son and one of the signers of the Declaration of Independence. Nelson's devotion to the patriot cause during the American Revolution contributed significantly to the creation of the United States.<br /> <br /> The Nelson House is one of the finest examples of early Georgian architecture in Virginia. (The Georgian style took its name from the four British kings named George, who reigned from 1714 to 1830). Georgian architecture was popular in the 1700s because its simple, balanced appearance gave an impression of order and stability. Many of its features, such as the triangular pediment above the front door and the cornice, or decorative molding, under the eaves of the roof, can be traced to ancient Greece and Rome.<br /> <br /> Most of the Nelson House is original, including the bricks and most of the mortar in the outer walls. Inside the house, the wall panels and most of the wooden floors are original, a notable exception being the floor in the downstairs hall. The paint on the walls matches the color of the first paint applied after the house was constructed.<br /> <br />  During the colonial period five or six small outbuildings of Georgian design were clustered in an area to the right of the Nelson House. The buildings were used at various times as kitchens, wash houses, poultry houses, dairy houses, smoke houses, spinning houses and servants' quarters. The outbuildings made the Nelson household virtually self-supporting.<br /> <br /> <strong>I</strong><b>nformal tours of this early 18th-century home's first floor are offered through the year as staffing permits. Call for hours of operation.</b>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.50467014194207,
+          37.23364501500546
+        ]
+      },
+      "properties": {
+        "name": "The Yorktown Victory Monument",
+        "notes": "The Yorktown Victory Monument\nhttps://www.nps.gov/places/the-yorktown-victory-monument.htm\n\nThe Victory Monument stands as a fitting symbol to the French and American victory at Yorktown on October 19, 1781 - a victory that resulted in American Independence.",
+        "icon": "red-pin-down.png"
+      }
+    }
+  ]
+}

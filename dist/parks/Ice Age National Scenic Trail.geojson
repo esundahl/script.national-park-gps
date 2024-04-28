@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.414012,
+          45.223557
+        ]
+      },
+      "properties": {
+        "name": "Chippewa Moraine State Recreation Area",
+        "notes": "Chippewa Moraine State Recreation Area\nhttps://www.nps.gov/places/chippewa-moraine-state-recreation-area.htm\n\nSituated along the Ice Age National Scenic Trail, the Chippewa Moraine State Recreation Area offers unspoiled beauty with kettle lakes and many glacial features. Hiking, snowshoeing, backpack camping, fishing and bird watching are popular activities. The David R. Obey Ice Age Interpretive Center houses first-class glacial, cultural and natural history displays.<br /> <br /> An Ice Age National Scenic Trail Passport Stamp is available at this location.<br /> <br /> Visit the Wisconsin Department of Natural Resources for information about Hours, Directions, and Admission Fees.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.73362,
+          43.43017
+        ]
+      },
+      "properties": {
+        "name": "Devil's Lake State Park",
+        "notes": "Devil's Lake State Park\nhttps://www.nps.gov/places/devil-s-lake-state-park.htm\n\nSituated along the Ice Age National Scenic Trail, Devil's Lake State Park offers magnificent views from 500-foot quartzite bluffs overlooking a 360-acre lake. Visitors enjoy nearly 30 miles of hiking trails, lakeshore picnic areas, swimming beaches, paddling opportunities, and year-round naturalist programs.<br /> <br /> An Ice Age National Scenic Trail Passport Stamp is avasilable at this location.<br /> <br /> VIsit the Wisconsin Department of Natural Resources website fro information about Hours, Directions, and Admission Fees.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.644188,
+          45.395963
+        ]
+      },
+      "properties": {
+        "name": "Interstate State Park",
+        "notes": "Interstate State Park\nhttps://www.nps.gov/places/interstate-state-park.htm\n\nInterstate is Wisconsin's oldest state park, established in 1900. Located along the picturesque St. Croix National Scenic Riverway, the park provides scenic views of the river and the steep-sided gorge known as the Dalles of the St. Croix. The Ice Age Interpretive Center features a film, photographs, murals and information about Wisconsin's glacial history.<br /> <br /> An Ice Age National Scenic Trail Passport Stamp is available at this location.<br /> <br /> VIsit the Wisconsin DNR website for information regarding Hours, Directions, Admission Fees.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.186119,
+          43.605402
+        ]
+      },
+      "properties": {
+        "name": "Northern Kettle Moraine State Forest",
+        "notes": "Northern Kettle Moraine State Forest\nhttps://www.nps.gov/places/northern-kettle-moraine-state-forest.htm\n\nThe first and largest unit of the Kettle Moraine State Forest offers year-round recreation among world-famous glacial landforms. Visitors can swim at three beaches, enjoy challenging mountain biking trails or groomed ski trails, hike the Ice Age Trail, take in a nature program, or just escape among 30,000 acres of rolling, wooded hills and prairies. The Ice Age Visitor Center is open all year. The forest has over 350 campsites, including family, group, equestrian and backpack opportunities.<br /> <br /> An Ice Age National Scenic Trail Passport is available at this location.<br /> <br /> Visit the Wisconsin Department of Natural Resources website for information about Hours, Directions, and Admission Fees.",
+        "icon": "red-pin-down.png"
+      }
+    }
+  ]
+}

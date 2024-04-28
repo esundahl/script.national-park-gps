@@ -1,0 +1,530 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.35710740089417,
+          37.24503697256903
+        ]
+      },
+      "properties": {
+        "name": "\"The Dictator\" Trail",
+        "notes": "\"The Dictator\" Trail\nhttps://www.nps.gov/places/dictator-trail.htm\n\n<p>\"The Dictator\" was a sizeable 13-inch seacoast mortar used by the Federals during the siege. Although this mortar is not the original one, it is the same weapon from the Civil War era. When the \"Dictator\" arrived at the siege in July of 1864, positioned here on a rail car to fire on Confederate batteries north of the Appomattox River. Before removal, in September, it had sent 218 shells across the river.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.277156,
+          37.316829
+        ]
+      },
+      "properties": {
+        "name": "Appomattox Manor Carriage Front",
+        "notes": "Appomattox Manor Carriage Front\nhttps://www.nps.gov/places/appomattox-manor-front.htm\n\n<p>The east wing of the Eppes family home was added in 1841 and added a parlor, sitting room, three bedrooms on the second floor, and an entry hall making it the “front” of the house. By the 1850s a formal driveway had been created taking advantage of a new maintained county road that pushed a shift to land-based transportation.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.277462,
+          37.317086
+        ]
+      },
+      "properties": {
+        "name": "Appomattox Manor Riverside",
+        "notes": "Appomattox Manor Riverside\nhttps://www.nps.gov/places/appomattox-manor-riverside.htm\n\n<p>The Appomattox Manor, the Eppes family home, was constructed in the 1760s (the middle portion of the house that we see today). Directionally built to face the river, the Eppes family took advantage of the better light and airflow through this southern exposure. As the family grew throughout time, so did the family home.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.27761,
+          37.316802
+        ]
+      },
+      "properties": {
+        "name": "Appomattox Plantation Dependencies",
+        "notes": "Appomattox Plantation Dependencies\nhttps://www.nps.gov/places/appomattox-plantation-dependencies.htm\n\n<p>Built-in the early 1800s, these small buildings were critical to the plantation’s operation. The kitchen and laundry were separate from the main home to reinforce the relationship between enslaved people and the Eppes family. The food being prepared here came from the plantation and the nearby rivers. Here enslaved women kept the fire going, prepared meals for the Eppes family and for the enslaved population at Appomattox Plantation. In the laundry room, enslaved women worked to wash napkins, linens, and clothing by hand.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.27697,
+          37.315527
+        ]
+      },
+      "properties": {
+        "name": "Appomattox Plantation Driveway",
+        "notes": "Appomattox Plantation Driveway\nhttps://www.nps.gov/places/appomattox-plantation-driveway.htm\n\n<p>The Eppes' family home was a century old by the time U.S. forces occupied the site in 1864, known as Appomattox Manor in the Appomattox Plantation. This driveway was created in the 1841 as people began to approach by carriage and no longer from the river.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.35687136650085,
+          37.24360638546255
+        ]
+      },
+      "properties": {
+        "name": "Artillery at Petersburg",
+        "notes": "Artillery at Petersburg\nhttps://www.nps.gov/places/artillery-at-petersburg.htm\n\nArtillery played an essential role during the Petersburg campaign. Six groups of three cannon tubes line the sidewalks leading to the Eastern Front visitor center. The Artillery at Petersburg wayside is where the sidewalks come together near the flagpole.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.37740635871887,
+          37.2169497961027
+        ]
+      },
+      "properties": {
+        "name": "Battle of The Crater (Stop 8)",
+        "notes": "Battle of The Crater (Stop 8)\nhttps://www.nps.gov/places/battle-of-the-crater.htm\n\n<p>After the initial attacks on Petersburg by Federal Forces ended on June 18, the U.S. 9th Corps picket line fell only four hundred feet from the main Confederate line. The Federals decided to construct and explode a mine underneath Elliot's Salient to surprise and overwhelm the Confederates and seize the heights above Petersburg, thereby shortening the siege. The follow-up attack by the 9th Corps failed miserably, and the Confederates were able to hold Petersburg.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.37807154655457,
+          37.2188892409183
+        ]
+      },
+      "properties": {
+        "name": "Charging Westward (Stop 8)",
+        "notes": "Charging Westward (Stop 8)\nhttps://www.nps.gov/places/charging-westward.htm\n\n<p>The Fourth Division of the Union 9th Corps, compromised of U.S.C.T. Regiments, was the last to enter the action. Swinging north of the Crater, they advanced further than any other Federal division.Within the hour of their assault, Confederate reinforcements led by Gen. Mahone counter-attacked and drove back the Fourth Division. The Confederates assaulted the Crater several more times before taking the hole itself. In the fiercest hand-to-hand combat of the siege, the U.S. troops who still outnumbered the Confederates surrendered to the determined defenders. After ten hours of fighting and a combined cost of almost 5,500 casualties, nothing had changed tactically. General Grant summed it up best for the Federal forces, saying the Battle of the Crater was \"the saddest affair I have ever witnessed in the war.\"</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.277004,
+          37.315386
+        ]
+      },
+      "properties": {
+        "name": "City Point Historical Highway Markers",
+        "notes": "City Point Historical Highway Markers\nhttps://www.nps.gov/places/city-point-highway-markers.htm\n\n<p>Three historical highway markers were placed in 1961 by the Virginia Department of Historic Resources through the Virginia historical highway marker program.<br /> <br /> TEXT ON SIGN: City Point. First settled as Bermuda Cittie by Sir Thomas Dale 1613. Important colonial port. Peter Francisco put ashore 1765 was Washington's \"One Man Army.\" Incorporated 1826. Annexed Hopewell 1923.<br /> <br /> TEXT ON SIGN: Appomattox Manor. Patented 1635 by Captain Francis Epes. Who came by tradition in the Hopewell. Owned by same family probably longer than nay land in U.S. Shelled by British during American Revolution.<br /> <br /> TEXT ON SIGN: General Grant's Headquarters at Appomattox Manor 1864-65 during siege of Petersburg and Richmond. President Lincoln spent 3 weeks in City Point during April, 1865.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.357033,
+          37.245648
+        ]
+      },
+      "properties": {
+        "name": "Confederate Battery 5 Petersburg",
+        "notes": "Confederate Battery 5 Petersburg\nhttps://www.nps.gov/places/battery-5.htm\n\n<p>Battery Number 5 project out as a salient from the Confederate defense lines east of Petersburg; it contained four guns. General Smith's (USA) XVIII Corps advanced attacked General Beauregard's forces (Confederate) here at 7:00 p.m. on June 15, 1864. In two hours of fighting, the U.S. Forces opened up a 1.5-mile-long hole in the Dimmock Line.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.35809981822968,
+          37.23620533259455
+        ]
+      },
+      "properties": {
+        "name": "Confederate Battery 8 (Stop 2)",
+        "notes": "Confederate Battery 8 (Stop 2)\nhttps://www.nps.gov/places/battery-8.htm\n\n<p>Captured by Black Federal troops on June 15, 1864, Confederate Battery #8 would be renamed Ft. Friend for the house of the Friend family nearby. It would see action on March 25, 1865. Battery #8 became part of the second line of siege works for the U.S. forces. The following year U.S. guns in this fort would help repel the Confederate breakthrough at Ft. Stedman.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3543393611908,
+          37.232664698937576
+        ]
+      },
+      "properties": {
+        "name": "Confederate Battery 9 (Stop 3)",
+        "notes": "Confederate Battery 9 (Stop 3)\nhttps://www.nps.gov/places/battery-9.htm\n\n<p>Black Federal troops captured this position during the first day's fighting, on June 15, 1864. This site features examples of siege fortifications and related camp structures. A trail leads to a wayside on Meade Station, an important supply and hospital depot built during the U.S. Military Railroad siege; it is a 10-minute walk. The stone monument is for all the United States Colored Troops that fought during the Petersburg Campaign.The Civil War history here, of the battles during the initial assaults on Petersburg, was destroyed when Camp Lee used this area as training for World War 1. The Park uses this area as an educational project to see how these fortifications would have looked around Petersburg. Look for a brochure next to a wayside for a walking tour of the reconstructed fortifications.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.6230001449585,
+          37.1469084411498
+        ]
+      },
+      "properties": {
+        "name": "Crawford’s Sweep - Five Forks",
+        "notes": "Crawford’s Sweep - Five Forks\nhttps://www.nps.gov/places/crawford-s-sweep-five-forks.htm\n\nMajor General Samuel Crawford's division of the V Corps missed the confederate line at the angle and moved to hatchers run before realizing the mistake. They turned at that point and came out on the Ford’s Road, the Union objective. Turning south they moved against the Five Forks intersection from the north completing the near encirclement of the southern defenders.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.36966013908386,
+          37.2258947495186
+        ]
+      },
+      "properties": {
+        "name": "Fort Haskell (Stop 6)",
+        "notes": "Fort Haskell (Stop 6)\nhttps://www.nps.gov/places/fort-haskell.htm\n\n<p>Part of the Federal Eastern Front Line, on March 25th, 8165, the Federal troops in Fort Haskell stopped the southern advance of Lee's breakthrough. This was done at a high cost as Federals in this fort repulsed several assaults and suffered friendly artillery fire. Lee's failure to take Haskell doomed to breakthrough.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.36949920654297,
+          37.21976923687792
+        ]
+      },
+      "properties": {
+        "name": "Fort Morton (Stop 7)",
+        "notes": "Fort Morton (Stop 7)\nhttps://www.nps.gov/places/fort-morton.htm\n\n<p>At the Battle of the Crater, this was a U.S. 14-gun battery from where General U.S. Grant and General Ambrose Burnside viewed the Battle of the Crater. Within the following month, this battery became Fort Morton.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.36927390098572,
+          37.23170370212619
+        ]
+      },
+      "properties": {
+        "name": "Fort Stedman (Stop 5)",
+        "notes": "Fort Stedman (Stop 5)\nhttps://www.nps.gov/places/fort-stedman.htm\n\n<p>The U.S. Army captures this Confederate line and then builds their siege works parallel to the new Confederate defenses. General Lee attacked Fort Stedman on March 25th, 1865, to loosen General Grant's grip on the city.<br /> <br /> <strong><u>March 25th, 1865 battle at Fort Stedman</u></strong></p> <p>In March 1865, <a href=\"https://www.nps.gov/pete/learn/historyculture/robert-e-lee.htm\">Gen. Lee</a> (CSA) could only watch as Union armies defeated Confederate forces in the Shenandoah Valley and in the Carolinas. Added to this was <a href=\"https://www.nps.gov/pete/learn/historyculture/jefferson-davis.htm\">President Jefferson Davis'</a> (CSA) commitment to continued prosecution of the war and <a href=\"https://www.nps.gov/pete/learn/historyculture/us-grant.htm\">Gen. Grant's</a> (USA) continued buildup of Union troops at Petersburg.</p> <p>Lee had <a href=\"https://www.nps.gov/pete/learn/historyculture/john-gordon.htm\">Gen. Gordon</a> (CSA) formulate a plan that, at the very least, would enable the Army of Northern Virginia to pull out of Petersburg unmolested and perhaps give it a chance to link up with the Confederate army in North Carolina. The idea was a surprise attack that would force Grant to shorten his lines or even set his lines back, allowing for a clean pullout for Lee.</p> <p>Gordon developed a pre-dawn surprise attack on a Union fort, Fort Stedman. It was one of the closest spots on the line, there were fewer wooden obstructions, and a supply depot on the <a href=\"https://www.nps.gov/pete/learn/historyculture/united-states-military-railroad.htm\">U.S. Military Railroad</a> was less than a mile behind it. Lee approved the plan.<br /> <br /> <strong>4:00 am</strong></p> <p>On a signal, lead parties headed out to overwhelm Union pickets and to remove wooden defenses. This was the initial wave of a force that represented nearly half of Lee's army.</p> <p>It was a complete surprise as they captured Fort Stedman and the batteries just to the north and south of it with little resistance. As the Confederates rounded up nearly a 1,000 prisoners, the lead attackers reached Harrison's Creek along the Prince George Court House Road.</p> <br /> <p><strong>6:00 am - 7:00 am</strong></p> <p>Due to the various whereabouts of the senior commanders, the Union response fell upon <a href=\"https://www.nps.gov/pete/learn/historyculture/john-hartranft.htm\">Gen. Hartranft</a> (USA), a divisional commander in the IX Corps.</p> <p>Between some confusion among the attacking Confederates, Union artillery support from up and down the line, and the response by Hartranft's infantry the attack is stopped.</p> <p>Gordon, who was in Fort Stedman, realized the plan had failed when his lead men started returning unable to find the depot and reporting Union resistance. Lee soon gave permission to Gordon to pull his men back.<br /> <br /> <strong>8:00 am</strong><br /> <br /> By 7:30am the Union forces had sealed the breach and the Union artillery was heavily bombarding Fort Stedman. A coordinated attack started shortly before 8:00am, Hartranft advanced on the fort, re-claimed it, and made the ground between the lines a true \"no man's\" land for those Confederates retreating to their trenches.<br /> <br /> This gamble turned out to be a four hour action with no impact on the Union lines. In fact the Union counter attack further down the line near Fort Fisher, produced greater results. The ground won there allowed the Union to launch one of their break through attacks on April 2, 1865.</p> <p>The battle of Fort Stedman was a devastating blow for Lee's army.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.276324,
+          37.317009
+        ]
+      },
+      "properties": {
+        "name": "General Grant's Cabin At City Point",
+        "notes": "General Grant's Cabin At City Point\nhttps://www.nps.gov/places/general-grants-cabin.htm\n\n<p>On June 15, 1864, Lieutenant General Ulysses S. Grant arrived at City Point to conduct military operations against Petersburg. Grant chose the Eppes family Appomattox Plantation at City Point for his headquarters and supply depot because of its strategic location. It provided easy water communication with Fort Monroe and Washington D.C. Supplies could be sent up the James River directly to City Point. From here the old City Point Railroad ran from the waterfront to the rear of the United States Army at Petersburg, allowing Grant to easily send reinforcements and supplies to the field.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.36353397369385,
+          37.23263907251489
+        ]
+      },
+      "properties": {
+        "name": "Harrison Creek (Stop 4)",
+        "notes": "Harrison Creek (Stop 4)\nhttps://www.nps.gov/places/harrison-creek.htm\n\n<p>Harrison Creek is a small waterway that empties into the Appomattox River and is a landmark in the opening assaults on Petersburg and the Battle of Ft. Stedman. From June 16 -18, 1864, Confederate forces on the west bank of this creek dug in and held off U.S. attacks before falling back to defense works that would hold for the rest of the siege. On March 25, 1865, this stream was as far east Confederates reached when they attempted breakthrough at the Battle of Ft. Stedman.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.35688209533691,
+          37.244221327725576
+        ]
+      },
+      "properties": {
+        "name": "Jordan Family Home",
+        "notes": "Jordan Family Home\nhttps://www.nps.gov/places/jordan-family-home.htm\n\nPrior to the Civil War, Josiah M Jordan III lived on a 525- acre plantation called Clermont. The three-story plantation house, several outbuildings, and the farmland were valued at $1,575. The Dimmock line cut through the middle of the property. The Jordan family waited out the Petersburg campaign in Amelia County west of Petersburgh. After the war, the family returned to find their home destroyed. They chose to stay and rebuild. The Jordan family and six other families had homes and lived in the Eastern Front area.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.35666215419769,
+          37.243986454536795
+        ]
+      },
+      "properties": {
+        "name": "Petersburg Confederate Battery 5 Interpretive Trail",
+        "notes": "Petersburg Confederate Battery 5 Interpretive Trail\nhttps://www.nps.gov/places/confederate-battery-5-interpretive-trail.htm\n\n<p>The Battery 5 Interpretative Trail is a short paved walk. This sidewalk takes you into Battery #5 of the Confederate Dimmock Line, captured by the U.S. Army on June 15, 1864. Walk into the battery. The trail also goes below the battery to the position of the 13 in mortar known as \"The Dictator.\" The trail turns from pavement to crushed gravel as it moves along railroad tracks before circling back to the starting point. <br /> Please note the paved trail down to \"The Dictator\" is at a 10% slope for a run of approximaltly 200 feet.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.42819324378178,
+          37.16006645831143
+        ]
+      },
+      "properties": {
+        "name": "Poplar Grove National Cemetery",
+        "notes": "Poplar Grove National Cemetery\nhttps://www.nps.gov/places/poplar-grove-national-cemetery.htm\n\n<p>The eight-acre Poplar Grove National Cemetery is the final resting place for over 6,000 U.S soldiers, who died during the Civil War. Soldiers who served in the Spanish American War, WWI, WWII and Korean War are also buried in the cemetery. One British soldier, a member of the Royal Fusiliers, who died from the flu while training soldiers at Camp Lee, (Fort Gregg-Adams) during WWI is buried in section X.<br /> <br /> The layout of the cemetery is fairly unique among national cemeteries, consisting of a square parcel with concentric circles radiating from a flagpole and mound at the center. Initially, the Poplar Grove Church meeting hall stood at the center of the cemetery. The deteriorated building was removed in 1868. Beginning in 1871, the federal government implemented a series of improvements for the cemetery, including the cemetery’s brick enclosure wall and iron gates, marble headstones for the graves, and the erection of a superintendent’s lodge near the cemetery’s entrance. Additional improvements at Poplar Grove National Cemetery included the construction of an iron rostrum (1897) and restrooms and maintenance facilities (1929). <br /> <br /> In 1933, the management of the cemetery was transferred to the National Park ServiceIn 1957 the cemetery officially closed to new interments. The last burials were of three unknown U.S. soldiers on Memorial Day in 2003.Poplar Grove National Cemetery is part of Petersburg National Battlefield.<i></i></p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.35636174678802,
+          37.2438318648228
+        ]
+      },
+      "properties": {
+        "name": "Prelude to Petersburg",
+        "notes": "Prelude to Petersburg\nhttps://www.nps.gov/places/prelude-to-petersburg.htm\n\nWhy Petersburg, and what events led to the Petersburg Campaign?<br /> <br /> Two signs look at the Overland Campaign and why Petersburg was so important the Richmond and the Confederacy. Information about where key events took place and how to visit those sites is also discussed.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.35364735126495,
+          37.23329681460624
+        ]
+      },
+      "properties": {
+        "name": "Reconstructed Fortifications (Stop 3)",
+        "notes": "Reconstructed Fortifications (Stop 3)\nhttps://www.nps.gov/places/reconstructed-fortifications.htm\n\n<p>After the Federal Army attempts to storm the city failed in mid-June 1864, trench lines sliced through the once lush woods and rolling farm fields, forever changing this land. The original trenches that stood here were lost when Camp Lee (now Fort Lee) trained soldiers for combat during World War 1. With this area now a part of the Petersburg National Battlefield, walk through this reconstructed artillery battery to explore how the siege shaped this landscape and the men who fought here. Check one of the wayside signs for a brochure, \"Built to Last: The Trenches of Petersburg,\" to follow a walking tour through the battery.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.277522,
+          37.317376
+        ]
+      },
+      "properties": {
+        "name": "Riverside Viewpoint",
+        "notes": "Riverside Viewpoint\nhttps://www.nps.gov/places/riverside-viewpoint.htm\n\n<p>From this viewpoint, visitors can see the confluence of the Appomattox River from the west and the James River to the east and north.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.355984,
+          37.243786
+        ]
+      },
+      "properties": {
+        "name": "Starting Point Eastern Front Audio Tour",
+        "notes": "Starting Point Eastern Front Audio Tour\nhttps://www.nps.gov/places/starting-point-ef-tour.htm\n\n<p>The Eastern Front Visitor Center is the park's main visitor center, including museum, gift shop, and 18 minute video. The Visitor Center and parking lot are open every day, hours depending on the time of year. Check the park website for current times.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.277029,
+          37.31499
+        ]
+      },
+      "properties": {
+        "name": "Starting Point for City Point Audio Tour",
+        "notes": "Starting Point for City Point Audio Tour\nhttps://www.nps.gov/places/starting-point-city-point.htm\n\n<p>Sir Thomas Dale established city Point in 1613. City Point was a town in Prince George County, Virginia, the city of Hopewell annexed in 1923. It became part of Petersburg National Battlefield in 1979. Walk around City Point to explore why this area was, and still is, a popular place for living along the rivers. The Eppes family established the Appomattox plantation and their home here as early as 1635, until 1976. In 1864, General Grant and the U.S. Army used City Point as its headquarters to supply the army during the Petersburg Campaign.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.35655593878619,
+          37.24374047783201
+        ]
+      },
+      "properties": {
+        "name": "Stephen Mather Plaque at Petersburg National Battlefield",
+        "notes": "Stephen Mather Plaque at Petersburg National Battlefield\nhttps://www.nps.gov/places/stephen-mather-plaque-at-petersburg-national-battlefield.htm\n\nOn the walkway leading to the Eastern Front visitor center is a plaque dedicated to Stephen Tyng Mather. He was a successful businessman and avid conservationist. Mather was the first Director of the National Park Service.<br /> <br /> He was appointed special assistant to the Secretary of the Interior, in 1915. Mather focused on establishing an office to manage the National Parks. His vigorous efforts built public and political support for the parks. This helped persuade Congress to create the National Park Service (NPS) in 1916. Stephen Mather was appointed Director of the NPS in May 1917. He continued to promote park access, development. Mather also contributed generously to the parks from his personal fortune.<br /> <br /> National park sites throughout the country have plaques dedicated to Mather. All concluding with the inscription \"There will never come an end to the good that he has done.\" Petersburg National Battlefield dedicated this plaque in August of 1991. It was part of 75th anniversary of the National Park Service Celebration.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.61078000068665,
+          37.139989681375404
+        ]
+      },
+      "properties": {
+        "name": "The Angle - Five Forks",
+        "notes": "The Angle - Five Forks\nhttps://www.nps.gov/places/the-angle-five-forks.htm\n\nThe southerners built their breastworks here at a 90-degree angle to protect their left flank the line extended 150 yards north from White Oak Road.  Four cannons under Captain William McGregor and Brigadier General Matthew Ransom’s North Carolina Infantry were placed in the trenches to hold this critical position. After forming their lines near Gravelly Run Methodist Episcopal Church, the Union V Corps under Major General Gouverneur Warren moved against this Confederate position with an overwhelming force.  Brigadier General Frederick Winthrop, the highest-ranking officer to fall during the battle, was mortally wounded near the angle while leading the charge.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.37764239311218,
+          37.21859875456136
+        ]
+      },
+      "properties": {
+        "name": "The Crater (Stop 8)",
+        "notes": "The Crater (Stop 8)\nhttps://www.nps.gov/places/the-crater.htm\n\n<p>With the tunnel's completion, Gen. Burnside chose the pre-dawn hours of July 30, 1864, for the explosion and the attack. At 4:44 am, the mine exploded. Contemporary accounts state the blast left a gaping hole 170 feet long, 60 feet wide at either end and 30 feet deep in places. Half of the U.S. forces ended up in and around the Crater. At the same time, the remainder advanced north and south of the hole capturing Confederate troops and trenches. Though the Federals outnumbered the Confederates, they could not move from the Crater primarily due to the intense Southern artillery fire.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.63919532299042,
+          37.14013079960883
+        ]
+      },
+      "properties": {
+        "name": "The Final Stand - Five Forks",
+        "notes": "The Final Stand - Five Forks\nhttps://www.nps.gov/places/the-final-stand-five-forks.htm\n\nConfederate cavalry under Robert E. Lee’s son Rooney were to protect the infantries flank on the West send of the line. Major General George Custer led several charges against the southerners to break the line, but the confederate enforcement held. The remainder of the Five Forks defenders would withdraw from the battlefield that evening under their cover.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.62304842472076,
+          37.13965612814083
+        ]
+      },
+      "properties": {
+        "name": "The Intersection - Five Forks",
+        "notes": "The Intersection - Five Forks\nhttps://www.nps.gov/places/the-intersection-five-forks.htm\n\nThis key intersection was the objective for the Federal attackers. The road leading north, the Ford’s Road, was the closest route to the South Side Railroad, Petersburg’s last supply line. Colonel William Pegram was instructed two position three of his cannon at this wooded crossroad.  As the attack began the mounted Pegram was fatally wounded while urging his men to “Fire your canister low.”",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.35651195049286,
+          37.23905394848613
+        ]
+      },
+      "properties": {
+        "name": "Training for War on Hallowed Ground",
+        "notes": "Training for War on Hallowed Ground\nhttps://www.nps.gov/places/training-for-war-on-hallowed-ground.htm\n\nDuring the Petersburg Campaign, Union and Confederate troops developed a complex system of trenches and earthworks. The viciousness of Civil War trench warfare was a small preview brutality of trench warfare during World War I.<br /> Soldiers from the 80th Infantry Division at Fort Lee trained to dig different types of trenches, machine gun emplacements, bombproofs, and connect them into a seamless network.<br /> The remains of trenches from two different wars can be found near each other along the trails at the start of the tour road and near Battery 7.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.37608671188354,
+          37.219342055655424
+        ]
+      },
+      "properties": {
+        "name": "Tunnel Entrance (Stop 8)",
+        "notes": "Tunnel Entrance (Stop 8)\nhttps://www.nps.gov/places/tunnel-entrance.htm\n\n<p>General Grant began to prepare for siege warfare by late June. General Ambrose Burnside proposed a plan to blow up Elliot's Salient on the Confederate line. The 48th Pennsylvania Volunteer Infantry had brought this idea to Burnside. With the two sides only 400 feet apart, these troops planned to dig under the salient, blow it up, and exploit the resulting gap in the Confederate line. Burnside received approval, and the Pennsylvania soldiers completed the over 500 foot-long tunnel, packed with 8,000 pounds of powder, within a month.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3540711402893,
+          37.23253229566
+        ]
+      },
+      "properties": {
+        "name": "U.S.C.T. Monument (Stop 3)",
+        "notes": "U.S.C.T. Monument (Stop 3)\nhttps://www.nps.gov/places/usct-monument.htm\n\n<p>Dedicated in the 1990s to honor the Black soldiers who served the U.S. at the Siege of Petersburg. At this point, the critical role Black Federal regiments played in the U.S. success of June 15 by seizing the better part of 1.5 miles of Confederate works while under severe fire from Confederates, including here at Battery #9.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.61566698551178,
+          37.134481588316476
+        ]
+      },
+      "properties": {
+        "name": "Union Cavalry Attacks - Five Forks",
+        "notes": "Union Cavalry Attacks - Five Forks\nhttps://www.nps.gov/places/union-cavalry-attacks-five-forks.htm\n\nCourthouse Road was the avenue federal troopers would try to use to reach the South Side Railroad from Dinwiddie Court House. After fighting South up here on March 31st the Federalist advanced to this area before dismounting and attacking the Confederates dug in along White Oak Road.",
+        "icon": "red-pin-down.png"
+      }
+    }
+  ]
+}

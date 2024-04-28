@@ -1,0 +1,350 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.45821440219879,
+          43.8779006692164
+        ]
+      },
+      "properties": {
+        "name": "Abraham Lincoln Wayside",
+        "notes": "Abraham Lincoln Wayside\nhttps://www.nps.gov/places/abraham-lincoln-wayside.htm\n\n<p>Abraham Lincoln, 16th President of the United States.<br /> Born 1809, died 1865. Lincoln held the nation together during its greatest trial, the Civil War. Lincoln believed his most sacred duty was the preservation of the Union. It was his firm conviction that slavery must be abolished. Gutzon Borglum chose Lincoln to represent the preservation of the United States.<br /> \"I leave you hoping that the lamp of liberty will burn in your bosoms until there shall no longer be a doubt that all men are created free and equal.\" - Abraham Lincoln</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.455612599,
+          43.8768003991
+        ]
+      },
+      "properties": {
+        "name": "Avenue of Flags",
+        "notes": "Avenue of Flags\nhttps://www.nps.gov/places/avenue-of-flags.htm\n\nThe Avenue of Flags was initially established as part of the celebration of the United States' Bicentennial in 1976 at the request of a visitor. The 56 flags represent the 50 states, one district, three territories, and two commonwealths of the United States of America.<br /> <br /> The flags are arranged in alphabetical order with the A’s on the walkway near the concession building and the W’s near the Grand View Terrace. The names of each state, district, commonwealth or territory are listed on the plaques directly below each flag.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.45519423484802,
+          43.877807866621026
+        ]
+      },
+      "properties": {
+        "name": "Borglum View Terrace",
+        "notes": "Borglum View Terrace\nhttps://www.nps.gov/places/borglum-view-terrace.htm\n\n<p>Stand where Gutzon Borglum stood when planning the carving of Mount Rushmore National Memorial from 1927 to 1939. In the late 50’s the original studio was torn down. The only parts that remain are the two fireplaces. The framework you see today was put in place when the terrace was built to showcase the original size and location of the studio.<br /> <br /> While exploring the areas make sure to read the essay inscribed on the bronze plaque on the remnants of the original studio.<br /> <br /> Gutzon Borglum teamed up with the Hearst newspapers in 1934 to sponsor an essay contest to sum up the first 100 years of United States history. The winner would have their words carved into some part of Mount Rushmore along with the four presidents. After winners were selected and prizes awarded, Borglum decided against carving any text into his sculpture. A young Nebraskan named William Andrew Burkett, triumphed in the college-age category, and later donated this plaque showcasing his winning essay.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.454651000154,
+          43.87659369897246
+        ]
+      },
+      "properties": {
+        "name": "Carver's Café",
+        "notes": "Carver's Café\nhttps://www.nps.gov/places/carver-s-café.htm\n\n<p>Enjoy your food with a view of the sculpture at the Dakota Kitchen and the Memorial Team Ice Cream located inside the Carvers' Café.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.45803201198578,
+          43.87810174101061
+        ]
+      },
+      "properties": {
+        "name": "George Washington Wayside",
+        "notes": "George Washington Wayside\nhttps://www.nps.gov/places/george-washington-wayside.htm\n\n<p>George Washington, First President of the United States.<br /> Born 1732, died 1799. Washington led the colonists in the American Revolutionary War to win independence from Great Britain. He was the father of the new country and laid the foundation of American democracy. Because of his importance, Borglum chose Washington to be the most prominent figure on the mountain and represent the birth of the United States.<br /> <br /> \"The preservation of the sacred fire of Liberty, and the destiny of the Republican model of Government, are justly considered as deeply, perhaps as finally staked, on the experiment entrusted to the hands of the American people.\"<br /> - George Washington</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.45514595508575,
+          43.87625340166158
+        ]
+      },
+      "properties": {
+        "name": "Gift Shop",
+        "notes": "Gift Shop\nhttps://www.nps.gov/places/gift-shop.htm\n\n<p>Looking for a memento from your time at Mount Rushmore National Memorial? The <a href=\"https://shop.mtrushmorenationalmemorial.com/shop/\">Gift Shop</a> has a wide variety of options for whatever you are looking for. Take the time to browse the Local section dedicated to products from local vendors and artists.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.45602571964264,
+          43.877034506038406
+        ]
+      },
+      "properties": {
+        "name": "Grand View Terrace",
+        "notes": "Grand View Terrace\nhttps://www.nps.gov/places/grand-view-terrace.htm\n\n<p>The Grand View Terrace is the main viewing area of Mount Rushmore National Memorial and the first offering a closer and unobstructed view, making it a popular spot for photos. The Grand View Terrace is a hub of activity in the summer season - make sure to listen for ranger program announcements. From the terrace you can visit the Lincoln Borglum Visitor Center located directly below, access the Presidential Trail, or walk the stairs to the Sculptor’s Studio.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4556770324707,
+          43.87734771828374
+        ]
+      },
+      "properties": {
+        "name": "Historic View Terrace",
+        "notes": "Historic View Terrace\nhttps://www.nps.gov/places/historic-view-terrace.htm\n\n<p>You might not have realized it, but as you came through the Avenue of Flags you were traveling over a historic road that people once drove. Follow in the footprints of history and stand at the Historic View Terrace - one of the original viewing areas for Mount Rushmore National Memorial.  </p> <p>The Historic View Terrace is a great place to take in the view slightly removed from the busy Grand View Terrace. <b> </b></p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.43636512756348,
+          43.88558344941094
+        ]
+      },
+      "properties": {
+        "name": "Iron Mountain Road (North Entrance)",
+        "notes": "Iron Mountain Road (North Entrance)\nhttps://www.nps.gov/places/iron-mountain-road-north-entrance.htm\n\n<p>Drive the Iron Mountain Road to cruise the pigtail bridges and view Mount Rushmore National Memorial framed through Peter Norbeck’s famous single lane tunnels. Drive carefully, take turns, and give a honk as you drive through the tunnels to alert others you are on your way. The Iron Mountain Road north entrance starts within the boundaries of Mount Rushmore but is managed by the South Dakota Department of Transportation. During hazardous weather conditions this road may close; check <a href=\"https://www.sd511.org/\">SD 511.org</a> for the most recent road updates. Keep in mind when entering the Iron Mountain Road from the north entrance the sculpture will be behind you as you drive through the tunnels.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.45288619841187,
+          43.87586530052712
+        ]
+      },
+      "properties": {
+        "name": "Lincoln Parking Facility",
+        "notes": "Lincoln Parking Facility\nhttps://www.nps.gov/places/lincoln-parking-facility.htm\n\nThe Lincoln Parking Garage consists of levels 1, 2, and 3. There are ADA parking spaces on levels 2 and 3. On level 2 there are also six charging stations for electric vehicles. If you decided to brave the hills and rode a bicycle to the memorial, bicycle lockers are available on Level 1 of the parking facility. See a parking attendant in the parking facility office for more information about using the lockers.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.45616823200311,
+          43.877011361844616
+        ]
+      },
+      "properties": {
+        "name": "Mount Rushmore Bookstores",
+        "notes": "Mount Rushmore Bookstores\nhttps://www.nps.gov/places/mount-rushmore-bookstores.htm\n\n<p>The park stores are operated by the <a href=\"https://mountrushmoresociety.com/\">Mount Rushmore Society</a>, an official non-profit partner of the National Park Service dedicated to supporting the educational mission of Mount Rushmore National Memorial. The park store has a wide range of educational products and services available for retail sale. These products complement the interpretive themes you experience when visiting the park. The park stores are located inside the Information Center, Lincoln Borglum Visitor Center and the Sculptor's Studio (summer only), or you can visit the <a href=\"https://mountrushmoresociety.com/shop/\">online park store</a>.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.45648429996243,
+          43.87734149842798
+        ]
+      },
+      "properties": {
+        "name": "Mount Rushmore National Memorial Amphitheater",
+        "notes": "Mount Rushmore National Memorial Amphitheater\nhttps://www.nps.gov/places/mount-rushmore-national-memorial-amphitheater.htm\n\n<p>The outdoor amphitheater is where you can join a park ranger for an inspirational evening program focusing on the presidents, patriotism, and the nation's history. Beginning with a ranger talk, this program continues with the film \"Freedom: America's Lasting Legacy\" (captioned) and culminates with the lighting of the memorial. Program held nightly late May through the end of September.<br /> <br /> During the day the amphitheater is a great place to avoid the crowds on the Grand View Terrace. Feel free to relax and take in the view. You can access the amphitheater by going down the stairs or elevators located on either side of the Grand View Terrace.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.45429837703705,
+          43.87575843913299
+        ]
+      },
+      "properties": {
+        "name": "Mount Rushmore Society Self-Guided Tours",
+        "notes": "Mount Rushmore Society Self-Guided Tours\nhttps://www.nps.gov/places/mount-rushmore-society-self-guided-tours.htm\n\n<h2>Audio Tour</h2> <p>The Mount Rushmore Audio Tour: A Living Memorial is a recorded audio guide incorporating narration, music, interviews, sound effects and recordings of Gutzon Borglum, Lincoln Borglum, American Indians, and workers. Rental fee is $6.</p> <h2>Multimedia Tour</h2> <p>The Mount Rushmore Self-Guided Tour: A Living Memorial devices rent for $8. Not only will you be able to hear the inspiring story about how and why Mount Rushmore was carved, but you will also be able to see photos and video that complement the information you hear and read on the screen.<br /> <br /> Using a device that works just like your iPhone or Android, you can easily select the information you want to learn more about. There is a GPS-enabled map that will alert you as you are nearing each tour stop. You have the option to go to each tour stop around the park or you can find a comfortable place to sit and experience the tour. There is a total of 29 tour stops.</p> <h2>Languages and Accessibility</h2> <p>The tour is translated in Spanish, German, French and Lakota. An audio-described tour is also available in English for the vision-impaired.</p> <h2>Junior Ranger Quest</h2> <p>Also included in the tour is the Junior Ranger Quest, a new adventure that allows kids to participate in up to 16 challenges at different tour stops around the park. Once they complete challenges, they receive a Junior Ranger badge from a ranger desk, just like the written Junior Ranger program. Although it’s best if played at the park, the Junior Ranger Quest is also available to download for free on the Apple Store and Google Play.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.45219819870152,
+          43.87537710018911
+        ]
+      },
+      "properties": {
+        "name": "Parking Facility Entrance Gate",
+        "notes": "Parking Facility Entrance Gate\nhttps://www.nps.gov/places/parking-facility-entrance-gate.htm\n\n<p>Parking is readily available in the Memorial's parking facility, operated under a concession contract between the National Park Service and Xanterra Travel Collection. A parking ticket entitles a non-commercial vehicle unlimited entry to the memorial for one year from the date of purchase. Overnight parking is not allowed anywhere within the boundaries of Mount Rushmore National Memorial.</p> <h2>Parking Fees</h2> <table align=\"left\" border=\"1\" cellpadding=\"1\" cellspacing=\"4\" style=\"height:150px;width:500px;\"> <tbody> <tr> <td>Cars, Motorcycles and RV's</td> <td>$10 per vehicle<br /> $5 for Seniors (62 and older)<br /> Free for Active-Duty Military</td> </tr> <tr> <td>Commercial Tour Bus</td> <td>$50*</td> </tr> <tr> <td>Verified, Nonprofit Educational Bus</td> <td>$25*</td> </tr> </tbody> </table>   <p><br /> <br /> <br /> <br /> <br /> <br /> *Parking passes for buses are valid for 24 hours from time of first entry. Parking fees may be paid with cash, or most credit cards.The America the Beautiful – National Parks and Federal Recreational Lands Annual Pass, the Military Pass, the Senior Pass, the Access Pass and the Every Kid Outdoors Pass <b>cannot be used for parking fees </b>at Mount Rushmore National Memorial. These passes cover entrance fees but do not cover concession fees such as parking</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Presidential Trail",
+        "notes": "Presidential Trail\nhttps://www.nps.gov/places/presidential-trail.htm\n\n<p>The Presidential Trail is 0.6 miles and takes you on a scenic walking loop offering you various angles of Mount Rushmore National Memorial as you go. The first 0.2 miles of the trail is paved to accommodate wheelchairs from the Grand View Terrace to viewing areas at the base of the mountain. The remaining 0.4 miles of trail leading away from the mountain to the Sculptor’s Studio is not accessible for mobility impairments and consists of 422 stairs.<br /> <br /> A quick tip: If you follow the paved portion of the trail first, you will go down 262 stairs to the Sculptor's Studio and up 160 stairs from the Sculptor’s Studio to the Grand View Terrace.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.46060693264008,
+          43.87610646009
+        ]
+      },
+      "properties": {
+        "name": "Profile View",
+        "notes": "Profile View\nhttps://www.nps.gov/places/profile-view.htm\n\n<p>Looking for a unique perspective before arriving at or after leaving Mount Rushmore National Memorial? Stop by the Profile View viewing area just off South Dakota Highway 244. At the Profile View you can get a one-of-a-kind view of George Washington framed by the surrounding rock outcroppings. A perfect way to get a sneak preview of the main event or a great opportunity to wave goodbye on your way to your next adventure.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.45463706564902,
+          43.87850933351522
+        ]
+      },
+      "properties": {
+        "name": "Sculptor's Studio",
+        "notes": "Sculptor's Studio\nhttps://www.nps.gov/places/sculptor-s-studio.htm\n\nVisit the place where Guzton Borglum worked from 1939 to 1941 and view the 1/12th scale model of Mount Rushmore. During the summer months, rangers present 15-minute talks here focusing on the workers who helped Borglum create Mount Rushmore and the tools and techniques they used.  The Sculptor's Studio is open each year from late May to the middle of October, weather and staffing levels permitting.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.45776379108429,
+          43.87848068216299
+        ]
+      },
+      "properties": {
+        "name": "Talus Terrace",
+        "notes": "Talus Terrace\nhttps://www.nps.gov/places/talus-terrace.htm\n\n<p>Standing on the Talus Terrace is the closest you can get to the sculpture itself. The talus slope is made of the blast remnants from the carving period and has been estimated at 450,000 tons of material.<br /> <br /> Looking around the talus slope you can see tool marks on the granite and evidence of the carving technique called honeycombing, where holes would be drilled close together in order to weaken and remove pieces of rock. During the carving of Mount Rushmore, visitors to the site were very interested in the honeycombed granite and would often ask, \"How can I get a piece of rock like that?\" The hoist operator would usually respond, \"Oh, I can't give that away. I'm holding onto it for a buddy of mine that works up on the mountain.\" The visitor would respond, \"I'll pay, I'll give you $2.00 for it.\" The hoist operator's reply was, \"Nope, nope, I'd really catch it if I gave away my buddy's piece of granite.\" If the visitors were very determined to get a piece of that granite, they would make another offer. \"I'll give you $6.00 for that piece of honeycomb granite.\" The hoist operator would pretend to pause and think about it... then he would say, \"Alright for $6.00 I'm willing to take the heat.\" The hoist operator would give the visitors the piece of honeycombed granite and take their $6.00. The visitor would leave very pleased with their rare and hard-won souvenir. The hoist operator would wait until he was sure the visitors were gone, and he would get on the phone to the top of the mountain and say, \"Boys send down another one!\" Another piece of honeycombed granite was sent down, ready for the next visitor looking for a special souvenir from Mount Rushmore.<br /> <br /> The talus slope is now considered a cultural resource, to be preserved along with the historic structures, the museum collection, and the sculpture itself. Taking rocks or other materials from a protected area such as Mount Rushmore National Memorial is prohibited by law.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.45640659332275,
+          43.87875135293917
+        ]
+      },
+      "properties": {
+        "name": "Theodore Roosevelt Wayside",
+        "notes": "Theodore Roosevelt Wayside\nhttps://www.nps.gov/places/theodore-roosevelt-wayside.htm\n\n<p>Theodore Roosevelt, 26th President of the United States.<br /> Born 1858, died 1919. Roosevelt provided leadership when America experienced rapid economic growth as it entered the 20th Century. He was instrumental in negotiating the construction of the Panama Canal, linking the east and the west. He was known as the \"trust buster\" for his work to end large corporate monopolies and ensure the rights of the common working man. Borglum chose Roosevelt to represent the development of the United States.<br /> <br /> \"The first requisite of a good citizen in this Republic of ours is that he shall be able and willing to pull his weight - that he shall not be a mere passenger.\"<br /> - Theodore Roosevelt</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4570986032486,
+          43.878805486946895
+        ]
+      },
+      "properties": {
+        "name": "Thomas Jefferson Wayside",
+        "notes": "Thomas Jefferson Wayside\nhttps://www.nps.gov/places/thomas-jefferson-wayside.htm\n\n<p>Thomas Jefferson, Third President of the United States.<br /> Born 1743, died 1826. Jefferson was the primary author of the Declaration of Independence, a document which inspires democracies around the world. He also purchased the Louisiana Territory from France in 1803 which doubled the size of our country, adding all or part of 15 present-day states. Gutzon Borglum chose Jefferson to represent the growth of the United States.<br /> <br /> \"We act not for ourselves but for the whole human race. The event of our experiment is to show whether man can be trusted with self - government.\"<br />  - Thomas Jefferson</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.45383527362964,
+          43.87482697530571
+        ]
+      },
+      "properties": {
+        "name": "Washington Parking Facility",
+        "notes": "Washington Parking Facility\nhttps://www.nps.gov/places/washington-parking-facility.htm\n\nThe Washington Parking Facility consists of levels 4, 5, and 6. There are ADA parking spaces on levels 5 and 6. If your vehicle’s tires are looking a little low a free tire inflation station is located near the exit of Level 4 of the parking facility.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.45475989997414,
+          43.87359426722131
+        ]
+      },
+      "properties": {
+        "name": "What Can I Do With My Pet?",
+        "notes": "What Can I Do With My Pet?\nhttps://www.nps.gov/places/what-can-i-do-with-my-pet.htm\n\nWhile pets are only allowed in limited areas at Mount Rushmore, there are opportunities to walk and hike with your pet nearby.<br /> <br /> At Mount Rushmore, pets on a leash are permitted in the green spaces on the edges of and between the parking garages. They are also permitted as far as the columns at the walk-in entrance and along the sidewalk extending to either side.<br /> <br /> Pets, including those that are carried, inside pet carriers or strollers, are not permitted along the main walkway beyond the entrance columns, in the Avenue of Flags, on the Grand View Terrace, in the Amphitheater, on the Presidential Trail or on the Nature Trail.<br /> <br /> Pets on a leash no longer than 6 feet are allowed on the <a href=\"https://www.nps.gov/moru/planyourvisit/hiking.htm\">Blackberry Trail</a>, located across South Dakota Highway 244 from the parking structure. The trail is one mile long and connects with the Centennial Trail in the Black Hills National Forest. Pets are permitted on all <a href=\"https://www.fs.usda.gov/activity/blackhills/recreation/hiking/?recid=25823&actid=50\">Black Hills National Forest trails</a> and on trails in <a href=\"https://gfp.sd.gov/csp-trails/\">Custer State Park</a>.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.45876157283783,
+          43.87765319530748
+        ]
+      },
+      "properties": {
+        "name": "Youth Exploration Area and Lakota, Nakota, and Dakota Heritage Village",
+        "notes": "Youth Exploration Area and Lakota, Nakota, and Dakota Heritage Village\nhttps://www.nps.gov/places/youth-exploration-area-and-lakota-nakota-and-dakota-heritage-village-summer-only.htm\n\n<h2>Lakota, Nakota and Dakota Heritage Village</h2> <p>Explore the history of the Black Hills and the American Indian tribes who have populated this land for thousands of years. This area highlights the customs and traditions of local American Indian communities through presentations given by Lakota, Nakota, and Dakota interpreters. Available in the afternoons during summer. Hours and days may vary. Please check with a ranger at the Information Center desk for availability. </p> <h2>Youth Exploration Area</h2> <p>Explore the natural, cultural, and historical aspects of Mount Rushmore with interactive programs. Open 9:00 - 10:30 a.m. daily early June through early August.</p>",
+        "icon": "red-pin-down.png"
+      }
+    }
+  ]
+}

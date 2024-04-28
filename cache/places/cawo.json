@@ -1,0 +1,109 @@
+[
+  {
+    "id": "7FC1D800-2B15-4925-843A-D3EAC37F492A",
+    "url": "https://www.nps.gov/places/000/carter-g-woodson-home-nhs.htm",
+    "title": "Carter G. Woodson Home NHS",
+    "listingDescription": "Before Dr. Carter G. Woodson, there was very little accurate written history about the lives and experiences of Americans of African descent. Dr. Woodson's home served as the headquarters for the Association for the Study of African American Life and History. Here, Dr. Woodson established Negro History Week in 1926, which we celebrate today as Black History Month. Plaque CARTER G. WOODSON HOUSE HAS BEEN DESIGNATED A NATIONAL HISTORIC LANDMARK THIS SITE POSSESSES NATIONAL SIGN",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/96BFA5F1-C834-60D8-E7FD589607742541.jpg",
+        "credit": "",
+        "altText": "From across the street, the Carter Woodson Home. Several cars are parked in the street in front of i",
+        "title": "Carter G. Woodson Home NHS",
+        "description": "",
+        "caption": "Carter G. Woodson Home NHS",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/96BFA5F1-C834-60D8-E7FD589607742541.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/96BFA5F1-C834-60D8-E7FD589607742541.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "DC",
+        "parkCode": "cawo",
+        "designation": "National Historic Site",
+        "fullName": "Carter G. Woodson Home National Historic Site",
+        "url": "https://www.nps.gov/cawo/index.htm",
+        "name": "Carter G. Woodson Home"
+      },
+      {
+        "states": "DC",
+        "parkCode": "nace",
+        "designation": "",
+        "fullName": "National Capital Parks-East",
+        "url": "https://www.nps.gov/nace/index.htm",
+        "name": "National Capital Parks-East"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [
+      "history",
+      "DC",
+      "DC history",
+      "Civil Rights",
+      "african american",
+      "African American History and Culture",
+      "Black History Month",
+      "black history",
+      "historic homes",
+      "Carter G. Woodson",
+      "Carter G Woodson Home National Historic Site",
+      "Scholarship",
+      "world history",
+      "US History"
+    ],
+    "latitude": "38.910895",
+    "longitude": "-77.024081",
+    "latLong": "38.910895,-77.024081",
+    "bodyText": "<p>Before Dr. Carter G. Woodson, there was very little accurate written history about the lives and experiences of Americans of African descent. Dr. Woodson's office-home served as the headquarters for both the Association for the Study of African American Life and History, Inc. (ASALH) and his publishing company, the Associated Publishers, Inc. Here, Dr. Woodson established Negro History Week in 1926, which we celebrate today as Black History Month.<br /> Plaque<br /> CARTER G. WOODSON HOUSE<br /> HAS BEEN DESIGNATED A<br /> NATIONAL HISTORIC LANDMARK<br /> THIS SITE POSSESSES NATIONAL SIGNIFICANCE IN COMMEMORATING THE HISTORY OF THE UNITED STATES OF AMERICA<br /> 1976<br /> NATIONAL PARK SERVICE<br /> UNITED STATES DEPARTMENT OF THE INTERIOR.</p>",
+    "audioDescription": "(198 words) The Carter G. Woodson Home NHS is located in the Shaw neighborhood of Northwest, Washington, D.C. Traveling south on 9th Street, NW the home sits seventy-five feet south of Q Street, NW on the west side of 9th Street. The home is a three-story red brick rowhouse. Four cement steps with black metal railings on both sides lead up to a gray front door with two windows on the left. Rows of three windows line the second and third floors above. To the left of the front door is a one-square-foot bronze plaque. An inscription on its face reads: CARTER G. WOODSON HOUSE HAS BEEN DESIGNATED A NATIONAL HISTORIC LANDMARK THIS SITE POSSESSES NATIONAL SIGNIFICANCE IN COMMEMORATING THE HISTORY OF THE UNITED STATES OF AMERICA 1976 NATIONAL PARK SERVICE UNITED STATES DEPARTMENT OF THE INTERIOR. The main entrance is next door to the right up four steps at a yellow rowhouse at 1540 9th Street. To the right of this rowhouse is a gray trimmed glass front door framed by two window alcoves and titled above the front door in raised gold lettering: CARTER G. WOODSON HOME. The National Park Service arrowhead-design sign is set to the right. END OF DESCRIPTION",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "",
+    "isManagedByNps": "1",
+    "amenities": [
+      "Baby Changing Station",
+      "Gifts/Souvenirs/Books",
+      "Historical/Interpretive Information/Exhibits",
+      "Information - Ranger/Staff Member Present",
+      "Public Transit",
+      "Restroom",
+      "Wheelchair Accessible"
+    ],
+    "managedByOrg": "",
+    "quickFacts": [
+      {
+        "id": "5C252B96-2DEB-4EF4-91D1-B5D2B202FCD7",
+        "value": "1538 Ninth Street, N.W. Washington, D.C. 20001",
+        "name": "Location"
+      },
+      {
+        "id": "208F1B3C-44DC-4CF5-9A61-9B26A364D701",
+        "value": "The office-home of historian, scholar, and activist Dr. Carter G. Woodson and headquarters for his organization ASALH and publishing company Associated Publishers, Inc.",
+        "name": "Significance"
+      },
+      {
+        "id": "E32D2136-A184-4C1A-91D2-4C20CEF9CBAF",
+        "value": "National Historic Site",
+        "name": "Designation"
+      }
+    ],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  }
+]

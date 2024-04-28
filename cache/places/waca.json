@@ -1,0 +1,147 @@
+[
+  {
+    "id": "ECC4B760-DECF-42AD-A37C-55127E14F090",
+    "url": "https://www.nps.gov/places/accessible-scenic-overlook.htm",
+    "title": "Accessible Scenic Overlook",
+    "listingDescription": "",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/1C1DF3A6-D15C-3CFE-A8E19C0F3DEF2D0F.jpg",
+        "credit": "",
+        "altText": "A beige railing overlooking a winding canyon, dotted with green foliage and white snow pockets",
+        "title": "Scenic Overlook",
+        "description": "",
+        "caption": "",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/1C1DF3A6-D15C-3CFE-A8E19C0F3DEF2D0F.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/1C1DF3A6-D15C-3CFE-A8E19C0F3DEF2D0F.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "AZ",
+        "parkCode": "waca",
+        "designation": "National Monument",
+        "fullName": "Walnut Canyon National Monument",
+        "url": "https://www.nps.gov/waca/index.htm",
+        "name": "Walnut Canyon"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [],
+    "latitude": "35.17162485526221",
+    "longitude": "-111.50842118662344",
+    "latLong": "35.17162485526221,-111.50842118662344",
+    "bodyText": "The accessible scenic overlook includes a viewpoint of Walnut Canyon and Ancestral Puebloan cliff dwellings. It is 150 feet from the visitor center, along a paved accessible path. There is a bench located at the overlook for easy viewing of the canyon's features. Informational park signs describe the canyon and its history. This is also a great location for viewing wildlife.<br />   <h4><span style=\"color: rgb(34, 34, 34); font-family: Georgia, Times, \"Times New Roman\", serif; font-size: 1.5625rem; font-weight: bold; letter-spacing: -0.25px; text-align: var(--bs-body-text-align);\">Ancestral Puebloan Cliff Dwellings</span></h4> The cliff dwellings that are visible from the viewpoint were occupied by Native people from 1100 - 1250 CE. These dwellings provided shelter from variable weather conditions. Residents accessed the bottom of Walnut Canyon by traversing fractures in the sandstone. Many of the trails that they created are no longer seen, but these fractures are still visible from this viewpoint.  <h3>Geology</h3> Walnut Creek, a small meandering waterway slowly carved out Walnut Canyon. On average, the canyon is 400 feet deep. Two layers of exposed sedimentary rocks can be identified. The top layer is Kaibab Limestone. Softer layers within the limestone wore away faster creating natural alcoves. Native people utilized these alcoves to construct their cliff dwelling homes. Below the limestone is the Coconino Sandstone. This layer was formed when ancient coastal dunes were solidified into stone.  ",
+    "audioDescription": "",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "3e94f562-f09e-4281-9759-07154f7dd73f",
+    "isManagedByNps": "1",
+    "amenities": [
+      "Accessible Sites"
+    ],
+    "managedByOrg": "",
+    "quickFacts": [
+      {
+        "id": "5C252B96-2DEB-4EF4-91D1-B5D2B202FCD7",
+        "value": "Rim Trail",
+        "name": "Location"
+      },
+      {
+        "id": "208F1B3C-44DC-4CF5-9A61-9B26A364D701",
+        "value": "Accessible",
+        "name": "Significance"
+      }
+    ],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  },
+  {
+    "id": "54BBF5CA-2617-4A28-B95A-1A0932656249",
+    "url": "https://www.nps.gov/places/pueblo-and-pithouse.htm",
+    "title": "Pueblo and Pithouse",
+    "listingDescription": "Take a leisurely stroll on the loop portion of the Rim Trail. The combination of unexcavated structures and excavated pueblo and pithouse sites offer an introduction into the rich cultural history of Walnut Canyon.",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/1BB8E017-0816-F291-B83163593E6DA982.jpg",
+        "credit": "",
+        "altText": "short limestone wall outlines two rooms of a partially reconstructed pueblo.",
+        "title": "Pithouse wall",
+        "description": "",
+        "caption": "",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/1BB8E017-0816-F291-B83163593E6DA982.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/1BB8E017-0816-F291-B83163593E6DA982.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "AZ",
+        "parkCode": "waca",
+        "designation": "National Monument",
+        "fullName": "Walnut Canyon National Monument",
+        "url": "https://www.nps.gov/waca/index.htm",
+        "name": "Walnut Canyon"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [
+      "Walnut Canyon National Monument"
+    ],
+    "latitude": "35.17277347031266",
+    "longitude": "-111.50833368301392",
+    "latLong": "35.17277347031266,-111.50833368301392",
+    "bodyText": "Take a leisurely stroll on the loop portion of the Rim Trail. The combination of unexcavated structures and excavated pueblo and pithouse sites offer an introduction into the rich cultural history of Walnut Canyon. These sites were excavated, stabilized, and partially reconstructed between 1966 and 1968. You can help us protect these fragile sites by enjoying them from a distance, do not sit or stand on the walls or enter the pithouse. Please stay on the trails to protect unexcavated areas and leave artifacts in place.<br /> <br /> Along the canyon rim early inhabitants planted crops and built structures with different housing styles than what is found in the cliff alcoves. Pithouses were built into the ground and varied in size and shape. Construction techniques were dependent on the builders and materials at hand. Pueblos were built with two to four rooms and a roof of wooden beams, brush, and mud. Structures were compact, insulated with thick stone walls, and strategically oriented to the sun and seasons. Pueblos and pithouses were widely used over long periods of occupancy. Structures were modified over time to meet the changing needs of the community; some homes may have become temperature-controlled storage as needs changed. Consider how modern homes can be built or modified with sustainable building materials and styles to significantly reduce impacts on the environment.<br /> <br /> Nearby corn, beans, squash, and other crops were planted to supplement the many wild foods gathered around Walnut Canyon. Community members worked together in the gardens, successfully growing crops in this dry high elevation climate, strengthening the seeds to be more viable in following seasons. This tradition of cultivation and gathering continues to this day in and around Flagstaff, further connecting tribal communities with their ancestral heritage and rich agricultural knowledge of the region.",
+    "audioDescription": "A hardened dirt path runs between two structures. The area is surrounded by a mixture of juniper pinyon trees and ponderosa pine. Short clumps of grass emerge through a layer of black cinders on uneven terrain dotted with small boulders. The first structure on the left is built a few feet into the ground, there is a dirt floor, and a rock wall runs around the pit’s edges. The area is protected by a modern roof structure that shades the site. A do not enter sign sits in front of the structure. The two room Pueblo is only 35 feet from the pithouse structure. The fragile site stands about waist high with narrow doorways and a dirt floor. Additional walls and roofs are no longer present, eroded away with time. Its remaining limestone walls are the same taupe color of the nearby limestone cliffs of Walnut Canyon with visible mud mortar holding the walls together.",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "",
+    "isManagedByNps": "1",
+    "amenities": [
+      "Cellular Signal",
+      "Picnic Table",
+      "Restroom"
+    ],
+    "managedByOrg": "",
+    "quickFacts": [
+      {
+        "id": "5C252B96-2DEB-4EF4-91D1-B5D2B202FCD7",
+        "value": "Rim Trail ",
+        "name": "Location"
+      }
+    ],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  }
+]

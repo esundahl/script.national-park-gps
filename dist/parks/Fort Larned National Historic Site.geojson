@@ -1,0 +1,485 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.628376,
+          38.439911
+        ]
+      },
+      "properties": {
+        "name": "Cheyenne Bottoms Wildlife Area",
+        "notes": "Cheyenne Bottoms Wildlife Area\nhttps://www.nps.gov/places/cheyenne-bottoms-wildlife-area.htm\n\n<p><br /> <br /> Cheyenne Bottoms is a Kansas state wildlife area. It's part of a 41,000-acre natural land sink northeast of Great Bend, Kansas. The state aquired the land during the 1940's and 1950's and built dikes to collect water in five pools.<br /> <br /> The site is the largest marsh in the inland United States and is one of the most important stopovers for migrating shorebirds in the Western Hemisphere.</p> <h4><strong>More Information about Local Attractions</strong></h4>   <ul> <li><a href=\"https://www.travelks.com/\">Travel Kansas Website</a></li> <li><a href=\"http://www.larnedks.org/\">Larned Chamber of Commerce</a></li> <li><a href=\"https://www.greatbend.org/\">Great Bend Chamber of Commerce</a></li> <li><a href=\"http://www.dodgechamber.com/\">Dodge City Chamber of Commerce</a></li> <li><a href=\"https://hayschamber.com/\">Hays Chamber of Commerce</a></li> </ul>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.2176513994,
+          38.1841218992
+        ]
+      },
+      "properties": {
+        "name": "Early Fort Structures",
+        "notes": "Early Fort Structures\nhttps://www.nps.gov/places/early-fort-structures.htm\n\n<h4>Stop 1 - Adobe Barracks, Laundress Quarters, Hospital Steward's Quarters, Old Adobe Hospital</h4> <p><br /> In this grassy area behind both of the sandstone barracks were several structures from the fort's early days. These structures included the adobe enlisted barracks, the adobe hospital, the laundress quarters and the hospital steward's quarters.<br /> <br /> The adobe barracks stood behind the east barracks building and was replaced by the two sandstone block barracks in 1867.<br /> <br /> The laundress quarters were located behind the west barracks. Though these women were often the wives of the enlisted men, their position was unique in that they were Army employees rather than \"camp followers\" as were other relatives of soldiers. Their duties included mending and washing men's clothes, as well as making their own soap and maintaining their equipment.<br /> <br /> The remains of the original, adobe hospital used until 1871 and the hospital steward’s quarters are now covered by the dike in front of the tour sign post.<br />  </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.2177847002,
+          38.1821169008
+        ]
+      },
+      "properties": {
+        "name": "Early Officers' Quarters at Fort Larned",
+        "notes": "Early Officers' Quarters at Fort Larned\nhttps://www.nps.gov/places/early-officers-quarters-at-fort-larned.htm\n\n<h4>Stop 10 - Early Officers' Quarters at Fort Larned</h4> <p>Before the sandstone officers' quarters were completed company officers lived in a 136’ x 19’ adobe building immediately to the right. Teamsters’ quarters, a 40’ x 20’ wood frame building, were 50 yards south of here.<br />  </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.21798065200807,
+          38.18384978652913
+        ]
+      },
+      "properties": {
+        "name": "Enlisted Barracks & Post Hospital",
+        "notes": "Enlisted Barracks & Post Hospital\nhttps://www.nps.gov/places/enlisted-barracks-post-hospital.htm\n\n<h2>Enlisted Barracks</h2> <p>The two barracks buildings, completed in 1867, were designed to hold two companies each of enlisted men. They were divided in half and each side had a squad room, first sergeant's room, mess hall and kitchen. The average company size was 80 men, so quarters were definitely cramped. Four men slept on each bunk, two on each level lying head to foot. The first sergeant, the company's senior enlisted man, got a room to himself. <br /> <br /> There was no central mess hall on post for the soldiers. Soldiers ate with other men of their company in the barracks mess hall. The army didn't have trained cooks, so the job rotated among the men in the company as an extra duty. This meant the quality of the food preparation depended on how well each man could cook. <br /> <br /> In this building, the left (west) side has been restored as infantry barracks, the right (east) side as the post hospital. The east side had originally been for a cavalry company but when the <a href=\"https://www.nps.gov/articles/10th-cavalry-at-fort-larned.htm\">10th Cavalry</a> left in 1869 it was converted into a new Post Hospital in 1872.   </p> <h2>Hospital </h2> <p>The new <a href=\"https://www.nps.gov/articles/000/fort-larned-post-hospital.htm\">post hospital</a> in the east half of the barracks building was a big improvement over the former adobe hospital building that leaked mud from the ceiling when it rained. Even with a solid roof overhead, medical care was crude by today's standards, to say the least. <br /> <br /> Army doctors were some of the best trained and qualified doctors in the country, but they were still limited by the medical knowledge of the day. There were few medicines at the time to cure people and doctors had very little understanding of how diseases spread. Still, the doctors stationed at Fort Larned did the best they could to heal the soldiers under their care.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.218182,
+          38.183147
+        ]
+      },
+      "properties": {
+        "name": "Fort Larned",
+        "notes": "Fort Larned\nhttps://www.nps.gov/places/fort-larned.htm\n\n<p>In a time of change and conflict, Fort Larned was on the front lines. The fort's mission began to protect the mail, grew to support the protection of other traffic on the <a href=\"https://www.nps.gov/safe/index.htm\">Santa Fe Trail</a>, culminated in <a href=\"https://www.nps.gov/fols/learn/historyculture/hancocks-war.htm\">Hancock's War</a> and the <a href=\"https://www.nps.gov/fols/learn/historyculture/medicine-lodge-treaty.htm\">Medicine Lodge Treaty in 1867</a>, then ended with the completion of the railroad in less than two decades. Today Fort Larned remains the best-preserved fort of its time.</p> <p>Discover a complete and authentic army post from the 1860s-1870s! This well-preserved fort on the Santa Fe Trail shares the tumultuous history of the Indian Wars era. These sandstone buildings sheltered the <a href=\"https://www.nps.gov/fols/learn/historyculture/10th-cavalry-at-fort-larned.htm\">Buffalo Soldiers</a> and witnessed history being made by <a href=\"https://www.nps.gov/people/winfield-scott-hancock.htm\">Winfield Scott Hancock</a> and George Armstrong Custer.</p> <p><span style=\"font-size: 11pt;\">If you're looking for an authentic frontier military experience, Fort Larned delivers. Step back in time as you tour ten fully furnished buildings restored to their historic appearance. Attend the largest living history events in Western Kansas and you'll be able to see how the soldiers and their families lived on the frontier during the Indian Wars era.</span></p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.21928207807542,
+          38.18343066969374
+        ]
+      },
+      "properties": {
+        "name": "Fort Larned Adjutant's Office",
+        "notes": "Fort Larned Adjutant's Office\nhttps://www.nps.gov/places/fort-larned-adjutant-s-office.htm\n\n<h4>15 - The Fort Larned Adjutant's Office</h4> <p>This small wooden structure is a reconstruction of the post Adjutant’s Office. Similar to a headquarters building on a modern military base, the post commander and his staff directed daily fort operations from here.<br />  </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.212188,
+          38.185345
+        ]
+      },
+      "properties": {
+        "name": "Fort Larned Beef Corral",
+        "notes": "Fort Larned Beef Corral\nhttps://www.nps.gov/places/fort-larned-beef-corral.htm\n\n<h4>Stop 6 - The Beef Corral</h4> <p>A 100 x 180-foot post and rail closure for cattle was constructed near the river. When available, the soldiers’ rations included 20 ounces of fresh beef per day. Beef was also allotted to local tribes.<br /> <br />  </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.2162839,
+          38.1825878
+        ]
+      },
+      "properties": {
+        "name": "Fort Larned Cavalry Stables & Dugout",
+        "notes": "Fort Larned Cavalry Stables & Dugout\nhttps://www.nps.gov/places/fort-larned-cavalry-stables-dugout.htm\n\n<h4>Stop 9 - Fort Larned Cavalry Stables and Dugout</h4> <p>To your left were once the wooden cavalry stables used by the cavalry.<br /> <br /> While being used by the Buffalo Soldiers of the 10th U.S. Cavalry, Company A, the structure burned in January, 1869, destroying stores of supplies and equipment and killing 39 horses. The cause of the fire was never determined. Company A was quickly moved to Fort Zarah after the incident, making it the last cavalry unit to serve at Fort Larned.</p> <p>To your right, soldiers lived in dugouts like this reconstruction before the first permanent structures were completed at Fort Larned.<br />  </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.2198166998,
+          38.1833077999
+        ]
+      },
+      "properties": {
+        "name": "Fort Larned Dugout",
+        "notes": "Fort Larned Dugout\nhttps://www.nps.gov/places/fort-larned-dugout.htm\n\n<h4>14 - Fort Larned Dugout</h4> <p>The grassy depression in the river- bank is the remains of a caved-in dugout used by soldiers until the fort's first permanent structures were completed. <br />  </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.219601101,
+          38.1825325
+        ]
+      },
+      "properties": {
+        "name": "Fort Larned Ice House",
+        "notes": "Fort Larned Ice House\nhttps://www.nps.gov/places/fort-larned-ice-house.htm\n\n<h4>13 - The Fort Larned Ice House</h4> <p>An earthen, shingle-roofed dugout in the bank of the river stored ice for officers to use in the summertime. The enlisted men would be detailed to cut the ice out of the Pawnee River when it froze. The following reports describe both what the ice house looked like, as well as its use during the fort's active period.<br /> <br /> January 1869 report by Assistant Surgeon W. H. Forwood:</p> <blockquote> <p>\"The ice house stands on the bank of the creek near the post, in the rear of the commanding officer’s quarters, the sides are of earth up to the eaves, the roof is shingled and to protect the ice from the heat of the sun has been lined on the inside leaving a space of two feet between the building and the roof, it has a capacity of four hundred tons of ice and is ventilated by a draft in the center.\"</p> </blockquote> <p>1875 report of A.A.Q.M. Lt. C.B. Hall, 19th Infantry:</p> <blockquote> <p>\"There are two ice houses at the post, with a capacity for six hundred tons each. Each winter these buildings are filled with good ice put up by the troops.\"<br />  </p> </blockquote>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.21898669444275,
+          38.18323922848812
+        ]
+      },
+      "properties": {
+        "name": "Fort Larned North Officers' Quarters",
+        "notes": "Fort Larned North Officers' Quarters\nhttps://www.nps.gov/places/fort-larned-north-officers-quarters.htm\n\n<p paraeid=\"{4cd17922-46fb-4c45-bd1f-b6debd7b3e58}{184}\" paraid=\"780739024\">Just as the barracks were designed with four companies in mind, the company officers' quarters were also designed to house four companies' worth of officers. A typical company's officers included two lieutenants and one captain. As such, each of the one-story buildings housed two captains and four lieutenants. </p> <p paraeid=\"{4cd17922-46fb-4c45-bd1f-b6debd7b3e58}{188}\" paraid=\"1812212979\">The captain’s quarters were on each end of the building. They had two rooms and a kitchen, which extended out from the back of the building. Lieutenants had one room each with no kitchen until 1870. At that time, wooden lean-to structures were added at the back of each building to give the lieutenants kitchens and servant space. </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.216888,
+          38.18433
+        ]
+      },
+      "properties": {
+        "name": "Fort Larned Post Cemetery",
+        "notes": "Fort Larned Post Cemetery\nhttps://www.nps.gov/places/fort-larned-post-cemetery.htm\n\n<h4>Stop 2 - The Post Cemetery</h4> <p><br /> The first post cemetery, used for soldiers and civilians, was located here in the grassy flat in front of you. Wooden headstones and a bronze marker are placed in the cemetery to commemorate the soldiers originally buried here. <br /> <br /> Of the 68 soldiers buried in the post cemetery only about 15 percent died from battle wounds. The majority, approximately 70 percent, died from such illnesses as cholera, typhoid fever, gonorrhea and dysentery. The rest died from accidents in and around the fort.</p> <p>Along with the soldiers, about 40 civilians who died at or near the fort between 1859 and 1872 were also buried there.  Fort Larned also served as an Indian Agency, and as a result of an unfortunate incident, <a href=\"https://www.nps.gov/people/little-heart.htm\">there is one Indian buried in the post cemetery</a>. <br /> <br /> Also in the cemetery is a single brown pointed obelisk that stands taller than the other headstones. This monument, made of native stone, was placed in the cemetery in 1867 by soldiers of the 3rd U.S. Infantry stationed here at that time. The inscription reads:  “J.B. MacIntyre Col. USA Died at Fort Larned Kansas, May 9 1867. Was one of the officers, of Extra Duty, Maintained the Honor of his Country G. [Gallantly] the Days of the Recent Rebellion”</p> <p>Following the fort’s closing in 1878, the military bodies were exhumed and reburied at the Fort Leavenworth National Cemetery in 1888.</p> <p>On September 19, 2009, those soldiers who were reburied at the Fort Leavenworth National Cemetery were recognized. A bronze monument was dedicated in Section B with the names of 62 soldiers, giving them recognition for their service. The identities of three soldiers still remain unknown.<br />  </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.2155744001,
+          38.1865693997
+        ]
+      },
+      "properties": {
+        "name": "Fort Larned Quartermaster Stables & Corral",
+        "notes": "Fort Larned Quartermaster Stables & Corral\nhttps://www.nps.gov/places/fort-larned-quartermaster-stables-corral.htm\n\n<h4>Stop 4 - Quartermaster Stables & Corral</h4> <p>The Quartermaster stable was a small, sod structure within a 150’ x 200’ picket post corral. During Fort Larned’s seven years as an Indian Agency, this was the probable site for distributing the tribes’ annuities.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.21738005907041,
+          38.183848017683694
+        ]
+      },
+      "properties": {
+        "name": "Fort Larned Shops Building",
+        "notes": "Fort Larned Shops Building\nhttps://www.nps.gov/places/fort-larned-shops-building.htm\n\n<p>The shops building is the only building that doesn't face the Parade Ground because of all the work done here. There would have been wagons coming and going, and men outside working on various projects, none of which were suitable activities to be carried out on the parade ground.</p> <h2>Bakery</h2> <p>All frontier military posts needed a bakery to supply the soldiers with their daily ration of bread. Each soldier got one loaf of bread per day, along with other food items such as beef, bacon, coffee, beans and condiments like salt, sugar and vinegar.<br /> <br /> The bakery operated seven days a week with a chief baker on duty at all times. He would be assisted by either soldiers assigned to the duty or civilians contracted for the job. At the height of the fort's operation there were an average of 275 soldiers stationed at Fort Larned, meaning the chief baker and his assistants baked at least that many loaves of bread per day.</p> <h2>Saddlery, Carpentry & Wheelwright Shop</h2> <p>The saddler was responsible for repairing, or making, anything made of leather. This included repairs to leather equipment for cavalry horses, the horses and mules who pulled wagons, as well as the leather equipment used by soldiers. He also made leather items such as looped cartridge belts, or dispatch cases.  </p> <p>The carpenter and wheelwright took care of all woodwork and wagon repair for the post. The carpenter was responsible for all lumber repair work, built and repaired wagon wheels and wagon boxes, as well as any other work with wood. The wheelwright maintained the wagons, and as the post sail maker, repaired the wagon covers and army tents.</p> <h2>Blacksmith Shop</h2> <p>A blacksmith shop was essential for any frontier military post. This shop had two forges and all the equipment a blacksmith needed to do his job properly. Fort Larned had two main blacksmiths with several apprentices/helpers. Extra help, if needed, came from enlisted men brought in for extra pay.</p> <p>The post blacksmith was a civilian contractor who worked for the Quartermaster Department. His job was to repair or manufacture any hardware needed at the post. He was also responsible for wagon repairs, which was usually the biggest part of his job. At a large post blacksmiths could specialize. At a small post like Fort Larned, the blacksmith was a generalist who had to be able to do a lot of different jobs.<br />  </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.21867032350231,
+          38.182541750646166
+        ]
+      },
+      "properties": {
+        "name": "Fort Larned South Officers' Quarters",
+        "notes": "Fort Larned South Officers' Quarters\nhttps://www.nps.gov/places/fort-larned-south-officers-quarters.htm\n\n<p>Just as the barracks were designed with four companies in mind, the company officers' quarters were also designed to house four companies' worth of officers. A typical company's officers included two lieutenants and one captain. As such, each of the one-story buildings housed two captains and four lieutenants.<br /> <br /> The captain’s quarters were at the ends of the buildings and had two rooms, a kitchen, and servant’s room. Lieutenants had one room each with no kitchen until 1870. At that time, wooden lean-to structures were added at the back of each building to give the lieutenants kitchens and servant space.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.218497,
+          38.181962
+        ]
+      },
+      "properties": {
+        "name": "Fort Larned's Sutlers' Complex",
+        "notes": "Fort Larned's Sutlers' Complex\nhttps://www.nps.gov/places/fort-larned-s-sutlers-complex.htm\n\n<h4>11 - Fort Larned Sutlers' Complex</h4> <p>The post sutler was a merchant or trader licensed by the Army to sell goods on military land. They were an important part of fort life, providing goods and services not available to soldiers through the regular army supply system. Soldiers and officers could get such things as food, clothing, tobacco, and personal items from the sutler's store. <br /> <br /> Army regulations provided for one sutler per post so the trader who got the license had, in effect, a captive market. However, there were restrictions imposed by the Army for this privilege.  They were supervised by a post Council of Administration, which assessed a fee every few months  of several cents for each officer and enlisted man on the post. The Council also determined  “the quantity and kind of clothing, small equipment, or soldiers’ necessaries, groceries, etc.” the sutler had to have available for sale.  In order to keep soldiers from overspending their meager pay, the sutler was not allowed to extend credit to a soldier for over half of his monthly salary.  He also could not sell alcohol to them without the permission of their officers.<br /> <br /> Due to a mix up, Fort Larned had two posts sutlers for several years. The two areas circled on the picture indicate the location of each sutler's operation. The red frame building to the west is where the original sutler's store was located. The building is a reconstruction of the sutler's quarters. The store itself was a sandstone building constructed in 1863. Where you are standing is the site of the second sutler's store. This second complex had a restaurant, general store, recreation hall, billiards, and a one-lane bowling alley for military and civilians.<br />  </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Freedom’s Frontier National Heritage Area",
+        "notes": "Freedom’s Frontier National Heritage Area\nhttps://www.nps.gov/places/freedom-s-frontier-national-heritage-area.htm\n\n<p paraeid=\"{20aaccb0-78af-490f-b07a-e87ad053f6dd}{233}\" paraid=\"7\"><a href=\"http://www.freedomsfrontier.org/\">Freedom's</a><a href=\"http://www.freedomsfrontier.org/\"> Frontier National Heritage Area</a> (FFNHA) was Congressionally designated in 2006. A grassroots network of willing partners, volunteers, and locations serve as the Freedom’s Frontier Board of Trustees, the coordinating entity for the heritage area.  </p> <p paraeid=\"{20aaccb0-78af-490f-b07a-e87ad053f6dd}{245}\" paraid=\"8\">Freedom's Frontier National Heritage Area has a distinct landscape of rivers, hills, valleys, soils, and vegetation. In the 1800s, before the nation expanded across the continent, the western border of Missouri was the American frontier. To its west, Kansas was known as a permanent Indian Territory for both the Plains Indians and other tribes who were forcibly sent to the region following decades of land disputes. Since river travel ended at the Kansas border, this area became a major jumping-off point for pioneers heading west on extensive networks of trails. Traders, miners, and emigrants secured necessities and purchased provisions, and prepared for long overland treks.  </p> <p paraeid=\"{20aaccb0-78af-490f-b07a-e87ad053f6dd}{251}\" paraid=\"9\">In 1854, political tensions between Missouri and Kansas resulted in a violent border war as the Kansas territory sought statehood and debated the legality of slavery. At the time, Missouri was a slave state, and the issue of Kansas entering the Union as a potential “free state” ignited years of turmoil. The violent conflict between slavery proponents and abolitionists in the war known as “Bleeding Kansas” (or “Border War”) focused national attention on Kansas sovereignty and territorial law. This was one of the nation's most widely debated political crises in the years leading up to the Civil War. The Kansas-Nebraska Act passed in 1854 left the territory's future status in the hands of settlers. The struggle for freedom was at the forefront of the Border War, and in the Civil War that followed. Although the Fugitive Slave Law made assisting runaway slaves a hanging offense in Kansas Territory, abolitionists continued to help slaves escaping from Missouri by the Underground Railroad.  </p> <p paraeid=\"{dd497a1e-4f6b-4c03-842d-02aa3f6018f3}{16}\" paraid=\"10\">After the Civil War, hundreds of African Americans came to settle in Kansas as part of the \"Exoduster Movement\" in the 1870s. Through the end of the 19th century and into the 20th century, African Americans in both states continued the struggle for freedom from inequality and segregation during the Jim Crow and Civil Rights eras. One of the heritage area’s most well-known civil rights stories is found in the landmark Supreme Court case known as Brown v. Board of Education of Topeka, Kansas which ended legal racial segregation in public schools in 1954. Today, Freedom’s Frontier National Heritage Area continues to advocate for equal freedoms for all Americans.  Visit, explore and learn about the nation’s enduring legacy and struggle for freedom through the shared stories of courage, conflict, and hope for reconciliation as told across their broad landscape.  </p> <h2 paraeid=\"{dd497a1e-4f6b-4c03-842d-02aa3f6018f3}{69}\" paraid=\"17\">Historic Sites and Points of Interest: </h2> <ol role=\"list\" start=\"1\"> <li aria-setsize=\"-1\" data-aria-level=\"1\" data-aria-posinset=\"1\" data-font=\"\" data-leveltext=\"%1.\" data-listid=\"1\" role=\"listitem\"> <p paraeid=\"{dd497a1e-4f6b-4c03-842d-02aa3f6018f3}{75}\" paraid=\"18\"><a href=\"https://ffnha.oncell.com/en/mahaffie-stagecoach-stop-farm-historic-site-215803.html\">Mahaffie Stagecoach Stop and Farm</a> </p> </li> </ol> <ol role=\"list\" start=\"2\"> <li aria-setsize=\"-1\" data-aria-level=\"1\" data-aria-posinset=\"2\" data-font=\"\" data-leveltext=\"%1.\" data-listid=\"1\" role=\"listitem\"> <p paraeid=\"{dd497a1e-4f6b-4c03-842d-02aa3f6018f3}{83}\" paraid=\"19\"><a href=\"https://ffnha.oncell.com/en/battle-of-island-mound-state-historic-site-210382.html\">Battle of Island Mound State Historic Site</a> </p> </li> </ol> <ol role=\"list\" start=\"3\"> <li aria-setsize=\"-1\" data-aria-level=\"1\" data-aria-posinset=\"3\" data-font=\"\" data-leveltext=\"%1.\" data-listid=\"1\" role=\"listitem\"> <p paraeid=\"{dd497a1e-4f6b-4c03-842d-02aa3f6018f3}{91}\" paraid=\"20\"><a href=\"https://ffnha.oncell.com/en/amelia-earhart-birthplace-museum-215383.html\">Amelia Earhart Birthplace Museum</a> </p> </li> </ol> <ol role=\"list\" start=\"4\"> <li aria-setsize=\"-1\" data-aria-level=\"1\" data-aria-posinset=\"4\" data-font=\"\" data-leveltext=\"%1.\" data-listid=\"1\" role=\"listitem\"> <p paraeid=\"{dd497a1e-4f6b-4c03-842d-02aa3f6018f3}{99}\" paraid=\"21\"><a href=\"https://ffnha.oncell.com/en/pony-express-national-museum-215973.html\">Pony Express National Museum</a> </p> </li> </ol> <ol role=\"list\" start=\"5\"> <li aria-setsize=\"-1\" data-aria-level=\"1\" data-aria-posinset=\"5\" data-font=\"\" data-leveltext=\"%1.\" data-listid=\"1\" role=\"listitem\"> <p paraeid=\"{dd497a1e-4f6b-4c03-842d-02aa3f6018f3}{107}\" paraid=\"22\"><a href=\"https://ffnha.oncell.com/en/negro-leagues-baseball-museum-216311.html\">Negro Leagues Baseball Museum</a> </p> </li> </ol> <ol role=\"list\" start=\"6\"> <li aria-setsize=\"-1\" data-aria-level=\"1\" data-aria-posinset=\"6\" data-font=\"\" data-leveltext=\"%1.\" data-listid=\"1\" role=\"listitem\"> <p paraeid=\"{dd497a1e-4f6b-4c03-842d-02aa3f6018f3}{115}\" paraid=\"23\"><a href=\"https://ffnha.oncell.com/en/black-archives-of-mid-america-215400.html\">Black Archives of Mid-America</a> </p> </li> </ol> <ol role=\"list\" start=\"7\"> <li aria-setsize=\"-1\" data-aria-level=\"1\" data-aria-posinset=\"7\" data-font=\"\" data-leveltext=\"%1.\" data-listid=\"1\" role=\"listitem\"> <p paraeid=\"{dd497a1e-4f6b-4c03-842d-02aa3f6018f3}{123}\" paraid=\"24\"><a href=\"https://ffnha.oncell.com/en/national-frontier-trails-museum-216874.html\">National Frontier Trails Museum</a> </p> </li> </ol> <ol role=\"list\" start=\"8\"> <li aria-setsize=\"-1\" data-aria-level=\"1\" data-aria-posinset=\"8\" data-font=\"\" data-leveltext=\"%1.\" data-listid=\"1\" role=\"listitem\"> <p paraeid=\"{dd497a1e-4f6b-4c03-842d-02aa3f6018f3}{131}\" paraid=\"25\"><a href=\"https://ffnha.oncell.com/en/constitution-hall-state-historic-site-215413.html\">Constitution Hall State Historic Site -Lecompton</a> </p> </li> </ol> <ol role=\"list\" start=\"9\"> <li aria-setsize=\"-1\" data-aria-level=\"1\" data-aria-posinset=\"9\" data-font=\"\" data-leveltext=\"%1.\" data-listid=\"1\" role=\"listitem\"> <p paraeid=\"{dd497a1e-4f6b-4c03-842d-02aa3f6018f3}{139}\" paraid=\"26\"><a href=\"https://ffnha.oncell.com/en/watkins-museum-of-history-209511.html\">Watkins Museum</a> </p> </li> </ol> <ol role=\"list\" start=\"10\"> <li aria-setsize=\"-1\" data-aria-level=\"1\" data-aria-posinset=\"10\" data-font=\"\" data-leveltext=\"%1.\" data-listid=\"1\" role=\"listitem\"> <p paraeid=\"{dd497a1e-4f6b-4c03-842d-02aa3f6018f3}{147}\" paraid=\"27\"><a href=\"https://ffnha.oncell.com/en/flint-hills-discovery-center-215428.html\">Flint Hills Discovery Center</a> </p> </li> </ol> <h2 paraeid=\"{dd497a1e-4f6b-4c03-842d-02aa3f6018f3}{159}\" paraid=\"29\">Notable People:  </h2> <ol role=\"list\" start=\"1\"> <li aria-setsize=\"-1\" data-aria-level=\"1\" data-aria-posinset=\"1\" data-font=\"\" data-leveltext=\"%1.\" data-listid=\"3\" role=\"listitem\"> <p paraeid=\"{dd497a1e-4f6b-4c03-842d-02aa3f6018f3}{165}\" paraid=\"30\"><a href=\"https://poets.org/poet/langston-hughes\">Langston Hughes</a> </p> </li> </ol> <ol role=\"list\" start=\"2\"> <li aria-setsize=\"-1\" data-aria-level=\"1\" data-aria-posinset=\"2\" data-font=\"\" data-leveltext=\"%1.\" data-listid=\"3\" role=\"listitem\"> <p paraeid=\"{dd497a1e-4f6b-4c03-842d-02aa3f6018f3}{173}\" paraid=\"31\"><a href=\"https://www.whitehouse.gov/about-the-white-house/presidents/harry-s-truman/\">Harry S Truman</a>  </p> </li> </ol> <ol role=\"list\" start=\"3\"> <li aria-setsize=\"-1\" data-aria-level=\"1\" data-aria-posinset=\"3\" data-font=\"\" data-leveltext=\"%1.\" data-listid=\"3\" role=\"listitem\"> <p paraeid=\"{dd497a1e-4f6b-4c03-842d-02aa3f6018f3}{183}\" paraid=\"32\"><a href=\"https://www.ameliaearhart.com/biography/\">Amelia Earhart</a>  </p> </li> </ol> <ol role=\"list\" start=\"4\"> <li aria-setsize=\"-1\" data-aria-level=\"1\" data-aria-posinset=\"4\" data-font=\"\" data-leveltext=\"%1.\" data-listid=\"3\" role=\"listitem\"> <p paraeid=\"{dd497a1e-4f6b-4c03-842d-02aa3f6018f3}{193}\" paraid=\"33\"><a href=\"https://historicmissourians.shsmo.org/historicmissourians/name/c/carver/\">George Washington Carver</a> </p> </li> </ol> <ol role=\"list\" start=\"5\"> <li aria-setsize=\"-1\" data-aria-level=\"1\" data-aria-posinset=\"5\" data-font=\"\" data-leveltext=\"%1.\" data-listid=\"3\" role=\"listitem\"> <p paraeid=\"{dd497a1e-4f6b-4c03-842d-02aa3f6018f3}{201}\" paraid=\"34\"><a href=\"https://lauraingallswilderhome.com/lauras-life-on-rocky-ridge-farm/\">Laura Ingalls Wilder</a> </p> </li> </ol>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.21718656760784,
+          38.183152889791266
+        ]
+      },
+      "properties": {
+        "name": "New Commissary & Post School",
+        "notes": "New Commissary & Post School\nhttps://www.nps.gov/places/new-commissary-post-school.htm\n\n<blockquote> <p>\"It is a proper place for a military post, and should be the depot of supplies for any troops acting against Indians on that line.\" Major John C. McFerran, 1865. </p> </blockquote> <p>One of the most important roles for any frontier fort is amassing and securing the supplies that kept the Army functioning, including food, ammunition, and clothing. The army had to be able to supply itself in order to maintain a permanent presence on the plains. To that end, the first sandstone buildings completed at Fort Larned after the blockhouse was finished were made to store food, ammunition, and supplies. <br /> <br /> Fort Larned has three warehouses - the Old Commissary, the Quartermaster Storehouse, and the New Commissary. The first two warehouses were built in 1866 and 1867, this warehouse was added in 1868 to accommodate the additional supplies needed when the fort's troop levels surged to their highest. <br /> <br /> The New Commissary was the last sandstone building completed at the fort since troop levels continued to go down over the next decade. As the need for storage space declined, the New Commissary was turned into a multipurpose building, including the post library and schoolroom.<br />  </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.21898669444275,
+          38.18323922848812
+        ]
+      },
+      "properties": {
+        "name": "North Officers' Quarters",
+        "notes": "North Officers' Quarters\nhttps://www.nps.gov/places/north-officers-quarters.htm\n\n<p>Just as the barracks were designed with four companies in mind, the company officers' quarters were also designed to house four companies' worth of officers. A typical company's officers included two lieutenants and one captain. As such, each of the one-story buildings housed two captains and four lieutenants.<br /> <br /> The captain’s quarters were at the ends of the buildings and had two rooms, a kitchen, and servant’s room. Lieutenants had one room each with no kitchen until 1870. At that time, wooden lean-to structures were added at the back of each building to give the lieutenants kitchens and servant space.<br /> <br />  </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.21730144308785,
+          38.18269920079952
+        ]
+      },
+      "properties": {
+        "name": "Old Commissary & Arsenal",
+        "notes": "Old Commissary & Arsenal\nhttps://www.nps.gov/places/old-commissary-arsenal.htm\n\n<h2>Commissary </h2> <p>The Old Commissary building was the first sandstone building completed in the post-Civil War building program. As troop levels went up the fort needed a better place to store food supplies. This building would serve as the Commissary Warehouse until the fort closed in 1878. <br /> <br /> Both \"issue\" and \"non-issue\" food supplies were stored here. The enlisted soldiers didn't pay for their food but were \"issued\" daily rations instead. Officers were given a food allowance and could purchase \"non-issue\" items at cost. A Commissary Officer was responsible for keeping track of all the supplies in the warehouse. He was assisted by several clerks, usually enlisted men who were assigned to the duty. </p> <h2>Arsenal </h2> <p>Although the main purpose of this building was food storage, as soon as it was completed in 1866 the west end was used to store ammunition. It wasn't a safe place to store the ammunition, but the fort didn't have a proper magazine, and it was better than the blockhouse, which had a leaky roof. <br /> <br /> Weapons, rounds of ammunition, and gunpowder were stored in the Arsenal. These included cartridges, for both the infantry and cavalry stationed here, as well as rounds and accouterments for the artillery. Ammunition would be stored in this building until 1872 when the old adobe hospital was converted to magazine. An Ordnance Sergeant supervised this area.</p> <p> </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.2128444003,
+          38.1859782998
+        ]
+      },
+      "properties": {
+        "name": "Pawnee Fork Mail Station",
+        "notes": "Pawnee Fork Mail Station\nhttps://www.nps.gov/places/pawnee-fork-mail-station.htm\n\n<h4>Stop 4 - The Pawnee Fork Mail Station</h4> <p>Fort Larned was originally established to protect mail coaches along the Santa Fe Trail. The station was, in effect, the first post office in the area, though the post commander wrote in 1869, <span style=\"color: rgb(85, 85, 85); font-family: Arial, sans-serif; font-size: 16px;\">“Only one [load of] mail per week arrives and departs at this post.”<br /> <br /> In 1863, the mail station moved to the </span><a href=\"https://www.nps.gov/places/fort-larned-s-sutlers-complex.htm\">Old Sutler Store</a><span style=\"color: rgb(85, 85, 85); font-family: Arial, sans-serif; font-size: 16px;\">.</span><br /> <br />  </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.2168947003,
+          38.1851744004
+        ]
+      },
+      "properties": {
+        "name": "Pawnee Fork Oxbow",
+        "notes": "Pawnee Fork Oxbow\nhttps://www.nps.gov/places/pawnee-fork-oxbow.htm\n\n<h4>Stop 3 - The Oxbow</h4>   <p>The depression surrounding this area was once part of the Pawnee River. Before Fort Larned was built, the river naturally changed course. The dry oxbow was used for wood piles and hay stacks.<br />  </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.98936000000003,
+          38.272148
+        ]
+      },
+      "properties": {
+        "name": "Pawnee Rock State Historic Site",
+        "notes": "Pawnee Rock State Historic Site\nhttps://www.nps.gov/places/pawnee-rock-state-historic-site.htm\n\n<p>Pawnee Rock State Historic Site is 16 miles east of Fort Larned. This sandstone outcropping was a well-known land mark on the Santa Fe Trail. Not only did it let travelers on the trail know they were following the correct route, it was also the halfway point on the trail. </p> <h2>Site Information</h2> <p><strong>Location</strong> (Pawnee Rock, Kansas)<br /> <br /> <em><a href=\"https://www.nps.gov/safe/planyourvisit/safety.htm\">Safety Considerations</a></em></p> <h3><a href=\"https://www.kshs.org/pawnee_rock\">More Site Information</a></h3> <h2><a href=\"https://www.nps.gov/safe/index.htm\">Santa Fe National Historic Trail</a></h2>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.21896709192681,
+          38.18285450687102
+        ]
+      },
+      "properties": {
+        "name": "Post Commander's Quarters",
+        "notes": "Post Commander's Quarters\nhttps://www.nps.gov/places/post-commander-s-quarters.htm\n\n<p>The post commander occupied the two-story house in the center of Officers' Row. Usually a major, he was responsible for all operations at the post.<br /> <br /> This building was one of the last of the sandstone buildings completed after the Civil War. Most of the of the sandstone blocks on this building are \"finished\" or squared off to look like bricks. The post commander at the time of construction believed the home for the most important officer on the post should look grander than all the other buildings.<br /> <br /> Towards the top of the building the neat looking stones end. An officer from the Inspector General's office touring forts in the department considered the extra expense of finishing off the stones wasteful and ordered a stop to it. <br /> <br /> Once finished, <a href=\"javascript:HandleLink(\">Maj. Meridith Kidd</a> was the first post commander to occupy the house with his family.<br /> <br />  </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.214783,
+          38.183412
+        ]
+      },
+      "properties": {
+        "name": "Prairie Ecosystem around Fort Larned",
+        "notes": "Prairie Ecosystem around Fort Larned\nhttps://www.nps.gov/places/prairie-ecosystem-around-fort-larned.htm\n\n<h4>Stop 8 - Prairie Ecosystem at Fort Larned</h4> <p>Beyond the fort’s boundaries, the immense prairie that once thrived here supported an abudance of plant and animal life.<br /> <br /> This ecosystem was once home to bison, wolves, elk, grizzly bears, pronghorns, and more. Most of these animals have been pushed from their homes in the last two centuries as the land has been converted to agriculture, cities, and roads. Fort Larned National Historic Site protects a small area of grassland, offering a window into this now radically altered ecosystem.</p> <p>Today, mule deer and white-tail deer are the only hoofed mammals still here. You can still find many small mammals, though. Fox squirrels, thirteen-lined ground squirrels, prairie dogs, pocket gophers, beavers, skunks, raccoons, opossums, coyotes, muskrats, weasels, and badgers all make their home here. Occasionally, you might even see an armadillo in the northern extreme of their range.</p> <p>Several species of reptiles may also be found at Fort Larned like lizards, toads, turtles, bullsnakes, blue racers, hog-nosed snakes, and garter snakes.<br /> <br /> The nature trail’s variety of habitats provide for numerous species of birds such as hawks, orioles, kingbirds, blue jays, and red-headed woodpeckers, among many others. Fort Larned is located on the Central Flyway, a major bird migration corridor. White-fronted geese, sandhill cranes, and many other species pass over Fort Larned during spring and fall migrations.</p> <p>Dozens of species of grasses, forbs, and shrubs constitute the plant life of the grasslands, providing food and shelter for animals as well as impressive wildflower displays.</p> <p>Cottonwood trees, dependent on the water available in the river, line the banks of the Pawnee Fork. Historic photos show far fewer trees than today, largely because the trees were susceptible to naturally-occurring prairie fires and were also used for fuel.<br />  </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.21790219510649,
+          38.182481892085974
+        ]
+      },
+      "properties": {
+        "name": "Quartermaster Warehouse",
+        "notes": "Quartermaster Warehouse\nhttps://www.nps.gov/places/quartermaster-warehouse.htm\n\n<p> </p> <p>The Quartermaster Department was responsible for almost everything to keep the post operating except for food and ammunition. This included not only the transportation and storage of all army supplies needed by the post, but also construction and repair of all military buildings. <br /> <br /> Built in 1867, the Quartermaster Warehouse was the second sandstone army building completed during the post-Civil War construction program that replaced most of the sod and adobe buildings. It's the largest building at the post - 158 feet long by 48 feet deep. Only the office and issue room were plastered and heated, the rest is a large open warehouse. <br /> <br /> This building’s storeroom was filled with military clothing, bedding, tents, field gear, tools, hay and feed for all animals from work to cavalry horses, and other materials needed for frontier military operations. Items in the warehouse were issued to soldiers and officers who needed them from the issue room on the west side of the building. <br /> <br /> The Quartermaster Officer oversaw all the operations and was responsible for all the supplies in the department. He would be assisted by clerks, sometimes civilian contractors and sometimes soldiers assigned to the duty.<br />  </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.141685,
+          38.188148
+        ]
+      },
+      "properties": {
+        "name": "Santa Fe Trail Center",
+        "notes": "Santa Fe Trail Center\nhttps://www.nps.gov/places/santa-fe-trail-center.htm\n\n<p>The Santa Fe Trail Center Center is four miles east of Larned. This museum and research library tells the story of the Santa Fe Trail, as well as local Larned history. Museum exhibits tell the story of Larned and Pawnee county starting with the prehistoric American Indians through the Santa Fe Trail period and on to its transition into a community of farmers and ranchers. Their museum features an extensive collection of artifacts ranging from prehistoric Indian artifacts to trade items from the Santa Fe Trail, as well as more recent history dealing with the settlement and development of Larned and Pawnee County.  </p> <h2>Site Information</h2> <p><strong>Location</strong> (Larned, Kansas)</p> <em><a href=\"https://www.nps.gov/safe/planyourvisit/safety.htm\">Safety Considerations </a></em> <h2><a href=\"https://www.nps.gov/safe/index.htm\">Santa Fe National Historic Trail</a></h2>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.21867032350231,
+          38.182541750646166
+        ]
+      },
+      "properties": {
+        "name": "South Officers' Quarters",
+        "notes": "South Officers' Quarters\nhttps://www.nps.gov/places/south-officers-quarters.htm\n\n<p>Just as the barracks were designed with four companies in mind, the company officers' quarters were also designed to house four companies' worth of officers. A typical company's officers included two lieutenants and one captain. As such, each of the one-story buildings housed two captains and four lieutenants.<br /> <br /> The captain’s quarters were at the ends of the buildings and had two rooms, a kitchen, and servant’s room. Lieutenants had one room each with no kitchen until 1870. At that time, wooden lean-to structures were added at the back of each building to give the lieutenants kitchens and servant space.<br />  </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.21646427183892,
+          38.182942205929315
+        ]
+      },
+      "properties": {
+        "name": "The Fort Larned Blockhouse",
+        "notes": "The Fort Larned Blockhouse\nhttps://www.nps.gov/places/fort-larned-blockhouse.htm\n\n<p>Many frontier forts didn't have walls around them. Trees were scare on the prairies, making wood for a stockade too expensive. Instead, they built blockhouses, which provided a defensive structure in case of Indian attack.<br /> <br /> Fort Larned's blockhouse was built in the of winter 1864-65 to strengthen the fort's defenses after a Kiowa raid in June of 1864. The Kiowas were able to steal 172 of the fort's horses and mules. This hexagonal stone building contained a powder magazine, two levels of rifle slits or loopholes, an underground passageway, and well. However, it was not needed for defense, so in 1867 it was converted into a guardhouse and served as the post jail.<br /> <br /> The original structure was dismantled around 1900 by civilian owners who used its sandstone blocks to build other structures and to shore up the wooden porches on officers' row. When the building was rebuilt in in 1986, at least 200 of the original stones were used in the reconstruction.<br />  </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.2181125004,
+          38.1830997
+        ]
+      },
+      "properties": {
+        "name": "The Fort Larned Parade Ground",
+        "notes": "The Fort Larned Parade Ground\nhttps://www.nps.gov/places/the-fort-larned-parade-ground.htm\n\n<p>Ceremonies and drills were part of the daily routine at military posts throughout the Indian Wars period. Reveille and Retreat were the two most important ceremonies performed on the parade ground. The flag was raised at Reveille and lowered at Retreat. In both cases all the soldiers at the post stood in formation by company as the color guard performed the ceremony. Other ceremonies could include inspections and troop reviews.<br /> <br /> Military drills were how soldiers learned, and reinforced, the maneuvers they would use in combat, including marching in formation and responding to the various bugle calls that signaled different movements. This important practice took place on the parade ground.<br />  </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.2197769,
+          38.181770601
+        ]
+      },
+      "properties": {
+        "name": "The Indian Agency at Fort Larned",
+        "notes": "The Indian Agency at Fort Larned\nhttps://www.nps.gov/places/the-indian-agency-at-fort-larned.htm\n\n<h4>12 - The Indian Agency at Fort Larned</h4>   <p>From 1862 to 1868 Fort Larned served as an Indian Agency for the Indian Bureau. Agencies were set up as part of a formal relationship when the U.S. government signed a treaty with an Indian tribe. In exchange for their land the government promised them goods, food and annuities. Indian Agents maintained a relationship with the tribes to coordinate the distribution of those goods, as well as to make sure they were following the terms of the treaty.<br /> <br /> Agents were assigned regionally and usually located in communities or forts close to the tribes they were responsible for. Noted Indian Bureau agents Edward W. Wynkoop and Jesse Leavenworth were among those who served the tribes from Fort Larned. Edward Wynkoop rented the sutler's quarters at the original post sutler's complex to serve as his office. <br /> <br /> The Cheyenne, Arapaho, Kiowa, Comanche and Plains Apache were assigned to the agency here. The annuity goods they received from the government were most often distributed in the Autumn. For the years that Fort Larned served as an agency for the Indian Bureau, post residents watched in fascination as the scattered bands of these Plains Indian tribes assembled at the fort. Pitching their tipis on nearby prairie, the tribes settled in to locate their friends and kin among their neighbors, to trade, and to await distribution of their annuities.<br /> <br /> Annuities included staples like bacon, wheat flour, coffee, sugar, fresh beef, and tobacco. Usually clothing, beads, blankets, metal tools and cooking utensils, gunpowder, and lead for bullets were also provided. The annuity system was designed to pacify and transform roaming tribes of warlike Indians into sedentary, peaceful farmers. But they were reluctant to give up their traditional way of life and continued to fight against the U.S. government’s attempts to place them on reservations. <br />  </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.212228,
+          38.184775
+        ]
+      },
+      "properties": {
+        "name": "The Santa Fe Trail at Fort Larned",
+        "notes": "The Santa Fe Trail at Fort Larned\nhttps://www.nps.gov/places/the-santa-fe-trail-at-fort-larned.htm\n\n<h4>Stop 7 - The Santa Fe Trail at Fort Larned</h4> <p>Wagon trains following the Dry Route crossed the river near the modern water tower on the horizon and passed the south side of Fort Larned near where you're standing. Some wagons followed the north bank of the river, crossing on the west side of Fort Larned. Fort Larned's sandstone blocks were quarried to the left of the water tower.<br /> <br /> You can explore other places along the Santa Fe Trail using the Santa Fe National Historic Trail's <a href=\"https://safe.oncell.com/en/index.html\">Oncell cell phone tour</a>.<br />  </p>",
+        "icon": "red-pin-down.png"
+      }
+    }
+  ]
+}

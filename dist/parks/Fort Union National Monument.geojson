@@ -1,0 +1,20 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.01239776611328,
+          35.90705871582031
+        ]
+      },
+      "properties": {
+        "name": "Fort Union National Monument, the Santa Fe Trail",
+        "notes": "Fort Union National Monument, the Santa Fe Trail\nhttps://www.nps.gov/places/fort-union-national-monument-the-santa-fe-trail.htm\n\n<p>Fort Union commanded the intersection of the Mountain and Cimarron Branches of the Santa Fe Trail. In a larger sense the fort served as symbol and substance of national power in a vast new acquisition far removed from the eastern heartland. In this context the Santa Fe Trail changed from route of commerce to military lifeline.</p> <p>Founded in 1851, Fort Union served both military and logistical functions. During the first few years, Fort Union's mounted troops patrolled the trail. Later, the fort provided escorts for mail stages. Until the Civil War period, wagon trains usually provided their own defense. Then the combination of Indian uprisings and raids by Texas-based Confederates forced a new regime of patrols, escorts, and subposts to protect all travelers and keep open the critical link between the Southwest and the States.</p> <p>The start of the Civil War had brought a serious military threat to the trail and to Fort Union itself with a brigade size Confederate invasion that aimed to capture the western portions of the trail and the Colorado gold fields. <a href=\"https://www.nps.gov/foun/learn/historyculture/cultural-encounters.htm\">Read more...</a></p> <h2>Site Information </h2> <p><strong>Location</strong> (3115 NM Highway 161 Watrous, NM)</p> <p><em><a href=\"https://www.nps.gov/oreg/planyourvisit/safety.htm\">Safety Considerations</a></em></p> <h3><a href=\"https://www.nps.gov/foun/index.htm\">Fort Union National Monument</a></h3> <h2><a href=\"https://www.nps.gov/safe/index.htm\">Santa Fe National Historic Trail</a></h2>",
+        "icon": "red-pin-down.png"
+      }
+    }
+  ]
+}

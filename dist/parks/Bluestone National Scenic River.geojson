@@ -1,0 +1,35 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.99883270263672,
+          37.53411865234375
+        ]
+      },
+      "properties": {
+        "name": "Bluestone Turnpike Trail",
+        "notes": "Bluestone Turnpike Trail\nhttps://www.nps.gov/places/bluestone-turnpike-trail.htm\n\n<h4>Length</h4> <p>4 to 5 hours -9.5 miles (one way)</p> <h4>Difficulty</h4> <p>Moderate</p> <h4>Trail Type</h4> <p>Hiking </p> <h4>Trail Description</h4> <p>Follow the path of an old riverbank road, the Bluestone Turnpike. Farmed and timbered until the 1940s, this forested area has a great diversity of plants and river wildlife. This area is now managed as a wildlife area. This area still has remnants of its human history, like the town site of Lilly located at the confluence of the Bluestone and Little Bluestone Rivers. Please note that overnight camping is not permitted in this area.</p> <p>The Bluestone Turnpike Trail junctions on the north end with Bluestone State Park’s campground road, just past the Old Mill Camprground. On the south end in Pipestem Resort State Park, this trail junctions with Farley Loop Trail and River Trail. These trails can be accessed from the Mountain Creek Lodge (at the base of the tram at Pipestem Resort State Park).</p> <h4><br /> <strong>Directions to Trailhead</strong></h4> <p>The Bluestone Turnpike Trail is best accessed via one of two West Virginia State Parks that lie at each end, Bluestone State Park to the north and Pipestem Resort State Park to the south. To reach these parks from I-64, take exit 139, then south on WV 20. Bluestone State Park is 15 miles and Pipestem is 22 miles. From I-77 take exit 14 to WV 20 north. Pipestem is 14 miles and Bluestone is 22 miles.</p> <h4> </h4> <p>This trail can also be accessed from the historic town site of Lilly, just a few miles upstream of Bluestone State Park. To get to the Lilly Trailhead take WV 3 to Nimitz. Turn onto Ellison Ridge Road (CO 27). Travel 1.6 miles to where the road splits, stay on Ellison Ridge Road and continue an additional 2.4 miles. Then turn left onto Little Bluestone Road; travel 100 yards and turn left. Go to the bottom of the mountain. This road takes you to the parking lot at Lilly.</p> <h4><br /> <strong>Join us for a ranger guided hike of the Bluestone Turnpike</strong></h4> <p>Meet a ranger at the bottom of the tramway at Pipestem Resort State Park to walk within Bluestone National Scenic River for a mile and return. The hike is a fairly easy walk along the Bluestone River with a few small hills and some rough footing. Along the way, enjoy the flora and fauna of the area and discuss a little regional history. Bring good walking shoes, drinking water, and money for the return tram ride. This hike is scheduled weekly throughout the summer and early fall. Check the website for an up to date schedule.</p> <h4><strong>Turnpike Through Hike</strong></h4> <p>Join a ranger for a hike along the entire 9.5 mile trail. Hikes are normally scheduled several times each summer. Check the website for a schedule. Meet a ranger at the bottom of the tramway at Pipestem Resort State Park to walk almost the entire length of Bluestone National Scenic River. The hike ends at Bluestone State Park and a shuttle will be provided for the return trip to Pipestem. Take advantage of this great opportunity to explore a very beautiful and remote area without having to arrange your own shuttle. The hike is mostly level and gentle downhill, although there are a few small hills and some rough and muddy footing. Bring a lunch, sturdy hiking shoes, rain gear, and plenty of drinking water.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.1876373291016,
+          37.7775917053223
+        ]
+      },
+      "properties": {
+        "name": "National Coal Heritage Area",
+        "notes": "National Coal Heritage Area\nhttps://www.nps.gov/places/coal-national-heritage-area.htm\n\n<p>The mission of the National Coal Heritage Area (NCHA) is to preserve, protect, and interpret lands, structures, and communities associated with the coal mining heritage of southern West Virginia.  The NCHA includes 13 counties in southern West Virginia: Boone, Cabell, Fayette, Logan, McDowell, Mercer, Mingo, Raleigh, Summers, Wayne, Lincoln, Wyoming, and Cabin Creek and Paint Creek in Kanawha County.<br /> <br /> As the coordinating entity for the National Heritage Area, <a href=\"http://www.coalheritage.org/\">National Coal Heritage Area Authority</a> works to preserve, interpret, and promote the rich coal heritage of southern West Virginia.  To accomplish this, the NCHA depends on a strong network of partner organizations at the local, state, and federal level.<br /> <br /> In addition to other cultural preservation initiatives, projects the NCHA has supported include revitalization of the downtown Bluefield Historic District including Chicory Square; restoration of the Nellis Church in Boone County; reconstruction of the Bramwell Depot in Mercer County; assistance with development of new exhibits at the Miner’s Museum in Boone County; construction of the new visitor center at the Beckley Exhibition Coal Mine; and more.<br /> <br /> <strong>National Coal Heritage Area is home to the following NPS units:</strong></p> <ul> <li> <p><a href=\"https://www.nps.gov/blue/index.htm\">Bluestone National Scenic River</a></p> </li> <li> <p><a href=\"https://www.nps.gov/gari/index.htm\">Gauley River National Recreation Area</a></p> </li> <li> <p><a href=\"https://www.nps.gov/neri/index.htm\">New River Gorge National River</a></p> </li> </ul>",
+        "icon": "red-pin-down.png"
+      }
+    }
+  ]
+}

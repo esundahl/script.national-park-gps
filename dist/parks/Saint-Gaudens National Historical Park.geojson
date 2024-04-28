@@ -1,0 +1,155 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.3690208996,
+          43.5009304007
+        ]
+      },
+      "properties": {
+        "name": "Adams Memorial",
+        "notes": "Adams Memorial\nhttps://www.nps.gov/places/adams-memorial.htm\n\n<table> <tbody> <tr> <td> <h4>The right hand grazes the edge of a long face shrouded by flowing drapery. The hood casts a dark shadow. The eyes look heavy. The gender is undefined. This figure marks the grave of Marian “Clover” Hooper Adams (1843-1885) in Washington, DC. The piece by Augustus Saint-Gaudens (1848-1907) reflects a search for fundamental truths amid personal tragedy and a changing world.</h4> <br /> Marian “Clover” Hooper Adams was born to a prominent Boston family and married one of the remaining descendants of an American political dynasty. This member of elite social circles was known for her wit, intelligence, and athleticism. She became a skilled photographer. However, Adams also experienced the isolation of gender constraints by those around her. Henry Adams (1838-1918), her husband, was a sharp cultural critic and eclectic intellectual. In 1877, the couple moved to a home along Lafayette Square in Washington, DC.<br /> <br /> In 1885, Clover Adams died by suicide after suffering from depression. Henry Adams was inconsolable with grief, guilt, and the stigma of suicide. He hardly spoke of his late wife again and only broke his silence by commissioning this piece of art.<br /> <br /> In the wake of her death, Henry Adams traveled to Japan. There, he was drawn to Buddhist philosophy and iconography relating to Nirvana, a transcendent state beyond suffering. He requested that Augustus Saint-Gaudens express this philosophy in a memorial to his late wife. The sculptor noted in his sketchbook the phrases: “Adams – Buhda[sic] – Mental Repose – Calm reflection in contrast with the violence or force in nature.” In 1891, the finished work was installed near the gravesite in Rock Creek Cemetery. There is release and detachment in the figure’s expression, but there exists a palpable sorrow as well.<br /> <br /> The figure marked the grave of Marian Adams without depicting her likeness or stating her name. Saint-Gaudens referred to his work as “The Mystery of the Hereafter and The Peace of God that Passeth Understanding.” Henry Adams was adamant that the sculpture remains nameless. The timelessness and enigma of the personal memorial stood in opposition to the popular belief in progress and rationality during the Gilded Age. The artist “meant it to ask a question, not to give an answer,” Adams explained. This sculpture continues to be a source of contemplation for people of all backgrounds. “Like all great artists, St. Gaudens held up the mirror and no more.” This recasting was installed amongst the hedges in 1972.<br /> <br /> The National Suicide Prevention Lifeline is a hotline for individuals in crisis or for those looking to help someone else. To speak with a certified listener, call 988.</td> </tr> </tbody> </table>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.3678108993,
+          43.5010135997
+        ]
+      },
+      "properties": {
+        "name": "Admiral Farragut Monument",
+        "notes": "Admiral Farragut Monument\nhttps://www.nps.gov/places/admiral-farragut-monument.htm\n\n<h4>\"There is no cold conventionalism…but a penetrating imagination”, said fellow artist, Keneyon Cox (1856-1919), about this debut public commission by Augustus Saint-Gaudens (1848-1907). Unveiled in New York City’s Madison Square Park in 1881, the statue depicts Admiral David Glasgow Farragut (1801-1870) looking resolutely ahead. The Civil War commander stands in full naval uniform with feet apart. His coat billows open as if from a strong, salty gale while passersby may sit in the wide bench below to share the figure’s outward gaze.</h4> <br /> Augustus Saint-Gaudens’ first major public commission immediately received praise from the press and art critics. The realistic representation and care for dramatic detail brought a new energy to American public sculpture. While harnessing this naturalism, Saint-Gaudens crafted a stoic and idealized hero at the heart of the city. The artist also pioneered the integration of architecture, landscape design, and monumental sculpture to create a powerful setting for his work. The invitation to sit at the semi-circular bench, known as an exedra, was designed by the architect Stanford White (1853-1906) and carved in bluestone by Augustus Saint-Gaudens and his brother, Louis (1854-1913).<br /> <br /> Having finally received a large-scale commission, Augustus Saint-Gaudens married Augusta Homer (1848-1926) in 1877 after a five-year engagement. Shortly afterwards, the newlyweds worked together in a Paris studio where Augusta Saint-Gaudens contributed to the details of Admiral Farragut’s clothing. Though she would remain instrumental to her husband’s career and legacy, this was the only time she assisted in the physical process of sculpting. This piece would also be the first of many collaborations Saint-Gaudens undertook with longtime-friend, Stanford White.<br /> <br /> In 1934, the City of New York replaced the deteriorating bluestone base with a granite replica. The original base was relocated here in 1984 and topped with a recasting of the statue.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.369267,
+          43.500578
+        ]
+      },
+      "properties": {
+        "name": "Aspet",
+        "notes": "Aspet\nhttps://www.nps.gov/places/aspet-saint-gaudens-nhp.htm\n\n<table> <tbody> <tr> <td>Augustus Saint-Gaudens (1848-1907) was not impressed when he saw this building in April 1885. The celebrated sculptor could relax and focus on his work outside of New York City having achieved an income which could afford the luxury of a summer place. This property, however, appeared “so forbidding and relentless” on that dark, rainy day to him that one “might have imagined a skeleton half hanging out of the window, shrieking and dangling in the gale, with the sound of clanking bones.” Nonetheless, Augusta Saint-Gaudens (1848-1926), the sculptor’s wife, saw potential in the property and the Saint-Gaudens family first occupied the house that summer. Soon, the place had become a beloved home.<br /> <br /> The Saint-Gaudens family continued summering here and gradually made many changes that reflected their lives and tastes. The sculptor named the estate ‘Aspet’ after the town in France where his father was born. They added terraces, gardens, and porches.  Inside, the family renovated the aging structure and decorated the space with objects from around the world. The summer home became a primary residence not long after Augustus Saint-Gaudens was diagnosed with cancer in 1900. This estate in New Hampshire became the center of internationally known sculptor’s life until his death here seven years later.<br /> <br /> Augusta Saint-Gaudens, continued to summer at Aspet after her husband’s death and, in 1919, established the Saint-Gaudens Memorial. After her death in 1926, this private, nonprofit organization opened the home to public as a museum. In 1964, the Saint-Gaudens Memorial donated the property and many furnishings to the National Park Service.<br /> <br /> The first floor of Aspet is open limited hours seasonally.</td> </tr> </tbody> </table>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.37563596778477,
+          43.49653973891521
+        ]
+      },
+      "properties": {
+        "name": "Blow-Me-Down Bridge",
+        "notes": "Blow-Me-Down Bridge\nhttps://www.nps.gov/places/blow-me-down-bridge.htm\n\nBlow-Me-Down Bridge is adjacent to Blow-Me-Down Mill and the historic entry point to <a href=\"https://www.nps.gov/places/blow-me-down-farm-saint-gaudens-nhp.htm\">Blow-Me-Down Farm</a>. The elaborate stone bridge provided access to the estate via the formerly named River Road. Built in 1888, it served as crucial infrastructure in the town of Cornish. Though the road has been redirected, parts of its stone structure are still visible today from the <a href=\"https://www.nps.gov/saga/planyourvisit/recreational-trails.htm\">Blow-Me-Down Trail</a>.<br /> <br /> <a href=\"https://www.nps.gov/places/blow-me-down-farm-saint-gaudens-nhp.htm\">Blow-Me-Down Farm</a>, the <a href=\"https://www.nps.gov/articles/000/blow-me-down-farm-and-the-country-place-era.htm\">country place</a> of Charles and Hettie Beaman beginning in 1882, is located just west of modern-day NH Route 12A next to the Connecticut River. The Chase family, among others, had previously owned the property, but Charles Beaman made many improvements to the land and structures during his time there.<br /> <br /> One such improvement was the construction of a substantial stone bridge over Blow-Me-Down Brook allowing the traffic from the then-named River Road, now known as NH 12A, to pass over the brook and access his estate. A wooden bridge dating to the first half of the nineteenth century stood at the site, but it did not befit the grand estate entrance that Beaman envisioned for his country home. The wooden bridge had been the subject of numerous repairs, and in October 1887 it was closed for several days to fix the middle pier. The Town of Cornish had contracted to rebuild a wooden bridge, but Charles Beaman and his father-in-law, William Evarts, offered funds to build a more substantial stone bridge.[1]<br /> <br /> By the spring of 1888, Cornish mason Jabez Hammond was heading up construction of a stone-arch bridge designed by Joseph Morrill Wells of the architectural firm of McKim, Meade & White. Wells’ design featured rustic dry-laid fieldstone masonry walls, a single barrel brick vault, and an oversize stone block at the center of each of the parapet walls. Beaman’s bridge was built on the site of the old wooden bridge and was completed in July of 1888. The new bridge provided a handsome approach to the main entrance of Blow-Me-Down. Its traditional design and construction reflected Beaman’s interest in creating visual harmony between his estate and the surrounding rural countryside.[2]<br /> <br /> Beaman’s Blow-Me-Down bridge was modified in 1926-1927 during the improvements to River Road (which had been renamed Wilson Road in 1913) to prepare it for automobile use. At the bridge, the state widened the downstream side of the road, and smoothed the curve of the southern approach. The south side of the bridge was rebuilt with the same stone walls and arch, but the underlying brick vault was extended in concrete.[3] The original stone arch north face of the bridge was left intact, at a good distance from the new road.[4]<br /> <br /> Blow-Me-Down bridge was then partially demolished when NH Route 12A was expanded and realigned in 1959. Today, only the northern portion of the bridge remains including one of the stone arches. This structural remnant is isolated in an area of mowed lawn east of the current alignment of NH Route 12A and near the trailhead of the Blow-Me-Down Trail.<br /> <br /> <strong>Note: </strong>The above article was adapted from <em>Cultural landscape report for Blow-Me-Down Farm: Saint-Gaudens National Historical Park</em> by James Mealey, John Auwaerter, and Sara L. French; State University of New York, College of Environmental Science and Forestry (2022), pages 21-22, 35, 38-39, 53-54, 65-66, 97-100, 120, 132, 140, 204-206, 285-286.<br /> <br /> <strong>Works Cited </strong><br /> [1] William H. Child, <em>History of the Town of Cornish, New Hampshire with Genealogical Record</em>, 1763–1910 (Concord, NH: The Rumford Press, 1910), volume I, 227.<br /> [2] Blowmedown Record, 43-45; National Register of Historic Places Inventory-Nomination Form, “Saint-Gaudens National Historic Site” (Prepared for the National Park Service by PAL, 2012), Section 7, page 15.<br /> [3] “Saint-Gaudens National Historic Site” (Prepared for the National Park Service by PAL, 2012), Section 7, page 15; Missouri University of Science and Technology, GE6441 Online Class Lecture 2014, “Geotechnical Construction Practice, Part 2, Crib Walls” https://web.mst.edu/~rogersda/umrcourses/ge441/online_lectures/retention_structures/GE441-Lecture6-2.pdf (accessed August 8, 2019).<br /> [4] State of New Hampshire, “Alignment & Grade Line Revised” [Route 12A], Project S49-2, sheet 25, March 25, 1959; inspection by authors of existing wetland and abandoned roadbed; Blow-Me-Down Mill CLI, 41.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.378244,
+          43.497942
+        ]
+      },
+      "properties": {
+        "name": "Blow-Me-Down Farm",
+        "notes": "Blow-Me-Down Farm\nhttps://www.nps.gov/places/blow-me-down-farm-saint-gaudens-nhp.htm\n\n<table> <tbody> <tr> <td>Blow-Me-Down Farm served as an important social and creative center for the Cornish Colony, an influential group of artists, writers, and otherwise creative Americans who spent time in Cornish in the late- nineteenth and early-twentieth centuries. The estate served as the Beaman family’s rural retreat and model farm for nearly 70 years.<br /> <br /> Charles C. Beaman, Jr. (1840-1900) was a prominent New York City lawyer who had gained prominence in the aftermath of the U.S. Civil War by serving on the Geneva, Switzerland tribunal that settled claims made against the U.S. by Confederate ships. While in Geneva, Beaman met Hettie Sherman Evarts (1852-1917), the eldest daughter of the case's lead attorney. On August 19, 1874, Charles and Hettie married in Windsor, Vermont, not far from the Evarts family estate. <br /> <br /> n 1882, the family acquired the old Moses Chase Farm in nearby Cornish, NH. This property’s prominent position spread across a pair of rolling terraces wedged between the Connecticut River and Blow-Me-Down Brook. They commissioned architects and local tradespeople to complete the Bank Barn, Chauncey Cottage, Blow-Me-Down Mill, Casino, and Dance Hall. The estate, which they would name “Blow-Me-Down Farm”, eventually included a gristmill, an extensive livestock collection, orchards, gardens, a tennis court, golf course, and a “gymnasium” for the children. <br /> <br /> The Beamans encouraged friends and acquaintances, many of whom were artists, writers, actors, and otherwise influential urbanites, to join them in Cornish. Over time, this creative social circle came to be known as the Cornish Colony. Charles C. Beaman, Jr. first invited Augustus Saint-Gaudens (1848-1907), the famed sculptor of the Gilded Age, to Cornish in 1885. Several years later, Beaman sold Saint-Gaudens the property that would become known as Aspet, the artist's country home and studio. Blow-Me-Down Farm, and neighboring Aspet, existed at the center of the colony's social and creative life.<br /> <br /> The dissolution of the Cornish Art Colony occurred gradually beginning in the 1920s. The property continued under Beaman family ownership until 1950 and was eventually purchased by the Saint-Gaudens Memorial, a non-profit operating partner of the Saint-Gaudens National Historical Park. In 2010, 42.6-acres of the original estate was transferred to the National Park Service. Today, a portion of the property is leased to the performing arts organization, Opera North.<br /> <br /> Blow-Me-Down Farm is open only for ranger-guided tours and special events. </td> </tr> </tbody> </table>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.369586,
+          43.500888
+        ]
+      },
+      "properties": {
+        "name": "Little Studio",
+        "notes": "Little Studio\nhttps://www.nps.gov/places/little-studio-saint-gaudens-nhp.htm\n\n<table> <tbody> <tr> <td>Light from a wall of windows illuminates this place of creativity, inspiration, and exhibition. Augustus Saint-Gaudens (1848-1907) worked here alone, or with a few chosen assistants. The artist sketched, designed, and modeled many of his large monuments and smaller reliefs in this space while the remainder of his studio staff worked in the larger, Studio of the Caryatids.<br /> <br /> When Saint-Gaudens first came to Cornish in 1885, he converted an old hay barn on this spot into a studio to work on the “Standing Lincoln” and other sculptures. In 1904, the barn was replaced by this studio, designed by architect George Fletcher Babb.<br /> <br /> Augustus Saint-Gaudens created an environment that both inspired him and put his own work in a continuum of Western Art. Outside, a reproduction of the Parthenon freeze in Greece overlooks the columned pergola. Inside, the artist looked upon reproduction paintings from the Italian Renaissance. Today, visitors can enter the private studio of this sculptor at the center of the artistic and cultural movement known as the American Renaissance.<br /> <br /> The interior of the Little Studio is open seasonally.</td> </tr> </tbody> </table>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.3677618533,
+          43.5012820628
+        ]
+      },
+      "properties": {
+        "name": "New Gallery & Atrium",
+        "notes": "New Gallery & Atrium\nhttps://www.nps.gov/places/new-gallery-atrium-saint-gaudens-nhp.htm\n\n<table> <tbody> <tr> <td>From the cameos that launched the artist’s career to the gold coins that were minted after his death, the New Gallery & Atrium showcase a variety of artwork by Augustus Saint-Gaudens (1848-1907). <br /> <br /> The New Gallery contains plaster versions of the Puritan, “Seated Lincoln”, and Robert Louis Stevenson Memorial along with rotating works by the sculptor and his assistants. Outside of the New Gallery, visit the Atrium to view many of the portrait reliefs that Saint-Gaudens created of family, friends, and clients. The glimmering image of his gilded relief, Amor Caritas, reflects in a pool at the center of this three-sided, open-air gallery and garden. Nearby, the Picture Gallery holds rotating contemporary art exhibits.<br /> <br /> This complex replaced the Studio of the Caryatids after an electrical fire destroyed Saint-Gaudens’ former working studio in 1944. The foundation was covered over, and in 1948, two remaining outbuildings were refurbished to serve as exhibition galleries. Architect John Ames designed a Roman Style atrium connecting the two buildings to fit in the classical architectural elements that Saint-Gaudens created on the property. This is the only structure built by the Saint-Gaudens Memorial – the foundation formed by members of the Saint-Gaudens family to continue the sculptor’s legacy.<br /> <br /> The New Gallery and Atrium are open seasonally.</td> </tr> </tbody> </table>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.368404,
+          43.500825
+        ]
+      },
+      "properties": {
+        "name": "Robert Gould Shaw & Massachusetts 54th Regiment Memorial",
+        "notes": "Robert Gould Shaw & Massachusetts 54th Regiment Memorial\nhttps://www.nps.gov/places/robert-gould-shaw-massachusetts-54th-regiment-memorial.htm\n\n<table> <tbody> <tr> <td> <h4>“One is almost able to catch the firm and regular beat of their iron heels on the stones of the street,” said activist Archibald Henry Grimké (1849-1930) gazing at the Robert Gould Shaw and Massachusetts 54th Regiment Memorial by sculptor Augustus Saint-Gaudens (1848-1907). </h4> <br /> This memorial was distinct among public commemoration of the American Civil War. While centering the white commander of the war’s first federally-raised regiment of African American men, the piece of art also depicted soldiers marching to wage a war over slavery. It is the first well-known, American civic monument to include dignified representation of Black men.  As it was unveiled along <a href=\"https://www.nps.gov/places/boston-common-ma.htm\">Boston Common</a> in 1897, racist violence and stereotypes continued to inflict harm on Black communities. In contrast, this monument depicts bravery, sacrifice, and the promise of equality. In 1997, this version was cast in bronze by the Saint-Gaudens Memorial and installed here as a testament to its groundbreaking public expression of dignity and resilience. <br /> <br /> On May 28, 1863, members of the newly formed regiment paraded through the streets of Boston. Individuals from 24 states enlisted in the <a href=\"https://www.nps.gov/articles/54th-massachusetts-regiment.htm\">54th Massachusetts Infantry Regiment</a> after the federal government finally allowed African American men to join the fight earlier that year. They understood the personal risk of war, protested unequal pay, and objected to the absence of Black officers.<br /> <br /> <a href=\"https://www.nps.gov/people/augustus-saint-gaudens.htm\">Augustus Saint-Gaudens</a> depicted the group entering the war with an angel overhead. The ethereal figure holds poppies close to her body – a symbol of death and an omen of the sacrifice to come. Three months later, the group demonstrated bravery when the 600 members of the regiment led a bold assault on Confederate-held <a href=\"https://www.nps.gov/articles/the-54th-massachusetts-and-the-second-battle-of-fort-wagner.htm\">Fort Wagner</a> in Charleston Harbor, South Carolina. 285 men were killed, missing, captured, or injured. Among the dead was the regiment’s commander, <a href=\"https://www.nps.gov/people/robert-g-shaw.htm\">Col. Robert Gould Shaw</a> (1837-1863). In the aftermath of this bloodshed, the regiment had proven the value of Black men in combat to many skeptical Americans in power. Other African American men enlisted as the government formed new regiments. Their service contributed to the defeat of the Confederacy and its defense of white supremacy.<br /> <br /> Even as the Civil War raged, Joshua B. Smith (1813-1879) proposed memorializing Col. Robert Gould Shaw in the commander’s home city of Boston. The African American business person and abolitionist was employed by the Shaw family before owning a catering company. After some promising starts, a committee of Bostonians awarded the sculptural commission to Augustus Saint-Gaudens in 1883. Initially focused on the challenge of producing an equestrian figure, the parents of Col. Shaw called on the artist to also memorialize the men their son had led in battle. Saint-Gaudens heeded the request and a more complex memorial began to take shape.<br /> <br /> The sculptor strove to create lifelike qualities and aesthetic balance. Saint-Gaudens modeled about 40 different heads after hiring African American men to pose. In this high relief composition, he featured a range of facial features, physical builds, and ages. His concern for detail and accuracy extended to clothing and accoutrements as well. Fourteen years passed before Saint-Gaudens completed the memorial to be installed in Boston Commons and even then, he continued his search for perfection. In 1997, this bronze was produced from a later plaster version in which the sculptor had made minor changes to the angel, horse, and flags. The original plaster is now on loan to the National Gallery of Art in Washington, DC.<br /> <br /> <i></i>The sculptor kept a low profile at the unveiling event in 1897 but was moved emotionally by the Civil War veterans participating in the ceremonies. “They seemed as if returning from the war, the troops of bronze marching in the opposite direction, the direction in which they had left for the front...It was a consecration,” he recounted. The sculpture quickly became an unofficial memorial of African American military service, a site of veterans’ reunions for several decades, and an enduring symbol of the unfinished work towards equality. </td> </tr> </tbody> </table>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.3721684997,
+          43.5018138987
+        ]
+      },
+      "properties": {
+        "name": "Temple",
+        "notes": "Temple\nhttps://www.nps.gov/places/temple-saint-gaudens-nhp.htm\n\nIn 1905, members of the Cornish Art Colony honored the Saint-Gaudens family with a classically styled pageant on this site. Members of the influential group of artists, writers, and otherwise creative Americans who spent time in Cornish dawned elaborate costumes inspired by Greek and Roman mythology. The informal group celebrated the twentieth anniversary of Augustus and Augusta Saint-Gaudens’ arrival in Cornish and their important role in the community.<br /> <br /> After Augustus Saint-Gaudens died in 1907, Augusta remembered this moving tribute and had a section of the pageant’s original scenery recreated in marble. This elegant structure honored the renowned sculptor in life and in death. The Temple is the final resting place of Augustus Saint-Gaudens, Augusta Saint-Gaudens (1848-1926), and other family members.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "name": "The Standing Lincoln",
+        "notes": "The Standing Lincoln\nhttps://www.nps.gov/places/the-standing-lincoln.htm\n\n<h4>There is perhaps no person more recognizable in American history than Abraham Lincoln (1809-1865). With striking detail, this 12-foot sculpture honors a larger-than-life figure. The wartime president appears to have risen from the elaborate ‘Chair of State’. His head is slightly bowed as though deep in thought. In the decades after the Civil War, Augustus Saint-Gaudens set out to depict “Abraham Lincoln: The Man.” In this work of public art, the noted orator seems ready to personally address the modern viewer. </h4> <br /> In 1885, Saint-Gaudens began creating a monument to the sixteenth president for Chicago’s Lincoln Park. That year, Charles Beaman enticed Saint-Gaudens to summer near his estate in Cornish, NH. The artist’s friend and attorney assured him that the area had “many Lincoln-shared men” who could be used as models. Such a man, nearly the same height and build as Lincoln, was found in Langdon Morse of nearby Windsor, VT. Two years later, this became the first public monument Saint-Gaudens completed in Cornish, NH.<br /> <br /> “Abraham Lincoln: The Man,” also referred to as “The Standing Lincoln,” has been recast several times usually for diplomatic purposes. In 1920, a cast was presented to Great Britain and placed in Parliament Square. In 1964, President Lyndon B. Johnson presented a copy of the statue to Mexico as a symbol of Mexican and American friendship. Soon afterwards, President Johnson would sign the legislation creating Saint-Gaudens National Historic Site.<br /> <br /> This most-recent casting of “The Standing Lincoln” was unveiled on June 26, 2016.",
+        "icon": "red-pin-down.png"
+      }
+    }
+  ]
+}

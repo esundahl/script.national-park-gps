@@ -1,0 +1,140 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.8628,
+          37.6176
+        ]
+      },
+      "properties": {
+        "name": "Bartizan",
+        "notes": "Bartizan\nhttps://www.nps.gov/places/bartizan.htm\n\nAt the end of the South Rim Trail, visitors reach the Bartizan, elevation 9,725ft, along the park's southern boundary. From the Bartizan hikers can see two spectacular arches and at the right time of year a waterfall is visible.<br /> <br /> Visitors should use extreme caution on the South Rim Trail and at Spectra Point as many area feature steep drop-off just off the trail. There are no railings at the Bartizan, visitors should remain back from the edge as the ground can be unstable. Dogs are not permitted on the South Rim Trail.<br /> <br /> <span style=\"color:#d35400;\"><em><strong>NOTE: The final portion of the South Rim Trail is currently being reconstructed, this portion will not be open until Summer 2021.</strong></em></span>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.837555073,
+          37.6093566468
+        ]
+      },
+      "properties": {
+        "name": "Cedar Breaks Information Center",
+        "notes": "Cedar Breaks Information Center\nhttps://www.nps.gov/places/cedar-breaks-information-center.htm\n\n<p>Due to construction of the park's new Visitor Contact Station during the 2021-2024 seasons, the Point Supreme Overlook will be completely blocked from visitor access. The park has moved visitor services to other areas of the park to address visitor needs during these seasons. Rangers are staffing the Information Center which is located at the southern end of the park. The Information Center is on the east side of Rim Road. At this <a href=\"https://www.nps.gov/cebr/planyourvisit/maps.htm\">Information Center</a>, visitors can speak with a ranger, pay their entrance fee, purchase an interagency park pass, pick up a junior ranger program, visit the park store, and get their passport stamped. </p> <p><br /> <strong>Park Store</strong></p> <p>The park store is in the same building as the Information Center (southeast of Point Supreme) and will be open daily from 9 a.m. to 5 p.m.</p> <p><strong>Ranger Programs</strong></p> <p>Park rangers will be offering public programs daily. For specific information, including starting locations and time, on daily programming <a href=\"https://www.nps.gov/cebr/planyourvisit/calendar.htm\">visit the calendar page</a> or stop by the information center or booth in the park. Programs will be posted online one month in advance.</p> <p><strong>Restrooms</strong></p> <p>The vault toilets at the Picnic Area will be open for visitor use. The restrooms at Point Supreme will be closed for the duration of the 2021-2024 seasons. Portable toilets will be added to the Information Center (southeast of Point Supreme) and North View Overlook in mid-June. Please plan ahead when traveling to the park.<br /> <em>NOTE: Campground restrooms are for registered campers only.</em></p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.832183,
+          37.630939
+        ]
+      },
+      "properties": {
+        "name": "Chessmen Ridge Overlook",
+        "notes": "Chessmen Ridge Overlook\nhttps://www.nps.gov/places/chessmen-ridge-overlook.htm\n\nOverlooking Chessmen Ridge, this overlook is centrally located on the rim overlooking the Cedar Breaks Amphitheater. It is the highest elevation overlook in the park at 10,461ft and offers stunning views of the ridge and surrounding formations. The overlook features one of the larger parking lots and can be used to access a bristlecone pine grove and the Alpine Pond Loop Trail by the Chessmen Ridge Spur Trail beginning at the overlook parking lot.<br /> <br /> The area is open year-round, but access does vary throughout the year depending upon weather. Once the park road is closed to vehicle access (normally in November each year), the overlook is only accessible by snowshoe, cross-country skies, or snowmobiles.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.43756708361622,
+          37.83482853143013
+        ]
+      },
+      "properties": {
+        "name": "Mormon Pioneer National Heritage Area",
+        "notes": "Mormon Pioneer National Heritage Area\nhttps://www.nps.gov/places/mormon-pioneer-national-heritage-area.htm\n\n<p paraeid=\"{cf2021eb-0e26-4c13-9bbd-a216dc6a8c33}{251}\" paraid=\"8\">Designated by Congress in 2006, this National Heritage Area is managed by the Utah Heritage Highway Alliance. The landscape along Highways 12, 24, and 89, now known as the <a href=\"http://www.mormonpioneerheritage.org/\">Mormon Pioneer National Heritage Area</a>, was originally occupied by the Paiute, Ute, and San Pitch Native American tribes. Today, the MPNHA spreads across six counties in Utah and stretches from Central Utah to the southern edge of the state. It preserves the story of the first Mormon pioneers in the area who settled there in 1849. The settlers were a “handpicked group of men, women, and children originally hailing from New England, England and Scandinavia,” and traces their settlement patterns across the United States into Utah.</p> <p paraeid=\"{50bd6341-e204-40a5-b79f-61c737fd23d0}{7}\" paraid=\"9\"><strong>This National Historic Area provides many opportunities to explore Mormon Pioneer heritage with five heritage districts:  </strong></p> <ul role=\"list\"> <li aria-setsize=\"-1\" data-aria-level=\"1\" data-aria-posinset=\"1\" data-font=\"Noto Sans Symbols\" data-leveltext=\"●\" data-listid=\"1\" role=\"listitem\"> <p paraeid=\"{50bd6341-e204-40a5-b79f-61c737fd23d0}{13}\" paraid=\"10\">Little Denmark – Visit Little Denmark for its rich Scandinavian pioneer influence and stories of immigration. They even have an annual Scandinavian Heritage Festival in Ephraim.  </p> </li> </ul> <ul role=\"list\"> <li aria-setsize=\"-1\" data-aria-level=\"1\" data-aria-posinset=\"1\" data-font=\"Noto Sans Symbols\" data-leveltext=\"●\" data-listid=\"1\" role=\"listitem\"> <p paraeid=\"{50bd6341-e204-40a5-b79f-61c737fd23d0}{20}\" paraid=\"11\">Sevier Valley – A rich landscape where farmers and ranchers followed the ancient Native American tradition of living off the land. Visit the Sevier Valley district for Big Rock Candy Mountain or Lemonade Springs.  </p> </li> <li aria-setsize=\"-1\" data-aria-level=\"1\" data-aria-posinset=\"2\" data-font=\"Noto Sans Symbols\" data-leveltext=\"●\" data-listid=\"1\" role=\"listitem\"> <p paraeid=\"{50bd6341-e204-40a5-b79f-61c737fd23d0}{27}\" paraid=\"12\">Headwaters – This district is known for its rich mining history and network of rivers and tributaries. Visit this area to find “abandoned mines and tales of lost gold.”  </p> </li> <li aria-setsize=\"-1\" data-aria-level=\"1\" data-aria-posinset=\"3\" data-font=\"Noto Sans Symbols\" data-leveltext=\"●\" data-listid=\"1\" role=\"listitem\"> <p paraeid=\"{50bd6341-e204-40a5-b79f-61c737fd23d0}{34}\" paraid=\"13\">Under the Rim – This district is frequented by Hollywood producers looking for a wild west feel. It is named after the red rock rims of the High Plateau of Utah. </p> </li> <li aria-setsize=\"-1\" data-aria-level=\"1\" data-aria-posinset=\"4\" data-font=\"Noto Sans Symbols\" data-leveltext=\"●\" data-listid=\"1\" role=\"listitem\"> <p paraeid=\"{50bd6341-e204-40a5-b79f-61c737fd23d0}{41}\" paraid=\"14\">Boulder Loop – Visit the Boulder Loop district for an awe-inspiring heritage byway showcasing cowboy and pioneer trails, Bryce Canyon and Capitol Reef National Parks and the Grand Staircase-Escalante National Monument. </p> </li> </ul> <p paraeid=\"{50bd6341-e204-40a5-b79f-61c737fd23d0}{48}\" paraid=\"15\">Each district boasts a unique history while remaining connected to the larger focus of Mormon Pioneer heritage. Mormon Pioneer National Heritage Area is beloved among many communities in Utah and is sure to make an impact on all who visit!  </p> <h2 paraeid=\"{50bd6341-e204-40a5-b79f-61c737fd23d0}{139}\" paraid=\"30\"><strong>Historic Sites and Points of Interest: </strong></h2> <ul role=\"list\"> <li><a href=\"https://fairviewmuseum.org/\">Fairview Museum of History and Art</a></li> <li><a href=\"https://sanpete.com/pages/temple\">Manti Temple - 1888</a></li> <li><a href=\"http://www.casinostartheatre.com/history.html\">Casino Star Theatre</a></li> <li><a href=\"https://sanpete.com/businesses/show/674-moroni-historic-opera-house\">Moroni Opera House - 1890</a></li> <li><a href=\"https://geology.utah.gov/map-pub/survey-notes/geosights/big-rock-candy-mountain/\">Big Rock Candy Mountain</a></li> <li>Scandinavian Heritage Festival</li> <li><a href=\"https://www.escalanteheritagecenter.org/\">Escalante Pioneer Heritage Center</a></li> <li><a href=\"https://www.ghosttowns.com/states/ut/kimberly.html\">Kimberly - Ghost Town Natural History/Pioneer Museum</a></li> <li><a href=\"https://www.circlevilleutah.org/butch.html\">Circleville M. Parker (Butch Cassidy Cabin) - 1878</a></li> <li><a href=\"https://www.littlehollywoodmuseum.org/little-hollywood-history.html\">Kanab - Parry Lodge, Home to the Movie Stars Little Hollywood Walk of Fame</a></li> </ul> <h2 paraeid=\"{50bd6341-e204-40a5-b79f-61c737fd23d0}{219}\" paraid=\"42\"><strong>Notable People:  </strong></h2> <ul role=\"list\"> <li><a href=\"https://www.biography.com/crime-figure/butch-cassidy\">Butch Cassidy</a></li> <li><a href=\"https://www.britannica.com/biography/Brigham-Young\">Brigham Young</a></li> <li><a href=\"http://sanpetemessenger.com/archives/8905\">Chief Sanpitch</a></li> <li><a href=\"https://www.britannica.com/biography/Black-Hawk-Sauk-and-Fox-leader\">Chief Blackhawk</a></li> <li><a href=\"http://isdup.org/\">The Daughters of the Utah Pioneers</a> (past, present, and future</li> </ul>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.834466265,
+          37.6565560616
+        ]
+      },
+      "properties": {
+        "name": "North View Overlook",
+        "notes": "North View Overlook\nhttps://www.nps.gov/places/north-view-overlook.htm\n\nThe northern-most scenic overlook at the national monument, North View is located just inside the north entrance along Highway 143. The overlook features a large parking lot and interpretive waysides. The overlook is accessible by private vehicles.<br /> <br /> The area is open year-round, but access does vary throughout the year depending upon weather. Utah Department of Transportation clears Highway 143 during daylight hours in the winter season, though the overlook parking lot is not cleared. During the winter, the overlook can be accessed by snowshoes or cross-country skies.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.838354444,
+          37.6132756852
+        ]
+      },
+      "properties": {
+        "name": "Point Supreme Overlook",
+        "notes": "Point Supreme Overlook\nhttps://www.nps.gov/places/point-supreme-overlook.htm\n\nSince its establishment in 1933, Point Supreme Overlook has served as the primary scenic viewpoint for visitors to the rim of the Cedar Breaks Amphitheater. From this point, at 10,350ft, visitors can see the incredible formations created by the weathering and erosion over thousands of years. As the primary overlook, this point offers several visitor services including a restroom, information booth, park store, and public programming. These services are available during the summer season, traditionally between June and September each year.<br /> <br /> The overlook is accessible by private vehicles from a small parking lot. The area is always open, but access does vary throughout the year depending upon weather. Once the park road is closed to vehicle access (normally in November each year), the overlook is only accessible by snowshoe, cross-country skies, or snowmobiles.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.854333,
+          37.613985
+        ]
+      },
+      "properties": {
+        "name": "Ramparts",
+        "notes": "Ramparts\nhttps://www.nps.gov/places/ramparts.htm\n\nAt the 2-mile point along the South Rim Trail, hikers reach the Ramparts, elevation 9,952ft. From the Ramparts hikers can experience the southern side of the Cedar Breaks Amphitheater from a unique and rewarding perspective. Visitors should use extreme caution on the South Rim Trail and at Ramparts as many areas feature steep drop-off just off the trail.<br /> <br /> There are no railings at the Ramparts, visitors should remain back from the edge as the ground can be unstable. Dogs are not permitted on the South Rim Trail.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.844824535,
+          37.6109437795
+        ]
+      },
+      "properties": {
+        "name": "Spectra Point",
+        "notes": "Spectra Point\nhttps://www.nps.gov/places/spectra-point.htm\n\nAt the 1-mile point along the South Rim Trail, a short spur trail connects to this incredible viewpoint. From Spectra Point, elevation 10,285ft, hikers can see arches, windows, and hoodoos within the Cedar Breaks Amphitheater. At the intersection of the South Rim Trail and the Spectra Point Spur Trail is a large grove of bristlecone pines.<br /> <br /> Visitors should use extreme caution on the South Rim Trail and at Spectra Point as many areas feature steep drop-off just off the trail. Visitors to Spectra Point should remain behind the railing provided. Dogs are not permitted on the South Rim Trail.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.828706105,
+          37.6205919697
+        ]
+      },
+      "properties": {
+        "name": "Sunset View Overlook",
+        "notes": "Sunset View Overlook\nhttps://www.nps.gov/places/sunset-view-overlook.htm\n\nThis small overlook is just a mile north of the Point Supreme Overlook, this area can be accessed by the Sunset Trail or a small roadside parking area. The overlook faces directly west and is a favorite of plein-air artists. The Civilian Conservation Corps camp was located near this overlook during the 1930s when they constructed many of the visitor facilities and amenities in the park today.<br /> <br /> The area is open year-round, but access does vary throughout the year depending upon weather. Once the park road is closed to vehicle access (normally in November each year), the overlook is only accessible by snowshoe, cross-country skies, or snowmobiles.",
+        "icon": "red-pin-down.png"
+      }
+    }
+  ]
+}

@@ -1,0 +1,890 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.15294,
+          19.303374
+        ]
+      },
+      "properties": {
+        "name": "Alanui Kahiko",
+        "notes": "Alanui Kahiko\nhttps://www.nps.gov/places/alanui-kahiko.htm\n\n<em>Alanui </em>= road<br /> <em>Kahiko</em> = old<br /> <em>Alanui Kahiko</em> = old road <br /> <br /> On the ma uka (inland) side of the Alanui Kahiko pullout on Chain of Craters Road, you can view the lava-draped pali (cliffs) that were covered by flows from the 1969-1974 eruption of Maunaulu. The pullout provides an excellent opportunity to see the two types of lava side-by-side: the smooth and ropey pāhoehoe, and the rough and jagged aʻā.<br /> <br /> Ma kai (toward the sea) from the pullout, you can take a short 100-foot (30 m) walk to see part of what remains of the old Chain of Craters Road, which was reclaimed by the volcano deity Pele in 1972. <br /> <br /> This small remnant is a reminder that the structures of man are only a temporary fixture on this dynamic, ever-changing landscape.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.2529332741366,
+          19.40645133901573
+        ]
+      },
+      "properties": {
+        "name": "Devastation Trail",
+        "notes": "Devastation Trail\nhttps://www.nps.gov/places/devastation-trail.htm\n\nThe Devastation Trail stretches from the parking lot at the Devastation Trailhead to Puʻupuaʻi Overlook,<a href=\"https://www.nps.gov/havo/planyourvisit/hike_day_devastation.htm\">via a one-mile (1.6 km) round-trip walk on a paved path</a>.<br /> <br /> The area was blanketed in cinders from the 1,900-foot tall lava fountains during <a href=\"https://www.nps.gov/havo/learn/nature/kilauea-iki.htm\">the 1959 eruption of Kīlauea Iki</a>. The trail provides views of the new cinder cone, Puʻupuaʻi, that developed during the five-week eruption. Stay on the paved trail. Do not climb the cinder cone.<br /> <br /> <br /> <strong>Endangered nēnē (Hawaiian geese) frequent this area. Please use caution when parking. Don't feed the nēnē.</strong>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.3650274202994,
+          19.358555096349438
+        ]
+      },
+      "properties": {
+        "name": "Footprints Shelter",
+        "notes": "Footprints Shelter\nhttps://www.nps.gov/places/footprints-shelter.htm\n\nIn 1790, a dramatic explosion occured at the summit of Kīlauea. The eruption involved a torrent of hot gas, ash, and sand that rained down on the Kaʻū Desert. Caught in the middle of this deadly, suffocating storm were groups of Native Hawaiians travelling through the region on long-used trails. In the newly fallen layer of ash, these groups left behind footprints that we can still see today— a reminder that Hawaiians have beared witness to the geological drama of this island for centuries.<br /> <br /> A shelter with an exhibit about these footprints is accessible <a href=\"https://www.nps.gov/havo/planyourvisit/footprints.htm\">via an easy walk </a>about .8 miles (1.3 km) from the Kaʻū Desert Trailhead on Highway 11.<br /> <br /> <a href=\"https://www.nps.gov/havo/learn/historyculture/footprints.htm\">Read more about the story of the Footprints area</a>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.68603886354694,
+          19.132618946139587
+        ]
+      },
+      "properties": {
+        "name": "Forested Pit Crater",
+        "notes": "Forested Pit Crater\nhttps://www.nps.gov/places/forested-pit-crater.htm\n\nOn a <a href=\"https://www.nps.gov/thingstodo/hike-forested-pit-crater.htm\">long and strenuous day hike</a> to a forested pit crater, visitors to the Kahuku Unit can peek into an oasis that has sheltered treasured native species.<br /> <br /> The 250-foot (76 m) vertical walls of this steep pit crater have protected the unspoiled native rainforest within it from the cattle, pigs and people that previously removed them from the surrounding landscape. With an astonishing array of Hawaiian species, many rare and endangered, this magical place affords us a glimpse into the distant past, before human-caused transformation that affected the nearby ranch land.<br /> <br /> <a href=\"https://www.nps.gov/havo/learn/nature/pit-craters.htm\">Learn more about how pit craters form.</a>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.254525648,
+          19.428646266
+        ]
+      },
+      "properties": {
+        "name": "Hawai'i Volcanoes National Park Entrance Station",
+        "notes": "Hawai'i Volcanoes National Park Entrance Station\nhttps://www.nps.gov/places/hawai-i-volcanoes-national-park-entrance-station.htm\n\n<p>Hawai‘i Volcanoes National Park is located on the island of Hawai‘i approximately a 45 minute drive from Hilo and a 2 to 2.5 hour drive from Kailua-Kona. The entrance station at Hawaiʻi Volcanoes National Park serves as a checkpoint for visitors who are required to purchase an entrance pass or present their existing pass to gain access to the park. <br /> <br /> <strong>Motor Coaches Prohibited in Large Sections of the Park</strong></p> <p>Large vehicles, defined as more than 26 feet in length and/or more than eight feet wide, are only allowed to operate on Crater Rim Drive to Kilauea Visitor Center, Kūkamāhuākea (Steam Vents), and Uēkahuna. Mauna Loa Road to the Kīpukapuaulu turnabout. For safety reasons, motor coaches will be prohibited elsewhere in the park. </p> <p><strong>Fee Information</strong></p> <p>For more information on recreational and commercial fees visit the <a href=\"https://www.nps.gov/havo/planyourvisit/fees.htm\">Fees and Passes section of the park website. </a></p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.261182,
+          19.432068
+        ]
+      },
+      "properties": {
+        "name": "Haʻakulamanu (Sulphur Banks)",
+        "notes": "Haʻakulamanu (Sulphur Banks)\nhttps://www.nps.gov/places/haakulamanu.htm\n\n<p>At Ha'akulamanu (Sulphur Banks), volcanic gases seep out of the ground, along with ground water steam. These fumes can be amazingly hot. In 1922, scientists drilled two holes to measure underground heat in the area. Temperature measurements remained constant at 205° F (96° C) down to 50 feet (15 m), the maximum depth drilled. Fumes emitted here include sulfur dioxide (SO₂), which smells like a struck match, and hydrogen sulfide (H₂S), the gas that smells like rotten eggs. These two gases react chemically to produce pure sulfur, a yellow mineral known to Hawaiians as <em>kūkaepele</em>, the waste of the volcanic deity <a href=\"https://www.nps.gov/articles/pele.htm\">Pele</a>.<br /> <br /> <a href=\"https://www.nps.gov/havo/planyourvisit/hike_day_sulphur.htm\">Take a short day hike to Haʻakulamanu (Sulphur Banks)</a><br /> <a href=\"https://www.nps.gov/havo/learn/nature/steam-vents.htm\">Learn more about the phenomenon of Steam Vents and Sulphur Banks</a></p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.30716,
+          19.295267
+        ]
+      },
+      "properties": {
+        "name": "Hilina Pali Overlook",
+        "notes": "Hilina Pali Overlook\nhttps://www.nps.gov/places/hilina-pali-overlook.htm\n\n<p><em>Hilina</em> = struck (as by wind)<br /> <em>Pali</em> = cliff<br /> <em>Hilina Pali</em> = \"windy cliff\"</p> <p>Hilina Pali Road was built by the Civilian Conservation Corps (CCC) from 1933 to 1942. The drive to <strong>Hilina Pali Overlook</strong> is 9 miles (14.5 km) off of Chain of Craters Road and is <em>a narrow, one-lane road. Please drive with caution.</em></p> <p>The overlook is approximately 2,282 ft (695.6 m) in elevation and over 12 miles (19.3 km) long. The last lava flow in this area was about 650 years ago.</p> <p>On the drive down the Hilina Pali Road, you will see native ‘ōhi‘a trees and native under brush. On the left side, between .9- 3.5 miles (1.4- 5.6 km) down, you will view the Koaʻe Fault, which lies between the east and southwest rift zones of Kīlauea Volcano. The fault extension was created by the slippage of the ground between the northern and southern parts of Kīlauea. It is separating about 0.5 inches (12.7 mm) –3.0 inches (76.2 mm) per year.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.097067,
+          19.295632
+        ]
+      },
+      "properties": {
+        "name": "Hōlei Sea Arch",
+        "notes": "Hōlei Sea Arch\nhttps://www.nps.gov/places/holei-sea-arch.htm\n\n<em>Hōlei = </em>a small endemic plant in the milkweed family (Ochrosia).<br /> <br /> At the end of Chain of Craters road, walk a short distance along the road to see Hōlei Sea Arch. This stark lava rock formation is about 90 ft. (27.4 meters) high and extends from the steep sea cliffs into the Pacific Ocean.<br /> <br /> This formation is beautiful, but temporary, and has a limited life span. The sea arch will eventually crumble into the sea. However, others will replace it as the cliff slowly migrates inland.<br /> <br /> This impressive sea arch was cut into the cliff of an ancient lava flow from about 550 years ago due to \"differential erosion\", referring the difference in the hardness of various layers of lava. <p><strong>Note: </strong>the observation area for Hōlei Sea Arch has moved and is now located about 1,000 feet (300m) past the gate at the end of Chain of Craters Road. <br /> <br /> <strong>Hiking on flow fields can be hazardous due to deep earth cracks, uneven and unstable terrain, and razor-sharp lava.</strong></p> <br /> <a href=\"https://www.nps.gov/havo/learn/nature/sea-arches.htm\">Learn more about these elegant formations sculpted by the sea</a>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.6777270830572,
+          19.07123293256555
+        ]
+      },
+      "properties": {
+        "name": "Kamakapaʻa",
+        "notes": "Kamakapaʻa\nhttps://www.nps.gov/places/kamakapaa.htm\n\nThe Kamakapaʻa Trail, accessible on <a href=\"https://www.nps.gov/thingstodo/hike-kamakapaa.htm\">a short day hike</a> in the Kahuku Unit, meanders through grassy meadows leading to a small cinder cone. From the top, visitors can take in the full breadth of lower Ka‘ū.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.2589231261876,
+          19.430178512557372
+        ]
+      },
+      "properties": {
+        "name": "Kaʻauea",
+        "notes": "Kaʻauea\nhttps://www.nps.gov/places/kaauea.htm\n\nAlong the rim of Kīlauea is an area known as Kaʻauea, referenced in Hawaiian chants and oral histories going back hundreds of years. With its cultural significance and its position facing Halemaʻumaʻu crater, the home of the <a href=\"https://www.nps.gov/articles/pele.htm\">volcano deity Pele</a>, the site was selected as a place to perform hula kahiko with input from kumu hula Edith Kanakaʻole and others. Today visitors will find an elevated kahua hula platform, built in 1979, and a newly constructed hale, a traditional-style Hawaiian house.<br /> <br /> <strong>The Hale</strong><br /> Built over the course of the summer of 2019 with the help of numerous partners and volunteers, the hale is a reminder of the cultural significance of the Kīlauea summit area.<br /> <br /> The building came to life using traditional labor methods with the aid of modern tools. The wooden structure consists of non-native trees— ironwood and kiawe. Incorporating traditional ʻōhiʻa wood posts could have moved fungal pathogens, namely Rapid Ōhiʻa Death, to non-infected trees in the national park. The hale base, constructed by master builder and former park employee Larry Kuamo'o, is made of slabs of lava rock, while the main structural posts sit on pōhaku (large river stone). 'Ili'ili (water-worn pebbles) finish the interior floor. The roof is made of thatched fronds from loulu, palm trees with fan-shaped leaves.<br /> <br /> Though few people ever lived directly on the rim of Kīlauea, one of the most active volcanoes on earth, the hale illustrates what traditional life may have looked like elsewhere in Hawai'i Volcanoes National Park and the island of Hawaiʻi. The completed structure allows for further cultural discussion, a place to learn Hawaiian arts and crafts, and opportunities for hālau hula groups to prepare before performing traditional hula on the nearby kahua hula platform.<br /> <br /> Although this hale is new, it is only the latest structure in the area. Two other hale were previously built in this spot, in 1981 and 2009. The hale and kahua hula help share kahiko hula and are places where visitors can learn about the traditional Hawaiian culture connected to Hawai‘i Volcanoes National Park.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.162156,
+          19.317226
+        ]
+      },
+      "properties": {
+        "name": "Kealakomo Overlook",
+        "notes": "Kealakomo Overlook\nhttps://www.nps.gov/places/kealakomo-overlook.htm\n\n<em>Ke</em> = the<br /> <em>Ala </em>= path<br /> <em>Komo</em> = entrance<br /> <em>Kealakomo</em> = \"The entrance path\"<br /> <br /> From Kealakomo Overlook you can have a panoramic vista of the Pacific Ocean and the vast lava field that covered portions of the ancient village of Kealakomo.<br /> <br /> Kealakomo was a village on the coast, most likely destroyed and abandoned after the 1868 earthquake and tsunami, then buried by the Maunaulu flows of 1969-1974. The Maunaulu flows created approximately 210 acres of new land. Both ʻa'ā and pāhoehoe flows can be seen from this overlook. The jagged ‘a‘ā lava flows below appear as dull black while the smooth pāhoehoe lava flows appear as silver-grey.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.263388,
+          19.401111
+        ]
+      },
+      "properties": {
+        "name": "Keanakākoʻi Crater",
+        "notes": "Keanakākoʻi Crater\nhttps://www.nps.gov/places/keanakakoi-crater.htm\n\n<em>Keanakākoʻi Crater is accessible via </em><a href=\"https://www.nps.gov/havo/planyourvisit/keanakakoi.htm\">a short day hike</a><em> along Old Crater Rim Drive, beginning at the Devastation Trailhead parking lot.</em><br /> <br /> Meaning \"cave of the adzes\", this pit crater lays on the boundary fault that encircles the summit of Kīlauea. Keanakākoʻi was born during a period of great upheaval and summit collapses of Kīlauea during the 1500's to 1700's. <br /> <br /> In 1877, A lava flow covered the crater floor, reportedly burying a rock quarry that may have been a source for the hard, superior stone used to make tools such as the adze (an axe) by Hawaiians. <br /> <br /> The eruption of Kīlauea Iki in 1959 draped the area surrounding Keanakākoʻi in cinders from massive lava fountains. Then in 1974, the crater was covered with an additional 20 feet of lava, raising the floor by nearly two stories and bringing it to its current depth of about 115 feet (35m).<br />  <br /> The walk to the crater passes by many cracks and fissures that opened up during the thousands of earthquakes that rocked the area during the summit collapse of 2018.<br /> <br /> On a clear day this is an excellent vantage point for viewing the 13,677 foot summit of Mauna Loa and 13,796 foot summit of Mauna Kea. ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.696884,
+          19.110188
+        ]
+      },
+      "properties": {
+        "name": "Kona Trail",
+        "notes": "Kona Trail\nhttps://www.nps.gov/places/kona-trail.htm\n\nA day hike on the Kona Trail takes you through scenic pasturelands scattered with large ʻōhiʻa trees and other vegetation. The trail also traverses the 1887 lava flow from Mauna Loa where lava flows reached the ocean in less than a day. Relics of Kahuku’s ranching era, pasture land and the 1887 lava flow define this trek.<br /> <br /> <em>Kahuku Road above Upper Palm Trail to the ROD Quarantine Gate is not recommended for low-clearance vehicles. <br /> <br /> Hikers must decontaminate at the ROD quarantine gate.</em>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.242927,
+          19.416455
+        ]
+      },
+      "properties": {
+        "name": "Kīlauea Iki Overlook",
+        "notes": "Kīlauea Iki Overlook\nhttps://www.nps.gov/places/kilauea-iki-overlook.htm\n\n<p class=\"lead\">Kīlauea Iki crater looks fairly tranquil these days. But, in 1959 it was a seething lava lake, with lava fountains up to 1,900 feet (580m) high. Puʻupuaʻi, the large cinder cone on the left-hand side of the crater, formed as cinders fell from these towering fountains. From this overlook, it is difficult to comprehend the scale of Kīlauea Iki. The crater is a mile long, 3,000 feet (414m) across, and the floor is 400 feet (122m) below. Mauna Loa looms beyond.</p> <p>Kīlauea Iki Overlook is also the start of the <a href=\"https://www.nps.gov/havo/planyourvisit/hike_day_kilauea-iki.htm\">Kīlauea Iki Trail</a>, one of the most popular in the park. <a href=\"https://www.nps.gov/havo/learn/nature/kilauea-iki.htm\">Read more about the stunning 1959 eruption.</a></p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.2843475341797,
+          19.423601150512695
+        ]
+      },
+      "properties": {
+        "name": "Kīlauea Overlook",
+        "notes": "Kīlauea Overlook\nhttps://www.nps.gov/places/kilauea-overlook.htm\n\n<p>Kīlauea Overlook provides the most dramatic views of Kaluapele (Kīlauea caldera) and Halemaʻumaʻu crater, which underwent a massive collapse during the history-making eruption of 2018.<br /> <br /> From here, visitors can hike along <a href=\"https://www.nps.gov/havo/planyourvisit/hike_day_craterrim.htm\">Crater Rim Trail,</a> which traverses the summit caldera of Kīlauea.<br /> <br /> <a href=\"https://www.nps.gov/havo/learn/nature/2018-eruption.htm\">Read more about the eruption of 2018</a></p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.30330690946369,
+          19.437548634720102
+        ]
+      },
+      "properties": {
+        "name": "Kīpukapuaulu",
+        "notes": "Kīpukapuaulu\nhttps://www.nps.gov/places/kipukapuaulu.htm\n\nHome to a treasure trove of native Hawaiian species, Kīpukapuaulu is sometimes referred to by locals as \"bird park\". A 1.2-mile (1.9 km) loop hike will take you through a \"kīpuka\", an area of older vegetation surrounded by a more recent lava flow from Mauna Loa.<br /> <br /> <a href=\"https://www.nps.gov/havo/planyourvisit/hike_day_kipukapuaulu.htm\">Take the day hike through Kīpukapuaulu</a><br /> <br /> <a href=\"https://www.nps.gov/havo/learn/nature/kipuka.htm\">Learn more about the phenomenon of kīpuka.</a>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.30079909607045,
+          19.437935852394432
+        ]
+      },
+      "properties": {
+        "name": "Kīpukapuaulu Picnic Area",
+        "notes": "Kīpukapuaulu Picnic Area\nhttps://www.nps.gov/places/kipukapuaulu-picnic-area.htm\n\nRelax and ʻai (eat) with your ʻohana (family) at the picnic area on Mauna Loa Road. Located near Kīpukapuaulu, the area is open for day-use, is wheelchair accessible and features grills, picnic tables, trash receptacles, and a rain shelter. ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.25689877896278,
+          19.423122252456835
+        ]
+      },
+      "properties": {
+        "name": "Kūpinaʻi Pali (Waldron Ledge)",
+        "notes": "Kūpinaʻi Pali (Waldron Ledge)\nhttps://www.nps.gov/places/kupinai-pali.htm\n\nThe Kūpinaʻi Pali (Waldron Ledge) portion of Crater Rim Trail is a gentle walk through history, leading to a panoramic view of Kaluapele (Kīlauea caldera) and Halemaʻumaʻu crater, which <a href=\"https://www.nps.gov/havo/learn/nature/2018-eruption.htm\">dramatically collapsed in 2018.</a><br /> <br /> At one point in time, this stretch of trail was part of Crater Rim Drive, the road that encircled the summit caldera. However, on November 16th, 1983, a magnitude 6.7 earthquake struck the island, decimating parts of the road. Large chunks collapsed and deep cracks developed, rendering it impassable. As part of repairs from the seismic event, the road was re-routed to its current path and the portions left behind were converted to the trail you see today. Look for the painted road lines on the trail, a reminder of its history. Locally, this area may still sometimes be referred to as \"Earthquake Trail.\"<br /> <br /> <a href=\"https://www.nps.gov/havo/planyourvisit/hike_day_waldron.htm\">Take a day hike on Kūpinaʻi Pali.</a>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.253728,
+          19.398822
+        ]
+      },
+      "properties": {
+        "name": "Luamanu and July 1974 Flow",
+        "notes": "Luamanu and July 1974 Flow\nhttps://www.nps.gov/places/lua-manu.htm\n\n<p><em>Lua</em> = hole / pit / crater<br /> <em>Manu</em> = bird<br /> <em>Luamanu </em>= \"bird crater\"<br /> <br /> On July 19, 1974 a volcanic fissure opened to the east of Luamanu. A lava flow that spewed from the fissure crept across Chain of Craters Road, consuming the forest as it moved. It soon entered Luamanu crater, filling it with about 50 feet (15 m) of red-hot lava. However, about two-thirds of this lava later drained back into a fissure that cut the east crater wall. Today on the crater walls you can still see the \"high lava mark\" that was left behind as the lava receded.<br /> <br /> Take a look at the July 1974 lava flow around you. Notice the stark tree line at the flow's edge and how this flow cut a clear swath through the verdant rainforest. Slowly, ʻōhiʻa trees and ʻamaʻu ferns are re-establishing vegetation on the flow, nearly fifty years later.</p>   <p><a href=\"https://www.nps.gov/havo/learn/nature/pit-craters.htm\">Learn more about how pit craters form.</a></p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.204022,
+          19.336812
+        ]
+      },
+      "properties": {
+        "name": "Mau Loa o Maunaulu",
+        "notes": "Mau Loa o Maunaulu\nhttps://www.nps.gov/places/mau-loa-o-mauna-ulu.htm\n\n<em>Mau </em>= continuous<br /> <em>Loa</em> = long<br /> <em>O</em> = of<br /> <em>Mauna Ulu </em>= growing mountain<br /> <em>Mau Loa O Maunaulu</em> = \"The long continuous growing mountain\" or \"forever growing mountain\"<br /> <br /> At this pullout on Chain of Craters Road you will have an expansive view of the Maunaulu lava flows that repeatedly crossed the road between 1969 and 1974. Mau Loa O Maunaulu is also the start of the Keauhou Trail to coastal backcountry camping sites.<br /> <br /> On the mauka (uphill) side of the road is a distant view of the Maunaulu lava shield that extruded this massive field of lava. You may also notice the shiny glaze of the pāhoehoe flows. This reflection off of the lava is created from the outer layer of silica, surface glass. Vegetation in this area is sparse due to the incredibly harsh winds and the hard, intractable lava.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.388212609,
+          19.495913778
+        ]
+      },
+      "properties": {
+        "name": "Mauna Loa Lookout",
+        "notes": "Mauna Loa Lookout\nhttps://www.nps.gov/places/mauna-loa-lookout.htm\n\nAt the end of the narrow, one-lane Mauna Loa Road is Mauna Loa Lookout. Perched at 6,662 feet (2,031 m), the lookout provides a view of Kīlauea volcano, old lava flows, and the distant ocean on clear days.<br /> <br /> The surrounding subalpine woodland includes koa, māmane and ‘ōhi‘a trees, and endemic bird species, including ‘i‘iwi. The octagonal shelter at the lookout was built by the Civilian Conservation Corps in 1937, and is an excellent example of the National Park Service rustic architectural style. There is also a short trail to an exclosure featuring the endangered Mauna Loa silversword plants.<br /> <br /> For avid backcountry hikers, the rugged Mauna Loa Trail begins here. (Note: all overnight trips require a backcountry permit).<br />  ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.5752012762495,
+          19.538107595008057
+        ]
+      },
+      "properties": {
+        "name": "Mauna Loa Observatory Trailhead",
+        "notes": "Mauna Loa Observatory Trailhead\nhttps://www.nps.gov/places/mauna-loa-observatory-trailhead.htm\n\nLocated off of Highway 200 (Saddle Road), the Mauna Loa Observatory Trailhead provides access to the remote and rugged summit of Mauna Loa. The trailhead is approximately a two hour drive from Kīlauea Visitor Center. <br /> <br /> Mauna Loa Observatory Road is a narrow, paved, one-lane road. Drive with caution.<br /> <br /> Hikers must be physically fit and properly equipped for this <strong>arduous </strong>hike. Hiking on flow fields can be hazardous due to deep earth cracks, uneven and unstable terrain, and razor-sharp lava.You must be fully prepared for rough terrain, high-elevation, and changing weather conditions. Altitude sickness and hypothermia are significant dangers. Contact the Backcountry Office for more information at (808) 985-6178. All overnight hikers must register.<br /> <br /> The weather observatory is not open to the public. ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.19185721874237,
+          19.32739348659992
+        ]
+      },
+      "properties": {
+        "name": "Muliwai a Pele",
+        "notes": "Muliwai a Pele\nhttps://www.nps.gov/places/muliwai-a-pele.htm\n\n<p>Muliwai a Pele, meaning River of Lava, is a notable spot along Chain of Craters Road. It provides a view of the Maunaulu lava flows that crossed the road from 1969 to 1974. The lava channel near the overlook, active for only three days, created various channels, lava formations like accretionary lava balls, and levees.</p> <p>On the uphill side of the road is the Maunaulu lava shield, shaping the extensive lava field. The glaze on the pāhoehoe flows, reflecting from the silica-laden surface glass, adds a touch to the landscape. Vegetation here faces challenges from harsh winds and tough lava, resulting in sparse greenery.</p> <p>In this rugged terrain, federally protected nēnē, the emblematic goose of Hawaiʻi, find refuge. Their presence showcases successful conservation efforts that saved them from near extinction. Once abundant throughout Hawai'i, hunting and predators nearly wiped them out. By 1952, only 30 nēnē remained. Through conservation, these geese were reintroduced in the 1960s, and by 2010, their population had grown to over 2,000 birds statewide. As you explore, slow down for these remarkable birds, respecting the delicate balance of nature that perseveres against all odds</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.238628,
+          19.413795
+        ]
+      },
+      "properties": {
+        "name": "Nāhuku (Thurston Lava Tube)",
+        "notes": "Nāhuku (Thurston Lava Tube)\nhttps://www.nps.gov/places/nahuku.htm\n\n<p class=\"lead\">Nāhuku (Thurston Lava Tube), one of many such tubes on the island, was created by a river of molten lava. When a lava tube is active, lava travels along its floor at temperatures that exceed 2,000º F (1090º C). When the supply of lava stops at the end of an eruption, or if it gets diverted elsewhere, it leaves behind an empty cave.<br /> When this lava tube was discovered in 1913, the roof of the tube was covered with lava drippings. Unfortunately, those soon disappeared due to souvenir collectors. Help protect this incredible resource by not touching the walls or delicate tree root systems hanging down. Use only your eyes to experience the lava tube.<br /> The lava tube can be <a href=\"https://www.nps.gov/havo/planyourvisit/day-hike-nahuku.htm\">accessed by a short day hike</a>. Alternate parking for Nāhuku is at Kīlauea Iki Overlook, a half-mile distance. Please park in designated spaces only, do not walk on or along the road, and plan to come back later if the parking spaces near the lava tube are full. Want to avoid the crowds? Start your lava tube adventure before 9 a.m. or after 4 p.m. The lava tube is lit 8 a.m. to 8 p.m. Flashlights are recommended outside of those hours.<br /> <br /> <strong>Listen for the birds! </strong>The hike into the lava tube from Crater Rim Drive is through a section of Hawaiian rainforest rich with native species and is a great spot for birdwatching.</p> <p><a href=\"https://www.nps.gov/havo/learn/nature/lava-tubes.htm\">Read more about lava tubes and how they were formed</a></p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.2054242,
+          19.3714711
+        ]
+      },
+      "properties": {
+        "name": "Other Lava Shields Along the East Rift Zone",
+        "notes": "Other Lava Shields Along the East Rift Zone\nhttps://www.nps.gov/places/lava-shields-along-east-rift-zone.htm\n\n<strong>Puʻuʻōʻō</strong><br /> <br /> In the distance, you may be able to spot Pu‘uʻō‘ō, a cone that formed in the early years of the current eruption. It has experienced several collapses and has slowly buried itself beneath a lava shield of its own making. In 1983, the Puʻuʻōʻō eruption began seven miles farther out on the East Rift Zone and soon surpassed Maunaulu in many ways. Yet Maunaulu still holds a special place in the memories of those who witnessed the spectacular events.<br /> <br /> <strong>Kāne nui o Hamo</strong><br /> <br /> The tree-covered summit of Kāne nui o Hamo lava shield can be seen infront of Puʻuʻōʻō. Kāne nui o Hamo is pitted by a forested crater - Makaopuhi, the largest pit crater on Kīlauea. Lava erupted within—or cascaded into—Makaopuhi crater several times but filled only the deeper half of the giant pit. It was named “eye of the eel” for a lens of bluish lava that appeared on the lower crater wall.<br /> <br /> <strong>ʻAlae </strong><br /> <br /> Prior to this eruption, ʻAlae crater was 0.25 mile (0.5 km) wide and over 425 feet (130 m) deep. During the night of August 4, 1969, lava filled it nearly to its rim. Four hours later, hundreds of earthquakes shook violently, a fissure opened across the crater floor, and most of the liquid lava in the crater drained away. In 30 extraordinary minutes, the lake level dropped as 13 million yards (10 million m3) of lava drained underground to emerge three miles (4.8 km) downrift in Nāpau crater. A day later, one of the most memorable spectacles of the eruption occurred when a huge lava falls cascaded into ʻAlae crater. These falls were wider and higher than the American Falls at Niagara. They soon refilled the crater. By 1974 the eruption had built its third great lava shield, rising 295 feet (90 m) above the rim of the entombed crater. Today it sits just left of where Maunaulu rises today. <p> </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.2226958626029,
+          19.37108898479439
+        ]
+      },
+      "properties": {
+        "name": "Pauahi Crater",
+        "notes": "Pauahi Crater\nhttps://www.nps.gov/places/pauahi-crater.htm\n\n<em>Pau </em>= finished or destroyed<br /> <em>Ahi </em>= fire<br /> <em>Pauahi</em> = \"destroyed by fire\"<br /> <br /> Pauahi is a composite triple-pit crater, approximately 360 feet (110m) deep and 1,600 feet (500m) long. This crater has been the site of three eruptions in recent history: May 1973, November 1973, and November 1979. During the November 1973 eruption, lava pooled into a dramatic, fiery, swirling whirlpool on the crater floor. The crater floor we see today is covered by a thin veneer of lava from the 1979 event.<br /> <br /> Pauahi Crater is culturally significant and religious to many of the Hawaiian people. At times you may see a hoʻokupu (offering), perhaps wrapped in pūʻolo (tī leaf). These should not be touched or disturbed.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.248761,
+          19.393164
+        ]
+      },
+      "properties": {
+        "name": "Puhimau Crater",
+        "notes": "Puhimau Crater\nhttps://www.nps.gov/places/puhimau-crater.htm\n\n<em>Puhi = to smoke<br /> Mau </em>= continuous<br /> <em>Puhimau </em>= forever smoking<br /> <br /> With its steep, crumbling walls, this dramatic crater is representative of many pit craters located further down Chain of Craters Road.<br /> <br /> On certain days, faint plumes of steam can be seen on the far side of the crater, as heated water vapor emanates from cracks in the Earth.<br /> <br /> <a href=\"https:///www.nps.gov/havo/learn/nature/pit-craters.htm\">Learn more about how pit craters form.</a>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.67853417335493,
+          19.065143013981086
+        ]
+      },
+      "properties": {
+        "name": "Puʻu o Lokuana",
+        "notes": "Puʻu o Lokuana\nhttps://www.nps.gov/places/puuolokuana.htm\n\nOn a <a href=\"https://www.nps.gov/thingstodo/puuolokuana.htm\">day hike to the top of Puʻu o Lokuana</a>, a visitor can take in a panoramic view of the verdant lands around Kahuku as well as the Kaʻū coastline. However, this steep, green hill has a crimson heart. Near the hill's summit is a former cinder quarry. The color of the cinders here are an intense red due to naturally occuring iron oxidation.<br /> <br /> During World War II, Puʻu o Lokuana was chosen by the military as the site for a secret radar station. Marines once scanned radar screens in a dark room that was carved into the red cinders. Those cinders now lie under the gardens, homes, and roads throughout the district of Kaʻū. Through mining, nearly 100 feet (30 m) of the hill was taken away.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.207206,
+          19.371432
+        ]
+      },
+      "properties": {
+        "name": "Puʻuhuluhulu",
+        "notes": "Puʻuhuluhulu\nhttps://www.nps.gov/places/puuhuluhulu.htm\n\nThe forested hill to the left of Maunaulu is Pu‘uhuluhulu (shaggy hill), a volcanic cone that predates the new lava shield by over 500 years. Pu‘uhuluhulu is a pile of cinder, spatter, and ash that rained down from high, gascharged fountains. With no flows to carry away the ejecta, each fountain added to its height. Pu‘uhuluhulu stood nearly 300 feet (91 m) above the surrounding land when the eruption first began. By the time the eruption ended, this cone was dwarfed by its new neighbor, Maunaulu. If Maunaulu lava shield continued to erupt and grow, it may have completely surrounded and buried the older Pu‘uhuluhulu cone.<br /> <br /> The crater inside this old cone protects rare native plants. Feral pigs ravage the nearby forests but can’t get into this crater, due to its steep inner walls. Treasures like ʻōhā—rare outside the crater—find sanctuary within its protective walls. Since the Maunaulu eruption, Puʻuhuluhulu has become an important source of life for new plants to become established on the fresh lava.<br /> <br /> Pelehonuamea, a Hawaiian volcanic diety, is a force of both destruction and creation of the land. However it is the great Lono (god of vitality) and her sister Hiʻiakaikapoliopele (Hiʻiaka in the bosom of Pele) who bring new life to the barren flows.<br />  ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.20445251464844,
+          19.371192932128906
+        ]
+      },
+      "properties": {
+        "name": "Puʻuhuluhulu Cinder Cone",
+        "notes": "Puʻuhuluhulu Cinder Cone\nhttps://www.nps.gov/places/puu-huluhulu.htm\n\nPuʻuhuluhulu is accessible via <a href=\"https://www.nps.gov/havo/planyourvisit/hike_day_puuhuluhulu.htm\">a short day hike </a>beginning at the Maunaulu parking lot.<br /> <br /> In reference to its vegetation-covered slopes, Puʻuhuluhulu means “hairy hill” in Hawaiian and stands out in stark contrast to the adjacent lava flows of Maunaulu. The 1969-1974 eruption of Maunaulu was centered just downhill from Puʻuhuluhulu and over the course of five years, surrounded most of this cinder cone.<br /> <br /> Today the top of the cone features an observation deck that provides a view of the Maunaulu lava shield that formed during the eruption. A <a href=\"https://www.nps.gov/havo/planyourvisit/upload/mauna_ulu_trail_guide.pdf\">Maunaulu Trail Guide </a>is also available (pdf- 7.63 MB)<br /> <br /> A restroom is available at the Maunaulu parking lot.<br />  ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.1221923828125,
+          19.292661666870117
+        ]
+      },
+      "properties": {
+        "name": "Puʻuloa Petroglyphs",
+        "notes": "Puʻuloa Petroglyphs\nhttps://www.nps.gov/places/puuloa.htm\n\n<p><em>Pu‘u</em> = hill<br /> <em>Loa</em> = long<br /> <em>Pu‘uloa</em> = \"Long Hill\"<br /> <em>Underlying meaning or kaona (hidden meaning)</em> = \"Hill of Long Life\"</p> <p>Puʻuloa is a very sacred and religious place for many of the people of Hawaiʻi and has been used ritually for over 500 years. It is the largest petroglyph field in the state.<br /> <br /> There are more then 23,000 petroglyph images, mostly<em> poho </em>(cupules, or depressions) in which a portion of the umbilical cord of a newborn was placed to ensure a long life. Motifs of circles, other geometric designs, as well as cryptic designs of human representations known as anthropomorphisms, canoe sails, and even feathered cape motifs can all be found in this dense concentration.<br /> <br /> The petroglyphs are accessible via a<a href=\"https://www.nps.gov/havo/planyourvisit/hike_day_puuloa.htm\"> day hike of 1.5 miles (2.4 km) round trip</a> that begins at the Puʻuloa Petroglyphs trailhead. Pu‘uloa is a \"volcanic pressure dome\" that was formed during the eruption of Kāne Nui O Hamo about 550 years ago.<br /> <br /> <a href=\"https://www.nps.gov/havo/learn/historyculture/puuloa.htm\">Learn more about the meaning and history of Pu‘uloa Petroglyphs</a></p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.249543,
+          19.410989
+        ]
+      },
+      "properties": {
+        "name": "Puʻupuaʻi Overlook",
+        "notes": "Puʻupuaʻi Overlook\nhttps://www.nps.gov/places/puupuai.htm\n\n<p class=\"lead\">Meaning \"gushing hill\" in Hawaiian, Puʻupuaʻi is a gigantic cinder cone that formed as a result of the towering 1,900 foot lava fountains during the eruption of Kīlauea Iki in 1959. As lava from these fountains cooled in the air, it fell back to earth as cinders and built up into the large mound that exists today. </p> <p>From this overlook, look into Kīlauea Iki crater and begin the <a href=\"https://www.nps.gov/havo/planyourvisit/hike_day_devastation.htm\">Devastation Trail </a>or even continue and hike to Byron Ledge (Uēaloha), Kīlauea Iki, and Nāhuku (Thurston Lava Tube).</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.2582897430956,
+          19.428480256152813
+        ]
+      },
+      "properties": {
+        "name": "Ranger Tips For A Successful Visit",
+        "notes": "Ranger Tips For A Successful Visit\nhttps://www.nps.gov/places/ranger-tips.htm\n\n<h4>The park remains open 24 hours a day, and the public is reminded to stay safe by following these precautions:</h4> <ul> <li>Volcanic eruptions can be hazardous and change at any time.</li> <li>Stay on marked trails and overlooks, and avoid earth cracks and cliff edges. Do not enter closed areas.</li> <li>Slow down and drive safely. Expect long waits for parking spaces at popular vantage points like Devastation parking area, and Kīlauea Overlook.</li> <li>Visiting at night? Bring a flashlight or headlamp to avoid accidental injury.</li> <li>At 4,000 feet (1,200 m) in elevation, the summit of Kīlauea can be chilly at any time. Bring a rain jacket, wear long pants and closed-toe shoes.</li> <li>Hazardous volcanic gases are billowing out the crater and present a danger to everyone, especially people with heart or respiratory problems, infants, young children and pregnant women. For more information on air quality visit: <a href=\"https://web.archive.org/web/20210102092443/https://www.hawaiiso2network.com/\">https://www.hawaiiso2network.com/</a></li> </ul> <h2>Be Respectful</h2> <p>Park landscapes are cherished places for many people. Is it quiet? Help keep it that way and allow visitors to connect with their surroundings in peace. Think before you take pictures of other visitors and whether they want to hear your music or phones. Take the <a href=\"https://www.ponopledge.com/\">Pono Pledge</a> to be safe, responsible and respectful to each other and the ʻāina (land) during your visit to Hawaiʻi</p> <h2>Know Before You Go</h2> <p>A spectacular new eruption at the summit of Kīlauea volcano is drawing hundreds of visitors to Hawaiʻi Volcanoes National Park eager to see the billowing plume of gas and steam by day and the reflection of glowing lava deep within the crater after dark. Vantage points for viewing the new eruption include Wahinekapu (Steaming Bluff), Kīlauea Overlook, near Keanakākoʻi, Kūpinaʻi Pali (Waldron Ledge), and other overlooks along Crater Rim Trail.<br /> <br /> <strong><em>Have a question?<br /> Park staff are available to answer questions at 808-985-6011.</em></strong></p> <h2>Stay Safe</h2> <p>It is critical to stay on trails and in designated overlooks when visiting the park. Sinkholes, earth cracks, and unstable cliff edges are not always visible, even in daylight. <strong>Do not enter closed areas</strong>.<br /> <br /> <strong><em>Learn more about how you can have a safe visit on our </em></strong><a href=\"https://www.nps.gov/havo/planyourvisit/safety.htm\">safety webpage</a><strong><em>.</em></strong></p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.302981,
+          19.438526
+        ]
+      },
+      "properties": {
+        "name": "Stop 1- Kīpukapuaulu",
+        "notes": "Stop 1- Kīpukapuaulu\nhttps://www.nps.gov/places/stop-1-kipukapuaulu.htm\n\n<h4>You have entered the Wao Akua— the realm of the gods.</h4> Hawai‘i Volcanoes National Park contains many of Hawai‘i’s most precious resources. For native Hawaiians, the park also envelops many of their wahi la‘a (sacred sites), their ‘āina hānau (birth lands) and ‘āina waiwai (subsistence lands. These areas incorporate not just the physical landscape and its inhabitants, but also the spiritual entities that are believed to comprise and surround them—the akua (gods) and the ‘aumakua (guardian ancestors). Early Hawaiians utilized two primary land boundary systems—one, which partitioned an island into zones of spiritual signifcance and the other, which divided it and its resources geographically amongst the chiefs and commoners. Crafted generations ago, these two systems acted as a means of balancing an island’s spiritual, natural, and human resources in perpetuity. Since subsistence resources were plentiful in some areas while limited in others, it was the kuleana (responsibility) of the residents to maintain them. As long as they were cared for, life was sustained.<br /> <br /> The ahuapua‘a (land division) boundary system divides an island into vertical land sections that stretch from mauka (mountains) to makai (oceans). Visible landmarks, like mountain peaks, ridges, or ahu (rock cairns), are most often used to delineate the boundaries. Kīpukapuaulu resides in the ‘āina ʻili (smaller land parcel) of Keauhou within the ahupua‘a of Kapāpala. The treasured habitat of Kīpukapuaulu is also enveloped within the Wao Akua, the sacred realm of the gods. It is just one of seven (Kuahiwi, Kualono, Wao ma‘ukele, Wao Akua, Wao kanaka, Kula, Kahakai) such spiritually signifcant zones that horizontally divides an island. The Wao Akua region is revered for its ancient trees and wealthy seed sources. Where the akua and ‘aumakua reside, life fourishes—life that will, inturn, permeate much of the surrounding lands. Kīpukapuaulu is that wellspring of life supported by the akua and ‘aumakua that embody it.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.12993,
+          19.2888927
+        ]
+      },
+      "properties": {
+        "name": "Stop 1- Puʻuloa Petroglyphs",
+        "notes": "Stop 1- Puʻuloa Petroglyphs\nhttps://www.nps.gov/places/stop-1-puuloa-petroglyphs.htm\n\n<h4>Think about a cherished family heirloom that may not seem valuable to someone else. What is it that makes it valuable?  </h4> <br /> This rugged volcanic landscape is in the ahupuaʻa (divisional land system) of Pānau Nui. Ahead is a volcanic pressure dome called Puʻuloa (Long Hill). Centuries ago, this place was once part of a thriving Hawaiian community. Rock-carved  images known as petroglyphs cover this area. Petroglyphs were made using pōhaku (rock). Native Hawaiians used a sharp stone to peck or incise impressions into the lava surface. The archaeological site of Puʻuloa contains over 23,000 petroglyph images making this the largest petroglyph site in the state of Hawaiʻi.  <br /> <br /> Decades ago American anthropologist Kenneth Pike Emory (November 23, 1897 – January 2, 1992), seemed to dismiss the importance of petroglyph sites stating; <br /> <br /> <em>“The most that can be said for picture writing [petroglyphs] among Hawaiians is that it is in an experimental stage. Certain places and bowlders were favored for the carving of petroglyphs partly on account of the suitableness of the rock and partly, no doubt, because the practice had there gained a start. No special significance need to be attached to the location of the petroglyph centers except perhaps that they were places often visited by the travelling native.”  </em><br /> <br /> Continue on the tour to find out if he was right or wrong.  ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.302,
+          19.440161
+        ]
+      },
+      "properties": {
+        "name": "Stop 10- Kīpukapuaulu",
+        "notes": "Stop 10- Kīpukapuaulu\nhttps://www.nps.gov/places/stop-10-kipukapuaulu.htm\n\n<h4>Park resource managers continue 10 a long tradition of restoration.</h4> Twenty years ago, despite the removal of grazing animals, many parts of Kīpukapuaulu (approximately 1/4 of the kīpuka) remained a treeless grassland, choked by invasive blackberry (<em>Rubis argutus</em>) and alien pasture grasses. To encourage restoration, today’s resource specialists, like those that preceded them, continue to remove the invasive blackberry and grasses that litter the forest. This has allowed the native plants to recover naturally. Where native trees didn’t recover, even after repeated weed-removal efforts, fast-growing native trees and shrubs were planted. Once these faster growing plants matured and created shade, other shadetolerant native understory species were planted below them. Although the threats of volcanic activity or wildfire are always present, hard-working resource specialists continue to care for this flourishing native forest.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.302733,
+          19.438896
+        ]
+      },
+      "properties": {
+        "name": "Stop 11- Kīpukapuaulu",
+        "notes": "Stop 11- Kīpukapuaulu\nhttps://www.nps.gov/places/stop-11-kipukapuaulu.htm\n\n<h4>Rescued from the brink of extinction, the hau kuahiwi is the 11 crown jewel of Kīpukapuaulu.</h4> The rarest plant in Kīpukapuaulu is the hau kuahiwi (<em>Hibiscadelphus giffardianus</em>). This large-leaved, relatively small tree has long, curved flowers that suggest pollination by a curve-billed Hawaiian honeycreeper. In 1911, Joseph Rock was shown a single, cattle-ravaged hau kuahiwi plant on the edge of Kīpukapuaulu. He described it as a new species and commented that “it is unique among all Hawaiian plants, and the author is sorry to relate that nothing has been done to protect it.” Sadly, that lone tree died in the summer of 1930, but not before seeds were collected and propagated by volcano resident W.M. Giffard (for which this plant was named). Early records revealed that Giffard’s efforts successfully yielded at least one surviving tree, whose offspring were later replanted here between 1951–1964. By 2001, after continued propogation efforts, researchers were able to reintroduce more than 200 trees to both Kīpukapuaulu and Kīpuka Kī. These reintroduction projects continue today as part of an effort to stablilize many of the park’s rare plant species. Through combined efforts, many of these trees have survived and some have even set fruit—a recent recovery to be celebrated. In the last 10 years, over 1,000 individuals of 10 other rare plant species have been planted in Kīpukapuaulu. Although some of these species haven’t yet produced seedlings, many are thriving.<br /> <br /> Some species continue to struggle for survival—challenges that resource specialists hope to solve by continuing to care for this– kuʻu ʻāina waokele pūlama–treasured island of forest. From the time of the ancient native Hawaiian practitioner, who believed this to be the home of their akua and ‘aumakua, to nearly a century of botanists and foresters, Kīpukapuaulu has captivated its visitors with its biological wonders, beauty, and tranquility. As Charles Kraebel, Assistant Superintendent of Forestry for the Territory of Hawai‘i, said in 1922, “There is always some otherwhere whose charms seem not to have been sufficiently heralded. Such a spot is the Kipuka Puaulu. . . .”<br />  ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.303537,
+          19.438957
+        ]
+      },
+      "properties": {
+        "name": "Stop 2- Kīpukapuaulu",
+        "notes": "Stop 2- Kīpukapuaulu\nhttps://www.nps.gov/places/stop-2-kipukapuaulu.htm\n\n<h4>This revered kīpuka was nearly destroyed by grazing animals.</h4> Much of Kīpukapuaulu has been spared from the continual eruptions of Mauna Loa and Kīlauea volcanoes, allowing native plants, birds, and insects to flourish. But in the late 1700s, well before the establishment of the park in 1916, this paradise was nearly lost, when cattle and feral goats were set loose in Hawaiʻi. Having evolved without grazers and lacking the defenses to repel them, many native Hawaiian plants were consumed like ice cream. In Kīpukapuaulu, and much of the surrounding forest, cattle and goats ate everything within their reach, and diversity severely declined. Only tall trees survived their grazing, and alien pasture grasses thrived. Joseph Rock, a self-taught botany professor, was the first plant explorer to reveal the fragile biodiversity of Kīpukapuaulu in his 1913 book, The Indigenous Trees of the Hawaiian Islands. He documented many rare native trees, like the indigenous mānele, or soapberry (<em>Sapindus saponaria</em>), struggling to survive in a sterile, citypark-like landscape. In addition to his work, he also undertook the first replanting of rare species, such as the hau kuahiwi, Hibiscadelphus giffardianus, and saved it from extinction.<br /> <br /> At that time, Kīpukapuaulu was a forest without a future. This “hot spot” of biodiversity was slowly dying. Its once thriving grandparent trees were struggling for survival, with no grandchildren— seedlings or saplings—to succeed them. To protect this precious kīpuka and what was left of its native plants, cattle were removed in 1928. Goats and pigs were later fenced out in 1968. Since then, Kīpukapuaulu has lost its artificially groomed garden-like appearance but has regained its future as a thriving, self-sustaining, species-rich forest. The tall, old mānele trees nearby and throughout the rest of this kīpuka now tower above the forest’s rich understory plants. Compare today’s understory to that in the 1913 photo above. What a tremendous difference! Today’s understory is densely packed with not only mānele trees, but also pāpala kēpau (<em>Pisonia brunoniana</em>), ʻolopua (<em>Nestegis sandwicensis</em>), and other native trees.<br /> <br />  ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.1271939,
+          19.2905063
+        ]
+      },
+      "properties": {
+        "name": "Stop 2- Puʻuloa Petroglyphs",
+        "notes": "Stop 2- Puʻuloa Petroglyphs\nhttps://www.nps.gov/places/stop-2-puuloa-petroglyphs.htm\n\n<strong>Ke ala kahiko (the path of the old ones) tells the stories and memories of the Hawaiian people.  </strong><br /> <br /> Hawaiʻi lacked a written language before western contact. The petroglyphs you will see provide not only a glimpse into the lives of those early Hawaiian people, but help us understand the value of the ʻohana (family). It is a tangible link to their life experiences, their struggles, and their successes. The full meaning behind some petroglyphs may only be known to their creators but their collective story is still told here through these images lovingly carved into rock. As you walk this path, you are continuing the legacy of Puʻuloa.  ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.304794,
+          19.439606
+        ]
+      },
+      "properties": {
+        "name": "Stop 3- Kīpukapuaulu",
+        "notes": "Stop 3- Kīpukapuaulu\nhttps://www.nps.gov/places/stop-3-kipukapuaulu.htm\n\n<h4>Fast-growing koa trees recover 3 after years of weed control.</h4> In the 1920s, nasturtium was planted to provide a splash of color to this once cattle-ravaged kīpuka. After the cattle were removed, this ordinarily tame non-native garden plant spread wildly throughout Kīpukapuaulu, creating dense, plant-choking mats. These mats prevented native plant seedlings from becoming established—a problem that persists even today if left unattended. In the 1980s, a summer youth group, working alongside park staff, laboriously hand-pulled every nasturtium plant at this site. Once these overlying mats were uprooted, the dormant seeds of the endemic (found only in Hawaiʻi) koa (<em>Acacia koa</em>) trees germinated and grew rapidly in the deep soil of Kīpukapuaulu. Now that the nasturtium is being controlled, the koa, along with many other native species are prospering. In 100 years, many of these young koa trees will become the new forest elders, growing up to 75–100 feet (23–30 m) tall and 3–5 feet (1–1.5 m) in diameter—ready to nurture the forest life below them.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.125665,
+          19.2912775
+        ]
+      },
+      "properties": {
+        "name": "Stop 3- Puʻuloa Petroglyphs",
+        "notes": "Stop 3- Puʻuloa Petroglyphs\nhttps://www.nps.gov/places/stop-3-puuloa-petroglyphs.htm\n\n<h4 paraeid=\"{b92a7fba-fc60-4524-9bff-fb95a7e46111}{80}\" paraid=\"484633532\">Puʻuloa is a revered site for many native Hawaiian ʻohana (families).  </h4> <p paraeid=\"{b92a7fba-fc60-4524-9bff-fb95a7e46111}{110}\" paraid=\"1676789413\">This ahupuaʻa (divisional land system) of Pānau Nui is important to Hawaiians. It provided a sustainable lifestyle through conservation and trade. They thrived for generations by living off the land and sea.  </p> <p paraeid=\"{b92a7fba-fc60-4524-9bff-fb95a7e46111}{124}\" paraid=\"1287013008\">This place is also the featured location of the story of Kaʻehuikimanōopuʻuloa, the little brown shark of Puʻuloa.  Listen to the story about Kaʻehuikimanōopuʻuloa. Think about how your family’s story has helped make you who you are today. <br /> <br /> <em>A story about Kaʻehuikimanōopuʻuloa unfolds along the Pānau coast of Kīlauea volcano. Oral tradition says that a pregnant woman went into the ocean and had a miscarriage while she was in the water. When she later returned to the ocean, a shark came up under her, and turned out to be her miscarried child transformed; it had become a manō (shark). The child is named Kaʻehuikimanōopuʻuloa (the little-brown shark of <a href=\"https://www.nps.gov/havo/learn/historyculture/puuloa.htm\">Puʻuloa</a>), also referred to as Kaʻehuiki. The child’s mother, Hōlei, and father, Kapukapu, named their son after the great shark deity Kaʻahupāhau (cloak that is well cared for) from Keawalauopuʻuloa; currently known as Pearl Harbor in Oʻahu. Their child resembled Kaʻahupāhau because he was ʻehu, or reddish-tinged, like her hair.<br /> <br /> Kaʻehuiki was nourished on ʻawa by his father and diluted with the milk of his mother for 10 days when he was put in a sea cave. When his parents decided to go to the uplands, Kaʻehuiki had to care for himself and became a shark ʻaumakua (deified family guardian).<br /> <br /> One night, Kaʻehuiki appeared in his father’s dream and asked his permission to travel around the coast of Hawaiʻi to pay homage to all the district sharks. His intent was to meet the oldest brother of <a href=\"https://www.nps.gov/articles/pele.htm\">Pele</a>, Kamohoaliʻi - the king of all sharks. He hoped Kamohoaliʻi would adopt him into the family. His father picked ʻawa roots, coconut, red-fish, and fowl and continued to chant as he went to the sea cave. A little brown shark, Kaʻehuiki, swam in the cave as his father began to consecrate the shark in chant for a long and successful journey.<br /> <br /> In the fourth month, Kaʻehuiki first traveled to Hilo and met the great shark, Kepanila. Later he met Kaneilehia of Kaʻū. He continued to befriend the other district sharks of the island of Hawaiʻi and asked them to become his traveling companions on his journey: Kua of Kona, Manokini of Kohala, and Kapulena of Hāmākua<br /> <br /> The shark of Kohala, Manokini, described to Kaʻehuiki the difficulty of traveling across the rough ʻAlenuihāhā channel to the island of Maui, and the ferocious shark, Kauhuhu of Maui, that governed it. Upon their arrival to Maui, Kauhuhu called out to them for being in his cave. He extended and opened his large jaws to bite Kaʻehuiki. Kaʻehuiki swiftly entered his wide mouth and devoured his vitals from the inside; leaving Kauhuhu lifeless as he floated in the tides.<br /> <br /> Finally, the voyage led to the island of Kahoʻolawe, where they could pay homage to Kamohoaliʻi-- the “king of all sharks”. He was overgrown with sea moss and barnacles - his mana emanated from him. Kamohoaliʻi consented to adopt the little-brown shark and an elaborate ceremony took place. He gave Kaʻehuiki the ability to take a hundred diﬀerent forms, immeasurable mana, and a long life.<br /> <br /> The journey of Kaʻehuiki continued all the way to the distant lands of Kahiki, however, today he lives within the sea caves of Pānau. Oral history tells us that Kaʻehuikimanōopuʻuloa is an ʻaumakua (who is part of the Pele family), a form of the great Kamohoaliʻi, and a shark who invokes the power of Kaʻahupāhau. Puʻuloa, now within Hawaiʻi Volcanoes National Park, is seen as the place of the birth of Kaʻehuikimanōopuʻuloa. It is where many Hawaiians connect the piko (umbilical stump) of their child to his birthing place. It is a way to obtain a long life, and life-prolonging protection from an ʻaumakua of this land.</em></p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.30464,
+          19.44033
+        ]
+      },
+      "properties": {
+        "name": "Stop 4- Kīpukapuaulu",
+        "notes": "Stop 4- Kīpukapuaulu\nhttps://www.nps.gov/places/stop-4-kipukapuaulu.htm\n\n<h4>Unlike the now-thriving koa, the ʻōhiʻa lehua trees are dying of natural causes.</h4> <br /> Visitors to Kīpukapuaulu often notice, with great concern, the many large, dying endemic ʻōhiʻa lehua trees (<em>Metrosideros polymorpha</em>). They ask whether their demise is due to a disease or insect that may be spreading throughout the islands. The good news is that the dieback of ʻōhiʻa lehua trees in Hawaiʻi is a natural phenomenon. But what, then, are killing these trees in Kīpukapuaulu? The most likely culprits are simply old age and drought. ʻŌhiʻa lehua trees colonize new lava flows and ash deposits. As a new generation, they grow up together, mature together, and die together. As these trees age, they lose their ability to handle environmental and biological stresses, such as drought, insects, and disease. The most likely stress affecting Kīpukapuaulu is the high frequency of El Niño droughts that Hawaiʻi has been experiencing since the late 1990s. The dieback you see here, and through out the rest of Kīpukapuaulu, is just part of a widespread dieback occurring on the lower slopes of Mauna Loa.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.1222556,
+          19.2925885
+        ]
+      },
+      "properties": {
+        "name": "Stop 4- Puʻuloa Petroglyphs",
+        "notes": "Stop 4- Puʻuloa Petroglyphs\nhttps://www.nps.gov/places/stop-4-puuloa-petroglyphs.htm\n\n<h4>These simple impressions embody the essence of Puʻuloa.  </h4> <br /> The name Puʻuloa (long hill) carries a kaona (hidden meaning) – hill of long life. Families came here to place the piko (umbilical stump) of their child in a pecked depression they made. The hope is that the mana (spiritual guiding energy) of Puʻuloa blesses the child with a long and prosperous life. It is a connection to their ancestral lands.   <br /> <br /> Piko is also another word for the navel in Hawaiian- it is where life begins. There are conceptually three piko: piko po’o, piko waena, and piko na’au. Piko po'o is at the top of a person's head. It is the opening that connects the individual's spirit with their 'aumakua (departed, but ever-present deified ancestors). Piko waena, or the navel, represents the person’s connection to his/her parents. This piko covers the na'au (gut) and holds an individual’s knowledge, wisdom, and emotions. Piko ma'i is the genitalia, which links the person to his/her descendants.   <br /> <br /> Each poho (cupule) houses a single child’s piko. Over 16,000 are piko-related carvings – a testament to the importance of both Puʻuloa and ʻohana (family). What traditions are important to your family when a new child is born? <br /> <br /> <em>ʻAno ʻai ke aloha īa ʻoukou no ke kipa ʻana mai i Puʻuloa. Hele mai a ʻike i kēia ʻāina me ke aloha a me ka mahalo. With aloha, we welcome you to Puʻuloa – a place we honor and cherish. Please stay on the marked trail and boardwalk, for once this site and its petroglyphs are harmed, the stories they cradle will be lost forever. – Nā Kūpuna, Our Hawaiian Elders</em>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.30492,
+          19.44021
+        ]
+      },
+      "properties": {
+        "name": "Stop 5- Kīpukapuaulu",
+        "notes": "Stop 5- Kīpukapuaulu\nhttps://www.nps.gov/places/stop-5-kipukapuaulu.htm\n\n<h4>As the native plants recover, so do many rare species of insects.</h4> There are currently over 500 endemic species of pomace flies, native only to Hawaiʻi and found nowhere else in the world. The elder mānele trees in front of you are the exclusive host plants to two of these small, rare picture-wing flies, <em>Drosophila mimica</em> and <em>Drosophila engyochracea</em>. Ecologist Dr. David Foote has been counting the populations of these two flies periodically since the mid-1990s by attracting them to sponges marinated in a concoction of decaying mushrooms. He is encouraged about the future of<em> Drosophila mimica</em>, as this species is thriving, by feeding on the rotting fruits of the recovering mānele trees. It is a much different story for the <em>Drosophila engyochracea</em>, whose populations have plummeted in the last three decades. Very few flies have been observed since 2007. The villains of this story are alien predators, including yellow jacket wasps and, possibly, a newly arrived spider that lives in the bark of these mānele trees. As predators of the <em>Drosophila engyochracea</em>, they are eating this species to extinction.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.121837,
+          19.292913
+        ]
+      },
+      "properties": {
+        "name": "Stop 5- Puʻuloa Petroglyphs",
+        "notes": "Stop 5- Puʻuloa Petroglyphs\nhttps://www.nps.gov/places/stop-5-puuloa-petroglyphs.htm\n\n<h4>Think back to Kenneth Emory’s statement.   </h4> <p><em>“The most that can be said for picture writing [petroglyphs] among Hawaiians is that it is in an experimental stage. Certain places and bowlders were favored for the carving of petroglyphs partly on account of the suitableness of the rock and partly, no doubt, because the practice had there gained a start. No special significance need to be attached to the location of the petroglyph centers except perhaps that they were places often visited by the travelling native.”  </em><br />  </p> <p><strong>On your walk back consider the following and share your thoughts with a ranger at the visitor center:  </strong></p> How do you feel about Emory’s statement after completing your walk through Puʻuloa?  <br />  <br /> How has a family tradition or story helped make you who you are today?  <br /> <br /> How has your view of indigenous cultures changed? ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.304657,
+          19.441604
+        ]
+      },
+      "properties": {
+        "name": "Stop 6- Kīpukapuaulu",
+        "notes": "Stop 6- Kīpukapuaulu\nhttps://www.nps.gov/places/stop-6-kipukapuaulu.htm\n\n<h4>Skylights provide a glimpse into the hidden foundation of Kīpukapuaulu.</h4> Under this lush forest lies a foundation—a body of pāhoehoe lava overlain with centuries of volcanic ash. Formed within the body of pāhoehoe lava flows are lava tubes—volcanic caves that were once filled with molten lava. This lava tube is at least 8,600 years old. While active, it once transported lava over great distances, from its eruptive source to its most distal reaches. Skylights are holes in a lava tubes roof where the ceiling has collapsed, leaving an opening like the one we see here. This lava tube was formed during one of Mauna Loa’s many eruptions. Unlike the Nāhuku lava tube, which can be found along the Crater Rim Drive, entry into this lava tube is discouraged, as it is a safe haven for unique plant and animal species and very delicate geological features. It was in this lava tube, in 1971, that the first cave-adapted animal species in Hawai‘i, was discovered. One such species unique to these dark and often damp lava tubes includes the smalleyed, big-eyed hunting spider (<em>Lycosa howarthi</em>). This endemic spider, along with other insects like the millipedes (<em>Nannolene</em>) and the lava tree crickets (<em>Thaumathgryllus cavicola</em>), continue to call this fragile lava tube home.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.304195,
+          19.442581
+        ]
+      },
+      "properties": {
+        "name": "Stop 7- Kīpukapuaulu",
+        "notes": "Stop 7- Kīpukapuaulu\nhttps://www.nps.gov/places/stop-7-kipukapuaulu.htm\n\n<h4>The future of the ʻōhiʻa lehua tree can be read in the forest gaps of Kīpukapuaulu.</h4> ʻŌhiʻa lehua are the most abundant and important trees in Hawaiʻi’s forests. They are found on the main Hawaiian islands, from shoreline to alpine treeline. During their lifetimes, ʻōhiʻa lehua trees provide food to animal species, like the nectarfeeding native birds. They also become nurse logs after dying and nurture new plant growth. After succumbing to natural dieback, these ancient trees fall to the ground, crushing many of the smaller trees and understory plants beneath them. This process, however, allows additional light to enter all the layers of the forest. The influx of light creates an opportunity for young ʻōhiʻa lehua seedlings, which have taken root on nurse logs, to flourish. These young seedlings can grow, fill the gap in the canopy, and become the next forest giants. Fortunately, for these slow-growing trees, their resilient seedlings can persist for many years on nurse logs, ready to take advantage of a new light gap in the forest’s canopy.<br /> <br /> What do you think are the chances that these slow-growing, light-hungry ʻōhiʻa seedlings will thrive in this small forest gap? Notice that there are other, faster-growing plants, like the endemic pilo (<em>Coprosma rhynchocarpa</em>) and māmaki (<em>Pipturus albidus</em>), and the indigenous purple-flowered koaliʻawa (<em>Ipomoea indica</em>) vine rapidly closing the gap? Once the shadetolerant mānele or pāpala kepau trees replace the pilo, māmaki, and koaliʻawa, the chances for ʻōhiʻa lehua to thrive are grim—at least, until there is a kīpuka-wide disturbance, such as a hurricane or eruption?",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.301637,
+          19.442924
+        ]
+      },
+      "properties": {
+        "name": "Stop 8- Kīpukapuaulu",
+        "notes": "Stop 8- Kīpukapuaulu\nhttps://www.nps.gov/places/stop-8-kipukapuaulu.htm\n\n<h4>The forest floor of native ferns and herbs is also recovering.</h4> While celebrating the recovery of native trees in Kīpukapuaulu, park managers also rejoice in the successful return of the native understory shrubs, ferns, and herbs. In this 1921 photo of Kīpukapuaulu, only a grassy cattle pasture remains beneath a canopy of grandparent trees. Absent are the young trees and native forest floor plants beneath them. Had those conditions continued, Kīpukapuaulu would have looked much different today. Today’s understory is flourishing. The recovery of the forest floor plants has not only increased the diversity of native plants here, but also restored plants of cultural significance, like the endemic ʻalaʻalawainui (<em>Peperomia cookiana</em>), the indigenous palapalai fern (<em>Microlepia strigosa</em>), and the common kupukupu swordfern (<em>Nephrolepis exaltata and cordifolia</em>). Without question, much of Hawaiʻi’s extraordinary plant life plays an essential role in the Hawaiian culture. ʻAlaʻalawainui is widely used by native Hawaiians for its medicinal value. Palapalai and kupukupu are most commonly haku (braided) or hili (plaited) to create lei for hula—lei poʻo (lei worn on the head), lei ʻāʻī (lei worn on the shoulders), and lei kūpeʻe (lei worn as a bracelet around the wrists and ankles). These, and other plants, are meticulously collected and offered as hoʻokupu (spiritual gift) to the goddess Pelehonuamea or placed on the sacred kūʻahu (hula altar) in honor of the goddess Laka—the ʻaumakua to whom hula practitioners pay homage. These now thriving, culturally significant plants are the most common species found in the returning understory of Kīpukapuaulu.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.302388,
+          19.441459
+        ]
+      },
+      "properties": {
+        "name": "Stop 9- Kīpukapuaulu",
+        "notes": "Stop 9- Kīpukapuaulu\nhttps://www.nps.gov/places/stop-9-kipukapuaulu.htm\n\n<h4>The trail through this “veritable botanical oasis” was built by the hard-working CCC “boys.”</h4> Access to Kīpukapuaulu prior to the establishment of Hawaiʻi National Park on August 16, 1916, was limited, as it was a part of a much larger privately owned cattle ranching and commercial koa harvesting enterprise. It wasn’t until 1934 that the Kīpukapuaulu trail was constructed by the hard-working “boys” of the Civilian Conservation Corps (CCC)—a program established by President Franklin Delano Roosevelt in 1933. This emergency work program was implemented to provide economic relief for American families from the Great Depression by employing young men during a time when jobs were scarce. Working alongside skilled laborers, these “boys” became known as Roosevelt’s “Tree Army”—then, the most effective large-scale environmental program in the nation. Several camps were opened through Hawaiʻi. The largest camp on the island of Hawaiʻi was built in Hawaiʻi Volcanoes National Park (1934–1942). It housed some 200 young men that, while working and living in the park, accomplished many great tasks—establishing much of the Park’s early infrastructure. One such project included the construction of the Kīpukapuaulu trail. They later followed that with several additional projects aimed at invasive grasses removal, tree seedling plantings, and tree identification—all a testament to the significance of Kīpukapuaulu as a “veritable botanical oasis.”",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.67566480782787,
+          19.059097076887895
+        ]
+      },
+      "properties": {
+        "name": "The Kahuku Unit",
+        "notes": "The Kahuku Unit\nhttps://www.nps.gov/places/kahuku.htm\n\nLocated on the volatile shoulders of <a href=\"https://www.nps.gov/havo/learn/nature/mauna-loa.htm\">Mauna Loa</a>, the Kahuku Ranch was once one of the biggest cattle ranches in Hawaiʻi, producing beef and hides for more than 150 years. The apparent tranquility of ranch-life, however, was punctuated by volcanic violence that continues to transform the land to this day.<br /> <br /> The 116,000 acre rolling landscape became part of Hawaiʻi Volcanoes National Park in 2003. <br /> <br /> <a href=\"https://www.nps.gov/havo/planyourvisit/kahuku.htm\">Learn more about activities available in the Kahuku Unit.</a> <br /> <em>Kahuku is located in the district of Kaʻū, near mile-marker 70.5 on Highway 11, a one-hour drive from Kīlauea Visitor Center. The Kahuku Unit is only open certain hours and days of the week. See park website for details.</em>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.6840091859667,
+          19.06447804161306
+        ]
+      },
+      "properties": {
+        "name": "The Kaʻū Field System",
+        "notes": "The Kaʻū Field System\nhttps://www.nps.gov/places/kau-field-system.htm\n\nEarly Hawaiians most likely farmed any lowland area that received at least twenty inches of rain annually. They used fire to clear the land of native forest, brush and grass before planting the subsistence plants like sweet potato (ʻuala), banana (maiʻa), breadfruit (ʻulu) and sugar cane (kō) that they’d brought from Polynesia. There are places in <a href=\"https://www.nps.gov/havo/planyourvisit/kahuku.htm\">the Kahuku Unit of Hawaiʻi Volcanoes National Park </a>where the fields and agricultural instruments used to grow these critical foods are still visible today.<br /> <br /> Agricultural landscapes called field systems - important, permanent, and “intensively managed” farming areas – were designed to maximize food production. In the district of Kaʻū, these were exclusively rain-fed.  Since the field system had to feed the people and support the chief, mitigating issues with poor soil and less-than-optimal rainfall for the best production was imperative. Farmers developed innovative ways to increase the yield even in marginal farming areas: they built walls (kuaiwi) and planting mounds to regulate moisture and warmth. <br /> <br /> Although now covered in non-native grasses planted during the Kahuku Ranch era, these walls and mounds are visible in Kahuku as long ridges running through the pastures. As you look at this landscape itʻs easy to imagine garden plots of ʻuala, kō and maiʻa cultivated by ke kini mahiʻai o Kaʻū (the multitude of Kaʻū farmers) to feed the people of Kahuku. <br /> <br /> In Kahuku, the kuaiwi were built mauka-makai, parallel to the slope of the land, in order to maintain moisture by blocking wind and reducing evaporation. Smaller cross-slope walls were also built to reduce erosion and mark boundaries. Planting mounds were constructed in places with shallower soil to retain moisture, regulate heat and provide deeper soil for plants like ʻuala (sweet potatoes), which appears to have been the dominant crop in the area.<br /> <br /> Volcanic eruptions have covered some of the Kaʻū Field System so an accurate measurement of the actual agricultural area is difficult. The University of Hawaiʻi archeological study of the Kaʻū Field System estimates that it was approximately 150 square kilometers, or 37,066 acres.  <br /> <br /> <em>There are many places in the Kahuku Unit where remnants of the field system are visible, but look for them in particular along the Puʻu o Lokuana and Kamakapaʻa trails.</em><br /> <br />  ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.214999,
+          19.364794
+        ]
+      },
+      "properties": {
+        "name": "The Maunaulu Eruption",
+        "notes": "The Maunaulu Eruption\nhttps://www.nps.gov/places/maunaulu.htm\n\n<strong>At the center of the new landscape rises majestic Maunaulu— to many a creation of Pele, a Hawaiian volcanic diety, to all a monument of change.</strong><br /> <br /> In the pre-dawn morning of May 24, 1969, residents and visitors were jarred awake by window-rattling earthquakes. A large fissure had opened up in a quiet forest along Chain of Craters Road. Soon red-hot lava burst forth to announce the start of a new eruption, the birth of Maunaulu (growing mountain).<br /> <br /> Maunaulu grew over a new vent that sustained 12 towering fountains from May to December 1969. At times, the fountains reached 1,770 feet (540 m) high—500 feet (150 m) taller than the Empire State Building! It is said that this was Pele’s brother, Keoʻahikamakaua, the spirit of molten fountains, wielding his spears of lava. Here, you can witness how this sacred Hawaiian landscape continues to undergo rapid and extraordinary change.<br /> <br /> Today when we come to Maunaulu, we see a steaming landscape of destruction and twisted rock. We also discover a fragile and surreal beauty—a place where life regenerates on the volcano’s raw flows. In the future, as in the past, the earth will tremble, and molten lava will cover all you see. An awesome power constantly recreates this land. It is Kīlauea— a force of constant change.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.6838699882008,
+          19.086098087841297
+        ]
+      },
+      "properties": {
+        "name": "The Palm Trail",
+        "notes": "The Palm Trail\nhttps://www.nps.gov/places/palm-trail.htm\n\nA <a href=\"https://www.nps.gov/thingstodo/hike-palm-trail.htm\">day hike or bike ride on the Palm Trail </a>travels through scenic pastures scattered with relics from Kahuku's ranching history. It also traverses the eruption fissure from the devastating 1868 eruption of Mauna Loa. Here, ʻōhiʻa trees and other vegetation are still recovering, over 150 years later.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.281465982,
+          19.4337312685
+        ]
+      },
+      "properties": {
+        "name": "Tree Molds",
+        "notes": "Tree Molds\nhttps://www.nps.gov/places/tree-molds.htm\n\nLava tree molds are cavities or holes in the ground that mark where forests once stood in the path of an approaching lava flow.  <br /> <br /> When lava flows through a forest, it swirls around tree trunks and quickly solidifies. Moisture in the wood and gas bubbles in the rocks form excellent insulation against instant incineration. As the level of the surrounding flows rises, the trees eventurally burn off while a thick crust forms on the surface of the lava flow. Though the trees disappear, their footprints in the lava remain.<br /> <br /> As time has gone by, a younger generation of forest has developed on top of the new lava rock here. Perhaps one day in the future, during a new eruption, the process will be repeated in this same place again.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.288904,
+          19.420118
+        ]
+      },
+      "properties": {
+        "name": "Uēkahuna",
+        "notes": "Uēkahuna\nhttps://www.nps.gov/places/uekahuna.htm\n\nUēkahuna is the celebrated wahi pana (legendary place) of Kaluapele, the caldera of Kīlauea. An important site for Native Hawaiian ritual and cultural practices, Uēkahuna presents visitors with spectacular vistas of Kaluapele, Mauna Loa, and surrounding areas from the highest point on the rim.<br /> <br /> From here, visitors can hike along <a href=\"https://www.nps.gov/havo/planyourvisit/hike_day_craterrim.htm\">Crater Rim Trail</a> for the most dramatic views of Kaluapele (Kīlauea caldera) and Halemaʻumaʻu crater, which underwent a massive collapse during the history-making eruption of 2018. .<br /> <br /> <a href=\"https://www.nps.gov/havo/learn/nature/2018-eruption.htm\">Read more about the eruption of 2018</a>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.2582590394059,
+          19.430182433247968
+        ]
+      },
+      "properties": {
+        "name": "Volcano Art Center Gallery (1877 Volcano House)",
+        "notes": "Volcano Art Center Gallery (1877 Volcano House)\nhttps://www.nps.gov/places/1877-volcano-house.htm\n\n<p>The first western-style building on the rim of Kīlauea still stands and currently hosts the <a href=\"https://volcanoartcenter.org/gallery/\">Volcano Art Center gallery</a>. Upon its construction in 1877, this version of the Volcano House hotel replaced more rudimentary structures that had been in the area since 1846.<br /> <br /> The 1877 incarnation was originally located approximately where the pā hula<b> </b>(hula platform) is today. ʻŌhiʻa and koa timber made up the building which employed elaborate nail-less joints. Redwood shingles were imported from California and brought to Kīlauea by mule. The interior chimney also features an original painting by artist D. Howard Hitchcock of <a href=\"https://www.nps.gov/havo/learn/historyculture/the-volcano-school.htm\">the Volcano School of painters</a>.</p> <p>The hotel was expanded in 1891, and the 1877 portion was later detached and moved close to its current location in 1921.<br /> <br /> In 1974, a group of local artists moved the building away from the cliff behind it, performed an extensive restoration, and hosted an art exhibition in the historic structure. This laid the groundwork for the creation of the Volcano Art Center organization, which leases the structure today.  The gallery is open Wednesday-Sunday from 9:00 am to 5:00 pm.<br /> <br /> The modern day Volcano House hotel stands across Crater Rim Drive and still takes in guests from around the world.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.258359764,
+          19.428635728
+        ]
+      },
+      "properties": {
+        "name": "Volcano House",
+        "notes": "Volcano House\nhttps://www.nps.gov/places/volcano-house.htm\n\n<p>The historic Volcano House hotel has hosted a cadre of world dignitaries since the original building was opened in 1846. Lured by the volcanic forces of Pelehonuamea, visitors from around the world have gathered in various iterations of the hotel. Notably, Queen Lili‘uokalani, who reigned at the time of the overthrow of the Hawaiian Kingdom in 1893, and Kalākaua, the last king of Hawaiʻi, reveled in the beauty of Kīlauea from Volcano House. Other famous guests have included Mark Twain, Robert Louis Stevenson, Amelia Earhart, Louis Pasteur, and President Franklin Delano Roosevelt.<br />  </p> <p>The current Volcano House offers 33 historic guest rooms, a dining room, snack bar, lounge, and gift shop, along with cultural events and demonstrations. For more information or room reservations, visit their website or call,<br /> <a href=\"http://www.hawaiivolcanohouse.com/\">http://www.hawaiivolcanohouse.com/</a><br /> (844) 569-8849</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.267207,
+          19.429905
+        ]
+      },
+      "properties": {
+        "name": "Wahinekapu (Steaming Bluff)",
+        "notes": "Wahinekapu (Steaming Bluff)\nhttps://www.nps.gov/places/wahinekapu.htm\n\nAt Wahinekapu (Steaming Bluff), a short walk from the Steam Vents parking area, you can feel the breath of the volcano as hot water vapor billows from the earth. This striking phenomenon is created as ground water seeps down to rocks heated by magma deep underground. The rocks are so hot that it vaporizes the water, returning it to the surface as steam. The area also provides excellent views of Kīlauea caldera.<br /> <br /> From here, visitors can hike along <a href=\"https://www.nps.gov/havo/planyourvisit/hike_day_craterrim.htm\">Crater Rim Trail</a>, which traverses the summit caldera of Kīlauea, or walk to Haʻakulamanu (Sulphur Banks).",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.210653,
+          19.371652
+        ]
+      },
+      "properties": {
+        "name": "ʻĀloʻi",
+        "notes": "ʻĀloʻi\nhttps://www.nps.gov/places/aloi.htm\n\nBy early 1970, the fountaining vent had created the base of the growing Maunaulu lava shield. Overflows from the vent soon consumed the landscape and filled both ‘Ālo‘i and ʻAlae craters. Majestic lava falls plunged 80 feet (24 m) over ‘Ālo‘i crater’s rim. As thin sheets of crust slid over the brink of the falls, thermal updrafts tore them from the flow’s surface; they floated down like autumn leaves blowing in the wind. Lava lakes within the craters overflowed with each new surge from Maunaulu—adding layers and elevation to the surrounding terrain. The dimpled lava mound that grew above ‘Ālo‘i crater is visible to the discerning eye. It sits on Maunaulu’s right flank and rises 260 feet (80 m) above the pre-eruption level.<br /> <br /> <em>‘Ālo‘i crater, named for the favorite pig of Kahawali, chief of Puna, was filled during the eruption. When Kahawali refused to race with Pele, she (in the form of lava) chased him to the sea. </em>",
+        "icon": "red-pin-down.png"
+      }
+    }
+  ]
+}

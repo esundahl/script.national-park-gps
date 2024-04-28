@@ -1,0 +1,179 @@
+[
+  {
+    "id": "6BC08B51-2AFA-4241-8E92-C3DD78697A23",
+    "url": "https://www.nps.gov/places/andersonville-national-cemetery.htm",
+    "title": "Andersonville National Cemetery",
+    "listingDescription": "What began as a burial ground for POWs who died during the Civil War continues to operate today. Andersonville is the only National Park Service national cemetery still open for new burials of eligible veterans. Over 20,000 military men and women, including veterans of Vietnam, WWII, Korea, the Civil War, and other conflicts, rest in honor in these hallowed grounds.",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/5F5B380E-B017-D232-4CA387640D173564.jpg",
+        "credit": "NPS photo",
+        "altText": "Statue of a soldier standing over graves in a cemetery",
+        "title": "Minnesota Monument",
+        "description": "",
+        "caption": "The Minnesota Monument in Andersonville National Cemetery",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/5F5B380E-B017-D232-4CA387640D173564.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/5F5B380E-B017-D232-4CA387640D173564.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "GA",
+        "parkCode": "ande",
+        "designation": "National Historic Site",
+        "fullName": "Andersonville National Historic Site",
+        "url": "https://www.nps.gov/ande/index.htm",
+        "name": "Andersonville"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [
+      "cemetery",
+      "Civil War",
+      "Vietnam",
+      "WWII",
+      "Korea",
+      "WWI",
+      "Gulf War",
+      "POW",
+      "National Cemetery"
+    ],
+    "latitude": "32.20365884972959",
+    "longitude": "-84.13092136426711",
+    "latLong": "32.20365884972959,-84.13092136426711",
+    "bodyText": "Andersonville National Cemetery began as a burial ground for the nearly 13,000 Union soldiers who died in Camp Sumter military prison during the Civil War. These prisoners of war were buried shoulder to shoulder in trenches. In 1865, after the end of the Civil War, the Union Army came and established the site as a national cemetery. Today over 20,000 of our nation's military men and women, representing nearly every American conflict, rest in honor on these hallowed grounds. Andersonville is the only national cemetery managed by the National Park Service that is still open and continues to provide burial services to American military service members, veterans, and their families.",
+    "audioDescription": "A low, red brick wall encloses about 26 acres of landscaped turf interspersed with large trees. Thousands of small white headstones, inches apart, mark the graves of soldiers buried in trenches. Larger white marble headstones spaced further apart mark the graves of other military service members. The paved road leads up to a circle with a large flag pole flying a US and a POW/MIA flag. The landscape is interspersed with large marble and granite monuments honoring the dead.",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "",
+    "isManagedByNps": "1",
+    "amenities": [
+      "Historical/Interpretive Information/Exhibits"
+    ],
+    "managedByOrg": "National Park Service",
+    "quickFacts": [
+      {
+        "id": "5C252B96-2DEB-4EF4-91D1-B5D2B202FCD7",
+        "value": "Andersonville, Georgia",
+        "name": "Location"
+      },
+      {
+        "id": "208F1B3C-44DC-4CF5-9A61-9B26A364D701",
+        "value": "Historic national cemetery",
+        "name": "Significance"
+      },
+      {
+        "id": "E32D2136-A184-4C1A-91D2-4C20CEF9CBAF",
+        "value": "National Register of Historic Places",
+        "name": "Designation"
+      }
+    ],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [
+      {
+        "title": "Andersonville National Cemetery",
+        "id": "61C45A51-C89B-DFC5-814B-F1B893827691",
+        "type": "multimedia/galleries",
+        "url": "https://www.nps.gov/media/photo/gallery.htm?pg=6633566&id=61C45A51-C89B-DFC5-814B-F1B893827691"
+      },
+      {
+        "title": "Snow at Andersonville",
+        "id": "1A209C39-1DD8-B71C-07A9-E525A98EFA73",
+        "type": "multimedia/galleries",
+        "url": "https://www.nps.gov/media/photo/gallery.htm?pg=6633566&id=1A209C39-1DD8-B71C-07A9-E525A98EFA73"
+      }
+    ],
+    "relevanceScore": 1
+  },
+  {
+    "id": "B99D03A7-00F1-4229-8A7A-B3F500CF5D62",
+    "url": "https://www.nps.gov/places/andersonville-park-store.htm",
+    "title": "Andersonville Park Store",
+    "listingDescription": "The America's National Parks store features a wide ranger of books, media and educational games highlighting the history of Andersonville National Historic Site. The store can be found in the National Prisoner of War Museum.",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/EF0F1660-F878-C50D-FB380C1314F2012C.jpg",
+        "credit": "NPS/ANDE",
+        "altText": "Park volunteer in front of park store.",
+        "title": "America's National Park Store",
+        "description": "",
+        "caption": "Park volunteer at park store at the National Prisoner of War Museum",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/EF0F1660-F878-C50D-FB380C1314F2012C.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/EF0F1660-F878-C50D-FB380C1314F2012C.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "GA",
+        "parkCode": "ande",
+        "designation": "National Historic Site",
+        "fullName": "Andersonville National Historic Site",
+        "url": "https://www.nps.gov/ande/index.htm",
+        "name": "Andersonville"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [
+      "Andersonville",
+      "store"
+    ],
+    "latitude": "32.17848587036133",
+    "longitude": "-84.12186431884766",
+    "latLong": "32.17848587036133,-84.12186431884766",
+    "bodyText": "The park store is operated by <a href=\"https://shop.americasnationalparks.org/store/\">America's National Parks</a>, an official non-profit partner of the National Park Service dedicated to supporting the educational mission of Andersonville National Historic Site. The park store has a wide range of books, media, educational games, and other items available for retail sale. These products complement the interpretive themes you experience when visiting the park. The park store is located at the National Prisoner of War Museum, or you can visit the <a href=\"https://shop.americasnationalparks.org/store/home/5041/Andersonville-National-Historic-Site/\">online </a>park store.",
+    "audioDescription": "Inside the National Prisoner of War Museum, located within Andersonville National Historic Site, is the park store. The store is located in the lobby of the museum. The store is an open layout and contains shelves along the sides with various products for sale. A hanging rack in the center contains shirts. The cash register is at the front of the store facing the museum entrance.",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "https://shop.americasnationalparks.org/store/home/5041/Andersonville-National-Historic-Site/",
+    "isOpenToPublic": "0",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "",
+    "isManagedByNps": "0",
+    "amenities": [
+      "Cellular Signal",
+      "Food/Drink - Snacks",
+      "Food/Drink - Vending Machine/Self Service",
+      "Gifts/Souvenirs/Books",
+      "Information - Maps Available",
+      "Information - Ranger/Staff Member Present"
+    ],
+    "managedByOrg": "America's National Parks",
+    "quickFacts": [
+      {
+        "id": "5C252B96-2DEB-4EF4-91D1-B5D2B202FCD7",
+        "value": "National Prisoner of War Museum",
+        "name": "Location"
+      }
+    ],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  }
+]

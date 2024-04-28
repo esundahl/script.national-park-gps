@@ -1,0 +1,500 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.45543193817139,
+          43.21033701101364
+        ]
+      },
+      "properties": {
+        "name": "Drawbridge",
+        "notes": "Drawbridge\nhttps://www.nps.gov/places/drawbridge.htm\n\n<p>From original plans and writings that survive, we know that the fort was equipped with a drawbridge, although no detailed descriptions of how the bridge operated were found. The mechanism you see before you is a common design of the time and works on a counterweight system. The weights on each side were started by manpower and would then roll down the track to bring the bridge up. Interestingly, the drawbridge was not raised during the siege, most likely because the British concentrated their attack on the north side of the fort. <br /> <br /> <strong>From the Orderly Book of the1st NY Regiment:</strong><br /> <em>Fort Schuyler 2d October 1779<br /> Garision Orders</em></p> <p><em>...the Draw Bridge + main gate to be Opened at Eight OClock, the whole to be shut again at the usual time as beforeBy Order of Colo V Dyck</em></p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.45503497123718,
+          43.21060287886502
+        ]
+      },
+      "properties": {
+        "name": "East Barracks Officer's Quarters",
+        "notes": "East Barracks Officer's Quarters\nhttps://www.nps.gov/places/north-casemate-officer-s-quarters.htm\n\n<p><strong>Officer's Quarters</strong><br /> The remaining three rooms in the North Casemate were officer’s rooms during the American Revolution. Because of the size of the rooms and the number of officers with the regiments, potentially 2-3 men would share each of the spaces. Much like today, the average age of a junior officer would be 21 years old. The biggest difference is that many of these leaders had no leadership training prior to their service – commissions came from education, social status, and wealth. <br /> <br /> <em><strong>Go                                    Fort Schuyler 28th November 1779</strong><br /> The Commanding officers of Compys Whill Prepair their Muster Rols by the first of Dicember for the month of September October & November 1779...</em></p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.45508861541748,
+          43.210442576328646
+        ]
+      },
+      "properties": {
+        "name": "East Barracks, Missionary's Quarters",
+        "notes": "East Barracks, Missionary's Quarters\nhttps://www.nps.gov/places/east-barracks-south-end.htm\n\n<p>Reverend Samuel Kirkland was missionary to the Oneidas and played a large role in persuading them to join the cause for American independence. Although he was assigned to the fort to oversee Oneida scouting missions and report to Congress, he was often away to carry out his assignments. When he was in the area, the garrison at Fort Stanwix welcomed him with a day of fasting, prayer, and thanksgiving. This room is set up to illustrate how little he might have traveled with, bringing only the essential items he would need for his ministry and personal care. </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.45502424240112,
+          43.21063806717027
+        ]
+      },
+      "properties": {
+        "name": "East Barracks, Officer's Family Quarters",
+        "notes": "East Barracks, Officer's Family Quarters\nhttps://www.nps.gov/places/east-barracks-north-end.htm\n\nAs mentioned earlier, officers often had a hard time maintaining their proper high-ranking lifestyle. This situation only got worse as the war progressed. Many officers bankrupted their personal fortunes by not only providing for themselves, but for their men as well when supplies were lacking, which was all of the time. Faced with mounting debts and receiving little in the way of their regular pay, many officers were reduced to living at the same level or worse than the men they commanded. This may have been the reason that Capt. Moody of the artillery had his wife and teenage daughter here with him in 1780. With no other means to support his family, they would have had to join him at the fort.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.45510470867157,
+          43.2104699450842
+        ]
+      },
+      "properties": {
+        "name": "East Barracks, The Suttler",
+        "notes": "East Barracks, The Suttler\nhttps://www.nps.gov/places/east-barracks-the-suttler.htm\n\n<p>Suttler<br /> \"Suttler\" was an 18th century term for a civilian merchant that followed the army. Various suttlers and fur traders were associated with Fort Stanwix during the American Revolution, mainly serving as a means to provide “cheap and plentiful trade” to the local American Indian population. Suttlers directly attached to a regiment provided soldiers with the opportunity to purchase extra food and drink to supplement their everyday rations.  <br /> <br /> <em><strong>GO                                         Fort Schuyler 1th Febur 1780</strong><br /> Officer for the Day to morrow Capt Parsons For Gaurd Lieut Tenbroock For fetgaue Lieut Snow, The Commanding Officer Orders that the Suttler be Allowed no more then Twenty fhillings pr Gill for Rum, five Dollars a Bowle for Grogg Or Toddy and Sixteen Dollars a Bottle for Wine till further orders By Order of Majr Graham Comd<sup>t</sup></em></p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Fort Bull - Fort Wood Creek",
+        "notes": "Fort Bull - Fort Wood Creek\nhttps://www.nps.gov/places/fort-bull-fort-wood-creek.htm\n\n<h4><strong>History:</strong></h4> <p>In 1755 two forts were built by the British to protect each end of the Oneida Carrying Place, a strategic land portage located between the Mohawk River and Wood Creek. Fort Bull (Wood Creek Fort) named after its commander Lt. William Bull was located on the western side of the portage and also served as a supply depot for the British garrison at Oswego. Recognizing the strategic importance of the Oneida Carry and the need to disrupt this critical British supply line between Albany and Oswego the French sent Lt. Gaspard-Joseph Chaussegros de Léry with a force of more than 360 to attack the Oneida Carry. After marching across northern NY for two weeks, de Léry would arrive along the carry road on March 27, 1756, where he ambushed a supply convoy and initiated his attack on Fort Bull. As a result, more than 60 British were either killed or captured, the fort was destroyed and its stores were blown up or dumped into Wood Creek. Within a month of its destruction, the British recognized the need to build a more substantial fortification to replace Fort Bull and began constructing Fort Wood Creek. Today, it is the earthworks of Fort Wood Creek that still remain along with a large boulder monument that was placed on the site in 1907 in recognition of the Battle of Fort Bull.</p> <p>Listed on the State and National Register of Historic Places in 2019 Fort Bull - Fort Wood Creek continues to remain subject to looting and exploitation.</p> <p><br /> <strong>Visitation:</strong><br /> Due to liability issues, the site is open by guided tour only and all access <u>must</u> be approved by the Rome Historical Society. To schedule your visit please contact: </p> <p><a href=\"mailto:director@romehistoricalsociety.org\">RHS Director</a> at 315-404-2467<br /> or<br /> RHS Headquarters at 315-336-5870 <br />  </p> <p><strong>Legal: </strong><br /> The Rome Historical Society is the sole owner of the Fort Bull - Fort Wood Creek property and neither the Erie Canal Village, Cross Roads Redemption Church, Richard J. Rios nor the Fort Bull Research Group have any title or right to authorize access to this pristine historic site. </p> <p> </p> <p> </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.45540511608124,
+          43.21040347808513
+        ]
+      },
+      "properties": {
+        "name": "Fort Main Gate",
+        "notes": "Fort Main Gate\nhttps://www.nps.gov/places/fort-main-gate.htm\n\n<p>These 2 large doors were closed each night as protection for the soldiers, and to deter deserters from leaving the fort. During the 1777 British siege of the fort, these doors were kept closed unless large numbers of soldiers had to leave or enter. When the gate was closed, the smaller wicket gate in the left door allowed passage for one soldier at a time. <br /> <br /> <strong>From the Orderly Book of the 78th of Foot Highlands Regiment:</strong><br /> <em>“Dec. 28, 1758<br /> Parole: HULL – All the men to be told that, what Indians Come to the Gate with a Card Signed and Sealed by Major Clephane are to be Admitted. And those who have not to be Used Roughly; but told; or Signed to; that they are not to be Admitted…”</em></p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.45618295669556,
+          43.210258814366206
+        ]
+      },
+      "properties": {
+        "name": "Fort Stanwix Flag Pole Bastion",
+        "notes": "Fort Stanwix Flag Pole Bastion\nhttps://www.nps.gov/places/red-white-blue-and-gold.htm\n\nMany flags have flown over the walls of Fort Stanwix/Schuyler. During the French & Indian War, the King's Colors (or British flag) was hoisted over it for the first time in spring of 1759. Today, you can see the modern American flag flying on days the fort is open.<br /> <br /> The most significant flag that was ever hoisted there, however, is still unknown. Several descriptions of it's appearance exist. All are red, white, and blue, however arranged in very different fashions. It was flown throughout the month of August 1777, during a bitter siege that was won by Colonel Peter Gansevoort, his Third New York Regiment, and their allies. On August 2, approximately 1,600 British troops and allies arrived at the fort. The British commander, General Barry St. Leger, offered the Americans escape in exchange for unconditional surrender. By August 3, Gansevoort and his officers gave their response to this offer, as recorded by a young lieutenant: Early this Morning a Continental Flag made by the Officers of Col. Gansevoort's Regiment was hoisted and a Cannon Levelled at the Enemies Camp was fired on the Occasion. Gansevoort himself later issued a statement back to St. Leger on the occasion as well: <em>\"It is my determined resolution...to defend this fort and garrison to the last extremity, in behalf of the United American States, who have placed me here to defend it against all their enemies.\"</em><br /> <br /> Could it have been the \"Stars and Stripes?\" Maybe not … Is the flag the most important thing about the events of August 1777? Again, probably not. The pride associated with the flag is still reflected in the lives of people who live in Rome, New York, and throughout the Mohawk Valley to this day. THIS was the flag that flew at the only American fort to never surrender under attack during the entirety of the American Revolution. So whether it was the Grand Union, New York State, or some other flag that has yet to be discovered, Romans can be proud that like the generations before them, they remember our history and live in one of the birthplaces of our “United American States.”",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.4548593001,
+          43.2104990007
+        ]
+      },
+      "properties": {
+        "name": "Fort Stanwix Salleyport",
+        "notes": "Fort Stanwix Salleyport\nhttps://www.nps.gov/places/fort-stanwix-salleyport.htm\n\n<strong>SALLYPORT, 1:</strong> a gate or passage in a fortified place for use by troops making a sortie; <strong>2:</strong> a secure entryway that consists of a series of doors or gates.<br /> <br /> At the historic fort, the garrison's water supply and a swampy area was located just beyond the sallyport door. The watery landscape allowed for natural protection on that side of the fort.<br /> <br /> On August 6, 1777, Colonel Marinus Willett took approximately 200 soldiers through the sally and raided enemy camps. Their goal was to find General Herkimer, unaware that Herkimer and his forces were under attack at Oriskany.<br /> <br /> <strong>The day's events and raid are described as follows:</strong><br /> \"According to General Harkeman's request, the colonel detached 200 men and one field piece under command of Lieutant Colonel Willett with orders to proceed down the road to meet the generl's party; having marched a mile, they came upon an encampment of the enemy which they totally routed and plundered them of as much baggage as the soldiers could carry. Their loss is supposed to be between fifteen and twenty killed. The number of wounded who got off is unknown. They took four prisoners, three of whom were wounded, and Mr Singleton of Montreal, who says he is a lieutenant, without the loss of one man killed or wounded.<br /> <br /> \"Our party returned immediately and brought in a number of blankets, brass kettles, powder and ball, a variety of cloths and Indian Trinkets and hard cash, together with four scalps the Indians had lately taken, being entirely fresh and left in their camp. Two of the scalps taken are supposed to be those of the girls, being neatly dressed and the hair plaited. A bundle of letters was found in the enemy's camp, which had been sent by a Luke Cassidy for this garrison, who is supposed is either killed or taken; the letters were not broke open. Four colors were also taken, and immediately hoist.\"<br /> <em>Account taken from the Journal of William Colbrath.</em><br /> <br />  ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.45550947735853,
+          43.21029664590639
+        ]
+      },
+      "properties": {
+        "name": "Fort Stanwix: Recreated Historic Fort",
+        "notes": "Fort Stanwix: Recreated Historic Fort\nhttps://www.nps.gov/places/fort-stanwix-historic-fort-recreation.htm\n\nIn 1927, a small plot of land was bought by the State of New York to commemorate the Fort, and in 1935 Congress declared the site a National Monument subject to the land becoming Federal property (49 Stat. 665). This was made possible by the inclusion of the site in the Urban Renewal District of the City of Rome which purchased the land and donated it in 1973 to the Federal Government for the reconstruction of the fort. With the use of historic building plans and guided by archeologic finds, the recreated fort was opened to the public in 1976.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.45513153076172,
+          43.21260467017847
+        ]
+      },
+      "properties": {
+        "name": "Gansevoort Park",
+        "notes": "Gansevoort Park\nhttps://www.nps.gov/places/gansevoort-park.htm\n\nDuring the final days of the fort’s siege, American loyalists and British engineers dug a siege trench against the fort. It began here and was forced to stop near where Saint Peter's Roman Catholic Church stands today.<br /> <br /> With the approach of Continental Soldiers commanded by American General Benedict Arnold the siege was ended. The Americans won a key victory. When combined with American victories in the Hudson and Lake Champlain Valleys, the Americans were able to defeat British General John Burgoyne and his army after the Battles of Saratoga. This series of battles combined are considered the turning point of the American Revolutionary War. Fort Stanwix continued to protect New York from the British in Canada until 1781, when it was finally abandoned.<br /> <br /> After the American Revolutionary War, the Oneida Carrying Place remained important for trade and the movement of armies travelling east and west. The portage was replaced by roads, canals, and then railroads. Lynchville (later renamed Rome) was built around then over the site of Fort Stanwix and has enjoyed years of innovation and prosperity because of the commerce that passes through it.<br /> <br /> Monuments dedicated to the Siege of 1777, the Erie Canal, and the commander of the fort, exist in this park today. A statue of Fort Schuyler commander Colonel Peter Gansevoort was dedicated by his granddaughter, Mrs. Katherine Gansevoort Lansing, in the late 1800s. Across the parking lot stands the city of Rome former post office. After the new post office was opened, the Rome Historical Society moved into the building.<br /> <br /> Today, the Fort Stanwix National Monument administrative offices occupy the second story of this historic building as park property sits adjacent to it. ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.45532286161688,
+          43.21084528671862
+        ]
+      },
+      "properties": {
+        "name": "Historic Hearth Room",
+        "notes": "Historic Hearth Room\nhttps://www.nps.gov/places/historic-hearth-room.htm\n\n<p>Originally an officer's quarters, this room now preserves the foundations of an original fireplace uncovered during the archeological excavations in the 1970's. You will see exhibits showing the hearth as it was found and a map of the excavated areas of the fort. Fireplaces like this not only served as cooking and heating sources, but as \"garbage cans\" as well. Many of the artifacts housed in the fort's museum were originally \"junk\" that the soldiers threw in fireplaces like this one. </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.44676840305328,
+          43.199318115292215
+        ]
+      },
+      "properties": {
+        "name": "Lower Landing Place",
+        "notes": "Lower Landing Place\nhttps://www.nps.gov/places/the-lower-landing-place.htm\n\n<p><strong>The Lower Landing of the Mohawk River marks the eastern-most end of the Oneida Carry. An ancient trail used for trade and transportation, and at one point, protected by the historic Fort Stanwix/Schuyler.<br /> <br /> From the Inscription on the the historic marker:</strong></p> <p>\"For generations, the seasons of low water, the bateaux of traders and the armies were here removed from the Mohawk (as the river then flowed) and conveyed across the Oneida Carrying Place to be relaunched in Wood Creek. Here August 2, 1777 Lt. Henry Bird commanding St. Ledger's advance-guard composed of 30 regulars and a party of Indians under Joseph Brant established the first camp of the British investment of Fort Stanwix. This was attacked and looted Aug. 6 by Lt. Col. Willett and 250 Continental troops. Capt. Lerndult and 100 British regulars then erected here a fortified camp with a cannon and held it for the remainder of the siege. Here also was the lock, the starting point for the first canal connecting the waters of the Mohawk and Wood Creek commenced by the Western Inland Lock and Navigation Co. in 1792.\" </p> <p><strong>Location:</strong><br /> The stone and pathway is located on Martin Street, near the intersection of Mill and Martin Streets. Coordinates are: 43° 11.924′ N, 75° 26.687′ W. From Fort Stanwix National Monument it is five minute car ride. </p> <p><strong>Visitation:</strong><br /> This site is open to the general public all-year, from sunrise to sunset. Please contact Rome Historical Society if you would like to set up a guided tour.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.45517444610596,
+          43.21077100058464
+        ]
+      },
+      "properties": {
+        "name": "North Casemate, Commandant's Quarters",
+        "notes": "North Casemate, Commandant's Quarters\nhttps://www.nps.gov/places/east-barracks-commandant-s-quarters.htm\n\n<table border=\"0\" cellpadding=\"1\" cellspacing=\"1\"> <tbody> <tr> <td> <p>The commandant of a fort, especially one as remote as Fort Stanwix, is trusted to be an excellent leader. Because the commandant of a regiment would travel with their men to their next assignment, many men were responsible for the safety of Fort Stanwix and the Great Carry it protected. In 1777, Col. Peter Gansevoort commanded the fort during the 21-day British siege. Only 28-years-old at the time, Gansevoort later received from Congress the ceremonial title of \"Colonel Commandant of Fort Schuyler\" for his defense of the fort.</p> </td> </tr> </tbody> </table>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.45519590377808,
+          43.210778820188246
+        ]
+      },
+      "properties": {
+        "name": "North Casemate, Orderly Room",
+        "notes": "North Casemate, Orderly Room\nhttps://www.nps.gov/places/north-casemate-orderly-room.htm\n\n<p>Orderly Room This room was in the fort’s headquarters building which has not been reconstructed. Space was limited in the fort, and it was not uncommon for one room to have multiple uses. During the day, it served as an office for the fort’s commandant and as a staff room for the officers. In the evening, it could be converted to a dining room for the officers and serve as a place for their social gatherings.  </p> <p>Garrison Orders          Fort Schuyler 23d May 1780   the Noncomifsd offrs Who have the care of Squads in their respective compys are Ordered in the strictest manor to see that every man of his squad is in his quarters at due time Which is at Tatoo Beat and at which time the Orderly Serjts to call the Rolls of their compys & make report to their commandg offr By Order of Coll V Dyck</p> <p>                                </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.45521557325628,
+          43.21078012349518
+        ]
+      },
+      "properties": {
+        "name": "North Casemate, Surgeon's Day Room",
+        "notes": "North Casemate, Surgeon's Day Room\nhttps://www.nps.gov/places/north-casemate.htm\n\nThe northern casemate housed officers' barracks during the American Revolution. These smaller rooms would have had only a handful of men assigned to them. The only object that remains viewable of the original structure is a fireplace hearth that was found during the 1970's excavations.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.45477569114155,
+          43.210784033236855
+        ]
+      },
+      "properties": {
+        "name": "Northeast Bastion",
+        "notes": "Northeast Bastion\nhttps://www.nps.gov/places/northeast-bastion.htm\n\nAt the time of the Siege of 1777, this bastion had not been completed, and the walls were low. Due to this weakness, the British focused their early siege operations against this point. The British mortars were placed just to the north and east of this corner to fire bombs up and over the walls. The tall, grey and white brick building in the distance marks their approximate location. <br /> <br /> <strong>From the Journal of Lt. William Colbrath of the 3rd NY Regiment:</strong><br /> <em>Aug 5th</em><br /> <em>A Continual Firing was kept up by the Savages. One of our Men was Shot<br /> Dead on the N.E. Bastion...</em>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.45550882824841,
+          43.210933908656365
+        ]
+      },
+      "properties": {
+        "name": "Northwest Bastion",
+        "notes": "Northwest Bastion\nhttps://www.nps.gov/places/northwest-bastion.htm\n\nBastions are the diamond-shaped corners of a fort. Each of the bastions working together creates a crossfire pattern of defense with muskets and cannons. Part way through the 1777 siege, the British discovered the powder magazine's location in the bombproof under this bastion, after which they dug their trenches toward this spot. Though unsuccessful, they managed to get within 150 yards of the fort before abandoning the siege. Behind St. Peter's Church marks the site of their trenches. <br /> <br /> <strong>From the Orderly Book of the 3rd NY Regiment:</strong><br /> <br /> <em>Garrison Orders. Fort Schuyler August 1st: 1777</em><br /> <i><em>Parole Massachusets C Sign Jones-</em></i><br /> <em>A Picquet Guard to mount this Evening Consisting of 1 Capt: 3 Sub: 4 Sergents 1 </em><i><em>Drummer & 80 privates who are in Case of an Alarm by the Fring of a Gun to turn out and Man the Bastions 1 Commissioned Officer 1 Sergent 1 Corporal and 20 privates on each Bastion And if the Officer Commanding- the Picquet should think the alarm of Sufficent Importance he is immediately to Order the Drum to beat the Alarm upon which the Garrison is to turn out immediately and to repair to the Alarm Posts...Capt. Benshouten and Tiebout to man the N. W. Bastion Captains DeWitt Swartwout and Bleeker to man the N. E. Bastion Capt. Greggs Company to repair on the Parade till futher Orders.</em></i>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.46266317367554,
+          43.213058191893694
+        ]
+      },
+      "properties": {
+        "name": "Oneida Carrying Place Sculpture",
+        "notes": "Oneida Carrying Place Sculpture\nhttps://www.nps.gov/places/the-oneida-carrying-place-monument.htm\n\n<p>Sitting at the center point of the Oneida Carrying Place and measuring 7-feet by 27-feet, the impressive art piece commemorates the story and significance of the<strong> </strong>location:<strong> </strong>a vital mode of transportation, trade and commerce that connected Wood Creek to the Mohawk River before and during the Revolutionary War. The Oneida Carry was a 2 - 6 mile long portage where boats had to be dragged between the Mohawk River and Wood Creek. It was also the longest portage in the larger New York water way system that connected the Atlantic Ocean to the Great Lakes.<br /> <br /> The area was settled by the Oneida tribe of the Haudenausaunee Confederacy. In the 1600s, Europeans began traveling the area to participate in the lucrative fur trade and prostelelize to the Native population. The path became a critical strategic area during the American Revolution when the Oneidas helped defend nearby Fort Stanwix from British Siege of 1777. The attempted siege failed and the Americans, with their Oneida allies, helped change the momentum of the war.<br /> <br /> One panel of the monument includes a bear, wolf and turtle, which represent the Oneida clans. At front of the monument stands an Oneida ancestor carrying a beaded wampum belt, whose beads would have been cut from the purple and white parts of clam shells. The shell is thought of as a living record of the Haudenosaunee, an alliance among the six Native American nations who are more commonly known as the Iroquois (or Haudenausaunee) Confederacy.<br />  <br /> Another panel of the monument shows the Great Carrying Place, as Native Americans unload goods from boats for trade, which depicts a friendship and peaceful alliance with the newcomers of their land. It became such an important place, that the Europeans would build forts around to protect it, Halbritter said. It would then become a great military complex during the Revolution.<br /> <br /> The sculpture sits 1.5 blocks walking distance from the Fort Stanwix National Monument Visitor Center on West Dominick Street in Rome, NY. </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.44881224632263,
+          43.202297871075615
+        ]
+      },
+      "properties": {
+        "name": "Original Erie Canal & Bellamy Harbor Park",
+        "notes": "Original Erie Canal & Bellamy Harbor Park\nhttps://www.nps.gov/places/the-original-erie-canal-bellamy-harbor-park.htm\n\nBellamy Harbor Park in Rome, NY is situated next to the Mohawk River and Erie and Barge Canals. This park is filled with canal history as the first shovelfuls of earth that became the Erie Canal were dug in the vicinity. Today, it is the intersection of the modern Barge Canal and its largest feeder, the Mohawk River. <br /> <br /> Park Trails connect to the larger Erie Canal Trailway/Empire State Trail System and the water is park of the Erie Canal Water Trail. The park is bike friendly with racks about to lock your equipment to. A kayak launch is available for those wanting to paddle and explore or fish. There is a large frontage for docking the boats of those traveling the canal. A welcome center available in the summer for both cyclists and boaters. There are picnic tables for those who'd like to have a meal with a view and there are many restaurants available in the area that provide delivery.<br /> <br /> Scattered throughout the park and its connecting trails are markers and signs dedicated to the original Erie Canal, trade along the Mohawk River, and the historic forts built in the location. <br /> <br /> Fort Stanwix National Monument sits 1 mile walking distance from the location, via Mill Street and Dominick Street. ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.37046259026515,
+          43.17566989929757
+        ]
+      },
+      "properties": {
+        "name": "Oriskany Battlefield State Historic Site",
+        "notes": "Oriskany Battlefield State Historic Site\nhttps://www.nps.gov/places/oriskany-battlefield-state-historic-site.htm\n\nIn August 1777, while the British were attacking Fort Stanwix, Brigadier General Nicholas Herkimer assembled 800 Rebel militiamen supported by a party of allied Oneida warriors, and marched from Fort Dayton to aid against the British siege. Upon hearing of Herkimer's advance, Loyalist troops under Sir John Johnson and Col. John Butler, and Indian forces under Seneca leaders Old Smoke and Corn planter, and Mohawk Joseph Brant, set a trap near a series of boggy ravines west of Oriskany Creek. As the unsuspecting American troops crossed through the ravines, the Indians and Loyalists attacked. The militia fought in brutal hand-to-hand combat, and in spite of heavy losses, stood their ground. A Rebel attack on their camps around Fort Stanwix finally caused the Seneca and the Mohawks, followed by the Loyalists to retreat. The militia had lost too many men to continue their advance and retreated back to Fort Dayton. It was in this battle that General Herkimer received the wound to his leg which led to his death ten days later.<br /> <br /> Today, visitors to the battlefield can walk the site, read a series of interpretive signs, and at certain times of the year visit the park’s visitor center.<br /> <br /> <strong>NOTE:</strong> Oriskany Battlefield is managed in partnership with the National Park Service at Fort Stanwix National Monument.<br />  ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.45477747917175,
+          43.21237790805614
+        ]
+      },
+      "properties": {
+        "name": "Rome Historical Society",
+        "notes": "Rome Historical Society\nhttps://www.nps.gov/places/rome-historical-society.htm\n\n<p>The Rome Historical Society - Friends of the Fort sits next to the grounds of Fort Stanwix National Monument. This free museum has exhibits related to the historic fort, the Erie Canal, the history of Rome, NY, and more! Check the <a href=\"https://romehistoricalsociety.org/\">main website</a> for museum hours and research information. <br /> <br /> In 1936, America was still struggling through the Great Depression and attempting to right itself in a world that, in the aftermath of World War I, was rapidly becoming more “global.” Technological advances were fundamentally and continuously altering the fabric of American life, alongside sweeping social changes. It’s not surprising that, out of this moment in history, Americans began to really study matters of American history and American culture.</p> <p>One man with such an urge to examine and preserve the history of American life was Edwin D. Bevitt, the Executive Secretary of the Rome Area Chamber of Commerce. The history of Rome is a long one, with a number of historic sites and interests he felt were not only important to this area, but to American history as a whole. On February 20, 1936, he called a meeting of some of Rome’s most socially and civically minded citizens, to discuss the founding of what would become the Rome Historical Society. This crowd of citizens didn’t require much persuading, and immediately set to work drafting a charter. After many hours of hard work donated by countless people, the Rome Historical Society was granted its provisional charter on September 21, 1936, and a museum was opened in the third floor of the Jervis Public Library, located at 613 North Washington Street. The Rome Historical Society would be granted its absolute charter in 1944.</p> <p>Since receiving its charter, the Rome Historical Society has operated from a number of historic locations. In 1958, Mrs. Alexander Rutherford gifted the Society with the former armory building at 117 East Dominick Street for use as the Fort Stanwix Museum. This building was vacated in 1970 to make way for the construction of Fort Stanwix National Park and other Urban Renewal projects. During the Urban Renewal years, the Society operated from a number of temporary locations, first at a former supermarket building at 112 Spring Street from 1970 to 1974, and then at the Lunger House at 113 West Court Street until 1980.</p> <p>It was in 1980 that the Rome Historical Society would purchase its present location at 200 Church Street. This building was a former United States Post Office, built in 1936 as a part of the New Deal projects being constructed across America, the same year as the Society’s founding. After extensive renovations, the Society’s museum reopened in 1985 and has since operated uninterrupted.</p> <p>From 200 Church Street, the Rome Historical Society operates a 3,700 square foot museum with both permanent and rotating exhibits. These exhibits are based on our collection of more than 40,000 items, carefully preserved in 8,400 square foot artifact storage. The William E. Scripture Research Library is home to more than 10,000 archived books, documents, photographs, and paper records to aid curious genealogists, home and business owners, and seasoned historians alike.</p> <p>The Rome Historical Society was chartered by the State Board of Regents in 1936, the thoughtful undertaking of a number of civically engaged Romans. Their goal was ultimately simple: to foster the study of the historic city of Rome, New York, and to share that history with as many other people as possible</p> <p>At the Rome Historical Society, you can discover the ways Rome has adapted, grown, and changed over time, from its days as a place of portage for colonial traders to its early fortifications like Fort Bull and Fort Stanwix, from a small town briefly named Lynchville to the industrious city of Rome that supplied one-tenth of the world’s copper and was home to Griffiss Air Force Base. The study of Rome, the City of American History, is a densely layered look at what it means to be American, from our earliest colonial history to our global present—and beyond.</p> <p>The Rome Historical Society runs a wide variety of lectures, book signings and other events in their 95-seat Stevens-Kingsley Foundation Auditorium. Also installed in the auditorium is the “Our Goodly Heritage” diorama, a multimedia presentation on Rome’s long and richly storied history.</p> <p>In autumn of 2015 the Rome Historical Society became the official Friends Group of Fort Stanwix National Monument. As a Friends Group we support the mission of the National Park Service to preserve unimpaired the natural and cultural resources and values of the National Park System for the enjoyment, education, and inspiration of this and future generations. This means that Rome Historical Society can accept charitable donations on behalf of Fort Stanwix National Monument to advance mutually beneficial goals.</p> <p>Our role as a Friends Group not only allows us to solicit and accept philanthropic contributions on behalf of Fort Stanwix National Monument, but also allows us to conduct collaborative strategic planning, share resources, partner in the development of exhibits, conduct joint programming, and more.</p> <p>In addition to the Church Street Location, the Rome Historical Society owns and maintains three additional historic sites: The Lower Landing Place, Fort Bull/Wood Creek, and The Tomb of the Unknown Soldiers of the American Revolution. Please see our Historic Sites page to learn more about these locations.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.45508325099945,
+          43.2105090432851
+        ]
+      },
+      "properties": {
+        "name": "Soldiers' Quarters, Bleeker & DeWitt",
+        "notes": "Soldiers' Quarters, Bleeker & DeWitt\nhttps://www.nps.gov/places/soldiers-quarters-bleeker-dewitt.htm\n\n<p><strong>Soldiers’ Quarters (Dewitt and Bleecker)</strong><br /> The names by the doors denote the company commander's name. As with everywhere else, barracks space was limited, and soldiers cooked, ate, and slept in their assigned barracks. A common barracks would have held soldiers ranking from private to sergeant, as well as drummers and fifers. The bunk beds held 4 men each, 2 up and 2 down to conserve space. Working from sunup to sundown, the main duties of a soldier consisted of guard duty, fatigue work (manual labor), and drill. In return for their service, the Continental soldier was to receive food, clothing, and a monthly wage, all of which were often in short supply. <br /> <br /> <strong>G: O:                                      Fort Schuyler 18  March 1780</strong><br /> <em>Officer of the Day to morrow Captn Ransilear for guard Lieut Snow Details as Usual           The Commanding offr is sorroy to see so much Drunkennefs & Irregularities amongst the men for which reason he is Necefsiated to prohibit the Setler from selling any liquor to the noncomifd offrs or Soldiers in the garrison untill further…The Serjeant of the guard for the futer Immediately bfore Nine Oclock [PM] is to take a patrole party & Throughly patrole evry Soldiers Room & Hutt in the garrison & see there is no Irregularities Commited = as also that every soldier repair to his Own quarters for Rest… </em></p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.45505106449127,
+          43.21022362584215
+        ]
+      },
+      "properties": {
+        "name": "Southeast Bastion & Bombproof",
+        "notes": "Southeast Bastion & Bombproof\nhttps://www.nps.gov/places/southeast-bastion-bombproof.htm\n\n<p>The southeast bastion of the fort served a critical purpose during the Siege of 1777. This is the location that the garrison signaled to the Tryon County Militia under the command of Nicholas Herkimer, that they were prepared to assist their compatriots in their trek to the beleagured fort.<br /> <br /> <b>From the Journal of L</b><b>ieutenant</b><i> </i><b>William Colbrath of the 3<sup>rd</sup><span style=\"font-size: 7.875px;\"> </span>NY Regiment:</b><br /> <i>August 6, 1777 [The day of the Battle of Oriskany]</i><br /> <i>Being uneasy lest the Tories should report that the enemy had taken the fort, Lieutenant Diefendorf was ordered to get ready to set off for Albany this evening to inform General Schuyler of our situation, but between 9 and 10 o'clock this morning three militiamen arrived here with a letter from General Harkeman wherein he writes that he had arrived at Orisco with 1000 militia in order to relieve the garrison and open communication, which was then entirely blocked up, and that if the colonel should hear a firing of small arms, desired he would send a party from the garrison to reinforce him. General Harkeman desired that the colonel would fire three cannon, if the three men got safe into the fort with this letter, which was done and followed by three cheers by the whole garrison…</i><br /> <br /> The fort's bakery (not reconstructed) was located in the bombproof under this bastion, and the chimney top in the middle of the bastion has been reconstructed to reflect this. Bread was a mainstay of the soldier's ration, and each soldier was to receive one pound of bread or flour per day in addition to their one pound meat ration. Like many other features of the fort, this bastion not only served as a defense, but as a way for the soldiers to get to the Necessary House, or restroom. Linked by a bridge from the rectangular cut-out in the wall, the Necessary was over a stream which washed the waste away from the garrison. <br /> <br /> <strong>From the Orderly Book of the 1<sup>st</sup> NY Regiment:</strong><br /> <em>Fort Schuyler 1<sup>st</sup> September 1779<br /> G:O   <br /> ....in order to prevent any more Disputes about the Flower that may be over in the Bake house the Col. Orders and Directs that the command ing off<sup>r</sup> of each Comp<sup>y</sup> in the Garrison be Allowed to purchis 25<sup>lb</sup> of the Bakers of Flower or Bread per Week over His & the Compy<sup>s</sup>Weekly Allowance & no more & that the Bakers do not Dispose of a single lb more to any parson or parsons except it be to such family as shall be Directed them in and about the garrison by the Commanding off<sup>r</sup> this to be Considered as a Standing Order...</em><br /> <br /> <img alt=\"1970s_dig\" src=\"https://www.nps.gov/fost/learn/historyculture/images/1970s_dig.jpg?maxwidth=650&autorotate=false\" title=\"1970s_dig.jpg\" /><br /> Archeologists excavate the remains of a bakehouse within the walls of the southeast corner of the fort.</p> <p><em>National Park Service</em></p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.45522809028625,
+          43.21029400286996
+        ]
+      },
+      "properties": {
+        "name": "Southeast Casemate",
+        "notes": "Southeast Casemate\nhttps://www.nps.gov/places/southeast-casemate.htm\n\nSoldiers’ Barracks called \"Jansen\" was built into the walls of the fort. The casemate barracks for the enlisted soldiers appear primitive with the dirt floor and the long beds, called cribs. Although cramped and dusty, these barracks provided extra warmth and protection from enemy attack with thick log roofs and walls, compared to the thin planked walls of the freestanding barracks. ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.45583963394165,
+          43.21034483067287
+        ]
+      },
+      "properties": {
+        "name": "Southwest Bombproof",
+        "notes": "Southwest Bombproof\nhttps://www.nps.gov/places/southwest-bombproof.htm\n\n<p>One of four in the original fort, today only this one has been rebuilt. Intended as a storage area for supplies, this particular bombproof became the emergency hospital during the British siege. Despite regular British artillery and small arms fire, casualties were light; out of a garrison of nearly 800, only 7 people were killed and 21 wounded. Notably, a soldier’s wife, Mrs. McCarthy, gave birth in the makeshift hospital after being injured by a British mortar fragment. <br /> <br /> <strong>From the 1777 Journal of Leiutenant William Colbrath of the 3rd NY Regiment:</strong><br /> <em><strong>Augt 21th</strong> “…a heavy and continual firing was kept up for near two Hours during which their Cannon & Mortars were playing on us very briskly, in which interim we had a man of the Artillery wounded & a Woman big with Child wounded in the Thigh.”<br /> <br /> <strong>Augt 22d</strong> “…the woman that was wounded with a Shell last Night was brought to bed in our S.W. Bomb proof of a Daughter. She and the child are like to do well with the Blessing of God.”</em></p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.4555231332779,
+          43.21039565843341
+        ]
+      },
+      "properties": {
+        "name": "Southwest Casemate, Artificers' Quarters",
+        "notes": "Southwest Casemate, Artificers' Quarters\nhttps://www.nps.gov/places/southwest-casemate-artificer-s-quarters.htm\n\n<p>Skilled civilian workmen, called artificers, were employed by the army for specialized work that the soldiers might not have been able to perform. Carpenters, blacksmiths, and other tradesmen would have lived in this room during the 3rd NY’s time at the fort, and it was furnished much like the other soldiers’ barracks you have seen. During excavations in the 1970s, fragments of numerous tool, ironworks, and other supplies used by these workers were found in this location, suggesting this was their typically assigned work area, if not living area as well. <br /> <br /> <strong>From the Orderly Book of the 1st NY Regiment</strong><br /> <em>Garrison Orders                                        <br /> Fort Schuyler 10th Octr 1779Officer for the day to Morrow Capt Ranfselaer for Guard Lt  Tenbroock…No fatigues in the afternoon the whole Regt to parade for Exercise at three OClock Except those Artificiers Employed within the Garrison the whole to parade with their Regimentals & as clean as possible.  By Order of Colo V Dyck</em></p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.23644085530556,
+          43.339118764997295
+        ]
+      },
+      "properties": {
+        "name": "Steuben Memorial State Historic Site",
+        "notes": "Steuben Memorial State Historic Site\nhttps://www.nps.gov/places/steuben-memorial-state-historic-site.htm\n\nA veteran of the Prussian Army, Frederick Wilhelm Von Steuben was in France in 1777. There he was introduced to Benjamin Franklin and he volunteered his services to advise the ill-trained American army. Starting at Valley Forge, he converted the ragged, starving army into an effective fighting force and developed the logistical system that allowed the army to survive in the field. His program greatly increased morale and strengthened the army. He authored the \"Regulations for the order and discipline of the troops of the United States\", sometimes referred to as the \"Blue Book,\" which still remains a basic reference for military training and organization.<br /> <br /> As gratitude for his wartime contributions, New York State deeded him a large parcel of land in 1786 and congress granted von Steuben a life annuity in 1790. He spent his summers at his two room log house on the site until his large manor house could be built. Steuben also planned on large scale development of his lands. His large house remained unbuilt and only minimal land development had been accomplished when Steuben died in his cabin in November of 1794. Per his request he was laid in an unmarked grave, but road development exposed his grave in 1804. One of his former aids, Benjamin Walker, took charge of his remains and donated part of the land Steuben had bequeathed him as a final resting place for the Baron’s remains. The site today is known as the \"Sacred Grove.\" <br /> <br /> In addition to the “Sacred Grove”, the site also contains a replica of Steuben’s cabin. <br /> <br /> <strong>NOTE: </strong>Steuben Memorial is managed in partnership with the National Park Service at Fort Stanwix National Monument.<br />  ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.45560359954834,
+          43.210114150304136
+        ]
+      },
+      "properties": {
+        "name": "The Ditch",
+        "notes": "The Ditch\nhttps://www.nps.gov/places/the-ditch.htm\n\n<h4>The Ditch</h4> <p>A typical feature of forts, the ditch at Fort Stanwix surrounds 3/4 of the fort. It never held water, because the water would damage the fort's wood and earth structure. It still proved an effective obstacle and served to increase the height of the walls. During the siege, the ditch was used primarily as a safe area for livestock. Typically, the ditch served as a living space for a majority of families that followed soldiers to the fort. Period documents and artifacts suggest that the families and soldiers lived there in tents and wooden huts.<br /> <br /> <strong>From the Orderly Book of the 1st NY Regiment: </strong><br /> <em>Fort Schuyler 3rd September 1779</em></p> <p><em>G:O  Officer of the Day to morrow Captain Finck for guard Lt VallcenBurgh = no Cowes to be kept in the Ditch for the Futer the Centries in the gates Will not Suffer any to come in from the Date of this Order       <br /> By Order of Col V Dyck</em></p> <h4><strong>The Gardens</strong></h4> <p>Before his arrival to the fort in the spring of 1777, Gansevoort sent a letter to his second in command, Lieutenant Col. Marinus Willett, ordering a garden to be planted near the fort. Orders within state that: </p> <p><em>“As soon as the Season will permit you will have the Garden put in Seed, that the Garrison may not be without vegetables in their Season.”</em></p> <p>The vegetables within provided the lifeline needed to survive on the New York frontier so far away from the main Continental Army Supply lines. Root vegetables such as potatoes and onions were grown in them. As well as cabbage, a standard crop useful in preventing the onset of scurvy (vitamin C deficeny) in th 18th Century. The orginal gardens would've be planted just beyond the fort pickets, downstream from the garrison's main nessecary house; taking full advantage of the free fertilizer!</p> <p> </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.45642789317083,
+          43.21214071338236
+        ]
+      },
+      "properties": {
+        "name": "Tomb of the Unknown Soldiers of the American Revolution",
+        "notes": "Tomb of the Unknown Soldiers of the American Revolution\nhttps://www.nps.gov/places/tomb-of-the-unknown-revolutionary-war-soldier.htm\n\n<p>In 1972, backhoe excavations for sewer and telephone lines along James Street uncovered the remains of eight adult males. This occurred in conjunction with the archeological excavations going on at the site of Fort Stanwix itself. Further investigations concluded that they were the remains of soldiers serving at the fort during the American Revolution as their uniform buttons were identified. It was decided to reinter the remains near the future site of Fort Stanwix National Monument. However, their cause(s) of death remain unknown.<br /> <br /> Former Camden NY resident Lorimer Rich was contacted to design the the 19-foot tall obelisk. The choice of the obelisk, similar to the nearby Oriskany Battlefield monument, is a symbol mean to draw a connection between the grave and the heavens. As there were soldiers from other states who served at Fort Stanwix, the original plans for the monument called for it to be surrounded by stones from Connecticut, Rhode Island, Massachusetts, New Hampshire and New York. Rich had earlier designed the Tomb of the Unknown Soldiers in Arlington National Cemetery. The Tomb of the Unknown Revolutionary War Soldiers would be his last architectural work.<br /> <br /> The tomb was officially dedicated on July 4, 1976, when a contingent of staff and volunteers from Fort Stanwix National Monument laid the eight soldiers in their final resting place at the tomb.<br /> <br /> The Tomb stands on a small park plot on the corner of North James and West Liberty Streets in Rome, New York, and is located near the northwest corner of the restored Fort Stanwix National Monument. </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.45591473579407,
+          43.21297999873514
+        ]
+      },
+      "properties": {
+        "name": "Veterans’ Park",
+        "notes": "Veterans’ Park\nhttps://www.nps.gov/places/veterans-park.htm\n\n<p>Veterans Park (formerly known as West Park) is located in the 200 block of North James Street. With its twin park, Gansevoort Park, it forms a unique and important ceremonial space along the North James Street corridor. Both parks are special use parks designed as memorials, and have historical significance within the community.</p> <p>The park is open from dawn to dusk.</p> <p>Although there is no programmed recreational use of these parks—there are periodic services held at the parks as well as usage during Honor America Days as well as the annual Holiday Tree Lighting Ceremony.</p> <p>Veterans Memorial Park also features several flagpoles that display the flags of the major branches of the armed services: Army, Navy, Air Force, Marines and Coast Guard as well as the American Flag and a flag for soldiers who were POW/MIAs.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.45550346330856,
+          43.21049731382746
+        ]
+      },
+      "properties": {
+        "name": "West Barracks & Guard House",
+        "notes": "West Barracks & Guard House\nhttps://www.nps.gov/places/west-barracks-guard-house.htm\n\n<p><strong>West Barracks</strong><br /> Originally built to be a duplicate of the East barracks, today this building houses a visitor contact station and one living history space – the guardhouse.                <br /> <br /> <strong>Guard House</strong><br /> The original guardhouse was a freestanding building in the empty space behind you. Similar in appearance to the storehouse (public restroom building), it served as temporary quarters for the company on guard duty and might have also contained rooms for holding those awaiting punishment. Along with being assigned to guard posts around the fort (marked with sentry boxes), guards also patrolled the area and stood watch over groups of soldiers on work detail outside of the fort walls.<br /> <br /> <strong>From the Orderly Book of the1st NY Regiment:</strong><br /> <em>Fort Schuyler 15th November 1779</em><br /> <em>...The officer of the Guard will Pay the Strictest Attention to their Guards and suffer no Rum to be carried into the Guard House they will Also give the N. Commifsioned Off,rs of the Guard the Strictest orders not to Suffer any Spirituous Liquors to be brought into the Prisoners on any Pretence Whatever if any of the N. Commifsioned officers of the Guard are found Neglectfull in this Part of duty they may rely on Punish,t___ any Person also Who Shall be known to cary any Spirituous Liquors into the Guard Room unlesfs by Liberty of the Command.g officer of the Guard may Depend to have no Liberty Shown him but rely on the Sevarest Punishmt__ by order of</em></p> <p><em>                                             John Graham Maj.r</em></p> <p> </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.4556143283844,
+          43.2106185181143
+        ]
+      },
+      "properties": {
+        "name": "West Casemate",
+        "notes": "West Casemate\nhttps://www.nps.gov/places/west-casemate.htm\n\nThis entire structure was once a soldiers’ barracks similar to the Jansen barracks. Now part of the building is modern storage and the north end is home to additional living history barracks. ",
+        "icon": "red-pin-down.png"
+      }
+    }
+  ]
+}

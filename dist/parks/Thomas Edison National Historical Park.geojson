@@ -1,0 +1,440 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.23330692947594,
+          40.78367108170153
+        ]
+      },
+      "properties": {
+        "name": "1914 Fire at Thomas Edison's Laboratory",
+        "notes": "1914 Fire at Thomas Edison's Laboratory\nhttps://www.nps.gov/places/1914-fire-at-thomas-edison-s-laboratory.htm\n\n<p paraeid=\"{1cc08889-ced5-49a3-89b7-a25a15460c77}{157}\" paraid=\"140089170\">The 1914 Fire at Thomas Edison's Laboratory</p> <p paraeid=\"{1cc08889-ced5-49a3-89b7-a25a15460c77}{163}\" paraid=\"919850093\"> </p> <p paraeid=\"{1cc08889-ced5-49a3-89b7-a25a15460c77}{165}\" paraid=\"1582363611\"> </p> <p paraeid=\"{1cc08889-ced5-49a3-89b7-a25a15460c77}{209}\" paraid=\"591963638\"> </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.23374703527863,
+          40.783917499344696
+        ]
+      },
+      "properties": {
+        "name": "Audio Description of Thomas Edison's Laboratory Complex Courtyard",
+        "notes": "Audio Description of Thomas Edison's Laboratory Complex Courtyard\nhttps://www.nps.gov/places/audio-description-of-thomas-edison-s-laboratory-complex-courtyard.htm\n\n<p>Audio Description of Thomas Edison's Laboratory Complex Courtyard</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.24079319836075,
+          40.786055925184115
+        ]
+      },
+      "properties": {
+        "name": "Birding and guests to Thomas Edison's home, Glenmont",
+        "notes": "Birding and guests to Thomas Edison's home, Glenmont\nhttps://www.nps.gov/places/birding-and-guests-to-thomas-edison-s-home-glenmont.htm\n\nBirding and guests at Thomas Edison's home, Glenmont.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.2338896394049,
+          40.783996704819735
+        ]
+      },
+      "properties": {
+        "name": "Building 1 at Thomas Edison's Laboratory Complex",
+        "notes": "Building 1 at Thomas Edison's Laboratory Complex\nhttps://www.nps.gov/places/building-1-at-thomas-edison-s-laboratory-complex.htm\n\nBuilding 1 at Thomas Edison's Laboratory Complex",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.23357313874114,
+          40.78401565995182
+        ]
+      },
+      "properties": {
+        "name": "Building 11 at Thomas Edison's Laboratory Complex",
+        "notes": "Building 11 at Thomas Edison's Laboratory Complex\nhttps://www.nps.gov/places/building-11-at-thomas-edison-s-laboratory-complex.htm\n\nBuilding 11 at Thomas Edison's Laboratory Complex",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.23354391855396,
+          40.78381778957225
+        ]
+      },
+      "properties": {
+        "name": "Building 2 The Chemical Laboratory at Thomas Edison's Laboratory Complex",
+        "notes": "Building 2 The Chemical Laboratory at Thomas Edison's Laboratory Complex\nhttps://www.nps.gov/places/building-2-the-chemical-laboratory-at-thomas-edison-s-laboratory-complex.htm\n\nBuilding 2 The Chemical Laboratory at Thomas Edison's Laboratory Complex",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.23324277998383,
+          40.78391208357678
+        ]
+      },
+      "properties": {
+        "name": "Building 3- The Pattern Shop at Thomas Edison's Laboratory Complex",
+        "notes": "Building 3- The Pattern Shop at Thomas Edison's Laboratory Complex\nhttps://www.nps.gov/places/building-3-the-pattern-shop-at-thomas-edison-s-laboratory-complex.htm\n\nBuilding 3- The Pattern Shop at Thomas Edison's Laboratory Complex.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.23322780431,
+          40.78362192208342
+        ]
+      },
+      "properties": {
+        "name": "Building 4 at Thomas Edison's Laboratory Complex",
+        "notes": "Building 4 at Thomas Edison's Laboratory Complex\nhttps://www.nps.gov/places/building-4-at-thomas-edison-s-laboratory-complex.htm\n\nBuilding 4 at Thomas Edison's Laboratory Complex",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.23387041689331,
+          40.783870111403324
+        ]
+      },
+      "properties": {
+        "name": "Building 5 at Thomas Edison National Historical Park",
+        "notes": "Building 5 at Thomas Edison National Historical Park\nhttps://www.nps.gov/places/building-5-at-thomas-edison-national-historical-park.htm\n\nBuilding 5 at Thomas Edison's Laboratory Complex",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.23331980597003,
+          40.78359788299493
+        ]
+      },
+      "properties": {
+        "name": "Building 6 at Thomas Edison's Laboratory Complex",
+        "notes": "Building 6 at Thomas Edison's Laboratory Complex\nhttps://www.nps.gov/places/building-6-at-thomas-edison-s-laboratory-complex.htm\n\nBuilding 6 at Thomas Edison's Laboratory Complex",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.2340307646283,
+          40.78400659897526
+        ]
+      },
+      "properties": {
+        "name": "Gatehouse at Thomas Edison's Laboratory Complex",
+        "notes": "Gatehouse at Thomas Edison's Laboratory Complex\nhttps://www.nps.gov/places/gatehouse-at-thomas-edison-s-laboratory-complex.htm\n\nThomas Edison's Laboratory Gatehouse",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.2337240997,
+          40.7839282003
+        ]
+      },
+      "properties": {
+        "name": "Laboratory Complex Courtyard",
+        "notes": "Laboratory Complex Courtyard\nhttps://www.nps.gov/places/laboratory-complex-courtyard.htm\n\nThe courtyard of Thomas Edison's historic Laboratory Complex in West Orange, NJ.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.23746021734425,
+          40.78172515004432
+        ]
+      },
+      "properties": {
+        "name": "Llewellyn Park",
+        "notes": "Llewellyn Park\nhttps://www.nps.gov/places/llewellyn-park.htm\n\nLewellyn Park Gate",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.23368377984254,
+          40.78435075890011
+        ]
+      },
+      "properties": {
+        "name": "The Black Maria at Thomas Edison's Laboratory Complex",
+        "notes": "The Black Maria at Thomas Edison's Laboratory Complex\nhttps://www.nps.gov/places/the-black-maria-at-thomas-edison-s-laboratory-complex.htm\n\nThe Black Maria at Thomas Edison's Laboratory Complex",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.23328413069932,
+          40.783974364815286
+        ]
+      },
+      "properties": {
+        "name": "The Blacksmith Shop at Thomas Edison's Laboratory Complex",
+        "notes": "The Blacksmith Shop at Thomas Edison's Laboratory Complex\nhttps://www.nps.gov/places/the-blacksmith-shop-at-thomas-edison-s-laboratory-complex.htm\n\nThe Blacksmith Shop at Thomas Edison's Laboratory Complex",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.2330370995,
+          40.7836050992
+        ]
+      },
+      "properties": {
+        "name": "The Water Tower at Thomas Edison's Laboratory Complex",
+        "notes": "The Water Tower at Thomas Edison's Laboratory Complex\nhttps://www.nps.gov/places/the-water-tower-at-thomas-edison-s-laboratory-complex.htm\n\nThe Water Tower at Thomas Edison's Laboratory Complex",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.2336945086786,
+          40.783997720262306
+        ]
+      },
+      "properties": {
+        "name": "The founding of Thomas Edison National Historical Park",
+        "notes": "The founding of Thomas Edison National Historical Park\nhttps://www.nps.gov/places/the-founding-of-thomas-edison-national-historical-park.htm\n\nThe Founding of Thomas Edison National Historical Park",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.2340668999,
+          40.7840093003
+        ]
+      },
+      "properties": {
+        "name": "Thomas Edison Biography: 1847-1882:  Birth to Pearl Street",
+        "notes": "Thomas Edison Biography: 1847-1882:  Birth to Pearl Street\nhttps://www.nps.gov/places/thomas-edison-biography-1847-1882-birth-to-pearl-street.htm\n\nThomas Edison Biography: 1847-1882:  Birth to Pearl Street ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.23409818113534,
+          40.78398519632744
+        ]
+      },
+      "properties": {
+        "name": "Thomas Edison Biography: 1886-1931. The West Orange Years",
+        "notes": "Thomas Edison Biography: 1886-1931. The West Orange Years\nhttps://www.nps.gov/places/thomas-edison-biography-1886-1931-the-west-orange-years.htm\n\nThomas Edison Biography: 1886-1931. The West Orange Years ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.24108942066884,
+          40.78637117141417
+        ]
+      },
+      "properties": {
+        "name": "Thomas Edison's Glenmont Back Lawn",
+        "notes": "Thomas Edison's Glenmont Back Lawn\nhttps://www.nps.gov/places/thomas-edison-s-glenmont-back-lawn.htm\n\nThomas Edison's Glenmont Back Lawn",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.24056923394893,
+          40.78624555934718
+        ]
+      },
+      "properties": {
+        "name": "Thomas Edison's Glenmont Mansion",
+        "notes": "Thomas Edison's Glenmont Mansion\nhttps://www.nps.gov/places/thomas-edison-s-glenmont-mansion.htm\n\nThomas Edison's Glenmont Mansion",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.2400780936664,
+          40.78608247309102
+        ]
+      },
+      "properties": {
+        "name": "Thomas Edison's Glenmont link to the labs",
+        "notes": "Thomas Edison's Glenmont link to the labs\nhttps://www.nps.gov/places/thomas-edison-s-glenmont-link-to-the-labs.htm\n\nThomas Edison's Glenmont Mansion through the trees",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.24056632247135,
+          40.78649735822069
+        ]
+      },
+      "properties": {
+        "name": "Thomas Edison's Laundry Yard and Pump House",
+        "notes": "Thomas Edison's Laundry Yard and Pump House\nhttps://www.nps.gov/places/thomas-edison-s-laundry-yard-and-pump-house.htm\n\nThomas Edison's Pump House and Laundry Yard",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.24022692301268,
+          40.786423488567166
+        ]
+      },
+      "properties": {
+        "name": "Thomas Edison's Servants: \"A League of Nations.\"",
+        "notes": "Thomas Edison's Servants: \"A League of Nations.\"\nhttps://www.nps.gov/places/thomas-edison-s-servants-a-league-of-nations.htm\n\nThomas Edison's Servants: \"A League of Nations.\"",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.24047537489461,
+          40.78619760424376
+        ]
+      },
+      "properties": {
+        "name": "Thomas Edison's family life on the second floor of Glenmont",
+        "notes": "Thomas Edison's family life on the second floor of Glenmont\nhttps://www.nps.gov/places/thomas-edison-s-family-life-on-the-second-floor-of-glenmont.htm\n\nThomas Edison's Family Life on the Second Floor of Glenmont",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.2402895475507,
+          40.7861118414646
+        ]
+      },
+      "properties": {
+        "name": "Thomas Edison- The second owner of Glenmont",
+        "notes": "Thomas Edison- The second owner of Glenmont\nhttps://www.nps.gov/places/thomas-edison-the-second-owner-of-glenmont.htm\n\nThomas Edison, The second owner of Glenmont",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.24144908772368,
+          40.786225521805356
+        ]
+      },
+      "properties": {
+        "name": "Thomas and Mina Edison's Graves",
+        "notes": "Thomas and Mina Edison's Graves\nhttps://www.nps.gov/places/thomas-and-mina-edison-s-graves.htm\n\nThomas and Mina Edison's Gravesite at the Glenmont estate grounds.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.23350943625657,
+          40.78419238246074
+        ]
+      },
+      "properties": {
+        "name": "Vault 12 at Thomas Edison's Laboratory Complex",
+        "notes": "Vault 12 at Thomas Edison's Laboratory Complex\nhttps://www.nps.gov/places/vault-12-at-thomas-edison-s-laboratory-complex.htm\n\nVault 12 at Thomas Edison's Laboratory Complex",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.23332101109374,
+          40.78440423919971
+        ]
+      },
+      "properties": {
+        "name": "Vaults 32 and 33 at Thomas Edison's Laboratory Complex",
+        "notes": "Vaults 32 and 33 at Thomas Edison's Laboratory Complex\nhttps://www.nps.gov/places/vaults-32-and-33-at-thomas-edison-s-laboratory-complex.htm\n\nVaults 32 and 33 at Thomas Edison's Laboratory Complex",
+        "icon": "red-pin-down.png"
+      }
+    }
+  ]
+}

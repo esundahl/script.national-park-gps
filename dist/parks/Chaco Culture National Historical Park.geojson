@@ -1,0 +1,110 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.958482106,
+          36.0560906783
+        ]
+      },
+      "properties": {
+        "name": "Casa Rinconada",
+        "notes": "Casa Rinconada\nhttps://www.nps.gov/places/casa-rinconada.htm\n\nCasa Rinconada contains a stand alone Great Kiva, as well as remnants of smaller dwellings. It also is the site of different solar alignments throughout the year. Located 6 miles from the visitor center on the 9-mile Canyon Loop Drive<strong>.</strong> The trail through Casa Rinconada and the nearby villages is ½ mile long, round trip. It is graveled, and climbs several short, steep rises, so assistance is recommended for people using wheelchairs. While the grand public buildings like Pueblo Bonito and Chetro Ketl were in use, smaller, more typical villages existed alongside. This trail will introduce you to the diversity of architecture that existed at the center of Chacoan culture.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.954149434,
+          36.0603325281
+        ]
+      },
+      "properties": {
+        "name": "Chetro Ketl",
+        "notes": "Chetro Ketl\nhttps://www.nps.gov/places/chetro-ketl.htm\n\nLocated 4 1/2 miles from the Visitor Center on the 9-mile Canyon Loop Drive<strong>.</strong> The trail through Chetro Ketl is ½ mile, roundtrip. It is graveled, and climbs several short, steep rises, so assistance is recommended for people using wheel chairs. Chetro Ketl is the second largest Chacoan great house. It covers more than 3 acres, and contains a great kiva and elevated kivas. As builders constructed second and third stories, they created an elevated plaza that stands 12 feet above the canyon floor.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.904096376,
+          36.0284619676
+        ]
+      },
+      "properties": {
+        "name": "Fajada Butte",
+        "notes": "Fajada Butte\nhttps://www.nps.gov/places/fajada-butte-overlook.htm\n\n<p><b>Fajada Butte</b> is a unique part of the landscape of Chaco Canyon and can be seen from miles away. The butte rises 135 meters above the canyon floor and is the site of the famous Sun Dagger. It consists of three stone slabs, 2-3 meters tall, against a cliff face with two carved spiral petroglyphs. Visitors can observe Fajada Butte from an overlook accessed from the park road.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.930767722,
+          36.0499069241
+        ]
+      },
+      "properties": {
+        "name": "Hungo Pavi",
+        "notes": "Hungo Pavi\nhttps://www.nps.gov/places/hungo-pavi.htm\n\nHungo Pavi is an unexcavated Chacoan great house (monumental public building) containing over 150 rooms, a great kiva, and an enclosed plaza. It is a good example of what Chacoan sites look like without excavations--covered with a protective blanket of wind-blown sand and native vegetation. Hungo Pavi is located 2 miles from the visitor on the 9-mile loop drive.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.95822841100001,
+          36.059618454
+        ]
+      },
+      "properties": {
+        "name": "Pueblo Bonito",
+        "notes": "Pueblo Bonito\nhttps://www.nps.gov/places/pueblo-bonito.htm\n\n<p>Located 4 1/2 miles from the Visitor Center on the 9-mile Canyon Loop Drive<strong>. </strong>The trail through Pueblo Bonito is 0.6 mile, roundtrip. It is graveled, and climbs several short, steep rises.</p> <p>Pueblo Bonito is the most thoroughly investigated cultural site in Chaco Canyon and visitors are permitted to walk through the original rooms of the structure. Planned and constructed in stages between 850 CE to 1150 CE (Common Era) by ancestral Pueblo people, this was the center of the Chacoan world. That world eventually covered a vast area of the present-day Southwest, including the San Juan Basin of New Mexico, and portions of Colorado, Utah, and Arizona. For over 300 years, Chacoan Culture united many diverse peoples within its sphere of influence.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.965279289,
+          36.0621848057
+        ]
+      },
+      "properties": {
+        "name": "Pueblo del Arroyo",
+        "notes": "Pueblo del Arroyo\nhttps://www.nps.gov/places/pueblo-del-arroyo.htm\n\nThe great house of Pueblo del Arroyo was planned and constructed in two short phases, from approximately 1065 to 1150 CE. Though smaller than earlier great houses, the structure has many typical great house attributes. But unlike other great houses in the canyon, it was built away from cliff walls, in the open near the arroyo. Another unusual feature is the tri-wall kiva. Only ten tri-wall kivas have been found in the Southwest – three of those are at Aztec Ruins National Monument. The one found at Pueblo del Arroyo is the only one in Chaco Canyon.<br /> <br /> Located 5 1/2 miles from the Visitor Center on the 9-mile Canyon Loop Drive<strong>.</strong> The trail through Pueblo del Arroyo is 1/4 mile, roundtrip. It is graveled, and climbs several short, steep rises. Assistance is recommended for persons using wheelchairs.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.91006827400001,
+          36.030750918
+        ]
+      },
+      "properties": {
+        "name": "Una Vida",
+        "notes": "Una Vida\nhttps://www.nps.gov/places/una-vida.htm\n\nUna Vida is one of Chaco's earliest great houses built around 850 CE (Common Era). Una Vida exists today in a near-natural state of preservation, free from major vandalism, and with only minor excavations and preservation repairs. A one-mile roundtrip (including petroglyphs) trail begins at the NE corner of the Visitor Center parking lot. Portions are rocky, steep, and slippery when wet. Take water and travel in small groups to lessen our impacts to this fragile site.",
+        "icon": "red-pin-down.png"
+      }
+    }
+  ]
+}

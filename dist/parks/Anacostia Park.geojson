@@ -1,0 +1,305 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.99014902114868,
+          38.87154797759336
+        ]
+      },
+      "properties": {
+        "name": "11th Street Bridge",
+        "notes": "11th Street Bridge\nhttps://www.nps.gov/places/11th-street-bridge.htm\n\n<p paraeid=\"{3581bfbc-8e54-488b-9e1a-81a488cffd02}{165}\" paraid=\"205493967\">Historic; segregation line </p> <p paraeid=\"{3581bfbc-8e54-488b-9e1a-81a488cffd02}{171}\" paraid=\"1531937055\"> </p> <p paraeid=\"{3581bfbc-8e54-488b-9e1a-81a488cffd02}{175}\" paraid=\"345345628\">Anacostia Park was a segregated park, with what is now the 11th St. Bridge serving as the segregation line. North of the bridge was the White section, with a golf course, pool, and many fields and courts. South of the Bridge was the Black section, a much smaller area with only courts and fields. Anacostia Park during this time was a clear representation of the failure of “separate but equal”. Segregation in Anacostia Park ended in 1949. </p> <p paraeid=\"{3581bfbc-8e54-488b-9e1a-81a488cffd02}{185}\" paraid=\"982161653\"> </p> <p paraeid=\"{3581bfbc-8e54-488b-9e1a-81a488cffd02}{189}\" paraid=\"783562066\">The 11th Street Bridge first opened in 1965. Its construction coincided with the Interstate Highway System introduced by President Eisenhower. DC followed the trend of improved urban planning and infrastructure happening nationwide. In 2009, the bridge underwent a major renovation almost 50 years since its initial construction. The DC Department of Transportation (DDOT) replaced the bridge. At the time, it was the most expensive project they ever completed with an estimated cost of over $450 million dollars. This bridge is one of several bridges that connect DC on the east and west sides of the Anacostia River. From the bridge, it overlooks Anacostia Park to the north and south. It is where the political boundary lines for DC wards 6 and 8 meet. The bridge is 931 feet in length. On the eastern side of the bridge, 11th street ends and becomes Martin Luther King Avenue. </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.977362,
+          38.875018
+        ]
+      },
+      "properties": {
+        "name": "Anacostia Park Pirate Ship Playground",
+        "notes": "Anacostia Park Pirate Ship Playground\nhttps://www.nps.gov/places/000/anacostia-park-pirate-ship-playground.htm\n\n<p>One of the most popular picnic areas in Anacostia Park the Fairlawn Picnic area, nicknamed \"Pirate Ship Playground,\" offers restrooms, picnic tables and exercise equipment for adults and children. The fanciful pirate ship jungle gym reminds us of the ships that once sailed Anacostia's waters.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.983299,
+          38.872793
+        ]
+      },
+      "properties": {
+        "name": "Anacostia Recreation Center",
+        "notes": "Anacostia Recreation Center\nhttps://www.nps.gov/places/000/anacostia-recreation-center.htm\n\n<p>Built during by the Works Projects Administration during the Great Depression, the Anacostia Recreation Center offers bike rentals, and picnic areas. A pool and weight room are free to Washington, DC, residents and available to others at a nominal fee. In 1949, the Recreation Center was the site of a major integration riot that ultimately paved the way for desegregation of public pools in the District of Columbia.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.97083895914682,
+          38.879215614805645
+        ]
+      },
+      "properties": {
+        "name": "Anacostia Riverwalk Trail",
+        "notes": "Anacostia Riverwalk Trail\nhttps://www.nps.gov/places/anacostia-riverwalk-trail.htm\n\n<p paraeid=\"{cbf3787d-d303-45ec-a1fa-ee27859c2d6f}{83}\" paraid=\"557181009\">The Anacostia Riverwalk Trail is a paved multi-use trail that runs along the Anacostia River. It is free and is open year-round during daylight hours. The trail is excellent for biking, jogging and walking. Pets are welcome along the trail as long as they are on a 6 foot or shorter leash. The trail is 3.5 miles long in Anacostia Park, but you have many options to extend your journey. You can do a 7.8 mile loop by crossing the Anacostia River and riding along the west bank or the river. You can also continue along the trail north to Bladensburg Park in Maryland, or south by going across one of the bridges into downtown DC to the Capitol Hill and Navy Yard neighborhoods.   </p> <p paraeid=\"{cbf3787d-d303-45ec-a1fa-ee27859c2d6f}{97}\" paraid=\"947513966\">Local attractions along the trail in Anacostia Park include the Anacostia Park Pavillion, where you can rent roller-skates from Memorial Day until Labor Day. The Anacostia Pool, tennis courts, basketball courts and many athletic fields provide the opportunity for sports and recreation. The trail connects other nearby areas to explore including the Kenilworth Aquatic Gardens, River Terrace Park, the Maine Avenue Fish Market and Wharf, Nationals Park, Historic Anacostia, and the Bladensburg Marina Park.  </p> <p paraeid=\"{cbf3787d-d303-45ec-a1fa-ee27859c2d6f}{103}\" paraid=\"44808534\">The newest portion of the riverwalk trail that extended Benning Road NE to the Bladensburg Trail was completed in 2016. Mileage markers were completed in 2022 to assist in navigation and directions for trail users. </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.970535,
+          38.878552
+        ]
+      },
+      "properties": {
+        "name": "Anacostia Roller Skating Pavilion",
+        "notes": "Anacostia Roller Skating Pavilion\nhttps://www.nps.gov/places/000/anacostia-roller-skating-pavilion.htm\n\n<p>Can you remember the last time you laced up a pair of roller skates? Make new memories with this â€˜fun for the whole family' activity. Skate rentals are free and available during summer months. On summer weekends DJ music adds to the fun. This is the one and only roller skating rink owned and operated by the National Park Service!</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.970374,
+          38.879761
+        ]
+      },
+      "properties": {
+        "name": "Anacostia boat ramp",
+        "notes": "Anacostia boat ramp\nhttps://www.nps.gov/places/000/anacostia-boat-ramp.htm\n\n<p>Anacostia Park doesn't just have great view of the river, it has public access! The boat ramp is located at the north end of Anacostia Drive SE. Vehicle and trailer parking is adjacent to the boat ramp. Review <a href=\"http://mpdc.dc.gov/page/harbor-and-boating-safety-regulations\">D.C.'s Harbor and Boating Safety Regulations</a> prior to launching your watercraft.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9696403608,
+          38.8786009171
+        ]
+      },
+      "properties": {
+        "name": "Aquatic Resources Center",
+        "notes": "Aquatic Resources Center\nhttps://www.nps.gov/places/aquatic-resources-center.htm\n\n<p paraeid=\"{692dd7dd-f493-4226-80b3-76c9a9c5a22c}{177}\" paraid=\"1825517713\">Aquatic Resources Education Center is the host to 20-1,500-gallon aquariums where visitors can have insight of what's beneath the waves of the Anacostia and to learn about the variety of aquatic life that is supported by the river. Well over 40 species of fish, amphibians, reptiles, and invertebrates from the District and the Chesapeake Bay are on display at the facility. The AREC is a multi-use environmental education center located in Anacostia Park, SE run by DOEE. </p> <p paraeid=\"{692dd7dd-f493-4226-80b3-76c9a9c5a22c}{183}\" paraid=\"175008312\"> </p> <table aria-rowcount=\"2\" border=\"1\" data-tablelook=\"1696\" data-tablestyle=\"MsoTableGrid\"> <tbody> <tr aria-rowindex=\"1\" role=\"row\"> <td data-celllook=\"0\" role=\"rowheader\"> <p paraeid=\"{692dd7dd-f493-4226-80b3-76c9a9c5a22c}{187}\" paraid=\"1034292156\">Monday </p> </td> <td data-celllook=\"0\" role=\"columnheader\"> <p paraeid=\"{692dd7dd-f493-4226-80b3-76c9a9c5a22c}{194}\" paraid=\"544076204\">Tuesday </p> </td> <td data-celllook=\"0\" role=\"columnheader\"> <p paraeid=\"{692dd7dd-f493-4226-80b3-76c9a9c5a22c}{201}\" paraid=\"859979107\">Wednesday </p> </td> <td data-celllook=\"0\" role=\"columnheader\"> <p paraeid=\"{692dd7dd-f493-4226-80b3-76c9a9c5a22c}{208}\" paraid=\"902335830\">Thursday </p> </td> <td data-celllook=\"0\" role=\"columnheader\"> <p paraeid=\"{692dd7dd-f493-4226-80b3-76c9a9c5a22c}{215}\" paraid=\"2107240321\">Friday </p> </td> </tr> <tr aria-rowindex=\"2\" role=\"row\"> <td data-celllook=\"0\" role=\"rowheader\"> <p paraeid=\"{692dd7dd-f493-4226-80b3-76c9a9c5a22c}{223}\" paraid=\"1522294791\">AREC <br /> Closed </p> </td> <td data-celllook=\"0\"> <p paraeid=\"{692dd7dd-f493-4226-80b3-76c9a9c5a22c}{232}\" paraid=\"1687858391\">10 am-12 pm - Open for school programs </p> <p paraeid=\"{692dd7dd-f493-4226-80b3-76c9a9c5a22c}{238}\" paraid=\"1439074284\"> </p> <p paraeid=\"{692dd7dd-f493-4226-80b3-76c9a9c5a22c}{242}\" paraid=\"863941639\">1-3 pm - Open for school programs & walk-in visitors </p> <p paraeid=\"{692dd7dd-f493-4226-80b3-76c9a9c5a22c}{248}\" paraid=\"1925635359\"> </p> </td> <td data-celllook=\"0\"> <p paraeid=\"{692dd7dd-f493-4226-80b3-76c9a9c5a22c}{253}\" paraid=\"406136186\">10 am-12 pm - Open for school programs </p> <p paraeid=\"{3efdf074-67c8-4724-9efe-32ada607fb3f}{4}\" paraid=\"1182264864\"> </p> <p paraeid=\"{3efdf074-67c8-4724-9efe-32ada607fb3f}{8}\" paraid=\"357195776\">1-3pm - Open for school programs </p> <p paraeid=\"{3efdf074-67c8-4724-9efe-32ada607fb3f}{14}\" paraid=\"1530891610\"> </p> </td> <td data-celllook=\"0\"> <p paraeid=\"{3efdf074-67c8-4724-9efe-32ada607fb3f}{19}\" paraid=\"1058232838\">10 am-12 pm - Open for school programs </p> <p paraeid=\"{3efdf074-67c8-4724-9efe-32ada607fb3f}{25}\" paraid=\"29890296\"> </p> <p paraeid=\"{3efdf074-67c8-4724-9efe-32ada607fb3f}{29}\" paraid=\"981672760\">1-3 pm - Open for school programs & walk-in visitors </p> <p paraeid=\"{3efdf074-67c8-4724-9efe-32ada607fb3f}{35}\" paraid=\"274637706\"> </p> </td> <td data-celllook=\"0\"> <p paraeid=\"{3efdf074-67c8-4724-9efe-32ada607fb3f}{40}\" paraid=\"1957342759\">10 am-12 pm - Open for school programs </p> <p paraeid=\"{3efdf074-67c8-4724-9efe-32ada607fb3f}{46}\" paraid=\"737413699\"> </p> <p paraeid=\"{3efdf074-67c8-4724-9efe-32ada607fb3f}{50}\" paraid=\"1211337346\">1-3 pm - Open for school programs and <br /> walk-in visitors </p> <p paraeid=\"{3efdf074-67c8-4724-9efe-32ada607fb3f}{58}\" paraid=\"656209694\"> </p> </td> </tr> </tbody> </table>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.96998953819275,
+          38.87767045390624
+        ]
+      },
+      "properties": {
+        "name": "Basketball Courts",
+        "notes": "Basketball Courts\nhttps://www.nps.gov/places/basketball-courts.htm\n\nThe Anacostia Park Basketball Court is a space for visitors to play pick-up or be able to open shoot. The basketball court is located next to the skating pavilion. The basketball courts are open all year round and from sunrise to sunset. There are 8 basketball hoops and two court spaces.   ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Frederick Douglass Memorial Bridge",
+        "notes": "Frederick Douglass Memorial Bridge\nhttps://www.nps.gov/places/frederick-douglass-memorial-bridge.htm\n\n<p paraeid=\"{3581bfbc-8e54-488b-9e1a-81a488cffd02}{1}\" paraid=\"1049998639\">The Frederick Douglass Memorial Bridge is located at the southern edge of Anacostia Park and carries South Capitol Street over the Anacostia River into Washington, D.C. It is named for the famed social reformer, abolitionist, orator, writer, and statesman, Fredrick Douglass. Construction of the bridge started in 2018 and was completed in 2021. The bridge is 1,600-feet long and consists of three sets of parallel white arches. There are six lanes of traffic and a joint bicycle-pedestrian path on both sides. </p> <p paraeid=\"{3581bfbc-8e54-488b-9e1a-81a488cffd02}{7}\" paraid=\"1426756064\"> </p> <p paraeid=\"{3581bfbc-8e54-488b-9e1a-81a488cffd02}{11}\" paraid=\"420176072\">Frederick Douglass spent his life fighting for justice and equality. Born into slavery in 1818, he escaped as a young man and became a leading voice in the abolitionist movement. Douglass moved to Anacostia in 1878. Douglass used to spend much of his time walking down the Anacostia River. He was a talented botanist and would collect plants and study the environment.  </p> <p paraeid=\"{3581bfbc-8e54-488b-9e1a-81a488cffd02}{23}\" paraid=\"1044264559\"> </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.99063181877136,
+          38.86936781435669
+        ]
+      },
+      "properties": {
+        "name": "Good Hope Road Park Entrance",
+        "notes": "Good Hope Road Park Entrance\nhttps://www.nps.gov/places/good-hope-road-park-entrance.htm\n\nGood Hope Road is one of three entrances into Anacostia Park. In order to enter the park, you will first pass through the DC-295 underpass. At the end of the road, you will see your first glimpse of the Anacostia River. You might also notice the Anacostia Riverwalk Trail (ART). The ART is a paved trail frequently used by cyclists, runners, and walkers and serves as the backbone of the Anacostia Waterfront. It stretches 12-miles along the river from South Capitol Street north to Kenilworth Aquatic Gardens. Turning right on Anacostia Drive will take you to the DC Recreation Center, Skating Pavilion, Aquatic Education Center, and boat ramp. Turning left will take you to the National Capitol Parks – East Headquarters and the South Capitol Street entrance/exit of the park. ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.97108387947083,
+          38.87741988541808
+        ]
+      },
+      "properties": {
+        "name": "Historic Site: Malcolm X Day",
+        "notes": "Historic Site: Malcolm X Day\nhttps://www.nps.gov/places/historic-site-malcolm-x-day.htm\n\nFor over 23 years, May 19th was a tremendous day in Anacostia Park. To celebrate pioneering civil rights activist Malcolm X’s birthday, tens of thousands of people would come to the park to hear activists, artists, community leaders and more. Beginning in 1972, the message of the yearly event was to celebrate and create unity in the surrounding community. The events featured community organizing, art, music, and a general celebration of culture. ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.983920112,
+          38.872672282
+        ]
+      },
+      "properties": {
+        "name": "Historic site: 1949 Anacostia Pool Riot",
+        "notes": "Historic site: 1949 Anacostia Pool Riot\nhttps://www.nps.gov/places/historic-site-1949-anacostia-pool-riot.htm\n\nThe Anacostia Park swimming pool became the center of a riot in 1949 when the pool was set to be integrated. Before 1949 the pool was only open to White Americans, and Black Americans were not welcome. When Black residents tried to access the pool that summer, White residents harassed them. The fighting continued and the police did not help to enforce the integration but instead arrested some individuals supporting equal access to the pool. The pool was closed for the rest of the summer in response. The following summer the pool was open to all people, but most White residents did not return. ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.993138,
+          38.868218
+        ]
+      },
+      "properties": {
+        "name": "Information Panel: Bonus Army",
+        "notes": "Information Panel: Bonus Army\nhttps://www.nps.gov/places/000/information-panel-bonus-army.htm\n\n<p>In May 1932, jobless veterans organized a group called the \"Bonus Expeditionary Forces\" that marched on Washington, DC, to demand an advance on a bonus payment they had been promised for their World War I service. Led by Walter W. Walters, the veterans set up camps and occupied buildings in various locations in Washington, DC. The largest camp was a shantytown here on the Anacostia Flats, across the river from Washington's Navy Yard. By summer, at least 20,000 people had joined the camps. When a bill to give the veterans their payment early failed in Congress, many of the protesters moved on, but many also stayed, so President Hoover sent in the army - led by Gen. Douglas MacArthur - to push them out on July 28. The camp was still inhabited by about 10,000 people, who were driven off by the cavalry with tanks and tear gas while infantry set fire to the shanties. DC's hospitals were overwhelmed with the wounded. Deemed an operational success for the army, the political fallout was a disaster for President Hoover, who lost his re-election bid later that year.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.969901,
+          38.898787
+        ]
+      },
+      "properties": {
+        "name": "Langston Golf Course",
+        "notes": "Langston Golf Course\nhttps://www.nps.gov/places/000/langston-golf-course.htm\n\n<p>Under the shadow of segregation, the Langston Golf Course was built to service the nearby African American community in 1939. It was one of twenty golf courses in America that was open to African Americans; whites had 680 to choose from. Washington, DC, was the birthplace of the first men's and women's African American golf clubs: the Riverside Golf Club (1924), now the Royal Golf Club, and the Wake Robin Golf Club, originally comprised of the wives of Riverside members who were tired of being left at home alone all weekend.<br /> Inscriptions<br /> LANGSTON GOLF COURSE<br /> HAS BEEN PLACED ON THE NATIONAL REGISTER OF HISTORIC PLACES<br /> BY THE UNITED STATES<br /> DEPARTMENT OF THE INTERIOR<br /> 1991<br /> A HISTORIC SITE OPENED<br /> JUNE 9TH, 1939<br /> NAMED FOR<br /> JOHN MERCER LANGSTON</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.97673797607422,
+          38.87575775874589
+        ]
+      },
+      "properties": {
+        "name": "Nicholson Street SE Entrance",
+        "notes": "Nicholson Street SE Entrance\nhttps://www.nps.gov/places/nicholson-street-se-entrance.htm\n\n<p paraeid=\"{b6a12849-c2ce-4e51-8ed3-c46c004326c9}{2}\" paraid=\"285398328\">Follow I-395 North to I-295 South. Follow signs for Martin Luther King Blvd. <br />  <br /> After approaching the bridge, you should see signs for Anacostia Park. Get in the left center lane. The park exit is at the end of the bridge and is somewhat obscured. It is a sharp turn so be ready for it. <br />  <br /> Go down the ramp and make a right. The Park entrance is straight ahead. <br />  <br /> Turn right. The fields are on the right. Park in the big parking lot to the left of the recreation center. </p> <p paraeid=\"{b6a12849-c2ce-4e51-8ed3-c46c004326c9}{14}\" paraid=\"24894464\">From points NORTH (Anacostia Blvd N or S) <br />  <br /> Take the Pennsylvania Ave East Exit. <br />  <br /> Turn right on to Minnesota Av. <br />  <br /> Turn right on Nicholson St. This will take you straight to the park entrance. </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9601833820343,
+          38.89631862130639
+        ]
+      },
+      "properties": {
+        "name": "River Terrace Park",
+        "notes": "River Terrace Park\nhttps://www.nps.gov/places/river-terrace-park.htm\n\n<p paraeid=\"{b12f48b7-5ef5-431d-8daf-c43ad01db329}{243}\" paraid=\"986356630\">River Terrace Park is a lovely community park located in the River Terrace neighborhood of NE Washington DC. The park sits along the east bank of the Anacostia River, providing great views of the flowing tidal river. Wildlife is abundant on the river including ducks, geese, beavers and river otters. Park amenities include a children's playground, a covered pavilion, two basketball courts (full court), two tennis courts and a paved walking trail. The trail is part of the Anacostia Riverwalk Trail that continues south to Anacostia Park and north to Kenilworth Aquatic Gardens.  <br />  </p> <p paraeid=\"{b12f48b7-5ef5-431d-8daf-c43ad01db329}{253}\" paraid=\"1056021538\">Adjacent to the park is the River Terrace neighborhood. Bordered by Interstate 295, Benning Road and Pennsylvania Avenue, the neighborhood is known as a \"modest jewel\" tucked away in NE Washington. The neighborhood has a lot of nice front porches and pretty gardens that beautify the area. Nearby amenities just across the Anacostia River include the Langston Golf Course and Kingman and Heritage Island Parks. </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.97488188743591,
+          38.87895669157069
+        ]
+      },
+      "properties": {
+        "name": "Seafarer’s Yacht Club",
+        "notes": "Seafarer’s Yacht Club\nhttps://www.nps.gov/places/seafarer-s-yacht-club.htm\n\nIn 1945, Lewis T. Green made history in Anacostia Park when he created the Seafarers Yacht Club. The Seafarers is the oldest African American yacht club in the country. It was founded by Green, an art teacher in DC Public Schools, who enjoyed building boats in his free time. At first his application for the land was ignored, but after help from civil rights leader Mary McLeod Bethune, he was able to establish the club and rent the space. The Yacht Club is still thriving to this day and was an early advocate for stewarding the river. ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.97945,
+          38.877751
+        ]
+      },
+      "properties": {
+        "name": "Sousa Bridge",
+        "notes": "Sousa Bridge\nhttps://www.nps.gov/places/000/sousa-bridge.htm\n\n<p>Named after John Philip Sousa this bridge carries Pennsylvania Avenue, America's main street, across the Anacostia River and into the heart of Washington. Born a half-mile from the bridge, John Philip Sousa built the Marine Band into one of the most famous musical groups in the world. Known as \"the March King,\" Sousa composed many marches, the most famous being \"The Stars and Stripes Forever.\" Sousa is buried in Congressional Cemetery, just on the other side of the bridge.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.00016975402832,
+          38.869025330529816
+        ]
+      },
+      "properties": {
+        "name": "South Capitol Street Park Entrance",
+        "notes": "South Capitol Street Park Entrance\nhttps://www.nps.gov/places/south-capitol-street-park-entrance.htm\n\n<p paraeid=\"{10fb386c-c441-4d91-915e-5e9c8777ba05}{82}\" paraid=\"2125151483\">Follow the Suitland parkway toward Washington, DC </p> <p paraeid=\"{10fb386c-c441-4d91-915e-5e9c8777ba05}{88}\" paraid=\"438265830\">Turn right at the fourth traffic signal to turn onto firth sterling avenue. Take the next left turn on Howard Street.  </p> <p paraeid=\"{10fb386c-c441-4d91-915e-5e9c8777ba05}{94}\" paraid=\"6164630\">When you arrive to the Douglas bridge, the lanes split into 4 exits.  </p> <p paraeid=\"{10fb386c-c441-4d91-915e-5e9c8777ba05}{100}\" paraid=\"1045363659\">Take the fourth exit and the park entrance is on the right. </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9821895803,
+          38.8727699944
+        ]
+      },
+      "properties": {
+        "name": "Tennis Courts and Playground",
+        "notes": "Tennis Courts and Playground\nhttps://www.nps.gov/places/tennis-courts-and-playground.htm\n\nThere are multiple tennis courts and a playground at Anacostia Park next to the Recreation Center. The tennis courts and playground are open to use by the public anytime.  ",
+        "icon": "red-pin-down.png"
+      }
+    }
+  ]
+}

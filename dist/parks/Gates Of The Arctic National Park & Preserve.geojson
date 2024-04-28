@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -151.733640641,
+          68.1430568382
+        ]
+      },
+      "properties": {
+        "name": "Anaktuvuk Pass",
+        "notes": "Anaktuvuk Pass\nhttps://www.nps.gov/places/anaktuvuk-pass.htm\n\n<p>When many people think of Gates of the Arctic, they envision a vast, remote landscape with no sign of human presence. In fact, people have lived and travelled through this land for thousands of years. Because of a deal struck when the park was established, today the village of Anaktuvuk Pass exists within the boundaries of the park. The residents of Anaktuvuk Pass are nearly all Nunamiut, the mountain Eskimos who traditionally migrated on a seasonal path between the Brooks Range and the Arctic coast. These nomadic peoples had a diet and a lifestyle that revolved around the migrating herds of caribou on the North Slope.</p> <p><a href=\"https://www.nps.gov/gaar/learn/historyculture/anaktuvuk-pass.htm\">Learn more about Anaktuvuk Pass</a></p> <p><a href=\"https://www.nps.gov/gaar/learn/historyculture/caribou-and-people.htm\">Learn more about the Nunamiut People</a></p> <p><a href=\"https://www.nps.gov/gaar/planyourvisit/anaktuvuk.htm\">Visit Anaktuvuk Pass</a></p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -154.194091796875,
+          67.3868103027344
+        ]
+      },
+      "properties": {
+        "name": "Arrigetch Peaks",
+        "notes": "Arrigetch Peaks\nhttps://www.nps.gov/places/arrigetch-peaks.htm\n\n<p>Located within Gates of the Arctic National Park, the Arrigetch Peaks have long been a landmark to the Nunamiut people of northwest Alaska. Carved by glacial ice and running water, the conspicuous granite pinnacles rise thousands of feet above the surrounding glacial valleys of tundra and boreal forest. The Arrigetch Peaks illustrate several phases of alpine glacier activities and reveal abrupt transitions from metamorphic to granitic rock. This National Natural Landmark was designated in 1968, and is comprised of 38,313 acres.</p> <h3><a href=\"https://www.nps.gov/gaar/planyourvisit/arrigetch-peaks.htm\">Learn more about the Arrigetch Peaks</a></h3>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -150.88596942309928,
+          67.84362257012322
+        ]
+      },
+      "properties": {
+        "name": "The Gates of the Arctic",
+        "notes": "The Gates of the Arctic\nhttps://www.nps.gov/places/gates-of-the-arctic.htm\n\n<p>Frigid Crags and Boreal Mountain form the Gates of the Arctic, the iconic passage to the Gates of the Arctic National Park, as described by <a href=\"https://www.nps.gov/gaar/learn/historyculture/bobmarshall.htm\">Robert Marshall</a>.</p> <p>The early inspiration for the creation of a vast northern national park can be traced back to a US Forest Service forester named Bob Marshall who arrived in Alaska in 1929 looking for what he called “blank spaces on maps.” When Marshall arrived along the North Fork of the Koyukuk River, he found what he was looking for—what he called the “wild sublimity” of a largely untouched mountain realm. His wilderness philosophy defined such wild places as essential not only for ecological health, but for human happiness. During the 1930s, Marshall returned to Alaska three more times to live in Wiseman and explore the rugged terrain of the Koyukuk watershed and beyond to the continental divide. He used northern forest research as a pretext for mountain climbing, mapping uncharted waterways, and mingling with the Alaska Native people and gold mining sourdoughs of the Koyukuk. In his 1933 book about daily life in the town of Wiseman (titled Arctic Village), Marshall advertised to the world that he had discovered a kind of Arctic utopia. Marshall was no less enthusiastic when describing the mountains, rivers, and valleys of the Brooks Range, particularly the stretch along the North Fork of the Koyukuk, where he named two adjacent peaks the Gates of the Arctic. Marshall’s writings, including Alaska Wilderness (1956) published after his death, inspired later wilderness enthusiasts to push for preservation of a vast section of the Brooks Range as <a href=\"https://www.nps.gov/gaar/learn/what-is-gates-of-the-arctic.htm\">Gates of the Arctic National Park and Preserve</a>.</p> <h3><a href=\"https://www.nps.gov/gaar/koyukukriver.htm\">Learn more about the Gates of the Arctic.</a></h3>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -154.35682678222656,
+          67.12138501245082
+        ]
+      },
+      "properties": {
+        "name": "Walker Lake",
+        "notes": "Walker Lake\nhttps://www.nps.gov/places/walker-lake.htm\n\n<p>Walker Lake, on the south slope of the Brooks Range, provides a striking example of the geographical and biological relationship of a mountain lake at the northern limit of forest growth. It is typical of the many glacial lakes formed in rock basins or behind moraine dams along both flanks of the Brooks Range. The plant assemblages around Walker Lake illustrate a wide range of environmental controls that emphasize the harshness of the subarctic climate. A full range of ecological communities from dense white spruce forest on its shores to the barren talus slopes 2,000 feet above the lake document the rapid biological change in a markedly compressed linear distance.</p> <h3><a href=\"https://www.nps.gov/gaar/learn/nature/walker-lake.htm\">Learn more about Walker Lake</a></h3>",
+        "icon": "red-pin-down.png"
+      }
+    }
+  ]
+}

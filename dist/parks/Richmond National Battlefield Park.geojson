@@ -1,0 +1,35 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Drewry's Bluff",
+        "notes": "Drewry's Bluff\nhttps://www.nps.gov/places/drewry-s-bluff.htm\n\n<p>As capital of the Confederacy, Richmond, Virginia, was a constant target of northern armies. The city, however, was vulnerable by water as well as by land. Gunboats could navigate the James River all the way to Richmond. The key to the city's river defenses lay in a small fort only seven miles south of the capital. Known throughout the south as Drewry's Bluff (after local landowner Captain Augustus H. Drewry), northern troops referred to it as Fort Darling.<br> <br> Drewry's Bluff rose 90 feet above the water and commanded a sharp bend in the James River, making it a logical site for a defensive position. On March 17,1862, Captain Drewry's Southside Artillery began constructing earthworks, erecting barracks, digging artillery emplacements, and mounting three large seacoast guns (one 10-inch Columbiad and two 8-inch Columbiads) in the fort.<br> <br> After the C.S.S. <i>Virginia</i> was scuttled on May 11, 1862, her crew joined the defenses at Drewry's Bluff. Commander Ebeneezer Farrand supervised the defenses of the fort and had numerous ships sunk as obstructions in the river beneath the bluff. Six more large guns occupied pits just upriver from the fort. Men worked around the clock to ensure the defenses would be ready when the Union fleet arrived.<br> <br> The Federal squadron steamed around the bend in the river below Drewry's Bluff on the morning of May 15. The force, under Commander John Rodgers, consisted of five ships, including two inronclads (the famed <i>Monitor</i> and <i>Galena</i>) and three gunboats (<i>Port Royal</i>, <i>Aroostook</i>, and <i>Naugatuck</i>). At 7:15 a.m. the <i>Galena</i> opened fire on the fort, sending three giant projectiles toward the Confederate position.<br> <br> The five Union ships anchored in the river below the fort. When Confederate batteries in the fort replied, the whole vicinity shook with the concussion of the big guns. Southern infantry lined the banks of the river to harass the sailors. On the Monitor, the rifle balls of the sharpshooters \"pattered upon the decks like rain.\"<br> <br> After four long hours of exchanging fire, the \"perfect tornado of shot and shell\" ended. With his ammunition nearly depleted, Commander Rodgers gave the signal to discontinue the action at 11:30 am. His force suffered at least 14 dead and 13 wounded, while the Confederates admitted to 7 killed and 8 wounded. A visitor wrote that the <i>Galena</i> \"looked like a slaughterhouse\" after the battle. The fort on Drewry's Bluff had blunted the Union advance just seven miles short of the Confederate capital. Richmond remained safe.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.48602131912025,
+          48.755944833998065
+        ]
+      },
+      "properties": {
+        "name": "Jimmie Pickett",
+        "notes": "Jimmie Pickett\nhttps://www.nps.gov/places/jimmie-pickett.htm\n\n<p>Jimmie Pickett, the son of Captain George Pickett, the first commanding officer of American Camp, and his second wife, a young Haida woman whose family was working near Camp Semiahmoo was born in this house, the oldest home in Bellingham. Pickett met his wife during his service as commanding officer at Fort Bellingham. Mrs. Pickett died within a year of Jimmie’s birth on New Year’s Eve, 1857 and Captain Pickett left the Pacific Northwest in 1861 to serve in the Confederate military during the Civil War. Jimmie Pickett was raised near Shelton on Hammersley Inlet by loving foster parents Catherine and Aaron Collins who nurtured his artistic talents. After Aaron died, Catherine re-married and her second husband William Walter continued to mentor the artistic prodigy and supported his further education.<br /> <br /> Pickett’s artistry had attracted notice since his childhood. Visitors regularly came to the farm he grew up on to see the early paintings which he made on the planks of the barn. Displays of his earliest paintings gained notoriety and garnered artistic prizes. As a young adult, Pickett taught art classes at the Union Academy in Olympia which he attended and created commercial artworks such as etchings and engravings for the publisher of Oregon county histories and The Oregonian newspaper. He also regularly stayed in touch with his family back East, including his father and his stepmother after his father’s death.<br /> <br /> Pickett’s time at the San Francisco Art Institute was eventful but also difficult. During his time there, he met his half-brother, George Pickett, Jr. but their meeting did not go well. Historical sources are murky about the specifics of this family encounter but it is believed that race—specifically Jimmie’s indigenous ancestry and near-identical appearance—caused a lasting rift with his younger brother who seems not to have known that his half-brother was half-indigenous. Pickett also felt that the formal artistic training of the only professional art school on the West Coast—was too slow for him and that it was not a good use of his artistic talents. He dropped out of school after five months and moved back to Portland, where he took on students and became both a fine and commercial artist.<br /> <br /> Pickett died of typhoid complicated by tuberculosis at the young age of 31. In Portland, he was part of the staff at The Oregonian, where he worked as a regular illustrator. Pickett also produced sketches and engravings of cityscapes and highly admired oil paintings. Though he died young, he was beloved by his Portland art community friends who said of him in an obituary: “His life seems as a picture of magnificent conception laid away half finished As a beautiful poem half written, or a sweet sad song whose melody is shattered just as we begin to be enchanted by its music. James Pickett will ever live in the memory of those who knew him best as one of the truest, purest, manliest of men, as well as one of the rarest geniuses this Northwest has ever produced.”</p>",
+        "icon": "red-pin-down.png"
+      }
+    }
+  ]
+}

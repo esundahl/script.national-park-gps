@@ -1,0 +1,50 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.34249472618103,
+          38.560368888942996
+        ]
+      },
+      "properties": {
+        "name": "Historic Routes - The Crossing Trail",
+        "notes": "Historic Routes - The Crossing Trail\nhttps://www.nps.gov/places/historic-routes-the-crossing-trail.htm\n\nFollow in the footsteps of thousands of people before you as you hike the Crossing Trail, which partially follows an old roadbed. Initially a path to travel between American Indian villages and hunting grounds, early European settlers widened this road into the Potomac Path, a roadway soldiers travelled in both the Revoluntionary and Civil Wars. Today part of the Washington-Rochambeau Revoluntionary Route National Historic Trail, the trail meanders through the forest following a faint network of old roadways that existed before Prince William Forest Park was created.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.34348177909851,
+          38.55868678796982
+        ]
+      },
+      "properties": {
+        "name": "The Crossing Trailhead",
+        "notes": "The Crossing Trailhead\nhttps://www.nps.gov/places/the-crossing-trailhead.htm\n\nThe Crossing Trail is a .5-mile loop trail with the option of connecting to the Birch Bluff Trail. Follow the green blazes as this easy trail takes you along a portion of the historic north-south route used by American Indians and early settlers. Revolutionary War troops commanded by George Washington and the Comte de Rochambeau traveled this roadway on their way to Yorktown. The abandoned roadbed continues north as part of today’s Birch Bluff Trail, while the Crossing Trail winds back to the park road to your left.<br /> <br /> Watch your step for tree stumps and slippery rocks. Check yourself periodically for ticks. Keep your pets on a leash and do not feed wildlife. Do not disturb or remove any plants, animals, or historic features. ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.03930554627351,
+          38.53119371432405
+        ]
+      },
+      "properties": {
+        "name": "The Thomas Stone House",
+        "notes": "The Thomas Stone House\nhttps://www.nps.gov/places/the-mansion-at-haberdeventure.htm\n\n<p>One of the more unique features at Thomas Stone’s plantation of Haberdeventure is the curved five-part house. While parts of the house are original to Thomas Stone’s lifetime, fire damage, renovation, and modernization have changed the structure.</p> <p>Thomas Stone purchased the 442-acre property from his uncle, Daniel Jenifer, on December 13, 1770. Construction of the house's brick Central Block began in the spring of 1771. The following year, Thomas and his family likely took up residence even though the work was incomplete.</p> <p>The Central Block’s first floor comprises the Center Passage along with the East and West Rooms. The second floor had two large rooms that would have served as bed chambers.</p> <h4>Center Passage</h4> <p>Upon entering the Center Passage, guests could see a large and attractive stairway, expensive portraits, and decorative rooms to the left and right, which provided clues to the wealth and status of the Stones. With doors at each end, this breezeway may have been one of the house's most comfortable rooms during the spring, summer, and fall.</p> <h4>West Room</h4> <p>The West Room is believed to be the Master Bedchamber. Ornate first floor bedchambers in colonial era homes often served the dual purposes of being daytime or informal parlors. In the case of Margaret Stone, who developed a debilitating case of arthritis that often turned her into an invalid, she likely did not receive many guests but could converse with her family on her better days.</p> <p>While there is no supporting evidence, the lifestyles of slave owning gentry of the time suggests that an enslaved African American may have slept either on the floor of the West Room or in the adjacent Center Passage, to be readily available to care for the family's needs both night and day.</p> <h4>East Room</h4> <p>It is evident this room was used for entertaining. Contrary to modern and romanticized visions of colonial era homes, most were not elegant and pristine. Few colonial homes had rooms as beautiful as Thomas Stone's East Room. The expensive furnishing and window coverings and the well crafted woodwork were designed to impress guests, and even though this woodwork is a reconstruction of the original it still shows the detail that was put into the work.</p> <p>Aside from its beauty, the East Room may have served a more important function. With only one doorway, the room could provide privacy for Thomas Stone as he performed his legal and political duties along with directing county defense activities during the American Revolution. In Maryland’s heavily class-based society, the elegance of the East Room emphasized the importance, power, and success of Thomas Stone and justified his role as a leading figure in the community.</p> <h4>Second Floor</h4> <p>The purpose of the second floor was to serve as bed chambers, not just for Thomas and Margaret Stone’s three children. Upon Thomas's father's and eldest brother's deaths in 1773, Thomas permitted some of his younger brothers and sisters to live in the home. Also, as a host to law clients, political allies, several siblings and their families, distant relations, and countless friends, Stone was expected to provide places for everyone to sleep. </p> <p>Crowded homes were quite common in the colonial era. Rooms were hot and stuffy in the summer and drafty and cold in the winter. Privacy by modern standards barely existed. Even George Washington referred to his mansion of Mount Vernon as a “well-restored tavern.”</p> <h4>West Hyphen</h4> <p>The adjoining West Hyphen was built during Thomas Stone’s ownership to connect to the West Wing, which served as a kitchen for the Stones. This Hyphen may have served as a multi-use space with easily moved furnishings to allow dining, indoor chores and crafts, entertaining, and possibly to serve as a guest chamber.</p> <h4>West Wing</h4> <p>The original West Wing kitchen space is believed to have been a small and relatively unadorned structure designed for the function of cooking, cleaning, and other household chores by enslaved workers. The current West Wing, which partially rests upon the original foundations, dates from the mid-1840s. There are two rooms on the first floor and a steep stairway that leads to two more rooms above. In 1846, William Briscoe Stone remarked in a letter to his daughter Mary that the West Wing was, “…much enlarged improved & amended. I am certain you will be surprised and pleased with the change.\"<br /> <br /> During the 20th-century, the residents redesigned the West Hyphen to create a connective hallway between the second floor of the Central Block and the West Wing. This modernization was removed by the National Park Service to help return the mansion to a more historical design.</p> <h4>East Hyphen</h4> <p>The East Hyphen was a unique space. Its primary function was to serve as a protective cover for the full cellar that existed beneath the Central Block. It is not connected in the same way as the West Hyphen is connected. In order to gain access to the space, one would have to go outside the house and enter from the outside. </p> <h4>East Wing</h4> <p>Architectural historians believe that the East Wing is the oldest part of the house. It was likely a wholly separate and independent structure moved from some other location on the plantation to serve as the East Wing. Like the East Hyphen, there was no internal connection from the Central Block to the East Wing. One had to exit the mansion, walk across the lawn, and then enter the East Wing. </p>",
+        "icon": "red-pin-down.png"
+      }
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.242745,
+          42.680526
+        ]
+      },
+      "properties": {
+        "name": "Block 22",
+        "notes": "Block 22\nhttps://www.nps.gov/places/block-22.htm\n\nThe historic mess hall and residential barrack of Block 22 are two of Minidoka’s original buildings. After the camp closed, nearly all of the 600 buildings were relocated to nearby communities and farmsteads. This mess hall became a canning kitchen at the Jerome County Fairgrounds, while the barrack was repurposed for migrant worker housing on a local farm. Both buildings were returned to the site in the 2000s and can be accessed during guided tours.<br /> <br />  ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.325216,
+          47.611608
+        ]
+      },
+      "properties": {
+        "name": "Maritime Washington National Heritage Area",
+        "notes": "Maritime Washington National Heritage Area\nhttps://www.nps.gov/places/maritime-washington-national-heritage-area.htm\n\n<p paraeid=\"{53103d88-8610-4d83-ab9c-a5392def8c09}{64}\" paraid=\"6\">The Maritime Washington National Heritage Area (designated in 2019) encompasses 3,000 miles of western Washington’s saltwater coastline from Grays Harbor County to the Canadian border, 18 federally recognized tribes, 13 counties, 32 incorporated cities, and 30 port districts, as well as innumerable harbors, inlets, peninsulas, island shores, and parks—all connected by the nation’s largest ferry system. The Washington Trust for Historic Preservation, a state-wide non-profit dedicated to preserving the state’s historic resources, is the NHA’s Coordinating Entity. <br /> <br /> Communities here were connected to the rest of the world by boat long before roads and railroads were built. The first peoples created complex cultures around canoe journeys and salmon cycles. Then came Spanish, English, Russian and American explorers in search of territory and shipping lanes. As the country developed, the region’s ports began to bolster trade of vast natural resources, and naval installations came to guard the continent. <br /> <br /> Washington’s coastline is rich with historic buildings and vessels, museums, and archival collections, and the maritime industry remains a foundation of the region’s economy today. Shipyards, container ports, cruise ships, tugs, and marinas full of small and large pleasure craft are as much a part of this NHA’s inheritance as historic ships or lighthouses.   <br /> <br /> To read the Maritime Washington National Heritage Area management plan, click here. <br /> <br /> The vast diversity of this living landscape can be divided by geographic regions:  </p> <h2 paraeid=\"{53103d88-8610-4d83-ab9c-a5392def8c09}{94}\" paraid=\"11\">Olympic Peninsula </h2> <p paraeid=\"{53103d88-8610-4d83-ab9c-a5392def8c09}{100}\" paraid=\"12\">The Olympic Peninsula is surrounded by the Pacific Ocean, the Strait of Juan de Fuca, and Puget Sound’s Hood Canal. The Olympic Mountains rise prominently in the interior. Historic ports, coastal communities, and traditional tribal lands rim this boxy landmass. Home to Olympic National Park, the peninsula features the longest stretch of publicly-owned and undeveloped shoreline on the Pacific Coast, and closely resembles the shoreline inhabited by the tribes before Europeans arrived. Olympic National Park is also a UNESCO World Heritage Site, designated for its ecosystem diversity, while the Olympic Coast National Marine Sanctuary lies offshore, distinguished for its educational opportunities.  </p> <h2 paraeid=\"{53103d88-8610-4d83-ab9c-a5392def8c09}{106}\" paraid=\"13\">Puget Sound </h2> <p paraeid=\"{53103d88-8610-4d83-ab9c-a5392def8c09}{112}\" paraid=\"14\">A complex inlet of the Pacific Ocean and the third-largest estuary in the United States, Puget Sound comprises many waterways, basins, and bays, including Seattle’s brackish Lake Union. For millennia, the sound connected the Northwest people to the sea – for travel, trade, sustenance, protection, and recreation. Today, Puget Sound is home to maritime industries, military bases, small coastal communities, the cities of Seattle, Tacoma, Everett, and the state capital Olympia. The Kitsap Peninsula and enchanting islands lie in the interior of Puget Sound, with the Hood Canal between them and the Olympic Peninsula.    </p> <h2 paraeid=\"{53103d88-8610-4d83-ab9c-a5392def8c09}{118}\" paraid=\"15\">Northern Coast </h2> <p paraeid=\"{53103d88-8610-4d83-ab9c-a5392def8c09}{124}\" paraid=\"16\">Along the western edge of Skagit and Whatcom Counties lies Washington’s northern coastline, a series of protected bays stretching north to the Strait of Georgia, which separates Vancouver Island from mainland Canada. The traditional aquaculture, fishing, and sea trade economies remain important in this region. Continuing a centuries-old tradition, northern coastal cities like Bellingham still provide jumping-off points for journeys to Alaska through the Inside Passage.  </p> <h2 paraeid=\"{53103d88-8610-4d83-ab9c-a5392def8c09}{130}\" paraid=\"17\">Salish Sea Islands </h2> <p paraeid=\"{53103d88-8610-4d83-ab9c-a5392def8c09}{136}\" paraid=\"18\">Three Northwest water bodies – the Strait of Juan de Fuca, Puget Sound, and Canada’s Strait of Georgia - are together called the Salish Sea. The over 400 islands that lie in these waters are the ancient homelands of native tribes and habitat for some of the region’s most diverse marine wildlife. This varied island environment– including Whidbey Island, one of the largest islands in the contiguous United States, and the San Juan archipelago— contains some of the most remote and rugged places in this region, as well as active ports and popular vacation destinations. </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.25810522475356,
+          42.67797349922536
+        ]
+      },
+      "properties": {
+        "name": "Minidoka National Historic Site Plaques",
+        "notes": "Minidoka National Historic Site Plaques\nhttps://www.nps.gov/places/minidoka-nhs-historic-plaques.htm\n\nOn August 18, 1979, the Minidoka War Relocation Authority Center was listed on the National Registry of Historic Places, which is the official list of the Nation's historic places worthy of preservation. The historic site originally consisted of 6.06 acres of the entrance area. Buildings included were the military police building, visitor reception building, garden, and the visitor parking lot. On October 13, 1979, a dedication ceremony was held at the site with the Pocatello-Blackfoot JACL unveiling the National Registry of Historic Places plaque and an interpretive panel.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.51021497544036,
+          47.61550067675112
+        ]
+      },
+      "properties": {
+        "name": "The Bainbridge Island Japanese American Exclusion Memorial",
+        "notes": "The Bainbridge Island Japanese American Exclusion Memorial\nhttps://www.nps.gov/places/the-bainbridge-island-japanese-american-exclusion-memorial.htm\n\n<p paraeid=\"{ca85b83d-9c53-4e4d-b432-2cc92abaedea}{188}\" paraid=\"1298371188\">The Bainbridge Island Japanese American Exclusion Memorial honors the first Japanese Americans to be excluded, forcibly removed from their community, and incarcerated during World War II. </p> <p paraeid=\"{ca85b83d-9c53-4e4d-b432-2cc92abaedea}{198}\" paraid=\"68611805\">After the attack on Pearl Harbor by imperial Japanese forces on December 7, 1941, President Roosevelt signed Executive Order 9066. This order authorized the establishment of military areas from which Japanese Americans may be excluded. On March 30, 1942, 227 Japanese Americans living on Bainbridge Island were gathered at the Eagledale Ferry Dock and forcibly removed from the Island. The Bainbridge Islanders were first incarcerated in <a href=\"https://www.nps.gov/manz/index.htm\">Manzanar Relocation Center in California</a> and later transferred to <a href=\"https://www.nps.gov/miin/index.htm\">Minidoka Relocation Center in Idaho</a>.<br /> <br /> Once World War II ended, over half of the Bainbridge Island Japanese Americans returned to the island. They faced challenges both trauma and financial, but many from the Bainbridge Island community welcomed back their neighbors. <br /> <br /> At the memorial, visitors can reflect and learn about this site’s legacy of Nidoto Nai Yoni (Let It Not Happen Again).<br /> <br /> The Bainbridge Island Japanese American Exclusion Memorial is an outdoor exhibit commemorating the incarceration of Japanese Americans from Bainbridge Island in the state of Washington. It is a unit of the Minidoka National Historic Site in Idaho. The memorial wall located near the historic Eagledale ferry dock landing site, where the first of more than 110,000 Japanese—two-thirds of whom were American citizens—were banished from their West Coast homes and placed in incarceration centers during World War II. The memorial is a reminder—“Nidoto Nai Yoni” (Let it Not Happen Again)—of what happened on March 30, 1942. Built of old-growth red cedar, granite and basalt, the wall honors the names of all 276 Japanese and Japanese Americans who were exiled from Bainbridge Island by President Franklin D. Roosevelt’s Executive Order 9066 and Civilian Exclusion Order No. 1. </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.244718,
+          42.682416
+        ]
+      },
+      "properties": {
+        "name": "The Herrmann House",
+        "notes": "The Herrmann House\nhttps://www.nps.gov/places/the-herrmann-house.htm\n\nThe Herrmann House site is historically significant as it contains a portion of the original footprint of the Minidoka Relocation Center, including the original fire station #1, the foundation remnants one of the camp's water towers, and remains of barrack buildings. The property also includes Center Field, part of Block 22, and a portion of the only remaining root cellar. The site is also significant in interpreting the homesteading period after WWII, which is exemplified in the “Farm in a Day” story, of which the original Herrmann residence is an important component. Veteran John Herrmann and family were the lucky recipients of an unclaimed lottery farmstead in 1950. The homestead is the product of an effort by the Soil Conservation District to demonstrate the latest soil management technologies to local farmers through a “farm-in-a-day” program. Volunteers from surrounding communities spent one day establishing the Herrmann homestead as a demonstration project which included construction of the residence, relocation of outbuildings on site, digging of the well, fencing, and preparation and planting of the fields. The Herrmann homestead property encompasses a high point in the landscape that gives an overview of the historic site itself.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.242779,
+          42.677418
+        ]
+      },
+      "properties": {
+        "name": "The Swimming Hole",
+        "notes": "The Swimming Hole\nhttps://www.nps.gov/places/the-swimming-hole.htm\n\nIn 1943, incarcerees built this swimming hole with help from the camp’s volunteer fire fighters and Physical Education classes. Measuring 20 feet wide by 200 feet long, it was filled with water redirected from the North Side Canal, which channels its water from Milner Dam and the Snake River. Although the swimming hole has since dried up, it reminds visitors of the stark difference between the lush Pacific Northwest coast where incarcerees called home, and the barren Idaho desert where they were unlawfully imprisoned.",
+        "icon": "red-pin-down.png"
+      }
+    }
+  ]
+}

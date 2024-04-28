@@ -1,0 +1,20 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.73683328926563,
+          32.979644760489464
+        ]
+      },
+      "properties": {
+        "name": "Horseshoe Bend National Military Park",
+        "notes": "Horseshoe Bend National Military Park\nhttps://www.nps.gov/places/horseshoe-bend.htm\n\n<p>As America's War of 1812 raged along the Canadian frontier and on the Atlantic Ocean, a different conflict erupted among the Creek Indians of present-day Georgia and Alabama. One faction - the Red Sticks - sought to preserve traditional customs and resist European cultural influence and American expansion. The<span style=\"font-size: 11pt;\" data-mce-style=\"font-size: 11pt;\"> other faction argued in favor or adapting in order to survive, and received the support of American military forces under Major General Andrew Jackson.</span></p><p><a href=\"https://www.nps.gov/hobe/index.htm\">Horseshoe Bend National Military Park</a> preserves the site of the last engagement of the Creek War of 1813-1814. <a href=\"../../people/andrew-jackson.htm\">Andrew Jackson</a>, in command of more than 3,000 men, including Tennesee volunteers and Creek allies, assaulted the last stronghold of the Red Sticks, resulting in a hand-to-hand battle that left o<span style=\"font-size: 11pt;\" data-mce-style=\"font-size: 11pt;\">ver 800 Red Stick Creeks dead and effectively ended the war. </span></p><p>At the conclusion of the conflict, the victorious Jackson forced the Red Stick Creeks to sign the Treaty of Fort Jackson, ceding 23 million acres of Creek land to the United States, including lands of Jackson's Creek allies. Soon thereafter, General Jackson was assigned to defend the Gulf Coast from possible British invasion, leading to the <a href=\"../../stories/battle-of-new-orleans.htm\">Battle of New Orleans</a>.</p>",
+        "icon": "red-pin-down.png"
+      }
+    }
+  ]
+}

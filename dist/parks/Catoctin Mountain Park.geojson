@@ -1,0 +1,1055 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.485836,
+          39.644518
+        ]
+      },
+      "properties": {
+        "name": "Blacksmith's Shop",
+        "notes": "Blacksmith's Shop\nhttps://www.nps.gov/places/000/blacksmiths-shop.htm\n\nPart of the larger complex that is Camp Round Meadow, the Blacksmith Shop serves as a unique place to learn about the history and importance of the blacksmithing industry.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4495529711,
+          39.6382259636
+        ]
+      },
+      "properties": {
+        "name": "Blue Blazes Whiskey Still",
+        "notes": "Blue Blazes Whiskey Still\nhttps://www.nps.gov/places/000/blue-blazes-whiskey-still.htm\n\nWhile the Whiskey Still exhibit may not be the same size as the massive operation that once stood along the banks of Blue Blazes Run in the 1920s, the new Blue Blazes still is more typical of the smaller moonshine still of an earlier day. Moonshining was a way of life in the Appalachians and the production of whiskey was an important source of income. ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.45011138916016,
+          39.6362190246582
+        ]
+      },
+      "properties": {
+        "name": "Blue Blazes: A Fatal Shootout",
+        "notes": "Blue Blazes: A Fatal Shootout\nhttps://www.nps.gov/places/blue-blazes-a-fatal-shootout.htm\n\nThe evening of July 31, 1929 would end in tragedy along Blue Blazes Run. While the police were able to raid and capture the whiskey still along the stream, the moonshiners would not go without a fight. Deputy Clyde Hauver would lose his life in the fire fight. ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.450927734375,
+          39.63534927368164
+        ]
+      },
+      "properties": {
+        "name": "Blue Blazes: Brook Trout",
+        "notes": "Blue Blazes: Brook Trout\nhttps://www.nps.gov/places/blue-blazes-brook-trout.htm\n\nBrook trout are the only native species of trout in the State of Maryland. These sensitive salmonoids can be found in cold, swift-flowing streams. In the waters that they patrol, they are the top predators of the aqautic food web.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.45089721679688,
+          39.63496017456055
+        ]
+      },
+      "properties": {
+        "name": "Blue Blazes: Signs of a Healthy Stream",
+        "notes": "Blue Blazes: Signs of a Healthy Stream\nhttps://www.nps.gov/places/blue-blazes-signs-of-a-healthy-stream.htm\n\nWater feeds life and Blue Blazes Run has some of the cleanest water in the park, sustaining a healthy stream community. Surrounded by a forest that filters out the water converging into the stream, the Blue Blazes provides important habitat for many sensitive macroinvertebrate species.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.44967651367188,
+          39.63808059692383
+        ]
+      },
+      "properties": {
+        "name": "Blue Blazes: The Discovery",
+        "notes": "Blue Blazes: The Discovery\nhttps://www.nps.gov/places/blue-blazes-the-discovery.htm\n\nThe Blue Blazes Still was massive. It was a large commercial operation, a \"steamer\" still. Thousands of gallons of mash were found in 18 vats of 500 gallon capacity each. The largest whiskey still operation in Frederick County. ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4517644025,
+          39.6495544787
+        ]
+      },
+      "properties": {
+        "name": "Blue Ridge Summit Overlook",
+        "notes": "Blue Ridge Summit Overlook\nhttps://www.nps.gov/places/000/blue-ridge-summit-overlook.htm\n\nThe Blue Ridge Summit Overlook is the most accessible high vista point in the park The trail leaves from Hog Rock Parking Area and is a short, gradual climb to the vista. This vista offers a beautiful view to the north of the Harbaugh Valley and mountains of southern Pennsylvnia. The valleys and slopes seen to the north drain into Owens Creek.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.48780059814453,
+          39.65127182006836
+        ]
+      },
+      "properties": {
+        "name": "Brown's Farm Trail Stop 10: The Stone Wall",
+        "notes": "Brown's Farm Trail Stop 10: The Stone Wall\nhttps://www.nps.gov/places/brown-s-farm-trail-stop-10-the-stone-wall.htm\n\nWhat remains of the farm boundaries of the Brown Family's homestead has gradually been reclaimed by the forest. The stone walls, made from Catoctin Greenstone (Metabasalt), now act as shelter for chipmunks, insects, spiders, and snakes. ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.48774719238281,
+          39.65142059326172
+        ]
+      },
+      "properties": {
+        "name": "Brown's Farm Trail Stop 11: Food and Shelter",
+        "notes": "Brown's Farm Trail Stop 11: Food and Shelter\nhttps://www.nps.gov/places/brown-s-farm-trail-stop-11-food-and-shelter.htm\n\nAs the forest around the Brown's Farm Trail changes, so does the wildlife. As the pine trees in the grove grow taller and hardwoods join them, new species of animal as gradually drawn to the area as otheres which prefer open areas move out. ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.48681640625,
+          39.652099609375
+        ]
+      },
+      "properties": {
+        "name": "Brown's Farm Trail Stop 12: The Spring",
+        "notes": "Brown's Farm Trail Stop 12: The Spring\nhttps://www.nps.gov/places/brown-s-farm-trail-stop-12-the-spring.htm\n\nAll streams start somewhere. Springheads like this one along the Brown's Farm Trail are common all across the mountian. Groundwater rises above, breaking the surface, entering into headwaters of the larger watershed. This springs are an excelent habitat for many freshwater invertebrates and amphibians. ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.48690032958984,
+          39.65327835083008
+        ]
+      },
+      "properties": {
+        "name": "Brown's Farm Trail Stop 2: Wetlands",
+        "notes": "Brown's Farm Trail Stop 2: Wetlands\nhttps://www.nps.gov/places/brown-s-farm-stop-2.htm\n\nWetlands, found along the Brown's Farm Trail and across the park, are fed by groundwater. A wetland is defined by the following characteristics: the water table saturates the soil for at least 10-14 days during the growing season, the substrate is comprised primarily of hydric soils, and the presence of hydrophytic plants. ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.48695373535156,
+          39.65290069580078
+        ]
+      },
+      "properties": {
+        "name": "Brown's Farm Trail Stop 3: The Streambed",
+        "notes": "Brown's Farm Trail Stop 3: The Streambed\nhttps://www.nps.gov/places/brown-s-farm-trail-stop-3.htm\n\nFed by springs throughout the park, the headwaters throughout the Owen's Creek Watershed are made up of small feeder streams leading into Owens Creek. The water, kept cool by the forest canopy and filtered by the surrounding wetlands, is clean enough to suppport brook trout. ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.48737335205078,
+          39.65245056152344
+        ]
+      },
+      "properties": {
+        "name": "Brown's Farm Trail Stop 4: Invasive Plants",
+        "notes": "Brown's Farm Trail Stop 4: Invasive Plants\nhttps://www.nps.gov/places/brown-s-farm-trail-stop-4-invasive-plants.htm\n\nInvasive plant species are a problem for forest ecosystems. Fast-growing species such as the multiflora rose behind this trail stop can choke out the forest understory, preventing native species from gaining a foothold. ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.48745727539062,
+          39.65222930908203
+        ]
+      },
+      "properties": {
+        "name": "Brown's Farm Trail Stop 5: Cycle of Life",
+        "notes": "Brown's Farm Trail Stop 5: Cycle of Life\nhttps://www.nps.gov/places/brown-s-farm-trail-stop-5-cycle-of-life.htm\n\nThe forest is an interconnected web of life. The trees provide the essntial base of many ecological relationships, even in death the trees along the Brown's Farm Loop provide shelter and nutrients for a wide variety of species which will later foster new growth. ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.48757934570312,
+          39.652099609375
+        ]
+      },
+      "properties": {
+        "name": "Brown's Farm Trail Stop 6: The Pine Grove",
+        "notes": "Brown's Farm Trail Stop 6: The Pine Grove\nhttps://www.nps.gov/places/brown-s-farm-trail-stop-6-the-pine-grove.htm\n\nThe grove of pines that stand here today were planted by Frederick County schools back in 1957. Since the saplings were planted, the trees have grown and created a protective canopy to the forest floor below. The pines provide a sanctaury for many species as well as food.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4885482788086,
+          39.651180267333984
+        ]
+      },
+      "properties": {
+        "name": "Brown's Farm Trail Stop 7: The Farmhouse",
+        "notes": "Brown's Farm Trail Stop 7: The Farmhouse\nhttps://www.nps.gov/places/brown-s-farm-trail-stop-7-the-farmhouse.htm\n\nPrior to the mountain being heavily forested, farmsteads were a common sight. The Brown Family's farmhouse would have been typical of the late 1800s, early 1900s regional rural setting. The home was constructed from native chesnut logs standing upon the stone foundation.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4881362915039,
+          39.65113830566406
+        ]
+      },
+      "properties": {
+        "name": "Brown's Farm Trail Stop 8: The Bank Barn",
+        "notes": "Brown's Farm Trail Stop 8: The Bank Barn\nhttps://www.nps.gov/places/brown-s-farm-trail-stop-8-the-bank-barn.htm\n\nThe Brown Family's barn was constructed along the bank of the hillside in this forest clearing. The term \"bank barn\" comes from the use of the hillside as part of the first-floor walls and foundation. This sturcture is where the homestead maintained and cared for animals such as hogs, chickens, and sheep.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.48790740966797,
+          39.6510009765625
+        ]
+      },
+      "properties": {
+        "name": "Brown's Farm Trail Stop 9: Forest Succession",
+        "notes": "Brown's Farm Trail Stop 9: Forest Succession\nhttps://www.nps.gov/places/brown-s-farm-trail-stop-9-forest-succession.htm\n\nFrom being once a farmstead to the growing ecosystem that it is today, the forest along the Brown's Farm Trail is a great place to witness the process of forest succession. As the forest matures, more hardwood saplings will take root and grow to dominate the landscape, replacing the pines, and eventaully culmintating in a climax state in which it will be considered an old-growth forest. ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.48621,
+          39.644552
+        ]
+      },
+      "properties": {
+        "name": "Camp Round Meadow Electric Vehicle Charging",
+        "notes": "Camp Round Meadow Electric Vehicle Charging\nhttps://www.nps.gov/places/000/camp-round-meadow-electric-vehicle-charging.htm\n\nVisitors are able to charge their vehicles at Camp Round Meadow. The charging equipment was provided through a grant from the Department of Energy to encourage the public’s use of electric vehicles, a part of the Clean Cities program.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.450117,
+          39.633924
+        ]
+      },
+      "properties": {
+        "name": "Catoctin Visitor Center Electric Vehicle Charging Station",
+        "notes": "Catoctin Visitor Center Electric Vehicle Charging Station\nhttps://www.nps.gov/places/000/catoctin-visitor-center-electric-vehicle-charging-station.htm\n\nVisitors are able to charge their vehicles near the visitor center, conveniently located at major trailheads. The charging equipment was provided through a grant from the Department of Energy to encourage the public’s use of electric vehicles, a part of the Clean Cities program.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.44409942626953,
+          39.64535140991211
+        ]
+      },
+      "properties": {
+        "name": "Charcoal Exhibit Trail: Collier's Hut",
+        "notes": "Charcoal Exhibit Trail: Collier's Hut\nhttps://www.nps.gov/places/charcoal-exhibit-trail-collier-s-hut.htm\n\nBecause of the several charcoals hearths they had to monitor, colliers had to live nearby. Collier huts were very simple, small dwellings. They consisted of a triangular build of logs with a small door at the entrance and a stone cooking area in the back of the hut.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.44393920898438,
+          39.64704132080078
+        ]
+      },
+      "properties": {
+        "name": "Charcoal Exhibit Trail: Fueling the Furnace",
+        "notes": "Charcoal Exhibit Trail: Fueling the Furnace\nhttps://www.nps.gov/places/charcoal-exhibit-trail-fueling-the-furnace.htm\n\nOnce the charcoal had been produced, teamsters would transport it down the mountain to the Catoctin Iron Furnace. The charcoal would then be used to fuel the fuurnace in order to produce pig iron.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.44378662109375,
+          39.64500045776367
+        ]
+      },
+      "properties": {
+        "name": "Charcoal Exhibit Trail: Making Charcoal",
+        "notes": "Charcoal Exhibit Trail: Making Charcoal\nhttps://www.nps.gov/places/charcoal-exhibit-trail-making-charcoal.htm\n\nOnce a hearth site had been prepared, the cords of wood assembled, covered with dust and leaves, and the fire had been lit at the center, a collier would monitor his hearth for 2 weeks untill all the wood was converted into charcoal.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4437026977539,
+          39.643619537353516
+        ]
+      },
+      "properties": {
+        "name": "Charcoal Exhibit Trail: Preparing the Hearth",
+        "notes": "Charcoal Exhibit Trail: Preparing the Hearth\nhttps://www.nps.gov/places/charcoal-exhibit-trail-preparing-the-hearth.htm\n\nThe blackened soil of this forest clearing is an indication that it was once used as a hearth site, with the charcoal darkening the coloration of the soil. Because of the size of charcoal hearths, the clearing needed to be at least 30 to 40 feet in diameter. The area would need to be cleared and raked before the 4-foot logs were assembled into a hearth.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.44318842887877,
+          39.646760575671806
+        ]
+      },
+      "properties": {
+        "name": "Charcoal Exhibit Trail: Wood - The Essential Ingredient",
+        "notes": "Charcoal Exhibit Trail: Wood - The Essential Ingredient\nhttps://www.nps.gov/places/charcoal-exhibit-trail-wood-the-essential-ingredient.htm\n\nDuring the peak of the charcoal indusrty, the mountain and surrounding areas looked very different. Woodcutters cleared most of the trees and the cords of wood produced were burned down into charcoal.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.44287872314453,
+          39.64466857910156
+        ]
+      },
+      "properties": {
+        "name": "Charcoal Exhibit Trail: Wood Hauler's Sled",
+        "notes": "Charcoal Exhibit Trail: Wood Hauler's Sled\nhttps://www.nps.gov/places/charcoal-exhibit-trail-wood-hauler-s-sled.htm\n\nHauled either by horses or mules, wood sleds would be loaded with 4-foot logs that would be transported from cutter sites to charcoal hearth clearings that dotted the mountainside. This work was done by a wide variety of people including whites, free blacks and slaves.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4780872747,
+          39.6485439205
+        ]
+      },
+      "properties": {
+        "name": "Chestnut Picnic Area",
+        "notes": "Chestnut Picnic Area\nhttps://www.nps.gov/places/000/chestnut-picnic-area.htm\n\nThe Chestnut Picnic Area is a great place to start exploring the West Side trails of the park, including the Catoctin National Recreation Trail. Parking for horse trailers is next to the picnic area so that equestrians have easy access to the park Horse Trails.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.47789151372878,
+          39.64857368742595
+        ]
+      },
+      "properties": {
+        "name": "Chestnut Picnic Area Restrooms",
+        "notes": "Chestnut Picnic Area Restrooms\nhttps://www.nps.gov/places/chestnut-picnic-area-restrooms.htm\n\nThe restroom facility at the Chestnut Picnic Area is located in the center of the picnic area. Wheelchair-accessible trails from the parking areas lead directly to the restrooms. The restrooms have flush toilets and sinks with running water. This restroom facility is open seasonally.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4329026673,
+          39.6289075154
+        ]
+      },
+      "properties": {
+        "name": "Chimney Rock",
+        "notes": "Chimney Rock\nhttps://www.nps.gov/places/000/chimney-rock.htm\n\nChimney Rock is at about 1,400 feet in elevation and looks out to the east over the piedmont region. The ourcrop is part of the larger Weverton Formation, with the weather-resistant quartzite forming the \"chimney\" after millions of years of erosion.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4684040794864,
+          39.63271864178918
+        ]
+      },
+      "properties": {
+        "name": "Cunningham Falls",
+        "notes": "Cunningham Falls\nhttps://www.nps.gov/places/cunningham-falls.htm\n\nCunningham Falls is the largest cascading waterfall in the state of Maryland. Just across State Route 77 in Cunninham Falls State Park, hikers can access this scenic spot by taking the yellow trail from the visitor center. After a 1 mile hike, visitors can cross the road and talk a short boardwalk to the base of the falls.<br /> A small, handicap pulloff parking lot is available by the boardwalk. ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.49545288085938,
+          39.66078186035156
+        ]
+      },
+      "properties": {
+        "name": "Deerfield Nature Trail Stop 10: Stream",
+        "notes": "Deerfield Nature Trail Stop 10: Stream\nhttps://www.nps.gov/places/deerfield-nature-trail-stop-10-stream.htm\n\nOwens Creek is an excellent habitat for aquatic and semi-aquactic wildlife. Many species of amphibians such as frogs, toads, and a plethora of different types of lungless salamander make their homes in and along the stream. ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.49545288085938,
+          39.660579681396484
+        ]
+      },
+      "properties": {
+        "name": "Deerfield Nature Trail Stop 11: Japanese Barberry",
+        "notes": "Deerfield Nature Trail Stop 11: Japanese Barberry\nhttps://www.nps.gov/places/deerfield-nature-trail-stop-11-japanese-barberry.htm\n\nJapanese barberry are an invasive plant species in Catoctin Mountain Park. The throny shrub spreads easily with the help of humans from being carried along shoes.  It was first introduced in the 1860s/1870s as an ornamental shrub and escaped to the wild where it tolerates shade, severe drought, and extreme winters. Barberry also is prime habitat for ticks which are vectors for lyme disease. ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.49530792236328,
+          39.660400390625
+        ]
+      },
+      "properties": {
+        "name": "Deerfield Nature Trail Stop 12: Shagbark Hickory",
+        "notes": "Deerfield Nature Trail Stop 12: Shagbark Hickory\nhttps://www.nps.gov/places/deerfield-nature-trail-stop-12-shagbark-hickory.htm\n\nShagbark hickories are easy to identify from their titular bark which is \"shaggy\" in appearance. The loose barkprovides shelter for bats during the daytime and hickory nuts are a vaulable food resource to many mammals. ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.49333190917969,
+          39.65985870361328
+        ]
+      },
+      "properties": {
+        "name": "Deerfield Nature Trail Stop 13: Christmas Fern",
+        "notes": "Deerfield Nature Trail Stop 13: Christmas Fern\nhttps://www.nps.gov/places/deerfield-nature-trail-stop-13-christmas-fern.htm\n\nThe Deerfield Nature Trail is an excellent location to see Christmas ferns. The evergreen ferns thrive in the damp soils that surround Owens Creek.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.49281311035156,
+          39.65970993041992
+        ]
+      },
+      "properties": {
+        "name": "Deerfield Nature Trail Stop 14: Marginal Wood Fern",
+        "notes": "Deerfield Nature Trail Stop 14: Marginal Wood Fern\nhttps://www.nps.gov/places/deerfield-nature-trail-stop-14-marginal-wood-fern.htm\n\nMarginal wood ferns are an evergreen species that can be found growing throughout the park. It prefers to grow in rocky areas with sufficient moisture. ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.49160766601562,
+          39.65950012207031
+        ]
+      },
+      "properties": {
+        "name": "Deerfield Nature Trail Stop 15: Tulip Poplar Tree",
+        "notes": "Deerfield Nature Trail Stop 15: Tulip Poplar Tree\nhttps://www.nps.gov/places/deerfield-nature-trail-stop-15-tulip-poplar-tree.htm\n\nNot only are tulip poplars one of the fastest growing trees in the park, but they are also one of the tallest at 100 feet in height. These trees play an important role in forest succession as they quickly create a forest canopy, shading the understory and gradually overtime they will be replaced by mature hardwoods such as oak, beech, and maple trees.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.48899841308594,
+          39.659400939941406
+        ]
+      },
+      "properties": {
+        "name": "Deerfield Nature Trail Stop 1: Rhyolite Outcrop",
+        "notes": "Deerfield Nature Trail Stop 1: Rhyolite Outcrop\nhttps://www.nps.gov/places/deerfield-nature-trail-stop-1-rhyolite-outcrop.htm\n\nPrior to the arrival of European settlers in the region, Catoctin Mountain Park was used by American Indians for quarrying rhyolite to create stone tools. Rhyolite outcrops are common on the western side of the park and the rocks were ideal to knap into spear points and arrowheads. ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4892578125,
+          39.65961837768555
+        ]
+      },
+      "properties": {
+        "name": "Deerfield Nature Trail Stop 2: Bear Corn",
+        "notes": "Deerfield Nature Trail Stop 2: Bear Corn\nhttps://www.nps.gov/places/deerfield-nature-trail-stop-2-bear-corn.htm\n\nKnown by many names (bear corn, squawroot, or American cancer-root), bear corn is a parasitic plant that can be found growing around oak and beech trees. Lacking chlorophyll to photosynthesize, the plant relies on nutrients taken from its host tree. The yellow seed pods it produces are a food source for a wide variety of forest animals. ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.48969268798828,
+          39.65991973876953
+        ]
+      },
+      "properties": {
+        "name": "Deerfield Nature Trail Stop 3: Coppiced Trees",
+        "notes": "Deerfield Nature Trail Stop 3: Coppiced Trees\nhttps://www.nps.gov/places/deerfield-nature-trail-stop-3-coppiced-trees.htm\n\nThe production of pig iron at the Catoctin Iron Furnace was fueled by the charcoal made from from the trees logged across the mountain. Majority of the forest was cut down and some of the remaining stumps grew out, causing many trees to have multiple trunks. ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.49047088623047,
+          39.66011047363281
+        ]
+      },
+      "properties": {
+        "name": "Deerfield Nature Trail Stop 4: Beech Tree Burl",
+        "notes": "Deerfield Nature Trail Stop 4: Beech Tree Burl\nhttps://www.nps.gov/places/deerfield-nature-trail-stop-4-beech-tree-burl.htm\n\nWhen a tree experiences some type of stress in its wood, a burl will form over the damaged or distrubed area. Burls can be caused by a variety of factors such as damage from insects, viruses, or environmental conditions. Burls can form on any part of the tree, even underground where damage can be more prevelant to the roots. A tree can still grow and fully function with burls. ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.49080657958984,
+          39.660179138183594
+        ]
+      },
+      "properties": {
+        "name": "Deerfield Nature Trail Stop 5: Owens Creek",
+        "notes": "Deerfield Nature Trail Stop 5: Owens Creek\nhttps://www.nps.gov/places/deerfield-nature-trail-stop-5-owens-creek.htm\n\nOwens Creek flows across the western side of Catoctin Mountain Park and is the centerpiece of the Deerfield Nature Trail. Its clear freshwater has been a valuable resource for American Indians, native plants and animals, and European settlers alike.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.49141693115234,
+          39.660308837890625
+        ]
+      },
+      "properties": {
+        "name": "Deerfield Nature Trail Stop 6: Decomposition",
+        "notes": "Deerfield Nature Trail Stop 6: Decomposition\nhttps://www.nps.gov/places/deerfield-nature-trail-stop-6-decomposition.htm\n\nIn death, as in life, trees provide both food and shelter for many species. Over time, a collection of bacteria, fungi, and insects will break down trees into organic matter which will return to the soil providing nutirents for the next generation of plants. ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.49178314208984,
+          39.66035079956055
+        ]
+      },
+      "properties": {
+        "name": "Deerfield Nature Trail Stop 7: Northern Spicebush",
+        "notes": "Deerfield Nature Trail Stop 7: Northern Spicebush\nhttps://www.nps.gov/places/deerfield-nature-trail-stop-7-northern-spicebush.htm\n\nThe northern spicebush is abundant throughout the park. The understory shrub provides food and habitat for creatures ranging from spicebush catepillar (and spicebush swallowtail butterflies) to white-tailed deer.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.49236297607422,
+          39.66062927246094
+        ]
+      },
+      "properties": {
+        "name": "Deerfield Nature Trail Stop 8: The Stone Wall",
+        "notes": "Deerfield Nature Trail Stop 8: The Stone Wall\nhttps://www.nps.gov/places/deerfield-nature-trail-stop-8-the-stone-wall.htm\n\nDating back to the 1700s, the region was cleared for homesteads and other land uses. Local rocks such as greenstone and rhyolite were used in the consturction of farm boundaries and home foundations. These foundations can still be found throughout the park, but now nature is slowly growing over them as they serve as habitat and shelter for wildlife. ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.49427032470703,
+          39.66083908081055
+        ]
+      },
+      "properties": {
+        "name": "Deerfield Nature Trail Stop 9: Sugar Maple",
+        "notes": "Deerfield Nature Trail Stop 9: Sugar Maple\nhttps://www.nps.gov/places/deerfield-nature-trail-stop-9-sugar-maple.htm\n\nSugar maples are one of the more colorful trees in eastern deciduous hardwood forests during the fall. Their leaves range on a spectrum from yellow to red. Sugar Maples have also been historically used by American Indians and European settlers for their sap, which when boiled down can be turned into maple syrup. It takes around 40 gallons of sap to make 1 gallon of syrup, ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4587330543,
+          39.6428406111
+        ]
+      },
+      "properties": {
+        "name": "Hog Rock",
+        "notes": "Hog Rock\nhttps://www.nps.gov/places/000/hog-rock.htm\n\nHog Rock affords a view to the east of the mountains of the Weverton Formation and of the gap through which Hunting Creek flows.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.45413666137696,
+          39.64673356679418
+        ]
+      },
+      "properties": {
+        "name": "Hog Rock Parking Area Restroom",
+        "notes": "Hog Rock Parking Area Restroom\nhttps://www.nps.gov/places/hog-rock-parking-area-restroom.htm\n\nThe Hog Rock Parking Area Restroom is a single vault toilet restroom with no running water. This facility is located directly adjacent to the parking area and is wheelchair accessible. This restroom facility is located along Park Central Road 1.8 miles away from the Visitor Center.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.42221069335938,
+          39.62445068359375
+        ]
+      },
+      "properties": {
+        "name": "Lewis Pond",
+        "notes": "Lewis Pond\nhttps://www.nps.gov/places/lewis-pond.htm\n\nThe Lewis Pond is a peaceful water feature on the southeastern edge of the park in the Lewis Area. Visitors can relax on the water's edge and fish, enjoy the cool shade of the trees, or start out on a hike on the Gateway Trail which leads into the larger park. <br /> <br /> Fishing at the Lewis Pond has no tackle restrictions. Statewide regulations for bass and sunfish apply.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4864744137,
+          39.6537923132
+        ]
+      },
+      "properties": {
+        "name": "Owens Creek Picnic Area",
+        "notes": "Owens Creek Picnic Area\nhttps://www.nps.gov/places/000/owens-creek-picnic-area.htm\n\nQuiet, calm, and scenic. The Owens Creek Picnic Area provides a wide variety of things to do for park patrons. With multiple picnic tables and grills, people can sit beneath the shade of the forest to relax and eat. The picnic area is a great place to start your exploration of the West Side trails of the park, including the Catoctin National Recreation Trail and the Browns Farm Trail. For those interested in history, the Owens Creek Saw Mill is also nearby. ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.48670200225796,
+          39.65361862988408
+        ]
+      },
+      "properties": {
+        "name": "Owens Creek Picnic Area Restrooms",
+        "notes": "Owens Creek Picnic Area Restrooms\nhttps://www.nps.gov/places/owens-creek-picnic-area-restrooms.htm\n\nThe wheelchair accessible restroom located at the Owens Creek Picnic Area is a vault toilet restroom with no running water. The restroom facility is located adjacent to several parking spaces on the upper side of the picnic area. For hikers, this restroom facility is located near the Brown’s Farm Loop Trail, the Deerfield Nature Trail, and a section of the Horse Trail. This restroom facility is open seasonally. ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.484317678,
+          39.65957738
+        ]
+      },
+      "properties": {
+        "name": "Owens Creek Sawmill",
+        "notes": "Owens Creek Sawmill\nhttps://www.nps.gov/places/000/owens-creek-sawmill.htm\n\n<p>Water-powered sawmills were usually built by entrepreneurs who owned forested land and a little money to invest into a family run business. The lumber cut was used for the building of homes, towns, and barns. Some of the lumber was exported to other countries. The old sawmills with their slow production of about 48 planks for a 12 hour day at best, are long gone. The mill pits and banks of the races stand in mute testimony to the long hours and hard work that once marked these sites.</p> <p>The exact date of construction and first operation of the vertical sawmill near today's Owens Creek Campground is unknown, but it is shown on an 1857 map with the same area indicated as deeded back to 1808, mentioning rights to water ways. The same 1857 map also shows 4 additional sawmills on Owens Creek and one on Big Hunting Creek near the present day Visitor Center.</p> <p>The sawmill near the present day Owens Creek Campground probably operated until after the late 1890's. A reconstruction of the mill was built by the Youth Conservation Corps on the site of the original sawmill. Construction of the campground eliminated the possibility of water power operations, but the gears and what would have been underwater works are all visible from an accessible boardwalk.</p> <p> </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4397784943,
+          39.6267460967
+        ]
+      },
+      "properties": {
+        "name": "Peniel (Park Headquarters)",
+        "notes": "Peniel (Park Headquarters)\nhttps://www.nps.gov/places/000/peniel-park-headquarters.htm\n\nHistoric Camp Peniel serves as the park's central headquarters. From the parking lot just off State Route 77, hikers can access the trails to Chimney Rock, the Lewis Area, and the Visitor Center.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.44991286288547,
+          39.63418987190712
+        ]
+      },
+      "properties": {
+        "name": "Safety at Catoctin Mountain Park",
+        "notes": "Safety at Catoctin Mountain Park\nhttps://www.nps.gov/places/safety-at-catoctin-mountain-park.htm\n\n<h4>Hiking Conditions & Precautions</h4> <br /> Catoctin Mountain Park is a fun and exciting place to explore. Chimney Rock is one of the most popular hiking destinations with spectacular views of the valley below. However, please be advised that jumping across the rocks is extremely dangerous. <b>People are seriously injured at Chimney Rock on a frequent basis</b>. The size of the gaps between rocks is very deceptive, so please do not attempt to jump these hazard areas!<br /> <br /> Use caution while hiking. Many of the trails are rocky and uneven. Wear sturdy shoes or hiking boots and watch where you're going to avoid slips, falls, and possible strains and sprains. Dress for the weather. Wear layers of clothing in cold weather and carry water while hiking in all seasons. Pick up a park map at the visitor center before exploring the trails or download one from this website.<br /> <br /> Poison Ivy is a common plant in the park and many people suffer an itchy rash after contact. It has 3 shiny dark leaves and also can be a thick hairy vine.<br />   <h4>Wildlife</h4> <br /> Close encounters with wildlife should be avoided. The speed limit throughout the park is 30 mph. This speed will help you enjoy the scenery and watch wildlife and lessen the chance of a collision with the resident wildlife. Deer in particular often travel in groups so if you see one cross the road, slow down and look for another to soon follow behind. Black bears also inhabit the park, so if you happen to encounter one be sure to maintain a resepctful distance. Slowly back away in the direction you came if you see a bear walking on the trail. When camping be sure to secure your food items properly to avoid attracting wildlife.<br /> <br /> There are two venomous snakes found in the park: the copperhead and the timber rattlesnake. Please remember that all wildlife have a role in the ecosystem and are protected from harassment and harm. These snakes will only strike when threatened and/or provoked.<br /> <br /> Ticks are also found in the park. The small deer tick which can carry Lyme Disease, and the dog tick which can carry Rocky Mountain Spotted Fever. Long sleeve shirts, long pants, socks, and a hat offer good protection. Check your entire body after a visit to make sure you didn't take home any unwanted travelers! <h3>In case of emergency call Emergency Dispatch at:<br /> 1-866-677-6677 or dial 911</h3> <br /> Do not rely on cellular phones as not all types work in the park. Check your coverage to be sure you are covered!<br /> <br /> If you have any questions or concerns, please just ask a park ranger or call the visitor center at (301) 663-9388.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.48610421186068,
+          39.64479562483338
+        ]
+      },
+      "properties": {
+        "name": "The Round Meadow Rain Garden",
+        "notes": "The Round Meadow Rain Garden\nhttps://www.nps.gov/places/000/the-round-meadow-rain-garden.htm\n\nIf you happen to spend time up at Camp Round Meadow you may notice the presence of a rain garden. Not only does it serve an important role in protecting the Owens Creek Watershed, but it also serves as a teaching tool. Take some time to read the wayside panel about the functions of the plants in the Round Meadow Rain Garden. ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.43884955,
+          39.64564696
+        ]
+      },
+      "properties": {
+        "name": "Thurmont Vista",
+        "notes": "Thurmont Vista\nhttps://www.nps.gov/places/000/thurmont-vista.htm\n\nThe Thurmont Vista, with an elevation of 1,502 feet, is a relatively short steep climb. The view here is to the east of the Frederick Valley and Thurmont.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.45105009781662,
+          39.63427101380594
+        ]
+      },
+      "properties": {
+        "name": "Trailhead: Blue Blazes Whiskey Still Trail",
+        "notes": "Trailhead: Blue Blazes Whiskey Still Trail\nhttps://www.nps.gov/places/trailhead-blue-blazes-whiskey-trail.htm\n\nThe Blue Blazes Trail is 0.3 miles one-way. Roundtrip to and from the Whiskey Still Exhibit from the trailhead is 0.6 miles. <br /> <br /> The Blue Blazes Whiskey Still Trail is accessed from the gravel parking lot across from the visitor center. The trailhead begins just before the wooden footbridge at the northwest corner of the gravel parking lot. As you travel along the Blue Blazes creek, interpretive trailside signs explore stream ecology and the history of whiskey production on Catoctin Mountain during the time of Prohibition. The trail concludes at an actual whiskey still.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.453825114,
+          39.6467249361
+        ]
+      },
+      "properties": {
+        "name": "Trailhead: Blue Ridge Summit",
+        "notes": "Trailhead: Blue Ridge Summit\nhttps://www.nps.gov/places/000/trailhead-blue-ridge-summit.htm\n\nThe hike from the parking lot to the vista is 0.3 miles and 0.6 miles round trip. It is part of the larger Yellow Blaze loop wihich is 4.6 miles.<br /> <br /> The Blue Ridge Summit Vista is most readily accessible from the Hog Rock Parking Area. Picnic tables and a comfort station (pit toilet) are located at this parking area. From the Hog Rock Parking area, expect one hill to climb to reach the mass of boulders that make up the vista area.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.486793736,
+          39.653435969
+        ]
+      },
+      "properties": {
+        "name": "Trailhead: Browns Farm North Terminus",
+        "notes": "Trailhead: Browns Farm North Terminus\nhttps://www.nps.gov/places/000/trailhead-browns-farm-north-terminus.htm\n\nThe Browns Farm Trail starts wiith a 0.4 mile loop starting and leading back to the Owens Creek Picnic Area, marked by a white triangle blaze. The trail itself continues south for 0.5 miles, marked by a white rectangle blaze from the southern junction of the loop, ending at Camp Round Meadow.<br /> <br /> Starting near the Owens Creek Parking Area, follow the Browns Farm Nature Trail south as it winds through dense hardwood forests, pine groves, and the abandoned Browns Farm. ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.498387,
+          39.672173
+        ]
+      },
+      "properties": {
+        "name": "Trailhead: Catoctin National Recreation Trail",
+        "notes": "Trailhead: Catoctin National Recreation Trail\nhttps://www.nps.gov/places/000/trailhead-catoctin-national-recreation-trail.htm\n\nThis trail is marked by a blue blaze with 4.75 miles within the boundaries of the park.<br /> <br /> The north trailhead is in Catoctin Mountatin Park and lies within three miles of the Appalachian National Scenic Trail. Along its route the trail crosses a State Scenic Byway and parallels the Catoctin Mountain National Scenic Byway. There are historic districts (Camp Greentop and Camp Misty Mount) as well as historic and prehistoric archeological resources along the trail, including Indian flint napping sites and Colonial era charcoal hearths. In addition to skirting several lakes, the trail also accessess numerous scenic vistas with views of the Monocacy River Valley. The entire trail runs for 26 miles, connecting Catoctin Mountain Park, Cunningham Falls State Park, Frederick City Municipal Forest, and Gambrill State Park.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.443696,
+          39.64734
+        ]
+      },
+      "properties": {
+        "name": "Trailhead: Charcoal Exhibit Trail",
+        "notes": "Trailhead: Charcoal Exhibit Trail\nhttps://www.nps.gov/places/000/trailhead-charcoal-exhibit-trail.htm\n\nThis trail is a one-half mile loop.<br /> <br /> The trail will take you along several exhibits and displays that will tell the story of the once thriving charcoal making industry on the mountain. The trail is readily accessible from the Thurmont Vista Parking Area. The Charcoal Exhibit Trail can also be accessed from the nearby Thurmont Vista Trail (Blazed Pink/Purple Rectangle) or from the Hog Rock Loop Trail<br /> (Blazed Yellow Rectangle.)",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.449419,
+          39.633683
+        ]
+      },
+      "properties": {
+        "name": "Trailhead: Chimney Rock & Wolf Rock",
+        "notes": "Trailhead: Chimney Rock & Wolf Rock\nhttps://www.nps.gov/places/000/trailhead-chimney-rock-wolf-rock.htm\n\nThis trail system is marked by a orange blaze and follows a loop for 3.9 miles. <br /> <br /> This loop trail contains the most strenuous sections of trail in the park. Expect uneven and rocky terrain from the river valley areas of the Visitor Center and Park Headquarters as you hike approx. 600 feet in elevation to the mountain ridgeline where Chimney Rock and Wolf Rock are located.<br /> <br /> Please use caution when walking along rock surfaces. These areas can be slippery.<br /> Closely supervise children at all times. Watch for rattlesnakes in the areas of Chimney Rock and Wolf Rock.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.45108795166016,
+          39.6341438293457
+        ]
+      },
+      "properties": {
+        "name": "Trailhead: Cunningham Falls Nature Trail",
+        "notes": "Trailhead: Cunningham Falls Nature Trail\nhttps://www.nps.gov/places/trailhead-cunningham-falls-nature-trail.htm\n\nThe Cunningham Falls Nautre Trail is 2.8 miles round trip from the visitor center to the falls and back. <br /> <br /> The Falls Nature Trail is accessed from the gravel parking lot directly across from the visitor center. The trail begins at the back of the gravel parking lot on the right hand side and crosses Md. Rt. 77 1.1 miles from the Visitor Center. The most popular trail in the park, this trail takes visitors to the largest cascading waterfall in Maryland. Expect multiple hills uneven and rocky surfaces.<br /> <br /> <u>Note:</u> The Cunningham Falls are located within the boundaries of Cunningham Falls State Park and State Park regulations and guidelines apply.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4887972967,
+          39.6594375493
+        ]
+      },
+      "properties": {
+        "name": "Trailhead: Deerfield Nature",
+        "notes": "Trailhead: Deerfield Nature\nhttps://www.nps.gov/places/000/trailhead-deerfield-nature.htm\n\nThe trail follows a loop that is 1.3 miles with mild changes in elevation.<br /> <br /> The Deerfield Nature Trail provides a soothing hike filled with informative panels which describe the local forest ecology and history. This trail is marked by a yellow triangle.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4226643188,
+          39.6237853888
+        ]
+      },
+      "properties": {
+        "name": "Trailhead: Gateway Trail",
+        "notes": "Trailhead: Gateway Trail\nhttps://www.nps.gov/places/000/trailhead-gateway-trail.htm\n\nThis trail is 3.9 miles and is marked by a white blaze.<br /> <br /> Accessible from the Visitor Center, Park Headquarters, or from the Lewis Property Parking Area, the Gateway Trail in Catoctin Mountain Park<br /> offers a challenging hike through rocky and hilly terrain. Coming from the Lewis Property Parking Area, one is offered the opportunity to parallel Big Hunting Creek or to summit the mountain near Chimney Rock. Alternatively, the Gateway Trail can lead you off park lands and into the community of Thurmont.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.453939016,
+          39.646338242
+        ]
+      },
+      "properties": {
+        "name": "Trailhead: Hog Rock",
+        "notes": "Trailhead: Hog Rock\nhttps://www.nps.gov/places/000/trailhead-hog-rock.htm\n\nThis section of the yellow trail is 1 mile, the entire Yellow Blaze runs for 4.6 miles.<br /> <br /> An extension of the Hog Rock Loop Trail, the Hog Rock Nature Trail is most readily accessed from the Hog Rock Parking Area off of Park Central Road. Picnic tables and a comfort station (pit toilet) are located at this parking area. As you venture into the woods, labeled posts, which accompanies a brochure guide (obtained at the trailhead or Visitor Center) identifies several<br /> features you will discover along the trail. Expect a few small hills, uneven surfaces, and several rocky features along the hike.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.478467,
+          39.64765
+        ]
+      },
+      "properties": {
+        "name": "Trailhead: Horse Trail",
+        "notes": "Trailhead: Horse Trail\nhttps://www.nps.gov/places/000/trailhead-horse-trail.htm\n\nApproximately 6 miles of trails are maintained in Catoctin Mountain Park for public horseback riding. <strong>These trails are identified with a Orange Triangle Blaze. </strong>The section of the Catoctin National Recreation Trail North of Park Central Road also accommodates equestrian use<strong>.</strong><br /> <br /> Trailer parking is available across from the entrance to Camp Greentop. If the parking area is snow covered or muddy, horse trailers should be parked at Round Meadow and horses led or ridden along the shoulder of Park Central Road to the trails.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.477788,
+          39.648815
+        ]
+      },
+      "properties": {
+        "name": "Trailhead: Spicebush Trail",
+        "notes": "Trailhead: Spicebush Trail\nhttps://www.nps.gov/places/000/trailhead-spicebush-trail.htm\n\nThis trail loop is around 0.2 miles.<br /> <br /> Easily accessed from the Chestnut Picnic Area, the Spicebush Nature Trail is a wheelchair-accessible loop that has wayside panels describing the natural histroy of the mountain's forests. ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.443602,
+          39.647581
+        ]
+      },
+      "properties": {
+        "name": "Trailhead: Thurmont Vista",
+        "notes": "Trailhead: Thurmont Vista\nhttps://www.nps.gov/places/000/trailhead-thurmont-vista.htm\n\nThe Thurmont Vista Loop Trail is 2.6 miles. <br /> <br /> Most readily accessible from the Thurmont Vista Parking Area, the short yet moderately challenging hike will crest the mountain ridgeline at the Thurmont Vista. The Charcoal Exhibit Trail can also be accessed nearby as well as the Hog Rock Loop Trail (Blazed Yellow Rectangle).",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.445623,
+          39.640432
+        ]
+      },
+      "properties": {
+        "name": "Trailhead: Wolf Rock",
+        "notes": "Trailhead: Wolf Rock\nhttps://www.nps.gov/places/000/trailhead-wolf-rock.htm\n\nThe trail distance to Wolf Rock is 1 mile. This trail is part of the larger 3.9 mile Orange Blaze Loop.<br /> <br /> Accessed from a small pull-off parking lot along Park Central Road, the Wolf Rock Trailhead is a good access point to mutliple trails across the park. From this trail junction, hikers can either travel to Wolf Rock or link up with the Pink and Yellow trails to reach Thurmont, Blue Ridge Summit, and Hog Rock vistas.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4375820431,
+          39.6340000752
+        ]
+      },
+      "properties": {
+        "name": "Wolf Rock",
+        "notes": "Wolf Rock\nhttps://www.nps.gov/places/000/wolf-rock.htm\n\nWolf Rock is a boulder field featuring a wolf-shaped boulder. The boulder field is part of the Weverton Formation which was deposited as sand 550 million years ago. After sediment layers covered the formation 250 million years ago, the formation would crystalize with the uplifting of the Appalachain Mountains and erosion revealed the quartzite present today. The whole field is the size of a football field, but parts are grown over and parts are inaccessible due to crevasses. Please use caution while exploring the Wolf Rock area. ",
+        "icon": "red-pin-down.png"
+      }
+    }
+  ]
+}

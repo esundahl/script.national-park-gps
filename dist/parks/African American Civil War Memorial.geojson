@@ -1,0 +1,20 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.025971937,
+          38.916557253
+        ]
+      },
+      "properties": {
+        "name": "African-American Civil War Memorial (\"The Spirit of Freedom\")",
+        "notes": "African-American Civil War Memorial (\"The Spirit of Freedom\")\nhttps://www.nps.gov/places/000/african-american-civil-war-memorial-the-spirit-of-freedom.htm\n\n<p>Over 200,000 African-American soldiers and sailors served in the US Army and Navy during the American Civil War. Their service helped to end the war and free over four million enslaved people. The African American Civil War Memorial honors their service and sacrifice.<br /> <br /> Memorial authorized 1992 (106 Stat. 2104), dedicated 1998<br /> <br /> Inscriptions<br /> Statue front base:<br /> CIVIL WAR TO CIVIL RIGHTS AND BEYOND<br /> THIS MEMORIAL IS DEDICATED TO THOSE WHO SERVED IN<br /> THE AFRICAN AMERICAN UNITS OF THE UNION ARMY IN THE CIVIL WAR<br /> THE 209,145 NAMES INSCRIBED ON THESE WALLS COMMEMORATE<br /> THOSE FIGHTERS OF FREEDOM<br /> Statue base:<br /> Spirit of Freedom<br /> Ed Hamilton Sculptor<br /> Granite Wall:<br /> WHO WOULD BE FREE THEMSELVES MUST STRIKE THE BLOW<br /> BETTER EVEN DIE FREE THAN TO LIVE SLAVES<br /> FREDERICK DOUGLASS MARCH 2, 1863</p>",
+        "icon": "red-pin-down.png"
+      }
+    }
+  ]
+}

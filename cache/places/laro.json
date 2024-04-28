@@ -1,0 +1,3101 @@
+[
+  {
+    "id": "37F3E4DE-1F3E-4494-8983-62A6A6F3B4EA",
+    "url": "https://www.nps.gov/places/bradbury-beach-boat-launch.htm",
+    "title": "Bradbury Beach Boat Launch",
+    "listingDescription": "A water access point on the shore of Lake Roosevelt National Recreation Area with a boat launch, dock, information kiosk, parking area, and vault toilet.",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/FFA40D09-9B63-ECEC-EB3472EC0F7A0F57.jpg",
+        "credit": "NPS",
+        "altText": "The paved parking area leads to the boat ramp, with the information kiosk directly adjacent.",
+        "title": "Bradbury Beach Boat Launch",
+        "description": "",
+        "caption": "The paved boat launch is adjacent to the information kiosk.",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/FFA40D09-9B63-ECEC-EB3472EC0F7A0F57.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/FFA40D09-9B63-ECEC-EB3472EC0F7A0F57.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "WA",
+        "parkCode": "laro",
+        "designation": "National Recreation Area",
+        "fullName": "Lake Roosevelt National Recreation Area",
+        "url": "https://www.nps.gov/laro/index.htm",
+        "name": "Lake Roosevelt"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [
+      "boat launch",
+      "boat dock",
+      "swim beach",
+      "picnic area",
+      "boating",
+      "boat ramp",
+      "Water Access",
+      "Vault toilet"
+    ],
+    "latitude": "48.5141235164",
+    "longitude": "-118.148816566",
+    "latLong": "48.5141235164,-118.148816566",
+    "bodyText": "Bradbury Beach is a water access point on the shore of Lake Roosevelt. It has a paved boat ramp, boat dock, and parking for trailers, cars, and RVs. There is a vault toilet available year-round. Adjacent to the launch area, is a day-use picnic area with a swim beach.<br /> <br /> The minimum lake elevation for boat launch is 1251'.",
+    "audioDescription": "",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "f7704279-6406-487e-acf5-77234a90df48",
+    "isManagedByNps": "1",
+    "amenities": [
+      "Aquatic Invasive Species Inspection",
+      "Beach/Water Access",
+      "Benches/Seating",
+      "Boat Ramp",
+      "Canoe/Kayak/Small Boat Launch",
+      "Dock/Pier",
+      "Information Kiosk/Bulletin Board",
+      "Parking - Auto",
+      "Parking - Boat Trailer",
+      "Parking - Bus/RV",
+      "Picnic Table",
+      "Restroom",
+      "Toilet - Vault/Composting",
+      "Wheelchair Accessible"
+    ],
+    "managedByOrg": "",
+    "quickFacts": [
+      {
+        "id": "5C252B96-2DEB-4EF4-91D1-B5D2B202FCD7",
+        "value": "Approximately 8.9 miles south of Kettle Falls on Washington State highway 25.",
+        "name": "Location"
+      }
+    ],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  },
+  {
+    "id": "70B1420C-9B9A-4905-90E1-6ABD83F9CE1C",
+    "url": "https://www.nps.gov/places/bradbury-beach-day-use-area.htm",
+    "title": "Bradbury Beach Day Use Area",
+    "listingDescription": "Bradbury Beach Day Use area is a water access point on Lake Roosevelt that has picnic tables, grills, and vault toilets.",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/300A8040-D2B2-D671-3F23F3AAE59A2F7C.jpg",
+        "credit": "",
+        "altText": "A view of a sheltered beach area, grass, trees, picnic tables, and the lake shore.",
+        "title": "Bradbury Beach Day Use Area",
+        "description": "",
+        "caption": "Enjoy a picnic by the water with grills and a sandy beach.",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/300A8040-D2B2-D671-3F23F3AAE59A2F7C.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/300A8040-D2B2-D671-3F23F3AAE59A2F7C.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "WA",
+        "parkCode": "laro",
+        "designation": "National Recreation Area",
+        "fullName": "Lake Roosevelt National Recreation Area",
+        "url": "https://www.nps.gov/laro/index.htm",
+        "name": "Lake Roosevelt"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [
+      "Bradbury Beach",
+      "day use",
+      "Water Access",
+      "picnic area",
+      "picnic tables",
+      "restroom",
+      "parking lot",
+      "Lake Roosevelt NRA",
+      "grill",
+      "firepit",
+      "lakeshore",
+      "View"
+    ],
+    "latitude": "48.5151741267731",
+    "longitude": "-118.145895471355",
+    "latLong": "48.5151741267731,-118.145895471355",
+    "bodyText": "Bradbury Beach day use area is adjacent to the boat launch, approximately 8.9 miles south of Kettle Falls on Washington State Highway 25. The facility has a small grassy area with picnic tables, barbeque grills, vault toilets, and water access. Potable water is not available.",
+    "audioDescription": "",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "9205ce59-ddb2-496d-9880-b12030dcdada",
+    "isManagedByNps": "1",
+    "amenities": [
+      "Beach/Water Access",
+      "Benches/Seating",
+      "Boat Ramp",
+      "Canoe/Kayak/Small Boat Launch",
+      "Fire Pit",
+      "Grill",
+      "Parking - Auto",
+      "Parking - Boat Trailer",
+      "Parking - Bus/RV",
+      "Pets Allowed",
+      "Picnic Table",
+      "Restroom",
+      "Toilet - Vault/Composting"
+    ],
+    "managedByOrg": "",
+    "quickFacts": [
+      {
+        "id": "5C252B96-2DEB-4EF4-91D1-B5D2B202FCD7",
+        "value": "From the town of Kettle Falls, travel 8.9 miles south on WA State Highway 25 and watch for the signs to Bradbury Boat Launch.",
+        "name": "Location"
+      }
+    ],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  },
+  {
+    "id": "0F3FE7FD-2483-4C7B-A0E4-7AD01605C238",
+    "url": "https://www.nps.gov/places/china-bend-boat-launch.htm",
+    "title": "China Bend Boat Launch",
+    "listingDescription": "China Bend is an access point on Lake Roosevelt with a paved boat ramp, a boat dock, an information kiosk, and a vault toilet.",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/FC6A3236-D32C-3F37-39CADCE7C50397C9.jpg",
+        "credit": "NPS",
+        "altText": "Looking toward the lake at the boat launch with several people unloading a boat from a trailer.",
+        "title": "China Bend Boat Launch",
+        "description": "",
+        "caption": "Visitors launching a boat at the ramp.",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/FC6A3236-D32C-3F37-39CADCE7C50397C9.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/FC6A3236-D32C-3F37-39CADCE7C50397C9.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "WA",
+        "parkCode": "laro",
+        "designation": "National Recreation Area",
+        "fullName": "Lake Roosevelt National Recreation Area",
+        "url": "https://www.nps.gov/laro/index.htm",
+        "name": "Lake Roosevelt"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [
+      "boat launch",
+      "boat dock",
+      "boating",
+      "Vault toilet",
+      "information kiosk",
+      "launch fee",
+      "restroom"
+    ],
+    "latitude": "48.8102787758",
+    "longitude": "-117.951148539",
+    "latLong": "48.8102787758,-117.951148539",
+    "bodyText": "China Bend is a water access point on Lake Roosevelt, with a paved boat ramp, boat dock, information kiosk, and a vault toilet.<br /> <br /> The minimum lake elevation for boat launching is 1277'.",
+    "audioDescription": "",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "e1520b5c-ffa3-4204-9cb4-ace564eb7631",
+    "isManagedByNps": "1",
+    "amenities": [
+      "Boat Ramp",
+      "Canoe/Kayak/Small Boat Launch",
+      "Dock/Pier",
+      "Information Kiosk/Bulletin Board",
+      "Parking - Auto",
+      "Parking - Boat Trailer",
+      "Parking - Bus/RV",
+      "Restroom",
+      "Scenic View/Photo Spot",
+      "Toilet - Vault/Composting",
+      "Wheelchair Accessible"
+    ],
+    "managedByOrg": "",
+    "quickFacts": [],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  },
+  {
+    "id": "0F2C8733-13D9-4BBA-BE3C-2690717C2D91",
+    "url": "https://www.nps.gov/places/cloverleaf-day-use-area.htm",
+    "title": "Cloverleaf Day Use Area",
+    "listingDescription": "Cloverleaf Day Use Area is a small water access point on Lake Roosevelt with a vault toilet.",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/CD033B41-C5C0-B8BE-A63BF8AA44024AFB.jpg",
+        "credit": "NPS",
+        "altText": "A small swim beach looking to the lake beyond.",
+        "title": "Cloverleaf Day Use Area",
+        "description": "",
+        "caption": "Take a break and admire the view at Cloverleaf.",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/CD033B41-C5C0-B8BE-A63BF8AA44024AFB.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/CD033B41-C5C0-B8BE-A63BF8AA44024AFB.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "WA",
+        "parkCode": "laro",
+        "designation": "National Recreation Area",
+        "fullName": "Lake Roosevelt National Recreation Area",
+        "url": "https://www.nps.gov/laro/index.htm",
+        "name": "Lake Roosevelt"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [
+      "Water Access",
+      "Vault toilet",
+      "restroom"
+    ],
+    "latitude": "48.297110974",
+    "longitude": "-118.146858533",
+    "latLong": "48.297110974,-118.146858533",
+    "bodyText": "Cloverleaf Day Use Area is a very small access point with a beach and vault toilet on Lake Roosevelt.",
+    "audioDescription": "",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "ee015fef-e12e-452d-a9c6-738d30528b66",
+    "isManagedByNps": "1",
+    "amenities": [
+      "Beach/Water Access",
+      "Pets Allowed",
+      "Restroom",
+      "Toilet - Vault/Composting"
+    ],
+    "managedByOrg": "",
+    "quickFacts": [
+      {
+        "id": "5C252B96-2DEB-4EF4-91D1-B5D2B202FCD7",
+        "value": "From Fort Spokane Visitor Center, turn left onto WA 25 North. Stay on WA 25 for approximately 34 miles. Turn left at the Cloverleaf Campground sign.",
+        "name": "Location"
+      }
+    ],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  },
+  {
+    "id": "868B4F40-112C-4B73-A1EB-A536DEE21DAE",
+    "url": "https://www.nps.gov/places/crescent-bay-boat-launch.htm",
+    "title": "Crescent Bay Boat Launch",
+    "listingDescription": "Crescent Bay Boat Launch is a water access point on Lake Roosevelt with a paved boat ramp, dock, vault toilet, large gravel parking area, and information kiosk.",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/6B7AAAC8-D899-2F9D-6A1257E4B928843A.jpg",
+        "credit": "NPS",
+        "altText": "Two trucks with trailers at a paved boat launch.",
+        "title": "Crescent Bay Boat Launch",
+        "description": "",
+        "caption": "The paved boat launch has a floating metal dock.",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/6B7AAAC8-D899-2F9D-6A1257E4B928843A.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/6B7AAAC8-D899-2F9D-6A1257E4B928843A.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "WA",
+        "parkCode": "laro",
+        "designation": "National Recreation Area",
+        "fullName": "Lake Roosevelt National Recreation Area",
+        "url": "https://www.nps.gov/laro/index.htm",
+        "name": "Lake Roosevelt"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [
+      "boat launch",
+      "boat ramp",
+      "Vault toilet",
+      "restroom",
+      "dock",
+      "information kiosk"
+    ],
+    "latitude": "47.947914872635614",
+    "longitude": "-118.98696940032617",
+    "latLong": "47.947914872635614,-118.98696940032617",
+    "bodyText": "Crescent Bay Boat Launch is a water access point on Lake Roosevelt, located between the town of Grand Coulee and the Grand Coulee Dam. The road to the launch is not paved. In addition to the paved boat launch, there is a dock, a vault toilet, a large gravel parking area, and an information kiosk.<br /> <br /> The minimum lake elevation for boat launch is 1265'.",
+    "audioDescription": "",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "",
+    "isManagedByNps": "1",
+    "amenities": [
+      "Aquatic Invasive Species Inspection",
+      "Boat Ramp",
+      "Canoe/Kayak/Small Boat Launch",
+      "Dock/Pier",
+      "Information Kiosk/Bulletin Board",
+      "Parking - Auto",
+      "Parking - Boat Trailer",
+      "Parking - Bus/RV",
+      "Restroom",
+      "Toilet - Vault/Composting"
+    ],
+    "managedByOrg": "",
+    "quickFacts": [
+      {
+        "id": "5C252B96-2DEB-4EF4-91D1-B5D2B202FCD7",
+        "value": "The boat launch is located just east of the town of Grand Coulee, with a well-marked access road.",
+        "name": "Location"
+      }
+    ],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  },
+  {
+    "id": "09D0E2B8-2561-487A-ADD5-CC90DBE67177",
+    "url": "https://www.nps.gov/places/daisy-boat-launch.htm",
+    "title": "Daisy Boat Launch",
+    "listingDescription": "An water access point on Lake Roosevelt with a paved boat launch, parking area, vault toilet, dock, and information kiosk.",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/FF3B6559-A159-9187-F59FD772FB520597.jpg",
+        "credit": "NPS",
+        "altText": "A view looking over the parking area toward the boat launch, trees to the left, and lake beyond.",
+        "title": "Daisy Boat Launch",
+        "description": "",
+        "caption": "A view from the shore at Daisy Boat Launch.",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/FF3B6559-A159-9187-F59FD772FB520597.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/FF3B6559-A159-9187-F59FD772FB520597.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "WA",
+        "parkCode": "laro",
+        "designation": "National Recreation Area",
+        "fullName": "Lake Roosevelt National Recreation Area",
+        "url": "https://www.nps.gov/laro/index.htm",
+        "name": "Lake Roosevelt"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [
+      "boat launch",
+      "boat access",
+      "boating",
+      "boat ramp",
+      "Vault toilet",
+      "restroom",
+      "information kiosk",
+      "dock",
+      "boat dock"
+    ],
+    "latitude": "48.3756760155",
+    "longitude": "-118.167900622",
+    "latLong": "48.3756760155,-118.167900622",
+    "bodyText": "Daisy Boat Launch is a water access point on the shore of Lake Roosevelt with a paved boat ramp, dock, vault toilets, parking area and an information kiosk. It is adjacent to the Daisy Store.<br /> <br /> Minimum lake eleveation for boat launch is 1265'.",
+    "audioDescription": "",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "eecbeff4-9cb6-4a60-8816-096498f66e89",
+    "isManagedByNps": "1",
+    "amenities": [
+      "Aquatic Invasive Species Inspection",
+      "Beach/Water Access",
+      "Boat Ramp",
+      "Canoe/Kayak/Small Boat Launch",
+      "Dock/Pier",
+      "Information",
+      "Information Kiosk/Bulletin Board",
+      "Parking - Auto",
+      "Parking - Boat Trailer",
+      "Parking - Bus/RV",
+      "Restroom",
+      "Restroom - Accessible",
+      "Toilet - Vault/Composting"
+    ],
+    "managedByOrg": "",
+    "quickFacts": [
+      {
+        "id": "5C252B96-2DEB-4EF4-91D1-B5D2B202FCD7",
+        "value": "The boat launch is approximately a mile north of the town of Daisy on the frontage road, off Washington State Highway 25. It is also adjacent to the Daisy store.",
+        "name": "Location"
+      }
+    ],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  },
+  {
+    "id": "7BA8EE3B-8DD1-4CD6-B528-40A3A5EECA0B",
+    "url": "https://www.nps.gov/places/evans-boat-launch.htm",
+    "title": "Evans Boat Launch",
+    "listingDescription": "Evans Boat Launch is a water access point on Lake Roosevelt with a paved boat ramp, dock, information kiosk, and vault toilet. A campground is nearby.",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/5EE9EA37-CAA0-C32E-231543F578F7C834.jpg",
+        "credit": "NPS",
+        "altText": "A paved boat ramp with a single floating dock, opening towards the lake and the mountains beyond.",
+        "title": "Evans Boat Launch",
+        "description": "",
+        "caption": "The paved boat ramp and dock with view of the lake.",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/5EE9EA37-CAA0-C32E-231543F578F7C834.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/5EE9EA37-CAA0-C32E-231543F578F7C834.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "WA",
+        "parkCode": "laro",
+        "designation": "National Recreation Area",
+        "fullName": "Lake Roosevelt National Recreation Area",
+        "url": "https://www.nps.gov/laro/index.htm",
+        "name": "Lake Roosevelt"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [
+      "boat ramp",
+      "boat launch",
+      "boat dock",
+      "dock",
+      "information kiosk",
+      "Vault toilet",
+      "restroom"
+    ],
+    "latitude": "48.6993109012",
+    "longitude": "-118.019598811",
+    "latLong": "48.6993109012,-118.019598811",
+    "bodyText": "Evans Boat Launch is a water access point on Lake Roosevelt NRA with a paved boat ramp, boat dock, information kiosk, and vault toilets. Evans Campground and Evans Group Site are nearby.<br /> <br /> Minimum lake elevation for boat ramp use is 1280'.",
+    "audioDescription": "",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "fd2fce78-07cc-4ced-867f-59fc926653e9",
+    "isManagedByNps": "1",
+    "amenities": [
+      "Aquatic Invasive Species Inspection",
+      "Beach/Water Access",
+      "Boat Ramp",
+      "Canoe/Kayak/Small Boat Launch",
+      "Dock/Pier",
+      "Information Kiosk/Bulletin Board",
+      "Parking - Auto",
+      "Parking - Boat Trailer",
+      "Parking - Bus/RV",
+      "Restroom",
+      "Scenic View/Photo Spot",
+      "Toilet - Vault/Composting"
+    ],
+    "managedByOrg": "",
+    "quickFacts": [
+      {
+        "id": "5C252B96-2DEB-4EF4-91D1-B5D2B202FCD7",
+        "value": "Evans Boat Launch is located 13.3 miles (21.4km) north of Kettle Falls on Washington State Highway 25. ",
+        "name": "Location"
+      }
+    ],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  },
+  {
+    "id": "371A8F5B-48E0-404A-A1C6-3C537045247C",
+    "url": "https://www.nps.gov/places/evans-day-use-area.htm",
+    "title": "Evans Day Use Area",
+    "listingDescription": "Evans Day Use area is a water access area on Lake Roosevelt with picnic tables, grills, accessible sites, picnic shelters, and potable water and flush toilets during the summer season.",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/C9BC7886-B6AA-17CC-E6CFC84ABECD19EE.jpg",
+        "credit": "NPS",
+        "altText": "A roofed gazebo covers picnic tables and a grill adjacent to the lake.",
+        "title": "A gazebo shelter at Evans Day Use.",
+        "description": "",
+        "caption": "A picnic gazebo near the lake.",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/C9BC7886-B6AA-17CC-E6CFC84ABECD19EE.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/C9BC7886-B6AA-17CC-E6CFC84ABECD19EE.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "WA",
+        "parkCode": "laro",
+        "designation": "National Recreation Area",
+        "fullName": "Lake Roosevelt National Recreation Area",
+        "url": "https://www.nps.gov/laro/index.htm",
+        "name": "Lake Roosevelt"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [
+      "picnic table",
+      "Accessible",
+      "grill",
+      "Water Access",
+      "restroom",
+      "Vault toilet",
+      "comfort station",
+      "cold shower",
+      "parking",
+      "rv parking",
+      "gazebo"
+    ],
+    "latitude": "48.698818147",
+    "longitude": "-118.01765146",
+    "latLong": "48.698818147,-118.01765146",
+    "bodyText": "This day use area is located adjacent to the Evans Campground and Evans Boat Launch, approximately 9 miles north of the town of Kettle Falls on Washington State Highway 25. The facility has a grassy area with picnic tables, barbeque grill, gazebo, water access, an outdoor cold shower, and restrooms. Potable water is available during the summer season.",
+    "audioDescription": "",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "fe8595f0-a5e4-4f3c-b338-38bd2f675514",
+    "isManagedByNps": "1",
+    "amenities": [
+      "Accessible Sites",
+      "Beach/Water Access",
+      "Grill",
+      "Parking - Auto",
+      "Parking - Boat Trailer",
+      "Parking - Bus/RV",
+      "Pets Allowed",
+      "Restroom",
+      "Restroom - Accessible",
+      "Restroom - Seasonal",
+      "Showers",
+      "Toilet - Flush",
+      "Toilet - Vault/Composting",
+      "Water - Drinking/Potable",
+      "Wheelchair Accessible"
+    ],
+    "managedByOrg": "",
+    "quickFacts": [
+      {
+        "id": "5C252B96-2DEB-4EF4-91D1-B5D2B202FCD7",
+        "value": "Evans day use area is located off of WA 25. From Kettle Falls, drive north on US 395. Turn right onto WA 25 North. Follow WA 25 North for approximately 9 miles. Turn left at the Evans Campground sign and follow the signs to the day use area.",
+        "name": "Location"
+      }
+    ],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  },
+  {
+    "id": "64D6B620-F1D0-4CB3-85C7-FF339246E175",
+    "url": "https://www.nps.gov/places/fort-spokane-boat-launch.htm",
+    "title": "Fort Spokane Boat Launch",
+    "listingDescription": "Fort Spokane Boat Launch is a water access point on Lake Roosevelt with a paved boat ramp, docks, vault toilets, an information kiosk, and large parking area.",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/9B66D3DD-C810-4573-B6D0C6BA4AE23E30.jpg",
+        "credit": "NPS",
+        "altText": "The information kiosk stands to the right of the boat launch, the lake and far shore are visible.",
+        "title": "Fort Spokane Boat Launch",
+        "description": "",
+        "caption": "The boat launch is paved and adjacent to the information kiosk.",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/9B66D3DD-C810-4573-B6D0C6BA4AE23E30.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/9B66D3DD-C810-4573-B6D0C6BA4AE23E30.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "WA",
+        "parkCode": "laro",
+        "designation": "National Recreation Area",
+        "fullName": "Lake Roosevelt National Recreation Area",
+        "url": "https://www.nps.gov/laro/index.htm",
+        "name": "Lake Roosevelt"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [
+      "boating",
+      "fishing",
+      "parking area",
+      "boat launch",
+      "dock",
+      "boat ramp",
+      "information kiosk",
+      "information",
+      "scenic area",
+      "parking",
+      "Vault toilet",
+      "restroom"
+    ],
+    "latitude": "47.9096605001",
+    "longitude": "-118.3109246",
+    "latLong": "47.9096605001,-118.3109246",
+    "bodyText": "Fort Spokane Boat Launch is a water access point on Lake Roosevelt with a paved boat ramp, docks, a vault toilet, large parking area, and an information kiosk.<br /> <br /> Minimum lake elevation for boat launch use is 1247'.<br /> <br /> Fort Spokane Campground is directly adjacent to the boat launch. Reservations are required to camp.",
+    "audioDescription": "",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "e870362f-4457-4196-91dc-9f77596cdaa0",
+    "isManagedByNps": "1",
+    "amenities": [
+      "Aquatic Invasive Species Inspection",
+      "Beach/Water Access",
+      "Boat Ramp",
+      "Canoe/Kayak/Small Boat Launch",
+      "Dock/Pier",
+      "Information",
+      "Information Kiosk/Bulletin Board",
+      "Parking - Auto",
+      "Parking - Boat Trailer",
+      "Parking - Bus/RV",
+      "Restroom",
+      "Restroom - Accessible",
+      "Toilet - Vault/Composting"
+    ],
+    "managedByOrg": "",
+    "quickFacts": [
+      {
+        "id": "5C252B96-2DEB-4EF4-91D1-B5D2B202FCD7",
+        "value": "Fort Spokane boat launch is 23.4 miles (37.6km) north of Davenport on Washington State Highway 25.",
+        "name": "Location"
+      }
+    ],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  },
+  {
+    "id": "1F2ED374-3420-43A6-98A1-EA6BF428BAF1",
+    "url": "https://www.nps.gov/places/fort-spokane-day-use-area.htm",
+    "title": "Fort Spokane Day Use Area",
+    "listingDescription": "Fort Spokane Day Use Area is a water access point on Lake Roosevelt with picnic tables, grills, potable water in the summer season, vault toilets, picnic shelters, and a trailhead to the visitor center.",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/CBA8F0A4-B6CF-47CE-630C9B6E7580D8C1.jpg",
+        "credit": "NPS",
+        "altText": "A wide grassy area with picnic tables is adjacent to the shoreline.",
+        "title": "Fort Spokane Day Use Area",
+        "description": "",
+        "caption": "A sunny day for a picnic at Fort Spokane Day Use area.",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/CBA8F0A4-B6CF-47CE-630C9B6E7580D8C1.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/CBA8F0A4-B6CF-47CE-630C9B6E7580D8C1.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "WA",
+        "parkCode": "laro",
+        "designation": "National Recreation Area",
+        "fullName": "Lake Roosevelt National Recreation Area",
+        "url": "https://www.nps.gov/laro/index.htm",
+        "name": "Lake Roosevelt"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [
+      "parking",
+      "Water Access",
+      "Accessible",
+      "picnic tables",
+      "picnic shelter",
+      "grill",
+      "restroom",
+      "Vault toilet",
+      "potable water"
+    ],
+    "latitude": "47.9066939",
+    "longitude": "-118.3151893",
+    "latLong": "47.9066939,-118.3151893",
+    "bodyText": "Fort Spokane Day Use Area is a water access point on Lake Roosevelt with picnic tables, grills, picnic shelters, restrooms, a large grassy area, a trailhead to the nearby visitor center, and potable water during the summer season.",
+    "audioDescription": "",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "af9ce879-a141-40ec-b924-0b3f127f5fd0",
+    "isManagedByNps": "1",
+    "amenities": [
+      "Accessible Sites",
+      "Beach/Water Access",
+      "Grill",
+      "Parking - Auto",
+      "Parking - Boat Trailer",
+      "Parking - Bus/RV",
+      "Pets Allowed",
+      "Picnic Shelter/Pavilion",
+      "Picnic Table",
+      "Restroom",
+      "Scenic View/Photo Spot",
+      "Toilet - Flush",
+      "Toilet - Vault/Composting",
+      "Trailhead",
+      "Water - Drinking/Potable",
+      "Wheelchair Accessible"
+    ],
+    "managedByOrg": "",
+    "quickFacts": [
+      {
+        "id": "5C252B96-2DEB-4EF4-91D1-B5D2B202FCD7",
+        "value": "Fort Spokane Day Use Area is located just down the road and north of Fort Spokane Visitor Center and across the road from the campground on WA 25.",
+        "name": "Location"
+      }
+    ],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  },
+  {
+    "id": "B2F5E7BA-6E91-4D98-B189-CA171866E38F",
+    "url": "https://www.nps.gov/places/french-rocks.htm",
+    "title": "French Rocks Boat Launch",
+    "listingDescription": "French Rocks Boat Launch is a water access point on the shore of Lake Roosevelt with a paved boat ramp, dock, vault toilet, parking area, and information kiosk.",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/250C8296-B0DA-47CA-47135519061CD5EC.jpg",
+        "credit": "NPS",
+        "altText": "A paved access road descends to the paved boat launch adjacent to a cut bank on the shore.",
+        "title": "French Rocks Boat Launch",
+        "description": "",
+        "caption": "Access to the paved boat launch.",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/250C8296-B0DA-47CA-47135519061CD5EC.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/250C8296-B0DA-47CA-47135519061CD5EC.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "WA",
+        "parkCode": "laro",
+        "designation": "National Recreation Area",
+        "fullName": "Lake Roosevelt National Recreation Area",
+        "url": "https://www.nps.gov/laro/index.htm",
+        "name": "Lake Roosevelt"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [
+      "boating",
+      "boat dock",
+      "boat launch",
+      "skid dock",
+      "boat ramp",
+      "Vault toilet",
+      "restroom",
+      "information kiosk"
+    ],
+    "latitude": "48.4948493818",
+    "longitude": "-118.197746771",
+    "latLong": "48.4948493818,-118.197746771",
+    "bodyText": "French Rocks Boat Launch is a water access point on the shore of Lake Roosevelt with a paved boat ramp, skid dock, vault toilet, and information kiosk.<br /> <br /> Minimum lake elevation for boat ramp use is 1265'.",
+    "audioDescription": "",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "474708c2-2119-4abf-ae67-32f65f269b77",
+    "isManagedByNps": "1",
+    "amenities": [
+      "Aquatic Invasive Species Inspection",
+      "Beach/Water Access",
+      "Boat Ramp",
+      "Canoe/Kayak/Small Boat Launch",
+      "Dock/Pier",
+      "Information",
+      "Information Kiosk/Bulletin Board",
+      "Parking - Auto",
+      "Parking - Boat Trailer",
+      "Parking - Bus/RV",
+      "Restroom",
+      "Restroom - Accessible",
+      "Toilet - Vault/Composting"
+    ],
+    "managedByOrg": "",
+    "quickFacts": [
+      {
+        "id": "5C252B96-2DEB-4EF4-91D1-B5D2B202FCD7",
+        "value": "Approximately 15 miles north of Inchelium on Highway 3 / Inchelium Highway.",
+        "name": "Location"
+      }
+    ],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  },
+  {
+    "id": "984D2227-62BA-4552-82C5-75CBA10AE16B",
+    "url": "https://www.nps.gov/places/gifford-boat-launch.htm",
+    "title": "Gifford Boat Launch",
+    "listingDescription": "Gifford Boat Launch is a water access are on Lake Roosevelt with a paved boat ramp, docks, parking area, information kiosk, and vault toilets.",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/935595E8-EC90-9455-5B0C93DE165062E9.jpg",
+        "credit": "NPS",
+        "altText": "A view of the paved boat launch with 3 docks, the information kiosk to the right, and parking.",
+        "title": "Gifford Boat Launch",
+        "description": "",
+        "caption": "The paved boat launch has multiple docks.",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/935595E8-EC90-9455-5B0C93DE165062E9.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/935595E8-EC90-9455-5B0C93DE165062E9.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "WA",
+        "parkCode": "laro",
+        "designation": "National Recreation Area",
+        "fullName": "Lake Roosevelt National Recreation Area",
+        "url": "https://www.nps.gov/laro/index.htm",
+        "name": "Lake Roosevelt"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [
+      "boating",
+      "boat launch",
+      "boat ramp",
+      "fishing",
+      "Vault toilet",
+      "restroom",
+      "parking area",
+      "parking",
+      "information",
+      "information kiosk",
+      "scenic area",
+      "dock"
+    ],
+    "latitude": "48.2884670754",
+    "longitude": "-118.145259339",
+    "latLong": "48.2884670754,-118.145259339",
+    "bodyText": "Gifford Boat launch is a water access point on Lake Roosevelt with a paved boat ramp, docks, information kiosk, parking area. A vault toilet is available a short distance down the road to the adjacent Gifford Campground. Reservations are required to stay at the campground. <br /> <br /> Minimum lake elevation for use of the boat launch is 1249'.<br /> <br />  ",
+    "audioDescription": "",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "5bdef739-772a-4135-b189-6b91cd835427",
+    "isManagedByNps": "1",
+    "amenities": [
+      "Aquatic Invasive Species Inspection",
+      "Beach/Water Access",
+      "Boat Ramp",
+      "Canoe/Kayak/Small Boat Launch",
+      "Dock/Pier",
+      "Information",
+      "Information Kiosk/Bulletin Board",
+      "Parking - Auto",
+      "Parking - Boat Trailer",
+      "Parking - Bus/RV",
+      "Restroom",
+      "Toilet - Vault/Composting"
+    ],
+    "managedByOrg": "",
+    "quickFacts": [
+      {
+        "id": "5C252B96-2DEB-4EF4-91D1-B5D2B202FCD7",
+        "value": "Gifford Boat Launch is 26.1 miles (42km) south of Kettle Falls on Washington Highway 25.",
+        "name": "Location"
+      }
+    ],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  },
+  {
+    "id": "476CE8EB-E51B-422C-A5F1-3ACE7F3B8F59",
+    "url": "https://www.nps.gov/places/grand-coulee-dam-visitor-center.htm",
+    "title": "Grand Coulee Dam Visitor Center",
+    "listingDescription": "Built at the location of Glacial Lake Columbia and at the head of the Grand Coulee signs of the Missoula Floods can be found throughout the region.",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/83BC3674-EDBE-EB70-7F195DC1265B1689.jpg",
+        "credit": "Bureau of Reclamation",
+        "altText": "Aerial photograph of Grand Coulee Dam, lake above, river below, and green treed neighborhoods.",
+        "title": "Grand Coulee Dam",
+        "description": "",
+        "caption": "Grand Coulee Dam",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/83BC3674-EDBE-EB70-7F195DC1265B1689.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/83BC3674-EDBE-EB70-7F195DC1265B1689.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "WA,OR,ID,MT",
+        "parkCode": "iafl",
+        "designation": "National Geologic Trail",
+        "fullName": "Ice Age Floods National Geologic Trail",
+        "url": "https://www.nps.gov/iafl/index.htm",
+        "name": "Ice Age Floods"
+      },
+      {
+        "states": "WA",
+        "parkCode": "laro",
+        "designation": "National Recreation Area",
+        "fullName": "Lake Roosevelt National Recreation Area",
+        "url": "https://www.nps.gov/laro/index.htm",
+        "name": "Lake Roosevelt"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [
+      "Grand Coulee",
+      "Grand Coulee Dam",
+      "Ice Age Floods National Geologic Trail",
+      "Columbia River",
+      "Lake Roosevelt National Recreation Area",
+      "visitor center"
+    ],
+    "latitude": "47.960475519000006",
+    "longitude": "-118.98664566500003",
+    "latLong": "47.960475519000006,-118.98664566500003",
+    "bodyText": "<p>The visitor center is managed by the Bureau of Reclamation. open daily from 8:30 am to 5 pm Pacific Time and closed on Thanksgiving, Christmas, and New Year's Day. Admission is free. More details can be found at the <a href=\"https://www.usbr.gov/pn/grandcoulee/visit/gcvc.html\">Grand Coulee Dam Visitor Center website</a> or by calling 509-633-9265.</p> <p>The Grand Coulee Dam Visitor Center was built in the late 1970s as part of the dam’s Nathaniel “Nat” Washington Power Plant expansion. It was designed by architect Marcel Breuer to resemble a generator rotor. An evening <a href=\"https://www.usbr.gov/pn/grandcoulee/visit/laser.html\">laser light show</a> was added in 1989. The center was retrofitted in 2004 for seismic, life-safety, and accessibility standards. The original laser equipment was replaced in 2013, and a new laser light show, “One River, Many Voices,” premiered in 2014.</p> <p>In 2006, new exhibits and displays were installed. The exhibits highlight Grand Coulee’s role as one of the main irrigation, flood control, and hydroelectric dams on the Columbia River. They also describe the effects the dam has had on various groups of people, including Native Americans and early settlers. The new exhibits were designed, manufactured, and installed by Formations, Inc., of Portland, Oregon. </p> <p>This visitor center is fully accessible and features hands-on exhibits and an auditorium. Service animals are allowed inside the visitor center.</p>",
+    "audioDescription": "",
+    "isPassportStampLocation": "1",
+    "passportStampLocationDescription": "Located at the Visitor Center desk during open hours.",
+    "passportStampImages": [
+      {
+        "credit": "",
+        "description": "",
+        "crops": [
+          {
+            "aspectRatio": 1,
+            "url": "https://www.nps.gov/common/uploads/passport_stamps/primary/81145404-F72A-8A79-376491A8B3ABCA26.jpg"
+          }
+        ],
+        "altText": "Blue circle stamp with Lake Roosevelt NRA, Grand Coulee Dam on perimiter and date in center.",
+        "title": "Lake Roosevelt NRA Grand Coulee Dam",
+        "caption": "",
+        "url": "https://www.nps.gov/common/uploads/passport_stamps/81145404-F72A-8A79-376491A8B3ABCA26.jpg"
+      },
+      {
+        "credit": "",
+        "description": "",
+        "crops": [
+          {
+            "aspectRatio": 1,
+            "url": "https://www.nps.gov/common/uploads/passport_stamps/primary/8127EA62-A9C7-CB2A-60A12A843A200FE6.jpg"
+          }
+        ],
+        "altText": "Blue circle stamp with Ice Age Floods, Grand Coulee Dam and date in center.",
+        "title": "Ice Age Floods NGT Grand Coulee Dam",
+        "caption": "",
+        "url": "https://www.nps.gov/common/uploads/passport_stamps/8127EA62-A9C7-CB2A-60A12A843A200FE6.jpg"
+      },
+      {
+        "credit": "",
+        "description": "",
+        "crops": [
+          {
+            "aspectRatio": 1,
+            "url": "https://www.nps.gov/common/uploads/passport_stamps/primary/812F9A8C-D43A-A1EF-F91EF75E0215BAC7.jpg"
+          }
+        ],
+        "altText": "Bureau of Reclamation logo with \"Visitor Center Grand Coulee Dam\" around it.",
+        "title": "Visitor Center Grand Coulee Dam Stamp",
+        "caption": "",
+        "url": "https://www.nps.gov/common/uploads/passport_stamps/812F9A8C-D43A-A1EF-F91EF75E0215BAC7.jpg"
+      }
+    ],
+    "managedByUrl": "https://www.usbr.gov/pn/grandcoulee/visit/gcvc.html",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "ca26aba2-e186-43a5-b42e-2c96fd8efd8f",
+    "isManagedByNps": "0",
+    "amenities": [
+      "Historical/Interpretive Information/Exhibits",
+      "Information",
+      "Information - Ranger/Staff Member Present",
+      "Parking - Auto",
+      "Parking - Bus/RV",
+      "Picnic Table",
+      "Restroom - Accessible",
+      "Restroom - Family",
+      "Scenic View/Photo Spot",
+      "Toilet - Flush",
+      "Trash/Litter Receptacles"
+    ],
+    "managedByOrg": "Bureau of Reclamation",
+    "quickFacts": [
+      {
+        "id": "5C252B96-2DEB-4EF4-91D1-B5D2B202FCD7",
+        "value": "Grand Coulee Dam Visitor Center, WA-155, Coulee Dam, WA 99116",
+        "name": "Location"
+      }
+    ],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  },
+  {
+    "id": "B13348D6-7989-44C7-834B-4438914E305A",
+    "url": "https://www.nps.gov/places/hanson-harbor-boat-launch.htm",
+    "title": "Hanson Harbor Boat Launch",
+    "listingDescription": "Hanson Harbor Boat Launch is a water access point on the shore of Lake Roosevelt, with a boat launch, information kiosk, vault toilet, parking area, and picnic tables.",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/24AA0CF7-9C14-C08C-48787728B842CCDB.jpg",
+        "credit": "",
+        "altText": "A gravel road, information kiosk, and picnic table on the shores of the lake, next to the launch.",
+        "title": "Hanson Harbor Boat Launch",
+        "description": "",
+        "caption": "Approach to the boat launch.",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/24AA0CF7-9C14-C08C-48787728B842CCDB.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/24AA0CF7-9C14-C08C-48787728B842CCDB.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "WA",
+        "parkCode": "laro",
+        "designation": "National Recreation Area",
+        "fullName": "Lake Roosevelt National Recreation Area",
+        "url": "https://www.nps.gov/laro/index.htm",
+        "name": "Lake Roosevelt"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [
+      "boat launch",
+      "boating",
+      "boat ramp",
+      "Water Access",
+      "picnic tables",
+      "Vault toilet",
+      "restroom",
+      "information kiosk",
+      "information",
+      "AIS",
+      "parking",
+      "parking area",
+      "scenic"
+    ],
+    "latitude": "47.9213258864457",
+    "longitude": "-118.625614455236",
+    "latLong": "47.9213258864457,-118.625614455236",
+    "bodyText": "Hanson Harbor Boat Launch is a water access point on Lake Roosevelt with a boat launch, vault toilets, an information kiosk, parking area, and picnic tables.<br /> <br /> Miniminum lake elevation for boat launch is 1253'.",
+    "audioDescription": "When facing the information kiosk, 16 feet to your right is a wayside with three upright information panels on boating safety. Directly behind the kiosk, a 3-foot-wide, concrete sidewalk stretches 50 feet away from you to a restroom with a pit toilet. In between the information kiosk and the toilet are two picnic tables, adjacent to the sidewalk on the grass and dirt areas. As the tables are not anchored, their exact location may change. Beyond the pit toilet are pine trees and cliffs of dark rock several hundred feet high. 150 feet to your right is the boat ramp and beach. The boat ramp is concrete, 20-feet-wide, and extends to the water line. The beach is sandy and stretches as far as you can see, and the water level varies by season. The lake is approximately a mile wide and the opposite shore contains bare, gently sloping hills with occasional steep cliffs of grey rock. Behind you, the parking lot extends for another 300 feet, before becoming grass with scattered pine trees. Left from the information kiosk is the entrance into the paved parking lot, beyond which is the paved entrance road, a neighborhood, and more tall, dark cliffs withs scattered trees.",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "2cb2c693-72a3-4eed-9291-390970e61632",
+    "isManagedByNps": "1",
+    "amenities": [
+      "Aquatic Invasive Species Inspection",
+      "Beach/Water Access",
+      "Boat Ramp",
+      "Canoe/Kayak/Small Boat Launch",
+      "Information",
+      "Information Kiosk/Bulletin Board",
+      "Parking - Auto",
+      "Parking - Boat Trailer",
+      "Parking - Bus/RV",
+      "Picnic Table",
+      "Restroom",
+      "Scenic View/Photo Spot",
+      "Toilet - Vault/Composting"
+    ],
+    "managedByOrg": "",
+    "quickFacts": [],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  },
+  {
+    "id": "093468B8-3AEE-4FAE-8093-A692030749E0",
+    "url": "https://www.nps.gov/places/hawk-creek-boat-launch.htm",
+    "title": "Hawk Creek Boat Launch",
+    "listingDescription": "Hawk Creek Boat Launch is a water access point on Lake Roosevelt, with a paved boat launch, dock, information kiosk, parking area, and vault toilet, adjacent to Hawk Creek Campground.",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/14466378-0371-23F1-779B19B52524D962.jpg",
+        "credit": "NPS",
+        "altText": "A paved boat launch is flanked by an information kiosk and other signs",
+        "title": "Hawk Creek Boat Launch",
+        "description": "",
+        "caption": "The boat launch and floating boat dock are adjacent to the parking lot.",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/14466378-0371-23F1-779B19B52524D962.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/14466378-0371-23F1-779B19B52524D962.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "WA",
+        "parkCode": "laro",
+        "designation": "National Recreation Area",
+        "fullName": "Lake Roosevelt National Recreation Area",
+        "url": "https://www.nps.gov/laro/index.htm",
+        "name": "Lake Roosevelt"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [
+      "boat launch",
+      "dock",
+      "boat dock",
+      "restroom",
+      "information kiosk",
+      "fishing",
+      "boating",
+      "parking area",
+      "parking",
+      "Accessible",
+      "scenic area",
+      "waterfall",
+      "hiking"
+    ],
+    "latitude": "47.815335361329",
+    "longitude": "-118.330099889585",
+    "latLong": "47.815335361329,-118.330099889585",
+    "bodyText": "Hawk Creek boat launch is a popular access point on Lake Roosevelt, with a paved boat launch, dock, information kiosk, and pit toilet. A small parking area is next to the boat launch, but space is limited. <br /> <br /> Minimum lake elevation for the boat launch is 1277'.<br /> <br /> Hawk Creek Campground is adjacent to the boat launch, with a small craft, canoe/kayak dock on the shoreline.",
+    "audioDescription": "",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "2cfcdc2d-c866-4d85-9342-5d641a37e57b",
+    "isManagedByNps": "1",
+    "amenities": [
+      "Aquatic Invasive Species Inspection",
+      "Beach/Water Access",
+      "Boat Ramp",
+      "Canoe/Kayak/Small Boat Launch",
+      "Dock/Pier",
+      "Information",
+      "Information - Maps Available",
+      "Information Kiosk/Bulletin Board",
+      "Parking - Auto",
+      "Parking - Boat Trailer",
+      "Restroom",
+      "Restroom - Accessible",
+      "Toilet - Vault/Composting",
+      "Wheelchair Accessible"
+    ],
+    "managedByOrg": "",
+    "quickFacts": [],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  },
+  {
+    "id": "7AFEBC5E-82AB-4B80-823C-7F57A99C96EA",
+    "url": "https://www.nps.gov/places/hunters-boat-launch.htm",
+    "title": "Hunters Boat Launch",
+    "listingDescription": "Hunters Boat Launch is a water access point on Lake Roosevelt with a paved boat ramp, docks, information kiosk, paved parking area, and vault toilets.",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/93DEFF21-E2ED-4BD3-776B92E68F23B08A.jpg",
+        "credit": "NPS",
+        "altText": "A view of the paved boat ramp and multiple docks, looking out to the lake and wooded opposite shore.",
+        "title": "Hunters Boat Launch",
+        "description": "",
+        "caption": "The paved boat ramp has multiple docks and beautiful views.",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/93DEFF21-E2ED-4BD3-776B92E68F23B08A.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/93DEFF21-E2ED-4BD3-776B92E68F23B08A.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "WA",
+        "parkCode": "laro",
+        "designation": "National Recreation Area",
+        "fullName": "Lake Roosevelt National Recreation Area",
+        "url": "https://www.nps.gov/laro/index.htm",
+        "name": "Lake Roosevelt"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [
+      "boating",
+      "fishing",
+      "boat ramp",
+      "boat launch",
+      "dock",
+      "restroom",
+      "Vault toilet",
+      "parking",
+      "parking area",
+      "information",
+      "information kiosk",
+      "scenic area"
+    ],
+    "latitude": "48.1293609775",
+    "longitude": "-118.225239951",
+    "latLong": "48.1293609775,-118.225239951",
+    "bodyText": "Hunters Boat Launch is a water access point on Lake Roosevelt with a paved boat ramp, docks, information kiosk, a large paved parking lot, and vault toilets. It is directly adjacent to Hunters Campground. A reservation is required to stay at the campground.<br /> <br /> Minimum lake elevation for boat launch is 1230'.",
+    "audioDescription": "",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "72b7614a-d842-4d75-bb0c-82f625429aa6",
+    "isManagedByNps": "1",
+    "amenities": [
+      "Aquatic Invasive Species Inspection",
+      "Beach/Water Access",
+      "Boat Ramp",
+      "Canoe/Kayak/Small Boat Launch",
+      "Dock/Pier",
+      "Information",
+      "Information Kiosk/Bulletin Board",
+      "Parking - Auto",
+      "Parking - Boat Trailer",
+      "Parking - Bus/RV",
+      "Restroom",
+      "Restroom - Accessible",
+      "Scenic View/Photo Spot",
+      "Toilet - Vault/Composting"
+    ],
+    "managedByOrg": "",
+    "quickFacts": [
+      {
+        "id": "5C252B96-2DEB-4EF4-91D1-B5D2B202FCD7",
+        "value": "Hunters Boat Launch is 45 miles (72.4km) north of Davenport on Washington State Highway 25.",
+        "name": "Location"
+      }
+    ],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  },
+  {
+    "id": "F915A458-FEF6-4E5E-AA47-77EBDE96553B",
+    "url": "https://www.nps.gov/places/hunters-day-use-area.htm",
+    "title": "Hunters Day Use Area",
+    "listingDescription": "Hunters Day Use area is a water access point on Lake Roosevelt with picnic tables, grills, potable water in the summer season, accessible walkways, picnic shelters, and restrooms.",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/CAD097E9-D50B-0312-79C3B11E6EB37A08.jpg",
+        "credit": "NPS",
+        "altText": "A picnic shelter with tables and grills stands in a sparsely treed area near the lakeshore.",
+        "title": "Hunters Day Use Area",
+        "description": "",
+        "caption": "Have a picnic in the shade at Hunters Day Use.",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/CAD097E9-D50B-0312-79C3B11E6EB37A08.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/CAD097E9-D50B-0312-79C3B11E6EB37A08.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "WA",
+        "parkCode": "laro",
+        "designation": "National Recreation Area",
+        "fullName": "Lake Roosevelt National Recreation Area",
+        "url": "https://www.nps.gov/laro/index.htm",
+        "name": "Lake Roosevelt"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [
+      "picnic tables",
+      "Accessible",
+      "potable water",
+      "grills",
+      "picnic shelter",
+      "gazebo",
+      "Water Access",
+      "day use area",
+      "restroom",
+      "Vault toilet",
+      "parking"
+    ],
+    "latitude": "48.1255472976",
+    "longitude": "-118.231331985",
+    "latLong": "48.1255472976,-118.231331985",
+    "bodyText": "Hunters Day Use area is a water access point on the shore of Lake Roosevelt with a large grassy area, picnic tables, grills, restrooms, picnic shelters, and potable water during the summer season.",
+    "audioDescription": "",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "65dc2fb7-411d-4fa9-bd10-79632e97b65a",
+    "isManagedByNps": "1",
+    "amenities": [
+      "Accessible Sites",
+      "Beach/Water Access",
+      "Grill",
+      "Parking - Auto",
+      "Parking - Boat Trailer",
+      "Parking - Bus/RV",
+      "Pets Allowed",
+      "Picnic Shelter/Pavilion",
+      "Picnic Table",
+      "Restroom",
+      "Restroom - Accessible",
+      "Restroom - Seasonal",
+      "Scenic View/Photo Spot",
+      "Toilet - Flush",
+      "Toilet - Vault/Composting",
+      "Water - Drinking/Potable",
+      "Wheelchair Accessible"
+    ],
+    "managedByOrg": "",
+    "quickFacts": [
+      {
+        "id": "5C252B96-2DEB-4EF4-91D1-B5D2B202FCD7",
+        "value": "From Fort Spokane, turn left onto WA 25 North. Follow this for 20 miles north to the town of Hunters. In town, turn left at the Hunters Campground sign. Follow this road for about 2 miles and watch for the day use area signs.",
+        "name": "Location"
+      }
+    ],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  },
+  {
+    "id": "46DBFEC6-4369-41AD-831C-7F7C0655AA9C",
+    "url": "https://www.nps.gov/places/jones-bay-boat-launch.htm",
+    "title": "Jones Bay Boat Launch",
+    "listingDescription": "Jones Bay Boat Launch is a water access point on Lake Roosevelt with a paved boat ramp, docks, information kiosk, parking area, and vault toilets.",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/94857954-A704-5397-8DD9C840FEE15181.jpg",
+        "credit": "NPS",
+        "altText": "The dirt road and parking area at the paved boat launch, dock in view.",
+        "title": "Jones Bay Boat Launch",
+        "description": "",
+        "caption": "The information kiosk is adjacent to the boat launch.",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/94857954-A704-5397-8DD9C840FEE15181.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/94857954-A704-5397-8DD9C840FEE15181.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "WA",
+        "parkCode": "laro",
+        "designation": "National Recreation Area",
+        "fullName": "Lake Roosevelt National Recreation Area",
+        "url": "https://www.nps.gov/laro/index.htm",
+        "name": "Lake Roosevelt"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [
+      "boating",
+      "fishing",
+      "boat ramp",
+      "boat launch",
+      "dock",
+      "parking",
+      "parking area",
+      "Vault toilet",
+      "restroom",
+      "scenic area",
+      "information",
+      "information kiosk"
+    ],
+    "latitude": "47.920608454",
+    "longitude": "-118.582221135",
+    "latLong": "47.920608454,-118.582221135",
+    "bodyText": "Jones Bay Boat Launch is a water access point on Lake Roosevelt that has a paved boat ramp, docks, parking area, information kiosk, and vault toilets. The boat launch is accessed through the Jones Bay Campground. Reservations are required to stay in the campground.",
+    "audioDescription": "",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "755446da-0e10-4633-acf3-5aa0a13c57cf",
+    "isManagedByNps": "1",
+    "amenities": [
+      "Aquatic Invasive Species Inspection",
+      "Beach/Water Access",
+      "Boat Ramp",
+      "Canoe/Kayak/Small Boat Launch",
+      "Dock/Pier",
+      "Information",
+      "Information Kiosk/Bulletin Board",
+      "Parking - Auto",
+      "Parking - Boat Trailer",
+      "Parking - Bus/RV",
+      "Restroom",
+      "Scenic View/Photo Spot",
+      "Toilet - Vault/Composting"
+    ],
+    "managedByOrg": "",
+    "quickFacts": [
+      {
+        "id": "5C252B96-2DEB-4EF4-91D1-B5D2B202FCD7",
+        "value": "Jones Bay Boat Launch is approximately 16.6 miles (26.7km) north of Wilbur via Sherman Road North and Hanson Harbor Road North. ",
+        "name": "Location"
+      }
+    ],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  },
+  {
+    "id": "F197B9C7-BC00-4396-A2CD-2292BB7B03AB",
+    "url": "https://www.nps.gov/places/keller-boat-launch.htm",
+    "title": "Keller Boat Launch",
+    "listingDescription": "Keller Boat Launch is a water access point on Lake Roosevelt with a paved boat ramp, large parking area, information kiosk, and vault toilets.",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/1496B87D-C18E-5D4C-0E7D9CF0F6300F32.jpg",
+        "credit": "NPS",
+        "altText": "A broad, paved boat ramp is easily accessible from the large parking lot.",
+        "title": "Keller Boat Launch",
+        "description": "",
+        "caption": "An information kiosk and large parking lot are adjacent to the boat ramp.",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/1496B87D-C18E-5D4C-0E7D9CF0F6300F32.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/1496B87D-C18E-5D4C-0E7D9CF0F6300F32.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "WA",
+        "parkCode": "laro",
+        "designation": "National Recreation Area",
+        "fullName": "Lake Roosevelt National Recreation Area",
+        "url": "https://www.nps.gov/laro/index.htm",
+        "name": "Lake Roosevelt"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [
+      "boating",
+      "fishing",
+      "boat launch",
+      "boat ramp",
+      "dock",
+      "Marina",
+      "information",
+      "information kiosk",
+      "Vault toilet",
+      "scenic area",
+      "parking",
+      "parking area"
+    ],
+    "latitude": "47.92744",
+    "longitude": "-118.6925",
+    "latLong": "47.92744,-118.6925",
+    "bodyText": "Keller Boat Launch is a water access point on Lake Roosevelt with a paved boat ramp, docks, large parking area, information kiosk, and vault toilets. The adjacent marina and campground are operated by <a href=\"http://lakerooseveltadventures.com/\">Lake Roosevelt Adventures</a>. <br /> <br /> Minimum lake elevation for boat launch is 1229'.",
+    "audioDescription": "",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "",
+    "isManagedByNps": "1",
+    "amenities": [
+      "Aquatic Invasive Species Inspection",
+      "Beach/Water Access",
+      "Boat Ramp",
+      "Canoe/Kayak/Small Boat Launch",
+      "Dock/Pier",
+      "Information",
+      "Information Kiosk/Bulletin Board",
+      "Parking - Auto",
+      "Parking - Boat Trailer",
+      "Parking - Bus/RV",
+      "Restroom",
+      "Restroom - Accessible",
+      "Scenic View/Photo Spot",
+      "Toilet - Vault/Composting"
+    ],
+    "managedByOrg": "",
+    "quickFacts": [
+      {
+        "id": "5C252B96-2DEB-4EF4-91D1-B5D2B202FCD7",
+        "value": "Keller Boat Launch is approximately 15 miles (24km) north of Wilbur on Washington State Highway 21.",
+        "name": "Location"
+      }
+    ],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  },
+  {
+    "id": "FF37695E-CEDA-4256-97C9-A8CF826BFB3E",
+    "url": "https://www.nps.gov/places/keller-ferry-day-use-area.htm",
+    "title": "Keller Ferry Day Use Area",
+    "listingDescription": "Keller Ferry Day Use Area is a water access point on Lake Roosevelt with a large grassy area and plenty of large trees for shade. The day use area is adjacent to Keller Ferry Campground (made by reservation only through lakerooseveltadventure.com). Keller Ferry Day Use Area includes restrooms, a shaded pergola, and is walking distance to the Keller Ferry Boat Launch.",
+    "images": [
+      {
+        "url": "",
+        "credit": "",
+        "altText": "",
+        "title": "",
+        "description": "",
+        "caption": "",
+        "crops": []
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "WA",
+        "parkCode": "laro",
+        "designation": "National Recreation Area",
+        "fullName": "Lake Roosevelt National Recreation Area",
+        "url": "https://www.nps.gov/laro/index.htm",
+        "name": "Lake Roosevelt"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [
+      "Water Access",
+      "parking",
+      "restroom",
+      "flush toilet",
+      "picnic tables",
+      "picnic shelter",
+      "gazebo"
+    ],
+    "latitude": "47.928448439990014",
+    "longitude": "-118.69444549072796",
+    "latLong": "47.928448439990014,-118.69444549072796",
+    "bodyText": "Keller Ferry Day Use Area is a water access point on Lake Roosevelt with a large grassy area and plenty of large trees for shade. The day use area is adjacent to Keller Ferry Campground (made by reservation only through lakerooseveltadventure.com). Keller Ferry Day Use Area includes restrooms, a shaded pergola, and is walking distance to the Keller Ferry Boat Launch.",
+    "audioDescription": "",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "https://lakerooseveltadventures.com/",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "",
+    "isManagedByNps": "0",
+    "amenities": [
+      "Accessible Sites",
+      "Beach/Water Access",
+      "Grill",
+      "Information",
+      "Parking - Auto",
+      "Pets Allowed",
+      "Picnic Shelter/Pavilion",
+      "Picnic Table",
+      "Restroom",
+      "Restroom - Accessible",
+      "Restroom - Seasonal",
+      "Scenic View/Photo Spot",
+      "Toilet - Flush",
+      "Water - Drinking/Potable"
+    ],
+    "managedByOrg": "Lake Roosevelt Adventures",
+    "quickFacts": [
+      {
+        "id": "5C252B96-2DEB-4EF4-91D1-B5D2B202FCD7",
+        "value": "From the town of Wilbur, head west on US-2. Turn right onto WA-21 N; turn right to stay on WA-21 N. After 13.5 miles, turn left at the \"Lake Roosevelt National Recreation Area Keller Ferry\" sign. Turn right at the T-intersection. The campground will be on your right, the day use area on your left.",
+        "name": "Location"
+      }
+    ],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  },
+  {
+    "id": "74E46DA0-8354-4E51-BBFF-849C96977684",
+    "url": "https://www.nps.gov/places/kettle-falls-boat-launch.htm",
+    "title": "Kettle Falls Boat Launch",
+    "listingDescription": "Kettle Falls Boat Launch is a water access point on Lake Roosevelt with a paved ramp, docks, information kiosk, and vault toilet.",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/9575BF3E-DC71-7A22-A9A37ACFB3E16E46.jpg",
+        "credit": "",
+        "altText": "A paved boat launch with two docks is accessible from the parking area.",
+        "title": "Kettle Falls Boat Launch",
+        "description": "",
+        "caption": "The boat launch with docks is directly adjacent to the marina.",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/9575BF3E-DC71-7A22-A9A37ACFB3E16E46.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/9575BF3E-DC71-7A22-A9A37ACFB3E16E46.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "WA",
+        "parkCode": "laro",
+        "designation": "National Recreation Area",
+        "fullName": "Lake Roosevelt National Recreation Area",
+        "url": "https://www.nps.gov/laro/index.htm",
+        "name": "Lake Roosevelt"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [
+      "fishing",
+      "boating",
+      "boat launch",
+      "boat ramp",
+      "Marina",
+      "Vault toilet",
+      "restroom",
+      "information kiosk",
+      "parking area",
+      "parking"
+    ],
+    "latitude": "48.599330886",
+    "longitude": "-118.122725814",
+    "latLong": "48.599330886,-118.122725814",
+    "bodyText": "Kettle Falls Boat Launch is a water access point on Lake Roosevelt with a paved boat ramp, docks, information kiosk, and a vault toilet. Kettle Falls Marina is directly adjacent and is operated by <a href=\"http://www.lakeroosevelt.com/\">Lake Roosevelt Vacations Inc (LRVI)</a>. Kettle Falls Campground, across the road, requires a reservation for camping.<br /> <br /> Minimum lake elevation for boat launch use is 1243'.",
+    "audioDescription": "",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "b8d83932-2d94-4195-9f2b-2dc830a0fb85",
+    "isManagedByNps": "1",
+    "amenities": [
+      "Aquatic Invasive Species Inspection",
+      "Beach/Water Access",
+      "Boat Ramp",
+      "Canoe/Kayak/Small Boat Launch",
+      "Dock/Pier",
+      "Fish-Cleaning Station",
+      "Information",
+      "Information Kiosk/Bulletin Board",
+      "Parking - Auto",
+      "Parking - Boat Trailer",
+      "Parking - Bus/RV",
+      "Restroom",
+      "Restroom - Accessible",
+      "Scenic View/Photo Spot",
+      "Toilet - Vault/Composting",
+      "Wheelchair Accessible"
+    ],
+    "managedByOrg": "",
+    "quickFacts": [
+      {
+        "id": "5C252B96-2DEB-4EF4-91D1-B5D2B202FCD7",
+        "value": "At Kettle Falls on Washington State Highway 25, turn on Old Kettle Rd and continue 2.7 miles (4.3km) to Boise Cascade Rd, turn left, continue to Williams St and watch for the boat launch straight ahead.  ",
+        "name": "Location"
+      }
+    ],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  },
+  {
+    "id": "4C20F74E-B93F-404C-8456-EC08DFEF7F1F",
+    "url": "https://www.nps.gov/places/kettle-falls-day-use-area.htm",
+    "title": "Kettle Falls Day Use Area",
+    "listingDescription": "Kettle Falls day use area is south of the campground and marina on Kettle Park Road. There are flush and vault toilets, picnic shelters, grills, a playground, cold showers, and potable water.",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/3057C94D-A536-3D50-08E380B9B5BEBE1B.jpg",
+        "credit": "NPS",
+        "altText": "A winter view of picnic tables, gazebo, grassy lawn, and trees.",
+        "title": "Kettle Falls Day Use Area",
+        "description": "",
+        "caption": "Enjoy a day on the lakeshore year round.",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/3057C94D-A536-3D50-08E380B9B5BEBE1B.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/3057C94D-A536-3D50-08E380B9B5BEBE1B.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "WA",
+        "parkCode": "laro",
+        "designation": "National Recreation Area",
+        "fullName": "Lake Roosevelt National Recreation Area",
+        "url": "https://www.nps.gov/laro/index.htm",
+        "name": "Lake Roosevelt"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [
+      "picnic area",
+      "day use",
+      "day use area",
+      "picnic shelter",
+      "Vault toilet",
+      "restroom",
+      "flush toilet",
+      "Accessible",
+      "Water Access",
+      "playground",
+      "grill",
+      "potable water",
+      "drinking water",
+      "picnic table"
+    ],
+    "latitude": "48.58656573697331",
+    "longitude": "-118.11375992823459",
+    "latLong": "48.58656573697331,-118.11375992823459",
+    "bodyText": "Kettle Falls day use area is south of the marina and campground along Kettle Park Road. The facility has a grassy area with a playground and three picnic shelters, as well as grills, and flush and vault toilets. Potable water is available.",
+    "audioDescription": "",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "",
+    "isManagedByNps": "1",
+    "amenities": [
+      "Beach/Water Access",
+      "Benches/Seating",
+      "Cellular Signal",
+      "Grill",
+      "Information",
+      "Parking - Auto",
+      "Picnic Shelter/Pavilion",
+      "Picnic Table",
+      "Playground",
+      "Restroom",
+      "Restroom - Accessible",
+      "Scenic View/Photo Spot",
+      "Showers",
+      "Toilet - Vault/Composting",
+      "Trailhead",
+      "Trash/Litter Receptacles",
+      "Water - Drinking/Potable",
+      "Wheelchair Accessible"
+    ],
+    "managedByOrg": "",
+    "quickFacts": [],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  },
+  {
+    "id": "C41DA8FC-8820-48CD-A137-B490DB9EAAB3",
+    "url": "https://www.nps.gov/places/lincoln-mill-boat-launch.htm",
+    "title": "Lincoln Mill Boat Launch",
+    "listingDescription": "Lincoln Mill is a water access point on the shore of Lake Roosevelt has a paved boat launch, dock, information kiosk, picnic area, and vault toilets.",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/9C87AD53-A102-93E4-5AD29F0C38B7143C.jpg",
+        "credit": "NPS",
+        "altText": "A paved boat launch with a floating dock.",
+        "title": "Lincoln Mill Boat Launch",
+        "description": "",
+        "caption": "The paved boat launch is accessible from the parking lot. A floating dock is on the right.",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/9C87AD53-A102-93E4-5AD29F0C38B7143C.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/9C87AD53-A102-93E4-5AD29F0C38B7143C.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "WA",
+        "parkCode": "laro",
+        "designation": "National Recreation Area",
+        "fullName": "Lake Roosevelt National Recreation Area",
+        "url": "https://www.nps.gov/laro/index.htm",
+        "name": "Lake Roosevelt"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [
+      "boat launch",
+      "boat ramp",
+      "boating",
+      "Vault toilet",
+      "restroom",
+      "information kiosk",
+      "dock",
+      "boat dock",
+      "information",
+      "parking",
+      "parking area"
+    ],
+    "latitude": "47.83667749870496",
+    "longitude": "-118.44045929964634",
+    "latLong": "47.83667749870496,-118.44045929964634",
+    "bodyText": "Lincoln Mill is a water access point on the shore of Lake Roosevelt. There is a paved boat launch, a boat dock, information kiosk, a picnic area, and vault toilets.<br /> <br /> The minimum lake elevation for boat launch is 1245'.",
+    "audioDescription": "When facing the information kiosk, directly in front of you is a 30-foot-tall isolated rocky hill covered in patchy grasses and shrubs. A concrete pathway extends 20 feet to your left to a restroom with a pit toilet. Beyond the restroom, an 80-foot-wide paved entrance road enters the site. Behind the road is a low gravel hill with low bushes. Rising above this hill are cliffs of dark rock several hundred feet high with thick clumps of pine trees on the lower slopes. Behind you, the paved parking area continues for 300 feet. The edge of the parking area and the shoreline of the lake stretches all along your right-hand side, approximately 150 feet away. Halfway across the lakeside edge of the parking area are two low signs with information on the history and geology of the area. The terrain on the opposite side of the lake varies. Almost directly behind you and stretching to your direct right, the opposite shore of lake to the northeast is several miles away and contains mountainous terrain with scattered forest. From your direct right to your slight right, the opposite shore to the north is .75 miles away and bare, with low sandy hills. The boat launch is 80 feet to your right. The ramp is 60 feet wide, concrete and extends to the waterline. In the middle of the ramp is a 100-foot-long floating metal dock. 30 feet to your right is a sign with three upright panels on boating safety.",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "",
+    "isManagedByNps": "1",
+    "amenities": [
+      "Aquatic Invasive Species Inspection",
+      "Boat Ramp",
+      "Canoe/Kayak/Small Boat Launch",
+      "Dock/Pier",
+      "Information",
+      "Information Kiosk/Bulletin Board",
+      "Parking - Auto",
+      "Parking - Boat Trailer",
+      "Parking - Bus/RV",
+      "Picnic Table",
+      "Restroom",
+      "Scenic View/Photo Spot",
+      "Toilet - Vault/Composting"
+    ],
+    "managedByOrg": "",
+    "quickFacts": [
+      {
+        "id": "5C252B96-2DEB-4EF4-91D1-B5D2B202FCD7",
+        "value": "From WA State Rte 2, 18.3 miles east of Davenport, turn north on Miles Creston Road for 3.1 miles, then left on Welsh Creek Road for 4.1 miles, to and then onto Redwine Canyon Road for 4.4 miles, staying right at a junction. ",
+        "name": "Location"
+      }
+    ],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  },
+  {
+    "id": "68B211C8-B7A6-4807-BAC6-6FCB343770E0",
+    "url": "https://www.nps.gov/places/marcus-island-boat-launch.htm",
+    "title": "Marcus Island Boat Launch",
+    "listingDescription": "Marcus Island Boat Launch is a water access point on Lake Roosevelt with a paved boat ramp, dock, information kiosk, parking area, and vault toilet.",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/63503224-C281-7F4D-495656766C2FB3C6.jpg",
+        "credit": "NPS",
+        "altText": "The boat paved boat launch at Marcus Island with a view of the small inlet and island beyond.",
+        "title": "Marcus Island Boat Launch",
+        "description": "",
+        "caption": "The scenic view at the Marcus Island Boat Launch.",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/63503224-C281-7F4D-495656766C2FB3C6.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/63503224-C281-7F4D-495656766C2FB3C6.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "WA",
+        "parkCode": "laro",
+        "designation": "National Recreation Area",
+        "fullName": "Lake Roosevelt National Recreation Area",
+        "url": "https://www.nps.gov/laro/index.htm",
+        "name": "Lake Roosevelt"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [
+      "boating",
+      "fishing",
+      "parking area",
+      "parking",
+      "scenic area",
+      "boat ramp",
+      "boat launch",
+      "dock",
+      "information kiosk",
+      "Vault toilet",
+      "restroom"
+    ],
+    "latitude": "48.666276591",
+    "longitude": "-118.065091283",
+    "latLong": "48.666276591,-118.065091283",
+    "bodyText": "The Marcus Island Boat Launch is a water access point on Lake Roosevelt with a paved ramp, dock, parking area, information kiosk, and vault toilet.<br /> <br /> Minimum lake elevation for launch is 1281'.",
+    "audioDescription": "",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "97517152-5037-43df-9984-0ac2c9e471d8",
+    "isManagedByNps": "1",
+    "amenities": [
+      "Aquatic Invasive Species Inspection",
+      "Beach/Water Access",
+      "Boat Ramp",
+      "Canoe/Kayak/Small Boat Launch",
+      "Dock/Pier",
+      "Information",
+      "Information Kiosk/Bulletin Board",
+      "Parking - Auto",
+      "Parking - Boat Trailer",
+      "Parking - Bus/RV",
+      "Restroom",
+      "Restroom - Accessible",
+      "Toilet - Vault/Composting"
+    ],
+    "managedByOrg": "",
+    "quickFacts": [],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  },
+  {
+    "id": "44D94566-C20C-47DA-A0DB-EB723110D00B",
+    "url": "https://www.nps.gov/places/marcus-island-day-use-area.htm",
+    "title": "Marcus Island Day Use Area",
+    "listingDescription": "Adjacent to Marcus Island boat launch is a small day use area with water access, picnic tables, and accessible vault toilets.",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/133D3ABE-FED2-0C00-D996734EF3E442E0.jpg",
+        "credit": "NPS",
+        "altText": "Looking out to the lake from a grassy shoreline across a marshy area.",
+        "title": "Marcus day use",
+        "description": "",
+        "caption": "View of the lake from the day use area.",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/133D3ABE-FED2-0C00-D996734EF3E442E0.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/133D3ABE-FED2-0C00-D996734EF3E442E0.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "WA",
+        "parkCode": "laro",
+        "designation": "National Recreation Area",
+        "fullName": "Lake Roosevelt National Recreation Area",
+        "url": "https://www.nps.gov/laro/index.htm",
+        "name": "Lake Roosevelt"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [
+      "day use",
+      "day use area",
+      "picnic area",
+      "picnic",
+      "Water Access",
+      "Beach Access",
+      "beach",
+      "Vault toilet",
+      "restroom",
+      "information kiosk",
+      "parking",
+      "parking area",
+      "rv parking"
+    ],
+    "latitude": "48.666147606071874",
+    "longitude": "-118.0645591838766",
+    "latLong": "48.666147606071874,-118.0645591838766",
+    "bodyText": "A small day use area adjacent to the Marcus Island boat launch. There is water access and a small sandy beach, picnic tables, and vault toilets.",
+    "audioDescription": "",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "",
+    "isManagedByNps": "1",
+    "amenities": [
+      "Beach/Water Access",
+      "Benches/Seating",
+      "Information Kiosk/Bulletin Board",
+      "Parking - Auto",
+      "Parking - Boat Trailer",
+      "Parking - Bus/RV",
+      "Picnic Table",
+      "Restroom",
+      "Restroom - Accessible",
+      "Scenic View/Photo Spot",
+      "Toilet - Vault/Composting",
+      "Trash/Litter Receptacles"
+    ],
+    "managedByOrg": "",
+    "quickFacts": [
+      {
+        "id": "5C252B96-2DEB-4EF4-91D1-B5D2B202FCD7",
+        "value": "Marcus Island is located off of WA 25 on the northern end of the town of Marcus. From Kettle Falls, drive north on US 395 and turn right onto WA 25 North. Follow WA 25 North for approximately 5.6 miles. Turn left at the Marcus Island Campground sign.",
+        "name": "Location"
+      }
+    ],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  },
+  {
+    "id": "5FA63DBC-FABA-43CA-A06A-EE06D6CAA340",
+    "url": "https://www.nps.gov/places/mission-point.htm",
+    "title": "Mission Point",
+    "listingDescription": "Mission Point is a bluff overlooking the old Kettle Falls and has seen over 9,000 years of human presence. St. Paul's Mission, established in 1845 by Father de Smet and two assistants, Father Ravalli and Father Hoesken, was to serve the Colville and other nearby tribes that assembled annually at Kettle Falls to harvest salmon. Explore St. Paul's Mission, take a short, self-guided walk, and overlook the site where Kettle Falls is submerged.",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/C809AF0B-CE8F-EE96-3EA67C3F1280A85B.jpg",
+        "credit": "NPS",
+        "altText": "The back side of St. Paul's Mission through the pine trees.",
+        "title": "St. Paul's Mission at Mission Point",
+        "description": "",
+        "caption": "St. Paul's Mission, Indian Mission originally built in 1847; Rebuilt in 1939.",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/C809AF0B-CE8F-EE96-3EA67C3F1280A85B.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/C809AF0B-CE8F-EE96-3EA67C3F1280A85B.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "WA",
+        "parkCode": "laro",
+        "designation": "National Recreation Area",
+        "fullName": "Lake Roosevelt National Recreation Area",
+        "url": "https://www.nps.gov/laro/index.htm",
+        "name": "Lake Roosevelt"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [
+      "jesuit mission",
+      "Lake Roosevelt National Recreation Area",
+      "Mission Point",
+      "Kettle Falls",
+      "Hudson Bay Company",
+      "Fort Colvile",
+      "Hiking Trail",
+      "interpretive trail",
+      "Self-guided",
+      "Cell Phone Tour",
+      "Lake Roosevelt",
+      "Lake Roosevelt NRA"
+    ],
+    "latitude": "48.628663",
+    "longitude": "-118.106401",
+    "latLong": "48.628663,-118.106401",
+    "bodyText": "<p>On a bluff overlooking the former Kettle Falls, Mission Point is one of the richest and concentrated points of history in the Pacific Northwest with over 9,000 years of continuous human presence. <a href=\"https://www.nps.gov/laro/learn/historyculture/stpauls-mission.htm\">St. Paul’s Mission</a>, an Indian Jesuit Mission orginally built in 1847 and reconstructed in 1939, stands watch. The point also contains several points including native culture and Fort Colvile, a Hudson's Bay fur trading post.<br /> <br /> Mission Point is open to the public year round. St. Paul's Mission is open and self-guided however it is NOT wheelchair accessible. Take a hike and the ponderosa pine forest on a <a href=\"https://cms.nps.gov/thingstodo/mission-point-trail.htm\">short, self-guided hike</a> out to the point.<br /> <br /> A cell phone ranger audio tour is available and provides information about each point of interest.<br /> <br /> Stop by the Kettle Falls Information Center to see historic pictures and exhibts.</p> <h2>History of St. Paul's Mission</h2> <p><br /> In early November of 1838, two Catholic priests, Father François Norbert Blanchet and Father Modeste Demers were enroute from Montreal to Fort Vancouver when they stopped at Fort Colvile, a fur trading post on the Upper Columbia River near Kettle Falls. Throughout the region, the fur traders promoted their coming to the Native Americans. Representatives from five tribes came. For three days, the priests along with translators conducted religious services, including daily mass and 19 baptisms. Their activities marked the first Catholic presence in the region between the Cascade and Rocky Mountains. As they left the trading post, the priests promised the fur traders and natives that someone would return to establish a mission for the Upper Columbia River.</p>   <p>In 1847, Father Peter de Vos began his year-long residency at St. Paul’s. With assistance from fur traders at Fort Colvile, he began construction of a larger, substantial chapel to function both as a residence and a mission. Several cedar logs were chiseled and handhewn into beams for the frame. Instead of nails, pegs were used to keep the beams in place. White mud was chinked into the walls to prevent drafts. The building also featured glass windows. Two wood-burning stoves were installed to provide heat during the cold winter. By the end of the year, building of the mission was complete.<br /> <br /> Learn more about the <a href=\"https://www.nps.gov/laro/learn/historyculture/stpauls-mission.htm\">history of St. Paul’s Mission</a>.</p>",
+    "audioDescription": "St. Paul's Mission is located at the end of a dirt road that served as the portage road to transport boats around the Kettle Falls. The building sits on a bluff surrounded by pine trees and is a rough hewn log building with no furniture inside. Outside, to the left facing the building, is the beginning of the Mission Point interpretive trail. Follow the trail to learn about Kettle Falls, the Hudson Bay Company, Fort Colvile, and the MacDonald family that operated the trading post there.",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "",
+    "isManagedByNps": "1",
+    "amenities": [
+      "Cellular Signal",
+      "Historical/Interpretive Information/Exhibits",
+      "Parking - Auto",
+      "Pets Allowed",
+      "Trailhead"
+    ],
+    "managedByOrg": "",
+    "quickFacts": [
+      {
+        "id": "5C252B96-2DEB-4EF4-91D1-B5D2B202FCD7",
+        "value": "From Kettle Falls, WA, travel north on US HWY 395 for approximately 3 miles. Turn right onto St. Paul’s Mission Road. Drive past the Kettle Falls Historical Center and onto a dirt road. This road goes for ¼ mile until it reaches a dead end at the parking lot.",
+        "name": "Location"
+      }
+    ],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  },
+  {
+    "id": "1B689A51-6053-4A84-BF3B-F03F60C7C03A",
+    "url": "https://www.nps.gov/places/napoleon-bridge-boat-launch.htm",
+    "title": "Napoleon Bridge Boat Launch",
+    "listingDescription": "Napoleon Bridge Boat Launch is a water access point on Lake Roosevelt with a paved boat launch, parking area, information kiosk, and vault toilet.",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/5480B2AC-E048-50C0-22CD480DCD05871D.jpg",
+        "credit": "NPS",
+        "altText": "A view of the paved boat launch and information kiosk at Napoleon Bridge.",
+        "title": "Napoleon Bridge Boat Launch",
+        "description": "",
+        "caption": "The paved boat launch and information kiosk with the lake beyond.",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/5480B2AC-E048-50C0-22CD480DCD05871D.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/5480B2AC-E048-50C0-22CD480DCD05871D.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "WA",
+        "parkCode": "laro",
+        "designation": "National Recreation Area",
+        "fullName": "Lake Roosevelt National Recreation Area",
+        "url": "https://www.nps.gov/laro/index.htm",
+        "name": "Lake Roosevelt"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [
+      "boat launch",
+      "boating",
+      "fishing",
+      "parking",
+      "parking area",
+      "restroom",
+      "Vault toilet",
+      "information kiosk",
+      "scenic area",
+      "Water Access"
+    ],
+    "latitude": "48.7346474998",
+    "longitude": "-118.1163574",
+    "latLong": "48.7346474998,-118.1163574",
+    "bodyText": "Napoleon Bridge Boat Launch is a water access point on Lake Roosevelt with a paved boat launch, information kiosk, parking area, and vault toilet.<br /> <br /> Minimum lake elevation for boat launch is 1280'.",
+    "audioDescription": "",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "c3c516e8-ef96-4181-b98c-0444598e99b1",
+    "isManagedByNps": "1",
+    "amenities": [
+      "Aquatic Invasive Species Inspection",
+      "Beach/Water Access",
+      "Boat Ramp",
+      "Canoe/Kayak/Small Boat Launch",
+      "Information",
+      "Information Kiosk/Bulletin Board",
+      "Parking - Auto",
+      "Parking - Boat Trailer",
+      "Parking - Bus/RV",
+      "Restroom",
+      "Scenic View/Photo Spot",
+      "Toilet - Vault/Composting"
+    ],
+    "managedByOrg": "",
+    "quickFacts": [],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  },
+  {
+    "id": "F3C14C8F-AB0A-4AF9-A008-81201EAFF10D",
+    "url": "https://www.nps.gov/places/north-gorge-boat-launch.htm",
+    "title": "North Gorge Boat Launch",
+    "listingDescription": "North Gorge Boat Launch is a water access point on the north district of Lake Roosevelt. There is a paved boat launch, dock, information kiosk, and vault toilets.",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/5CFD581A-9C0B-FECA-1685D0AA563B1EDB.jpg",
+        "credit": "NPS",
+        "altText": "A view of the paved boat launch, dock, and paved access road.",
+        "title": "North Gorge Boat Launch",
+        "description": "",
+        "caption": "The boat launch and dock at North Gorge.",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/5CFD581A-9C0B-FECA-1685D0AA563B1EDB.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/5CFD581A-9C0B-FECA-1685D0AA563B1EDB.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "WA",
+        "parkCode": "laro",
+        "designation": "National Recreation Area",
+        "fullName": "Lake Roosevelt National Recreation Area",
+        "url": "https://www.nps.gov/laro/index.htm",
+        "name": "Lake Roosevelt"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [
+      "boat launch",
+      "boat ramp",
+      "boat dock",
+      "dock",
+      "restroom",
+      "Vault toilet",
+      "information kiosk"
+    ],
+    "latitude": "48.7867979787",
+    "longitude": "-118.001472328",
+    "latLong": "48.7867979787,-118.001472328",
+    "bodyText": "North Gorge Boat Launch is a water access point in the north district of Lake Roosevelt NRA. There is a paved access road and boat ramp, with a floating dock, information kiosk, and vault toilet. The adjacent North Gorge campground, reservation required, is open during the summer season.<br /> <br /> Minimum lake elevation for boat launch is 1265'.",
+    "audioDescription": "",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "da4abf1d-d0d8-425e-b366-9dfe76e0844b",
+    "isManagedByNps": "1",
+    "amenities": [
+      "Aquatic Invasive Species Inspection",
+      "Boat Ramp",
+      "Canoe/Kayak/Small Boat Launch",
+      "Dock/Pier",
+      "Information Kiosk/Bulletin Board",
+      "Parking - Auto",
+      "Parking - Boat Trailer",
+      "Parking - Bus/RV",
+      "Restroom",
+      "Toilet - Vault/Composting"
+    ],
+    "managedByOrg": "",
+    "quickFacts": [
+      {
+        "id": "5C252B96-2DEB-4EF4-91D1-B5D2B202FCD7",
+        "value": "North Gorge campground is approximately 17 miles (25km) north of Kettle Falls on Washington State Highway 25.",
+        "name": "Location"
+      }
+    ],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  },
+  {
+    "id": "49B53C8A-C3ED-400C-84E1-FACC067B9FCB",
+    "url": "https://www.nps.gov/places/porcupine-bay-boat-launch.htm",
+    "title": "Porcupine Bay Boat Launch",
+    "listingDescription": "Porcupine Bay Boat Launch is a water access point on Lake Roosevelt with a paved boat launch, docks, information kiosk, and vault toilets.",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/6053577D-0AFE-05F8-F91A8A9963D2578B.jpg",
+        "credit": "NPS",
+        "altText": "The paved launch at Porcupine bay has two docks and a beautiful view of the lake.",
+        "title": "Porcupine Bay Boat Launch",
+        "description": "",
+        "caption": "The paved boat ramp with ample parking nearby.",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/6053577D-0AFE-05F8-F91A8A9963D2578B.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/6053577D-0AFE-05F8-F91A8A9963D2578B.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "WA",
+        "parkCode": "laro",
+        "designation": "National Recreation Area",
+        "fullName": "Lake Roosevelt National Recreation Area",
+        "url": "https://www.nps.gov/laro/index.htm",
+        "name": "Lake Roosevelt"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [
+      "boating",
+      "fishing",
+      "boat launch",
+      "boat ramp",
+      "Vault toilet",
+      "restroom",
+      "Accessible",
+      "information kiosk",
+      "dock",
+      "scenic area",
+      "parking",
+      "parking area"
+    ],
+    "latitude": "47.897464911",
+    "longitude": "-118.175199779",
+    "latLong": "47.897464911,-118.175199779",
+    "bodyText": "Porcupine Bay Boat Launch is a water access point on Lake Roosevelt with a paved boat ramp, dock, large parking area, information kiosk, and vault toilet.<br /> <br /> Minimum elevation for boat launch is 1243'.<br /> <br /> Porcupine Bay Campground is directly adjacent.",
+    "audioDescription": "",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "3bd3b9cb-59f6-4498-8c85-dd7e4a224a7e",
+    "isManagedByNps": "1",
+    "amenities": [
+      "Aquatic Invasive Species Inspection",
+      "Beach/Water Access",
+      "Boat Ramp",
+      "Canoe/Kayak/Small Boat Launch",
+      "Dock/Pier",
+      "Information",
+      "Information Kiosk/Bulletin Board",
+      "Parking - Auto",
+      "Parking - Boat Trailer",
+      "Parking - Bus/RV",
+      "Restroom",
+      "Restroom - Accessible",
+      "Scenic View/Photo Spot",
+      "Toilet - Vault/Composting",
+      "Wheelchair Accessible"
+    ],
+    "managedByOrg": "",
+    "quickFacts": [],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  },
+  {
+    "id": "5B458B17-7ACD-4565-953A-E0627E9D57DB",
+    "url": "https://www.nps.gov/places/porcupine-bay-day-use-area.htm",
+    "title": "Porcupine Bay Day Use Area",
+    "listingDescription": "Porcupine Bay Day Use Area is a water access point on Lake Roosevelt with picnic tables, grills, a large grassy area, picnic shelters, accessible restrooms, and potable water during the summer season.",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/CB4987CE-F74D-EB33-6F61CC83CD608C64.jpg",
+        "credit": "NPS",
+        "altText": "Picnic tables stand in a grassy area among pine trees with people enjoying the lakeshore beyond.",
+        "title": "Porcupine Bay Day Use Area",
+        "description": "",
+        "caption": "Enjoy a summer day at Porcupine Bay Day Use.",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/CB4987CE-F74D-EB33-6F61CC83CD608C64.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/CB4987CE-F74D-EB33-6F61CC83CD608C64.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "WA",
+        "parkCode": "laro",
+        "designation": "National Recreation Area",
+        "fullName": "Lake Roosevelt National Recreation Area",
+        "url": "https://www.nps.gov/laro/index.htm",
+        "name": "Lake Roosevelt"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [
+      "Accessible",
+      "picnic tables",
+      "grill",
+      "picnic shelter",
+      "Water Access",
+      "potable water",
+      "restroom",
+      "Vault toilet",
+      "comfort station",
+      "parking"
+    ],
+    "latitude": "47.8945931616",
+    "longitude": "-118.175135367",
+    "latLong": "47.8945931616,-118.175135367",
+    "bodyText": "Porcupine Bay Day Use Area is a water access point on the shoreline of Lake Roosevelt. There is a large grassy area, picnic tables, grills, picnic shelters, vault toilets, and flush toilets and potable water during the summer season.",
+    "audioDescription": "",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "0d286d24-e33d-4dbc-94cc-9c4cfb352f0f",
+    "isManagedByNps": "1",
+    "amenities": [
+      "Accessible Sites",
+      "Beach/Water Access",
+      "Grill",
+      "Parking - Auto",
+      "Parking - Boat Trailer",
+      "Parking - Bus/RV",
+      "Pets Allowed",
+      "Restroom",
+      "Restroom - Accessible",
+      "Restroom - Seasonal",
+      "Toilet - Flush",
+      "Toilet - Vault/Composting",
+      "Water - Drinking/Potable",
+      "Wheelchair Accessible"
+    ],
+    "managedByOrg": "",
+    "quickFacts": [
+      {
+        "id": "5C252B96-2DEB-4EF4-91D1-B5D2B202FCD7",
+        "value": "From Davenport, take WA 25 north for 12 miles. Take a slight right onto Porcupine Bay Road. Follow this for 6.5 miles to Porcupine Bay Campground and look for the day use area on the left.",
+        "name": "Location"
+      }
+    ],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  },
+  {
+    "id": "1525E94D-D6B3-413D-B154-F2EF159F6A6C",
+    "url": "https://www.nps.gov/places/seven-bays-boat-launch.htm",
+    "title": "Seven Bays Boat Launch",
+    "listingDescription": "Seven Bays Boat Launch is a water access point on Lake Roosevelt with a paved boat ramp, docks, information kiosk, large parking area, and vault toilets.",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/1477120A-044B-A282-32804648CDF27A31.jpg",
+        "credit": "NPS",
+        "altText": "The paved boat launch has two floating docks adjacent to the marina.",
+        "title": "Seven Bays Boat Launch",
+        "description": "",
+        "caption": "The paved boat launch has two floating docks adjacent to the marina.",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/1477120A-044B-A282-32804648CDF27A31.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/1477120A-044B-A282-32804648CDF27A31.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "WA",
+        "parkCode": "laro",
+        "designation": "National Recreation Area",
+        "fullName": "Lake Roosevelt National Recreation Area",
+        "url": "https://www.nps.gov/laro/index.htm",
+        "name": "Lake Roosevelt"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [
+      "fishing",
+      "boating",
+      "boat launch",
+      "boat ramp",
+      "parking",
+      "parking area",
+      "dock",
+      "Vault toilet",
+      "restroom",
+      "information",
+      "information kiosk",
+      "scenic area"
+    ],
+    "latitude": "47.8538600132",
+    "longitude": "-118.340924018",
+    "latLong": "47.8538600132,-118.340924018",
+    "bodyText": "Seven Bays Boat Launch is a water access point on Lake Roosevelt with a paved boat ramp, docks, parking area, information kiosk, and vault toilet. The adjacent marina and restaurant are operated by <a href=\"http://lakerooseveltadventures.com/\">Lake Roosevelt Adventures</a>. <br /> <br /> Minimum lake elevation for boat launch is 1227'.",
+    "audioDescription": "",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "f7b02fe8-2473-4148-8aa3-f02215a946d7",
+    "isManagedByNps": "1",
+    "amenities": [
+      "Aquatic Invasive Species Inspection",
+      "Beach/Water Access",
+      "Boat Ramp",
+      "Canoe/Kayak/Small Boat Launch",
+      "Dock/Pier",
+      "Information",
+      "Information Kiosk/Bulletin Board",
+      "Parking - Auto",
+      "Parking - Boat Trailer",
+      "Parking - Bus/RV",
+      "Restroom",
+      "Restroom - Accessible",
+      "Scenic View/Photo Spot",
+      "Toilet - Vault/Composting"
+    ],
+    "managedByOrg": "",
+    "quickFacts": [
+      {
+        "id": "5C252B96-2DEB-4EF4-91D1-B5D2B202FCD7",
+        "value": "Follow Washington State Highway 25 north from Davenport for approximately 20 miles (32km). Turn left on Miles Creston Rd and travel 6 miles (9km), watch for the sign to Seven Bays. Turn right and follow the road as it winds down to the lakeshore, watching for signs to the marina. ",
+        "name": "Location"
+      }
+    ],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  },
+  {
+    "id": "8EA6412C-6135-4740-ADEA-B3EE0FD80E1F",
+    "url": "https://www.nps.gov/places/snag-cove-boat-launch.htm",
+    "title": "Snag Cove Boat Launch",
+    "listingDescription": "Snag Cove Boat Launch is a water access point on Lake Roosevelt with a paved boat ramp, dock, information kiosk, parking area, and vault toilet.",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/61D4BE88-A5E9-6294-B0DC27C7FD772C62.jpg",
+        "credit": "NPS",
+        "altText": "The paved boat launch and dock area at Snag Cove with the wooded shore beyond.",
+        "title": "Snag Cove Boat Launch",
+        "description": "",
+        "caption": "The boat launch has paved parking and easy access to the dock.",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/61D4BE88-A5E9-6294-B0DC27C7FD772C62.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/61D4BE88-A5E9-6294-B0DC27C7FD772C62.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "WA",
+        "parkCode": "laro",
+        "designation": "National Recreation Area",
+        "fullName": "Lake Roosevelt National Recreation Area",
+        "url": "https://www.nps.gov/laro/index.htm",
+        "name": "Lake Roosevelt"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [
+      "boating",
+      "fishing",
+      "boat ramp",
+      "boat launch",
+      "dock",
+      "Vault toilet",
+      "restroom",
+      "information kiosk",
+      "scenic area",
+      "parking",
+      "parking area"
+    ],
+    "latitude": "48.732989274",
+    "longitude": "-118.059172038",
+    "latLong": "48.732989274,-118.059172038",
+    "bodyText": "Snag Cove Boat Launch is a water access point on Lake Roosevelt with a paved boat ramp, dock, parking area, information kiosk, and vault toilet.<br /> <br /> Minimum lake elevation for launch is 1277'.<br /> <br /> Snag Cove Camground is directly adjacent. Reservations required.",
+    "audioDescription": "",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "3ff4092f-346c-4ce7-ad4a-10cda3ac09e1",
+    "isManagedByNps": "1",
+    "amenities": [
+      "Aquatic Invasive Species Inspection",
+      "Beach/Water Access",
+      "Boat Ramp",
+      "Canoe/Kayak/Small Boat Launch",
+      "Dock/Pier",
+      "Information",
+      "Information Kiosk/Bulletin Board",
+      "Parking - Auto",
+      "Parking - Boat Trailer",
+      "Parking - Bus/RV",
+      "Restroom",
+      "Restroom - Accessible",
+      "Scenic View/Photo Spot",
+      "Toilet - Vault/Composting"
+    ],
+    "managedByOrg": "",
+    "quickFacts": [],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  },
+  {
+    "id": "65B28DFC-7009-4A90-9784-CB16415C4135",
+    "url": "https://www.nps.gov/places/spring-canyon-boat-launch.htm",
+    "title": "Spring Canyon Boat Launch",
+    "listingDescription": "Spring Canyon Boat Launch has multiple paved parking areas, vault toilets, an information kiosk, and floating docks. A day use area with a swim beach is directly west of the launch area. A reservation-only campground is just uphill and to the west of the launch parking.",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/01029D0C-BAB9-D8A7-24F58ABB527199F0.jpg",
+        "credit": "NPS",
+        "altText": "A view of the paved boat ramp with adjacent docks. An arc of log booms and buoys are visible beyond.",
+        "title": "Spring Canyon Boat Launch",
+        "description": "",
+        "caption": "The boat launch is directly adjacent to the day use area and information kiosk.",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/01029D0C-BAB9-D8A7-24F58ABB527199F0.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/01029D0C-BAB9-D8A7-24F58ABB527199F0.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "WA",
+        "parkCode": "laro",
+        "designation": "National Recreation Area",
+        "fullName": "Lake Roosevelt National Recreation Area",
+        "url": "https://www.nps.gov/laro/index.htm",
+        "name": "Lake Roosevelt"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [
+      "boat launch",
+      "boat ramp",
+      "boating",
+      "dock",
+      "boat dock",
+      "Vault toilet",
+      "information kiosk",
+      "restroom",
+      "picnic area",
+      "day use area",
+      "swim beach",
+      "Water Access",
+      "rv parking"
+    ],
+    "latitude": "47.935113509",
+    "longitude": "-118.934956497",
+    "latLong": "47.935113509,-118.934956497",
+    "bodyText": "The Spring Canyon Boat Launch has a paved ramp with multiple docks for temporary mooring. There is an information kiosk adjacent to the ramp and a vault toilet across the main parking lot. An additional overflow parking area suitable for RV and larger trailers is nearby. A day use area with picnic tables and grills is west of the boat launch, with a swim beach access below. <br /> <br /> Minimum launch elevation is 1222'.<br /> <br /> Spring Canyon Campground, reservation required, is also accessible from this location.",
+    "audioDescription": "",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "2b6e4df4-478f-4a6d-a102-33932c0f13ec",
+    "isManagedByNps": "1",
+    "amenities": [
+      "Aquatic Invasive Species Inspection",
+      "Beach/Water Access",
+      "Boat Ramp",
+      "Canoe/Kayak/Small Boat Launch",
+      "Dock/Pier",
+      "Grill",
+      "Information Kiosk/Bulletin Board",
+      "Parking - Auto",
+      "Parking - Boat Trailer",
+      "Parking - Bus/RV",
+      "Picnic Table",
+      "Playground",
+      "Restroom",
+      "Scenic View/Photo Spot",
+      "Toilet - Vault/Composting",
+      "Wheelchair Accessible"
+    ],
+    "managedByOrg": "",
+    "quickFacts": [
+      {
+        "id": "5C252B96-2DEB-4EF4-91D1-B5D2B202FCD7",
+        "value": "Spring Canyon boat launch is approximately 4 miles east of Grand Coulee on Washington State Highway 174.",
+        "name": "Location"
+      }
+    ],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  },
+  {
+    "id": "7D5564F4-D567-4B40-B0DD-9270FCAE76F0",
+    "url": "https://www.nps.gov/places/spring-canyon-day-use-area.htm",
+    "title": "Spring Canyon Day Use Area",
+    "listingDescription": "Spring Canyon Day Use area is a water access point on the shore of Lake Roosevelt. There is a large grassy area, picnic tables, picnic shelters, grills, and potable water, cold showers, and flush toilets during the summer season. There is some accessible areas and one accessible picnic shelter.",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/CC2EE9CA-05A6-51F6-7926B4A5FFF1C43E.jpg",
+        "credit": "NPS",
+        "altText": "A large grassy area adjacent to the lakeshore has picnic tables, grills, and a large picnic shelter.",
+        "title": "Spring Canyon Day Use Area",
+        "description": "",
+        "caption": "Relax on the lakeshore and enjoy a picnic.",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/CC2EE9CA-05A6-51F6-7926B4A5FFF1C43E.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/CC2EE9CA-05A6-51F6-7926B4A5FFF1C43E.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "WA",
+        "parkCode": "laro",
+        "designation": "National Recreation Area",
+        "fullName": "Lake Roosevelt National Recreation Area",
+        "url": "https://www.nps.gov/laro/index.htm",
+        "name": "Lake Roosevelt"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [
+      "Water Access",
+      "picnic tables",
+      "grill",
+      "picnic shelter",
+      "potable water",
+      "Accessible",
+      "parking",
+      "cold showers",
+      "gazebo",
+      "restroom",
+      "flush toilet"
+    ],
+    "latitude": "47.935010448",
+    "longitude": "-118.937852243",
+    "latLong": "47.935010448,-118.937852243",
+    "bodyText": "Spring Canyon Day Use Area is a water access point on Lake Roosevelt with a large grassy area, picnic tables, grills, picnic shelters, accessible restrooms, and potable water, cold showers, and flush toilets during the summer season.",
+    "audioDescription": "",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "809ba241-6c0d-4502-ae94-f4b211f46013",
+    "isManagedByNps": "1",
+    "amenities": [
+      "Accessible Sites",
+      "Beach/Water Access",
+      "Grill",
+      "Information",
+      "Parking - Auto",
+      "Parking - Boat Trailer",
+      "Parking - Bus/RV",
+      "Pets Allowed",
+      "Picnic Shelter/Pavilion",
+      "Picnic Table",
+      "Restroom",
+      "Restroom - Accessible",
+      "Restroom - Seasonal",
+      "Scenic View/Photo Spot",
+      "Showers",
+      "Toilet - Flush",
+      "Water - Drinking/Potable",
+      "Wheelchair Accessible"
+    ],
+    "managedByOrg": "",
+    "quickFacts": [
+      {
+        "id": "5C252B96-2DEB-4EF4-91D1-B5D2B202FCD7",
+        "value": "From the town of Grand Coulee, take WA 174 east, toward Wilbur. Follow WA 174 approximately 2.3 miles and turn left at the Spring Canyon sign onto the Spring Canyon Campground road. Follow the road down the slope, past the campground, to the large parking areas adjacent to the day use area.",
+        "name": "Location"
+      }
+    ],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  }
+]

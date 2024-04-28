@@ -1,0 +1,20 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.8236619,
+          33.8296859
+        ]
+      },
+      "properties": {
+        "name": "Congaree NP Park Store",
+        "notes": "Congaree NP Park Store\nhttps://www.nps.gov/places/congaree-np-park-store.htm\n\nThe park store is operated by <a href=\"https://americasnationalparks.org/\">America's National Parks</a>, an official non-profit partner of the National Park Service dedicated to supporting the educational mission of Congaree National Park. The park store has a wide range of books, media, educational games, and other items available for retail sale. These products complement the interpretive themes you experience when visiting the park. The park store is located at the Harry Hampton Visitor Center, or you can visit the <a href=\"https://shop.americasnationalparks.org/store/home/5191/Congaree-National-Park/\">online park store</a>.",
+        "icon": "red-pin-down.png"
+      }
+    }
+  ]
+}

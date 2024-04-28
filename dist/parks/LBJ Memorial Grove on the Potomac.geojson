@@ -1,0 +1,20 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0533,
+          38.87844
+        ]
+      },
+      "properties": {
+        "name": "Lyndon Baines Johnson Memorial - Virginia entrance",
+        "notes": "Lyndon Baines Johnson Memorial - Virginia entrance\nhttps://www.nps.gov/places/000/lyndon-baines-johnson-memorial-virginia-entrance.htm\n\n<p>Use the footbridge to access the memorial. Public parking is adjacent.</p>",
+        "icon": "red-pin-down.png"
+      }
+    }
+  ]
+}

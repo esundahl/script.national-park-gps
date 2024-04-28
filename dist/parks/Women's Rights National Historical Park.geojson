@@ -1,0 +1,50 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.79972186867649,
+          42.91078347233103
+        ]
+      },
+      "properties": {
+        "name": "Wesleyan Chapel- Seneca Falls, NY",
+        "notes": "Wesleyan Chapel- Seneca Falls, NY\nhttps://www.nps.gov/places/wesleyanchapel_sfny.htm\n\n<p>The Wesleyan Chapel was built in 1843. On July 19 and 20, 1848, the First Women's Rights Convention was held here. Even though <a href=\"https://www.nps.gov/people/elizabeth-cady-stanton.htm\">Elizabeth Cady Stanton</a> was the only one of the five organizers to live in Seneca Falls, the Wesleyan Chapel was well known to them all. The church was a local haven for antislavery activity, political rallies, and free speech events.</p> <p>The original red brick Wesleyan Methodist Church was sold by the congregation in 1871 and extensively altered by subsequent owners. When the site was purchased by the National Park Service in 1985, very little original fabric remained. The site today offers a unique display of the highlighted historic fabric of the original building.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Women's Rights National Historical Park",
+        "notes": "Women's Rights National Historical Park\nhttps://www.nps.gov/places/crwomensrights.htm\n\n<p><span style=\"font-size: 11pt;\">Many people who actively supported women’s rights supported the abolition of slavery. Several participants in the 1848 First Women’s Rights Convection in Seneca Falls, New York had already labored in the antislavery movement. The organizers and their families, the Motts, Wrights, Stantons, M’Clintocks, and Hunts, were active abolitionists to a greater or lesser degree. Frederick Douglass, noted abolitionist and former slave, attended and addressed the 1848 convention.</span></p> <p>Arguments for women’s rights came from experiences in the antislavery movement. As reformers, women developed organizational skills necessary for a successful social movement. They learned townie persuasively, raise funds, organize supporters and events, and to speak to large groups of men and women about important social and political issues. In the service of antislavery, many women found their voice.</p> <p>At the 1848 First Women’s Rights Convention, the Declaration of Sentiments, drafted by Elizabeth Cady Stanton and Elizabeth and Mary M’Clintock, was read and signed by 100 men and women. Claiming that “all men and women are created equal,” the signers called for extending to women the right to vote, control property, sign legal documents, serve on juries, and enjoy equal access to education and the professions.</p> <p>Today at Women’s Rights National Historical Park, the connection between the organizers of the 1848 convention and anti-slavery movement is incorporated into interpretive programs. The M’Clinock House in nearby Waterloo, a site on the Underground Railroad, offers a unique opportunity to learn about the relationship between these two reform movements of the 19<sup>th</sup> century.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Women's Rights in Seneca Falls",
+        "notes": "Women's Rights in Seneca Falls\nhttps://www.nps.gov/places/womensrights.htm\n\n<p><span>The Women's Rights National Historical Park celebrates the origins and history of the American women's rights movement. In 19th-century Seneca County, New York, advocates for temperance, dress reform and abolitionism were very active. This atmosphere of reform and agitation in Seneca Falls and nearby Waterloo led several women to meet at the </span><a href=\"https://www.nps.gov/wori/learn/historyculture/hunt-house.htm\">Hunt House</a><span> in Waterloo on July 14, 1848, to discuss the inferior status of women. During the meeting, </span><a href=\"https://www.nps.gov/people/elizabeth-cady-stanton.htm\">Elizabeth Cady Stanton</a><span>, Lucretia Mott, Martha Wright, Jane Hunt and </span><a href=\"https://www.nps.gov/people/mary-ann-m-clintock.htm\">Mary Ann M'Clintock</a><span> decided to organize an open convention to discuss the position of women in American society. Three days later, the group reassembled to compose the now-famous 1848 </span><a href=\"https://www.nps.gov/articles/declaration-of-sentiments-the-first-women-s-rights-convention.htm\"><em>Declaration of Sentiments,</em></a><span> which mimicked Thomas Jefferson's Declaration of Independence by proclaiming \"all men </span><em>and</em><span> women are created equal\" instead of just \"all men are created equal.\" The convention was set just three days after the writing of the </span><em>Declaration of Sentiments,</em><span> but with such short notice, the women expected a poor response. Instead, over 300 men and women attended, filling the interior of </span><a href=\"https://www.nps.gov/places/wesleyanchapel_sfny.htm\">Wesleyan Chapel</a><span>, the convention center. On July 18, 1848, Lucretia Mott made the opening presentation. Then Elizabeth Cady Stanton gave the public reading of the </span><em>Declaration of Sentiments,</em><span> which formally began a struggle for equality that has continued to the present. Established by an act of Congress in 1980, the National Park Service's </span><a href=\"https://www.nps.gov/wori/index.htm\">Women's Rights National Historic Park</a><span> uses the setting of the first Women's Rights Convention in Wesleyan Chapel and the homes of important participants to tell the story of one of the most important movements in American history--the fight for women's equality.</span></p>",
+        "icon": "red-pin-down.png"
+      }
+    }
+  ]
+}

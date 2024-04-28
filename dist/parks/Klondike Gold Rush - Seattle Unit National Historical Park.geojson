@@ -1,0 +1,335 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.509568,
+          47.615392
+        ]
+      },
+      "properties": {
+        "name": "3- Japanese American Exclusion Memorial",
+        "notes": "3- Japanese American Exclusion Memorial\nhttps://www.nps.gov/places/000/3-japanese-american-exclusion-memorial.htm\n\n<p>Staffed seasonally</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.50967681407928,
+          47.615399570559696
+        ]
+      },
+      "properties": {
+        "name": "Japanese American Exclusion Memorial Audio Tour - Stop 1",
+        "notes": "Japanese American Exclusion Memorial Audio Tour - Stop 1\nhttps://www.nps.gov/places/japanese-american-exclusion-memorial-audio-tour-stop-1.htm\n\nStop 1, parking lot arrival.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.51026690006256,
+          47.61525130717282
+        ]
+      },
+      "properties": {
+        "name": "Japanese American Exclusion Memorial Audio Tour - Stop 10",
+        "notes": "Japanese American Exclusion Memorial Audio Tour - Stop 10\nhttps://www.nps.gov/places/japanese-american-exclusion-memorial-audio-tour-stop-10.htm\n\nStop 10, voices along the wall.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.51026153564453,
+          47.61534894408462
+        ]
+      },
+      "properties": {
+        "name": "Japanese American Exclusion Memorial Audio Tour - Stop 11",
+        "notes": "Japanese American Exclusion Memorial Audio Tour - Stop 11\nhttps://www.nps.gov/places/japanese-american-exclusion-memorial-audio-tour-stop-11.htm\n\nStop 11, voices along the wall.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.5102561712265,
+          47.615399570559696
+        ]
+      },
+      "properties": {
+        "name": "Japanese American Exclusion Memorial Audio Tour - Stop 12",
+        "notes": "Japanese American Exclusion Memorial Audio Tour - Stop 12\nhttps://www.nps.gov/places/japanese-american-exclusion-memorial-audio-tour-stop-12.htm\n\nStop 12, voices along the wall.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.5102561712265,
+          47.615468277840364
+        ]
+      },
+      "properties": {
+        "name": "Japanese American Exclusion Memorial Audio Tour - Stop 13",
+        "notes": "Japanese American Exclusion Memorial Audio Tour - Stop 13\nhttps://www.nps.gov/places/japanese-american-exclusion-memorial-audio-tour-stop-13.htm\n\nStop 13, voices along the wall.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.51026153564453,
+          47.615500823362815
+        ]
+      },
+      "properties": {
+        "name": "Japanese American Exclusion Memorial Audio Tour - Stop 14",
+        "notes": "Japanese American Exclusion Memorial Audio Tour - Stop 14\nhttps://www.nps.gov/places/japanese-american-exclusion-memorial-audio-tour-stop-14.htm\n\nStop 14, voices along the wall.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.51035273075104,
+          47.61564908604223
+        ]
+      },
+      "properties": {
+        "name": "Japanese American Exclusion Memorial Audio Tour - Stop 15",
+        "notes": "Japanese American Exclusion Memorial Audio Tour - Stop 15\nhttps://www.nps.gov/places/japanese-american-exclusion-memorial-audio-tour-stop-15.htm\n\nStop 15, departure deck.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.50990211963654,
+          47.615732257605146
+        ]
+      },
+      "properties": {
+        "name": "Japanese American Exclusion Memorial Audio Tour - Stop 16",
+        "notes": "Japanese American Exclusion Memorial Audio Tour - Stop 16\nhttps://www.nps.gov/places/japanese-american-exclusion-memorial-audio-tour-stop-16.htm\n\nStop 16, thank you to our partners.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.50985383987427,
+          47.61529831756052
+        ]
+      },
+      "properties": {
+        "name": "Japanese American Exclusion Memorial Audio Tour - Stop 2",
+        "notes": "Japanese American Exclusion Memorial Audio Tour - Stop 2\nhttps://www.nps.gov/places/japanese-american-exclusion-memorial-audio-tour-stop-2.htm\n\nStop 2, right inside fence sign by welcome trailer.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.50991821289062,
+          47.61521876149503
+        ]
+      },
+      "properties": {
+        "name": "Japanese American Exclusion Memorial Audio Tour - Stop 3",
+        "notes": "Japanese American Exclusion Memorial Audio Tour - Stop 3\nhttps://www.nps.gov/places/japanese-american-exclusion-memorial-audio-tour-stop-3.htm\n\nStop 3, story board pavilion.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.50986456871033,
+          47.615182599607095
+        ]
+      },
+      "properties": {
+        "name": "Japanese American Exclusion Memorial Audio Tour - Stop 4",
+        "notes": "Japanese American Exclusion Memorial Audio Tour - Stop 4\nhttps://www.nps.gov/places/japanese-american-exclusion-memorial-audio-tour-stop-4.htm\n\nStop 4, story board pavilion part 2.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.51003623008728,
+          47.615182599607095
+        ]
+      },
+      "properties": {
+        "name": "Japanese American Exclusion Memorial Audio Tour - Stop 5",
+        "notes": "Japanese American Exclusion Memorial Audio Tour - Stop 5\nhttps://www.nps.gov/places/japanese-american-exclusion-memorial-audio-tour-stop-5.htm\n\nStop 5, pathway down to memorial story board.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.51023471355438,
+          47.61503071940458
+        ]
+      },
+      "properties": {
+        "name": "Japanese American Exclusion Memorial Audio Tour - Stop 6",
+        "notes": "Japanese American Exclusion Memorial Audio Tour - Stop 6\nhttps://www.nps.gov/places/japanese-american-exclusion-memorial-audio-tour-stop-6.htm\n\nStop 6, <em>Let it Not Happen Again</em> sign, beginning of the Memorial wall",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.5102561712265,
+          47.615077729990595
+        ]
+      },
+      "properties": {
+        "name": "Japanese American Exclusion Memorial Audio Tour - Stop 7",
+        "notes": "Japanese American Exclusion Memorial Audio Tour - Stop 7\nhttps://www.nps.gov/places/japanese-american-exclusion-memorial-audio-tour-stop-7.htm\n\nStop 7, voices along the wall.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.51027226448059,
+          47.615117508145744
+        ]
+      },
+      "properties": {
+        "name": "Japanese American Exclusion Memorial Audio Tour - Stop 8",
+        "notes": "Japanese American Exclusion Memorial Audio Tour - Stop 8\nhttps://www.nps.gov/places/japanese-american-exclusion-memorial-audio-tour-stop-8.htm\n\nStop 8, voices along the wall.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.5102561712265,
+          47.61515005388653
+        ]
+      },
+      "properties": {
+        "name": "Japanese American Exclusion Memorial Audio Tour - Stop 9",
+        "notes": "Japanese American Exclusion Memorial Audio Tour - Stop 9\nhttps://www.nps.gov/places/japanese-american-exclusion-memorial-audio-tour-stop-9.htm\n\nStop 9, voices along the wall.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.325216,
+          47.611608
+        ]
+      },
+      "properties": {
+        "name": "Maritime Washington National Heritage Area",
+        "notes": "Maritime Washington National Heritage Area\nhttps://www.nps.gov/places/maritime-washington-national-heritage-area.htm\n\n<p paraeid=\"{53103d88-8610-4d83-ab9c-a5392def8c09}{64}\" paraid=\"6\">The Maritime Washington National Heritage Area (designated in 2019) encompasses 3,000 miles of western Washington’s saltwater coastline from Grays Harbor County to the Canadian border, 18 federally recognized tribes, 13 counties, 32 incorporated cities, and 30 port districts, as well as innumerable harbors, inlets, peninsulas, island shores, and parks—all connected by the nation’s largest ferry system. The Washington Trust for Historic Preservation, a state-wide non-profit dedicated to preserving the state’s historic resources, is the NHA’s Coordinating Entity. <br /> <br /> Communities here were connected to the rest of the world by boat long before roads and railroads were built. The first peoples created complex cultures around canoe journeys and salmon cycles. Then came Spanish, English, Russian and American explorers in search of territory and shipping lanes. As the country developed, the region’s ports began to bolster trade of vast natural resources, and naval installations came to guard the continent. <br /> <br /> Washington’s coastline is rich with historic buildings and vessels, museums, and archival collections, and the maritime industry remains a foundation of the region’s economy today. Shipyards, container ports, cruise ships, tugs, and marinas full of small and large pleasure craft are as much a part of this NHA’s inheritance as historic ships or lighthouses.   <br /> <br /> To read the Maritime Washington National Heritage Area management plan, click here. <br /> <br /> The vast diversity of this living landscape can be divided by geographic regions:  </p> <h2 paraeid=\"{53103d88-8610-4d83-ab9c-a5392def8c09}{94}\" paraid=\"11\">Olympic Peninsula </h2> <p paraeid=\"{53103d88-8610-4d83-ab9c-a5392def8c09}{100}\" paraid=\"12\">The Olympic Peninsula is surrounded by the Pacific Ocean, the Strait of Juan de Fuca, and Puget Sound’s Hood Canal. The Olympic Mountains rise prominently in the interior. Historic ports, coastal communities, and traditional tribal lands rim this boxy landmass. Home to Olympic National Park, the peninsula features the longest stretch of publicly-owned and undeveloped shoreline on the Pacific Coast, and closely resembles the shoreline inhabited by the tribes before Europeans arrived. Olympic National Park is also a UNESCO World Heritage Site, designated for its ecosystem diversity, while the Olympic Coast National Marine Sanctuary lies offshore, distinguished for its educational opportunities.  </p> <h2 paraeid=\"{53103d88-8610-4d83-ab9c-a5392def8c09}{106}\" paraid=\"13\">Puget Sound </h2> <p paraeid=\"{53103d88-8610-4d83-ab9c-a5392def8c09}{112}\" paraid=\"14\">A complex inlet of the Pacific Ocean and the third-largest estuary in the United States, Puget Sound comprises many waterways, basins, and bays, including Seattle’s brackish Lake Union. For millennia, the sound connected the Northwest people to the sea – for travel, trade, sustenance, protection, and recreation. Today, Puget Sound is home to maritime industries, military bases, small coastal communities, the cities of Seattle, Tacoma, Everett, and the state capital Olympia. The Kitsap Peninsula and enchanting islands lie in the interior of Puget Sound, with the Hood Canal between them and the Olympic Peninsula.    </p> <h2 paraeid=\"{53103d88-8610-4d83-ab9c-a5392def8c09}{118}\" paraid=\"15\">Northern Coast </h2> <p paraeid=\"{53103d88-8610-4d83-ab9c-a5392def8c09}{124}\" paraid=\"16\">Along the western edge of Skagit and Whatcom Counties lies Washington’s northern coastline, a series of protected bays stretching north to the Strait of Georgia, which separates Vancouver Island from mainland Canada. The traditional aquaculture, fishing, and sea trade economies remain important in this region. Continuing a centuries-old tradition, northern coastal cities like Bellingham still provide jumping-off points for journeys to Alaska through the Inside Passage.  </p> <h2 paraeid=\"{53103d88-8610-4d83-ab9c-a5392def8c09}{130}\" paraid=\"17\">Salish Sea Islands </h2> <p paraeid=\"{53103d88-8610-4d83-ab9c-a5392def8c09}{136}\" paraid=\"18\">Three Northwest water bodies – the Strait of Juan de Fuca, Puget Sound, and Canada’s Strait of Georgia - are together called the Salish Sea. The over 400 islands that lie in these waters are the ancient homelands of native tribes and habitat for some of the region’s most diverse marine wildlife. This varied island environment– including Whidbey Island, one of the largest islands in the contiguous United States, and the San Juan archipelago— contains some of the most remote and rugged places in this region, as well as active ports and popular vacation destinations. </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.351099,
+          47.615763
+        ]
+      },
+      "properties": {
+        "name": "Mountains to Sound Greenway National Heritage Area",
+        "notes": "Mountains to Sound Greenway National Heritage Area\nhttps://www.nps.gov/places/mountains-to-sound-greenway-national-heritage-area.htm\n\n<p paraeid=\"{3a835809-203b-4e1a-8ad3-e9030131b41d}{42}\" paraid=\"6\">Designated in 2019, the <a href=\"https://mtsgreenway.org/\">Mountains to Sound Greenway National Heritage Area (MSGNHA) </a>stretches nearly 100 miles along the I-90 corridor from Seattle to Ellensburg. The Coordinating Entity is the Mountains to Sound Greenway Trust, a regional nonprofit organization formed in 1991 to conserve and enhance the Mountains to Sound Greenway.<br /> <br /> The 1.5 million-acre MSGNHA encompasses the Seattle metropolitan area, 28 cities and towns, working farms, community forests, wild rivers, alpine wilderness, wolf packs, and wild salmon runs. The NHA is also home to more than 2 million people.<br /> <br /> Native Americans first traversed this landscape on footpaths, sustaining their communities and trading on the region’s natural abundance. In the mid-1800s, they signed treaties with the US government that ceded their lands and defined the Native American reservation lands for the region. Importantly, when tribes signed those treaties, they reserved their rights to fish, hunt, and gather. Today, Northwest Tribes – including the Colville, Muckleshoot, Snoqualmie, Tulalip, and Yakama Tribes --- continue to fish, hunt, and gather as part of their traditions.<br /> <br /> In 1862, Abraham Lincoln issued “checkerboard” land grants of alternating parcels in the newly ceded territory to spur development of the Northern Pacific Railway. The Northern Pacific would soon connect the Pacific Northwest to the rest of the United States, attracting immigrants from the Midwest, Europe and Asia who began extracting the region’s astonishing supply of big Douglas fir, red cedar, spruce, pine, maple, and alder as well as coal, gold, and other metals. The invention of industrial-scale timber extraction and the founding of the country’s first major industrial timber companies emerged from the sale of the checkerboard parcels once the railroad was built.<br /> <br /> The cross-country Yellowstone Trail transformed the corridor to an automobile route in 1912 and led eventually to the development of Interstate 90, which serves to this day as the major conveyance route for people and goods between Seattle and Puget Sound ports, inland Washington and beyond.<br /> <br /> As a culture of appreciation for this landscape’s special environmental qualities and outdoor recreation opportunities has emerged and thrived in the region over the last generation, public land conservation projects have consolidated the old railroad checkerboard lands and repurposed old logging roads for trails. <br /> <br /> Thus, the MSGNHA conserves natural wonders, invites exploration, and tells the stories of how people, trade, and transportation have shaped, and still shape, this iconic Pacific Northwest landscape. </p> <h2 paraeid=\"{3a835809-203b-4e1a-8ad3-e9030131b41d}{100}\" paraid=\"14\">Historic Sites and Points of Interest:</h2> <ol role=\"list\" start=\"1\"> <li aria-setsize=\"-1\" data-aria-level=\"1\" data-aria-posinset=\"1\" data-font=\"\" data-leveltext=\"%1.\" data-listid=\"1\" role=\"listitem\"> <p paraeid=\"{3a835809-203b-4e1a-8ad3-e9030131b41d}{158}\" paraid=\"22\"><a href=\"https://www.nps.gov/nr/travel/seattle/s28.htm\">Pioneer Square-Skid Road Historic District</a> </p> </li> </ol> <ol role=\"list\" start=\"2\"> <li aria-setsize=\"-1\" data-aria-level=\"1\" data-aria-posinset=\"2\" data-font=\"\" data-leveltext=\"%1.\" data-listid=\"1\" role=\"listitem\"> <p paraeid=\"{3a835809-203b-4e1a-8ad3-e9030131b41d}{166}\" paraid=\"23\"><a href=\"https://www.nps.gov/nr/travel/seattle/s11.htm\">Pike Place Market</a> </p> </li> </ol> <ol role=\"list\" start=\"3\"> <li aria-setsize=\"-1\" data-aria-level=\"1\" data-aria-posinset=\"3\" data-font=\"\" data-leveltext=\"%1.\" data-listid=\"1\" role=\"listitem\"> <p paraeid=\"{3a835809-203b-4e1a-8ad3-e9030131b41d}{174}\" paraid=\"24\"><a href=\"https://www.ballardlocks.org/\">Hiram M. Chittenden Locks</a> </p> </li> </ol> <ol role=\"list\" start=\"4\"> <li aria-setsize=\"-1\" data-aria-level=\"1\" data-aria-posinset=\"4\" data-font=\"\" data-leveltext=\"%1.\" data-listid=\"1\" role=\"listitem\"> <p paraeid=\"{3a835809-203b-4e1a-8ad3-e9030131b41d}{182}\" paraid=\"25\"><a href=\"http://www.snoqualmiefalls.com/\">Snoqualmie Falls</a> </p> </li> </ol> <ol role=\"list\" start=\"5\"> <li aria-setsize=\"-1\" data-aria-level=\"1\" data-aria-posinset=\"5\" data-font=\"\" data-leveltext=\"%1.\" data-listid=\"1\" role=\"listitem\"> <p paraeid=\"{3a835809-203b-4e1a-8ad3-e9030131b41d}{190}\" paraid=\"26\"><a href=\"https://www.ci.snoqualmie.wa.us/Facilities/Facility/Details/Snoqualmie-Point-Park-19\">Snoqualmie Point Park</a> </p> </li> </ol> <ol role=\"list\" start=\"6\"> <li aria-setsize=\"-1\" data-aria-level=\"1\" data-aria-posinset=\"6\" data-font=\"\" data-leveltext=\"%1.\" data-listid=\"1\" role=\"listitem\"> <p paraeid=\"{3a835809-203b-4e1a-8ad3-e9030131b41d}{198}\" paraid=\"27\"><a href=\"https://www.wsssm.org/\">Washington State Ski and Snowboard Museum</a> </p> </li> </ol> <ol role=\"list\" start=\"7\"> <li aria-setsize=\"-1\" data-aria-level=\"1\" data-aria-posinset=\"7\" data-font=\"\" data-leveltext=\"%1.\" data-listid=\"1\" role=\"listitem\"> <p paraeid=\"{3a835809-203b-4e1a-8ad3-e9030131b41d}{206}\" paraid=\"28\"><a href=\"http://kittitashistory.com/sites/depot/\">South Cle Elum Rail Yard National Historic District</a> </p> </li> </ol> <ol role=\"list\" start=\"8\"> <li aria-setsize=\"-1\" data-aria-level=\"1\" data-aria-posinset=\"8\" data-font=\"\" data-leveltext=\"%1.\" data-listid=\"1\" role=\"listitem\"> <p paraeid=\"{3a835809-203b-4e1a-8ad3-e9030131b41d}{214}\" paraid=\"29\"><a href=\"https://www.ci.roslyn.wa.us/visit/\">Roslyn Historic District</a> </p> </li> </ol> <ol role=\"list\" start=\"9\"> <li aria-setsize=\"-1\" data-aria-level=\"1\" data-aria-posinset=\"9\" data-font=\"\" data-leveltext=\"%1.\" data-listid=\"1\" role=\"listitem\"> <p paraeid=\"{3a835809-203b-4e1a-8ad3-e9030131b41d}{222}\" paraid=\"30\"><a href=\"https://www.thorp.org/\">Thorp Grist Mill</a> </p> </li> </ol> <ol role=\"list\" start=\"10\"> <li aria-setsize=\"-1\" data-aria-level=\"1\" data-aria-posinset=\"10\" data-font=\"\" data-leveltext=\"%1.\" data-listid=\"1\" role=\"listitem\"> <p paraeid=\"{3a835809-203b-4e1a-8ad3-e9030131b41d}{230}\" paraid=\"31\"><a href=\"https://www.kchm.org/\">Kittitas County Historical Museum</a> </p> </li> </ol> <h2 paraeid=\"{3a835809-203b-4e1a-8ad3-e9030131b41d}{238}\" paraid=\"32\">Notable People: </h2> <ol role=\"list\" start=\"1\"> <li aria-setsize=\"-1\" data-aria-level=\"1\" data-aria-posinset=\"1\" data-font=\"\" data-leveltext=\"%1.\" data-listid=\"3\" role=\"listitem\"> <p paraeid=\"{3a835809-203b-4e1a-8ad3-e9030131b41d}{248}\" paraid=\"34\"><a href=\"https://en.wikipedia.org/wiki/Patkanim\">Chief Patkanim</a>  </p> </li> </ol> <ol role=\"list\" start=\"2\"> <li aria-setsize=\"-1\" data-aria-level=\"1\" data-aria-posinset=\"2\" data-font=\"\" data-leveltext=\"%1.\" data-listid=\"3\" role=\"listitem\"> <p paraeid=\"{d7566154-2f55-4a09-a4ac-e0602d1d3b12}{3}\" paraid=\"35\"><a href=\"https://www.britannica.com/biography/Frederick-Weyerhaeuser\">Frederick Weyerhaeuser</a> </p> </li> </ol> <ol role=\"list\" start=\"3\"> <li aria-setsize=\"-1\" data-aria-level=\"1\" data-aria-posinset=\"3\" data-font=\"\" data-leveltext=\"%1.\" data-listid=\"3\" role=\"listitem\"> <p paraeid=\"{d7566154-2f55-4a09-a4ac-e0602d1d3b12}{11}\" paraid=\"36\"><a href=\"https://www.historylink.org/File/9244#:~:text=On%20June%2010%2C%201975%2C%20William,He%20serves%20until%201979.\">William Craven </a> </p> </li> </ol> <ol role=\"list\" start=\"4\"> <li aria-setsize=\"-1\" data-aria-level=\"1\" data-aria-posinset=\"4\" data-font=\"\" data-leveltext=\"%1.\" data-listid=\"3\" role=\"listitem\"> <p paraeid=\"{d7566154-2f55-4a09-a4ac-e0602d1d3b12}{19}\" paraid=\"37\"><a href=\"https://www.historylink.org/File/9385\">Harvey Manning </a>  </p> </li> </ol> <ol role=\"list\" start=\"5\"> <li aria-setsize=\"-1\" data-aria-level=\"1\" data-aria-posinset=\"5\" data-font=\"\" data-leveltext=\"%1.\" data-listid=\"3\" role=\"listitem\"> <p paraeid=\"{d7566154-2f55-4a09-a4ac-e0602d1d3b12}{29}\" paraid=\"38\"><a href=\"https://historylink.org/File/7833\">Jim Ellis</a>  </p> </li> </ol>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.32992016414363,
+          47.62048705900283
+        ]
+      },
+      "properties": {
+        "name": "Outdoor Recreation Information Center",
+        "notes": "Outdoor Recreation Information Center\nhttps://www.nps.gov/places/outdoor-recreation-information-center.htm\n\nAt the Ranger Desk in the REI Seattle Flagship Store, we have the information you need to discover the best recreation opportunities on public lands in Washington State. We also have a wide selection of educational merchandise and free printed materials to help you make the most of your visit. We're able to bring you this unique service experience through a dynamic partnership with the <a href=\"https://www.nps.gov/index.htm\">National Park Service</a>, <a href=\"https://www.fs.usda.gov/r6\">U.S. Forest Service</a>, <a href=\"https://parks.state.wa.us/\">Washington State Parks</a>, and <a href=\"https://www.rei.com/\">REI</a>.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.51021497544036,
+          47.61550067675112
+        ]
+      },
+      "properties": {
+        "name": "The Bainbridge Island Japanese American Exclusion Memorial",
+        "notes": "The Bainbridge Island Japanese American Exclusion Memorial\nhttps://www.nps.gov/places/the-bainbridge-island-japanese-american-exclusion-memorial.htm\n\n<p paraeid=\"{ca85b83d-9c53-4e4d-b432-2cc92abaedea}{188}\" paraid=\"1298371188\">The Bainbridge Island Japanese American Exclusion Memorial honors the first Japanese Americans to be excluded, forcibly removed from their community, and incarcerated during World War II. </p> <p paraeid=\"{ca85b83d-9c53-4e4d-b432-2cc92abaedea}{198}\" paraid=\"68611805\">After the attack on Pearl Harbor by imperial Japanese forces on December 7, 1941, President Roosevelt signed Executive Order 9066. This order authorized the establishment of military areas from which Japanese Americans may be excluded. On March 30, 1942, 227 Japanese Americans living on Bainbridge Island were gathered at the Eagledale Ferry Dock and forcibly removed from the Island. The Bainbridge Islanders were first incarcerated in <a href=\"https://www.nps.gov/manz/index.htm\">Manzanar Relocation Center in California</a> and later transferred to <a href=\"https://www.nps.gov/miin/index.htm\">Minidoka Relocation Center in Idaho</a>.<br /> <br /> Once World War II ended, over half of the Bainbridge Island Japanese Americans returned to the island. They faced challenges both trauma and financial, but many from the Bainbridge Island community welcomed back their neighbors. <br /> <br /> At the memorial, visitors can reflect and learn about this site’s legacy of Nidoto Nai Yoni (Let It Not Happen Again).<br /> <br /> The Bainbridge Island Japanese American Exclusion Memorial is an outdoor exhibit commemorating the incarceration of Japanese Americans from Bainbridge Island in the state of Washington. It is a unit of the Minidoka National Historic Site in Idaho. The memorial wall located near the historic Eagledale ferry dock landing site, where the first of more than 110,000 Japanese—two-thirds of whom were American citizens—were banished from their West Coast homes and placed in incarceration centers during World War II. The memorial is a reminder—“Nidoto Nai Yoni” (Let it Not Happen Again)—of what happened on March 30, 1942. Built of old-growth red cedar, granite and basalt, the wall honors the names of all 276 Japanese and Japanese Americans who were exiled from Bainbridge Island by President Franklin D. Roosevelt’s Executive Order 9066 and Civilian Exclusion Order No. 1. </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.94682870486264,
+          48.38419076327381
+        ]
+      },
+      "properties": {
+        "name": "The Salish Sea",
+        "notes": "The Salish Sea\nhttps://www.nps.gov/places/the-salish-sea.htm\n\nThe frigid waters of the Salish Sea are a prominent feature of our park. Tranquil <a href=\"https://www.nps.gov/places/garrison-bay.htm\">Garrison Bay</a>, where shellfish breed in abundance and the powerful waves at <a href=\"https://www.nps.gov/places/south-beach-trail.htm\">South Beach</a> are both part of the Salish Sea. The Salish Sea has played a pivotal role in the lives of Coast Salish Tribes and Euro-American settlers. <br /> <br /> The southern boundary of the Salish Sea is Budd Inlet, which borders the city of Olympia, Washington. Its northern boundary is formed by the Discovery Islands, to the north and west of the city of Vancouver, British Columbia. The cities of Seattle, Vancouver, Victoria, and Tacoma all sit alongside its waters which include but are not limited the Strait of Georgia, the Puget Sound, and the Strait of Juan de Fuca. These major cities were a direct result of the Salish Sea and the commercial opportunities and marine resources which it contains.<br /> <br /> The term, Salish Sea is a recent innovation by geographers who wished to stress the interconnected ecosystems and cultures of the areas connected by this body of water. The Coast Salish Tribes, the sea’s namesake, have lived in this region since time immemorial. Their culture and lifeways have been deeply shaped by the Salish Sea, which provided abundant salmon and shellfish and served as a transportation route between settlements throughout its waters in the US and Canada. Coast Salish people indigenous to San Juan Island invented an advanced and unique form of technology known as reef net fishing, which enabled them to harvest large numbers of migratory salmon and preserve them to sustain their families. The sea’s importance to living native cultures can be seen in the canoe journeys which annually traverse its waters and the tribal communities that still call the Salish Sea their home.<br /> <br /> Euro-American settlers were also drawn to the Salish Sea because of its resources. The <a href=\"https://www.nps.gov/places/hudson-s-bay-company.htm\">Hudson’s Bay Company </a>first sent workers to San Juan Island in 1852 to purchase and preserve salmon for export to the Hawaiian market. The first steam powered sawmill in Seattle, built by settler Henry Yesler, began operating on the shores of the Salish Sea in March of 1853 and was a major employer and driver of settlement in this city’s early days. The strategic importance of the Salish Sea and access to its waters are believed by historians to be a major factor in inspiring General William Harney to order forces to San Juan Island during the Pig War, so as to protect American access In the late 1800s and early 1900s, industrial salmon packing plants which over-exploited the Salish Sea’s natural resources were built throughout its waters, including the San Juan Islands, where they were major employers and sources of wealth.<br /> <br /> Today, the Salish Sea is home to millions of people and hosts visitors from across the globe. Coast Salish Tribes on both sides of the American and Canadian border continue to draw sustenance from its abundant resources. Visitors and residents alike kayak and canoe amidst the bioluminescent algae in our coastal waters and travel for work and play between the mainland and its numerous islands. Major international ports and naval bases have been built to take advantage of its deep ports. Endangered Southern Resident Killer Whales regularly swim through the Salish Sea, whose Chinook salmon they have evolved to eat. The University of Washington’s Friday Harbor Labs performs cutting edge science that allows us to better understand this unique ecosystem",
+        "icon": "red-pin-down.png"
+      }
+    }
+  ]
+}

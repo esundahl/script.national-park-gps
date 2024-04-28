@@ -1,0 +1,35 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.1456705993,
+          45.1238750001
+        ]
+      },
+      "properties": {
+        "name": "Interpretive Trail Shelter and Viewpoint",
+        "notes": "Interpretive Trail Shelter and Viewpoint\nhttps://www.nps.gov/places/interpretive-trail-shelter-and-viewpoint.htm\n\nThis shelter is located at the end of the self-guided interpretive trail. Visitors can enjoy seating, a bronze relief map showing historical information about the original settlement, and a view of Saint Croix Island. Stairs lead down from the shelter to a rocky beach.<br /> <br /> A vault toilet is available at the start of the trail leading to the shelter. Trash receptables are located at the trailhead and next to the stairs leading to the beach.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Ranger Station: Saint Croix Island International Historic Site",
+        "notes": "Ranger Station: Saint Croix Island International Historic Site\nhttps://www.nps.gov/places/sacr-ranger-station.htm\n\nThe Ranger Station at Saint Croix Island IHS is open in the summer season. Check Operating Hours & Seasons and Current Conditions for up to date information. <br /> <br /> The Ranger Stations boasts friendly park rangers to answer all of your questions as well as informational exhibits, a park store, passport stamps, an accessible restroom, and drinking water.  ",
+        "icon": "red-pin-down.png"
+      }
+    }
+  ]
+}

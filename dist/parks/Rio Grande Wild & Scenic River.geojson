@@ -1,0 +1,500 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.919510244054,
+          29.2007656285857
+        ]
+      },
+      "properties": {
+        "name": "Boquillas Canyon Trail",
+        "notes": "Boquillas Canyon Trail\nhttps://www.nps.gov/places/boquillas-canyon-trail.htm\n\n<h4><strong>Trail Information</strong></h4> Roundtrip Distance: 1.5 miles (2.4 km) <br /> Elevation change: 150 feet (45 m)<br /> Average hiking time: 1 hour<br /> <br /> <strong><em>Dogs and other pets are not allowed on any trails in the park.</em></strong><br /> <br /> The Boquillas Canyon Trail is a great way to enjoy one of the three major canyons located in Big Bend National Park. A walk along the Rio Grande leads to the entrance of a magnificent limestone gorge that splits the Sierra del Carmen Mountains. Along the way, look for ancient fossils that existed when this area was under an ocean, and pre-historic grinding holes that indigenous inhabitants used in food production.<br /> <br /> This area is also a great place for scenic photography. The colors on the Sierra del Carmen at sunset are well worth the journey. During summer months, it is best to explore the canyon in the mornings, since daytime temperatures often exceed 110 degrees. Water and good footwear are essential items here, and for any hike in the Chihuahuan Desert. <h4><strong>Accessibility</strong></h4> From the parking lot, this trail climbs a small rise before descending to the Rio Grande. The trail surface is rock and dirt. Once down at river level, the trail transitions to sand and the remainder of the walk is a flat, pleasant stroll along the river. Eventually the high limestone walls and the river prevent further travel and it's time to turn around and head back to the trailhead.<br /> <br /> The paved parking lot provides parking for about 15 vehicles. <h4><strong>Hike Smart</strong></h4> <em><span style=\"color:#c0392b;\">Bring plenty of water!</span></em><br /> Carry 1 liter of water per person per hour that you plan to hike. The importance of carrying enough water in this hot, dry climate cannot be overstated!<br /> <br /> <em>Eat</em><br /> Your body needs food for energy and salts and electrolytes to replace what it's losing from perspiration. The dry climate at Big Bend means that sweat often evaporates almost instantly; your body is likely losing lots of moisture and salts without you even realizing it. Eat plenty of salty snacks to keep your body's salt-to-water ratio in balance.<br /> <br /> <em>Sun protection</em><br /> Carry sunscreen and use it liberally. Hats are also strongly recommended. It may seem strange to wear long-sleeved shirts and pants in hot weather, but many hikers choose lightweight, breathable clothing which covers their arms and legs to protect themselves from the sun. <br /> <br /> <em>Don't leave people behind</em><br /> If you're hiking in a group, make sure the person in the back always has someone to help.<br /> <br /> <em>Be aware of wildlife</em><br /> Keep an eye out for snakes, and remember to maintain a safe distance between yourself and all wildlife. Animals in the park are wild and should never be approached, harassed, or fed.<br /> <br /> <em>Don't stack rocks</em><br /> Cairns are stacks of rocks which are sometimes used to mark trails in areas where they are hard to follow. Randomly stacked rocks can lure hikers off the correct trail.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.92425,
+          29.19427
+        ]
+      },
+      "properties": {
+        "name": "Boquillas Overlook",
+        "notes": "Boquillas Overlook\nhttps://www.nps.gov/places/boquillas-overlook.htm\n\nFrom the Boquillas Overlook you can see the village of Boquillas, Mexico just across the Rio Grande. This is also a great place to photograph the Sierra del Carmens and Boquillas Canyon. The exhibit panel graphically shows how the Rio Grande carved this major canyon. Along with Mariscal and Santa Elena canyons, these three canyons are one of the major reasons for the creation of Big Bend National Park. ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.94704,
+          29.19041
+        ]
+      },
+      "properties": {
+        "name": "Boquillas Port of Entry",
+        "notes": "Boquillas Port of Entry\nhttps://www.nps.gov/places/boquillas-port-of-entry.htm\n\n<p>The Boquillas Port of Entry was opened on April 10, 2013. It was the culmination of many years of work to enhance the cooperative agreement between the governments of Mexico and the United States. This agreement fosters the stewardship and environmental mitigations both governments committed to regarding the Protected Areas in Mexico and Big Bend National Park. The crossing allows scientists and agencies easier access for work groups and conferences.<br /> <br /> A second aspect to the Port of Entry is that it allows tourism to flourish in the small Mexican village of <a href=\"https://www.nps.gov/bibe/planyourvisit/visiting-boquillas.htm\">Boquillas del Carmen, Coahuila</a>. A valid passport is required to cross into Mexico and to return to the U.S.  A passenger ferry boat is available for a fee to assist with crossing the Rio Grande. The hours and days of operation change seasonally, so be sure to check the park website or ask at a Visitor Center. <a href=\"https://www.nps.gov/bibe/planyourvisit/visiting-boquillas.htm\">Learn more about visiting the village of Boquillas, Mexico. </a></p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.9369126003404,
+          29.18750829648325
+        ]
+      },
+      "properties": {
+        "name": "Boquillas, Mexico",
+        "notes": "Boquillas, Mexico\nhttps://www.nps.gov/places/boquillas-mexico.htm\n\n<p>Boquillas, Mexico had its modern beginnings as a mining town in the last decade of the 19th century. The Puerto Rico mine is in the cliffs above the village. Many residents worked at the mine, on the tramway, or other jobs associated with the operations. People also began raising families in and around the area. When the mine closed before the end of World War I, the population of Boquillas slowly left the area.<br /> <br /> The village has since been home to a few families, and in the last three decades, more families have made Boquillas their home. When tourism started there in the 1980s, the village entrepreneurs created their own businesses to serve tourists, from restaurants, to overnight lodging, to handcrafted goods.<br /> <br /> <a href=\"https://www.nps.gov/bibe/planyourvisit/visiting-boquillas.htm\">Visiting Boquillas</a> is an option for visitors possessing a <u>valid passport</u>.</p> <ul> <li>Learn more about <a href=\"https://www.nps.gov/bibe/planyourvisit/border_travel.htm\">visiting a border area.</a></li> </ul>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.97283,
+          29.18602
+        ]
+      },
+      "properties": {
+        "name": "Daniels Ranch",
+        "notes": "Daniels Ranch\nhttps://www.nps.gov/places/daniels-ranch.htm\n\nThe area around you is the Daniels farm, know as Daniels Ranch. In the early part of the 20th century, hardy homesteaders constructed not only dwellings, but an elaborate network of irrigation ditches so they could farm the Rio Grande floodplain. The crops they planted and harvested included cotton, melons, and corn. These crops were either grown for their own consumption, or sold to provide income. <br /> This adobe house is the last remaining Daniels Ranch structure. It undergoes periodic conservation treatment that allows visitors to see a great example of adobe architecture. The entire system of irrigation ditches remain visible throughout the farm complex. The ditches extend from the building eastward through the campground, and almost 1/2 mile north of the Rio Grande Village visitor center. Some of the ditches are currently used to provide water to the campground and the Black Hawk nesting area. A portion of the irrigation complex north of the campground is being removed to restore that area to conditions similar to the pre-homestead era.  ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.97277069091797,
+          29.186580657958984
+        ]
+      },
+      "properties": {
+        "name": "Ernst Ridge Trailhead - Daniels Ranch",
+        "notes": "Ernst Ridge Trailhead - Daniels Ranch\nhttps://www.nps.gov/places/hot-springs-canyon-trailhead.htm\n\n<h4><strong>Trail Information</strong></h4> <p>Roundtrip Distance: 6.0 miles (9.4 km) <br /> Elevation change: 360 feet (110 m)<br /> Average hiking time: 3-4 hours<br /> <span style=\"color:#c0392b;\"><em><strong>Excessive Heat Warning:</strong> </em></span><span style=\"color:null;\"><em>April through September</em></span></p> <p><strong><em>Dogs and other pets are not allowed on any trails in the park.</em></strong></p> <p>This trail steeply ascends to the rim of a scenic limestone canyon, offering incredible vistas of the Rio Grande below and Sierra del Carmen, and Chisos Mountains in the distance. From there it winds through rugged desert, gradually descending to the river over three miles. If you are looking for a shorter hike with spectacular views, hike the first 0.4 miles to the river overlook.<br /> <br /> Be sure to bring good footwear, adequate water for each person, and protection from the sun as there is no shade or water along this rugged route.<br />  </p> <ul> <li><span style=\"color:#c0392b;\"><u>This is NOT the way to access the Langford Hot Springs</u>.</span><br /> <span style=\"color:null;\">If the hot springs are your destination, drive to the </span><a href=\"https://www.nps.gov/places/hot-springs-canyon-trailhead-hot-springs.htm\">Hot Springs Historic District</a><span style=\"color:null;\">, where a scenic 0.5 mile round-trip trail leads to the springs.</span></li> <li><span style=\"color:#c0392b;\"><strong>EXCESSIVE HEAT WARNING</strong><br /> Deaths occur along this trail due to hikers being unprepared for the extreme heat. DO NOT attempt this trail from April through September when daily temperatures regularly exceed 110° F (43° C).</span></li> </ul> <p><strong>Accessibility</strong></p> <p>The greatest elevation gain on this trail takes place in the first 1/2 mile, as the trail climbs from Daniels Ranch to the rim of the canyon. The first 1.5 miles of the trail is high above the river, meandering in and out of side canyons, with occasional views of the Rio Grande. The trail surface alternates between sections of hard rock and dirt. The second half of the hike parallels the river and eventually drops down to the river banks at mile 3. The overall elevation gain of this trail is 360 feet, but the actual amount of up and down is much more due to the trail crossing several side canyons.<br /> <br /> The parking lot at Daniels Ranch will accommodate about 10 vehicles and small RVs.</p> <br /> <span style=\"color: rgb(34, 34, 34); font-family: inherit; font-size: 1.25rem; font-weight: 700;\">Hike Smart</span> <p><em>Bring plenty of water!</em><br /> Carry 1 liter of water per person per hour that you plan to hike. The importance of carrying enough water in this hot, dry climate cannot be overstated!<br /> <br /> <em>Eat</em><br /> Your body needs food for energy and salts and electrolytes to replace what it's losing from perspiration. The dry climate at Big Bend means that sweat often evaporates almost instantly; your body is likely losing lots of moisture and salts without you even realizing it. Eat plenty of salty snacks to keep your body's salt-to-water ratio in balance.<br /> <br /> <em>Sun protection</em><br /> Carry sunscreen and use it liberally. Hats are also strongly recommended. It may seem strange to wear long-sleeved shirts and pants in hot weather, but many hikers choose lightweight, breathable clothing which covers their arms and legs to protect themselves from the sun. <br /> <br /> <em>Don't leave people behind</em><br /> If you're hiking in a group, make sure the person in the back always has someone to help.<br /> <br /> <em>Be aware of wildlife</em><br /> Keep an eye out for snakes, and remember to maintain a safe distance between yourself and all wildlife. Animals in the park are wild and should never be approached, harassed or fed.<br /> <br /> <em>Don't stack rocks</em></p> <p>Cairns are stacks of rocks which are sometimes used to mark trails in areas where they are hard to follow. Randomly stacked rocks can lure hikers off the correct trail.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.99577,
+          29.17949
+        ]
+      },
+      "properties": {
+        "name": "Hot Springs",
+        "notes": "Hot Springs\nhttps://www.nps.gov/places/hot-springs.htm\n\nThe Langford Hot Springs are a very popular spot for park visitors. The area was also a popular place for ancient Americans for thousands of years. The confluence of Tornillo Creek and the Rio Grande was especially inviting as important food sources are available in greater quantities than the area further from the river. The hot water emanating from the edge of the river was, and is, inviting to all who found this spot. Evidence of ancient people is found on the rocks in the form of pictographs and petroglyphs. While the meaning is lost to time, one can ponder their relevance, or simply enjoy the view. <br /> <br /> J.O Langford had heard of the springs, and since he was in ill health, decided to homestead here since hot springs were purported to heal all ills. He improved the water catchment and started to develop a commercial enterprise that attracted tourists and those seeking health benefits. Mr. Langford left for a few years during the Mexican Revolution, but returned to begin business once again. He constructed the motor court, found just down the trail, to provide overnight lodging to guests. The business attracted customers from the United States and Mexico. <br /> <br /> In the 1930s, Maggie Smith took over operations and continued doing business even after the creation of the park. The post office and resort closed in 1952.<br /> <br /> <br /> <br /> <br /> <br />  ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.99942,
+          29.17743
+        ]
+      },
+      "properties": {
+        "name": "Hot Springs Historic Trail",
+        "notes": "Hot Springs Historic Trail\nhttps://www.nps.gov/places/hot-springs-canyon-trailhead-hot-springs.htm\n\n<h4><strong>Trail Information</strong></h4> <p>Roundtrip distance: 1 mile loop (1.6 km)<br /> Elevation change: 200 feet<br /> Average hiking time: 30 minutes</p> <p><em><strong>Dogs and other pets are not allowed on any trails in the park.</strong></em><br /> <br /> The Hot Springs historic trail offers an opportunity to step back in time and experience Big Bend before it became a national park. A short distance from the trailhead are the historic remains of J.O. Langford's Hot Springs resort which include a picturesque building that was the store and post office, as well as a motor court that accommodated overnight guests. A quarter mile further down the trail is the actual hot spring, contained within the stone walls of what was Langford’s bath house. Between the motor court and the spring, one can view ancient pictographs that were drawn by people who lived here thousands of years ago.<br /> <br /> At this point you can either retrace your steps to the parking lot, or complete the loop by following the trail for another 0.25 mile to a marked junction. Turn left and climb the rise of the hill for a great view before dropping back down to the parking lot.</p> <p><strong>Accessibility</strong></p> <p>This trail is sand and rock from the trailhead to the hot spring. The section that climbs the hill and loops back to the parking lot has steps of rock or wood that assist in the elevation gain.<br />  <br /> A dirt parking lot at the trailhead provides parking for vehicles with high clearance. Vehicles with low clearance, vehicles pulling trailers, and RVs will need to park further up the road at a dirt parking area. This adds an additional walk of about 1 mile roundtrip to access the trailhead.<br /> <br /> <strong style=\"color: rgb(34, 34, 34); font-family: inherit; font-size: 1.25rem;\">Hike Smart</strong><br /> <em>Bring plenty of water!</em><br /> Carry 1 liter of water per person per hour that you plan to hike. The importance of carrying enough water in this hot, dry climate cannot be overstated!<br /> <br /> <em>Eat</em><br /> Your body needs food for energy and salts and electrolytes to replace what it's losing from perspiration. The dry climate at Big Bend means that sweat often evaporates almost instantly; your body is likely losing lots of moisture and salts without you even realizing it. Eat plenty of salty snacks to keep your body's salt-to-water ratio in balance.<br /> <br /> <em>Sun protection</em><br /> Carry sunscreen and use it liberally. Hats are also strongly recommended. It may seem strange to wear long-sleeved shirts and pants in hot weather, but many hikers choose lightweight, breathable clothing which covers their arms and legs to protect themselves from the sun. <br /> <br /> <em>Don't leave people behind</em><br /> If you're hiking in a group, make sure the person in the back always has someone to help.<br /> <br /> <em>Be aware of wildlife</em><br /> Keep an eye out for snakes, and remember to maintain a safe distance between yourself and all wildlife. Animals in the park are wild and should never be approached, harassed, or fed.<br /> <br /> <em>Don't stack rocks</em><br /> Cairns are stacks of rocks which are sometimes used to mark trails in areas where they are hard to follow. Randomly stacked rocks can lure hikers off the correct trail. </p> <br />  ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.99553,
+          29.179511
+        ]
+      },
+      "properties": {
+        "name": "Langford Hot Springs",
+        "notes": "Langford Hot Springs\nhttps://www.nps.gov/places/langford-hot-springs.htm\n\n<p>J.O. Langford's impressive bathhouse is long gone; today the spring is contained by the foundation remains of the bathhouse, on the north bank of the Rio Grande. Relish a primitive bathing experience while enjoying unparalleled scenery.</p> <p>Along a stretch beginning upstream of Rio Grande Village, a series of thermal springs emerge adjacent to the Rio Grande. All of the hot springs in this region are believed to be related to normal faults. These Basin and Range type faults formed between 18 and 23 million years ago. Today, groundwater circulating deep in the earth becomes heated before it returns to the surface as hot springs.</p> <p>The most famous of the thermal features along the Big Bend of the Rio Grande is the Langford Hot Springs. Located where Tornillo Creek enters the Rio Grande, some four miles upriver from Boquillas Canyon and the Mexican village of Boquillas. The natural springs at the site are known as Boquillas Hot Springs. <em>Boquillas</em> is Spanish for \"little mouths\" and refers to the many small streams or arroyos that drain this part of the Sierra del Carmen range and flow into the Rio Grande. Later, when the springs were promoted for their health benefits, the settlement and spa resort there was called Hot Springs, and a post office by that name was established at the site in July 1914. Although there are several other small hot springs in the area, these larger and more accessible springs are the best known.</p> <p>Hot spring water is considered old water, fossil water, ancient and irreplaceable. Heated by geothermal processes and emerging at 105° F., the water carries dissolved mineral salts reputed to have healing powers. The water contains calcium carbonate, calcium sulfate, sodium sulfate, sodium chloride, and lithium. The springs' flow rate in 1936 was 250,000 gallons a day, but more recent measurements show a decrease. The therapeutic value of heat has long been touted as a remedy of both body and soul.</p> <p>Be aware that some hot springs can burn you either with the scalding effects of heat or the caustic nature of the water chemistry. Use caution when bathing and limit the exposure of children to the warm waters.</p> <h2><span style=\"color: rgb(34, 34, 34); font-family: inherit; font-size: 2rem; font-weight: 700; letter-spacing: -0.25px;\">Visiting the Langford Hot Springs</span></h2> <p>Contact <a href=\"https://www.nps.gov/bibe/contacts.htm\">Big Bend National Park</a> for more information and before visiting to get any current conditions or updated information.  </p> <h3>The Rules</h3> <ul> <li> <p>Be respectful of others; soak only, and use no soaps or oils.</p> </li> <li> <p>Swimming is not recommended; be aware that adjacent river currents and depths can be unpredictable.</p> </li> <li> <p>Please help to keep the area clean by picking up trash.</p> </li> <li> <p>Alcoholic beverages and glass containers are prohibited.</p> </li> <li> <p>Overnight camping in the area of the Hot Springs is prohibited.</p> </li> <li> <p>It is illegal to purchase items from vendors operating on the Mexican side of the Rio Grande.</p> </li> </ul> <h3>Directions</h3> <h4><strong>Hot Springs Road</strong></h4> <p>The two-mile gravel road descends down a rough, narrow wash to the Hot Springs Historic District and trailhead area. <em>Note: Motor homes and oversize vehicles are prohibited on the one-way sections of the Hot Springs road.</em></p> <h4><strong>Hiking to the Hot Springs</strong></h4> <p>From the trailhead, the hot spring is a 0.5 mile round trip. A one-mile loop trail continues from the hot spring around on the bluff above the Rio Grande, returning to the trailhead area. The hot spring is <strong>not accessible by car</strong>.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.1842,
+          28.98846
+        ]
+      },
+      "properties": {
+        "name": "Mariscal Canyon Rim Trail",
+        "notes": "Mariscal Canyon Rim Trail\nhttps://www.nps.gov/places/mariscal-canyon-rim-trail.htm\n\n<h4><strong>Trail Information</strong></h4> Roundtrip Distance: 6.5 miles (10.5 km) <br /> Elevation change: 1,300 feet (396 m)<br /> Average hiking time: 3-4 hours<br /> <br /> <strong><em>Dogs and other pets are not allowed on any trails in the park.</em></strong><br /> <br /> The Mariscal Canyon Rim Trail is as rewarding as it is remote. Located in the very southern part of the park along River Road, it takes 2 hours to reach the trailhead from the paved park road near Rio Grande Village. A high-clearance, 4x4 vehicle is necessary to reach the trailhead.  <br /> Views are magnificent as you ascend the western slopes of Mariscal Mountain. You can see the park's expansive low desert, and the mountains stretching far off into Mexico. Mariscal Canyon itself is difficult to see until you arrive at the rim, and suddenly encounter the deep precipice. <h4><strong>Accessibility</strong></h4> The route crosses open desert for approximately 1.5 miles before steeply ascending to the rim. <strong>Notice: </strong>Hikers must be prepared for the challenges of this trail. Temperatures may well exceed 110°F during spring and summer. You will find NO shade and NO water along this trail. This combination of factors make this trail potentially deadly during the late spring and summer. Tell someone your plans before heading out. <h4><strong>Hike Smart</strong></h4> <em>Bring plenty of water!</em><br /> Carry 1 liter of water per person per hour that you plan to hike. The importance of carrying enough water in this hot, dry climate cannot be overstated!<br /> <br /> <em>Eat</em><br /> Your body needs food for energy and salts and electrolytes to replace what it's losing from perspiration. The dry climate at Big Bend means that sweat often evaporates almost instantly; your body is likely losing lots of moisture and salts without you even realizing it. Eat plenty of salty snacks to keep your body's salt-to-water ratio in balance.<br /> <br /> <em>Sun protection</em><br /> Carry sunscreen and use it liberally. Hats are also strongly recommended. It may seem strange to wear long-sleeved shirts and pants in hot weather, but many hikers choose lightweight, breathable clothing which covers their arms and legs to protect themselves from the sun. <br /> <br /> <em>Don't leave people behind</em><br /> If you're hiking in a group, make sure the person in the back always has someone to help.<br /> <br /> <em>Be aware of wildlife</em><br /> Keep an eye out for snakes, and remember to maintain a safe distance between yourself and all wildlife. Animals in the park are wild and should never be approached, harassed or fed.<br /> <br /> <em>Don't stack rocks</em><br /> Cairns are stacks of rocks which are sometimes used to mark trails in areas where they are hard to follow. Randomly stacked rocks can lure hikers off the correct trail.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.92216,
+          29.20091
+        ]
+      },
+      "properties": {
+        "name": "Ore Tramway Exhibit",
+        "notes": "Ore Tramway Exhibit\nhttps://www.nps.gov/places/ore-tramway-wayside.htm\n\nStanding at the tramway exhibit you are about midway between the Puerto Rico mine in Mexico and the tramway terminal at the top of the mountain above Ernst Valley. There were actually two tramways. An earlier, smaller, tram was built near the current Port of Entry. Remnants of the larger operation can still be seen along the Ore Terminal trail.  At the terminal, the ore was shipped via wagon to the railroad in Marathon on a road constructed specifically for ore haulage.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.20792378898997,
+          29.329134508606742
+        ]
+      },
+      "properties": {
+        "name": "Panther Junction Service Station",
+        "notes": "Panther Junction Service Station\nhttps://www.nps.gov/places/panther-junction-service-station.htm\n\n<p>The Panther Junction Service Station is open daily. Operated by the park's concessioner Forever Resorts, the facility has fuel, snacks, convenience items, and souveniers. Gas pumps open 24 hrs. </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.97507,
+          29.20158
+        ]
+      },
+      "properties": {
+        "name": "Rio Grande Overlook",
+        "notes": "Rio Grande Overlook\nhttps://www.nps.gov/places/rio-grande-overlook.htm\n\nThis exhibit looks out over the former Daniels Ranch farm. From the top of the short trail, you can see the remnants of the irrigation system and the tree-lined course of the Rio Grande. When this overlook was created in 1959, the cottonwood trees along the river were sparse and the river was visible from the top of this hill. If you look carefully at the cliff the tunnel goes through, the old road that originally went around the hill can be seen. The old road curve was known as Dead Man's Curve, due to a shooting that occurred here in the early 20th century.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.97277,
+          29.18658
+        ]
+      },
+      "properties": {
+        "name": "Rio Grande Village Nature Trail",
+        "notes": "Rio Grande Village Nature Trail\nhttps://www.nps.gov/places/rio-grande-village-nature-trail.htm\n\n<h4><strong>Trail Information</strong> </h4> Roundtrip Distance: 0.75 mile (1.2 km) loop<br /> Elevation Change: 200 feet (61 m)<br /> Average hiking time: 30 minutes<br /> <br /> <strong><em>Dogs and other pets are not allowed on any trails in the park.</em></strong><br /> <br /> This trail is a fantastic place for birdwatchers and photographers. The first part of the trail is a boardwalk over a small pond that showcases riparian plants and animals. The trail proceeds up and around a small ridge that has a 360-degree view of the Rio Grande, the Sierra del Carmens in Mexico, and the Chisos Mountains in the park.<br /> <br /> This trail is great for first time as well as seasoned visitors. The mornings are alive with birdsong and animal life, and the late evenings showcase the colors of a typical Big Bend sunset.  <h4><strong>Accessibility</strong></h4> This trail begins from the back end of the campground. A level path leads to a wheelchair-accessible boardwalk that crosses a wetland area. The trail then becomes dirt and gravel and climbs to the top of, and back down, a small hill with the aid of wooden logs for steps. <br /> There are two small pullouts at the back end of the campground which provide parking for about four cars.  <h4><strong>Hike Smart</strong></h4> <em>Bring plenty of water!</em><br /> Carry 1 liter of water per person per hour that you plan to hike. The importance of carrying enough water in this hot, dry climate cannot be overstated!<br /> <br /> <em>Eat</em><br /> Your body needs food for energy and salts and electrolytes to replace what it's losing from perspiration. The dry climate at Big Bend means that sweat often evaporates almost instantly; your body is likely losing lots of moisture and salts without you even realizing it. Eat plenty of salty snacks to keep your body's salt-to-water ratio in balance.<br /> <br /> <em>Sun protection</em><br /> Carry sunscreen and use it liberally. Hats are also strongly recommended. It may seem strange to wear long-sleeved shirts and pants in hot weather, but many hikers choose lightweight, breathable clothing which covers their arms and legs to protect themselves from the sun. <br /> <br /> <em>Don't leave people behind</em><br /> If you're hiking in a group, make sure the person in the back always has someone to help.<br /> <br /> <em>Be aware of wildlife</em><br /> Keep an eye out for snakes, and remember to maintain a safe distance between yourself and all wildlife. Animals in the park are wild and should never be approached, harassed or fed.<br /> <br /> <em>Don't stack rocks</em><br /> Cairns are stacks of rocks which are sometimes used to mark trails in areas where they are hard to follow. Randomly stacked rocks can lure hikers off the correct trail. ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.95393228530884,
+          29.178903908467156
+        ]
+      },
+      "properties": {
+        "name": "Rio Grande Village Nature Trail Stop #1",
+        "notes": "Rio Grande Village Nature Trail Stop #1\nhttps://www.nps.gov/places/rio-grande-village-nature-trail-stop-1.htm\n\nChihuahuan Desert wetlands are rare and unexpected oases which nurture life in the midst of a harsh environment. This life-filled, spring-fed pond has formed as a result of beaver at work! A surprising animal to find in the desert, the beaver here along the Rio Grande are called \"bank beaver\" since they construct dens in the river bank instead of building lodges. Furthermore, the beaver is listed as an endangered species in Mexico and must compete with nutria, an exotic non-native species often seen in the pond. It is easy to mistake a nutria for a beaver, but close examination of the tail will reveal the differences in these two large rodents. As you walk this trail, look closely for evidence of beaver activity.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.95219421386719,
+          29.175700219822367
+        ]
+      },
+      "properties": {
+        "name": "Rio Grande Village Nature Trail Stop #10",
+        "notes": "Rio Grande Village Nature Trail Stop #10\nhttps://www.nps.gov/places/rio-grande-village-nature-trail-stop-10.htm\n\nAt this slight bend in the trail you are surrounded by mesquite trees. Mesquite's are desert survivors. Their roots may extend 150 feet into the soil to reach water. Their seeds, encased in a long pod, are sweet and high-protein, making them excellent feed for wildlife and livestock. Mesquite pods are ground into flour, or soaked and boiled down to make jelly for human use. Mature mesquite pods are maroon in color and signify the availability of a sweet treat. The sticky mesquite sap was used as a glue and in making dyes. ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.9514753818512,
+          29.173775148276654
+        ]
+      },
+      "properties": {
+        "name": "Rio Grande Village Nature Trail Stop #11",
+        "notes": "Rio Grande Village Nature Trail Stop #11\nhttps://www.nps.gov/places/rio-grande-village-nature-trail-stop-11.htm\n\nNotice the tall, thin shoots of cane growing in lines and clumps at this location. The banks of the Rio Grande from Big Bend National Park to the Gulf of Mexico are thickly infested with what Mexicans have called El Ladron de Agua –the water thief. Giant cane, or Arundo donax, is a Mediterranean species of river cane originally brought by Spaniards to Texas missions in the 18th century.<br /> The cane is problematic because it draws enormous amounts of water, displaces native vegetation, and narrows the river channel by stabilizing silt and gravel which would otherwise flow downstream. Methods for cane removal generally include using combinations of fire, bulldozers, herbicide, and labor-intensive hand tools. <br />  ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.95155584812164,
+          29.173658050302233
+        ]
+      },
+      "properties": {
+        "name": "Rio Grande Village Nature Trail Stop #12",
+        "notes": "Rio Grande Village Nature Trail Stop #12\nhttps://www.nps.gov/places/rio-grande-village-nature-trail-stop-12.htm\n\nThe Rio Grande flows in front of you, from right to left, heading for a curve in the limestone bluff. The sandy floodplain around you is home to tail-dragging lizards, long-eared jackrabbits, raccoons, and other animals. Take some time to explore the river and its surroundings. Listen for bird song and the splashes of turtles entering the water. Peer into the river and search for fish. Close your eyes and feel the wind against your skin, the warmth of the sun, and notice the lack of loud noises. Many people say one of the things that impresses them the most about Big Bend is the silence. What do you hear at this location?",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.95189917087555,
+          29.177124093790606
+        ]
+      },
+      "properties": {
+        "name": "Rio Grande Village Nature Trail Stop #13",
+        "notes": "Rio Grande Village Nature Trail Stop #13\nhttps://www.nps.gov/places/rio-grande-village-nature-trail-stop-13.htm\n\nOjo Caliente, Spanish for hot spring, is the name of the small village you can see across the Rio Grande. Faults and fractures in the earth's crust allow water to circulate deeper into the earth where it becomes heated to over 100 degrees. The heated water returns to the surface as a hot spring.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.95193135738373,
+          29.177821972171934
+        ]
+      },
+      "properties": {
+        "name": "Rio Grande Village Nature Trail Stop #14",
+        "notes": "Rio Grande Village Nature Trail Stop #14\nhttps://www.nps.gov/places/rio-grande-village-nature-trail-stop-14.htm\n\nDoes the air feel less humid as you climb the hill? What changes do you see in the plants as you get further from the Rio Grande? Characteristics of a desert climate include heat, dryness, and wind. Look closely at the surrounding plants and you will see that each has developed adaptations for living in arid conditions. Some, like the herbaceous plants, are desert \"escapers;\" if there is not enough moisture they simply will not grow or bloom. Desert \"evaders,\" like the ocotillo, live double lives. After rains when water is plentiful ocotillo sprout leaves; as the soil dries the plants reabsorb the moisture from the leaves, causing the leaves to drop.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.95229613780975,
+          29.177690827603374
+        ]
+      },
+      "properties": {
+        "name": "Rio Grande Village Nature Trail Stop #15",
+        "notes": "Rio Grande Village Nature Trail Stop #15\nhttps://www.nps.gov/places/rio-grande-village-nature-trail-stop-15.htm\n\nThis view is worth the effort! In the distance the Chisos Mountains rise like an island in a desert sea. Emory Peak, the highest point in the park, rises almost 6,000 feet higher than your present location. The Rio Grande floodplain stretches along both sides of the river channel, a verdant green strip testifying to the refreshing effect of water. As you stand atop the bluff, the importance and effect of water on this land is spread out before you in a tapestry of rock, plants, and animals. The future awaiting this tapestry depends on water - how we use it, how we conserve it, and how we preserve it. ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.95219957828522,
+          29.177362965448665
+        ]
+      },
+      "properties": {
+        "name": "Rio Grande Village Nature Trail Stop #16",
+        "notes": "Rio Grande Village Nature Trail Stop #16\nhttps://www.nps.gov/places/rio-grande-village-nature-trail-stop-16.htm\n\nIn front of you loom the Sierra del Carmen, a range of massive limstone cliffs that reflect pink and purple hues at sunset. The limestone rock was deposited by ancient seas around 130 million years ago. The same mountain-building forces that created the Rocky Mountains lifted these imposing cliffs along a fault line, causing them to stand high above the surrounding landscape. You are standing on the down-dropped block which consists of the same kind of rock found at the top of the Sierra del Carmen, rising almost one mile in elevation above you.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.95379281044006,
+          29.178576050188475
+        ]
+      },
+      "properties": {
+        "name": "Rio Grande Village Nature Trail Stop #2",
+        "notes": "Rio Grande Village Nature Trail Stop #2\nhttps://www.nps.gov/places/rio-grande-village-nature-trail-stop-2.htm\n\nLook for insects and small fish in the water below the boardwalk. Two species of small, inch-long mosquitofish feed on insect and mosquito larvae. The Big Bend Mosquitofish, Gambusia gaigei, is an endangered species that inhabits this warm fresh-water spring, and is found nowhere else in the entire world. This rare fish has the smallest range of any vertebrate and its survival is threatened by the Western Moquitofish, Gambusia affinis. It is believed the Western Mosquitofish entered this pond courtesy of periodic flooding of the Rio Grande. The National Park Service provides protected breeding ponds to ensure the survival of the Big Bend Mosquitofish.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.95340657234192,
+          29.178501111006263
+        ]
+      },
+      "properties": {
+        "name": "Rio Grande Village Nature Trail Stop #3",
+        "notes": "Rio Grande Village Nature Trail Stop #3\nhttps://www.nps.gov/places/rio-grande-village-nature-trail-stop-3.htm\n\nSit quietly for a moment and listen. You may hear birds singing and moving about in the reeds, or the subtle splash of a turtle sliding into the pond. Perhaps you will hear the cardinal's liquid whistle, the raucous descending call of the sora, or the sharp, double \"tsuk\" of the secretive marsh wren. Patience and a pair of binoculars may reward you with a glimpse of these birds, or a spiny softshell turtle basking on a log. How many different bird songs can you hear?",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.95304715633392,
+          29.17778450231231
+        ]
+      },
+      "properties": {
+        "name": "Rio Grande Village Nature Trail Stop #4",
+        "notes": "Rio Grande Village Nature Trail Stop #4\nhttps://www.nps.gov/places/rio-grande-village-nature-trail-stop-4.htm\n\nTake a look down at the green oasis created by the pond. Notice the leafy vegetation such as willows, wild grapes, and cane. These wetlands-adapted plants are able to survive here of the of the natural warm springs which provide essential moisture. Wetland plants and soil are important agents of flood control and cleansing by slowing down rising waters and breaking down toxic pollutants which accumulate in the sediments.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.9530417919159,
+          29.177550315379627
+        ]
+      },
+      "properties": {
+        "name": "Rio Grande Village Nature Trail Stop #5",
+        "notes": "Rio Grande Village Nature Trail Stop #5\nhttps://www.nps.gov/places/rio-grande-village-nature-trail-stop-5.htm\n\nYou are surrounded by widely spaced low shrubs called creosote bush. Plants such as creosote bush and cactus are desert \"resistors\". These plants are well adapted to the desert heat and aridity. What makes them different? What enables them to survive under such harsh conditions? Notice the creosote bush has small, smooth, waxy, leaves which help to prevent water loss. See how the plants are spaced to lessen competition from their neighbors. Most \"resistors\" have shallow roots to capture even the slightest rainfall. Cactus even store water in their fleshy stems and pads for use during times of little rain. Contrary to popular belief, trying to drink water from a cactus is not safe. Water from cactus is highly acidic and drinking it can cause severe diarrhea and vomiting, leading you to become even more dehydrated.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.95267164707184,
+          29.176861802702025
+        ]
+      },
+      "properties": {
+        "name": "Rio Grande Village Nature Trail Stop #6",
+        "notes": "Rio Grande Village Nature Trail Stop #6\nhttps://www.nps.gov/places/rio-grande-village-nature-trail-stop-6.htm\n\nOne of the most bizarre-looking plants found along this trail is the ocotillo. At first glance, ocotillo (pronounced “Oh-co-TEE-yo”) looks like a tall, spindly shrub that died - a cluster of drab, gray stalks covered in sharp half inch spines, and no obvious signs of life like leaves along the branches. This bare bones appearance is actually part of ocotillo’s desert survival strategy. Plants lose most of their water through their leaves during photosynthesis. Ocotillo and several other desert plants have adapted to desert life by moving the photosynthesis into their stems. This strategy of photosynthesis is not as efficient or as productive as in typical plants, but the plants do save a lot of water and that is the principal issue for a desert dweller. Leaves are either not produced, or only produced during wet times of the year when the water losses are affordable to the plant. <br /> The real surprise though is in the spring when seemingly “dead stalks” of ocotillo burst into bloom. Slender clusters of bright red orange, tubular flowers form at the ends of the stalks, and in areas with abundant ocotillo plants it can look like a red haze is hanging just above the plants from a distance! Ocotillo are often mistaken for cactus, but in fact they are a member of a small, unrelated family of primarily South American plants, of which it is the northernmost representative. ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.95267164707184,
+          29.17687585402733
+        ]
+      },
+      "properties": {
+        "name": "Rio Grande Village Nature Trail Stop #7",
+        "notes": "Rio Grande Village Nature Trail Stop #7\nhttps://www.nps.gov/places/rio-grande-village-nature-trail-stop-7.htm\n\nThis trail junction provides two options for exploration. The River Spur Trail contours along limestone ledges for a short distance before becoming a sandy path that ends at the Rio Grande. The river provides opportunities to view wildlife, especially birds, turtles, and fish. <br /> The Overlook Loop Trail climbs a limestone hill to a rocky outcrop that provides great views of the Rio Grande, the Sierra del Carmens, and the Mexican towns of Boquillas and Ojo Caliente. This hilltop is one of the best locations in the park from which to view both sunrise and sunset. As the name implies, the Loop Trail reconnects with the Nature Trail at a point previously passed on this trail. ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.95275747776031,
+          29.176688502864955
+        ]
+      },
+      "properties": {
+        "name": "Rio Grande Village Nature Trail Stop #8",
+        "notes": "Rio Grande Village Nature Trail Stop #8\nhttps://www.nps.gov/places/rio-grande-village-nature-trail-stop-8.htm\n\nThis section of the trail winds over and alongside limestone benches. Look carefully at the gray rocks you are walking over - can you see the small shells and other fossil remains of marine creatures? This limestone consists of rock produced from fine sediments that sank to the bottom of an ancient ocean that once covered Big Bend National Park. The sediments formed over millions of years, and the fossils serve as a reminder that Big Bend has not always been a desert.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.95269310474396,
+          29.175999984404903
+        ]
+      },
+      "properties": {
+        "name": "Rio Grande Village Nature Trail Stop #9",
+        "notes": "Rio Grande Village Nature Trail Stop #9\nhttps://www.nps.gov/places/rio-grande-village-nature-trail-stop-9.htm\n\nExplore this rocky outrcop and look for round depressions in the limestone bedrock. These depressions are known as bedrock mortars. The mortars are archeological features once used by indigenous hunter-gatherer bands of Big Bend to prepare food. Native peoples returned to these sites to grind seeds and vegetation for consumption using stone or wooden pestles. Baked sotol and lechuguilla, pinon nuts, and prickly pear fruits are among the foods once prepared in the mortars.<br /> While it is difficult to date the use of mortars with certainty, archeologists believe that certain sites in the Park were used seasonally for up to four thousand years. Though simple in appearance, the number and grouping of mortars may be able to tell us both about size and social structure of the bands using them. Two to seven mortars are typically spaced at the distance a few people preparing food could converse. Their presence near springs, water holes, and the Rio Grande underscores the importance of reliable water sources to humans in the area.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.96169,
+          29.18246
+        ]
+      },
+      "properties": {
+        "name": "Rio Grande Village Store",
+        "notes": "Rio Grande Village Store\nhttps://www.nps.gov/places/rio-grande-village-store.htm\n\n<p>The Rio Grande Village store is operated by the park's concessioner, Aramark, and is open daily throughout the year. You can find a variety of food items, RV and camp necessities, cold drinks, and a selection of souvenirs. Gasoline is available during business hours. Propane sales M-F 10am - 4pm. The store also has restrooms and coin-operated laundry and public showers. <br /> <br /> Also located here is a 25 site full hookup RV park. Advance reservations are strongly recommended. 432-477-2293</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.01585,
+          29.19055
+        ]
+      },
+      "properties": {
+        "name": "River Road - East",
+        "notes": "River Road - East\nhttps://www.nps.gov/places/river-road-east.htm\n\n<p>The River Road traverses the remote southern portion of the park, roughly connecting the areas near Rio Grande Village and Castolon. While generally following the course of the Rio Grande, the road runs a considerable distance from the river, especially in its mid-section near Mariscal Mountain. You cannot actually see the river along the River Road unless you take a side trip to one of the primitive roadside campsites located next to the river. Due to its length and usually rough road conditions, allow a full day to drive from end to end.<br /> <br /> Before heading out on this road, be well prepared for safe backcountry driving with plenty of water, a jack, and good spare tire. On these isolated, infrequently patrolled backcountry roads, a disabled vehicle can quickly <a href=\"https://www.nps.gov/bibe/planyourvisit/bc_road-safety.htm\">become a life-threatening situation</a>.<br /> <br /> A variety of <a href=\"https:///www.nps.gov/bibe/planyourvisit/roadsidecamps.htm\">primitive roadside campsites</a> (<em>permit required</em>) located along the road, allow for extended exploration. Highlights along the River Road include remote desert scenery, exploring the ruins of the <a href=\"https:///www.nps.gov/bibe/learn/historyculture/mariscalmine.htm\">Mariscal Mine</a>, and access to the rugged but spectacular <a href=\"https:///www.nps.gov/bibe/planyourvisit/mariscal-rim-trail.htm\">Mariscal Rim Trail </a>(6.5 miles roundtrip hike).<br /> <br /> The west side of the River Road is lesser used, and generally in a rougher condition. Unless you have full confidence in your high-clearance vehicle, consider backtracking from the Mariscal Mine and returning via the <a href=\"https://www.nps.gov/bibe/planyourvisit/glenn-springs-primitive-dirt-road.htm\">Glenn Springs Road</a>. The River Road crosses numerous washes, and regularly becomes impassable after rains.<br /> <br /> Protect Big Bend. Always stay on established roadways.<br /> <span style=\"color:#c0392b;\"><strong>OFF ROAD DRIVING IS PROHIBITED</strong>.</span></p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.07896111111111,
+          29.6436694
+        ]
+      },
+      "properties": {
+        "name": "Stillwell Store and RV Park",
+        "notes": "Stillwell Store and RV Park\nhttps://www.nps.gov/places/stillwells-store-and-camping.htm\n\n<p>Privately owned campground and general store near the northern entrance to Big Bend National Park.<br /> <br /> Tent camping and RV camping facilities. Showers, rest-rooms, wi-fi, limited lodging rentals, a unique gift shop, and the Hallie Stillwell Hall of Fame Museum. This beautiful but simple old west setting will take you back in time to the 1950s and 60s. <br /> <br /> <u><strong>Advance Reservations are Required</strong></u><br /> Book online at <a href=\"https://www.stillwellstore.com/\">www.stillwellstore.com </a><br /> <br /> Gasoline is available, but no diesel fuel.<br />  </p>",
+        "icon": "red-pin-down.png"
+      }
+    }
+  ]
+}

@@ -1,0 +1,350 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.830729,
+          36.485693
+        ]
+      },
+      "properties": {
+        "name": "Ben Hur Chariots Wheel",
+        "notes": "Ben Hur Chariots Wheel\nhttps://www.nps.gov/places/ben-hur-chariots-wheel.htm\n\nThe lovely quilt block seen on the north side of the Stewart County Pubilc Library is known as Chariots Wheel or Ben-Hur's Chariot's Wheel.<br /> <br /> Brigadier General Lew Wallace was a division commander during the 1862 battle. His division was located not too far from the public library in the area where much of the February 15th fighting occurred. Wallace's Division was instrumental in halting the escape of Confederates from the area.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.8629390748,
+          36.4848310468
+        ]
+      },
+      "properties": {
+        "name": "Confederate Monument",
+        "notes": "Confederate Monument\nhttps://www.nps.gov/places/confederate-monument.htm\n\nThis monument was placed here by the Tennessee Division of the United Daughters of the Confederacy in 1933. The Confederate Monument commemorates the Southern soldiers who fought and died at Fort Donelson in 1862. The exact location of Confederate graves is unknown.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.8366928,
+          36.4891004
+        ]
+      },
+      "properties": {
+        "name": "Dover Hotel (Surrender House) Tour Stop #10",
+        "notes": "Dover Hotel (Surrender House) Tour Stop #10\nhttps://www.nps.gov/places/dover-hotel-surrender-house-tour-stop-10.htm\n\nThis nineteenth century hotel was the site of the 1862 surrender between Brigadier General Ulysses S. Grant and Brigadier General Simon B. Buckner. One room is open to the public, and visitors can read interpretive exhibits, and view a short film about the significance of the structure to the battle and the small community of Dover. Wayside exhibits are also located here. The audiovisual film is also available on the park's website.<br /> <br /> Public restrooms are not available. Brick walkways permit easy access for those with disabilities. One picnic table is available.<br /> <br /> The historic structure has had a rich history as hotel for riverboat travelers, a headquarters for Confederate commanders during the war, and as a private museum.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.8463737,
+          36.4856522
+        ]
+      },
+      "properties": {
+        "name": "Feathered Star quilt block",
+        "notes": "Feathered Star quilt block\nhttps://www.nps.gov/places/feathered-star-quilt-block.htm\n\nThis quilt block is very intricate and was used by accomplished quilters to showcase their handiwork.<br /> <br /> The Sykes Museum is administered by the local historical society. It was built in the 1880's and remodeled later to add the large porches. It is open by appointment only.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.84067290884758,
+          36.4809570150758
+        ]
+      },
+      "properties": {
+        "name": "Forge Road",
+        "notes": "Forge Road\nhttps://www.nps.gov/places/forge-road.htm\n\nOn the morning of February 15, 1862, the Confederate divisions of Generals Gideon Pillow and Bushrod Johnson, along with Lieutenant Colonel N.B. Forrest's cavalry, launched an attack on the Union line held by Brigadier General John A. McClernand near this location. This road was known at that time as Forge Road because it led to Randolph Forge.<br /> <br /> Soldiers with both the 26th Mississippi and 26th Tennessee infantries, later joined by other regiments, were successful in pushing General McClernand's Division from its position. Soldiers with the 8th, 9th, 11th, 12th, 18th, 20th, 30th, and 41st Illinois Infantries fought valiantly to hold their positions, before they were exhausted and scattered, needing ammunition to continue the fight. <br /> <br /> For a brief time, Forge Road was open, which would have allowed a way of escape for Confederates.  By nightfall, after more than six hours of continuous battle, the Confederates were ordered to return to their original positions. The way of escape was now closed, as Union forces moved to reoccupy the area once more.<br /> <br /> The Texas Monument was placed in this location in 1963 to honor of the Texas troops who fought at Fort Donelson.  ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.85684341503601,
+          36.49092905135468
+        ]
+      },
+      "properties": {
+        "name": "Fort Donelson Entrance",
+        "notes": "Fort Donelson Entrance\nhttps://www.nps.gov/places/fort-donelson-entrance.htm\n\nThe fortification was constructed from logs and earth with picks and axes, creating walls that reached ten feet tall. Confederate soldiers and enslaved African Americans began working on the fort in the summer of 1861 and it was completed by the end of that year. In addition, all the trees surrounding the 15-acre fort were cut, with the treetops sharpened, to form an <em>abatis</em>. This <em>abatis</em> was an additional obstruction for the enemy.<br /> <br /> The fort was built for the defense of the artillery batteries on the Cumberland River.  ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.86249025695992,
+          36.48276035182041
+        ]
+      },
+      "properties": {
+        "name": "Fort Donelson NB Education Pavilion",
+        "notes": "Fort Donelson NB Education Pavilion\nhttps://www.nps.gov/places/fort-donelson-nb-education-pavilion.htm\n\nThe pavilion near the Fort Donelson NB Visitor Center is often a location for park programs and interpretive media.<br /> <br />  ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.863506022229,
+          36.48232566045848
+        ]
+      },
+      "properties": {
+        "name": "Fort Donelson NB Visitor Center",
+        "notes": "Fort Donelson NB Visitor Center\nhttps://www.nps.gov/places/fort-donelson-nb-visitor-center.htm\n\nThe Visitor Center and Education Pavilion are located at the main entrance. Brochures, exhibits, passport stamps, and restrooms are available. Park Rangers currently staff the temporary Visitor Center daily, 8:30 am - 4:00 pm.  <br /> <br /> The park audiovisual film is available online: <a href=\"https://www.nps.gov/fodo/planyourvisit/things2do.htm\">Things To Do - Fort Donelson National Battlefield (U.S. National Park Service) (nps.gov)</a><br /> <br /> Brochures, Junior Ranger Handbooks, and other information are available daily at the Education kiosk. Park roads are open daily as well.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.847567175,
+          36.488392547000004
+        ]
+      },
+      "properties": {
+        "name": "Fort Donelson National Cemetery",
+        "notes": "Fort Donelson National Cemetery\nhttps://www.nps.gov/places/fort-donelson-national-cemetery.htm\n\nFort Donelson National Cemetery was established in 1867. Buried within this hallowed grounds are the remains of 670 United States soldiers and civilians from the Civil War, plus subsequent veteran burials from all American wars. There are approximately 1,700 gravesites.<br /> <br /> The fifteen-acre cemetery is enclosed by a hand-hewn limestone rock wall. A two-story Meigs home, originally built for a cemetery Superintendent, now houses the National Park headquarters. An original carriage house serves as exhibit space and contains an electronic roster of cemetery internments, park brochures, and maps. Restrooms are available in the cemetery.  ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.0553784817053,
+          36.50081458891341
+        ]
+      },
+      "properties": {
+        "name": "Fort Heiman",
+        "notes": "Fort Heiman\nhttps://www.nps.gov/places/fort-heiman.htm\n\nFort Heiman is now preserved as a unit of Fort Donelson National Battlefield. It is located in Calloway County, Kentucky.<br /> <br /> The site is still under early development; there is not a Visitor Center or Contact Station. Interpretive wayside exhibits, historic earthworks, and a small pavilion with exhibits are located here. NPS regulations are enforced.<br /> <br /> Visitors to the area should park near the pavilion and be prepared to walk, from this location, to view earthworks and more interpretive exhibits. This is perhaps a half-mile hike to a higher point overlooking the Tennessee River.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.84359115225578,
+          36.480358879249835
+        ]
+      },
+      "properties": {
+        "name": "French's Battery",
+        "notes": "French's Battery\nhttps://www.nps.gov/places/french-s-battery.htm\n\nThis is the location of David A. French's four-gun battery. This battery supported Colonel Joseph Drake's Brigade on the February 15th Confederate Breakout.<br /> <br /> Earthworks, one field cannon, and wayside exhibits may be viewed if you walk a short distance from the parking area.  <br /> <br />  ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.85758370472412,
+          36.48142850793003
+        ]
+      },
+      "properties": {
+        "name": "Graves Battery",
+        "notes": "Graves Battery\nhttps://www.nps.gov/places/graves-battery.htm\n\nThis location provides an understanding of the outer earthworks and their importance for the Confederate defense line. At the time of the battle, this high ridge provided a view of the enemy's approach and positions.<br /> <br /> Graves Battery was a six-gun battery commanded by Captain Rice E. Graves and placed here to guard the Indian Creek valley. They assisted with the February 13th attack on Maney's Battery and moved to support the Confederate breakout on February 15th.<br /> <br /> <br />  ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.8626048,
+          36.4824529
+        ]
+      },
+      "properties": {
+        "name": "Joseph's Coat",
+        "notes": "Joseph's Coat\nhttps://www.nps.gov/places/joseph-s-coat.htm\n\nThis quilt block is called Joseph's Coat. While each 19th century seamstress may have varied patterns a little, this pattern must have been a popular one. Confederates after the surrender in February 1862 were described as having ragged and thin clothing, but the colors were \"all the colors of Joseph's Coat.\"  <br /> <br /> Other accounts described Confederates wrapped in quilts, blankets, and even horse blankets to protect themselves from the harsh wintry and cold weather.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.882618,
+          36.481744
+        ]
+      },
+      "properties": {
+        "name": "Log Cabin Quilt block",
+        "notes": "Log Cabin Quilt block\nhttps://www.nps.gov/places/log-cabin-quilt-block.htm\n\nThe location of Brigadier General Ulysses S. Grant's headquarters during the 1862 battle was not far from this location, in a small farmhouse owned by Widow Crisp.  <br /> <br /> Mrs. Crisp's descendants preserved one of her quilts, the Log Cabin or \"barn raising\" quilt, which is featured in this quilt block. The quilt is now in the care of Carolyn Walter Darke.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.8023560199713,
+          36.447038500364165
+        ]
+      },
+      "properties": {
+        "name": "Memory Wreath",
+        "notes": "Memory Wreath\nhttps://www.nps.gov/places/memory-wreath.htm\n\nThis quilt block is found on the large barn at Maple Grove Farm.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.84003678465577,
+          36.48791775188531
+        ]
+      },
+      "properties": {
+        "name": "Quilt Trail",
+        "notes": "Quilt Trail\nhttps://www.nps.gov/places/quilt-trail.htm\n\nThe Quilt Tour is a self-guided auto tour of the colorful, painted quilt blocks in Stewart County, Tennessee. One of the blocks is featured on the side of the Mission-66 Visitor Center within Fort Donelson NB. Many of the other 90 quilt blocks are found on businesses, churches, and private homes.  It took nearly five years for a few volunteers and history enthusiasts to create and hang these beautiful pieces of art. <br /> <br /> The quilt trail was inspired by local artist Carolyn Walter Darke, who owned her own archtectural rendering business in Atlanta, and returned to her hometown. She was inspired by her own family's story, which was intertwined in the battle of Fort Donelson. More research led Darke and fellow art lover Betsy Tumelson to highight how Americans remembered the Civil War, how quilts commemorate the veterans who served, and how art and history unite to tell a story.<br /> <br /> Quilting is one of the oldest forms of American folk art. In the 19th century, women and young girls knew how to piece quilt blocks. Quilts were not really artwork, they were utilitarian, offering comfort and warmth for families. As the war began, quilts were taken by Confederate soldiers to training camps. Quilting provided a way to support the war effort too. Groups of women made quilts to raffle off as fundraisers or sewed soldier's cot quilts to cover coffins of deceased veterans (one may be found in the historic Dover Hotel). Newspaper journalists and sketch artists recorded the stories and images of thousands of Confederate soldiers, now prisoners-of-war at Fort Donelson, who wrapped themselves in homemade quilts and blankets to await their trip to Northern prisons.<br /> <br /> This auto tour consists of four separate driving tours. Some of the tour can take you approximately 25 -miles outside of the city of Dover. Plan for at least three-four hours to view all blocks. Don't be disappointed if some quilt blocks have been moved; it's entirely a voluntary agreement to display the quilt block for the visiting public.  <br /> <br /> <a href=\"https://npgallery.nps.gov/AssetDetail/964736f6-13de-49b9-bba1-26ea2cfbefc5?branding=NONE\">NPGallery Asset Detail (nps.gov)</a><br />  ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.866715,
+          36.478912
+        ]
+      },
+      "properties": {
+        "name": "Roper Star Quilt Block",
+        "notes": "Roper Star Quilt Block\nhttps://www.nps.gov/places/roper-star-quilt-block.htm\n\nThe Roper Star was pieced by a young woman named Timexenia M. Morris Roper in Stewart County, TN using bits of home-dyed black, yellow and orange tobacco sacks.  <br /> <br /> She made this for one of her twin sons sometime during the Civil War.<br /> <br /> For another view of this beautiful quilt, visit the Black Family Farm, 175 Lorena Bagwell Drive, Dover, TN 37058.<br /> <br /> For additional information on this quilt, see <em>The Quilts of Tennessee: Images of Domestic Life Prior to 1930.</em>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.01578521728516,
+          36.507083892822266
+        ]
+      },
+      "properties": {
+        "name": "Site of Fort Henry",
+        "notes": "Site of Fort Henry\nhttps://www.nps.gov/places/site-of-fort-henry.htm\n\nFort Henry, located on the Tennessee River, was the site of the first battle between Union ironclads and Confederate land batteries in February 1862. The remains of this historic site are located on public lands managed by the USDA Land Between the Lakes NRA. On-site Visitor Center is not available.<br /> <br /> Maps and hiking trails information are available at the South Welcome Station or the USFS Land Between the Lakes NRA website. You will drive past this area on Hwy 79 South as you travel to the Fort Heiman Site.<br /> <br /> A second Fort Henry historical marker is located on Highway 79. You may see this as you drive toward Fort Heiman.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.86556595875244,
+          36.488065346126874
+        ]
+      },
+      "properties": {
+        "name": "Smith's Attack",
+        "notes": "Smith's Attack\nhttps://www.nps.gov/places/smith-s-attack.htm\n\nOn this portion of the battlefield, Brigadier General Ulysses S. Grant ordered a counterattack on the point in the Confederate line that was believed to be the weakest point. General Charles F. Smith led this assault by horseback, up the steep hillside, with young soldiers from the 2nd Iowa, 7th Iowa, 14th Iowa, 16th Missouri and 25th Indiana Infantry units following him. Slowly and sadly, the Confederate soldiers were ordered to return to this area, their former camp.  <br /> <br /> It was at this point in the battle that Corporal Voltaire Twombly, 2nd Iowa Infantry, picked up the colors from three other wounded comrades and carried them until the end of the engagement. Twombly would be awarded the Medal of Honor in 1897.<br /> <br /> The Confederate position was overrun, and they were pushed back to the next ridge, while Smith's forces occupied the earthworks by nightfall. Both sides waited for daylight to resume combat. <br />  ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.8563200628682,
+          36.49318693047339
+        ]
+      },
+      "properties": {
+        "name": "The Confederate Fort",
+        "notes": "The Confederate Fort\nhttps://www.nps.gov/places/the-confederate-fort.htm\n\nIf you're at Tour Stop #3, you are inside the fortification. Earthen walls were constructed on the high ridges around the \"bowl\" or hollow. The park road was built through the fort walls; once you leave this area, you are driving or walking away from the fort toward the river.<br /> <br /> The 15-acre fort was built between June-December 1861. Confederates built winter quarters, similar to the reproduction log hut visible from this point. This was a training camp for volunteers: they were mustered into Confederate regiments at this site, practiced their drills, and worked on the construction of the fort.<br /> <br /> According to post-battle accounts, the huts were burned after the battle.<br /> <br /> Weathering and erosion impacted the fortification since the Civil War. We urge you to protect these cultural resources by not walking on the fort wall.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.84739774603271,
+          36.48630315718918
+        ]
+      },
+      "properties": {
+        "name": "Underground Railroad \"Free State Community\"",
+        "notes": "Underground Railroad \"Free State Community\"\nhttps://www.nps.gov/places/underground-railroad-free-state-community.htm\n\nFreedom-seeking slaves sought refuge, food, and safety from the Union Army in the days and weeks following the 1862 surrender of Confederate forces to Brigadier General Ulysses S. Grant. U.S. troops maintained control of Middle Tennessee and the Twin Rivers for the remainder of the war. In the shadows of the Union camps at Henry, Heiman, and Donelson, a thriving African American community developed.<br /> <br /> Oral histories, military records, and a few diaries tell the stories of these often unknown refugees. Schools, churches, and homes were built near the Union Fort Donelson (today's national cemetery). A postwar map described the area as \"Free State.\"",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.86535138203125,
+          36.486685209416756
+        ]
+      },
+      "properties": {
+        "name": "Union Camp",
+        "notes": "Union Camp\nhttps://www.nps.gov/places/union-camp.htm\n\nIn this location, you will see rifle pits, some just beyond the wayside exhibit. These are much different than the other earthworks that surrounded the Confederate fort. This tour stop is called the Union camp, because it was captured after General Smith's counterattack earlier in the day (Tour Stop #5).<br /> <br /> Many of General Buckner's men, the soldiers with the 18th Tennessee, the 2nd Kentucky, and the 14th Mississippi infantries, struggled throughout the afternoon on February 15th to try and dislodge the Union forces from their newly-acquired position in the former Confederate rifle pits. By nightfall, soldiers on both side collapsed, cold, exhausted, and hungry. Both armies roughly ended up in the same battlefield positions from which they began fighting earlier that same morning. The Confederates had captured some pieces of artillery, weapons, and military supplies, but this wasn't what this breakout attempt had been all about.<br /> <br /> Confederates now formed a new line, their final defense on the wooded ridge, across the park road, behind you. <br /> <br /> <br /> <br />  ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.85611343383789,
+          36.49448701775901
+        ]
+      },
+      "properties": {
+        "name": "Water Batteries",
+        "notes": "Water Batteries\nhttps://www.nps.gov/places/water-batteries.htm\n\nTour Stop #4 contains the site of the artillery batteries built by the Confederates for the defense of the Cumberland River. The upper gun battery has three guns: two 32-lb carronades and one rifled Columbiad. The lower battery features several 32-lb cannons and one smoothbore Columbiad.  <br /> <br /> Rivers were strategically important for both armies. The Confederates chose this site to protect not only the waterway, but their supply base located in Nashville, TN.  <br /> <br /> At this location, Confederate gunners exchanged fire with Union sailors aboard the <em>City Series</em> fleet of ironclad gunboats on February 14, 1862. If you walk in front of the gun battery emplacement at the Lower Gun Battery, you will find interpretive signs explaining the ironclads and a War Department plaque which describes the battle. Wayside intepretive exhibits are also located on the observation deck.<br /> <br /> <br /> <br />  ",
+        "icon": "red-pin-down.png"
+      }
+    }
+  ]
+}

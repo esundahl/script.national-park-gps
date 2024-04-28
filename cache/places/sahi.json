@@ -1,0 +1,820 @@
+[
+  {
+    "id": "EF7D2EFD-CA82-4663-9DE9-4900DC92A902",
+    "url": "https://www.nps.gov/places/eel-creek-and-cold-spring-harbor.htm",
+    "title": "Eel Creek and Cold Spring Harbor",
+    "listingDescription": "The nature trail leads to Eel Creek and Cold Spring Harbor on the east end of the site.",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/37CA5AFE-D412-D3B2-628434E5A23939EF.jpg",
+        "credit": "NPS",
+        "altText": "A sandy path leading to a beach with rope fencing and grass on either side of the path.",
+        "title": "Path to Beach",
+        "description": "",
+        "caption": "The nature trail leads to Eel Creek and a beach on Cold Spring Harbor.",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/37CA5AFE-D412-D3B2-628434E5A23939EF.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/37CA5AFE-D412-D3B2-628434E5A23939EF.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "NY",
+        "parkCode": "sahi",
+        "designation": "National Historic Site",
+        "fullName": "Sagamore Hill National Historic Site",
+        "url": "https://www.nps.gov/sahi/index.htm",
+        "name": "Sagamore Hill"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [
+      "Sagamore Hill",
+      "Theodore Roosevelt",
+      "beach",
+      "salt marsh"
+    ],
+    "latitude": "40.88547973581903",
+    "longitude": "-73.49031773518881",
+    "latLong": "40.88547973581903,-73.49031773518881",
+    "bodyText": "On the easternmost boundary of Sagamore Hill lies Eel Creek and Cold Spring Harbor. Eel Creek is a saltwater tidal creek and salt marsh which is home to marsh grass, mollusks, crabs, fish, and wading birds. On the opposite side of the footbridge is a beach on the western shore of Cold Spring Harbor and Oyster Bay National Wildlife Refuge. During the Roosevelt family's time here, they maintained a footbridge, a shack for changing into swimming attire, and a shed to store rowboats. The children enjoyed swimming and playing in the sand, while TR's favorite activity was rowing. <br /> <br /> The Roosevelt Beach area is for passive recreation only. This includes viewing wildlife, enjoying the natural scenery and feeling a connection to nature. Activities typically associated with a recreational beach are prohibited. Read our <a href=\"https://www.nps.gov/sahi/planyourvisit/visiting-eel-creek-and-cold-spring-harbor.htm\">rules and regulations</a> page for more information: <a href=\"https://www.nps.gov/sahi/planyourvisit/visiting-eel-creek-and-cold-spring-harbor.htm\">Visiting Eel Creek and Cold Spring Harbor</a>",
+    "audioDescription": "An open salt marsh with salt grass, a tidal creek, and gray colored footbridge extending to a dune area on the opposite bank. The dune area is grassy, sandy, and is sometimes flooded by high tide. Beyond the dune lies a pebble beach, with the open water of Cold Spring Harbor. To the east is the eastern shore of Lloyd Neck and to the north the Connecticut shore is visible across Long Island Sound.",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "",
+    "isManagedByNps": "1",
+    "amenities": [
+      "Historical/Interpretive Information/Exhibits",
+      "Scenic View/Photo Spot"
+    ],
+    "managedByOrg": "",
+    "quickFacts": [],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  },
+  {
+    "id": "3B9760DC-0083-40F5-8D7B-3DC4C5D8F5AA",
+    "url": "https://www.nps.gov/places/old-orchard.htm",
+    "title": "Old Orchard",
+    "listingDescription": "Old Orchard was the home of Theodore Roosevelt, Jr. Today, it serves as Sagamore Hill's Visitor Center and has exhibits on the life of President Theodore Roosevelt.",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/3DA36383-F630-05E9-DB3527B389C7409D.jpg",
+        "credit": "NPS",
+        "altText": "A large brick house with white shutters and blossoming apple trees in the foreground.",
+        "title": "Old Orchard Museum & Visitor Center",
+        "description": "",
+        "caption": "Formerly the residence of Theodore Roosevelt Jr, the home now serves as a visitor center and museum.",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/3DA36383-F630-05E9-DB3527B389C7409D.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/3DA36383-F630-05E9-DB3527B389C7409D.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "NY",
+        "parkCode": "sahi",
+        "designation": "National Historic Site",
+        "fullName": "Sagamore Hill National Historic Site",
+        "url": "https://www.nps.gov/sahi/index.htm",
+        "name": "Sagamore Hill"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [
+      "Old Orchard",
+      "Sagamore Hill",
+      "Theodore Roosevelt",
+      "Theodore Roosevelt Jr."
+    ],
+    "latitude": "40.88595808264465",
+    "longitude": "-73.49593284700934",
+    "latLong": "40.88595808264465,-73.49593284700934",
+    "bodyText": "Theodore Roosevelt Jr. (Ted) and his wife Eleanor Alexander Roosevelt built the house they called “Old Orchard” in 1937-1938 on four acres of land purchased from Ted’s mother in the Sagamore Hill apple orchard. The Georgian style home was designed to Ted and Eleanor Roosevelt’s satisfaction by their son-in-law, Baltimore architect William G. McMillan, Jr.<br /> <br /> <span style=\"color: rgb(34, 34, 34); font-family: inherit; font-size: 1.25rem; font-weight: 700;\">Theodore Roosevelt Jr. and Eleanor Alexander Roosevelt</span><br /> <br /> Eleanor Butler Alexander was born in New York’s Upper East Side to Henry Addison Alexander and Grace Green in 1888. Although a native New Yorker, Eleanor spent the first years of her life on move, living in California and Paris, France for a period of six years. She returned to the United States in 1900.<br /> <br /> Eleanor and Ted had several encounters at social functions since Eleanor was acquainted with Ted’s younger sister, Ethel. The two were married in New York City at Fifth Avenue Presbyterian Church on June 20, 1910. Together, Theodore and Eleanor Roosevelt had four children: Grace, Theodore II, Cornelius and Quentin II (named for Ted’s baby brother who was killed during the First World War.)<br /> <br /> <span style=\"color: rgb(34, 34, 34); font-family: inherit; font-size: 1.25rem; font-weight: 700;\">Old Orchard House </span><br /> <br /> The Old Orchard house was built of brick and intended to be painted white, but left exposed because Eleanor found the color to be “so good.” Instead, the doors, shutters and trim of Old Orchard were painted off white. The exterior brick would eventually be covered in English ivy, which remained until the National Park Service acquisition in 1962.<br /> <br /> The elegant home was filled with mementos of world travel, including Chinese furniture collected by Eleanor in the 1920s as well as reminders of Ted’s service in the infantry during World War I. The large eighteenth-century front door was found in back yard of a parish in Dublin by Ted and Eleanor.<br /> <br /> The entrance hall to the home was lined with family portraits dating back four generations, and some of Ted’s flags, including those from his governorships and of other prominent positions he held. Ted shared his father’s love of reading, and Eleanor stated that books \"…have overflowed into every room in the house, both upstairs and down.” Eleanor referred to the inside of the home as her province and wanted color everywhere. Some rooms had a color theme –the drawing room, “happily combined every shade of red from deep crimson to pale rose”—while others were filled with items from a trip to China, gifts from family and friends and other family treasures.<br /> <br /> The upstairs was home to the family bedrooms. One for Ted and Eleanor and one each for their sons, Quentin and Cornelius (their daughter Grace and son Theodore III had moved out years earlier), as well as one for their maid and two spare rooms.  As was typical in some English country houses at the time, the Roosevelts decided to name some of the bedrooms in their home, with names as exotic as “Chengtu,” after Quentin’s interest in China or as American as “Vermont,” after the state where some of the furniture in Ted and Eleanor’s room was purchased.<br /> <br /> Along with the house, the Old Orchard compound also included a multi-bay garage for the family’s automobiles; a cottage for the site foreman, and a cold storage all located within close proximity to the home.<br /> <br /> Ted Jr. lived in the Old Orchard House until his death in 1944 and his wife Eleanor Alexander Roosevelt lived in the house until her death in 1960. <h4> </h4>",
+    "audioDescription": "The Old Orchard House sits on four acres of Theodore Roosevelt's original estate in Oyster Bay, NY. It is in the northeast area of the estate. The house is a large Georgian-style brick home with white shutters. The area around the house has many apple and pear trees and the nature trailhead is located to the southwest.",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "",
+    "isManagedByNps": "1",
+    "amenities": [
+      "Accessible Rooms",
+      "Automated Entrance",
+      "Automated External Defibrillator (AED)",
+      "Baby Changing Station",
+      "Benches/Seating",
+      "Captioned Media",
+      "Entrance Passes For Sale",
+      "Food/Drink - Snacks",
+      "Gifts/Souvenirs/Books",
+      "Historical/Interpretive Information/Exhibits",
+      "Information",
+      "Information - Maps Available",
+      "Information - Ranger/Staff Member Present",
+      "Internet/WiFi Available",
+      "Open Captioning",
+      "Restroom",
+      "Restroom - Accessible",
+      "Theater/Auditorium",
+      "Ticket Sales",
+      "Toilet - Flush",
+      "Water - Bottle-Filling Station",
+      "Water - Drinking/Potable",
+      "Wheelchair Accessible",
+      "Wheelchairs Available"
+    ],
+    "managedByOrg": "",
+    "quickFacts": [
+      {
+        "id": "5C252B96-2DEB-4EF4-91D1-B5D2B202FCD7",
+        "value": "Oyster Bay, NY",
+        "name": "Location"
+      },
+      {
+        "id": "208F1B3C-44DC-4CF5-9A61-9B26A364D701",
+        "value": "Theodore Roosevelt Jr.'s Residence",
+        "name": "Significance"
+      }
+    ],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  },
+  {
+    "id": "64B8CA46-24E3-49F6-A14F-87A1A42193E5",
+    "url": "https://www.nps.gov/places/oyster-bay-new-york.htm",
+    "title": "Oyster Bay, New York",
+    "listingDescription": "A visit to Sagamore Hill is not complete without a visit to nearby historical and natural attractions, including the Village of Oyster Bay, Young's Cemetery (Roosevelt gravesite), Planting Fields, the Theodore Roosevelt Sanctuary and Audubon Center, and numerous other parks, museums.",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/FCD9803C-A09D-E83D-249631E16EBF1F83.jpg",
+        "credit": "NPS/Sagamore Hill Collection Archives",
+        "altText": "Octagon Hotel",
+        "title": "Octagon Hotel",
+        "description": "",
+        "caption": "The Octagon Hotel in Downtown Oyster Bay",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/FCD9803C-A09D-E83D-249631E16EBF1F83.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/FCD9803C-A09D-E83D-249631E16EBF1F83.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "NY",
+        "parkCode": "sahi",
+        "designation": "National Historic Site",
+        "fullName": "Sagamore Hill National Historic Site",
+        "url": "https://www.nps.gov/sahi/index.htm",
+        "name": "Sagamore Hill"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [
+      "Oyster Bay",
+      "Roosevelt",
+      "Theodore Roosevelt",
+      "Sagamore Hill"
+    ],
+    "latitude": "40.87265465589502",
+    "longitude": "-73.5304663516581",
+    "latLong": "40.87265465589502,-73.5304663516581",
+    "bodyText": "Since its settlement in 1653, Oyster Bay has had a rich history as a colonial settlement, ship building center, and as a hub for spy activity during the Revolutionary War while under British control. In the 1800’s, Oyster Bay was a popular summer destination for wealthy New York City families. In 1902, the area was brought to national attention when the 26<sup>th</sup> U.S. President Theodore Roosevelt, created the first “Summer White House,” having moved the executive office and staff from Washington, D.C. to Oyster Bay for the summers of 1902-08.<br /> <br /> Roosevelts have lived in Oyster Bay since the 1860’s. As a child, Theodore Roosevelt's father rented a house in the area named Tranquility, where the family spent their summers. In 1885, TR built his home, Sagamore Hill, two and a half miles east of the village center, which he and his family frequented for goods, services, transportation and business. Today, Oyster Bay boasts sites and buildings in the village connected to Theodore Roosevelt, as well as memorials erected in tribute to Oyster Bay’s most beloved and famous resident. We encourage you to take a trip back in time and stroll the historic village to learn more about Theodore Roosevelt’s Oyster Bay.  <hr /> <h4>Oyster Bay Long Island Railroad Station</h4> <br /> <i>Foot of Audrey Avenue</i><br /> <br /> The historic railroad station was built by the Long Island Railroad in 1889 and actively served the town until 1999. As New York City Police Commissioner between 1895 and 1897, Roosevelt regularly commuted from Oyster Bay into the city. Later, President Roosevelt would often travel to and from Washington D.C., by rail using this very train station. The station has been designated a Town of Oyster Bay Landmark and is on the National Register of Historic Places. <hr /> <h4>Derby Hall Bandstand</h4> <br /> <i>Shore & Audrey Avenue</i><br /> <br /> Located in a small triangle between Oyster Bay Town Hall and the U.S. Post Office, it is here that Roosevelt often addressed the people of Oyster Bay, most notably during Independence Day celebrations. Time and weather took their toll on the original structure: it fell into disrepair and was razed. As a memorial to TR's daughter, Ethel Roosevelt Derby, her godson, retired Congressman Leonard Hall, raised funds for its reconstruction and it was dedicated in 1981. Since Hall died during its construction, the name was changed to honor both Mrs. Derby and Congressman Hall. It is flanked by three Civil War-era cannons, one of which was presented by the Navy to the town and unveiled by Theodore Roosevelt years eariler in 1903. <hr /> <h4>Oyster Bay Bank</h4> <br /> <i>20 Audrey Avenue</i><br /> <br /> Built in 1891, this 3 ½ story building was the first bank built to serve the hamlet. The second floor of the building served as Roosevelt's Oyster Bay office while Governor of New York. In the summer of 1902, it served the same function for his White House staff. Between the 1890’s and 1924, the third floor was used as the Matinecock Lodge (#806) by the local chapter of the Masons. In January 1901, TR was inducted as a member of the lodge and attended meetings here throughout his life. In 1924, the lodge moved to the former Townsend Inn at 14 West Main Street. Roosevelt’s son, Theodore Roosevelt Jr., was active with the Masons at this location after his father’s death. Unfortunately, the historic Townsend Inn building burned in 2003. A similar style building was reconstructed on the site and it continues to serve as a Masonic Lodge. <hr /> <h4>The Moore Building</h4> <br /> <i>1 East Main Street</i><br /> <br /> Built in 1891 by grocer James Moore, this building is one of the most prominent commercial buildings in the village. In 1902, it was expanded and the Queen Anne turret was added. In the summer of 1903, President Roosevelt's secretary William Loeb, noted its modern fixtures and its prominence at the commercial crossroads of Oyster Bay, and chose to rent office space here, moving from the Oyster Bay Bank Building. The offices were the base of operations for the “Summer White House” while TR was in town. Sagamore Hill connected to the Moore Building by telegraph and phone service. The building was also known as the “gate” because those interested in visiting the president needed to obtain permission through Secret Service agents who operated from there. The Moore Building is listed on the National Register of Historic Places and is a Town of Oyster Bay Landmark. <hr /> <h4>Christ Church</h4> <br /> <i>61 East Main Street</i><br /> <br /> Roosevelt was brought up in the Dutch Reformed Church, but after marrying his second wife, Edith Kermit Carow, an Episcopalian, he and his family attended this church regularly throughout their lives and the Roosevelt family pew is preserved inside. When originally built in 1878, it was a wood building. In 1925, the structure was encased in stone.<br /> <br /> Only a few miles from Sagamore Hill, Roosevelt once said, “The walk back from Church is almost as pleasant as the sermon itself.” He sometimes rowed Edith from the family beach around the tip of Cove Neck to attend this church. When Theodore Roosevelt died on January 6, 1919, his funeral was held at Christ Church with the procession heading east on East Main Street to Youngs Cemetery one mile from the church. <hr /> <h4>The First Presbyterian Church</h4> <br /> <i>60 East Main Street</i><br /> <br /> As a youth, Roosevelt attended this church with his family when his father rented a summer home in Oyster Bay. Theodore Roosevelt’s father was an Elder at the Presbyterian Church at the time of his death in 1878. The carpenter Gothic-style church was built in 1873 and is listed on the National Register of Historic Places. <hr /> <h4>Snouder’s Drug Stores</h4> <br /> <i>108 South Street</i><br /> <br /> Built in 1855 and expanded in 1890, this building had housed Snouder’s Drug Store since 1884. For many years, Snouder’s had the only telephone and switchboard in the village (beginning in 1887). Mr. Snouder would send staff members out on bicycles to deliver messages to the village households, including Sagamore Hill. In 1902, after becoming President, TR reluctantly allowed a telephone to be installed in the Roosevelt Home; the number was “OB 67.” The Roosevelt children often rode their ponies into Oyster Bay to visit the soda fountain at Snouder’s and get ice cream. This building is a Town of Oyster Bay Landmark. <hr /> <h4>Octagon Hotel</h4> <br /> <i>67 West Main Street</i><br /> <br /> Built in 1854 as part of a mid-century movement to construct eight-sided structures that were said to be more conducive to healthy living because of increased light, ventilation and enhanced space, it was the only known “octagon” hotel at the time of its construction. The building was a popular gathering place for the upper class in Oyster Bay into the early 20<sup>th</sup> century. Over the years, Theodore Roosevelt was one of the hotel’s esteemed guests, visiting for business, political and social events. During his presidential years, visitors to the Summer White House often stayed here. The building served as a hotel until 1922. In subsequent years, its primary use was as a car dealership and automotive repair shop. In 2009, a private developer plans to rehabilitate the building as a mixed use development.",
+    "audioDescription": "Theodore Roosevelt's Life in Oyster Bay, New York.",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "",
+    "isManagedByNps": "0",
+    "amenities": [],
+    "managedByOrg": "",
+    "quickFacts": [
+      {
+        "id": "5C252B96-2DEB-4EF4-91D1-B5D2B202FCD7",
+        "value": "Oyster Bay, NY",
+        "name": "Location"
+      },
+      {
+        "id": "208F1B3C-44DC-4CF5-9A61-9B26A364D701",
+        "value": "Location of Sagamore Hill ",
+        "name": "Significance"
+      }
+    ],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  },
+  {
+    "id": "CCDD28F7-8330-4055-A62C-F21BF9BE1111",
+    "url": "https://www.nps.gov/places/roosevelt-home.htm",
+    "title": "Roosevelt Home",
+    "listingDescription": "Sagamore Hill was the home of Theodore Roosevelt, 26th President of the United States, from 1885 until his death in 1919. The home served as the “Summer White House” during Roosevelt’s presidency.",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/2F3042F5-BAD2-2F38-48889858E6B5F809.jpg",
+        "credit": "Audrey Tiernan",
+        "altText": "A large gray and brick colored house with a porch with grass in the foreground.",
+        "title": "Roosevelt Home",
+        "description": "",
+        "caption": "The Roosevelt home was the \"Summer White House\" during TR's presidency.",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/2F3042F5-BAD2-2F38-48889858E6B5F809.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/2F3042F5-BAD2-2F38-48889858E6B5F809.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "NY",
+        "parkCode": "sahi",
+        "designation": "National Historic Site",
+        "fullName": "Sagamore Hill National Historic Site",
+        "url": "https://www.nps.gov/sahi/index.htm",
+        "name": "Sagamore Hill"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [
+      "Roosevelt",
+      "president",
+      "presidential home",
+      "Theodore Roosevelt",
+      "Sagamore Hill"
+    ],
+    "latitude": "40.8853634685432",
+    "longitude": "-73.50102913379672",
+    "latLong": "40.8853634685432,-73.50102913379672",
+    "bodyText": "Sagamore Hill was the home of Theodore Roosevelt, 26th President of the United States, from 1885 until his death in 1919. The home served as the “Summer White House” during Roosevelt’s presidency. The Queen Anne or shingle style house has 23 rooms and sits atop the highest point on Cove Neck, affording the family a view of Oyster Bay harbor to the west (which today is blocked by trees across the road). Roosevelt was most concerned with comfort and function rather than style or grandeur when planning the house and wanted a large \"piazza\" or porch facing the water, a library and parlor, plenty of bedrooms for family and guests, and large fireplaces. The rooms of the home are filled with mementos of Roosevelt’s many hunting trips, gifts from around the world, and reminders of his major accomplishments as a soldier and statesman.<br /> <br /> The Roosevelt home is accessible by guided tour only. See the <a href=\"https://www.nps.gov/sahi/planyourvisit/fees.htm\">Fees and Passes</a> page for more information.",
+    "audioDescription": "A large three-story house atop a grassy hill. The home has high gables and is painted gray with red brick on the first story. A large porch wraps the western side of the home and overlooks a large open field running down to a road. There is a flagpole and gray memorial gravestone off the southwest corner of the porch. Various types of trees surround the home on three sides. Off the rear of the home, their is a small brick building with a cone shaped roof that was used as an ice house.",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "",
+    "isOpenToPublic": "0",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "",
+    "isManagedByNps": "1",
+    "amenities": [],
+    "managedByOrg": "",
+    "quickFacts": [
+      {
+        "id": "5C252B96-2DEB-4EF4-91D1-B5D2B202FCD7",
+        "value": "Oyster Bay, NY",
+        "name": "Location"
+      },
+      {
+        "id": "208F1B3C-44DC-4CF5-9A61-9B26A364D701",
+        "value": "Theodore Roosevelt's home",
+        "name": "Significance"
+      }
+    ],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  },
+  {
+    "id": "05D55492-45A0-4086-8856-594F4CEB2EA1",
+    "url": "https://www.nps.gov/places/sagamore-hill-garden.htm",
+    "title": "Sagamore Hill Garden",
+    "listingDescription": "The Roosevelt's garden included plots for fruits, vegetables, and decorative flowers for display inside the home.",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/742057F5-F7C1-EFF2-6EE0C686860048E3.jpg",
+        "credit": "NPS",
+        "altText": "A black and white photo of a flower garden with a Queen Anne-style building and trees.",
+        "title": "Sagamore Hill Garden",
+        "description": "",
+        "caption": "The garden included plots for fruits, vegetables, and decorative flowers for display inside the home",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/742057F5-F7C1-EFF2-6EE0C686860048E3.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/742057F5-F7C1-EFF2-6EE0C686860048E3.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "NY",
+        "parkCode": "sahi",
+        "designation": "National Historic Site",
+        "fullName": "Sagamore Hill National Historic Site",
+        "url": "https://www.nps.gov/sahi/index.htm",
+        "name": "Sagamore Hill"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [
+      "garden",
+      "Theodore Roosevelt",
+      "Sagamore Hill",
+      "Farm"
+    ],
+    "latitude": "40.88646398158879",
+    "longitude": "-73.50008229425652",
+    "latLong": "40.88646398158879,-73.50008229425652",
+    "bodyText": "The Roosevelt's garden was located on three acres north and west of what is now the parking lot. The family grew vegetables, such as potatoes, beans, lettuce and carrots, as well as fruits such as berries, grapes, peaches, and plums. In addition to food for the table, Mrs. Roosevelt kept a cutting garden for decorative flowers to adorn the Roosevelt home. The structure near the the present-day road was the gardener's shed, where gardener Alfred Davis lived and worked tending to the fruits and vegetables while keeping the Roosevelt children from trampling the flowers and eating too many berries.",
+    "audioDescription": "A grassy area with a few shrubs and trees, surrounded by a split rail fence. A small, gray wooden building sits near the road under a large sprawling oak tree.",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "",
+    "isManagedByNps": "1",
+    "amenities": [
+      "Historical/Interpretive Information/Exhibits"
+    ],
+    "managedByOrg": "",
+    "quickFacts": [],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  },
+  {
+    "id": "0D9A8B9F-F56B-4479-B295-0CD0FF64225E",
+    "url": "https://www.nps.gov/places/sagamore-hill-nature-trail.htm",
+    "title": "Sagamore Hill Nature Trail",
+    "listingDescription": "The nature trail leads through woodlands to Eel Creek and Cold Spring Harbor. Visitors can see a variety of wildlife such as songbirds, herons, egrets, osprey, bald eagles, fiddler crabs, white-tail deer, and ducks depending on the season.",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/7549BDC7-B1DB-12E2-A3798C1A60A9B265.jpg",
+        "credit": "NPS",
+        "altText": "A sign reading \"Nature Trail\" with a map and a trail and trees in the background.",
+        "title": "Sagamore Hill Nature Trail",
+        "description": "",
+        "caption": "Sagamore Hill's nature trail leads through woodlands to Eel Creek and Cold Spring Harbor.",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/7549BDC7-B1DB-12E2-A3798C1A60A9B265.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/7549BDC7-B1DB-12E2-A3798C1A60A9B265.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "NY",
+        "parkCode": "sahi",
+        "designation": "National Historic Site",
+        "fullName": "Sagamore Hill National Historic Site",
+        "url": "https://www.nps.gov/sahi/index.htm",
+        "name": "Sagamore Hill"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [],
+    "latitude": "40.88565776606647",
+    "longitude": "-73.49609047557323",
+    "latLong": "40.88565776606647,-73.49609047557323",
+    "bodyText": "Explore the woodlands and beach of Sagamore Hill on the nature trail. The trail is a 0.7 mile loop of easy to moderate difficulty that leads through an oak-tulip forest to a salt marsh and beach. Visitors can see a variety of wildlife such as songbirds, herons, egrets, osprey, bald eagles, fiddler crabs, white-tail deer, and ducks depending on the season. This short trail includes some steep uphill and downhill sections.<br /> <br /> Visitors should remain on trail to avoid poison ivy and ticks. Leashed dogs are allowed on-trail and at the beach. Please pack out all personal belongings, trash, and pet waste, as there are no trash receptacles on the trail. Note that the Cold Spring Harbor beach is for passive recreation only -- Swimming, wading, or picnicking is not allowed. Coolers, umbrellas, shelters, children’s beach toys, sunbathing, and any other activity typical of a recreational beach is prohibited.",
+    "audioDescription": "An eight foot wide wooded trail that leads downhill passing a small kettle pond and arriving at a bridge. Below the bridge is a tidal salt marsh. The bridge leads to a harbor beach. The trail then loops back through woods and ends at a large brick house.",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "",
+    "isManagedByNps": "1",
+    "amenities": [
+      "Benches/Seating",
+      "Historical/Interpretive Information/Exhibits",
+      "Scenic View/Photo Spot",
+      "Trailhead"
+    ],
+    "managedByOrg": "",
+    "quickFacts": [],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  },
+  {
+    "id": "6897DB37-3DCC-4D88-B004-F2C3E8D4F870",
+    "url": "https://www.nps.gov/places/sagamore-hill-overview-exhibit.htm",
+    "title": "Sagamore Hill Overview Exhibit",
+    "listingDescription": "Located along the main walking path leading to the Roosevelt Home, this wayside exhibit shows an illustrated aerial depiction the buildings and fields of the Sagamore Hill property circa 1918. It serves as the first stop on the self-guided audio tour. ",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/6BD1BF56-BD61-B2A6-67858FD02B7F6060.jpg",
+        "credit": "NPS",
+        "altText": "An illustrated exhibit sign on a paved path with plants and buildings in the background.",
+        "title": "Sagamore Hill Overview Wayside Exhibit",
+        "description": "",
+        "caption": "This exhibit shows the Sagamore Hill farm as it was circa 1918.",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/6BD1BF56-BD61-B2A6-67858FD02B7F6060.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/6BD1BF56-BD61-B2A6-67858FD02B7F6060.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "NY",
+        "parkCode": "sahi",
+        "designation": "National Historic Site",
+        "fullName": "Sagamore Hill National Historic Site",
+        "url": "https://www.nps.gov/sahi/index.htm",
+        "name": "Sagamore Hill"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [
+      "Roosevelt",
+      "Theodore Roosevelt",
+      "Sagamore Hill",
+      "audio tour"
+    ],
+    "latitude": "40.88601269994376",
+    "longitude": "-73.50048314797174",
+    "latLong": "40.88601269994376,-73.50048314797174",
+    "bodyText": "Located along the main walking path leading to the Roosevelt Home, this wayside exhibit shows an illustrated aerial depiction the buildings and fields of the Sagamore Hill property circa 1918. It serves as the first stop on the self-guided audio tour. ",
+    "audioDescription": "A wayside exhibit titled \"A Gentleman's Farm, 1918\" with an aerial-view illustration of the Sagamore Hill property showing the location of buildings, green fields, woods, and the water of Cold Spring Harbor. The wayside text reads: \"This land around you had always been a working farm. When Theodore Roosevelt bought the property in 1880 it already included an Orchard, fields of corn, asparagus, and buckwheat as well as an old barn. After the purchase, Roosevelt had his own ideas of what the farm should look like and cleared about 47 acres, including pastures. With a garden, fields, orchard, pigs, cows, horses, and chickens the farm required a full time farm manager and several full and part time farmhands. Even the Roosevelt family had chores to do. Edith kept the farm books; The children tended their sections of the garden, pulled weeds, and brought in the milk; While Roosevelt loved to roll up his sleeves at haying time.",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "",
+    "isManagedByNps": "1",
+    "amenities": [
+      "Historical/Interpretive Information/Exhibits"
+    ],
+    "managedByOrg": "",
+    "quickFacts": [],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  },
+  {
+    "id": "3E888932-DAB2-4A30-BFD4-D235942D6691",
+    "url": "https://www.nps.gov/places/sagamore-hill-pet-cemetery.htm",
+    "title": "Sagamore Hill Pet Cemetery",
+    "listingDescription": "Sagamore Hill's pet cemetery is the resting place of many of the Roosevelt family's cherished animal friends.",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/4281710C-0FE4-F0D8-0F6D6B32E9F4CD59.jpg",
+        "credit": "NPS",
+        "altText": "An large engraved stone sits near a metal sign at the edge of a grassy area.",
+        "title": "The Pet Cemetery",
+        "description": "",
+        "caption": "The Roosevelt family's \"Faithful Friends\" are honored at Sagamore Hill's pet cemetery.",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/4281710C-0FE4-F0D8-0F6D6B32E9F4CD59.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/4281710C-0FE4-F0D8-0F6D6B32E9F4CD59.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "NY",
+        "parkCode": "sahi",
+        "designation": "National Historic Site",
+        "fullName": "Sagamore Hill National Historic Site",
+        "url": "https://www.nps.gov/sahi/index.htm",
+        "name": "Sagamore Hill"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [
+      "Sagamore Hill",
+      "Theodore Roosevelt",
+      "Pets",
+      "dogs",
+      "horses"
+    ],
+    "latitude": "40.88631351652266",
+    "longitude": "-73.50137217290752",
+    "latLong": "40.88631351652266,-73.50137217290752",
+    "bodyText": "The Roosevelt family had a menagerie of pets including dogs, guinea pigs, horses, and even a badger. Many of their pets were buried at the pet cemetery, in a shady spot north of the Roosevelt Home. Some of the pets had their names engraved on a stone under the heading of \"Faithful Friends,\" though there were many more animal companions buried here than are named on the memorial.",
+    "audioDescription": ".A light colored stone with the words \"Faithful friends\" engraved along with the names of several Roosevelt pets. The stone is atop an embankment near the edge of the lawn under large trees and sits near a rose arbor archway with benches.",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "",
+    "isManagedByNps": "1",
+    "amenities": [
+      "Benches/Seating",
+      "Historical/Interpretive Information/Exhibits"
+    ],
+    "managedByOrg": "",
+    "quickFacts": [],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  },
+  {
+    "id": "CF97B7ED-D278-496A-9E06-D79CC609E374",
+    "url": "https://www.nps.gov/places/sagamore-hill-tennis-court.htm",
+    "title": "Sagamore Hill Tennis Court",
+    "listingDescription": "Tennis was a favorite pastime of the Roosevelt family during their time at Sagamore Hill.",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/417341FA-D432-8344-B4E41E0921E1004D.jpg",
+        "credit": "NPS",
+        "altText": "A black and white photo of two men in white clothes on a tennis court surrounded by woods.",
+        "title": "Tennis Court",
+        "description": "",
+        "caption": "Theodore Roosevelt Jr. and a partner play tennis at Sagamore Hill.",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/417341FA-D432-8344-B4E41E0921E1004D.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/417341FA-D432-8344-B4E41E0921E1004D.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "NY",
+        "parkCode": "sahi",
+        "designation": "National Historic Site",
+        "fullName": "Sagamore Hill National Historic Site",
+        "url": "https://www.nps.gov/sahi/index.htm",
+        "name": "Sagamore Hill"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [
+      "tennis",
+      "sports",
+      "Sagamore Hill",
+      "Theodore Roosevelt"
+    ],
+    "latitude": "40.885046275255355",
+    "longitude": "-73.5026567583084",
+    "latLong": "40.885046275255355,-73.5026567583084",
+    "bodyText": "The site of the Roosevelt’s tennis court was located near present-day Sagamore Hill Road. Theodore and the rest of the Roosevelt family enjoyed friendly competition in this shady spot at the bottom of the hill, often making up their own special rules of the game, which allowed for a “let” if a ball that might have landed fairly hit an overhanging branch. There are no known photographs of Theodore Roosevelt playing tennis – he believed that the game was considered a sport for society’s elite and a photo of him engaged in a match might spoil his public image.",
+    "audioDescription": "A rectangular patch of grass at the bottom of a large hill surrounded by trees near a road.",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "",
+    "isManagedByNps": "1",
+    "amenities": [
+      "Historical/Interpretive Information/Exhibits"
+    ],
+    "managedByOrg": "",
+    "quickFacts": [],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  },
+  {
+    "id": "2A160AE4-9196-45A1-8FF7-E4270FE7AD39",
+    "url": "https://www.nps.gov/places/sagamore-hill-as-a-working-farm.htm",
+    "title": "Sagamore Hill as a Working Farm",
+    "listingDescription": "Sagamore Hill as a Working Farm",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/605ED179-015A-D675-D17A461B9A7DA230.jpg",
+        "credit": "NPS/Sagamore Hill Collection Archives",
+        "altText": "Stable & Lodge, Gardens at Sagamore Hill",
+        "title": "Stable & Lodge, Gardens at Sagamore Hill",
+        "description": "",
+        "caption": "Photo of Stable and Lodge, Gardens at Sagamore Hill",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/605ED179-015A-D675-D17A461B9A7DA230.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/605ED179-015A-D675-D17A461B9A7DA230.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "NY",
+        "parkCode": "sahi",
+        "designation": "National Historic Site",
+        "fullName": "Sagamore Hill National Historic Site",
+        "url": "https://www.nps.gov/sahi/index.htm",
+        "name": "Sagamore Hill"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [
+      "Sagamore Hill",
+      "Theodore Roosevelt",
+      "Farm"
+    ],
+    "latitude": "",
+    "longitude": "",
+    "latLong": "",
+    "bodyText": "Qui Plantavit Curabit. (He who planted will preserve.)<br /> -Roosevelt Family Crest<br /> <br /> In 1880, at the age of 22, Theodore Roosevelt purchased 155 arces of land for $30,000 in the Oyster Bay Cove area of Long Island. Four years later, in 1884, he hired the New York City based architectural firm, Lamb and Rich, to plan a large Queen Anne architecture styled home. It was completed in 1885 by John A. Wood and Son for $16,975. Roosevelt named it Sagamore Hill.<br /> <br /> In 1886, Theodore Roosevelt moved into Sagamore Hill with his second wife, Edith, and daughter Alice, with his first wife, Alice. Instead of being a summer house, it became their permanent residence and featured a working farm. <br /> <br /> Roosevelt believed in the importance of using land for farming so he devoted 47 acres of the Sagamore Hill estate to farmland. In fact, the first building erected on the property, before the house, was the stable and lodge. The original farm manager was Noah Seaman who managed the farm until his death in 1911. Robert Gillespie became the next superintendent and had prior experience working on many New York estates. Unlike Seaman, Gillespie lived with his family in the Roosevelt’s lodge.<br /> <br /> The Roosevelts hired additional farm workers to cultivate the hay and straw needed to feed the animals. They had a variety of farm animals including cows, chickens, turkeys, and pigs. They also had large fruit and vegetable groves. One worker, Alfred Davis, who had previously worked at TR's father's Oyster Bay estate, Tranquility, was known as Mr. Let-it-Be to the Roosevelt children, and would care for the fruit and vegetables groves located in the garden area east of the house.  He would often scold the children for picking the too ripe vegetables and fruits, telling them to “let it be.” Mrs. Roosevelt would also tend to her flower garden located in that same area of the property.<br /> <br /> Edith Roosevelt managed much of the estate along with her household responsibilities to allow TR more time for his political duties. However, when she saw Theodore overworked and in need of a break, she would tell him to go and help the farm hands bring in the hay. He loved the physical demands of farm work and if he spent a day helping, he insisted that the farm manager add his name to the time sheets so he could collect his daily wage.<br /> <br /> After becoming President of the United States in 1901, TR wished to avoid the heat of Washington, D.C., so during the summer months, he relocated his office to Sagamore Hill. During Roosevelt's time in office, Sagamore Hill was the focus of international attention. Distinguished visitors included Cecil Spring-Rice, and Henry Cabot Lodge as well as members of the Russian and Japanese Delegation. While staying with the Roosevelts, they enjoyed fresh meals from the farms.<br /> <br /> Throughout its years, the farm varied in size and production. Also, between 1884 and 1906, TR bought and sold portions of Sagamore Hill land to other Roosevelt relatives including his sister Anna, his Uncle James, Aunt Gracie, and cousin W. Emlen Roosevelt. Years after his death, in 1938, his oldest son Ted Jr. purchased four acres from Edith Roosevelt, and built his home, Old Orchard, in the area that was once the apple orchard.<br /> <br /> Theodore Roosevelt lived at Sagamore Hill from 1884 until his death in January, 1919. Edith Roosevelt lived at Sagamore Hill until her death in 1948. Ted Jr.’s wife Eleanor Alexander Roosevelt lived in the Old Orchard House until her death in 1960.",
+    "audioDescription": "Sagamore Hill is located in Oyster Bay, NY. The farms and groves flanked the house.",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "",
+    "isManagedByNps": "1",
+    "amenities": [],
+    "managedByOrg": "",
+    "quickFacts": [
+      {
+        "id": "5C252B96-2DEB-4EF4-91D1-B5D2B202FCD7",
+        "value": "Oyster Bay, NY",
+        "name": "Location"
+      },
+      {
+        "id": "208F1B3C-44DC-4CF5-9A61-9B26A364D701",
+        "value": "Theodore Roosevelt's Farm",
+        "name": "Significance"
+      }
+    ],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  },
+  {
+    "id": "3567B15A-7E8C-4BCA-B2CD-3AAE30DFA97C",
+    "url": "https://www.nps.gov/places/youngs-memorial-cemetery.htm",
+    "title": "Youngs Memorial Cemetery",
+    "listingDescription": "Youngs Memorial Cemetery (134 Cove Rd, Oyster Bay, NY) is short drive or bike from Sagamore Hill National Historic Site, located approximately one and a half miles south of the park. A small, free gravel parking lot is available.",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/7A3FCB00-ABA3-D7B3-3736992E7FA88121.jpg",
+        "credit": "Kenneth C. Zirkel",
+        "altText": "View of Roosevelt Grave Enclosure",
+        "title": "President Theodore Roosevelt's Gravesite",
+        "description": "",
+        "caption": "The Grave Enclosure for the Roosevelts at Youngs Memorial Cemetery",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/7A3FCB00-ABA3-D7B3-3736992E7FA88121.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/7A3FCB00-ABA3-D7B3-3736992E7FA88121.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "NY",
+        "parkCode": "sahi",
+        "designation": "National Historic Site",
+        "fullName": "Sagamore Hill National Historic Site",
+        "url": "https://www.nps.gov/sahi/index.htm",
+        "name": "Sagamore Hill"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [
+      "Sagamore Hill National Historic Site",
+      "President Theodore Roosevelt",
+      "Oyster Bay",
+      "Theodore Roosevelt",
+      "Cemeteries/Burial Grounds"
+    ],
+    "latitude": "40.87052742554867",
+    "longitude": "-73.50608825683594",
+    "latLong": "40.87052742554867,-73.50608825683594",
+    "bodyText": "When Theodore Roosevelt died on January 6, 1919 his body lay in state in the North Room at Sagamore Hill and was then transported a mile down the road to Youngs Cemetery for burial. Today, you can visit the gravesite as it is located approximately one and a half miles south of Sagamore Hill National Historic Site. The cemetery is a quiet, serene place overlooking portions of Oyster Bay.<br /> <br /> The Youngs family, whose homestead is across the road from the cemetery, were early settlers of the area. The family owned most of Cove Neck in the 18th and 19th centuries and had established their family burial ground as early as the 1660s. Attorney Thomas Youngs was a neighbor and private secretary to Governor Theodore Roosevelt in 1899. In 1901, Youngs chartered his family graveyard, now becoming a local cemetery, as a not-for-profit corporation to provide for its perpetual care.<br /> <br /> At President Roosevelt's funeral, a teary- eyed friend and former political adversary, ex- president William Howard Taft was one of the last to leave the grave side. In later years, dignataries, like Chief Scoutmaster Dan Beard, the King of Belgium and the Duke of Windsor visited the grave to pay their respects. On his visit, the Duke recalled TR’s 1910 visit to Buckingham Palace when he, as a young boy, listened to Roosevelt’s stories about hunting lions in Africa.<br /> <br /> When Edith died in 1948, she was buried alongside her husband in a private ceremony. In 1923, Emlen Roosevelt, a close cousin who lived next door to Sagamore Hill, purchased a small tract of land adjoining Youngs cemetery to protect it from inappropriate development. Part of that tract was added to the back of the cemetery and used as a burial place for members of the Roosevelt family.<br /> <br /> Emlen presented the remainder of the property to the National Audubon Society as a wildlife sanctuary. It was a fitting and appropriate tribute since Theodore had told his cousin that this deep, forested cove had the greatest variety of birds around Oyster Bay. It was the first Audubon Songbird Sanctuary established in the United States.<br /> <br /> Youngs Memorial Cemetery (134 Cove Rd, Oyster Bay, NY) is short drive or bike from Sagamore Hill National Historic Site, located approximately one and a half miles south of the park. A small, free gravel parking lot is available.",
+    "audioDescription": "",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "https://trgravesite.org/",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "",
+    "isManagedByNps": "0",
+    "amenities": [
+      "Historical/Interpretive Information/Exhibits",
+      "Parking - Auto",
+      "Scenic View/Photo Spot"
+    ],
+    "managedByOrg": "Youngs Memorial Cemetery",
+    "quickFacts": [
+      {
+        "id": "5C252B96-2DEB-4EF4-91D1-B5D2B202FCD7",
+        "value": "Oyster Bay, NY",
+        "name": "Location"
+      },
+      {
+        "id": "208F1B3C-44DC-4CF5-9A61-9B26A364D701",
+        "value": "Site of President Theodore Roosevelt's Grave",
+        "name": "Significance"
+      },
+      {
+        "id": "E32D2136-A184-4C1A-91D2-4C20CEF9CBAF",
+        "value": "Cemetery",
+        "name": "Designation"
+      }
+    ],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  }
+]

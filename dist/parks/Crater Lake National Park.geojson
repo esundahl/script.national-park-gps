@@ -1,0 +1,230 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Annie Falls Picnic Area",
+        "notes": "Annie Falls Picnic Area\nhttps://www.nps.gov/places/annie-falls-picnic-area.htm\n\n<br /> Upstream from this picnic area three streams merge into Annie Creek increasing the water volume as it spills over boulders creating the falls. The sound of cascading water bellows up through the canyon and is filtered by the forest that abscures views of Annie Falls. The sound is unavoidable but a view is elusive. Stand still and follow the sound through the trees to catch a glimpse of white water spilling over boulders.<br /> <br /> There are two picnic tables. One is under the trees near the area where the falls are likely to be seen and heard. The second is under the lodgepole pines on the right passed the guardrails wwhere the sound of Annie Falls is a little gentler. ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.16637697858943,
+          42.86485266670769
+        ]
+      },
+      "properties": {
+        "name": "Cabins at Mazama Village",
+        "notes": "Cabins at Mazama Village\nhttps://www.nps.gov/places/mazama-cabins.htm\n\nThe Cabins at Mazama Village offer the comfort and privacy of an inn nestled in an old growth forest of lodgepole pines. <br /> <br /> <span style=\"color: rgb(34, 34, 34); font-family: Georgia, Times, \"Times New Roman\", serif; font-size: 1.5625rem; letter-spacing: -0.25px;\">Features</span><br /> The rustic-style exterior opens into a casual interior design offering comfort and serenity, free of phones and TVs. At 6000 feet there is plenty of fresh mountain air so air conditioning is not available. There are 10 cabins each with four private accommodations featuring two queen beds with a private bath and shower. Two accessible accommodations offer one queen bed and private bath.<br /> <br /> Reservations are strongly recommended and can be made up to a year in advance of your visit. Reserve a room at the Mazama Cabins by contacting the park concessionaire, Crater Lake Hospitality, either <a href=\"https://www.travelcraterlake.com/lodging-camping/crater-lake-lodge/\">online</a> or by calling 866-292-6720. The Mazama Cabins are generally open from late May or early June through late September. <br /> <br /> <span style=\"color: rgb(34, 34, 34); font-family: Georgia, Times, \"Times New Roman\", serif; font-size: 1.5625rem; letter-spacing: -0.25px;\">Near-by Amenities </span><br /> At the Annie Creek Restaurant and Gift Shop, located in the village, you’ll find family-friendly American cuisine for breakfast, lunch, and dinner, as well as a variety of local beers and wines. The gift shop offers a wide selection of park souvenirs. The nearby Mazama Village Store carries groceries, camping supplies, firewood, and gasoline.<br /> <br />  ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.13253360986711,
+          42.89206473785661
+        ]
+      },
+      "properties": {
+        "name": "Castle Crest Wildflower Trail",
+        "notes": "Castle Crest Wildflower Trail\nhttps://www.nps.gov/places/castle-crest-wildflower-trail.htm\n\n<h3><b>The Trail</b></h3> <p>At 6300 feet in elevation, the Castle Crest Wildflower Trail loops around a spring-fed meadow, through a mixed conifer forest, over streams, past a grassy slope, and below Castle Crest Ridge which towers 2,000 feet above the trail on the north and east sides. All this in just 0.41 miles. This trail is not accessible.</p> <h3><b>The Wildflowers</b></h3> <p>Castle Crest Wildflower Trail hosts over 200 species of wildflowers, and is surrounded by trees, shrubs, grasses, and moss. While lingering snow melts, tiny violets, buttercups, and spreading phlox (Phlox diffusa) bloom just above the soil. Shooting stars (Dodecathean alpinum) unfurl from slender stems and American bistorts (Polygonum bistortoides) flash white florets. Different species bloom as summer brings the warmth of drier, hotter days. Two of the most prolific wildflowers are Lewis' monkeyflower (Mimmulus lewsii) and paintbrush (Castillejaspp). Other favorites are the bog orchids such as (Platanthera dilatata var. leucostachys), blue stickweed (Hackelia micrantha), Columbia monkshood (Aconitum columbianum) Pacific bleeding heart (Dicentra formosa), and a variety of asters. White pollen skyrocket (Ipomopsis aggregata ssp. formosissima) is a gorgeous, tubular, orange flower which grows on the western pumice slope.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.10305976867674,
+          42.94330216519861
+        ]
+      },
+      "properties": {
+        "name": "Crater Lake",
+        "notes": "Crater Lake\nhttps://www.nps.gov/places/crater-lake.htm\n\n<p> </p> <p>Crater Lake, at 1,943 feet (592 meters) deep, is one of the deepest lakes in the world and the deepest in the United States. The lake averages more than five miles (8 km) in diameter, and is surrounded by steep rock walls that rise up to 2000 feet (600 meters) above the lake's surface.</p> <h3>From a Mountain to a Lake</h3> <p>Crater Lake is located in Southern Oregon on the crest of the Cascade Mountain range, 100 miles (160 km) east of the Pacific Ocean. It lies inside a caldera, or volcanic basin, created when the 12,000 foot (3,660 meter) high Mount Mazama collapsed 7,700 years ago following a large eruption.<br /> <br /> An average 67 inches of precipitation, rain and melted snow (annual average of 42 feet of snowfall (13 meters)) supply the lake with water. There are no inlets or outlets to the lake. The lake level fluctuates slightly from year to year while evaporation and seepage prevent the lake from becoming any deeper.</p> <h3>Deep Blue</h3> <p>Crater Lake's great depth, purity and clarity (avg 103 feet deep), and the way sun light interacts with water determines the lake's color. Water molecules absorb the longer wavelengths of reds, oranges, yellows, and greens while the shorter blue and purple wavelengths are more easily scattered.  The scattered blue light penetrates deeper into the clear water then is redirected back up to the surface where we can see it. Around the edges where the water is less deep, some of the unabsorbed green sunlight is reflected back up. The color of the lake can vary from day to day depending on wind, cloud cover, and the angle of the sun</p> <h3>Wizard Island Plus Three</h3> <p>Following the collapse of Mount Mazama, lava poured into the caldera even as the lake began to rise. Today, a small volcanic island, Wizard Island, appears on the west side of the lake. This cinder cone rises 767 feet (234 meters) above the lake. At its summit is a small crater, 300 feet (90 meters) across and 90 feet (27 meters) deep.<br /> <br /> Out of sight and underwater are three more volcanoes that grew while the lake was filling. The Rhyodacite Dome is the youngest of these and occurred about 5000 years ago. </p> <h3>Life in the Lake</h3> <p>Between 1888 and 1942, five species of fish were introduced into Crater Lake. About 60-thousand rainbow trout and kokanee salmon continue to thrive. Scientist have identified over 165 species of phytoplankton and zooplankton, along with invertebrates that live throughout the lake. Amphibians, including the native Mazama newt, exist in shallow areas but are in danger due to the introduction crayfish, a predator. <br /> <br /> Large colonies of a native moss circle the lake at depths between 100 feet (30 meters) to 400 feet (120 meters). </p>   <p><br /> <br /> <br /> <br /> <br /> <br /> <br /> <br />  </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.140943467,
+          42.9098370092
+        ]
+      },
+      "properties": {
+        "name": "Crater Lake Lodge",
+        "notes": "Crater Lake Lodge\nhttps://www.nps.gov/places/crater-lake-lodge.htm\n\n<p>Surrounded by meadows and sub-alpine trees, the historic Crater Lake Lodge overlooks the deepest lake in the United States and one of the clearest in the world.</p> <h3><span style=\"color: rgb(34, 34, 34); font-family: Georgia, Times, \"Times New Roman\", serif; font-size: 1.5625rem; letter-spacing: -0.25px;\">Accomodations and Reservations</span></h3> <p>The lodge is open mid-May to early October, depending on the current snow levels. The lodge has 71 rooms including six accessible rooms. Some accommodations have views of the lake while others look out on Rim Village or the surrounding forest and meadows.<br /> <br /> Reservations are strongly recommended and can be made a year in advance of your visit. Reserve a room at Crater Lake Lodge by contacting the park concessionaire, Crater Lake Hospitality, either <a href=\"https://www.travelcraterlake.com/lodging-camping/crater-lake-lodge/\">online</a> or calling 866-292-6720. </p> <h3>Dining</h3> <p>The Crater Lake Lodge dining room offers three meals a day, breakfast, lunch and dinner, for lodge guests and any park visitors wanting a more formal meal service. Reservations are taken for dinner and are highly encouraged. Reserve your meal time in person at the lodge or by calling 541-594-2255. </p> <h3>The Great Hall and Porch</h3> <p>Beyond lodging and dining, the experience includes a Great Hall defined by a large native stone fireplace, tall windows, and accents of Ponderosa pine wood. You are invited to lounge with a drink, play board games, or simply relax to the crackle of the fire which is lit most inclement days. On the back patio are rocking chairs that draw your attenition to the lake, especially at sunrise and on days when the lake is a hue of blue that is like no other. Depending on the weather, ranger programs are presented daily either indoors near the fire place or outside on the patio. </p> <p>For a list of accommodations outside the park visit the <a href=\"https://www.nps.gov/crla/planyourvisit/lodging-camping.htm\">Lodging and Camping</a> page on the park website.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.13408660888672,
+          42.89713668823242
+        ]
+      },
+      "properties": {
+        "name": "Crater Lake Natural History Association Park Store",
+        "notes": "Crater Lake Natural History Association Park Store\nhttps://www.nps.gov/places/crater-lake-nha-park-store.htm\n\n<h3 style=\"text-align: center;\"><strong>Are you a National Park Geek?<br /> Do you collect field guides or maps?<br /> Are you a 1000 piece puzzler?<br /> or<br /> <span style=\"color:#2980b9;\">Do you want to stamp your passport book?</span></strong></h3> <br /> Visit <a href=\"http://www.craterlakeoregon.org/group.asp\">Crater Lake Natural History Association</a> on line to learn more about the partnership and the products sold. The NHA Park Store has two locations for summer 2022. Look for the store in the Rim Visitor Center and the temporary visitor contact station in Mazama Village. <br /> <br /> Crater Lake Natural History Association (NHA) is a non-profit partner supporting Crater Lake National Park and Oregon Caves National Monument since 1942. Profits from purchases in the park store and via on-line sales benefit research, interpretive programs, supplies, and communications. The park store carries a wide range of books, Junior Ranger and educational products for children, national park themed gifts including National Park Geek items, and other Crater Lake memoriabilia.<br /> <br /> <br /> <span style=\"color: rgb(34, 34, 34); font-family: Georgia, Times, \"Times New Roman\", serif; font-size: 1.5625rem; letter-spacing: -0.25px;\">Some Past and O</span><span style=\"color: rgb(34, 34, 34); font-family: Georgia, Times, \"Times New Roman\", serif; font-size: 1.5625rem; letter-spacing: -0.25px;\">ngoing P</span><span style=\"color: rgb(34, 34, 34); font-family: Georgia, Times, \"Times New Roman\", serif; font-size: 1.5625rem; letter-spacing: -0.25px;\">roject A</span><span style=\"color: rgb(34, 34, 34); font-family: Georgia, Times, \"Times New Roman\", serif; font-size: 1.5625rem; letter-spacing: -0.25px;\">ssistance I</span><span style=\"color: rgb(34, 34, 34); font-family: Georgia, Times, \"Times New Roman\", serif; font-size: 1.5625rem; letter-spacing: -0.25px;\">ncludes:</span><br /> • Bat Education and Outreach<br /> • Avalance Program Support<br /> • Curator Assistance<br /> • Night Sky Program<br /> • Pika Occupancy Report<br /> • Library acquisitions<br /> • Junior Ranger books and badges<br /> • Reflections, the park newspaper <br /> <br /> <span style=\"color: rgb(34, 34, 34); font-family: Georgia, Times, \"Times New Roman\", serif; font-size: 1.5625rem; letter-spacing: -0.25px;\">Become a Member</span><br /> Your membership benefits the park in many ways. For one year, you also receive 15% off all purchases here and with other partner associations in NPS units across the US. Many of the Crater Lake ranger programs in which you participate are funded by the NHA. And a lot of the NHA sponsored research helps further the understanding of wildlife populations, climate change effects, and the health of Crater Lake. These studies may have an affect on your experience while exploring Crater Lake National Park and well beyond your visit.<br />  ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.15292692184448,
+          42.87028719178274
+        ]
+      },
+      "properties": {
+        "name": "Goodbye Picnic Area",
+        "notes": "Goodbye Picnic Area\nhttps://www.nps.gov/places/goodbye-picnic-area.htm\n\nAn often-overlooked stop in the park is Goodbye Picnic Area. Goodbye Picnic Area is perfect for a picnic but also consider it for birding, and an observation point for small mammals with the hope for a bear to stroll through the forest on its way to the creek. It rests beneath a forest composed of a variety of mature tree species including Shasta red fir, lodgepole pine, and mountain hemlock. Mostly inaccessible to the eyes but very audible to the ears is Goodbye Creek which flows in a deep canyon that separates these two picnic areas.<br /> <br /> The road noise from passing vehicles becomes inconsequential especially after snow melt when the creek is roaring. There is no trail into the canyon through which Goodbye Creek cascades downstream. This is one place where the towering trees, calls of the red breasted nuthatch, and the antics of Douglas squirrels begs visitors to put aside the hiking poles and just relax. <h4>Location</h4> Goodbye Picnic Area has two sections which are accessible from the north or the south on the west side of Munson Valley Road between the Annie Spring Entrance Station and park headquarters. <strong>One</strong> is an easy right turnout for southbound traffic from the rim or park headquarters. Parking is pull through next to the curb. There is no accessible ramp from the curb. This sight has two picnic tables. <strong>The second</strong> section is a left turn for lake-bound traffic (or right turn past the bridge for south bounders). There are four angled parking places and room for a bus or RV to park. This location also has two picnic tables, one with wheelchair access, and a vault toilet.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Lodgepole Picnic Area",
+        "notes": "Lodgepole Picnic Area\nhttps://www.nps.gov/places/lodgepole-picnic-area.htm\n\nLodgepole is the third picnic area on Hwy 62 when entering Crater Lake National Park from the south boundary via Fort Klamath, Chloquin, and Klamath Falls. An old growth forest of lodgepole pines welcomes you. These trees grow straight and many reach over 100 feet in height. A trailhead for the Pumice Flats Trail, and two picnic tables are located beneath the trees on the left. ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.07089905500747,
+          42.914029182414346
+        ]
+      },
+      "properties": {
+        "name": "Phantom Ship Overlook",
+        "notes": "Phantom Ship Overlook\nhttps://www.nps.gov/places/phantom-ship-overlook.htm\n\nPhantom Ship Overlook provides one of the best views of the Phantom Ship along Rim Drive. One of Crater Lake's two islands, it is 170 feet (51.8 meters) high, 500 feet (152 meters) long, and 200 feet (60.9 meters) wide.<br /> <br /> At first glance, the dark, jagged island just offshore calls to mind the image of a ghostly ship with tall masts and drooping sails. Phantom Ship is actually a resistant remnant of an ancient volcanic cone that was engulfed in the growing Mazama volcano. This vent shared the underground changer that fed Mount Mazama and was part of its early mountain building phase. These rocky spires remained after Mount Mazama's massive eruption and collapse, displaying the oldest rock in the Crater Lake basin over 400,000 years old.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.007009663,
+          42.8499378496
+        ]
+      },
+      "properties": {
+        "name": "Pinnacles",
+        "notes": "Pinnacles\nhttps://www.nps.gov/places/pinnacles.htm\n\n<h4>What are they?</h4> The final eruption of Mount Mazama blew volcanic material miles into the air. This was followed by the ejection of gas-charged matter through vents in fractures around the mountain which weakened and ultimately caused the upper mountain to collapse. Rather than rising upwards, the volcanic matter ejected through vents flowed rapidly downhill, filling surrounding valleys to a depth of 300 ft (100 m). Once the flows stopped, trapped gases escaped through fumeroles, and surrounding material hardened. As the streams reclaimed the valley the erosion-resistant spires were exposed.  <h4>Where can I see them?</h4> The classic view is located in Wheeler Creek Canyon at the end of Pinnacles Road from East Rim Drive. A 0.8 (1.3 km) trail is an easy walk along the rim of the valley where the pinnacles are visible.<br /> <br /> <span style=\"color:#c0392b;\">These can only be seen when East Rim Drive and Pinnacles Road are open.</span> When the roads are closed, look for the pinnacles in the Annie Creek watershed and canyon from several view points along South Hwy 62.  ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.06519698,
+          42.77593962
+        ]
+      },
+      "properties": {
+        "name": "Ponderosa Picnic Area",
+        "notes": "Ponderosa Picnic Area\nhttps://www.nps.gov/places/ponderosa-picnic-area.htm\n\nPonderosa Picnic Area is at the southern tip of the park, a region referred to as the panhandle. At 4400 feet in elevation, you get the advantage of warmer temperatures, less snowpack, the highest diversity of plant species, the densest collection of Ponderosa pines and the best views of fall’s colorful deciduous trees found anywhere in the park.<br /> <br /> Most people stop at Ponderosa Picnic Area for the restroom and orientation to the park, where a map and general information are secured in a bulletin board. It is one of the first places where wildflowers bloom after the snow melts. A colorful wildflower display begins in early summer, with Skyrocket, Paintbrush, lupine, wild strawberry and sweet-smelling snow bush.<br /> <br /> Sugar pines, Douglas-firs, white firs, cottonwoods and of course, Ponderosa pines can all be seen from and within a mile of the picnic area.  If you have never sniffed the bark of a Ponderosa Pine, rest your nose on a tree with yellow-reddish, puzzle-like bark and breathe in—vanilla, butterscotch, or? ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.117879,
+          43.031462
+        ]
+      },
+      "properties": {
+        "name": "Pumice Desert",
+        "notes": "Pumice Desert\nhttps://www.nps.gov/places/pumice-desert.htm\n\nThe Pumice Desert formed 7,700 years ago as part of the largest Cascade Range eruption in a million years. Mount Mazama first sent a huge column of ash skyward, followed by a series of glowing avalanches of gas-rich pumice rock that raced down the slopes on all sides. At the Pumice Desert the deposits buried a valley with material over 100 feet (30 meters) deep, thoroughly destroying all vegetation. Multiple challenges, including arid, nutrient-poor soil, temperature extremes, and a short growing season have kept forests from successfully recolonizing the area.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.14517558551859,
+          42.91115400866865
+        ]
+      },
+      "properties": {
+        "name": "Rim Village in Winter",
+        "notes": "Rim Village in Winter\nhttps://www.nps.gov/places/rim-village-in-winter.htm\n\nRim Village overlooks Crater Lake, which is visible about 50% of the winter and spring seasons. Snowstorms and clouds obscure views of the lake most other days. But looking around the caldera and Wizard Island, the blanket of white which has settled on the earth enhances the brilliance of the water whether the sun dips in and reflects blue or the clouds soften it to gray. <br /> <br /> Snow in Rim Village can be 10 to 15 ft (3 to 4.6 m) deep. A \"snow ramp\", (which is sometimes icy) provides the easiest access to the top of the snow. An observation room on the second floor of Rim Village Cafe & Gift Shop is accessible by elevator. It offers views of the lake until snow covers the window. While Covid is still prevalent, only 30 people at a given time will be permitted on the second floor. <br /> <br /> <span style=\"color: rgb(34, 34, 34); font-family: inherit; font-size: 1.25rem; font-weight: 700;\">Activities</span><br /> Winter activities include lake viewing and photography, backcountry camping, skiing, sledding, snowshoeing, snowboarding, and of course, frolicking. There are no snowmobile routes in Rim Village. When conditions permit, North Entrance Road from Diamond Lake to North Junction is groomed, as an in and out snowmobile route. Fat tire bikes are not allowed in Rim Village or anywhere in the park.<br /> <br /> <span style=\"color: rgb(34, 34, 34); font-family: inherit; font-size: 1.25rem; font-weight: 700;\">Equip Your Wheels and Feet for Winter</span><br /> As a winter destination, while behind the wheel and with feet on the ground, safety is the utmost concern. Rim Village lies at an elevation of 7100 ft ( 2165 m). The approaching roads will be plowed but prepare for some level of snow and ice. <strong>Carry chains</strong>, water, and extra clothing or blankets.<br /> <br /> <span style=\"color: rgb(34, 34, 34); font-family: inherit; font-size: 1.25rem; font-weight: 700;\">Where to Get More Information</span><br /> Always read the alerts which appear on this App and check the weather forecast. A ranger is available from 10 am to 4 pm at 541-594-3000 to answer any current condition questions. Winter safety and driving requirements are on the website. ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.142962406,
+          42.9115457532
+        ]
+      },
+      "properties": {
+        "name": "Sinnott Memorial Overlook",
+        "notes": "Sinnott Memorial Overlook\nhttps://www.nps.gov/places/sinnott-memorial-overlook.htm\n\n<span style=\"color:#e74c3c;\">Open late-June to mid-October, hours vary</span><br /> The Sinnott Memorial Overlook has always been and remains the most popular viewpoint in the park. Standing within the sheltered memorial, the lake’s captivating beauty is without a doubt the main attraction. But its alliance with the geologic history of Mount Mazama is the compelling reason why the Sinnott Memorial was constructed. The beauty and geology are united via a series of information panels that rest in the structure allowing visitors to simultaneously see the unobstructed beauty and connect it the explosive volcanic history.  <h4>Exhibits</h4> In addition to the overlook, the Sinnott Memorial houses the park's main exhibit area. Inside, protected from the weather, are a brief film about the catastrophic story of Mount Mazama, displays describing influential scientists and their research, an exhibit discussing the indigenous connections to Crater Lake, exhibits illustrating the amount of pumice and ashfall that occurred locally from the eruption that formed Crater Lake, and a collage of pictures and quotations describing the lakes's beauty.<br /> <br /> In late June, after snow is removed for the native stone steps and walkway which lead to the memorial overlook, and exhibits are fine-tuned, visitors are welcome to enjoy the view and peruse the exhibits. It is typically open late-June to mid-October and the hours for access vary throughout the summer.  <h4>History</h4> The Sinnott Memorial is an impressive stone structure built 50 feet below the caldera rim into a steep rock outcrop called Victor Rock. The structure was dedicated in 1931 as a memorial to Congressman “Nick” Sinnott, who representated the Eastern Oregon Congressional District in the US House of Representatives, and served from 1919 to 1928 as Chairman of the Public Lands Committe.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1457131303265,
+          42.911366791840365
+        ]
+      },
+      "properties": {
+        "name": "West Rim Winter",
+        "notes": "West Rim Winter\nhttps://www.nps.gov/places/west-rim-winter.htm\n\nIn winter, West Rim Drive transitions into the most popular ski route in the park. Every year on November 1, it closes to vehicle traffic. As snow blankets the road, the asphalt surface disappears keeping only the contours of the road as a guide along the ski route. West Rim Route offers spectacular views of Crater Lake, Wizard Island. and the dramatic scenery created by the visible peaks and valleys of the Cascade mountains.<br /> <br /> The route features gently rolling terrain. It is exposed to the elements and is often windy. If snow conditions are good, it is suitable for skiers and snowshoers of all abilities. When icy, the route can be treacherous, especially just west of Rim Village. All trips are out and back via the same route, but can vary in length depending on the weather, and your fitness and experience. <br /> <br /> <strong>Parking </strong>is anywhere in Rim Village as the signs dictate. Do not park on the snow or block the plowed road. On weekends, holidays, and during spring break the parking lot fills early. Parking overnight is prohibited to allow for safe plow access. If an overnight camping trip is planned all winter backcountry rules apply including designated parking at headquarters. <br /> <br /> <br /> <strong>These are some possible trips: </strong><br /> All trips begin from the snow ramp across from the Rim Village restrooms.<br /> <br /> <strong>Discovery Point 1.2 mi. (1.9 km) one way.</strong> Discovery Point is a broad, unmarked viewpoint that overlooks Wizard Island and offers a view across the lake towards Phantom Ship. Gold prospector John Hillman first set eyes on Crater Lake in 1853 from this location. <br /> <br /> <strong>Wizard Island Overlook 2.3 mi. (3.7 km) one way.</strong> This small, unmarked viewpoint provides an expansive view of Wizard Island, a cinder cone that erupted out of Crater Lake around 7,300 years ago. <br /> <br /> <strong>Union Peak Overlook 3.1 mi. (5.0 km) one way. </strong>This segment is a steady climb, gaining 240 feet (73 meters) in elevation to a small, unmarked viewpoint on the left of the Cascade Mountains including, Union Peak 8 miles (13 km) to the south, MT. McLoughlin, 35 miles (56 km) away, and on a clear day Mt. Shasta, 100 miles (161 km) across the distance.<br />  <br /> <strong>Beyond Union Peak Overlook</strong>, the road cuts into a vertical cliff which usually fills with snow. It may be advisable to leave the road and bypass the cliff higher up on the slope. The route traverses the north face of Watchman Peak, an avalanche prone slope that is sometimes dangerously icy. <br /> <br /> <strong>Watchman Overlook: 3.9 mi. (6.3 km) </strong><br /> <strong>Diamond Lake Overlook: 4.6 mi. (7.4 km) <br /> North Junction: 6.0 mi. (9.7 km)</strong><br /> if an overnight stay is planned a backcountry permit is required.  <br />  ",
+        "icon": "red-pin-down.png"
+      }
+    }
+  ]
+}

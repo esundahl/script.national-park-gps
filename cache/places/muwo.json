@@ -1,0 +1,877 @@
+[
+  {
+    "id": "7FC9F617-AF2C-48BF-81BB-6FEE5289189D",
+    "url": "https://www.nps.gov/places/000/bohemian-grove.htm",
+    "title": "Bohemian Grove",
+    "listingDescription": "Bohemian Grove is a lovely section of John Muir woods that provides opportunities to learn more about the health and ecology of the redwoods. You can see burned redwoods that survived a long-ago fire, redwood burls and a nurse log,",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/D2401571-F5AE-B6F1-CF5E6A9D3F3F2395.jpg",
+        "credit": "",
+        "altText": "Redwoods covered in knotty burls with old fire scars still clearly visible.",
+        "title": "Bohemian Grove Redwood",
+        "description": "",
+        "caption": "Redwoods covered in knotty burls with old fire scars still clearly visible.",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/D2401571-F5AE-B6F1-CF5E6A9D3F3F2395.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/D2401571-F5AE-B6F1-CF5E6A9D3F3F2395.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "CA",
+        "parkCode": "goga",
+        "designation": "National Recreation Area",
+        "fullName": "Golden Gate National Recreation Area",
+        "url": "https://www.nps.gov/goga/index.htm",
+        "name": "Golden Gate"
+      },
+      {
+        "states": "CA",
+        "parkCode": "muwo",
+        "designation": "National Monument",
+        "fullName": "Muir Woods National Monument",
+        "url": "https://www.nps.gov/muwo/index.htm",
+        "name": "Muir Woods"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [
+      "Muir Woods",
+      "redwood tree",
+      "selfie spot",
+      "nature",
+      "goga",
+      "MUWO",
+      "Golden Gate National Recreation Area",
+      "redwood",
+      "GGNRA"
+    ],
+    "latitude": "37.8957561616",
+    "longitude": "-122.575740102",
+    "latLong": "37.8957561616,-122.575740102",
+    "bodyText": "<p>Bohemian Grove is a lovely section of John Muir woods that provides opportunities to learn more about the health and ecology of the redwoods. You can see burned redwoods that survived a long-ago fire, redwood burls and a nurse log.</p> <h3>The Bohemian Club</h3> <p>Bohemian Grove is named for the Northern California Bohemian Club. It was formed by newspapermen, artists, actors and musicians in San Francisco in 1872. They were a group of guys with a different perspective than most, who liked flaunting it in each other's company. In September 1892, the club held their annual midsummer encampment in this part of the woods, perhaps a spiritual, forest frolic precursor to Burning Man.</p> <h3>The Selfie Tree</h3> <p>The fire scar in one of these trees is big enough to stand in, and is a favorite spot for selfies.</p>",
+    "audioDescription": "",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "7ab8dedf-6107-4e58-9a31-632a6b7c9f3a",
+    "isManagedByNps": "1",
+    "amenities": [
+      "Scenic View/Photo Spot"
+    ],
+    "managedByOrg": "",
+    "quickFacts": [],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  },
+  {
+    "id": "02E5B4C8-DC72-4071-B643-22D1A0B21548",
+    "url": "https://www.nps.gov/places/000/cathedral-grove.htm",
+    "title": "Cathedral Grove",
+    "listingDescription": "Cathedral Grove is a silent preserve and home to the tallest, oldest redwoods at Muir Woods. Consider quiet contemplation as you make your way through this part of the woods.",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/D3779416-FF5D-D668-705AF7979B7D5D69.jpg",
+        "credit": "Alison Taggart-Barone",
+        "altText": "Visitors complete the loop around Cathedral Grove.",
+        "title": "Redwoods in Cathedral Grove",
+        "description": "",
+        "caption": "Visitors complete the loop around Cathedral Grove.",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/D3779416-FF5D-D668-705AF7979B7D5D69.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/D3779416-FF5D-D668-705AF7979B7D5D69.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "CA",
+        "parkCode": "goga",
+        "designation": "National Recreation Area",
+        "fullName": "Golden Gate National Recreation Area",
+        "url": "https://www.nps.gov/goga/index.htm",
+        "name": "Golden Gate"
+      },
+      {
+        "states": "CA",
+        "parkCode": "muwo",
+        "designation": "National Monument",
+        "fullName": "Muir Woods National Monument",
+        "url": "https://www.nps.gov/muwo/index.htm",
+        "name": "Muir Woods"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [
+      "Muir Woods",
+      "redwood tree",
+      "natural resource",
+      "MUWO",
+      "Golden Gate National Recreation Area",
+      "goga",
+      "GGNRA"
+    ],
+    "latitude": "37.898486442",
+    "longitude": "-122.575877021",
+    "latLong": "37.898486442,-122.575877021",
+    "bodyText": "<p>Cathedral Grove is a silent preserve and home to the tallest, oldest redwoods at Muir Woods. Consider quiet contemplation as you make your way through this part of the woods.</p> <h3>Dude, That's a Big Tree</h3> <p>Everyone knows redwood trees are awesome, but have you ever asked yourself what accounts for their quantifiable awesome-ness? Consider if you will, the following...<br /> <br /> For openers, coast redwoods (<em>Sequoia sempervirens</em>) can have a base width of 22 feet and grow to a height of 380 feet. They are the tallest living things on Earth! When they start out, they are just little guys. Redwood cones are less than an inch across, with seeds no bigger than a tomato's. Exactly why the redwoods grow so tall is a mystery. Theories continue to develop, but proof remains elusive.</p> <h3>I've Got All My Sisters with Me: Redwood Roots</h3> <p>Aside from logging, the most frequent cause of death for mature redwoods is windfall, because redwood roots only grow 10 to 13 feet below the ground. The roots spread outward 60 to 80 feet and interlace with those of their nearby tree friends. Individually, they are unable to support themselves, but together, they are strong enough to hold each other up.</p>",
+    "audioDescription": "",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "b6c0333b-3300-4a27-b78c-8f011707b734",
+    "isManagedByNps": "1",
+    "amenities": [
+      "Scenic View/Photo Spot"
+    ],
+    "managedByOrg": "",
+    "quickFacts": [],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  },
+  {
+    "id": "84B5C064-9538-4FB8-8366-5D01ED3EEF5B",
+    "url": "https://www.nps.gov/places/000/civilian-conservation-corp-at-muir-woods.htm",
+    "title": "Civilian Conservation Corp at Muir Woods",
+    "listingDescription": "In the 1930s, the Great Depression loomed over America. In 1933, recently elected President Franklin D. Roosevelt created several new agencies, including the most successful, the Civilian Conservation Corp (CCC). Across the country, this program employed tens of thousands of unemployed and unskilled young men from various backgrounds, including: the Junior Enrollees, (young men ages 18 - 26), Reservation Native Americans, local men with forestry experience, and over 25,000 ol",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/F7ACC348-ADEA-2A1E-004391F5A1A329EB.jpg",
+        "credit": "",
+        "altText": "CCC members preparing a new driveway while being supervised by NPS staff.",
+        "title": "Members of the CCC building a walkway.",
+        "description": "",
+        "caption": "CCC members preparing a new driveway while being supervised by NPS staff.",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/F7ACC348-ADEA-2A1E-004391F5A1A329EB.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/F7ACC348-ADEA-2A1E-004391F5A1A329EB.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "CA",
+        "parkCode": "goga",
+        "designation": "National Recreation Area",
+        "fullName": "Golden Gate National Recreation Area",
+        "url": "https://www.nps.gov/goga/index.htm",
+        "name": "Golden Gate"
+      },
+      {
+        "states": "CA",
+        "parkCode": "muwo",
+        "designation": "National Monument",
+        "fullName": "Muir Woods National Monument",
+        "url": "https://www.nps.gov/muwo/index.htm",
+        "name": "Muir Woods"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [
+      "Muir Woods",
+      "conservation corps",
+      "Civilian Conservation Corps",
+      "ccc",
+      "MUWO",
+      "Golden Gate National Recreation Area",
+      "goga",
+      "GGNRA"
+    ],
+    "latitude": "37.896849",
+    "longitude": "-122.575042",
+    "latLong": "37.896849,-122.575042",
+    "bodyText": "<p>In the 1930s, the Great Depression loomed over America. In 1933, recently elected President Franklin D. Roosevelt created several new agencies, including the most successful, the Civilian Conservation Corp (CCC). Across the country, this program employed tens of thousands of unemployed and unskilled young men from various backgrounds, including: the Junior Enrollees, (young men ages 18 - 26), Reservation Native Americans, local men with forestry experience, and over 25,000 older war veterans. By 1942, over 2.5 million men had served in the CCC. They planted millions of trees, fought forest fires, constructed trails and campground facilities, among many other things. Much of the CCC's work can still be seen throughout the US National Park system, including at Muir Woods National Monument.</p> <h3>How the CCC Reshaped Muir Woods</h3> <p>Muir Woods was designated a national monument in 1908. The public's interest in nature, and the growing availability of private automobiles, increased visitation to Muir Woods National Monument and Mount Tamalpais State Park. San Franciscans came in droves to hike, picnic, and to ride the Mount Tamalpais Scenic Railway. The railway was aptly nicknamed the \"Crookedest Railroad in the World\" because of its 281 curves in 8 miles of track. The rapid increase in visitors required better facilities, and quickly.<br /> <br /> In 1933, over 200 CCC men arrived at Mount Tamalpais State Park to work on improvements in the state park, at Muir Woods, and on the land belonging to the estate of William Kent. Through 1937, the CCC worked on many types of projects, such as fire protection and flood control, trail improvements, bridges, comfort stations, picnic facilities, and improved administration buildings.</p> <h3>Armoring Redwood Creek</h3> <p>The largest project that the CCC undertook at Muir Woods was providing erosion control on Redwood Creek. Redwood Creek meanders through Muir Woods' majestic redwood forest for 1.4 miles (2.3 km) and is prone to flooding, which damages and erodes the surrounding trees and trails. After extensive damage in 1925, William Kent advocated for use of creek \"revetments\" to armor the banks and prevent future flood damage.<br /> <br /> Revetments are structures made of rocks, stones or concrete, called \"riprap,\" that are installed along the stream banks to control the flow of the water and reduce erosion. They were constructed in places susceptible to erosion during storms. More recently, we've learned that using riprap to turn a stream into a straight channel makes the water flow faster, which makes erosion worse at some places. Streams need space to move and change over time. Fish need bends, pools, rocky areas, tree roots, and logs where they can shelter and feed.<br /> <br /> When you visit Muir Woods today, you can still see some of the CCC's riprap along the banks of Redwood Creek. However, the park is removing some sections of riprap and letting the creek return to its natural flow at places where the local endangered population of Coho salmon need it most.</p>",
+    "audioDescription": "",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "",
+    "isManagedByNps": "1",
+    "amenities": [
+      "Historical/Interpretive Information/Exhibits"
+    ],
+    "managedByOrg": "",
+    "quickFacts": [],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  },
+  {
+    "id": "93ECA836-27FF-4889-8A78-43D4B3BAAD07",
+    "url": "https://www.nps.gov/places/000/fallen-log.htm",
+    "title": "Fallen Log",
+    "listingDescription": "This redwood fell naturally and has begun decaying on the forest floor. This is an example of what's known as a \"nurse log,\" providing nutrients and shelter to seedlings. When logging occurs and the trees are removed, this cycle is disrupted. Since trees have never been logged at Muir Woods, the natural ecological process goes uninterrupted.",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/C1E01A8C-AFB6-089E-C86672E6F7E7D629.jpg",
+        "credit": "Brenna Cruz",
+        "altText": "Looking down the trunk of a fallen redwood tree",
+        "title": "Peering down a fallen redwood.",
+        "description": "",
+        "caption": "Peering down a fallen redwood.",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/C1E01A8C-AFB6-089E-C86672E6F7E7D629.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/C1E01A8C-AFB6-089E-C86672E6F7E7D629.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "CA",
+        "parkCode": "goga",
+        "designation": "National Recreation Area",
+        "fullName": "Golden Gate National Recreation Area",
+        "url": "https://www.nps.gov/goga/index.htm",
+        "name": "Golden Gate"
+      },
+      {
+        "states": "CA",
+        "parkCode": "muwo",
+        "designation": "National Monument",
+        "fullName": "Muir Woods National Monument",
+        "url": "https://www.nps.gov/muwo/index.htm",
+        "name": "Muir Woods"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [
+      "Education",
+      "Muir Woods",
+      "redwood tree",
+      "MUWO",
+      "tree rings",
+      "Golden Gate National Recreation Area",
+      "goga",
+      "GGNRA"
+    ],
+    "latitude": "37.893296",
+    "longitude": "-122.573884",
+    "latLong": "37.893296,-122.573884",
+    "bodyText": "<p>This redwood fell naturally and has begun decaying on the forest floor. This is an example of what's known as a \"nurse log,\" providing nutrients and shelter to seedlings. When logging occurs and the trees are removed, this cycle is disrupted. Since trees have never been logged at Muir Woods, the natural ecological process goes uninterrupted.</p>",
+    "audioDescription": "Heading south along the Bohemian Grove Trail, a downed redwood lies on both sides of the trail. This tree fell on its own, and a section has been cut to clear the path. The tree has begun the long process of decomposition. Touch the log to feel along its smooth cut edge and softening bark.<br /><br />Touch the screen to hear the sound of the tree as it fell. <br />",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "",
+    "isManagedByNps": "1",
+    "amenities": [
+      "Historical/Interpretive Information/Exhibits"
+    ],
+    "managedByOrg": "",
+    "quickFacts": [],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  },
+  {
+    "id": "3CFD21EA-D9E9-4C06-80BB-292E07AD3AF5",
+    "url": "https://www.nps.gov/places/000/fern-creek-trailhead.htm",
+    "title": "Fern Creek Trailhead",
+    "listingDescription": "Fern Creek is the first section of a loop around the Alice Eastwood campground and an access point to Mount Tamalpais State Park. This area, like much of Muir Woods, is home to many animal friends. Despite living in all areas of the woods, from the forest floor to high up in the canopy, most inhabitants are hard to spot, so keep your peepers peeled!",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/0490C2AA-EEE6-D44F-B685018E599C2E8E.jpg",
+        "credit": "Kirke Wrench",
+        "altText": "Visitors walking among redwoods on the Fern Creek Trail.",
+        "title": "Fern Creek Trail",
+        "description": "",
+        "caption": "Visitors walking among redwoods on the Fern Creek Trail.",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/0490C2AA-EEE6-D44F-B685018E599C2E8E.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/0490C2AA-EEE6-D44F-B685018E599C2E8E.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "CA",
+        "parkCode": "goga",
+        "designation": "National Recreation Area",
+        "fullName": "Golden Gate National Recreation Area",
+        "url": "https://www.nps.gov/goga/index.htm",
+        "name": "Golden Gate"
+      },
+      {
+        "states": "CA",
+        "parkCode": "muwo",
+        "designation": "National Monument",
+        "fullName": "Muir Woods National Monument",
+        "url": "https://www.nps.gov/muwo/index.htm",
+        "name": "Muir Woods"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [
+      "trailhead",
+      "trail",
+      "hiking",
+      "Muir Woods",
+      "Mount Tamalpais",
+      "MUWO",
+      "Golden Gate National Recreation Area",
+      "goga",
+      "fern creek",
+      "GGNRA"
+    ],
+    "latitude": "37.904051",
+    "longitude": "-122.580837",
+    "latLong": "37.904051,-122.580837",
+    "bodyText": "<p>Fern Creek is the first section of a loop around the Alice Eastwood campground and an access point to Mount Tamalpais State Park. This area, like much of Muir Woods, is home to many animal friends. Despite living in all areas of the woods, from the forest floor to high up in the canopy, most inhabitants are hard to spot, so keep your peepers peeled!</p> <h3>Looking High and Low</h3> <p>A lot of animals in Muir Woods are just little guys whom you might see along the ground or lower in the canopy. Some common woodland friends include banana slugs, Steller's jay, Echo blue butterflies, thrushes, rough-skinned newts, hummingbirds and the Sonoma chipmunk.<br /> <br /> <br /> But keep your eyes open for larger animal friends, too--Muir Woods is also home to black-tailed deer, bobcats, otters, skunks and raccoons.</p> <h3>Northern Spotted Owl at Muir Woods</h3> <p>Muir Woods lies within the southern portion of the northern spotted owl's range, a subspecies of the spotted owl. These owls reside in old-growth coniferous forests from Northern California to British Columbia and prey on small mammals. In Muir Woods, spotted owls primarily diet on dusky-footed woodrats, with other common prey such as brush rabbits, voles, pocket gophers and mice.<br /> <br /> They don't make their own nests, preferring instead to reside within tree cavities, including broken-topped trees and platforms. Because of their specific nesting preferences, the health of northern spotted owl populations is indicative of the health of old-growth forests, making them one of the most-studied owl species. They're classified as federally threatened, with the primary threat due to logging activity resulting in the fragmentation and elimination of their forest habitat. If you're visiting in the twilight hour, keep your ears open. You may hear the northern spotted owl's distinctive \"barking\" call.<br />  </p> <h3>Fish Friends</h3> <p>When you're going about your daily fish identifications, it's important to remember that a trout is a salmon, but a salmon does not always a trout make. Consider the coho and the steelhead, both are anadromous, meaning, they migrate to the ocean after birth in freshwater rivers and streams. Both fish friends are threatened by a number of human-induced environmental factors such as habitat degradation, water diversions and improper harvesting. In Muir Woods, we're doing our part to care for our fish friends by restoring native habitat up and down their spawning grounds, Redwood Creek.<br /> <br /> Remember, look but don't take! Fishing is not allowed!</p>",
+    "audioDescription": "",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "",
+    "isManagedByNps": "1",
+    "amenities": [
+      "Trailhead"
+    ],
+    "managedByOrg": "",
+    "quickFacts": [],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  },
+  {
+    "id": "404649A5-C6E8-4402-97F1-568512E289A5",
+    "url": "https://www.nps.gov/places/000/founders-grove.htm",
+    "title": "Founders Grove",
+    "listingDescription": "This redwood grove includes some of the woods' biggest trees, including the Pinchot tree. The health of the towering redwoods depends on the complex soils of the forest floor, a product of fungal decay and recycling of low greenery, understory trees and the redwoods themselves.",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/31FCA747-AC83-AAA2-2D037B107FD66BDD.jpg",
+        "credit": "",
+        "altText": "Visitors gather at Founders Grove for a ranger program.",
+        "title": "Founders Grove",
+        "description": "",
+        "caption": "Visitors gather at Founders Grove for a ranger program.",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/31FCA747-AC83-AAA2-2D037B107FD66BDD.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/31FCA747-AC83-AAA2-2D037B107FD66BDD.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "CA",
+        "parkCode": "goga",
+        "designation": "National Recreation Area",
+        "fullName": "Golden Gate National Recreation Area",
+        "url": "https://www.nps.gov/goga/index.htm",
+        "name": "Golden Gate"
+      },
+      {
+        "states": "CA",
+        "parkCode": "muwo",
+        "designation": "National Monument",
+        "fullName": "Muir Woods National Monument",
+        "url": "https://www.nps.gov/muwo/index.htm",
+        "name": "Muir Woods"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [
+      "Golden Gate National Recreation Area",
+      "goga",
+      "muir woods national monument",
+      "MUWO",
+      "redwood tree",
+      "natural resource",
+      "GGNRA"
+    ],
+    "latitude": "37.894295",
+    "longitude": "-122.57472",
+    "latLong": "37.894295,-122.57472",
+    "bodyText": "<p>This redwood grove includes some of the woods' biggest trees, including the Pinchot tree. The health of the towering redwoods depends on the complex soils of the forest floor, a product of fungal decay and recycling of low greenery, understory trees and the redwoods themselves.</p> <h3>A Life and Death Situation</h3> <p>The impressive size of coast redwoods may suggest dominance over other species in their habitat, but in fact it's just the opposite. Redwoods are only able to grow as a result of their unique biotic community. A healthy redwood forest usually includes massive Douglas firs, tanoaks, madrones and other trees. On the forest floor, among ferns and leafy redwood sorrel, mosses and mushrooms help to regenerate the soil. And of course, the redwoods themselves eventually fall to the forest floor where they decompose and return nutrients to the soil.<br /> <br /> Many different shrubs populate the understory of old-growth redwood forests, including numerous berry bushes. Some examples include: huckleberry, blackberry and thimbleberry, which act as seasonal food sources for raccoons and other forest inhabitants.<br /> <br /> When left to their own devices, redwood forests are natural recyclers. The 35 inch average yearly rainfall provides the soil with some nutrients, but trees must rely on each other, living and dead, to receive all they need to be healthy. To complete this process, redwoods must decay naturally along the forest floor. These decaying trees are what's known as \"nurse logs.\" When logging occurs and the trees are removed, this cycle is disrupted. Since trees have never been logged at Muir Woods, the natural ecological process continues as nature intended.</p>",
+    "audioDescription": "",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "",
+    "isManagedByNps": "1",
+    "amenities": [
+      "Scenic View/Photo Spot"
+    ],
+    "managedByOrg": "",
+    "quickFacts": [],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  },
+  {
+    "id": "6D8E7C74-2F9C-4034-9447-7DB140E9A6E8",
+    "url": "https://www.nps.gov/places/000/muir-woods-main-trail.htm",
+    "title": "Muir Woods Main Trail",
+    "listingDescription": "Muir Woods' main trail begins at the visitor center and follows Redwood Creek on both sides of the stream. Large redwood trees line this trail from the very beginning. Though a level, easy stroll, the walk can be shortened by crossing at the second or third bridge to return. The path consists of firm surfaces, a mixture of wooden boardwalk, asphalt paving, and packed native soil.",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/9E712753-F6AF-2D80-C94B18B1FF92B427.jpg",
+        "credit": "",
+        "altText": "Graphic depiction of the trail elevation and characteristics of the Muir Woods main loop trail",
+        "title": "Muir Woods main trail profile",
+        "description": "",
+        "caption": "Muir Woods Main Loop trail profile",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/9E712753-F6AF-2D80-C94B18B1FF92B427.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/9E712753-F6AF-2D80-C94B18B1FF92B427.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "CA",
+        "parkCode": "goga",
+        "designation": "National Recreation Area",
+        "fullName": "Golden Gate National Recreation Area",
+        "url": "https://www.nps.gov/goga/index.htm",
+        "name": "Golden Gate"
+      },
+      {
+        "states": "CA",
+        "parkCode": "muwo",
+        "designation": "National Monument",
+        "fullName": "Muir Woods National Monument",
+        "url": "https://www.nps.gov/muwo/index.htm",
+        "name": "Muir Woods"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [
+      "Golden Gate National Recreation Area",
+      "goga",
+      "Muir Woods",
+      "muir woods national monument",
+      "trail",
+      "hiking",
+      "recreation",
+      "Redwoods",
+      "GGNRA"
+    ],
+    "latitude": "37.893445",
+    "longitude": "-122.57334",
+    "latLong": "37.893445,-122.57334",
+    "bodyText": "<p>Muir Woods' main trail begins at the visitor center and follows Redwood Creek on both sides of the stream. Large redwood trees line this trail from the very beginning. Though a level, easy stroll, the walk can be shortened by crossing at the second or third bridge to return. The path consists of firm surfaces, a mixture of wooden boardwalk, asphalt paving, and packed native soil.<br /> <br /> <b>Muir Woods Main Trail Overview</b><br /> Distance: 2.0 mi (3.2 km)<br /> Elevation Gain: 30 ft<br /> Time: 2 hours<br /> Trailhead: Muir Woods Visitor Center<br /> Slope: Avg 2% Max 19%<br /> Side Slope: Avg 2% Max 19%<br /> Width: Avg 37\" Min 48\"<br /> Trail Surface: Firm<br /> <br /> <b>Safety</b><br /> Stay on the established trail. Keep an eye out for poison oak.<br /> Dress in layers and be prepared for varying weather conditions. Sunny days along the coast can turn windy, foggy, and cold very fast.<br /> <br /> <b>Parking</b><br /> There is trailhead parking at Muir Woods including 8 ADA accessible spots. Parking at Muir Woods requires a reservation.<br /> <br /> <b>Bathrooms</b><br /> Accessible restrooms can be found adjacent to the Muir Woods entrance plaza and behind the Cafe and Giftshop.<br /> <br /> <b>Water</b><br /> Drinking water may be found adjacent to the Muir Woods entrance plaza, behind the Cafe and Giftshop, and along the trail at the Fern Creek trail junction. Avoid becoming dehydrated or experiencing heat exhaustion. Drink plenty and drink often; pace yourself; rest in the shade; and eat salty snacks.<br /> <br /> <b>Dog and Trail Etiquette</b><br /> The Main Trail is closed to dogs. Please remain on the established trails. Off-trail travel harms plants and causes erosion.</p>",
+    "audioDescription": "",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "",
+    "isManagedByNps": "1",
+    "amenities": [
+      "Trailhead"
+    ],
+    "managedByOrg": "",
+    "quickFacts": [],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  },
+  {
+    "id": "A6165B67-22A3-48A3-B18C-F106D6B9476E",
+    "url": "https://www.nps.gov/places/000/muir-woods-national-monument.htm",
+    "title": "Muir Woods National Monument",
+    "listingDescription": "RESERVATIONS ARE REQUIRED FOR ALL VEHICLES AND SHUTTLE RIDERS For parking and shuttle information and reservations go to GoMuirWoods.com or call 1-800-410-2419. The new reservation system will improve visitor experience and enhance habitat protection. Learn more about the new reservation system.",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/9EB2D49C-F3A5-5C25-C01902867F788B2E.jpg",
+        "credit": "",
+        "altText": "Wooden entrance gate. A wooden sign with the name of the park hangs from the gate.",
+        "title": "Entrance to Muir Woods National Monument",
+        "description": "",
+        "caption": "Entrance gate to Muir Woods National Monument",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/9EB2D49C-F3A5-5C25-C01902867F788B2E.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/9EB2D49C-F3A5-5C25-C01902867F788B2E.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "CA",
+        "parkCode": "goga",
+        "designation": "National Recreation Area",
+        "fullName": "Golden Gate National Recreation Area",
+        "url": "https://www.nps.gov/goga/index.htm",
+        "name": "Golden Gate"
+      },
+      {
+        "states": "CA",
+        "parkCode": "muwo",
+        "designation": "National Monument",
+        "fullName": "Muir Woods National Monument",
+        "url": "https://www.nps.gov/muwo/index.htm",
+        "name": "Muir Woods"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [
+      "muir woods national monument",
+      "Muir Woods",
+      "Golden Gate National Recreation Area",
+      "goga",
+      "recreation",
+      "redwood trees",
+      "GGNRA"
+    ],
+    "latitude": "37.893104943",
+    "longitude": "-122.572513252",
+    "latLong": "37.893104943,-122.572513252",
+    "bodyText": "<p><strong>RESERVATIONS ARE REQUIRED FOR ALL VEHICLES AND SHUTTLE RIDERS</strong><br /> <br /> For parking and shuttle information and reservations go to <a href=\"https://gomuirwoods.com/\">GoMuirWoods.com</a> or call 1-800-410-2419. The new reservation system will improve visitor experience and enhance habitat protection. <a href=\"https://www.nps.gov/muwo/planyourvisit/reservations.htm\">Learn more about the new reservation system.</a><br /> <br /> <b>TRAIL CHANGES</b><br /> For up to date trail and park conditions please visit our <a href=\"https://www.nps.gov/muwo/planyourvisit/know-before-you-go.htm\">Know Before You Go</a> page.<br /> <br /> To help maintain social distancing we have made the following changes:</p> <ul> <li>The Hillside Trail is one-way starting at Bridge 4 and ending at Bridge 2.</li> <li>The Main Trail is one-way counter clockwise from Bridge 1 to Bridge 3 (with an option for a smaller one-way counter clockwise loop from Bridge 1 to Bridge 2)</li> </ul> <p><br /> Muir Woods is surrounded by nearby Mt. Tamalpais State Park. Weather and fire conditions can change suddenly, please check trail the <a href=\"http://www.parks.ca.gov/?page <strong>id=471\">Mt. Tamalpais</a> website for any closures of the connecting trails.<br /> <br /> NOTE: There is no cell service in Muir Woods. To use the app with partial functionality onsite, download the data to your phone ahead of time.<br /> <br /> Muir Woods offers an experience available in only a handful of places on Earth. The peaceful groves of old-growth coast redwoods found here are examples of the species <em>Sequoia sempervirens</em>, whose only habitat left on the entire planet is in pockets along the northern half of the California Pacific Coast.<br /> <br /> Muir Woods offers a space for quiet reflection in a filtered light forest environment. The immense height of the redwoods is sure to impress, but perhaps more amazing is the lifespan of these trees. The average age of the trees in Muir Woods is between 500-600 years, though some as old as 700-1,000 have been documented. In the right conditions, redwoods are capable of living up to 2,000 years. They're among the oldest living things on the planet, making Muir Woods a world-class destination that's not to be missed. Boasting accessible boardwalk trails and trailheads that lead through the forest to the coast, Muir Woods has adventures for all nature lovers, but dog friends must stay home.</p> <h3>Getting to Muir Woods</h3> <p>Muir Woods is a popular place in a hard to reach area. Planning ahead for how you'll get to and from the woods is essential. Reservations are required for all vehicles and shuttle riders. For parking and shuttle information and reservations go to <a href=\"https://gomuirwoods.com/\">GoMuirWoods.com</a> or call 1-800-410-2419.<br /> <br /> For a more peaceful experience, consider coming to the woods on a rainy day. Fewer people tend to venture to the woods when it's wet. The redwoods provide a fair amount of cover and can be quite beautiful in the rain. Another option is to come early or late in the day. From April to October, Muir Woods is open from 8 a.m. to 8 p.m. Twilight visitors will find the trails quiet and uncongested. Mid-week is always less busy. For the more adventurous, you can plan a hike into the woods from one of the trailheads around Muir Woods.</p> <h3>Keeping California Wild: Establishing Muir Woods</h3> <p>Before the 1800s, California's northern coast was covered in approximately 2 million acres of redwood forests. Development and logging resulted in the loss of 97 % of these trees. The area along Redwood Creek, in what is now known as Muir Woods, may well have been logged too, had it not been so difficult to access. By the early 20th century, Redwood Creek contained one of the last uncut old-growth redwood stands in the Bay Area. Now, it's one of the only old-growth coast redwood forest left in the area, and one of the last on the entire planet.<br /> <br /> The preservation of Muir Woods is due to the efforts of Congressman and business mogul William Kent. Encouraged by his wife, environmentalist and women's rights activist Elizabeth Thacher Kent, the couple purchased 611 acres in the region in 1905. They promptly donated half the acreage to the Federal government to ensure its protection. Three years later, President Theodore \"Teddy\" Roosevelt declared the site a National Monument, and suggested naming the woods after Kent. Kent declined the honor, giving instructions for the woods to be named after legendary environmentalist, philosopher and all around cool historical dude, John Muir. Muir was very grateful for the recognition saying, \"This is the best tree-lovers monument that could possibly be found in all the forests of the world.\"</p> <h3>Get Your Nature On: Trails in Muir Woods</h3> <p>Muir Woods has 6 miles of trails, including half hour, 1 hour and 1½ hour loops. There are additional trails that lead from Muir Woods into Mount Tamalpais State Park. Most of the trails in Muir Woods are asphalt or boardwalk, but some that lead far up the canyon are steep, rutted and often muddy.</p> <h3>Can't See the Forest for the Fog</h3> <p>Some know him as \"Karl,\" a thick gray fog who haunts the city and North Coast, especially during the summer. Karl is sometimes seen as a nuisance, but without him, we wouldn't have the redwoods. When inland temperatures are high, we get a visit from Karl, who comes in from over the ocean, providing a beneficial source of cooling moisture that collects in the forest greenery, and drips down to the forest floor. Karl plays a key role in supporting the forest. The moisture he brings during summer dry periods accounts for about 40 percent of the redwoods' moisture intake. Redwoods can move hundreds of gallons of water daily along their trunks from roots to crown. This water transpires through the trees' foliage, returning to the atmosphere.</p> <h3>ONE Tam at a Time</h3> <p><a href=\"http://www.onetam.org/\">ONE Tam</a> is a community-based initiative to ensure the preservation of Mount Tamalpais for the next century. ONE Tam raises awareness for the need to maintain the long-term health of the mountain, engage more volunteers in caring for its treasured resources and renew the spirit of philanthropy that was fundamental to keeping Mount Tam unspoiled over the last one hundred years. ONE Tam is a partnership between the following awesome organizations, dedicated to preserving wild areas in an increasingly digital age: California State Parks, Golden Gate National Parks Conservancy, Marin County Parks, Marin Municipal Water District and the National Park Service.</p>",
+    "audioDescription": "Muir Woods National Monument<br />649 words.<br /><br />The entrance to Muir Woods National Monument is located along a sharp bend on Muir Woods Road. Limited accessible parking is available just to the east of the Visitor Center. Reservations are required. Please request an accessible parking space when you reserve.<br /><br />Facing west from the parking lot, the plaza is directly ahead of you. The plaza is an open space leading to the Visitor Center, ticket kiosk and entrance to the woods, all to the north. The Visitor Center is to the right of the ticket kiosk, and the entrance to the woods is a few feet further north behind both buildings. Bathrooms are located at the south west corner of the plaza, near the passenger drop off along Muir Woods Road.<br /><br />In the middle of the plaza is a bronze, three-dimensional tactile model of Muir Woods and the Redwood Creek Watershed. The plaza is lined with wooden benches around its perimeter. To the north, a large wooden sign marks the entrance to Muir Woods, and a lone redwood towers over the shorter canopy of Douglas firs that crowd out the sky. As you pass under the wooden sign the asphalt of the plaza becomes a boardwalk path.<br /><br />As you pass under the wooden entrance sign, you are immediately surrounded by a dense forest. The main section of Muir Woods is a 1.3 mile loop consisting of the Redwood Creek and Bohemian Grove Trails. The trails are a combination of wooden boardwalks and asphalt that circle around redwood groves and lead back to the Visitor Center and plaza. While you can take either trail to start, the loop is designed to begin with Redwood Creek Trail. From the entrance to the woods, Redwood Creek Trail is the path that forks slightly east, to the right.<br /><br />Along the Redwood Creek Trail, you will encounter the Muir Woods Cafe and gift shop, Redwood Creek, Founders Grove and Cathedral Grove. Four bridges cross over Redwood Creek from the Redwood Creek Trail. The first three link Redwood Creek Trail to Bohemian Grove Trail to the west. The fourth bridge leads up to the Hillside Trail. Take any of the first three bridges to the Bohemian Grove Trail in order to loop back to the Visitor Center and entrance.<br /><br />Beginning at the entrance sign to the woods, it is about a one tenth of a mile walk along Redwood Creek Trail to the Muir Woods Trading Company gift shop and cafe. A short series of stairs leads to the cafe and gift shop to the right of the trail. 75 feet further north, an accessible ramp to the right of the trail also provides access to the gift shop, cafe and bathrooms. The stairs and ramp lead to an outdoor patio. The cafe and gift shop are straight ahead, the bathrooms are to the left of the gift shop, which is left of the cafe. Left of the trail, directly opposite the junction that leads to the Muir Woods Trading Company is Bridge 1, which cuts west, or, to the left of Redwood Creek Trail.<br /><br />Continuing north about two tenths of a mile from the gift shop is Founders Grove, a wider section of the woods that features some of its largest redwoods. These coniferous giants have soft, pulpy bark with a reddish hue, which gives them their name. Park staff lead periodic talks on the history and ecology of Muir Woods in Founders Grove. <br /><br />Bridge 1 and Bridge 2 are two tenths of a mile apart. Bridge 2 and Bridge 3 are one tenth of a mile apart. Bridge 3 and Bridge 4 are half a mile apart. Bridge 3 is the final turnaround and connection between the Redwood Creek and Bohemian Grove Trails. Bridge 4 crosses over the creek and leads up to the Hillside Trail. A series of 21 wayside interpretive panels are arranged beginning in the plaza, along the loop trail, Cathedral Grove and the Bohemian Grove Trail.",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "1",
+    "npmapId": "",
+    "geometryPoiId": "371e4fb0-7250-4d2b-b21f-2069f7f2c0ac",
+    "isManagedByNps": "1",
+    "amenities": [
+      "Information",
+      "Restroom",
+      "Trailhead"
+    ],
+    "managedByOrg": "",
+    "quickFacts": [],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  },
+  {
+    "id": "04C525DB-F91E-49B7-842D-B569AD8B6EBD",
+    "url": "https://www.nps.gov/places/000/muir-woods-trading-company.htm",
+    "title": "Muir Woods Trading Company",
+    "listingDescription": "Open daily 9:30 a.m. to 7;00 p.m Muir Woods Trading Company is your one-stop shop for souvenirs and a hot meal in the woods.",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/9683470A-B8FE-C268-B9A44B7E6380296F.jpg",
+        "credit": "NPS / Alison Taggart Barone",
+        "altText": "Visitors at the entrance to the Muir Woods Trading Company",
+        "title": "Muir Woods Trading Company",
+        "description": "",
+        "caption": "Muir Woods Trading Company",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/9683470A-B8FE-C268-B9A44B7E6380296F.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/9683470A-B8FE-C268-B9A44B7E6380296F.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "CA",
+        "parkCode": "goga",
+        "designation": "National Recreation Area",
+        "fullName": "Golden Gate National Recreation Area",
+        "url": "https://www.nps.gov/goga/index.htm",
+        "name": "Golden Gate"
+      },
+      {
+        "states": "CA",
+        "parkCode": "muwo",
+        "designation": "National Monument",
+        "fullName": "Muir Woods National Monument",
+        "url": "https://www.nps.gov/muwo/index.htm",
+        "name": "Muir Woods"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [
+      "Golden Gate National Recreation Area",
+      "goga",
+      "muir woods national monument",
+      "Muir Woods",
+      "RETAIL",
+      "business",
+      "Partner",
+      "MUWO"
+    ],
+    "latitude": "37.893398",
+    "longitude": "-122.572846",
+    "latLong": "37.893398,-122.572846",
+    "bodyText": "<p><strong>The Muir Woods Trading Company gift shop & grab-and-go food selection opens every day at 9AM. Hot food service begins at 11AM and is served until 2 hours before park closure. The gift shop and grab-and-go closes an hour before the park closes. </strong><br /> <br /> <a href=\"http://www.muirwoodstradingcompany.com/\">Muir Woods Trading</a> Company is your one-stop shop for souvenirs and a hot meal in the woods.</p>",
+    "audioDescription": "",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "",
+    "isManagedByNps": "1",
+    "amenities": [
+      "Food/Drink - Cafeteria",
+      "Restroom"
+    ],
+    "managedByOrg": "",
+    "quickFacts": [],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  },
+  {
+    "id": "5C0256C5-331A-404E-BEE0-6248C1F0FE81",
+    "url": "https://www.nps.gov/places/000/redwood-creek-trail.htm",
+    "title": "Redwood Creek Trail",
+    "listingDescription": "Redwood Creek Trail is the main drag through Muir Woods, and connects to a host of other trails leading up the flanks of Mount Tamalpais. From here, you can link up with the Canopy View Trail, Hillside Trail, Fern Creek Trail, the Plevin Cut or the Ben Johnson Trail, and access state park, Marin County Park and Marin Municipal Water District open spaces.",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/D56604E3-99B8-ACE6-FBF1047E9595D236.jpg",
+        "credit": "Alison Taggart-Barone",
+        "altText": "Visitors walk along the boardwalk of the Redwood Creek Trail.",
+        "title": "Redwood Creek Trail",
+        "description": "",
+        "caption": "Redwood Creek Trail",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/D56604E3-99B8-ACE6-FBF1047E9595D236.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/D56604E3-99B8-ACE6-FBF1047E9595D236.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "CA",
+        "parkCode": "goga",
+        "designation": "National Recreation Area",
+        "fullName": "Golden Gate National Recreation Area",
+        "url": "https://www.nps.gov/goga/index.htm",
+        "name": "Golden Gate"
+      },
+      {
+        "states": "CA",
+        "parkCode": "muwo",
+        "designation": "National Monument",
+        "fullName": "Muir Woods National Monument",
+        "url": "https://www.nps.gov/muwo/index.htm",
+        "name": "Muir Woods"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [
+      "Golden Gate National Recreation Area",
+      "goga",
+      "redwood creek trail",
+      "redwood creek",
+      "Muir Woods",
+      "trail",
+      "hiking",
+      "recreation",
+      "trailhead",
+      "GGNRA"
+    ],
+    "latitude": "37.886177942",
+    "longitude": "-122.56828825",
+    "latLong": "37.886177942,-122.56828825",
+    "bodyText": "<p>Redwood Creek Trail is the main drag through Muir Woods, and connects to a host of other trails leading up the flanks of Mount Tamalpais. From here, you can link up with the Canopy View Trail, Hillside Trail, Fern Creek Trail, the Plevin Cut or the Ben Johnson Trail, and access state park, Marin County Park and Marin Municipal Water District open spaces.</p>",
+    "audioDescription": "",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "e3837733-3709-4ba9-868f-048b7268e6d9",
+    "isManagedByNps": "1",
+    "amenities": [
+      "Trailhead"
+    ],
+    "managedByOrg": "",
+    "quickFacts": [],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  },
+  {
+    "id": "949BDF84-808A-4D7B-8672-AA7A93B7A4BD",
+    "url": "https://www.nps.gov/places/000/redwood-cross-section.htm",
+    "title": "Redwood Cross-Section",
+    "listingDescription": "When this tree fell in 1930, this cross-section was put on display. The concentric rings of the tree reveal that it lived 1,021 years. Some redwoods live more than 2,000 years.",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/D5B7B646-F5D5-D796-E4283E06A8B553C6.jpg",
+        "credit": "Chad Beale",
+        "altText": "Visitors examine the timeline on the redwood cross-section.",
+        "title": "Redwood cross section",
+        "description": "",
+        "caption": "Visitors examine the timeline on the redwood cross-section.",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/D5B7B646-F5D5-D796-E4283E06A8B553C6.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/D5B7B646-F5D5-D796-E4283E06A8B553C6.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "CA",
+        "parkCode": "goga",
+        "designation": "National Recreation Area",
+        "fullName": "Golden Gate National Recreation Area",
+        "url": "https://www.nps.gov/goga/index.htm",
+        "name": "Golden Gate"
+      },
+      {
+        "states": "CA",
+        "parkCode": "muwo",
+        "designation": "National Monument",
+        "fullName": "Muir Woods National Monument",
+        "url": "https://www.nps.gov/muwo/index.htm",
+        "name": "Muir Woods"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [
+      "Golden Gate National Recreation Area",
+      "goga",
+      "Muir Woods",
+      "muir woods national monument",
+      "redwood tree",
+      "natural resource",
+      "Education",
+      "GGNRA"
+    ],
+    "latitude": "37.893499",
+    "longitude": "-122.573422",
+    "latLong": "37.893499,-122.573422",
+    "bodyText": "<p>When this tree fell in 1930, this cross-section was put on display. The concentric rings of the tree reveal that it lived 1,021 years. Some redwoods live more than 2,000 years.</p> <h3>The Old Ones</h3> <p>Fossil records indicate that relatives of today's coast redwoods were living large during the Jurassic Period 160 million years ago. The dinosaurs may have bit the dust, but the redwoods continue to thrive in this location, one they have inhabited for some 20 million years thanks to environmental conditions that remain largely unchanged.<br /> <br /> A combination of latitude, elevation and microclimates in the California Coast Ranges makes it possible for redwoods to grow.<br /> <br /> These factors are also what limits the redwoods' range to a few hundred coastal miles. The cool, moist air created by the Pacific Ocean keeps the trees continually damp, even during summer droughts. California's North Coast provides the only such environment in the world. The trees can live to be 2,000 years old, and regularly reach 600 years.<br /> <br /> Redwoods are tough customers. They possess built-in resistance to insects and fire. Diseases are virtually unknown. Their unusual ability to regenerate also aids in their survival as a species. Sprouts may come directly from a snag or downed tree's root system. Basal burls, which are hard, knotty growths that form from dormant seedlings on a living tree, can sprout a new tree when the main trunk is damaged by fire, cutting or toppling.</p> <h3>Hotter Planet, Bigger Trees?</h3> <p>Since the 1970s, researchers have noted some coast redwood and giant sequoia trunks are growing at a rate faster than others previously documented. Could this be the result of climate change? Experts aren't sure, but think it's possible. One theory suggests that increased sunlight due to less summer fog, but a still-adequate amount of winter precipitation, is spurring the growth. Another theory is that wildfire suppression reduces the amount of fire stress, allowing redwoods to expend more energy on trunk growth. Whatever the reason, the available evidence suggests that, at least for now, redwoods are growing faster in the changing environment.</p>",
+    "audioDescription": "",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "",
+    "isManagedByNps": "1",
+    "amenities": [
+      "Historical/Interpretive Information/Exhibits"
+    ],
+    "managedByOrg": "",
+    "quickFacts": [],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  }
+]

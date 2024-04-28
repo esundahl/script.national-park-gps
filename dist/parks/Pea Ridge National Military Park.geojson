@@ -1,0 +1,110 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.02193965993453,
+          36.45473451567242
+        ]
+      },
+      "properties": {
+        "name": "East Overlook at Pea Ridge",
+        "notes": "East Overlook at Pea Ridge\nhttps://www.nps.gov/places/east-overlook-at-pea-ridge.htm\n\n<p>About 150 yards down the path is the best view of the battlefield. Almost 50% of the park grounds can be seen from this viewpoint. This is one of the most beautiful places on the battlefield. The East Overlook is about 1,610 feet above sea level. On the morning of March 8, 1862, Gen. Samuel Curtis’s union artillery pounded the top of Big Mountain. When the artillery thundered across the landscape, Confederate soldiers tried to find shelter on the rocky slope of this overlook. The solid shot tore through the trees and shattered rock while explosive shell bursts overhead, throwing a deadly shower of lead, iron, wood, and stone into the defenders. Twenty-one guns belonging to six union army batteries created a loud sound that could be heard from miles away. The Confederates suffered many casualties, but there were only four known fatalities.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.0157653998,
+          36.4535506999
+        ]
+      },
+      "properties": {
+        "name": "Elkhorn Tavern",
+        "notes": "Elkhorn Tavern\nhttps://www.nps.gov/places/elkhorn-tavern.htm\n\n<p>The original Elkhorn Tavern was built around 1833 by William Reddick and his son-in-law, Samuel Burks. In 1858, Burks, sold the house and the 313 acres to Jesse & Polly Cox for $3600. Cox made several improvements to the tavern, including adding white-painted weatherboarding (siding) to the exterior and a set of stairs leading to the upper porch. The stairs allowed members of the Benton County Baptist Society, to meet at the house without having to go through a \"public house.\" Another addition was a set of elk horns that Cox placed on the ridgepole, which gave the tavern its name.<br /> <br /> Prior to the Civil War, the house was used for many purposes, including a house of worship, inn, post office, and trading post, although it was well-known locally as a stop for the Overland Stage. During this period, the tavern was described as a place \"of abundant good cheer.\"<br /> <br /> In February 1862, the fields surrounding the tavern were transformed into the Federal army's main supply camp. During the Battle of Pea Ridge, the tavern served as a field hospital and, for a brief time, as Confederate General Earl Van Dorn's headquarters. Polly Cox, her son Joseph, his wife Lucinda, and the two youngest children, Elias and Franklin, stayed in the tavern's cellar during the battle. Although it was hit many times, once by a cannonball that hit the upper floor, the tavern survived the battle intact.<br /> <br /> After the battle, the Federals used the tavern as a headquarters and military telegraph station, until it was burned around January 1863 by Confederate guerrillas. Joseph Cox rebuilt the structure on the original foundations soon after the war's end. As hundreds of veterans and their families returned to the battlefield, Cox ran a small museum with battle artifacts hung on the walls. The structure went through a number of modifications and changes until it was transferred to the National Park Service on March 7, 1960. The structure has since been restored to its approximate wartime appearance.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.05075149206543,
+          36.453937647165745
+        ]
+      },
+      "properties": {
+        "name": "Fight at Foster's Farm - Stop Five",
+        "notes": "Fight at Foster's Farm - Stop Five\nhttps://www.nps.gov/places/fight-at-foster-s-farm-stop-five.htm\n\nTwo Armies Collide here on the Pea Ridge Battlefield. The Confederate Army at the Battle of Pea Ridge included many Native American troops. Two regiments of Cherokees, about 1000 men, fought for the Confederate army and routed two companies of Union cavalry. Union cannon fire eventually forced them to take cover in the woods. The Cherokee regiments were held in reserve throughout the remainder of the battle. ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.03225609325408,
+          36.440950081538006
+        ]
+      },
+      "properties": {
+        "name": "General Curtis Headquarters - Stop Two",
+        "notes": "General Curtis Headquarters - Stop Two\nhttps://www.nps.gov/places/general-curtis-headquarters-stop-two.htm\n\n<p>Lewis Pratt’s general store was here along the Telegraph Road east of Leetown and was about a mile and a half north of the Federal camps. General Samuel R. Curtis selected Lewis Pratt’s general store as his headquarters and erected his command tents nearby. Beside the store, it is believed that several other buildings were on the site, possibly including a house, barn, and shed. On the morning of March 7, Brig. Gen. Samuel R. Curtis was conferring with his leaders when he was interrupted by a messenger stating that the Confederates were in force north of Leetown along Ford Road. Curtis directed Colonel Peter Osterhaus to take his division to investigate the activity along Ford Road. As Osterhaus left the tent, another messenger entered, reporting that another force was marching south along the Telegraph Road directly towards Curtis's vulnerable supply trains at the Elkhorn Tavern. Curtis looked out of his tent and saw Colonel Grenville Dodge's brigade standing outside. Curtis directed Dodge's commander, Colonel Eugene Carr, to take the brigade north and intercept the second Confederate force. Carr confidently stated that he would clear the Confederates out in an hour.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.05090280510551,
+          36.44122639326291
+        ]
+      },
+      "properties": {
+        "name": "Leetown Hamlet - Stop Three",
+        "notes": "Leetown Hamlet - Stop Three\nhttps://www.nps.gov/places/leetown-hamlet-stop-three.htm\n\n  <p>Leetown was one of the earliest settlements in Northwest Arkansas. The town sat in the middle of a broad, wooded plateau bordered by Pea Vine Ridge to the north and Little Sugar Creek to the south.</p> <p>Leetown was founded in the 1840s by John W. Lee, a farmer from Kentucky. Surgeon D.S. McGugin, of the 3rd Iowa Cavalry described the hamlet in his after-battle report. McGugin stated that Leetown consisted of \"some fifteen or twenty houses, frame and log, and but one story in height.\" He described a \"small store\" believed to have been owned by John Lee as \"one story and a half high, about thirty feet long, and twenty feet wide.\" Surgeon McGugin noted, \"In all, the windows were few and very small, admitting little light and an insufficiency of air, even when the sash frames were entirely removed.....They contained but few of the ordinary domestic appliances, and were wholly wanting in the usual necessaries found in more settled regions.\"</p> <p>Directly north of Leetown lay two large farms owned by George Sturdy and Wiley Foster. To the east of Leetown, on the south side of Telegraph Road, sat Lewis Pratt's general store, one of three known to be in the region. During the battle, General Samuel Curtis, the Federal Army's commander, used Pratt's Store as his headquarters.</p>   <p>On March 7, 1862, the Federal battleline was only a half-mile north of the village. According to Dr. McGugin, \"all the houses within three miles of the field were taken for hospitals.\"</p> <p>Leetown was devastated by the battle. The fields and woods were filled with battle debris, and death's stench filled the air. Many of the families moved to the nearby community of Pea Ridge and rebuilt their lives there.</p> <p>Some families remained and tried to return to life before the war came. In 1881, the Saint Louis & San Francisco Railroad (the \"Frisco Line\") built a branch line through northwest Arkansas, passing through the town of Rogers about 12 miles to the south. Those who had not left due to the war now moved to Rogers for the opportunities that the railroad offered. Leetown soon existed only in people's memories.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.0525824834671,
+          36.444998338009576
+        ]
+      },
+      "properties": {
+        "name": "Pea Ridge Leetown Battlefield - Stop Four",
+        "notes": "Pea Ridge Leetown Battlefield - Stop Four\nhttps://www.nps.gov/places/pea-ridge-leetown-battlefield-stop-four.htm\n\nThe Confederate attack through the woods north of this field and across the tour road to the east failed to defeat the Federals deployed along the south fence line. Two Confederate generals, Ben McCulloch and James Mclntosh were killed near the field's north boundary. ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.04188093254089,
+          36.45996402779094
+        ]
+      },
+      "properties": {
+        "name": "West Overlook at Pea Ridge - Stop Six",
+        "notes": "West Overlook at Pea Ridge - Stop Six\nhttps://www.nps.gov/places/west-overlook-at-pea-ridge-stop-six.htm\n\nFrom here, the Boston Mountains are visible on the southern horizon. Bentonville, Arkansas, from which the Confederates advanced to Pea Ridge, is 14 miles to the west. ",
+        "icon": "red-pin-down.png"
+      }
+    }
+  ]
+}

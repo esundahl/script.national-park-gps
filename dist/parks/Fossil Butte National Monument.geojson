@@ -1,0 +1,170 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.74347496032715,
+          41.84456509286266
+        ]
+      },
+      "properties": {
+        "name": "Fossil Butte",
+        "notes": "Fossil Butte\nhttps://www.nps.gov/places/fossil-butte.htm\n\nA butte is a hill with steep sides and a flat top. Fossil Butte is named after the fossils that can be found in its top layers of rock.<br /> <br /> Fossil Butte sits just behind the visitor center and can be seen from the park road. While it appears to be a butte from these locations, it is actually a ridge that extends down along the county road. The Historic Quarry Trail takes you up this side of Fossil Butte nearly to the top. ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.779167952,
+          41.8509500752
+        ]
+      },
+      "properties": {
+        "name": "Wayside: Dynamic Lake",
+        "notes": "Wayside: Dynamic Lake\nhttps://www.nps.gov/places/wayside-dynamic-lake.htm\n\nThe size and depth of Fossil Lake varied over time. This wayside explains how water depth in and around the location of the monument changed over time and how that relates to the layers of rock.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.768670294,
+          41.8285154836
+        ]
+      },
+      "properties": {
+        "name": "Wayside: Erosion (Roadside)",
+        "notes": "Wayside: Erosion (Roadside)\nhttps://www.nps.gov/places/wayside-erosion-roadside.htm\n\nErosion has removed a significant amount of lake sediments. Find out how much has been lost at this wayside.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.77819347381592,
+          41.886272470886524
+        ]
+      },
+      "properties": {
+        "name": "Wayside: Geology's Effect on Ecology",
+        "notes": "Wayside: Geology's Effect on Ecology\nhttps://www.nps.gov/places/wayside-geology-s-effect-on-ecology.htm\n\nA micro-environment of aspens and conifers is able to survive on this hillside due to geology's effect on the landscape.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.764183483,
+          41.8252110236
+        ]
+      },
+      "properties": {
+        "name": "Wayside: Plan Your Visit to Fossil Butte",
+        "notes": "Wayside: Plan Your Visit to Fossil Butte\nhttps://www.nps.gov/places/wayside-plan-your-visit-to-fossil-butte.htm\n\nThis wayside by the entrance sign will help you plan your visit to Fossil Butte National Monument.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.78190752,
+          41.864677877000005
+        ]
+      },
+      "properties": {
+        "name": "Wayside: Slump or Debris Flow (Roadside)",
+        "notes": "Wayside: Slump or Debris Flow (Roadside)\nhttps://www.nps.gov/places/wayside-slump-or-debris-flow-roadside.htm\n\nDebris flows are most commonly known as landslides. For slumps, the soil moves slowly as a block, often coming to rest with trees and other plants still growing undisturbed. Use this sign to determine if the hill is an example of a debris flow or a slump.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.7781720161438,
+          41.886256496258504
+        ]
+      },
+      "properties": {
+        "name": "Wayside: The Eastern Edge of Fossil Lake",
+        "notes": "Wayside: The Eastern Edge of Fossil Lake\nhttps://www.nps.gov/places/wayside-the-eastern-edge-of-fossil-lake.htm\n\nUse this sign as a guide to see how far ancient Fossil Lake extended to the east.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.78441619873047,
+          41.874993389475755
+        ]
+      },
+      "properties": {
+        "name": "Wayside: The Southern End of Fossil Lake",
+        "notes": "Wayside: The Southern End of Fossil Lake\nhttps://www.nps.gov/places/wayside-the-southern-end-of-fossil-lake.htm\n\nAncient Fossil Lake was 1600 square miles. Use this sign as a guide to see how far the lake extended to the south.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.764183483,
+          41.8252110236
+        ]
+      },
+      "properties": {
+        "name": "Wayside: Where is Fossil Butte?",
+        "notes": "Wayside: Where is Fossil Butte?\nhttps://www.nps.gov/places/wayside-where-is-fossil-butte.htm\n\nVisitors often ask where the butte is located. This sign points out Fossil Butte and provides a definition of a butte.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.768670294,
+          41.8285154836
+        ]
+      },
+      "properties": {
+        "name": "Wayside: Where's the Lake?",
+        "notes": "Wayside: Where's the Lake?\nhttps://www.nps.gov/places/wayside-where-s-the-lake.htm\n\nWhere is Fossil Lake? Above you on the top of the butte! This wayside discusses why the lake sediments are on top of the ridges and not down in the valleys.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.7867443561554,
+          41.87423046187845
+        ]
+      },
+      "properties": {
+        "name": "Wayside: Why the Rocks of Rubey Point are Curved",
+        "notes": "Wayside: Why the Rocks of Rubey Point are Curved\nhttps://www.nps.gov/places/wayside-why-the-rocks-of-rubey-point-are-curved.htm\n\nRubey Point curves up from the rest of the ridge. Find out how fault lines play a role.",
+        "icon": "red-pin-down.png"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.5245235716,
+          34.622739845
+        ]
+      },
+      "properties": {
+        "name": "Keepers Quarters Museum",
+        "notes": "Keepers Quarters Museum\nhttps://www.nps.gov/places/keepers-quarters-museum.htm\n\n<p>Built in 1873 as replacement quarters for all three keepers of Cape Lookout Lighthouse. At that time, keepers families did not live at the station, only the men on duty. It wasn't until 1907, when an additional quarters building was built, that the men's families could join them. At that time the principal keeper and his family moved into the new quarters and this building was divided to accomodate the two assistant keepers' and their families. The 1st Assistant keeper and family lived on the first floor and the 2nd Assistant keeper and family had the second floor.</p> <p>Today the Keepers' Quarters is a museum with exhibits on the U.S. Lighthouse and U.S. Life-Saving Services, lives of the keepers, and the history of the Cape Lookout light on the ground floor. The second floor is closed to visitors. The museum is open seasonally from 9:30 am to 4:30 pm from March to October.</p>",
+        "icon": "red-pin-down.png"
+      }
+    }
+  ]
+}

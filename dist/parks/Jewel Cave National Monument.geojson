@@ -1,0 +1,95 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.84136428870674,
+          43.73605219881967
+        ]
+      },
+      "properties": {
+        "name": "Historic Cabin",
+        "notes": "Historic Cabin\nhttps://www.nps.gov/places/historic-cabin.htm\n\n<p>The Civilian Conservation Corps (CCC) built this cabin between 1935 and 1939. The CCC used locally sourced ponderosa pine to build the cabin and other structures. The cabin included a living room, kitchen, and a bedroom for the resident ranger and family. After completion, this cabin served as the park headquarters and was the first stop as visitors arrived to tour Jewel Cave.<br /> <br /> Over the years, the cabin and surrounding area were modified to fit the needs of a monument with growing popularity. Eventually, visitation exceeded what the current facilities could support. In 1972, the modern visitor center opened, and the cabin was no longer needed except as a meeting place for tours through the historic entrance. The cabin now serves as a reminder of the great work completed by the CCC and the rangers who followed.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.84246556149523,
+          43.73489457432142
+        ]
+      },
+      "properties": {
+        "name": "Historic Entrance",
+        "notes": "Historic Entrance\nhttps://www.nps.gov/places/historic-entrance.htm\n\nIn 1900, Frank and Albert Michaud found a small hole blowing cold air out in Hell Canyon. After enlarging the hole, the Michaud brothers discovered the beauty of what is now called Jewel Cave. The brothers developed the cave and began to offer tours to visitors. Word spread of this amazing find, and in 1908 Jewel Cave became a National Monument. It wasn't until the 1930s that Jewel Cave came under the management of the National Park Service, but it has been protected by various groups since it's discovery. Now, over 100 years later, visitors can still take a tour through the very opening enlarged by the Michaud brothers to follow their first footsteps into the darkness of Jewel Cave.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.82946434918573,
+          43.72969985585347
+        ]
+      },
+      "properties": {
+        "name": "Jewel Cave National Monument Park Store",
+        "notes": "Jewel Cave National Monument Park Store\nhttps://www.nps.gov/places/jewel-cave-national-monument-park-store.htm\n\nThe park store is operated by <a href=\"http://www.blackhillsparks.org/\">Black Hills Parks and Forests Association</a>, an official non-profit partner of the National Park Service dedicated to supporting the educational mission of Jewel Cave National Monument. The park store has a wide range of educational products and services available for retail sale. These products complement the interpretive themes you experience when visiting the park. The park store is located inside the visitor center, or you can visit the online park store at <a href=\"http://www.blackhillsparks.org/\">www.blackhillsparks.org</a>.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Jewel Cave Visitor Center",
+        "notes": "Jewel Cave Visitor Center\nhttps://www.nps.gov/places/jewel-cave-visitor-center.htm\n\n<p>Begin your visit to the monument at the visitor center where there is an information desk, park store, drinking fountain, restrooms, a theater for the park film, and elevators for the Scenic Tour and the Discovery Tour. While here, be sure to explore the exciting exhibits highlighting surface features of the monument and the beautiful formations that give Jewel Cave its name. The visitor center hours, kiosk, theater, and tour times vary by season. For more information, visit <a href=\"javascript:HandleLink(\">Operating Hours and Seasons</a>.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.82914488976218,
+          43.72979553492882
+        ]
+      },
+      "properties": {
+        "name": "Park Theater",
+        "notes": "Park Theater\nhttps://www.nps.gov/places/park-theater.htm\n\nOpen seasonally, the park theater offers seating for approximately 30 people. Throughout the summer, the 23-minute park movie, \"Discovery in the Darkness\", is played at scheduled times. Viewers will follow volunteer cave explorers into one of the last frontiers and witness some dramatic underground scenery. This movie shares the natural and cultural history of the \"jewel\" of the National Park Service. The park theater may be used for other special events or programs throughout the year. ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.82914613821384,
+          43.73029639442266
+        ]
+      },
+      "properties": {
+        "name": "Ticket Kiosk",
+        "notes": "Ticket Kiosk\nhttps://www.nps.gov/places/ticket-kiosk.htm\n\nRanger guided cave tours are required for access to Jewel Cave and all visitors who participate in a tour must have a ticket.<br /> <br /> <strong>Due to limited space on each cave tour, advanced ticket reservations are highly recommended.</strong> In collaboration with Recreation.gov, Jewel Cave National Monument offers advanced ticket sales for a majority of cave tours. Advanced sales are offered for all cave tours and are offered for the scheduled times. Please be advised that tour times and tour availability change throughout the year due to visitation and available staffing.<br /> <br /> Visitors can purchase tour tickets on <a href=\"https://www.recreation.gov/\">Recreation.gov</a> up until noon the day before the tour in the slow season, and know throughout the summer booking can close quicker if the tours sell out. All financial transactions with reservations are administered by <a href=\"https://www.recreation.gov/\">Recreation.gov</a>.<strong> Using reservations available on recreation.gov and making a reservation is strongly recommended. Availability of walk-up tickets is not guaranteed.</strong><br /> <br /> If staffing is available to provide additional tours, some tickets are sold on-site at the Ticket Kiosk on a first come first serve basis on the day of the tour and are limited by tour type. Tours often sell out by mid to late morning during the summer season (May through September). During the peak season or a holiday weekend, it is advised that visitors arrive in the early morning to purchase on-site tickets.<em> Arriving 30 minutes to an hour before the tour time may mean you arrive after that tour is already sold out.</em> During the off-season (October through April), tickets may be sold in the Visitor Center. Learn more about tour times at <a href=\"javascript:HandleLink(\">Operating Hours & Seasons</a>. To learn more about purchasing tickets in advance and tours, go to <a href=\"https://www.nps.gov/jeca/planyourvisit/guidedtours.htm\">Guided Tours.</a><br />  ",
+        "icon": "red-pin-down.png"
+      }
+    }
+  ]
+}

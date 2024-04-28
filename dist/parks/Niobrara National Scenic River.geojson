@@ -1,0 +1,320 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.362169936709,
+          42.9016115668978
+        ]
+      },
+      "properties": {
+        "name": "Berry Falls",
+        "notes": "Berry Falls\nhttps://www.nps.gov/places/berry-falls.htm\n\nBerry Falls are a beloved and well known stop for regular floaters of the Niobrara National Scenic River.<br /> <br /> The Berry Falls are located adjacent to Berry Bridge on Berry Bridge Road on the South bank of the river. These 8 foot tall waterfalls flow directly into the Niobrara River and are a welcome site for floaters. They signal the change from floating in the Fort Niobrara National Wildlife Refuge to floating through private lands. <br /> <br /> There are two private canoe, kayak, and tube landing/launches on the Northern bank of the river as well as a public restroom, a section for public parking, and great views of the Berry Falls from all angles.<br /> <br /> We love viewing the falls from the Berry Bridge in every season. The falls flow year-round and under the guise of a gentle snowfall bring a sense of calm and stillness. The sound of the falls feeding into the river with the echoes of laughter from floaters rings in the summer season. <br /> <br /> Floaters on the river take their time passing these waterfalls; it is rare to get so close to waterfalls while floating the Niobrara River. Many of the other waterfalls are tucked up and into canyons or are too high up on the river walls for visitors to feel the spray and splash of the flow. <br /> <br /> Climbing on the Berry Falls is not allowed. The land of that river bank is actually privately owned, and the owners would like to preserve the structure of the Berry Falls for many years and visitors to come. ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.26639407483272,
+          42.87608976194134
+        ]
+      },
+      "properties": {
+        "name": "Brewer Bridge Landing",
+        "notes": "Brewer Bridge Landing\nhttps://www.nps.gov/places/brewer-bridge-landing.htm\n\nBrewer Bridge spans the Niobrara National Scenic River at river mile 19.2 and is a popular landing for floaters looking to avoid the Niobrara's larger river rapids. <br /> <br /> The Brewer Bridge Landing features space for staging equiptment, disposing of trash and recycling, drinking water, and a picnic area for recovering your land-legs after a day on the water.<br /> <br /> After Brewer Bridge, the Niobrara River has more rapids and advanced paddling opportunities including some class III+ rapids. First time floaters using public access to get out on the river enjoy the gentle flow of the river and getting their feet wet on warm days in summer.<br />  ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.23599512314794,
+          42.85984608641927
+        ]
+      },
+      "properties": {
+        "name": "Conner Rapids",
+        "notes": "Conner Rapids\nhttps://www.nps.gov/places/conner-rapids.htm\n\nConner Rapids are a class I river rapid and should not intimidate beginner floaters or paddlers. Class I rapids are great for gaining experience in a vessel on how to let the river float your boat and be comfortable with whatever it throws at you.<br /> <br /> Conner Rapids are located down-river from Brewer Bridge landing quite a distance. The closest noticeable landmark to them is the Penbrook campground. They are located just after the campground and are a good signal to beginner floaters that the Class II Fritzes Island Rapids are coming soon too.<br /> <br /> Note: Niobrara National Scenic River does not endorse nor preference any private businesses along the river corridor. Any names of private landings or locations are named for the convenience of the floater as landmark references for location orientation.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.97894821166992,
+          42.776117055533284
+        ]
+      },
+      "properties": {
+        "name": "Eagle Rapids",
+        "notes": "Eagle Rapids\nhttps://www.nps.gov/places/eagle-rapids.htm\n\nEagle Rapids are not for the feint of heart. These Class II+ rapids can be very turbulent and tip a boat if you're not experienced and confident.<br /> <br /> We recommend portaging these rapids and getting back on the water below them unless you're ready to get wet and chase down your gear.<br /> <br /> The Eagle Rapids are quite long and stretch for over 1000 meters of river length so brace yourself for a bumpy ride!",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.13484781160156,
+          42.818381037604986
+        ]
+      },
+      "properties": {
+        "name": "Egelhoff's Narrows",
+        "notes": "Egelhoff's Narrows\nhttps://www.nps.gov/places/egelhoff-s-narrows.htm\n\nWhat's around the river-bend? A super cool river feature known as Egelhoff's Narrows. This class I rapid looks a lot like a chute and can be a fun experience for beginners on the otherwise calm and easy Niobrara River.<br /> <br /> Beginners could feel more comfortable riding this feautre out from the middle of the channel. Stick to the middle and you'll be just fine enjoying the views of the canyon walls pass by under the sunny blue sky.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.13485374583487,
+          42.818445958128
+        ]
+      },
+      "properties": {
+        "name": "Egelhoff's Rapid",
+        "notes": "Egelhoff's Rapid\nhttps://www.nps.gov/places/egelhoff-s-rapid.htm\n\nEgelhoff Rapids, not to be confused with the Egelhoff Narrows/Chute that are further down-river, are a class II+ river feature that should be portaged by most floaters, except the one who are very experienced and have the necessary equipment to handle a class II+ rapid.<br /> <br /> Floaters can pull out on the floater's-left before the rapid and carry their vessel just a short distance where they can continue their float in calm waters. This process is known as portaging, and there are other areas along the river where this is required.<br /> <br /> Egelhoff's Rapids make for a very cool photo spot because of the way the water flows and moves over the rapid, so don't be afraid to snap a picture while you carry your vessel further down-river.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.465762029327,
+          42.900719099113
+        ]
+      },
+      "properties": {
+        "name": "Fort Falls",
+        "notes": "Fort Falls\nhttps://www.nps.gov/places/fort-falls.htm\n\n<h4>Hoping to see all that the Niobrara National Scenic River has to offer in one quick stop?</h4> We recommend Fort Falls. Here you can experience three of our six ecosystems and can stand at the rivers banks too.<br /> <br /> The Fort Falls showcase the unique geology of the Niobrara River, standing over 30 feet tall over exposed canyon walls. The fort falls are spring fed and flow all four seasons of the year. The trail to the Fort Falls is short and allows visitors to walk down steel catwalks over the falls before they tumble over the ledge and down stairs through every layer of the forest's canopy.<br /> <br /> Cradled in a cool canyon, the Eastern deciduous forest ecosystem surrounds the Fort Falls with Aspen and along the stream-banks, visitors can observe a variety of riparian (stream-side) flora as well. ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.46692987394978,
+          42.902151797929655
+        ]
+      },
+      "properties": {
+        "name": "Fort Falls Rapids",
+        "notes": "Fort Falls Rapids\nhttps://www.nps.gov/places/fort-falls-rapids.htm\n\nAs you approach the curve under the seeping canyon wall that can be seen from the Fort Falls trail, the river curves to the North ahead, floaters pass over the Fort Falls Rapids. These are class I rapids.<br /> <br /> Class I Rapids are the lowest class of rapids. You may or may not even notice them depending on how high and fast the river is floating. They are on the floaters left and can be avoided by staying to the right hand side of the river channel.<br /> <br /> These are great rapids for beginner floaters to experience and get comfortable on in a kayak or canoe. They gentle splash of water that you might experience from them can keep you cool on a hat summer day on the river.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.48419260189918,
+          42.898664688906564
+        ]
+      },
+      "properties": {
+        "name": "Fort Niobrara NWR Launch Site",
+        "notes": "Fort Niobrara NWR Launch Site\nhttps://www.nps.gov/places/fort-niobrara-nwr-launch-site.htm\n\n<p>Fort Niobrara's Public Canoe, Kayak, and Tube Launch <span style=\"color: rgb(70, 70, 70); font-family: arial, helvetica, sans-serif; font-size: 14px;\">is the first launch on the designated Niobrara National Scenic River and boasts public access for a fee of $1.00 per user. This is a popular launch site for many of our visitors. There is a parking lot on site and a handicap accessible canoe/kayak launch just down river.</span></p> <br /> In the summer the parking lot for this area can be busy, but there is additional parking across the river at the handicap access parking lot.<br /> <br /> There are a number of staging and launch lanes at this landing and some of them are used by our local river outfitters, but the 6th or 7th lane is typically reserved for private floating parties. You can stage materials onshore while running your shuttle cars, but we ask that you be mindful and aware of other floating parties using this landing too.<br /> <br /> Check out our <a href=\"https://www.nps.gov/articles/series.htm?id=7A7B8815-0BCD-C2D9-090E7F271A20320B\">What to know before you Float article series</a> for more in depth information about floating this section of the river and planning your trip. Also, we recommend checking into the river regulations and rules for floating through the <a href=\"https://www.nps.gov/places/fort-niobrara.htm\">Fort Niobrara National Wildlife Refuge</a> on their website.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.44833374023438,
+          42.87805938720703
+        ]
+      },
+      "properties": {
+        "name": "Fort Niobrara National Wildlife Refuge",
+        "notes": "Fort Niobrara National Wildlife Refuge\nhttps://www.nps.gov/places/fort-niobrara.htm\n\n<h4>The Fort Niobrara National Wildlife Refuge is home to elk, bison, deer and more than 230 species of birds. Once a <a href=\"javascript:HandleLink(\">frontier military fort</a>, the refuge was established in 1912 and is seated on 19,000 acres of protected land and represents a crossroads of biodiversity from the North, East, South, and West. </h4> <br /> The refuge encompasses 9 miles of Niobrara National Scenic River which cuts deep canyons into the sandstone beneath the Sandhills Prairie, that is prevalent in the region. The Niobrara River acts as a water source to many of the wildlife and plants, and is helped by the waterfalls that flow into it from the Ogallala Aquifer. <br /> <br /> Roaming Fort Niobrara, you might run into the 350 head American Bison herd that roams the prairie and grazes the grasslands. Elk and deer, both white-tail and mule, can also be seen roaming around the refuge. In addition to these big mammals, more than 75 other animal species and 230 birds inhabit the region, some unique enough to only exist here in the crossroads. <br /> <br /> The Fort Niobrara Refuge makes the biodiversity, scenery, and even recreation on the Niobrara National Scenic River accessible. A beautiful tree covered canyon, featuring many waterfalls, it is a popular 'putting-in' spot for floaters on the river.<br /> <br /> The refuge open year-round during daylight hours and has a Visitor Center that is open Memorial Day-Labor Day. Admittance to the Refuge is free. There is a $1 fee for launching tubes, kayaks, or canoes at the Fort Niobrara Launch site.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.21839329424667,
+          42.85599779236339
+        ]
+      },
+      "properties": {
+        "name": "Fritzes Island Rapids",
+        "notes": "Fritzes Island Rapids\nhttps://www.nps.gov/places/fritzes-island-rapids.htm\n\nThe first class II rapids that floaters float across, the Fritzes Island Rapids are a little more challenging than a class I rapid, but floaters shouldn't be scared to take them on.<br /> <br /> Class II rapids are navigable by canoe and kayak, tubers can also handle them. <br /> <br /> The Fritzes Island Rapids are an important landmark and river feature for floaters to be aware of because of what comes after them. The Fritzes Island Rapids are followed by the Fritzes Narrows, a class one rapid that floaters may or may not notice if the river is high enough.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.21034264564516,
+          42.84782829672894
+        ]
+      },
+      "properties": {
+        "name": "Fritzes Narrows",
+        "notes": "Fritzes Narrows\nhttps://www.nps.gov/places/fritzes-narrows.htm\n\nDon't be alarmed by the short walls of this unique river feature, the Fritzes Narrows, otherwise known as Fritzes Chute are a class I rapid.<br /> <br /> Kayakers and canoers enjoy this unique spot because on years when the river is low, there is a channel about 6 feet wide that is deeper than the rest of the river bed for them to paddle through and not have to worry about getting out and around the shallow spots.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.33483367350019,
+          42.78143227337711
+        ]
+      },
+      "properties": {
+        "name": "Highway 137 Landing",
+        "notes": "Highway 137 Landing\nhttps://www.nps.gov/places/highway-137-landing.htm\n\nThe Highway 137 landing is the last landing on the designated Niobrara National Scenic River. It is free to the public and paddlers can launch or land from this location. There is also a small parking area and space for staging equipment. <br /> <br /> (Please Note: The Highway 137 landing was damaged in 2019 and is waiting for repair by the Nebraska Department of Transportation. Check our Alerts for updates on its status.)<br /> <br /> The water level at this land varies by season. Sometimes there is sand at the bottom of the stairs and room to enter a vessel, but other times the water is higher and paddlers must enter a vessel from the stairs or the edge of the concrete skirt.<br /> <br /> This landing is not used often and is less well maintained than those on the upper Niobrara River, but nonetheless, paddlers who seek to explore all that the Niobrara River has to offer in its more remote and untouched waters will find that this landing is usable.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5891243383297,
+          42.72216622948403
+        ]
+      },
+      "properties": {
+        "name": "Highway 7 Landing",
+        "notes": "Highway 7 Landing\nhttps://www.nps.gov/places/highway-7-landing.htm\n\nThe Highway 7 bridge landing is open and free to the public year-round. It is located North of the town of Bassett, Nebraska, where Highway 7 crosses the Niobrara National Scenic River. The landing is located on the down-river side of the North end of the bridge. <br /> <br /> The Niobrara River is very braided in this section and the deepest channel can be hard to locate for floaters. Many floaters have to get in and out of their vessels to find the proper channel and continue their float.<br /> <br /> The landing at Highway 7 is not maintained very often, but is usable for the floating season as both a launch and landing. Paddlers can park their vehicles at a small parkinglot near the bridge for their convenience.<br /> <br /> Primitive camping is available at Fred Thomas State Wildlife Management Area on the South side of the river after the bridge. It’s tricky getting a vessel up the hill on that side but if you have multiple people, getting the vessels up into the tree line is much easier. Please note that open campfires are not allowed at Fred Thoms SWMA.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.3070147346496,
+          42.89294666775929
+        ]
+      },
+      "properties": {
+        "name": "Nichols Landing",
+        "notes": "Nichols Landing\nhttps://www.nps.gov/places/nichols-landing.htm\n\nNichols Landing at Smith Falls State Park is open to the public as a launch and landing site for tubes, canoes, kayaks, or even stand-up paddle boards (SUPs)!<br /> <br /> Smith Falls State Park offers a variety of amenities including camping, hiking trails, and public river access all included in the Nebraska Annual State Park Pass, $6.00 for an instate day-pass or $8.00 for an out of state day-pass. <br /> <br /> Floaters and paddlers who wish to see the Smith Falls, the highest waterfall in Nebraska, can make a stop by the falls just a few hundred river-feet before the Nichols Landing. The Nickols Landing is a great launch-site too. <br /> <br /> There is public parking at the landing and a turn-around. The landing is sand as is the road that leads to it. There is space to stage your equipment and we ask that floaters are mindful of other visitors getting on and off the river.<br />  ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.55312194838962,
+          42.868091145053334
+        ]
+      },
+      "properties": {
+        "name": "Niobrara National Scenic River Bookstore",
+        "notes": "Niobrara National Scenic River Bookstore\nhttps://www.nps.gov/niob/learn/niobrara-river-bookstore.htm\n\n<p>The park store is operated by <a href=\"https://shop.americasnationalparks.org/store/\">America's National Parks Association</a>, an official non-profit partner of the National Park Service dedicated to supporting the educational mission of Niobrara National Scenic River.<br /> <br /> The park store has a wide range of educational products and services available for retail sale. These products complement the interpretive themes you experience when visiting the park. The park store is located at the Niobrara National Scenic River <a href=\"https://www.nps.gov/niob/planyourvisit/visitorcenters.htm\">Visitor Center</a>, or you can visit the <a href=\"https://shop.americasnationalparks.org/store/home/2581/Niobrara-NSR/\">online park store</a>.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.02799987792969,
+          42.78340148925781
+        ]
+      },
+      "properties": {
+        "name": "Niobrara Valley Preserve",
+        "notes": "Niobrara Valley Preserve\nhttps://www.nps.gov/places/niobrara-valley-preserve.htm\n\n<h3>The Niobrara Valley Preserve is one of the largest areas in the United States protected by the Nature Conservancy organization. </h3> <p>Protecting over 581 plant, 213 bird, 86 lichen, 70 butterfly, 44 mammal, 25 fish, 17 reptile and 8 amphibian species, the Niobrara Valley Preserve strives to be a model for grassland managment on the Great Plains. <br /> <br /> Hiking Trails at the Niobrara Valley Preserve are open to the public, and are some of the longest on the Niobrara National Scenic River Corredore. There are both long and short loops on the property that showcase the Niobrara river and the diverse ecological crossroads of the region. <br /> <br /> The Norden Bridge and Norden Chute are also open to the public. The Norden Chute is the only hydrolic feature on the Niobrara National Scenic River and paddlers must portage around it becasue of its specific water flow patterns. This is a popular fishing spot and provides a unique opportunity for photography on the Niobrara River.<br /> <br /> Information about the Niobrara River and the Nature Conservency's work can be found at the information kiosk by the parking lot at the Preserve. <br /> <br /> The Niobrara Valley Preserve is not only a place of preservation but a working bison ranch, and has cattle grazing leases, where researchers, students, and staff are exploring preservation and the prairie as an outdoor-laboratory. <br /> <br />  </p> <p> </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Niobrara/Missouri Confluence",
+        "notes": "Niobrara/Missouri Confluence\nhttps://www.nps.gov/places/niobrara-missouri-confluence.htm\n\n<p paraeid=\"{81038479-13a5-4f31-837d-63f256944272}{231}\" paraid=\"1387907852\">Following the meanderings of the Missouri River on its northwest course, the Lewis and Clark Expedition arrived at the convergence of two rivers on September 4, 1804.  </p> <p paraeid=\"{81038479-13a5-4f31-837d-63f256944272}{237}\" paraid=\"1018126190\">The Ponca called the river Níúbdadà or “broad water.” Lewis and Clark commonly referred to it by the French name L’Eau qui Court, or “The Water that Rushes.” It is now known as the Niobrara River, derived from the Ponca name for the river. Sergeant John Ordway observed that “the water Shoots in to the Missiouri verry Swift, & has thrown the Sand out, which makes a Sand bar & Sholes from the mouth a considerable distance.” The shoals and the rapids, according to William Clark, made the river “not navagable for even Canoos without Great difficulty.” Clark managed to eke his way a few miles up the river, however, where he saw an empty Ponca village (everyone was out on a <a href=\"https://www.nps.gov/places/independence-creek.htm\">bison hunt</a>). </p> <p paraeid=\"{36fecc61-40ec-4ffa-b7a1-850416b39500}{58}\" paraid=\"787271977\">To Ponca people, the rivers and surrounding landscape are a source of sustenance, physically and spiritually. This is their homeland.  </p> <p paraeid=\"{36fecc61-40ec-4ffa-b7a1-850416b39500}{80}\" paraid=\"1310773078\">Stories passed down by Ponca elders describe the area around the Niobrara as Wašé, or plenteous. The silty deposits in the river bottoms created fertile soil for cedar, oak, and elm trees. Ponca families farmed in the bottomlands, growing corn, squash, and pumpkins. Fish flourished at the confluence of the Missouri and Niobrara Rivers. The high bluffs and sheltered gullies teemed with mule deer, bison, geese, and other game.  </p> <p paraeid=\"{36fecc61-40ec-4ffa-b7a1-850416b39500}{92}\" paraid=\"1539239419\">Ponca camps and villages could be found as far north as the Black Hills of South Dakota and as far south as the Platte River. But, according to Ponca elder Louis Headman, the Niobrara “was the last area of land they considered theirs before the removal” to reservations in Kansas and Oklahoma.<br /> <br /> About this article: This article is part of series called <a href=\"https://www.nps.gov/lecl/learn/historyculture/pivotal-places-stories-from-the-lewis-and-clark-national-historic-trail.htm\">“Pivotal Places: Stories from the Lewis and Clark National Historic Trail.”</a></p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.03563179491735,
+          42.7869131673333
+        ]
+      },
+      "properties": {
+        "name": "Norden Chute",
+        "notes": "Norden Chute\nhttps://www.nps.gov/places/norden-chute.htm\n\nNorden Chute provides a sense of just how powerful the Niobrara River can be. When flow is high, the chute can be flooded in water so high that even the stone ledges on each side are covered. We love the view in years when the walls can be seen and sometimes even walked out on. <br /> <br /> The Norden Chute is protected by both the National Parks Service and the Nature Conservancy organization that protect the <a href=\"https://www.nps.gov/places/niobrara-valley-preserve.htm\">Niobrara Valley Preserve</a> on the South side of the river at this location. <br /> <br /> Our recommendations for a great visit to Norden Chute are to take time to use five sense to experience this powerful river feature. What do you see, smell, taste, feel, hear?<br /> <br /> The Norden Chute looks like a waterfall in the middle of the Niobrara river, but is more accurately known as a \"hydraulic feature.\" Meaning that the force of the water falling over the ledge causes erosion when it \"lands,\" and a plunge pool that is deeper than the rest of the streambed is formed. The water falling into the plunge pool causes suction and vortexes that can pull other objects deep under the water like sediment, rocks, debris, and in extreme cases, a kayak or canoe. <br /> <br /> The hydraulic forces under the Norden Chute are dangerous and paddlers and floaters are required to portage around it, meaning that there is a location up stream on the North river bank where floaters get out of the water and carry their floating vessels further downstream past the chute where it is safe to float again.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.15659492224061,
+          42.83023053363075
+        ]
+      },
+      "properties": {
+        "name": "Rocky Ford Rapid",
+        "notes": "Rocky Ford Rapid\nhttps://www.nps.gov/places/rocky-ford-rapid.htm\n\nReady to rock and roll out of your vessel?<br /> <br /> Us either. Rocky Ford is a Class III Rapid and we recommend portaging unless you have the right equipment and experience to navigate something this advanced.<br /> <br /> Rocky Ford Rapid stretches the entire width of the Niobrara River, so staying to one side or the other is not an option, but the portage is not long at all. You could even take a break while your boat is out of the water to snap a beautiful picture or watch the advanced paddlers attempt to clear this river obstacle. ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.31500244140625,
+          42.888099670410156
+        ]
+      },
+      "properties": {
+        "name": "Smith Falls State Park",
+        "notes": "Smith Falls State Park\nhttps://www.nps.gov/places/smith-falls-state-park.htm\n\nSmith Falls is an iconic waterfall in the State of Nebraska. It is the tallest waterfall in the state at 63 feet tall and has been a popular stop for floaters and visitors of the Niobrara River Valley for many years.<br /> <br /> Early settlers first knew the waterfall as Arikaree Falls, a tribute to the names that were given to the local bodies of water by the 21 Native American Tribes who called the Niobrara River Valley home.<br /> <br /> In 1896, the first homestead patent for the land where the waterfall resides was filed by Frederic Smith. Since then, the falls have been known as Smith Falls.<br /> <br /> In 1941 Fred Krzyzanowski purchased the land and his family has owned the parcel ever since; in 1992 the Krzyzanowski family leased the land to the Nebraska Game and Parks Commission to form Smith Falls State Park. <br /> <br /> The Smith Falls State Park is 250 acres on the Niobrara National Scenic River corridor and boasts handicap accessible board walks to the Smith Falls viewing platform and the visitor center.<br /> <br /> Smith Falls State Park is a common landing location for kayaking, canoeing, and tubing on the Niobrara National Scenic River, and in the summer is a popular wayside excursion for floaters with a landing just 300 yards from the Smith Falls observatory.<br /> <br /> Not a floater? That's okay. The State Park offers hiking on the Jim MacAllister Nature Trail, fishing on the river banks, camping on the riverside, and other historic interpretive sites. These were first established by Fred Krzyzanowski in an attempt to accommodate the swelling public interest that the Smith Falls received before the park was leased to the Nebraska Game and Parks Commission for management.  <br /> <br /> The Smith Falls are an area of unique biodiversity along the Niobrara National Scenic River where the Smith Aspen, a one of a kind aspen hybrid species, can be seen. The cool, wet canyons along the Southern shore of the Niobrara River, like the one where the Smith Falls flow, are a crossroads of ecosystems and to this day host the spruce and paper bark birch trees that began to die off when the last glacier retreated from the plains and the weather became warm and dry in the region. The unique flora are a reference to the Ice Age and and prehistoric history of the Niobrara River Valley. <br />  ",
+        "icon": "red-pin-down.png"
+      }
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Big Balanced Rock",
+        "notes": "Big Balanced Rock\nhttps://www.nps.gov/places/big-balanced-rock.htm\n\nBig Balanced Rock is one of the most famous rocks in monument, and it is located near the Heart of Rocks Loop. To see this balancing rock in person, be prepared for a strenuous hike of at least 7.3 miles (~12 kilometers) round trip. Bring plenty of food, water, appropriate clothing, and a map. Visit \"Things to Do\" for more detail on the Heart of Rocks trail.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.372759386,
+          32.00801684
+        ]
+      },
+      "properties": {
+        "name": "Faraway Ranch",
+        "notes": "Faraway Ranch\nhttps://www.nps.gov/places/faraway-ranch.htm\n\n<p>Emma and Neil Erickson started the Faraway Ranch in the late nineteenth century. Emma initiated the purchase of the original cabin and property. Her daughter Hildegard started the guest ranching business in 1917. Emma's eldest daughter <a href=\"../people/lillian-riggs.htm\">Lillian Erickson Riggs</a> oversaw the expansion of the business with her husband Ed Riggs, and continued to manage the ranch by herself after her husband’s death. Faraway Ranch thus preserves a story important to women’s history, one that complicates traditional narratives of women’s lives in the West. The history of Faraway Ranch also is germane to the history of Chiricahua National Monument. Lillian and Ed Riggs built the first trails into the area that became the national monument, and supported the legislative effort to create the monument. As the only lodging for guests in the immediate vicinity, Faraway Ranch had a monopoly on the tourist trade that steadily increased after the monument’s creation in 1924. For many visitors, the ranch figured as an indelible part of their experience at Chiricahua National Monument. Faraway also remained a working cattle ranch until the early 1970s. Many facets of Western history—ranching, tourism, preservation—are part of <a href=\"../articles/series.htm?id=A754298B-1DD8-B71B-0BEFF6803B536300\">the Faraway story</a>.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Massai Point Overlook",
+        "notes": "Massai Point Overlook\nhttps://www.nps.gov/places/massai-point-parking-lot.htm\n\nMassai Point is located at the end of the 8-mile scenic Bonita Canyon Drive and offers the most iconic view of the rock formations. You'll see many rock formations, surrounding valleys, and distant mountain ranges from this viewpoint. A half-mile nature trail leads you to an exhibit building and features signs about the natural history of the park. The first section of the trail is paved and wheelchair accessible. Pets are not allowed on the trail.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Pinnacle Balanced Rock",
+        "notes": "Pinnacle Balanced Rock\nhttps://www.nps.gov/places/pinnacle-balanced-rock.htm\n\nPinnacle Balanced Rock is one of the most famous rocks in monument, and it is located in the Heart of Rocks Loop. To see this balancing rock in person, be prepared for a strenuous hike of at least 7.3 miles (~12 kilometers) round trip. Bring plenty of food, water, appropriate clothing, and a map. Visit \"Things to Do\" for more detail on the Heart of Rocks trail. Pets are not allowed.",
+        "icon": "red-pin-down.png"
+      }
+    }
+  ]
+}

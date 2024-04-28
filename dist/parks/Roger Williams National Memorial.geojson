@@ -1,0 +1,20 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.64604949951172,
+          42.09821319580078
+        ]
+      },
+      "properties": {
+        "name": "John H. Chafee Blackstone River Valley National Heritage Corridor",
+        "notes": "John H. Chafee Blackstone River Valley National Heritage Corridor\nhttps://www.nps.gov/places/blackstone-river-valley-national-heritage-corridor.htm\n\nThe <strong>John H. Chafee Blackstone River Valley National Heritage Corridor </strong>(often shortened to the <strong>Blackstone Heritage Corridor</strong>) is where the American Industrial Revolution began. From there it sent reverberations throughout the United States. Follow the 46 miles of the Blackstone River as it drops 450 feet to sea level. Explore the varied habitats of its watershed, the charming towns and villages in the region, and their distinctive culture created by influences from around the globe.<br /> <br /> The Blackstone Heritage Corridor is managed by <a href=\"https://blackstoneheritagecorridor.org/\">Blackstone Heritage Corridor Inc. </a>(BHC), a dynamic nonprofit 501 (c)(3) corporation. BHC is committed to the long term vitality of the region by partnering with municipalities, nonprofits, business and residents to restore, retain and reinvigorate the Valley. The BHC facilitates a variety of programs and events to connect people to the Corridor and its nationally significant resources.<br /> <br /> Working closely with the <a href=\"https://www.nps.gov/blrv/index.htm\">Blackstone River Valley National Historical Park</a> and <a href=\"https://www.nps.gov/rowi/index.htm\">Roger Williams National Memorial</a>, BHC provides services throughout the Heritage Corridor to complement the work of those NPS units in four areas: economic development and tourism; resource conservation; community planning and revitalization; and education and interpretation.",
+        "icon": "red-pin-down.png"
+      }
+    }
+  ]
+}

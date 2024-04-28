@@ -1,0 +1,260 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0438951253891,
+          38.88634375508639
+        ]
+      },
+      "properties": {
+        "name": "Landscape",
+        "notes": "Landscape\nhttps://www.nps.gov/places/landscape.htm\n\n<p paraeid=\"{9a54c1ac-72c5-4341-ae70-22b7e85f06bb}{235}\" paraid=\"912011270\">Landscape, as both a noun and verb, adds much symbolic meaning to this memorial. </p> <p paraeid=\"{9a54c1ac-72c5-4341-ae70-22b7e85f06bb}{249}\" paraid=\"88795141\">Alpha Phi Alpha Fraternity proposed and successfully lobbied for the Martin Luther King, Jr. Memorial in Washington, DC. That ensured a place of high visibility and visitation (within Area 1 of the Commemorative Works Act.)  </p> <p paraeid=\"{ad0a4000-87de-4158-8cc2-d9006a3de3f5}{30}\" paraid=\"1595564074\">When choosing a site, the new memorial must fit into the landscape. It must tie in thematically with things that already exist, within view or nearby, without interrupting important sight lines. The mindset of those promoting and building this memorial was to find a peaceful spot near water. </p> <p paraeid=\"{ad0a4000-87de-4158-8cc2-d9006a3de3f5}{74}\" paraid=\"2049646630\">  This location was perfect, not only being near water and tying in with other memorials, but also because of the Yoshino flowering cherry trees that line the perimeter of the Tidal Basin. Their peak bloom every year coincides with the time of Dr. King’s death. The blossoms provide opportunity for an annual resurrection of King and his ideas for the million+ visitors that normally visit between mid-March and mid-April.  </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.04433500766754,
+          38.88622683750795
+        ]
+      },
+      "properties": {
+        "name": "Main Plaza of the Martin Luther King, Jr. Memorial",
+        "notes": "Main Plaza of the Martin Luther King, Jr. Memorial\nhttps://www.nps.gov/places/main-plaza-of-the-martin-luther-king-jr-memorial.htm\n\n<p paraeid=\"{e3c0841f-79ba-4044-b66e-3ee958aa21ff}{253}\" paraid=\"1889926221\">In 1955, many people were faced with a lack of opportunities. Unlike visitors to the memorial, they weren’t looking for opportunities to see a sculpture or quotes. They were looking for opportunities such as:  </p> <p paraeid=\"{8c7b0b7b-fb57-42a3-a953-44adc16c6fa0}{20}\" paraid=\"409234060\">- getting a job <br /> - being able to vote <br /> - getting an education <br /> - being able to sit on a bus in a seat of their own choosing </p> <p paraeid=\"{8c7b0b7b-fb57-42a3-a953-44adc16c6fa0}{50}\" paraid=\"1912505375\">In 1955, the Stone of Hope would have been part of the Mountain of Despair, symbolic of the wall of oppression preventing certain segments of the population from having the same access to opportunities that others had. </p> <p paraeid=\"{8c7b0b7b-fb57-42a3-a953-44adc16c6fa0}{62}\" paraid=\"2022658929\">Many of the people being treated unfairly committed to proactively challenging the societal obstacles preventing them from attaining fairer social and economic equality. Martin Luther King, Jr. became the leader they needed. Over time, their efforts created an opening to better opportunities. The Civil Rights Act of 1964 and the Voting Rights Act of 1965 are two examples of achievements attained. </p> <p paraeid=\"{8c7b0b7b-fb57-42a3-a953-44adc16c6fa0}{84}\" paraid=\"820921406\"> </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.04466760158539,
+          38.88651077986469
+        ]
+      },
+      "properties": {
+        "name": "Martin Luther King, Jr. Forecourt",
+        "notes": "Martin Luther King, Jr. Forecourt\nhttps://www.nps.gov/places/martin-luther-king-jr-forecourt.htm\n\n<p paraeid=\"{667b299e-fcbb-41e4-845e-3754f2dffecc}{227}\" paraid=\"1017214705\">Significance: </p> <p paraeid=\"{667b299e-fcbb-41e4-845e-3754f2dffecc}{233}\" paraid=\"1781962609\">The design of the memorial intended for visitors to start their journey in this forecourt. One can readily observe that almost all that enter the memorial here proceed straight through the forecourt towards, and through, the Mountain of Despair, without stopping. What causes them to do that? Have they just experienced a situation similar, albeit with notable differences, to what many people were facing in 1955 (the year King got involved in the Civil Rights Movement)?  </p> <p paraeid=\"{405a5877-c4a2-4650-8071-8026825fe6f7}{36}\" paraid=\"508101748\"><br /> Visitors are generally looking for certain opportunities at this memorial, including:  </p> <p paraeid=\"{405a5877-c4a2-4650-8071-8026825fe6f7}{50}\" paraid=\"409234060\">- see a sculpture or statue of Martin Luther King, Jr. <br /> - see inspirational quotes <br /> - be in a memorial space that honors the legacy of Dr. King and can accommodate hundreds of visitors at any one time </p> <p paraeid=\"{405a5877-c4a2-4650-8071-8026825fe6f7}{100}\" paraid=\"1912505375\">Faced with a lack of those opportunities in the forecourt, visitors simply proceed forward through the opening in the Mountain of Despair, likely expecting to find them on the other side. </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.04420066022877,
+          38.88617933382607
+        ]
+      },
+      "properties": {
+        "name": "Martin Luther King, Jr. Memorial",
+        "notes": "Martin Luther King, Jr. Memorial\nhttps://www.nps.gov/places/martin-luther-king-jr-memorial.htm\n\n<p>Dr. Martin Luther King, Jr. (1929-1968) was the preeminent civil rights leader of the 1950s and '60s. King was a Baptist preacher and evangelist of nonviolent resistance. King rose to prominence through the effort to desegregate buses in Montgomery, Alabama in 1955-6 and the demonstrations in Birmingham, Alabama in 1963 where he wrote is famous \"Letter from Birmingham Jail.\" At the height of the Civil Rights movement, King delivered his renowned \"I Have a Dream\" speech from the steps of the Lincoln Memorial on August 28, 1963 during the March on Washington for Jobs and Freedom. The demonstration in particular, and the larger movement in general, helped spur lawmakers to pass the Civil Rights Act of 1964 and the Voting Rights Act of 1965, ending segregation and discriminatory voting laws and practices.<br /> <br /> King was particularly notable for his insistence on \"nonviolent resistance,\" a strategy he developed after studying and applying the work of Henry David Thoreau, Mohandas Gandhi, and Reinhold Niebuhr, among others. King realized that non-violent resistance could only succeed \"if the groups against whom the resistance was taking place had some degree of moral conscience.\" If all Americans could see the injustice inherent in Jim Crow laws, King believed morality would compel the nation to side with the activists.<br /> <br /> The strategy of non-violence allowed the demonstrators to retain a clear position as victims of amoral oppression and violence. Television, photographs, and print media would allow the world to witness the drama of oppression in the South. Men, women, and children joined in the protests knowing that they could and would be jailed, injured, or even killed. The people's courage to put themselves in harm's way in the historic moment of the Civil Rights Movement was fueled by generations of blacks that King said had been \"seared in the flames of withering injustice,\" and bolstered by faith in Dr. King's method of non-violence.<br /> <br /> This memorial to King depicts a 30-foot carving of King on a feature called the \"Stone of Hope\" that is being moved out of a feature called the \"Mountain of Despair,\" a reference to a line in the \"I Have a Dream speech\" called back in the inscription on the side of the statue. King is represented standing firm, resolute, and thoughtful, holding a rolled stack of papers. Quotations from speeches and writings are engraved on the arced \"Inscription Wall\" on the flanks of the memorial.<br /> <br /> Books and memorabilia are available in the adjacent bookstore; head through the mountain sculpture and the building will be across the street to the left. Restrooms are also located at the bookstore, accessed from outdoors on the left side of the building. <br /> <br /> The memorial opened in August 2011. The formal dedication was scheduled for the anniversary of the March on Washington on August 28, 2011 but was postponed to October due to a hurricane. The participants included President Barack Obama. </p> <h4>Inscriptions</h4> <p>\"We shall overcome because the arc of the moral universe is long, but it bends toward justice.\" District of Columbia, 1968<br /> <br /> \"Darkness cannot drive out darkness, only light can do that. Hate cannot drive out hate, only love can do that.\" 1963<br /> <br /> \"I believe that unarmed truth and unconditional love will have the final word in reality. This is why right, temporarily defeated, is stronger that evil triumphant.\" Norway 1964<br /> <br /> \"Make a career of humanity. Commit yourself to the noble struggle for equal rights. You will make a greater person of yourself, a greater nation of your country, and a finer world to live in.\" District of Columbia, 1959<br /> <br /> \"I oppose the war in Vietnam because I love America. I speak out against it not in anger but with anxiety and sorrow in my heart, and above all with a passionate desire to see our beloved country stand as a moral example of the world.\" California 1967<br /> <br /> \"If we are to have peace on earth, our loyalties must become ecumenical rather than sectional. Our loyalties must transcend our race, our tribe, our class, and our nation; and this means we must develop a world perspective.\" Georgia 1967<br /> <br /> \"Injustice anywhere is a threat to justice everywhere. We are caught in an inescapable network of mutuality, tied in a single garment of destiny. Whatever affects one directly, affects all indirectly.\" Alabama 1963<br /> <br /> \"I have the audacity to believe that peoples everywhere can have three meals a day for their bodies, education and culture for their minds, and dignity, equality and freedom for their spirits.\" Norway 1964<br /> <br /> \"It is not enough to say 'We must not wage war.' It is necessary to love peace and sacrifice for it. We must concentrate not merely on the negative expulsion of war, but on the positive affirmation of peace.\" California 1967<br /> <br /> \"The ultimate measure of a man is not where he stands in moments of comfort and convenience, but where he stands at times of challenge and controversy.\" 1963<br /> <br /> \"Every nation must now develop an overriding loyalty to mankind as a whole in order to preserve the best in their individual societies.\" New York 1967<br /> <br /> \"We are determined here in Montgomery to work and fight until justice runs down like water, and righteousness like a mighty stream.\" Alabama 1955<br /> <br /> \"We must come to see that the end we seek is a society at peace with itself, a society that can live with its conscience.\" Alabama 1965<br /> <br /> \"True peace is not merely the absence of tension; it is the presence of justice.\" 1958<br /> <br /> Statue (south side): \"Out of the mountain of despair, a stone of hope\"<br /> Statue: (north side, in lower corner): \"雷宜锌 12.30.2010\"</p> <h4> </h4>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0452026998,
+          38.8862926998
+        ]
+      },
+      "properties": {
+        "name": "Martin Luther King, Jr. Memorial bookstore & restrooms",
+        "notes": "Martin Luther King, Jr. Memorial bookstore & restrooms\nhttps://www.nps.gov/places/000/martin-luther-king-jr-memorial-bookstore-restrooms.htm\n\n<p>The bookstore is on the north end of the building nearest Independence Avenue. Restrooms are accessed from outside on the south side of the building. A park ranger information window is on the east face of the building.<br /> <br /> Your purchase in the bookstore supports this and other national parks.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.022999,
+          38.889611
+        ]
+      },
+      "properties": {
+        "name": "National Mall and Memorial Parks",
+        "notes": "National Mall and Memorial Parks\nhttps://www.nps.gov/places/crnama.htm\n\n<p>Officially established in 1965, National Mall and Memorial Parks contains some of the oldest protected park lands in the National Park Service. The sprawling lands include the Mall, the public promenade extending from 3rd Street near the Capitol to 14th Street. The National Mall is the continuation of that space where congressionally authorized park icons, such as the Washington Monument, WWII and Lincoln Memorials stand. This historic expanse is the linear area between the Potomac River and Capital Reflecting Pool. In addition to the memorial core, the park includes some 156 reservations, circles, fountains and other open spaces, all of which serve as the nation’s front yard. Ford’s Theatre, The House where Lincoln died, Potomac Park, Hains Point and Pennsylvania Avenue NHS are also among the park managed areas that constitute National Mall and Memorial Parks.</p> <p>Having over 1,000 acres of National Park Service managed land at the heart of our nation’s capital, National Mall and Memorial Parks provides visitors with abundant opportunities to get in touch with our heritage. With everything from colossal monuments to commemorative gardens, from presidential inaugurals to civil rights demonstrations, National Mall and Memorial Parks hosts history in the making. Numerous First Amendment activities and special events are held in the park each year to honor the courage, sacrifice and devotion to duty of war veterans; celebrate the United States commitment to freedom, equality and democratic ideals; and enjoy symbolic architecture, historic vistas and renowned natural landscapes. </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.04460886749888,
+          38.88606784078296
+        ]
+      },
+      "properties": {
+        "name": "Quote from King’s “Last Christmas” Sermon",
+        "notes": "Quote from King’s “Last Christmas” Sermon\nhttps://www.nps.gov/places/quote-from-king-s-last-christmas-sermon.htm\n\n<p paraeid=\"{85215e90-c069-48bd-b075-079d410070cf}{241}\" paraid=\"1946141500\">This sermon was given at Ebenezer Baptist Church in Atlanta, GA on December 25, 1967. </p> <p paraeid=\"{330298c1-337d-475a-a068-4780af9caf78}{12}\" paraid=\"116529916\">Over 12 years, King had evolved philosophically. From his initial involvement with the bus boycott in Montgomery, AL, he had expanded to a national view, and then to a global view on civil rights. </p> <p paraeid=\"{330298c1-337d-475a-a068-4780af9caf78}{42}\" paraid=\"1564570150\">“We have experimented with the meaning of nonviolence in our struggle for racial justice in the United States, but now the time has come for man to experiment with nonviolence in all areas of human conflict, and that means nonviolence on an international scale.” </p> <p paraeid=\"{330298c1-337d-475a-a068-4780af9caf78}{56}\" paraid=\"1298418026\">King pointed out that throughout the world’s history, war was often justified as being a means to achieve peace, but peace always seemed to be talked about as a distant goal. War needed to be removed from the equation. </p> <p paraeid=\"{330298c1-337d-475a-a068-4780af9caf78}{96}\" paraid=\"779404131\">“We must pursue peaceful ends through peaceful means.” </p> <p paraeid=\"{330298c1-337d-475a-a068-4780af9caf78}{108}\" paraid=\"59889715\">In the Christmas spirit, “Peace on Earth, Good Will toward Men.” </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.04422277057824,
+          38.88637280814523
+        ]
+      },
+      "properties": {
+        "name": "Quote from “Letter from Birmingham Jail”",
+        "notes": "Quote from “Letter from Birmingham Jail”\nhttps://www.nps.gov/places/-letter-from-birmingham-jail.htm\n\n<p paraeid=\"{3f3aeece-632d-4c67-86c2-ff1879191cf7}{239}\" paraid=\"1781962609\">Letter written by King on April 16, 1963, while confined in the Birmingham, AL city jail.  </p> <p paraeid=\"{1733b33f-c9c8-4e6a-828b-6eab1a2373b4}{20}\" paraid=\"596399970\">On April 3, 1963, the Southern Christian Leadership Conference, led by Dr. King, joined a boycott in Birmingham, AL, one of the most racially segregated cities in the country. The “Birmingham Campaign” protested business segregation ordinances.  </p> <p paraeid=\"{1733b33f-c9c8-4e6a-828b-6eab1a2373b4}{50}\" paraid=\"1176994548\">An injunction issued on April 10th banned all anti-segregation protest activity in the city. During a protest on April 12th challenging the ban, King and dozens were violently arrested, at the direction of the city’s Commissioner of Public Safety, “Bull” Connor. Responding to criticism from white religious leaders, King’s letter stated his reasons for the protests.  </p> <p paraeid=\"{1733b33f-c9c8-4e6a-828b-6eab1a2373b4}{156}\" paraid=\"1115229681\">Students joined the marches. Hundreds were arrested. Police used high-pressure fire hoses and police attack dogs against both demonstrators and bystanders. The brutality created public outrage. On May 10, 1963, businesses agreed to desegregate stores. Jailed protesters were released. The SCLC agreed to end the protests.  </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.04407751560211,
+          38.88647737494044
+        ]
+      },
+      "properties": {
+        "name": "Quote from “Montgomery Bus Boycott” Speech",
+        "notes": "Quote from “Montgomery Bus Boycott” Speech\nhttps://www.nps.gov/places/quote-from-montgomery-bus-boycott-speech.htm\n\n<p paraeid=\"{ed0178df-4455-4723-89b3-047569a41993}{235}\" paraid=\"1781962609\">This speech was given in Montgomery, AL on December 5, 1955 </p> <p paraeid=\"{ed0178df-4455-4723-89b3-047569a41993}{243}\" paraid=\"508101748\">Rosa Parks, secretary of the Montgomery, AL, chapter of the NAACP, was arrested on December 1, 1955, for refusing to give up her bus seat to a white person. Black community leaders responded by forming the Montgomery Improvement Association on December 5, 1955. It chose Dr. King as its leader and asked him to lead a boycott against the bus company. This involvement in a localized event starts him on his journey as a leader in the Civil Rights Movement. </p> <p paraeid=\"{f16a55d3-0bd9-4113-b71e-85a3dfc205bb}{48}\" paraid=\"225686319\">The U.S. Supreme Court decision in “Browder vs. Gayle”, declaring Alabama and Montgomery bus segregation laws unconstitutional, took effect on December 20, 1956. King received national attention for his role in the bus boycott, which ended on that date. </p> <p paraeid=\"{f16a55d3-0bd9-4113-b71e-85a3dfc205bb}{72}\" paraid=\"435129828\">The portion of this quote that is listed within quote marks is from the Bible book of Amos 5:24.   </p> <p paraeid=\"{f16a55d3-0bd9-4113-b71e-85a3dfc205bb}{86}\" paraid=\"738583244\">(Note the waterfalls adjacent to the Mountain of Despair. Note the Tidal Basin and understand that it is fed by and is, in essence, part of the Potomac River.) </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.04406831193376,
+          38.886452285559194
+        ]
+      },
+      "properties": {
+        "name": "Quote from “Nobel Peace Prize Acceptance” Speech",
+        "notes": "Quote from “Nobel Peace Prize Acceptance” Speech\nhttps://www.nps.gov/places/quote-from-nobel-peace-prize-acceptance-speech.htm\n\n<p paraeid=\"{e8ee6f45-4817-4b8d-a422-34df6a4ff5a3}{239}\" paraid=\"1946141500\"> This speech was given in Oslo, Norway on December 10, 1964. </p> <p paraeid=\"{e8ee6f45-4817-4b8d-a422-34df6a4ff5a3}{253}\" paraid=\"116529916\">Years of utilizing civil disobedience had led to successes, including one on July 2, 1964, when President Lyndon Johnson signed into law the Civil Rights Act of 1964. Months later, King was awarded the Nobel Peace Prize, further validation of King’s unwavering belief in using nonviolent protest in order to effect social and economic change. </p> <p paraeid=\"{2c0ff657-5e15-488b-8524-3918dec5ded9}{54}\" paraid=\"519511317\">“Civilization and violence are antithetical concepts.” </p> <p paraeid=\"{2c0ff657-5e15-488b-8524-3918dec5ded9}{68}\" paraid=\"435129828\">King’s efforts for promoting civil rights in the United States was clearly now being recognized internationally. Likewise, his perspective was ever expanding. </p> <p paraeid=\"{2c0ff657-5e15-488b-8524-3918dec5ded9}{102}\" paraid=\"1042291205\">“I accept this award today with an abiding faith in America and an audacious faith in the future of mankind.” </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.04469442367554,
+          38.885821800123196
+        ]
+      },
+      "properties": {
+        "name": "Quote from “Remaining Awake Through a Great Revolution” Sermon",
+        "notes": "Quote from “Remaining Awake Through a Great Revolution” Sermon\nhttps://www.nps.gov/places/quote-from-remaining-awake-through-a-great-revolution-sermon.htm\n\n<p paraeid=\"{f6ea9458-a206-4fbd-a51b-f66b1cd70cbe}{237}\" paraid=\"449555814\">This sermon was given at the National Cathedral in Washington, DC on March 31, 1968. (Four days before King was assassinated.) </p> <p paraeid=\"{9cc28ae6-fe72-474e-979c-f2db3f9489a5}{8}\" paraid=\"1750986892\">King began the sermon by telling the Washington Irving story “Rip Van Winkle”. Rip lived in pre-Revolutionary War America. One day, during a hike into the Catskill Mountains in New York, he fell asleep. Rip slept for 20 years, but even more remarkably slept right through a revolution! </p> <p paraeid=\"{9cc28ae6-fe72-474e-979c-f2db3f9489a5}{54}\" paraid=\"670921268\">Advancements in science and technology lead to change. The ability to travel farther faster makes the world seem smaller, challenging us “to develop a world perspective.” Mankind must change its mindset into one of interconnectedness and realize we are affected by each other’s actions or inactions. Stay awake to what is going on. </p> <p paraeid=\"{9cc28ae6-fe72-474e-979c-f2db3f9489a5}{94}\" paraid=\"1884060868\">Racism won’t go away on its own. Neither will poverty. Have the will to be proactive against such problems. Choose to do right. </p> <p paraeid=\"{9cc28ae6-fe72-474e-979c-f2db3f9489a5}{124}\" paraid=\"54335345\">Note that both Walls of Quotes arc towards the waterfalls, towards “justice”. How do the messages relate to that theme? </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.04417407512665,
+          38.88623936440054
+        ]
+      },
+      "properties": {
+        "name": "Removed \"Drum Major\" Quote",
+        "notes": "Removed \"Drum Major\" Quote\nhttps://www.nps.gov/places/missing-drum-major-quote.htm\n\n<p paraeid=\"{467daac6-7288-41fd-8b9c-6064ed960687}{235}\" paraid=\"1775793728\">The edited quote from “The Drum Major Instinct” Sermon given at Ebenezer Baptist Church in Atlanta, GA on February 4, 1968. </p> <p paraeid=\"{467daac6-7288-41fd-8b9c-6064ed960687}{247}\" paraid=\"800967452\">Edited version: I WAS A DRUM MAJOR FOR JUSTICE, PEACE AND RIGHTEOUSNESS. </p> <p paraeid=\"{bc0222b8-1422-4c1e-ba10-1314cb33d190}{4}\" paraid=\"2076930412\">No memorial escapes controversy. In this case, a quote was edited in order to balance the theme statement quote, two lines long, located on the opposite side of the Stone of Hope. All the other quotes in the memorial, including the theme statement, are direct quotes. Few, if any, would argue that the edited version didn’t capture the essence of the original quote. The problem, however, is in how one might say the edited version. If one emphasizes the word “I”, one could reasonably argue that it makes King sound arrogant, which is problematic. </p> <p paraeid=\"{bc0222b8-1422-4c1e-ba10-1314cb33d190}{74}\" paraid=\"525009120\">In the end, the easiest solution ended up being the best solution, i.e. to simply remove the edited quote, leaving two striation grooves in its place. (The top groove is even with the bottom of his suit jacket.) Controversy resolved. </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.04426091329935,
+          38.88619340125591
+        ]
+      },
+      "properties": {
+        "name": "Stone of Hope",
+        "notes": "Stone of Hope\nhttps://www.nps.gov/places/stone-of-hope.htm\n\n<p paraeid=\"{f836ec91-e7fb-4325-b400-7af05874ac36}{235}\" paraid=\"1781962609\">The quote is the only one in the memorial that is from King’s “I Have a Dream Speech”. It serves as the theme statement for the memorial. The speech was the basis for the design concept of the memorial. </p> <p paraeid=\"{cf50609f-d338-4e30-808b-0413619c8dcf}{4}\" paraid=\"508101748\">This memorial sits on a direct line between the Lincoln Memorial and Jefferson Memorial, symbolically connecting the “Emancipation Proclamation” (signed by Abraham Lincoln) and “Declaration of Independence” (written by Thomas Jefferson), two documents King talked about at the beginning of the speech. </p> <p paraeid=\"{cf50609f-d338-4e30-808b-0413619c8dcf}{26}\" paraid=\"2022658929\">The Stone of Hope, moved forward out of the Mountain of Despair, points to the Jefferson Memorial. King referred to the Declaration of Independence as an unfulfilled promissory note for the American people. The distance between the Stone of Hope and the Jefferson Memorial indicates that there is much work left to be done to ensure that the promises made in the document are truly afforded to all. </p> <p paraeid=\"{cf50609f-d338-4e30-808b-0413619c8dcf}{46}\" paraid=\"1139334634\">The sculpture of Dr. King becomes visible on the front of the Stone of Hope. </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.04414769617699,
+          38.88623494634908
+        ]
+      },
+      "properties": {
+        "name": "Stone of Hope (East Side Facade)",
+        "notes": "Stone of Hope (East Side Facade)\nhttps://www.nps.gov/places/stone-of-hope-east-side-facade.htm\n\n<p paraeid=\"{442b3c2f-d968-47b7-81e4-bcbbb8fff90e}{235}\" paraid=\"1781962609\">Martin Luther King, Jr. led the Civil Rights Movement for 12 years. Not being a complete figure in the sculpture is a reminder that his work was unfinished. It is now up to others to carry on his mission to achieve fairer equality for all persons. </p> <p paraeid=\"{442b3c2f-d968-47b7-81e4-bcbbb8fff90e}{249}\" paraid=\"508101748\">This national memorial doesn’t pay tribute to a war or president. It honors an African American man who sought to make the world a better place for humanity. This memorial represents the diversity that comprises this nation. At the same time, it reminds us that we can, and should, do better in terms of accepting that diversity and helping it thrive.  </p> <p lang=\"EN-US\" paraeid=\"{a7d6ee02-f64d-482c-99d4-d0263a869a73}{28}\" paraid=\"801100332\" xml:lang=\"EN-US\">It makes for a stronger community. (You can’t spell community without unity.) </p> <p paraeid=\"{0ba4c2f5-97b3-43de-8a8d-55e28f3f3e8f}{66}\" paraid=\"2094618533\">Martin Luther King, Jr. and the Stone of Hope are flanked to the rear by the South and North Walls of Quotations, containing his messages promoting peace, democracy, justice, and love. Note that the walls connect to the waterfalls, which connect to the Mountain of Despair, with the visible reminder of the opening and its significance. </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.04415798187256,
+          38.886151676105875
+        ]
+      },
+      "properties": {
+        "name": "The Legacy of Martin Luther King, Jr. and His Memorial",
+        "notes": "The Legacy of Martin Luther King, Jr. and His Memorial\nhttps://www.nps.gov/places/the-legacy-of-martin-luther-king-jr-and-his-memorial.htm\n\n<p paraeid=\"{0d2f3c74-0667-4335-a1e1-2a47c4f1f988}{237}\" paraid=\"26053844\">Dr. King used civil disobedience to challenge status quo in order to make the world a better place for all. He will be remembered in history for his efforts. This national memorial helps ensure that. </p> <p paraeid=\"{bdcdcd56-10b0-447a-9d4a-e58b268ba95c}{16}\" paraid=\"795020818\">King wasn’t going to be limited by conventional wisdom. He wasn’t going to be constrained by lines on a map or biases.  </p> <p paraeid=\"{bdcdcd56-10b0-447a-9d4a-e58b268ba95c}{34}\" paraid=\"1708116433\">King reminded us we are all part of planet Earth. Remember to reach across the lines. Be neighborly to foster the commonality we share as part of a world community. </p> <p paraeid=\"{bdcdcd56-10b0-447a-9d4a-e58b268ba95c}{54}\" paraid=\"1433909366\">King reminded us to foster the commonality we share as humanity. Biases tend to impede unity. (You can’t spell humanity without unity.) </p> <p paraeid=\"{bdcdcd56-10b0-447a-9d4a-e58b268ba95c}{82}\" paraid=\"970938272\">If a man can be judged by the company he keeps, perhaps the same can be said about a memorial.  </p> <p paraeid=\"{bdcdcd56-10b0-447a-9d4a-e58b268ba95c}{94}\" paraid=\"1684315682\">King sought to unite human diversity. The Martin Luther King, Jr. Memorial was created to represent that. It also unites national memorials, not just in the symbolic ways mentioned during this tour, but by being a thruway between the other memorials on the Tidal Basin and memorials on the National Mall.  </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.04390764246,
+          38.88610852800635
+        ]
+      },
+      "properties": {
+        "name": "The Memorials Around the Tidal Basin",
+        "notes": "The Memorials Around the Tidal Basin\nhttps://www.nps.gov/places/the-memorials-around-the-tidal-basin.htm\n\n<p paraeid=\"{10f966c2-c103-4127-90df-081af6ddaf76}{239}\" paraid=\"129611226\">The Jefferson, Roosevelt, and King memorials connect, both chronologically and thematically, clockwise around the Tidal Basin. <br />  </p> <p paraeid=\"{20ff5325-2b97-4095-a0b4-e74376c7cc6f}{6}\" paraid=\"577568572\">Thomas Jefferson lived April 13, 1743 – July 4, 1826. </p> <p paraeid=\"{20ff5325-2b97-4095-a0b4-e74376c7cc6f}{16}\" paraid=\"497030409\">The memorial was authorized by Congress on June 26, 1934.  </p> <p paraeid=\"{20ff5325-2b97-4095-a0b4-e74376c7cc6f}{24}\" paraid=\"861949712\">Official dedication date: April 13, 1943 <br />  </p> <p paraeid=\"{20ff5325-2b97-4095-a0b4-e74376c7cc6f}{30}\" paraid=\"1151756104\">Franklin Delano Roosevelt lived January 30, 1882 – April 12, 1945. </p> <p paraeid=\"{20ff5325-2b97-4095-a0b4-e74376c7cc6f}{40}\" paraid=\"882322015\">The memorial was authorized by Congress on August 11, 1955. </p> <p paraeid=\"{20ff5325-2b97-4095-a0b4-e74376c7cc6f}{48}\" paraid=\"1090685618\">Official dedication date: May 2, 1997 <br />  </p> <p paraeid=\"{20ff5325-2b97-4095-a0b4-e74376c7cc6f}{58}\" paraid=\"189358887\">Martin Luther King, Jr. Lived January 15, 1929 – April 4, 1968. </p> <p paraeid=\"{20ff5325-2b97-4095-a0b4-e74376c7cc6f}{70}\" paraid=\"582436578\">The memorial was authorized by Congress on November 12, 1996. </p> <p paraeid=\"{20ff5325-2b97-4095-a0b4-e74376c7cc6f}{78}\" paraid=\"897875800\">Official dedication date: August 28, 2011 </p> <p paraeid=\"{20ff5325-2b97-4095-a0b4-e74376c7cc6f}{86}\" paraid=\"1711420718\">The Declaration of Independence, adopted on July 4, 1776, set forth ideals for this country. Many of Roosevelt’s New Deal programs provided economic opportunity for those that needed help. King’s work in the Civil Rights Movement to attain fairer social and economic opportunity sought to make the ideals contained in the Declaration of Independence a reality for all Americans. The beginning and end goal are one.  </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.04442083835602,
+          38.88631870133579
+        ]
+      },
+      "properties": {
+        "name": "The Mountain of Despair",
+        "notes": "The Mountain of Despair\nhttps://www.nps.gov/places/the-mountain-of-despair.htm\n\n<p paraeid=\"{aab5b67e-763b-4571-b786-17513fd29080}{237}\" paraid=\"1781962609\">Understand the size of the obstacle that was in the way of those seeking fairer equality for social and economic opportunities. </p> <p paraeid=\"{aab5b67e-763b-4571-b786-17513fd29080}{245}\" paraid=\"508101748\">Appreciate the courage and perseverance it took to get past the obstacle. </p> <p paraeid=\"{aab5b67e-763b-4571-b786-17513fd29080}{255}\" paraid=\"1912505375\">Dr. King firmly believed in effecting social and economic change through nonviolent protest. Peaceful protesters, however, were often met with brutality. Consider the striation grooves in the stone. Do you think they can be interpreted as scars, both physical and psychological, that were inflicted on those who participated in the struggle to get past the obstacle of oppression that was in their way? </p> <p paraeid=\"{6b1802c3-ea55-4e2a-8b1f-1c60b9ba43a0}{28}\" paraid=\"2022658929\">Look at the stone up close. The “Pink Shrimp Granite”, comprising the Mountain of Despair and the Stone of Hope, consists of various colors coming together within the granite. It represents not only the diversity that Dr. King was bringing together in the Civil Rights Movement, but also the diversity that the builders of the memorial wanted to see reflected in the visitors. </p>",
+        "icon": "red-pin-down.png"
+      }
+    }
+  ]
+}

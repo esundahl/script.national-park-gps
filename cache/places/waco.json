@@ -1,0 +1,283 @@
+[
+  {
+    "id": "03A7FF0A-7535-4B80-A048-1FA02CE7B07A",
+    "url": "https://www.nps.gov/places/waco-mammoth-nm-amphitheater.htm",
+    "title": "Waco Mammoth NM Amphitheater",
+    "listingDescription": "An outdoor amphitheater where various programs and presentations take place during the year.",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/08D0A29C-045F-F8A7-605271820F0FE8F2.jpg",
+        "credit": "",
+        "altText": "A circle of benches is shaded by a cloth tarp.",
+        "title": "Waco Mammoth NM Amphitheater",
+        "description": "",
+        "caption": "Various programs take place in the amphitheater throughout the year.",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/08D0A29C-045F-F8A7-605271820F0FE8F2.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/08D0A29C-045F-F8A7-605271820F0FE8F2.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "TX",
+        "parkCode": "waco",
+        "designation": "National Monument",
+        "fullName": "Waco Mammoth National Monument",
+        "url": "https://www.nps.gov/waco/index.htm",
+        "name": "Waco Mammoth"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [
+      "amphitheater"
+    ],
+    "latitude": "31.6067370775",
+    "longitude": "-97.1759782988",
+    "latLong": "31.6067370775,-97.1759782988",
+    "bodyText": "Waco Mammoth National Monument has a shaded, outdoor amphitheater when various programs take place throughout the year.",
+    "audioDescription": "",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "4d40a151-d293-461e-97c1-bf015d7c10fc",
+    "isManagedByNps": "1",
+    "amenities": [
+      "Amphitheater",
+      "Benches/Seating",
+      "Cellular Signal",
+      "Wheelchair Accessible"
+    ],
+    "managedByOrg": "",
+    "quickFacts": [],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  },
+  {
+    "id": "F0FE1055-15E8-43DA-845D-C37AF958A839",
+    "url": "https://www.nps.gov/places/waco-mammoth-nm-dig-shelter.htm",
+    "title": "Waco Mammoth National Monument Dig Shelter",
+    "listingDescription": "The Dig Shelter houses the in situ (in place) fossil bones of Columbian mammoths that lived 65,000 years ago.",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/09A05135-E10F-DC3F-067C4DA28130D26C.jpg",
+        "credit": "",
+        "altText": "People stand on an elevated walkway leading to a large building with many windows and slanted roof.",
+        "title": "Waco Mammoth NM Dig Shelter",
+        "description": "",
+        "caption": "The Dig Shelter protects the mammoth fossils from the harsh Texas weather.",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/09A05135-E10F-DC3F-067C4DA28130D26C.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/09A05135-E10F-DC3F-067C4DA28130D26C.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "TX",
+        "parkCode": "waco",
+        "designation": "National Monument",
+        "fullName": "Waco Mammoth National Monument",
+        "url": "https://www.nps.gov/waco/index.htm",
+        "name": "Waco Mammoth"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [
+      "dig shelter",
+      "fossils",
+      "mammoth",
+      "camel"
+    ],
+    "latitude": "31.6058447104",
+    "longitude": "-97.1743258564",
+    "latLong": "31.6058447104,-97.1743258564",
+    "bodyText": "In 1978, two men discovered an unusual bone in a ravine near the Bosque River. They took the find to Baylor University's Strecker Museum, where museum staff identified it as part of a Columbian mammoth. This now extinct species lived during the Pleistocene Epoch (more commonly known as the Ice Age) and inhabited North America from southern Cananda to as far south as Costa Rica.<br /> <br /> For the next 20 years staff, students, and volunteers excavated the Waco Mammoth Site. Their efforts uncovered a nursery herd that appeared to have drowned together in a single event between 65,000 and 72,000 years ago. The excavation also discovered the remains of additional mammoths and other Ice Age animals including a Western camel, saber-toothed cat, dwarf antelope, American alligator, and giant tortoise.<br /> <br /> While most of the excavated bones are now housed at Baylor University's Mayborn Museum, many exposed bones remain <em>in situ</em> (still in their original location). <br /> <br /> The climate-controlled Dig Shelter protects the in situ bones from the elements and features a suspended walkway that allows visitors an overhead view.<br /> <br /> <strong>Access is by guided tour only. Please start at the Welcome Center. A small fee is charged.</strong>",
+    "audioDescription": "",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "a34a4573-e837-5702-a49d-83249517bed9",
+    "isManagedByNps": "1",
+    "amenities": [
+      "Automated External Defibrillator (AED)",
+      "Benches/Seating",
+      "Cellular Signal",
+      "Fire Extinguisher",
+      "First Aid Kit Available",
+      "First Aid/Medical Care Available",
+      "Historical/Interpretive Information/Exhibits",
+      "Information",
+      "Information - Ranger/Staff Member Present",
+      "Recycling",
+      "Scenic View/Photo Spot",
+      "Trash/Litter Receptacles",
+      "Wheelchair Accessible"
+    ],
+    "managedByOrg": "",
+    "quickFacts": [],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  },
+  {
+    "id": "D73B64B6-E8CE-4874-9E44-EBF5ACC70877",
+    "url": "https://www.nps.gov/places/waco-mammoth-nm-picnic-area.htm",
+    "title": "Waco Mammoth National Monument Picnic Area",
+    "listingDescription": "Waco Mammoth National Monument features a shaded picnic area, perfect for a break out from the hot, Texas sun.",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/0A95991A-BEE5-68B0-FD4F115C3CCEA1E7.jpg",
+        "credit": "",
+        "altText": "Sunlight filters through a wooded area onto a set of rustic picnic tables.",
+        "title": "Waco Mammoth NM Picnic Area",
+        "description": "",
+        "caption": "Shaded tables are perfect for a picnic!",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/0A95991A-BEE5-68B0-FD4F115C3CCEA1E7.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/0A95991A-BEE5-68B0-FD4F115C3CCEA1E7.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "TX",
+        "parkCode": "waco",
+        "designation": "National Monument",
+        "fullName": "Waco Mammoth National Monument",
+        "url": "https://www.nps.gov/waco/index.htm",
+        "name": "Waco Mammoth"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [
+      "picnic area"
+    ],
+    "latitude": "31.6060209784",
+    "longitude": "-97.1759400228",
+    "latLong": "31.6060209784,-97.1759400228",
+    "bodyText": "A shaded picnic area is a perfect place for a break from the hot, Texas sun.",
+    "audioDescription": "",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "b856abd7-39e7-5866-b63d-9ba398ea2328",
+    "isManagedByNps": "1",
+    "amenities": [
+      "Benches/Seating",
+      "Cellular Signal",
+      "Picnic Table",
+      "Recycling",
+      "Trash/Litter Receptacles",
+      "Wheelchair Accessible"
+    ],
+    "managedByOrg": "",
+    "quickFacts": [],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  },
+  {
+    "id": "C2AEB9D3-D7AE-4C6C-AABC-83E698D67C1F",
+    "url": "https://www.nps.gov/places/waco-mammoth-nm-trailhead.htm",
+    "title": "Waco Mammoth National Monument Trailhead",
+    "listingDescription": "Spend a day on the many trails in Waco Mammoth National Monument.",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/0B8995BF-C1A9-ACD7-588AFF68B17C4552.jpg",
+        "credit": "",
+        "altText": "A dirt path leads through a forested area.",
+        "title": "Waco Mammoth NM Trailhead",
+        "description": "",
+        "caption": "Take a walk through Waco Mammoth National Monument.",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/0B8995BF-C1A9-ACD7-588AFF68B17C4552.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/0B8995BF-C1A9-ACD7-588AFF68B17C4552.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "TX",
+        "parkCode": "waco",
+        "designation": "National Monument",
+        "fullName": "Waco Mammoth National Monument",
+        "url": "https://www.nps.gov/waco/index.htm",
+        "name": "Waco Mammoth"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [
+      "trailhead"
+    ],
+    "latitude": "31.605527846067865",
+    "longitude": "-97.1752964262123",
+    "latLong": "31.605527846067865,-97.1752964262123",
+    "bodyText": "<p><strong>Five trails of varying length and difficulty start at the Trailhead.</strong><br /> <br /> Waco Mammoth National Monument is a new park, but its environment dates back thousands of years before the 1978 discovery of the Columbian Mammoth nursery herd. Within the park’s 108 acres, visitors can catch a glimpse of a Texas Ice Age that was not very cold, a habitat for numerous species such as roadrunners and raccoons, and a river that was used by Columbian mammoths, saber-toothed cats, and camels for thousands of years. The natural resources that exist in the park today are only a glimpse of a world that flourished with life during the Ice Age.<br /> <br /> Once visitors step onto the park’s hiking paths, each step takes them back in time. These easy paths will lead visitors past honey locust plants that were here during the ice age, a Texas Live Oak tree that is as old as America’s constitution, and few rambunctious roadrunners or elusive deer. If you want to enjoy nature, join a nature walk with one of our rangers or become a citizen scientist by creating an online inventory with the park’s iNaturalist application, <a href=\"https://www.inaturalist.org/projects/mammoth-trackers\">Mammoth Trackers</a>, and a <a href=\"https://www.nps.gov/waco/learn/nature/upload/WMNM-Adventure-Guide-Brochure.pdf\">nature journal.</a> <br /> <br /> <strong>Remember that central Texas can get very hot! Bring plenty of water, a good sun hat, and sunscreen.</strong></p>",
+    "audioDescription": "",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "",
+    "isManagedByNps": "1",
+    "amenities": [
+      "Benches/Seating",
+      "Cellular Signal",
+      "Trailhead"
+    ],
+    "managedByOrg": "",
+    "quickFacts": [],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  }
+]

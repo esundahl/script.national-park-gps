@@ -1,0 +1,50 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9270216861634,
+          39.7746828994479
+        ]
+      },
+      "properties": {
+        "name": "Friendship Hill Loop Trail",
+        "notes": "Friendship Hill Loop Trail\nhttps://www.nps.gov/places/friendship-hill-loop-trail.htm\n\nFriendship Hill National Historic Site has more than ten miles of walking trails for you to enjoy. The loop trail system provides a glimpse of this area as it was when first settled by Albert Gallatin in the 1780s. The trails include walking paths through woods, meadows, on the bluffs overlooking the Monongahela River and below the bluffs along the river.<br /> Wildlife abounds. Fox, squirrels, wild turkey, white-tailed deer, pileated woodpeckers, snapping turtles, and red-tailed hawks are familiar residents at Freindship Hill. Wildflowers, mountain laurel and a variety of evergreens and hardwoods enhance the the beauty of the park.<br /> Reminders of the past appear frequently along the trail. Gallatin's first wife, Sophia, is buried on the property as is his friedn and buisness partner, Thomas Clare. Old roads, building foundations, abondoned river guages and water towers are all evidence fo enterprising individuals who walked this land long ago.<br /> <br /> The Friendship Hill Loop Trail system was designated a <a href=\"https://www.nrtdatabase.org/trailDetail.php?recordID=2336\">National Recreational Trail </a>in 1984.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.92003254592419,
+          39.78059761226177
+        ]
+      },
+      "properties": {
+        "name": "Friendship Hill National Historic Site",
+        "notes": "Friendship Hill National Historic Site\nhttps://www.nps.gov/places/friendship-hill.htm\n\n<p>Friendship Hill, a structure dating to the 1790s, was the home of treasury secretary Albert Gallatin. <span style=\"font-size: 11pt;\" data-mce-style=\"font-size: 11pt;\">As treasurer under president Thomas Jefferson and president James Madison, Gallatin presided over the dismantling of the Bank of the United States, leaving America financially unprepared to engage in large scale warfare in 1812. </span></p><p>In order to fund the War of 1812, Gallatin reinstituted politically unpopular taxes that had been imposed by rival Federalists in the 1790s. In 1814, he headed the American delegation to Ghent, where he helped negotiate a successful peace settlement with Great Britain. </p><p>After the war, in 1816, Gallatin assisted in chartering the Second Bank of the United States to meet the nation's postwar financial needs. </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9973373413086,
+          40.4385108947754
+        ]
+      },
+      "properties": {
+        "name": "Rivers of Steel National Heritage Area",
+        "notes": "Rivers of Steel National Heritage Area\nhttps://www.nps.gov/places/rivers-of-steel-national-heritage-area.htm\n\n<p>The <a href=\"https://riversofsteel.com/\">Rivers of Steel National Heritage Area</a> in southwestern Pennsylvania reveals how one region, in a sustained and thunderous blast of innovation, ambition and fire, forever changed America and its place in the world. It is the story of the industrialists and the workers who pushed an infant industry to it ultimate limits and in doing so pushed the world into the Age of Steel. Rivers of Steel NHA celebrates the region's industrial history, the landscape that fueled it, and the hardworking people who made it possible, linking the communities of the region through their shared cultural and industrial heritage. <br /> <br /> Created over eons, as water carved away layers of the Allegheny Plateau, southwestern Pennsylvania’s hilly topography set the stage for entrepreneurs. Over time, this land and the local economy continued to transform. Colonial agriculture gave way to boat building and river trade. Business shifted from commerce to industry, making use of the region’s natural resources for glassmaking, coal mining, and small scale iron production, which laid the groundwork for the “Big Steel” era of the 20th century. Industries waxed and waned – each innovating and building upon the one that preceded it – before evolving into today’s dynamic landscape.<br /> <br /> The eight-county region of Rivers of Steel NHA is a National Heritage Area and one of 12 state-desigated Heritage Areas in Pennsylvania. It is managed by the <a href=\"https://riversofsteel.com/about/\">Rivers of Steel Heritage Corporation</a>, a nonprofit that works in partnership with the National Park Service and the Pennsylvania Department of Conservation and Natural Resources. Through public-private partnerships, Rivers of Steel supports heritage conservation, heritage tourism, and outdoor recreation as a means to foster economic redevelopment and enhance cultural engagement.<br /> <br /> <strong>Rivers of Steel National Heritage Area includes the following historic sites:</strong></p> <ul> <li><a href=\"https://riversofsteel.com/attractions/carrie-furnaces/\">Carrie Blast Furnaces National Historic Landmark,</a> Rankin & Swissvale, PA</li> <li><a href=\"https://riversofsteel.com/attractions/bost-building/\">The Bost Building National Historic Landmark</a>, Homestead, PA</li> <li><a href=\"https://riversofsteel.com/attractions/pump-house/\">The Pump House</a>, site of the 1892 Battle of Homestead, Munhall, PA</li> <li><a href=\"https://riversofsteel.com/attractions/w-a-young-sons-foundry-and-machine-shop/\">W.A. Young & Sons Foundry and Machine Shop National Historic Landmark</a>, Rices Landing PA</li> </ul> <p><strong>Rivers of Steel National Heritage Area also includes the following NPS units:</strong></p> <ul> <li><a href=\"https://www.nps.gov/fone/index.htm\">Fort Necessity National Battlefield</a></li> <li><a href=\"https://www.nps.gov/frhi/index.htm\">Friendship Hill National Historic Site</a></li> </ul>",
+        "icon": "red-pin-down.png"
+      }
+    }
+  ]
+}

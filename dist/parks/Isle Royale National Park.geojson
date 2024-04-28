@@ -1,0 +1,515 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.6564837921862,
+          48.135630839474
+        ]
+      },
+      "properties": {
+        "name": "Amygdaloid Island",
+        "notes": "Amygdaloid Island\nhttps://www.nps.gov/places/amygdaloid-island.htm\n\nAmygdaloid Island is located on the north shore of Isle Royale National Park. Amygdaloid Island includes rocky shores, forests, and a sea arch. A seasonally staffed ranger station and historic cabins populate the area near the dock on Amygdaloid Island's south shore. Overnight stay is not permitted.  <h4><strong>Found Nearby</strong></h4> <ul> <li>McCargoe Cove & Campground</li> <li>Belle Isle & Campground</li> <li>Pickerel Cove & Campground</li> </ul>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.48613685871072,
+          48.14592249690186
+        ]
+      },
+      "properties": {
+        "name": "Boating Introduction",
+        "notes": "Boating Introduction\nhttps://www.nps.gov/places/boating-introduction.htm\n\n<p>Isle Royale National Park regulations are intended to protect park resources and visitor experiences. Visitors are responsible for adhering to regulations. The park’s boundary extends 4-1/2 miles into Lake Superior from the outer islands or to the international boundary. <strong>No pets allowed.</strong><br />  </p> <ul> <li><a href=\"https://www.nps.gov/isro/planyourvisit/boating.htm\">Isle Royale National Park Boating Regulations</a></li> </ul> <h2><br /> Permits</h2> <p>All boaters staying overnight at anchor, at docks, or in campgrounds must first obtain a camping permit in-person at <a href=\"https://www.nps.gov/isro/planyourvisit/houghton.htm\">Houghton</a>, <a href=\"https://www.nps.gov/isro/planyourvisit/rock-harbor.htm\">Rock Harbor</a>, or <a href=\"https://www.nps.gov/isro/planyourvisit/windigo.htm\">Windigo</a>. Boaters may also obtain their <a href=\"https://www.nps.gov/isro/planyourvisit/boater-permit-request.htm\">permit in advance</a>. Permits should be displayed on the boat when at anchor, at dock, or in the campground on a shelter or tent.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.88993072509766,
+          47.98566818237305
+        ]
+      },
+      "properties": {
+        "name": "Current Conditions at Isle Royale",
+        "notes": "Current Conditions at Isle Royale\nhttps://www.nps.gov/isro/planyourvisit/current-conditions-at-isle-royale.htm\n\n<h2><a href=\"https://www.nps.gov/isro/planyourvisit/conditions.htm\">Alerts & Closures</a></h2> <ul> <li><strong>Winter Park Closure November 1 - April 15 annually</strong>: Isle Royale and its surrounding islands are closed to all visitors. Lake Superior waters are open to boaters. All islands reopen April 16.</li> <li><strong>All park visitor centers have closed for the season.</strong> This includes the Houghton, Rock Harbor, & Windigo Visitor Centers. For trip planning assistance, contact the park at 906-482-0984.</li> <li><strong>Navigational Buoys: </strong>Out for the season.</li> <li><a href=\"https://www.nps.gov/isro/learn/historyculture/lighthouses.htm\">Rock Harbor Lighthouse</a><strong>: </strong>The tower is closed. The museum is closed for the season.</li> <li><strong><a href=\"https://www.nps.gov/isro/planyourvisit/cross-country-camping.htm\">Cross-country camping zones</a> 2023 C</strong><strong>losures:</strong> 10, 9A, 8A, 12A, and 11A are closed due to the <a href=\"https://www.nps.gov/isro/learn/isle-royale-horne-fire.htm\">2021 Horne Fire</a> and the <a href=\"https://www.nps.gov/isro/learn/isle-royale-mount-franklin-fire.htm\">2022 Mount Franklin Fire</a>.</li> </ul> <h2>Safety for 2024</h2> <ul> <li><a href=\"https://www.nps.gov/isro/planyourvisit/safety.htm\">Your safety is your responsibility.</a> Have a conservative trip plan, plan your gear with conditions in mind, be first aid ready, and have plans on what you might do in case something goes wrong. Self-rescue is the best rescue as park response is limited and help could be hours or days away. Come prepared with everything you may need.</li> <li><strong>Water is Life:</strong><a href=\"https://www.nps.gov/isro/planyourvisit/drinking-water.htm\"> Stay Hydrated</a>. During the seaon, potable water is only available in Rock Harbor and Windigo. To be assured of no risk of contamination from small bacteria and viruses, all filtered water should be further treated with iodine or other approved chemical methods. </li> </ul> <h2>Weather</h2> <ul> <li><a href=\"https://forecast.weather.gov/MapClick.php?lat=48.00016000000005&lon=-88.83368999999999#.Yt2hXLbMJaQ\">Recreational Weather Forecast</a></li> <li><a href=\"https://forecast.weather.gov/product.php?site=mqt&product=glf&issuedby=ls\">Marine Forecast</a>.</li> </ul> <h2>Facilities Closed Until May 2024</h2> <ul> <li><strong>Potable Water</strong>: <ul> <li><u>Windigo</u>: Not available.</li> <li><u>Rock Harbor</u>: Not available.</li> </ul> </li> <li><b>Restrooms</b>: <ul> <li><u>Windigo</u>: Closed.</li> <li><u>Rock Harbor</u>: Closed.</li> <li>Bring toilet paper for use in outhouses.</li> </ul> </li> <li><b>Showers & Laundry</b> <ul> <li><u>Windigo</u>: Closed for the season.</li> <li><u>Rock Harbor</u>: Closed for the season.</li> </ul> </li> <li><a href=\"https://www.nps.gov/isro/planyourvisit/hours.htm\">Visitor Centers Hours</a></li> <li><a href=\"https://www.nps.gov/isro/planyourvisit/rock-harbor-lodge.htm\">Rock Harbor Lodge</a>  <ul> <li>Closed for the season.  <ul> <li>No services are available.</li> </ul> </li> <li>Fuel is not available.</li> </ul> </li> <li><strong>Windigo Store</strong>:  <ul> <li>Closed for the season.</li> <li>Fuel is not available.</li> </ul> </li> </ul> <h2>Transportation Services</h2> <p>For 2024, Direct questions about <a href=\"https://www.nps.gov/isro/planyourvisit/directions.htm\">transportation services and making reservations </a>to respective providers. Dates sell out; reserve early.</p> <h2>Camping</h2> <ul> <li><strong>General Conditions: </strong>Closed</li> </ul> <h2>Trails</h2> <ul> <li><strong>General Conditions:</strong> Closed</li> <li><strong>Downed Trees: </strong>In Spring, trail crews will work to clear trails of downed trees across the island. However, obstructions will exist on trails and in campgrounds. Bring hiking poles to assist with difficult sections and wear sturdy, well-broken-in footwear.</li> <li><strong>Trail Navigation:</strong> Changing trail conditions due to beaver activity and wildfires from previous years can make certain sections of trail difficult to navigate. Have a map and compass and/or a GPS and know how to use them.</li> </ul> <h2><span style=\"font-size: 2rem; text-align: var(--bs-body-text-align);\">Water Conditions</span></h2> <ul> <li>N/A</li> </ul> <h2>Wildlife for 2024</h2> <ul> <li><strong>Cow Moose with Calves</strong>: Cow moose are extremely protective of their calves. If you see a cow moose (no antlers), look to see if there is a calf around. If a cow moose were to approach, protect yourself by putting a large tree or rock between you and the moose.</li> <li><strong>Wolves:</strong> If you see a wolf, do not approach. If the wolf comes closer, encourage it to leave by clapping and yelling. If you cannot safely leave, make yourself big and aggressively use hiking poles or branches. Wolf attacks are extremely rare and unlikely to happen, but if it does, fight by any means necessary.</li> </ul> <h2>Buoys</h2> <p><a href=\"https://www.nps.gov/isro/planyourvisit/scuba-diving.htm#Shipwreck_Buoys_1\">Check if dive buoys are currently on or off station.</a></p> <h2>Customs</h2> <ul> <li>All recreational boaters intending to arrive at Isle Royale from Canada <strong>must</strong> clear U.S. customs <strong>prior to their arrival</strong>. This is true regardless of the nationality of the individual or purpose of the visit.</li> <li>Private seaplanes cannot come directly to Isle Royale NP from Canada and utilize the ROAM app.</li> <li><a href=\"https://www.nps.gov/isro/planyourvisit/customs.htm\">Learn more about clearing customs ahead of time.</a></li> </ul>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.0924209356308,
+          47.86096618495529
+        ]
+      },
+      "properties": {
+        "name": "Feldtmann Tower",
+        "notes": "Feldtmann Tower\nhttps://www.nps.gov/places/feldtmann-tower.htm\n\n<p>The Feldtmann Fire Tower offers a unique west end view of Isle Royale National Park. It is located on the Feldtmann Ridge between Feldtmann Lake Campground and Siskiwit Campground. Formerly a fire tower, visitors can climb partly up the tower and experience a 360 degree view of Isle Royale's west end. Siskiwit Bay, Houghton Ridge, Siskiwit Ridge, and the Red Oak Ridge can all be viewed from the tower. This is an excellent spot for a lunch break while backpacking or a day excursion from nearby campgrounds. </p> <h4><strong>Found Nearby</strong></h4> <ul> <li> <p>Feldtmann Lake Campground (4.8 miles away)</p> </li> <li> <p>Siskiwit Campground (5.4 miles away)</p> </li> <li> <p><a href=\"https://www.nps.gov/places/rainbow-cove.htm\">Rainbow Cove</a> (5.6 miles away)</p> </li> </ul> <p> </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.48605394363403,
+          48.14601410274525
+        ]
+      },
+      "properties": {
+        "name": "First Timer's Guide to Isle Royale",
+        "notes": "First Timer's Guide to Isle Royale\nhttps://www.nps.gov/places/first-timer-s-guide-to-isle-royale.htm\n\n<p>When planning a trip to Isle Royale, many people ask, \"What is the one thing I must do or see while I'm there?\" The answer is, it depends on what type of Isle Royale experience you want to have! With a multitude of ways to travel to the park and numerous things to do once you arrive, compounded by the the island's large size and isolation in Lake Superior, Isle Royale adventures are as diverse as the thousands of people who come to the park each year. Despite these differences, the safest, most enjoyable trips are all grounded in planning and preparation that takes place before arrival. Using the information in this guide, plan an unforgettable experience to your national park.</p>   <h2><a href=\"https://www.nps.gov/isro/planyourvisit/first-timer-s-guide.htm\">First Timer's Guide</a></h2>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.1842685274405,
+          47.892205825309674
+        ]
+      },
+      "properties": {
+        "name": "Grace Creek Overlook",
+        "notes": "Grace Creek Overlook\nhttps://www.nps.gov/places/grace-creek-overlook.htm\n\n<p>Grace Creek Overlook is a popular scenic overlook on the west end of Isle Royale National Park. It is located off the Feldtmann Lake Trail about 1.8 miles south of Windigo. Step onto the rocky outcropping and gaze down at Grace Creek. Grace Beach, Grace Harbor, and Lake Superior can be viewed to the southwest. Wildlife viewing is common here. <a href=\"https://www.nps.gov/thingstodo/hike-to-grace-creek-overlook.htm\">Hike to Grace Creek Overlook</a> for the day and experience the island's vast wilderness. </p> <h4><strong>Found Nearby</strong></h4> <ul> <li> <p><a href=\"https://www.nps.gov/isro/planyourvisit/windigo.htm\">Windigo</a> Area (1.8 miles away)</p> </li> <li> <p>Washington Harbor</p> </li> <li> <p>Feldtmann Lake Campground (6.7 miles away)</p> </li> <li> <p><a href=\"https://www.nps.gov/places/rainbow-cove.htm\">Rainbow Cove</a> (7.5 miles away)</p> </li> </ul>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.47198910326647,
+          48.15869545316662
+        ]
+      },
+      "properties": {
+        "name": "Greenstone Ridge Trailhead: Hidden Lake",
+        "notes": "Greenstone Ridge Trailhead: Hidden Lake\nhttps://www.nps.gov/places/greenstone-ridge-trailhead-hidden-lake.htm\n\n<p><a href=\"https://www.nps.gov/isro/planyourvisit/camping.htm\">Backpack Isle Royale National Park</a> and trek the Greenstone Ridge Trail that connects the southwest end to the northeast end of the island. The island’s longest trail includes forested wilderness, rocky exposed ridges, inland lakes, swamps, wildlife, and Lake Superior views.<br /> <br /> <strong>Trailhead Locations</strong><br /> •  Windigo is accessible by ferry, seaplane, or private boat. <br /> •  Hidden Lake is accessible by private boat or water taxi from Rock Harbor Lodge. <br /> <br /> <strong>Miles</strong>: about 41.7<br /> <br /> <strong>Accessibility</strong>: This backcountry trail is about 18 inches wide and includes rocks and roots. Trail includes wooden plank bridges and steep inclines.  No potable water is available along the trail. Bring everything you need to backpack multiple days across the island, including enough food, water filter, map, and compass.<br /> <br /> <strong>Campgrounds Along Trail</strong><br /> •  Washington Creek Campground<br /> •  Island Mine Campground<br /> •  South Lake Desor Campground<br /> •  Hatchet Lake Campground<br /> •  West Chickenbone Campground<br /> •  East Chickenbone Campground<br /> •  Daisy Farm Campground<br /> •  Three Mile Campground<br /> •  Rock Harbor Campground</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.14915323235618,
+          47.91791436635371
+        ]
+      },
+      "properties": {
+        "name": "Greenstone Ridge Trailhead: Windigo",
+        "notes": "Greenstone Ridge Trailhead: Windigo\nhttps://www.nps.gov/places/greenstone-ridge-trailhead-windigo.htm\n\n<p><a href=\"https://www.nps.gov/isro/planyourvisit/camping.htm\">Backpack Isle Royale National Park</a> and trek the Greenstone Ridge Trail that connects the southwest end to the northeast end of the island. The island’s longest trail includes forested wilderness, rocky exposed ridges, inland lakes, swamps, wildlife, and Lake Superior views.<br /> <br /> <strong>Trailhead Locations</strong><br /> •  Windigo is accessible by ferry, seaplane, or private boat. <br /> •  Hidden Lake is accessible by private boat or water taxi from Rock Harbor Lodge. <br /> <br /> <strong>Miles</strong>: about 41.7<br /> <br /> <strong>Accessibility</strong>: This backcountry trail is about 18 inches wide and includes rocks and roots. Trail includes wooden plank bridges and steep inclines.  No potable water is available along the trail. Bring everything you need to backpack multiple days across the island, including enough food, water filter, map, and compass.<br /> <br /> <strong>Campgrounds Along Trail</strong><br /> •  Washington Creek Campground<br /> •  Island Mine Campground<br /> •  South Lake Desor Campground<br /> •  Hatchet Lake Campground<br /> •  West Chickenbone Campground<br /> •  East Chickenbone Campground<br /> •  Daisy Farm Campground<br /> •  Three Mile Campground<br /> •  Rock Harbor Campground</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.48610092551482,
+          48.14601528206407
+        ]
+      },
+      "properties": {
+        "name": "Group Camping Introduction",
+        "notes": "Group Camping Introduction\nhttps://www.nps.gov/isro/planyourvisit/group-camping-introduction.htm\n\n<h4>Things to Know about Group Camping</h4> <ul> <li><a href=\"https://www.nps.gov/isro/planyourvisit/group-camping-7-or-more-people.htm\">Advance group camping reservations and permits</a> are required for groups of seven or more people, including leaders.</li> <li>If your party exceeds ten, you must split into two or more groups (of ten or less), each independent and traveling on completely separate itineraries. For groups of ten or more people breaking up into <a href=\"https://www.nps.gov/isro/planyourvisit/camping.htm\">small parties</a> (1-6 people), a permit must still be obtained in advance.</li> <li>Groups of seven or more people may only camp in <a href=\"https://www.nps.gov/isro/group-campground-table.htm\">reserved group campsites.</a></li> <li>Organizations may not have more than 20 people camping on the island at any one time and are limited to 80 people per year.</li> </ul> <h3>Group Camping Reservation Requests</h3> <p>Isle Royale accepts group camping reservation requests beginning January 2 for the 2024 season. The park strives to process all requests quickly. However, due to limited winter staffing, we are not able to process most requests until March, when staffing increases.<br /> <br /> All requests are processed in the order we receive them.<br /> For more information, head over to our in-depth <a href=\"https://www.nps.gov/isro/planyourvisit/group-camping-7-or-more-people.htm\">group camping </a>page.<br />  </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.91536426242936,
+          47.99423034408766
+        ]
+      },
+      "properties": {
+        "name": "Ishpeming Tower",
+        "notes": "Ishpeming Tower\nhttps://www.nps.gov/places/ishpeming-tower.htm\n\n<p>Ishpeming Fire Tower is one of three fire towers on Isle Royale National Park. Ishpeming Fire Tower is located at the junction of the Greenstone Ridge Trail and the Ishpeming Trail. The tower is no longer staffed but is an excellent spot for a hiking break. Although visitors cannot climb this tower, it does provide shelter from rainy weather with forest views. </p> <h4><strong>Found Nearby</strong></h4> <ul> <li>Malone Campground</li> <li>South Desor Campground</li> <li>Hatchet Lake Campground</li> <li><a href=\"https://www.nps.gov/tripideas/backpack-the-greenstone-ridge-trail.htm\">Greenstone Ridge Trail</a></li> </ul>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.76138250028657,
+          47.94791443535454
+        ]
+      },
+      "properties": {
+        "name": "Isle Royale Lighthouse",
+        "notes": "Isle Royale Lighthouse\nhttps://www.nps.gov/places/isle-royale-lighthouse.htm\n\n<p>The Isle Royale Light stands on long, rocky Menagerie Island via Isle Royale's south shore at the entry to Siskiwit Bay. Reachable only by private boat, it features a 61-foot double-walled octagonal sandstone tower, with a black lantern and gallery. It was completed and operative in 1875, and automated in 1913. The original Fourth Order Fresnel lens and subsequent light systems have been replaced with a 12-volt solar power 300 mm Tidelands Signal Acrylic Optic, which sends its beam out 10 miles.</p> <p>Learn about <a href=\"https://www.nps.gov/articles/000/isle-royale-lighthouse.htm\">the history of the Isle Royale Lighthouse</a>.</p> <p>Explore the <a href=\"https:///www.nps.gov/isro/learn/historyculture/index.htm\">History & Culture of Isle Royale National Park</a>.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.89118826381127,
+          47.470789383820986
+        ]
+      },
+      "properties": {
+        "name": "Isle Royale Queen IV",
+        "notes": "Isle Royale Queen IV\nhttps://www.nps.gov/isro/planyourvisit/isle-royale-queen-iv.htm\n\n<h4>About</h4> <p>The <em><a href=\"https://www.nps.gov/isro/planyourvisit/isle-royale-queen-iv.htm\">Isle Royale Queen IV</a></em> passenger ferry operates between Copper Harbor, Michigan and Rock Harbor on the northeast end of Isle Royale National Park. There is no car ferry service.</p> <h4>Schedule</h4> <p>Throughout the season the ship's schedule varies; it typically operates from early May through the end of September.</p> <p>The <em>Isle Royale Queen IV</em> departs Copper Harbor, Michigan at 8:00 am EDT and takes a little over three hours to arrive at Rock Harbor. The ship then departs Rock Harbor at 2:45 pm EDT for Copper Harbor. The <em>Isle Royale Queen IV</em> makes the departure and return trip on the same day, allowing for both overnight and day-trip passengers.</p> <h4>Reservations</h4> <p>For schedules, fare information, or to make reservations, please visit the<em> </em><a href=\"http://www.isleroyale.com/\"><em>Isle Royale Queen IV</em> website.</a></p> <h4>Park Entrance Fees</h4> A per person daily <a href=\"https://www.nps.gov/isro/planyourvisit/fees.htm\">entrance fee</a> is required to enter and remain in the park. <a href=\"https://www.nps.gov/isro/planyourvisit/pay-fees-online.htm\">Pay fees online</a> prior to your trip. <h4>Park Newspaper</h4> <p>Utilize the park's newspaper, <em><a href=\"https://www.nps.gov/isro/greenstone-newspaper.htm\">The Greenstone</a></em>, for all of your transportation and trip planning needs. </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.48603248596191,
+          48.148321522620336
+        ]
+      },
+      "properties": {
+        "name": "Isle Royale Seaplanes",
+        "notes": "Isle Royale Seaplanes\nhttps://www.nps.gov/isro/planyourvisit/isle-royale-seaplanes.htm\n\n<h4>About</h4> <p><a href=\"https://isleroyaleseaplanes.com/\">Isle Royale Seaplanes</a> is the sole concessionaire offering seaplane transportation to Isle Royale National Park. Their main office and contact center is in Hancock, Michigan along the Keweenaw Waterway. Flights originate from there and from the Cook County Airport in Grand Marais, Minnesota. Both departure bases provide service to <a href=\"https://www.nps.gov/isro/planyourvisit/windigo.htm\">Windigo</a> and <a href=\"https://www.nps.gov/isro/planyourvisit/rock-harbor.htm\">Rock Harbor</a>. </p> <h4>Schedule</h4> <p>Throughout the operating season the seaplane's schedule varies; it typically operates from mid-May through mid-September. Overnight and day-trip visits are offered.<br /> <br /> <strong>Delays</strong><br /> Travel delays can occur due to fog and inclement weather. Usually delays are for a few hours; however delays can stretch over multiple days. Whether arriving or departing the island, be prepared for all travel possibilities.</p> <h4>Reservations</h4> <p>For schedules, fare information, or to make a reservation, please visit the <a href=\"https://isleroyaleseaplanes.com/\">Isle Royale Seaplanes website</a>.</p> <h4>Park Entrance Fees</h4> <p>A per person daily <a href=\"https://www.nps.gov/isro/planyourvisit/fees.htm\">entrance fee</a> is required to enter and remain in the park. <a href=\"https://www.nps.gov/isro/planyourvisit/pay-fees-online.htm\">Pay fees online</a> prior to your trip.</p> <h4>Permits</h4> <p>After disembarking the seaplane at either <a href=\"https://www.nps.gov/isro/planyourvisit/rock-harbor.htm\">Rock Harbor</a> or <a href=\"https://www.nps.gov/isro/planyourvisit/windigo.htm\">Windigo</a>, visitors are required to self-check in. </p> <ul> <li><a href=\"https://www.nps.gov/isro/planyourvisit/camping.htm\">Backpackers and Campers</a>: Use the Self-Permit Station to collect and write a <a href=\"https://www.nps.gov/isro/planyourvisit/permits.htm\">camping permit</a>, following provided instructions. Note method of <a href=\"https://www.nps.gov/isro/planyourvisit/fees.htm\">park entrance fee</a> payment on permit. Each party collects one permit.</li> <li><a href=\"https://www.nps.gov/isro/planyourvisit/day-trips.htm\">Daytrippers</a>: Use the same Self-Permit Station to self-certify that <a href=\"https://www.nps.gov/isro/planyourvisit/fees.htm\">park entrance fees</a> have been <a href=\"https://www.nps.gov/isro/planyourvisit/pay-fees-online.htm\">paid prior to arrival.</a></li> <li><a href=\"https://www.nps.gov/isro/planyourvisit/group-camping-7-or-more-people.htm\">Groups (Parties of 7 or More People):</a> Do not use Self-Permit Station. Proceed inside the visitor center to retrieve your permit. </li> </ul> <p>Self-Permit Station Locations:</p> <ul> <li> <p>Rock Harbor: Event tent outside of Rock Harbor Visitor Center</p> </li> <li> <p>Windigo: Far side of Windigo Visitor Center deck</p> </li> </ul> <h4>Park Newspaper</h4> <p>Utilize the park's newspaper, <em><a href=\"https://www.nps.gov/isro/greenstone-newspaper.htm\">The Greenstone</a></em>, for all of your transportation and trip planning needs. <br />  </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.48095545715555,
+          48.165387326421424
+        ]
+      },
+      "properties": {
+        "name": "Lookout Louise",
+        "notes": "Lookout Louise\nhttps://www.nps.gov/places/lookout-louise.htm\n\nLookout Louise is a popular overlook perched over Duncan Bay and commanding a view of the stretch of Lake Superior between Isle Royale and Thunder Bay, Ontario. On a clear day, Pie Island, the Sibley Peninsula, and Edward Island are visible. Those with binoculars are afforded a view of the buildings dotting Sibley Cove, an old silver mining town developed in the 1870s. Lookout Louise is named after Louise Savage of Saint Paul, Minnesota, a girl whose family owned one of the nearby Tobin Harbor islands before Isle Royale's days as a national park.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.12594318324409,
+          47.94212120251862
+        ]
+      },
+      "properties": {
+        "name": "Minong Ridge Overlook",
+        "notes": "Minong Ridge Overlook\nhttps://www.nps.gov/places/minong-ridge-overlook.htm\n\n<p>The Minong Ridge Overlook sits along the Minong Ridge Trail on the west end of Isle Royale National Park. The overlook is signified by the first rocky ridge when traveling from the west. Hikers can enjoy views of the island’s west end, Lake Superior, and the Canadian shoreline to the north. </p> <h4><strong>Found Nearby</strong></h4> <ul> <li> <p><a href=\"https://www.nps.gov/isro/planyourvisit/windigo.htm\">Windigo </a>Area</p> </li> <li> <p>Huginning Cove Campground</p> </li> <li> <p>North Lake Desor Campground</p> </li> </ul> <p> </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.70950698896195,
+          48.08762599434377
+        ]
+      },
+      "properties": {
+        "name": "Minong Ridge Trailhead: McCargoe Cove",
+        "notes": "Minong Ridge Trailhead: McCargoe Cove\nhttps://www.nps.gov/places/minong-ridge-trailhead-mccargoe-cove.htm\n\n<p>Thinking about <a href=\"https://www.nps.gov/isro/planyourvisit/camping.htm\">backpacking </a>the Minong Ridge Trail at Isle Royale National Park? This challening trail stretches along the northern portion of the island and offers scenic views of Lake Superior and the Canadian shoreline. This primitive trail is strenuous due to its change in elevation, rocky ridges, and beaver dam crossings. Hikers need to utitlize wayfinding and orienteering skills on this trail. <br /> <br /> <strong>Miles</strong>: about 28 miles. <br /> <br /> Trailhead Locations</p> <ul> <li>Windigo is accessible by ferry, seaplane, or private boat.</li> <li>McCargoe is accessible by trail, Voyageur II passenger ferry, or private boat.</li> </ul> <p><br /> <strong>Accessibility</strong>: This backcountry trail is about 18 inches wide and includes rocks and roots. Trail includes wooden plank bridges, steep inclines, and trail sections that involve beaver dam crossings. Trekking poles are useful for this hike. No potable water is available along this trail. Bring everything you need to backpack multiple days including enough food, water filter, map, and compass. <br /> <br /> <strong>Campgrounds Along Trail</strong><br /> •  McCargoe Cove Campground<br /> •  Todd Harbor Campground<br /> •  Little Todd Campground<br /> •  North Lake Desor Campground<br /> •  Huginnin Cove Campground<br /> •  Washington Creek Campground</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.14307713508606,
+          47.9286077947303
+        ]
+      },
+      "properties": {
+        "name": "Minong Ridge Trailhead: Windigo",
+        "notes": "Minong Ridge Trailhead: Windigo\nhttps://www.nps.gov/places/minong-ridge-trailhead-windigo.htm\n\n<p>Thinking about <a href=\"https://www.nps.gov/isro/planyourvisit/camping.htm\">backpacking </a>the Minong Ridge Trail at Isle Royale National Park? This challening trail stretches along the northern portion of the island and offers scenic views of Lake Superior and the Canadian shoreline. This primitive trail is strenuous due to its change in elevation, rocky ridges, and beaver dam crossings. Hikers need to utitlize wayfinding and orienteering skills on this trail. <br /> <br /> <strong>Miles</strong>: about 28 miles. <br /> <br /> <strong>Trailhead Locations</strong></p> <ul> <li>Windigo is accessible by ferry, seaplane, or private boat.</li> <li>McCargoe is accessible by trail, Voyageur II passenger ferry, or private boat.</li> </ul> <p><strong>Accessibility</strong>: This backcountry trail is about 18 inches wide and includes rocks and roots. Trail includes wooden plank bridges, steep inclines, and trail sections that involve beaver dam crossings. Trekking poles are useful for this hike. No potable water is available along this trail. Bring everything you need to backpack multiple days including enough food, water filter, map, and compass. <br /> <br /> <strong>Campgrounds Along Trail</strong><br /> •  McCargoe Cove Campground<br /> •  Todd Harbor Campground<br /> •  Little Todd Campground<br /> •  North Lake Desor Campground<br /> •  Huginnin Cove Campground<br /> •  Washington Creek Campground<br />  </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.56682062149048,
+          48.12678475292654
+        ]
+      },
+      "properties": {
+        "name": "Mount Franklin",
+        "notes": "Mount Franklin\nhttps://www.nps.gov/places/mount-franklin.htm\n\n<p>Mount Franklin is a scenic overlook along the Greenstone Ridge Trail on the east end of Isle Royale National Park. This rocky viewpoint honors Benjamin Franklin. Mount Franklin is accessible from Rock Harbor via the Rock Harbor or Tobin Harbor Trails. It is a popular and challenging 10 mile round trip day hike from Rock Harbor. Hike to Mount Franklin and view the island’s interior and north shore as well as the distant Canadian mainland. <br /> <br /> <strong>Found Nearby</strong></p> <ul> <li><a href=\"https://www.nps.gov/tripideas/backpack-the-greenstone-ridge-trail.htm\">Greenstone Ridge Trail</a></li> <li>Lane Cove & Campground (2.7 miles away)</li> <li>Three Mile Campground (2.3 miles away)</li> <li><a href=\"https://www.nps.gov/places/ojibway-tower.htm\">Ojibway Tower</a> (2.5 miles away)</li> <li><a href=\"https://www.nps.gov/isro/planyourvisit/rock-harbor.htm\">Rock Harbor</a> Area (4.5 miles away)</li> </ul>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.60650300985071,
+          48.1084878720751
+        ]
+      },
+      "properties": {
+        "name": "Ojibway Tower",
+        "notes": "Ojibway Tower\nhttps://www.nps.gov/places/ojibway-tower.htm\n\n<p>Ojibway Tower is located on the Greenstone Ridge on Isle Royale National Park. Ojibway Tower is the highest point on the eastern end of Isle Royale. Formerly a fire watch station, the tower room today holds telecommunication equipment that helps support park operations. The tower room is closed, but visitors may climb partway up the stairs for views of the island’s interior lakes and bays. The tower is a popular scenic viewpoint along the Greenstone Ridge Trail. Hiking access is available from Daisy Farm Campground and the Greenstone Ridge Trail. Boats may dock at the Daisy Farm Dock and hike to the tower. Daily boat rentals are available from the <a href=\"https://www.nps.gov/places/rock-harbor-marina.htm\">Rock Harbor Marina</a>. </p> <h4><strong>Found Nearby</strong></h4> <ul> <li> <p>Daisy Farm Campground (1.7 miles away)</p> </li> <li> <p><a href=\"https://www.nps.gov/places/mount-franklin.htm\">Mount Franklin</a> (2.8 miles away)</p> </li> <li> <p><a href=\"https://www.nps.gov/places/rock-harbor-lighthouse.htm\">Rock Harbor Lighthouse</a> </p> </li> </ul>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.36657161766163,
+          48.223818862253445
+        ]
+      },
+      "properties": {
+        "name": "Passage Island Lighthouse",
+        "notes": "Passage Island Lighthouse\nhttps://www.nps.gov/places/passage-island-lighthouse.htm\n\n<p>On the northeast side of Isle Royale National Park, the Passage Island Lighthouse guides ship traffic between the channel of Isle Royale's main island and Passage Island. Completed in 1882, the lighthouse originally used a Fourth Order oil-burning wick lamp and appeared as a fixed red light; later, it was modified to a flashing white light. Concession tours travel to the island, giving visitors a glimpse of this now automated and unmanned sentinel of the past that continues to provide safe passage to ships today.</p> <p>Learn about <a href=\"https://www.nps.gov/articles/000/passage-island-lighthouse.htm\">the history of the Passage Island Lighthouse</a>.</p> <p>Explore the <a href=\"https:///www.nps.gov/isro/learn/historyculture/index.htm\">History & Culture of Isle Royale National Park</a>.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.1920399661467,
+          47.8421439636036
+        ]
+      },
+      "properties": {
+        "name": "Rainbow Cove",
+        "notes": "Rainbow Cove\nhttps://www.nps.gov/places/rainbow-cove.htm\n\n<p>Rainbow Cove is located on the west end of Isle Royale National Park. Access is available via the 0.8 of a mile access trail from the Feldtmann Lake Campground, kayak/canoe, or private vessel. The entire cove is covered in rocks. On a clear day, the Rock of Ages Lighthouse and Minnesota shoreline can be viewed from the beach. This remote beach is a picturesque sunset destination. <br /> <br /> <strong>Found Nearby</strong></p> <ul> <li>Feldtmann Lake Campground (0.8 miles away)</li> <li><a href=\"https://www.nps.gov/places/feldtmann-tower.htm\">Feldtmann Tower</a> (5.6 miles away)</li> <li><a href=\"https://www.nps.gov/isro/planyourvisit/windigo.htm\">Windigo </a>Area (8.5 miles away)</li> <li><a href=\"https://www.nps.gov/places/rock-of-ages-lighthouse.htm\">Rock of Ages Lighthouse </a></li> </ul>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.56372096245416,
+          47.123330716640105
+        ]
+      },
+      "properties": {
+        "name": "Ranger III",
+        "notes": "Ranger III\nhttps://www.nps.gov/places/ranger-iii.htm\n\n<h4>About</h4> <p>The <em>Ranger III</em> is a passenger and freight ferry operated by Isle Royale National Park. The <em>Ranger III </em>makes passenger trips from Houghton, Michigan to Rock Harbor on Isle Royale. The <em>Ranger III </em>takes approximately 6 hours to cross Lake Superior each way. The <em>Ranger III</em> has made over 4,000 Lake Superior crossings throughout its history. Each of these voyages brought supplies and family connections to island rangers, and visitors whose park memories began when they first stepped aboard. Learn more about the largest operating vessel in the National Park Service, <em><a href=\"https://www.nps.gov/isro/planyourvisit/ranger-iii-info.htm\">The Ranger III</a>.</em> </p> <h4>Schedule</h4> <p>Passenger service is offered from the end of May through early September annually. See the current <em>Ranger III </em><a href=\"https://www.nps.gov/isro/planyourvisit/ranger-iii-info.htm\">schedule</a>. </p> <h4>Reservations</h4> <p><em>Ranger III</em> reservations can be made <a href=\"https://www.nps.gov/isro/planyourvisit/ranger-iii-reservations-for-2021.htm\">online </a>before your trip. <br />  </p> <h4>Park Newspaper</h4> <p>Utilize the park's newspaper, <em><a href=\"https://www.nps.gov/isro/greenstone-newspaper.htm\">The Greenstone</a></em>, for all of your transportation and trip planning needs. </p> <p><span style=\"display: none;\"> </span><span style=\"display: none;\"> </span><span style=\"display: none;\"> </span><span style=\"display: none;\"> </span><span style=\"display: none;\"> </span><span style=\"display: none;\"> </span><span style=\"display: none;\"> </span><span style=\"display: none;\"> </span> </p> <p> </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.4863989760311,
+          48.1460663208327
+        ]
+      },
+      "properties": {
+        "name": "Rock Harbor Comfort Station",
+        "notes": "Rock Harbor Comfort Station\nhttps://www.nps.gov/places/rock-harbor-comfort-station.htm\n\n<p>The Rock Harbor Comfort Station is found on the east end of Isle Royale National Park. Flush toilets and running water are open to the public seasonally. Shower and laundry services are available for an extra fee. Shower and laundry tokens can be purchased through the Rock Harbor Camp Store. </p> <h4><strong>Found Nearby</strong></h4> <ul> <li> <p><a href=\"https://www.nps.gov/isro/planyourvisit/rock-harbor.htm\">Rock Harbor</a> Visitor Center</p> </li> <li> <p>Rock Harbor Camp Store</p> </li> <li> <p>Rock Harbor Campground</p> </li> <li> <p>Rock Harbor Lodge</p> </li> <li> <p>Rock Harbor Marina</p> </li> <li> <p>Rock Harbor Trail</p> </li> <li> <p>Tobin Harbor Trail</p> </li> </ul>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.57957314996158,
+          48.09014244303254
+        ]
+      },
+      "properties": {
+        "name": "Rock Harbor Lighthouse",
+        "notes": "Rock Harbor Lighthouse\nhttps://www.nps.gov/places/rock-harbor-lighthouse.htm\n\n<p>Although no longer illuminated, the Rock Harbor Light at the southwest entrance to Rock Harbor is the most viewed and visited lighthouse. Completed in 1855, it features a 50-foot white round brick tower with a black lantern. The tower is attached to a keep's house that now serves as a museum. A Fourth Order Fresnel Lens once sent out a beacon of light for 15 miles across the lake. In 1859, as copper mining declined, the Rock Harbor Light was shut down, but the light was rekindled in 1874 when copper mining resurged. In 1879, it was permanently closed, but remains a popular tour stop for visitors today.</p> <p>Learn about <a href=\"https://www.nps.gov/articles/000/rock-harbor-lighthouse.htm\">the history of the Rock Harbor Lighthouse</a>.</p> <p>Explore the <a href=\"https://www.nps.gov/isro/learn/historyculture/index.htm\">History & Culture of Isle Royale National Park</a>.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.48326444625854,
+          48.145100173636706
+        ]
+      },
+      "properties": {
+        "name": "Rock Harbor Lodge",
+        "notes": "Rock Harbor Lodge\nhttps://www.nps.gov/places/rock-harbor-lodge.htm\n\n<p>The Rock Harbor Lodge complex is the only full-service lodging facility on the island. The Rock Harbor Lodge is located on the northeastern end of Isle Royale National Park in Rock Harbor. Facilities and services are available seasonally (typically June-September). Services include lodge rooms, housekeeping rooms, gift shop and dockside store, dining room and Greenstone Grill, Rock Harbor Marina, water taxi, fishing and sightseeing charters, and motor boat, kayak, and canoe rentals.<br /> <br /> <b>Found Nearby</b></p> <ul> <li><a href=\"https://www.nps.gov/isro/planyourvisit/rock-harbor.htm\">Rock Harbor </a>Visitor Center</li> <li><a href=\"https://www.nps.gov/places/rock-harbor-store.htm\">Rock Harbor Store</a></li> <li>Rock Harbor Campground</li> <li><a href=\"https://www.nps.gov/places/rock-harbor-comfort-station.htm\">Rock Harbor Comfort Station</a></li> <li><a href=\"https://www.nps.gov/places/rock-harbor-marina.htm\">Rock Harbor Marina </a></li> </ul>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.48576426506042,
+          48.14598069577162
+        ]
+      },
+      "properties": {
+        "name": "Rock Harbor Marina",
+        "notes": "Rock Harbor Marina\nhttps://www.nps.gov/places/rock-harbor-marina.htm\n\n<p>The Rock Harbor Marina is located in the heart of Rock Harbor, on the northeastern end of Isle Royale National Park. Private vessels may stay overnight for an extra fee. The Rock Harbor Marina has 450’ of dock space and accommodates boats up to 65’. Services available: electrical and fresh water hook-ups, sewage pump-out service, gasoline, and diesel fuel. Canoe, kayak, and motorboat half-day or full day rentals are also available at the marina. Private boats in park waters need to pay <a href=\"https://www.nps.gov/isro/planyourvisit/fees.htm\">daily fees</a> and acquire a <a href=\"https://www.nps.gov/isro/planyourvisit/boater-permit-request.htm\">boating permit</a> from any Visitor Center or online. </p> <h4><strong>Found Nearby</strong></h4> <ul> <li> <p><a href=\"https://www.nps.gov/isro/planyourvisit/rock-harbor.htm\">Rock Harbor</a> Visitor Center</p> </li> <li> <p><a href=\"https://www.nps.gov/places/rock-harbor-store.htm\">Rock Harbor Store</a></p> </li> <li> <p><a href=\"https://www.nps.gov/places/rock-harbor-lodge.htm\">Rock Harbor Lodge</a></p> </li> <li> <p>Rock Harbor Trail</p> </li> <li> <p>Tobin Harbor Trail</p> </li> </ul>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.48639905458185,
+          48.145907916132266
+        ]
+      },
+      "properties": {
+        "name": "Rock Harbor Store",
+        "notes": "Rock Harbor Store\nhttps://www.nps.gov/places/rock-harbor-store.htm\n\n<p>The Rock Harbor Store is located on the main dock in Rock Harbor, on the east end of Isle Royale National Park. Store offers camping, hiking, and boating supplies, groceries, freeze-dried foods, fishing tackle, <a href=\"https://www.nps.gov/isro/planyourvisit/fuels-and-stoves.htm\">stove fuel</a>, showers, and laundry. Dockside store open seasonally from 5/22 through 9/11. <br /> <br /> <strong>Found Nearby</strong></p> <ul> <li> <p><a href=\"https://www.nps.gov/isro/planyourvisit/rock-harbor.htm\">Rock Harbor</a> Visitor Center</p> </li> <li> <p><a href=\"https://www.nps.gov/places/rock-harbor-marina.htm\">Rock Harbor Marina</a></p> </li> <li> <p>Rock Harbor Campground</p> </li> <li> <p><a href=\"https://www.nps.gov/places/rock-harbor-lodge.htm\">Rock Harbor Lodge</a></p> </li> </ul>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.31439650416002,
+          47.86680593798931
+        ]
+      },
+      "properties": {
+        "name": "Rock of Ages Lighthouse",
+        "notes": "Rock of Ages Lighthouse\nhttps://www.nps.gov/places/rock-of-ages-lighthouse.htm\n\n<p>Just outside Washington Harbor stands the Rock of Ages Light, which began operation in 1908. The 117-foot white cylinder-shaped lighthouse is composed of steel, concrete, and brick, with a black base and lantern. To build this lighthouse on a 50-foot by 200-foot rocky outcrop was a tribute to the engineering of the time. In 1909, a Second Order Fresnel lens replaced the first, temporary Third Order fixed red light. Today, the unmanned lighthouse features a 300 mm Tideland Signal Acrylic Optic lens that runs on solar power. You can view the stunning old Second Order Fresnel lens at the Windigo Visitor Center.</p> <p>Learn about <a href=\"https://www.nps.gov/articles/000/rock-of-ages-lighthouse.htm\">the history of the Rock of Ages Lighthouse</a>.</p> <p>Explore the <a href=\"https:///www.nps.gov/isro/learn/historyculture/index.htm\">History & Culture of Isle Royale National Park</a>.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.65224265943107,
+          47.96249484813405
+        ]
+      },
+      "properties": {
+        "name": "Sea Hunter III",
+        "notes": "Sea Hunter III\nhttps://www.nps.gov/isro/planyourvisit/sea-hunter-iii.htm\n\n<h4>About</h4> <p>The <em><a href=\"https://www.nps.gov/isro/planyourvisit/sea-hunter-iii.htm\">Sea Hunter III</a></em> is a 65' foot twin diesel vessel that provides passenger service to Isle Royale National Park. It operates between Grand Portage, MN and Windigo, MI on the southwest end of the island. There is no car ferry service. Day-trip and overnight visits are offered. Grand Portage, MN is in the central time zone, and the <em>Sea Hunter III </em>schedule operates on central time. Isle Royale National Park is in the eastern time zone, and operates on eastern time. It is recommended to stay on central time during your trip.<br />  </p> <p>Throughout the operating season the <em>Sea Hunter III's </em>schedule varies; it typically operates from mid-June through Labor Day.</p> <ul> <li>The <em>Sea Hunter III</em> departs Grand Portage, MN at 8:30 am CDT / 9:30 am EDT and arrives at Windigo at 10:00 am CDT / 11:00 am EDT.</li> <li>Visitors on the day-trip have four hours to explore the west end of the park.</li> <li>The <em>Sea Hunter II</em><em>I</em> departs Windigo at 2:00 pm CDT / 3:00 pm EDT and arrives at Grand Portage, MN at 3:30 pm CDT / 4:30 pm EDT.</li> </ul> <h4>Reservations</h4> <p>For additional schedule, fare information, or to make a reservation, please visit the <a href=\"http://www.isleroyaleboats.com/\"><em>Sea Hunter III </em>website</a>.</p> <h4>Park Entrance Fees</h4> A per person <a href=\"https://www.nps.gov/isro/planyourvisit/fees.htm\">daily entrance fee</a> is required to enter and remain in the park. <a href=\"https://www.nps.gov/isro/planyourvisit/pay-fees-online.htm\">Pay fees online</a> prior to your trip. <h4>Park Newspaper</h4> <p>Utilize the park's newspaper, <em><a href=\"https://www.nps.gov/isro/greenstone-newspaper.htm\">The Greenstone</a></em>, for all of your transportation and trip planning needs. </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.51422786712646,
+          48.13189530268534
+        ]
+      },
+      "properties": {
+        "name": "Suzy's Cave",
+        "notes": "Suzy's Cave\nhttps://www.nps.gov/places/suzy-s-cave.htm\n\n<p>Suzy's Cave is located on the east end of Isle Royale National Park. It is a popular short hike from the Rock Harbor area. Suzy’s Cave includes an inland sea arch formed by wave action some 4000 years ago when water levels were higher. The cave is located between Three Mile Campground and Rock Harbor. Rock Harbor can be accessed via the Tobin Harbor Trail or the Rock Harbor Trail. The 1.8 mile Rock Harbor Trail is difficult and includes rocks and roots, tread carefully. The 1.8 mile Tobin Harbor Trail is significantly smoother. There is a .2 mile spur trail that connects the two trails to Suzy’s Cave.</p> <h4><strong>Found Nearby</strong></h4> <ul> <li> <p>Three Mile Campground (1.8 miles away)</p> </li> <li><a href=\"https://www.nps.gov/isro/planyourvisit/rock-harbor.htm\">Rock Harbor</a> Area (1.8 miles away)</li> </ul>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.65099907008698,
+          47.96258599762261
+        ]
+      },
+      "properties": {
+        "name": "Voyageur II",
+        "notes": "Voyageur II\nhttps://www.nps.gov/isro/planyourvisit/voyageur-ii.htm\n\n<h4>About</h4> <p>The <em><a href=\"https://www.nps.gov/isro/planyourvisit/voyageur-ii.htm\">Voyageur II</a> </em>is a 65' twin engine diesel vessel that provides mail and passenger service to Isle Royale National Park. It operates between Grand Portage, Minnesota and numerous drop-off and pick-up locations along the north and south shores of the island. Overnight visits are offered. There is no car ferry service. The <em>Voyageur II</em> runs on central time, whereas Isle Royale National Park is on eastern time; it is recommended to stay on central time during your trip.</p> <h4>Schedule</h4> <p>Throughout the season the vessel's schedule varies; it typically operates from early May through early October. The <em>Voyageur II</em> typically provides service around Isle Royale every two days, staying overnight in Rock Harbor. It does not operate on Fridays.</p> <p><u>Outbound Schedule</u></p> <ul> <li><strong>Depart:</strong> Grand Portage, MN: 7:30 am CDT / 8:30 am EDT</li> <li><strong>Arrive:</strong> Windigo, Isle Royale : 9:30 am CDT / 10:30 am EDT</li> <li><strong>Depart:</strong> Windigo, Isle Royale: 10:00 am CDT / 11:00 am EDT</li> <li><strong>Arrive and Depart</strong>: McCargoe Cove, Isle Royale: 1:00 pm CDT / 2:00 p.m. EDT</li> <li><strong>Arrive and Depart:</strong> Belle Isle, Isle Royale: 1:30 pm CDT / 2:30 pm EDT</li> <li><strong>Arrive:</strong> Rock Harbor, Isle Royale: 3:00 pm CDT / 4:00 pm EDT</li> </ul> <p><u>Inbound Schedule</u></p> <ul> <li> <p><strong>Depart:</strong> Rock Harbor, Isle Royale: 8:00 am CDT / 9:00 am EDT</p> </li> <li><strong>Depart and Arrive:</strong> Daisy Farm, Isle Royale: 8:30 am CDT / 9:30 am EDT</li> <li><strong>Depart and Arrive:</strong> Chippewa Harbor, Isle Royale: 9:00 am CDT / 10:00 am EDT</li> <li><strong>Depart and Arrive:</strong> Malone Bay, Isle Royale: 10:00 am CDT / 11:00 am EDT</li> <li><strong>Arrive:</strong> Windigo, Isle Royale: 12:30 pm CDT / 1:30 pm EDT</li> <li><strong>Depart:</strong> Windigo, Isle Royale: 1:00 pm CDT / 2:00 pm EDT</li> <li><strong>Arrive:</strong> Grand Portage, MN: 3:00 pm CDT / 4:00 pm EDT</li> </ul> <p>Stops at McCargoe Cove, Daisy Farm, Chippewa Harbor, and Malone Bay only occur when pick-ups and drop-offs are arranged ahead of time.</p> <h4>Reservations</h4> <p>For additional schedule, fare information, or to make reservations, please visit the<em> </em><a href=\"http://www.isleroyaleboats.com/\"><em>Voyageur II</em> website</a>.</p> <h4>Park Entrance Fees</h4> A per person daily <a href=\"https://www.nps.gov/isro/planyourvisit/fees.htm\">entrance fee</a> is required to enter and remain in the park. <a href=\"https://www.nps.gov/isro/planyourvisit/pay-fees-online.htm\">Pay fees online</a> prior to your trip. <h4>Park Newspaper</h4> <p>Utilize the park's newspaper, <em><a href=\"https://www.nps.gov/isro/greenstone-newspaper.htm\">The Greenstone</a></em>, for all of your transportation and trip planning needs. </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.15690124034882,
+          47.91127359875104
+        ]
+      },
+      "properties": {
+        "name": "Windigo Camper Cabins",
+        "notes": "Windigo Camper Cabins\nhttps://www.nps.gov/places/windigo-camper-cabins.htm\n\n<p>The Windigo Camper Cabins are found on the west end of Isle Royale National Park in Windigo. Two cabins ran by Isle Royale Resorts are available for reservation. Each cabin accommodates up to six people. Cabins are furnished with table, chairs, full size futon, bunk beds with mattresses, electrical outlets and lighting. Each cabin has a picnic table and propane grill. Water spigot and privy are nearby. </p> <h4><strong>Found Nearby</strong></h4> <ul> <li><a href=\"https://www.nps.gov/isro/planyourvisit/windigo.htm\">Windigo </a>Visitor Center</li> <li>Windigo Camp Store</li> <li><a href=\"https://www.nps.gov/places/windigo-marina.htm\">Windigo Marina</a></li> </ul>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.15724456310272,
+          47.91223602953947
+        ]
+      },
+      "properties": {
+        "name": "Windigo Comfort Station",
+        "notes": "Windigo Comfort Station\nhttps://www.nps.gov/places/windigo-comfort-station.htm\n\n<p>The Windigo Comfort Station offers bathroom services in Windigo on the west end of Isle Royale National Park. Flush toilets and running water are open to the public seasonally. Showers and laundry services are offered for an extra fee. Shower and laundry tokens can be purchased through the Windigo Camp Store. </p> <h4><strong>Found Nearby</strong></h4> <ul> <li><a href=\"https://www.nps.gov/isro/planyourvisit/windigo.htm\">Windigo Visitor</a> Center</li> <li>Windigo Camp Store</li> <li>Windigo Marina</li> <li>Washington Creek Campground</li> <li>Washington Harbor</li> <li>Feldtmann Lake Trail</li> <li>Greenstone Ridge Trail</li> <li>Minong Ridge Trail</li> </ul>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.15778100474199,
+          47.912071830260764
+        ]
+      },
+      "properties": {
+        "name": "Windigo Marina",
+        "notes": "Windigo Marina\nhttps://www.nps.gov/places/windigo-marina.htm\n\n<p>The Windigo<a href=\"https://www.nps.gov/isro/planyourvisit/windigo.htm\"> </a>Marina is located on the southwestern end of Isle Royale within Washington Harbor, 22 miles from the Minnesota shoreline. This dock is accessible from Grand Portage Marina via the <em>Sea Hunter</em>, <em>Voyager II</em>, or private boat. The consecutive night stay limit is five nights effective from June 1st - Labor Day annually. Wildlife sightings are common here. Enjoy the magic of the west end with Washington Harbor sunsets. Private boats in park waters need to pay <a href=\"https:///www.nps.gov/isro/planyourvisit/fees.htm\">daily fees</a> and acquire a <a href=\"https:///www.nps.gov/isro/planyourvisit/boater-permit-request.htm\">boating permit</a> from any Visitor Center or online. Services available: gasoline and diesel fuel, sewage pump-out, and motorboat, canoe, and kayak rentals. </p> <h4><strong>Found Nearby</strong></h4> <ul> <li><a href=\"https://www.nps.gov/isro/planyourvisit/windigo.htm\">Windigo </a>Visitor Center</li> <li><a href=\"https://www.nps.gov/places/windigo-comfort-station.htm\">Windigo Comfort Station</a></li> <li>Windigo Camp Store</li> <li>Washington Creek Campground</li> <li>Windigo Moose Exclosure</li> </ul>",
+        "icon": "red-pin-down.png"
+      }
+    }
+  ]
+}

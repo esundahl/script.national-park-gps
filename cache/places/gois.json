@@ -1,0 +1,71 @@
+[
+  {
+    "id": "7F3E9640-4497-4372-8212-46F3308FB9EB",
+    "url": "https://www.nps.gov/places/castle-williams.htm",
+    "title": "Castle Williams",
+    "listingDescription": "Built in 1811 to defend New York against foreign navies, Castle Williams would later play a role in defending the nation against domestic enemies. Castle Williams never heard a shot fired in anger, but it was used for training and organizing troops who would take the war to the Confederacy, and housed hundreds of Confederate prisoners within its massive walls.",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/places/images/nri/subject/civilwar/CBEFA0ED-9B21-4045-7C0BB940971FD13B/CBEFA0ED-9B21-4045-7C0BB940971FD13B.jpg",
+        "credit": "",
+        "altText": "Photo of Seaward side of Castle Williams on Governors Island, New York",
+        "title": "Photo of Seaward side of Castle Williams on Governors Island, New York",
+        "description": "Seaward side of Castle Williams on Governors Island, New York",
+        "caption": "Seaward side of Castle Williams on Governors Island, New York",
+        "crops": []
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "NY",
+        "parkCode": "gois",
+        "designation": "National Monument",
+        "fullName": "Governors Island National Monument",
+        "url": "https://www.nps.gov/gois/index.htm",
+        "name": "Governors Island"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [
+      "Civil War"
+    ],
+    "latitude": "40.692832",
+    "longitude": "-74.019321",
+    "latLong": "40.692832,-74.019321",
+    "bodyText": "<p>Castle Williams is a circular defensive work of red sandstone on the west point of Governors Island in New York Harbor. It was designed and erected between 1807 and 1811. Named after its designer, Chief Engineer of the U.S. Army Corps of Engineers, Lt. Col. Jonathan Williams, it is considered a prototype for new forms of coastal fortification. <br> <br> The castle was one component of a larger defensive system for the inner harbor that included Fort Jay and the South Battery on Governors Island, Castle Clinton at the tip of Manhattan, Fort Gibson at Ellis Island (then Oyster Island), and Fort Wood, which is now the base of Liberty Enlightening the World at Liberty Island (then Bedloe's Island). This system of forts came to be known as the Second American System of coastal defense and existed to protect harbors like the one in New York from British interference with American shipping. <br> <br> The usefulness of Castle Williams as a fort began to wane in the 1830s, so it subsequently served as barracks for the island's garrison and new and transient troops. Thereafter, the castle was remodeled by the U.S. Army for use as a prison in various forms during the Civil War and through the first half of the 20th century.<br> <br> By 1903, the castle was fitted up as a state-of-the-art prison facility. Castle Williams ceased operations as a military prison in 1965 just before the U.S. Army left Governors Island.<br> <br> The castle again faced a demolition challenge as Coast Guard officials in Washington, D.C., who took control of Governors Island in 1966, wanted to demolish it. Instead, the castle was remodeled as a youth community center with a nursery, meeting rooms for Scouts and clubs, a woodworking shop, art studios, a photography laboratory, and a museum. By the late 1970s the community center moved to another location and the fort became the groundskeeping shop for the Coast Guard base.<br> <br> Over time, the roof failed and broken windows allowed serious water damage to occur inside the castle. In the mid-1990s, the roof was replaced and new windows stopped further water damage to the structure, but the interior remains closed until it can be made safe for public access. The National Park Service proposes to stabilize and restore the castle and eventually provide access to the roof, allowing the public to admire the harbor and the modern skyline of the great city this fortress once protected.</p>",
+    "audioDescription": "",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "",
+    "isOpenToPublic": "0",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "c8641e5c-c026-4d13-a693-483153c599c6",
+    "isManagedByNps": "0",
+    "amenities": [],
+    "managedByOrg": "",
+    "quickFacts": [
+      {
+        "id": "5c252b96-2deb-4ef4-91d1-b5d2b202fcd7",
+        "value": "New York, NY",
+        "name": "Location"
+      },
+      {
+        "id": "208f1b3c-44dc-4cf5-9a61-9b26a364d701",
+        "value": "Built before the War of 1812, Castle Williams was a prison during the Civil War",
+        "name": "Significance"
+      },
+      {
+        "id": "e32d2136-a184-4c1a-91d2-4c20cef9cbaf",
+        "value": "National Park , National Historic Landmark, National Register of Historic Places, HABS/HAER/HALS",
+        "name": "Designation"
+      }
+    ],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  }
+]

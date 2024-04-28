@@ -1,0 +1,80 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.18114113807678,
+          36.481454151316335
+        ]
+      },
+      "properties": {
+        "name": "Bear Gulch Parking Lot",
+        "notes": "Bear Gulch Parking Lot\nhttps://www.nps.gov/places/bear-gulch-parking-lot.htm\n\nThis is the main parking lot in the Bear Gulch Day Use Area at Pinnacles National Park. There are about 65 spots here that often will fill early on a busy weekend morning. It is also one of the stops for the park shuttle when it is running seasonally in the spring. ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.187524845061,
+          36.472883116471955
+        ]
+      },
+      "properties": {
+        "name": "Bear Gulch Reservoir",
+        "notes": "Bear Gulch Reservoir\nhttps://www.nps.gov/places/bear-gulch-reservoir.htm\n\nOne of Pinnacle's most iconic sights, the dam creating Bear Gulch Reservoir was completed in 1935 by the Civilian Conservation Corps. Created to prevent flooding down stream but mainly for its aesthetic value, the reservoir is still a highlight for visitors, surrounded by Pinnacle's rock formations. This is a great spot to have lunch or watch the sunset. To get there, hike one mile up the Moses Spring trail from the Moses Spring Trailhead. Depending on the time of year, you can go through another park highlight, the Bear Gulch caves, on your way. Make this hike a loop by returning on the Rim Trail. The reservoir is important habitat for the red legged frog, a threatened species in California.  ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.13738537642348,
+          36.512545059606275
+        ]
+      },
+      "properties": {
+        "name": "East Entrance Station",
+        "notes": "East Entrance Station\nhttps://www.nps.gov/places/east-entrance-station.htm\n\nThe East Entrance Station is accessible from CA HWY 25 to East Entrance Road. This entrance into the park is open 24 hours and is the entrance for the Pinnacles Campground. Upon entry you will get a brochure and park information. Pay entrance fees, provide a physical park pass, or find one that is right for you. See our <a href=\"https://www.nps.gov/pinn/planyourvisit/fees.htm\">fees and passes</a> page for more information. Sometimes the fee booth is closed, you may be asked to show your pass or pay the entrance fee on the way out.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.18653774261475,
+          36.475531823345975
+        ]
+      },
+      "properties": {
+        "name": "Moses Spring",
+        "notes": "Moses Spring\nhttps://www.nps.gov/places/moses-spring.htm\n\nThis is a spot on the Moses Spring Trail where water comes directly out of the rock wall. As appealing as it looks please do not drink the water as it may contain naturally occurring contaminants ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.22645657471394,
+          36.477136787461376
+        ]
+      },
+      "properties": {
+        "name": "Pinnacles West Entrance Station",
+        "notes": "Pinnacles West Entrance Station\nhttps://www.nps.gov/places/pinnacles-west-entrance-station.htm\n\nThe West Entrance Station is accessible from HWY 101 to CA 146. This entrance into the park is open for Day Use only and open from 7:30AM to 8PM. Upon entry you will get a brochure and park information. Pay entrance fees, provide a physical park pass, or find one that is right for you. See our <a href=\"https://www.nps.gov/pinn/planyourvisit/fees.htm\">fees and passes</a> page for more information. Sometimes the fee booth is closed, you may be asked to show your pass or pay the entrance fee on the way out.",
+        "icon": "red-pin-down.png"
+      }
+    }
+  ]
+}

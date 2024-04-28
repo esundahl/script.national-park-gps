@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.042867,
+          38.891087
+        ]
+      },
+      "properties": {
+        "name": "56 Signers of the Declaration of Independence Memorial",
+        "notes": "56 Signers of the Declaration of Independence Memorial\nhttps://www.nps.gov/places/000/56-signers-of-the-declaration-of-independence-memorial.htm\n\n<p>Constitution Gardens was built in part to commemorate the bicentennial of American independence, and this memorial on Signers Island honors the men who risked everything to sign the Declaration of Independence. Granite stones include facsimiles of their signatures, the location of their homes, and their occupations.<br /> <br /> Designer: EDAW, Inc.<br /> <br /> Inscriptions<br /> Bridge, land side<br /> A MEMORIAL TO THE 56 SIGNERS OF THE DECLARATION OF INDEPENDENCE<br /> A GIFT FROM<br /> THE AMERICAN REVOLUTION<br /> BICENTENNIAL ADMNISTRATION<br /> 1976<br /> Bridge, island side<br /> In CONGRESS, July 4, 1776.<br /> The unanimous Declaration of the thirteen united States of America,<br /> An inscription at the south end of the walk reads:<br /> And for the support of this Declaration, with a firm reliance on the protection of divine Providence, we mutually pledge to each other<br /> our Lives,<br /> our Fortunes<br /> and our sacred Honor.<br /> Name panels<br /> BUTTON GWINNETT<br /> PLANTER - ST. CATHERINE'S ISLAND<br /> LYMAN HALL<br /> PHYSICIAN - MIDWAY<br /> GEORGE WALTON<br /> LAWYER - SAVANNAH<br /> THOMAS HEYWARD, JR.<br /> LAWYER - ST. HELENA'S PARISH<br /> THOMAS LYNCH, JR.<br /> PLANTER - ST. JAMES PARISH<br /> ARTHUR MIDDLETON<br /> PLANTER - ST. ANDREW'S PARISH<br /> EDWARD RULEDGE<br /> LAWYER - CHARLES TOWN<br /> JOHN PENN<br /> LAWYER - STOVALL<br /> JOSEPH HEWES<br /> MERCHANT - EDENTON<br /> WILIAM HOOPER<br /> LAWYER - WILMINGTON<br /> BENJAMIN HARRISON<br /> PLANTER - CHARLES CITY COUNTY<br /> GEORGE WYTHE<br /> LAWYER - WILLIAMSBURG<br /> CARTER BRAXTON<br /> PLANTER - KING WILLIAM COUNTY<br /> RICHARD HENRY LEE<br /> PLANTER - WESTMORELAND COUNTY<br /> THOMAS JEFFERSON<br /> LAWYER - ALBEMARLE COUNTY<br /> THOMAS NELSON, JR.<br /> PLANTER - YORKTOWN<br /> FRANCIS LIGHTFOOT LEE<br /> PLANTER - RICHMOND COUNTY<br /> SAMUEL CHASE<br /> LAWYER - ANNAPOLIS<br /> CHARLES CARROLL OF CARROLLTOWN<br /> LANDOWNER - HOWARD COUNTY<br /> THOMAS STONE<br /> LAWYER - CHARLES COUNTY<br /> WILLIAM PACA<br /> LAWYER - ANNAPOLIS<br /> CAESAR RODNEY<br /> PLANTER - DOVER<br /> GEORGE READ<br /> LAWYER - NEW CASTLE<br /> THOMAS McKEAN<br /> LAWYER NEW CASTLE<br /> ROBERT MORRIS<br /> MERCHANT - PHILADELPHIA<br /> BENJAMIN FRANKLIN<br /> STATESMAN - PHILADELPHIA<br /> JAMES WILSON<br /> LAWYER - CARLISLE<br /> JOHN MORTON<br /> SURVEYOR - RIDLEY<br /> BENJAMIN RUSH<br /> PHYSICIAN - PHILADLEPHIA<br /> GEORGE ROSS<br /> LAWYER - LANCASTER<br /> GEORGE CLYMER<br /> MERCHANT - PHILADELPHIA<br /> GEORGE TAYLOR<br /> IRONMASTER - EASTON<br /> JAMES SMITH<br /> LAWYER - YORK<br /> RICHARD STOCKTON<br /> LAWYER - PRINCETON<br /> JOHN HART<br /> FARMER - HOPEWELL<br /> JOHN WITHERSPOON<br /> CLERGYMAN - PRINCETON<br /> FRANCIS HOPKINSON<br /> WRITER - BORDENTOWN<br /> ABRAHAM CLARK<br /> POLITICIAN - ELIZABETHTOWN<br /> LEWIS MORRIS<br /> LANDOWNER - MORRISANIA<br /> FRANCIS LEWIS<br /> MERCHANT - WHITESTONE<br /> WILLIAM FLOYD<br /> FARMER - BROOKHAVEN<br /> PHILIP LIVINGSTON<br /> MERCHANT - NEW YORK CITY<br /> ROGER SHERMAN<br /> JUDGE - NEW HAVEN<br /> WILLIAM WILLIAMS<br /> MERCHANT - LEBANON<br /> OLIVER WOLCOTT<br /> JUDGE - LITCHFIELD<br /> SAMUEL HUNTINGTON<br /> JUDGE - NORWICH<br /> WILLIAM ELLERY<br /> LAWYER - NEWPORT<br /> STEPHEN HOPKINS<br /> MERCHANT - PROVIDENCE<br /> ROBERT TREAT PAINE<br /> LAWYER - TAUNTON<br /> SAMUEL ADAMS<br /> POLITICIAN - BOSTON<br /> JOHN ADAMS<br /> LAWYER - BRAINTREE<br /> JOHN HANCOCK<br /> MERCHANT - BOSTON<br /> ELBRIDGE GERRY<br /> MERCHANT - MARBLEHEAD<br /> MATTHEW THORNTON<br /> PHYSICIAN<br /> LONDONDERRY<br /> JOSIAH BARTLETT<br /> PHYSICIAN - KINGSTON<br /> WILLIAM WHIPPLE<br /> MERCHANT - PORTSMOUTH<br /> Colonies<br /> GEORGIA<br /> SOUTH CAROLINA<br /> NORTH CAROLINA<br /> VIRGINIA<br /> MARYLAND<br /> DELAWARE<br /> INDEPENDENCE HALL<br /> PHILADELPHIA, PENNSYLVANIA<br /> NEW JERSEY<br /> NEW YORK<br /> CONNECTICUT<br /> RHODE ISLAND<br /> MASSACHUSETTS<br /> NEW HAMPSHIRE</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.044738,
+          38.890632
+        ]
+      },
+      "properties": {
+        "name": "Concessions - Constitution Gardens",
+        "notes": "Concessions - Constitution Gardens\nhttps://www.nps.gov/places/000/concessions-constitution-gardens.htm\n\n<p>Food may be puchased at this kiosk, run by a concessionaire to the National Park Service, Guest Services, Inc. Restrooms are nearby to the west.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0447227869,
+          38.8906194597
+        ]
+      },
+      "properties": {
+        "name": "Constitution Gardens",
+        "notes": "Constitution Gardens\nhttps://www.nps.gov/places/000/constitution-gardens.htm\n\n<p>Constitution Gardens was built to commemorate the bicentennial of American independence as well as to the document that established the United States' governement, as we know it today.<br /> <br /> Inscriptions<br /> Plaque, north of bridge<br /> A MEMORIAL TO THE 56 SIGNERS OF THE DECLARATION OF INDEPENDENCE<br /> A GIFT FROM<br /> THE AMERICAN REVOLUTION<br /> BICENTENNIAL ADMINISTRATION<br /> 1976</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.022999,
+          38.889611
+        ]
+      },
+      "properties": {
+        "name": "National Mall and Memorial Parks",
+        "notes": "National Mall and Memorial Parks\nhttps://www.nps.gov/places/crnama.htm\n\n<p>Officially established in 1965, National Mall and Memorial Parks contains some of the oldest protected park lands in the National Park Service. The sprawling lands include the Mall, the public promenade extending from 3rd Street near the Capitol to 14th Street. The National Mall is the continuation of that space where congressionally authorized park icons, such as the Washington Monument, WWII and Lincoln Memorials stand. This historic expanse is the linear area between the Potomac River and Capital Reflecting Pool. In addition to the memorial core, the park includes some 156 reservations, circles, fountains and other open spaces, all of which serve as the nation’s front yard. Ford’s Theatre, The House where Lincoln died, Potomac Park, Hains Point and Pennsylvania Avenue NHS are also among the park managed areas that constitute National Mall and Memorial Parks.</p> <p>Having over 1,000 acres of National Park Service managed land at the heart of our nation’s capital, National Mall and Memorial Parks provides visitors with abundant opportunities to get in touch with our heritage. With everything from colossal monuments to commemorative gardens, from presidential inaugurals to civil rights demonstrations, National Mall and Memorial Parks hosts history in the making. Numerous First Amendment activities and special events are held in the park each year to honor the courage, sacrifice and devotion to duty of war veterans; celebrate the United States commitment to freedom, equality and democratic ideals; and enjoy symbolic architecture, historic vistas and renowned natural landscapes. </p>",
+        "icon": "red-pin-down.png"
+      }
+    }
+  ]
+}

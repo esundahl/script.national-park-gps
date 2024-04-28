@@ -1,0 +1,742 @@
+[
+  {
+    "id": "E3461156-1F39-4663-9469-2956D3995FD6",
+    "url": "https://www.nps.gov/places/fossil-butte.htm",
+    "title": "Fossil Butte",
+    "listingDescription": "",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/33B05824-9172-19D7-EC4C23AB62273FD2.jpg",
+        "credit": "NPS Photo",
+        "altText": "Fossil Butte with blue sky and fluffy white clouds above. There is sagebrush in the foreground.",
+        "title": "Fossil Butte",
+        "description": "",
+        "caption": "The park was named after Fossil Butte.",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/33B05824-9172-19D7-EC4C23AB62273FD2.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/33B05824-9172-19D7-EC4C23AB62273FD2.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "WY",
+        "parkCode": "fobu",
+        "designation": "National Monument",
+        "fullName": "Fossil Butte National Monument",
+        "url": "https://www.nps.gov/fobu/index.htm",
+        "name": "Fossil Butte"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [],
+    "latitude": "41.84456509286266",
+    "longitude": "-110.74347496032715",
+    "latLong": "41.84456509286266,-110.74347496032715",
+    "bodyText": "A butte is a hill with steep sides and a flat top. Fossil Butte is named after the fossils that can be found in its top layers of rock.<br /> <br /> Fossil Butte sits just behind the visitor center and can be seen from the park road. While it appears to be a butte from these locations, it is actually a ridge that extends down along the county road. The Historic Quarry Trail takes you up this side of Fossil Butte nearly to the top. ",
+    "audioDescription": "Fossil Butte is a very large butte (an isolated hill with steep sides and a flat top). Low-growing vegetation grows partially up the sides, but the top is mostly bare rock. The top of the butte is tan with rocky outcrops, but red sediments are visible lower down on the butte.",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "",
+    "isManagedByNps": "1",
+    "amenities": [],
+    "managedByOrg": "",
+    "quickFacts": [],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  },
+  {
+    "id": "535F0124-E7D0-4F68-A71E-D3F949F1EF02",
+    "url": "https://www.nps.gov/places/wayside-dynamic-lake.htm",
+    "title": "Wayside: Dynamic Lake",
+    "listingDescription": "",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/F25C43FC-CA2A-D073-0338547DB8B16139.jpg",
+        "credit": "NPS photo",
+        "altText": "A sign with a photo of the ridge behind and four maps.",
+        "title": "Dynamic Lake Wayside",
+        "description": "",
+        "caption": "Dynamic Lake",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/F25C43FC-CA2A-D073-0338547DB8B16139.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/F25C43FC-CA2A-D073-0338547DB8B16139.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "WY",
+        "parkCode": "fobu",
+        "designation": "National Monument",
+        "fullName": "Fossil Butte National Monument",
+        "url": "https://www.nps.gov/fobu/index.htm",
+        "name": "Fossil Butte"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [],
+    "latitude": "41.8509500752",
+    "longitude": "-110.779167952",
+    "latLong": "41.8509500752,-110.779167952",
+    "bodyText": "The size and depth of Fossil Lake varied over time. This wayside explains how water depth in and around the location of the monument changed over time and how that relates to the layers of rock.",
+    "audioDescription": "A low, angled sign facing the ridge that the scenic drive heads towards. The photo is a close up of the ridge with 4 arrows labeling horizonal rock layers. From top to bottom the layers are: ostracodal dolostone, 18 inch layer, sandwich beds, and lower oil shale. There are four maps on the wayside labeled with the same layers left to right through time. The maps show how the center of the lake shifted and changed size with the shape of the monument today as a landmark. Caption: Maps modified from Buchheim 1993. Text: Dynamic Lake: The center of Fossil Lake moved around through time as tectonic forces lifted the land unequally. Additionally, stream sediments formed deltas, forcing the lake center further from the streams’ mouths. Below are maps showing snapshots of time associated with certain layers of rock.",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "f6390007-e896-468f-aeb2-6bf7336bdec2",
+    "isManagedByNps": "1",
+    "amenities": [
+      "Historical/Interpretive Information/Exhibits"
+    ],
+    "managedByOrg": "",
+    "quickFacts": [
+      {
+        "id": "5C252B96-2DEB-4EF4-91D1-B5D2B202FCD7",
+        "value": "41.850956, -110.779171",
+        "name": "Location"
+      }
+    ],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  },
+  {
+    "id": "4E25CC82-5587-4357-BADA-6FF6CD623997",
+    "url": "https://www.nps.gov/places/wayside-erosion-roadside.htm",
+    "title": "Wayside: Erosion (Roadside)",
+    "listingDescription": "",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/B952A4A3-D04B-52B4-7FA28CAC508CF95B.jpg",
+        "credit": "NPS Photo",
+        "altText": "A low angled sign with the title Erosion. Behind is the butte and a ridgeline across the valley.",
+        "title": "Erosion Roadside Wayside",
+        "description": "",
+        "caption": "This sign estimates how many fossil fishes have been lost due to erosion.",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/B952A4A3-D04B-52B4-7FA28CAC508CF95B.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/B952A4A3-D04B-52B4-7FA28CAC508CF95B.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "WY",
+        "parkCode": "fobu",
+        "designation": "National Monument",
+        "fullName": "Fossil Butte National Monument",
+        "url": "https://www.nps.gov/fobu/index.htm",
+        "name": "Fossil Butte"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [],
+    "latitude": "41.8285154836",
+    "longitude": "-110.768670294",
+    "latLong": "41.8285154836,-110.768670294",
+    "bodyText": "Erosion has removed a significant amount of lake sediments. Find out how much has been lost at this wayside.",
+    "audioDescription": "A low angled sign facing Fossil Butte. Photo of the view with 2 parallel lines connecting the top tan layer of the butte with the top tan layer of the ridge across the valley to the right/south. The gap between the lines is labeled “lake sediments removed by erosion.” Image: map showing Fossil Lake in the area where Idaho, Utah, and Wyoming meet. Yellow areas of the lake, labeled remaining sediments of Fossil Lake, make up less than a sixth of the whole lake. The outline of Fossil Butte National Monument is located in the northeast section of the lake. Caption: copyright 2016 Colorado Plateau Geosystems Inc. Text: Erosion: Look south across the valley for the tan layers on the ridgetops. These layers were deposited by Fossil Lake and were continuous with the ones on top of Fossil Butte in front of you. After Fossil Lake, the stream-deposited Wasatch Formation, the red rock, continued to accumulate. Deposition ended about 45 million-years-ago. Since then, erosion has cut down through the rock layers, mostly in the form of creeks and streams. This erosion created the valleys with limestones capping the ridges which provides access to quarry fossils. Five rock layers are commercially quarried; of those, the monument has completed research on one layer: the Gastropod Beds. Nearly 70% of the 47-inch-thick Gastropod Beds have been destroyed by erosion, causing an estimated loss of 51,437,532,000 fossil fishes.",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "22cd182a-4e92-4840-ba4b-ff10b1906000",
+    "isManagedByNps": "1",
+    "amenities": [
+      "Historical/Interpretive Information/Exhibits"
+    ],
+    "managedByOrg": "",
+    "quickFacts": [
+      {
+        "id": "5C252B96-2DEB-4EF4-91D1-B5D2B202FCD7",
+        "value": "41.828567, -110.768821",
+        "name": "Location"
+      }
+    ],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  },
+  {
+    "id": "C98BFC4C-1F2D-4100-961C-B25B8EBDCEF7",
+    "url": "https://www.nps.gov/places/wayside-geology-s-effect-on-ecology.htm",
+    "title": "Wayside: Geology's Effect on Ecology",
+    "listingDescription": "",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/C7C1230A-ADDF-37D5-3DA0A0B4ADD8DC2F.jpg",
+        "credit": "NPS photo",
+        "altText": "A sign with a picture of the view behind of trees on hills and ridges beyond. Some trees are yellow.",
+        "title": "Geology's Effect of Ecology Wayside",
+        "description": "",
+        "caption": "Geology's Effect on Ecology",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/C7C1230A-ADDF-37D5-3DA0A0B4ADD8DC2F.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/C7C1230A-ADDF-37D5-3DA0A0B4ADD8DC2F.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "WY",
+        "parkCode": "fobu",
+        "designation": "National Monument",
+        "fullName": "Fossil Butte National Monument",
+        "url": "https://www.nps.gov/fobu/index.htm",
+        "name": "Fossil Butte"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [],
+    "latitude": "41.886272470886524",
+    "longitude": "-110.77819347381592",
+    "latLong": "41.886272470886524,-110.77819347381592",
+    "bodyText": "A micro-environment of aspens and conifers is able to survive on this hillside due to geology's effect on the landscape.",
+    "audioDescription": "A low, angled sign has a picture of the hillside beyond. The hill is covered in trees, which are mostly absent from the surrounding landscape. In the picture, some of the trees are yellow. Beyond the hill extend ridges and valleys. The text on the sign reads: Geology's Effect on Ecology An east-west trending ridge has created a shaded north slope. Drifted snow accumulates and melts slower on this slope. This wet area allows a micro-environment of aspens, conifers, and various understory plants to thrive. Throughout this region, the boundary between limestones overlaying clays collects water in perched aquifers creating seeps and springs on hillsides that sustain aspen groves. In this dry climate, aspen groves will not survive on south-facing slopes without a seep or spring. Groves of trees provide habitat for animals not seen elsewhere in the park including jays, mountain lions, and salamanders.",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "",
+    "isManagedByNps": "1",
+    "amenities": [
+      "Historical/Interpretive Information/Exhibits"
+    ],
+    "managedByOrg": "",
+    "quickFacts": [
+      {
+        "id": "5C252B96-2DEB-4EF4-91D1-B5D2B202FCD7",
+        "value": "41.886261, -110.778128",
+        "name": "Location"
+      }
+    ],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  },
+  {
+    "id": "497C02D1-52D5-4878-BAD1-77E77329DC47",
+    "url": "https://www.nps.gov/places/wayside-plan-your-visit-to-fossil-butte.htm",
+    "title": "Wayside: Plan Your Visit to Fossil Butte",
+    "listingDescription": "",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/56C700F7-C39C-29E0-47BF051C141C841F.jpg",
+        "credit": "NPS photo",
+        "altText": "An upright sign titled Plan Your Visit with a map, several photos, and text. Fossil Butte is behind.",
+        "title": "Plan Your Visit",
+        "description": "",
+        "caption": "Plan Your Visit",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/56C700F7-C39C-29E0-47BF051C141C841F.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/56C700F7-C39C-29E0-47BF051C141C841F.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "WY",
+        "parkCode": "fobu",
+        "designation": "National Monument",
+        "fullName": "Fossil Butte National Monument",
+        "url": "https://www.nps.gov/fobu/index.htm",
+        "name": "Fossil Butte"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [],
+    "latitude": "41.8252110236",
+    "longitude": "-110.764183483",
+    "latLong": "41.8252110236,-110.764183483",
+    "bodyText": "This wayside by the entrance sign will help you plan your visit to Fossil Butte National Monument.",
+    "audioDescription": "An upright panel with Fossil Butte in the background. Text reads: Plan Your Visit: Welcome to Fossil Butte National Monument. This semi-arid landscape contains some of the world’s best-preserved Eocene fossils from 52 million years ago. Monument lands are open sunrise to sunset. Day use only—camping and overnight parking are prohibited. Image: map of Fossil Butte National Monument with an arrow showing where the wayside is. Caption: Elevations range between 6,700 and 8,000 feet (2042 and 2438 meters) Text: Collecting fossils or other natural or cultural items is prohibited by federal law 36 CFR 2.1 Image: Over 10 fossil fishes on display. Text: Visitor Center: An accessible facility with restrooms, water, and picnic table. View more than 1,000 fossils including fishes, turtles, crocodilians, mammals, plants, and insects. Videos, a bookstore, and seasonal ranger programs are available. Image: a green hill with picnic tables. Text: Picnic Area: The picnic area is located at the start of the Nature Trail along the paved portion of the scenic drive. There is a vault toilet near the parking lot and one wheelchair-accessible picnic table. Image: An overlook showing the valley below and some trees and bushes in the foreground. Text: Scenic Drive: A 5.5 mile (8.9 km) scenic drive (2.5 miles paved, 3 miles improved gravel) provides scenic views of Fossil Butte, the Wasatch Formation badlands, wildlife and the varied environments of southwest Wyoming. CAUTION! The gravel road begins with a 17% grade. Motor homes and vehicles towing trailers should turn around at the picnic area. Image: a trail leads though aspen trees with green and yellow leaves. Text: Nature Trail vault toilet, picnic tables, dogs allowed on leash. Starting at the picnic area, the easy 1.5 mile (2.4 km) loop trail winds through sagebrush and aspen groves. Wayside exhibits interpret the wildlife, plants, and geology. Image: a trail leads through the sagebrush to a small a-frame cabin with a hill or cliff in the background. Text: Historic Quarry Trail vault toilet, picnic table, dogs allowed on leash. This moderate 2.5 mile (4 km) loop has a spur trail that leads to a historic fossil quarry. Wayside exhibits explain the geology and history of the park. Image: standing on a ridge looking out of the wide valley. Captioned: Looking south from the Cundick Ridge Overlook. Text: Hiking Along Scenic Drive: Two dirt roads (vehicles prohibited) offer beautiful views of Fossil Butte and Fossil Basin. The east road (two-miles round trip) ends at the Cundick Ridge Overlook. The west road on Rubey Point (three miles round trip) ends looking towards the Bear River Range in Utah. Image: a ranger shows something to a group of people. Text: Ranger Programs: Ranger-led programs are offered during the summer. Inquire at the visitor center for details. Image: a wooden Fossil Butte National Monument junior ranger badge with a fossil fish on it resting on a rock. Text: Junior Ranger Program: Complete the Junior Ranger program to earn a badge. Free booklets are available in the visitor center. Image: Four pronghorn stand on a grassy slope and look towards the camera. Text: Wildlife Viewing: There are many habitats in the park including aspen groves, willow thickets, beaver ponds, and limber pine forests. These habitats support many animals including pronghorn, mule deer, elk, moose, coyotes, badgers, pygmy rabbits, and sage grouse.",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "e505a45c-02d9-4531-bc43-4f453f88ede5",
+    "isManagedByNps": "1",
+    "amenities": [
+      "Historical/Interpretive Information/Exhibits"
+    ],
+    "managedByOrg": "",
+    "quickFacts": [
+      {
+        "id": "5C252B96-2DEB-4EF4-91D1-B5D2B202FCD7",
+        "value": "41.824748, -110.763409",
+        "name": "Location"
+      }
+    ],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  },
+  {
+    "id": "CB09DF7C-0183-415C-9ED6-63DD66BBBAEF",
+    "url": "https://www.nps.gov/places/wayside-slump-or-debris-flow-roadside.htm",
+    "title": "Wayside: Slump or Debris Flow (Roadside)",
+    "listingDescription": "",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/F337D3C8-F1BE-14C9-CE03B7C39A5C0810.jpg",
+        "credit": "NPS Photo",
+        "altText": "A sign with a photo of the ridge and hills behind with drawings of hillsides.",
+        "title": "Slump or Debris Flow Roadside Wayside",
+        "description": "",
+        "caption": "Is this hillside a slump or debris flow?",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/F337D3C8-F1BE-14C9-CE03B7C39A5C0810.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/F337D3C8-F1BE-14C9-CE03B7C39A5C0810.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "WY",
+        "parkCode": "fobu",
+        "designation": "National Monument",
+        "fullName": "Fossil Butte National Monument",
+        "url": "https://www.nps.gov/fobu/index.htm",
+        "name": "Fossil Butte"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [],
+    "latitude": "41.864677877000005",
+    "longitude": "-110.78190752",
+    "latLong": "41.864677877000005,-110.78190752",
+    "bodyText": "Debris flows are most commonly known as landslides. For slumps, the soil moves slowly as a block, often coming to rest with trees and other plants still growing undisturbed. Use this sign to determine if the hill is an example of a debris flow or a slump.",
+    "audioDescription": "A low, angled sign facing the ridge. Image: the tan cliffs at the top of the ridge descend into red hills going left to right which are outlined in purple. Drawings show a slump, with the land moving down a hill like stairs, and a debris flow, with the land moving in a continuous slide. Text: Slump or Debris Flow: Is the disturbed land in front of you a slump or debris flow? A debris flow (frequently called a landslide in the news) can exceed 50 miles an hour. The earth churns and mixes. At the bottom it may break like a wave and surge up the other side of the valley. Slumps are different. The soil moves slowly as a block, often coming to rest with trees and other plants still growing undisturbed. The movement may be undetectable, even to an observer standing on the block. Slumps and debris flows occur on slopes after water lubricates the contact between particles or the soil and underlying rock. Sometimes, when conditions are right, the slightest vibrations will trigger a journey downhill. Answer: It is a slump",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "80d6ed2e-62e2-4c05-9128-1e4b76feefee",
+    "isManagedByNps": "1",
+    "amenities": [
+      "Historical/Interpretive Information/Exhibits"
+    ],
+    "managedByOrg": "",
+    "quickFacts": [
+      {
+        "id": "5C252B96-2DEB-4EF4-91D1-B5D2B202FCD7",
+        "value": "41.864301, -110.782163",
+        "name": "Location"
+      }
+    ],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  },
+  {
+    "id": "5FA85A79-FC54-49C8-8AC7-3BB736F69EF2",
+    "url": "https://www.nps.gov/places/wayside-the-eastern-edge-of-fossil-lake.htm",
+    "title": "Wayside: The Eastern Edge of Fossil Lake",
+    "listingDescription": "",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/F4498D89-9DED-CAF1-5FA163B8F54760EF.jpg",
+        "credit": "NPS Photo",
+        "altText": "A sign shows a photo of the view behind looking into the distance over ridges and valleys.",
+        "title": "The Eastern Edge of Fossil Lake",
+        "description": "",
+        "caption": "The Eastern Edge of Fossil Lake",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/F4498D89-9DED-CAF1-5FA163B8F54760EF.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/F4498D89-9DED-CAF1-5FA163B8F54760EF.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "WY",
+        "parkCode": "fobu",
+        "designation": "National Monument",
+        "fullName": "Fossil Butte National Monument",
+        "url": "https://www.nps.gov/fobu/index.htm",
+        "name": "Fossil Butte"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [],
+    "latitude": "41.886256496258504",
+    "longitude": "-110.7781720161438",
+    "latLong": "41.886256496258504,-110.7781720161438",
+    "bodyText": "Use this sign as a guide to see how far ancient Fossil Lake extended to the east.",
+    "audioDescription": "A low, angled sign has a picture of the view looking across many ridges and hilltops into the distance. The furthest object in the picture is a couple of mountains labeled Hogsback Thrust west boundary of Lake Gosiute. Closer is a dark ridgeline that continues horizontally across the picture labled Absaroka Thrust east boundary of Fossil Lake. Slightly closer and in the middle of the picture is a tan ridgetop devoid of vegetation labeled nearshore fossil quarry. Image: a map labeled 52 million years ago with Fossil Lake on the left/west and Lake Gosiute on the right/east. Lake Gosiute is over 5 times as large as Fossil Lake. Hogsback Thrust is a set of ridges along the left/west side of Lake Gosiute and Absaroka Thrust are ridges labeled along the right/east side of Fossil Lake. Caption: copyright 2016 Colorado Plateau Geosystems Inc Text: The Easter Edge of Fossil Lake The eastern edge of Fossil Lake was deeper nearshore due to the asymmetric shape of the basin. The visible quarry and one other produce more specimens of stingrays and Hiodon falcatus since they are closer to shore than other quarries. The area between Fossil Lake and Lake Gosiute to the east was a forested ridge on which a variety of birds and mammals lived. This ridge has been eroding since the time of Fossil Lake so it is unknown how tall it once was.",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "",
+    "isManagedByNps": "1",
+    "amenities": [
+      "Historical/Interpretive Information/Exhibits"
+    ],
+    "managedByOrg": "",
+    "quickFacts": [
+      {
+        "id": "5C252B96-2DEB-4EF4-91D1-B5D2B202FCD7",
+        "value": "41.886261, -110.778128",
+        "name": "Location"
+      }
+    ],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  },
+  {
+    "id": "A5D9F2F1-6FA4-4CFA-898D-816321617CE3",
+    "url": "https://www.nps.gov/places/wayside-the-southern-end-of-fossil-lake.htm",
+    "title": "Wayside: The Southern End of Fossil Lake",
+    "listingDescription": "",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/F40F11FE-9B6E-2FEA-A874636516FAB76F.jpg",
+        "credit": "NPS Photo",
+        "altText": "A sign that shows the view of valleys and ridges behind.",
+        "title": "The Southern End of Fossil Lake",
+        "description": "",
+        "caption": "The Southern End of Fossil Lake",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/F40F11FE-9B6E-2FEA-A874636516FAB76F.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/F40F11FE-9B6E-2FEA-A874636516FAB76F.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "WY",
+        "parkCode": "fobu",
+        "designation": "National Monument",
+        "fullName": "Fossil Butte National Monument",
+        "url": "https://www.nps.gov/fobu/index.htm",
+        "name": "Fossil Butte"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [],
+    "latitude": "41.874993389475755",
+    "longitude": "-110.78441619873047",
+    "latLong": "41.874993389475755,-110.78441619873047",
+    "bodyText": "Ancient Fossil Lake was 1600 square miles. Use this sign as a guide to see how far the lake extended to the south.",
+    "audioDescription": "A low, angled sign has a picture of the view looking across the valley. Labeled in the far distance are Uinta Mountains (in Utah), labeled in middle distance is Fossil Ridge which extends across the entire picture, and on the left side is labeled Fossil Butte. The road curves down into the valley and the tiny visitor center is visible in the lower right of the picture near the road. Text: The Southern End of Fossil Lake Fossil Lake extended from about 20 miles north of here south 45 miles to I-80. Remnants of a delta show that the lake’s largest water source flowed into it from the south. The Uinta Mountains, visible on clear days, are the southern boundary of Fossil Basin. Before Fossil Lake existed, the land from here to the Uinta Mountains was a flat, forested plain; there were no ridges or hills like there are today.",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "",
+    "isManagedByNps": "1",
+    "amenities": [
+      "Historical/Interpretive Information/Exhibits"
+    ],
+    "managedByOrg": "",
+    "quickFacts": [
+      {
+        "id": "5C252B96-2DEB-4EF4-91D1-B5D2B202FCD7",
+        "value": "41.875151, -110.784189",
+        "name": "Location"
+      }
+    ],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  },
+  {
+    "id": "247FCEC3-84DE-46B1-BB15-C59D800119A2",
+    "url": "https://www.nps.gov/places/wayside-where-is-fossil-butte.htm",
+    "title": "Wayside: Where is Fossil Butte?",
+    "listingDescription": "",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/5771D06B-B302-03D1-390F027FF196B6A1.jpg",
+        "credit": "NPS photo",
+        "altText": "An angled sign with a picture of the butte facing the butte.",
+        "title": "Where's the Butte?",
+        "description": "",
+        "caption": "Stop by this wayside to find out why Fossil Butte is not a butte.",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/5771D06B-B302-03D1-390F027FF196B6A1.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/5771D06B-B302-03D1-390F027FF196B6A1.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "WY",
+        "parkCode": "fobu",
+        "designation": "National Monument",
+        "fullName": "Fossil Butte National Monument",
+        "url": "https://www.nps.gov/fobu/index.htm",
+        "name": "Fossil Butte"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [],
+    "latitude": "41.8252110236",
+    "longitude": "-110.764183483",
+    "latLong": "41.8252110236,-110.764183483",
+    "bodyText": "Visitors often ask where the butte is located. This sign points out Fossil Butte and provides a definition of a butte.",
+    "audioDescription": "A low-angled sign facing Fossil Butte with a photo of the butte lit up with low light and dark gray storms above. Text: Where is Fossil Butte? From this western perspective, the steep sides and appearance of a flat top is why Fossil Butte was misnamed butte. In reality, it is a curved ridge with gentle slopes on the eastern-facing side. The tan layers capping the ridges and hills in this area are the deposits of ancient Fossil Lake. Fossil Butte was named for the abundant fossil fish found in the ledges within these layers. Text formatted like a dictionary entry: Butte [byoot], noun. An isolated flat-topped hill with steep sides. Pronounced like the first syllable in beautiful.",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "e505a45c-02d9-4531-bc43-4f453f88ede5",
+    "isManagedByNps": "1",
+    "amenities": [
+      "Historical/Interpretive Information/Exhibits"
+    ],
+    "managedByOrg": "",
+    "quickFacts": [
+      {
+        "id": "5C252B96-2DEB-4EF4-91D1-B5D2B202FCD7",
+        "value": "41.824748, -110.763409",
+        "name": "Location"
+      }
+    ],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  },
+  {
+    "id": "BBDC9494-1528-469D-8EAF-B24D365E2897",
+    "url": "https://www.nps.gov/places/wayside-where-s-the-lake.htm",
+    "title": "Wayside: Where's the Lake?",
+    "listingDescription": "",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/F1EF7207-0444-3CD5-3A3789DD0D3A3259.jpg",
+        "credit": "NPS photo",
+        "altText": "A sign with a photo of the butte colored blue and red. The butte is visible behind the sign.",
+        "title": "Where's the Lake?",
+        "description": "",
+        "caption": "Where's the Lake?",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/F1EF7207-0444-3CD5-3A3789DD0D3A3259.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/F1EF7207-0444-3CD5-3A3789DD0D3A3259.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "WY",
+        "parkCode": "fobu",
+        "designation": "National Monument",
+        "fullName": "Fossil Butte National Monument",
+        "url": "https://www.nps.gov/fobu/index.htm",
+        "name": "Fossil Butte"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [],
+    "latitude": "41.8285154836",
+    "longitude": "-110.768670294",
+    "latLong": "41.8285154836,-110.768670294",
+    "bodyText": "Where is Fossil Lake? Above you on the top of the butte! This wayside discusses why the lake sediments are on top of the ridges and not down in the valleys.",
+    "audioDescription": "A low, angled sign facing Fossil Butte. A photo of the butte is cut in two with the top section colored blue and labeled “Fossil Lake Sediments” and the bottom section colored red and labeled “Wasatch Sediments.” The line separating the two sections as well as a line at the top of the butte extends to either side of the image. The section between these two lines outside of the butte is labeled “lake sediments removed by erosion.” Text: Where’s the Lake? Fossil Lake Sediments of the Green River Formation: If the lake were present today, you would be standing 400 feet below the bottom of the lake. How did this happen? After the lake dried up, streams cut channels eroding away the sediments. As erosion continues, the lake sediments on the top of the ridges will eventually erode completely away. The Wasatch Formation: The rocks of the Wasatch Formation are composed of silts, clays, and patches of gravel. These sediments were deposited by streams flowing through the forest. When the streams flooded, silts and clays were carried across the forest floor. As the composition of the stream waters changed, the colors seen in the hillsides changed. Gravels need to have high-energy water to move, so they are only found in stream channels.",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "22cd182a-4e92-4840-ba4b-ff10b1906000",
+    "isManagedByNps": "1",
+    "amenities": [
+      "Historical/Interpretive Information/Exhibits"
+    ],
+    "managedByOrg": "",
+    "quickFacts": [
+      {
+        "id": "5C252B96-2DEB-4EF4-91D1-B5D2B202FCD7",
+        "value": "41.828567, -110.768821",
+        "name": "Location"
+      }
+    ],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  },
+  {
+    "id": "718461AE-9327-4854-942F-3E7FAE96AFE5",
+    "url": "https://www.nps.gov/places/wayside-why-the-rocks-of-rubey-point-are-curved.htm",
+    "title": "Wayside: Why the Rocks of Rubey Point are Curved",
+    "listingDescription": "",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/F3D214CB-E110-3AB2-04FC8681F367E8A7.jpg",
+        "credit": "NPS Photo",
+        "altText": "A sign with a photo of the ridge behind which is slightly curved to a point on the left.",
+        "title": "Why the Rocks of Rubey Point are Curved",
+        "description": "",
+        "caption": "Why the Rocks of Rubey Point are Curved",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/F3D214CB-E110-3AB2-04FC8681F367E8A7.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/F3D214CB-E110-3AB2-04FC8681F367E8A7.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "WY",
+        "parkCode": "fobu",
+        "designation": "National Monument",
+        "fullName": "Fossil Butte National Monument",
+        "url": "https://www.nps.gov/fobu/index.htm",
+        "name": "Fossil Butte"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [],
+    "latitude": "41.87423046187845",
+    "longitude": "-110.7867443561554",
+    "latLong": "41.87423046187845,-110.7867443561554",
+    "bodyText": "Rubey Point curves up from the rest of the ridge. Find out how fault lines play a role.",
+    "audioDescription": "A low, angled sign with a picture that looks through a gap in the trees to the next ridge over from the one where the sign is located. Image: a ridge where the end slowly ramps up so that it is higher than the rest of the ridge. The end point is labeled Rubey Point. Image: a drawing showing a block of rock, the footwall, shown moving up with an arrow. Pressed up to the right of the footwall the block of rock labeled lower headwall is shown moving down. The layers of the headwall are curving up like Rubey Point. Caption: Normal faults move with gravity. The headwall drops relative to the footwall on a steep plane. Text: Why the Rocks of Rubey Point are Curved: A large arcing fault cuts through the rocks in this region. Rubey Point, on the east side of the fault, dropped down. The friction along the fault caused the rocks to bend (see diagram below). Subsequent smaller faults and erosion have removed the rocks on the west side of the fault.",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "",
+    "isManagedByNps": "1",
+    "amenities": [
+      "Historical/Interpretive Information/Exhibits"
+    ],
+    "managedByOrg": "",
+    "quickFacts": [
+      {
+        "id": "5C252B96-2DEB-4EF4-91D1-B5D2B202FCD7",
+        "value": "41.874146, -110.786981",
+        "name": "Location"
+      }
+    ],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  }
+]

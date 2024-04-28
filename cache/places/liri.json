@@ -1,0 +1,83 @@
+[
+  {
+    "id": "1E5C05B7-92A7-492A-98AA-12794FB6A20B",
+    "url": "https://www.nps.gov/places/little-river-canyon-national-preserve-trail-of-tears.htm",
+    "title": "Little River Canyon National Preserve, the Trail of Tears",
+    "listingDescription": "Little River Canyon National Preserve is a place of beauty that is also host to stories of adversity and survival. Over 1,100 men, women, and children moved through the Little River area during the removal of the Cherokee and Muscogee (Creek) Indians. Cherokee John Benge led the Fort Payne group of American Indians over 798 miles on the Trail of Tears to Indian Territory in what is now Oklahoma, crossing the Little River above the falls near the present-day Highway 35 bridge.",
+    "images": [
+      {
+        "url": "",
+        "credit": "",
+        "altText": "",
+        "title": "",
+        "description": "",
+        "caption": "",
+        "crops": []
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "AL",
+        "parkCode": "liri",
+        "designation": "National Preserve",
+        "fullName": "Little River Canyon National Preserve",
+        "url": "https://www.nps.gov/liri/index.htm",
+        "name": "Little River Canyon"
+      },
+      {
+        "states": "AL,AR,GA,IL,KY,MO,NC,OK,TN",
+        "parkCode": "trte",
+        "designation": "National Historic Trail",
+        "fullName": "Trail Of Tears National Historic Trail",
+        "url": "https://www.nps.gov/trte/index.htm",
+        "name": "Trail Of Tears"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [
+      "trail of tears",
+      "National Trails",
+      "historic trails",
+      "Alabama",
+      "national park service"
+    ],
+    "latitude": "34.3989183472",
+    "longitude": "-85.6339173752",
+    "latLong": "34.3989183472,-85.6339173752",
+    "bodyText": "<p>Little River Canyon National Preserve is a place of beauty that is also host to stories of adversity and survival. Over 1,100 men, women, and children moved through the Little River area during the removal of the Cherokee and Muscogee (Creek) Indians. Cherokee John Benge led the Fort Payne group of American Indians over 798 miles on the Trail of Tears to Indian Territory in what is now Oklahoma, crossing the Little River above the falls near the present-day Highway 35 bridge.</p> <h2>Site Information</h2> <p><strong>Location</strong> (4322 Little River Trail NE (472 AL Hwy 35 for GPS))<br /> <br /> <strong>Access </strong><br /> Contact visitor center hours and directions to the river crossing site</p> <p><em><a href=\"https://www.nps.gov/trte/planyourvisit/safety.htm\">Safety Considerations</a></em></p> <h3><a href=\"https://www.nps.gov/liri/index.htm\">More Site Information</a></h3> <h2><a href=\"https://www.nps.gov/trte/index.htm\">Trail of Tears National Historic Trail</a></h2>",
+    "audioDescription": "",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "984cef48-f523-499c-b38a-e878d50705e2",
+    "isManagedByNps": "1",
+    "amenities": [],
+    "managedByOrg": "",
+    "quickFacts": [
+      {
+        "id": "5C252B96-2DEB-4EF4-91D1-B5D2B202FCD7",
+        "value": "4322 Little River Trail NE (472 AL Hwy 35 for GPS)",
+        "name": "Location"
+      },
+      {
+        "id": "208F1B3C-44DC-4CF5-9A61-9B26A364D701",
+        "value": "Over 1,100 men, women, and children moved through the Little River area during the removal of the Cherokee and Muscogee (Creek) Indians.",
+        "name": "Significance"
+      },
+      {
+        "id": "E32D2136-A184-4C1A-91D2-4C20CEF9CBAF",
+        "value": "National Preserve",
+        "name": "Designation"
+      }
+    ],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  }
+]

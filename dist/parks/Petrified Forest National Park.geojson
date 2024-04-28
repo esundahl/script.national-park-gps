@@ -1,0 +1,695 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.79401191686084,
+          34.892758222410954
+        ]
+      },
+      "properties": {
+        "name": "Agate Bridge",
+        "notes": "Agate Bridge\nhttps://www.nps.gov/places/agate-bridge.htm\n\nAgate Bridge, original called Natural Bridge, is a partially exposed petrified log spanning a gully at Agate Mesa, forming a “bridge”. This landmark has long been one of the most popular attractions in Petrified Forest since the beginning and in the early history of the park many visitors had their picture taken while standing on the “bridge”. Fear of the collapse of this landmark by the railroad—it was a major attraction—led to masonry pillars being constructed underneath is April of 1903, later followed by concrete in 1911. These were replaced by concrete beam in 1917 at the cost of $1700, paid for by the government and installed by the railroad. The log is about 100’ in length and 4’ in diameter at its base. It spans 40’ across the chasm and is 16’ above the canyon floor. In the late 1800s the paleobotanist Lester Ward proclaimed Agate Bridge to be the “most noted single petrified log in the world.”",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.858872,
+          34.810285
+        ]
+      },
+      "properties": {
+        "name": "Agate House Trail",
+        "notes": "Agate House Trail\nhttps://www.nps.gov/places/agate-house-trail.htm\n\n<u>Length</u>: 2 miles (3.2 km) round trip<br /> <u>Trailhead</u>: Rainbow Forest Museum parking area<br /> Archeologists believe that this small pueblo was occupied for a short time about 700 years ago. Agate House was an eight room home with entered through the ceiling. Please leave any archeological artifacts for all to enjoy. Do not climb or sit on site walls.<br /> <br /> <em>The first half-mile of this trail is paved and suitable for strollers and various mobility equipment (power and manual). The rest of the trail may be negotiated over rough surface.<br /> Tread width: 75 in (191.3 cm), min 60 in (152.4 cm)<br /> Grade: 4.1%, max 14.7%<br /> Cross Slope: 2.3%, max 10.4%</em>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.7887926,
+          35.0838567
+        ]
+      },
+      "properties": {
+        "name": "Arizona: Painted Desert Inn",
+        "notes": "Arizona: Painted Desert Inn\nhttps://www.nps.gov/places/painted-desert-inn.htm\n\n<p>Only one national park in the country includes and protects a section of historic Route 66: the Petrified Forest National Park with one of the world’s largest and most colorful concentrations of petrified wood, multi-hued badlands of the Painted Desert, historic structures, archeological sites, and displays of over 200-million-year-old fossils. The national park and this section of Route 66 are not to be missed, and one of the most special places to visit in the park is the Painted Desert Inn.<br /> <br /> The inn is situated on a mesa overlooking the vast and colorful Painted Desert. It is rooted in a lodge that entrepreneur Herbert David Lore completed around 1920. In 1935, the National Park Service purchased the inn and its surroundings, and immediately began planning to overhaul the building using the rustic aesthetic so popular in park architecture of the time. The National Park Service commissioned Lyle Bennett, one of its most sought-after architects, for the remodeling. Young men employed in the Civilian Conservation Corps (CCC), one of the Franklin D. Roosevelt administration’s back-to-work programs, supplied the labor.<br /> <br /> The inn is of wood and native stone in the Pueblo Revival style. Outside, flagstone terraces surrounded by low walls overlook the desert. The building’s stone walls are more than two feet thick and finished with textured earth-toned stucco. Multiple flat roofs with parapets give the inn its varied massing, and Ponderosa Pine logs pierce the walls, adding play between light and shadow.<br /> <br /> One construction foreman noted the importance of the building’s details. Its openings, for instance, had semi-oval shapes rather than right-angled edges. He commented that: \"This shape was produced in the rock and plaster to resemble the openings in old pueblo buildings where the wet adobe was shaped by the sweeping motions of the women's arms that shortened the horizontal width of the opening at the top and bottom. Consider the difficulty of teaching a journeyman mason to understand…After much arm waving they got the message and were able to proceed.” That same foreman recalled how the concrete floors, walls, and furniture made the whole interior glow with soft, blended coloring. The CCC used ponderosa pine and aspen poles from Arizona forests for the <em>vigas</em> or roof beams and crafted handmade light fixtures from tin and wooden tables and chairs with American Indian designs. The concrete floors in the dining room and viewing porch had etched and painted patterns from Navajo blanket designs.<br /> <br /> The inn opened in 1940 under the management of the Fred Harvey Company, which was famous in the Southwest for providing hospitality services to tourists and travelers on the Santa Fe Railroad. For two years, the inn offered Route 66 travelers food, souvenirs, and lodging, and local people with event and meeting space. It closed in 1942, as American involvement with World War II shifted resources away from domestic programs.<br /> <br /> In 1947, the Harvey Company’s noted architect and interior designer, Mary Jane Colter, was given responsibility for renovations of the facility. Along with overseeing repair work, Colter created a new interior color scheme and made other changes. New plate glass windows to capitalize on the magnificent surrounding landscape were an important addition. At Colter’s behest, Hopi artist Fred Kabotie painted murals on the dining room and lunchroom walls that are reflections of Hopi culture. The Harvey Girls provided their legendary service to the public at the Painted Desert Inn.<br /> <br /> Even so, over the next decade, the inn declined and suffered from structural damage. In 1963, the inn closed and a new facility opened to house the park visitor center and the Fred Harvey operations. The park scheduled the building’s demolition in 1975, but a public campaign helped save the building, which the National Park Service listed in the National Register of Historic Places in 1976. The Secretary of the Interior recognized the historic significance of the inn by designating it a National Historic Landmark in 1987.<br /> <br /> In 2006, the Painted Desert Inn reopened following its restoration. The inn now appears as it would have in 1949. Today, visitors again are able to experience the exquisite architectural details and richly colored walls of the Painted Desert Inn. Some highlights include the Trading Post Room, a magnificent architectural space with six hammered-tin, Mexican-style chandeliers, an enormous skylight, and windows overlooking the desert. The skylight has multiple panes of translucent glass painted in Indian pottery designs. The posts supporting the corbels and <em>vigas</em> are painted in muted colors. The inn still has the original Fred Kabotie murals. A large and stunning mountain lion petroglyph is on display inside the inn. Discovered in the 1930’s, the petroglyph is considered one of the finest, most vividly animated and lifelike depictions of mountain lions in the region.<br /> <br /> The Painted Desert Inn is located in the northern section of Petrified Forest National Park in Petrified Forest, AZ. The inn is now a museum open to the public. The park has an entrance fee but no additional fee is charged to visit the inn.<br /> <br /> For more information on visiting the the Painted Desert Inn, call 928-524-3522 or visit the park's <a href=\"https://www.nps.gov/pefo/learn/historyculture/pdi.htm\">Painted Desert Inn web page.</a><br /> <br /> For more information on visiting Petrified Forest National Park, call 928-524-6228 or visit the <a href=\"https://www.nps.gov/pefo/index.htm\">Petrified Forest National Park website.</a><br /> <br /> Find the <a href=\"https://www.nps.gov/subjects/nationalregister/database-research.htm\">Painted Desert Inn National Register nomination form.</a><br /> <br /> The Painted Desert Inn has been documented by the National Park Service’s <a href=\"http://hdl.loc.gov/loc.pnp/hhh.az0292\">Historic American Buildings Survey</a>.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Blue Mesa",
+        "notes": "Blue Mesa\nhttps://www.nps.gov/places/blue-mesa.htm\n\nBlue Mesa is a significant landform located on a spur road halfway through Petrified Forest National Park. The road (~5 miles round trip) goes on top of the mesa with scenic overlooks of the landscape, badlands, trail, and hoodoos. The trailhead for Blue Mesa Trail is located halfway around the loop road at a sunshelter. The mesa consists of the Blue Mesa and Sonsela Members with petrified wood deposits. Spectacular views of blue, purple, gray, and peach banded badlands.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.75633790096441,
+          34.94053460816699
+        ]
+      },
+      "properties": {
+        "name": "Blue Mesa Trail",
+        "notes": "Blue Mesa Trail\nhttps://www.nps.gov/places/blue-mesa-trail.htm\n\nLength: 1 mile (1.6 km) loop<br /> Trailhead: Blue Mesa sun shelter<br /> Descending from the mesa, this alternately paved and gravel trail loop offers the unique experience of hiking among badland hills of bluish bentonite clay as well as petrified wood. Numerous plant and animal fossils have been found by paleontologists in the sedimentary layers of Blue Mesa.<br /> <br /> <em>Steep grade at beginning of trail</em>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.79190719359195,
+          34.86387612893341
+        ]
+      },
+      "properties": {
+        "name": "Crystal Forest Trail",
+        "notes": "Crystal Forest Trail\nhttps://www.nps.gov/places/crystal-forest-trail.htm\n\nLength: 0.75 mile (1.2 km) loopTrailhead: Crystal Forest parking areaNamed for the presence of beautiful crystals that can be found in the petrified logs, this trail offers one of the best opportunities to experience the petrified wood deposits. Please leave the petrified wood for others to enjoy. Report any removal of petrified wood or other materials to park staff.<br /> <br /> <em>Depending on the individual, parts of the trail are available to mobility devices.</em><br /> <em>Tread width: 71 in (179.8 cm), min 65 in (165.1 cm)Grade: 5.2%, max 22.5%Cross Slope: 2.2%, max 11.3%</em>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.87001895904541,
+          34.81087003445144
+        ]
+      },
+      "properties": {
+        "name": "East Old 180",
+        "notes": "East Old 180\nhttps://www.nps.gov/places/east-old-180.htm\n\nOnce the main highway that provided access to the south entrance of the park, Old 180 went directly through a major deposit of petrified wood. The highway was rerouted to move it away from this natural resource, leaving a road that is slowly going back to earth, particularly on the eastern end.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.86638393733186,
+          34.81531597637704
+        ]
+      },
+      "properties": {
+        "name": "Giant Logs",
+        "notes": "Giant Logs\nhttps://www.nps.gov/places/giant-logs.htm\n\nGiant Logs is part of Rainbow Forest in Petrified Forest National Park. Once an ancient log jam in a Late Triassic river, Giant Logs was the heart of the original national monument set aside in 1906 by President Theodore Roosevelt. This area is located behind the Rainbow Forest Museum. Rainbow Forest was first called the Third Forest (based on tours leaving the once closest town of Adamana). An interpretive trail passes through the area and major features include some of the largest, most colorful petrified logs, Old Faithful log, and the Mather Plaque. There is a booklet available at the museum that corresponds to the numbered posts on the trail. There is a nearby geocache, seasonal drinking fountain, and wayside exhibit as well as the museum.<br /> <br /> Giant Logs is geologically in the Rainbow Forest bed of the Sonsela Member (mostly sandstone and conglomerate with some mudstones) of the Chinle Formation. The Sonsela Member contains the majority of the petrified wood deposits in the park and was deposited between 219-213 million years ago.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.865919,
+          34.815297
+        ]
+      },
+      "properties": {
+        "name": "Giant Logs Trail",
+        "notes": "Giant Logs Trail\nhttps://www.nps.gov/places/giant-logs-trail.htm\n\n<u>Length</u>: 0.4 mile (0.6 km) loop<br /> <u>Location</u>: Behind Rainbow Forest Museum<br /> <br /> <em>Trail guide available at Rainbow Forest Museum</em><br /> <br /> Giant Logs features some of the largest and most colorful logs in the park. \"Old Faithful\", at the top of the trail, is almost ten feet wide at the base!<br /> <br /> <em>This paved trail has several sets of stairs and may not be suitable for strollers or mobility equipment.<br /> Tread width: 57 in (145.6 cm), min 48 in (121.9 cm)<br /> Grade: 4.8%, max 19.1%<br /> Cross Slope: 2.5%, max 13.4%</em>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.86582946777344,
+          34.8153190612793
+        ]
+      },
+      "properties": {
+        "name": "Giant Logs Trail Stop #1",
+        "notes": "Giant Logs Trail Stop #1\nhttps://www.nps.gov/places/giant-logs-trail-stop-1.htm\n\nStop 1: How Wood Becomes Petrified<br /> A log is petrified when all its original plant material is infilled or replaced by minerals.<br /> <br /> Approximately 216 million years ago, these trees died and fell into a river. They were buried beneath layers of silt, mud, sand, and volcanic ash, which protected them from decay. Mineral-laden ground water percolated through the layers, carrying silica from the volcanic ash and other trace minerals. The absorbent dead wood became saturated with these minerals. The silica, or quartz, crystals slowly bonded with the cells of the tree replicating the organic material in perfect detail. Eventually, silica replaced the wood material.<br /> <br /> Now this petrified forest is not made of trees, but of stone.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.8667984008789,
+          34.81447982788086
+        ]
+      },
+      "properties": {
+        "name": "Giant Logs Trail Stop #10",
+        "notes": "Giant Logs Trail Stop #10\nhttps://www.nps.gov/places/giant-logs-trail-stop-10.htm\n\n<b>Stop 10: Who Cut the Wood?<br /> Note: the image is not working right now.</b><br /> Perhaps you’ve noticed the logs are sometimes broken into very regular sections that appear to be cut. Look up into the hill and you will see who is “cutting” the wood. The hill itself is doing the job!<br /> <br /> It takes many, many stacked layers of dirt to make a hill. That is a lot of weight on top of the buried petrified logs. All that weight crushed and broke the logs.<br /> <br /> Why the regularity in sections? A normal log does not break that way. But a petrified log does! Petrified wood is mostly silica-quartz minerals. The inner surfaces where they have broken are flat because quartz doesn’t break neatly across its crystal faces, so instead it snaps across the log’s shortest area—sort of like when you snap a piece of chalk.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.86778259277344,
+          34.815467834472656
+        ]
+      },
+      "properties": {
+        "name": "Giant Logs Trail Stop #11",
+        "notes": "Giant Logs Trail Stop #11\nhttps://www.nps.gov/places/giant-logs-trail-stop-11.htm\n\n<b>Stop 11: Counting Knots</b><br /> Can you count the knots along this long log? Every knot shows where there was once a branch. Clues like this help us imagine what the tree looked like.<br /> <br /> Lots of knots means this tree had lots of branches, which fell away as it decayed. Tree bark also falls off dead trees. So, though the surface may look like bark, it is just the outer surface of the wood.<br /> <br /> The log’s length tells us this tree was tall. Two trees along the Long Logs Trail measure 137 and 141 feet long. This indicates that some of the trees may have approached at least 200 feet (61 m) tall when alive.<br /> <br /> Paleontologists search for clues eroding out of the Chinle Formation badlands to capture what the Late Triassic environment once looked like. Some of the earliest remains of dinosaurs are found alongside invertebrates, freshwater fish, amphibians, synapsids, and the dominant group at the time, known as archosaurs. These creatures are on display in the Rainbow Forest Museum.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.8660888671875,
+          34.81586456298828
+        ]
+      },
+      "properties": {
+        "name": "Giant Logs Trail Stop #2",
+        "notes": "Giant Logs Trail Stop #2\nhttps://www.nps.gov/places/giant-logs-trail-stop-2.htm\n\nStop 2: Mather Plaque<br /> In the early 1900s, the need to operate and protect parks was clear, but just who should take responsibility was unclear. Stephen T. Mather was an avid outdoorsman, conservationist, born marketer, and millionaire industrialist with connections in Washington, DC. In 1914 Mather began to campaign for the creation of a park management bureau. When President Woodrow Wilson approved the National Park Act in 1916, the National Park Service was born.<br /> <br /> Mather was appointed the agency’s first director.Stephen T. Mather was one of the first and best advocates of the National Park System. He wanted to not only protect the lands but promote them. He recognized that every visitor was a potential steward. Mather died in 1930 and is posthumously honored by these bronze markers bearing his image.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.86641693115234,
+          34.81596374511719
+        ]
+      },
+      "properties": {
+        "name": "Giant Logs Trail Stop #3",
+        "notes": "Giant Logs Trail Stop #3\nhttps://www.nps.gov/places/giant-logs-trail-stop-3.htm\n\nStop 3: An Ancient River<br /> Walk up the trail and you are walking through an ancient riverbed. The water is gone, but you can reach out and feel the smooth river pebbles. Conglomerate is a type of sedimentary rock made up of rounded fragments cemented within a matrix of fine grain material.<br /> <br /> All the water-worn river rocks you feel are embedded in sandstone. Sandstone is a sedimentary rock whose presence tells us a great deal about what the land was like when its sandy particles were deposited. Have you ever touched the soft, silty bottom of a river? That is what this stone once felt like, before it was cemented and compacted into rock over millions of years.<br /> <br /> There are high concentrations of petrified wood deposits here because of the river, too. A dense forest surrounded the ancient river, much like the rain forest that today hugs Amazon River shores. When the trees died, some fell into the water. The “forests” of Petrified Forest National Park are actually petrified log jams where the dead trees were collected, buried, and petrified. Rainbow Forest is an example of where these log jams are eroding to the present surface.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.86658477783203,
+          34.815887451171875
+        ]
+      },
+      "properties": {
+        "name": "Giant Logs Trail Stop #4",
+        "notes": "Giant Logs Trail Stop #4\nhttps://www.nps.gov/places/giant-logs-trail-stop-4.htm\n\nStop 4: Recent History<br /> This sandstone platform provides a commanding view of the Rainbow Forest building complex. These were some of the first structures built here for park use. <br /> <br /> Some were built by workers of the Civilian Conservation Corps (CCC) in the 1930s, although a lot of work was done in 1931 before the CCC was formed. In those days Rainbow Forest Museum was the park headquarters. Use this photo to compare and contrast the present with the past. Petrified Forest staff use historic photographs and rephotography to help track change (or lack of change) in park resources.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.86709594726562,
+          34.81589126586914
+        ]
+      },
+      "properties": {
+        "name": "Giant Logs Trail Stop #5",
+        "notes": "Giant Logs Trail Stop #5\nhttps://www.nps.gov/places/giant-logs-trail-stop-5.htm\n\nStop 5: Stratigraphy<br /> Check out the striped layers of the mesa north of the trail. At one point each stripe was the earth’s surface—until another layer was deposited on top. Each colored band represents a unique landscape.<br /> <br /> Let’s start with the ground under your feet. You are standing on sandstone. Sandstone is a fluvial, or river, deposit. It is a riverbed laid down about 216 million years ago.<br /> <br /> Now look out to the mesa and see the next stripe up. It is younger than the rock you stand on. And the next stripe is even younger. The alternating blue-purple bands represent muddy floodplains deposited through time by further river activity. Finally, the mesa is capped by another layer of pale sandstone. This is another river bottom, much younger. ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.86687469482422,
+          34.81550216674805
+        ]
+      },
+      "properties": {
+        "name": "Giant Logs Trail Stop #6",
+        "notes": "Giant Logs Trail Stop #6\nhttps://www.nps.gov/places/giant-logs-trail-stop-6.htm\n\n<b>Stop 6: Old Faithful</b><br /> This giant of Giant Logs measures 35 feet (10.6 m) long and weighs approximately 44 tons (39,900 kg).Previously called names like “The Monarch” and “Major Domo,” this impressive log has been a favorite visitor attraction for years. In the late 1920s, the park superintendent’s wife said the log was to Petrified Forest what the Old Faithful geyser is to Yellowstone National Park. From this the name “Old Faithful” stuck.<br /> <br /> Notice that fragments at the base are mortared together? In 1962, lightning struck and fractured the log. At that time, the National Park Service repaired the damage and built a retaining wall to slow erosion. Attitudes about resource management in our national parks have changed over the years; a log would not be glued back together today.<br /> <br /> YOUR OWN REPHOTOGRAPHY SHOOT<br /> Petrified Forest has hosted many great scientific minds. Perhaps you recognize the face of this visitor? Just like your trip, Dr. and Mrs. Albert Einstein’s March 1, 1931 visit would not be complete without seeing Old Faithful. Use the photo at left and you can stand right where the famous scientist stood so many years ago.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.866198,
+          34.815433
+        ]
+      },
+      "properties": {
+        "name": "Giant Logs Trail Stop #7",
+        "notes": "Giant Logs Trail Stop #7\nhttps://www.nps.gov/places/giant-logs-trail-stop-7.htm\n\n<b>Stop 7: Trace Fossils</b><br /> Examine the surface of the petrified log to your right. Ancient insects and other arthropods left their mark on this tree in the form of finger-width burrows.<br /> <br /> Footprints, tracks, burrows, borings, and feces left behind by prehistoric animals are called trace fossils. Most fossils are remains from after the animal’s death. Trace fossils are remains from the animal’s life! They record the movements and activities of a living creature, helping researchers understand animal behavior of long-ago ecosystems.<br /> <br /> This is certainly not the only log where you’ll see these distinctive marks. Look for them all along the trail and in the park beyond.<br /> <br /> Insect burrows highlighted red above. Look carefully! They can be tricky to spot.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.86672973632812,
+          34.8147087097168
+        ]
+      },
+      "properties": {
+        "name": "Giant Logs Trail Stop #8",
+        "notes": "Giant Logs Trail Stop #8\nhttps://www.nps.gov/places/giant-logs-trail-stop-8.htm\n\n<b>Stop 8: Badlands</b><br /> Badlands are not confined to the state of South Dakota’s famous national park. Nor a Bruce Springsteen album. They are also here all around you. A badland is an area of soft rock strata that is cut and eroded into many gullies and irregular shapes where vegetation cannot take hold.<br /> <br /> The rolling hills underneath this rambling trail are fine examples of badlands. They also account for much of the trail damage. Though it may be dry today, all those little channels carry water and remove rock and soils. As the ground is shifted by erosion, the trail on top moves as well.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.8667221069336,
+          34.814605712890625
+        ]
+      },
+      "properties": {
+        "name": "Giant Logs Trail Stop #9",
+        "notes": "Giant Logs Trail Stop #9\nhttps://www.nps.gov/places/giant-logs-trail-stop-9.htm\n\n<b>Stop 9: Tap into the Past<br /> Note: image isn't working properly right now!</b><br /> As you round the bend, take a look at the massive log next to the trail. Roots and branches fall away from rotting trees, but this one still shows the stump of its taproot. A taproot is a central, dominant, deep-anchoring root.<br /> <br /> A tree is more than its trunk. Fossilized cones, needles, and roots tell us as much about the ancient trees as the fossilized logs do. Fossilized cones tell us the trees were conifers, reproducing through seed-bearing cones, like a modern pine tree. The taproot itself is also like some modern pines. Its purpose is to stabilize and nourish the tree during severe storms and drought.<br /> <br /> Nearly a dozen types of petrified wood have been formally described. There are more species that have yet to be determined. A healthy ecosystem is a diverse one.<br /> <br /> It was a time before flowers. Coniferous trees, tree ferns, and gingkoes thrived in the ancient subtropical landscape. Many of the giant logs found along the trail, unique to this area, have been given the scientific name <i>Araucarioxylon arizonicum</i>.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Kachina Point",
+        "notes": "Kachina Point\nhttps://www.nps.gov/places/kachina-point.htm\n\nKachina Point overlooks the red part of the Painted Desert, located about 2 miles from the north entrance of Petrified Forest National Park. The overlook is reached by an easy accessible trail behind the Painted Desert Inn National Historic Landmark. This is also the trailhead of the Kachina Point Trail which provides access to the northern wilderness area unit.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.858603,
+          34.810424
+        ]
+      },
+      "properties": {
+        "name": "Long Logs Trail",
+        "notes": "Long Logs Trail\nhttps://www.nps.gov/places/long-logs-trail.htm\n\n<u>Length</u>: 1.6 mile (2.5 km) loop<br /> <u>Trailhead</u>: Rainbow Forest Museum parking area<br /> Long Logs is one of the largest concentrations of petrified wood in the park. Explore this ancient log jam at the base of gray badlands. Please leave petrified wood for others to enjoy. Report any removal of petrified wood or other materials to park staff.<br /> <br /> <em>The first half-mile of this trail is paved and suitable for mobility equipment and strollers. Strollers may be negotiated on the loop, but it is not recommended for most wheelchairs and other mobility equipment due to its narrow turns and rough surface. Stairs to shade shelter can be avoided.<br /> Tread width: 85 in (216 cm), min 50 in<br /> Grade: 3.5%, max 20.5%<br /> Cross Slope: 2.9%, max 17.4%</em>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.79458050212534,
+          35.0690299562476
+        ]
+      },
+      "properties": {
+        "name": "Nizhoni Point",
+        "notes": "Nizhoni Point\nhttps://www.nps.gov/places/nizhoni-point.htm\n\nNizhoni Point overlooks the uncomformity between the Petrified Forest Member of the Chinle Formation and the Bidahochi Formation, located about 4 miles from the north entrance of Petrified Forest National Park. The overlook is right next to the parking area and is accessible to mobility devices. There is a wayside exhibit.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.782305,
+          35.077251
+        ]
+      },
+      "properties": {
+        "name": "North No Name Point",
+        "notes": "North No Name Point\nhttps://www.nps.gov/places/north-no-name-point.htm\n\nThis point overlooks the red badlands of the Chinle Formation and east across the grasslands. It sits on the black basalt of the Bidahochi Formation. This point is worth a quick stop for the great view.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.753246865,
+          34.939458164
+        ]
+      },
+      "properties": {
+        "name": "Off the Beaten Path Billings Gap Overlook Route Stop 1",
+        "notes": "Off the Beaten Path Billings Gap Overlook Route Stop 1\nhttps://www.nps.gov/places/otbp-billings-gap-overlook-1.htm\n\nPark at the fourth pullout of Blue Mesa Loop Road. If you reach the pullout with the shade shelter you have gone too far. This is a great overlook for the north-facing escarpment of Blue Mesa.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.75324094295502,
+          34.93919359872907
+        ]
+      },
+      "properties": {
+        "name": "Off the Beaten Path Billings Gap Overlook Route Stop 2",
+        "notes": "Off the Beaten Path Billings Gap Overlook Route Stop 2\nhttps://www.nps.gov/places/otbp-billings-gap-overlook-2.htm\n\nLook for the beginning of the About 25 ft (7.6 m) to the right of the People and Change wayside sign is the trailhead. The social trail continues for much of the route, but is not reliable. Just stay near the edge of the mesa and continue around in a clockwise direction.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.74852561950684,
+          34.93750492715471
+        ]
+      },
+      "properties": {
+        "name": "Off the Beaten Path Billings Gap Overlook Route Stop 3",
+        "notes": "Off the Beaten Path Billings Gap Overlook Route Stop 3\nhttps://www.nps.gov/places/otbp-billings-gap-overlook-3.htm\n\nAs the route continues towards the overlook, notice the hoodoos calving from the edge of the mesa, due to scarp retreat. As the softer material that form the escarpment face beneath the caprocks erodes, leaving the harder sandstone on top undermined. The edge collapses, causing the edge to retreat, dropping talus below.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.74015712738037,
+          34.93864830233423
+        ]
+      },
+      "properties": {
+        "name": "Off the Beaten Path Billings Gap Overlook Route Stop 4",
+        "notes": "Off the Beaten Path Billings Gap Overlook Route Stop 4\nhttps://www.nps.gov/places/otbp-billings-gap-overlook-4.htm\n\nThe land associated with Billings Gap is part of the land within the 2004 boundary expansion of Petrified Forest National Park. Many new archaeological and paleontological discoveries have been made and are now protected in these new lands. Note the beautifully eroded sandstone and conglomerate hoodoos. When you reach the Billings Gap overlook you are about halfway around the loop. Follow the other side of the rim back south toward the Blue Mesa Loop Road back to where you are parked.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.74977016448975,
+          34.9334326229999
+        ]
+      },
+      "properties": {
+        "name": "Off the Beaten Path Billings Gap Overlook Route Stop 5",
+        "notes": "Off the Beaten Path Billings Gap Overlook Route Stop 5\nhttps://www.nps.gov/places/otbp-billings-gap-overlook-5.htm\n\nContinuing around the other side of the mesa, the route crosses sand dunes, some of the younger deposits in the park. Petrified Forest is located at the southern end of the Tusayan Erg or dune field. These Quaternary deposits sit on the much older Late Triassic Chinle Formation. The highly eroded towers beyond are part of the Chinle Formation.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.78910116,
+          35.0836873196
+        ]
+      },
+      "properties": {
+        "name": "Off the Beaten Path Onyx Bridge Route Stop 1",
+        "notes": "Off the Beaten Path Onyx Bridge Route Stop 1\nhttps://www.nps.gov/places/otbp-onyx-bridge-1-htm.htm\n\nPark at the Painted Desert Inn National Historic Landmark (2 miles from the north entrance of the park). If you know where to look, you can actually see Onyx Bridge from the overlook. Looking at the inn from the parking lot, the trail begins with steps to the left just behind the upright display signs. Take the steps down to the switchback trail that descends 300 feet down to the valley floor. Please be careful of the loose pebbles.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.7887372970581,
+          35.08451746670936
+        ]
+      },
+      "properties": {
+        "name": "Off the Beaten Path Onyx Bridge Route Stop 2",
+        "notes": "Off the Beaten Path Onyx Bridge Route Stop 2\nhttps://www.nps.gov/places/otbp-onyx-bridge-2-htm.htm\n\nWhen you get to the bottom of the steep hill, the trail is well-worn and easy to see as it passes between the red badland hills. Please do not climb on these hills; stay on the path here. As you come out of the hills, stay close to the right. The red hills are part of the Petrified Forest Member of the Chinle Formation. On top of some of them is a crenulated white layer. This is the Black Forest tuff.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.78801846504211,
+          35.088191588346206
+        ]
+      },
+      "properties": {
+        "name": "Off the Beaten Path Onyx Bridge Route Stop 3",
+        "notes": "Off the Beaten Path Onyx Bridge Route Stop 3\nhttps://www.nps.gov/places/otbp-onyx-bridge-3-htm.htm\n\nFrom here the path hooks to the left, still an obvious trail, with a small dry wash (a watercourse that only holds water during rain or other precipitation). This wash goes to your left and right as you move further along the path.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Painted Desert Community Complex National Historic Landmark",
+        "notes": "Painted Desert Community Complex National Historic Landmark\nhttps://www.nps.gov/places/painted-desert-community-complex-nhl.htm\n\nPainted Desert Community Complex National Historic Landmark is a Mid-Century style collection of buildings, half for housing and workspace, half for the public. There is a visitor center, bookstore, giftshop, gas station/convenience store, diner, plaza, picnic area, restrooms, passport stamps, and more.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.78884624139208,
+          35.08397957517525
+        ]
+      },
+      "properties": {
+        "name": "Painted Desert Inn National Historic Landmark",
+        "notes": "Painted Desert Inn National Historic Landmark\nhttps://www.nps.gov/places/painted-desert-inn-nhl.htm\n\n<strong>Stone Tree House</strong><br /> Built of petrified wood and other native stone, the Painted Desert Inn was the vision of Herbert David Lore. While his family remembers the finished building prior to 1920, Lore registered the inn with the land office in 1924, fulfilling his responsibilities under the Homesteading Act.<br /> <br /> For almost twelve years, Lore operated the “Stone Tree House” as a tourist attraction. Visitors could eat meals in the lunchroom, purchase American Indian arts and crafts, and enjoy a cool drink in the downstairs taproom. Six small rooms—cubicles really—were available for two to four dollars per night. Lore also gave two-hour motor car tours through the Black Forest in the Painted Desert below the inn.<br /> <br /> The Stone Tree House was an oasis in the Painted Desert, and quite isolated. A shop containing a lighting-plant supplied electricity, as the inn was not connected to electrical lines. Water was hauled from Adamana, ten miles south on the Puerco River.<br /> <br /> Unfortunately, Lore had built his inn on a seam of bentonite clay. As the clay swells and shrinks in response to changes in moisture, the foundation of the inn shifts. Early on, the Painted Desert Inn began to show cracks in the walls and water damage.<br />  <br /> <strong>CCC</strong><br /> In the early 1930s, Lore had expressed an interest in selling or exchanging his property “in order that it could be preserved and protected.” He was probably also concerned about the integrity of the building. Petrified Forest National Monument purchased the Painted Desert Inn and four sections of land—four square miles—for $59,400 in 1936.<br /> <br /> In the early 1900s, National Park Service Rustic style architecture—nicknamed Parkitecture—arose in the National Park System. This style reflected its connection with the Arts and Crafts movement through buildings that harmonized with their natural environment and regional culture. In the Southwest, Pueblo Revival Style epitomizes this movement, drawing from the Puebloan and Spanish Colonial cultures.<br /> <br /> Pueblo Revival Style features stuccoed masonry, thick walls, earth tones, flat roofs, and projecting roof beams (vigas). Due to the structural problems of the inn and popularity of Pueblo Revival Style in the 1930s, the Painted Desert Inn was redesigned. Well-known for the Southwestern influence of his designs, National Park Service architect Lyle Bennett created a new look for the inn.<br /> <br /> Bennett first started as a ranger in 1927, but moved on to use his degree in fine art to become one of the best and most sought-after architects in the National Park Service. He was considered a master of the Pueblo Revival Style. More of his work can be seen at White Sands and Bandelier National Monuments and Mesa Verde National Park. The workers that made his plans a reality were the men of the Civilian Conservation Corps (CCC).<br /> <br /> In the 1930s, men were finding relief from the Depression through the CCC. They built roads, buildings, trails and bridges in many national parks and other federal and state areas, including Petrified Forest National Monument. Throughout the country, the men of the CCC have left their mark on many historic structures.<br /> <br /> The CCC used ponderosa pine and aspen poles cut from nearby Arizona forests for roofing beams and smaller crossbeams (savinos). Light fixtures were hand-made from punched tin, and wooden tables and chairs were given American Indian designs. The beautiful skylight panels were hand-painted by the CCC workers, designs of prehistoric pottery. Concrete floors were etched and painted with patterns based on Navajo blanket designs.<br />  <br /> <strong>Open for Business</strong><br /> The fine work of the CCC gave the Painted Desert Inn new life. The inn reopened for business of July 4, 1940, under the management of Edward McGrath for Standard Concessions. The Painted Desert Inn supplied Route 66 travelers with meals, souvenirs, and lodging. It was popular with local residents as a place for meetings and special events.<br /> <br /> The good times ended with the beginning of the United States’ involvement in World War II. The CCC was disbanded as most of the young men went to war. Travel was curtailed by wartime rationing. The inn closed in October 1942, reopening five years later under new management.<br />  <br /> <strong>The Fred Harvey Company</strong><br /> The Painted Desert Inn reopened in the late 1940s under the renowned Fred Harvey Company, a business with important ties to Southwest, railroad, and tourism history. Fred Harvey started his company as a partnership with the Santa Fe Railroad in 1876. His facilities for travelers were well known for comfort and quality. The company’s architect and interior designer, Mary Elizabeth Jane Colter, arrived in December of 1947. She was already noted for her innovative Southwestern concepts when she came to the Painted Desert Inn. Along with renovations and repair, Colter created a new color scheme. She ordered new plate glass windows placed in strategic walls of the Inn to take advantage of the magnificent view.<br /> <br /> Fred Kabotie, a renowned Hopi artist, was hired to paint murals on the dining room and lunchroom walls. The scenes are glimpses into Hopi culture: the Buffalo Dance, a trek to a sacred salt lake, planting time, and Tawa—the Hopi sun god. The sun face was also the logo of the Fred Harvey Company. Kabotie had previously worked for the company at the Grand Canyon and other locations.<br /> <br /> Colter was not the only woman that made history with the Fred Harvey Company. Frustrated by rowdy male employees, the Fred Harvey Company recruited women from towns and cities in the East and Midwest to serve customers. These young ladies had to be of good moral character, have at least an eighth grade education, display good manners and be neat and articulate. Their contract stipulated that they could not marry and must abide by all company rules during the term of employment. If hired, the women were given a rail pass to get to their place of employment, a smart uniform, good wages, and room and board. Since their beginning in the 1880s, the Harvey Girls have become American legends. The Harvey Girls of the Painted Desert Inn, from the late 1940s and through the 1950s, still have local ties.<br /> <br /> <br />  <br /> <strong>Preserving Our Legacy</strong><br /> Thanks to the concern and support of the public, Painted Desert Inn remains a testament to the historic legacy of Petrified Forest National Park. Although its history is intriguing, the building is difficult to maintain. Cracks form in many of the walls. Window and door frames swell and skew. Water damage and cracks threaten the beautiful Kabotie murals. The seam of bentonite clay beneath the foundation of the inn continues to cause structural problems.<br /> <br /> Severe structural damage to the inn forced the Fred Harvey Company to move to the newly completed visitor center complex in 1963. The inn’s doors closed while debate over demolition versus preservation went on for many years. The park set aside funds and scheduled demolition of the building for 1975. Due to a public campaign to save the Painted Desert Inn, the building was listed on the National Register of Historic Places in 1976, and reopened on a limited basis as the Bicentennial Travel Center. Because of its fine examples of Pueblo Revival Style design by Bennett, historic work by the CCC, touches by Mary Colter, and Kabotie’s murals, the Painted Desert Inn became a National Historic Landmark in 1987.<br /> <br /> During the most recent work between 2004 and 2006, “modernizing” some of the structural elements in the building will help postpone damage—thirteen “floating” roofs, joint-less pipes in the walls, and re-laid flagstones to help with drainage. Even while bringing the structure into the present, the park is trying to maintain the historical integrity of the building and attempting to present the inn as it was in its heyday during the late 1940s into the 1950s. These rehabilitation projects have continued to preserve the inn for future generations to enjoy, thanks to generous public support.<br /> <br /> The inn continues to inspire and charm visitors. It is opened year round with shorter hours than the rest of the park. During the summer there is an ice cream parlor downstairs harking back to its past service.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.78165501382637,
+          35.06561852929835
+        ]
+      },
+      "properties": {
+        "name": "Petrified Forest Museum Association Bookstore, Painted Desert Visitor Center",
+        "notes": "Petrified Forest Museum Association Bookstore, Painted Desert Visitor Center\nhttps://www.nps.gov/places/pfmapdstore.htm\n\nThe park store is operated by Petrified Forest Museum Association (<a href=\"https://www.petrifiedforestbookstore.com/\">https://www.petrifiedforestbookstore.com/</a>), an official non-profit partner of the National Park Service dedicated to supporting the educational mission of Petrified Forest National Park. The park store has a wide range of books, maps, educational games, and other items available for retail sale. These products complement the interpretive themes you experience when visiting the park. The park store is located at the Painted Desert Visitor Center and the Rainbow Forest Museum, or you can visit the online park store <a href=\"https://www.petrifiedforestbookstore.com/shop/\">https://www.petrifiedforestbookstore.com/shop/</a>.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.80829675020527,
+          35.131605037180535
+        ]
+      },
+      "properties": {
+        "name": "Petrified Forest National Wilderness Area: North Unit",
+        "notes": "Petrified Forest National Wilderness Area: North Unit\nhttps://www.nps.gov/places/petrified-north-wilderness.htm\n\nPetrified Forest National Wilderness Area was designated on October 23, 1970. There are two units, one in the south and one in the north, both comprising 50,260 acres—most in the red part of the Painted Desert. As a designated wilderness area, there are no roads, trails, motorized vehicles, or other human facilities so that the resources of the park shine. Overnight camping is allowed with a free permit that can be obtained in person at the visitor centers. Day hiking doesn’t need a permit except in the Devils Playground area. The north unit of the wilderness features such sites as Onyx Bridge (collapsed in 2020), Black Forest, Lithodendron Wash, Devils Playground, and Angels Garden. Access for overnight use is limited to Kachina Point and Mile Marker 24.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.80227351855467,
+          34.834157011037185
+        ]
+      },
+      "properties": {
+        "name": "Petrified Forest National Wilderness Area: South Unit",
+        "notes": "Petrified Forest National Wilderness Area: South Unit\nhttps://www.nps.gov/places/petrified-south-wilderness.htm\n\nPetrified Forest National Wilderness Area was designated on October 23, 1970. There are two units, one in the south and one in the north, both comprising 50,260 acres—most in the red part of the Painted Desert. As a designated wilderness area, there are no roads, trails, motorized vehicles, or other human facilities so that the resources of the park shine. Overnight camping is allowed with a free permit that can be obtained in person at the visitor centers. Day hiking doesn’t need a permit in the south unit. The north unit of the wilderness features such sites as Flattops and Karens Point. Access for overnight use is limited to Kachina Point and Mile Marker 24.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.8638391494751,
+          34.81560023148907
+        ]
+      },
+      "properties": {
+        "name": "Petroglyph Canyon",
+        "notes": "Petroglyph Canyon\nhttps://www.nps.gov/places/petroglyph-canyon.htm\n\nAn area near Rainbow Forest with many petroglyphs and fascinating erosional landforms, accessed by old road that was made in the 1930s and closed in the 1950s. One of the bike routes and often used for ranger-led hikes.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.79423522949219,
+          34.97595977783203
+        ]
+      },
+      "properties": {
+        "name": "Puerco Pueblo",
+        "notes": "Puerco Pueblo\nhttps://www.nps.gov/places/puerco-pueblo.htm\n\nPuerco Pueblo is located at mile marker 11 (11 miles from the north entrance of Petrified Forest National Park), the only ancestral Puebloan village that is easily accessible to the public. The 1/3 of a mile loop trail meanders through the ancient site, complete with exhibits along the pathway as well as in the mini-museum located in the historic check station half way around the loop. The stabilized masonry walls are only a fraction of the archeological site. Petroglyphs can also been seen close to the trail. The site was occupied over 650 years ago.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.835266,
+          34.825442
+        ]
+      },
+      "properties": {
+        "name": "South No Name Pullout",
+        "notes": "South No Name Pullout\nhttps://www.nps.gov/places/south-no-name-pullout.htm\n\nSouth No Name Pullout is located along the main park road just west of the Flattops of the park. It is the access point for the south unit of the Petrified Forest National Wilderness Area. The pullout overlooks the Martha’s Butte and Jim Camp Wash beds of the Sonsela Member of the Chinle Formation. The brown strata are the Mio-Pliocene Bidahochi Formation. The fossil of an artiodactyl mammal from that unit was discovered near here in 2009, the only non-Triassic aged vertebrate fossil recovered from the park.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.7834183201094,
+          35.08115739890028
+        ]
+      },
+      "properties": {
+        "name": "Tawa Point",
+        "notes": "Tawa Point\nhttps://www.nps.gov/places/tawa-point.htm\n\nThis overlook has a parking lot with some pull through sites, bike rack, wayside exhibits, a scenic view of the red part of the Painted Desert, and two trailheads. Trails from this spot include the Painted Desert Rim Trail and the Tawa Trail. The point is named for Tawa, the Hopi Sun Spirit. According to Hopi beliefs Tawa is the Creator, and it was he who formed the First World out of Tokpella, or Endless Space, as well as its original inhabitants.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.78355616027294,
+          35.07984619565638
+        ]
+      },
+      "properties": {
+        "name": "Tawa Trail",
+        "notes": "Tawa Trail\nhttps://www.nps.gov/places/tawa-trail.htm\n\nTawa Point to Painted Desert Visitor Center<br /> 1.2 miles (1.9 km) one way<br /> <br /> Enjoy the tranquility of the grassland as the trail leads you from scenic Tawa Point to the Painted Desert Visitor Center. The Tawa Trail is a perfect place to stretch your legs after a long road trip.<br /> <br /> In Hopi ideology, Tawa refers to the Sun Spirit, the Creator of the World. The Hopi are one of several current Native American groups who are connected to the rich, varied history of Petrified Forest.<br /> <br /> <i>Groomed surface<br /> Elevation gain: 81 ft (24 m)<br /> Elevation loss: 28 ft (8.5 m)<br /> Accessibility information: Meets standards for outdoor developed areas.<br /> Typical grade 2.3% with grades up to 8.3%<br /> Typical cross slope: 2%<br /> Max cross slope: 5%<br /> Typical tread width: 60 in (152.4 cm)<br /> No obstacles</i>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.776197,
+          34.944956
+        ]
+      },
+      "properties": {
+        "name": "The Tepees North Pullout",
+        "notes": "The Tepees North Pullout\nhttps://www.nps.gov/places/the-tepees-north-pullout.htm\n\nThe Tepees is a area of the park named for the conical hills with banded mudstones that were thought to resemble tepees—or tipis as some people spell it. Tipis are not part of the culture in this region, but some Navajos have pointed out one of the hills that resembles a male hogan.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.777645,
+          34.943206
+        ]
+      },
+      "properties": {
+        "name": "The Tepees South Pullout",
+        "notes": "The Tepees South Pullout\nhttps://www.nps.gov/places/the-tepees-south-pullout.htm\n\nThe Tepees is a area of the park named for the conical hills with banded mudstones that were thought to resemble tepees—or tipis as some people spell it. Tipis are not part of the culture in this region, but some Navajos have pointed out one of the hills that resembles a male hogan. The south parking lot of the Tepees is the trailhead for the Historic Blue Forest Trail.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.78028693627176,
+          35.07226803696825
+        ]
+      },
+      "properties": {
+        "name": "Tiponi Point",
+        "notes": "Tiponi Point\nhttps://www.nps.gov/places/tiponi-point.htm\n\nThis overlook has a parking lot with some pull through sites, bike rack, wayside exhibit, and a scenic view. The name for this point comes from the Hopi word “tíiponi”, relating to corn mother, corn alter, representing the mother of the people carried during their migrations. A tiponi is a sacred object, kept by a leader. Another definition is a sacred badge of authority of the Hopi Indians usually consisting of an ear of corn decorated with feathers or a valued stone and worn or displayed by a chief, priest, or religious society.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.79720827894998,
+          35.0666369198794
+        ]
+      },
+      "properties": {
+        "name": "Whipple Point",
+        "notes": "Whipple Point\nhttps://www.nps.gov/places/whipple-point.htm\n\nWhipple Point is a Painted Desert overlook named for Lt. Amiel W. Whipple, leader of an expedition by the U.S. government. In 1853 Whipple led explorations for the first transcontinental railroad route to the Pacific Ocean, near the 35th parallel (which runs through this location). He was the first to document the petrified wood deposits of the Black Forest and named Lithodendron Creek (Wash). The view looks towards Pintado Point and Pilot Rock, both capped with the basalt Bidahochi Formation above the red Chinle Formation of the Painted Desert.",
+        "icon": "red-pin-down.png"
+      }
+    }
+  ]
+}

@@ -1,0 +1,830 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.945212,
+          43.747832
+        ]
+      },
+      "properties": {
+        "name": "Amphitheater",
+        "notes": "Amphitheater\nhttps://www.nps.gov/places/amphitheater.htm\n\n<p>The Amphitheater, located on the north side of the Cedar Pass Campground, is where nightly ranger programs are conducted on various subjects that focus on the park and its resources. Special events, such as guest speakers and concerts, can also happen here. However, one of the biggest draws to the Amphitheater is the Night Sky program. Astronomy rangers provide a tour of one of the best dark skies in the National Park Service. Visitors can ask questions, learn more about the galaxy, and view telescopes pointed at celestial objects like planets.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.22695452670376,
+          43.865989051420826
+        ]
+      },
+      "properties": {
+        "name": "Ancient Hunters Overlook",
+        "notes": "Ancient Hunters Overlook\nhttps://www.nps.gov/places/ancient-hunters.htm\n\n<p>This road pull-off provides the opportunity to observe an archeological site at Badlands National Park. This geologic slump provides a slightly wetter area where trees grow in abundance. Arrowheads and bison bones have been found at this archeological site, suggesting that it may have been an ancient butchering location.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.338665,
+          43.911102
+        ]
+      },
+      "properties": {
+        "name": "Badlands Bison Corral",
+        "notes": "Badlands Bison Corral\nhttps://www.nps.gov/places/bison-corral.htm\n\nThe bison corrals are the site of the park's annual round up. They are not open to the public but can be seen along the road.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.578688,
+          43.694056
+        ]
+      },
+      "properties": {
+        "name": "Badlands Gunnery Range",
+        "notes": "Badlands Gunnery Range\nhttps://www.nps.gov/places/badlands-gunnery-range.htm\n\n<p>During World War II, a large portion of the Pine Ridge Reservation was seized by the Department of the Army for use as a practice bombing range. From 1942 to 1945, this area was used for air-to-air and air-to-ground firing practice as well as precision and demolition bombing exercises. After the war, the South Dakota National Guard used portions of the bombing range as an artillery range. In 1968, the United States Air Force declared most of the range as excess property. 2,500 of the original 341,726 acres are retained by the Air Force, but are no longer used.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.998215,
+          43.758681
+        ]
+      },
+      "properties": {
+        "name": "Badlands Tunnels",
+        "notes": "Badlands Tunnels\nhttps://www.nps.gov/places/badlands-tunnels.htm\n\n<p>When Highway 240 was originally constructed, crews carved tunnels into the Badlands formations. However, the soft rocks of the Badlands erode easily, which created structural problems that could become serious hazards later. The tunnels were soon removed to provide a safer drive through the Badlands. Some sites, like this one, have slopes hugging Highway 240, where the tunnels used to be.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.47772216796875,
+          43.70943832397461
+        ]
+      },
+      "properties": {
+        "name": "Badlands Wall",
+        "notes": "Badlands Wall\nhttps://www.nps.gov/places/badlands-wall.htm\n\n<p>The Badlands Wall is the primary feature of the Badlands National Park North Unit (formerly Badlands National Monument). As the White River carved into the landscape, it created a valley with badlands formations on either side with an erosional “wall” on the north side of the valley spanning east (near Kadoka, SD) to west (Wall, SD). The Badlands wall, consisting of the rock formations the park is famous for, separates the lower prairie to the south and upper prairie to the north.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.26408705213835,
+          43.881728773468346
+        ]
+      },
+      "properties": {
+        "name": "Badlands Wilderness Overlook",
+        "notes": "Badlands Wilderness Overlook\nhttps://www.nps.gov/places/badlands-wilderness-overlook.htm\n\n<p>The Badlands Wilderness Overlook begins to display an even transition from near completely eroded Badlands formations into prairie. Bison are known to frequent this area, and they are not shy of roads, vehicles, or people.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.90160544660205,
+          43.78595130608262
+        ]
+      },
+      "properties": {
+        "name": "Big Badlands Overlook",
+        "notes": "Big Badlands Overlook\nhttps://www.nps.gov/places/big-badlands-overlook.htm\n\n<p>Big Badlands Overlook provides the opportunity to view the eastern portion of the Badlands wall, and erosional feature that expands from near the town Kadoka (east) to the town of Wall (west). On clearer days, you can see Eagle Nest Butte rising in the southeast horizon, which is situated next to the town of Wanblee, South Dakota. This view shows the lower units of the Badlands Formations. The reddish stripes of the Brule Formation (Scenic Member; Oligocene Epoch, 33.7-32.0 million years ago) dominates the view. The darker gray beds near the base of the outcrops are the older Chadron Formation (Peanut Peak Member; Eocene Epoch, 35.0-33.7 million years ago).</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.04484848106054,
+          43.7950563531996
+        ]
+      },
+      "properties": {
+        "name": "Bigfoot Pass Overlook",
+        "notes": "Bigfoot Pass Overlook\nhttps://www.nps.gov/places/bigfoot-pass-overlook.htm\n\n<p>Aside from being an impressive geologic vista, Big Foot Pass is also a historic area.  After the murder of Sitting Bull on December 15, 1890, approximately 200 Hunkpapa Lakota fled to join Chief Spotted Elk, also known as Big Foot, and his band of Miniconjou Lakota at the Cheyenne Reservation.  This group departed for the Pine Ridge Indian Reservation on December 23, seeking refuge with Chief Red Cloud.  Five days later, a detachment of the 7th Calvary met the traveling group and escorted them to Wounded Knee Creek. The next day (December 29, 1890), tensions rose and the 7th Calvary massacred an estimated 150-300 men, women, and children at Wounded Knee.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.13634056665785,
+          43.803894412485604
+        ]
+      },
+      "properties": {
+        "name": "Burns Basin Overlook",
+        "notes": "Burns Basin Overlook\nhttps://www.nps.gov/places/burns-basin-overlook.htm\n\n<p>This overlook is named after the homestead of Wilson Burns, who raised sheep in the basin during the early 20th century. A freshwater spring was a rare commodity that kept this operation going. Now wells must be dug a few thousand feet deep.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.927738,
+          43.761209
+        ]
+      },
+      "properties": {
+        "name": "Castle Trailhead",
+        "notes": "Castle Trailhead\nhttps://www.nps.gov/places/castle-trailhead.htm\n\n<p>The longest trail in the park travels five miles (ten miles round-trip) between the Door and Window parking area and Fossil Exhibit Trail. Relatively level, the path passes along some Badlands formations. The trailhead is equipped with backcountry camping registration kiosks.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.55696177658032,
+          43.52324543065423
+        ]
+      },
+      "properties": {
+        "name": "Cedar Butte",
+        "notes": "Cedar Butte\nhttps://www.nps.gov/places/cedar-butte.htm\n\nCedar Butte is accessible by foot off of BIA 2. Visitors must pass through a barbed wire fence and proceed towards the butte through only gunnery range property. Proceed with caution and bring enough food, water, and medical supplies for the trip.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.945212,
+          43.747832
+        ]
+      },
+      "properties": {
+        "name": "Cedar Pass Lodge",
+        "notes": "Cedar Pass Lodge\nhttps://www.nps.gov/places/cedar-pass-lodge.htm\n\n<p>The Cedar Pass Lodge was the first establishment in what would later become Badlands National Park. IFounded by Ben Millard in 1926, it was originally a barn-like structure that served as a dance hall. Famous names, like Lawrence Welk, played to a crowded hall on weekends. Cabins were also available for people wanting to visit the Badlands. Today, the Cedar Pass Lodge has lodging and camping available for visitors as well as a gift shop, convenience store, and restaurant.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.931117,
+          43.750445
+        ]
+      },
+      "properties": {
+        "name": "Cliff Shelf Trailhead",
+        "notes": "Cliff Shelf Trailhead\nhttps://www.nps.gov/places/cliff-shelf-trailhead.htm\n\n<p>This loop follows boardwalks and climbs stairs through a juniper forest perched along the Badlands wall. Abundant shade is provided by the junipers and a small pond occasionally exists in the area, which attracts local wildlife. The trail has some boardwalks and stairs, which climb approximately 200 feet in elevation.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.18990465755998,
+          43.84282425319816
+        ]
+      },
+      "properties": {
+        "name": "Conata Basin Overlook",
+        "notes": "Conata Basin Overlook\nhttps://www.nps.gov/places/conata-basin-overlook.htm\n\n<p>Conata Basin Overlook has some incredible views of the park’s paleosols. Paleosols are ancient soils that often take on bright colors in the rock record. At Conata Basin Overlook, one can see two of the park’s most vibrant paleosols: the Yellow Mounds and the Interior Paleosol.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.20069682531647,
+          43.83531904665852
+        ]
+      },
+      "properties": {
+        "name": "Conata Picnic Area",
+        "notes": "Conata Picnic Area\nhttps://www.nps.gov/places/conata-picnic-area.htm\n\n<p>The Conata Picnic Ground is one of the more remote rest stops on Badlands Loop Road, located just a ways down Conata Road. Vault toilets and picnic benches are available. This area is also fairly easy to explore on foot. The west side of the parking lot hosts the Deer Haven trailhead.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.2015,
+          43.83465
+        ]
+      },
+      "properties": {
+        "name": "Deer Haven Trailhead",
+        "notes": "Deer Haven Trailhead\nhttps://www.nps.gov/places/deer-haven-trailhead.htm\n\n<p>The Deer Haven Trail is the name given to an unmaintained network of game trails that see frequent human contact. A small alcove of trees, known as Deer Haven, is located about 3 miles west of the trailhead. Deer Haven stands out from the surrounding area due to the Junipers in this alcove, which are visible for miles.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.92756541820297,
+          43.761119664913174
+        ]
+      },
+      "properties": {
+        "name": "Door Trailhead",
+        "notes": "Door Trailhead\nhttps://www.nps.gov/places/door-trail.htm\n\n<p>A wheelchair-accessible ¼ mile boardwalk leads through a break in the Badlands Wall known as “the Door” to a panoramic view of the Badlands. From there, the maintained trail ends and continues onto Badlands bedrock, with yellow posts marking the primitive portion of the trail. Travel beyond this point is at your own risk.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.195666,
+          43.84535
+        ]
+      },
+      "properties": {
+        "name": "Erosion Markers",
+        "notes": "Erosion Markers\nhttps://www.nps.gov/places/erosion-markers.htm\n\n<p>Survey markers that were previously installed in the soft clays of the Chadron Formation are slowly weathering out. The exposure of the survey markers and the year they were installed demonstrate the rate of erosion in this area.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.003189,
+          43.772242
+        ]
+      },
+      "properties": {
+        "name": "Fossil Exhibit Trailhead",
+        "notes": "Fossil Exhibit Trailhead\nhttps://www.nps.gov/places/fossil-exhibit-trailhead.htm\n\n<p>The Fossil Exhibit Trail is a self-guided, fully accessible boardwalk featuring fossil replicas and exhibits of extinct creatures that once lived in the area. The exhibits are tactile, so please feel free to touch. Braille is incorporated into the exhibits.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.25554730696078,
+          43.87543368951655
+        ]
+      },
+      "properties": {
+        "name": "Hay Butte Overlook",
+        "notes": "Hay Butte Overlook\nhttps://www.nps.gov/places/hay-butte-overlook.htm\n\n<p>The Hay Butte Overlook provides another view into the Sage Creek Wilderness Area. This vantage point also displays a massive, grass-capped butte of Badlands formation known as Hay Butte, one of the major landmarks in the wilderness area. Bison and Bighorn Sheep are known to frequent this area, and they are not shy of roads, vehicles, or people.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.1758503013661,
+          43.822348193190635
+        ]
+      },
+      "properties": {
+        "name": "Homestead Overlook",
+        "notes": "Homestead Overlook\nhttps://www.nps.gov/places/homestead-overlook.htm\n\n<p><a href=\"https://www.nps.gov/articles/000/homesteading.htm\">The Homesteading Acts</a> were laws issued by the US government to promote Westward expansion by giving away free land. In 1862, President Abraham Lincoln signed the first Homesteading Act into law. Under this initial law, a US citizen could claim a 160-acre plot of public land in the West by filing an application, living on and improving the land for a minimum of five years, and filing for a deed within seven years.<br /> <br /> While the Homesteading Acts offered free land to settlers, this “free” land came at a great cost to Native Americans. Much of the land offered as homesteading plots was seized from the Native Americans who previously inhabited the Great Plains through legislation like the <a href=\"https://www.nps.gov/articles/000/dawes-act.htm\">Dawes Act.</a></p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.956471,
+          43.742401
+        ]
+      },
+      "properties": {
+        "name": "Interior Entrance Station",
+        "notes": "Interior Entrance Station\nhttps://www.nps.gov/places/interior-entrance-station.htm\n\n<p>The Interior Entrance station of the park is accessible from US-44 via the small town of Interior, SD. The station can <a href=\"https://www.nps.gov/badl/planyourvisit/fees.htm\">assess any fees and issue passes</a>. Upon entry, visitors will receive park brochures, maps, and other information.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.94467,
+          43.766294
+        ]
+      },
+      "properties": {
+        "name": "Medicine Root Trailhead",
+        "notes": "Medicine Root Trailhead\nhttps://www.nps.gov/places/medicine-root-trailhead.htm\n\n<p>This generally rolling spur trail connects with the Castle Trail on the East near Old Northeast Road and on the West at the intersection of the Castle and Saddle Pass trails. Trail users are provided the opportunity to explore the mixed grass prairie while enjoying views of the Badlands in the distance. Watch for cactus.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.002856,
+          43.770736
+        ]
+      },
+      "properties": {
+        "name": "Norbeck Pass",
+        "notes": "Norbeck Pass\nhttps://www.nps.gov/places/norbeck-pass.htm\n\n<p>Norbeck Pass is a geologically and ecologically significant transition zone between upper and lower prairie environments, separated by the famed Badlands Wall.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.903612,
+          43.788398
+        ]
+      },
+      "properties": {
+        "name": "Northeast Entrance Station",
+        "notes": "Northeast Entrance Station\nhttps://www.nps.gov/places/northeast-entrance-station.htm\n\n<p>The Northeast Entrance station of the park is accessible via I-90, exit 131. The station can assess any <a href=\"https://www.nps.gov/badl/planyourvisit/fees.htm\">fees and issue passes</a>. Upon entry, visitors will receive park brochures, maps, and other information.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.930249,
+          43.755998
+        ]
+      },
+      "properties": {
+        "name": "Notch Ladder",
+        "notes": "Notch Ladder\nhttps://www.nps.gov/places/notch-ladder.htm\n\n<p>The ladder that bisects the Notch Trail is made of steel cable and thick wooden logs. The top of the ladder has metal posts that have been driven into the harder bedrock to maintain stability. Please use caution when climbing up or down this ladder.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.92735215817889,
+          43.76207329732651
+        ]
+      },
+      "properties": {
+        "name": "Notch Trailhead",
+        "notes": "Notch Trailhead\nhttps://www.nps.gov/places/notch-trail.htm\n\n<p>After meandering through a canyon, this 1.5-mile (round trip) trail climbs a log ladder and follows a ledge to “the Notch” for a dramatic view of the White River Valley. Trail begins at the south end of the Door and Window parking area. Watch for drop-offs. Not recommended for anyone with a fear of heights. Treacherous during or after heavy rains or snow.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.49547983717368,
+          43.51107250217316
+        ]
+      },
+      "properties": {
+        "name": "Palmer Creek",
+        "notes": "Palmer Creek\nhttps://www.nps.gov/places/palmer-creek.htm\n\nPalmer Creek is one of two districts in the South Unit of the park. It is undeveloped, remote, and surrounded by private property. Before attempting to access the unit, contact the park for more information.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.06139719411836,
+          43.795903745262294
+        ]
+      },
+      "properties": {
+        "name": "Panorama Point Overlook",
+        "notes": "Panorama Point Overlook\nhttps://www.nps.gov/places/panorama-point.htm\n\n<p>Panorama Point offers a wide view of the Badlands landscape, downward towards the White River Valley. The view is similar to what is seen in the Big Foot Pass area.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.238738,
+          43.880846
+        ]
+      },
+      "properties": {
+        "name": "Pinnacles Entrance Station",
+        "notes": "Pinnacles Entrance Station\nhttps://www.nps.gov/places/pinnacles-entrance-station.htm\n\n<p>The Pinnacles entrance station of the park is accessible via I-90, exit 110 near Wall. The station can assess any <a href=\"https://www.nps.gov/badl/planyourvisit/fees.htm\">fees and issue passes</a>. Upon entry, visitors will receive park brochures, maps, and other information.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.23329159055226,
+          43.86974854151382
+        ]
+      },
+      "properties": {
+        "name": "Pinnacles Overlook",
+        "notes": "Pinnacles Overlook\nhttps://www.nps.gov/places/pinnacles-overlook.htm\n\n<p>This view displays the expanse of the Sage Creek Wilderness area. On clear days, the Black Hills are visible on the horizon. Bison might be visible in the distance, in the valley below or the upper prairie to the northwest. This overlook is also a popular spot for Bighorn sheep to gather. This is also a lambing area for Bighorn sheep in late April to early May, so it’s not unusual to see lambs traversing the rocky slopes of the Badlands.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.08781445371926,
+          43.79044363003993
+        ]
+      },
+      "properties": {
+        "name": "Prairie Wind Overlook",
+        "notes": "Prairie Wind Overlook\nhttps://www.nps.gov/places/prairie-wind-overlook.htm\n\n<p>This overlook provides a serene view of the mixed-grass prairie at Badlands National Park. The North American <a href=\"https://www.nps.gov/articles/000/prairie-ecology-badl.htm\">prairie ecosystem</a> is separated into three major components, based on which type of grass dominates the ecology: short-grass prairie, mixed-grass prairie, and tall-grass prairie. The short-grass prairie runs along the rain shadow of the Rocky Mountains, where short grasses receive little moisture. The tall-grass prairie ecosystem Badlands hosts the largest preserved mixed-grass prairie in the United States.  Today, the native prairie only retains about 2% of its original range. Invasive plants further threaten what little is left, pushing out native plants virtually unchallenged. Badlands National Park does what it can to manage these invaders with various tactics, including prescribed fires and spraying herbicides.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.158316,
+          43.812321
+        ]
+      },
+      "properties": {
+        "name": "Quinn Road Prairie Dog Town",
+        "notes": "Quinn Road Prairie Dog Town\nhttps://www.nps.gov/places/quinn-road-prairie-dog-town.htm\n\n<p>This stop provides a perfect view of a prairie-dog town along the Badlands Highway 240 loop road. Other than the mounds of dirt where the prairie dogs have made their homes, the first thing you will likely notice is the high-pitched squeaks and noises coming from the prairie dogs. They are active communicators, using these vocalizations and body language to warn community members of potential dangers or by giving their neighbors an “all is clear” message.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.8927058900212,
+          43.51291650942214
+        ]
+      },
+      "properties": {
+        "name": "Red Shirt Table Overlook",
+        "notes": "Red Shirt Table Overlook\nhttps://www.nps.gov/places/red-shirt-table-overlook.htm\n\n<p>Red Shirt Table Overlook is an unassuming pull-off with one of the most breathtaking views of the Badlands. The geologic section here is near complete, providing one of the most colorful vistas in the park.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.30700292546328,
+          43.90531172564648
+        ]
+      },
+      "properties": {
+        "name": "Roberts Prairie Dog Town",
+        "notes": "Roberts Prairie Dog Town\nhttps://www.nps.gov/places/roberts-prairie-dog-town.htm\n\n<p>This stop provides a perfect view of the largest prairie-dog town in the accessible areas of Badlands National Park. Other than the mounds of dirt where the prairie dogs have made their homes, the first thing you will likely notice is the high-pitched squeaks and noises coming from the Prairie dogs.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.97443,
+          43.757976
+        ]
+      },
+      "properties": {
+        "name": "Saddle Pass Trailhead",
+        "notes": "Saddle Pass Trailhead\nhttps://www.nps.gov/places/saddle-pass-trailhead.htm\n\n<p>This short trail climbs up the Badlands Wall to a view over the White River Valley. The trail ends where it connects with the Castle and Medicine Root Loop trails. Despite being one of the shorter trails in the park, Saddle Pass is one of the steepest, with approximately 300 feet of elevation change.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.33077623995288,
+          43.90310685877961
+        ]
+      },
+      "properties": {
+        "name": "Sage Creek Basin Overlook",
+        "notes": "Sage Creek Basin Overlook\nhttps://www.nps.gov/places/sage-creek-basin-overlook.htm\n\n<p>The Sage Creek Basin Overlook provides a view into a pristine mixed grass prairie. Here, Badlands formations have eroded away almost entirely, revealing an underlying terrain more suitable for grasslands soil development. Trails are visible throughout this area, but they are not developed or maintained by the park. These are game trails made by bison. </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.35686,
+          43.864348
+        ]
+      },
+      "properties": {
+        "name": "Sage Creek Wilderness",
+        "notes": "Sage Creek Wilderness\nhttps://www.nps.gov/places/sage-creek-wilderness.htm\n\n<p>In this area, most of the badlands formations have eroded away, and the underlying Cretaceous sediments are more suitable for soil development for the grasslands. Trails are visible throughout this area, but they are not developed or maintained by the park. These are game trails made by bison. You are free to explore the area using these trails, but please maintain good safety practices if bison are in the area.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.57868677946456,
+          43.69219342826597
+        ]
+      },
+      "properties": {
+        "name": "Sheep Mountain Table Overlook",
+        "notes": "Sheep Mountain Table Overlook\nhttps://www.nps.gov/places/sheep-mountain-table-overlook.htm\n\n<p>Sheep Mountain Table is the highest area in the park at nearly 3,300 feet above sea level. Horses or cattle might be seen roaming the area because of agreements made with local ranchers on the Pine Ridge Reservation. Part of the agreement between the National Park Service and the Oglala Lakota Nation is that park lands remain accessible to tribal ranchers on the Reservation.  Badlands National Park is one of the only NPS units that allows this.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.68968253035051,
+          43.58188582958773
+        ]
+      },
+      "properties": {
+        "name": "Stronghold Table",
+        "notes": "Stronghold Table\nhttps://www.nps.gov/places/stronghold-table.htm\n\n<p>Stronghold Table is located near Cuny and Galigo Tables. It was the site of the last known Ghost Dance. There are no roads to the site and it is accessible only by foot.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.198662,
+          43.833391
+        ]
+      },
+      "properties": {
+        "name": "The Pig Dig",
+        "notes": "The Pig Dig\nhttps://www.nps.gov/places/big-pig-dig.htm\n\n<p>In 1993, a photographer named Jim Carney and his friend Steve Gasman stopped at Conata Picnic Ground for lunch. Afterwards, they decided to explore the area, and Mr. Carney found some bones exposed just off the edge of the road. He took a photo of his find and reported the discovery to park staff. The project to excavate this became known as the <a href=\"https://www.nps.gov/articles/000/big-pig-dig.htm\">Pig Dig</a>.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.9416825,
+          43.74905183
+        ]
+      },
+      "properties": {
+        "name": "The Saber Site",
+        "notes": "The Saber Site\nhttps://www.nps.gov/places/the-saber-site.htm\n\n<p>In 2010, Kylie Ferguson, a 7-year-old attending a Junior Ranger program, decided to look for fossils next to the Ben Reifel Visitor Center. She found some bone exposed in an outcrop not far from the picnic benches. The fossils were left in place and reported to a ranger. The site was monitored by park paleontologists for the next several weeks. After a few rainfalls, more of the fossil was exposed, revealing the tips of saber teeth. Once park staff realized what Kylie had found, the fossil was recovered, prepared, and curated. Kylie discovered the skull of a nimravid (or false cat) called Hoplophoneus. </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.008157,
+          43.76642
+        ]
+      },
+      "properties": {
+        "name": "Toadstool Rock",
+        "notes": "Toadstool Rock\nhttps://www.nps.gov/places/toadstool-rock.htm\n\n<p>A hoodoo or toadstool refers to a geologic structure where a large block of erosionally resistant (hard) rock is balanced by more quickly eroding (soft) rock underneath, making a toadstool-like feature. This particular hoodoo is made of a boulder of well-cemented river channel sediment from the Sharps Formation (Oligocene, 30-26 million years ago) balanced on eroding mudstone of the Scenic Member of the Brule Formation (Oligocene, 33.7-32.0 million years ago).</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.00381,
+          43.77201
+        ]
+      },
+      "properties": {
+        "name": "Wayside: Alligator",
+        "notes": "Wayside: Alligator\nhttps://www.nps.gov/places/badl_waysidealligator.htm\n\n<p lang=\"EN-US\" xml:lang=\"EN-US\"><strong>See ya later, Alligator</strong>: </p> <p lang=\"EN-US\" xml:lang=\"EN-US\">Prehistoric alligators lived in swampy conditions, as they do today. Physically, alligators have changed mostly in size over the last several million years. Modern alligators are larger, growing up to 14 feet long. Ancient alligators grew to only 6 ½ feet long. </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.00354,
+          43.7721
+        ]
+      },
+      "properties": {
+        "name": "Wayside: Ammonite",
+        "notes": "Wayside: Ammonite\nhttps://www.nps.gov/places/badl_waysideammonite.htm\n\n<p><strong>Under the Sea </strong><br /> <br /> Ammonite fossils found in the park are evidence that this area was under water 75 million years ago. Some ammonites could grow to more than three feet across and served as a food source for giant mosasaurs and other predators. </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.00429,
+          43.77211
+        ]
+      },
+      "properties": {
+        "name": "Wayside: Dog",
+        "notes": "Wayside: Dog\nhttps://www.nps.gov/places/badl_waysidedog.htm\n\n<p lang=\"EN-US\" xml:lang=\"EN-US\"><strong>It's a Dog's Life</strong>:</p> <p lang=\"EN-US\" xml:lang=\"EN-US\">Dogs have changed and adapted over millions of years. Members of the dog lineage gradually evolved into the wolf by growing longer, stronger legs and a shorter tail. This increased size led to increased strength and power to hunt food and escape predators. Today's wolf and modern domestic dogs are descendants of early canids. </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.00384,
+          43.77199
+        ]
+      },
+      "properties": {
+        "name": "Wayside: Horse",
+        "notes": "Wayside: Horse\nhttps://www.nps.gov/places/badl_waysidehorse.htm\n\n<strong>Off to the Races</strong><br />   <p lang=\"EN-US\" xml:lang=\"EN-US\">Horses have adapted in North America over millions of years. As woodlands changed to grasslands, the dog-sized primitive horses gradually evolved into the lineage that led to modern-day horse. </p> <p lang=\"EN-US\" xml:lang=\"EN-US\">Mesohippus was the first three-toed horse; ancestors to earlier horses had five toes. This is one of the adaptations allowing Mesohippus to have a greater chance of survival on open shrublands. </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.00405,
+          43.77227
+        ]
+      },
+      "properties": {
+        "name": "Wayside: Nimravid",
+        "notes": "Wayside: Nimravid\nhttps://www.nps.gov/places/badl_waysidenimravid.htm\n\n<p lang=\"EN-US\" xml:lang=\"EN-US\"><strong>Fight for Survival</strong></p> <p lang=\"EN-US\" xml:lang=\"EN-US\">Fossils can reveal how animals lived and died, and what their environment was like. Evidence from one of the park's nimravid fossils offers crime-scene clues. The size and location of the holes in the forehead of this fossil match the knife-like teeth of another large nimravid.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.00373,
+          43.77272
+        ]
+      },
+      "properties": {
+        "name": "Wayside: Oreodont",
+        "notes": "Wayside: Oreodont\nhttps://www.nps.gov/places/badl_waysideoredont.htm\n\n<p lang=\"EN-US\" xml:lang=\"EN-US\"><strong>Dying to Become a Fossil </strong></p> <p lang=\"EN-US\" xml:lang=\"EN-US\">Oreodonts were common throughout the Badlands but became extinct. Their fossil remains provide evidence of their lives and habitat. Fossils can develop over time when animal or plant remains are quickly covered in sediment and replaced by minerals. </p> <p lang=\"EN-US\" xml:lang=\"EN-US\"><strong>Ancient Life </strong></p> <p lang=\"EN-US\" xml:lang=\"EN-US\">There are a number of different ways animals and plants can become fossils. Remains can have all, some, or none of the original materials replaced by minerals. Some fossils are impressions, casts, or molds of the remains. The basic steps are illustrated here for this oreodont fossil. </p> <p lang=\"EN-US\" xml:lang=\"EN-US\"><strong>Death and Decay</strong>  </p> <p lang=\"EN-US\" xml:lang=\"EN-US\">When this animal died, its remains were quickly buried in mud, sand, or soil. Soft elements decayed quickly while hard bone or teeth remained. </p> <p lang=\"EN-US\" xml:lang=\"EN-US\"><strong>Burial </strong></p> <p lang=\"EN-US\" xml:lang=\"EN-US\">Over time, more and more sediment covered the remains. Teeth, bones, and other parts less likely to break-up or decay were encased in the sediment. </p> <p lang=\"EN-US\" xml:lang=\"EN-US\"><strong>Change </strong></p> <p lang=\"EN-US\" xml:lang=\"EN-US\">Eventually, the skeletal material dissolved and was replaced by minerals. This process resulted in a copy of the oreodont preserved within the rock. </p> <p lang=\"EN-US\" xml:lang=\"EN-US\"><strong>Discovery</strong></p> <p lang=\"EN-US\" xml:lang=\"EN-US\">Fossils surviving the ravages of time, particularly erosion, may be discovered by paleontologists or visitors. Hard parts, like teeth, and other parts replaced by minerals stand a better chance of discovery. Sometimes, as with this oreodont, fossils provide the only evidence of a non extinct animal.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.00439,
+          43.77212
+        ]
+      },
+      "properties": {
+        "name": "Wayside: Reading the Rocks",
+        "notes": "Wayside: Reading the Rocks\nhttps://www.nps.gov/places/badl_waysidereadingrocks.htm\n\n<p lang=\"EN-US\" xml:lang=\"EN-US\"><strong>Reading the Rocks</strong>:<br /> <br /> \"These rocks were deposited millions of years ago when rivers and wind spread silt, sand, and ash across the landscape. About 500,000 years ago, ancient rivers began eroding this area, leading to the present day landscape. Modern rivers, rain, and wind continue to sculpt the land by washing away soft rock at a rate of about one inch a year. </p> <p lang=\"EN-US\" xml:lang=\"EN-US\">Differences in the composition of each layer reveal what the climate was like when the sediments were deposited. The oldest layers, not visible from here, represent a marine environment. The top layers are the most recent, representing a cool, dry savannah. Together the rock layers tell a dramatic story of changing climate and ancient animal migration, adaptation, and extinction from 24 to 75 million years ago.\" </p> <p lang=\"EN-US\" xml:lang=\"EN-US\"><strong>Sharps Formation</strong>: </p> <p lang=\"EN-US\" xml:lang=\"EN-US\">\"The peaks and pinnacles of the highest rocks are part of the 28-30 million year old Sharps Formation. Ancient rivers deposited coarse sands and silts. Ash from distant, erupting volcanoes blew across the landscape. These sediments and the fossils found in this formation are evidence of a cool dry climate. Many of the same animals from the older Brule Formation remain.\" </p> <p lang=\"EN-US\" xml:lang=\"EN-US\"><strong>Rockyford Ash</strong>: </p> <p lang=\"EN-US\" xml:lang=\"EN-US\">A line of gray rock marks the transition from the older Brule Formation to the younger Sharps Formation. Thirty million years ago, this ash layer blew across the Badlands from a distant volcano. The Rockyford Ash marks a specific time period, helping geologists determine the age of younger rocks above and older rocks below. </p> <p lang=\"EN-US\" xml:lang=\"EN-US\"><strong>Brule Formation</strong>:</p> <p lang=\"EN-US\" xml:lang=\"EN-US\">\"Meandering rivers flowing through dry and cool shrublands and woodlands left thick sediments 30-34 million years ago. Animals like oreodonts and rimravids thrived in these habitats. Alligators moved away to wetter and warmer climates. Do you see any colored banding in the formation? Some o these layers are ancient soils, known as paleosols.\" </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.00369,
+          43.77206
+        ]
+      },
+      "properties": {
+        "name": "Wayside: Titanothere",
+        "notes": "Wayside: Titanothere\nhttps://www.nps.gov/places/badl_waysidetitanothere.htm\n\n<p lang=\"EN-US\" xml:lang=\"EN-US\"><strong>Titanic Discovery </strong></p> <p lang=\"EN-US\" xml:lang=\"EN-US\">The discovery of this specimen led to the golden age of paleontology in North America. After acquiring this fossil from fur traders, Dr. Hiram Prout wrote about it in 1846. His description captured the attention of scientists. At that time, vertebrate paleontology, the study of ancient creatures with a backbone, was a young science. Many began to do further fieldwork on fossils from the western United States. </p> <p lang=\"EN-US\" xml:lang=\"EN-US\">Titanotheres ate leafy plants and thrived in the warm, subtropical climate. Their family lineage became extinct as climate and habitats changed. Rock layers younger than the Chadron Formation show no evidence of titanothere fossils in the park. </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.03330888003181,
+          43.78922438555998
+        ]
+      },
+      "properties": {
+        "name": "White River Valley Overlook",
+        "notes": "White River Valley Overlook\nhttps://www.nps.gov/places/white-river-valley-overlook.htm\n\n<p>This overlook provides an expansive view  of Badlands close to a set of tall formations, known as the Castle, to the west. The view continues downward into the White River Valley.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.92749408275485,
+          43.76181538668625
+        ]
+      },
+      "properties": {
+        "name": "Window Trailhead",
+        "notes": "Window Trailhead\nhttps://www.nps.gov/places/window-trail.htm\n\n<p>This trail is short and provides excellent views of layered badlands geology. The view at the end provides a premier vantage point of the Badlands wall, extending far beyond the park’s eastern boundary.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.19483414392572,
+          43.84336926860922
+        ]
+      },
+      "properties": {
+        "name": "Yellow Mounds Overlook",
+        "notes": "Yellow Mounds Overlook\nhttps://www.nps.gov/places/yellow-mounds-overlook.htm\n\n<p>This overlook is placed within the most colorful portion of Badlands geology. Yellow, purple, gray, and striped reddish beds display the sequence of Yellow Mounds, the Interior Paleosol, Chadron, and Brule formations respectively, from bottom to top.</p>",
+        "icon": "red-pin-down.png"
+      }
+    }
+  ]
+}

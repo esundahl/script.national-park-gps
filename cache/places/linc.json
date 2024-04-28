@@ -1,0 +1,888 @@
+[
+  {
+    "id": "7017281D-9D1D-4B85-B090-75824FFE63E3",
+    "url": "https://www.nps.gov/places/000/concessions-lincoln-memorial-north.htm",
+    "title": "Concessions - Lincoln Memorial (north)",
+    "listingDescription": "Books, souvenirs, and snacks may be puchased at this kiosk, run by a concessionaire to the National Park Service, Guest Services, Inc.",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/95C60F81-CBA4-7C33-D93BF45078F7B961.jpg",
+        "credit": "",
+        "altText": "Front of small gift shop.",
+        "title": "Concession: Lincoln Memorial - North",
+        "description": "",
+        "caption": "Concession: Lincoln Memorial - North",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/95C60F81-CBA4-7C33-D93BF45078F7B961.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/95C60F81-CBA4-7C33-D93BF45078F7B961.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "DC",
+        "parkCode": "linc",
+        "designation": "",
+        "fullName": "Lincoln Memorial",
+        "url": "https://www.nps.gov/linc/index.htm",
+        "name": "Lincoln Memorial"
+      },
+      {
+        "states": "DC",
+        "parkCode": "nama",
+        "designation": "",
+        "fullName": "National Mall and Memorial Parks",
+        "url": "https://www.nps.gov/nama/index.htm",
+        "name": "National Mall and Memorial Parks"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [],
+    "latitude": "38.890728",
+    "longitude": "-77.049236",
+    "latLong": "38.890728,-77.049236",
+    "bodyText": "<p>Books, souvenirs, and snacks may be puchased at this kiosk, run by a concessionaire to the National Park Service, Guest Services, Inc.</p>",
+    "audioDescription": "",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "",
+    "isManagedByNps": "1",
+    "amenities": [
+      "Bicycle - Rental",
+      "Gifts/Souvenirs/Books",
+      "Picnic Table",
+      "Wheelchair Accessible"
+    ],
+    "managedByOrg": "",
+    "quickFacts": [],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  },
+  {
+    "id": "678297CC-4206-4027-A6D2-40CBE3406E6F",
+    "url": "https://www.nps.gov/places/000/concessions-lincoln-memorial-south.htm",
+    "title": "Concessions - Lincoln Memorial (south)",
+    "listingDescription": "Food may be puchased at this kiosk, run by a concessionaire to the National Park Service, Guest Services, Inc.",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/95AA57C1-E90D-05F9-731F2CECCE5D43B0.jpg",
+        "credit": "",
+        "altText": "Food and drink on a table.",
+        "title": "Concession: Lincoln Memorial",
+        "description": "",
+        "caption": "Concession: Lincoln Memorial - South",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/95AA57C1-E90D-05F9-731F2CECCE5D43B0.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/95AA57C1-E90D-05F9-731F2CECCE5D43B0.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "DC",
+        "parkCode": "linc",
+        "designation": "",
+        "fullName": "Lincoln Memorial",
+        "url": "https://www.nps.gov/linc/index.htm",
+        "name": "Lincoln Memorial"
+      },
+      {
+        "states": "DC",
+        "parkCode": "nama",
+        "designation": "",
+        "fullName": "National Mall and Memorial Parks",
+        "url": "https://www.nps.gov/nama/index.htm",
+        "name": "National Mall and Memorial Parks"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [],
+    "latitude": "38.8877",
+    "longitude": "-77.049088",
+    "latLong": "38.8877,-77.049088",
+    "bodyText": "<p>Food may be puchased at this kiosk, run by a concessionaire to the National Park Service, Guest Services, Inc.</p>",
+    "audioDescription": "",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "",
+    "isManagedByNps": "1",
+    "amenities": [
+      "Bicycle - Rental",
+      "Food/Drink - Cafeteria",
+      "Picnic Table"
+    ],
+    "managedByOrg": "",
+    "quickFacts": [],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  },
+  {
+    "id": "F21AF975-7FA2-47F4-B92E-17D3AAD36D86",
+    "url": "https://www.nps.gov/places/district-of-columbia-mitchell-jamieson-mural.htm",
+    "title": "District of Columbia: Mitchell Jamieson Mural",
+    "listingDescription": "American artist, Mitchell Jamieson, captures the monumental nature of African-American opera singer Marian Anderson's 1939 performance at the Lincoln Memorial in his mural \"An Incident in Contemporary American Life.\"",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/A4319824-C660-A2B6-37D4262EDC2DDDAE.jpg",
+        "credit": "Photo by Carol M. Highsmith, Public Domain. Digital image has been cropped to show top 1/2 of mural.",
+        "altText": "Mural of crowd in front of Lincoln Memorial.",
+        "title": "Mitchell Jamieson Mural",
+        "description": "",
+        "caption": "An Incident in Contemporary American Life. Mural by Mitchell Jamieson. 1940-1943.",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/A4319824-C660-A2B6-37D4262EDC2DDDAE.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/A4319824-C660-A2B6-37D4262EDC2DDDAE.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "DC",
+        "parkCode": "linc",
+        "designation": "",
+        "fullName": "Lincoln Memorial",
+        "url": "https://www.nps.gov/linc/index.htm",
+        "name": "Lincoln Memorial"
+      }
+    ],
+    "relatedOrganizations": [
+      {
+        "id": "E263EA6B-1C9D-42C7-B72C-D66D2104E94D",
+        "url": "http://www.nps.gov/orgs/1345/",
+        "name": "Cultural Resources, Partnerships, and Science Directorate"
+      }
+    ],
+    "tags": [
+      "African American Civil Rights",
+      "African American Civil Rights Network",
+      "Marian Anderson",
+      "Washington D.C",
+      "Lincoln Memorial",
+      "African American History and Culture"
+    ],
+    "latitude": "",
+    "longitude": "",
+    "latLong": "",
+    "bodyText": "<p><b>Mitchell Jamieson</b> (1915-1976) was an American painter known for his illustrations and watercolors and as a WWII combat artist. One of his most famous and enduring works of art is his 6 foot by 12 foot mural \"An Incident in Contemporary American Life\" (1943). Jamieson, who was 25 years old at the time, was selected by a panel of artists in 1940 to create a mural commemorating opera singer Marian Anderson's<b> </b>(1897-1993) famous performance in front of the Lincoln Memorial. The mural was intended to be displayed in the Department of the Interior building in downtown Washington, DC. Jamieson was paid for his work through the Marian Anderson Fund Committee, a collection of private contributions received from all over the United States. <br /> <br /> The event commemorated in Jamieson's mural took place in 1939 when the Daughters of the American Revolution (DAR), an all-white organization of descendants of Revolutionary War soldiers, denied African American opera singer Marian Anderson<b> </b>the use of its concert hall, Constitution Hall.<br /> <br /> At the time, Constitution Hall was the only venue in Washington, D.C. large enough to accommodate Anderson’s sizeable audience. Anderson's manager, Sol Hurok, attempted to book her for a performance in the hall, however the DAR refused to schedule Anderson on any of the dates Hurok requested, even though the same dates were open to white performers. In the early days of the venue, African-American audiences had been allowed to use a small section of the balcony to see black artists perform. That changed after a black artist refused to sing in the segregated auditorium. After that, DAR began to operate Constitution Hall under a whites-only performance contract.<br /> <br /> As a result of the overt racial discrimination against Anderson, First Lady <a href=\"https://www.nps.gov/hofr/learn/historyculture/anna-eleanor-roosevelt.htm\">Eleanor Roosevelt</a> resigned from the DAR, resulting in a media frenzy. Roosevelt wrote about her decision in her popular weekly column, \"My Day.\" Other newspapers began to write editorials supporting Anderson, putting pressure on the DAR. However, the organization refused to change their position. In lieu of a performance at Constitution Hall, Mrs. Roosevelt and Secretary of the Interior Harold Ickes, along with National Association for the Advancement of Colored People's (NAACP) Executive Secretary Walter White organized an open-air concert on the steps of the Lincoln Memorial on Easter Sunday, April 9, 1939.<br /> <br /> Standing in front of an integrated crowd of over 75,000 people, Anderson's first song was the patriotic ballad, “My Country, ‘Tis of Thee” accompanied only by a piano. The entire concert lasted 25 minutes and was broadcast by radio to millions of people across the United States.<br /> <br /> The mural is still on display at the Stewart Lee Udall Department of Interior Building in Washington, DC and can be seen by scheduling a tour with the Department of the Interior Museum. For more information click on the \"Managed By\" link on the right side of the web page.<br /> <br /> The mural was added to the <a href=\"https://www.nps.gov/subjects/civilrights/african-american-civil-rights-network.htm\">African American Civil Rights Network</a> in February 2018.<br /> <br /> <em>The African American Civil Rights Network (AACRN) recognizes the civil rights movement in the United States and the sacrifices made by those who fought against discrimination and segregation. Created by the African American Civil Rights Act of 2017, and coordinated by the National Park Service, the Network tells the stories of the people, places, and events of the U.S. civil rights movement through a collection of public and private elements.</em></p>",
+    "audioDescription": "",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "https://www.doi.gov/interiormuseum/tours",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "",
+    "isManagedByNps": "0",
+    "amenities": [],
+    "managedByOrg": "Department of the Interior",
+    "quickFacts": [
+      {
+        "id": "5C252B96-2DEB-4EF4-91D1-B5D2B202FCD7",
+        "value": "Stewart Lee Udall Department of the Interior Building, 1849 C Street NW, Washington, DC",
+        "name": "Location"
+      },
+      {
+        "id": "208F1B3C-44DC-4CF5-9A61-9B26A364D701",
+        "value": "Mural commemorates Marian Anderson's 1939 performance at the Lincoln Memorial",
+        "name": "Significance"
+      },
+      {
+        "id": "E32D2136-A184-4C1A-91D2-4C20CEF9CBAF",
+        "value": "African American Civil Rights Network",
+        "name": "Designation"
+      }
+    ],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  },
+  {
+    "id": "2A8A6641-6EA0-453F-8905-AB329A3655A7",
+    "url": "https://www.nps.gov/places/000/lincoln-memorial.htm",
+    "title": "Lincoln Memorial",
+    "listingDescription": "An iconic building in Washington, DC, the Lincoln Memorial honors the memory of the 16th president, Abraham Lincoln.",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/9689C450-B021-A0FC-A69A7B4E05D8FD43.jpg",
+        "credit": "",
+        "altText": "A large, rectangular monument surrounded by white columns.",
+        "title": "Lincoln Memorial",
+        "description": "",
+        "caption": "The Lincoln Memorial",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/9689C450-B021-A0FC-A69A7B4E05D8FD43.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/9689C450-B021-A0FC-A69A7B4E05D8FD43.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "DC",
+        "parkCode": "linc",
+        "designation": "",
+        "fullName": "Lincoln Memorial",
+        "url": "https://www.nps.gov/linc/index.htm",
+        "name": "Lincoln Memorial"
+      },
+      {
+        "states": "DC",
+        "parkCode": "nama",
+        "designation": "",
+        "fullName": "National Mall and Memorial Parks",
+        "url": "https://www.nps.gov/nama/index.htm",
+        "name": "National Mall and Memorial Parks"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [],
+    "latitude": "38.8893117",
+    "longitude": "-77.050134899",
+    "latLong": "38.8893117,-77.050134899",
+    "bodyText": "<p>The Lincoln Memorial honors the 16th president of the United States, <a href=\"https://www.nps.gov/places/000/lincoln-memorial-statue-of-lincoln.htm\">Abraham Lincoln</a>. Presiding through the Civil War, Lincoln not only saved the Union, preserving its government, boundaries, and ideals, he reinvigorated the nation's founding principle - that all men are created equal. The memorial opened in 1922, and is not only a national landmark, it is a source of contemplation and inspiration for millions of visitors each year. <br /> <br /> The memorial is built in the style of the Greek Parthenon, a rectangular structure with tall, white columns towering above those walking among them. The columns represent the states in the United States during Lincoln's presidency, and correspond to state names listed above. Symbolizing the strength of the union of the states, the motif of a bundle of rods appears throughout the building: below Lincoln's arms, in the mural above the Gettysburg Address, in the margins of the Second Inaugural Address, on the walls flanking the stairs, and in the columns of the building itself. The memorial makes little doubt of Lincoln's importance as the \"Savior of the Union.\"<br /> <br /> Until the late 1800s, the current land under the Lincoln Memorial did not exist; it was in the Potomac River. When the U.S. Army Corps of Engineers deepened the river, they deposited the dredged silt along the banks, expanding the land to its current configuration. Almost immediately, the memorial's backers proposed the reclaimed land as the site for a memorial to Lincoln, but this nearly mile-wide swath of dredged, stinking mud formed an unappealing aesthetic. Its attractiveness improved after landscaping and engineering transformed the land's appearance by the early 1900s.<br /> <br /> The decision to place the memorial at its current location came in 1913, and construction started the following year. Henry Bacon designed the building, Daniel French sculpted the statue, and Jules Guerin painted the two murals. Working together, they created an iconic symbol of our nation and our ideals.</p>",
+    "audioDescription": "(436 words)The Lincoln Memorial is located on the western end of the National Mall in Washington, DC, east of the Potomac River and west of the Lincoln Memorial Reflecting Pool. From the intersection of Lincoln Memorial Circle, NW and Henry Bacon Drive, proceed three hundred sixty-five feet south through an open plaza area to the base of the Lincoln Memorial steps.The memorial resembles a classic Greek temple, roughly 67 yards wide, 44 yards deep, and 26 yards tall. Among bas reliefs of wreaths and garlands, the names of the states in the union at the time of Lincoln's death are inscribed above the colonnade, and the names of the states in the union at the time of the memorial's dedication are inscribed above them. The years that the dates entered the union are inscribed in Roman numerals below their names.<br />Travel west up granite steps past twelve forty-four-foot-tall columns that line the front of the memorial. The Memorial's interior is divided into three chambers by two rows of four columns, each fifty feet tall.<br />Set along the back, west interior wall is the sixty foot-wide, seventy-four foot-deep, and sixty-foot-high white marble Lincoln statue. He faces east, looking across the Reflecting Pool and out at the Washington Monument. On the south interior wall, to the right of where Lincoln is seated, is inscribed the Gettysburg Address, and on the north wall, Lincoln's second inaugural speech. Inscribed on the wall behind the statue is:<br />IN THIS TEMPLE<br />AS IN THE HEARTS OF THE PEOPLE<br />FOR WHOM HE SAVED THE UNION<br />THE MEMORY OF ABRAHAM LINCOLN<br />IS ENSHRINED FOREVER.<br />The bearded Lincoln wears a long coat and vest. His hands rest on the arms of the chair on which he sits. Fasces are etched along the front faces of the chair arms.<br />The sides and back of the memorial feature a twenty-foot wide platform among the columns of the structure, providing views of tree-lined Lincoln Memorial Circle to the north and south, and Arlington Memorial Bridge to the west as it carries over the Potomac River.<br />Set on the highest platform of the memorial steps is an inscription commemorating Reverend Dr. Martin Luther King, Jr.'s \"I Have a Dream\" speech. The inscription faces away from the memorial directing the reader to look out over the steps and plaza below, the tree-lined Reflecting Pool and the Washington Monument all in a straight line to the east.<br />A small bookshop area is in the northeast corner of the interior chamber. Restrooms and a Lincoln exhibit space are located at the left side of the memorial at the bottom of the steps.<br />END OF DESCRIPTION<br />",
+    "isPassportStampLocation": "1",
+    "passportStampLocationDescription": "Located in the bookstore in the main chamber.",
+    "passportStampImages": [],
+    "managedByUrl": "",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "bcb71320-2a56-4860-b31d-1db3d0f7ef68",
+    "isManagedByNps": "1",
+    "amenities": [
+      "Bicycle - Rental",
+      "Food/Drink - Cafeteria",
+      "Gifts/Souvenirs/Books",
+      "Historical/Interpretive Information/Exhibits",
+      "Restroom",
+      "Scenic View/Photo Spot",
+      "Wheelchair Accessible"
+    ],
+    "managedByOrg": "",
+    "quickFacts": [
+      {
+        "id": "5C252B96-2DEB-4EF4-91D1-B5D2B202FCD7",
+        "value": "Washington, DC",
+        "name": "Location"
+      },
+      {
+        "id": "208F1B3C-44DC-4CF5-9A61-9B26A364D701",
+        "value": "Memorial to President Abraham Lincoln",
+        "name": "Significance"
+      }
+    ],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  },
+  {
+    "id": "134CC3A8-1785-405F-ABC4-923B1AB28BC3",
+    "url": "https://www.nps.gov/places/000/lincoln-memorial-reflecting-pool.htm",
+    "title": "Lincoln Memorial Reflecting Pool",
+    "listingDescription": "Though not completed in time for the memorial's dedication in 1922, the reflecting pool has become one of the most recognizable and filmed sites in Washington, DC. The reflecting pool and the long promenade of Elm Trees on either side are key features of the Lincoln Memorial landscape.",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/92D91A46-A5BB-C9E2-2D38B7F767828E57.jpg",
+        "credit": "",
+        "altText": "Monument with columns reflected in a pool of water.",
+        "title": "Lincoln Memorial Reflecting Pool",
+        "description": "",
+        "caption": "Lincoln Memorial Reflecting Pool, view west at dawn.",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/92D91A46-A5BB-C9E2-2D38B7F767828E57.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/92D91A46-A5BB-C9E2-2D38B7F767828E57.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "DC",
+        "parkCode": "linc",
+        "designation": "",
+        "fullName": "Lincoln Memorial",
+        "url": "https://www.nps.gov/linc/index.htm",
+        "name": "Lincoln Memorial"
+      },
+      {
+        "states": "DC",
+        "parkCode": "nama",
+        "designation": "",
+        "fullName": "National Mall and Memorial Parks",
+        "url": "https://www.nps.gov/nama/index.htm",
+        "name": "National Mall and Memorial Parks"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [],
+    "latitude": "38.88936",
+    "longitude": "-77.04472",
+    "latLong": "38.88936,-77.04472",
+    "bodyText": "<p>Though not completed in time for the memorial's dedication in 1922, the reflecting pool has become one of the most recognizable and filmed sites in Washington, DC. The reflecting pool and the long promenade of Elm Trees on either side are key features of the Lincoln Memorial landscape.</p>",
+    "audioDescription": "(191 words)<br />The Lincoln Memorial Reflecting Pool is a long rectangular pool located on the west side of the National Mall, directly east of the Lincoln Memorial and west of the World War II Memorial.<br />It is approximately two thousand twenty-nine feet long, over one-third of a mile, and one hundred sixty-seven feet wide, with a depth of eighteen inches on the sides and thirty inches in its center.<br />The Reflecting Pool is lined by a cement walking path on all sides. Approximately one-hundred-foot wide grass lawns slope down towards the pool from the east and west sides. Beyond the grass lawns are shade trees that also span both sides. Outer pedestrian walkways are set beyond the trees which are lined with benches.<br />From the west end of the pool the Washington Monument reflects clearly in the water. Conversely from the east side the Lincoln Memorial reflection appears in the pool.<br />About one hundred feet west from the pool, steps begin to lead up to the Lincoln Memorial. At the far east end granite columns frame both sides of the World War II Memorial and the Washington Monument stands tall across 17th street.<br />END OF DESCRIPTION<br />",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "",
+    "isManagedByNps": "1",
+    "amenities": [
+      "Historical/Interpretive Information/Exhibits",
+      "Scenic View/Photo Spot"
+    ],
+    "managedByOrg": "",
+    "quickFacts": [],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  },
+  {
+    "id": "A4E29817-3D55-4286-949E-30CA82F9B20A",
+    "url": "https://www.nps.gov/places/000/lincoln-memorial-alaska-hawaii-plaque.htm",
+    "title": "Lincoln Memorial: Alaska & Hawaii Plaque",
+    "listingDescription": "All states in the Union are represented on the upper level of the Lincoln Memorial, however Alaska and Hawaii entered the union after the memorial was completed. To recognize these states, this plaque was added to the Lincoln Memorial plaza.InscriptionsTHE FEDERAL UNION OF THE STATES AT THE HEART OF LINCOLN'S PURPOSE IS SYMBOLIZED IN HIS MEMORIAL BY 36 COLUMNS BENEATH THE NAMES OF THE 36 STATES COMPOSING THE UNION IN HIS LIFETIMEWHEN THE MEMORIAL WAS DESIGNED THE UNION INCLUD",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/95DFB6B6-DEAC-775F-268D2BB8C13605EB.jpg",
+        "credit": "",
+        "altText": "Large, rectangular plaque in walkway with visitors in background.",
+        "title": "Alaska & Hawaii Plaque - LINC",
+        "description": "",
+        "caption": "The Alaska & Hawaii Plaque on the steps of the Lincoln Memorial.",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/95DFB6B6-DEAC-775F-268D2BB8C13605EB.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/95DFB6B6-DEAC-775F-268D2BB8C13605EB.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "DC",
+        "parkCode": "linc",
+        "designation": "",
+        "fullName": "Lincoln Memorial",
+        "url": "https://www.nps.gov/linc/index.htm",
+        "name": "Lincoln Memorial"
+      },
+      {
+        "states": "DC",
+        "parkCode": "nama",
+        "designation": "",
+        "fullName": "National Mall and Memorial Parks",
+        "url": "https://www.nps.gov/nama/index.htm",
+        "name": "National Mall and Memorial Parks"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [],
+    "latitude": "38.889297",
+    "longitude": "-77.049288",
+    "latLong": "38.889297,-77.049288",
+    "bodyText": "<p>All states in the Union are represented on the upper level of the Lincoln Memorial, however Alaska and Hawaii entered the union after the memorial was completed. To recognize these states, this plaque was added to the Lincoln Memorial plaza.<br /> <br /> Inscriptions<br /> THE FEDERAL UNION OF THE STATES AT THE HEART OF LINCOLN'S PURPOSE IS SYMBOLIZED IN HIS MEMORIAL BY 36 COLUMNS BENEATH THE NAMES OF THE 36 STATES COMPOSING THE UNION IN HIS LIFETIME<br /> WHEN THE MEMORIAL WAS DESIGNED THE UNION INCLUDED THE 48 STATES NAMED ON THE ATTIC FRIEZE A GENERATION LATER - IN 1959<br /> ALASKA AND HAWAII<br /> ATTAINED STATEHOOD - FULLY JOINING THEIR DESTINIES WITH THE UNITED STATES OF AMERICA<br /> E PLURIBIS UNUM</p>",
+    "audioDescription": "(175 words)<br />The Lincoln Memorial sits at the western end of the National Mall in Washington, DC. The Lincoln Memorial Reflecting Pool lies three hundred fifty feet to the east and the Potomac River is six hundred seventy-five-feet to the west.<br />From the intersection of Lincoln Memorial Circle, NW and Henry Bacon Drive, proceed three hundred sixty-five feet south through an open plaza area to the base of the Lincoln Memorial steps.<br />Ninety feet west, set in the plaza above the first set of stairs leading up to the Lincoln Memorial is a four by four-foot black granite plaque. An inscription on its face reads:<br />THE FEDERAL UNION OF THE STATES AT THE HEART OF LINCOLN'S PURPOSE IS SYMBOLIZED IN HIS MEMORIAL BY 36 COLUMNS BENEATH THE NAMES OF THE 36 STATES COMPOSING THE UNION IN HIS LIFETIME<br />WHEN THE MEMORIAL WAS DESIGNED THE UNION INCLUDED THE 48 STATES NAMED ON THE ATTIC FRIEZE A GENERATION LATER - IN 1959<br />ALASKA AND HAWAII<br />ATTAINED STATEHOOD - FULLY JOINING THEIR DESTINIES WITH THE UNITED STATES OF AMERICA<br />E PLURIBIS UNUM<br />END OF DESCRIPTION<br />",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "",
+    "isManagedByNps": "1",
+    "amenities": [
+      "Historical/Interpretive Information/Exhibits"
+    ],
+    "managedByOrg": "",
+    "quickFacts": [],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  },
+  {
+    "id": "5A0CB5AA-6EA8-4D2B-8B1A-CF4DCA380288",
+    "url": "https://www.nps.gov/places/000/lincoln-memorial-emancipation-gettysburg-address.htm",
+    "title": "Lincoln Memorial: Emancipation & Gettysburg Address",
+    "listingDescription": "Speaking at the dedication of the cemetery at Gettysburg, the final resting place of thousands of Americans who died on that field, Abraham Lincoln offered this brief but consequential speech. The speech was a turning point in his war strategy in that, for the first time, he began to openly speak of the abolition of slavery as a desired outcome of the war, a \"new birth of freedom.\" The mural above depicts an allegory of emancipation in the center.InscriptionsFour score and se",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/95FF9F74-A5EC-0C0A-DE2B9ED2F8AD5C34.jpg",
+        "credit": "",
+        "altText": "Inscription of Gettysburg Address",
+        "title": "Gettysburg Address Engraved at LINC",
+        "description": "",
+        "caption": "The Gettysburg Address is engraved in full.",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/95FF9F74-A5EC-0C0A-DE2B9ED2F8AD5C34.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/95FF9F74-A5EC-0C0A-DE2B9ED2F8AD5C34.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "DC",
+        "parkCode": "linc",
+        "designation": "",
+        "fullName": "Lincoln Memorial",
+        "url": "https://www.nps.gov/linc/index.htm",
+        "name": "Lincoln Memorial"
+      },
+      {
+        "states": "DC",
+        "parkCode": "nama",
+        "designation": "",
+        "fullName": "National Mall and Memorial Parks",
+        "url": "https://www.nps.gov/nama/index.htm",
+        "name": "National Mall and Memorial Parks"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [],
+    "latitude": "38.889069",
+    "longitude": "-77.050179",
+    "latLong": "38.889069,-77.050179",
+    "bodyText": "<p>Speaking at the dedication of the cemetery at Gettysburg, the final resting place of thousands of Americans who died on that field, Abraham Lincoln offered this brief but consequential speech. The speech was a turning point in his war strategy in that, for the first time, he began to openly speak of the abolition of slavery as a desired outcome of the war, a \"new birth of freedom.\" The mural above depicts an allegory of emancipation in the center.<br /> <br /> Inscriptions<br /> Four score and seven years ago our fathers bought forth on this continent a new nation conceived in liberty and dedicated to the proposition that all men are created equal.<br /> Now we are engaged in a great civil war testing whether that nation or any nation so conceived and so dedicated can long endure. We are met on a great battlefield of that war. We have come to dedicate a portion of that field as a final resting place for those who here gave their lives that that nation might live. It is altogether fitting and proper that we should do this.<br /> But in a larger sense we cannot dedicate, we cannot consecrate, we cannot hallow this ground. The brave men, living and dead who struggled here have consecrated it far above our poor power to add or detract. The world will little note nor long remember what we say here, but it can never forget what they did here. It is for us the living rather to be dedicated here to the unfinished work, which they who fought here have thus far so nobly advanced. It is rather for us to be here dedicated to the great task remaining before us. That from these honored dead we take increased devotion to that cause for which they gave the last full measure of devotion. That we here highly resolve that these dead shall not have died in vain. That this nation, under God, shall have a new birth of freedom. And that government of the people, by the people, for the people shall not perish from the Earth.</p>",
+    "audioDescription": "(247 words)<br />The Lincoln Memorial is located on the western end of the National Mall in Washington, DC, east of the Potomac River and west of the Lincoln Memorial Reflecting Pool.<br />From the intersection of Lincoln Memorial Circle, NW and Henry Bacon Drive, proceed three hundred sixty-five feet south through an open plaza area to the base of the Lincoln Memorial steps.<br />Travel west up granite steps past twelve forty-four-foot-tall columns that line the front of the memorial. Set along the west interior wall and facing east is the sixty foot-wide, seventy-four foot-deep, and sixty foot-high, seated Lincoln statue.<br />The Memorial's interior is divided into three chambers by two rows of four columns, each fifty feet tall. Inscribed on three panels along the south wall of the south chamber is the text of the Gettysburg Address.<br />The inscription is flanked by eagle sculptures in both lower corners and wreaths set below them.<br />Above the inscription is a sixty by twelve-foot mural depicting a robed and bare-chested angel with her hands held above her head and wings spread wide across a group of dark-skinned people at either side of her. On the right a bare-chested woman with a wreath around her head sits among two standing men with flaming staffs and two women seated at her feet. To the left, a bare-chested woman with wreath around her head sits holding a sword rested on the ground. Two men stand at her side with flaming staffs and two women sit at her feet.<br />END OF DESCRIPTION<br />",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "",
+    "isManagedByNps": "1",
+    "amenities": [
+      "Historical/Interpretive Information/Exhibits"
+    ],
+    "managedByOrg": "",
+    "quickFacts": [],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  },
+  {
+    "id": "8174B760-72EB-4D27-BB8C-88798F7BF6B4",
+    "url": "https://www.nps.gov/places/000/lincoln-memorial-i-have-a-dream-marker.htm",
+    "title": "Lincoln Memorial: I Have a Dream marker",
+    "listingDescription": "On this location in 1963, Martin Luther King gave his \"I Have a Dream\" speech. In the speech, he evoked the memory of Abraham Lincoln, the emancipation of the slaves, and the \"shameful condition\" of segregation in America 100 years after the American Civil War. The march was a watershed moment for the Civil Rights movement, helping pressure lawmakers to pass the Civil Rights Act of 1964 and the Voting Rights Act of 1965.InscriptionsI HAVE A DREAMMARTIN LUTHER KING, JR.THE MAR",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/96A90219-CF05-B1CA-2702E07826C9C88E.jpg",
+        "credit": "",
+        "altText": "Inscription of \"I Have A Dream\" on the steps of the Lincoln Memorial.",
+        "title": "I Have a Dream Marker at LINC",
+        "description": "",
+        "caption": "The \"I Have a Dream\" marker on the steps of the Lincoln Memorial.",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/96A90219-CF05-B1CA-2702E07826C9C88E.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/96A90219-CF05-B1CA-2702E07826C9C88E.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "DC",
+        "parkCode": "linc",
+        "designation": "",
+        "fullName": "Lincoln Memorial",
+        "url": "https://www.nps.gov/linc/index.htm",
+        "name": "Lincoln Memorial"
+      },
+      {
+        "states": "DC",
+        "parkCode": "nama",
+        "designation": "",
+        "fullName": "National Mall and Memorial Parks",
+        "url": "https://www.nps.gov/nama/index.htm",
+        "name": "National Mall and Memorial Parks"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [],
+    "latitude": "38.889287",
+    "longitude": "-77.049901",
+    "latLong": "38.889287,-77.049901",
+    "bodyText": "<p>On this location in 1963, Martin Luther King gave his \"I Have a Dream\" speech. In the speech, he evoked the memory of Abraham Lincoln, the emancipation of the slaves, and the \"shameful condition\" of segregation in America 100 years after the American Civil War. The march was a watershed moment for the Civil Rights movement, helping pressure lawmakers to pass the Civil Rights Act of 1964 and the Voting Rights Act of 1965.<br /> <br /> Inscriptions<br /> I HAVE A DREAM<br /> MARTIN LUTHER KING, JR.<br /> THE MARCH ON WASHINGTON<br /> FOR JOBS AND FREEDOM<br /> AUGUST 28, 1963</p>",
+    "audioDescription": "(159 words)<br />The Lincoln Memorial sits at the western end of the National Mall in Washington, DC. The Lincoln Memorial Reflecting Pool lies three hundred fifty feet to the east and the Potomac River is six hundred seventy-five-feet to the west.<br />From the intersection of Lincoln Memorial Circle, NW and Henry Bacon Drive, proceed three hundred sixty-five feet south through an open plaza area to the base of the Lincoln Memorial steps.<br />Travel west up the Lincoln Memorial steps about fifty feet to the platform before the last set of stairs to the top of the memorial. An inscription carved into the center of the landing reads:<br />I HAVE A DREAM<br />MARTIN LUTHER KING, JR.<br />THE MARCH ON WASHINGTON<br />FOR JOBS AND FREEDOM<br />AUGUST 28, 1963<br />The inscription faces away from the memorial directing the reader to look out over the steps and plaza below, the tree-lined Reflecting Pool and the Washington Monument all in a straight line to the east.<br />END OF DESCRIPTION<br />",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "",
+    "isManagedByNps": "1",
+    "amenities": [
+      "Historical/Interpretive Information/Exhibits",
+      "Scenic View/Photo Spot"
+    ],
+    "managedByOrg": "",
+    "quickFacts": [],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  },
+  {
+    "id": "D2C272D9-1A42-40B4-B4D7-2DCF8C96BCAF",
+    "url": "https://www.nps.gov/places/000/lincoln-memorial-statue-of-lincoln.htm",
+    "title": "Lincoln Memorial: Statue of Lincoln",
+    "listingDescription": "Abraham Lincoln (1809-1865) is depicted by renowned American sculptor Daniel Chester French. Lincoln is seated with the American flag draped behind him, and of bundles of rods under each arm representing the union of the states. This Georgia white marble statue is 19 feet tall and is made of 28 blocks of stone.<br />Inscriptions<br />IN THIS TEMPLE<br />AS IN THE HEARTS OF THE PEOPLE<br />FOR WHOM HE SAVED THE UNION<br />THE MEMORY OF ABRAHAM LINCOLN<br />IS ENSHRINED FOREVER.<br />",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/3F3E1C74-ADB0-AAEC-844A9B12BD46CE4D.jpg",
+        "credit": "Carol M. Highsmith",
+        "altText": "Statue of Lincoln Memorial",
+        "title": "Statue of Lincoln Memorial",
+        "description": "",
+        "caption": "The imposing, yet faithful Lincoln statue",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/3F3E1C74-ADB0-AAEC-844A9B12BD46CE4D.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/3F3E1C74-ADB0-AAEC-844A9B12BD46CE4D.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "DC",
+        "parkCode": "linc",
+        "designation": "",
+        "fullName": "Lincoln Memorial",
+        "url": "https://www.nps.gov/linc/index.htm",
+        "name": "Lincoln Memorial"
+      },
+      {
+        "states": "DC",
+        "parkCode": "nama",
+        "designation": "",
+        "fullName": "National Mall and Memorial Parks",
+        "url": "https://www.nps.gov/nama/index.htm",
+        "name": "National Mall and Memorial Parks"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [],
+    "latitude": "38.889294",
+    "longitude": "-77.050238",
+    "latLong": "38.889294,-77.050238",
+    "bodyText": "<p>Abraham Lincoln (1809-1865) is depicted by renowned American sculptor Daniel Chester French. Lincoln is seated with the American flag draped behind him, and of bundles of rods under each arm representing the union of the states. This Georgia white marble statue is 19 feet tall and is made of 28 blocks of stone.<br /> <br /> Inscriptions<br /> IN THIS TEMPLE<br /> AS IN THE HEARTS OF THE PEOPLE<br /> FOR WHOM HE SAVED THE UNION<br /> THE MEMORY OF ABRAHAM LINCOLN<br /> IS ENSHRINED FOREVER.</p>",
+    "audioDescription": "(278 words)<br />The Lincoln Memorial is located on the western end of the National Mall in Washington, DC, east of the Potomac River and west of the Lincoln Memorial Reflecting Pool.<br />From the intersection of Lincoln Memorial Circle, NW and Henry Bacon Drive, proceed three hundred sixty-five feet south through an open plaza area to the base of the Lincoln Memorial steps.<br />Travel west up granite steps past twelve forty-four-foot-tall columns that line the front of the memorial. The Memorial's interior is divided into three chambers by two rows of four columns, each fifty feet tall.<br />Set along the back, west interior wall is the sixty foot-wide, seventy-four foot-deep, and sixty-foot-high Lincoln statue. He faces east, looking across the Reflecting Pool and out at the Washington Monument.<br />Resting atop a ten-foot high, sixteen foot-wide, and seventeen-foot-deep pedestal, the seated statue of Lincoln is nineteen feet tall, and consists of twenty-eight separate pieces of white marble. Beneath the pedestal lies a thirty-five foot-wide, marble platform.<br />On the south interior wall, to the right of where Lincoln is seated, is inscribed the Gettysburg Address, and on the north wall, Lincoln's second inaugural speech. Inscribed on the wall behind the statue is:<br />IN THIS TEMPLE<br />AS IN THE HEARTS OF THE PEOPLE<br />FOR WHOM HE SAVED THE UNION<br />THE MEMORY OF ABRAHAM LINCOLN<br />IS ENSHRINED FOREVER.<br />The bearded Lincoln wears a long coat and vest. His hands rest on the arms of the chair on which he sits. Fasces are etched along the front faces of the chair arms.<br />Bronze girders on the ceiling are ornamented with laurel and oak leaves. Between these are panels of marble, saturated with paraffin to increase translucency.<br />END OF DESCRIPTION<br />",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "",
+    "isManagedByNps": "1",
+    "amenities": [
+      "Historical/Interpretive Information/Exhibits"
+    ],
+    "managedByOrg": "",
+    "quickFacts": [],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  },
+  {
+    "id": "605EB72C-77AE-4DBF-906C-F70DA5D76C5A",
+    "url": "https://www.nps.gov/places/000/lincoln-memorial-unity-2nd-inaugural-address.htm",
+    "title": "Lincoln Memorial: Unity & 2nd Inaugural Address",
+    "listingDescription": "Inscribed into the north side of the Lincoln Memorial chamber is President Abraham Lincoln's Second Inaugural Address, delivered in 1865. In the speech, Lincoln explores the causes and meanings of the American Civil War, which was nearing its end. Above the insciption is a mural by painter Jules Guerin depicting the concept of unity. In the mural, the Angel of Truth joins the hands of two figures representing the north and south. Her protective wings cradle figures represent",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/9659F792-DC2F-B6DE-546394C0967372A8.jpg",
+        "credit": "",
+        "altText": "Text of Lincoln's second inaugural address inscribed on wall in monument.",
+        "title": "Lincoln's Second Inaugural Address",
+        "description": "",
+        "caption": "Lincoln's 2nd inaugural address is flanked by two eagles and fasces, symbolizing the union of states",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/9659F792-DC2F-B6DE-546394C0967372A8.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/9659F792-DC2F-B6DE-546394C0967372A8.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "DC",
+        "parkCode": "linc",
+        "designation": "",
+        "fullName": "Lincoln Memorial",
+        "url": "https://www.nps.gov/linc/index.htm",
+        "name": "Lincoln Memorial"
+      },
+      {
+        "states": "DC",
+        "parkCode": "nama",
+        "designation": "",
+        "fullName": "National Mall and Memorial Parks",
+        "url": "https://www.nps.gov/nama/index.htm",
+        "name": "National Mall and Memorial Parks"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [],
+    "latitude": "38.889516",
+    "longitude": "-77.050184",
+    "latLong": "38.889516,-77.050184",
+    "bodyText": "<p>Inscribed into the north side of the Lincoln Memorial chamber is President Abraham Lincoln's Second Inaugural Address, delivered in 1865. In the speech, Lincoln explores the causes and meanings of the American Civil War, which was nearing its end. Above the insciption is a mural by painter Jules Guerin depicting the concept of unity. In the mural, the Angel of Truth joins the hands of two figures representing the north and south. Her protective wings cradle figures representing the arts of Painting, Philosophy, Music, Architecture, Chemistry, Literature, and Sculpture.<br /> <br /> Fellow-Countrymen, at this second appearing to take the oath of the Presidential office there is less occasion for an extended address than there was at the first. Then a statement somewhat in detail of a course to be pursued seemed fitting and proper. Now, at the expiration of four years, during which public declarations have been constantly called forth on every point and phase of the great contest which still absorbs the attention and engrosses the energies of the nation, little that is new could be presented. The progress of our arms, upon which all else chiefly depends, is as well known to the public as to myself, and it is, I trust, reasonably satisfactory and encouraging to all. With high hope for the future, no prediction in regard to it is ventured.<br /> On the occasion corresponding to this four years ago all thoughts were anxiously directed to an impending civil war. All dreaded it, all sought to avert it. While the inaugural address was being delivered from this place, devoted altogether to saving the Union without war, insurgent agents were in the city seeking to destroy it without war--seeking to dissolve the Union and divide effects by negotiation. Both parties deprecated war, but one of them would make war rather than let the nation survive, and the other would accept war rather than let it perish, and the war came.<br /> One-eighth of the whole population were colored slaves, not distributed generally over the Union, but localized in the southern part of it. These slaves constituted a peculiar and powerful interest. All knew that this interest was somehow the cause of the war. To strengthen, perpetuate, and extend this interest was the object for which the insurgents would rend the Union even by war, while the Government claimed no right to do more than to restrict the territorial enlargement of it. Neither party expected for the war the magnitude or the duration which it has already attained. Neither anticipated that the cause of the conflict might cease with or even before the conflict itself should cease. Each looked for an easier triumph, and a result less fundamental and astounding. Both read the same Bible and pray to the same God, and each invokes His aid against the other. It may seem strange that any men should dare to ask a just God's assistance in wringing their bread from the sweat of other men's faces, but let us judge not, that we be not judged. The prayers of both could not be answered. That of neither has been answered fully. The Almighty has His own purposes. Woe unto the world because of offenses; for it must needs be that offenses come, but woe to that man by whom the offense cometh. If we shall suppose that American slavery is one of those offenses which, in the providence of God, must needs come, but which, having continued through His appointed time, He now wills to remove, and that He gives to both North and South this terrible war as the woe due to those by whom the offense came, shall we discern therein any departure from those divine attributes which the believers in a living God always ascribe to Him? Fondly do we hope, fervently do we pray, that this mighty scourge of war may speedily pass away. Yet, if God wills that it continue until all the wealth piled by the bondsman's two hundred and fifty years of unrequited toil shall be sunk, and until every drop of blood drawn with the lash shall be paid by another drawn with the sword, as was said three thousand years ago, so still it must be said \"the judgments of the Lord are true and righteous altogether.\"<br /> With malice toward none, with charity for all, with firmness in the right as God gives us to see the right, let us strive on to finish the work we are in, to bind up the nation's wounds, to care for him who shall have borne the battle and for his widow and his orphan, to do all which may achieve and cherish a just and lasting peace among ourselves and with all nations.</p>",
+    "audioDescription": "(235 words)<br />The Lincoln Memorial is located on the western end of the National Mall in Washington, DC, east of the Potomac River and west of the Lincoln Memorial Reflecting Pool.<br />From the intersection of Lincoln Memorial Circle, NW and Henry Bacon Drive, proceed three hundred sixty-five feet south through an open plaza area to the base of the Lincoln Memorial steps.<br />Travel west up granite steps past twelve forty-four-foot-tall columns that line the front of the memorial. Set along the west interior wall and facing east is the sixty foot-wide, seventy-four foot-deep, and sixty foot-high, seated Lincoln statue.<br />The Memorial's interior is divided into three chambers by two rows of four columns, each fifty feet tall. Inscribed on three panels along the north wall of the north chamber is the text of the 2nd Inaugural Address.<br />The inscription is flanked by eagle sculptures in both lower corners and fasces that line both sides. Four wreaths are etched across the bottom of the panel.<br />Above the inscription is a sixty by twelve-foot mural depicting robed and bare-chested women and men. The central figure is a robed, bare-chested angel with a wreath around her head and wings spread wide across six people at either side. Her eyes are closed, and she joins the right and left hands of two figures at her side. Groups of five and six people are gathered at both far ends of the mural.<br />END OF DESCRIPTION<br />",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "",
+    "isManagedByNps": "1",
+    "amenities": [
+      "Historical/Interpretive Information/Exhibits"
+    ],
+    "managedByOrg": "",
+    "quickFacts": [],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  },
+  {
+    "id": "B31CCA5C-53DB-47F9-8C04-FE0D0C071208",
+    "url": "https://www.nps.gov/places/crnama.htm",
+    "title": "National Mall and Memorial Parks",
+    "listingDescription": "Officially established in 1965, National Mall and Memorial Parks contains some of the oldest protected park lands in the National Park Service. The sprawling lands include the Mall, the public promenade extending from 3rd Street near the Capitol to 14th Street. America's front lawn has hosted various historic events related to the civil rights movement, as well as memorializing some of the great moments in American history.",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/places/images/nri/20130827/siteadmin/8BCCE4B9-D93F-CAF6-878B9357F2FAF780/8BCCE4B9-D93F-CAF6-878B9357F2FAF780.jpg",
+        "credit": "NPS",
+        "altText": "the Vietnam Veterans Memorial and Washington Monument at sunset",
+        "title": "",
+        "description": "",
+        "caption": "",
+        "crops": []
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "DC",
+        "parkCode": "bepa",
+        "designation": "National Monument",
+        "fullName": "Belmont-Paul Women's Equality National Monument",
+        "url": "https://www.nps.gov/bepa/index.htm",
+        "name": "Belmont-Paul Women's Equality"
+      },
+      {
+        "states": "DC",
+        "parkCode": "coga",
+        "designation": "",
+        "fullName": "Constitution Gardens",
+        "url": "https://www.nps.gov/coga/index.htm",
+        "name": "Constitution Gardens"
+      },
+      {
+        "states": "DC",
+        "parkCode": "frde",
+        "designation": "",
+        "fullName": "Franklin Delano Roosevelt Memorial",
+        "url": "https://www.nps.gov/frde/index.htm",
+        "name": "Franklin Delano Roosevelt Memorial"
+      },
+      {
+        "states": "DC",
+        "parkCode": "kowa",
+        "designation": "",
+        "fullName": "Korean War Veterans Memorial",
+        "url": "https://www.nps.gov/kowa/index.htm",
+        "name": "Korean War Veterans Memorial"
+      },
+      {
+        "states": "DC",
+        "parkCode": "linc",
+        "designation": "",
+        "fullName": "Lincoln Memorial",
+        "url": "https://www.nps.gov/linc/index.htm",
+        "name": "Lincoln Memorial"
+      },
+      {
+        "states": "DC",
+        "parkCode": "mlkm",
+        "designation": "",
+        "fullName": "Martin Luther King, Jr. Memorial",
+        "url": "https://www.nps.gov/mlkm/index.htm",
+        "name": "Martin Luther King, Jr. Memorial"
+      },
+      {
+        "states": "DC",
+        "parkCode": "nama",
+        "designation": "",
+        "fullName": "National Mall and Memorial Parks",
+        "url": "https://www.nps.gov/nama/index.htm",
+        "name": "National Mall and Memorial Parks"
+      },
+      {
+        "states": "DC",
+        "parkCode": "thje",
+        "designation": "",
+        "fullName": "Thomas Jefferson Memorial",
+        "url": "https://www.nps.gov/thje/index.htm",
+        "name": "Thomas Jefferson Memorial"
+      },
+      {
+        "states": "DC",
+        "parkCode": "wamo",
+        "designation": "",
+        "fullName": "Washington Monument",
+        "url": "https://www.nps.gov/wamo/index.htm",
+        "name": "Washington Monument"
+      },
+      {
+        "states": "DC",
+        "parkCode": "wwii",
+        "designation": "",
+        "fullName": "World War II Memorial",
+        "url": "https://www.nps.gov/wwii/index.htm",
+        "name": "World War II Memorial"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [
+      "Civil Rights",
+      "Civil Rights Movement",
+      "National Mall and Memorial Parks",
+      "Urban Parks",
+      "cultural landscape"
+    ],
+    "latitude": "38.889611",
+    "longitude": "-77.022999",
+    "latLong": "38.889611,-77.022999",
+    "bodyText": "<p>Officially established in 1965, National Mall and Memorial Parks contains some of the oldest protected park lands in the National Park Service. The sprawling lands include the Mall, the public promenade extending from 3rd Street near the Capitol to 14th Street. The National Mall is the continuation of that space where congressionally authorized park icons, such as the Washington Monument, WWII and Lincoln Memorials stand. This historic expanse is the linear area between the Potomac River and Capital Reflecting Pool. In addition to the memorial core, the park includes some 156 reservations, circles, fountains and other open spaces, all of which serve as the nation’s front yard. Ford’s Theatre, The House where Lincoln died, Potomac Park, Hains Point and Pennsylvania Avenue NHS are also among the park managed areas that constitute National Mall and Memorial Parks.</p> <p>Having over 1,000 acres of National Park Service managed land at the heart of our nation’s capital, National Mall and Memorial Parks provides visitors with abundant opportunities to get in touch with our heritage. With everything from colossal monuments to commemorative gardens, from presidential inaugurals to civil rights demonstrations, National Mall and Memorial Parks hosts history in the making. Numerous First Amendment activities and special events are held in the park each year to honor the courage, sacrifice and devotion to duty of war veterans; celebrate the United States commitment to freedom, equality and democratic ideals; and enjoy symbolic architecture, historic vistas and renowned natural landscapes. </p>",
+    "audioDescription": "",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "",
+    "isOpenToPublic": "0",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "",
+    "isManagedByNps": "0",
+    "amenities": [
+      "Historical/Interpretive Information/Exhibits",
+      "Scenic View/Photo Spot"
+    ],
+    "managedByOrg": "",
+    "quickFacts": [
+      {
+        "id": "5C252B96-2DEB-4EF4-91D1-B5D2B202FCD7",
+        "value": "Washington, DC",
+        "name": "Location"
+      },
+      {
+        "id": "E32D2136-A184-4C1A-91D2-4C20CEF9CBAF",
+        "value": "Parks",
+        "name": "Designation"
+      }
+    ],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  }
+]

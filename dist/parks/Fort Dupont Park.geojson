@@ -1,0 +1,185 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.94026947021484,
+          38.87312698364258
+        ]
+      },
+      "properties": {
+        "name": "Fort Dupont",
+        "notes": "Fort Dupont\nhttps://www.nps.gov/places/fort-dupont.htm\n\n<p><a href=\"https://www.nps.gov/fodu/index.htm\">Fort Dupont</a> was erected as part of the Eastern Branch Line Defenses (Anacostia River). Constructiobn commenced between Ocotober and December of 1861, and \"completed\" in the spring of 1862. The fort was built to protect a critical Ridge<br /> Road (Alabama Avenue) intersection and was supported by Forts Meigs and Chaplin to the north and Fort Davis to the south.<br /> <br /> Fort DuPont was a regular hexagonal redoubt, designed for 14 guns, 12<br /> firing through embrasures. Fort Dupont had six sides, each 100 feet long, protected by a deep moat and trees felled side-by-side with branches pointing outward. It was named for Flag Officer Samuel F. Dupont, who commanded the naval victory at Port Royal, South Carolina, in November 1861.<br /> <br /> It was never a strong work and in 1862, a commission studying the Defenses of Washington noted that a deep ravine to the west of the fort should be covered by a blockhouse. At other times, traverses to cover the sally port, magazine and rifle pits to the cover approaches were recommended.</p> <p>In April 1864, Brigadier General John G. Barnard, Chief Engineer, advised the abandonment of Fort Dupont. The army officially abandoned the fort in 1865. The grounds reverted to its original landowner, Michael Caton. </p> <p>Although its garrison and guns never saw battle, Fort Dupont served as a lifeline of freedom. Runaway slaves found safety here before moving on to join the growing community of \"contrabands\" in Washington. The barracks and guns are gone, but the fort's earthworks can still be traced near the picnic area on Alabama Avenue.</p> <p>In the 1930s, the National Capital Planning Commission acquired the old fort and surrounding land for recreation. A golf course was constructed and as the city grew, golf gave way in 1970 to the sports complex along Ely Place that now includes tennis and basketball courts, athletic fields, a softball diamond, and an indoor ice rink.  Once where soldiers viewed farmlands, park visitors now grow fruits and vegetables in the community garden.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.949952,
+          38.876594
+        ]
+      },
+      "properties": {
+        "name": "Fort Dupont Community Gardens",
+        "notes": "Fort Dupont Community Gardens\nhttps://www.nps.gov/places/000/fort-dupont-community-gardens.htm\n\n<p>One of the largest community gardens in Washington, DC, the Fort Dupont Community Gardens increases the accessibility and exposure of fruits and vegetables as well as providing education on nutrition and sustainable agriculture for urban residents. The Community Gardens of Fort DuPont provide education through shared knowledge and agricultural practices by empowering the community to grow its own healthy food.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.941128,
+          38.872259
+        ]
+      },
+      "properties": {
+        "name": "Fort Dupont Historic Earthwork picnic area",
+        "notes": "Fort Dupont Historic Earthwork picnic area\nhttps://www.nps.gov/places/000/fort-dupont-historic-earthwork-picnic-area.htm\n\n<p>Picnic amidst history at the site of Fort Dupont's historic earthworks.<br /> <br /> Picnickers may reserve sites through <a href=\"https://www.recreation.gov/camping/campgrounds/250017\">Recreation.gov</a> .</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.960461,
+          38.878688
+        ]
+      },
+      "properties": {
+        "name": "Fort Dupont Randle Circle picnic area",
+        "notes": "Fort Dupont Randle Circle picnic area\nhttps://www.nps.gov/places/000/fort-dupont-randle-circle-picnic-area.htm\n\n<p>The picnic grove at Fort Dupont offers a number of recreational opportunities. In addition to picnicking, visitors can hike the nearby trails that link the various Civil War-era forts that protected the capital.<br /> <br /> Picnickers may reserve sites through <a href=\"https://www.recreation.gov/camping/campgrounds/250017\">Recreation.gov</a> .</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.953808,
+          38.877489
+        ]
+      },
+      "properties": {
+        "name": "Fort Dupont Ridge picnic area",
+        "notes": "Fort Dupont Ridge picnic area\nhttps://www.nps.gov/places/000/fort-dupont-ridge-picnic-area.htm\n\nFort Dupont Ridge picnic area",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9568267399,
+          38.880990993
+        ]
+      },
+      "properties": {
+        "name": "Fort Dupont Summer Theater",
+        "notes": "Fort Dupont Summer Theater\nhttps://www.nps.gov/places/000/fort-dupont-summer-theater.htm\n\n<p>Since the late 1960s, the Fort Dupont theater has been a popular venue for outdoor concerts in the summer.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.026487,
+          38.767502
+        ]
+      },
+      "properties": {
+        "name": "Fort Foote Park",
+        "notes": "Fort Foote Park\nhttps://www.nps.gov/places/000/fort-foote-park.htm\n\n<p>Fort Foote was constructed in 1863 atop Rozier's Bluff to strengthen the ring of fortifications that encircled Washington, DC. Two of the Guns that protected Washington are still there along with the remains of the fort's earthworks.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.95995807647705,
+          38.8800257545098
+        ]
+      },
+      "properties": {
+        "name": "Information Panel: Animal Homes",
+        "notes": "Information Panel: Animal Homes\nhttps://www.nps.gov/places/information-panel-animal-homes.htm\n\n<p>The forest provides a home for many types of animals. While walking on the trail look closely for these homes nests made of materials such as grasses, twigs or leaves, holes in the ground, in trees, or fallen logs. During the summer months many of these homes are hidden by leaves, but in winter, animal homes are easier to see. How many can you find? </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.96016192436218,
+          38.8802763138096
+        ]
+      },
+      "properties": {
+        "name": "Information Panel: Basement Dwellers",
+        "notes": "Information Panel: Basement Dwellers\nhttps://www.nps.gov/places/information-panel-basement-dwellers.htm\n\n<p>This log is a home and feeding ground for many insects and small animals such as termites, bark beetles, and carpenter ants. Look closely to see some of the tunnels these insects have made throughout the log. Earthworms, salamanders, and moles also use logs as homes, preferring the moist underside as a place to live and feed. Please do not disturb the log or harm any of the creatures living here.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9583809375763,
+          38.880443352851955
+        ]
+      },
+      "properties": {
+        "name": "Information Panel: Giants of the Forest",
+        "notes": "Information Panel: Giants of the Forest\nhttps://www.nps.gov/places/information-panel-giants-of-the-forest.htm\n\n<p>Trees dominate the forest. By controlling the amount of sunlight that reaches the forest floor, they influence all woodland plants and animals. Some of the tallest and oldest trees in the park are chestnut oak which you see here. Like all oak trees in the park, this tree produces acorns in the fall which are eaten by squirrels and deer. You can identify the chestnut oak by its sawtooth edged leaves in summer and its deeply ridged bark in winter.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.95992588996887,
+          38.88020114611242
+        ]
+      },
+      "properties": {
+        "name": "Information Panel: Preserving A Community",
+        "notes": "Information Panel: Preserving A Community\nhttps://www.nps.gov/places/information-panel-preserving-a-community.htm\n\n<p>Each plant and creature occupies a special place within it the forest community and plays a vital role in keeping it in balance. The more places within a community the more diverse it is. To preserve the natural woodland of Fort Dupont Park, we must protect even the smallest life so the forest maintains its diversity. </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "name": "InformationPanel: Two Types of Trees",
+        "notes": "InformationPanel: Two Types of Trees\nhttps://www.nps.gov/places/informationpanel-two-types-of-trees.htm\n\n<p>There are two basic kinds of trees: evergreens, like spruces or pines, and deciduous, like oaks or maples. Evergreen trees usually have needle-like leaves with small surface areas, while deciduous trees have flat leaves with large surface areas. Since trees allow moisture to escape through their leaves, deciduous trees drop their leaves in the fall to avoid the cold, dry winter months. Evergreen trees can keep their needles year-round, continuously shedding and growing new ones. </p>",
+        "icon": "red-pin-down.png"
+      }
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.1974192,
+          44.9009977
+        ]
+      },
+      "properties": {
+        "name": "Coldwater Spring",
+        "notes": "Coldwater Spring\nhttps://www.nps.gov/places/coldwater-spring.htm\n\n<h2>Introduction</h2> <p>Coldwater Spring was added to the Mississippi National River and Recreation Area in January 2010, with the goal of <a href=\"https://www.nps.gov/miss/learn/management/ColdwaterRestoration.htm\">restoring the landscape</a> to an oak savanna/prairie complex. An extensive renovation, which included the removal of twelve buildings and the restoration and seeding of twelve acres of prairie and one acre of wetlands, began in early 2011 and was largely completed by August 31, 2012. During the course of the restoration more than 1,000 trees, shrubs, grasses and wildflowers were planted on the property. The restoration work, however, will continue for many years.</p> <h2>History</h2> <p>This area served as an important crossroads for Native Americans and traders using both the Mississippi and Minnesota Rivers for commerce and travel. During the construction of Fort Snelling U.S. soldiers camped at Coldwater Spring, making it the first American settlement in Minnesota. By 1825, construction of the fort had been completed and soldiers had moved from Coldwater into the fort. The area around the spring, however, continued to attract traders, Native Americans, and a small village developed that serviced the trade at the site.</p> <p>The spring also continued to provide water to the new fort and the later Upper Post. The fort initially relied on horse-drawn water wagons and eventually railcars to deliver water from Coldwater Spring up until the 1870s. By 1879, the fort was expanded under Secretary of War, Alexander Ramsey. The fort's expansion demanded a more efficient water supply system and, in 1880, the Army established a formal waterworks at the spring. Coldwater served as the water source for the Army until the 1920s when the Army turned to the City of Saint Paul to supply water for the fort.<br /> <br /> The property was last home to the Bureau of Mines: Twin Cities Research Center. The buildings were constructed primarily during the late 1950's through the early 1960's.The Research Center developed significant mining safety equipment, mining technologies and mineral extraction processes used worldwide. The labs there also analyzed the composition of some of the moon rocks brought to Earth by the Apollo moonshot missions. Federal funding for the Bureau of Mines was permanently eliminated in 1996; by 1997 the buildings were vacated and gradually fell into disrepair. They remained vacant until their demolition in 2011.</p> <h2>Activities</h2> <p>The park features a crushed limestone trail for walking to Coldwater Spring. Additionally, there are many opportunities for wildlife viewing and photography. Birdwatching is becoming a popular activity at Coldwater Spring as the savanna/prairie restoration matures and attracts a larger number of species. Turkeys, deer, and even coyotes are not uncommon and native wildflowers bloom throughout the growing season. Visitors can find trail maps and information at the kiosk near the main entrance at the end of Minnehaha Park Drive South. </p> <h2>Additional Information</h2> <p> </p> <ul> <li>Dogs are welcome but must be on a leash no longer than 6 feet (2 meters) in length.</li> <li><strong>WARNING:</strong> Water from the spring house and reservoir is not potable. Do not drink or use for personal consumption. <a href=\"https://www.nps.gov/miss/learn/management/ColdwaterRestoration.htm\">Our tests indicate the water that runs from the spring's recharge area is not filtered sufficiently by natural processes to be safe for human consumption</a>.</li> <li>We monitor the water discharge from both the springhouse and Wetland A weekly. <a href=\"https://www.nps.gov/miss/planyourvisit/coldwater-spring-water-discharge-results.htm\">See the water flow data we've collected</a>.</li> <li>See the <a href=\"https://www.nps.gov/miss/learn/management/superintendent-s-compendium.htm\">Superintendent's Compendium</a> for additional information.</li> <li> <p>6 a.m. - 10 p.m.</p> </li> <li> <p>5601 Minnehaha Park Dr S, St Paul, MN 55111 (Not all electronic maps use this address for this location and you may want to use the GPS coordinates below.) Driving directions: From Hiawatha Ave, turn east on 54th Street East and then immediately south on the frontage road. Paid parking is available along this street. (Parking at Coldwater is limited to disability parking only.) From the west, drive east on 54th Street East and turn south on the frontage road after passing through the Hiawatha Ave intersection.</p> </li> <li> <p><a href=\"http://goo.gl/maps/GdB3T\">Get a Map</a></p> </li> </ul>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.1814583007,
+          44.8795893998
+        ]
+      },
+      "properties": {
+        "name": "Fort Snelling State Park",
+        "notes": "Fort Snelling State Park\nhttps://www.nps.gov/places/fort-snelling-state-park.htm\n\n<h2>Introduction</h2> <p>Situated near <a href=\"https://www.nps.gov/miss/planyourvisit/histfort.htm\">Historic Fort Snelling</a>, the park is also adjacent to the Twin Cities International Airport and ranks as one of Minnesota's top 10 tourist attractions, with an average of over 400,000 annual visitors.</p> <p>This large state park opened in 1962 and helps to conserve open space and wildlife in the heavily- populated metropolitan area. The park is adjacent to the <a href=\"https://www.nps.gov/miss/planyourvisit/minnvall.htm\">Minnesota Valley National Wildlife Refuge</a> and seven major paved bike trails link the park with the surrounding suburbs and cities. Visitors will experience most of the amenities that other state parks have, except for camping. Wildlife is plentiful and hiking trails run throughout the park leading visitors away from the more heavily visited parts of the park.</p> <h2>History</h2> <p>Fort Snelling State Park is located at the confluence of the Minnesota and Mississippi Rivers. The Dakota called this place <em>Ha-Ha Mdo-Te</em> which translates to \"junction of two rivers\" and from which the town of Mendota got its name.</p> <h2>Activities</h2> <p>There are 18 miles of hiking trails, 5 miles of biking trails, snowshoe and canoe rentals, picnicking, fishing, boating, and swimming. Fishing licenses are not required for Minnesota residents fishing on Snelling Lake or from the shores of either the Minnesota or Mississippi Rivers. Non-resident park users need to purchase a license to fish at any site in the park. Fishing licenses are not available for purchase in the park but can be <a href=\"http://www.dnr.state.mn.us/licenses/agents.html\">purchased electronically or at other locations around the state</a>.</p> <p>Winter activities abound. The park offers 12 miles of groomed and tracked ski trails, six miles of trail packed for multiple use and dog sledding and skijoring is permitted on seven miles of trail on the Dakota County side of the park. Ice fishing is allowed on Gun Club Lake and Snelling Lake. Heated trail shelters are available at Picnic Shelter A and the park's Visitor Center. MN Ski Pass available for purchase. Drinking water and toilets available year-round.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.191692,
+          44.90933
+        ]
+      },
+      "properties": {
+        "name": "Hidden Falls Regional Park",
+        "notes": "Hidden Falls Regional Park\nhttps://www.nps.gov/places/hidden-falls-regional-park.htm\n\n<h2>Introduction</h2> <p>This beautiful park is set just below Lock and Dam 1 (Ford Dam). The landscape ranges from manicured park to wilder slopes and forest. It's a great place for birding, fishing, picnicking, walking, and bicycling. Hidden Falls itself is a small waterfall off the beaten path. It may be dry in periods when we have little precipitation</p> <h2>History</h2> <p>In 1887, Hidden Falls Regional Park was one of the four original park areas selected for St. Paul by noted landscape architect, Horace Cleveland. Cleveland’s underlying philosophy was to preserve landscape features and the nature that shaped those features while making the parks accessible for all people to enjoy and not just the wealthy. He went on to greatly influence the park systems in both St. Paul and Minneapolis, as well as other Midwestern cities.</p> <p>The park still contains a primitive setting where nature abounds, in addition to more developed areas.</p> <p>Hidden Falls is separated from Crosby Farm Park by the Watergate Marina, but connected by the trail system.</p> <h2>Activities</h2> <p>Bicycling and walking trails, picnicking/shelter, grills, fire rings, boating, birding, and fishing opportunities abound in this park. A short hike through the woods upstream from the picnic shelters will bring one to the creek. Take the informal trail to the right to the falls. Hiking further up the main trail will bring the hiker to a gravel beach area below Lock and Dam 1. This is also a favorite fishing spot for many.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.0545973015,
+          44.9460401993
+        ]
+      },
+      "properties": {
+        "name": "Indian Mounds Regional Park",
+        "notes": "Indian Mounds Regional Park\nhttps://www.nps.gov/places/indian-mounds-regional-park.htm\n\n<h2>Introduction</h2> <p>Much of Indian Mounds Regional Park sits on the top of a high bluff overlooking the Mississippi River and downtown Saint Paul. This is a sacred place of burial that has deep significance to the Upper Sioux Community, Lower Sioux Community, Shakopee Mdewakanton Sioux Community, Prairie Island Indian Community, Ho-Chunk Nation of Wisconsin, Iowa Tribe of Kansas and Nebraska, Sisseton-Wahpeton Oyate, and other descendants of those who are buried here.<br /> <br /> Visit <a href=\"https://www.stpaul.gov/facilities/indian-mounds-regional-park\">Indian Mounds Regional Park | Saint Paul Minnesota (stpaul.gov)</a> to learn about the current Cultural Landscape Study and Messaging Plan by the City of St. Paul. This study is an initial step to update the City’s practice for preservation awareness, and understanding of sites significant to American Indians.</p> <h2>History</h2> <p>Indian Mounds Regional Park was established in 1893 and is one of the oldest parks in the region. Situated atop Dayton's Bluff east of downtown St. Paul, it is a burial site for at least two American Indian cultures and is just upriver from where the first historic Kaposia village site was once located.</p> <p>Anthropologists believe that the mounds were built between 1,500-2,000 years ago. In more recent times, the Dakota also used this site for their burials, where they wrapped the bones of their deceased in a bison skin before burying them. Valuable objects like knives, foods, pipes, or even horses or canoes were also placed within the mound. </p> <p>At least thirty-seven mounds once stood along the bluffs of the Mounds Park area; only six remain today.</p> <h2>Activities</h2> <p>The park has paved trails that traverse the bluffs and link into other trails. There is an outstanding view of the Mississippi River and of the St. Paul skyline. Picnic tables and a large pavilion are also available for picnicking. Reservations for the picnic shelters are handled by the Saint Paul Parks and Recreation Department at the contact information below.</p> <h2>Hours, Directions, and Contact Information</h2> <ul> <li> <p>10 Mounds Blvd, Saint Paul, MN 55106</p> </li> <li> <p>GPS: 44.946006, -93.054706</p> </li> <li> <p>Call the Park Permit Office at 651-632-5111 to reserve shelters.</p> </li> <li> <p>See the <a href=\"https://www.stpaul.gov/facilities/indian-mounds-regional-park\">City of St. Paul website</a> on the park for more information on how this sacred site has deep significance to living Indigioneous Peoples as a cemetery where their ancestors are buried.</p> </li> </ul>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.211945,
+          44.916121
+        ]
+      },
+      "properties": {
+        "name": "Minnehaha Falls Regional Park",
+        "notes": "Minnehaha Falls Regional Park\nhttps://www.nps.gov/places/minnehaha-falls-regional-park.htm\n\n<h2>History</h2> <p>The New England poet, Henry Wadsworth Longfellow, gave this Minneapolis waterfall national fame in the <em>Song of Hiawatha</em>, although he never saw the 53-foot falls he wrote of in 1853.</p> <p>The Longfellow House Hospitality Center, which sits on the northwest end of Minnehaha Regional Park introduces the Grand Rounds National Scenic Byway, a 50-mile outdoor recreation loop in the Minneapolis area.</p> <p>Other attractions at Minnehaha include the John H. Stevens House, the Princess Depot, and the Minnehaha Falls Off-leash Dog Park.</p> <h2>Activities</h2> <p>Descend into the gorge below the falls via a staircase to get a great view of the falls from below. Park benches in the upper reaches of the gorge provide a cool and shady spot to watch the falls on hot summer days. For the more adventurous, take the trail down the gorge past lovely pools and photogenic stone bridges to a sandy beach at the confluence of Minnehaha Creek and the Mississippi River. This beach is a favorite of both the sun-loving and anglers that pursue their quarry in the Mississippi River.<br /> <br /> Picnicking is also a favorite past-time in the area above the gorge with numerous tables, grills, and pavilions available for renting for gatherings. (Call 612-230-6400 with questions.) There is also the Sea Salt Eatery for those that would rather have someone else prepare a meal.<br /> <br /> The park has many other amenities including a wading pool for kids and a disc golf course.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.314207,
+          45.141005
+        ]
+      },
+      "properties": {
+        "name": "Mississippi Gateway Regional Park",
+        "notes": "Mississippi Gateway Regional Park\nhttps://www.nps.gov/places/mississippi-gateway-regional-park.htm\n\n<h2>Introduction</h2> <p>The Mississippi River defines the east boundary of this unique park where there are many opportunities to see our nation’s greatest river up close. In addition to being a popular fishing and picnicking destination, the west Visitor Center provides interpretive programs and displays of the area’s natural history. There is spectacular scenery and abundant wildlife viewing from the 12-foot-wide walkway across the dam, more than two miles of trails in the park, and miles of adjoining regional trail.</p> <h2>History</h2> <p>The Coon Rapids dam was built in 1913 by the Northern Mississippi Power Company. It took 1,000 men just a little over 1 year to complete the entire dam system. During construction, a small town grew up on the Anoka County side of the river, complete with barracks, hospitals, fire stations and even dance halls.</p> <p>Nestled in the woods above the river floodplain, the West Visitor Center in Brooklyn Park focuses on the natural history of the Mississippi River. The park provides safe and easy access to the river for investigating water quality. Hands-on programs cover the physical, chemical, and biological health of the Mississippi River.</p> <h2>Activities</h2> <p>There are extensive trails for hiking, bicycling, skiing and snowshoeing. Some of the best bird watching in the metro area can be found in this park along bicycle and hiking trails. This is also an Mississippi National River and Recreation Area passport stamp location. The park also hosts a <a href=\"https://www.paddleshare.org/\">Paddle Share </a>station for kayak rental.</p> <h2>Hours, Directions, and Contact Information</h2> <ul> <li> <p>10360 West River Road, Brooklyn Park, MN 55444</p> </li> <li> <p>GPS: 45.141005, -93.314207</p> </li> <li> <p>Call (763) 694-7790 for more information.</p> </li> <li> <p>See the Three Rivers <a href=\"https://www.threeriversparks.org/location/mississippi-gateway-regional-park\">Mississippi Gateway Regional Park </a>page for more information.</p> </li> </ul>",
+        "icon": "red-pin-down.png"
+      }
+    }
+  ]
+}

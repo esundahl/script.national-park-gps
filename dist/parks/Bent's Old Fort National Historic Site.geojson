@@ -1,0 +1,80 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.429573828,
+          38.040498596
+        ]
+      },
+      "properties": {
+        "name": "Bent's Fort",
+        "notes": "Bent's Fort\nhttps://www.nps.gov/places/bents_fort.htm\n\nFor much of its 16-year history, Bent’s Fort was the only major permanent white settlement on the Santa Fe Trail between Missouri and the Mexican settlements. William and Charles Bent, along with Ceran St. Vrain, built the original adobe fort in 1833 for trade with local Native American tribes and trappers for buffalo robes. Situated along the northern bank of the Arkansas river in what is now southeastern Colorado, the fort quickly became the center of the expanding holdings of Bent, St. Vrain & Company. Soon, it was also an important stop on the Santa Fe Trail’s mountain route and a center for commercial, social, military, and cultural exchange. <br /> <br /> The fort brought together trappers from the southern Rocky Mountains, Anglo-American travelers from Missouri and the east, Hispanic traders from Mexico, and Native Americans, primarily from the Cheyenne, Arapaho, Comanche, and Kiowa Tribes. In addition to trading prospects, the fort also provided weary travelers, such as those following the Santa Fe Trail, with a place to get needed supplies and rest. During the war with Mexico in 1846, the fort became a staging area for Colonel Stephen Watts Kearny's \"Army of the West.\" Disasters and disease caused the fort's abandonment in 1849.<br /> <br /> Although the original fort no longer stands, at Bent’s Old Fort National Historic Site the fort has been reconstructed and is open to the public. The site preserves the resources associated with the Bent–St. Vrain trading empire and provides visitors with the opportunity to explore the trading post’s complex history. ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.75729417800903,
+          38.094182145656724
+        ]
+      },
+      "properties": {
+        "name": "Bent's New Fort and Fort Wise/Lyon",
+        "notes": "Bent's New Fort and Fort Wise/Lyon\nhttps://www.nps.gov/places/beol-sand_bents_new_fort.htm\n\n<p> </p> <p>Bent's New Fort connects the story of Bent's Old Fort and William Bent's family to the Sand Creek Massacre. The New Fort represented an attempt to continue trading with Plains Tribes following the end of the Mexican War. The operation was shortlived, and William Bent sold the structure to the United States Army, which located a military garrison there under a new name. Both of these forts played a role in the development of the Santa Fe Trail, the destinies of the Plains Indians, and the future of Colorado.</p> <h3>Bent’s New Fort (1853-1869)</h3> <p>William Bent abandoned his old fort (present-day <a href=\"https://www.nps.gov/places/bent-s-old-fort-national-historic-site.htm\">Bent’s Old Fort National Historic Site</a>) in 1849. Lacking satisfactory offers to purchase it, Bent is believed to have burnt much of the fort to keep it from falling into the hands of the Army or his competition. To continue his trade with the Plains Tribes, Bent built a new fort of stone in 1853. Based on Cheyenne recommendations, he located this new fort overlooking the Arkansas River at Big Timbers, near present-day Lamar.<br /> The new fort had several advantages over the old fort, including its stone construction, simple rectangular design, and lack of adobe. Bent no longer needed to hire labor to apply adobe every season, and the durable nature of stone added to its protection. With trade no longer profitable and the construction of Fort Wise nearby in 1860, Bent leased his stone fort to the Army, which used it as a post quartermaster & commissary and Indian Agency office.</p> <h3>Fort Wise (1860)</h3> <p>Fort Wise was made possible through the 1851 Fort Laramie Treaty, which offered Plains Indians annuities and recognition of their land in exchange for allowing uncontested passage along the western trails and the establishment of forts. Named in honor of Virginia Governor Henry A. Wise, Fort Wise served to protect travelers and transportation along the Santa Fe Trail between Fort Larned in Kansas and Pueblo, Colorado.<br /> <br /> The Army situated the fort on lands adjacent to the Arkansas River in 1860, just west of Bent’s New Fort. Fort Wise lacked a protective wall or barricade, instead locating numerous barracks and offices in a square around a central parade ground. With the outbreak of the Civil War in 1861, Governor Wise led Virginia’s secession from the United States. The U.S. Army renamed the military post Fort Lyon in mid-1862 to honor of General Nathaniel Lyon, the first United States general killed in the Civil War.</p> <h3>Fort Lyon (1860-1867)</h3> <p>Fort Lyon encompassed both the former Fort Wise and Bent’s New Fort, as both offered advantages to the Army. As a way station along the Santa Fe Trail, Fort Lyon served as a base for U.S. Army patrols and a rest stop for travelers. In 1864, Colonel Chivington used the fort and its troops for the attack on Sand Creek. He uttered his infamous outburst, “<em>Damn any man who is in sympathy with Indians!</em>” inside the quartermaster office of Bent’s New Fort.<br /> <br /> Detachments of the 1st and 3rd Regiments Cavalry, Colorado (U.S.) Volunteers led by Colonel John Chivington marched overnight from Fort Lyon to reach a village of peaceful Cheyenne and Arapaho at Sand Creek at dawn on November 29, 1864. The 40 mile ride took about 10 hours and allowed the volunteers to attack the village with complete surprise. The attack resulted in the death of approximately 230 men, women and children.<br /> <br /> Fort Lyon’s low position near the Arkansas River rendered it vulnerable to flooding and disease. A large flood in 1867 undercut many of the buildings. In June 1867, the U.S. Army leased land near Las Animas, Colorado, and transferred the post there, making the new military post the second to bear the name Fort Lyon. By William Bent’s death in 1869, the fort near Lamar lay abandoned and neglected, its stones later scavenged for use in local buildings.</p> <h3>The Site of Bent’s New Fort today</h3> <p>Because of its significance to trade along the Santa Fe Trail and its role in the Sand Creek Massacre, the National Park Service worked with the landowner and other partners to open the site of Bent’s New Fort to the public in 2013. This public-private partnership provides access to the site, where visitors can walk a short trail, read interpretive wayside exhibits, and gaze across the scenic Arkansas River Valley.</p> <h4>Driving Directions</h4> <p>To reach Bent’s New Fort Site, take U.S. 50 to County Road 35, approximately 10 miles west of Lamar or 25 miles east of Las Animas. Turn south on County Road 35 for one mile to County Road JJ (T Junction). Turn east (left) and drive ¼ mile, turning south (right) onto County Road 35.25 for ¼ mile to the Bent’s New Fort parking area. A walking trail and interpretive exhibits are available; however, no public facilities exist at the site.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.43188030015956,
+          38.04330981408965
+        ]
+      },
+      "properties": {
+        "name": "Bent's Old Fort National Historic Site",
+        "notes": "Bent's Old Fort National Historic Site\nhttps://www.nps.gov/places/bent-s-old-fort-national-historic-site.htm\n\n<p>For much of its 16-year history, Bent’s Fort was the only major permanent white settlement on the Santa Fe Trail between Missouri and the Mexican settlements. William and Charles Bent, along with Ceran St. Vrain, built the original adobe fort in 1833 for trade with local Native American tribes and trappers for buffalo robes. Situated along the northern bank of the Arkansas river in what is now southeastern Colorado, the fort quickly became the center of the expanding holdings of Bent, St. Vrain & Company. Soon, it was also an important stop on the Santa Fe Trail’s mountain route and a center for commercial, social, military, and cultural exchange. <br /> <br /> The fort brought together trappers from the southern Rocky Mountains, Anglo-American travelers from Missouri and the east, Hispanic traders from Mexico, and Native Americans, primarily from the Cheyenne, Arapaho, Comanche, and Kiowa Tribes. In addition to trading prospects, the fort also provided weary travelers, such as those following the Santa Fe Trail, with a place to get needed supplies and rest. During the war with Mexico in 1846, the fort became a staging area for Colonel Stephen Watts Kearny's \"Army of the West.\" Disasters and disease caused the fort's abandonment in 1849.<br /> <br /> Although the original fort no longer stands, at Bent’s Old Fort National Historic Site the fort has been reconstructed and is open to the public. The site preserves the resources associated with the Bent–St. Vrain trading empire and provides visitors with the opportunity to explore the trading post’s complex history. <br /> <br /> After your visit, if you are heading West, you have the unique opportunity to stop at Comanche National Grassland and retrace a piece of the Santa Fe Trail at the <a href=\"https://www.nps.gov/places/sierra-vista-interpretive-site-comanche-national-grassland.htm\">Sierra Vista Interpretive Site</a>. While you are here, visit <a href=\"https://www.nps.gov/places/iron-spring-comanche-national-grassland.htm\">Iron Spring,</a> an important water stop for Santa Fe Trail travelers. East of Bent’s Old Fort National Historic Site, you can visit <a href=\"https://www.nps.gov/places/lamar-welcome-center.htm\">historic Lamar and </a><a href=\" https://www.nps.gov/places/boggsville-historic-site.htm\">Boggsville Historic Site.</a>  </p> <h2>Site Information</h2> <p><strong>Location </strong>(35110 State Highway 194 E. La Junta, CO 81050)</p> <p><em><a href=\"https://www.nps.gov/safe/planyourvisit/safety.htm\">Safety Considerations</a></em></p> <h2><a href=\"https://www.nps.gov/beol/learn/historyculture/index.htm\">Bent's Old Fort National Historic Site</a></h2> <h2><a href=\"https://www.nps.gov/safe/index.htm\">Santa Fe National Historic Trail</a></h2>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.21073913574219,
+          38.040245056152344
+        ]
+      },
+      "properties": {
+        "name": "Boggsville Historic Site",
+        "notes": "Boggsville Historic Site\nhttps://www.nps.gov/places/boggsville-historic-site.htm\n\n<p>Boggsville, located on the Purgatoire River, was first used as a campsite by the Plains Indians. With the fur trade vanishing, many former mountain men found work raising livestock. Through his wife’s government land grant connections, Thomas Boggs started his ranch near the river on a branch of the Santa Fe Trail. It became known as Boggsville after he and his wife, Rumalda Luna Bent Boggs, built their first home. John Wesley Prowers moved to the Boggs’s ranch in 1867 along with frontiersman Kit Carson and his family. A year later, with Carson in poor health, his wife, Josefa, died from childbirth complications. Kit died several weeks later at nearby Fort Lyon. Thomas Boggs was the executor of Carson's will.</p> <h2>Site Information</h2> <p><strong>Location </strong>(two miles south of Las Animas on Colorado Highway 101)</p> <p><strong>Available Facilities:</strong> Today, Boggsville is a renovation project in progress. Seeing the site now, which has just a few buildings and old foundations, it is hard to imagine that here is where the cattle and sheep industries first boomed in Colorado. A lot of the early history of Colorado started here. Slowly, some of the buildings are being restored and more are going to be rebuilt.<br /> <br /> <strong>Exhibits:</strong> A bronze state historical marker is located along Colorado Highway 101, and there are several interpretive markers along an area hiking path.</p> <p><em><a href=\"https://www.nps.gov/safe/planyourvisit/safety.htm\">Safety Considerations</a></em></p> <h3><a href=\"http://www.sangres.com/history/boggsville.htm#.YBSs03OSmUk\">More Site Information</a></h3> <h2><a href=\"https://www.nps.gov/safe/index.htm\">Santa Fe National Historic Trail</a></h2>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.42963814735413,
+          38.04027542610249
+        ]
+      },
+      "properties": {
+        "name": "Park Store at Bent's Old Fort National Historic Site",
+        "notes": "Park Store at Bent's Old Fort National Historic Site\nhttps://www.nps.gov/places/beol_parkstore.htm\n\n<p>The park store is operated by <a href=\"https://www.nps.gov/beol/learn/www.wnpa.org\">Western National Parks Association</a> (WNPA), an official non-profit partner of the National Park Service dedicated to supporting the educational mission of Bent's Old Fort National Historic Site. The park store has a wide range of books, maps, travel guides, media, educational games, posters, and other items available for retail sale. These products complement the interpretive themes you experience when visiting the park. The park store is located at the rear of the reconstructed fort, or you can visit the online park store <a href=\"https://store.wnpa.org/\">https://store.wnpa.org/</a>. You can contact the store directly at 719-384-2800.<br /> <br /> The Trade Goods and Park Store at Bent's Old Fort offers many of the same trade goods that were exchanged for bison robes and other peltries at the fort in 1846. A visit to the store links you to the past when Bent's Fort was part of a thriving commercial trading empire. You can purchase replicas of the same goods offered by the Bent brothers and carried along the Santa Fe Trail. Items such as flint and steel, powder horns, and copper rum cups might have been supplies the mountain men needed; the Indians wanted trade beads and coffee; from Mexico came shells and baskets. Hand made leather pouches and blankets, Hudson Bay blankets and Dutch ovens are examples of goods offered for sale.</p> <p>In addition to trade goods, many titles relating to the Fort, Native Americans, Sand Creek, mountain men, the fur trade, historical cooking, and the Santa Fe Trail are available for every age and level of study.</p> <p>Your purchases directly support educational and scientific research programs at Bent's Old Fort National Historic Site. A membership with WNPA allows you to become a partner with our western parks and thousands of people who visit daily. Six levels of membership offer you the opportunity to chose your level of commitment and all donations are tax deductible. For more information, contact Western National Parks Association at <a href=\"http://www.wnpa.org/\">www.wnpa.org</a> or pick up a brochure at any one of their locations.</p>",
+        "icon": "red-pin-down.png"
+      }
+    }
+  ]
+}

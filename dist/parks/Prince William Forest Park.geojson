@@ -1,0 +1,500 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.34969913959503,
+          38.56009203712509
+        ]
+      },
+      "properties": {
+        "name": "A Piedmont Forest High-Rise",
+        "notes": "A Piedmont Forest High-Rise\nhttps://www.nps.gov/places/a-piedmont-forest-high-rise.htm\n\nEver wonder how the different layers of the forest interact? Learn about animals that live in and travel between the canopy, understory, and floor of the forests at Prince William Forest Park by hiking the Piedmont Forest Trail. Pay close attention to the groundcover, branches, and treetops along the trail, and you may spot some forest residents.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.366170248,
+          38.564273109
+        ]
+      },
+      "properties": {
+        "name": "Carters Pond",
+        "notes": "Carters Pond\nhttps://www.nps.gov/places/carters-pond.htm\n\nCome to Carters Pond on a summer morning to listen to a chorus of bull frogs. There is a peaceful bench to sit on at the end of a short out-and-back trail that winds around the pond. There is also a wheelchair accessible picnic table near the parking lot with a nice view of the pond.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3568606376648,
+          38.58737359273332
+        ]
+      },
+      "properties": {
+        "name": "Coastal Plain",
+        "notes": "Coastal Plain\nhttps://www.nps.gov/places/coastal-plain.htm\n\nWhy does the landscape flatten out here? As the Piedmont hills transition into the coastal plain on the eastern edge of Prince William Forest Park, the soil becomes sandier, the hills become gentler, and creeks widen as they flow towards the Potomac River. Standing beside Quantico Creek here, you can notice the sandy silt and small river rocks; quite a difference from the large rocks that stretch the length of the creek just upstream.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.36540079116821,
+          38.58814512633772
+        ]
+      },
+      "properties": {
+        "name": "Dinosaurs and Volcanoes",
+        "notes": "Dinosaurs and Volcanoes\nhttps://www.nps.gov/places/dinosaurs-and-volcanoes.htm\n\nLearn about the geology of Prince William Forest Park! As you hike the Quantico Cascades trail, think about what this landscape would have looked like millions of years ago. Though it seems hard to imagine today, hundreds of millions of years ago lava flowed across the land that would become Prince William Forest Park. Colliding continents reformed the rock underneath today's forest into a metamorphic bedrock that can be seen exposed along the creeks that run through the park.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.35775649547577,
+          38.58891665165207
+        ]
+      },
+      "properties": {
+        "name": "Fall Line",
+        "notes": "Fall Line\nhttps://www.nps.gov/places/fall-line.htm\n\nWhat shaped the topography of Prince William Forest Park? Hike the Quantico Cascades Trail to learn more about the geology of the fall line, an area where the rolling hills of the Piedmont meet the flat softer sediments of the Coastal Plain. Because both areas meet in the park, the two branches of Quantico Creek flowing through the park form small cascades at this intersection as water has a tougher time eroding the hard rocks of the Chopawamsic Formation.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.34249472618103,
+          38.560368888942996
+        ]
+      },
+      "properties": {
+        "name": "Historic Routes - The Crossing Trail",
+        "notes": "Historic Routes - The Crossing Trail\nhttps://www.nps.gov/places/historic-routes-the-crossing-trail.htm\n\nFollow in the footsteps of thousands of people before you as you hike the Crossing Trail, which partially follows an old roadbed. Initially a path to travel between American Indian villages and hunting grounds, early European settlers widened this road into the Potomac Path, a roadway soldiers travelled in both the Revoluntionary and Civil Wars. Today part of the Washington-Rochambeau Revoluntionary Route National Historic Trail, the trail meanders through the forest following a faint network of old roadways that existed before Prince William Forest Park was created.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.34759628756365,
+          38.56048214632553
+        ]
+      },
+      "properties": {
+        "name": "Laurel Trail Loop Trailhead",
+        "notes": "Laurel Trail Loop Trailhead\nhttps://www.nps.gov/places/laurel-trail-loop-trailhead.htm\n\n<p paraeid=\"{ef78bf55-3b2b-4153-ba67-c3a3f291ab7f}{4}\" paraid=\"31925447\">The Laurel Trail Loop is a moderately strenuous 1.3-mile loop that winds through deciduous forest to South Fork Quantico Creek. Colors pop all year along this trail. In the spring, mountain laurel burst into bloom with clusters of delicate pink and white. In autumn, the green leaves of summer turn into endless shades of yellow, orange, red, and tan.  </p> <p paraeid=\"{ef78bf55-3b2b-4153-ba67-c3a3f291ab7f}{14}\" paraid=\"2063827090\"> </p> <p paraeid=\"{ef78bf55-3b2b-4153-ba67-c3a3f291ab7f}{18}\" paraid=\"589556891\">Watch your step for tree stumps and slippery rocks. Check yourself periodically for ticks. Keep your pets on a leash and do not feed wildlife. Do not disturb or remove any plants, animals, or historic features.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.34947919845581,
+          38.55985713171604
+        ]
+      },
+      "properties": {
+        "name": "Life in the Canopy",
+        "notes": "Life in the Canopy\nhttps://www.nps.gov/places/life-in-the-canopy.htm\n\nWonder what animals live in the topmost layer of the forest among the treetops in Prince William Forest Park? Hike the Piedmont Forest Trail to learn more about what creatures travel through and live in the canopy of the forest. This shaded, gently sloping stop in the Piedmont forest encourages you to look up to learn about the squirrels, woodpeckers, and spiders that make the treetops and upper branches of the forest their home.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.35021948814392,
+          38.559592862213215
+        ]
+      },
+      "properties": {
+        "name": "Life in the Understory",
+        "notes": "Life in the Understory\nhttps://www.nps.gov/places/life-in-the-understory.htm\n\nEver wonder what animals live in the middle layers of the forest at Prince William Forest Park? Learn about the creatures that inhabit the understory by hiking the Piedmont Forest Trail. This short, shaded, gently sloping trail stop in the Piedmont forest introduces visitors to deer, toads, and towhees that live and feed on the low branches and ground plants of the forest.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.35119581222534,
+          38.56029757872823
+        ]
+      },
+      "properties": {
+        "name": "Life on the Forest Floor",
+        "notes": "Life on the Forest Floor\nhttps://www.nps.gov/places/life-on-the-forest-floor.htm\n\nWondering about what lives on the ground in Prince William Forest Park? Learn more about wildlife in the park by hiking the Piedmont Forest Trail and reading about a variety of animals such as insects, raccoons, and salamanders that call the forest floor home. Take in the sounds of the forest by sitting on the deck above a tributary of Quantico Creek and enjoying the rustles of the wind moving through the trees and animals scurrying through the forest.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4142676691,
+          38.6017976905
+        ]
+      },
+      "properties": {
+        "name": "Oak Ridge Trailheads",
+        "notes": "Oak Ridge Trailheads\nhttps://www.nps.gov/places/oak-ridge-trailheads.htm\n\n<p paraeid=\"{14ee3302-3268-45d4-bc28-dc31c1caa29b}{136}\" paraid=\"328626544\">Park at Oak Ridge to access the Farms to Forest Trail, a 1.7-mile loop, and the South Valley Trail, a 9.7-mile trail that weaves throughout the park. </p> <p paraeid=\"{14ee3302-3268-45d4-bc28-dc31c1caa29b}{148}\" paraid=\"40375285\">White blazes mark the 9.7-mile South Valley Trail, the park’s longest trail. Beginning at Oak Ridge Campground, this trail follows South Fork Quantico Creek to its confluence with Quantico Creek on the southeastern border of the park. The terrain and difficulty of this trail vary along its length. Study the map and create your own loop with other trails, fire roads, or the Scenic Drive. Enjoy the oak, beech, and tulip poplar trees and be alert for beaver activity. As you travel along, look for traces of former mills and homesites. </p> <p paraeid=\"{14ee3302-3268-45d4-bc28-dc31c1caa29b}{158}\" paraid=\"1235863883\">The Farms to Forest Trail consists of two loops. Follow the green blazes tracing a 1-mile, self-guiding trail through an old farm area that has been reclaimed by the forest. At about the midpoint in the first loop, follow the yellow blazes for a 1.8-mile moderately strenuous extension that winds through a marshy area near Quantico Creek. If you are hiking in the early morning and early evening, keep an eye out- especially on the second loop of this trail – for birds, beavers, and other wildlife. </p> <p paraeid=\"{14ee3302-3268-45d4-bc28-dc31c1caa29b}{168}\" paraid=\"401415375\">Watch your step for tree stumps and slippery rocks. Check yourself periodically for ticks. Keep your pets on a leash and do not feed wildlife. Do not disturb or remove any plants, animals, or historic features. </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3654423509,
+          38.5682449115
+        ]
+      },
+      "properties": {
+        "name": "Parking: Lot A",
+        "notes": "Parking: Lot A\nhttps://www.nps.gov/places/parking-lot-a.htm\n\n<p paraeid=\"{9ad868b0-2ca5-412b-87b9-309dd44f2e08}{132}\" paraid=\"2009342530\">Lot A provides access to the South Valley Trail, a 9.7-mile trail that weaves throughout the park starting at Oak Ridge Campground. South Valley Trail follows South Fork Quantico Creek. The terrain and difficulty of this trail vary along its length. Study the map and create your own loop with other trails, fire roads, or the Scenic Drive. Enjoy the oak, beech, and tulip poplar trees and be alert for beaver activity. As you travel along, look for traces of former mills and homesites.  </p> <p paraeid=\"{9ad868b0-2ca5-412b-87b9-309dd44f2e08}{142}\" paraid=\"1715332200\">This lot accommodates about six vehicles. If this lot is full, Lot B is a short drive down the road and also provides access to the South Valley Trail. </p> <p paraeid=\"{9ad868b0-2ca5-412b-87b9-309dd44f2e08}{156}\" paraid=\"397381697\">Watch your step for tree stumps and slippery rocks. Check yourself periodically for ticks. Keep your pets on a leash and do not feed wildlife. Do not disturb or remove any plants, animals, or historic features.  </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3660902202,
+          38.5689140087
+        ]
+      },
+      "properties": {
+        "name": "Parking: Lot B",
+        "notes": "Parking: Lot B\nhttps://www.nps.gov/places/parking-lot-b.htm\n\n<p paraeid=\"{b4939767-dd87-46af-a6ee-c846fe99b867}{92}\" paraid=\"1652833248\">Lot B provides access to the South Valley Trail, a 9.7-mile trail that weaves throughout the park starting at Oak Ridge Campground. South Valley Trail follows South Fork Quantico Creek. The terrain and difficulty of this trail vary along its length. Study the map and create your own loop with other trails, fire roads, or the Scenic Drive. Enjoy the oak, beech, and tulip poplar trees and be alert for beaver activity. As you travel along, look for traces of former mills and homesites. </p> <p paraeid=\"{b4939767-dd87-46af-a6ee-c846fe99b867}{104}\" paraid=\"1304260854\">This lot accommodates 10 to 15 vehicles. If this lot is full, Lots A and C are short drives down the road in either direction and also provide access to the South Valley Trail. </p> <p paraeid=\"{b4939767-dd87-46af-a6ee-c846fe99b867}{118}\" paraid=\"2120411750\">Watch your step for tree stumps and slippery rocks. Check yourself periodically for ticks. Keep your pets on a leash and do not feed wildlife. Do not disturb or remove any plants, animals, or historic features. </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.368039485,
+          38.5725281973
+        ]
+      },
+      "properties": {
+        "name": "Parking: Lot C",
+        "notes": "Parking: Lot C\nhttps://www.nps.gov/places/parking-lot-c.htm\n\n<p paraeid=\"{b6f1f6db-1249-457f-83d2-9addcfad3d10}{61}\" paraid=\"1884459182\">Lot C provides access to the South Valley Trail, a 9.7-mile trail that weaves throughout the park from Oak Ridge Campground to Quantico Creek. South Valley Trail follows South Fork Quantico Creek. The terrain and difficulty of this trail vary along its length. Study the map and create your own loop with other trails, fire roads, or the Scenic Drive. Enjoy the oak, beech, and tulip poplar trees and be alert for beaver activity. As you travel along, look for traces of former mills and homesites. </p> <p paraeid=\"{b6f1f6db-1249-457f-83d2-9addcfad3d10}{73}\" paraid=\"2112288951\">This lot accommodates 9 vehicles. If this lot is full, Lots A and B are a short drive down the road and also provide access to the South Valley Trail. </p> <p paraeid=\"{b6f1f6db-1249-457f-83d2-9addcfad3d10}{91}\" paraid=\"1456489532\">Watch your step for tree stumps and slippery rocks. Check yourself periodically for ticks. Keep your pets on a leash and do not feed wildlife. Do not disturb or remove any plants, animals, or historic features. </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3648930714,
+          38.5787814477
+        ]
+      },
+      "properties": {
+        "name": "Parking: Lot D",
+        "notes": "Parking: Lot D\nhttps://www.nps.gov/places/parking-lot-d.htm\n\n<p paraeid=\"{e3a98d3b-8beb-4f24-8b5a-14dc81618e63}{31}\" paraid=\"1526619465\">Lot D provides access to North Orenda Road and Pyrite Mine Road, which are both hike and bike trails. The paved accessible hike or bike lane along the Scenic Drive also begins here and continues until Oak Ridge Road. This lot accommodates about 20 vehicles and also has a dog waste station. North of Lot D, the Scenic Drive becomes one-way for motor vehicles going north. </p> <p paraeid=\"{e3a98d3b-8beb-4f24-8b5a-14dc81618e63}{47}\" paraid=\"1720526333\">When biking in the park, be sure to stay on designated biking trails. Ride in single file on paved roads, obey all traffic regulations and yield to pedestrians. When overtaking others, be cautious and provide advance warning of your presence. Additional safety tips: wear a helmet and gloves, check your brakes and tire pressure, watch for debris, control your speed, carry water and a park map, and be aware of changing weather conditions. </p> <p paraeid=\"{e3a98d3b-8beb-4f24-8b5a-14dc81618e63}{57}\" paraid=\"1741296293\">From this parking lot, you can also cross Scenic Drive to hike the Pyrite Mine Road and follow the orange blazes of Cabin Branch Mine Trail. You will pass a series of concrete foundations and capped mineshafts. On the north side of Quantico Creek, follow the trail and boardwalk to a large viewing platform. Look across to the hillside where the mine’s headframe building once stood. Cabin Branch Mine was one of Virginia’s largest pyrite mines. Return to this location via Pyrite Mine Road. The loop totals 1.5 miles. </p> <p paraeid=\"{e3a98d3b-8beb-4f24-8b5a-14dc81618e63}{67}\" paraid=\"1169148449\">Watch your step for tree stumps and slippery rocks. Check yourself periodically for ticks. Keep your pets on a leash and do not feed wildlife. Do not disturb or remove any plants, animals, or historic features. </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.36754369074744,
+          38.58728809832929
+        ]
+      },
+      "properties": {
+        "name": "Parking: Lot E",
+        "notes": "Parking: Lot E\nhttps://www.nps.gov/places/parking-lot-e.htm\n\n<p paraeid=\"{65dbd8b5-0d2f-4575-b74e-2dbeaf41e082}{5}\" paraid=\"39864373\">Lot E provides access to the Mary Byrd Branch Trail, Lake One Road (hike and bike), and the Quantico Cascades Trail. This lot accommodates 10 vehicles and has several picnic tables.  </p> <p paraeid=\"{65dbd8b5-0d2f-4575-b74e-2dbeaf41e082}{15}\" paraid=\"970258023\">The Mary Byrd Branch Trail is marked with red blazes and is a moderate .5-mile trail. It is across the road from the parking area and heads down through the woods to Mary Byrd Branch, a tributary of Quantico Creek. The trail and stream are named for a highly respected, strong-willed woman who lived in this area in the 1800s. Beyond the stream, the trail meets Old Black Top Road, which connects with other trails near the Turkey Run Ridge Area. Near the stream, look for signs of beaver activity such as gnawed stumps, downed trees, and dams. </p> <p paraeid=\"{65dbd8b5-0d2f-4575-b74e-2dbeaf41e082}{25}\" paraid=\"1877351468\">Head through the picnic area and follow the yellow blazes to take the Quantico Cascades Trail. This .7-mile trail joins Lake One Road for a short distance. The trail then heads off to the right and winds through pines and oaks along a ridge before descending to a series of cascades tumbling over rocks in Quantico Creek. Return the same way or circle back to the trail via North Valley Trial. </p> <p paraeid=\"{65dbd8b5-0d2f-4575-b74e-2dbeaf41e082}{35}\" paraid=\"2076130771\">A moderately difficult, 4-mile, self-guiding route begins at the Dinosaurs and Volcanoes exhibit on Quantico Cascades Trail and follows the North Valley Trail south along Quantico Creek to the Cabin Branch Pyrite Mine Site. You may return to the Scenic Drive along Pyrite Mine Road. </p> <p paraeid=\"{65dbd8b5-0d2f-4575-b74e-2dbeaf41e082}{49}\" paraid=\"596312874\">Watch your step for tree stumps and slippery rocks. Check yourself periodically for ticks. Keep your pets on a leash and do not feed wildlife. Do not disturb or remove any plants, animals, or historic features. </p> <p paraeid=\"{65dbd8b5-0d2f-4575-b74e-2dbeaf41e082}{59}\" paraid=\"657513909\">When biking, be sure to stay on designated biking trails. Ride in single file on paved roads, obey all traffic regulations and yield to pedestrians. When overtaking others, be cautious and provide advance warning of your presence. Additional safety tips: wear a helmet and gloves, check your brakes and tire pressure, watch for debris, control your speed, carry water and a park map, and be aware of changing weather conditions. </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3885707859,
+          38.5972245636
+        ]
+      },
+      "properties": {
+        "name": "Parking: Lot F",
+        "notes": "Parking: Lot F\nhttps://www.nps.gov/places/parking-lot-f.htm\n\n<p paraeid=\"{635c4d8b-11c2-49f5-8f8e-7867301d8d12}{6}\" paraid=\"790613877\">Lot F provides access to Old Black Top Road, which is a 1.6-mile hike and bike trail. It accommodates about 8 vehicles.  </p> <p paraeid=\"{635c4d8b-11c2-49f5-8f8e-7867301d8d12}{16}\" paraid=\"286055484\">This 1.6-mile unpaved hiking and biking route leads to the Taylor Farm area and several intersecting trails. In the early 1900s, Jennie (Davis) and Robert Taylor raised wheat, oats, corn, and other vegetables on their 110-acre farm for their family and to sell in their store. The federal government purchased the farm in 1942 and razed the buildings. Wisteria vines and blackberry bushes once cloaked the foundations of the farmhouse.  </p> <p paraeid=\"{635c4d8b-11c2-49f5-8f8e-7867301d8d12}{26}\" paraid=\"902198172\">Watch your step for tree stumps and slippery rocks. Check yourself periodically for ticks. Keep your pets on a leash and do not feed wildlife. Do not disturb or remove any plants, animals, or historic features. </p> <p paraeid=\"{635c4d8b-11c2-49f5-8f8e-7867301d8d12}{36}\" paraid=\"1001472390\">When biking, be sure to stay on designated biking trails. Ride in single file on paved roads, obey all traffic regulations and yield to pedestrians. When overtaking others, be cautious and provide advance warning of your presence. Additional safety tips: wear a helmet and gloves, check your brakes and tire pressure, watch for debris, control your speed, carry water and a park map, and be aware of changing weather conditions. </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.40676489094871,
+          38.58790157798767
+        ]
+      },
+      "properties": {
+        "name": "Parking: Lot G",
+        "notes": "Parking: Lot G\nhttps://www.nps.gov/places/parking-lot-g.htm\n\n<p paraeid=\"{635c4d8b-11c2-49f5-8f8e-7867301d8d12}{231}\" paraid=\"2009357444\">Lot G provides access to Mawavi Road, which is a .9-mile hike and bike trail.  </p> <p paraeid=\"{635c4d8b-11c2-49f5-8f8e-7867301d8d12}{245}\" paraid=\"1721001185\">The unpaved hiking and biking route connects the Scenic Drive with Cabin Camps 2 (Mawavi) and 5 (Happy Land) in the southwest corner of the park. Along the way the road crosses South Fork Quantico Creek and South Valley Trail. Southeast of the bridge, the Civilian Conservation Corps built a small lake, now a popular fishing area. What does Mawavi mean? One of the early camp users created the name by taking the first two letters of Maryland, Washington, and Virginia.  </p> <p paraeid=\"{38a714b7-4061-44a8-a80a-ab05f513c685}{12}\" paraid=\"701976613\">Watch your step for tree stumps and slippery rocks. Check yourself periodically for ticks. Keep your pets on a leash and do not feed wildlife. Do not disturb or remove any plants, animals, or historic features. </p> <p paraeid=\"{38a714b7-4061-44a8-a80a-ab05f513c685}{22}\" paraid=\"1984977383\">When biking, be sure to stay on designated biking trails. Ride in single file on paved roads, obey all traffic regulations and yield to pedestrians. When overtaking others, be cautious and provide advance warning of your presence. Additional safety tips: wear a helmet and gloves, check your brakes and tire pressure, watch for debris, control your speed, carry water and a park map, and be aware of changing weather conditions. </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3926601712,
+          38.5809828641
+        ]
+      },
+      "properties": {
+        "name": "Parking: Lot H",
+        "notes": "Parking: Lot H\nhttps://www.nps.gov/places/parking-lot-h.htm\n\n<p paraeid=\"{38a714b7-4061-44a8-a80a-ab05f513c685}{217}\" paraid=\"1356881387\">Lot H provides access to the High Meadows Trail, which is a 2.1-mile hiking trail </p> <p paraeid=\"{38a714b7-4061-44a8-a80a-ab05f513c685}{227}\" paraid=\"1883969483\">Follow the orange blazes to the northeast as this trail crosses several small streams, valleys, and meadows in the former Taylor Farm area. This moderately easy 1.3-mile section of the trail ends at Old Black Top Road. In the opposite direction, across the Scenic Drive, the more strenuous .8-mile portion of the trail crosses several ridges as it heads southwest through the hardwood forest to South Fork Quantico Creek and the South Valley Trail. </p> <p paraeid=\"{38a714b7-4061-44a8-a80a-ab05f513c685}{241}\" paraid=\"1648101181\">Watch your step for tree stumps and slippery rocks. Check yourself periodically for ticks. Keep your pets on a leash and do not feed wildlife. Do not disturb or remove any plants, animals, or historic features. </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.377207237,
+          38.5747403854
+        ]
+      },
+      "properties": {
+        "name": "Parking: Lot I",
+        "notes": "Parking: Lot I\nhttps://www.nps.gov/places/parking-lot-i.htm\n\n<p paraeid=\"{7e31d6e9-31c5-40cd-a1e3-1807bc7b0ce2}{180}\" paraid=\"689509303\">Lot I provides direct access to the Algonquian Trail, a .2-mile out and back trail, and is a short walk down the Scenic Drive to access the South Valley Trail, a 9.7-mile trail that weaves throughout the park from Oak Ridge Campground to Quantico Creek. </p> <p paraeid=\"{7e31d6e9-31c5-40cd-a1e3-1807bc7b0ce2}{198}\" paraid=\"1137145728\">Take a journey back in time as you follow this .2-mile trail through the woods to an area where a small stream flows over a rock outcropping. Imagine the Algonquian-speaking Doeg Indians who once inhabited the Quantico are refreshing themselves in this cool, shaded spot after a day of fishing, hunting and picking berries for their families. To the Doeg Indians, Quantico meant “by the large stream.” </p> <p paraeid=\"{7e31d6e9-31c5-40cd-a1e3-1807bc7b0ce2}{208}\" paraid=\"1208115116\">Watch your step for tree stumps and slippery rocks. Check yourself periodically for ticks. Keep your pets on a leash and do not feed wildlife. Do not disturb or remove any plants, animals, or historic features. </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.34945774078369,
+          38.560188515909964
+        ]
+      },
+      "properties": {
+        "name": "Piedmont Forest Trailhead",
+        "notes": "Piedmont Forest Trailhead\nhttps://www.nps.gov/places/piedmont-forest-trailhead.htm\n\n<p paraeid=\"{39862d6d-380f-422b-b37e-e66e0cca41e0}{120}\" paraid=\"1410089201\">The Piedmont Forest Trail is a .2-mile loop that is wheelchair accessible with parking nearby. Follow the green blazes to immerse yourself in the mixed hardwood forest that once covered these rolling hills from New York to Alabama. Agricultural practices and development have destroyed most of these eastern woodlands. This national park protects the largest expanse of Piedmont Forest in the National Park System. </p> <p paraeid=\"{39862d6d-380f-422b-b37e-e66e0cca41e0}{126}\" paraid=\"206612662\"> </p> <p paraeid=\"{39862d6d-380f-422b-b37e-e66e0cca41e0}{130}\" paraid=\"1486779435\">Watch your step for tree stumps and slippery rocks. Check yourself periodically for ticks. Keep your pets on a leash and do not feed wildlife. Do not disturb or remove any plants, animals, or historic features. </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3486726712,
+          38.5601251705
+        ]
+      },
+      "properties": {
+        "name": "Pine Grove Picnic Pavilion",
+        "notes": "Pine Grove Picnic Pavilion\nhttps://www.nps.gov/places/pine-grove-picnic-pavilion.htm\n\n<p paraeid=\"{81ff4027-3d78-4cf1-879a-005a3383bdb0}{174}\" paraid=\"1229232394\">The Pine Grove Picnic Pavilion is a first come first serve shaded pavilion with about 10 tables underneath it and 30 more tables in shade nearby. There is a playground nearby for kids to enjoy and the pavilion is right across the sidewalk from the Visitor Center and additional restrooms. </p> <p paraeid=\"{81ff4027-3d78-4cf1-879a-005a3383bdb0}{180}\" paraid=\"1312575419\"> </p> <p paraeid=\"{81ff4027-3d78-4cf1-879a-005a3383bdb0}{184}\" paraid=\"1709010786\">Please remember to clean up after your group and use the nearby dumpsters to dispose of all trash. No alcohol is allowed in the park.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3492431640625,
+          38.56080933281918
+        ]
+      },
+      "properties": {
+        "name": "Pine Grove Playground",
+        "notes": "Pine Grove Playground\nhttps://www.nps.gov/places/pine-grove-playground.htm\n\nThe Pine Grove Playground is a wonderful place for kids to play. Surrounded by woods, this playground has slides, monkey bars, see-saws, ladders, and so much more. It is located near the Pine Grove Pavilion, which is excellent for a family picnic, and several trailheads.  ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.34997808933258,
+          38.56132527792716
+        ]
+      },
+      "properties": {
+        "name": "Pine Grove Trailhead",
+        "notes": "Pine Grove Trailhead\nhttps://www.nps.gov/places/pine-grove-trailhead.htm\n\nThis trailhead provides access to the .2-mile Muschette trail, .5-mile South Orenda Road, and the 1.4-mile Laurel Trail Loop. The Pine Grove Picnic Pavilion and a playground are nearby if you’re looking for a place to eat and play before or after your hike.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3698726298,
+          38.5600036607
+        ]
+      },
+      "properties": {
+        "name": "Prince William Forest Park Headquarters",
+        "notes": "Prince William Forest Park Headquarters\nhttps://www.nps.gov/places/000/prince-william-forest-park-headquarters.htm\n\nPark Headquarters houses the offices of the park's <a href=\"https://www.nps.gov/prwi/learn/management/staffandoffices.htm\">management</a> and administrative teams, including the Office of the Superintendent. <br /> <br /> Please note that this location does not provide visitor services. ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.35291242599487,
+          38.57786292159769
+        ]
+      },
+      "properties": {
+        "name": "Pyrite Mine Building Foundations",
+        "notes": "Pyrite Mine Building Foundations\nhttps://www.nps.gov/places/pyrite-mine-building-foundations.htm\n\nBeneath the trees and leaves in Prince William Forest Park is a mine that once employed 250 people from this area in the early 1900s. After it was closed in 1919, many of the old buildings fell into disrepair and some of the lumber was used by the Civilian Conservation Corps to build the cabin camps in the 1930s. Today, foundations of some mine buildings and the capped mine shafts are remnants of the bygone era of the Cabin Branch Pyrite Mine operation. Please do not climb on any of the foundations for both your safety and the protection of these historic resources.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.35246181488037,
+          38.57729257677705
+        ]
+      },
+      "properties": {
+        "name": "Pyrite Mine Foundations",
+        "notes": "Pyrite Mine Foundations\nhttps://www.nps.gov/places/pyrite-mine-foundations.htm\n\nThis group of vegetation covered foundations are the remains of the machine shop, engine room, and boiler room for the Cabin Branch Pyrite Mine, which was operational in the early 1900s on the land that eventually became Prince William Forest Park. Within these separate concrete foundations or pads before you are various configurations of rooms with raised and depressed levels and protruding metal pins and bolts. For your safety and the safety of these historic foundations, please do not cross the fence and climb on them.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.34838485717773,
+          38.57518729418675
+        ]
+      },
+      "properties": {
+        "name": "Reclaiming the Land",
+        "notes": "Reclaiming the Land\nhttps://www.nps.gov/places/reclaiming-the-land.htm\n\nStanding on this viewing platform, look through the trees across the creek and you can see the hillside site where the old milling buildings were contrusted and operated by the Cabin Branch Mining Company from 1889-1920. Milling the pyrite ore and sorting it by quality and size was an essential part of the mining operation. After sorting by size, the ore would be spread out and hammered until it could pass through a 2 1/2 inch ring. Smaller pieces were ground between wheels and screens until fine. It was then sent down the hill via the vertical structures show on the sign image and put into railway cars.<br /> <br /> When the mine closed down in 1920, the buildings were abandoned and many of the mine tailings were left exposed. Sulfur from the pyrite started to leach into the creek and raised the acidity of the water. While reclamation of the mine land was ongoing since the passage of the Clean Water Act in 1970, the largest reclamation project took place in 1995, capping mineshafts, burying mine tailings with lime, building storm-water channels to divert run-off, and planting trees and shrubs.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3428199323,
+          38.5583166114
+        ]
+      },
+      "properties": {
+        "name": "Telegraph Picnic Pavilion",
+        "notes": "Telegraph Picnic Pavilion\nhttps://www.nps.gov/places/telegraph-picnic-pavilion.htm\n\n<p paraeid=\"{4fe7bdcb-c84f-47e8-bb82-f4b6c560df93}{53}\" paraid=\"202373334\">The Telegraph Picnic Pavilion is available to reserve on Recreation.gov. There are about 10 picnic tables in full shade under the pavilion, some of which are wheelchair accessible. There is ample parking and a bike rack nearby. The pavilion has electrical outlets, a grill, and a water spigot. A short walk through the woods will bring you to Williams Ball Field. The Crossing Trailhead is also nearby for a short hike. </p> <p paraeid=\"{4fe7bdcb-c84f-47e8-bb82-f4b6c560df93}{59}\" paraid=\"1167017170\"> </p> <p paraeid=\"{4fe7bdcb-c84f-47e8-bb82-f4b6c560df93}{63}\" paraid=\"1788299522\">Please remember to clean up after your group and use the nearby dumpsters to dispose of all trash. Alcohol is allowed in the pavilion area if you have a reservation. For groups larger than 50 people, a Virginia ABC Banquet license is necessary to have alcohol.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.34348177909851,
+          38.55868678796982
+        ]
+      },
+      "properties": {
+        "name": "The Crossing Trailhead",
+        "notes": "The Crossing Trailhead\nhttps://www.nps.gov/places/the-crossing-trailhead.htm\n\nThe Crossing Trail is a .5-mile loop trail with the option of connecting to the Birch Bluff Trail. Follow the green blazes as this easy trail takes you along a portion of the historic north-south route used by American Indians and early settlers. Revolutionary War troops commanded by George Washington and the Comte de Rochambeau traveled this roadway on their way to Yorktown. The abandoned roadbed continues north as part of today’s Birch Bluff Trail, while the Crossing Trail winds back to the park road to your left.<br /> <br /> Watch your step for tree stumps and slippery rocks. Check yourself periodically for ticks. Keep your pets on a leash and do not feed wildlife. Do not disturb or remove any plants, animals, or historic features. ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.35598623752594,
+          38.58899212650939
+        ]
+      },
+      "properties": {
+        "name": "The Power of Water",
+        "notes": "The Power of Water\nhttps://www.nps.gov/places/the-power-of-water.htm\n\nWhat's that sound? Water flowing over the rocks that stretch across Quantico Creek has eroded the landscape over time in this area. Though the cascades on this creek only drop 2-3 feet, the sound of water rushing over the large rocks that stretch across the creek belies the power needed to sculpt the drips and divets into this hard rock. Please do not cross the creek as Cabin Camp 4 (which is a permit required area) is just on the other side.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.373615426,
+          38.582705075
+        ]
+      },
+      "properties": {
+        "name": "Turkey Run Ridge Trailheads",
+        "notes": "Turkey Run Ridge Trailheads\nhttps://www.nps.gov/places/turkey-run-ridge-trailheads.htm\n\n<p paraeid=\"{178c589d-95f7-46be-bdd4-ed4bde45f169}{92}\" paraid=\"523033850\">The day use parking lot provides access to Old Blacktop Road (a 1.6-mile hike and bike trail), Mary Bird Branch (a .5-mile hiking trail), and the Little Run Loop (a .6-mile loop). There is a group campground nearby that requires a permit. </p> <p paraeid=\"{17df5993-9343-4ef7-b274-995162893a95}{175}\" paraid=\"965931581\">Watch your step for tree stumps and slippery rocks. Check yourself periodically for ticks. Keep your pets on a leash and do not feed wildlife. Do not disturb or remove any plants, animals, or historic features.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3459360303,
+          38.5581126262
+        ]
+      },
+      "properties": {
+        "name": "Williams Ball Field",
+        "notes": "Williams Ball Field\nhttps://www.nps.gov/places/williams-ball-field.htm\n\nWilliams Ball Field is an open field with a baseball diamond, some picnic tables and benches for spectators, and a volleyball net. Bring your own sports equipment! Take a short trail through the woods from near the visitor center or the telegraph pavilion to access – there is no parking immediately nearby. ",
+        "icon": "red-pin-down.png"
+      }
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.34321868427833,
+          26.04272933175003
+        ]
+      },
+      "properties": {
+        "name": "Deep Lake Trail",
+        "notes": "Deep Lake Trail\nhttps://www.nps.gov/places/deep-lake-trail.htm\n\nLength: 1 Mile Round-trip<br /> Difficulty: Easy-Moderate<br /> <br /> The Deep Lake area of Big Cypress is a unique spot in the South Florida ecology. As one of only five naturally occurring sinkhole lakes in South Florida, it is truly a rare gem. The hike to this tranquil spot not only offers a one-mile round-trip stroll through sub-tropical beauty and diversified habitats, but also history. This area was some of the first property Barron Gift Collier purchased within the vicinity of the county that would soon bear his name. This high, dry parcel of the Preserve rewards any visitor equipped with an old pair of tennis shoes and a walking stick with an exceptional experience.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.26522541046143,
+          26.0959722772484
+        ]
+      },
+      "properties": {
+        "name": "Fire Prairie Trail",
+        "notes": "Fire Prairie Trail\nhttps://www.nps.gov/places/fire-prairie-trail.htm\n\nLength: 5 miles round-trip<br /> Difficulty: Easy-Moderate<br /> <br /> Soaring birds, prancing white-tailed deer, and slithering snakes can all be seen from this 5-mile round trip trail. The Fire Prairie Trail will take you through one of the more iconic landscapes in Big Cypress National Preserve - the sawgrass prairie.<br /> <br /> This trail provides a unique perspective of the Preserve that not many visitors take advantage of. This trail is good for all skill levels. Footing can be uneven in spots, and there is little to no shade along the trail. Bring plenty of water, sunscreen, and a hat.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.03490591087393,
+          25.85753077996035
+        ]
+      },
+      "properties": {
+        "name": "Florida National Scenic Trail Southern Terminus",
+        "notes": "Florida National Scenic Trail Southern Terminus\nhttps://www.nps.gov/places/florida-national-scenic-trail-southern-terminus.htm\n\nThe Florida National Scenic Trail threads its way up through the cypress domes, prairies and pinelands of Big Cypress National Preserve all the way up to the sand beaches of Gulf Islands National Seashore in the panhandle of Florida. The trail travels 1,300 miles throughout the state, offering recreational opportunities year-round as the nation's only subtorpical National Scenic Trail. The Florida Trail is divided to two sections within the Preserve:<br /> <br /> <strong>Big Cypress Southern Section - </strong><em><strong>Length: 24.6 miles (linear)</strong></em><br /> This section of the Florida Trail passes through the great swamp of dwarf pond cypress and crosses pine islands, hammocks, giant ferns, and prairies with cabbage palm and saw palmetto. Bromeliads (air plants) are everywhere. Seven Mile Camp is a particularly interesting location, where the night sounds of the chuck-will’s-widows mingle with the occasional screams of a bobcat or the sound of wild turkeys. Bluebirds, quail, kites, wood storks, short-tailed hawks, and the endangered red-cockaded woodpecker may also be seen.<br /> <br /> <strong>Big Cypress Northern Section - </strong><em><strong>Length: 8 miles (linear)</strong></em><br /> Traveling north from the I-75 trailhead, enter Big Cypress north. This far dryer section of the trail in the Preserve follows Nobles Grade road while allowing beautiful swamp views. The Carpenter Camp Loop, blazed in blue, provides access to a campsites (Carpenter Camp, Panther Camp and CCC Camp). Backcountry permits are required and are available at the entrance off of the rest stop. <br /> <br /> Large sections of the trail will be inundated with water throughout the duration of the year. If planning on going on full to multi-day hikes, hikers must be prepared to deal with water an backcountry camping while practicing Leave No Trace principles.<br /> <br />  ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.10034465789795,
+          25.831531089913053
+        ]
+      },
+      "properties": {
+        "name": "Gator Hook Trail",
+        "notes": "Gator Hook Trail\nhttps://www.nps.gov/places/gator-hook-trail.htm\n\nLength: 5 Miles Round-trip<br /> Difficulty: Moderate-Difficult<br /> <br /> Exploring the swamp requires getting your feet wet. The five-mile roundtrip Gator Hook Trail offers such an opportunity. The trail begins along an elevated logging tram, but soon enters ankle to knee-deep water. For some, the water may rise to hip height. This scenic, moderately strenous hike, is unlike any other in Big Cypress National Preserve. You will become immersed in the resource (literally and figuratively), and experience something that very few visitors do - a wet hike through the cypress swamp.<br /> <br /> The trailhead for Gator Hook Trail is located along the Loop Road roughly 2 miles from Monroe Station. If traveling south on the Loop Road from Monroe Station, the trailhead will be located on the left. You will see an informational kiosk. The trail begins to the right of it.<br /> <br /> <strong>Accessibility Information</strong>: This trail is a moderately strenuous hike which involves hiking through several inches to 4 feet of water. Individuals who attempt this trail should be in good health and highly mobile. Footing can be uneven in spots where the water has dissolved the limestone. Visitors should use care when walking across the exposed limestone as it can be uneven and slippery. Hiking poles or walking sticks are suggested and sturdy footwear. ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.26204390880056,
+          25.888130803138836
+        ]
+      },
+      "properties": {
+        "name": "H. P. Williams Wayside Park",
+        "notes": "H. P. Williams Wayside Park\nhttps://www.nps.gov/places/h-p-williams-wayside-park.htm\n\nThis is a great stop to stretch your legs and take a closer look at some of Big Cypress National Preserve's wildlife. A short boardwalk gives you a unique perspective of a human made drainage canal which is now inhabited by a wide range of wildlife. Fish, birds, turtles, snakes, and alligators frequent these waters. Take a closer look in the water and at the trees to discover who may be in the perfect spot for a great picture.<br /> <br /> This area also has several shaded picnic tables and restrooms. <br /> <br /> Right off of Highway 41, this is a great stop to see and learn about the wildlife of the swamp.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.355624,
+          25.854897
+        ]
+      },
+      "properties": {
+        "name": "Halfway Creek Paddling Trail",
+        "notes": "Halfway Creek Paddling Trail\nhttps://www.nps.gov/places/halfway-creek-paddling-trail.htm\n\nThe Halfway Creek and Loop Trails are accessible from the Gulf Coast Visitor Center in Everglades City or from the Big Cypress Welcome Center on Sea Grape Drive off of US 41. The Creek is 7.3 miles long from the Big Cypress Welcome Center to the Gulf Coast Visitor Center. The upper loop is an additional 3.7 miles. From the Gulf Coast Visitor Center, the Halfway Creek-Left Hand Turner-Turner River loop is 11 miles. Allow 4-8 hours for these trails.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.154222,
+          25.868207
+        ]
+      },
+      "properties": {
+        "name": "Kirby Storter Roadside Park",
+        "notes": "Kirby Storter Roadside Park\nhttps://www.nps.gov/places/kirby-storter-roadside-park.htm\n\nThis mile long hike on a boardwalk is one of the most immersive and accessible experiences at Big Cypress National Preserve. You will journey into a cypress strand and arrive at a gator hole. Gator holes are some of the deepest points in the swamp, and it can retain water nearly year round. You can see birds, snakes, fish, turtles, and maybe even an alligator or two. <br /> <br /> There is also a nice picnic area and bathrooms available.<br /> <br /> This walk is good for the whole family and is accessible year round.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.03258097450889,
+          25.857293048497393
+        ]
+      },
+      "properties": {
+        "name": "Oasis Visitor Center",
+        "notes": "Oasis Visitor Center\nhttps://www.nps.gov/places/oasis-visitor-center.htm\n\n<p>Built in the 1960s, this building was once a private airport with a hanger and restaurant. It was rather eye-catching from the road due to the passenger plane mounted to its roof as decoration. Later it was a service station. The building was eventually purchased by the National Park Service in the 1980s to be used as a visitor center.</p> <p>Today, the building serves as the Oasis Visitor Center. Inside, there are exhibits related to the natural and cultural history of the preserve, educational materials, sales items, and an introductory film. Staff are available to assist visitors with information about available activities.<br /> <br /> <strong>Available Facilities</strong><br /> Florida National Parks Association bookstore and shop. Public restrooms. Staff are available to assist visitors with information about available activities.</p> <p><strong>Phone</strong><br /> 239-695-4111</p> <p><strong>Address</strong><br /> 52105 Tamiami Trail East<br /> Ochopee, Florida 34141</p> <p>Open Tuesday-Saturday, 9:00am-4:30pm.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.270635597,
+          25.891393111
+        ]
+      },
+      "properties": {
+        "name": "Turner River Paddling Trail",
+        "notes": "Turner River Paddling Trail\nhttps://www.nps.gov/places/turner-river-paddling-trail.htm\n\nTo complete the entire Turner River Canoe Trail is a full day paddle. Sections can be done as an out and back. It is accessible from the canoe launch on US Hwy 41 in Big Cypress National Preserve or by launching from Chokoloskee or the Gulf Coast Visitor Center canoe launch. The total trail is 8.5 miles between Turner River Launch and Chokoloskee. Between Chokoloskee and the Gulf Coast Visitor Center launch adds an additional 3 miles. Allow 5-8 hours. From the Gulf Coast Visitor Center, the Halfway Creek-Left Hand Turner-Turner River loop is 11 miles.<br /> <br /> The Turner River may be impassable if water levels are too high or too low. Check water levels at the Big Cypress Welcome Center. Alligators are in the area. Keep a safe distance and give them the right of way.",
+        "icon": "red-pin-down.png"
+      }
+    }
+  ]
+}

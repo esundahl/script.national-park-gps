@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.596254,
+          33.667695
+        ]
+      },
+      "properties": {
+        "name": "Clinton Birthplace Home",
+        "notes": "Clinton Birthplace Home\nhttps://www.nps.gov/places/clinton-birthplace-home.htm\n\nLocated at 117 South Hervey Street, this two-story home in American Foursquare design is the first residence of William Jefferson (Blythe) Clinton. Built in 1917 for Dr. H.J.S. Garrett, the home resembles the design of a house in France lived in by Garrett before returning and settling in Hope.<br /> <br /> The Cassidy family purchased the structure in 1940 while their daughter, Virginia, was in high school. In 1943, Virginia Cassidy met William Blythe, a traveling salesman, at Tri-State Hospital in Shreveport; Cassidy had moved to Louisiana after her high school graduation for nurses training. The pair were married after a brief courtship and immediately before Blythe was shipped out to Italy for military duty during World War II. <br /> <br /> By May 1946, Virginia Blythe was pregnant with her first child and living in the home in Hope when her husband was killed after his car veered off a wet road outside Sikeston, Missouri. Virginia gave birth to her son, William Jefferson Blythe III, on August 19. Bill, as he was known, was raised in this home by his widowed mother and her parents for the first four years of his life. Virginia returned to Louisiana in 1948 where she trained to become a nurse anesthetist. In 1950, Virginia married Roger Clinton and the new family relocated to their own home on Thirteenth Street in Hope.<br /> <br /> His grandmother, Edith Cassidy, taught him the value of education and helped him learn to read before he began Kindergarten; his grandfather, James operated a store and modeled respect for all customers, regardless of race or gender, to his grandson. In this home, Bill learned early lessons about the importance of family, education and racial equality which served him in his public life and during his presidency. ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.5923006147499,
+          33.66903548078416
+        ]
+      },
+      "properties": {
+        "name": "Hope Visitor Center and Museum",
+        "notes": "Hope Visitor Center and Museum\nhttps://www.nps.gov/places/hope-visitor-center-and-museum.htm\n\nSet inside a restored 1912 railroad depot, the Hope Visitor Center and Museum has local exhibits on the life and legacy of President William Jefferson Clinton.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.59075405532593,
+          33.678613168099005
+        ]
+      },
+      "properties": {
+        "name": "Rose Hill Cemetery",
+        "notes": "Rose Hill Cemetery\nhttps://www.nps.gov/places/rose-hill-cemetery.htm\n\nBill Clinton's parents, Virginia Clinton Kelley and William Jefferson Blythe, Jr., and his maternal grandparents, Edith and Eldridge Cassidy, are buried in a gated family plot at the Rose Hill Cemetery on N. Hazel Street in Hope, Arkansas.<br /> <br /> The burial plot for the family is enclosed by an iron fence with a engraved plaque that reads:<br /> <br /> \"Burial site of William Jefferson Blythe and Virginia Clinton Kelly, father and mother of President William Jefferson Clinton. William L. Blythe was killed in an automobile crash in1946 while returning home to Hope from Chicago, Illinois. Virginia Blythe Kelly died of cancer in 1994. Eldridge and Edith Cassidy, grandparents of President Clinton, are also buried here. Mr. Cassidy owned a small neighborhood grocery store, which was directly across the street from the cemetery. Mrs. Cassidy is remembered as a Practical Nurse in Hope.President Clinton lived with the Cassidy's the first four years (1946-1950) of his life.\"<br /> <br /> <br /> <br />   <p> </p> <br /> <br /> <br />  ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.59631907139917,
+          33.66754491698219
+        ]
+      },
+      "properties": {
+        "name": "Virginia Clinton Kelley Memorial Garden",
+        "notes": "Virginia Clinton Kelley Memorial Garden\nhttps://www.nps.gov/places/memorial-garden.htm\n\nThe Virginia Clinton Kelley Memorial Garden is adjacent to the Visitor Center and the Clinton Birthplace Home. In this area set aside for reflection, you will find roses planted by Kelley's friends from Hot Springs adjacent to a hybrid crape myrtle called \"Hope\" that was developed by the University of Arkansas Department of Horticulture.<br /> <br /> Known around Hope as \"Virginia Rose,\" Kelley was a fanatical gardener and loved to grow roses. According to President Clinton, his mother grew these flowers at all of her homes throughout her life and up until her death. <br /> <br /> The Virginia Clinton Kelley Memorial Garden provides contemplative space for reflection and is not intended for overnight use. The grounds of the National Historic Site, including the Virginia Clinton Kelley Memorial Garden, are open for public visitation and use from 7:00 a.m. until sunset daily.<br />  ",
+        "icon": "red-pin-down.png"
+      }
+    }
+  ]
+}

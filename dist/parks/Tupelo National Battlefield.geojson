@@ -1,0 +1,50 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.73766,
+          34.30731
+        ]
+      },
+      "properties": {
+        "name": "Battle of Old Town Creek July 15, 1864",
+        "notes": "Battle of Old Town Creek July 15, 1864\nhttps://www.nps.gov/places/oldtowncreek.htm\n\nAt 2 p.m. on July 15, 1864, after skirmishing with Confederates on the western and southern fronts, the Federals began marching north in the direction of Memphis. They marched four miles and crossed to the north side of Old Town Creek and camped in the late afternoon. At 5 p.m., from a commanding ridge south of Old Town Creek, Confederate forces surprised Smith’s troops with artillery and infantry fire. The Federals scrambled and formed a line that pushed the Confederates off the ridge and forced them to retreat to Harrisburg. The fight at Old Town Creek ended the Battle of Tupelo. Among the casualties was Forrest himself, who was kept out of action for three weeks.<br /> <br /> To learn more about the Battle of Tupelo and the surrounding area check out the <a href=\"https://www.nps.gov/tupe/planyourvisit/hours.htm\">Parkway Visitor Center on the Natchez Trace Parkway</a>.<br /> <br />  ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.65771,
+          34.5045
+        ]
+      },
+      "properties": {
+        "name": "Mississippi Final Stands Interpretive Center",
+        "notes": "Mississippi Final Stands Interpretive Center\nhttps://www.nps.gov/places/msfinalstands.htm\n\nOur friends at the Mississippi Final Stands Interpretive Center have exhibits and films, which interpret the Battle of Brices Cross Roads fought June 10, 1864 and the Battle of Tupelo/Harrisburg fought July 14-15, 1864.<br /> <br /> These two battles are the focus of indoor and outdoor exhibits at the Mississippi Final Stands Interpretative Center and museum. Visitors can enjoy a complete look at the Civil War that will include a civil war timeline, a memorial and remembrance wall, an exhibit outlining “Mississippi in the Civil War”, army definitions, and a complete story of Brices Cross Roads and Tupelo/Harrisburg battles. The exhibit is housed in 4000 sq. ft. interpretive center complete with restrooms, bookstore, flag exhibit, video and exhibit area, and a conference room, plus a new state-of-the art database housed in a kiosk where 20, 000 soldiers who fought at both battles are featured. The individual soldier is featured in the kiosk and in the first -hand accounts and diaries that tell their stories in “They Served Here.”<br /> <br /> For hours of operation and entrance fees call the Mississippi Final Stands at 662-365-3969 or visit their website <a href=\"https://www.finalstands.com/\">https://www.finalstands.com/</a>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.7372434762,
+          34.2557436484
+        ]
+      },
+      "properties": {
+        "name": "Tupelo National Battlefield Monument",
+        "notes": "Tupelo National Battlefield Monument\nhttps://www.nps.gov/places/tupelo-national-battlefield-monument.htm\n\nThis granite monument was placed here in the 1930s. The National Battlefield was established and originally managed by the War Department starting in 1929. The monument commemorates the men who fought at the Battle of Tupelo, also known as the Battle of Harrisburg.<br /> <br /> The monument inscription is as follows:<br /> IN MEMORY<br /> OF THE MEN OF THE<br /> FEDERAL AND<br /> THE CONFEDERATE ARMIES<br /> WHO TOOK PART IN THE <br /> BATTLE OF TUPELO<br /> OR HARRISBURG<br /> JULY 14-15.<br /> 1864<br /> WHICH RESUTLED IN<br /> A VICTORY FOR THE<br /> FEDERAL FORCES UNDER<br /> MAJOR GENERAL<br /> ANDREW J. SMITH<br /> <br /> <strong>Battle Summary:</strong><br /> On the morning of July 14, the Battle of Tupelo began at 7:30 a.m. when the Confederates began a series of uncoordinated charges against the Federal position. These attacks were beaten back with heavy losses to the Confederates. Failing to break the Federal center, the Confederates attacked the Federal right again without success. After dark, the Confederates made another attack from the south without significant effect. Although his troops had repulsed several Confederate attacks, Federal General Andrew Jackson Smith ordered his men back towards Memphis. His army would engage the Confederate forces several miles outside of town on July 15, 1864 at what is called the Battle of Old Town Creek.<br /> <br /> See <a href=\"https://www.nps.gov/tupe/index.htm\">Battle of Tupelo National Battlefield</a> for additional Information.<br /> <br />  ",
+        "icon": "red-pin-down.png"
+      }
+    }
+  ]
+}

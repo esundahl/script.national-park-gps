@@ -1,0 +1,80 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.03765686134541,
+          38.52978593008194
+        ]
+      },
+      "properties": {
+        "name": "Corn Crib",
+        "notes": "Corn Crib\nhttps://www.nps.gov/places/corn-crib.htm\n\nAlthough the corn crib's design over time has varied greatly, the overall function is like what was first created by the American Indians as a means of storing and drying corn. <br /> <br /> The Corn Crib at Thomas Stone National Historic Site is located on a small hill with only a few other buildings nearby to ensure there is good circulation of air around it. The walls, both interior and exterior, are made of wooden slats to aid in the air flow. <br /> <br /> To deter rats, field mice, and other animals from accessing the corn, the Corn Crib is raised above ground on brick columns that are strategically placed to support the frame. In addition, its elevated height prevents corn from drawing any moisture found in the soil. <br /> <br /> The interior of this Corn Crib has a central passage. This could serve as a workspace, such as for shelling corn. The passage also provided extra air flow for the two narrow chambers at each end of the Corn Crib. <br /> <br /> It is very important that each chamber is small. Corn that is buried too deep is susceptible to rot if there is not enough air flow for it to dry.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0382212240365,
+          38.530210053154164
+        ]
+      },
+      "properties": {
+        "name": "The Stone Family Cemetery",
+        "notes": "The Stone Family Cemetery\nhttps://www.nps.gov/places/the-stone-family-cemetery.htm\n\n<p>One of the most prominent features of the landscape at Thomas Stone National Historic Site is the Stone Family Cemetery. The cemetery has nine burials inside its fenced-in area. The earliest burials date to 1787, when Margaret and Thomas Stone died within four months of each other. The last burial occurred in 1913, when one of the last Stone owners of the property, Margaret Graham Stone, died. Six other markers of extended Stone family members who died between 1841-1873, including two children, are also there.<br /> <br /> Outside of the fenced-in area, arranged in a rectangular pattern are four small stone markers. Oral tradition states that the stones mark a separate cemetery, a cemetery comprised of the enslaved who died in bondage and were buried next to the family cemetery. When the Stones sold the property in 1936, they put a stipulation in the sales contract that permitted one future burial, that of a former enslaved person, in the area outside the fence, but no burials inside. A Ground Penetrating Radar (GPR) study done here shows evidence of 19 burial shafts in this area but does not indicate how many people are actually buried in this location, nor if they were burials of enslaved persons.<br /> <br /> This theory is problematic, however. In the Chesapeake region, enslaved people were rarely laid to rest near those who claimed ownership over them. It was more common for the enslaved to have their own burial grounds near their quarters or in undeveloped ground close by.<br /> <br /> Do these four stones outline an enslaved cemetery, or an extended cemetery for other Stone family members who did not reside here? More research needs to be conducted before the answers can be revealed.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "name": "The Terraces",
+        "notes": "The Terraces\nhttps://www.nps.gov/places/the-terraces.htm\n\nThe three levels of the Terraces on the south side of the Thomas Stone House may have been used as a display to showcase the family's wealth and status. Next door to Haberdeventure is Rose Hill, which was the estate of Dr. Gustavus Richard Brown, Thomas Stone’s brother-in-law. Dr. Brown’s interest in botany and garden design is well documented. According to a friend, in 1784, Brown constructed “...the most extensive and artistic garden in Maryland.” Since Brown’s garden design also included three levels of terraces which resembles the Terraces at Haberdeventure, it is possible that the construction of one influenced the other.<br /> <br /> It is possible that the upper level Terrace, if not all three levels, were used for ornamental gardens. An inventory made at the death of Thomas Stone in 1787 lists a “Wooden Garden Roller, Iron Frame” at his second house in Annapolis. Rollers were used to maintain “bowling greens,” which were large areas of exceptionally well-trimmed grass. When Stone moved to Annapolis in 1783, he downsized his possessions at Haberdeventure. Stone may have taken the roller to Annapolis after it was previously used to maintain an ornamental garden on the Terraces.<br /> <br /> It is unclear if the Terraces were enclosed by either a fence or boxwoods. Archeologists have found evidence of post holes on the perimeter of the Terraces, but these holes might be from after Thomas Stone’s residency.<br /> <br />  ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.03930554627351,
+          38.53119371432405
+        ]
+      },
+      "properties": {
+        "name": "The Thomas Stone House",
+        "notes": "The Thomas Stone House\nhttps://www.nps.gov/places/the-mansion-at-haberdeventure.htm\n\n<p>One of the more unique features at Thomas Stone’s plantation of Haberdeventure is the curved five-part house. While parts of the house are original to Thomas Stone’s lifetime, fire damage, renovation, and modernization have changed the structure.</p> <p>Thomas Stone purchased the 442-acre property from his uncle, Daniel Jenifer, on December 13, 1770. Construction of the house's brick Central Block began in the spring of 1771. The following year, Thomas and his family likely took up residence even though the work was incomplete.</p> <p>The Central Block’s first floor comprises the Center Passage along with the East and West Rooms. The second floor had two large rooms that would have served as bed chambers.</p> <h4>Center Passage</h4> <p>Upon entering the Center Passage, guests could see a large and attractive stairway, expensive portraits, and decorative rooms to the left and right, which provided clues to the wealth and status of the Stones. With doors at each end, this breezeway may have been one of the house's most comfortable rooms during the spring, summer, and fall.</p> <h4>West Room</h4> <p>The West Room is believed to be the Master Bedchamber. Ornate first floor bedchambers in colonial era homes often served the dual purposes of being daytime or informal parlors. In the case of Margaret Stone, who developed a debilitating case of arthritis that often turned her into an invalid, she likely did not receive many guests but could converse with her family on her better days.</p> <p>While there is no supporting evidence, the lifestyles of slave owning gentry of the time suggests that an enslaved African American may have slept either on the floor of the West Room or in the adjacent Center Passage, to be readily available to care for the family's needs both night and day.</p> <h4>East Room</h4> <p>It is evident this room was used for entertaining. Contrary to modern and romanticized visions of colonial era homes, most were not elegant and pristine. Few colonial homes had rooms as beautiful as Thomas Stone's East Room. The expensive furnishing and window coverings and the well crafted woodwork were designed to impress guests, and even though this woodwork is a reconstruction of the original it still shows the detail that was put into the work.</p> <p>Aside from its beauty, the East Room may have served a more important function. With only one doorway, the room could provide privacy for Thomas Stone as he performed his legal and political duties along with directing county defense activities during the American Revolution. In Maryland’s heavily class-based society, the elegance of the East Room emphasized the importance, power, and success of Thomas Stone and justified his role as a leading figure in the community.</p> <h4>Second Floor</h4> <p>The purpose of the second floor was to serve as bed chambers, not just for Thomas and Margaret Stone’s three children. Upon Thomas's father's and eldest brother's deaths in 1773, Thomas permitted some of his younger brothers and sisters to live in the home. Also, as a host to law clients, political allies, several siblings and their families, distant relations, and countless friends, Stone was expected to provide places for everyone to sleep. </p> <p>Crowded homes were quite common in the colonial era. Rooms were hot and stuffy in the summer and drafty and cold in the winter. Privacy by modern standards barely existed. Even George Washington referred to his mansion of Mount Vernon as a “well-restored tavern.”</p> <h4>West Hyphen</h4> <p>The adjoining West Hyphen was built during Thomas Stone’s ownership to connect to the West Wing, which served as a kitchen for the Stones. This Hyphen may have served as a multi-use space with easily moved furnishings to allow dining, indoor chores and crafts, entertaining, and possibly to serve as a guest chamber.</p> <h4>West Wing</h4> <p>The original West Wing kitchen space is believed to have been a small and relatively unadorned structure designed for the function of cooking, cleaning, and other household chores by enslaved workers. The current West Wing, which partially rests upon the original foundations, dates from the mid-1840s. There are two rooms on the first floor and a steep stairway that leads to two more rooms above. In 1846, William Briscoe Stone remarked in a letter to his daughter Mary that the West Wing was, “…much enlarged improved & amended. I am certain you will be surprised and pleased with the change.\"<br /> <br /> During the 20th-century, the residents redesigned the West Hyphen to create a connective hallway between the second floor of the Central Block and the West Wing. This modernization was removed by the National Park Service to help return the mansion to a more historical design.</p> <h4>East Hyphen</h4> <p>The East Hyphen was a unique space. Its primary function was to serve as a protective cover for the full cellar that existed beneath the Central Block. It is not connected in the same way as the West Hyphen is connected. In order to gain access to the space, one would have to go outside the house and enter from the outside. </p> <h4>East Wing</h4> <p>Architectural historians believe that the East Wing is the oldest part of the house. It was likely a wholly separate and independent structure moved from some other location on the plantation to serve as the East Wing. Like the East Hyphen, there was no internal connection from the Central Block to the East Wing. One had to exit the mansion, walk across the lawn, and then enter the East Wing. </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.04048412887273,
+          38.53270713098336
+        ]
+      },
+      "properties": {
+        "name": "The Tobacco Barn",
+        "notes": "The Tobacco Barn\nhttps://www.nps.gov/places/the-tobacco-barn.htm\n\nFrom the 17th to the 19th centuries, Southern Maryland was one of the largest producers of tobacco in North America. Many of the tobacco barns used throughout the area still stand today, evidence of their importance to the area's economy. Most of these barns have been repurposed as houses and outbuildings. <br /> <br /> Most tobacco barns, like the one at Thomas Stone National Historic Site, were large, wide sheds with sloped and shingled roofs. The sides were made of alternating rows of boards or logs that had open slits, allowing air to circulate through the building. A series of beams in the barn's ceiling allowed the tobacco plants to hang upside down from sticks to dry and to \"cure\" or preserve the tobacco. <br /> <br /> Tobacco farmers in the Chesapeake region would have been forced to light fires in the tobacco barns for the curing process if it were a particularly rainy autumn. Though the heat of the flames assisted in the drying process, it could be dangerous. Thomas Jefferson once noted that \"...great care is necessary as it [the tobacco] is very flammable, and it takes fire, the whole, with the house [tobacco barn], consumes as quickly as straw would.\"<br /> <br /> The trick to curing in a tobacco barn was to produce a tobacco leaf neither too dry nor too moist. Excess moisture might cause the tobacco to rot during the shipment across the Atlantic. Leaves that were too dry became brittle and disintegrated before reaching Europe.<br /> <br /> Tobacco barns stand today as a tangible reminder that while the crop could bring great wealth to its planters, it could also cause financial ruin if the crop did not survive its transport across the ocean. ",
+        "icon": "red-pin-down.png"
+      }
+    }
+  ]
+}

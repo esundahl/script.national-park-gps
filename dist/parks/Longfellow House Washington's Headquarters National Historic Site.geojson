@@ -1,0 +1,305 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.12629353102702,
+          42.3771871584097
+        ]
+      },
+      "properties": {
+        "name": "Alice's Garden",
+        "notes": "Alice's Garden\nhttps://www.nps.gov/places/alices-garden.htm\n\n<p>This small sitting garden, tucked just outside the formal garden, along the east wall of the short addition at the rear of the mansion's ell, invites visitors to sit and enjoy the surrounding landscape.</p> <p>Alice Longfellow hired her cousin, architect <a href=\"https://www.nps.gov/people/alexander-wadsworth-longfellow-jr.htm\">Alexander Wadsworth Longfellow Jr.</a> (\"Waddy\"), to design this space in 1905, a year after the larger formal garden's redesign by Martha Brookes Brown. Waddy shared with Alice an interest in colonial history and the Colonial Revival, so it is no surprise she chose him to design her little garden sanctuary on the east wall of the former billiards room (now the site's visitor center).</p> <p>The defining feature of this small garden is a wide bench sheltered by a thirty-foot-wide tri-part arched trellis structure. The design of this structure is both distinctively Colonial Revival and Classical Revival in character; it modestly evokes triumphal arches and Romanesque church architecture. A terracotta and metal-reinforced concrete bas-relief sculpture of the Madonna and child once adorned the apse above the central bench.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.12129132759507,
+          42.37639359152566
+        ]
+      },
+      "properties": {
+        "name": "Cambridge Common",
+        "notes": "Cambridge Common\nhttps://www.nps.gov/places/cambridge-common.htm\n\n<p>A popular outdoor spot with tourists and locals alike, the Cambridge Common has been part of the history of Cambridge for over 250 years. A popular legend claims that George Washington took command of the army under the “Washington Elm” but there is no historical evidence to support this claim. The tree fell due to disease in the 1920s. Throughout the Boston Campaign, the Cambridge Common was used by the Continental Army as a place for drill and encampment. Today Cambridge Common has several monuments, including a plaque representing where the Washington Elm once stood, as well as a nearby trio of cannons dedicated to Revolutionary War figures. The cannons are dedicated to Brigadier General Tadeusz Kościuszko, Major General and Boston native Henry Knox, as well as Commander-in-Chief of the Continental Army General <a href=\"https://www.nps.gov/people/georgewashington.htm\">George Washington</a>. In other spots in the common, there is a Civil War monument and another dedicated to victims of the Irish Famine.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.12033490117489,
+          42.37557363499383
+        ]
+      },
+      "properties": {
+        "name": "Christ Church Cambridge",
+        "notes": "Christ Church Cambridge\nhttps://www.nps.gov/places/christ-church-cambridge.htm\n\n<p>Established in 1759 and designed by Peter Harrison, the first formally-trained architect to work in the North American British colonies, Christ Church provided Church of England services to the local Cambridge community prior to the American Revolution. Most of the founding members of the congregation were from the wealthy families that lived along Brattle Street, many of whom later became loyalists during the conflict. By 1774, with the church building you see today still incomplete, many of these loyalist congregants fled Cambridge for the safety of Boston and England. Due to the church's reputation as a loyalist organization, the Continental Army took control of the building and housed soldiers there during the Siege of Boston. Martha and George Washington forestalled the church's destruction when they requested to hold service there in December of 1775, but this spark of interest was not enough to save the church immediately. The building remained closed and in disrepair for nearly 15 years. By the end of the 1700s, however, a new Episcopal congregation reopened the church. That new congregation is still active there today.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.12212346531243,
+          42.374560314071445
+        ]
+      },
+      "properties": {
+        "name": "Dexter Pratt House",
+        "notes": "Dexter Pratt House\nhttps://www.nps.gov/places/dexter-pratt-house.htm\n\n<blockquote> <p>Under a spreading chestnut-tree<br /> The village smithy stands;<br /> The smith, a mighty man is he,<br /> With large and sinewy hands;<br /> And the muscles of his brawny arms<br /> Are strong as iron bands.</p> </blockquote> <p>This lot was the site of the “spreading chestnut tree” and the smithy’s workshop, which were a source of inspiration for <a href=\"https://www.nps.gov/people/henry-wadsworth-longfellow.htm\">Henry Wadsworth Longfellow’s</a> poem “The Village Blacksmith.”</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1042183637619,
+          42.35653017356537
+        ]
+      },
+      "properties": {
+        "name": "Fort Washington",
+        "notes": "Fort Washington\nhttps://www.nps.gov/places/000/fort-washington.htm\n\n<p>Today known as Fort Washington Park, this location is home to the last remaining physical remnant of the many fortifications built around Boston by the Continental Army during the Revolution. During the Siege of Boston, the Continental Army was very fearful of attacks from the British, so shortly after Washington arrived in Cambridge in July of 1775, they began their mission of fortifying the area. Small earthwork fortifications, such as the one at the heart of Fort Washington Park, “were built to prevent the movement of British troops up the Charles River.”</p> <p>Since historical preservation was not a priority for the fledgling United States government following the Revolution, all but one of the fortifications the army had built were either plowed over by farmers or built over by developers. The three-gun battery that is the centerpiece of Fort Washington Park survived thanks to a local family’s efforts to carefully preserve it. In 1858, the location was restored by the collaborative efforts of the City of Cambridge and the Commonwealth of Massachusetts.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.131918,
+          42.377771
+        ]
+      },
+      "properties": {
+        "name": "Lechmere-Sewall-Riedesel House",
+        "notes": "Lechmere-Sewall-Riedesel House\nhttps://www.nps.gov/places/lechmere-sewall-riedesel-house.htm\n\nThe Lechmere-Sewall-Riedesel House was built in 1760 by Richard Lechmere, after he acquired the land through the inheritance of his wife, Mary Phipps Lechmere. Lechmere, a Loyalist, sold the property to Judge Jonathan Sewall in the early 1770s to cover his debts. In 1774 a mob swarmed the house and forced Sewall to resign his post as attorney-general. During the Revolutionary War, the house was used as a lavish prison for Baron Friedrich Adolf Riedesel, a Hessian General, and his wife, Charlotte. The home was later owned by John Brewster Esq., who raised the house, and eventually had its location shifted slightly. Today the house is a private residence.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.07541789045142,
+          42.3615790754238
+        ]
+      },
+      "properties": {
+        "name": "Longfellow Bridge",
+        "notes": "Longfellow Bridge\nhttps://www.nps.gov/places/longfellow-bridge.htm\n\n<p>The chief monument of the Charles River Basin and the structure which does more than any other to formalize the planning of the river is the Longfellow Bridge, designed, the bridge commissioners wrote in 1900, \"to furnish the eastern boundary of a great park system along 18 miles of river...destined to be the most beautiful park in the country. It is the present purpose, to make the new Cambridge Bridge one of the finest and most beautiful structures in the world.\" The Longfellow Bridge was authorized by the same 1894 legislation which authorized the Boston Transit Commission, the Tremont Subway, and the Charlestown Bridge. Like the Tremont Street Subway, the Longfellow Bridge was in large part a result of heavy streetcar congestion brought about by the increased traffic of the new electric cars. The old West Boston Bridge, constructed in 1793 and rebuilt in 1854, had been on the very first route to carry horsecar traffic, in 1856. Originally known as the Cambridge Bridge, the present structure was begun in July 1900 and completed in 1907, named for Cambridge poet <a href=\"https://www.nps.gov/people/henry-wadsworth-longfellow.htm\">Henry Wadsworth Longfellow</a> in the centennial year of his birth.</p> <p>Though not the original structure, in 1855 the bridge into Cambridge played a role in the fugitive slave case of John Jackson. Escaping enslavement in Virginia, Jackson settled in Boston and found work on a coasting vessel. However, after being in Boston for a couple of weeks, Jackson’s former enslaver learned of his whereabouts and sent slave catchers to apprehend him. According to <a href=\"https://www.nps.gov/articles/000/the-liberator.htm\">The Liberator</a>, while walking home from work in January of 1855 Jackson, “was accosted by a white man who, from the description given, answers very well for a noted slave-catcher of this city, and asked if his name was not Jackson.”<sup>1</sup> Jackson refused to give his name and, when pressed about his home address, Jackson lied, telling the slave catcher he lived in Cambridge.</p> <p>Believing this lie, Marshall Asa Butman hoped to catch Jackson on his way to work. The next day, as reported by <em>The Massachusetts Spy</em>, “Notorious Asa O. Butman was seen to take a position upon the bridge early on Wednesday morning where he remained for about three hours.”<sup>2</sup> Butman, the slave catcher that arrested <a href=\"https://www.nps.gov/articles/-god-made-me-a-man-not-a-slave-the-arrest-of-anthony-burns.htm\">Anthony Burns</a>, did not get a chance to apprehend John Jackson. Jackson, with the aid of the <a href=\"https://www.nps.gov/articles/000/faneuil-hall-and-boston-vigilance-committees.htm\">Boston Vigilance Committee</a>, left Boston and relocated to Worchester, remaining free for the rest of his life.</p> <a href=\"https://npgallery.nps.gov/AssetDetail/486365b2-0027-4247-a314-ffc92add7123\"><img alt=\"Handwritten record listing R.F. Wallcut and other people who assisted freedom seekers with the date and amount of money they were reimbursed.\" class=\"center\" src=\"https://npgallery.nps.gov/GetAsset/486365b2-0027-4247-a314-ffc92add7123/original.jpg?\" style=\"display: block;margin-left: auto;margin-right: auto;width: 80%;\" /></a> <p style=\"text-align: center;\"><em>John Jackson received assistance from the Boston Vigilance Committee in January, 1855. (Credit: Account Book of Francis Jackson, Treasurer The Vigilance Committee of Boston).</em></p> <h2>Footnotes</h2> <ol> <li>\"Another Slave Case in Boston!\" <em>The Liberator</em> (Boston, Massachusetts), January 19, 1855.</li> <li>\"Another Slave Case in Boston- Escape of the Fugitive,\" <em>The Massachusetts Spy</em> (Boston, Massachusetts), January 17, 1855.</li> </ol>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.12641216902304,
+          42.37740086929498
+        ]
+      },
+      "properties": {
+        "name": "Longfellow Carriage House",
+        "notes": "Longfellow Carriage House\nhttps://www.nps.gov/places/longfellow-carriage-house.htm\n\n<p>The Longfellows built this carriage house in 1844, replacing earlier outbuilding structures. The interior was signifcantly altered in about 1890 by the Boston firm of Longfellow, Alden, & Harlow, and in 1904 the west wing was extended northward.</p> <p>The Carriage House has served a multitude of domestic functions throughout its history, providing shelter for the Longfellows' carriages and horses and later as a garage for Alice Longfellow's Rolls Royce automobile. Today it is used by the park to host lectures and visitor events.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.126039338594,
+          42.377226572123774
+        ]
+      },
+      "properties": {
+        "name": "Longfellow Garden",
+        "notes": "Longfellow Garden\nhttps://www.nps.gov/places/longfellow-garden.htm\n\n<p>In 1847, the Longfellows hired English landscaper Richard Dolben to design a formal garden behind their Cambridge mansion. The result was an Italian Renaissance garden with a Gothic “rose window” in the center and an overall Persian carpet pattern; remnants of this design can still be seen today.</p> <p>Following Henry Longfellow’s death in 1882, the garden fell into disrepair. The poet’s daughter, Alice Longfellow, took an interest in the garden, hiring one of America’s first female landscape architects, Martha Brookes Hutcheson, to restore it in 1904. Hutcheson reestablished the original boxwood parterres, then enclosed the garden with fences, gates, and a pergola to make an “outdoor room,” typical of the Colonial Revival style.</p> <p>At the center of the garden, Alice Longfellow placed a sundial inscribed “Pensa che questa di mai non raggiorna” or “Think that this day will never dawn again.” It was a favorite line of her father’s from Dante’s <em>Purgatorio</em>.</p> <p>In 1924, Longfellow hired Ellen Biddle Shipman to rejuvenate the space. She was known for her painterly design, enclosed spaces, and for emphasizing the relationship between garden and house. Shipman planted the rectangular borders with heirloom roses and added evergreens and ornamental fruit trees to give the garden height. Just as importantly, Shipman made detailed planting diagrams and cultivar lists for future maintenance.</p> <p>In the late 20th century the garden again fell into disrepair, and only the smaller center portion of the garden was maintained by the Cambridge Plant and Garden Club. In 2003, the Friends of Longfellow House-Washington’s Headquarters funded the restoration of the garden. Using Shipman’s extensive documentation and heirloom varieties of plants, Alice Longfellow’s Colonial Revival garden has been recreated for visitors to enjoy today. The pergola and fences are reproductions of the 1904 originals, the flowers are varieties and colors enjoyed by Alice Longfellow, and the central rose window feature honors the Victorian design.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.126383,
+          42.377043
+        ]
+      },
+      "properties": {
+        "name": "Longfellow House - Washington's Headquarters",
+        "notes": "Longfellow House - Washington's Headquarters\nhttps://www.nps.gov/places/longfellow-house-washingtons-headquarters.htm\n\n<p>Longfellow House - Washington's Headquarters, also known as the Vassall-Craigie-Longfellow House, was built in 1759 for wealthy landowner John Vassall. During the Siege of Boston in 1775-1776 it served as home and headquarters to <a href=\"https://www.nps.gov/people/georgewashington.htm\">George Washington</a> and his military staff. Land speculator Andrew Craigie significantly expanded the structure in the early 1790s. In 1837, <a href=\"https://www.nps.gov/people/henry-wadsworth-longfellow.htm\">Henry Wadsworth Longfellow</a> rented rooms in the house that would eventually become home to his family for generations. The 11,500-square-foot house has a high level of integrity, preservation, and documentation. The house is an outstanding example of Georgian architecture, so famous that it strongly influenced Colonial Revival architecture and was replicated in many parts of the country as an American historic icon.<br /> <br /> <em>A project through the <a href=\"http://go.nps.gov/sat\">Save America's Treasures Grant Program</a>, which helps preserve nationally significant historic properties and collections, funded work to conserve Longfellow House collections in 1999. Restoration work included conserving books, furnishings, and decorative arts at the Longfellow House National Historic Site.</em></p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.126547,
+          42.376614
+        ]
+      },
+      "properties": {
+        "name": "Longfellow House Forecourt",
+        "notes": "Longfellow House Forecourt\nhttps://www.nps.gov/places/forecourt.htm\n\n<p paraeid=\"{b01f525c-fcd9-4b55-a42c-5244fee202ca}{184}\" paraid=\"6351445\">In the decades prior to the American Revolution, property along Brattle Street was quickly bought up by wealthy British loyalists, transforming the landscape from small farms to lavish estates. In 1759, John Vassall, Esquire used his family’s wealth – which derived from Jamaican sugar plantations – to purchase large plots of land in Cambridge and build the mansion you see today. Vassall built this house in a traditional Georgian style, having a rectangular shape and symmetrical design typical of that era. </p> <p paraeid=\"{b01f525c-fcd9-4b55-a42c-5244fee202ca}{224}\" paraid=\"1931254607\"> </p> <p paraeid=\"{b01f525c-fcd9-4b55-a42c-5244fee202ca}{228}\" paraid=\"1566385727\">When the Craigies bought this property in 1792, they focused on embellishing the landscape to show off their wealth. Here at the front of the property, the Craigies removed part of the brick wall replaced it with the wooden fencing you see today (a popular trend of the era). It is also likely that prior to the Craigies, a circular driveway was in front of the house, which the Craigies then moved to the western side (where you see the carriage loop today). </p> <p paraeid=\"{80ecc1a4-42d0-4682-99ba-0c87168c18f6}{3}\" paraid=\"771452523\">Later on, the Longfellows added to the Forecourt in a way that embellished and attempted to preserve the house’s charm. The lilac beds you see today were first planted by the Longfellows to shield the Forecourt and home from the bustling noise on Brattle Street. Furthermore, Henry Longfellow preserved the elm trees in the Forecourt the best he could. He believed the elms dated to Washington’s era, writing that “the magnificent elms… signalized the place and under whose shadow Washington had walked.” In 1872, Henry also added the balustrade (fence-like structure) you see running along the path leading to the sides of the house. </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.12720647326287,
+          42.37512115104929
+        ]
+      },
+      "properties": {
+        "name": "Longfellow Park",
+        "notes": "Longfellow Park\nhttps://www.nps.gov/places/longfellow-park.htm\n\n<p><a href=\"https://www.nps.gov/people/henry-wadsworth-longfellow.htm\">Henry Wadsworth Longfellow</a>'s children donated the land of Longfellow Park to the City of Cambridge as a memorial to their father. The Longfellow Memorial Association raised funds for the design and construction of the park, by Charles Eliot and later the Olmsted Firm, and the monument, by Henry Bacon and Daniel Chester French. The bas relief of the monument, dedicated in October 1914, depicts six iconic characters from Longfellow's works: Miles Standish, Sandalphon, the Village Blacksmith, the Spanish Student, Evangeline, and Hiawatha.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.11829459667206,
+          42.37445735931309
+        ]
+      },
+      "properties": {
+        "name": "Massachusetts Hall",
+        "notes": "Massachusetts Hall\nhttps://www.nps.gov/places/massachusetts-hall.htm\n\n<p>Originally constructed in 1720, Massachusetts Hall is the oldest building still standing on Harvard’s campus. In the more than three hundred years since it was built, Massachusetts Hall has been used for a variety of purposes, including as an army barrack during the Revolutionary War. From 1775 to 1776, approximately 640 members of the Continental Army stayed in the building. Today, it serves as a student dormitory and administrative office building.</p> <p>In a letter from Harvard College to the Commonwealth of Massachusetts, a record is provided of “damages done to the Colledges by the Army,” including a listing of twenty-seven missing “brass knoblocks for chamber doors'' and sixty “box locks for studies,” among several other things. Ultimately, the Commonwealth reimbursed the College for £417, which corresponds to about $50,000 as of 2018.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.14490132472154,
+          42.37519144830479
+        ]
+      },
+      "properties": {
+        "name": "Mount Auburn Cemetery",
+        "notes": "Mount Auburn Cemetery\nhttps://www.nps.gov/places/mount-auburn-cemetery.htm\n\n<p>Mount Auburn Cemetery is the first landscaped rural or “garden” cemetery in the United States. Established in 1831 in Watertown and Cambridge, Massachusetts, the cemetery was not only designed as a resting place for the deceased, but also as an attraction and pleasure ground, with picturesque landscapes, winding paths, a variety of horticulture, and sculptural art. Its success inspired other cemeteries’ designs and in turn articulated the need for public parks and gardens launching the American parks movement.<br /> <br /> In the early 19th century, Dr. Jacob Bigelow’s concern that crowded cemeteries in congested urban areas might promote the spread of contagious diseases spawned his idea for Mount Auburn Cemetery. In 1825, Bigelow, a Boston physician and Harvard professor, invited a group of civic leaders to his house and proposed that they establish a new kind of cemetery. Located on the outskirts of the city, the new cemetery would place family burial lots in a landscaped setting filled with trees, shrubs, and flowers. In 1831, Bigelow’s idea became a reality when the newly formed Massachusetts Horticultural Society agreed to take a lead role in developing a rural cemetery. They located a 72-acre farm in Watertown and Cambridge that was an ideal location for the cemetery and for an associated experimental horticultural garden. The key feature was a 125-foot central hill that provided spectacular views of Boston and Cambridge.<br /> <br /> Henry A.S. Dearborn, President of the Massachusetts Horticultural Association, was largely responsible for the cemetery’s design. Influenced by European naturalistic landscape design ideas, Dearborn incorporated ideas from English landscaped parks and the Père Lachaise Cemetery in Paris into his design for Mount Auburn Cemetery. Working with civil engineer Alexander Wardworth, Dearborn laid out the cemetery with winding roads that followed the natural contours of the land, naturalistic landscaping elements including wooded areas and reflective ponds, and panoramic views from the central hill’s summit.<br /> <br /> Dearborn also established a separate experimental garden at Mount Auburn, planted with many domestic and exotic varieties of fruits, flowers, and vegetables. As news of the garden cemetery spread, horticulturalists from around the world sent gifts of seeds, including magnolia trees from Ohio and vegetable seeds from the London Horticultural Society. These gift plantings became part of both the horticultural garden and cemetery. By the end of the 1830s, Mount Auburn had several hundred trees planted.<br /> <br /> The popularity of the new cemetery grew, and new cemetery lots sold quickly. In 1835, the cemetery became a private nonprofit corporation severing its relationship with Dearborn, and the experiential garden ended. The cemetery has continued to embrace horticultural experimentation and high standards of horticultural maintenance and practices as part of its mission.<br /> <br /> Mount Auburn Cemetery has played an important role in conservation thinking by creating a designed landscape open to the public. The popularity of the design led to political support for local and regional parks and park systems. Mount Auburn has continued to incorporate conservation ideas over time. By 1870, with the growing interest in Mount Auburn as a destination for birdwatching, the Mount Auburn Trustees established a Committee on Birds that recommended plantings of trees and fruit-bearing shrubs that would attract birds. In the 20th century, Mount Auburn President Oakes Ingalls Ames further developed the cemetery’s landscape as an arboretum and a bird sanctuary with his “hands-on” approach to managing the cemetery.<br /> <br /> Mount Auburn Cemetery currently has a collection of over 5,500 trees, shrubs and other plants from around the world that cover the 175-acre cemetery. More than half of the trees on the grounds display labels, which give the botanic and common names, the date planted, and the native range of the species. Mount Auburn is also designated as a Massachusetts Important Bird Area. Some current conservation initiatives include planting native New England plants in the Consecration Dell area, managing the four ponds to provide good habitat for wildlife, and practicing Integrated Pest Management (IPM) for control of insects.<br /> <br /> Many famous Bostonians lie buried in Mount Auburn Cemetery. Some have important conservation connections, including Jacob Bigelow (founder of Mount Auburn Cemetery), landscape architect Charles Eliot, activist Harriet Lawrence Hemenway (founder of Massachusetts Audubon Society), Horace Gray (who established a horticultural garden in the Boston Public Garden in 1838), Asa Gray (American botanist), and ornithologists William Brewster and Ludlow Griscom. Other distinguished people include Henry Cabot Lodge and Henry Cabot Lodge, Jr. (U.S. senators), Dorothea Dix (activist), <a href=\"https://www.nps.gov/people/henry-wadsworth-longfellow.htm\">Henry Wadsworth Longfellow</a> (educator and poet), Oliver Wendell Holmes (author and poet), Julia Ward Howe (author and reformer), and Charles Sumner (abolitionist and U.S. senator). The Secretary of the Interior designated the cemetery a National Historic Landmark in 2003.<br /> <br /> Mount Auburn Cemetery is located at 580 Mount Auburn St. in Watertown and Cambridge, MA. It has been designated a National Historic Landmark. For more information, visit the <a href=\"https://www.mountauburn.org/\">Mount Auburn Cemetery</a> website.<br /> <br /> To discover more Massachusetts history and culture, visit the <b><a href=\"http://www.nps.gov/subjects/travelmassconservation/index.htm\">Massachusetts Conservation Travel Itinerary website.</a></b></p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.11988097627534,
+          42.37509395783882
+        ]
+      },
+      "properties": {
+        "name": "Old Burying Ground",
+        "notes": "Old Burying Ground\nhttps://www.nps.gov/places/old-burying-ground.htm\n\n<p>Located across the street from Harvard Yard and adjacent to <a href=\"https://www.nps.gov/places/cambridge-common.htm\">Cambridge Common</a>, the Old Burying Ground has been a centerpiece of the vibrant New England community since its establishment in about 1635. Like most settlements in the New World, establishing a place to bury the dead was an important priority. Harvard College also saw the burial ground as necessary to place students who had died from diseases like smallpox, which were common in the 1600s. From its establishment in the mid-1600s until the early 1900s, the Old Burying Ground took in new burials. It now offers a look into life and death in the Colonial Period of the Greater Boston area.</p> <p>The Old Burying Ground has several notable burials including:</p> <ul> <li>half a dozen Presidents of Harvard College</li> <li>nineteen soldiers from the Revolutionary War, including enslaved people Neptune Frost and <a href=\"https://www.nps.gov/people/cato-stedman.htm\">Cato (Stedman) Freeman</a></li> <li>members of the intermingled colonial elite families of Brattle Street, incluing the Vassalls, Phipps, and Olivers</li> <li>diplomat Francis Dana (1743-1811), poet Richard Henry Dana (1787-1879), and many members of the Dana family</li> <li>artist Washington Allston (1779-1843)</li> </ul>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.12551370825483,
+          42.37605043276414
+        ]
+      },
+      "properties": {
+        "name": "Penelope Vassall House",
+        "notes": "Penelope Vassall House\nhttps://www.nps.gov/places/penelope-vassall-house.htm\n\n<p>Some elements of the Penelope Vassall house might be as old as the seventeenth century but most of the structure dates to 1746, when Henry Vassall had a house constructed on the site for himself and his wife, Penelope Royall Vassall. Henry, a member of a prominent Vassall family who owned plantations in Jamaica, died in 1769, leaving his widow in the house alone. Penelope Vassall fled to her family’s plantation in Antigua after the violence of the Powder Alarm in September 1774. Though her brother Isaac Royall of Medford was explicitly banned from re-entering Massachusetts after the Revolutionary war, Penelope returned and is buried in the Vassall Tomb in the <a href=\"https://www.nps.gov/places/old-burying-ground.htm\">Old Burying Ground</a> next to Christ Church. The house was used as a medical facility during the Revolutionary War and it was here that Dr. Benjamin Church was confined under house arrest after he was accused of passing information to British General Gage. Today the house is a private residence.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1212546,
+          42.3750758
+        ]
+      },
+      "properties": {
+        "name": "Read House",
+        "notes": "Read House\nhttps://www.nps.gov/places/read-house.htm\n\n<p>James Read, a Cambridge tanner, built this house about 1738. Two of his sons served in the New England Army during the American Revolution, marching on the alarm of April 19, 1775 to Lexington and <a href=\"https://www.nps.gov/places/concord-s-north-bridge.htm\">Concord</a>.</p> <p>The building was later bought by Radcliffe College in 1943 and used as a dormitory. In 1969, Harvard University moved the building from 5 Farwell place to its current location to make room for the Gutman Library. It currently serves as office buildings for the Graduate School of Education.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1363136768341,
+          42.37702136494805
+        ]
+      },
+      "properties": {
+        "name": "Ruggles-Fayerweather House",
+        "notes": "Ruggles-Fayerweather House\nhttps://www.nps.gov/places/ruggles-fayerweather-house.htm\n\n<p>This colonial house was constructed circa 1764 by a wealthy Caribbean plantation owner, George Ruggles. His wife, Susanna (Vassall) Ruggles, had strong family ties to the area - her <a href=\"https://www.nps.gov/places/longfellow-house-washingtons-headquarters.htm\">nephew John Vassall</a> and <a href=\"https://www.nps.gov/places/penelope-vassall-house.htm\">brother Henry Vassall</a> also owned Brattle Street mansions.</p> <p>Before the start of the Revolutionary War, the Ruggles family moved to Boston and then eventually to England, selling this estate to Thomas Fayerweather, a successful merchant. After the Battle of Bunker Hill in 1775, Fayerweather lent the home to the patriot cause to serve as a wartime hospital.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.11814975738525,
+          42.37322089259961
+        ]
+      },
+      "properties": {
+        "name": "Wadsworth House",
+        "notes": "Wadsworth House\nhttps://www.nps.gov/places/wadsworth-house.htm\n\n<p>Originally built in 1726, Wadsworth House was used as the place of residence for the president of Harvard until 1849. During the colonial era, the house was also a site of enslavement for Titus, Venus, Juba, and Bilhah, enslaved in the households of Harvard presidents.</p> <p>For a brief period nearly fifty years after it was constructed, however, Wadsworth House served a very different purpose. When <a href=\"https://www.nps.gov/people/georgewashington.htm\">General George Washington</a> first arrived in Cambridge, Massachusetts on July 2, 1775 to take command of the Continental Army, it was here that he first set up his headquarters. George Washington spent about two weeks here before moving into the <a href=\"https://www.nps.gov/places/longfellow-house-washingtons-headquarters.htm\">Vassall estate</a> several blocks away, on July 15, 1775.</p> <p>Although Washington’s time at Wadsworth House was short, he certainly kept busy during his stay. The day after arriving in Cambridge, Washington rode from here to <a href=\"https://www.nps.gov/places/cambridge-common.htm\">Cambridge Common</a> to officially take command of the troops. At the end of his first week in Cambridge, on July 9, 1775, Washington convened the first Council of War, and they are believed to have held their meeting in Wadsworth House. Washington also entertained a number of notable people here, including <a href=\"https://www.nps.gov/people/abigail-adams.htm\">Abigail Adams</a>. In fact, their interaction here at Wadsworth House is believed to be the only time they met throughout the entire Siege of Boston, which lasted for nearly a year.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.12150251865387,
+          42.37373609002191
+        ]
+      },
+      "properties": {
+        "name": "William Brattle House",
+        "notes": "William Brattle House\nhttps://www.nps.gov/places/william-brattle-house.htm\n\n<p>Built in 1727 under the ownership of Major General William Brattle, this home is one of the many large estates of Cambridge that were owned by wealthy loyalists at the time of the American Revolution. Like many of the other loyalists in the area who fled to safety, the Brattle family too vacated the estate at the onset of the war.</p>",
+        "icon": "red-pin-down.png"
+      }
+    }
+  ]
+}

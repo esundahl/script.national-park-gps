@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.010443,
+          40.707122
+        ]
+      },
+      "properties": {
+        "name": "Federal Hall National Memorial",
+        "notes": "Federal Hall National Memorial\nhttps://www.nps.gov/places/000/federal-hall-national-memorial.htm\n\n<p>Located at 26 Wall Street in New York City's Financial District, Federal Hall is the birthplace of American Government. Formerly a British colonial city hall, in 1789 it was reconstructed and became the seat of the new American government. On April 30th of that year, a crowd assembled in front of its second floor balcony to watch George Washington take the oath of office as our first President of the United States. It also housed the first Congress, Supreme Court, and Executive Branch offices. The current structure took more than a decade to complete, opening in 1842 as the United States' first customs house. In 1862, the building served as a United States Sub-Treasury location. Gold and silver bullion were stored in the basement vaults. John Quincy Adams Ward's bronze statue of George Washington was erected on the front steps in 1882, marking the approximate site where he was inaugurated as President. Now, the building serves as a museum and memorial to our first President and the beginnings of the United States of America. We are open Monday through Friday, 9-5 pm, and a ranger at the Visitor Center is available to help you.<br /> <b>Services:</b> Restroom, Bookstore.</p> <h3>Federal Hall</h3> <p>Federal Hall, built in 1700 as New York's City Hall, later served as the first capitol building of the United States of America under the newly ratified Constitution.</p> <h3>George Washington Inaugural Bible</h3> <p>The Inaugural Bible is the book that was sworn upon by George Washington when he took office as the first President of the United States. The Inaugural Bible has subsequently been used in the inauguration ceremonies of several other U.S. presidents.</p> <h3>John Peter Zenger Exhibit</h3> <p>The Zenger case did not establish legal precedent in seditious libel or freedom of the press. Rather, it influenced how people thought about these subjects and led, many decades later, to the protections embodied in the Unites States Constitution, the Bill of Rights and the Sedition Act of 1798.</p> <h3>George Washington Statue</h3> <p>In 1882, John Quincy Adams Ward's bronze George Washington statue was erected on the front steps of the recently rebuilt Federal Hall, marking the approximate site where Washington was inaugurated as President in the original structure.</p> <h3>Customs House Exhibit</h3> <p>The third structure on this site was a customs house built in 1842. The interior vaults constructed at the time were used to store duties on imported goods. Later, they were used to store gold and silver when the building was used as a sub-treasury in 1862.</p> <h3>Federal Hall Exhibit</h3> <p>This room contains displays that explain about the construction of Federal Hall as well as information about George Washington, our nation's first president who took his oath of office here on April 30, 1789.</p> <h3>Eastern National Bookstore</h3> <p>The Eastern National Bookstore at Federal Hall contains a wide variety of merchandise, including postcards, memorabilia, reproduction colonial currency, DVDs, children's gifts, and an extensive book selection.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.010344,
+          40.707261
+        ]
+      },
+      "properties": {
+        "name": "Federal Hall National Memorial Visitor Center",
+        "notes": "Federal Hall National Memorial Visitor Center\nhttps://www.nps.gov/places/000/federal-hall-national-memorial-visitor-center.htm\n\n<p>The Visitor Center is in the northwest gallery, near the 15 Pine Street entrance to Federal Hall. Here you can find information about the National Park Service's New York City sites, as well as the other 23 sites in National Parks of New York Harbor. Maps and brochures about local attractions are also available. You can even watch videos about Federal Hall. A park ranger is available to answer any questions you might have.</p> <h3>Become a Jr. Ranger!</h3> <p>It takes a lot to preserve and protect America's natural and historic treasures. We need your help to keep all of our parks safe and beautiful. Become a National Park Service Jr. Ranger, and see just how much fun learning can be!</p> <h3>Other Services</h3> <p>Handicap accessible restrooms are on-site, and the building can be entered via a wheel chair ramp from 15 Pine Street. Books, educational items, and gifts are available for purchase from the Eastern National Bookstore inside.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.01040190646258,
+          40.70718112497993
+        ]
+      },
+      "properties": {
+        "name": "George Washington Statue",
+        "notes": "George Washington Statue\nhttps://www.nps.gov/places/george-washington-statue.htm\n\nIn 1882, John Quincy Adams Ward's bronze George Washington statue was erected on the front steps of the recently rebuilt Federal Hall, marking the approximate site where Washington was inaugurated as President in the original structure.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.011838,
+          40.707846
+        ]
+      },
+      "properties": {
+        "name": "Trinity Church Cemetery",
+        "notes": "Trinity Church Cemetery\nhttps://www.nps.gov/places/000/trinity-church-cemetery.htm\n\n<p>This burial ground has been the final resting place for many historic figures since the Churchyard cemetery opened in 1697. Alexander Hamilton is laid to rest at Trinity Church, as well as his wife Eliza Hamilton. However, three years before Alexander Hamilton and Aaron Burr met on the dueling grounds in Weehawken, New Jersey, Hamilton's son Philip also engaged in a duel regarding remarks made about his father. Philip lost the duel and his life. He is recorded in the burial register for Trinity Church, but no burial location is given. It's thought that perhaps due to the dishonorable nature of his death, he was buried in an unmarked grave, or outside the bounds of the churchyard. The location of his grave remains a mystery. The New York Society of the Cincinnati, who erected a plaque in memory of Hamilton, and other members of the Society are interred at Trinity parish, including General Horatio Gates, the leader of the Battles of Saratoga. Robert Fulton, inventor of the steam boat is also buried here.</p> <h3>Alexander Hamilton's Grave</h3> <p>Hamilton's funeral procession from the Church home to Trinity Church in downtown Manhattan. Thousands of people showed up for Hamilton's funeral procession on July 14, 1804 to mourn his passing.</p>",
+        "icon": "red-pin-down.png"
+      }
+    }
+  ]
+}

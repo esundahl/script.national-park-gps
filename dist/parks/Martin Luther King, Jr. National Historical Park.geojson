@@ -1,0 +1,155 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.37348684481763,
+          33.756563681434685
+        ]
+      },
+      "properties": {
+        "name": "Behold Monument",
+        "notes": "Behold Monument\nhttps://www.nps.gov/places/behold-monument.htm\n\n<p>The <em>Behold</em> Monument commemorates the historic principles that guided the life and works of Dr. Martin Luther King, Jr. On January 11, 1990 Mrs. Coretta Scott King unveiled this monument as a tribute to her late husband and as an enduring inspiration to all who fight for dignity, social justice, and human rights.</p> <p>Sculptor, Patrick Morelli, was inspired by the ancient African ritual of lifting a newborn child to the heavens and reciting the words \"Behold the only thing greater than yourself.\"</p> <h3><strong>Sculptor's Statement*</strong></h3> <p>I wanted the <em>Behold</em> Monument to glorify those aspects of Dr. King's character that I felt distinguished him as a truly great man.</p> <p>The two aspects of Dr. King's life and works that impressed me most were, first, his ability to defend a morally courageous--though often, unpopular--cause in the face of, seemingly, overwhelming opposition and, second, his ability to maintain his dignity and a genuine spirit of brotherhood in the face of the cruelest and most ignorant threats, insults, and indignities believing that, ultimately, the righteousness of his convictions and beliefs would prevail.</p> <p>I, therefore, had inscribed in the granite base of the <em>Behold</em>, Monument the words:</p> <p>\"DEDICATED TO THE MEMORY OF DR. MARTIN LUTHER KING, JR. FOR HIS MORAL COURAGE AND NOBILITY OF SPIRIT\"</p> <p>It is my hope that every viewer will see and appreciate the inspirational and meaningful symbolism in the pose and placement of the <em>Behold</em> Monument at the Dr. Martin Luther King, Jr. Historical Park.</p> <p>The heroic-sized, bronze figure of the father raises his infant child to the heavens and looks toward Ebenezer Baptist Church--the source of his spiritual strength and a site significant to the civil rights movement as the church in which both Dr. Martin Luther King, Jr. and his father, \"Daddy\" King, gave many powerful and inspirational sermons.</p> <p>In walking to or from the Dr. Martin Luther King, Jr. Community Center young children will pass the <em>Behold</em> Monument. Their parents and grandparents will be able to instill pride in them each day as they explain how the <em>Behold</em> tribute to Dr. King glorifies the importance of children and the love of every mother and father for their children.</p> <p>As one views the monument from the back one sees the <em>Behold</em> infant silhouetted against a broad expanse of sky and raised above the towering skyscrapers of downtown Atlanta's commercial district. This juxtaposition of the infant and the Atlanta skyline symbolizes Dr. King's hope that one day all Americans would share, significantly, in the cultural and materials as well as the spiritual, riches of our great nation.</p> <p>Finally, as one stands on a sightline drawn from the front of Dr. King's tomb to the <em>Behold</em> Monument one sees the strong, uplifted profile of the father and the face of his sleeping infant, unaware of the sacrifices and suffering endured by the father, tranquil and serenely oblivious to all the ioy and sorrow the future holds. The father holds his hope for the future, his infant, facing the tomb of Dr. King and its inscription, \"Free at last, Free at last, Thank God, Almighty, Free at last\". This symbolic pose is a tribute to Dr. King's love of children and to his courageous efforts to create a world in which there would be happiness, freedom, and dignity for all God's children.</p> <p>Patrick Morelli<br /> <em>Behold</em> Sculptor</p> <p>*It should be noted that this statement was written before the National Park Service Visitor Center and Peace Plaza were built.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.37116738771162,
+          33.75533298448577
+        ]
+      },
+      "properties": {
+        "name": "Birth Home",
+        "notes": "Birth Home\nhttps://www.nps.gov/places/birth-home.htm\n\n<p>n 1895 a two-story frame Queen Anne style house was built for a white family at 501 Auburn Avenue. The home was purchased in 1909 by Rev. Adam Daniel Williams, pastor of Ebenezer Baptist Church, for $3,500. Rev. Williams moved into the house with his wife Jennie Celeste and their 6 year old daughter Alberta Christine, their only child of three to survive infancy.</p> <p>On November 25, 1926 Christine married a minister by the name of Michael Luther King at her father's church. Instead of Christine moving in with her new husband he moved in with her and her parents in the family home. Over time the King's would have three children born in the home, Willie Christine, Michael Jr. (later known as Martin Luther King, Jr.), and Alfred Daniel. On March 21, 1931 Rev. Williams dies in the home of a heart attack. After Mrs. Willies dies of a heart attack the King's move to a new home at 193 Boulevard.</p> <p>The home stayed in the family and became rental property for the family. After Dr. King's assassination on April 4, 1968 plans were begun to restore the house as a historic museum. Today visiting the home where Dr. King was born and lived the first twelve years of his life is often the highlight of ones visit to the park. The popular free ranger-led <a href=\"https://www.nps.gov/malu/planyourvisit/birth_home_tours.htm\">Birth Home Tours</a> of the interior of the home are limited to 15 people and are filled on a first-come, first-served basis on the day of the tour.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.37344913287276,
+          33.75625446129273
+        ]
+      },
+      "properties": {
+        "name": "Coretta Scott King Exhibition",
+        "notes": "Coretta Scott King Exhibition\nhttps://www.nps.gov/places/coretta-scott-king-exhibition.htm\n\nThe Martin Luther King, Jr. National Historical Park was established on October 10, 1980 to preserve the places where Martin Luther King, Jr. was born, lived, worked, worshipped, and is buried; while interpreting the life experiences and significance of one of the most influential Americans in the 20<sup>th</sup> century. The 38-acre park annually hosts more than 700,000 national and international visitors. Following Dr. King’s death on April 4, 1968, his wife, Mrs. Coretta Scott King acted upon her vision to preserve the works and ideals of her husband.<br /> <br /> On June 26, 1968, Mrs. King founded The Martin Luther King Jr. Memorial Center to serve as “The Official Living Memorial\" to the life, work and legacy of her husband. Eventually the name changed to Martin Luther King, Jr. Center for Nonviolent Social Change, Inc., and today commonly referred to as The King Center. Mrs. Coretta Scott King served as the Center’s first president and is entombed on the Reflecting Pool, right beside her husband, Rev. Dr. Martin Luther King, Jr. on The King Center campus.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.37420096605015,
+          33.755419955865754
+        ]
+      },
+      "properties": {
+        "name": "Ebenezer - Heritage Sanctuary",
+        "notes": "Ebenezer - Heritage Sanctuary\nhttps://www.nps.gov/places/ebenezer-heritage-sanctuary.htm\n\n<p>Throughout its long <a href=\"https://www.nps.gov/malu/planyourvisit/upload/EBC_History.pdf\"><strong>history</strong></a>, Ebenezer Baptist Church, located in Atlanta, Georgia, has been a spiritual home to many citizens of the \"Sweet Auburn\" community. Its most famous member, Rev. Martin Luther King, Jr., was baptized as a child in the church. After giving a trial sermon to the congregation at Ebenezer at the age of 19 Martin was ordained as a minister. In 1960 Dr. Martin Luther King, Jr. became a co-pastor of Ebenezer with his father, Rev. Martin Luther King, Sr., know as \"Daddy\" King. He remained in that position until his death in 1968. As a final farewell to his spiritual home Dr. Martin Luther King, Jr.'s funeral was held in the church.</p> <p>In 2000 a study of the church building resulted in <a href=\"https://www.nps.gov/malu/planyourvisit/upload/malu_eb_hsr.pdf\"><strong>Ebenezer Baptist Church, Historic Structure Report</strong></a> (PFD, 31.5 MB) being issued by the National Park Service. This reports served as a guideline for the restoration of the church.<br /> <br />  </p> <p>Church Restoration</p> <p>In 2001, thanks to a Save America's Treasures Grant and the contributions of many individuals and corporations, the National Park Service began the restoration of historic Ebenezer Baptist Church. The restoration was completed in two phases.</p> <p>Phase I included design and installation of major systems including, electrical, heating, and air conditioning, and fire suppression. Structural repairs were made to the roof system and the historic exterior. The Ebenezer sign hanging over the entrance was repaired and lit for the first time since 1990. A chair lift was installed to provide accessibility to the sanctuary. The funding for Phase I involved a private and public partnership and cost $1,885,000.</p> <p>Phase II of the project restored the appearance of the sanctuary and fellowship hall to the 1960-68 period when Dr. King served as co-pastor with his father. Special work items included preservation of stain glass windows; restoration/replication of furnishings; repair of balcony structural system; rehabilitation of restrooms; abatement of asbestos-containing flooring; treatment of termite infestation/damage; installation of a lightning protection system; improvement of site drainage; and restoration of a sidewalk, baptistery, and pipe organ and its antiphonal.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.37200137359366,
+          33.755414542328865
+        ]
+      },
+      "properties": {
+        "name": "Fire Station No. 6",
+        "notes": "Fire Station No. 6\nhttps://www.nps.gov/places/fire-station-no-6.htm\n\n<p>Present day Atlanta was originally known as Marthasville. The population was approximately 500 and most of the inhabitants were employed by the Western and Atlantic Railroad. In 1848, the town was renamed Atlanta and in that same year the Atlanta City Council approved the organization of a volunteer fire brigade, which was the beginning of the modern-day Atlanta Fire Department.</p> <p>As the city continued to grow the need for fire protection increased. Indeed, the expansion of the fire department kept pace with the growth of the city ­ a trend that still continues. The Atlanta Volunteer Fire Department had a long and interesting history and remained a vital part of the city until 1882 when Atlanta Fire Department became official and the city council voted to pay salaries to all its firemen.</p> <p>The first motorized pumping engine was placed in service in 1911 at Fire Station Number 12 on DeKalb Avenue. By 1914, the city purchased helmets, uniforms, rubber boots and coats for the firemen for the first time.</p> <p>The Atlanta Fire Department was integrated in 1963 when sixteen blacks were hired. They were all assigned to Fire Station Number 16 on Simpson Road. In 1977, seven female firefighters were hired.</p> <p>Today the Atlanta Fire Department is one of the most modern, up-to-date fire departments in the United States.</p> <p> </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Georgia: Martin Luther King Jr. National Historical Park",
+        "notes": "Georgia: Martin Luther King Jr. National Historical Park\nhttps://www.nps.gov/places/georgia-martin-luther-king-jr-national-historical-park.htm\n\n<p><br /> <br /> <br /> <br /> The Martin Luther King Jr. National Historical Park consists of several buildings in Atlanta, Georgia, including Dr. King's boyhood home, the original Ebenezer Baptist Church, and The Martin Luther King, Jr. Center for Nonviolent Social Change (\"The King Center\"). These places are critical to the interpretation of the life of Martin Luther King Jr. and his legacy as a leader of the African American Civil Rights movement.<br /> <br /> Dr. King was born and raised in an Atlanta neighborhood along Auburn Avenue. Known locally as “Sweet Auburn,” it was a part of the bustling city where African Americans forged strong community bonds. Black-owned businesses thrived and black churches were places of joy and expression. Through the success of its residents, “Sweet Auburn” proved to young Martin that African Americans could achieve economic and cultural significance even in the face of legal segregation.<br /> <br /> The National Park Service has restored many of the neighboring buildings to reflect their appearances in the 1930s and 1940s -- the period of time when Dr. King grew up there. Visitors today can step into that era and imagine themselves walking with the residents, hearing the noise of this lively neighborhood and experiencing what life was like in those tumultuous times.<br /> <br /> The Martin Luther King Jr. National Historical Park was established on October 10, 1980. Formerly a National Historic Site, the unit was redesignated as a National Historical Park on January 8, 2018. In October 2019 it was chosen for inclusion in the African American Civil Rights Network.<br /> <br /> <em>The African American Civil Rights Network (AACRN) recognizes the civil rights movement in the United States and the sacrifices made by those who fought against discrimination and segregation. Created by the African American Civil Rights Act of 2017, and coordinated by the National Park Service, the Network tells the stories of the people, places, and events of the U.S. civil rights movement through a collection of public and private resources.</em></p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "name": "MLK, Jr. Visitor Center",
+        "notes": "MLK, Jr. Visitor Center\nhttps://www.nps.gov/places/mlk-jr-visitor-center.htm\n\n<p>A staffed Information desk is located just inside the front doors of the Martin Luther King, Jr. National Historical Park Visitor Center. This is the place to stop for a brief orientation to the historic site, which facilities are open, how to sign up for a Birth Home tour, and the location of the nearest restroom.</p> <p>Located in the lobby of the Visitor Center is the \"Children of Courage\" exhibit, which is geared towards our younger visitors. This exhibit tells the story about the children of the Civil Rights Movement with a challenge to our youth today.</p> <p>The featured exhibit entitled \"Courage To Lead\" follows the parallel paths of Dr. Martin Luther King, Jr., and the Civil Rights Movement. Then join in with the marchers on their journey up \"Freedom Road\". See what's new in the D.R.E.A.M Gallery home of special exhibits that change from time to time. Video programs are presented in the Visitor Center Theater on a continuing basis.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.37364,
+          33.75644
+        ]
+      },
+      "properties": {
+        "name": "Martin Luther King, Jr. National Historical Park",
+        "notes": "Martin Luther King, Jr. National Historical Park\nhttps://www.nps.gov/places/martin-luther-king-jr-national-historical-park.htm\n\n<p>Martin Luther King, Jr. National Historic Site and Preservation District, located in Atlanta, Georgia, preserves, protects, and interprets for the benefit, inspiration, and education of present and future generations, the places where Martin Luther King, Jr. was born, lived, worked, worshiped, and is buried; while interpreting the life experiences and significance of one of the most influential Americans in the 20th century.<br /> <br /> <span style=\"font-size: 11pt;\">Rev. Dr. Martin Luther King, Jr. is honored throughout the United States and the world for his leadership in the struggle for equality, human rights, his philosophy of nonviolent social change, and his work to promote world peace and economic equality. Beginning with the 1955 bus boycott in Alabama, until his assassination on April 4, 1968, Dr. King emerged as leader of the modern American civil rights movement for which he received the Nobel Peace Prize. His widow, Mrs. Coretta Scott King, acted upon her vision to preserve the works and ideals of her husband. In June of 1968, she founded and was the first president of the Martin Luther King, Jr. Center for Nonviolent Social Change. She later advocated for the establishment of the Martin Luther King, Jr. National Historic Site which was to become a unit of the National Park Service.</span></p> <p>The park’s mission is to preserve, protect, and interpret the places where Martin Luther King, Jr. was born, where he lived, worked, worshipped, and is buried. The sites key destinations include the King Center and Freedom Hall, Heritage Sanctuary at Historic Ebenezer Baptist Church, the tombs of Dr. King and Mrs. Coretta Scott King, the Birth Home, Historic Fire Station No. 6, and the National Park Service Visitor Center. </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.37282429879104,
+          33.75561004506943
+        ]
+      },
+      "properties": {
+        "name": "The King Center",
+        "notes": "The King Center\nhttps://www.nps.gov/places/the-king-center.htm\n\nMrs. Coretta Scott King established <strong>The Martin Luther King, Jr. Center for Nonviolent Social Change, Inc</strong>. in 1968 to preserve the legacy of her husband. While at The King Center visit the final resting place of Dr. King, Jr. and exhibits on him, Coretta Scott King, and Mahatma Gandhi.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.37339630338211,
+          33.75586819158833
+        ]
+      },
+      "properties": {
+        "name": "World Peace Rose Garden",
+        "notes": "World Peace Rose Garden\nhttps://www.nps.gov/places/world-peace-rose-garden.htm\n\n<p>The <a href=\"http://worldpeacerosegardens.org/\"><strong>International World Peace Rose Gardens</strong></a> program is a worldwide effort to help youth recognize the importance and value of peace. In March 1992, the Martin Luther King, Jr. \"I Have a Dream\" World Peace Rose Garden was planted at the Martin Luther King, Jr. National Historic Site. The garden is an artistic interpretation of Dr. King’s life and ideals of peace through nonviolence. The garden’s <a href=\"https://www.nps.gov/malu/planyourvisit/symbolic_meaning_of_the_mlk_jr_rose_garden.htm\"><strong>starburst design</strong></a> brings attention to the brilliance of Dr. King’s ideals using the <a href=\"http://nationalrosegarden.com/the-national-flower/\"><strong>Official Flower of the United States</strong></a>, the rose.<br /> <br /> The Garden borders the Peace Plaza, in front of the Visitor Center. It has 185 roses in a variety of colors and fragrances. The graves of Dr. and Mrs. King can be seen directly across the street if you stand at the Peace Plaza, facing the rose garden. Each year an annual contest is held and students from local, national, and global schools submit poems of peace. Winning poems are selected and installed in the rose garden for the period of a year.<br /> <br /> The 28th Anniversary of the Martin Luther King, Jr. “I Have a Dream” World Peace Rose Garden” at Martin Luther King, Jr. National Historical Park, and the <a href=\"https://www.nps.gov/malu/planyourvisit/upload/2023-Winning-Messages-of-Peace2.pdf\">30 Winners of the 2020 Inspirational Messages of Peace Contest </a>were honored through a virtual ceremony, due to the Coronavirus Pandemic, with a thirty-minute video. <a href=\"https://www.youtube.com/watch?v=RJb4A45XOyY\">Click Here to View Video</a>.</p> <p>The Atlanta garden is one of five major World Peace Rose Gardens established around the world by International World Peace Rose Gardens. The other gardens are located at other cultural, historical and sacred centers of the world and focus on different aspects of peace.</p> <ul> <li><a href=\"http://http//worldpeacerosegardens.org/projects-sacramento.htm\"><strong>State Capitol Park</strong></a>, Sacramento, California</li> <li><a href=\"http://http//worldpeacerosegardens.org/projects-assisi.htm\"><strong>Basilica of St. Francis of Assisi</strong></a>, Assisi, Italy</li> <li><a href=\"http://http//worldpeacerosegardens.org/projects-mexico.htm\"><strong>Basilica of Our Lady of Guadalupe</strong></a>, Mexico City, Mexico</li> <li><a href=\"http://http//worldpeacerosegardens.org/projects-lakeshrine.htm\"><strong>Lake Shrine</strong></a>, Pacific Palisades, California</li> <li><a href=\"http://http//worldpeacerosegardens.org/projects-guadalupe.htm\"><strong>Our Lady of Guadalupe Shrine</strong></a>, Sacramento, California</li> </ul>",
+        "icon": "red-pin-down.png"
+      }
+    }
+  ]
+}

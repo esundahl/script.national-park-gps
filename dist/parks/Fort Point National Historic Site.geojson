@@ -1,0 +1,140 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.477163,
+          37.810373
+        ]
+      },
+      "properties": {
+        "name": "Cannons: Fort Point Tour",
+        "notes": "Cannons: Fort Point Tour\nhttps://www.nps.gov/places/000/cannons-fort-point-tour.htm\n\n<p>As you reenter the casemates, note the display case on your right. It contains various projectiles and firing equipment used during the Civil War period. Directly in front of you are three cannons mounted on wooden carriages. These are the types of guns that were mounted in the casemates and atop the roof of Fort Point.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.477067,
+          37.810623
+        ]
+      },
+      "properties": {
+        "name": "Casemates: Fort Point Tour",
+        "notes": "Casemates: Fort Point Tour\nhttps://www.nps.gov/places/000/casemates-fort-point-tour.htm\n\n<p>Casemates, the vaulted rooms on the North side of the parade, housed cannon that fired through iron-lined openings in the five-foot-thick walls. The casemates today contain cannons from multiple eras of defense at Fort Point. There are thirty casemates on each of the three tiers.<br /> <br /> The South side of the parade was called the gorge. The first floor housed privies, store rooms, a guard room, a jail, and powder magazines.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.47721862792969,
+          37.8105583190918
+        ]
+      },
+      "properties": {
+        "name": "Fort Point",
+        "notes": "Fort Point\nhttps://www.nps.gov/places/fort-point.htm\n\n<p>Fort Point has been called \"the pride of the Pacific,\" \"the Gibraltar of the West Coast,\" and \"one of the most perfect models of masonry in America.\" When construction began during the height of the California Gold Rush, Fort Point was planned as the most formidable deterrence America could offer to a naval attack on California. Although its guns never fired a shot in anger, the \"Fort at Fort Point\" as it was originally named has witnessed Civil War, obsolescence, earthquakes, bridge construction, reuse for World War II, and preservation as a National Historic Site.<br /> <br /> Fort Point was built between 1853 and 1861 by the U.S. Army Engineers as part of a defense system of forts planned for the protection of San Francisco Bay. Designed at the height of the Gold Rush, the fort and its companion fortifications would protect the Bay's important commercial and military installations against foreign attack. The fort was built in the Army's traditional \"Third System\" style of military architecture (a standard adopted in the 1820s), and would be the only fortification of this impressive design constructed west of the Mississippi River. This fact bears testimony to the importance the military gave San Francisco and the gold fields during the 1850s.<br /> <br /> In 1861, with war looming on the eastern horizon, the Army mounted the first 55 guns at the fort. Colonel Albert Sidney Johnston, commander of the Pacific branch of the Army, prepared the defenses of the Bay and ordered the first garrison for Fort Point. Kentucky-born Johnston then resigned his commission to join the Confederate Army (he was later killed at the battle of Shiloh in 1862). Fort Point never had to fire its guns in defense during the Civil War; the war came and went, without the Confederate Army ever launching an assault on the Bay. Although the Fort never came under attack, its mere presence created a deterrent that would have weighed heavily in the minds of those who sought to undermine the Union's grip on the Pacific Coast.<br /> <br /> In the years after the Civil War, Fort Point became underutilized and was used intermittently as an army barracks. In the late 1930s, plans for the construction of the Golden Gate Bridge also involved plans for the demolition of Fort Point. Fortunately, Chief Engineer Joseph Strauss recognized the architectural value of the Fort and created a special engineer arch which allowed the construction of the bridge to occur safely over the Fort.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.477206,
+          37.810682
+        ]
+      },
+      "properties": {
+        "name": "Fort Point Lighthouse: Fort Point Tour",
+        "notes": "Fort Point Lighthouse: Fort Point Tour\nhttps://www.nps.gov/places/000/fort-point-lighthouse-fort-point-tour.htm\n\n<p>Starting in 1852, the United States government went lighthouse-crazy, funding the construction of 59 lighthouses along the California coast. At this early date, the Fort Point light was one of 13 serving the San Francisco Bay.<br /> <br /> The original light was built and destroyed in 1853. Army engineers blew up the bluff it stood on to make way for the construction of Fort Point. A second lighthouse, built near the water in 1855, was removed to permit seawall construction. In the end, it was the third lighthouse, designed by Brevet Lieutenant Colonel Robert S. Williamson, that did the trick. Construction was completed on top of the fort in 1864. This final installment can still be seen today. Rated as a fifth order Fresnel light, it could be seen 10-12 miles at sea.<br /> <br /> Through the years at Fort Point, the lighthouse keepers lived and served at the fort with their families alongside the soldiers stationed there. The light remained in operation until 1934, when the US Lighthouse Service keepers extinguished the Fort Point light for the last time in order to begin construction of the Golden Gate Bridge.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.477005,
+          37.810462
+        ]
+      },
+      "properties": {
+        "name": "Guard Room: Fort Point Tour",
+        "notes": "Guard Room: Fort Point Tour\nhttps://www.nps.gov/places/000/guard-room-fort-point-tour.htm\n\n<p>On the right side of the sally port is the guard room. Soldiers posted to guard duty relaxed here during their relief from shifts. A firing step was provided along the east wall so that the soldiers could fire through the rifle slits into the sally port.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.47704,
+          37.810555
+        ]
+      },
+      "properties": {
+        "name": "Parade Ground: Fort Point Tour",
+        "notes": "Parade Ground: Fort Point Tour\nhttps://www.nps.gov/places/000/parade-ground-fort-point-tour.htm\n\n<p>Stand here on the parade ground.<br /> <br /> Can you hear the sounds of boots snapping to shouted commands?<br /> <br /> Living History Days including parade demonstrations happen at Fort Point twice annually. Please visit <a href=\"https://www.nps.gov/fopo/index.htm\">our website</a> for time and date of the next Living History Day.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.47712,
+          37.81039
+        ]
+      },
+      "properties": {
+        "name": "Powder Magazines: Fort Point Tour",
+        "notes": "Powder Magazines: Fort Point Tour\nhttps://www.nps.gov/places/000/powder-magazines-fort-point-tour.htm\n\n<p>Here you will find a winding hallway leading into the central powder magazines. Barrels of gunpowder for the fort's guns were kept in these rooms. Turn left and walk toward the exhibit displaying the flags that have flown over Fort Point. These two rooms contain displays on the Spanish period, soldier's life and equipment, and on the defenses of San Francisco Bay, from muzzle-loading cannon to guided missiles.<br /> <br /> Continue down the hallway into the main powder storage area. Powder barrels here contained 100 pounds of powder each. Panels on the walls detail the regulations followed by soldiers working in the magazine. Return to the passageway and turn left. You now enter the smallest of the magazine rooms. It was likely used as a powder filling room. Exhibits here describe powder handling and storage.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.476927,
+          37.810331
+        ]
+      },
+      "properties": {
+        "name": "Sally Port: Fort Point Tour",
+        "notes": "Sally Port: Fort Point Tour\nhttps://www.nps.gov/places/000/sally-port-fort-point-tour.htm\n\n<p>Fort Point was constructed by the U.S. Army Corps of Engineers between 1853 and 1861 to prevent entrance of a hostile fleet in the San Francisco Bay. In 1794 the Spanish Government built a small fort called \"Castillo de San Joaquin\" on a high bluff where Fort Point is now located. The Castillo was torn down in the early 1850's to make way for the construction of Fort Point.<br /> <br /> The fort was designed to mount 126 massive cannons. Rushed to completion at the beginning of the Civil War, Fort Point was first garrisoned in February of 1861 by Company I, 3rd U.S. Artillery Regiment. The fort was occupied throughout the Civil War, but the advent of faster, more powerful rifled cannons made brick forts such as Fort Point obsolete.<br /> <br /> The fort was then used for storage and training purposes for many years. Between 1933 and 1937 the fort was used as a base of operations for the construction of the Golden Gate Bridge. During World War II, Fort Point was occupied by about 100 soldiers who manned searchlights and rapid-fire cannon mounted atop the fort as part of the protection of a submarine net strung across the entrance to the Bay.<br /> <br /> You're currently standing in the only entrance to Fort Point, the sally port. Notice the heavy studded double doors and the rifle slits in both walls. An attacker breaking through these walls would be caught in a devastating crossfire in this passage. Additionally, notice the opening to the cistern beneath the floor. It is one of five identical cisterns that held up to 200,000 gallons of fresh water for the use of soldiers stationed at the fort.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4769,
+          37.810723
+        ]
+      },
+      "properties": {
+        "name": "Spiral Stairwell: Fort Point Tour",
+        "notes": "Spiral Stairwell: Fort Point Tour\nhttps://www.nps.gov/places/000/spiral-stairwell-fort-point-tour.htm\n\n<p>Turn right to see the spiral stairwell near the powder magazine. The fort has three such stairways. The stone was quarried near Folsom, California and each step weighs about 1,000 pounds. Each step was hand-cut by stone masons earning 50 cents an hour and working 10 hours a day. The weight of each stone bearing down on upon the one below keeps the steps in place; there is no central column supporting the staircase.<br /> <br /> If you do decide to climb to the top level, watch your step as you go up the stairs. They can be quite slippery in rainy or foggy weather.</p>",
+        "icon": "red-pin-down.png"
+      }
+    }
+  ]
+}

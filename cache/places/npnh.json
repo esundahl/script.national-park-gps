@@ -1,0 +1,83 @@
+[
+  {
+    "id": "7F02E2E3-BA8E-4DAA-9698-BE51830231CF",
+    "url": "https://www.nps.gov/places/southwest-battery.htm",
+    "title": "Southwest Battery (Castle Clinton)",
+    "listingDescription": "Castle Clinton National Monument was one of the New York Harbor forts built just before the War of 1812, then known as the Southwest Battery. Later it became a great entertainment complex, an important immigrant processing station, and an aquarium. Saved from destruction by the National Park Service, a 1975 restoration returned the structure to its early 1800s appearance.",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/places/images/nri/20131105/siteadmin/A670EFD5-B187-A911-83DAA0DD75EB5655/A670EFD5-B187-A911-83DAA0DD75EB5655.jpg",
+        "credit": "",
+        "altText": "View of a pastoral landscape, New York City in 1812",
+        "title": "",
+        "description": "",
+        "caption": "This was the view of New York City from the Southwest Battery, as Castle Clinton was known, in 1812",
+        "crops": []
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "NY",
+        "parkCode": "cacl",
+        "designation": "National Monument",
+        "fullName": "Castle Clinton National Monument",
+        "url": "https://www.nps.gov/cacl/index.htm",
+        "name": "Castle Clinton"
+      },
+      {
+        "states": "NY",
+        "parkCode": "npnh",
+        "designation": "",
+        "fullName": "National Parks of New York Harbor",
+        "url": "https://www.nps.gov/npnh/index.htm",
+        "name": "National Parks of New York Harbor"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [
+      "war of 1812",
+      "National Parks of New York Harbor",
+      "national park service",
+      "Forts",
+      "americans"
+    ],
+    "latitude": "40.7033477002",
+    "longitude": "-74.0168288994",
+    "latLong": "40.7033477002,-74.0168288994",
+    "bodyText": "<p>As tensions between the United States and Great Britan built in 1807 and 1808, American harbor cities began building forts for protection. New York, with a large natural harbor, significant economic interests and a Revolutionary War history of British invasion, was no exception. Four forts were built before 1811 to add to another dozen forts already in existance.</p><p>The Southwest Battery<span style=\"font-size: 11pt;\" data-mce-style=\"font-size: 11pt;\"> was constructed on the rocks off the tip of Manhattan between 1808 and 1811. The fort was fully armed with 28 cannons. Each cannon could shoot a 32 pound cannonball a distance of 1.5 miles, about the distance the <a href=\"https://www.nps.gov/stli/index.htm\">Statue of Liberty National Monument</a> is from lower Manhattan today.</span></p><p><span style=\"font-size: 11pt;\" data-mce-style=\"font-size: 11pt;\">This combined defense ensured that there was no possible approach by sea to the island of Manhattan. Indeed, the defense was so good that it wasn't needed – none of New York's harbor defense forts, including the Southwest Battery, fired a shot throughout the War of 1812. </span></p><p><span style=\"font-size: 11pt;\" data-mce-style=\"font-size: 11pt;\">In 1817, the fort was renamed Castle Clinton</span><span style=\"font-size: 11pt;\" data-mce-style=\"font-size: 11pt;\"> in honor of Dewitt Clinton, Mayor and later Governor of New York. The Castle has enjoyed a long and <a href=\"https://www.nps.gov/cacl/historyculture/index.htm\">ecclectic history</a> after its use as a fort ended, repurposed as a world-class entertainment venue, an immigration processing station prior to the opening of <a href=\"https://www.nps.gov/elis/index.htm\">Ellis Island</a>, and an aquarium. It was preserved as a National Monument in 1975, and today receives over 3 million visitors annually. </span></p>",
+    "audioDescription": "",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "",
+    "isOpenToPublic": "0",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "1ba7463a-ae44-583e-a4b8-85e7266f13f9",
+    "isManagedByNps": "0",
+    "amenities": [],
+    "managedByOrg": "",
+    "quickFacts": [
+      {
+        "id": "5C252B96-2DEB-4EF4-91D1-B5D2B202FCD7",
+        "value": "New York, New York",
+        "name": "Location"
+      },
+      {
+        "id": "208F1B3C-44DC-4CF5-9A61-9B26A364D701",
+        "value": "Fort",
+        "name": "Significance"
+      },
+      {
+        "id": "E32D2136-A184-4C1A-91D2-4C20CEF9CBAF",
+        "value": "National Monument",
+        "name": "Designation"
+      }
+    ],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  }
+]

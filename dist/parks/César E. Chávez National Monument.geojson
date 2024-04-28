@@ -1,0 +1,575 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.558806,
+          35.224021
+        ]
+      },
+      "properties": {
+        "name": "Accessible Entrance to the Cesar Chavez Memorial Garden",
+        "notes": "Accessible Entrance to the Cesar Chavez Memorial Garden\nhttps://www.nps.gov/places/000/accessible-entrance-to-the-memorial-garden.htm\n\n<p>This entrance to the Memorial Garden is paved and relatively flat, with no stairs. Inside the Memorial Garden, there are paved ramps with handrails that provide access between the different levels.<br /> <br /> Features of the Memorial Garden represent the beliefs and practices that were important to Cesar Chavez. He was an avid user of reusable resources. Within the garden, ornamental plants, a wall fountain, and religious statues decorate the final resting place of Cesar Chavez and his wife Helen Chavez.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.559443,
+          35.224356
+        ]
+      },
+      "properties": {
+        "name": "Accounting Building",
+        "notes": "Accounting Building\nhttps://www.nps.gov/places/000/accounting-building.htm\n\n<p>In this building, accountants managed the finances of the United Farm Workers union. Eventually, as the union expanded and the movement grew, the financial operation moved to other offices. This building is currently not in use.<br /> <br /> Look closely at the wooden front door to see its carving of an eagle. The carving represents the <em>Huelga </em>eagle that was used as a symbol of the farmworker movement.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.285693,
+          35.764499
+        ]
+      },
+      "properties": {
+        "name": "Agbayani Village",
+        "notes": "Agbayani Village\nhttps://www.nps.gov/places/000/agbayani-village.htm\n\n<p>Filipino union members played key roles in the farmworker movement. Most of these men, respectfully known as Manongs, migrated to the United States in their teens and 20s. Racist laws in California at that time forbade them from marrying outside their race, so most remained single. Evicted from farm labor camps after joining the Delano Grape Strike in 1965, by the end of the strike in 1970 many Filipino men were without families, pensions, and places to live.<br /> <br /> In 1973 and 1974, the farm worker movement built the Paulo Agbayani Retirement Village. It provided some of Manongs with safe and comfortable housing, human dignity and respect in their final years. Hundreds of volunteer laborers constructed this complex. The village was named after a Filipino Manong who died of a heart attack on the picket line. The village provided residents with individual rooms, a community kitchen serving Filipino cuisine, a dining hall, living and recreation room, and garden.<br /> <br /> As the first affordable housing community built by what is now the Cesar Chavez Foundation, Agbayani Village served as a model for dozens of properties built across four states that continue providing affordable housing. The Chavez Foundation manages the property today, which still houses people.<br /> <br /> Tours of this building and the Forty Acres are sometimes available upon appointment. Check at the village office facing Mettler Avenue or call 661-725-4347.<br /> <br /> These buildings are still in operation providing lodging. Please respect the privacy of the residents.</p> <h3>Cesar's Last Fast</h3> <p>Inside a small room at the southeast corner of Agbayani Village, Cesar Chavez held his last and longest public fast of 36 days in July and August of 1988 over the pesticide poisoning of farm workers and their children. To identify the room where Cesar fasted, look for the farthest left window when facing the building from the Mettler Avenue parking area.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.558912,
+          35.224177
+        ]
+      },
+      "properties": {
+        "name": "Cesar Chavez Memorial Garden",
+        "notes": "Cesar Chavez Memorial Garden\nhttps://www.nps.gov/places/000/memorial-garden.htm\n\n<p>The memorial garden surrounds the final resting place of Cesar and his wife Helen. Their gravesite is at the back of the garden, near a wall fountain that honors the five martyrs who lost their lives during the strikes. As a space of reflection and contemplation, the memorial garden represents Cesar's spiritual, cultural, and agricultural heritage. Four varieties of roses in the garden symbolize Cesar's values as a civil rights leader: family, loyalty, hard work, and perseverance. The arbor's overhead structure was built from recycled materials, many of which were obtained on site. Through the use of recycled resources, the arbor demonstrates Cesar's dedication to conservation.<br /> <br /> Grapevines represent the five-year-long grape strike and boycott. These struggles led to union contracts that improved living and working conditions for the thousands of the farm workers that were exposed to harsh conditions while working in the fields.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.558796,
+          35.225326
+        ]
+      },
+      "properties": {
+        "name": "Cesar's Dog Kennels",
+        "notes": "Cesar's Dog Kennels\nhttps://www.nps.gov/places/000/dog-kennels.htm\n\n<p>When Cesar's two German Shepherds, Huelga and Boycott, weren't roaming the fenced area around his home, they stayed in kennels that were at this spot. A fenced area used to surround the shed building but is now gone.<br /> <br /> The dogs provided personal security for Cesar and his family, but he was also very attached to them. They went with him almost everywhere, including on the road when he travelled by car, and deepened his belief that all lives are valuable, with no exception. The dogs helped deepen his commitment to vegetarianism, and he asked to be buried near them in what is now the Memorial Garden.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.561365,
+          35.22692
+        ]
+      },
+      "properties": {
+        "name": "Cesar's Vista Point",
+        "notes": "Cesar's Vista Point\nhttps://www.nps.gov/places/000/cesars-vista-point.htm\n\n<p>Walk to the top of this hill for views covering nearly all of the national monument, including housing areas, Villa la Paz, and what is now the Visitor Center and Memorial Garden. From here, you can also see Cesar's meditation point to the east and Three Peaks to the north.</p> <h3>Cesar's Meditation Point</h3> <p>Cesar's meditation point can be seen on a hill in the distance, in the direction of the Chavez home and beyond the railroad tracks. When Cesar lived at La Paz, he often hiked to this spot near his house at or before dawn. This time of reflection at the beginning of his day gave him a chance to meditate, pray and prepare for the day ahead.</p> <h3>Three Peaks</h3> <p>Although Three Peaks can be seen from nearly everywhere in the monument, this location and Cesar's meditation spot both provide excellent views of the surrounding area.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.55956,
+          35.225449
+        ]
+      },
+      "properties": {
+        "name": "Chávez Home",
+        "notes": "Chávez Home\nhttps://www.nps.gov/places/000/ch-vez-home.htm\n\n<p>This humble building was the home of Cesar Chavez and his wife Helen. When they moved here in 1971, the oldest of their eight children had already moved out of the family home but their younger children were raised here. Cesar and Helen remained in this house for the rest of their lives. Cesar passed away in 1993 and Helen lived here until her death in 2016.<br /> <br /> When Cesar first considered acquiring La Paz as part of the farmworker movement, Helen was reluctant about the choice. She was brought to this place as a child in the 1930s. She was separated from her family and forced to live in a facility on the property for children who were believed to be malnourished. Returning here was difficult for her, but she ultimately agreed, in support of Cesar and his beliefs.<br /> <br /> Today, the house is kept exactly as she left it when she passed away in 2016. In the kitchen, small mementos decorate the walls and a child's drawing of a fish is held to the refrigerator with a magnet. In the living room, bookcases hold a large collection of framed family photos. The house's modesty and simplicity depict the values of the Chavez family.<br /> <br /> The chain link fence surrounding the property was erected in 1971, after federal agents uncovered a plot to assassinate Cesar and warned the United Farm Workers.<br /> <br /> This building is not open to the public and is protected by a security system. Please observe from the outside.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.243932,
+          35.772822
+        ]
+      },
+      "properties": {
+        "name": "Chávez Residence in Delano",
+        "notes": "Chávez Residence in Delano\nhttps://www.nps.gov/places/000/ch-vez-residence-in-delano.htm\n\n<p>In April 1962, the Chavez family moved from East Los Angeles to a house they rented on Kensington Street in Delano. This small two-bedroom wood-frame home with eight children and their parents was also the first office of the newly born Farm Workers Association. By 1963, the union office had outgrown the residence and the union rented another building in Delano to serve as its headquarters. The Chavez family continued living in the house until moving to Keene in 1971, to the property that now includes the César E. Chávez National Monument.<br /> <br /> When Cesar and Helen first moved here, Helen went back to laboring in the fields to provide for the family and also to provide Cesar with gas money to organize. This let Cesar pursue his dream of building the farmworker movement. Her support was crucial to its early growth.<br /> <br /> This house is a private residence. Please respect the privacy of the family living here. Do not enter the fenced area.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.558799788,
+          35.224193848
+        ]
+      },
+      "properties": {
+        "name": "César & Helen Chávez Gravesite",
+        "notes": "César & Helen Chávez Gravesite\nhttps://www.nps.gov/places/000/c-sar-helen-ch-vez-gravesite.htm\n\n<p>Here, Cesar Chavez was laid to rest in 1993. Upon her passing in 2016, Cesar's wife Helen was interred by his side. Cesar wished to be buried on the grounds where he pursued his labors as an activist during his last quarter century. After his passing, Helen Chavez made it clear she did not want him to ever be left alone. When U.S. Secretary of the Interior Ken Salazar approached the Chavez family about creating a national monument at this location, the Chavez family agreed, knowing Cesar's resting place would never be abandoned.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.558199,
+          35.222048
+        ]
+      },
+      "properties": {
+        "name": "César E. Chávez National Monument Entrance",
+        "notes": "César E. Chávez National Monument Entrance\nhttps://www.nps.gov/places/000/c-sar-e-ch-vez-national-monument-entrance-sign.htm\n\n<p>Welcome to César E. Chávez National Monument. A visitor center, memorial garden, and monument grounds are a short distance ahead. Entrance to these areas is free and open to all. President Barack Obama established César E. Chávez National Monument with a presidential proclamation on October 8, 2012. In 1971, Cesar Chavez moved to this property to live and work. The 187-acre property in Keene, California has served as a national headquarters for the United Farm Workers union since 1972. Its remote location provided a sense of security and refuge during a time when violence threatened the people who were part of the farmworker movement. Here, Cesar Chavez fulfilled many of his achievements as an activist and civil rights leader.<br /> <br /> Take the road downhill into the monument.<br /> <br /> This entrance sign was installed in 2012, shortly after the monument was created. The shape of the sign comes from the <em>Huelga</em> eagle, a symbol of the farmworker movement.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.240632,
+          35.777209
+        ]
+      },
+      "properties": {
+        "name": "Delano High School Auditorium, Site of Historic Senate Hearing",
+        "notes": "Delano High School Auditorium, Site of Historic Senate Hearing\nhttps://www.nps.gov/places/000/delano-high-school-auditorium-site-of-historic-senate-hearing.htm\n\n<p>During the Delano Grape Strike when growers and their agents threatened strikers with violence on picket lines, the Kern County sheriff arrested the nonviolent strikers who hadn't committed any crimes. They were accused of unlawful assembly. This unconstitutional practice of arrest was exposed during hearings on the grape strike and farm workers by the U.S. Senate Subcommittee on Migratory Labor in March 1966.<br /> <br /> At a packed hearing in the Delano High School Auditorium, Senator Robert F. Kennedy famously responded to the sheriff's defense of his arrests of peaceful pickets by suggesting that \"the sheriff and the district attorney read the Constitution of the United States.\"<br /> <br /> Kennedy was the first national political figure to fully embrace Cesar and the grape strikers. His involvement increased the visibility of the movement, helping make it a national issue. For more on the hearing and Kennedy's famous words, view a short excerpt of the movie, <em>Cesar's Last Fast</em> <a href=\"https://youtu.be/G66myWragTg\">here</a> .<br /> <br /> Public entry on school grounds is prohibited. Please remain outside the fence and observe the school and auditorium from your vehicle.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.255838,
+          35.766595
+        ]
+      },
+      "properties": {
+        "name": "Dolores Huerta's House",
+        "notes": "Dolores Huerta's House\nhttps://www.nps.gov/places/000/dolores-huertas-house.htm\n\n<p><a href=\"https://www.nps.gov/people/dolores-huerta.htm\">Dolores Huerta</a> lived in this house while she worked with <a href=\"https://www.nps.gov/cech/index.htm\">Cesar Chavez</a> to improve conditions for farmworkers.<br /> <br /> This building is a private residence. Please respect the privacy of the family who lives here. Do not enter the fenced area.</p> <h3>Dolores Huerta</h3> <p>Dolores Huerta grew up during a time of economic and racial injustice in Stockton, California. She became a schoolteacher but couldn't stand seeing students come to class hungry. When she was 25 years old, famed community organizer Fred Ross recognized her talent and she became an organizer with the new chapter in Stockton of a Latino civil rights group called the Community Service Organization (CSO). Another CSO organizer was Cesar Chavez.<br /> <br /> Cesar and Dolores decided to create a farm workers union. Dolores resigned from the CSO in 1962 to help create the National Farm Workers Association (NFWA) along with Cesar, Gilbert Padilla, Manual Chavez, Julio Hernandez and other early organizers. Dolores, Cesar and Gilbert drew on the community organizing principles they learned in CSO, convinced that it would take more than a union to help farm workers overcome the crippling dilemmas they faced at both the work site and in their communities; it would take a movement.<br /> <br /> In its early years, NFWA organized workers by providing them with services. By 1965, the NFWA had 1,200 member families.<br /> <br /> When Filipino union leader <a href=\"https://www.nps.gov/people/larry-itliong.htm\">Larry Itliong</a> reached out to Cesar, encouraging the NFWA to join the Filipinos' strike. Dolores strongly encouraged NFWA members to join the strike. She spent decades leading strikes, helping to organize boycotts, negotiating union contracts and lobbying at the state and national capitals. She was arrested more than two dozen times.<br /> <br /> When Cesar conducted his second public fast in Phoenix in 1972, after Arizona passed a law banning farm worker strikes and boycotts, some union supporters said the growers and their allies were too powerful to overcome-\"No se puede\" (\"No, it can't be done),\" they argued. Dolores replied \"¡Si se puede!\" (\"Yes, it can be done!\"). She popularized the slogan during the UFW campaign in Arizona, and it has been adopted by people fighting for justice around the world.<br /> <br /> Today, Dolores Huerta continues fighting for the rights of farm workers and equal treatment of women and other underrepresented groups.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.559506,
+          35.223901
+        ]
+      },
+      "properties": {
+        "name": "Dormitory and Former Tuberculosis Sanatorium",
+        "notes": "Dormitory and Former Tuberculosis Sanatorium\nhttps://www.nps.gov/places/000/dormitory-and-former-tuberculosis-sanatorium.htm\n\n<p>As the largest building within the monument, this dormitory provided housing throughout the history of the property and its many uses. The building was originally constructed as a hospital for Stony Brook Retreat, a tuberculosis sanatorium. This rural location with plenty of fresh air and sunshine was considered to be an ideal environment for tuberculosis patients, and people were sent here from the 1930s until it closed in 1967 to recuperate from the disease.<br /> <br /> Stony Brook Retreat was one of many sanatoriums across the country. Over the years, wings were added to the building to expand its capacity. Eventually, improved medical treatments reduced the need for most sanatoriums. The development of more modern treatments for tuberculosis ultimately led to the closure of Stony Brook in 1967. Shortly thereafter, Hollywood producer Ed Lewis purchased the property, and in 1970, turned it over to Cesar Chavez and the farmworker movement for their use.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.559099,
+          35.224202
+        ]
+      },
+      "properties": {
+        "name": "Entrance to the Garden of the Southwest",
+        "notes": "Entrance to the Garden of the Southwest\nhttps://www.nps.gov/places/000/entrance-to-the-garden-of-the-southwest.htm\n\n<p>Turn here onto the dirt pathway to take a short walk through the garden.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.250304,
+          35.774987
+        ]
+      },
+      "properties": {
+        "name": "Filipino Community Hall",
+        "notes": "Filipino Community Hall\nhttps://www.nps.gov/places/000/filipino-hall.htm\n\n<p>California farm workers attempted to organize and strike many times in the 80 years before <a href=\"https://www.nps.gov/cech/index.htm\">Cesar Chavez</a> and the United Farm Workers. Those attempts all failed, partly because employers historically used one race of farm workers to break the strikes of other races. Led by prominent labor leader Larry Itliong, the mostly Filipino farm workers of the Agricultural Workers Organizing Committee gathered in the Filipino Community Hall and voted on the night of September 7, 1965, to strike against Delano-area grape growers. The next day, on September 8, 1965, the Filipino farmworkers began the Delano Grape Strike. <br /> <br /> <a href=\"https://www.nps.gov/people/larry-itliong.htm\">Larry Itliong</a> quickly asked the mostly Latino National Farm Workers Association to join the Filipinos' picket lines, which happened on September 16, 1965, Mexican Independence Day. Leaders of the two unions insisted strikers share the same union hall and strike kitchen, which was the Filipino Community Hall.<br /> <br /> The two unions merged in 1966 to form the United Farm Workers Organizing Committee, now the United Farm Workers. Bolstered by visits from supporters such as United Auto Workers International President <a href=\"https://www.nps.gov/people/walter-reuther.htm\">Walter P. Reuther</a> and Senator <a href=\"https://www.nps.gov/people/robert-f-kennedy.htm\">Robert F. Kennedy</a>, solidarity between the races during this five-year multi-ethnic struggle was a key factor in establishing what became the first enduring farm workers union in U.S. history.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.258344,
+          35.757829
+        ]
+      },
+      "properties": {
+        "name": "First UFW Headquarters",
+        "notes": "First UFW Headquarters\nhttps://www.nps.gov/places/000/first-ufw-headquarters.htm\n\n<p>As the movement picked up steam in the early 1960s, <a href=\"https://www.nps.gov/cech/index.htm\">Cesar Chavez</a> moved union operations from his home to this rented building at the corner of First Avenue and Albany Street in Delano. Then known as the National Farm Workers Association (NFWA), the union became the United Farm Workers Organizing Committee in 1966, after merging with the mostly Filipino Agricultural Workers Organizing Committee led by <a href=\"https://www.nps.gov/people/larry-itliong.htm\">Larry Itliong</a>. It became the United Farm Workers of America, a fully independent union, in 1972.<br /> <br /> Within this union office, leaders coordinated strike operations, provided services, ran a credit union and operated the union newspaper <em>El Malcriado</em>. As these activities outgrew the building, they expanded to two adjacent rented houses.<br /> <br /> Eventually, Cesar and the movement purchased a much larger 40-acre property just west of Delano called the Forty Acres to serve as headquarters.<br /> <br /> This building, which still resembles how it looked in the 1960s, was added to the National Register of Historic Places in 2015. Today it operates as a church. Please respect the privacy of the people who worship here. Do not enter the fenced area.</p> <h3>Historic Credit Union</h3> <p>This structure was located behind the original union headquarters.<br /> <br /> When organizing the union, Cesar knew that it would most likely require a strike. Financial support would soon become a critical necessity for strikers to be able to actively participate in the strike. Cesar convinced his brother, Richard, to mortgage his home to fund a credit union for farmworkers.<br /> <br /> By establishing a credit union, the United Farm Workers organization was able to provide small loans to farmworkers to allow them to stay on the picket lines. The credit union also became an important tool to recruit new members who had bad experiences with previous attempts to unionize and strike. The credit union helped to build trust and empower the community.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.289473,
+          35.765069
+        ]
+      },
+      "properties": {
+        "name": "Forty Acres, California",
+        "notes": "Forty Acres, California\nhttps://www.nps.gov/places/000/forty-acres.htm\n\n<p>The United Farm Workers quickly expanded during the <a href=\"https://www.nps.gov/articles/000/workers-united-the-delano-grape-strike-and-boycott.htm\">1965-1970 Delano Grape Strike and international grape boycott</a>. The movement purchased a 40-acre parcel of bare land just west of Delano to supply room for the union to grow. The land came to be known as Forty Acres. It was the site of Cesar’s first public fast in 1968, his final public fast in 1988, and his funeral services in 1993. It was also the target of violence, vandalism and one bombing by movement opponents during the 1970s. Forty Acres was designated as a National Historic Landmark in 2008.<br /> <br /> Cesar’s brother Richard organized volunteers to clear and level the land. Buildings were constructed, which provided basic infrastructure to meet the needs of the union and farm workers: a co-op service station, Reuther Hall that housed movement headquarters, a rambling health clinic, and Agbayani village for elderly Filipino farm workers. Over the years, many of the farmworker movement’s most historic events took place here. The property is still owned and managed by the National Chavez Center, part of the Cesar Chavez Foundation.</p> <h3>The Rodrigo Terronez Memorial Medical Clinic</h3> <p>Backbreaking labor, pesticide exposure in the fields, and low incomes meant many farm workers went without basic medical attention. A health clinic for farm workers was established in a trailer at Forty Acres in 1968. Volunteer doctors and nurses provided health services.<br /> <br /> The movement purchased two buildings scheduled for demolition and moved them to Forty Acres. They connected the buildings, and in 1972, built a modern, well-equipped clinic in adobe-brick, Mission-style achitecture. It was here that one of the most vulnerable populations could finally receive badly-needed medical care. Patients included residents of the nearby Agbayani Retirement Village.<br /> <br /> It was named the Rodrigo Terronez Memorial Clinic to honor a dedicated union member who died during the grape strike. The building later became the regional office for the United Farm Workers.</p> <h3>Reuther Hall</h3> <p>The original office of the United Farm Workers (UFW) was at the corner of First Avenue and Albany Street in Delano. They moved here, to Reuther Hall, in 1969. This large, one-story structure on the Forty Acres property was named after Roy Reuther, a United Auto Workers leader and brother of United Auto Workers International President <a href=\"https://www.nps.gov/people/walter-reuther.htm\">Walter P. Reuther</a>. The building included a large union hall and served as headquarters for the UFW until 1971, when it moved to Keene.<br /> <br /> On July 29, 1970, hundreds of grape strikers and boycotters watched as Delano-area growers signed their first UFW contracts in Reuther Hall. John Giumarra Sr., owner of the nation's largest table grape company, held his hands up in mock surrender for the news cameras as <a href=\"https://www.nps.gov/cech/index.htm\">Cesar Chavez</a> and <a href=\"https://www.nps.gov/people/larry-itliong.htm\">Larry Itliong</a> looked on.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.559049,
+          35.224377
+        ]
+      },
+      "properties": {
+        "name": "Garden of the Southwest",
+        "notes": "Garden of the Southwest\nhttps://www.nps.gov/places/000/garden-of-the-southwest.htm\n\n<p>This garden offers a short walk through a landscape that held special meaning for Cesar Chavez. Rocks and fieldstone planters line the curved pathways that pass through a garden of Sonoran Desert plants. Many of the plants are native to Cesar's birthplace and the Chavez family homestead in Yuma, Arizona. These plants are also drought-tolerant, helping to conserve water and honoring Cesar's commitment to resource conservation.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.256759,
+          35.763206
+        ]
+      },
+      "properties": {
+        "name": "Gravesites of Larry Itliong and Richard Chávez",
+        "notes": "Gravesites of Larry Itliong and Richard Chávez\nhttps://www.nps.gov/places/000/gravesites-of-larry-itliong-and-richard-ch-vez.htm\n\n<p>Many people who were involved in the farmworker movement were laid to rest in the North Kern Cemetery, including notable Delano Grape Strike leaders who dedicated their lives to the movement.<br /> <br /> Restrooms are available st the cemetery office during business hours, Monday - Friday from 8:00AM - 4:30PM.</p> <h3>Larry Itliong</h3> <p>For many years, labor leader <a href=\"https://www.nps.gov/people/larry-itliong.htm\">Larry Itliong</a> fought for the rights of Filipino farmworkers, then later worked alongside Cesar Chavez as they merged their unions. In 1965, wage disputes in Southern California emerged between growers and Filipino farm workers. Filipino farm workers were offered lowered wages than Mexican farm workers, even after struggling for years to receive the same pay. As the leader of the Agricultural Workers Organizing Committee (AWOC), Larry Itliong called a meeting to propose a strike. On the evening of September 7, 1965, AWOC members voted to strike. On the following day, over 2,000 Filipino farm workers and members of the AWOC marched off the vineyards in what would become the beginning of the Delano Grape Strike.<br /> <br /> Both Larry Itliong and Cesar Chavez knew growers historically pitted the races against each other to break strikes and defeat unions. So Larry approached Cesar, asking the Latino members of his National Farm Workers Association (NFWA) to join the grape walkouts. Cesar was not yet ready to join a major farm strike. As Cesar, Dolores Huerta, and other leaders of the Latino union debated the issue, Cesar's wife Helen settled the matter by asking, \"Are we a union or not?\" On September 16, 1965, Mexican Independence Day, NFWA members cast a unanimous vote to join the Filipinos' picket lines during a meeting at Our Lady of Guadalupe Catholic Church Hall. The AWOC and NFWA merged in 1966 to become what is today the United Farm Workers. By the 1970s this multi-ethnic effort won increased wages, benefits and pesticide protections for farm workers. Larry's fight for justice for farm workers in America continues to benefit today's field laborers who feed our country and has inspired generations of activists.<br /> <br /> At the urging of Larry Itliong and other Filipino union leaders, the Agbayani Village, a retirement home for elderly and displaced Filipino farm workers, was built by the farmworker movement on the Forty Acres. Agbayani Village is another location in this mobile app.<br /> <br /> Larry Itliong's grave is located on the southeast side of the cemetery, five rows to the east of Carnation Road and 52 plots south of the main office.</p> <h3>Richard Chavez</h3> <p>Richard Chavez was responsible for development of the Forty Acres property and led construction on three of its four primary structures. In addition to his skilled oversight of Forty Acres, he made numerous important contributions during his 30+ years with the farmworkers movement. He organized successful boycotts of grapes and other products in New York and Detroit. He oversaw United Farmworkers (UFW) contracts and union bargaining, and was also an elected UFW leader. Richard passed away in 2011.<br /> <br /> To find Richard's grave at the North Kern County Cemetery in Delano, check at the office for a map. The office is located on the east side of the cemetery near Austin street and 7th avenue. If the office is closed, a small version of the map is included in this app.<br /> <br /> The grave is located near the Austin street and 7th Avenue side of the cemetery, on a road named Lily of the Valley Drive. You will find Richard's grave on the row second from the right of Austin Street and north 12 plots from Lily of the Valley. Look for the <em>Huelga</em> eagle engraved on his grave.<br /> <br /> In 1962, Cesar asked Richard to design a symbol for the union to be unveiled at its founding convention in a downtown Fresno movie theater. Richard's design featured a stylized Aztec black eagle with squared off wings that would be easy for people to reproduce. It became an iconic symbol that inspired union members and millions of others around the world.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.559838,
+          35.2257
+        ]
+      },
+      "properties": {
+        "name": "Helen's Park",
+        "notes": "Helen's Park\nhttps://www.nps.gov/places/000/helens-park.htm\n\n<p>After Cesar began organizing farm workers in 1962-and especially after the Delano grape strike began in 1965-Helen was largely left to care for their eight children pretty much by herself. Over the years she also became a surrogate mother to countless young single volunteers who journeyed to Delano, and later to La Paz, to work for social justice. She often made seats at her table for those who couldn't make it home for the holidays. Helen frequently cooked for their weddings and baptisms as well as big union events and celebrations. And she became a friend and confidant to many. What she did for her family she did for the movement.<br /> <br /> Saturday evenings and Sundays often found Helen gathered with volunteers and visitors at the small park and fieldstone grill pit next to the Chavez home, barbecuing and relaxing after a full day or week of hard work. Cesar sometimes lent a hand helping to grill chicken and meat for the group, a significant concession for the strict vegetarian.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.557983,
+          35.222569
+        ]
+      },
+      "properties": {
+        "name": "High Water Crossing Hazard",
+        "notes": "High Water Crossing Hazard\nhttps://www.nps.gov/places/000/high-water-crossing-hazard.htm\n\n<p>During storms and heavy rains, the creek can flow over the road. Do not drive over the water crossing if you're unsure that conditions are safe. The national monument may be closed when it rains.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.254525,
+          35.776159
+        ]
+      },
+      "properties": {
+        "name": "Hotel Site of Contract Negotiations",
+        "notes": "Hotel Site of Contract Negotiations\nhttps://www.nps.gov/places/000/hotel-site-of-contract-negotiations.htm\n\n<p>In room 44 of the old Stardust Motel, Cesar Chavez met in July 1970 with America's largest table grape growers and negotiated the union contracts that ended the five-year-long Delano Grape Strike. At Cesar's insistence, all the other Delano-area grape growers also signed United Farm Workers contracts.<br /> <br /> Please do not disturb guests in this motel.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.565697,
+          35.224105
+        ]
+      },
+      "properties": {
+        "name": "Keene Café",
+        "notes": "Keene Café\nhttps://www.nps.gov/places/000/keene-caf.htm\n\n<p>Located at the Keene exit off Highway 58, the building housing this rustic diner dates back to 1920. Still open each day for breakfast and lunch, its great food and country atmosphere draws customers from throughout the Tehachapi Mountains and Central Valley.<br /> <br /> Cesar was friends with the café's previous owner, Ruby Woods. They jokingly greeted each other, Cesar asking Ruby if she would sell him the Keene Café and Ruby asking Cesar if he would sell her La Paz. After Cesar's passing, Ruby approached his son Paul Chavez, president of the Cesar Chavez Foundation, about acquiring the diner.<br /> <br /> Although the Keene Café is not part of the César E. Chávez National Monument, it is owned and operated by the National Chavez Center, part of the Chavez Foundation.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.561215,
+          35.230172
+        ]
+      },
+      "properties": {
+        "name": "Martyr's Rock",
+        "notes": "Martyr's Rock\nhttps://www.nps.gov/places/000/martyr-s-rock.htm\n\n<p>Martyr's Rock is dedicated to the people who lost their lives during the struggle for civil rights for the farmworkers who feed America. The three metal symbols mounted on top of this rock formation represent the people who died during the grape strikes. Five martyrs are honored here: Nan Freeman, Nagi Daifallah, Juan De La Cruz, Rufino Contreras, and Rene Lopez. The Christian Cross, a Star of David, and a Muslim Crescent Moon represent their different faiths and backgrounds.<br /> <br /> During the conflicts that cost the martyrs their lives, Cesar remained committed to non-violence. He began his first fast in 1968 as a way to recommit himself and his followers to peaceful protests. Learn more about this fast at the Tomasa Zapata Co-op Service Station location in this mobile app.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.5598,
+          35.224894
+        ]
+      },
+      "properties": {
+        "name": "Pan y Vino (Bread & Wine) Community",
+        "notes": "Pan y Vino (Bread & Wine) Community\nhttps://www.nps.gov/places/000/pan-y-vino-bread-wine-community.htm\n\n<p>To foster a sense of community, Cesar brought people together to break bread as often as possible. Here, people living on the property regularly came together to share meals and socialize. It was also often a setting for special events, gatherings and holidays.<br /> <br /> The single-story building was originally constructed in 1954. In the early 1970s, the interior of the building was remodeled by the farmworker movement in order to continue its use as a kitchen and dining facility that was named \"Pan y Vino.\" It is still in use today.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.559219,
+          35.224628
+        ]
+      },
+      "properties": {
+        "name": "Pasa Tiempo Dormitory",
+        "notes": "Pasa Tiempo Dormitory\nhttps://www.nps.gov/places/000/pasa-tiempo-dormitory.htm\n\n<p>Over the years, the Pasa Tiempo dormitory has had many uses. When this property was part of the Stonybrook Sanitorium, this single-story building housed nurses working at the facility. In the early 1970s, the United Farm Workers organization used the building as a dormitory for volunteers. Later it became an administrative office for the union's Robert F. Kennedy Medical Plan and the Juan de la Cruz Pension Plan. More recently, it was reverted back to dormitory space and is still used as housing for visitors today.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.560641,
+          35.229917
+        ]
+      },
+      "properties": {
+        "name": "Peace Pole (Keene, CA)",
+        "notes": "Peace Pole (Keene, CA)\nhttps://www.nps.gov/places/000/peace-pole.htm\n\n<p>This wooden post is one of many peace poles that are found worldwide. Metal plaques on its side say, \"May Peace Prevail on Earth\" in English, Spanish, Tagalog, and Hebrew. This Peace Pole represents the four cultures that were reflected in the farmworker movement.<br /> <br /> Peace poles are meant to unite people of different cultures, faiths, and ideals in order to celebrate humanity and to manifest peace on earth. The poles can be found in many notable locations, including the Pentagon, the Giza pyramids, Cambodia's Angkor Wat, and Ground Zero of the World Trade Center site.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.247162,
+          35.761326
+        ]
+      },
+      "properties": {
+        "name": "People's Market & Bar",
+        "notes": "People's Market & Bar\nhttps://www.nps.gov/places/000/peoples-market-bar.htm\n\n<p>Cesar lived near this market, which in its early years, was known as the People's Store. In the 1940s, he dated Helen Fabela who worked at the store's cash register. They married in 1948 when he returned from U.S. Navy. During the early years of their marriage, Helen supported the family by working in the fields, which allowed Cesar to focus on organizing. During the 1960s and 1970s, People's Bar became a popular spot with union volunteers, activists, and members involved in the movement gathered here. Cesar regularly relaxed, played pool, and socialized with the volunteers at the bar. It soon became a \"free speech zone\" where people felt safe to debate a variety of issues, and to make decisions involving the direction of the movement.<br /> <br /> Please do not disturb the businesses that operate in this building.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.560286,
+          35.225234
+        ]
+      },
+      "properties": {
+        "name": "Permanent Housing District",
+        "notes": "Permanent Housing District\nhttps://www.nps.gov/places/000/permanent-housing-district.htm\n\n<p>This housing was originally built for doctors and other staff of the Stonybrook Sanitarium, After the farmworker movement acquired the property, this section of the housing district provided space for long-term residents of La Paz. Today, some of the original residents still live in these homes. These buildings are private residences. Please respect the privacy of the families who live here.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.558749,
+          35.223421
+        ]
+      },
+      "properties": {
+        "name": "Picnic Area (Keene, CA)",
+        "notes": "Picnic Area (Keene, CA)\nhttps://www.nps.gov/places/000/picnic-area-9.htm\n\n<p>This picnic area is open to the public. This area was once the site of staff housing but is now a place for visitors to rest, enjoy a meal, or the company of friends and family.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.558352,
+          35.222697
+        ]
+      },
+      "properties": {
+        "name": "Quonset Hut (Keene, CA)",
+        "notes": "Quonset Hut (Keene, CA)\nhttps://www.nps.gov/places/000/quonset-hut.htm\n\n<p>This Quonset hut, constructed in the 1950s, served as an office for the United Farm Workers security staff during the movement. Its large windows offered a clear view, helping staff screen those entering the property.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.25490201581168,
+          35.76355859761318
+        ]
+      },
+      "properties": {
+        "name": "Richard Chavez Home",
+        "notes": "Richard Chavez Home\nhttps://www.nps.gov/places/000/richard-chavez-home.htm\n\n<p>Richard Chavez's support of the farm worker movement was critical to its success. As Cesar's brother, he shared similar childhood experiences that influenced their beliefs, including the loss of their home, their work in the fields, and the constant transition while attending 37 different schools. Richard was a skilled carpenter, but soon left his trade to work full-time for Cesar and the movement.</p> <h3>Credit Union</h3> <p>One of Richard's notable contributions to the movement was providing funding to create the Farm Workers Credit Union. Richard took out a second mortgage on his home in 1963, so Cesar could open the credit union.<br /> <br /> A plaque at Richard Chavez Park on the Forty Acres property honors him. His gravesite is in Delano at the North Kern Cemetery, and the credit union was a few blocks away behind the first UFW headquarters.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.559367,
+          35.226343
+        ]
+      },
+      "properties": {
+        "name": "Sister Florence Weber Office Building",
+        "notes": "Sister Florence Weber Office Building\nhttps://www.nps.gov/places/000/sister-florence-weber-office-building.htm\n\n<p>This is the only building that was built after Cesar acquired the property. Originally built as the main printing office for the movement, it later grew to serve as office space for union leaders. Today, it is the United Farm Workers (UFW) executive office and the headquarters of the Cesar Chavez Foundation. Additional UFW offices are located throughout California.<br /> <br /> This building was named for Sister Florence Weber, who came to La Paz and professionalized and modernized the farmworker movement's accounting operations.</p> <h3>Historic Printing Office</h3> <p>Many of the distinctive and creative posters, flyers, and picket signs of the movement came directly from this office. It was later expanded and is now the headquarters for the United Farm Workers and other movement organizations.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.561945,
+          35.225571
+        ]
+      },
+      "properties": {
+        "name": "Temporary Housing District (Keene, CA)",
+        "notes": "Temporary Housing District (Keene, CA)\nhttps://www.nps.gov/places/000/temporary-housing-district.htm\n\n<p>As activists traveled here to La Paz to volunteer for the movement, movement leaders built more housing to accommodate them. Hundreds of people lived and worked at La Paz, and they all needed a place to live. Trailers provided a low-cost solution. Look closely for utility posts that provided power to the many trailers that once filled this area.<br /> <br /> The current residents of trailers in this area have lived here continuously since the early days of the movement. They are still actively working to protect the rights of farmworkers.<br /> <br /> These buildings are private residences. Please respect the privacy of the families who live here.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.257513,
+          35.757826
+        ]
+      },
+      "properties": {
+        "name": "The \"Pink House\"",
+        "notes": "The \"Pink House\"\nhttps://www.nps.gov/places/000/the-pink-house.htm\n\n<p>This simple house located directly behind the first headquarters of the United Farm Workers housed Cesar Chavez's office and the union's Legal Department. From here boycotts were coordinated across the U.S. and Canada until 1969, when union operations moved to the Forty Acres. The Pink House was later home to the <em>Huelga</em> School, established by the movement to teach the children of grape strikers and union staff.<br /> <br /> This building is a private residence. Please respect the privacy of the family who lives here. Do not enter the fenced area.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.55902,
+          35.224029
+        ]
+      },
+      "properties": {
+        "name": "The Garden of Values Outdoor Exhibit",
+        "notes": "The Garden of Values Outdoor Exhibit\nhttps://www.nps.gov/places/000/the-garden-of-values-outdoor-exhibit.htm\n\n<p>This outdoor exhibit near the entrance to the Memorial Garden provides additional information about the garden's history and features. Brochures that identify the meaning of garden features are available from a brochure holder near the exhibit. The wayside displays information about landscape architect Dennis Dahlin's design to commemorate Cesar's life and values.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.288302,
+          35.76178
+        ]
+      },
+      "properties": {
+        "name": "Tomasa Zapata Co-op Service Station",
+        "notes": "Tomasa Zapata Co-op Service Station\nhttps://www.nps.gov/places/000/tomasa-zapata-co-op-service-station.htm\n\n<p>Reliable transportation is a critical need for migrant farmworkers, and without it, they cannot reach the jobs that are their livelihood. During the movement, Cesar and Richard Chavez built this service station after buying this property in Delano, known as Forty Acres. The first permanent structure built on Forty Acres, the service station included gas pumps, an automotive repair shop, and a steel-framed multipurpose hall. The Chavez brothers' vision reflected their belief in self-empowerment, the defining theme of the farm worker movement.</p> <h3>Cesar's First Fast</h3> <p>Cesar's first public fast took place in 1968 inside a small room in the service station. His goal was to rededicate the farmworkers movement to nonviolence. After 25 days without food, he lost 35 pounds. His \"Fast for Nonviolence\" brought national media attention to the farm labor movement and triggered an improvement of conditions for Mexican-Americans and other minorities in the United States. During the fast, supporters came each day to celebrate mass. The fast ended in Delano during a mass where he broke bread with Senator Robert F. Kennedy, with thousands of supporters in attendance.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.560067,
+          35.229655
+        ]
+      },
+      "properties": {
+        "name": "Villa La Paz",
+        "notes": "Villa La Paz\nhttps://www.nps.gov/places/000/villa-la-paz.htm\n\n<p>As the second of two hospitals and one of the largest buildings on the property, Villa la Paz played a key role in organizing and educating people who came here to join the cause. Cesar used this building as an educational center where activists learned techniques that promoted the goals of the farmworker movement. Here, thousands of people learned the principles of nonviolence and the skills to administer a growing organization. However, the building's early history brought unhappy memories to Helen Chavez. It was originally built as a children's hospital and Helen was brought here as a child, separated from her family for nearly a year. This unpleasant experience made her initially reluctant to move back here when Cesar acquired the property. Operated by the National Chavez Center, today Villa la Paz is a conference and education center that hosts a variety of gatherings.</p>",
+        "icon": "red-pin-down.png"
+      }
+    }
+  ]
+}

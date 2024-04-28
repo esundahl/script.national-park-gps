@@ -1,0 +1,80 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.985298,
+          38.863204
+        ]
+      },
+      "properties": {
+        "name": "Frederick Douglass Caretakers Cottage",
+        "notes": "Frederick Douglass Caretakers Cottage\nhttps://www.nps.gov/places/000/frederick-douglass-caretakers-cottage.htm\n\n<p>Constructed in 1922, this cottage served as the residence for the site's caretaker. The caretaker, along with other members of the Frederick Douglass Memorial and Historical Association (FDMHA), managed and preserved the property from 1903 until it became a National Park Service site in 1962.<br /> Inscriptions<br /> In Loving Memory of<br /> \"The Guardian Angel of Cedar Hill\"<br /> Gladys B. Parham<br /> 1906-1983<br /> In recognition of her steadfast dedication to the preservation and maintenance of the Frederick Douglass Home<br /> Erected by<br /> Frederick Douglass Memorial<br /> And<br /> Historical Association 1987</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.984447,
+          38.86374
+        ]
+      },
+      "properties": {
+        "name": "Frederick Douglass NHS Visitor Center",
+        "notes": "Frederick Douglass NHS Visitor Center\nhttps://www.nps.gov/places/000/frederick-douglass-nhs-visitor-center.htm\n\n<p>Begin your visit to the Frederick Douglass National Historic Site here. Ranger staff will orient you to the site. In addition, the Visitor Center offers restrooms and a gift shop as well as some exhibits. The introductory movie highlights Douglass's life before moving to Anacostia. A guided tour of Douglass's home is a must after the visitor center.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.985111,
+          38.863326
+        ]
+      },
+      "properties": {
+        "name": "Frederick Douglass National Historic Site",
+        "notes": "Frederick Douglass National Historic Site\nhttps://www.nps.gov/places/frederick-douglass-national-historic-site.htm\n\n<p>The Frederick Douglass National Historic Site preserves and interprets <a href=\"https://www.nps.gov/frdo/learn/historyculture/places.htm\">Cedar Hill</a>, where <a href=\"https://www.nps.gov/frdo/learn/historyculture/people.htm\">Frederick Douglass</a> lived from 1877 until his death in 1895.</p> <p>The centerpiece of the site is the historic house, which sits on top of a 50-foot hill and eight acres of the original estate. <a href=\"https://www.nps.gov/frdo/learn/historyculture/preservation.htm\">Restored</a> to its 1895 appearance, the house is furnished with <a href=\"https://www.nps.gov/frdo/learn/historyculture/collections.htm\">original objects</a> that belonged to Frederick Douglass and <a href=\"https://www.nps.gov/frdo/learn/historyculture/people.htm\">other household members</a>.</p> <p>A typical visit lasts about 1.5 hours. <a href=\"https://www.nps.gov/frdo/planyourvisit/things2do.htm\">Things to do</a> include <a href=\"https://www.nps.gov/frdo/planyourvisit/guidedtours.htm\">touring the historic house</a>, looking at exhibits, watching the film, and exploring the grounds.<br /> <br /> You must be on a <a href=\"https://www.nps.gov/frdo/planyourvisit/guidedtours.htm\">guided tour</a> to get inside the historic house. Because space is limited, <a href=\"https://www.nps.gov/frdo/planyourvisit/permitsandreservations.htm\">reservations</a> are <strong>strongly encouraged</strong>, even if you are visiting on your own. If you are visiting with a group of more than ten, <a href=\"https://www.nps.gov/frdo/planyourvisit/permitsandreservations.htm\">reservations</a> are <strong>required</strong>.</p> <p><br /> About Frederick Douglass<br /> <span style=\"font-size: 11pt;\">Frederick Douglass was an early supporter of blacks’ and women’s rights, a social reformer, and is referred to as the \"Father\" of the Civil Rights Movement. Douglass was born in February 1818 on Maryland’s Eastern Shore, the son of an enslaved mother and a white father. As a child, he worked in the fields, was moved from one family to another and was hired out to shipbuilders in Baltimore. Through these years he learned to read and write, met free blacks – learning that it was possible to be African American and be free – joined the Bethel A.M.E. Church in Baltimore, and began to engage in debates. After several failed attempts to escape to the North, he succeeded in 1838, settling in New Bedford, Massachusetts, with his new wife Anna. Within the next few years, Douglass championed the right of African Americans to fight in the Union Army and in May 1863, saw two of his sons leave with the Massachusetts 54</span><sup>th</sup><span style=\"font-size: 11pt;\"> Regiments for South Carolina. After the Civil War, he worked unceasingly for full civil rights for African Americans.</span></p> <p><span style=\"font-size: 11pt;\">Douglass purchased his estate, Cedar Hill, in 1877. He was appointed US Minister and Counsel General to Haiti by President Benjamin Harrison, resigned the post in 1893, and returned to Cedar Hill where he died February 20, 1895.The site has a visitor center with exhibits. Contact the park for tours of the home. </span></p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.985443,
+          38.862762
+        ]
+      },
+      "properties": {
+        "name": "Frederick Douglass: Carriage House and stable remains",
+        "notes": "Frederick Douglass: Carriage House and stable remains\nhttps://www.nps.gov/places/000/frederick-douglass-carriage-house-and-stable-remains.htm\n\n<p>Frederick Douglass' final residence \"Cedar Hill\", represented a rural oasis from the busy urban environment. A stable and carriage house were located near here. In addition, an peach orchard stood on the nearby hill.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.98512,
+          38.862754
+        ]
+      },
+      "properties": {
+        "name": "Frederick Douglass: The Growlery",
+        "notes": "Frederick Douglass: The Growlery\nhttps://www.nps.gov/places/000/frederick-douglass-the-growlery.htm\n\n<p>The 19th century equivalent of the \"man cave,\" Frederick Douglass's \"Growlery\" was a place where he could sit and work at his desk without distraction.</p>",
+        "icon": "red-pin-down.png"
+      }
+    }
+  ]
+}

@@ -1,0 +1,320 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.517521576,
+          35.8655565745
+        ]
+      },
+      "properties": {
+        "name": "Bond Cabin",
+        "notes": "Bond Cabin\nhttps://www.nps.gov/places/bond-cabin.htm\n\nBuilt in 1918 and known as the \"Big House,\" it served as a seasonal home for the Bond family and functioned as the official ranch headquarters. The living room fireplace and wood-burning stove heated the building, and the cooking was done mostly outdoors. An outhouse was used until the Dunigan family remodeled in the 1980s.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.516752605,
+          35.86670402
+        ]
+      },
+      "properties": {
+        "name": "Caretaker's Cabin",
+        "notes": "Caretaker's Cabin\nhttps://www.nps.gov/places/caretaker-s-cabin.htm\n\nIt is unclear if this building was constructed or moved here in 1951, but it was used to house Ruby and Robert Hoolihan, employees of the Bond Family who owned the land from 1918 to 1963. Robert was the driver, and Ruby was the caretaker for the Bond's children. The building was painted \"ruby red\" for her. Water came from the creek beside the commissary and was diverted into pipes that ran into the house. A water heater was connected to the wood stove for cooking and dishes. An outhouse was up the hill.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.494969,
+          35.856076
+        ]
+      },
+      "properties": {
+        "name": "Cerro de la Jara Overlook",
+        "notes": "Cerro de la Jara Overlook\nhttps://www.nps.gov/places/cerro-de-la-jara-overlook.htm\n\nThe bluffs of volcanic rock atop Cerro de la Jara provides excellent views across the Valle Grande. While there are no trails that lead to the overlook itself, visitors are allowed to trek upwards from the La Jara trail to reach the viewpoint. <br /> <br /> Visitors are to take care in not disturbing the natural resources upwards towards the rocks. There are prarie dog holes and vegetation covering the terrain.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.518714137,
+          35.8649487613
+        ]
+      },
+      "properties": {
+        "name": "Commissary",
+        "notes": "Commissary\nhttps://www.nps.gov/places/commissary.htm\n\nOral history accounts recall the cabin supplied basics like meat, potatoes, beans, and other canned goods for ranch operations and sheep camps. Sheepherders arriving on horseback, packed burros, and mules would stock up with weeks worth of provisions and then return to their camps in the mountains. Some accounts give the building dates as 1909; however analysis of tree-ring cutting dates from log core samples proves that it was actually built after 1940. Some stories are from before that time, and a 1921 photo shows an almost identical structure in the same location. The fate of the older structure is unknown, but it was likely the original commissary from the stories.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.519383003,
+          35.863681419
+        ]
+      },
+      "properties": {
+        "name": "Cowboy Cabin",
+        "notes": "Cowboy Cabin\nhttps://www.nps.gov/places/cowboy-cabin.htm\n\nThe Bond Family built this house in 1951 for ranch employee Sam Hill, his wife Bertilla, and their two children after Sam complained about the building of the red cabin for the Hoolihans. A generator provided power to all the houses, but the story goes that Ruby Hoolihan would shut it off at 9 PM to the displeasure of Bertilla. Later the cabin occasionally served as a bunkhouse and office for cowboys working the ranch. Each cowboy would set out in the mornings with a string of five to seven horses to complete their daily tasks before sundown.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.49185180664062,
+          35.847421625138224
+        ]
+      },
+      "properties": {
+        "name": "East Fork of the Jemez River",
+        "notes": "East Fork of the Jemez River\nhttps://www.nps.gov/places/east-fork-of-the-jemez-river.htm\n\nThe East Fork of the Jemez River meanders through Valle Grande—the largest valley at Valles Caldera National Preserve. This waterway is a popular destination for anglers, hikers, and sightseers alike and is home to the native Rio Grande sucker, Rio Grande chub, fathead minnow and longnose dace and non-native German brown and rainbow trout.<br /> <br /> Downstream from here is Hidden Valley, accessible by a trail that starts two-thirds of a mile back toward the park's entrance gate. Upstream is accessible by foot and bicycle from the pullouts on NM State Route 4 or by foot from the Entrance Station.<br /> <br /> The East Fork ultimately joins with San Antonio Creek at Battleship Rock in San Diego Canyon to form the Jemez River.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.51765441894531,
+          35.86568832397461
+        ]
+      },
+      "properties": {
+        "name": "Historic Cabin District",
+        "notes": "Historic Cabin District\nhttps://www.nps.gov/places/historic-cabin-district.htm\n\nFour miles from the main entrance is the park's Cabin District. This cluster of historic log cabins facilitated spring, summer, and fall ranching operations on this land for nearly a century. The location offered the shelter of towering, old-growth conifers, ample spring water, and a vista of Valle Grande—qualities that have attracted human use and occupation here for several thousand years.<br /> <br /> Beginning as a land grant in 1860, private ownership was held by a series of four families: the Cabeza de Bacas (1860-1899), the Oteros (1899-1917), the Bonds (1917-1962), and the Dunigans (1962-2000). Throughout this succession of owners, the land was used for sheep grazing, sulfur mining, cattle ranching, logging, geothermal exploration, and tourism. By 1963, logging operations had cut over 25,000 acres (10,000 hectares) of timber from the property, and a century of livestock grazing had trampled and compacted the soils beside streams, causing erosion, sedimentation, and unnatural channelization of waterways. <br /> <br /> The Cabin District consists of the Historic Ranch Headquarters buildings and includes: the Ranger Station, where you can find a passport stamp, park-related gift items for sale; the Greer Cabin (1951); the Otero Cabin (1915); the Commissary (1941); the Bond Cabin (1918); the Ranch Foreman's Cabin (1918); and the Caretaker's Cabin (1951). Visitors are welcome to take photos, but we ask you to please stay off of the porches and other parts of these structures. The cabins are not available for rent.<br /> <br /> Parking and portable toilets can be found behind the Otero Cabin and Commissary. This is also the designated parking area for the Ranger Station and South Mountain Trail. ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.509311606,
+          35.8736459811
+        ]
+      },
+      "properties": {
+        "name": "History Grove",
+        "notes": "History Grove\nhttps://www.nps.gov/places/history-grove.htm\n\nThis 125-acre old-growth forest of 250–400-year-old Ponderosa pine and Douglas fir trees is among the few locations that make up the remaining five percent of magnificent forests not lost to 20th century logging. It stands in testimony both to the intact ecosystems before historic land-use practices and to the long-term potential of sustained forest restoration underway at the preserve. Easily accessible by vehicle on the northern edge of the Valle Grande, about 4.5 miles from the the main gate, this destination allows visitors to step into the past natural heritage of the Jemez Mountains and to experience the profoundly quiet soundscape of the caldera.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.49852752685547,
+          35.91372299194336
+        ]
+      },
+      "properties": {
+        "name": "Jaramillo Creek",
+        "notes": "Jaramillo Creek\nhttps://www.nps.gov/places/jaramillo-creek.htm\n\nLocated in the middle of the preserve, Jaramillo Creek is a popular fly fishing area. Although smaller and more overgrown than other streams on the preserve, it provides good fishing for those who enjoy a challenge. Primary species is the non-native brown trout.<br /> <br /> There are several elk exclosures to protect willows and other vegetation from browsing elk, but anglers are welcome to fish inside if there is a walk-through or gate. <br /> <br /> Vehicle access to Jaramillo Creek is limited and available seasonally as conditions allow. Access to the creek via hiking, biking, horseback riding, cross-country skiing and snowshoeing is available year-round as conditions allow. Parking is available about 6 miles or 30 minutes from the the Entrance Station. Please obey all speed limits. ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.502789,
+          36.00382
+        ]
+      },
+      "properties": {
+        "name": "La Garita Summit Overlook",
+        "notes": "La Garita Summit Overlook\nhttps://www.nps.gov/places/la-garita-summit-overlook.htm\n\nAtop the northern rim of the caldera lies La Garita Summit. From this vantage point, one can look out across majority of Valles Caldera which is 14 miles across. The peaceful mountain meadow's open terrain towers above Valle Toledo which moves through the caldera to the left and Valle San Antonio which meanders to the right. The elevation from this overlook is roughly 10,200 feet.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.48709257238204,
+          35.8321511030535
+        ]
+      },
+      "properties": {
+        "name": "Main Park Entrance",
+        "notes": "Main Park Entrance\nhttps://www.nps.gov/places/main-park-entrance.htm\n\nThe main entrance to Valles Caldera National Preserve, located along New Mexico State Route 4 between Los Alamos and Jemez Springs, is open daily from dawn to dusk for pedestrian traffic and from 9:00 am to 5:00 pm for vehicular traffic (8:00 am to 6:00 pm from Memorial Day to Labor Day).<br /> <br /> Learn more about our operating hours and alternative park entrances at <a href=\"https://www.nps.gov/vall/planyourvisit/hours.htm\">Operating Hours & Seasons - Valles Caldera National Preserve (U.S. National Park Service) (nps.gov)</a>.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.455232482,
+          35.851707247
+        ]
+      },
+      "properties": {
+        "name": "NM State Route 4 Pullouts",
+        "notes": "NM State Route 4 Pullouts\nhttps://www.nps.gov/places/nm-4-pullout.htm\n\nThere are several pullouts along NM 4 to stop and view wildlife, take photos, and enjoy expansive views of Valle Grande. These pullouts are open 24/7, so they may also be used for stargazing.<br /> <br /> Elk can often be seen grazing in Valle Grande, especially around dawn and dusk, but you might not notice them at first. Although they are large animals, the immensity of the Valle Grande dwarfs them. For perspective, look for the “Horse Barn” on the far north side of Valle Grande; it is three miles away. The Entrance Station, next to pint-sized Cerro La Jara, is two miles away, and the Ranger Station in the tree line with the other cabins is almost four miles away. As vast as it appears, Valle Grande only makes up about 15% of Valles Caldera, which, in its entirety, measures approximately 13 miles across. The ridgeline just south of NM 4 (behind you) is the southern rim of the caldera, and the northern rim can occasionally be spotted in the distance far beyond Valle Grande and surrounding lava domes.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.515894931,
+          35.8666718297
+        ]
+      },
+      "properties": {
+        "name": "Old Barn",
+        "notes": "Old Barn\nhttps://www.nps.gov/places/old-barn.htm\n\nBuilt in 1941, the Old Barn was used to store hay, straw, tack, and the \"night horse.\" Every morning, the night horse and assigned ranch hand would be up before sunrise to bring the other horses from the field. The opening on the right was enlarged sometime prior to 1955.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.518766093,
+          35.8647911113
+        ]
+      },
+      "properties": {
+        "name": "Otero Cabin",
+        "notes": "Otero Cabin\nhttps://www.nps.gov/places/otero-cabin.htm\n\nThe Otero (Cupit) Cabin is the oldest standing log structure on the preserve, built back in 1915. The Oteros, who owned the land from 1899 to 1918, grazed sheep on the mountains and cattle and horses in the valleys. Frederico Otero lived there until 1917, but later occupants included staff working seasonally on the ranch. Names carved over the door frame include Danny, Shawn, and Nathan Cupit and are dated 1967 and 1977.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.516774028,
+          35.8661955356
+        ]
+      },
+      "properties": {
+        "name": "Ranch Foreman's Cabin",
+        "notes": "Ranch Foreman's Cabin\nhttps://www.nps.gov/places/ranch-foreman-s-cabin.htm\n\nKnown as the \"Little House,\" this cabin housed the ranch manager. Like the Bond Cabin, cooking was primarily done outdoors until the Dunigan family remodeled in the 1980s. In both cabins, the additions can be easily recognized because they used vertical board/batten framing instead of horizontal logs. This cabin had continual ranch management use from 1918 up until the early 2000s. It was featured in the show <em>Longmire</em>. ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.53701782226562,
+          35.96705627441406
+        ]
+      },
+      "properties": {
+        "name": "San Antonio Creek",
+        "notes": "San Antonio Creek\nhttps://www.nps.gov/places/san-antonio-creek.htm\n\nBelow the north rim of the volcanic caldera and about 12 miles from the Entrance Station the San Antonio Creek meanders through the lush mountain meadows of the Valle San Antonio and is home to thousands of non-native brown trout. Elk, bear, coyote and mountain bluebirds are often spotted along the banks of the creek.<br /> <br /> Vehicle access to the San Antonio Creek is limited and available seasonally as conditions allow. Access to the creek via hiking, biking, horseback riding, cross-country skiing and snowshoeing is available year-round as conditions allow. There are fenced elk exclosures along the creek that can be fished if there is a walk-through or gate. ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.45341412695312,
+          35.84686901165154
+        ]
+      },
+      "properties": {
+        "name": "South Rim Overlook",
+        "notes": "South Rim Overlook\nhttps://www.nps.gov/places/south-rim-overlook.htm\n\nTraveling to the top of the Coyote Call Trail and walking along the Rabbit Ridge spur, the view from the southern rim of the caldera looks out across Valle Grande. Portions of the views are through burned areas which were caused by the Las Conchas fire of 2011.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.59455108642578,
+          35.927947998046875
+        ]
+      },
+      "properties": {
+        "name": "Sulphur Canyon",
+        "notes": "Sulphur Canyon\nhttps://www.nps.gov/places/sulphur-canyon.htm\n\n<p>Sulphur Springs was <a href=\"https://www.nps.gov/articles/valles-caldera-national-preserve-acquires-property-with-unique-volcanic-features.htm\">acquired by Valles Caldera National Preserve</a> in 2020. It contains volcanic features like sulfuric-acid springs, volcanic fumaroles and steaming mud-pots, and supports a range of “extremophile” algae and bacteria living in the high-temperature acidic pool and stream environments. Many of the geothermal features on the property are found nowhere else in New Mexico, and similar sites are very rare in the western United States. Originally patented in 1898 as a mining claim by New Mexico businessman and politician, Maríano Otero, who mined sulfur at the site from 1902 to 1904. The Otero family then developed the site as a health resort spa, which operated through much of the twentieth century until it burned down in the 1970s. In the late 1980s, Los Alamos National Laboratory established an experimental geothermal well on the site. Access from NM-4, Mile Marker 27, FS 105 to metal gate and parking area. We ask that you please do not bathe in the hot springs due to the water's acidity. </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.560733542,
+          35.9717495106
+        ]
+      },
+      "properties": {
+        "name": "The San Antonio Cabin",
+        "notes": "The San Antonio Cabin\nhttps://www.nps.gov/places/san-antonio-cabin-vall.htm\n\nLocated in the slopes of Valle San Antonio, the San Antonio Cabin stands as a reminder of the caldera's ranching past. Built by the Bond family in 1947, who owned the land from 1918 to 1962, the cabin was the home of ranch hand Richard Fitzgerald and his wife. From this location, Fitzgerald could tend to the cattle that grazed in this part of the caldera.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.487249,
+          35.862954
+        ]
+      },
+      "properties": {
+        "name": "Valle Grande Pond",
+        "notes": "Valle Grande Pond\nhttps://www.nps.gov/places/valle-grande-pond.htm\n\nWith La Jara Creek flowing in and out of it, the pond at the heart of Valle Grande provides excellent views of the expanse of the southern portion of the caldera. Abundant with water fowl and amphibians, the pond is a peaceful destiantion that is easily accessible from the trail leading out from the entrance station.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.49120243473827,
+          35.85672783668502
+        ]
+      },
+      "properties": {
+        "name": "Valles Caldera Entrance Station",
+        "notes": "Valles Caldera Entrance Station\nhttps://www.nps.gov/places/valles-caldera-entrance-station.htm\n\n<p>The Entrance Station is your first stop at Valles Caldera National Preserve. Rangers and volunteers are available to answer questions, provide park information, and sell park souvenirs and merchandise. Two accessible, unisex, vault-toilet restrooms are available across the parking lot.<br /> <br /> For information about operating hours and seasons, check out <a href=\"https://www.nps.gov/vall/planyourvisit/hours.htm\">Operating Hours & Seasons - Valles Caldera National Preserve (U.S. National Park Service) (nps.gov)</a>.</p>",
+        "icon": "red-pin-down.png"
+      }
+    }
+  ]
+}

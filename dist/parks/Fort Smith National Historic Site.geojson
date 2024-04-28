@@ -1,0 +1,830 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.42974,
+          35.3883
+        ]
+      },
+      "properties": {
+        "name": "1st and 2nd Jail",
+        "notes": "1st and 2nd Jail\nhttps://www.nps.gov/places/000/1st-and-2nd-jail.htm\n\n<p>Jail versus prison: A jail is for people charged with a crime and need to be held until a trial. People who are convicted found guilty and are sentenced to less than one year also go to jail. If a sentence is more than one year, the convict is sent to prison. Fort Smith was home to two different jails.<br data-text=\"true\" /> <br /> <strong>Hell on the Border Jail 1872 - 1888</strong><br data-text=\"true\" /> <br /> In 1872, the basement of the old enlisted men's barracks was converted to a jail. There was no heating, cooling, or cross ventilation. Hygiene was poor. The horrid conditions led to the jail's nickname, \"Hell on the Border.\"<br data-text=\"true\" /> <br /> <strong>Second Jail 1888-1917</strong><br data-text=\"true\" /> <br /> The second jail completed in 1888 was a major improvement. It had three tiers of cells. Each cell held two men. Prisoners were divided by their crimes; lesser offenses on the top tier and the lowest level was known as “murder’s row” or “death row”.</p> <p> </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.432324,
+          35.387489
+        ]
+      },
+      "properties": {
+        "name": "Abandoned and Forgotten",
+        "notes": "Abandoned and Forgotten\nhttps://www.nps.gov/places/000/abandoned-and-forgotten.htm\n\n<p>The need to establish peace between the Osage and Cherokee led to the establishment of Fort Smith on the confluence of the Arkansas and Poteau Rivers. Soldiers arrived on December 25, 1817 and spent over six years building Fort Smith only to abandon it in 1824. They were ordered to go deeper into Indian Territory and build a new fort, Fort Gibson.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.42978291249275,
+          35.388219060562434
+        ]
+      },
+      "properties": {
+        "name": "America's National Park Store at Fort Smith",
+        "notes": "America's National Park Store at Fort Smith\nhttps://www.nps.gov/places/america-s-national-park-store-at-fort-smith.htm\n\nThe park store is operated by <a href=\"https://americasnationalparks.org/about-us/who-we-are/\">America’s National Parks</a>, an official non-profit partner of the National Park Service dedicated to supporting the educational mission of Fort Smith National Historic Site. The park store has a wide range of educational products and unique souvenirs available for retail sale. These products complement the interpretive themes you experience when visiting the park. The park store is located in the lobby of the visitor center, or you can visit the <a href=\"https://shop.americasnationalparks.org/store/\">online park store.</a>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.43054622973523,
+          35.38840993700746
+        ]
+      },
+      "properties": {
+        "name": "American Sweetgum Tree (Liquidambar Styraciflua)",
+        "notes": "American Sweetgum Tree (Liquidambar Styraciflua)\nhttps://www.nps.gov/places/american-sweetgum-tree-liquidambar-styraciflua.htm\n\nThis Tree prefers to grow in bottom lands and hardwood forests. It can get up to 100 feet tall. The leaves are shaped like a star and have toothed edges. The seeds are shaped like a ball and covered with spikes. The wood is good for building furniture and buildings.  It would have a good building material for the fort and excellent fuel to make fires. The early settlers and soldiers in Fort Smith had very little in their lives to consider a luxury. This tree helped relieve some of that hardship by offering a kind of candy. Settlers and soldiers could peel back the park to expose the liquorish flavored sap so they could chew it like gum. This is why it has the name sweetgum.  ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.429424,
+          35.388215
+        ]
+      },
+      "properties": {
+        "name": "Barracks, Courthouse, Jail",
+        "notes": "Barracks, Courthouse, Jail\nhttps://www.nps.gov/places/000/barracks-courthouse-jail.htm\n\n<p>The visitor center building has served as an Enlisted men’s barracks, a jail, and a courtroom. From a distance it looks like one building, but it is actually two that were built over 45 years apart. Clues to the changes can be seen in its façade.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.428746,
+          35.389286
+        ]
+      },
+      "properties": {
+        "name": "Bass Reeves Statue",
+        "notes": "Bass Reeves Statue\nhttps://www.nps.gov/places/000/bass-reeves-statue.htm\n\n<p>Larger than life bronze statue is dedicated to Deputy US Marshal Bass Reeves. Located in Ross Pendergraft park which is adjacent to the north end of park grounds.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.430231,
+          35.387456
+        ]
+      },
+      "properties": {
+        "name": "Bastion",
+        "notes": "Bastion\nhttps://www.nps.gov/places/000/bastion.htm\n\n<p>A bastion is a gun emplacement for defending the fort. Fort Smith had five bastions. Bastion 1 was converted to the Commissary, Bastion 2 was converted to the Quarter Master's office, and Bastion 3 was converted to the powder magazine. Bastions 4 and 5 were left unfinished as part of the fort wall. Today there is a low stone wall outlining the locations of Bastions 3, 4, and 5.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.43168,
+          35.388394
+        ]
+      },
+      "properties": {
+        "name": "Black Walnut Tree (Juglans Nigra)",
+        "notes": "Black Walnut Tree (Juglans Nigra)\nhttps://www.nps.gov/places/000/black-walnut-tree-juglans-nigra.htm\n\n<p>Black Walnut<br /> <strong>Juglans nigra</strong><br /> <br /> This tree prefers to grow in woodlands, fields, and streams. Some can grow 70 to 90 feet tall. The black walnut has a compound leaf with 14 leaflets. Seed made by this tree is called a walnut. The nut was a good source of food for Indians, settlers, soldiers and animals that could be stored during the winter. Today, squirrels in the park store these in the ground to eat during the winter. The dark brown wood was a common building material for buildings and furniture. Gunstocks of the soldiers in Fort Smith were made of the wood of this tree. The green hulls of the walnut could be used as a medicine to expel parasites like worms from animals or people. Even the roots of this tree are useful for black dye.    <br /> <br />  </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.429663,
+          35.388707
+        ]
+      },
+      "properties": {
+        "name": "Cannon",
+        "notes": "Cannon\nhttps://www.nps.gov/places/000/cannon.htm\n\n<p>During the Civil War artillery was vital to the defense of the fort if attacked. Fort Smith used a variety of cannons including the 12 pound Napoleon. It was capable of firing a 12 pound ball nearly a mile. This cannon is a replica of one of the cannons left by the military when they abandoned the fort in 1871.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.430446,
+          35.388672
+        ]
+      },
+      "properties": {
+        "name": "Cistern",
+        "notes": "Cistern\nhttps://www.nps.gov/places/000/cistern.htm\n\n<p>Water is the most important necessity of life. For most of the fort's history, officers and their families did not have easy access to water. In 1869, the U.S. Army constructed a dome-shaped cistern (underground storage tank) next to the officers' quarters to make life easier. This allowed them to collect rain water from gutters installed on the roof.<br /> <br /> Under the dome is a storage tank that is 22 feet deep and holds 55,000 gallons of water. It is one of three structures remaining from the second Fort Smith (1846-1871).</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.42977318380937,
+          35.38950180054112
+        ]
+      },
+      "properties": {
+        "name": "Commissary & Frisco Overlook",
+        "notes": "Commissary & Frisco Overlook\nhttps://www.nps.gov/places/commissary-frisco-overlook.htm\n\n<p>These two buildings represent changes in transporting goods, supplies, and people.<br /> <br /> Fort Smith was instrumental in shipping supplies further west using wagons. Each wagon could carry up to 2000 pounds, needing six mules for each. In the late 1860s, the expansion of the railroads meant shipping supplies became more efficient and less expensive. As a result, Fort Smith was no longer needed and closed in 1871.<br /> <br /> Built in 1903 by the St. Louis & San Francisco Railway, the station was an imposing Missouri ashlar limestone structure with a two-story colonnade in front. The ten ornate columns, standard of the Classical Revival style, gave way to a grand entrance. The side entrance was for an excluded class of society - a group of people labeled “colored.” Fort Smith was no different from the rest of the South where segregation was legislated between blacks and whites in public places.<br /> <br /> The Frisco Train Depot remained in operation through the early 1950s.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.429663,
+          35.388451
+        ]
+      },
+      "properties": {
+        "name": "Courthouse and courtroom",
+        "notes": "Courthouse and courtroom\nhttps://www.nps.gov/places/000/courthouse-and-courtroom.htm\n\n<p>Between 1872 and 1896 three judges presided over the largest federal jurisdiction of the time. This courtroom was used from 1872 until 1890.</p> <h4>William Story 1871-1874</h4> <p>William Story (1843-1921) was nominated by President Grant and confirmed on March 3, 1871. In June of 1874, he resigned due to allegations of graft and corruption. He moved to Colorado and served as Lieutenant Governor from 1891 to 1893.</p> <h4>Henry Clay Caldwell 1874-1875</h4> <p>In 1864, Henry Caldwell was nominated and confirmed as the judge for the Western District of Arkansas. In 1871, he was reassigned as judge for the Eastern District of Arkansas. After Judge Story resigned in 1874, Judge Caldwell severed as an interim until Judge Parker arrived in 1875. He remained in Eastern Arkansas until 1890 when he was appointed as Judge to the U.S. Circuit Courts for the Eight Circuit. He was reassigned to the U.S Court of Appeals for the Eighth Circuit in 1891. Judge Henry Clay Caldwell retired on June 4, 1903.</p> <h4>Isaac C. Parker 1875-1896</h4> <p>Isaac Parker was nominated and confirmed as judge for the Western District of Arkansas including Indian Territory in March of 1875. This was his courtroom until 1890 when a new courthouse was built on the corner of 6th and Rogers. He remained in this position until his death on November 17, 1896.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.432798,
+          35.386638
+        ]
+      },
+      "properties": {
+        "name": "Defending Fort Smith",
+        "notes": "Defending Fort Smith\nhttps://www.nps.gov/places/000/defending-fort-smith.htm\n\n<p>Fort Smith was only fired upon one time between 1817 and 1871. On July 31, 1864, cannon fire came from across the Poteau River. What was thought to be an attack on the fort turned out to be a diversion while an while an attack was occurring in another part of the town. The Confederates attempted to capture the city of Fort Smith, but failed. Fort Smith remained under Union control for the rest of the Civil War.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.430596,
+          35.387922
+        ]
+      },
+      "properties": {
+        "name": "Defending Freedom",
+        "notes": "Defending Freedom\nhttps://www.nps.gov/places/000/defending-freedom.htm\n\n<p>The 11th Regiment, United States Colored Troops (USCT) were recruited out of Fort Smith in the fall of 1863, shortly after the Union had captured the post from Confederate forces. Four companies were created on December 19, 1863, with a fifth company in March 1864. They spent most of their time drilling and performing mundane and routine duties such as working on earthwork fortifications that surrounded the town of Fort Smith, serving as guards, and participating in formal dress parades.<br /> <br /> In August 1864, the unit experienced its first real military action. In mid-July the five companies of the 11th USCT, numbering 265 men, moved into Indian Territory. Their assignment was to guard government livestock and cut hay at Gunther's Prairie, 12 miles northwest of Fort Smith. At daybreak on August 24, 300 to 400 Confederate cavalry, both white and Indian, attacked the 11th USCT. The fighting started at 7:30 and continued for two and a half hours. According to military records, for one hour the contest was close and fire almost incessant. The cavalry made three separate charges and were repulsed each time and finally were compelled to retreat. The Confederate losses are unknown but the victorious 11th USCT had 3 men killed and 14 missing or wounded.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.431693,
+          35.390264
+        ]
+      },
+      "properties": {
+        "name": "Desperate for Survival",
+        "notes": "Desperate for Survival\nhttps://www.nps.gov/places/000/desperate-for-survival.htm\n\n<p>The people living in northwest Arkansas suffered as a result of the war. Federal garrisons held the larger towns but the Confederates usually ruled the countryside. Confederate blockades on the Arkansas River limited supplies reaching the area. Farms and homes were destroyed as result of guerrilla warfare. It is estimated that the US government issued as many rations to refugees as they did to Union troops. Thousands believed leaving the area was the only way to survive.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.43225163430908,
+          35.38750501830274
+        ]
+      },
+      "properties": {
+        "name": "Eastern Cottonwood Tree (Populus Deltoides)",
+        "notes": "Eastern Cottonwood Tree (Populus Deltoides)\nhttps://www.nps.gov/places/000/eastern-cottonwood-tree-populus-deltoides.htm\n\n<p>This tree commonly grows near rivers and streams, as it prefers sandy soil. This tree commonly grows 60 to 80 feet tall. The leaves are in the shape of a heart with toothed edges. The seeds of this tree have cotton like consistency, hence the name. The wood in this tree is very soft and easily rots. Therefore, it is a poor building material. However, these trees can grow massive in size within 75 years encouraging some people sell lumber made from this tree. It was important for the soldiers to avoid using this tree since their home would fall apart very quickly and fuel made from its wood did not burn well.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.431206,
+          35.387852
+        ]
+      },
+      "properties": {
+        "name": "Edge of Indian Territory",
+        "notes": "Edge of Indian Territory\nhttps://www.nps.gov/places/000/edge-of-indian-territory.htm\n\n<p>If you stood here in 1825, on your right would have been Arkansas Territory, and on your left, a vast domain traded to the Choctaw Nation for their ancestral lands in the east.<br /> <br /> The Choctaw Treaty of 1825 placed the Indian Territory's Boundary \"one hundred paces east of Fort Smith, and running thence, due south, to the Red River.\" When government surveyors inspected the eastern boundary in 1857, they discovered the original 1825 survey had not run \"due south,\" but slightly southwest. After lengthy deliberation, Federal court officials decided to keep the 1825 boundary and pay the Choctaw Nation $68,102 for the land between the two survey lines.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.43226623535156,
+          35.38734436035156
+        ]
+      },
+      "properties": {
+        "name": "Establishing Fort Smith",
+        "notes": "Establishing Fort Smith\nhttps://www.nps.gov/places/establishing-fort-smith.htm\n\nTwo waysides describing the brief history of the first Fort Smith. From 1817 to 1824, Fort Smith's primary mission was to keep peace between the Osage and the Cherokee. During that time both the Regiment of Riflemen and the 7th Infantry were stationed here.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.432541,
+          35.38744
+        ]
+      },
+      "properties": {
+        "name": "First Fort Blockhouse",
+        "notes": "First Fort Blockhouse\nhttps://www.nps.gov/places/000/first-fort-blockhouse.htm\n\n<p>The blockhouse was a two-story wooden structure meant to help protect against attack. The fort had two blockhouses on opposite corners. All that remains is the foundation.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.43256,
+          35.387685
+        ]
+      },
+      "properties": {
+        "name": "First Fort Smith",
+        "notes": "First Fort Smith\nhttps://www.nps.gov/places/000/first-fort-smith.htm\n\n<p>Soldiers arrived here to begin building the first fort on Christmas Day 1817. Their assignment was to stop the fighting between the long-established Osage and the newly arriving Cherokees to Indian Territory. The first flag to fly over Fort Smith had 15 stars and 15 stripes, one for each state.<br /> <br /> Fort Smith was located on the western edge of the United States at that time. Far removed from other towns and supply resources, the first soldiers had to be self-sufficient during long periods of time between supply shipments. Soldiers abandoned the fort and moved deeper into Indian Territory in 1824 and established Fort Gibson.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.430425,
+          35.388468
+        ]
+      },
+      "properties": {
+        "name": "Flag Pole and Parade Ground",
+        "notes": "Flag Pole and Parade Ground\nhttps://www.nps.gov/places/000/flag-pole-and-parade-ground.htm\n\n<p>From 1846-1871 soldiers trained, drilled, and performed ceremonies on the parade ground making it the center of life at the fort. A quarter mile of sidewalk surrounds the parade ground. <br /> <br /> The flagpole in the center of the parade ground is a reproduction of the original built in 1846. The replica 37-star the final flag known to have been flown by the army here from 1867-71.The U.S. Army built the original flagstaff at the second Fort Smith in 1846. As with many western military posts, the flagstaff stood tall so that its flag could be seen for miles. To attain a height of nearly 100 feet, the flagstaff builders joined two poles in the same way that ship masts were built. Shroud lines attached to crosstrees supported the area where the poles were joined, while guidelines and an underground wooden structure stabilized the base.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.430003,
+          35.389448
+        ]
+      },
+      "properties": {
+        "name": "Fort Smith Commissary",
+        "notes": "Fort Smith Commissary\nhttps://www.nps.gov/places/000/fort-smith-commissary.htm\n\n<p>Built in 1838, the Commissary is the oldest building in Fort Smith. Throughout its nearly two centuries of history, its appearance has changed. Additions like porches were added and taken away. Although originally constructed as a place to store food and supplies, this building has been adapted for many different uses over time.<br /> <br /> Take a close look at the exterior stone walls. Scars left on these stones offer clues to the building's changes over time.</p> <h3>Bastion to Commissary</h3> <p>In 1845, Quartermaster General Thomas Jessup inspected Fort Smith and ordered the fort to be converted into a supply depot. Bastion No.1 became the location of the Commissary. With its new mission, Fort Smith became one of the largest and busiest supply posts in the southwest.</p> <h3> </h3>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.429409,
+          35.389025
+        ]
+      },
+      "properties": {
+        "name": "Fort Smith Guardhouse",
+        "notes": "Fort Smith Guardhouse\nhttps://www.nps.gov/places/000/fort-smith-guardhouse.htm\n\n<h3>Guardhouse 1849-1871</h3> <p>Constructed in 1849, the guardhouse served as the initial check-in point for soldiers, supplies, and visitors to the fort. It was also the place of confinement for soldiers under arrest for offenses like drunkenness, desertion, fighting, and other crimes. After the U.S. Army closed the fort in 1871, the guardhouse was converted to a jail building for the Federal Court, primarily housing women suspected or convicted of federal crimes.</p> <p>While the original building no longer stands, the existing open structure fills most of the space where the guardhouse once stood.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.42822,
+          35.387613
+        ]
+      },
+      "properties": {
+        "name": "Fort Smith Museum of History",
+        "notes": "Fort Smith Museum of History\nhttps://www.nps.gov/places/000/fort-smith-museum-of-history.htm\n\n<p>The mission of the Fort Smith Museum of History is to collect, preserve and share the history and culture of Fort Smith and the surrounding region. </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.429236,
+          35.384053
+        ]
+      },
+      "properties": {
+        "name": "Fort Smith National Cemetery",
+        "notes": "Fort Smith National Cemetery\nhttps://www.nps.gov/places/000/fort-smith-national-cemetery.htm\n\n<p>National Cemetery for veterans from the War of 1812 to present.<br /> It is located a little over three blocks east of Fort Smith National Historic Site on Garland Ave.</p> <h3>Major William Bradford</h3> <p>Served in the War of 1812<br /> First commander of Fort Smith<br /> Buried in Section 2 site 604</p> <h3>Thomas Russell</h3> <p>Surgeon US Army<br /> War of 1812<br /> Surgeon for the Rifle Regiment<br /> Buried in Section 2 site 605</p> <h3>Isaac C. Parker and Mary Parker</h3> <p>Corporal US Army<br /> Congressman<br /> Federal Judge<br /> Buried in Section 9 site 4000<br /> Mary Parker is buried next to her husband in site 3999</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Fort Smith National Historic Site",
+        "notes": "Fort Smith National Historic Site\nhttps://www.nps.gov/places/fort-smith-national-historic-site.htm\n\n<p>Shaped by diverse people and groups—American Indians, soldiers, outlaws, and lawmen— Fort Smith National Historic Site evokes 80 years of turbulent history on the western frontier. At the park you can explore the remnants of two frontier forts, the tragic story of the Trail of Tears, and the historic jail and federal courthouse of Judge Isaac C. Parker. The U.S. military and federal court presence at Fort Smith changed the fate of the region by introducing a new political system, economic structure, and set of rules and social values from which people benefited, adapted to, or perished. Fort Smith National Historic Site provides opportunities to create a dialogue to reflect on the profound impact that the concept of Manifest Destiny and frontier heritage played in the nation’s history and the influence it has had on the fabric of American identity.<br /> <br /> Fort Smith National Historic Site is a landscaped park, interwoven with interpretive opportunities through restored and recreated elements of 19th century history. Fort Smith National Historic Site was authorized on September 13, 1961, and currently encompasses 37 acres within the urban environment of Fort Smith, Arkansas. Much of the park grounds, including the First and Second fort, is a national historic landmark.<br /> <br /> Historically, the landscape and setting were continually modified between 1817 and 1896, directly related to activities associated with the evolving nature and purpose of the site. Between 1897 and 1955, the historic scene and setting was significantly modified by urban development when the property of the fort and federal court were deeded to the City of Fort Smith. Since the late 1950s, the City of Fort Smith and the National Park Service have worked collaboratively to preserve and restore the 19th century historic scene and setting by removing buildings, streets, and other intrusive landscape alterations that occurred at this site in the early 20th century while restoring, replacing, recreating, and marking missing key features of Fort Smith. These improvements help to evoke a feeling and association with the 19th century site history, while at the same time developing the site as an urban greenspace.<br /> <br /> According to historic accounts, when army units first arrived at Belle Point, the land was heavily wooded with several varieties of oak, hickory, and cottonwood trees. Canebrakes occupied low ground along the rivers’ edge. The forests soon disappeared as the trees were cut down to be used as construction material and fuel for the first Fort Smith. Construction of the First Fort Smith was started in 1817 by a detachment of the U.S. Rifle Regiment and was 132 feet square with two blockhouses and many outbuildings. Soldiers cleared land for an 80-acre garden to feed the garrison. One correspondent noted in 1838 that “nearly all remaining timber on the land for near half a mile back” from Belle Point was cut down.<br /> <br /> The distinctive location at Belle Point, the rocky promontory selected by Major Long for the fort site, was a significant intersection of several important trade routes with continued use dating back at least 1,000 years. This site and its associated history is a powerful reminder of natural and cultural interconnectedness and how each affects the other. Beyond the mission endowed by Congress through the park’s enabling legislation, the park establishes common ground where people come together to share in the American experience and formulate a public identity.<br /> <br /> The purpose of the U.S. Army military installation at this location was to protect the expanding sovereign interests and ensure regional influence by the United States of America against other sovereign European nations that laid claim to territory within North America, as well as American Indian sovereign nations. President James Monroe signed treaties with the Cherokee, moving them into Western Arkansas in the 1820s. The First Fort Smith also served as a post to mediate a peaceful coexistence between local Osage Indians and Cherokee Indians who had been resettled there. The Cherokee had clashed severely with the local Osage populations, as well as with American immigrant hunters and squatters who had moved into the region. Through Army efforts, the immigrant squatters were removed from the region and in 1822 the two Indian tribes successfully negotiated a treaty.<br /> <br /> The federal government, after passing the Indian Removal Act of 1830, forcibly removed the Choctaw, Cherokee, Chickasaw, Muscogee (Creek), and Seminole from their ancestral homelands in the Southeast to Indian Territory. Fort Smith is directly associated with the historic events surrounding the removal of many American Indian tribes, both before and following the Indian Removal Act of 1830. Fort Smith National Historic Site and the Trail of Tears National Historic Trail preserve the specific location and physical remnants of a portion of one of the historic American Indian removal routes.<br /> <br /> The overlook site and associated setting provide opportunities for visitors to experience this significant location where key events occurred that were instrumental in the ensuing history. The intrinsic qualities associated with this specific site, as well as the individual stories and related history, are integrally connected and embedded within the landscape. These inherent qualities encourage personal reflection, essential dialogue, and discussion that ultimately engender a greater understanding of these events in our collective history.<br /> <br /> The Second Fort Smith, begun in 1838 a short distance from the site of the First Fort Smith, was garrisoned until 1871. The Fort Smith Commissary received incoming goods such as food, medicine, hay, tents, and uniforms, for distribution to approximately 17 forts. The fort continued in this function until 1861, when peace in the Indian Country, a goal shared by the Army and the Cherokee, Chickasaw, Choctaw, Seminole, and Creek Nations—who were known as “the Five Civilized Tribes”—was shattered by the Civil War.<br /> <br /> A significant “meeting of nations” occurred at Fort Smith in 1865 called the “Council of 1865.” This council was called to address several major issues following the Civil War. Three significant topics were reinstatement of tribal loyalty to the United States by those tribes who supported the Confederacy; additional attempts by the U.S. government to acquire land cessions from various tribes along with rescinding much of their original tribal authority; and the initial naming and establishment of “Oklahoma” as a territory. The tribes did not agree to the initial provisions of the treaty, and the negotiation process continued until 1866 when the treaty was finally signed in Washington, DC. The Treaty of 1866 has had a lasting impact on federal relations and American Indian policy to this day.<br /> <br /> After the fort was abandoned by the military, the U.S. District Court for the Western District of Arkansas, which included jurisdiction within Indian Territory, moved into the facility in 1872.<br /> <br /> By the late 19th century, Social and economic upheaval spread through the territory in the aftermath of the Civil War that created an environment conducive to criminal activity. Judge Isaac C. Parker was appointed to the bench in 1875 and for a few years, Parker’s jurisdiction initially extended over 74,000 square miles—half of Arkansas and all of the Indian Territory. In 21 years Parker tried more than 13,000 cases, sentencing 160 men and women to be executed by hanging. Of those, only 79 men were hanged. The Courthouse/Jail remains today through the initial restoration work of the Fort Smith Public Historical Restorations, Inc.<br /> <br /> <span style=\"font-size: 11pt;\"><strong>African American Soldiers at Fort Smith</strong><br /> Black enlisted Army soldiers helped establish the first Fort Smith in 1817.  </span><span style=\"font-size: 11pt;\">In 1863, the 11</span><sup>th</sup><span style=\"font-size: 11pt;\"> Regiment USCT was recruited after the Union captures the post from Confederate forces. In 1864, the five 11</span><sup>th</sup><span style=\"font-size: 11pt;\"> USCT companies moved into Indian Territory to guard government livestock and operate a hay cutting detail. The confederate cavalry white and Indian, attacked the 11</span><sup>th</sup><span style=\"font-size: 11pt;\">, were repulsed and finally retreated. Afterward, the 11</span><sup>th</sup><span style=\"font-size: 11pt;\"> USCT marched to Fort Gibson and went to Little Rock five months later and became part of the 13</span><sup>th</sup><span style=\"font-size: 11pt;\"> USCT.</span></p> <p>During the Civil War, Bass Reeves escaped his owner, hid in the Indian Territory and learned to track and speak various Indian languages. He worked as a posse for deputy marshals and was hired as deputy marshal. He worked for the Fort Smith Federal Court until 1897 and two other federal courts until 1907. Known as one of the best deputy marshals in the Indian Territory, he was a police officer in Muskogee from 1908 until he died in 1910. Freed by Union Soldiers during the Civil War, George Winston worked for the Union army and they became a waiter in 18657. He joined the 38<sup>th</sup> infantry and in 1872 became a security guard for the Fort Smith Federal Court. He was hired to replace the previous bailiff and was pushed out in 1893 by racist policies. <br /> <br /> <strong>Fort Smith Today</strong><br /> The exact location of the First Fort Smith foundation was unknown until the 1959 test excavation by Clyde Dollar, an archeologist employed by the Department of Defense. The site was excavated in 1963 by the National Park Service for preservation and for viewing by park visitors. Today the foundations of the First Fort Smith are stabilized and accessible to visitors.<br /> <br /> Archeological digs conducted from 1978 to 1985 revealed where major portions of the Second Fort Smith wall existed. Further, Second Fort Smith wall foundations were discovered at the former quartermaster building, an area that is now separated from the remainder of the Second Fort Smith by railroad tracks. The wall foundations were uncovered extending from the east and south sides of the Commissary and in lots that were formerly used for parking by the Speer Hardware Company and the Fort Smith Paper Company.<br /> <br /> Early in 1983, during the monitoring of the Coca-Cola Complex demolition, foundations from the officers’ quarters were also discovered by Dollar and archeologist Roger Coleman. Their findings were documented in the report “Search for Officers’ Row at Fort Smith, Phase One (1982).” In July 1983, the massive support system for the Second Fort Smith flagpole (which stood about 100 feet high) was located under what was formerly Second Street and was partially excavated.<br /> <br /> The historic Frisco Railroad Station (the Frisco), situated north of the Commissary, is within the park’s boundary and listed in the National Register of Historic Places, although for reasons not related to the park’s military and federal court history. Historically there were nine other railroad stations in Fort Smith and today, the Frisco is the only remaining train depot in the city. Completed in 1904, the Frisco was constructed of limestone blocks cut smoothly to resemble grey marble.<br /> <br /> A trail system at Fort Smith National Historic Site provides a contemporary means for visitors to use and enjoy this historic site. Being in an urban setting, the trail system allows visitors to move from the downtown commercial district to the urban greenspace the park provides along the river. By increasing accessibility throughout the park grounds, the visiting public and local members of the community can enjoy the riverfront historic site both for educational and recreational purposes.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.4305694103241,
+          35.38677582922519
+        ]
+      },
+      "properties": {
+        "name": "Fort Smith National Historic Site, the Trail of Tears",
+        "notes": "Fort Smith National Historic Site, the Trail of Tears\nhttps://www.nps.gov/places/fort-smith-national-historic-site-trail-of-tears.htm\n\n<p><strong>Fort Smith </strong>witnessed life on the edge of Indian Territory, and the park tells its stories through the experiences of soldiers, outlaws, and lawmen. For those on the Trail of Tears, it was the last point of federal land before entering Indian Territory.</p> <p>The site has in-depth exhibits about Indian removal. A trail leads visitors to the Arkansas River and an overlook on the river—where the Cherokee on the water route passed just before entering Indian Territory (today’s eastern Oklahoma). Take a little time and reflect on the lives of those that passed this way.</p> <h2>Site Information </h2> <p><strong>Location </strong>(301 Parker Avenue, Fort Smith, AR 72901)<br /> <br /> <em><a href=\"https://www.nps.gov/trte/planyourvisit/safety.htm\">Safety Considerations</a></em></p> <h3><a href=\"https://www.nps.gov/fosm/learn/historyculture/storiestrailoftears.htm\">More Site Information </a></h3> <h2><a href=\"https://www.nps.gov/fosm/index.htm\">Fort Smith National Historic Site</a></h2> <h2><a href=\"https://www.nps.gov/trte/index.htm\">Trail of Tears National Historic Trail</a></h2>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.430081,
+          35.385923
+        ]
+      },
+      "properties": {
+        "name": "Fort Smith Trolley Museum",
+        "notes": "Fort Smith Trolley Museum\nhttps://www.nps.gov/places/000/fort-smith-trolley-museum.htm\n\n<p>Museum dedicated to Fort Smith's early street cars and railroad history. Located one block east of the park on the corner of 4th and Garland.<br />  </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.430773,
+          35.387799
+        ]
+      },
+      "properties": {
+        "name": "Fort Wall",
+        "notes": "Fort Wall\nhttps://www.nps.gov/places/000/fort-wall.htm\n\n<p>The plan for Fort Smith was based on coastal fort design with a stone wall 12 feet high and 2 feet thick. There were five bastions or gun emplacements. This fort was one of the last this style built. The fort wall remained until the 1920s when the city had it destroyed.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.429949158236,
+          35.3899316931986
+        ]
+      },
+      "properties": {
+        "name": "Frisco Train Station",
+        "notes": "Frisco Train Station\nhttps://www.nps.gov/places/000/frisco-train-station.htm\n\n<p>Constructed in 1903, the station served as a passenger and freight depot for the St. Louis-San Francisco Railway Company. It continued to function as a passenger and freight depot until the 1960s.<br /> <br /> The Frisco Railroad Station is a Classical Revival structure of ashlar limestone, quarried and transported from Missouri. The porch roofs at the east, south, and west elevations consist of heavily-bracketed roofs of mission style red clay tiles. When constructed the building featured a north facade portico with a two-story colonnade in front. The ten ornate columns, standard of the Classical Revival style, gave way to a grand entrance for white passengers. This feature was removed and replaced by a contemporary wood portico. The side entrance was for a separated class of people labeled as “colored”. With legislated segregation between blacks and whites in public places, Fort Smith was no different than the rest of the South. In addition to being segregated, blacks were provided with inferior accommodations and fewer amenities.<br /> <br /> The building is closed to the public. </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.430192,
+          35.387571
+        ]
+      },
+      "properties": {
+        "name": "Gallows",
+        "notes": "Gallows\nhttps://www.nps.gov/places/000/gallows.htm\n\n<p>Why execution by hanging? At the time, hanging was considered the most humane method of execution. When done properly, the neck is broken and death comes quickly.<br /> <br /> Murder, rape, treason, and obstruction of an execution were the only federal crimes with an automatic death sentence. In Fort Smith, 81 men were hanged for murder and 5 for rape. Crowds in the thousands came to watch the earlier executions. Two years after Judge Parker arrived, a fence was erected and executions became private. In order to attend an execution, individuals had to get permission from the U.S. Marshal by providing a reason to be there. Those who attended executions included reporters, clergy, medical personnel, and family members of both the victim and the condemned.<br /> <br /> The current gallows are a reproduction based on images and historic records. The original gallows was destroyed by the city of Fort Smith in 1897. It was deemed no longer necessary due to changes in the Federal Court's jurisdiction.</p> <h3>Executions 1873 - 1879</h3> <h4>August 15, 1873</h4> <p>John Childers</p> <h4>October 10, 1873</h4> <p>Tunagee, alias Tuni Young Wolf</p> <h4>April 3, 1874</h4> <p>John Billy<br /> Isaac Filmore<br /> John Pointer</p> <h4>January 15, 1875</h4> <p>McClish Impson</p> <h4>September 3, 1875</h4> <p><em>First execution under the tenure of Judge Isaac Parker.</em><br /> Edmund Campbell<br /> Daniel Evans<br /> Samuel Fooy<br /> Smoker Mankiller<br /> James Moore<br /> William Whittington</p> <h4>April 21, 1876</h4> <p>Gibson Ishtanubbee<br /> William Leach<br /> Orpheus McGee<br /> Isham Seeley<br /> Aaron Wilson</p> <h4>September 8, 1876</h4> <p>Samuel Peters<br /> Osey Sanders<br /> John Valley<br /> Sinker Wilson</p> <h4>December 20, 1878</h4> <p>James Diggs<br /> John Postoak</p> <h4>August 29, 1879</h4> <p>William Elliot Wiley, alias Colorado Bill<br /> Dr. Henri Stewart<br />  </p> <h3>Executions 1880 - 1889</h3> <h4>September 9, 1881</h4> <p>William Brown<br /> Abler Manley<br /> Amos Manley<br /> Patrick McGowen<br /> George W. Padgett</p> <h4>June 30, 1882</h4> <p>Edward Fulsom</p> <h4>April 13, 1883</h4> <p>Robert Massey</p> <h4>June 29, 1883</h4> <p>William Finch<br /> Martin Joseph<br /> Te-o-lit-se</p> <h4>July 11, 1884</h4> <p>John Davis<br /> Thomas Thompson<br /> Jack Womankiller</p> <h4>April 17, 1885</h4> <p>William Phillips</p> <h4>June 26, 1885</h4> <p>James Arcine<br /> William Parchmeal</p> <h4>April 23, 1886</h4> <p>Joseph Jackson<br /> James Wasson</p> <h4>July 23, 1886</h4> <p>Calvin James<br /> Lincoln Sprole</p> <h4>August 6, 1886</h4> <p>Kitt Ross</p> <h4>January 14, 1887</h4> <p>John T. Echols<br /> James Lamb<br /> Albert O'Dell<br /> John Stephens</p> <h4>April 8, 1887</h4> <p>Patrick McCarty</p> <h4>October 7, 1887</h4> <p>Seaborn Kalijah, alias Seaborn Green<br /> Silas Hampton</p> <h4>April 27, 1888</h4> <p>Jackson Crow<br /> Owen Hill<br /> George Moss</p> <h4>July 6, 1888</h4> <p>Gus Bogles</p> <h4>January 25, 1889</h4> <p>Richard Smith</p> <h4>April 19, 1889</h4> <p>Malachi Allen<br /> James Mills</p> <h4>August 30, 1889</h4> <p>Jack Spaniard<br /> William Walker<br />  </p> <h3>Executions 1890 - 1896</h3> <h4>January 16, 1890</h4> <p>Harris Austin<br /> John Billy<br /> Jimmon Burris<br /> Sam Goin<br /> Jefferson Jones<br /> Thomas Willis</p> <h4>January 30, 1890</h4> <p>George Tobler</p> <h4>July 9, 1890</h4> <p>John Stansberry</p> <h4>June 30, 1891</h4> <p>Boudinot Crumpton, alias Bood Burris</p> <h4>April 27, 1892</h4> <p>Sheppard Busby</p> <h4>June 28, 1892</h4> <p>John Thornton</p> <h4>July 25, 1894</h4> <p>Lewis Holder</p> <h4>September 20, 1894</h4> <p>John Pointer</p> <h4>March 17, 1896</h4> <p>Crawford Goldsby, alias Cherokee Bill</p> <h4>April 30, 1896</h4> <p>Webber Isaacs<br /> George Pierce<br /> John Pierce</p> <h4>July 1, 1896 </h4> <p><em>The only men to be executed at Fort Smith for rape.</em><br /> Rufus Buck<br /> Lewis Davis<br /> Lucky Davis<br /> Maoma July<br /> Sam Sampson</p> <h4>July 30, 1896</h4> <p>George Wilson, alias James Casherago</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.431275411116,
+          35.3882149299288
+        ]
+      },
+      "properties": {
+        "name": "Initial Point Marker and Quartermaster's Storehouse",
+        "notes": "Initial Point Marker and Quartermaster's Storehouse\nhttps://www.nps.gov/places/000/initial-point-marker-and-quartermasters-storehouse.htm\n\n<p>The quartermaster's storehouse was built on top of bastion #2. This was where soldier's were issued clothing and equipment. The building was destroyed in 1884 to make way for the railroad. Nearby is the initial point marker for the boundary survey to determine the border between Arkansas and Choctaw Indian Territory.<br /> Not accessible for individuals using wheelchairs or similar mobility devices. </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.42998949065804,
+          35.38957886122126
+        ]
+      },
+      "properties": {
+        "name": "Interior Fort Smith Commissary",
+        "notes": "Interior Fort Smith Commissary\nhttps://www.nps.gov/places/interior-fort-smith-commissary.htm\n\n<p>The Commissary building has served many uses since its construction in the 1838. Each successive owner modified the building to meet the demands of changing times. At the end of the 1800’s, after the Federal Court no longer needed it, the Commissary building was sold to a private owner. During this time, the massive stone walls of the second fort were dismantled and sold to local citizens.<br /> <br /> In 1910, a ladies’ group acted to save the Commissary as a place to preserve the community’s heritage. The Old Commissary Museum (later known as the Old Fort Museum) occupied the building for nearly seventy years, longer than either the army or the Federal Court. In the 1980’s, the National Park Service continued the restoration work begun by the museum. Throughout its early restoration, the Commissary served as the seed of historic preservation in Fort Smith.</p> <h3>Judge Parker's Office</h3> <p>From 1875 - 1890, Federal Judge Isaac C. Parker's office was on the second floor of the building. It is thought that his office was on the north side of the building looking toward where the bridge is today.</p> <h3>Home Sweet Home</h3> <p>The Hammersly family used the first floor as their home from 1890-1896. They divided the room to accommodate the family of six. Jacob Hammersly was the Court Crier and his daughter Florence was a Deputy Court Clerk for Judge Parker.</p> <h3>Old Commissary Museum</h3> <p>In 1910, the Old Commissary Museum was established, saving the building from demolition. The museum remained at this site until 1979, when it moved one block east to the Atkinson-Williams Warehouse. The name also changed to the Fort Smith Museum of History.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.42712,
+          35.386251
+        ]
+      },
+      "properties": {
+        "name": "Isaac C. Parker Federal Courthouse",
+        "notes": "Isaac C. Parker Federal Courthouse\nhttps://www.nps.gov/places/000/isaac-c-parker-federal-courthouse.htm\n\n<p>Named for Judge Isaac C. Parker, and is the current federal courthouse for the Western District of Arkansas. Built in 1937, replacing the previous federal courthouse and post office that stood from 1889 - 1836.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.43231201171875,
+          35.387306213378906
+        ]
+      },
+      "properties": {
+        "name": "Major Long Surveys the Western Frontier",
+        "notes": "Major Long Surveys the Western Frontier\nhttps://www.nps.gov/places/000/major-long-surveys-the-western-frontier.htm\n\n<p>During the War of 1812, Stephen H. Long worked as a civil engineer on the harbor defenses for New York City. He was commissioned a second lieutenant and assigned to duty as assistant professor of mathematics at the United States Military Academy at West Point in 1814. Long requested and was granted an appointment to the Corp. of Topographical Engineers.<br /> His first expedition in surveyed Illinois River and around the Great Lakes. In the fall of 1817, Long was ordered to survey along the Arkansas River where he selected the site for and developed plan for the building of Fort Smith, to help in quashing the hostilities between the Osage and Cherokee tribes. Part of Long's report of that period was the recommendation of building new forts along the frontier and at the same time strengthening those forts already in existence.<br />  </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.429883,
+          35.388392
+        ]
+      },
+      "properties": {
+        "name": "Meeting of Nations",
+        "notes": "Meeting of Nations\nhttps://www.nps.gov/places/000/meeting-of-nations.htm\n\n<p>After the Civil War ended, the U.S Government treated all Native American Tribes as if they were a defeated enemy. The Council of 1865 at Fort Smith was a meeting of different tribal and U.S. Government representatives to establish tribes' current status, freeing their slaves, and their disposition property.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.428944,
+          35.388186
+        ]
+      },
+      "properties": {
+        "name": "Memorial Wall",
+        "notes": "Memorial Wall\nhttps://www.nps.gov/places/000/memorial-wall.htm\n\n<p>The wall surround the second Fort Smith was 12 feet high and 2 feet thick with port holes about 4 feet apart. The main buildings in the enclosure were the commissary, two officers' quarters, the quarter-master's office. This section of the fort wall was built in 1930 using stone from the the original fort wall.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.429183,
+          35.39207
+        ]
+      },
+      "properties": {
+        "name": "Miss Laura's Visitor Center",
+        "notes": "Miss Laura's Visitor Center\nhttps://www.nps.gov/places/000/miss-lauras-visitor-center.htm\n\n<p>Fort Smith's official welcome center. Miss Laura's is a former bordello and tours of the restored Victorian mansion are available. Miss Laura's is two blocks north of the park.<br />  </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.430395,
+          35.389008
+        ]
+      },
+      "properties": {
+        "name": "Officers' Garden",
+        "notes": "Officers' Garden\nhttps://www.nps.gov/places/000/officers-garden.htm\n\n<p>A soldier's diet consisted of mostly canned and preserved foods. To supplement their diet the officers' wives and children tended a garden to grow fresh vegetables and herbs used for seasoning and medicinal purposes. The officers' garden is a re-creation of the 1860's garden. It is currently being maintained with the assistance of Fort Smith Master Gardners.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.433029,
+          35.387016
+        ]
+      },
+      "properties": {
+        "name": "Osage Nation",
+        "notes": "Osage Nation\nhttps://www.nps.gov/places/000/osage-nation.htm\n\n<p>The Osage claimed this area as part of their homeland and hunting grounds. When the United States bought the Louisiana Purchase in 1803, they claimed the area and started working on treaties to acquire the land from the Osage. Over a period of 72 years, the Osage were forced through various treaties to surrender a majority of their homeland.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.432066,
+          35.386632
+        ]
+      },
+      "properties": {
+        "name": "Paw Paw Tree (Asimina Trilba)",
+        "notes": "Paw Paw Tree (Asimina Trilba)\nhttps://www.nps.gov/places/000/paw-paw-tree-asimina-trilba.htm\n\n<p>This tree prefers to grow under larger trees for protection, so it only grows up to 25 feet tall. The leaves are long and elliptical with smooth edges. The seeds of the tree are inside the fruit it bears. The fruit ripens in September or October and is a good source of vitamin C. It had a taste of banana and pear that earned it the name poor man’s banana. This would have been a welcome treat by settlers, soldiers, and Indians. The wood has no known uses, but its fibrous inner bark was useful.  Indians used the bark as string for fishing, repair nets, or to weave into cloth. Today this tree is commonly found in elevated parts of Arkansas like Mount Magazine. </p> <p> </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.432047,
+          35.389494
+        ]
+      },
+      "properties": {
+        "name": "Pecan Tree (Carya Illinoinensis)",
+        "notes": "Pecan Tree (Carya Illinoinensis)\nhttps://www.nps.gov/places/000/pecan-tree-carya-illinoinensis.htm\n\n<p>This tree prefers to grow in sandy soil along rivers and in hardwood forests. It can grow 100 to 140 feet tall. The compound leaves can grow nine to seventeen toothed leaflets. The Pecan is a member of the Hickory family with similar uses. The nut of this tree was a valuable to settlers, soldiers and Indians and could be stored through the winter. The squirrels in the park love to collect these for a tasty meal. Because of its strong wood, it was used for gunstocks, wagons, and tool handles. The Osage Indians used young trees from the hickory family to build their long houses. Even the pillars in Judge Parker’s courtroom are made of pecan wood</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.432739,
+          35.387581
+        ]
+      },
+      "properties": {
+        "name": "Pioneering Solders",
+        "notes": "Pioneering Solders\nhttps://www.nps.gov/places/000/pioneering-solders.htm\n\n<p>When soldiers of the Rifle Regiment arrived in 1817, their mission was to establish peace between the Osage and the Cherokee. Along with their military duties, soldiers were responsible for hunting, gardening, and building the fort.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.43264,
+          35.387814
+        ]
+      },
+      "properties": {
+        "name": "Request Denied",
+        "notes": "Request Denied\nhttps://www.nps.gov/places/000/request-denied.htm\n\n<p>In April 1821, Osage Chief Mad Buffalo and 400 warriors wanted to obtain gun powder from Fort Smith. Acting commander Lt. Martin Scott refused to give them any. The Osage acted like they were going to attack the fort hoping to scare the soldiers. The soldiers did not back down.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.430312,
+          35.392024
+        ]
+      },
+      "properties": {
+        "name": "River Front Park",
+        "notes": "River Front Park\nhttps://www.nps.gov/places/000/river-front-park.htm\n\n<p>The Riverfront Park is adjacent to the north end of the park along the Arkansas River. The amphitheater hosts concerts and other events. North of the amphitheater is a skate and bike park and access to the Greg Smith River Trail. A five-mile multi-use paved trail.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.430231,
+          35.388862
+        ]
+      },
+      "properties": {
+        "name": "Second Fort Smith Officers Quarters (North)",
+        "notes": "Second Fort Smith Officers Quarters (North)\nhttps://www.nps.gov/places/000/second-fort-smith-officers-quarters-north.htm\n\n<p>The north end officer's quarters was completed in 1852. The building had four apartments with each apartment having four 19 ft x 16 ft rooms. Construction of this officer's quarters building was supervised by the Quartermaster Department and was considered of better quality than the Southern quarters. It was destroyed by a fire in 1870. Lack of housing for officers was one of the reasons for the military closing Fort Smith in 1871.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.43066403858373,
+          35.388345741933314
+        ]
+      },
+      "properties": {
+        "name": "Second Fort Smith Officers Quarters (South)",
+        "notes": "Second Fort Smith Officers Quarters (South)\nhttps://www.nps.gov/places/000/second-fort-smith-officers-quarters-south.htm\n\n<p>The south end officer's quarters was completed in 1852. The building had four apartments, each apartment having four 19 ft x 16 ft rooms. The building at this site was built by a contractor and was considered of poor quality and in constant need of repairs. It was destroyed by a fire in 1867.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.430183,
+          35.388129
+        ]
+      },
+      "properties": {
+        "name": "War Begins",
+        "notes": "War Begins\nhttps://www.nps.gov/places/000/war-begins.htm\n\n<p>In April 1861, the Union forces abandoned Fort Smith and the next day Arkansas State militia took control of the fort. Confederates remained at Fort Smith until September 1863. Both times the fort changed hands no shots were fired.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.429466,
+          35.389153
+        ]
+      },
+      "properties": {
+        "name": "Welcome to Fort Smith - North Entrance",
+        "notes": "Welcome to Fort Smith - North Entrance\nhttps://www.nps.gov/places/000/welcome-to-fort-smith-north-entrance.htm\n\n<p>Welcome to Fort Smith National Historic Site. Established on December 25, 1817 and situated on the edge of the Western Frontier, Fort Smith represented federal law and order in Indian Territory. Here you can explore the foundations of the original Fort Smith on the banks of the Arkansas River, stroll around the parade ground where soldiers trained, visit the oldest standing building in Fort Smith, and see the courtroom where federal judges presided over the Western District of Arkansas and Indian Territory.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.428901,
+          35.388204
+        ]
+      },
+      "properties": {
+        "name": "Welcome to Fort Smith - Northeast Entrance",
+        "notes": "Welcome to Fort Smith - Northeast Entrance\nhttps://www.nps.gov/places/000/welcome-to-fort-smith-northeast-entrance.htm\n\n<p>Welcome to Fort Smith National Historic Site. Established on December 25, 1817 and situated on the edge of the Western Frontier, Fort Smith represented federal law and order in Indian Territory. Here you can explore the foundations of the original Fort Smith on the banks of the Arkansas River, stroll around the parade ground where soldiers trained, visit the oldest standing building in Fort Smith, and see the courtroom where federal judges presided over the Western District of Arkansas and Indian Territory.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.430854,
+          35.387664
+        ]
+      },
+      "properties": {
+        "name": "Welcome to Fort Smith - South Entrance",
+        "notes": "Welcome to Fort Smith - South Entrance\nhttps://www.nps.gov/places/000/welcome-to-fort-smith-south-entrance.htm\n\n<p>Welcome to Fort Smith National Historic Site. Established on December 25, 1817 and situated on the edge of the Western Frontier, Fort Smith represented federal law and order in Indian Territory. Here you can explore the foundations of the original Fort Smith on the banks of the Arkansas River, stroll around the parade ground where soldiers trained, visit the oldest standing building in Fort Smith, and see the courtroom where federal judges presided over the Western District of Arkansas and Indian Territory.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.429566,
+          35.387583
+        ]
+      },
+      "properties": {
+        "name": "Welcome to Fort Smith - Southeast Entrance",
+        "notes": "Welcome to Fort Smith - Southeast Entrance\nhttps://www.nps.gov/places/000/welcome-to-fort-smith-southeast-entrance.htm\n\n<p>Welcome to Fort Smith National Historic Site. Established on December 25, 1817 and situated on the edge of the Western Frontier, Fort Smith represented federal law and order in Indian Territory. Here you can explore the foundations of the original Fort Smith on the banks of the Arkansas River, stroll around the parade ground where soldiers trained, visit the oldest standing building in Fort Smith, and see the courtroom where federal judges presided over the Western District of Arkansas and Indian Territory.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.431625,
+          35.388069
+        ]
+      },
+      "properties": {
+        "name": "Whiskey War",
+        "notes": "Whiskey War\nhttps://www.nps.gov/places/000/whiskey-war.htm\n\n<p>100 years before Prohibition, it was illegal to sell whiskey to soldiers and Native Americans. These laws did not stop tavern owners in the growing community of Fort Smith. Captain Stuart and the 7th Infantry were tasked with enforcing those laws. During a violent confrontation, Captain Stuart was severely beaten by the Bigelow brothers, owners of one of the taverns. That night soldiers took revenge. </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.43304,
+          35.38837
+        ]
+      },
+      "properties": {
+        "name": "White Oak Tree (Quercus Alba)",
+        "notes": "White Oak Tree (Quercus Alba)\nhttps://www.nps.gov/places/000/white-oak-tree-quercus-alba.htm\n\n<p>This tree prefers well-drained bottomlands and woodland. It can grow 80 to 100 feet tall is known to live up to 500 years. The leaves have 5-7 rounded lobes. The light grey bark was used by the Cherokee to relieve the pain of a toothache. The seeds of the tree are called acorns. Indians across America used acorns for making bread. The acorn of this particular oak was preferred by both humans and animals because it is less bitter than those of other oaks. Though soldiers did not typically eat acorns, they hunted the birds, bear, deer, and squirrel that did. Therefore, acorns assisted in the soldier’s survival by feeding the animals they relied on for food. Unlike most trees, the wood can be used to contain liquid. Therefore, it was often used for barrels, canteens, houses, and boats. The keel boats that the soldiers arrived in were probably made of the white oak. This tree is even a symbol of American independence and can be seen on the back of the Connecticut state quarter.  <br />  </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.429302,
+          35.388955
+        ]
+      },
+      "properties": {
+        "name": "Women's Jail",
+        "notes": "Women's Jail\nhttps://www.nps.gov/places/women-s-jail.htm\n\nAfter the U.S. Army closed Fort Smith in 1871, the Federal Court converted the guardhouse into a jail for women. Crimes committed by women ranged from the illegal sale of whiskey to murder. When convicted, they received the same sentences as men - fines, jail time, or death by hanging. Although four women were sentenced to hang, none were executed at Fort Smith. If a female prisoner with a child had no family or friends to take care of them, the child was imprisoned as well. We know of at least two children who served time with their mothers. During the day, the children were allowed to play on the grounds.",
+        "icon": "red-pin-down.png"
+      }
+    }
+  ]
+}

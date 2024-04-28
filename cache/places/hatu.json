@@ -1,0 +1,339 @@
+[
+  {
+    "id": "098090CF-5F58-4211-A920-A4DD38876F6A",
+    "url": "https://www.nps.gov/places/harriet-tubman-underground-railroad-visitor-center.htm",
+    "title": "Harriet Tubman Underground Railroad Visitor Center",
+    "listingDescription": "Harriet Tubman’s developmental years were spent along the Eastern Shore and her first acts of resistance occurred in Church Creek, Maryland. The Harriet Tubman Visitor Center is set against Church Creek’s coastal and marshy environment with two second story, front gable buildings that house a permanent exhibit that describes Tubman’s legacy and other exhibits that focus on Underground Railroad experiences from a regional perspective.",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/B768FD0A-927D-4309-32FBEAD2AACE88B4.jpeg",
+        "credit": "NPS Photo",
+        "altText": "A building with three pitched roofs and a flat roof, surrounded by grass and trees in the background",
+        "title": "Harriet Tubman Visitor Center",
+        "description": "",
+        "caption": "Harriet Tubman Underground Railroad Visitor Center",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/B768FD0A-927D-4309-32FBEAD2AACE88B4.jpeg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/B768FD0A-927D-4309-32FBEAD2AACE88B4.jpeg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "MD",
+        "parkCode": "hatu",
+        "designation": "National Historical Park",
+        "fullName": "Harriet Tubman Underground Railroad National Historical Park",
+        "url": "https://www.nps.gov/hatu/index.htm",
+        "name": "Harriet Tubman Underground Railroad"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [
+      "women",
+      "history",
+      "Slavery",
+      "Freedom",
+      "hardship",
+      "African America History",
+      "suffrage",
+      "Civil War",
+      "Underground Railroad",
+      "Abolition Movement",
+      "landscap",
+      "Harriet Tubman"
+    ],
+    "latitude": "38.44945766542416",
+    "longitude": "-76.13791465759277",
+    "latLong": "38.44945766542416,-76.13791465759277",
+    "bodyText": "<p>Welcome to the Harriet Tubman Underground Railroad Visitor Center in scenic and historic Church Creek, Maryland. The center is managed through a partnership between the National Park Service and Maryland State Parks. The exhibit building is the primary destination for visitors.It features a permanent exhibit that focuses on Tubman's life, including her formative years in Maryland's Eastern Shore, and a short introductory movie about her life. The museum also contains exhibits featuring the Underground Railroad resistance movement from a regional perspective. There is also a museum store, information desk, and research library located within visitor center.</p> <p>For more information on other Underground Railroad and Harriet Tubman related sites, please visit the <a href=\"https://dnr.maryland.gov/publiclands/pages/eastern/tubman.aspx\">Harriet Tubman Underground Railroad State Park</a>, <a href=\"https://www.nps.gov/subjects/undergroundrailroad/network-to-freedom.htm\">National Underground Railroad Network to Freedom Program</a> and <a href=\"https://harriettubmanbyway.org/\">Harriet Tubman Byway</a>. </p>",
+    "audioDescription": "A building with three pitched roofs and one flat roof. The first portion of the building is lined in red cedar. To the left of the wooden section, the following two sections are lined in zinc. The last section with the flat roof is lined in glass. The land on either side of the building is flat with manicured grass and a line of trees can be seen in the background.",
+    "isPassportStampLocation": "1",
+    "passportStampLocationDescription": "Passport stamps are located inside the Eastern National Book Store.",
+    "passportStampImages": [
+      {
+        "credit": "",
+        "description": "",
+        "crops": [
+          {
+            "aspectRatio": 1,
+            "url": "https://www.nps.gov/common/uploads/passport_stamps/primary/92AB1C47-EAB5-F18B-52620C903D3ED918.jpg"
+          }
+        ],
+        "altText": "Harriet Tubman 19th Amendment stamp",
+        "title": "Harriet Tubman 19th Amendment stamp",
+        "caption": "",
+        "url": "https://www.nps.gov/common/uploads/passport_stamps/92AB1C47-EAB5-F18B-52620C903D3ED918.jpg"
+      },
+      {
+        "credit": "",
+        "description": "",
+        "crops": [
+          {
+            "aspectRatio": 1,
+            "url": "https://www.nps.gov/common/uploads/passport_stamps/primary/929A99ED-CEAE-C24A-350A1FC0ADF50EA5.jpg"
+          }
+        ],
+        "altText": "Harriet Tubman Underground Railroad National Historical Park Network to Freedom",
+        "title": "Harriet Tubman UGRR NHP",
+        "caption": "",
+        "url": "https://www.nps.gov/common/uploads/passport_stamps/929A99ED-CEAE-C24A-350A1FC0ADF50EA5.jpg"
+      },
+      {
+        "credit": "",
+        "description": "",
+        "crops": [
+          {
+            "aspectRatio": 1,
+            "url": "https://www.nps.gov/common/uploads/passport_stamps/primary/92873407-A51C-C74F-4AC84CB68DD2B2C6.jpg"
+          }
+        ],
+        "altText": "The Harriet Tubman Underground Railroad park stamp",
+        "title": "Tubman Stamp",
+        "caption": "",
+        "url": "https://www.nps.gov/common/uploads/passport_stamps/92873407-A51C-C74F-4AC84CB68DD2B2C6.jpg"
+      },
+      {
+        "credit": "",
+        "description": "",
+        "crops": [
+          {
+            "aspectRatio": 1,
+            "url": "https://www.nps.gov/common/uploads/passport_stamps/primary/928FB40C-DD99-5522-B9F26E2058E21144.jpg"
+          }
+        ],
+        "altText": "National Underground Railroad Network to Freedom Stamp",
+        "title": "Network to Freedom Stamp",
+        "caption": "",
+        "url": "https://www.nps.gov/common/uploads/passport_stamps/928FB40C-DD99-5522-B9F26E2058E21144.jpg"
+      }
+    ],
+    "managedByUrl": "https://www.nps.gov/hatu/index.htm",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "",
+    "isManagedByNps": "1",
+    "amenities": [
+      "Automated Entrance",
+      "Automated External Defibrillator (AED)",
+      "Baby Changing Station",
+      "Benches/Seating",
+      "Bicycle - Rack",
+      "Captioned Media",
+      "Electric Car Charging Station",
+      "Fire Extinguisher",
+      "First Aid Kit Available",
+      "First Aid/Medical Care Available",
+      "Gifts/Souvenirs/Books",
+      "Historical/Interpretive Information/Exhibits",
+      "Information",
+      "Information - Maps Available",
+      "Information - Ranger/Staff Member Present",
+      "Internet/WiFi Available",
+      "Junior Ranger Booklet Available",
+      "Open Captioning",
+      "Parking - Auto",
+      "Parking - Bus/RV",
+      "Restroom",
+      "Restroom - Accessible",
+      "Restroom - Family",
+      "Tactile Exhibit",
+      "Toilet - Flush",
+      "Water - Drinking/Potable",
+      "Wheelchair Accessible",
+      "Wheelchairs Available"
+    ],
+    "managedByOrg": "National Park Service and Maryland State Parks",
+    "quickFacts": [
+      {
+        "id": "5C252B96-2DEB-4EF4-91D1-B5D2B202FCD7",
+        "value": "Church Creek, Maryland",
+        "name": "Location"
+      },
+      {
+        "id": "208F1B3C-44DC-4CF5-9A61-9B26A364D701",
+        "value": "Near other significant Harriet Tubman Sites  ",
+        "name": "Significance"
+      },
+      {
+        "id": "E32D2136-A184-4C1A-91D2-4C20CEF9CBAF",
+        "value": "National Historical Park",
+        "name": "Designation"
+      }
+    ],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  },
+  {
+    "id": "8A184A3F-FBCD-482F-A09D-A790F5B8AE3D",
+    "url": "https://www.nps.gov/places/crnurr.htm",
+    "title": "The National Underground Railroad Network to Freedom",
+    "listingDescription": "The National Underground Railroad Network to Freedom The Underground Railroad – the resistance to enslavement through escape and flight through the end of the civil war – refers to the efforts of enslaved African Americans to gain their freedom by escaping bondage.",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/places/images/nri/20130826/siteadmin/54CABCD0-036A-4D82-A250CF4DDAAF6712/54CABCD0-036A-4D82-A250CF4DDAAF6712.jpg",
+        "credit": "National Park Service",
+        "altText": "a silhouette of a woman sitting alongside a southern plantation in louisiana and an african bust",
+        "title": "",
+        "description": "",
+        "caption": "",
+        "crops": []
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "MD",
+        "parkCode": "hatu",
+        "designation": "National Historical Park",
+        "fullName": "Harriet Tubman Underground Railroad National Historical Park",
+        "url": "https://www.nps.gov/hatu/index.htm",
+        "name": "Harriet Tubman Underground Railroad"
+      },
+      {
+        "states": "AL",
+        "parkCode": "tuai",
+        "designation": "National Historic Site",
+        "fullName": "Tuskegee Airmen National Historic Site",
+        "url": "https://www.nps.gov/tuai/index.htm",
+        "name": "Tuskegee Airmen"
+      },
+      {
+        "states": "AL",
+        "parkCode": "tuin",
+        "designation": "National Historic Site",
+        "fullName": "Tuskegee Institute National Historic Site",
+        "url": "https://www.nps.gov/tuin/index.htm",
+        "name": "Tuskegee Institute"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [
+      "Civil Rights",
+      "Underground Railroad"
+    ],
+    "latitude": "",
+    "longitude": "",
+    "latLong": "",
+    "bodyText": "<p>The Underground Railroad – the resistance to enslavement through escape and flight through the end of the civil war – refers to the efforts of enslaved African Americans to gain their freedom by escaping bondage. Wherever slavery existed, there were efforts to escape at first communities in rugged terrain away from settled areas, and later across state and international borders. While most began and completed their journeys unassisted, each subsequent decade in which slavery was legal in the US saw an increase in active efforts to assist escape. The decision to assist a freedom seeker may have ben spontaneous. However, in some places, particularly after the Fugitive Slave Act of 1850, the Underground Railroad was deliberate and organized.</p> <p><br /> The National Underground Railroad Network to Freedom commemorates the stories of the men and women who risked everything for freedom and those who helped them. The Network to Freedom, through shared leadership with local, state, and federal entities, as well as interested individuals and organizations, programs and partnerships to commemorate and educate the public about historical significance of the Underground Railroad.</p> <p>The Underground Railroad extended through the Civil War as thousands of enslaved African Americans used the opportunity of approaching Union forces to escape and seek protection in contraband camps. Many of the men subsequently enlisted in the US Colored Troops and served as soldiers or sailors during the war. </p> <p>Visit the National Underground Railroad Network to Freedom <a href=\"https://www.nps.gov/ugrr/\">website</a>.</p> <p> </p> <p> </p> <p> </p>",
+    "audioDescription": "",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "",
+    "isOpenToPublic": "0",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "",
+    "isManagedByNps": "0",
+    "amenities": [],
+    "managedByOrg": "",
+    "quickFacts": [],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  },
+  {
+    "id": "C8C67448-8150-4F25-8208-AB310D0DB744",
+    "url": "https://www.nps.gov/places/tubman-garrett-riverfront-park.htm",
+    "title": "Tubman-Garrett Riverfront Park",
+    "listingDescription": "Tubman-Garrett Riverfront Park and sculpture commemorate the trust and friendship between Quaker, Thomas Garrett, and Harriet Tubman during their most critical collaborations from about 1854 through 1860.",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/58BAD4DC-B660-653B-F17F5E7483BD5871.jpg",
+        "credit": "Greater Wilmington Convention and Visitors Bureau",
+        "altText": "Harriet Tubman hold a baby in her arms as Thomas Garrett, at her side holds a lantern.",
+        "title": "The Tubman-Garrett Riverfront Park",
+        "description": "",
+        "caption": "The Tubman-Garrett Statute of Wilmington",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/58BAD4DC-B660-653B-F17F5E7483BD5871.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/58BAD4DC-B660-653B-F17F5E7483BD5871.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "MD",
+        "parkCode": "hatu",
+        "designation": "National Historical Park",
+        "fullName": "Harriet Tubman Underground Railroad National Historical Park",
+        "url": "https://www.nps.gov/hatu/index.htm",
+        "name": "Harriet Tubman Underground Railroad"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [
+      "Harriet Tubman",
+      "Tubman200",
+      "Underground Railroad",
+      "network to freedom members",
+      "National Underground Railroad Network to Freedom",
+      "Network to Freedom",
+      "John Brown"
+    ],
+    "latitude": "39.73646528587883",
+    "longitude": "-75.55250644683838",
+    "latLong": "39.73646528587883,-75.55250644683838",
+    "bodyText": "<p paraeid=\"{51c3cf46-aa2c-46b3-ba9b-7cb8106669f5}{222}\" paraid=\"1392055742\">Tubman-Garrett Riverfront Park honors two friends and collaborators of the Underground Railroad, Harriet Tubman and Thomas Garrett. <br /> Born in Upper Darby, Pennsylvania in 1789, Garrett moved to Wilmington in the 1820s and immediately began to assist enslaved and free people of color. He became known as “stationmaster” and, according to biographer James McGowan, assisted about 2,300 enslaved people to freedom over four decades. Garrett’s extensive family ties and connections with Black Underground Railroad operatives across Southeastern Pennsylvania proved essential to Wilmington’s Underground Railroad network. A member of the Society of Friends, Garrett served as the inspiration for the Quaker character, Simeon Halliday, in Harriet Beecher Stowe’s pivotal novel, Uncle Tom’s Cabin. </p> <p paraeid=\"{51c3cf46-aa2c-46b3-ba9b-7cb8106669f5}{234}\" paraid=\"969960482\">By the time that Tubman claimed her freedom, Garrett had lost his personal wealth in federal civil suits <a href=\"https://history.delaware.gov/flight-to-freedom/\">related to the escape of the Hawkins family in 1845</a>. Whether Tubman heard of this prior to meeting him is unknown. </p> <p paraeid=\"{51c3cf46-aa2c-46b3-ba9b-7cb8106669f5}{249}\" paraid=\"850420061\">Tubman and Garrett worked together from about 1854 until 1860, as documented in Garrett’s surviving letters. He raised money to aid Tubman’s missions and supported her in his home. When Tubman rescued her parents, she entrusted them to Garrett’s care until she could follow. Both Tubman and Garrett shared a deep connection to faith and commitment to humanitarian activism. In 1868 Garrett wrote to Sarah Bradford of Tubman:  </p> <blockquote> <p paraeid=\"{51c3cf46-aa2c-46b3-ba9b-7cb8106669f5}{253}\" paraid=\"2022514260\">I never met with a person, of any color, who had more confidence in the voice of God, as spoken direct to her soul. She has frequently told me that she talked with God, and he talked with her every day of her life, and she has declared to me that she felt no more fear of being arrested by her former master, or any other person, when in his immediate neighborhood, than she did in the State of New York, or Canada, for she said she never ventured only where God sent her, and her faith in a Supreme Power truly was great. </p> </blockquote> <p paraeid=\"{3c1763e2-1f94-4281-ad2f-298c0098cf44}{6}\" paraid=\"1324844253\">See also:  </p> <ul role=\"list\"> <li aria-setsize=\"-1\" data-aria-level=\"1\" data-aria-posinset=\"1\" data-font=\"Symbol\" data-leveltext=\"·\" data-listid=\"2\" role=\"listitem\"> <p paraeid=\"{3c1763e2-1f94-4281-ad2f-298c0098cf44}{10}\" paraid=\"927382053\"><a href=\"https://riverfrontwilm.com/\">Riverfront Wilmington</a> </p> </li> <li aria-setsize=\"-1\" data-aria-level=\"1\" data-aria-posinset=\"2\" data-font=\"Symbol\" data-leveltext=\"·\" data-listid=\"2\" role=\"listitem\"> <p paraeid=\"{3c1763e2-1f94-4281-ad2f-298c0098cf44}{18}\" paraid=\"306311717\"><a href=\"https://deldot.gov/Programs/byways/index.shtml?dc=railroad\">Delaware Byways, Harriet Tubman</a>:  </p> </li> <li aria-setsize=\"-1\" data-aria-level=\"1\" data-aria-posinset=\"3\" data-font=\"Symbol\" data-leveltext=\"·\" data-listid=\"2\" role=\"listitem\"> <p paraeid=\"{3c1763e2-1f94-4281-ad2f-298c0098cf44}{28}\" paraid=\"749647447\"><a href=\"https://quakerhillhistoric.org/\">Quaker Hill Historic Preservation Foundation</a>:  </p> </li> </ul> <ul role=\"list\"> <li aria-setsize=\"-1\" data-aria-level=\"1\" data-aria-posinset=\"1\" data-font=\"Symbol\" data-leveltext=\"·\" data-listid=\"2\" role=\"listitem\"> <p paraeid=\"{3c1763e2-1f94-4281-ad2f-298c0098cf44}{38}\" paraid=\"557945140\"><a href=\"https://dehistory.org/visit/jane-and-littleton-mitchell-center-for-african-american-heritage/\">Delaware Historical Society & Mitchell Center for African American Heritage</a> </p> </li> <li aria-setsize=\"-1\" data-aria-level=\"1\" data-aria-posinset=\"2\" data-font=\"Symbol\" data-leveltext=\"·\" data-listid=\"2\" role=\"listitem\"> <p paraeid=\"{3c1763e2-1f94-4281-ad2f-298c0098cf44}{46}\" paraid=\"1645881533\"><a href=\"https://www.wilmingtonde.gov/about-us/about-wilmington/wilmington-underground-railroad-tour\">Wilmington Underground Railroad Walking Tour</a></p> </li> </ul>",
+    "audioDescription": "Located along the Christina River, Tubman-Garrett Riverfront Park is an open-air greenspace with brick walkways throughout, benches for seating and interpretive panels covering Wilmington industrial history. The Christina Riverwalk extends along the park and through Riverfront Wilmington for about one mile. The park features a sculpture of Harriet Tubman and Thomas Garrett commemorating their friendship, as well as interpretive panels and state markers on the theme of freedom. When facing the river, to the right is the successor to the Market Street Bridge, used frequently by Tubman as she passed through. There is free parking offered in the Riverfront Market Overflow Lot, adjacent to the park (west). The park is also host to various public and private events throughout the year.",
+    "isPassportStampLocation": "1",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "https://riverfrontwilm.com/",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "",
+    "isManagedByNps": "0",
+    "amenities": [
+      "Accessible Rooms",
+      "Food/Drink - Cafeteria",
+      "Food/Drink - Restaurant/Table Service",
+      "Fuel (Unleaded)",
+      "Groceries/Convenience Items",
+      "Public Transit",
+      "Toilet - Flush"
+    ],
+    "managedByOrg": "Riverfront Development Corporation/ Riverfront Wilmington",
+    "quickFacts": [
+      {
+        "id": "5C252B96-2DEB-4EF4-91D1-B5D2B202FCD7",
+        "value": "Wilmington, DE ",
+        "name": "Location"
+      },
+      {
+        "id": "208F1B3C-44DC-4CF5-9A61-9B26A364D701",
+        "value": "Tubman-Garrett Riverfront Park and sculpture commemorate the trust and friendship between Quaker, Thomas Garrett, and Harriet Tubman during their most critical collaborations from about 1854 through 1860. ",
+        "name": "Significance"
+      },
+      {
+        "id": "E32D2136-A184-4C1A-91D2-4C20CEF9CBAF",
+        "value": "National Underground Railroad Network to Freedom Site ",
+        "name": "Designation"
+      }
+    ],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  }
+]

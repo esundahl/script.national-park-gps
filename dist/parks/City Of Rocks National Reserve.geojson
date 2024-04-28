@@ -1,0 +1,1175 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.721873,
+          42.082334
+        ]
+      },
+      "properties": {
+        "name": "Anteater",
+        "notes": "Anteater\nhttps://www.nps.gov/places/anteater.htm\n\nThis eye-catching dome is the home of the classic “Scream Cheese” climbing route. This rock is frequented by climbers and is accessible from Creeksde Towers Trail or Parking Lot Trailhead. In this photo you can see Morning Glory Spire on the left and Anteater on the right.<br /> <br /> Stop at the pull-off to take in the view of these formations and check out the wayside exhibit.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.670529,
+          42.126665
+        ]
+      },
+      "properties": {
+        "name": "Backyard Boulders Return Route",
+        "notes": "Backyard Boulders Return Route\nhttps://www.nps.gov/places/backyard-boulders-return-route.htm\n\n<p>The trail returns alongside Stines Creek, Kid Rock and the Stines Creek Picnic Area. For other family friendly hikes, rangers suggest the trails to the Almo Creek Wetland and Eagle Rock Grove. For the adventurous, take the five-mile, three-hour Castle Rock Trail. </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.668627,
+          42.125193
+        ]
+      },
+      "properties": {
+        "name": "Backyard Boulders Trailhead",
+        "notes": "Backyard Boulders Trailhead\nhttps://www.nps.gov/places/backyard-boulders-trailhead.htm\n\n<p>Trailhead and Stines Creek Picnic Area<br /> <br /> Although the loop trail can be walked in either direction, the numbering system and trail features are described clock-wise. From the kiosk, travel left (south) for 200 yards, then follow the trail right or west, below the popular climbs of Big Time and Little Time. </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.721851223,
+          42.0754895732
+        ]
+      },
+      "properties": {
+        "name": "Bath Rock",
+        "notes": "Bath Rock\nhttps://www.nps.gov/places/bath-rock.htm\n\n<p>Snow and rainwater fill a large depression or panhole on top of Bath Rock, giving rise to the name. Many visitors climb the relatively easy southwest face for a magnificent view of City of Rocks.<br /> <br /> In 1939 and 1940 the Bathtub Rock Bathing Beauty Parade was held here.  </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.722032,
+          42.076117
+        ]
+      },
+      "properties": {
+        "name": "Bath Rock Trail - 0.25 miles",
+        "notes": "Bath Rock Trail - 0.25 miles\nhttps://www.nps.gov/places/bath-rock-trail.htm\n\nStarting from the parking lot, this short trail loops around the looming granite formation of Bath Rock. The rock is named for large natural pools of water atop this 240-foot tall monolith. Adventurous visitors can climb up the back side of Bath Rock where handles are affixed along the steepest section of the climb. Legend has it that a bath in the “tub” at the top of the rock before sunrise will restore youth to the old.<br /> <br /> This dirt trail has a gentle grade with sections of stairs. It is 3-4 feet wide, but becomes narrower in some areas.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.707474,
+          42.08091
+        ]
+      },
+      "properties": {
+        "name": "Box Top",
+        "notes": "Box Top\nhttps://www.nps.gov/places/box-top.htm\n\n<p>The box on top of this granite monolith resulted from the weathering of horizontal and vertical joints. Look for this feature on the west side of the Circle Creek Basin.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.709074,
+          42.070916
+        ]
+      },
+      "properties": {
+        "name": "Box Top Trailhead Rest Area",
+        "notes": "Box Top Trailhead Rest Area\nhttps://www.nps.gov/places/box-top-trailhead-rest-area.htm\n\nThis rest area is located between campsite 12 and 13, close to the trail-head for Box Top Trail.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.729138103,
+          42.086628247
+        ]
+      },
+      "properties": {
+        "name": "Bread Loaves",
+        "notes": "Bread Loaves\nhttps://www.nps.gov/places/bread-loaves.htm\n\n<p>Bread loaves needs no introduction when viewed from the west. How many slices can you see?  <br /> <br /> The greatest thing since sliced bread—climbing on Bread Loaves has always been popular.  </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.721139,
+          42.077124
+        ]
+      },
+      "properties": {
+        "name": "California Trail History",
+        "notes": "California Trail History\nhttps://www.nps.gov/places/creekside-towers-california-trail-history.htm\n\n<p>Look east and view Circle Creek Basin, where emigrants along the historic California Trail (1843-1882) camped, rested livestock, and left their names in axle grease.  <br /> <br /> Be sure to take a short detour on the trail heading east to see some spectacular views.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.690505613,
+          42.073585354
+        ]
+      },
+      "properties": {
+        "name": "Camp Rock",
+        "notes": "Camp Rock\nhttps://www.nps.gov/places/camp-rock.htm\n\n<p>Camp Rock was a favorite resting place for emigrants traveling along the California Trail. Some wrote their names in axle grease on the rock faces. Now over 160 years later, we can see those names and wonder what it was like for them as they traveled throught the City of Rocks. Hundreds of inscriptions and dates can be seen ranging from 1843-1882.<br /> <br /> Walk the short trail around Camp Rock (about 330 ft) to see the signatures and wayside exhibit.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.668672,
+          42.125158
+        ]
+      },
+      "properties": {
+        "name": "Castle Rocks - Backyard Boulders Trail - 1.5 miles",
+        "notes": "Castle Rocks - Backyard Boulders Trail - 1.5 miles\nhttps://www.nps.gov/places/backyard-boulders-trail.htm\n\n<p>Castle Rock is the centerpiece of this 1.5 mile loop trail. It features impressive rocks as well as archaeological sites such as the Shock and Awe Shelter and pictographs.<br /> <br /> In spring hikers may encounter many species of wildflowers and experience the arrival of migratory birds. In autumn, hikers are treated to the colorful foliage of aspen, chokecherry, and willow.</p> <p>Get more out of your hike with the Backyard Boulders guide in the <strong>Self-Guided </strong><strong>Tours</strong> section of the City of Rocks NPS Mobile App or pick up a trail guide at our Visitor Center.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.673805,
+          42.127164
+        ]
+      },
+      "properties": {
+        "name": "Castle Rocks Geological Area Overlook",
+        "notes": "Castle Rocks Geological Area Overlook\nhttps://www.nps.gov/places/castle-rocks-geological-area-overlook.htm\n\n<p>From this rocky ridge, hikers can view the Stines Creek riparian area below and watch for birds and other wildlife; however, it is the Castle Rocks Geologic Area that dominates one’s attention. The towering spires and monoliths of the Almo Pluton fall within areas managed by the State Park, Bureau of Land Management, and Forest Service. <br /> <br /> This topography results from crustal extension. As the crust is stretched, high angle faults develop. Along these faults, mountains uplift and valleys drop, creating the distinctive mountain ranges.<br /> <br /> As rocky ranges rise, the newly exposed rock is immediately subjected to weatherin<u>g</u> and erosion. This rock is attacked by water, ice, wind, and other erosive agents, that have produced many of the geologic features visible today.  <br />  </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.65907283809,
+          42.1254852529814
+        ]
+      },
+      "properties": {
+        "name": "Castle Rocks Picnic Shelter",
+        "notes": "Castle Rocks Picnic Shelter\nhttps://www.nps.gov/places/picnic-shelter.htm\n\n<p>The Shelter is an attractive western style building with wooden beams, stained tile floor, and a roof that covers a 30 x14 foot area. The shelter comes with six picnic tables, electrical receptacles and a charcoal grill that has a cooking surface of 37 x 37 inches. A vault toilet and non-potable water spigot is located nearby. This is a day use facility only, no camping.<br /> <br /> $10 per day, $25 reservation fee.<br /> <br /> All vehicles are required to pay a $7 per day Motor Vehicle Entry Fee or display an Idaho State Parks Passport or Annual Pass on the windshield of the vehicle.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.659663785,
+          42.125561771
+        ]
+      },
+      "properties": {
+        "name": "Castle Rocks Ranch Rest Area",
+        "notes": "Castle Rocks Ranch Rest Area\nhttps://www.nps.gov/places/castle-rocks-ranch-rest-area.htm\n\n<p>Just across the road from the Castle Ranch Lodge and Bunkhouse there is an accessible vault toilet. There is potable water in front of the bunkhouse. There is also a picnic area, disk golf course, and large lush lawn area.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.690913,
+          42.074197
+        ]
+      },
+      "properties": {
+        "name": "Chicken Rock",
+        "notes": "Chicken Rock\nhttps://www.nps.gov/places/chicken-rock.htm\n\n<p>This granite formation is an excellent example of spires, joints and weathering.<br /> <br /> Some call this rock Scotty Dog. What do you see? <br /> <br /> There are emigrant signatures on this formation as well. Please do not climb or scramble on formations with signatures.  </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.690629,
+          42.092123
+        ]
+      },
+      "properties": {
+        "name": "Cinderella Slipper",
+        "notes": "Cinderella Slipper\nhttps://www.nps.gov/places/cinderella-slipper.htm\n\n<p>Is this Cinderella’s lost slipper? This oversized shoe is featured on the same formation as Gorilla Rock. <br /> <br /> The granite slipper measures five feet wide and 25 feet long.  </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.698066,
+          42.077179
+        ]
+      },
+      "properties": {
+        "name": "Circle Creek Basin",
+        "notes": "Circle Creek Basin\nhttps://www.nps.gov/places/circle-creek-basin.htm\n\nYou will often see cattle grazing on the lush meadows of Circle Creek Basin during the spring and summer months. The emigrants nooned and camped on the edge of this Basin. ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.685241358,
+          42.0875985475
+        ]
+      },
+      "properties": {
+        "name": "Circle Creek Overlook Parking Area",
+        "notes": "Circle Creek Overlook Parking Area\nhttps://www.nps.gov/places/circle-creek-overlook-parking-area.htm\n\nDirt parking area with a vault toilet building, information boards, and an interpretive wayside exhibit. Many trails are accessed from this area.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.728389,
+          42.088968
+        ]
+      },
+      "properties": {
+        "name": "City of Rocks Loop - 6.8 miles",
+        "notes": "City of Rocks Loop - 6.8 miles\nhttps://www.nps.gov/places/city-of-rocks-loop.htm\n\n<p>From sagebrush flats to high country groves, this trail takes you deep into the “City.” This remote loop hike is a ranger favorite. The combination of pine trees, rock formations, and epic views offer a surprise at every turn of the trail. The loop can be accessed from several trailheads along the main road. The Emery Creek Picnic area is a great starting point, the North Fork Circle Creek trailhead is located across the road from the parking area. About 1 mile in check out the spectacular view from the overlook (near the gate). Shortly after beginning the descent down toward North Creek you will come across North Fork Spring. As you make your way down toward the basin, watch for the trail to cut back right (west) along the base of the impressive Stripe Rock formation. Continue past Lost Arrow Spire on the Bumblie Trail, then join South Fork Circle Creek Trail heading back up to complete the loop. North Fork Circle Creek and South Fork Circle Creek are abbreviated on many trail signs as N.F.C.C and S.F.C.C.<br /> <br /> This trail is narrow and steep in places over uneven terrain.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.632524679,
+          42.0913648693
+        ]
+      },
+      "properties": {
+        "name": "City of Rocks National Reserve, the California Trail",
+        "notes": "City of Rocks National Reserve, the California Trail\nhttps://www.nps.gov/places/city-of-rocks-national-reserve-the-california-trail.htm\n\n<p>Although there may have been some visitation to the area by Europeans and Americans during the fur trade and exploration-era, the establishment of the California Trail through the City of Rocks is what brought the first significant number of European-Americans to what is now the Reserve. <br /> <br /> The City of Rocks National Reserve is a National Historic Landmark associated with the mass overland westward migration. Emigrants traveling the California Trail would reach Circle Creek in the City of Rocks and nooned or camped. Some of these emigrants left their names on the rocks along the trail within the Reserve.</p> <h3>Emigrant Remarks</h3> <blockquote> <p><em>\"Last eve went to the City rocks. They are at the junction of the California & Salt Lake roads. They are white & about 300 ft high running up to a peak. They are composed of a substance resembling salts & are in a state of decomposition. A few more years & then will be leveled with the ground. They look at a distance like a ruined city.\"</em><br /> <br /> <strong>- Lucena Parsons - April 23, 1850</strong></p> </blockquote> <h2>Site Information</h2> <p><strong>Location </strong>(Near Almo, Idaho)<br /> <br /> <a href=\"https://www.nps.gov/oreg/planyourvisit/safety.htm\">Safety Considerations</a></p> <h3><a href=\"https://www.nps.gov/ciro/index.htm\">City of Rocks National Reserve</a></h3> <h2><a href=\"https://www.nps.gov/cali/index.htm\">California National Historic Trail</a></h2> <p> </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.721601,
+          42.079933
+        ]
+      },
+      "properties": {
+        "name": "Creekside Towers",
+        "notes": "Creekside Towers\nhttps://www.nps.gov/places/creekside-towers.htm\n\n<p>Creekside Towers Trail winds along the base of this imposing feature. The trail is 1.2 miles round-trip with a gentle grade is suitable for families with children. Trail guides are available at the Visitor Center or on the City of Rocks NPS Mobile App in Tours. In the spring melting snow creates a small cascading waterfall adjacent to the trail.  </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.721653,
+          42.076242
+        ]
+      },
+      "properties": {
+        "name": "Creekside Towers Trail - 1.2 miles",
+        "notes": "Creekside Towers Trail - 1.2 miles\nhttps://www.nps.gov/places/creekside-towers-trail.htm\n\n<p>Creekside Towers is an out-and-back 1.2-mile trail. The trail’s gentle grade of 122 feet relative elevation is suitable for families with children or anyone looking for an easier hike in the Reserve. Interesting geologic sculptures line the trail. In spring and early summer enjoy the running creek and small cascading waterfall. Outstanding scenery, granite pinnacles, and a diversity of plants and animals await. Adjoining trails can make for a longer and more adventurous loop. Circle around Parking Lot Rock to South Fork Circle Creek Trail then Stairways to make a 1.6-mile loop.<br /> <br /> Get more out of the Creekside towers hike with the guide in the <strong>Self-Guided </strong><strong>Tours</strong> section of the City of Rocks NPS Mobile App or pick up a trail guide at our Visitor Center.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.721229798,
+          42.075847086
+        ]
+      },
+      "properties": {
+        "name": "Creekside Towers Trail Introduction",
+        "notes": "Creekside Towers Trail Introduction\nhttps://www.nps.gov/places/creekside-towers-trail-introduction.htm\n\n<p><strong>Creekside Towers Trail</strong> begins at the Bath Rock parking area. The trail’s gentle grade (122 feet relative elevation) is suitable for families with children. Outstanding scenery, sculpted granite pinnacles, and a diversity of plants and animals await on this 1.2 mile out-and-back walk. In spring and early summer, visitors may encounter a small cascading waterfall. Keep a look out for secret windows, arches, and tafoni (honeycomb) weathering as well.<br /> <br /> Orientation signs and maps are strategically located at trail intersections to help you find the route. If you become disoriented, remember that walking uphill will bring you to City of Rocks Road and back to the trailhead. Trail use is restricted to foot-traffic only, no bicycles or horses are allowed. Pets must be leashed at all times. Small children should be attended along the trail as some areas lead to cliffs. Hikers may encounter climbers along Creekside Towers. Provide a safe distance between you and climbing ropes and equipment. Help rangers protect resources by staying on the trail in high-use areas. The trail map is on the reverse side.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.721624,
+          42.076184
+        ]
+      },
+      "properties": {
+        "name": "Creekside Towers Trailhead",
+        "notes": "Creekside Towers Trailhead\nhttps://www.nps.gov/places/creekside-towers-trailhead.htm\n\n<p>Creekside Trailhead - Bath Rock Parking Area<br /> <br /> Bath Rock is the formation just south of the parking lot. <br /> <br /> Snow and rainwater fill a large depression or panhole on top of Bath Rock, giving rise to the name. Many visitors climb the relatively easy southwest face for a magnificent view of City of Rocks.<br /> <br /> In 1939 and 1940 the Bathtub Rock Bathing Beauty Parade was held here.  </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.697956,
+          42.067787
+        ]
+      },
+      "properties": {
+        "name": "Devil's Bedstead",
+        "notes": "Devil's Bedstead\nhttps://www.nps.gov/places/devils-bedstead.htm\n\n<p>Perched on a hill looms a feature with an ominous name—the Devil's Bedstead. Can you see the headboard on the left and the footer on the right? Only the devil would sleep on a mattress of uneven granite! </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.708452,
+          42.065605
+        ]
+      },
+      "properties": {
+        "name": "Durfee Corral",
+        "notes": "Durfee Corral\nhttps://www.nps.gov/places/durfee-corral.htm\n\n<p>This early 20th Century corral, part of the Durfee Homestead, fell into disrepair until restored by BS Troop 18 in 2013. The corral is nestled against the rock and is difficult to see from the road. Take a short walk south from Elephant Rock to visit the corral. </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.709348501,
+          42.0671387474
+        ]
+      },
+      "properties": {
+        "name": "Elephant Rock",
+        "notes": "Elephant Rock\nhttps://www.nps.gov/places/elephant-rock.htm\n\n<p>This majestic dome resembles an elephant marching off into the sunset. Elephant Rock is one of the more easily accessible and popular climbing formations. </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.723571,
+          42.092064
+        ]
+      },
+      "properties": {
+        "name": "Eric Wood",
+        "notes": "Eric Wood\nhttps://www.nps.gov/places/eric-wood.htm\n\n<p>Sitting prominently above City of Rocks, this formation was named after a real person, Eric Wood. His friend and climber, Jay Goodwin dubiously honored Eric after recognizing his profile in the north end of the formation.  </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.743245,
+          42.101327
+        ]
+      },
+      "properties": {
+        "name": "Finger Rock Rest Area",
+        "notes": "Finger Rock Rest Area\nhttps://www.nps.gov/places/finger-rock-rest-area.htm\n\nVault toilet located near Finger Rock.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.71326,
+          42.072894
+        ]
+      },
+      "properties": {
+        "name": "Flaming Rock Trailhead Rest Area",
+        "notes": "Flaming Rock Trailhead Rest Area\nhttps://www.nps.gov/places/flaming-rock-trailhead-rest-area.htm\n\nVault toilet located near Flaming Rock Trail-Head.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.686818,
+          42.089255
+        ]
+      },
+      "properties": {
+        "name": "Geological Interpretive Trail - 1 mile",
+        "notes": "Geological Interpretive Trail - 1 mile\nhttps://www.nps.gov/places/geological-interpretive-trail.htm\n\n<p>Have you ever visited City of Rocks and wondered, “How did this happen?” or “Why do the rocks look like this?”<br /> The Geological Interpretive Trail is the perfect short hike to:</p> <ul> <li>see fascinating geological formations up close</li> <li>examine the difference between the Green Creek Complex and Almo Pluton</li> <li>learn about the geologic history of this landscape</li> </ul> <p>There are 12 interpretive stations along the trail. Find the <strong>Geological Trail Guide</strong> in the <em>Self-Guided Tours</em> section of the City of Rocks NPS Mobile App or pick up a guide booklet for $5 at our Visitor Center.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.68588,
+          42.088351
+        ]
+      },
+      "properties": {
+        "name": "Geological Trail Intro Part 1",
+        "notes": "Geological Trail Intro Part 1\nhttps://www.nps.gov/places/geological-trail-intro-1.htm\n\n<h3>Introduction </h3> <p>City of Rocks National Reserve is part of the Basin and Range geologic province. Basin and Range topography results from crustal extension. As the crust is stretched (pulled apart), high angle faults develop. Along these faults, mountains uplift and valleys drop, creating the distinctive mountain ranges and wide valleys of theBasin and Range province.  <br /> <br /> As rocky ranges rise, the newly exposed rock is immediately subjected to <u>weathering</u> and erosion. This rock is attacked by water, ice, wind, and other erosive agents, that have produced many of the geologic features visible today.  <br /> <br /> The majority of outcrops at City of Rocks, and all of the pinnacles, consist of <u>intrusive igneous rock</u> with a granitic composition. Geologists have mapped the two different types of granitic rock within the Reserve as the Green Creek Complex and the Almo pluton.  </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.686569,
+          42.08917
+        ]
+      },
+      "properties": {
+        "name": "Geological Trail Intro Part 2",
+        "notes": "Geological Trail Intro Part 2\nhttps://www.nps.gov/places/geological-trail-intro-2.htm\n\n<h3>Green Creek Complex </h3> <p>The Green Creek Complex is an assemblage of metamorphic rocks consisting of granite, granitic <u>gneiss</u> (metamorphosed granite), <u>schist</u> and a few other rock types. Radiometric analysis indicates that the Green Creek granite may be as old as 2.5 billion years (<u>Archean</u>) and is considered to be some of the oldest rock exposed on the continent west of the Mississippi River. This granite has a porphyritic texture, meaning it is composed of crystals of two distinct sizes.The larger crystals are potassium feldspar. They are embedded in a matrix of smaller crystals consisting of quartz, biotite, and plagioclase feldspar. <br /> <br /> Feldspars are the most common family of silicate minerals. They are broadly divided into two groups: sodium and calcium bearing feldspars, called plagioclase, and potassium bearing feldspars, called orthoclase, microcline or sanidine, depending on their crystallographic structure. </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.688082,
+          42.089596
+        ]
+      },
+      "properties": {
+        "name": "Geological Trail Intro Part 3",
+        "notes": "Geological Trail Intro Part 3\nhttps://www.nps.gov/places/geological-trail-intro-3.htm\n\n<h3>Almo Pluton </h3> <p>Most of the pinnacles at City of Rocks and Castle Rocks are made of granite from the Almo <u>pluton</u>. The pluton started out as an intrusive body of magma and has a convoluted contact with the Green Creek Complex. It is the youngest rock at City of Rocks and formed about 28 million years ago. <br /> <br /> Unlike the granite of the Green Creek Complex, the Almo pluton has an equigranular texture. Notice in the photograph the small uniform size of the crystals in the Almo pluton in contrast to the variety of sizes in the Green Creek Complex. <br /> <br /> Both types of granite are cut in many places by dikes of pegmatite, a very coarse-grained granitic rock that usually forms during the last stages of crystallization of a large granitic pluton. The pegmatites at City of Rocks contain large quartz and feldspar crystals about the size of a fist. </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.722219,
+          42.0825
+        ]
+      },
+      "properties": {
+        "name": "Granite Formations and Rock Climbing",
+        "notes": "Granite Formations and Rock Climbing\nhttps://www.nps.gov/places/creekside-trail-granite-formations.htm\n\n<p>Morning Glory Spire (Incisor) is perhaps the City’s most desirable climbing feature. The Anteater (south), with routes such as Swiss Cheese, captures the imagination. </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.729585,
+          42.026872
+        ]
+      },
+      "properties": {
+        "name": "Juniper Rest Area",
+        "notes": "Juniper Rest Area\nhttps://www.nps.gov/places/juniper-rest-area.htm\n\n<p>Vault Toilet and display board near Juniper Group/Equestrian Campsite.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.694519,
+          42.073225
+        ]
+      },
+      "properties": {
+        "name": "Kaiser's Helmet",
+        "notes": "Kaiser's Helmet\nhttps://www.nps.gov/places/kaisers-helmet.htm\n\nLet your imagination wander. Visualize this spike-like protuberance (pickelhaube) on the summit as a spiked helmet worn by German soldiers in WWI. Now do you see why it is named Kaiser's Helmet? ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.726551,
+          42.084752
+        ]
+      },
+      "properties": {
+        "name": "King on the Throne",
+        "notes": "King on the Throne\nhttps://www.nps.gov/places/king-on-the-throne.htm\n\n<p>This feature is best seen when driving downhill from Bread Loaves. Often the history of named formations are lost in time. Is King on the Throne named after a feature that resembles a stone king? Or is it named after Ted King, a local rancher who once used a corral just south of this rock?  </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.71252,
+          42.085618
+        ]
+      },
+      "properties": {
+        "name": "Lost Arrow Spire",
+        "notes": "Lost Arrow Spire\nhttps://www.nps.gov/places/lost-arrow-spire.htm\n\nRock climbers in the 1960s notived the uncanny resemblance between the City's Lost Arrow and the iconic spire in Yosemite Valley of the same name. The re-use of names of several features represents the deep-rooted connection that early climbers had to Yosemite.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.69302368164062,
+          42.07246398925781
+        ]
+      },
+      "properties": {
+        "name": "Monkey Rock",
+        "notes": "Monkey Rock\nhttps://www.nps.gov/places/monkey-rock.htm\n\n<p>Be creative; can you spot the monkey's face?<br /> <br /> What other intriguing shapes and figures can you find on your visit to City of Rocks? Write them down, take a picture, and share on our <a href=\"https://www.facebook.com/CityOfRocksNPS/\">Facebook Page</a>.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.721479,
+          42.08285
+        ]
+      },
+      "properties": {
+        "name": "Morning Glory Spire",
+        "notes": "Morning Glory Spire\nhttps://www.nps.gov/places/morning-glory-spire.htm\n\n<p>Morning Glory Spire (a.k.a. The Incisor) stands tall above the Inner City. This pinnacle is one of many highlights for rock climbers visiting City of Rocks. The east face is glorious in the morning. The soft rays of the rising sun bathe the spire in light.  <br /> <br /> Stop at the pull-off to take in the view of these formations and check out the wayside exhibit.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.728063,
+          42.085448
+        ]
+      },
+      "properties": {
+        "name": "Owl Rock",
+        "notes": "Owl Rock\nhttps://www.nps.gov/places/owl-rock.htm\n\n<p>Great Horned Owls often choose this formation on which to nest. Rock climbers in the 1980s, after multiple frightening encounters with nesting owls, named this feature.  </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.722415717,
+          42.083405501
+        ]
+      },
+      "properties": {
+        "name": "Parking Lot Rock",
+        "notes": "Parking Lot Rock\nhttps://www.nps.gov/places/parking-lot-rock.htm\n\n<p>The naming of this formation could have gone something like this:<br /> Climber 1 - “I just did this amazing climb today!”<br /> Climber 2 - “Where was it, I’ll check it out tomorrow…”<br /> Climber 1 - “It’s over on that rock by the parking lot.”<br /> Climber 2 - “Oh, Parking Lot Rock…” <br /> <br /> There are restrooms at the parking lot here and trailheads for several poplular trails.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.723863832,
+          42.083323387
+        ]
+      },
+      "properties": {
+        "name": "Parking Lot Rock Trailhead",
+        "notes": "Parking Lot Rock Trailhead\nhttps://www.nps.gov/places/parking-lot-rock-trailhead.htm\n\nThis is the end of the Creekside Towers Trail, or the beginning depending on which end you start from. If you need a rest stop there is a bathroom located about 500 ft up the road.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.67038,
+          42.127239
+        ]
+      },
+      "properties": {
+        "name": "Pictographs",
+        "notes": "Pictographs\nhttps://www.nps.gov/places/pictographs.htm\n\nPrehistoric Pictographs<br /> <br /> Another short spur trail takes you to the prehistoric pictographs and interpretive wayside exhibit. These images are rare reminders of ancient human history and that people have interacted with this landscape for thousands of years. <br /> <br /> Images on rock or rock art were produced by many cultures worldwide. Petroglyphs are pecked or incised into the rock and pictographs are painted. Both types are found in this region, displaying images of animals, people, geometric designs, and natural features.<br /> <br /> Pictographs can serve a variety of purposes. They are visual reminders of events, or serve to transmit information about the environment. These images may be communication between human(s) and the supernatural, or between two or more people.<br /> <br /> Perhaps the images here were created during a healing ceremony, a vision quest, or a prayer to the creator, to a spirit helper, or to hunted animals. They might be symbols, or a sign marking the way, reminders of a vision and not meaningful to any other individual.<br /> <br /> These pictographs were identified in 2003 by a park ranger and have been professionally documented. This documentation included the photographs seen here, taken with polarized light to capture pigment not visible to the unaided eye. Still unknown are the originator(s), age of the images, and the material used to paint the rock.<br /> <br /> Can you find the designs in the pictographs on the rock?",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.717475056,
+          42.0411531871
+        ]
+      },
+      "properties": {
+        "name": "Pinnacle Pass",
+        "notes": "Pinnacle Pass\nhttps://www.nps.gov/places/pinnacle-pass.htm\n\n<p>Pioneers moving along the California trail traveled through Pinnacle Pass. The ruts and the swales can still be seen today.   <br /> <br /> See the California National Historic Trail Guide for more details. <br /> <br /> Access to Pinnacle Pass is available through guided ranger tours arranged at the Visitor Center. Please respect private property within the Reserve.   </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.700122704,
+          42.0665853721
+        ]
+      },
+      "properties": {
+        "name": "Register Rock",
+        "notes": "Register Rock\nhttps://www.nps.gov/places/register-rock.htm\n\n<p>Register Rock conveys many shapes, depending on the viewing angle. Many see a sleeping camel, others see a turtle or the profile of Andy Gump.  <br /> <br /> Take a moment to check out the wayside exhibit and view the signatures written in axle grease. Emigrants, like A. Freeman and D. Tickner, stopped here on June 12, 1850 and “registered” their names.<br /> <br />  </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.672988,
+          42.124105
+        ]
+      },
+      "properties": {
+        "name": "Shock and Awe Shelter",
+        "notes": "Shock and Awe Shelter\nhttps://www.nps.gov/places/shock-and-awe-shelter.htm\n\n<p>A short spur trail (right) leads one to a pre-historic human shelter. Here, artifacts dating to 660 AD, including a hearth feature, were discovered. These prehistoric people likely took advantage of the shelter to escape summer heat or winter winds. They probably harvested the fall pine nut crop, hunted mule deer and rabbit, and found the geologic area a secure and scenic place to live. </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.688978,
+          42.08975
+        ]
+      },
+      "properties": {
+        "name": "Station 1 Granitic Weathering",
+        "notes": "Station 1 Granitic Weathering\nhttps://www.nps.gov/places/geological-trail-station-1.htm\n\n<h3>Granitic Weathering </h3> <p>Weather is the agent responsible for creating the bizarre and fantastic shapes that characterize the area. Weathering occurs on the surface of outcrops by granular disintegration (one layer of crystals after another are removed from the surface). This weathering leaves the newly exposed surface in a smooth rounded condition with no sharp or ragged edges. The <u>detrital</u> material is carried by wind and water to low areas among the prominent outcrops. The detrital material (granitic sand) that is found at the base of most outcrops is called grus. Weathering-related features seen here include case hardening, <u>exfoliation</u>, and <u>grus</u> (located at the base of the outcrop). </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.690158,
+          42.092594
+        ]
+      },
+      "properties": {
+        "name": "Station 10 Pickelhaube",
+        "notes": "Station 10 Pickelhaube\nhttps://www.nps.gov/places/station-10-pickelhaube.htm\n\n<h3>Pickelhaube </h3> <p>A pickelhaube is an erosional remnant of a case-hardened surface that protects the softer rock beneath from eroding as quickly or evenly. A spike-like protuberance on or near the summit of a pinnacle results. The very top of many pickelhauben are coatedwith bird droppings from raptors, rock doves, and other birds that frequently use them as perches. This hard coating may play anadditional role in protecting the pickelhaube from weathering. Arguably the most famous pickelhaube within the Reserve sits atop the monolith named Kaiser’s Helmet, located south of Treasure Rock along the City of Rocks Back Country Byway.  </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.690219,
+          42.092067
+        ]
+      },
+      "properties": {
+        "name": "Station 11 Joints",
+        "notes": "Station 11 Joints\nhttps://www.nps.gov/places/station-11-joints.htm\n\n<h3>Joints </h3> <p>One of the more obvious features of the Almo pluton. Joints result from stresses produced by thermal expansion/contraction related to a decrease in overburden pressure, and plate tectonics. Perhaps the most common joint-producing stress is thermal contraction thatoccurs as the pluton cools deep underground. Granite contracts as it cools, and the joints are produced as these stresses pull theminerals apart. <br /> <br /> Scientific explanations aside, the artistic patterns of these joints within the Almo pluton make it worthy of second look. Notice that the joints range from a hairline to more than two inches wide. Each year the joints widen until the outcrop becomes little more than cobbles and grus. </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.689975,
+          42.091946
+        ]
+      },
+      "properties": {
+        "name": "Station 12 Pinnacles",
+        "notes": "Station 12 Pinnacles\nhttps://www.nps.gov/places/geological-trail-station-12.htm\n\n<h3>Pinnacles </h3> <p>A pinnacle is a large, steep-sided, rock outcrop. The shape of a pinnacle is primarily controlled by weathering of vertical joints. Where the granite contains many joints, pinnacles are smaller, more numerous and more closely spaced, as seen in the photograph below. Weathering of granite with relatively fewer joints results in the larger, more common, isolated pinnacles like Chicken Rock, Lost Arrow Spire, and Creekside Tower. Rare are the pinnacles found in the granite of the Green Creek Complex within the Reserve, but they are numerous along the south slope of Cache Peak in Big Cove.  <br /> <br /> As erosion of this multi-jointed wall continues, other pinnacles will begin to form, as noted by the dashed lines below. </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.689185,
+          42.090228
+        ]
+      },
+      "properties": {
+        "name": "Station 2 Panholes",
+        "notes": "Station 2 Panholes\nhttps://www.nps.gov/places/geological-trail-station-2.htm\n\n<h3>Panholes </h3> <p>Panholes begin as tiny depressions or cracks where water remains for long periods of time. The longer water remains on the granite surface, the greater the dissolution of minerals by acidic water. One way that rainwater becomes acidic is when it mixes with decaying vegetation. Another way is when minerals in the rock leach into the water. <br /> <br /> Panholes are sometimes incorrectly called potholes. Actually, a pothole is formed in the rocky bed of a stream by the grinding action of stone(s). There are no known potholes within the Reserve. One of the nearby locations to easily find potholes is in the basaltic bedrock of the Snake River, 50 miles north of here. </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.689566,
+          42.090584
+        ]
+      },
+      "properties": {
+        "name": "Station 3 Tafoni",
+        "notes": "Station 3 Tafoni\nhttps://www.nps.gov/places/geological-trail-station-3.htm\n\n<h3>Tafoni </h3> <p>Cavernous weathering creates small hollows on <u>j</u>oint surfaces. These hollows gradually enlarge through the creation of a sheltered micro-climate that facilitates the accumulation of salt. Salt is a corrosive agent that expands when dry and breaks apart the granitic minerals. While salt minerals do occur naturally in the granite, they are more likely transported by wind and rain from the playas of the Great Salt Lake basin, only 30 miles south of here.  <br /> <br /> As salt eats away the interior, the case-hardened outer layer or shell erodes much slower, creating delicate arches, windows, and honeycombs.  </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.689735,
+          42.090717
+        ]
+      },
+      "properties": {
+        "name": "Station 4 Joints",
+        "notes": "Station 4 Joints\nhttps://www.nps.gov/places/geological-trail-station-4.htm\n\n<h3>Joints </h3> <p>Joints control the shape and distribution of most pinnacles at City of Rocks. A joint is a type of extension fracture formed by movement of the rock in a direction perpendicular to the plane of fracture. Joints form in solid rock that is stretched and its brittle strength (the point at which it breaks) is exceeded. When this happens, the rock fractures. <br /> <br /> The presence of joints allows water to infiltrate the rock and makes the granite vulnerable to weathering. The joints also trap soils, creating micro-habitat for a number of cliff-loving plants, such as ferns, limber pine, and pink alumroot. </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.689551,
+          42.090887
+        ]
+      },
+      "properties": {
+        "name": "Station 5 Panholes",
+        "notes": "Station 5 Panholes\nhttps://www.nps.gov/places/geological-trail-station-5.htm\n\n<h3>Panholes </h3> <p>Panholes often contain quartz and feldspar sand as residualdetritus from in situ chemical weathering of the granite. Panholes also catch water after a storm and when snow melts.  <br /> <br /> One of the larger panholes at City of Rocks is located on top of Bath Rock. At times this panhole can hold water up to a depth of two feet. According to folklore, Bath Rock served as a place of bathing for shepherds or cowboys who remained out on the range for several days. <br /> <br /> In 1937-38, the Bath Tub Rock Bathing Beauty Parade was held at City of Rocks, further establishing the connection between bathing and Bath Rock. </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.690171,
+          42.091357
+        ]
+      },
+      "properties": {
+        "name": "Station 6 Intrusive Contact",
+        "notes": "Station 6 Intrusive Contact\nhttps://www.nps.gov/places/geological-trail-station-6.htm\n\n<h3>Intrusive Contact of the Almo Pluton and Green Creek Complex </h3> <p>The Almo pluton originated as an intrusive body of magma and has a convoluted and sometimes obscure contact with the surrounding Green Creek Complex. Here, one can see the contact clearly. As the Almo pluton intruded, it wedged its way into weaknesses formed by bedding planes, joints and <u>metamorphic</u> layering. Huge slabs of the Green Creek Complex detached completely or swung down into the magma like trap doors. <br /> <br /> Veins are thin dikes formed by igneous intrusions into cracks. Some of the veins are made of pure quartz while others are composed of a mixture of fine-grained quartz and feldspar called aplite (seen here).  </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.690262,
+          42.091456
+        ]
+      },
+      "properties": {
+        "name": "Station 7 Xenolith/Contact",
+        "notes": "Station 7 Xenolith/Contact\nhttps://www.nps.gov/places/geological-trail-station-7.htm\n\n<h3>Xenolith/Contact </h3> <p>The word <em>Xenolith</em> comes from two Greek words: <em>Xeno</em>, meaning foreign, and <em>lithos</em>, meaning stone. A xenolith is formed when a rock fragment becomes enveloped in magma. The rock fragment is incorporated in the newly formed plutonic rock as the magma cools and crystallizes. Here, the xenolith fragment is biotite schist, enveloped in the Almo pluton. Just below the xenolith, is rock from the Green Creek Complex, giving us another view of thecontact between the older and younger granites. </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.691163,
+          42.092083
+        ]
+      },
+      "properties": {
+        "name": "Station 8 Green Creek Complex Window",
+        "notes": "Station 8 Green Creek Complex Window\nhttps://www.nps.gov/places/geological-trail-station-8.htm\n\n<h3>Green Creek Complex Window </h3> <p>Features produced by cavernous weathering such as tafoni (Station 3) are well developed throughout City of Rocks, often resulting in windows. This type of weathering is common in the Almo pluton, but rarely so large as here in the granite of the Green Creek Complex. Look closely at the bottom of this boulder and you will see that it is resting on the younger granite of the Almo pluton. <br /> <br /> NOTE: Just beyond the boulder at the highpoint of the trail, stay left for a short distance on the Geo Watt Connector Trail and visit Circle Creek Basin Overlook. Two miles south is Smoky Mountain (elevation 7,560). This mountain is capped by eastward dipping layers of Elba Quartzite, a metamorphic rock which once covered the entire area. </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.690629,
+          42.092123
+        ]
+      },
+      "properties": {
+        "name": "Station 9 Boulders",
+        "notes": "Station 9 Boulders\nhttps://www.nps.gov/places/station-9-boulders.htm\n\n<h3>Boulders </h3> <p>Boulders break from an outcrop when they are weathered to the point of instability or toppled during an earthquake. Earthquakes of low magnitude are not uncommon, but large-scale land shifts or movements have not occurred here in recorded history. A fault near Smoky Mountain Campground is estimated to be as recent as 10,000 years ago. <br /> <br /> Many climbers prefer granite of the Green Creek Complex over that of the Almo pluton because the large potassium feldspar crystals make for great holds. Take note of these crystals as you pass by. </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.687339,
+          42.095327
+        ]
+      },
+      "properties": {
+        "name": "Steinfell's Dome and Jackson's Thumb",
+        "notes": "Steinfell's Dome and Jackson's Thumb\nhttps://www.nps.gov/places/steinfells-dome-and-jacksons-thumb.htm\n\nSteinfell's Dome and Jackson's Thumb are favorite multi-pitch climbs. The Dome is named after the legendary Steinfell Climbing Club of Utah; many routes were climbed during the late 1960s.<br /> <br /> Jackson's Thumb is named after the late Ned Jackson, Superintendent from 1990-2001.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.669138361,
+          42.1251931736
+        ]
+      },
+      "properties": {
+        "name": "Stines Creek Picnic Area",
+        "notes": "Stines Creek Picnic Area\nhttps://www.nps.gov/places/stines-creek-picnic-area.htm\n\nStines Creek a great place for a picnic. In spring and early summer the creek is running, wildflowers are blooming, and birds are singing. In summer you can find cool shade to relax beneath the trees. In fall the aspen grove turns beautiful shades of yellow, orange, and red. There are several picnic tables to choose from in this area. There is a vault toilet southwest of the Stines Parking Area, just past the information kiosk.  ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.70932,
+          42.089645
+        ]
+      },
+      "properties": {
+        "name": "Stripe Rock",
+        "notes": "Stripe Rock\nhttps://www.nps.gov/places/stripe-rock.htm\n\nStripe Rock has become a popular three-pitch climbing destination since the 5.7 route \"Cruel Shoes\" was established by Kevin Pogue. <br /> <br /> The stripe running down this formation resulted as rock cooled slower than the surrounding granite, forming an aplite dike.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.687793,
+          42.088924
+        ]
+      },
+      "properties": {
+        "name": "Stripe Rock Loop - 3.5 miles",
+        "notes": "Stripe Rock Loop - 3.5 miles\nhttps://www.nps.gov/places/stripe-rock-loop.htm\n\n<p>Hike, Bike, or Horse<br /> <br /> One of the more recognizable features in the “Inner City” is Stripe Rock, named for the aplite dike that divides the east face like a lightning bolt. Many other popular trails are accessed from this route: Geo Watt, Site 18, North Fork Circle Creek, Bumblie, and Box Top. Bikers will find the loop more enjoyable if ridden in a counterclockwise route.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.676173,
+          42.123132
+        ]
+      },
+      "properties": {
+        "name": "Tafoni Boulder",
+        "notes": "Tafoni Boulder\nhttps://www.nps.gov/places/tafoni-boulder.htm\n\n<p>Immediately to the north of Three-Pool is a boulder exhibiting a dramatic example of honeycomb, cavernous, or tafoni weathering.<br /> <br /> Tafoni occurs when cavernous weathering creates small hollows on <u>j</u>oint surfaces. These hollows gradually enlarge through the creation of a sheltered micro-climate that facilitates the accumulation of salt. Salt is a corrosive agent that expands when dry and breaks apart the granitic minerals. While salt minerals do occur naturally in the granite, they are more likely transported by wind and rain from the playas of the Great Salt Lake basin, only 30 miles south of here.  <br /> <br /> As salt eats away the interior, the case-hardened outer layer or shell erodes much slower, creating delicate arches, windows, and honeycombs.  </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.66029314,
+          42.1258521534
+        ]
+      },
+      "properties": {
+        "name": "The Bunkhouse at Castle Rocks Ranch",
+        "notes": "The Bunkhouse at Castle Rocks Ranch\nhttps://www.nps.gov/places/the-bunkhouse.htm\n\n<p>The Bunkhouse offers a rustic and primitive-style lodging in a communal setting. Guests are housed in an open, two-room building with scenic Castle Rocks as the backdrop to the experience. This facility is perfect for family reunions and scout groups.<br /> <br /> <strong>What’s inside?</strong><br /> Inside is a comfortable 20x26-foot living area with a kitchen/dining area, and sleepingquarters accommodating up to 12 occupants. The Bunkhouse is equipped with electricity, a hot water sink, and a wood-burning stove for heating. The kitchen area includes a microwave, mini-fridge, food storage hutch, coffee pot, and hot plate. There are three bunk-beds (twin over full), a single twin-bed, and a single full-bed (8 beds total). Camp mattresses are provided on all beds. Guests must supply their own sleeping bag/bedding, cooking equipment, food, towels, and other personal gear. Outside, guests have access to a propane grill, firepit/picnic area, and bathroom/shower facility located on the west side<br /> <br /> Reservations can be made online at <a href=\"https://www.reserveamerica.com/explore/castle-rocks-state-park/ID/315045/overview\">ReserveAmerica.com</a> or by calling 1-888-922-6743.<br /> <br /> Idaho Resident - $120 per night, $10 reservation fee.<br /> Non-Idaho Resident - $132 per night, $10 reservation fee.<br /> <br /> All vehicles are required to pay a $7 per day Motor Vehicle Entry Fee or display an Idaho State Parks Passport or Annual Pass on the windshield of the vehicle.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.719852,
+          42.086425
+        ]
+      },
+      "properties": {
+        "name": "The Clamshell",
+        "notes": "The Clamshell\nhttps://www.nps.gov/places/the-clamshell.htm\n\n<p>Once you recognize the “clam shell” in this granite dome, it will catch your eye on every visit. Most see it as they drive through the Reserve; however, very few venture out to experience the Clam Shell up close.  </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.660134321,
+          42.1259474445
+        ]
+      },
+      "properties": {
+        "name": "The Lodge at Castle Rocks Ranch",
+        "notes": "The Lodge at Castle Rocks Ranch\nhttps://www.nps.gov/places/the-lodge-at-castle-rocks-ranch.htm\n\n<p>The Lodge is a century-old ranch house completely remodeled to blend the quaintness of yester-year with the convenience and comforts of today. The Lodge is available year-round, and reservations are recommended.<br /> <br /> <strong>What’s inside?</strong><br /> The Lodge can accomodate up to 8 people. There is a master bedroom with queen-size bed, flat screen TV, and reading room/den. A TV room with a flip-flop sofa converts into a sleeping room for two youth. A third sleeping room provides a double/twin bunk bed for up to three, and a fourth, “the quiet room” has a twin bed, desk, and private deck. Other rooms include the fully equipped kitchen, spacious bathroom with tub/shower, dining area, and living room with propane fireplace.<br /> <br /> <strong>Other amenities include:</strong></p> <ul> <li>WiFi</li> <li>Roku TV</li> <li>Outdoor deck</li> <li>Tables</li> <li>Seating for 8 people</li> <li>Propane grill</li> </ul> <p><br /> Reservations can be made online at <a href=\"https://www.reserveamerica.com/explore/castle-rocks-state-park/ID/315045/overview\">ReserveAmerica.com</a> or by calling 1-888-922-6743.<br /> <br /> Idaho Resident - $195 per night, $10 reservation fee.<br /> Non-Idaho Resident - $215 per night, $10 reservation fee.<br /> <br /> All vehicles are required to pay a $7 per day Motor Vehicle Entry Fee or display an Idaho State Parks Passport or Annual Pass on the windshield of the vehicle.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.676165,
+          42.122901
+        ]
+      },
+      "properties": {
+        "name": "Three-Pool Boulders",
+        "notes": "Three-Pool Boulders\nhttps://www.nps.gov/places/three-pool-boulders.htm\n\n<p>The first of the boulders reached contains three giant panholes, one of which holds water most of the year.<br /> <br /> Panholes begin as tiny depressions or cracks where water remains for long periods of time. The longer water remains on the granite surface, the greater the dissolution of minerals by acidic water. One way that rainwater becomes acidic is when it mixes with decaying vegetation. Another way is when minerals in the rock leach into the water. <br /> <br /> Panholes are sometimes incorrectly called potholes. Actually, a pothole is formed in the rocky bed of a stream by the grinding action of stones. There are no known potholes within the Reserve. One of the nearby locations to easily find potholes is in the basaltic bedrock of the Snake River, 50 miles north of here. </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.681887,
+          42.076487
+        ]
+      },
+      "properties": {
+        "name": "Tracy Homestead",
+        "notes": "Tracy Homestead\nhttps://www.nps.gov/places/tracy-homestead.htm\n\n<p>The stone house was home to many early settlers beginning with William E. Tracy circa 1901. W.E.T. was placed on a stone on the south side outside upstairs bedroom window. <br /> <br /> John H. Hull occupied the house circa 1909 and remodeled the east bedroom on the main floor, adding the large window and capstone with the inscription MAR 29 1909 J.H.H.  <br /> <br /> The house was empty for many years and then burned in 1967.  <br /> <br /> <em>Please respect private property within the Reserve. </em></p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.695708847,
+          42.073838286
+        ]
+      },
+      "properties": {
+        "name": "Treasure Rock",
+        "notes": "Treasure Rock\nhttps://www.nps.gov/places/treasure-rock.htm\n\n<p>With tales of stolen gold and buried treasure, this formation is shrouded in mystery and lore. Do you believe the story of buried treasure? A roadside attraction, Treasure Rock sees many curious visitors each year.  <br /> <br /> This legend is plausible. Although versions of the robbery differ, most agree that the Kelton stage was robbed circa 1878 in gold bullion bound for a U.S. military camp in Boise. One bandit (in some accounts, two) was killed in the confrontation. The second was captured days later after reportedly burying the treasure at the base of what soon become know as Treasure Rock. <br /> <br /> Stop and check out the wayside exhibit at Treasure Rock and explore the area.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.721379,
+          42.078655
+        ]
+      },
+      "properties": {
+        "name": "Trees and Wildlife",
+        "notes": "Trees and Wildlife\nhttps://www.nps.gov/places/creekside-trail-trees-and-wildlife.htm\n\n<p>Here, many species of trees are found, including pinyon pine, juniper, mountain mahogany, aspen, and chokecherry. In summer, this makes for great birdwatching. </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.721007704,
+          42.042996295
+        ]
+      },
+      "properties": {
+        "name": "Twin Sisters",
+        "notes": "Twin Sisters\nhttps://www.nps.gov/places/twin-sisters.htm\n\n<p>Twins in size but not in age; the south Sister formed from the Green Creek Granite (as old as 2.5 billion years) and the north Sister formed from Almo Pluton Granite (28 million years old). The Sisters rise majestically 750 feet above the basin floor. The twin pinnacles were a landmark along the California Trail. Addison Pratt an officer with the Mormon Battalion returning from California named the formation on September 15, 1848. <br /> <br /> For more geologic information about the Twin Sisters check out the Geological Interpretive Trail guide in the Self-Guided Tours section on the City of Rocks NPS Mobile App or pick up a copy at our Visitor Center.  </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.716779,
+          42.041121
+        ]
+      },
+      "properties": {
+        "name": "Twin Sisters Rest Area",
+        "notes": "Twin Sisters Rest Area\nhttps://www.nps.gov/places/twin-sisters-rest-area.htm\n\nVault toilet located near Twin Sisters Group Campsite. Across the road, the majestic Twin Sisters pinnacles rise 750 feet above the basin floor.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.660721083,
+          42.1269990295
+        ]
+      },
+      "properties": {
+        "name": "Willow Glamping Yurt",
+        "notes": "Willow Glamping Yurt\nhttps://www.nps.gov/places/willow-glamping-yurt.htm\n\n<p>Come stay at the Willow Glamping Yurt at Castle Rocks State Park! The yurt has a luxurious king size bed, futon, mini fridge and microwave, coffee maker, heaters for those chilly nights, and other amenities to make you feel at home. Bring your binoculars to see if you can spot wildlife or adventurous climbers on the rocks in Castle Rocks, or just enjoy the stunning views of Cache Peak, Idaho's highest mountain south of the Snake River. <br /> <br /> Other amenities include:</p> <ul> <li>fire ring </li> <li>picnic table </li> <li>propane grill</li> </ul> <p>A bathroom and shower facility is located nearby, next door to the bunkhouse.<br /> <br /> Reservations can be made online at <a href=\"https://www.reserveamerica.com/explore/castle-rocks-state-park/ID/315045/overview\">ReserveAmerica.com</a> or by calling 1-888-922-6743.<br /> <br /> Idaho Resident - $150 per night, $10 reservation fee.<br /> Non-Idaho Resident - $155 per night, $10 reservation fee.<br /> <br /> All vehicles are required to pay a $7 per day Motor Vehicle Entry Fee or display an Idaho State Parks Passport on the windshield of the vehicle.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.718118,
+          42.07494
+        ]
+      },
+      "properties": {
+        "name": "Window Arch",
+        "notes": "Window Arch\nhttps://www.nps.gov/places/window-arch.htm\n\n<p>Window Arch is one of the most frequently visited features in the Reserve, popular for group photos. The arch is located 300 feet north of campsite 37.<br /> <br /> For more information about erosive processes check out the Geological Interpretive Trail Tour on the City of Rocks NPS Mobile App or pick up a copy at our Visitor Center.<br /> <br /> Be aware that Window Arch and Window Rock are two different places. </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.718206,
+          42.074647
+        ]
+      },
+      "properties": {
+        "name": "Window Arch Trail - 250 feet",
+        "notes": "Window Arch Trail - 250 feet\nhttps://www.nps.gov/places/window-arch-trail.htm\n\n<p>Located behind campsite 37, this short walk leads to the impressive Window Arch which spans over 20 feet. Windows, bathtubs, and caves sculpted by forces of erosion, are featured here along with spectacular views of the “Inner City”.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.722877,
+          42.085799
+        ]
+      },
+      "properties": {
+        "name": "Window Rock",
+        "notes": "Window Rock\nhttps://www.nps.gov/places/window-rock.htm\n\n<p>Salt, wind, and water conspire to carve a window. Chemical and mechanical erosion continue to enlarge this feature. <br /> <br /> For more information about erosive processes check out the Geological Interpretive Trail guide on the City of Rocks NPS Mobile App or pick up a copy at our Visitor Center.  <br /> <br /> Be aware that Window Arch and Window Rock are two different places.</p>",
+        "icon": "red-pin-down.png"
+      }
+    }
+  ]
+}

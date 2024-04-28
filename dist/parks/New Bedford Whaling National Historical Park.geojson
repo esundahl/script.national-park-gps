@@ -1,0 +1,80 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Mariners' Home",
+        "notes": "Mariners' Home\nhttps://www.nps.gov/places/mariners-home.htm\n\n<h2>About</h2> <p paraeid=\"{953bf880-08df-4138-adf8-596a8d61f740}{28}\" paraid=\"1856422497\">Built circa 1787 by William Rotch, Jr. as a private residence, this 3-story Federal style structure was moved to this site from its original location on the southwest corner of William and North Water Streets.  After the death of William Rotch, Jr. In 1850, the building was donated to the New Bedford Port Society and moved to this site. The Mariners’ Home was opened for its present use as a home for transient mariners in 1857. Today, the Mariners’ Home is used as offices and exhibition space.   </p> <h2 paraeid=\"{953bf880-08df-4138-adf8-596a8d61f740}{35}\" paraid=\"620989789\">History</h2> <ul role=\"list\"> <li aria-setsize=\"-1\" data-aria-level=\"3\" data-aria-posinset=\"2\" data-font=\"Wingdings\" data-leveltext=\"\" data-listid=\"3\" role=\"listitem\"> <p paraeid=\"{39e9eeb1-de12-4ad6-b257-b1222a2b5c46}{246}\" paraid=\"1430112090\">William Rotch Jr. and his family moved to New Bedford from Nantucket between May and June 1788 to take over the New Bedford branch of the family sperm whaling business. </p> </li> <li aria-setsize=\"-1\" data-aria-level=\"3\" data-aria-posinset=\"3\" data-font=\"Wingdings\" data-leveltext=\"\" data-listid=\"3\" role=\"listitem\"> <p paraeid=\"{cb602953-5d7a-4ace-b5e8-0792f668c3bf}{6}\" paraid=\"1822838733\">By 1790 he and his wife Elizabeth built a new home on the southwest corner of William and North Water streets on the site of his grandfather Joseph Rotch’s house. Joseph, who helped pioneer the colonial whale fishery of Bedford Village, died in 1784. His house had been burned by the British during the American Revolution. William and his second wife Lydia Scott Rotch, moved from this house up the hill to a new house on County Street in 1834. </p> </li> <li aria-setsize=\"-1\" data-aria-level=\"3\" data-aria-posinset=\"1\" data-font=\"Wingdings\" data-leveltext=\"\" data-listid=\"3\" role=\"listitem\"> <p paraeid=\"{cb602953-5d7a-4ace-b5e8-0792f668c3bf}{45}\" paraid=\"184140644\">From 1834 to 1850, William Rotch Jr. rented his home for a variety of commercial uses. After his passing in 1850, William’s daughter Sarah Rotch Arnold donated the home to the New Bedford Port Society. It was moved up to Johnny Cake Hill and placed next to the Seamen’s Bethel, where it became known as the Mariners’ Home. </p> </li> <li aria-setsize=\"-1\" data-aria-level=\"3\" data-aria-posinset=\"2\" data-font=\"Wingdings\" data-leveltext=\"\" data-listid=\"3\" role=\"listitem\"> <p paraeid=\"{cb602953-5d7a-4ace-b5e8-0792f668c3bf}{52}\" paraid=\"1279996522\">Beginning in 1851, the Ladies Branch of the New Bedford Port Society for the Moral Improvement of Seamen (established in 1830) operated the Mariners’ Home as a safe and moral boarding house for whalers, fishermen, and other mariners in the Port of New Bedford. The Mariners’ Home was purposefully located close to the Seamen’s Bethel (built in 1834) where sailors could hear sermons and gain reassurance and inspiration before setting off on their long voyages. The Mariners’ Home provided a haven for New Bedford seamen and fishermen into the 21st century. </p> </li> </ul>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.92852265108377,
+          41.63297070839743
+        ]
+      },
+      "properties": {
+        "name": "Nathan and Polly Johnson House",
+        "notes": "Nathan and Polly Johnson House\nhttps://www.nps.gov/places/nathan-and-polly-johnson-house.htm\n\n<h2>About</h2> <p>The Nathan and Polly Johnson House is a location important to the history of the Underground Railroad. Mentioned in Narrative of the Life of Frederick Douglass, An American Slave, Nathan and Polly Johnson provided the first free home to Frederick and Anna Douglass. A designated site on the National Park Service Underground Railroad Network to Freedom, it became a National Historic Landmark in 2000 and, was added to the Network to Freedom in 2001. The Johnson House is also a site on the White House Millennial trail and the New Bedford Black History Trial. </p> <h2>History</h2> <p paraeid=\"{4cbc50ac-dac7-4320-a54f-1c66e1fb0339}{214}\" paraid=\"1087536948\">The Nathan and Polly Johnson House is a Greek Revival/Italianate-style building built in the area east of County Street “behind the mansions.” A Black migration and settlement in this neighborhood mirrored white migration in some instances and stood distinct from others. The owners Nathan and Mary Johnson were prosperous African American entrepreneurs who were well known for their extensive work in the anti-slavery movement. </p> <p paraeid=\"{4cbc50ac-dac7-4320-a54f-1c66e1fb0339}{235}\" paraid=\"2006659274\">This house is located on 21 Seventh Street and was constructed by Nathan Johnson in the early 19th century. Nathan Johnson was a very prominent African American resident of New Bedford. He was born into slavery in Virginia in 1795 and in the early 19th century escaped to new Bedford. In 1819, he married Mary (known as Polly) Page, the daughter of Isaac and Ann Mingo, a free black family from Fall River. Nathan and Polly were actively involved in the Underground Railroad, and they assisted many former slaves in their journey north including Frederick Douglass, who escaped from slavery and came to New Bedford in 1838.  </p> <p paraeid=\"{4cbc50ac-dac7-4320-a54f-1c66e1fb0339}{254}\" paraid=\"1979489895\">The Nathan and Polly Johnson House was a shelter for freedom for many enslaved families. The most notable families are Frederick and Anna Douglass, The Molyneux-Gibson family, Josephine and Clarissa family, William Wells Brown, and Caroline Harris. It was in this house, then, Frederick Johnson became Frederick Douglass. This name was suggested to him by Nathan Johnson. Nathan claims that there were too many Johnsons in New Bedford and suggested Douglass from a book he was reading. The book was Sir Walter Scott’s verse “Lady of the Lake,” whose hero is the Scottish Lord Douglas; the name, with an extra “s” became the fugitive’s new name.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.92333221435547,
+          41.63555908203125
+        ]
+      },
+      "properties": {
+        "name": "New Bedford Whaling Museum",
+        "notes": "New Bedford Whaling Museum\nhttps://www.nps.gov/places/new-bedford-whaling-museum.htm\n\n<h2>About</h2> <p>New Bedford Whaling Museum is a world-renowned museum that offers visitors the opportunity to explore the rich history of the whaling industry and New Bedford. Located in the heart of New Bedford Whaling National Historical Park, the Museum features interactive exhibits, including the world’s largest whaling ship model; displays of fine and decorative arts; collections of cultural artifacts, rare antiquities, scrimshaw and logbooks; and five whale skeletons including the rare blue and northern right whale. </p> <h2>History</h2> <p paraeid=\"{aad91d14-1657-48c2-99ee-536c1fbc1ffa}{2}\" paraid=\"708401127\">Formed by the Old Dartmouth Historical Society, the New Bedford Whaling Museum opened in 1903 to display and store artifacts relevant to the whaling industry and local history. The museum collection contains more than 750,000 items, including 3,000 pieces of scrimshaw and 2,500 logbooks, both of which are the largest collections of these items in the world. The museum also maintains a significant collection of fine art and crafts by local artisans from the whaling era. The museum hosts popular educational programs for school children. <br />  </p> <p paraeid=\"{aad91d14-1657-48c2-99ee-536c1fbc1ffa}{27}\" paraid=\"84059238\">The Whaling Museum quickly outgrew its first home in the Masonic Building at Pleasant and Union Streets. In 1907 the museum moved into the Bank of Commerce, the first of what is now a six-building complex, on Water Street. In 1916 Emily Howland Bourne presented the Bourne Building to the Society. Named in honor of her father Jonathan Bourne, one of New Bedford’s most successful whaling merchants, the large, central building was built to house a half-scale model of Bourne’s favorite ship, the Lagoda, and other whaling artifacts. Sited across the street from the Seaman’s Bethel, the museum’s the 1916 building displaced brothels and taprooms on the eastern side of Johnny Cake Hill and overlooked littered streetscapes toward the harbor.  <br />  </p> <p paraeid=\"{aad91d14-1657-48c2-99ee-536c1fbc1ffa}{27}\" paraid=\"84059238\">Today the museum sits on a full city block campus of multiple structures. Since the 1916 addition of the Bourne Building, the museum has constructed the Wood Building (1934), the Cook Theater Complex (1973), the Jacob Wattles Education Center (2015). The museum has also incorporated the following existing buildings into its campus – the Sundial Building (1820) and the Eben Hirst Building (c.1820). </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.92417240151008,
+          41.635725255278516
+        ]
+      },
+      "properties": {
+        "name": "New Bedford Whaling National Historical Park Visitor Center",
+        "notes": "New Bedford Whaling National Historical Park Visitor Center\nhttps://www.nps.gov/places/new-bedford-whaling-national-historical-park-visitor-center.htm\n\n<h2>About</h2> <p>Located at 33 William Street, the Visitor Center provides the National Park Service visitor with an introduction to New Bedford Whaling National Historical Park. Brochures, maps, exhibits and an introductory film are available as well as a small gift shop, rest rooms, Ranger programs, an Artist-in-Residence program, and information on the Park’s partners. </p> <h2 paraeid=\"{105fd8b6-b690-4137-b7f5-e180bf2bf754}{191}\" paraid=\"221113097\">The History</h2> <p paraeid=\"{105fd8b6-b690-4137-b7f5-e180bf2bf754}{198}\" paraid=\"1671837701\">The Visitor Center sits at the corner of William and North Second Streets and is a solid brownstone and brick building in late Greek Revival style, built for the New Bedford Institution for Savings (NBIS) in 1853-54. From 1898 until 1914 it served as the Third District Court of Bristol County. Sold at auction, it would subsequently house a shirt factory, piano warehouse, machine and auto repair until it was “rescued” and restored by its original tenant, NBIS, as a bank branch in 1978. Fleet Bak (formerly NBIS) donated the building to the Waterfront Historic Area LeaguE (WHALE) for use as the National Park Visitor Center in 1995. WHALE formally donated the building to the National Park Service in 2000. </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.92360591901524,
+          41.63502282575084
+        ]
+      },
+      "properties": {
+        "name": "Seamens Bethel",
+        "notes": "Seamens Bethel\nhttps://www.nps.gov/places/seamens-bethel.htm\n\n<h2>About</h2> <p><span style=\"color:#000000;\">The Seamen’s Bethel was opened in 1832 by wealthy Quakers concerned with the spiritual well-being of mariners in New Bedford. The Seamen’s Bethel became famous when depicted as the “Whalemen’s Chapel” in Herman Melville’s 1851 novel, Moby-Dick; or, The Whale. The Seamen’s Bethel is open to the public and is still used for regular services, weddings, funerals, and other religious activities.</span></p> <h2>History</h2> <p><span style=\"color:#000000;\">As the whaling industry grew, the number of seamen in Bedford Village ranged from 5,000 to 10,000 — nearly equaling the population of the village! Their lives, however, vastly contrasted those of locals. <br />  <br /> Whalemen sought out gambling dens, brothels, saloons, and dance halls. Leading citizens observed that these establishments were “detrimental to the dignity and good order of our community.” Additionally, Quaker whaling merchants were concerned that whalemen spent the wages of a multi-year voyage in just a few days on such pursuits, leaving them broke and without means of support. <br />  <br /> In response, town citizens met in 1830 to discuss the situation. The resulting New Bedford Port Society for the Moral Improvement of Seamen was organized. They immediately offered church services to whalemen before they shipped out on whaling voyages. Services were held either at the waterfront or in the Town Hall. Between the impracticality of waterfront services and the difficulty of constantly arranging to use the Town Hall, the Port Society concluded that they needed their own building. In 1832, the Seamen’s Bethel was dedicated as a nondenominational church and serves today in that capacity. <br />  <br /> The term “bethel” comes from two Hebrew words, “Beth” and “El.” Beth means “House” and El means “God,” so it is a Seamen’s House of God or a Seamen’s Church. </span></p>",
+        "icon": "red-pin-down.png"
+      }
+    }
+  ]
+}

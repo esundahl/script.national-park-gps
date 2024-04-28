@@ -1,0 +1,125 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.53386818321715,
+          37.779504751185655
+        ]
+      },
+      "properties": {
+        "name": "Hidden Dune",
+        "notes": "Hidden Dune\nhttps://www.nps.gov/places/hidden-dune.htm\n\nHidden Dune is currently tied with Star Dune as the two tallest dunes in North America at 741 feet/225 m. Hidden Dune is named for its remote location in the dunefield, where it is not visible from most of the main visitor day use areas. It is even hidden from much of the high first ridge of dunes. A false summit (at left in photo) hides the actual summit for much of the hike to Hidden Dune.<br /> <br /> GPS coordinates for Hidden Dune summit:<br /> 37.775916, -105.531912<br /> <br /> Plan on 7 miles (11 km) round trip over 6 hours, starting from the main Dunes Parking Lot. Hike north/northwest to reach it. With high-clearance 4WD, you may also begin your hike at Sand Pit or Castle Creek Picnic Areas on the eastern side of the dunefield.<br /> <br /> During summer, plan your dunes time for early morning or evening to avoid sand surface temperatures of 150 degrees F, or thunderstorms with lightning and wind. From November through April, snow falls on the dunes about once per week, and cold temperatures prevail. Wind is possible in any season, mainly when storm fronts are coming or going. Spring is the windiest season, especially during the afternoon.<br /> <br /> Wear sturdy footwear year round; boots with long pants work best to keep sand out of your shoes.<br /> <br /> Discover unusual insects, plants, wildlife tracks, ripples, and sand grains of every color. In warmer months, watch for one of 7 species of endemic insects, found nowhere else in the world, that are specially adapted to the extreme environment here. <br />  ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.53240906161913,
+          37.74951411422352
+        ]
+      },
+      "properties": {
+        "name": "High Dune on First Ridge",
+        "notes": "High Dune on First Ridge\nhttps://www.nps.gov/places/high-dune-on-first-ridge.htm\n\nThe high dune on the first ridge is neither the highest in elevation nor the tallest in the dunefield, but it looks that way from the main parking lot. This is the most common destination in the dunefield, providing a great view of the entire dunefield. It is about 692 feet (210 m) from base to top. Cross a half-mile (1km) of the Medano Creek bed, then zigzag up along ridgelines to reach it. Wear sturdy footwear year round; boots with long pants work best to keep sand out of your shoes.<br /> <br /> GPS coordinates for High Dune on First Ridge:<br /> 37.74908, -105.532775<br /> <br /> Average round trip hiking time for High Dune is 2 hours, but plan to take as much as 4 hours to hike roundtrip if not acclimated to the high altitude and lower oxygen level. In summer, plan to hike very early morning to avoid 150 degree F sand or thunderstorms with lightning. Winds can occur any time of year during storm fronts and most often in afternoon hours. Frigid temperatures and blizzards are common in winter.<br /> <br /> Discover unusual insects, plants, wildlife tracks, ripples, and sand grains of every color. In warmer months, watch for one of 7 species of endemic insects, found nowhere else in the world, that are specially adapted to the extreme environment here.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.51816116709895,
+          37.73987016951373
+        ]
+      },
+      "properties": {
+        "name": "Medano Creek",
+        "notes": "Medano Creek\nhttps://www.nps.gov/places/medano-creek.htm\n\n<p>Medano Creek is a popular seasonal stream enjoyed by all ages. On this page you'll learn what to expect month-by-month in an average year, and how the rare phenomon 'surge flow' works. You can also link to <a href=\"https://www.nps.gov/grsa/planyourvisit/medano-creek.htm\">current and forecast creek conditions, and a video about the creek</a> showing surge flow waves.</p> <h3>Medano Creek Month-by-Month in an Average Year</h3> <p><strong>April</strong> is the second snowiest month of the year at Great Sand Dunes, but there are also some sunny days with highs in the 60s F. Spring is the windy season throughout the southwestern United States, especially afternoons, though mornings are usually calm. The creek begins to trickle down as the snow on the Sangre de Cristo Mountains melts. By late April the creek may be a few inches deep. Cottonwood trees and willows along the creek are not yet leafed out.</p> <p>Late <strong>May</strong> is near the peak of Medano Creek's annual flow. While it is still springtime and winds may arise, especially in the afternoon, May temperatures are generally moderate, with highs in the 60s-70s F. However, snow is still possible at this elevation in May! Trees and bushes along the creek leaf out. There may be some \"no-see-ums\" (tiny biting gnats), but mosquitoes are rarely out in May. Late May and early June are the best opportunity to experience \"surge flow\", where waves up to about 20 inches (50 cm) high flow down across the sand. In wet years with good peak runoff, children can float down the waves on flat inflatable toys. Water comes out of the mountains cold, but warms up significantly when the sun shines on it for a few hours as it spreads across the sand. <span style=\"color:#e74c3c;\"><em>Because of the creek's popularity, late May and early June weekends are extremely crowded, with long lines of traffic, overflowing parking lots, a crowded beach, and full campgrounds. If possible, plan your visit on a weekday this time of year.</em></span></p> <p><strong>June</strong> brings warmer temperatures for water play and generally pleasant conditions the first week of June. <span style=\"color:#e74c3c;\">But <em>as the creek becomes much lower and warmer around the second week of June, mosquitoes emerge in large numbers.</em></span> Move away from vegetation, to the far side of the creek to avoid the worst of the mosquitoes: they don't like open sand, but prefer to be near shady bushes and trees. By late June, the water level will be fairly low, only 1 or 2 inches (1-5cm). <span style=\"color:#e74c3c;\"><em>Because of the creek's popularity, late May and early June weekends are extremely crowded, with long lines of traffic, overflowing parking lots, a crowded beach, and full campgrounds. If possible, plan your visit on a weekday this time of year.</em></span></p> <p>In <strong>July</strong>, unless there are significant ongoing rains, the creek will begin to retreat back toward the mountains, drying up at the main visitor area near the Dunes Parking Lot. It will continue to gently flow (1/2\" - 1\" deep) along the eastern edge of the dunefield, near the Castle Creek picnic area. Castle Creek is accessible by high clearance 4WD vehicle on the <a href=\"https://www.nps.gov/grsa/planyourvisit/medano-pass-road.htm\">Medano Pass Primitive Road</a>. Visitors without 4WD may also access the creek in late summer by hiking approximately 2 miles (3.5 km) up the creekbed from the Dunes Parking Lot, or approximately 0.7 miles (1km) from the Point of No Return parking area. Mosquitoes usually disappear after the water retreats. July is the warmest month at the park, with average highs in the low 80s F.</p> <p>In <strong>August and September</strong>, the creek will likely be completely gone from the main visitor area near the Dunes Parking Lot. It may continue to gently flow (1/2 to 1 inch or 1-2cm deep) along the eastern edge of the dunefield, near the Castle Creek Picnic Area. Castle Creek is accessible by high clearance 4WD vehicle on the <a href=\"https://www.nps.gov/grsa/planyourvisit/medano-pass-road.htm\">Medano Pass Primitive Road</a>. Visitors without 4WD may also access the creek late summer by hiking approximately 2 miles (3.5 km) up the creekbed from the Dunes Parking Lot, or 0.7 miles (1km) from the Point of No Return parking area. Mosquitoes typically disappear along with the creek.</p> <h3>Surge Flow - A Rare Phenomenon</h3> <p>Medano Creek is one of the few places in the world where one can experience <em>surge flow</em>, a stream flowing in rhythmic waves on sand. Three elements are needed to produce the phenomenon: a relatively steep gradient to give the stream a high velocity; a smooth, mobile creekbed with little resistance; and sufficient water to create surges. In spring and early summer, these elements combine to make waves at Great Sand Dunes. As water flows across sand, sand dams or antidunes form on the creekbed, gathering water. When the water pressure is too great, the dams break, sending down a wave about every 20 seconds. In wet years, waves can surge over a foot (30 cm) high!</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.436454659,
+          37.8500785344
+        ]
+      },
+      "properties": {
+        "name": "Medano Pass",
+        "notes": "Medano Pass\nhttps://www.nps.gov/places/medano-pass.htm\n\n<p>Medano Pass was likely the historic route used by Zebulon Pike in January 1807 as he led an expedition to explore this region. Today Medano Pass is primarily traveled by 4WD vehicle, on a rough 22-mile road connecting Great Sand Dunes with the Wet Mountain Valley and Colorado State Highway 69. Passable only in the warmer months and only with high-clearance 4-wheel-drive vehicles, it gives access to Medano Pass (elevation 10,040’) and Great Sand Dunes National Preserve. This road crosses areas of deep sand, traverses Medano Creek nine times, and passes through excellent habitat for bighorn sheep. Average driving time for the entire primitive road is about 2.5 - 3 hours. Reduce tire pressure to about 20 psi if the sand is dry and soft. A free air station is available near the south entrance to the road in warmer months between the hours of 7AM and 9PM. If you reduce pressure, you will need to reinflate using your own air compressor before driving over rocks in Medano Canyon. Drive through creek crossings slowly to avoid drowning your engine.</p> <h3>Mileage Chart</h3> <p><strong>Set your odometer to zero at the western entrance of the primitive road to follow along with this guide.</strong><br /> <strong>0.0</strong> End of Paved Road: start of Medano Pass Primitive Road.<br /> <strong>0.2</strong> Garden Creek: flows until mid-summer<br /> <strong>0.5</strong> Buck Creek: intermittent stream<br /> <strong>1.0</strong> Sawmill Creek: flows until mid-summer.<br /> <strong>1.1</strong> Point of No Return: 4WD vehicles ONLY past this point. Sand Ramp Trail access.<br /> <strong>1.4</strong> Ponderosa Point Picnic Area: view of Mt. Herard (13,297’) and dunes.<br /> <strong>1.8</strong> Sand Pit: DEEP SAND! Reduce tire pressure to about 20 pounds if sand is soft<br /> <strong>2.6</strong> Castle Creek Picnic Area: picnic tables, vault toilet. Park only in designated areas.<br /> <strong>3.3</strong> Horse Canyon: views of eastern dunes and foothills.<br /> <strong>4.5</strong> 1st Crossing of Medano Creek: spring runoff can be very deep! Use caution.<br /> <strong>4.6</strong> Old Fire Road: closed to vehicles. 1/2 mile walk to ridge with good views.<br /> <strong>5.0</strong> Sand Ramp Trail: trail crosses road. Overnight backpacking permit required.<br /> <strong>5.2</strong> Park/Preserve Boundary: roadside campsites begin, numbered by mileage fromboundary. 8 campsites over next 0.3 mile.<br /> <strong>5.6</strong> 2nd Crossing of Medano Creek<br /> <strong>5.9</strong> More Campsites: 2 campsites over next 0.5 mile.<br /> <strong>6.1</strong> 3rd Crossing of Medano Creek: look for bighorn sheep in meadows and cliffs.<br /> <strong>6.2 </strong>Herard family’s 1870s homestead site (only foundation remains).<br /> <strong>6.4</strong> 4th Crossing of Medano Creek<br /> <strong>6.8</strong> 5th crossing of Medano Creek: 4 campsites over next 0.9 mile.<br /> <strong>6.9</strong> Tight squeeze: narrow roadway, boulders on roadsides. Use caution!<br /> <strong>7.2</strong> 6th crossing of Medano Creek<br /> <strong>7.7</strong> Crossing of a Tributary Creek<br /> <strong>7.8</strong> Two alternatives: left side usually best.<br /> <strong>7.9</strong> 7th Crossing of Medano Creek: road steeper ahead.<br /> <strong>8.4</strong> More campsites: 1 campsite within next 0.3 mile.<br /> <strong>8.6</strong> Creek Crossing of a Tributary Creek.<br /> <strong>8.8</strong> Beaver Dams: long meadows, marsh, and beaver dams.<br /> <strong>9.0</strong> Three Cabins: burned in 2010 wildfire.<br /> <strong>9.5</strong> More Campsites: 6 campsites over next 1.5 miles.<br /> <strong>9.6</strong> 8th Crossing of Medano Creek<br /> <strong>10.6</strong> Creek crossing of a Tributary Creek.<br /> <strong>10.7</strong> Medano Lake Trailhead: trailhead at end of short spur road.<br /> <strong>11.0</strong> Irrigation ditch: steep section ahead.<br /> <strong>11.2</strong> Medano Pass: elevation 10,040’ above sea level.</p> <h3>Medano Road Camping Information</h3> <p>Roadside camping is permitted only at 21 numbered campsites in Great Sand Dunes National Preserve beginning 5.2 miles from where the road begins near Piñon Flats Campground. These sites are indicated with a brown post and camping symbol, and are numbered by approximate road mileage from the Park/Preserve boundary to Medano Pass. Numbers in parentheses are approximate road mileage from Medano Pass down to the Preserve/Park boundary. <em>Roadside car camping is only permitted in designated sites in the national preserve. Vehicle access to these sites is only available late spring through fall, depending on snow, creek, and road conditions.</em>These designated sites are free of charge and first-come, first-served. All 21 sites fill on summer weekends.</p> <h3>Camping Regulations for Medano Road Campsites</h3> <ul> <li>Camping is permitted in designated, marked sites only in the national preserve. No permits are necessary.</li> <li>Tents must be located within 40 feet of the front of the bear box at each site.</li> <li>Pets must be leashed or restrained at all times.</li> <li>Fires only in existing fire rings; put out completely with water. Gather dead and down firewood 4” or less diameter.</li> <li>No off-road driving. Vehicles must be highway-legal in Colorado. Park only in designated campsites or parking areas.</li> <li>Secure food, coolers, toiletries, and trash from black bears. Lock them in the bear boxes provided at most sites.</li> <li>All trash, including orange peels, egg shells and toilet paper, must be removed. Bury human waste 6” deep.</li> </ul> <h3>Mountain Bikes and Fat Bikes</h3> <p>Standard mountain bikes can ride on the Medano Pass Road from its southern entrance to Point of No Return, a 1 mile trek. Beyond that, soft sand conditions require <strong>fat bikes</strong> (mountain bikes with extra wide tires for sand). Fat bikes are permitted on the Medano Pass Primitive Road, both for day use and for overnight camping in Medano Canyon. Check current sand conditions before riding; if sand gets too soft and dry, travel may not be possible. <em>Bikes are not permitted off-road. </em>You will be sharing the road with vehicles, some traveling at higher speeds in order to make it through sandy sections. For your safety, listen and watch carefully for vehicles as you ride.<br /> <br /> There are no bike racks along the road, but you may secure your bike onto fire grates provided at campsites, or to signs at parking areas.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.508436769,
+          37.7342837942
+        ]
+      },
+      "properties": {
+        "name": "Mosca Pass",
+        "notes": "Mosca Pass\nhttps://www.nps.gov/places/mosca-pass.htm\n\n<p>Just above the dunefield are forests of aspen, pine, fir, and spruce. The easiest hiking access to forest in the national park is in Mosca Pass, on the Montville Nature Trail and Mosca Pass Trail. On these trails, you are walking in the footsteps of Pleistocene mammoth hunters, indigenous tribes, diverse settlers, American explorers, and 19th century African American Buffalo Soldiers.</p> <h3>Montville Nature Trail</h3> <p>This is the easiest, most popular forest hike in the park. In summer, keep this hike as an option for afternoon as an escape from the heat of the dunes. Walk along a shady forested trail named for a late 1800s settlement, comprising 20 houses in its heydey. Rest near the trail's highpoint, where you'll find views of Mt. Herard, the dunes and the valley. A booklet available at the trailhead provides numbered stops to learn about this historic community and the mountain pass above it.<br /> <b>Round Trip Hike:</b> 0.5 mile (1 km)<br /> <b>Elevation Gain:</b> 200 feet (60 m)<br /> <b>Average Time:</b> 30 minutes</p> <h3>Mosca Pass Trail</h3> <p><br /> This trail continues past Montville Nature Trail, following a small creek to the summit of a low pass in the Sangre de Cristo mountains. Though views are limited, it has shady aspen and evergreen forests.<br /> <b>Round Trip Hike:</b> 7 miles (11 km)<br /> <b>Elevation Gain:</b> 1400 feet (427 m)<br /> <b>Average Time:</b> 3.5 hours</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.537687,
+          37.940353
+        ]
+      },
+      "properties": {
+        "name": "Sand Creek Basin",
+        "notes": "Sand Creek Basin\nhttps://www.nps.gov/places/sand-creek-basin.htm\n\n<p>Sand Creek Basin is part of the alpine watershed of Great Sand Dunes National Preserve. A longer drive and hike is required to reach these lakes and peaks, but the mountain scenery is worth the effort. Check with a ranger for conditions before travel. Snow may block these trails from November into June. <br /> <br /> Music Pass Trailhead is accessed from Highway 69 on the east side of the Sangre de Cristo Mountains, 4.5 miles south of Westcliffe. Turn off Highway 69 to the west at the sign for Music Pass and South Colony Lakes Trailhead. At the \"T\" junction, turn left onto South Colony Road. At the end of the ranch fence on the right, you'll see another sign for Music Pass.<br /> <br /> 2WD vehicles should park where the Rainbow Trail crosses Music Pass Road. This lower trailhead will add 2.5 miles (4 km) each way to the hike.<br /> <br /> 4WD vehicles may continue another 2.5 miles to Music Pass Trailhead at the end of the road. From here, it is a steep 1 mile (1.6 km) hike to the pass at treeline, with a great view of Upper Sand Creek basin. From the pass, hike farther to the alpine lakes, or to any one of the 13,000' peaks above the basin.<br /> <br /> <strong>Round Trip Hiking Mileages From Music Pass Trailhead</strong><br /> Lower Sand Creek Lake: 8 miles (12.8 km), 2000 feet (610 m) elevation gain<br /> Upper Sand Creek Lake: 9 miles (14.4 km), 2000 feet (610 m) elevation gain</p> <h3>Hiking Marble Mountain</h3> <p><br /> From Music Pass (see directions above), there is also an option to hike to the summit of Marble Mountain, 13,266 feet (4,043 m). From Music Pass Trailhead, hike 1 mile (1.6 km) to Music Pass, then turn north and follow the tundra ridge 3 miles (4.8 km) to the summit of Marble Mountain. Of the six peaks over 13,000 feet (4,000 m) in Great Sand Dunes National Preserve, Marble Mountain has the easiest access, but it is still a strenuous hike at very high elevation. Always plan your time above treeline for morning hours to avoid afternoon thunderstorms with lightning.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.5576432839103,
+          37.7515500624888
+        ]
+      },
+      "properties": {
+        "name": "Star Dune",
+        "notes": "Star Dune\nhttps://www.nps.gov/places/star-dune.htm\n\nStar Dune is currently tied with Hidden Dune as the two tallest dunes in North America. It is a majestic dune now measuring 741 feet (225 m) from base to summit. While it can be hiked from the summit of High Dune on First Ridge, it's more direct, and less up and down, to access it via its base along the Medano Creek bed. From the Dunes Parking Lot, hike about 2 miles (3.2 km) south down the Medano Creek bed until the massive pyramid-shaped Star Dune comes into view. Follow a ridge to its summit.<br /> <br /> GPS coordinates for Star Dune:<br /> 37.7517639, -105.5580583<br /> <br /> Average round trip hiking time for High Dune is 6 hours over 6 miles (9.6 km). There is no trail. Popular hiking applications are often inaccurate. Plan to take as much as 9 hours to hike round trip, if not acclimated to the high altitude and lower oxygen level. In summer, plan to hike very early morning to avoid 150 degree F sand or thunderstorms with lightning. Winds can occur any time of year during storm fronts and most often in afternoon hours. Frigid temperatures and blizzards are common in winter.<br /> <br /> Discover unusual insects, plants, wildlife tracks, ripples, and sand grains of every color. In warmer months, watch for one of 7 species of endemic insects, found nowhere else in the world, that are specially adapted to the extreme environment here.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.52537094521378,
+          37.74453640945418
+        ]
+      },
+      "properties": {
+        "name": "The Dunefield",
+        "notes": "The Dunefield\nhttps://www.nps.gov/places/the-dunefield.htm\n\n<p>The centerpiece of Great Sand Dunes National Park and Preserve is the 30-square-mile (78-square-km) dunefield, featuring the tallest dunes in North America. Because there are no trails, you can venture out anywhere you'd like to discover unusual insects, plants, wildlife tracks, ripples, and sand grains of every color. In warmer months, watch for one of 7 species of endemic insects, found nowhere else in the world, that are specially adapted to the extreme environment here.<br /> <br /> During summer, plan your dunes time for early morning or evening to avoid sand surface temperatures of 150 degrees F, or thunderstorms with lightning and wind. From November through April, snow falls on the dunes about once per week, and cold temperatures prevail. Wind is possible in any season, mainly whenever storm fronts are coming or going. Spring is the windiest season, especially in the afternoon.<br /> <br /> Wear sturdy footwear year round; boots with long pants work best to keep sand out of your shoes. <br /> <br /> It's very difficult for an adult to get lost in the dunes, because you can see the mountains, entrance road, and visitor center for reference. But children can wander away and become disoriented. Watch children closely, especially when there are larger crowds.<br />  </p>",
+        "icon": "red-pin-down.png"
+      }
+    }
+  ]
+}

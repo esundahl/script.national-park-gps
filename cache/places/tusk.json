@@ -1,0 +1,623 @@
+[
+  {
+    "id": "950D8D4D-9681-4DCE-B640-73E05C5C014A",
+    "url": "https://www.nps.gov/places/aliante-parkway-kiosk.htm",
+    "title": "Aliante Parkway Kiosk",
+    "listingDescription": "This interpretive kiosk is located at N. Aliante Pkwy & W. Moonlight Falls Ave. The kiosk describes the history of scientific research at Tule Springs, safety tips, park regulations, and a map of the monument.  This area features relatively flat terrain, creosote desert scrub habitat, and views of the Las Vegas and Sheep ranges.",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/339AA4A4-A0F1-B645-0DB10A7CEBBD565C.jpg",
+        "credit": "Andrew Cattoir",
+        "altText": "Aliante Parkway Kiosk",
+        "title": "Aliante Parkway Kiosk",
+        "description": "",
+        "caption": "Aliante Parkway Kiosk",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/339AA4A4-A0F1-B645-0DB10A7CEBBD565C.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/339AA4A4-A0F1-B645-0DB10A7CEBBD565C.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "",
+        "parkCode": "tusk",
+        "designation": "National Monument",
+        "fullName": "Tule Springs Fossil Beds National Monument",
+        "url": "https://www.nps.gov/tusk/index.htm",
+        "name": "Tule Springs Fossil Beds"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [
+      "Aliante",
+      "Aliante Parkway",
+      "West Moonlight Falls Avenue",
+      "moonlight",
+      "Moonlight Falls Avenue",
+      "Moonlight Falls",
+      "history of science",
+      "scientific research",
+      "radiocarbon dating",
+      "archeology",
+      "paleontology"
+    ],
+    "latitude": "36.30924987792969",
+    "longitude": "-115.18888854980469",
+    "latLong": "36.30924987792969,-115.18888854980469",
+    "bodyText": "This interpretive kiosk is located at N. Aliante Pkwy & W. Moonlight Falls Ave. The kiosk describes the history of scientific research at Tule Springs, safety tips, park regulations, and a map of the monument.  This area features relatively flat terrain, creosote desert scrub habitat, and views of the Las Vegas and Sheep ranges.",
+    "audioDescription": "",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "https://www.nps.gov/tusk/index.htm",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "",
+    "isManagedByNps": "1",
+    "amenities": [
+      "Accessible Sites",
+      "Cellular Signal",
+      "Historical/Interpretive Information/Exhibits",
+      "Parking - Auto",
+      "Parking - Bus/RV",
+      "Scenic View/Photo Spot",
+      "Trailhead",
+      "Trash/Litter Receptacles",
+      "Wheelchair Accessible"
+    ],
+    "managedByOrg": "",
+    "quickFacts": [
+      {
+        "id": "5C252B96-2DEB-4EF4-91D1-B5D2B202FCD7",
+        "value": "36°18'33.3'' N, 115°11'20.0'' W",
+        "name": "Location"
+      },
+      {
+        "id": "208F1B3C-44DC-4CF5-9A61-9B26A364D701",
+        "value": "Wayside",
+        "name": "Significance"
+      }
+    ],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  },
+  {
+    "id": "6465D825-9357-4804-B357-9921A4F3665A",
+    "url": "https://www.nps.gov/places/aliante-parkway-parking-lot.htm",
+    "title": "Aliante Parkway Parking Lot",
+    "listingDescription": "The park is new, therefore there are no facilities or designated trails yet. Park at the City of North Las Vegas' graded dirt parking lot. From the parking lot, view the interpretive kiosk describing the history of scientific research at Tule Springs, safety tips, park regulations, and a map of the monument. Enter the park from here by foot for a self-directed hike across the relatively flat terrain, creosote desert scrub habitat, and views of the Las Vegas and Sheep ranges.",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/343700B8-FD5C-3AE7-0E1C30D4C3CD3D19.jpg",
+        "credit": "Andrew Cattoir",
+        "altText": "Aliante Parkway Parking Lot",
+        "title": "Aliante Parkway Parking Lot",
+        "description": "",
+        "caption": "Aliante Parkway Parking Lot",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/343700B8-FD5C-3AE7-0E1C30D4C3CD3D19.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/343700B8-FD5C-3AE7-0E1C30D4C3CD3D19.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "",
+        "parkCode": "tusk",
+        "designation": "National Monument",
+        "fullName": "Tule Springs Fossil Beds National Monument",
+        "url": "https://www.nps.gov/tusk/index.htm",
+        "name": "Tule Springs Fossil Beds"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [
+      "Aliante Parkway",
+      "North Aliante Parkway",
+      "Moonlight Falls",
+      "West Moonlight Falls Avenue",
+      "Aliante",
+      "Moonlight Falls Avenue",
+      "Sheep Range",
+      "North Las Vegas"
+    ],
+    "latitude": "36.3091926574707",
+    "longitude": "-115.18900299072266",
+    "latLong": "36.3091926574707,-115.18900299072266",
+    "bodyText": "The park is new, therefore there are no facilities or designated trails yet. Park at the City of North Las Vegas' graded dirt parking lot. From the parking lot, view the interpretive kiosk describing the history of scientific research at Tule Springs, safety tips, park regulations, and a map of the monument. Enter the park from here by foot for a self-directed hike across the relatively flat terrain, creosote desert scrub habitat, and views of the Las Vegas and Sheep ranges.",
+    "audioDescription": "",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "https://www.nps.gov/tusk/index.htm",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "",
+    "isManagedByNps": "1",
+    "amenities": [
+      "Accessible Sites",
+      "Cellular Signal",
+      "Historical/Interpretive Information/Exhibits",
+      "Parking - Auto",
+      "Parking - Bus/RV",
+      "Scenic View/Photo Spot",
+      "Trailhead",
+      "Trash/Litter Receptacles",
+      "Wheelchair Accessible"
+    ],
+    "managedByOrg": "",
+    "quickFacts": [
+      {
+        "id": "5C252B96-2DEB-4EF4-91D1-B5D2B202FCD7",
+        "value": "36°18'33.1'' N, 115°11'20.4'' W",
+        "name": "Location"
+      },
+      {
+        "id": "208F1B3C-44DC-4CF5-9A61-9B26A364D701",
+        "value": "Parking",
+        "name": "Significance"
+      }
+    ],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  },
+  {
+    "id": "E58E2249-3F67-427C-B82A-5C4C190E5D25",
+    "url": "https://www.nps.gov/places/corn-creek-road-kiosk.htm",
+    "title": "Corn Creek Road Kiosk",
+    "listingDescription": "This interpretive kiosk is located approximately 2 miles east of the US 95 highway and Corn Creek Road and describes the natural history of the Tule Springs area during the Late Pleistocene Ice Age, safety tips, park regulations, and a map of the monument. This area features flat terrain with creosote desert scrub habitat and scenic views of the Sheep and Spring Mountain ranges.",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/33F4E961-AA7D-4928-B611A90EF34B12BD.jpg",
+        "credit": "Andrew Cattoir",
+        "altText": "Corn Creek Road Kiosk",
+        "title": "Corn Creek Road Kiosk",
+        "description": "",
+        "caption": "Corn Creek Road Kiosk",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/33F4E961-AA7D-4928-B611A90EF34B12BD.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/33F4E961-AA7D-4928-B611A90EF34B12BD.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "",
+        "parkCode": "tusk",
+        "designation": "National Monument",
+        "fullName": "Tule Springs Fossil Beds National Monument",
+        "url": "https://www.nps.gov/tusk/index.htm",
+        "name": "Tule Springs Fossil Beds"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [
+      "Corn Creek",
+      "Corn Creek Road",
+      "Late Pleistocene",
+      "Pleistocene Life and Landscapes",
+      "geology",
+      "paleontology"
+    ],
+    "latitude": "36.4259147644043",
+    "longitude": "-115.42288970947266",
+    "latLong": "36.4259147644043,-115.42288970947266",
+    "bodyText": "This interpretive kiosk is located approximately 2 miles east of the US 95 highway and Corn Creek Road and describes the natural history of the Tule Springs area during the Late Pleistocene Ice Age, safety tips, park regulations, and a map of the monument. This area features flat terrain with creosote desert scrub habitat and scenic views of the Sheep and Spring Mountain ranges.",
+    "audioDescription": "",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "https://www.nps.gov/tusk/index.htm",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "",
+    "isManagedByNps": "1",
+    "amenities": [
+      "Accessible Sites",
+      "Cellular Signal",
+      "Historical/Interpretive Information/Exhibits",
+      "Parking - Auto",
+      "Scenic View/Photo Spot",
+      "Trailhead",
+      "Wheelchair Accessible"
+    ],
+    "managedByOrg": "",
+    "quickFacts": [
+      {
+        "id": "5C252B96-2DEB-4EF4-91D1-B5D2B202FCD7",
+        "value": "36°25'33.3'' N, 115°25'22.4'' W",
+        "name": "Location"
+      },
+      {
+        "id": "208F1B3C-44DC-4CF5-9A61-9B26A364D701",
+        "value": "Wayside",
+        "name": "Significance"
+      }
+    ],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  },
+  {
+    "id": "B1A3D4FA-4418-40BA-AD3E-B5FC4442591B",
+    "url": "https://www.nps.gov/places/corn-creek-road-parking-area.htm",
+    "title": "Corn Creek Road Parking Area",
+    "listingDescription": "The park is new, and therefore there are no facilities or designated trails yet. Park at the graded dirt pull-off area on the south side of Corn Creek Road to view the interpretive kiosk  and describes the natural history of the Tule Springs area during the Late Pleistocene Ice Age, geology, safety tips, park regulations, and locate yourself on the map. Enter the park from here by foot for a self-directed hike across the flat desert creosote-scrub landscape. Alternatively, co",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/3692CAAC-B32A-7EB7-63C4FA549835430B.jpg",
+        "credit": "Andrew Cattoir",
+        "altText": "Corn Creek Road Kiosk",
+        "title": "Corn Creek Road Kiosk",
+        "description": "",
+        "caption": "Corn Creek Road Kiosk",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/3692CAAC-B32A-7EB7-63C4FA549835430B.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/3692CAAC-B32A-7EB7-63C4FA549835430B.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "",
+        "parkCode": "tusk",
+        "designation": "National Monument",
+        "fullName": "Tule Springs Fossil Beds National Monument",
+        "url": "https://www.nps.gov/tusk/index.htm",
+        "name": "Tule Springs Fossil Beds"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [
+      "Corn Creek",
+      "Corn Creek Road"
+    ],
+    "latitude": "36.425777435302734",
+    "longitude": "-115.42288970947266",
+    "latLong": "36.425777435302734,-115.42288970947266",
+    "bodyText": "The park is new, and therefore there are no facilities or designated trails yet. Park at the graded dirt pull-off area on the south side of Corn Creek Road to view the interpretive kiosk  and describes the natural history of the Tule Springs area during the Late Pleistocene Ice Age, geology, safety tips, park regulations, and locate yourself on the map. Enter the park from here by foot for a self-directed hike across the flat desert creosote-scrub landscape. Alternatively, continue to drive east on Corn Creek Road to visit the U.S. Fish & Wildlife Service's Corn Creek Visitor Center to view a present-day example of what the wetter Late Pleistocene environment would have looked like at Tule Springs.",
+    "audioDescription": "",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "https://www.nps.gov/tusk/index.htm",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "",
+    "isManagedByNps": "1",
+    "amenities": [
+      "Accessible Sites",
+      "Cellular Signal",
+      "Historical/Interpretive Information/Exhibits",
+      "Parking - Auto",
+      "Scenic View/Photo Spot",
+      "Trailhead",
+      "Wheelchair Accessible"
+    ],
+    "managedByOrg": "",
+    "quickFacts": [
+      {
+        "id": "5C252B96-2DEB-4EF4-91D1-B5D2B202FCD7",
+        "value": "36°25'32.8'' N, 115°25'22.4'' W",
+        "name": "Location"
+      },
+      {
+        "id": "208F1B3C-44DC-4CF5-9A61-9B26A364D701",
+        "value": "Parking",
+        "name": "Significance"
+      }
+    ],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  },
+  {
+    "id": "6A5DEB4C-C412-4655-A259-7470223C6F20",
+    "url": "https://www.nps.gov/places/durango-moccasin-kiosk.htm",
+    "title": "Durango/Moccasin Kiosk",
+    "listingDescription": "This interpretive kiosk is located at  N. Durango Dr. & W. Moccasin Road. The kiosk describes the hydrology, climate and changing habitats of Tule Springs, safety tips, park regulations, and a map of the monument.  This area features badlands terrain and scenic views of the Sheep, Las Vegas, and Spring Mountain ranges.",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/322D442A-F649-19F9-698A5122602D576B.jpg",
+        "credit": "Andrew Cattoir",
+        "altText": "Durango/Moccasin Kiosk",
+        "title": "Durango/Moccasin Kiosk",
+        "description": "",
+        "caption": "Durango/Moccasin Kiosk",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/322D442A-F649-19F9-698A5122602D576B.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/322D442A-F649-19F9-698A5122602D576B.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "",
+        "parkCode": "tusk",
+        "designation": "National Monument",
+        "fullName": "Tule Springs Fossil Beds National Monument",
+        "url": "https://www.nps.gov/tusk/index.htm",
+        "name": "Tule Springs Fossil Beds"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [
+      "Moccasin",
+      "Moccasin Road",
+      "West Moccasin Road",
+      "Durango",
+      "Durango Drive",
+      "North Durango Drive",
+      "climate change",
+      "hydrology",
+      "Las Vegas Range",
+      "Sheep Range",
+      "Spring Mountain Range"
+    ],
+    "latitude": "36.336082458496094",
+    "longitude": "-115.27894592285156",
+    "latLong": "36.336082458496094,-115.27894592285156",
+    "bodyText": "This interpretive kiosk is located at  N. Durango Dr. & W. Moccasin Road. The kiosk describes the hydrology, climate and changing habitats of Tule Springs, safety tips, park regulations, and a map of the monument.  This area features badlands terrain and scenic views of the Sheep, Las Vegas, and Spring Mountain ranges.",
+    "audioDescription": "",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "https://www.nps.gov/tusk/index.htm",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "",
+    "isManagedByNps": "1",
+    "amenities": [
+      "Accessible Sites",
+      "Cellular Signal",
+      "Historical/Interpretive Information/Exhibits",
+      "Parking - Auto",
+      "Parking - Bus/RV",
+      "Scenic View/Photo Spot",
+      "Trailhead",
+      "Trash/Litter Receptacles",
+      "Wheelchair Accessible"
+    ],
+    "managedByOrg": "",
+    "quickFacts": [
+      {
+        "id": "5C252B96-2DEB-4EF4-91D1-B5D2B202FCD7",
+        "value": "36°20'09.9'' N, 115°16'44.2'' W",
+        "name": "Location"
+      },
+      {
+        "id": "208F1B3C-44DC-4CF5-9A61-9B26A364D701",
+        "value": "Wayside",
+        "name": "Significance"
+      }
+    ],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  },
+  {
+    "id": "719D3649-7176-4A8A-98EC-1779FFCF89D9",
+    "url": "https://www.nps.gov/places/durango-moccasin-parking-lot.htm",
+    "title": "Durango/Moccasin Parking Lot",
+    "listingDescription": "The park is new, and therefore there are no facilities or designated trails yet.  Park at the City of Las Vegas' paved asphalt parking lot at the end of N. Durango Dr. & W. Moccasin Road to view the Durango/Moccasin interpretive kiosk describing the hydrology, climate and changing habitats of Tule Springs, safety tips, park regulations, and a map of the monument.  This area features badlands terrain and scenic views of the Sheep, Las Vegas, and Spring Mountain ranges.",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/346F133C-F2F1-E2C1-22C75BEC09D35FD3.jpg",
+        "credit": "Andrew Cattoir",
+        "altText": "Durango/Moccasin Parking Lot",
+        "title": "Durango/Moccasin Parking Lot",
+        "description": "",
+        "caption": "Durango/Moccasin Parking Lot",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/346F133C-F2F1-E2C1-22C75BEC09D35FD3.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/346F133C-F2F1-E2C1-22C75BEC09D35FD3.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "",
+        "parkCode": "tusk",
+        "designation": "National Monument",
+        "fullName": "Tule Springs Fossil Beds National Monument",
+        "url": "https://www.nps.gov/tusk/index.htm",
+        "name": "Tule Springs Fossil Beds"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [
+      "Moccasin Road",
+      "Durango",
+      "North Durango Drive",
+      "West Moccasin Road",
+      "Moccasin",
+      "Durango Drive",
+      "Las Vegas",
+      "Spring Mountain Range",
+      "Las Vegas Range",
+      "Sheep Mountain Range"
+    ],
+    "latitude": "36.33586120605469",
+    "longitude": "-115.27972412109375",
+    "latLong": "36.33586120605469,-115.27972412109375",
+    "bodyText": "The park is new, and therefore there are no facilities or designated trails yet.  Park at the City of Las Vegas' paved asphalt parking lot at the end of N. Durango Dr. & W. Moccasin Road to view the Durango/Moccasin interpretive kiosk describing the hydrology, climate and changing habitats of Tule Springs, safety tips, park regulations, and a map of the monument.  This area features badlands terrain and scenic views of the Sheep, Las Vegas, and Spring Mountain ranges. Enter the park from here by foot for a self-directed hike across this unique terrain.",
+    "audioDescription": "",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "https://www.nps.gov/tusk/index.htm",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "",
+    "isManagedByNps": "1",
+    "amenities": [
+      "Accessible Sites",
+      "Cellular Signal",
+      "Historical/Interpretive Information/Exhibits",
+      "Parking - Auto",
+      "Parking - Bus/RV",
+      "Scenic View/Photo Spot",
+      "Trailhead",
+      "Trash/Litter Receptacles",
+      "Wheelchair Accessible"
+    ],
+    "managedByOrg": "",
+    "quickFacts": [
+      {
+        "id": "5C252B96-2DEB-4EF4-91D1-B5D2B202FCD7",
+        "value": "36°20'09.1'' N, 115°16'47.0'' W",
+        "name": "Location"
+      },
+      {
+        "id": "208F1B3C-44DC-4CF5-9A61-9B26A364D701",
+        "value": "Parking",
+        "name": "Significance"
+      }
+    ],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  },
+  {
+    "id": "319D6D5A-9DEF-4D1E-A292-EF54C183EC05",
+    "url": "https://www.nps.gov/places/eglington-preserve-kiosk.htm",
+    "title": "Eglington Preserve Kiosk",
+    "listingDescription": "This interpretive kiosk is located along an unpaved section of Grand Teton Rd. at the entrance to the Eglington Preserve, where you can view native and rare plants such as the Las Vegas bearpoppy and various types of wildlife. The kiosk features information on the native and rare plants within Tule Springs, safety tips, park regulations, and a map of the monument.",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/331F7186-A3EB-3BEE-393164C60459EDEA.jpg",
+        "credit": "Andrew Cattoir",
+        "altText": "Eglington Preserve Kiosk",
+        "title": "Eglington Preserve Kiosk",
+        "description": "",
+        "caption": "Eglington Preserve Kiosk",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/331F7186-A3EB-3BEE-393164C60459EDEA.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/331F7186-A3EB-3BEE-393164C60459EDEA.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "",
+        "parkCode": "tusk",
+        "designation": "National Monument",
+        "fullName": "Tule Springs Fossil Beds National Monument",
+        "url": "https://www.nps.gov/tusk/index.htm",
+        "name": "Tule Springs Fossil Beds"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [
+      "Eglington",
+      "plant preserve",
+      "Eglington Preserve",
+      "Grand Teton Road",
+      "Grand Teton",
+      "wildlife",
+      "Las Vegas Bearpoppy",
+      "North Las Vegas"
+    ],
+    "latitude": "36.30588912963867",
+    "longitude": "-115.16864013671875",
+    "latLong": "36.30588912963867,-115.16864013671875",
+    "bodyText": "This interpretive kiosk is located along an unpaved section of Grand Teton Rd. at the entrance to the Eglington Preserve, where you can view native and rare plants such as the Las Vegas bearpoppy and various types of wildlife. The kiosk features information on the native and rare plants within Tule Springs, safety tips, park regulations, and a map of the monument. ",
+    "audioDescription": "",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "https://www.nps.gov/tusk/index.htm",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "",
+    "isManagedByNps": "1",
+    "amenities": [
+      "Cellular Signal",
+      "Historical/Interpretive Information/Exhibits",
+      "Scenic View/Photo Spot",
+      "Trailhead"
+    ],
+    "managedByOrg": "",
+    "quickFacts": [
+      {
+        "id": "5C252B96-2DEB-4EF4-91D1-B5D2B202FCD7",
+        "value": "36°18'21.2'' N, 115°10'07.1'' W",
+        "name": "Location"
+      },
+      {
+        "id": "208F1B3C-44DC-4CF5-9A61-9B26A364D701",
+        "value": "Wayside",
+        "name": "Significance"
+      }
+    ],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  }
+]

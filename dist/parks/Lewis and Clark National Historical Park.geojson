@@ -1,0 +1,635 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.87667647734158,
+          46.12130639290711
+        ]
+      },
+      "properties": {
+        "name": "\"Bioswales A River Friendly Filter\" Sign",
+        "notes": "\"Bioswales A River Friendly Filter\" Sign\nhttps://www.nps.gov/places/-bioswales-a-river-friendly-filter-sign.htm\n\nFound just a little south of the North Netul Picnic Shelter, this sign explains what a Bioswale is and how it works to benefit the local ecosystem. <br /> <br /> An audio description of this sign is available by using your device's screen reader tool.<br /> <br /> This is the final stop on the Restoring Nature Audio Tour.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.9104751912703,
+          46.2471379224018
+        ]
+      },
+      "properties": {
+        "name": "\"Explore This Place\" Sign at MV",
+        "notes": "\"Explore This Place\" Sign at MV\nhttps://www.nps.gov/places/-explore-this-place-sign-at-mv.htm\n\nThis sign will help to guide you on your own voyage of discovery here at Middle Village. You'll begin by heading to the left and up to the River Overlook for an introduction to the local Chinook nation and early explorers here in the area, but feel free to explore in any direction you wish!<br /> <br /> It should be noted there will be no QR codes present on these signs, and instead you will find any relevant information in the National Park Service app instead.<br /> <br /> An audio description of this sign is available by having a screen reader active in the NPS app.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.87676470515035,
+          46.121839470531874
+        ]
+      },
+      "properties": {
+        "name": "\"If Not For The Rain\" Sign",
+        "notes": "\"If Not For The Rain\" Sign\nhttps://www.nps.gov/places/-if-not-for-the-rain-sign.htm\n\nLocated at the North Netul Picnic Shelter, the \"If Not for the Rain\" sign details some of the activities at Fort Clatsop. Use your device's screen reader for a reading of the sign.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.87670451386981,
+          46.121827589670474
+        ]
+      },
+      "properties": {
+        "name": "\"Lewis and Clark Discover the Clatsop\" sign",
+        "notes": "\"Lewis and Clark Discover the Clatsop\" sign\nhttps://www.nps.gov/places/-lewis-and-clark-discover-the-clatsop-sign.htm\n\nLocated at the North Netul Picnic Shelter, the \"Lewis and Clark Discover the Clatsop\" sign details one of their interactions with the local indigenous people. This sign has a counterpart, \"The Clatsop Discover Lewis and Clark,\" next to it, showing off both sides of this interaction. Use your device's screen reader for a reading of the sign.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.87972335,
+          46.1343692574
+        ]
+      },
+      "properties": {
+        "name": "\"Look at the Land\" Sign",
+        "notes": "\"Look at the Land\" Sign\nhttps://www.nps.gov/places/-look-at-the-land-sign.htm\n\nNanich-iliɂi, pronounced nan-eech-illi-he, or look at the land were instructions given to the expedition for their journey across the country. It was part of their daily duties to write about the face of the country and what existed beyond the United States borders. This sign is but one reminder of the many jobs given to the Corps of Discovery.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.87678095023207,
+          46.12180077791074
+        ]
+      },
+      "properties": {
+        "name": "\"Selecting a Winter Campsite\" Sign",
+        "notes": "\"Selecting a Winter Campsite\" Sign\nhttps://www.nps.gov/places/-selecting-a-winter-campsite-sign.htm\n\nLocated at the North Netul Picnic Shelter, the \"Selecting a Winter Campsite\" sign details the where and why the expedition picked the spot for Fort Clatsop. Use your device's screen reader for a reading of the sign.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.87676953372957,
+          46.121705140127965
+        ]
+      },
+      "properties": {
+        "name": "\"Struggling at the Pacific\" Sign",
+        "notes": "\"Struggling at the Pacific\" Sign\nhttps://www.nps.gov/places/-struggling-at-the-pacific-sign.htm\n\nFound at the North Netul Picnic Shelter, the \"Struggling at the Pacific\" sign has quotes, notes, and a map about the expeditions time here at the Pacific Ocean. Use your device's screen reader for a reading of the sign.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.87670640471183,
+          46.121800911696596
+        ]
+      },
+      "properties": {
+        "name": "\"The Clatsop Discover Lewis and Clark\" sign",
+        "notes": "\"The Clatsop Discover Lewis and Clark\" sign\nhttps://www.nps.gov/places/-the-clatsop-discover-lewis-and-clark-sign.htm\n\nLocated at the North Netul Picnic Shelter, the \"The Clatsop Discover Lewis and Clark\" sign notes how familiar the local people were with oversea traders and an interaction with the expedition. Use your device's screen reader for a reading of the sign.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.87671696808816,
+          46.1217097857419
+        ]
+      },
+      "properties": {
+        "name": "\"Venturing Into the West\" Sign",
+        "notes": "\"Venturing Into the West\" Sign\nhttps://www.nps.gov/places/-venturing-into-the-west-sign.htm\n\nThis interpretive sign is found within the North Netul Picnic Shelter. \"Venturing into the West\" gives a quote from President Jefferson's Instructions to Captain Lewis as well as six notable points across the expedition. Use your device's screen reader for a reading of the sign.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.87938499633434,
+          46.1343079544815
+        ]
+      },
+      "properties": {
+        "name": "\"Winter Encampment\" Sign",
+        "notes": "\"Winter Encampment\" Sign\nhttps://www.nps.gov/places/-winter-encampment-sign.htm\n\nFound on the trail down to Fort Clatsop this sign provides information on the layout of Fort Clatsop and is recommended to read before you venture into the fort grounds. Cleverly disguised next to it is a trash can appearing as a tree stump.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.058739,
+          46.282639
+        ]
+      },
+      "properties": {
+        "name": "Cape Disappointment",
+        "notes": "Cape Disappointment\nhttps://www.nps.gov/places/cape-disappointment-wa.htm\n\n<p dir=\"ltr\" style=\"margin-top:0pt; margin-bottom:0pt\">A notable landmark of the Pacific Northwest, Cape Disappointment was already named by the time Lewis and Clark reached the site in November 1805.  The first known documentation of the site was in 1775 by Spanish explorer Bruno Heceta, who named it “Bahia de La Asuncion,” or Bay of the Assumption.  Then in 1788, British trader John Meares named it “Cape Disappointment” when he mistakenly believed that the mouth of the Columbia River was only a bay. <br /> <br /> Meriwether Lewis laid eyes on the area in mid-November 1805 – he proceeded on by land while the rest of the Expedition sheltered at Dismal Nitch.  He returned to camp on November 17 and Patrick Gass wrote in his journal, “They had been round the bay, and seen where white people had been in the course of the summer; but they had all sailed away.”  For this reason, Cape Disappointment had a different, unhappy meaning to the men of the Corps. <br /> <br /> Today, the Cape is a Washington State Park which pays tribute to the many different uses of the area, from military outpost during the Civil War and World War II, to iconic lighthouses. Hike through old-growth forest or around freshwater lakes, saltwater marshes and ocean tidelands. Gape at the breathtaking views. Launch your boat from Baker Bay. Benson Beach is a popular clam-digging destination, and fishers love to set up on the North Jetty to catch salmon and crab. The beaches at Cape Disappointment also lure kite-fliers, sand-castle builders and those who love to walk and explore.  <br /> <br /> But be sure to visit the Lewis and Clark Interpretive Center for numerous interactive displays. Standing high on the cliffs of the Cape, 200 feet above the pounding Pacific surf, the Center is filled with information, artwork, and film presentations about the Corps of Discovery.  From April 1 to October 31, it’sr open from 10 a.m. to 5 p.m.<br /> <br /> Summer hours for the park are from 6:30 a.m. to dusk. A Washington State Park Discovery Pass is required; an automated pay station is on site.  A separate fee is required for the Lewis and Clark Interpretive Center.  For more information, go to: http://parks.state.wa.us/486/Cape-Disappointment.<br /> <br /> <a href=\"http://parks.state.wa.us/486/Cape-Disappointment\">Cape Disappointment</a> is a <a href=\"https://www.nps.gov/lecl/learn/historyculture/places.htm\">High Potential Historic Site</a> on the <a href=\"https://www.nps.gov/lecl/index.htm\">Lewis and Clark National Historic Trail.</a><br /> <br /> On November 14, 1805, while the expedition sheltered at Dismal Nitch, Lewis “concluded to proceed on by land & find if possible the white people the Indians Say is below and examine if a Bay is Situated near the mouth of this river as laid down by Vancouver in which we expect, if there is white traders to find them.” On November 17, Lewis “returned haveing travesed Haleys Bay to Cape Disapointment and the Sea Coast to the North for Some distance.” Gass remarked, “They had been round the bay, and seen where white people had been in the course of the summer: but they had all sailed away.” The next day Clark and 11 others “who wished to See more of the main Ocian” made the trip to Cape Disappointment and the northern coastline, rejoining the main party at Station Camp on November 20.<br /> <br /> The cape was a notable maritime landmark of the Pacific Northwest, with the first known documentation in 1775 by Spanish explorer Bruno Heceta, who named it “Bahia de La Asuncion.” British trader John Meares named it “Cape Disappointment” in 1788, due to his mistaken belief that the mouth of the Columbia River was only a bay. The United States deemed Cape Disappointment strategically significant enough to base military fortifications there during the Civil War and World War II. Construction of a lighthouse was complet­ed in 1856. The decommissioned military fortification and lighthouse are now encompassed by the <a href=\"http://parks.state.wa.us/486/Cape-Disappointment\">Camp Disappointment State Park</a>, which includes a <a href=\"http://parks.state.wa.us/187/Cape-Disappointment\">Lewis and Clark Interpretive Center.</a></p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.058584554333,
+          46.2824777686341
+        ]
+      },
+      "properties": {
+        "name": "Cape Disappointment State Park",
+        "notes": "Cape Disappointment State Park\nhttps://www.nps.gov/places/cape-disappointment-state-park.htm\n\n<h3>Overview</h3> Located in Ilwaco, Washington, Cape Disappointment State Park is a 2,023-acre park located on the Long Beach Peninsula. With the Pacific Ocean to the west and a view of the mouth of the Columbia River, Cape Disappointment offers plenty of recreational opportunities and beautiful vistas.<br /> <br /> <span style=\"color: rgb(34, 34, 34); font-family: Georgia, Times, \"Times New Roman\", serif; font-size: 1.5625rem; letter-spacing: -0.25px;\">History</span><br /> The cape was named by Captain John Meares’ after his first failed attempt to find the Columbia River in 1788. Meriwether Lewis and William Clark would later conduct reconnaissance of this area during their stay at Station Camp from November 15 to November 24, 1805.<br /> <br /> <span style=\"color: rgb(34, 34, 34); font-family: Georgia, Times, \"Times New Roman\", serif; font-size: 1.5625rem; letter-spacing: -0.25px;\">Today</span><br /> The park provides many hiking opportunities, including 8 miles of trails leading through old-growth forest or around freshwater lakes and saltwater marshes. Additional outdoor activities include boating from Baker Bay, fishing at the North Jetty, or taking a walk on Benson Beach. Farther inland, visitors will enjoy wandering through the ruins of World War II era bunkers and coastal defense batteries, or exploring the North Head Lighthouse.<br /> <br /> The Lewis and Clark Interpretive Center is perched on the wind-swept cliffs 200 feet above the surf. The museum features a number of interactive exhibits focused on the area’s history, with special focus on the story of the Corps of Discovery’s journey, particularly on their Pacific Coast stay during the winter of 1805-1806.  A series of mural-size timeline panels guide visitors through the westward journey of the Expedition using sketches, paintings, photographs, and the words of the journal writers.  <br /> <br /> Cape Disappointment State Park’s operating hours vary by season. Visitors must purchase a park pass to enter the park, and there are additional admission fees for the interpretive center and the North Head Lighthouse Tour. For more information, visit <a href=\"https://www.parks.state.wa.us/486/Cape-Disappointment\">Cape Disappointment State Park | Washington State Parks and Recreation Commission</a>.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Cape Disappointment, Washington",
+        "notes": "Cape Disappointment, Washington\nhttps://www.nps.gov/places/cape-disappointment-washington.htm\n\n<p paraeid=\"{7ff86757-2228-4cf7-8138-7261d785a4b5}{197}\" paraid=\"2141832612\">“The Indians both at this, & the other Indian village that we passed this day, made signs to us that there were vessells lying at the Mouth of this River.  Some of them signed to us that the Vessells were gone away from it.”—Joseph Whitehouse, November 7, 1805 </p> <p paraeid=\"{7ff86757-2228-4cf7-8138-7261d785a4b5}{217}\" paraid=\"1219571753\">Meriwether Lewis and William Clark knew long before they reached the Pacific Ocean that Europeans were already visiting the mouth of the Columbia River.  </p> <p paraeid=\"{7ff86757-2228-4cf7-8138-7261d785a4b5}{245}\" paraid=\"1429051183\">When the Lewis and Clark Expedition reached the Pacific at Cape Disappointment, they hoped to see some of fellow White men and their ocean-going ships—in part so they could restock their supply of manufactured goods. These items were important to trade and gift with Indigenous people, in exchange for food and to establish positive relations.  </p> <p paraeid=\"{ca333994-8781-4f03-923d-7d3ed2db50cc}{46}\" paraid=\"879694511\">Chinookan people, who lived along and controlled traffic on the Lower Columbia, told Lewis about how they traded with these White men. Some Chinookan people said words in English that they had picked up from the traders. Lewis relayed what they told him,  </p> <p paraeid=\"{ca333994-8781-4f03-923d-7d3ed2db50cc}{88}\" paraid=\"997359151\">The traders usually arrive in this quarter . . . in the month of April, and remain untill October; when here they lay at anchor in a bay within <a href=\"https://lewisandclarkjournals.unl.edu/search?places=Cape%20Disappointment\">Cape Disappointment</a> on the N. side of the river; here they are visited by the natives in their canoes who run along side and barter their comodities with them, their being no houses or fortification on shore for that purpose. . . . </p> <p paraeid=\"{ca333994-8781-4f03-923d-7d3ed2db50cc}{121}\" paraid=\"382140912\">Based on this, Lewis and Clark decided to spend the winter nearby, in case any European ships arrived.</p> <p paraeid=\"{ca333994-8781-4f03-923d-7d3ed2db50cc}{145}\" paraid=\"1804564642\">But they never saw one. They left in March, likely missing the next ship by just three months. Chinookan people would have still been there, ready to trade.  </p> <p paraeid=\"{ca333994-8781-4f03-923d-7d3ed2db50cc}{183}\" paraid=\"2079587630\">Europeans had named this place Cape Disappointment. Joseph Whitehouse wrote that the name fit, “on account of not finding Vessells there.”<br /> <br /> About this article: This article is part of a series called <a href=\"https://www.nps.gov/lecl/learn/historyculture/pivotal-places-stories-from-the-lewis-and-clark-national-historic-trail.htm\">“Pivotal Places: Stories from the Lewis and Clark National Historic Trail.”</a></p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.86030366621449,
+          46.24931174791805
+        ]
+      },
+      "properties": {
+        "name": "Dismal Nitch",
+        "notes": "Dismal Nitch\nhttps://www.nps.gov/places/dismal-nitch.htm\n\n<h3>History</h3> Miserable and soaked to the skin, the Corps of Discovery had followed the shoreline of Grays Bay (Shallow Bay in the journals) for two days in an attempt to round modern day Point Ellice (Point Distress in the journals). At this point in their journey, they had run out of fresh food, and their clothes were quite literally rotting away. Getting around Point Ellice/Distress would have allowed them to meet up with one of the last trading ships of the season and refresh their supplies.<br /> <br /> What the Corps didn’t realize, however, was that it was about to run into some of the journey’s most treacherous moments. A fierce winter storm forced the Corps off the river on November 10, and pinned the group to a north shore cove consisting of little more than jagged rocks and steep hillside. Captain William Clark named the dreary spot “that dismal little nitch.” For six stormy days, the group was trapped by fierce wind and high waves at the rocky shoreline. For only the second time in the expedition, Clark said he was concerned for the safety of the Corps. <br /> <br /> It would be five days later, on November 15, that a break in the weather finally allowed the men to move forward. Once the wind and river calmed, Clark ordered the canoes loaded as quickly as possible and the Corps was able to make it around Point Ellice/Distress. They landed on a sandy beach where they established Station Camp. They missed the trading ship, but eventually achieved their exploration goals.<br /> <br /> In the following years this site became a fish receiving station to support a cannery operation, and later a ferry landing and train station. Eventually in 1968 and 1969 the Washington Department of Highways demolished the ferry landing and constructed the Megler Rest Area in its place. The Megler Rest Area was renamed the Dismal Nitch Rest Area in 2005. <h3>Today</h3> Located on SR 401, ten miles south of Naselle, Washington, visitors will find interpretive wayside exhibits about the expedition, as well as a short trail that leads to the approximate location of Lewis and Clark’s campsite. Great views of the Columbia River, birds, and the vibrant shipping lane are highlights of this site.<br /> <br /> Dismal Nitch<span style=\"font-size:12pt\"><span style=\"font-family:Calibri,sans-serif\"><span style=\"font-size:11.0pt\"> is a </span></span></span><a href=\"https://www.nps.gov/lecl/learn/historyculture/places.htm\">High Potential Historic Site</a><span style=\"font-size:12pt\"><span style=\"font-family:Calibri,sans-serif\"><span style=\"font-size:11.0pt\"> on the </span></span></span><a href=\"https://www.nps.gov/lecl/index.htm\">Lewis and Clark National Historic Trail.</a><br />  ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.9779293,
+          45.92778737
+        ]
+      },
+      "properties": {
+        "name": "Ecola State Park",
+        "notes": "Ecola State Park\nhttps://www.nps.gov/places/ecola-state-park.htm\n\n<h3>Overview</h3> <p>Located an hour west of Portland, Oregon between Seaside and Cannon Beach, Ecola State Park stretches along 9 miles of coastline and offers outstanding sightseeing and recreation opportunities, as well as a look into the history of the area. Breathtaking scenery and hiking may be the main allure, but Ecola also provides opportunities for picnicking, tidepooling, surfing and wildlife observation. </p> <h3>History</h3> <p>Captain William Clark and 12 members of the Corps of Discovery traveled through what is now the park in 1806 in search of a beached whale near present-day Cannon Beach.  Within the park you'll find a strand of shoreline now called Indian Beach, which was once home to several Tillamook villages. When passing through on January 8, 1806, William Clark’s guide pointed out these village to the explorer. In his journal, Clark describes them, saying:</p> <blockquote> <p>“… from this point of View my guide pointed to a village at the mouth fo a Small river near which place he Said the whale was, he also pointed to 4 other places where the princpal Villages of the <em><a href=\"https://lewisandclarkjournals.unl.edu/search?lc_native_nation_ss=Tillamook%20Indians\">Kil la mox</a> </em>were Situated, I could plainly See the houses of 2 of those Villeges & the Smoke of a 3rd which was two far of for me to disern with my naked eye— <a href=\"https://lewisandclarkjournals.unl.edu/item/lc.jrn.1806-01-08#n27010809\"><sup>[9]</sup></a> after taking the Courses and computed the Distances in my own mind, I proceeded on down a Steep decent to a Single house the remains of an old <em><a href=\"https://lewisandclarkjournals.unl.edu/search?lc_native_nation_ss=Tillamook%20Indians\">Kil a mox</a> </em>Town <a href=\"https://lewisandclarkjournals.unl.edu/item/lc.jrn.1806-01-08#n27010810\"><sup>[10]</sup></a> in a nitch imediately on the Sea Coast, at which place great no. of eregular rocks are out and the waves comes in with great force…\"</p> </blockquote> <p>After scaling the north slope of Tillamook Head and reaching one of its viewpoints, Clarke described the vista as “… the grandest and most pleasing prospects which my eyes ever surveyed…”</p> <h3>Today</h3> <p>The park’s network of trails include an 8 mile segment of the Oregon Coast Trail, and a 2 1/2 mile historical interpretive route called the Clatsop Loop Trail. Part of the Clatsop Loop Trail and the trail over Tillamook Head follow in the footsteps of the Corps of Discovery. <br /> <br /> Entrance into the park requires an entrance fee or park pass. For more information, visit <a href=\"https://stateparks.oregon.gov/index.cfm?do=park.profile&parkId=136\">Ecola State Park - Oregon State Parks</a>.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.87531280517578,
+          46.11749502204539
+        ]
+      },
+      "properties": {
+        "name": "Ethnobotanical Garden",
+        "notes": "Ethnobotanical Garden\nhttps://www.nps.gov/places/ethnobotanical-garden.htm\n\n<p paraeid=\"{caab3b75-70c9-44a2-adc9-395b61dbb3f3}{9}\" paraid=\"517530488\">The ethnobotanical garden is a native plant garden dedicated to displaying some of the plants used by local native peoples such as the Clatsop and Chinooks for food, medicine, and textiles. The plantings are arranged in four natural plant communities, each of which reflect one of the many habitats found in the greater surrounding area.  </p> <p paraeid=\"{caab3b75-70c9-44a2-adc9-395b61dbb3f3}{31}\" paraid=\"26946175\">The garden was created through collaborative efforts of the Clatsop Nehalem Confederated Tribes 501-C3, Edgewater Landscaping, the Tongue Point Job Corps landscaping program, and the National Park Service.  </p> <p paraeid=\"{caab3b75-70c9-44a2-adc9-395b61dbb3f3}{37}\" paraid=\"951708309\">When gathering from the wild, we encourage you to approach nature with the traditional NW tribal values of respect, gratitude, and reciprocity. Please take only what you can use, and always look for ways you can give back. Do not harvest or ingest any wild plant without confirmation from an expert. Harvest from this interpretive garden is allowed only through official park programs. If you are interested in helping us care for it, let us know!  </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.87902729734498,
+          46.134183469469235
+        ]
+      },
+      "properties": {
+        "name": "Fort Clatsop",
+        "notes": "Fort Clatsop\nhttps://www.nps.gov/places/fort-clatsop-or.htm\n\n<h3>History</h3> <p>Fort Clatsop was the winter encampment for the Corps of Discovery from December 1805 to March 1806. After finding a location that offered plenty of game and close proximity to the ocean, Clark sketched a preliminary site plan, and they began construction in early December. The fort was completed by January 1st and housed 32 men, one woman, a baby, and a dog. Joseph Whitehouse wrote that the officers named the fort \"after a nation of Indians who resided near us, called the Clatsop Nation.\" They spent the extremely rainy winter collecting supplies, making salt and leather, and preparing their maps and journals. <br /> <br /> After the expedition finally departed on March 23, 1806, Fort Clatsop gradually deteriorated. A reconstruction of the fort based on Clark's sketch was completed in 1955, but burned down in 2005. Today a second replica, completed in 2006, can be explored in the same location.</p> <h3>Today</h3> <p>Visitors can experience the newest replica of Fort Clatsop by walking through the rooms, <a href=\"https://www.nps.gov/lewi/planyourvisit/trails.htm\">hiking the trails </a>around the area, chatting with costumed rangers, and participating in ranger-led programs during the peak seasons.<br /> <br /> The visitor center located at this site provides basic amenities and offers a museum, <a href=\"https://www.nps.gov/lewi/learn/bookstore.htm\">bookstore</a>, and two films. Make sure to check in with a ranger at the visitor center prior to exploring the park to get a map, receive additional information, and pay any <a href=\"https://www.nps.gov/lewi/planyourvisit/fees.htm\">park fees</a><br /> <br /> In the Summer time, between Memorial and Labor day, you can visit the Fort any time between 9 AM and 6 PM. In the off season the rest of the year the site is open from 9 AM to 5 PM.<br />  </p>   <p>Fort Clatsop is a<span style=\"font-size:12pt\"><span style=\"font-family:Calibri,sans-serif\"><span style=\"font-size:11.0pt\"> </span></span></span><a href=\"https://www.nps.gov/lecl/learn/historyculture/places.htm\">High Potential Historic Site</a> on the<span style=\"font-size:12pt\"><span style=\"font-family:Calibri,sans-serif\"><span style=\"font-size:11.0pt\"> </span></span></span><a href=\"https://www.nps.gov/lecl/index.htm\">Lewis and Clark National Historic Trail.</a></p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Fort Clatsop / Stealing the Canoe",
+        "notes": "Fort Clatsop / Stealing the Canoe\nhttps://www.nps.gov/places/fort-clatsop-stealing-the-canoe.htm\n\n<p paraeid=\"{e184b8cb-fa5a-4ab6-910c-f6720fa20407}{171}\" paraid=\"2140629246\">Clatsop peoples’ homelands are south of the Columbia River, not far from the Pacific Ocean. They speak a Chinookan language and traded often with other people in villages up and down the river. Like other people living on the Lower Columbia River, they were expert <a href=\"https://www.nps.gov/articles/000/chinook-canoes.htm\">canoe-makers</a> and navigators.  </p> <p paraeid=\"{e184b8cb-fa5a-4ab6-910c-f6720fa20407}{203}\" paraid=\"12631031\">Coboway was the leader of a Clatsop village located in what is now Fort Stevens State Park. In the winter of 1805, Coboway gave Meriwether Lewis and William Clark his blessing to build a house in the area.  </p> <p paraeid=\"{e184b8cb-fa5a-4ab6-910c-f6720fa20407}{241}\" paraid=\"1150225614\">Coboway and other Clatsop people visited and helped the expedition members many times during the winter of 1805–1806. They brought wapato, berries, fish, whale blubber, dogs, <a href=\"https://www.nps.gov/places/dismal-nitch-washington.htm\">otter skins</a>, cedar bark hats, and canoes to trade with the visitors in exchange for manufactured goods such as glass beads, files, razors, other tools, and thread. Sometimes Coboway stayed overnight, and Lewis showed off the <a href=\"https://www.nps.gov/articles/000/lewis-s-air-gun.htm\">air gun</a> to him. Coboway and his friends also helped two of the expedition members, George Drouillard and Jean-Baptiste Lepage, carry the animals they hunted back to Fort Clatsop. </p> <p paraeid=\"{59296d9b-333c-45a8-8acd-4fa3a96fe73d}{114}\" paraid=\"1749108976\">Coboway was “the most friendly and decent” person in the area, wrote Lewis, after Coboway brought him a present of cured anchovies. </p> <p paraeid=\"{59296d9b-333c-45a8-8acd-4fa3a96fe73d}{144}\" paraid=\"2025549979\">Lewis knew they needed a new canoe for the journey home, and he had tried to buy one from Clatsop people. However, the items Lewis offered—including his fancy dress uniform—were not a sufficient trade for the valuable canoe.  </p> <p paraeid=\"{59296d9b-333c-45a8-8acd-4fa3a96fe73d}{168}\" paraid=\"1756275604\">Rather than offer more, Lewis directed his men to steal a canoe: “we yet want another canoe, and as the <a href=\"https://lewisandclarkjournals.unl.edu/search?lc_native_nation_ss=Clatsop%20Indians\">Clatsops</a> will not sell us one at a price which we can afford to give we will take one from them in lue of the six Elk which they stole from us in the winter.” But Coboway had already brought presents to make up for the stolen elk. </p> <p paraeid=\"{59296d9b-333c-45a8-8acd-4fa3a96fe73d}{205}\" paraid=\"1398587761\">And so, after all Coboway’s kindness and hospitality, Lewis and Clark broke the trust established through months of friendship and trade with Clatsop people and stole a canoe. <br /> <br /> About this article: This article is part of a series called <a href=\"https://www.nps.gov/lecl/learn/historyculture/pivotal-places-stories-from-the-lewis-and-clark-national-historic-trail.htm\">“Pivotal Places: Stories from the Lewis and Clark National Historic Trail.”</a></p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.880091,
+          46.134139
+        ]
+      },
+      "properties": {
+        "name": "Fort Clatsop Entrance Sign",
+        "notes": "Fort Clatsop Entrance Sign\nhttps://www.nps.gov/places/fort-clatsop-entrance-sign.htm\n\nServing as the first welcome sign to our park site, this sign has served as a selfie spot. It serves as the final stop on the Fort Clatsop Audio Tour.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.8803349436554,
+          46.13428190154885
+        ]
+      },
+      "properties": {
+        "name": "Fort Clatsop Rain Garden",
+        "notes": "Fort Clatsop Rain Garden\nhttps://www.nps.gov/places/fort-clatsop-rain-garden.htm\n\nThe rain garden at the Fort Clatsop Visitor center is an important part of helping the local ecosystem. Rain gardens purify water naturally, designed to hold rainwater for a short time and then slowly release it into the ground where plant roots, microbes, and more remove pollutants from the water before it reaches the Lewis and Clark River. <br /> <br /> Spend some time looking around and you may see some of the creatures that call the rain garden home, anything from Banana Slugs and spiders to Pacific Tree Frogs and birds may be found here. <br /> <br /> An audio description of the sign \"Drop by Drop, Garden to Sea\" is available at this location using your phones screen reader on this page.<br /> <br /> This location serves as stops 1-4 on the Restoring Nature Audio Tour.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.94561990684278,
+          46.272829169540024
+        ]
+      },
+      "properties": {
+        "name": "Fort Columbia Historical State Park",
+        "notes": "Fort Columbia Historical State Park\nhttps://www.nps.gov/places/fort-columbia-historical-state-park.htm\n\n<h3>History</h3> <br /> Considered one of the most intact historic coastal defense sites in the United States, Fort Columbia is situated atop Chinook Point and was built between 1896 and 1903. After being de-commissioned in 1947, this former military installation became a 618-acre Washington State Historical Park.<br /> <br /> Although often referred to as an early 20<sup>th</sup> century site, the history of the land upon which Fort Columbia sits goes back much further. Chinook Point, the setting of this historic fort, is within the accustomed territory of the Chinook Indian Nation and is designated as a National Historic Landmark for its historical significance over three centuries. Meriwether Lewis and William Clark passed through this area as well on January 9<sup>th</sup>, 1806. <h3>Today</h3> <br /> Fort Columbia Historical State Park features a self-guided interpretive walk that details the area’s history, and visitors will find informational exhibits near the fort’s gun batteries. In addition to it's history, the area offers bird watching, miles of forested hiking trails, secluded beaches, wildlife viewing opportunities, and an interpretive center. Here, visitors will find exhibits focused on the history of Fort Columbia, including the area’s early exploration, fur trade, and western settlement. A pass is required to enter the park.<br /> <br /> For more information on the park or to download a park brochure, visit their website at <a href=\"https://parks.state.wa.us/506/Fort-Columbia\">Fort Columbia Historical State Park</a>.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.97989654541016,
+          46.19950866699219
+        ]
+      },
+      "properties": {
+        "name": "Fort Stevens State Park",
+        "notes": "Fort Stevens State Park\nhttps://www.nps.gov/places/fort-stevens-state-park.htm\n\n<h3>Overview</h3> Fort Stevens State Park marks the site of a military installation once used to guard the mouth of the Columbia River. Today Fort Stevens is a 4,300-acre park offering a variety of recreation adventures including camping, beach-combing, a freshwater lake, museum, trails, wildlife viewing, and a historic shipwreck.<br /> <br /> <span style=\"color: rgb(34, 34, 34); font-family: Georgia, Times, \"Times New Roman\", serif; font-size: 1.5625rem; letter-spacing: -0.25px;\">History</span><br /> Situated inside Fort Stevens State Park at the mouth of the Columbia River, Point Adams has served as an important landmark for centuries. When Europeans first arrived in the area, it was the site of a large Clatsop settlement, and William Clark noted eight large houses on the site when they passed by in 1805. <br /> <br /> The area later became a Civil War-era military fort established in 1863. The original earthen fort was built to keep British and Confederate gunboats from entering the mouth of the Columbia River. <br /> <br /> After World War II, Fort Stevens was considered obsolete, and it was turned over to the U.S. Army Corps of Engineers for use as a headquarters in 1947. Then, in 1975, the site was officially designed a state park after being leased to Oregon State Parks.<br /> <br /> <span style=\"color: rgb(34, 34, 34); font-family: Georgia, Times, \"Times New Roman\", serif; font-size: 1.5625rem; letter-spacing: -0.25px;\">Today</span><br /> Visitors can visit the historic Fort Stevens and Point Adams. The park’s visitor center and museum interpret the site’s long history. Tours through the old earthen fort and artillery gun batteries are also available. Those with a passion for the outdoors will enjoy the golf course, fishing, 15 miles of multi-use trails, and access to Coffenbury Lake for swimming and boating. Picnic tables are available on a first-come-first-served basis.<br /> <br /> There are several camping options available in one of the countries largest public campgrounds. All campsites are ADA accessible and come equipped with a picnic table and grill. Yurts and cabins are also available for rent. Restrooms, showers, a playground, and a dump station are on site.<br /> <br /> A day-use pass is required for entrance. For more information, visit the park’s website at <a href=\"https://stateparks.oregon.gov/index.cfm?do=park.profile&parkId=129\">Fort Stevens State Park - Oregon State Parks</a>.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.8782659914213,
+          46.13467930879579
+        ]
+      },
+      "properties": {
+        "name": "Fresh Water Spring at Fort Clatsop",
+        "notes": "Fresh Water Spring at Fort Clatsop\nhttps://www.nps.gov/places/fresh-water-spring-at-fort-clatsop.htm\n\nOut of all of the neccesities of survival water is one of the most important, and despite being on the Columbia River as well as the Netul River surprisingly was one of the more difficult items to find. Specifically fresh water was difficult to find, as the rivers of this area are tidally influenced and are brackish water which the expedition soon learned was undrinkable. <br /> <br /> One of the likely reasons they chose the spot they did for Fort Clatsop was proximity to this fresh water spring. The spring is rainfed, being filled and beautifully flowing in the fall, winter, and spring while being almost entirely barren and dry in the summer.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.87907305407876,
+          46.13412970536142
+        ]
+      },
+      "properties": {
+        "name": "Gates of Fort Clatsop",
+        "notes": "Gates of Fort Clatsop\nhttps://www.nps.gov/places/gates-of-fort-clatsop.htm\n\nThe gates of Fort Clatsop served as a reminder to all that this was still a military expedition and the Corps of Discovery would abide by military law at all times. The gates would be closed at sundown every evening once the fort was complete and any indigenous visitors would be asked to leave unless under special circumstance.<br /> <br /> The expedition did not expect attack nor hosility but knew it to always be better safe than sorry. This was not only directed to local people but to any other nation that could have been present in the area as trading ships and vessels from over seas have been coming to the mouth of the Columbia River for years.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.87822964672354,
+          46.132345895236995
+        ]
+      },
+      "properties": {
+        "name": "Historical Canoe Landing at Fort Clatsop",
+        "notes": "Historical Canoe Landing at Fort Clatsop\nhttps://www.nps.gov/places/historical-canoe-landing-at-fort-clatsop.htm\n\nUsing the rivers to travel had both advantages and disadvantages although usually more of the former. This spot is noted as the landing of the expedition's canoes and where they would set out from in order to check if the high-rising bluff was a suitable site for making their winter encampment. <br /> <br /> After creating the Fort the expeditions canoes would be tied to the shoreline, but later had to be moved onto land due to the rising tide and storms damaging them or making them float away.<br /> <br /> Ducks, Great Blue Herons, and Bald Eagles are very common place in this location as are many other species of birds for the bird watchers out there. River otters can, although much more rarely, also be seen in the water or on its edge.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.08347179871680055,
+          51.511792956215864
+        ]
+      },
+      "properties": {
+        "name": "Hudson's Bay Company",
+        "notes": "Hudson's Bay Company\nhttps://www.nps.gov/places/hudson-s-bay-company.htm\n\nIn 1670, King Charles II granted a Royal Charter to “the Governor and Company of Adventurers of England trading into Hudson Bay” a corporation that would eventually come to be known as the Hudson’s Bay Company. The Hudson’s Bay Company, whose headquarters by the time of The Pig War was this building in London, shipped European trade goods and technology to North America, where they were sold to Native Americans for animal fur which was then resold in Europe and Asia, hence their corporate motto “Pro Pelle Cutem” which in latin means “A pelt for a skin”. Unlike the corporations we are familiar with today, the Hudson’s Bay Company fused governmental power, military capabilities, and diplomatic functions with its quest for profit. It operated throughout Canada and was especially powerful in the Pacific Northwest, where the Hudson’s Bay Company was the most potent non-native force in the region in the early days of European colonization.<br /> <br /> The Hudson’s Bay Company’s global trading business and the strategies that made it successful relied upon a diverse workforce. Acquiring fur required Native American participation and the company hired Native American employees and carefully stocked trade goods that catered to Native American consumer preferences. Company operatives often married high ranking Native American women and their alliances helped encourage trade and cooperation; children of these cross-cultural marriages often worked for the Hudson’s Bay Company, where they acted as cultural mediators who understood the needs of indigenous people and the company’s commercial empire. In the Pacific Northwest, the company found itself short on labor and hired Hawaiian men as laborers, farmers, seafarers, and fur trade adventurers.<br /> <br /> The Hudson’s Bay Company built a string of trading posts throughout the Pacific Northwest in the 1820s-1850s at a time when the United States and the British Empire both claimed the Oregon Country (the future states of Oregon, Washington, Idaho, and parts of Wyoming and Montana). These posts became centers for settlement, economic development, and imperial power at a time when few U.S. citizens inhabited the Oregon Country. It was only in the 1840s, as masses of U.S. emigrants used the Oregon Trail to settle in the Pacific Northwest that the Hudson’s Bay Company and British imperial power were contested. When the Oregon Treaty of 1846 gave the states of Washington and Oregon to the United States, the Hudson’s Bay Company was forced to wind down operations at its bases in Washington and Oregon, which included at one time parts of the future <a href=\"http://www.nps.gov/fova\">Fort Vancouver National Historic Site</a> <a href=\"http://www.nps.gov/whmi\">Whitman Mission National Historic Site</a> and at <a href=\"http://www.nps.gov/lewi\">Lewis and Clark National Historical Park</a> and <a href=\"http://www.nps.gov/nepe\">Nez Perce National Historical Park</a><br /> <br /> Still, the Hudson’s Bay Company remained powerful within British territory; one way that they demonstrated this power was by founding a massive operation on San Juan Island. The <a href=\"https://www.nps.gov/places/belle-vue-sheep-farm.htm\">Belle Vue Sheep Farm</a>, established in 1853, grew into a massive agricultural complex with over 4,000 sheep and more than a dozen Hawaiian and native employees. It was a Hudson’s Bay Company pig that rooted through Lyman Cutlar’s potato patch on June 15, 1859, sparking the Pig War. During the joint occupation of San Juan Island, American Camp was established adjacent to Belle Vue Sheep Farm headquarters and the farm wound down operations on our island.<br /> <br /> Though the Hudson’s Bay Company is no longer on our island, it remains a major corporation. No longer in the fur trade, it is now one of Canada’s largest department stores. It’s unique contribution to our region’s history and to global history is crucial to understanding how San Juan Island developed.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.863573658679,
+          21.30811928934931
+        ]
+      },
+      "properties": {
+        "name": "Hudson's Bay Company's Honolulu Agency",
+        "notes": "Hudson's Bay Company's Honolulu Agency\nhttps://www.nps.gov/places/hudson-s-bay-company-s-honolulu-agency.htm\n\nThe <a href=\"https://www.nps.gov/places/hudson-s-bay-company.htm\">Hudson’s Bay Company</a>'s (HBC) established their Honolulu agency offices in 1829. Hawaiians had been working in the Pacific Northwest since 1787 and over time became an increasingly pivotal part of the fur trading workforce. At this office, the HBC recruited Hawaiian workers, sold British goods and Pacific Northwest agricultural products, and resupplied its ships headed from Hawaii to China and American whaling ships which regularly stopped in Honolulu. By the mid 19<sup>th</sup> Century, the Honolulu Agency was a vital part of a global trading empire that encompassed London, North America, and Asia.<br /> <br /> Hawaiians’ importance to the HBC can be seen in the writings of Chief Factor John McLoughlin who in 1830 asked the Honolulu agency to “Sen[d] us as many of them [Hawaiians[ as possible.” These workers filled numerous vital positions for the HBC; many worked on its ships as sailors. Others, like the sixteen Hawaiians who landed on San Juan Island in 1853, were agricultural workers who grew crops and herded sheep. Still others served as construction workers whose labor helped establish fur trade outposts or as teamsters, carrying goods hundreds and sometimes thousands of miles to trade with Native Americans in the extensive network of fur trade forts that the HBC operated throughout the Pacific Northwest. It is estimated that by the mid-1800s, approximately 1/3 of the HBC’s Pacific Northwest labor force were Hawaiians.<br /> <br /> Hawaiians were hired on time-limited contracts that specified their pay and term of service. In 1844, a Honolulu newspaper claimed that “they are generally engaged for a period of three years and gain $10 per month.” Though little documentation exists, it is likely that many of these migrant workers sent wages home to their families in Hawaii. Many Hawaiians regularly renewed their labor contracts and worked for decades in the Pacific Northwest either with the HBC or as independent settlers who homesteaded after leaving HBC employment. Hawaiian migrants also worked at other National Park Service sites that were once HBC establishments, such as <a href=\"http://www.nps.gov/lewi\">Lewis and Clark National Historical Park</a>, <a href=\"http://www.nps.gov/fova\">Fort Vancouver National Historical Site</a>, and <a href=\"http://www.nps.gov/whmi\">Whitman Mission National Historic Site</a>. On San Juan Island place names like Kanaka Bay and Friday Harbor (named after a Hawaiian man who settled there whose English name was Peter Friday) and Eastern Oregon place names like Kanaka Creek, Kanaka Bar, Kanaka Glen, and the Owyhee River demonstrate the longstanding impact of Hawaiians in the Pacific Northwest.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.880294,
+          46.134534
+        ]
+      },
+      "properties": {
+        "name": "Lewis and Clark National Park Association Bookstore",
+        "notes": "Lewis and Clark National Park Association Bookstore\nhttps://www.nps.gov/places/lewis-and-clark-national-park-association-bookstore.htm\n\nThe park store is operated by the Lewis and Clark National Park Association, an official non-profit partner of the National Park Service dedicated to supporting the educational mission of Lewis and Clark National Historical Park. The park store has a wide range of books, media, historical recreations, and other items available for retail sale. These products complement the interpretive themes you experience when visiting the park. The park store is located at the visitor center, or you can visit the <a href=\"https://fortclatsopbookstore.com/\">online park store</a>.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.91045907417289,
+          46.24697539004646
+        ]
+      },
+      "properties": {
+        "name": "Middle Village & Station Camp",
+        "notes": "Middle Village & Station Camp\nhttps://www.nps.gov/places/middle-village-station-camp.htm\n\n<h3>Middle Village History</h3> <p>Right along highway 101 on the north side of the Columbia River, east of Chinook, Washington, you’ll find Middle Village, the site of a significant Chinook village. For thousands of years, the Chinook people have lived along the Columbia River and their home near the river's mouth was strategically located to provide abundant food, such as salmon and shellfish. In addition, the nearby forests were home to game animals and the grasslands and marshes provided ample materials for making shelter, clothing and trade and household goods. The river provided a way for Chinook traders to travel to the south shore and up and down the Columbia.</p> <p>They developed a sophisticated, rich culture and enjoyed great success as traders. The waterway near Middle Village became a virtual trade \"water highway.\" During the 10 years before Lewis and Clark arrived overland at the this spot almost 90 trade ships from Europe and New England are documented to have crossed the Columbia River Bar to trade with Native Americans. These ships brought metal tools, blankets, clothing, beads, liquor and weapons to trade for beaver and sea otter pelts. By the time the Corps reached the site, the Chinook's had moved to their winter village and this village was unoccupied.<br /> <br /> In 2005, archeologists found abundant physical evidence to support the importance of the site as a Chinook trade village. More than 10,000 artifacts were uncovered, including trade beads, plates, cups, musket balls, arrowheads, Indian fish net weights and ceremonial items. The European artifacts are from both before and after the Corps' visit in 1805, and attest to the vitality of the Chinook social and economic life at the site.</p> <h3>Station Camp History</h3> <p>The Corps spent just 10 days here, but used Middle Village as a departure point for an overland trek to their first view of the Pacific Ocean and an exploration of the area. Historians called the spot \"Station Camp\" because it was Clark's primary survey station to produce a detailed and accurate map of the mouth of the Columbia River and surrounding area. This was the most detailed and accurate map he made during the entire trip.</p> <p>On Nov. 24, 1805, the explorers desperately needed a winter campsite, one rich with game and near friendly tribes who would trade for supplies. To assist in deciding where the Corps should winter, the captains took <em>\"Solictations of every individual.\" </em>This included <a href=\"https://www.nps.gov/articles/york.htm\">York</a>, who was an enslaved man, and <a href=\"https://www.nps.gov/people/sacagawea.htm\">Sacagawea</a>, a Lemhi Shoshone woman who was married to Toussaint Charbonneau. The majority chose to cross to the south side of the Columbia River, near modern-day Astoria, Oregon, to build winter quarters, which soon would be known as <a href=\"https://www.nps.gov/places/fort-clatsop-or.htm\">Fort Clatsop</a>. </p> <h3>Today</h3> <p>The Middle Village - Station Camp site focuses on the Chinook Indian Nation history, as well as telling the story of early contact, the Corps', and the town of McGowan. Middle Village - Station Camp was dedicated on August 18, 2012.<br /> <br /> The site is open during daylight hours. Check in at the visitor center at Fort Clatsop to pay any <a href=\"https://www.nps.gov/lewi/planyourvisit/fees.htm\">park fees</a> and get additional information.</p> <p><br /> Middle Village - Station Camp is a <a href=\"https://www.nps.gov/lecl/learn/historyculture/places.htm\">High Potential Historic Site</a> on the <a href=\"https://www.nps.gov/lecl/index.htm\">Lewis and Clark National Historic Trail.</a></p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "name": "NeCus’ Village / Ecola Creek Village",
+        "notes": "NeCus’ Village / Ecola Creek Village\nhttps://www.nps.gov/places/necus-village-ecola-creek-village.htm\n\n<p paraeid=\"{ff467cca-a3c3-4df8-aa0d-f1c425566770}{19}\" paraid=\"383308603\">The village where Ecola Creek met the Pacific Ocean was called NeCus’, meaning a “place of the receding tide.” People who lived here were likely Nehalem (northern Tillamook) people. They traded often with Clatsop, Chinookan, and Cathlamet people via a system of well-established roads, as well as canoes that could handle ocean or river waters.  </p> <p paraeid=\"{ff467cca-a3c3-4df8-aa0d-f1c425566770}{87}\" paraid=\"1198973493\">In 1806, there were four longhouses at NeCus’, built mostly from cedar planks. Each was home to an extended family—some 100 people may have lived in the village. They caught fish, and when the tide was low, they gathered crabs, mussels, snails, and barnacles. Some men in the village hunted seals and sea lions. To walk down to the beach, they carved handholds in the rocky cliff.  </p> <p paraeid=\"{ff467cca-a3c3-4df8-aa0d-f1c425566770}{143}\" paraid=\"1465818087\">White men and a Shoshone woman, members of the Lewis and Clark Expedition, arrived at NeCus’ in January 1806 during a time of bounty and commotion: <a href=\"https://www.nps.gov/places/cannon-beach-oregon.htm\">a huge whale</a> had just washed ashore!  </p> <p paraeid=\"{ff467cca-a3c3-4df8-aa0d-f1c425566770}{185}\" paraid=\"203910835\">The whale blessed them with enough food for themselves and to trade with their neighbors, Clatsop and Chinookan people. Nehalem people were hard at work boiling the whale for oil and cutting up the blubber, to prepare it to eat or sell.  </p> <p paraeid=\"{ff467cca-a3c3-4df8-aa0d-f1c425566770}{213}\" paraid=\"348821851\">William Clark wanted to buy some of the whale blubber and oil, trading glass beads for it. He bought so much that some people might have wondered how he planned to carry it back. He did so with the help of others in his party, including Sacagawea. Maybe the people of NeCus’ Village were excited to have such a bustling town with so many visitors—what an opportunity, what a big party! Maybe some children liked meeting all of the visitors from across the region. Older people may have been happy for an excuse to reunite with old friends. And maybe some people were just plain tired of smelling the rotting whale, even if they liked the taste of blubber.  </p> <p paraeid=\"{2e553370-7fce-44b3-9d51-8197b92d1518}{12}\" paraid=\"154739475\">Whatever they felt, NeCus’ Village was the place to be that January. <br /> <br /> About this article: This article is part of a series called <a href=\"https://www.nps.gov/lecl/learn/historyculture/pivotal-places-stories-from-the-lewis-and-clark-national-historic-trail.htm\">“Pivotal Places: Stories from the Lewis and Clark National Historic Trail.”</a></p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.87572616452354,
+          46.117899239358486
+        ]
+      },
+      "properties": {
+        "name": "Netul Landing & the Netul River Trail",
+        "notes": "Netul Landing & the Netul River Trail\nhttps://www.nps.gov/places/netul-river-trail.htm\n\n<h3>History</h3> <p>In 1805, Meriwether Lewis and William Clark, accompanied by their crew of explorers, paddled up a river that the local peoples called Netul, now called the Lewis and Clark River. On December 5, the expedition established <a href=\"https://www.nps.gov/places/fort-clatsop-or.htm\">Fort Clatsop </a>at a site on the riverbank that had been selected by Lewis. </p> <h3>Today</h3> <p>Now the river is named after Lewis and Clark, but Netul Landing pays homage to the former name and is an excellent place to launch your kayak or canoe for a paddle trip. Bring your non-motorized boat or sign up for a<a href=\"https://www.nps.gov/lewi/planyourvisit/paddle-tours.htm\"> ranger guided canoe and kayak trip</a> during the summer months.</p> <p>The launch is part of the Lewis and Clark Columbia River Water Trail, a 146-mile stretch of water that follows the explorers' route on the Lower Columbia River from Bonneville Dam to the Pacific Ocean, near Ilwaco, Wash. For more detailed information go to the<a href=\"https://www.estuarypartnership.org/water-trails/columbia-river\">Lower Columbia River Water Trail website</a>.</p> <p>Netul Landing also marks one end of the new Lewis and Clark River Trail. The river trail is a 1.5-mile gentle walk along the river to Fort Clatsop. Visitors may park in the parking area and follow the trail to the Fort Clatsop Visitor Center, where they will learn about the area’s history. At the landing and along the trail, interpretive panels are installed that discuss Lewis and Clark’s time here. Visitor's can also connect with the Fort to Sea trail and trace the Corps' trip to Sunset Beach.</p> <p>Visitors are required to pay an entrance fee to Lewis and Clark National Historical Park, which can be paid at the visitor center. For more information, call the park at (503) 861-2471 or check out our <a href=\"https://www.nps.gov/lewi/planyourvisit/maps.htm\">map of the area</a>.</p> <h4><br /> <strong>IF YOU GO</strong></h4> <p>From Astoria, head south on U.S. Highway 101 and follow the signs to Fort Clatsop. Drive 1.5 miles past the entrance to the fort to Netul Landing. From Seaside, head north on U.S. 101 and follow the signs. <br />  </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.87673772883606,
+          46.12180947475221
+        ]
+      },
+      "properties": {
+        "name": "North Netul Picnic Shelter",
+        "notes": "North Netul Picnic Shelter\nhttps://www.nps.gov/places/north-netul-picnic-shelter.htm\n\n<h4>A spot to rest your legs and read on the local history.</h4> Whether you're just setting out on one of our many trails or looking for a place to read more on the history of this area you'll find the shelter at North Netul to fit your needs. With multiple picnic tables, an open air plank shelter, and interpretive signs both inside and around the shelter that deal with the Clatsops, Lewis and Clark, the logging industry, and bioswales. Take a breather and enjoy the tidal waters of the Netul River.<br /> <br /> This is stop 8 on the Restoring Nature Audio tour.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.87897760835543,
+          46.13422961520693
+        ]
+      },
+      "properties": {
+        "name": "Parade Grounds of Fort Clatsop",
+        "notes": "Parade Grounds of Fort Clatsop\nhttps://www.nps.gov/places/parade-grounds-of-fort-clatsop.htm\n\nThe Parade Grounds are the middle area of the fort where military drills, morning meetings, and possibly the raising and lowering of the American flag took place. The original fort wouldn't have had the luxury of woodchips to protect from muddy conditions; the rain combined with the inward slanting roofs would have made the parade ground very messy if boards or gutters were not placed or made.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.93199341104507,
+          45.984457886398424
+        ]
+      },
+      "properties": {
+        "name": "Salt Cairn Replica",
+        "notes": "Salt Cairn Replica\nhttps://www.nps.gov/places/salt-cairn-replica.htm\n\nBuilt at what's reportedly the exact spot as the original camp site, this replica salt cairn shows what the Corps of Discoveries Saltmakers would have used as they boiled ocean water for much needed salt. Five men traveled to this beach site, built the camp and set five kettles to boiling, 24 hours a day, to produce salt. According to their records, they set out from Fort Clatsop on Dec. 28, 1805, and left the camp Feb. 20, 1806, with 3 ½ bushels or about 28 gallons of \"Excellent, fine, strong & white\" salt.<br /> <br /> Salt was used not only as an important preservative for meat that would begin to spoil within hours of killing it in the Pacific Northwest's winter weather, but also used in the tanning process to help create buckskin clothing for the expedition members.<br /> <br /> Far from the water's edge, this replica stands as a show of how far the beach has extended westward, and shows the growth of the city that surrounds it.<br /> <br /> You can find more information about the Salt Works on <a href=\"https://www.nps.gov/lewi/planyourvisit/saltworks.htm\">the official Salt Works page.</a>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Salt Works, Oregon",
+        "notes": "Salt Works, Oregon\nhttps://www.nps.gov/places/salt-works-oregon.htm\n\n<p paraeid=\"{052ac7f9-6c66-4a1a-867d-861060cc8b32}{35}\" paraid=\"382918238\">Meriwether Lewis and William Clark’s party ran out of salt on their journey west.  </p> <p paraeid=\"{052ac7f9-6c66-4a1a-867d-861060cc8b32}{47}\" paraid=\"1353493213\">Salt was crucial in preserving meat for the lean winter months. Plus, it made food taste better. Clark said he didn’t mind going without salt, but Lewis found unsalted food bland.  </p> <p paraeid=\"{052ac7f9-6c66-4a1a-867d-861060cc8b32}{81}\" paraid=\"1723725324\">They decided to spend the winter near the Pacific Ocean so that they could make salt by boiling ocean water. </p> <p paraeid=\"{052ac7f9-6c66-4a1a-867d-861060cc8b32}{101}\" paraid=\"755992853\">Privates Joseph Field, William Bratton, and George Gibson led the salt-making initiative. They chose a spot on the coast, near a Clatsop-Nehalem village (in present-day Seaside, Oregon). It was only a few days journey to walk from Fort Clatsop to the salt works. </p> <p paraeid=\"{052ac7f9-6c66-4a1a-867d-861060cc8b32}{147}\" paraid=\"1346327891\">Field, Bratton, and Gibson befriended the people in the Clatsop-Nehalem village, who “had been verry kind and attentive to them.” Some may have even allowed Field, Bratton, and Gibson to stay in their wooden houses, which would have been better shelter from the wet winds than canvas tents. The people of the village also helped feed the salt makers, selling them <a href=\"https://www.nps.gov/places/necus-village-ecola-creek-village.htm\">whale blubber</a> to eat.  </p> <p paraeid=\"{052ac7f9-6c66-4a1a-867d-861060cc8b32}{211}\" paraid=\"507106543\">They probably played games, such as one that many people in the area played that involved holding a small item in your hand while others guessed which hand it was in. Maybe they taught each other songs, even if they couldn’t understand each other’s languages.  </p> <p paraeid=\"{052ac7f9-6c66-4a1a-867d-861060cc8b32}{225}\" paraid=\"619914579\">By the end of the winter, they had made some twenty gallons of salt (by Lewis’s count), plenty to sustain them during the journey home.  <br /> <br /> About this article: This article is part of a series called <a href=\"https://www.nps.gov/lecl/learn/historyculture/pivotal-places-stories-from-the-lewis-and-clark-national-historic-trail.htm\">“Pivotal Places: Stories from the Lewis and Clark National Historic Trail.”</a></p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.87803528448234,
+          46.128728998058385
+        ]
+      },
+      "properties": {
+        "name": "South Slough Foot Bridge",
+        "notes": "South Slough Foot Bridge\nhttps://www.nps.gov/places/south-slough-foot-bridge.htm\n\nWhere Colewart Creek enters the Netul River there is a beautiful calm to the area. Places like these, off of the main Netul River, are used by numerous species of fish in order to rest their weary fins and remain safe from predators such as the numerous Great Blue Heron and Bald Eagles that call the Netul River home.  <br /> <br /> While birds and fish are common sites here, as you cross the bridge you may be lucky enough to see River Otter or some of the other species that call this land home.<br /> <br /> This location serves as stops 5-7 on the Restoring Nature Audio Tour.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Sunset Beach State Recreation Site",
+        "notes": "Sunset Beach State Recreation Site\nhttps://www.nps.gov/places/sunset-beach-state-recreation-site.htm\n\nSunset Beach State Recreation Site is located southwest of Astoria, Oregon, and provides visitors with direct access to the Pacific Ocean. On a clear day visitors can enjoy expansive views north towards Cape Disappointment State Park, and south towards Ecola State Park. <br /> <br /> The recreation site is 120-acres, and marks the west trailhead of the historic Fort-to-Sea Trail. This trail is 6.5 miles long one-way, and recreates the experience of Lewis and Clark and the Corps of Discovery as they traveled between Fort Clatsop and the Pacific Ocean during the winter of 1805-6. <br /> <br /> For additional information please go to <a href=\"https://stateparks.oregon.gov/index.cfm?do=park.profile&parkId=182\">Sunset Beach State Recreation Site's website</a>. <br /> <br /> <br /> <br />  ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.87903770993103,
+          46.13424139362949
+        ]
+      },
+      "properties": {
+        "name": "The Enlisted Men's Rooms of Fort Clatsop",
+        "notes": "The Enlisted Men's Rooms of Fort Clatsop\nhttps://www.nps.gov/places/the-enlisted-men-s-rooms-of-fort-clatsop.htm\n\nThe three rooms for the enlisted men of the Lewis and Clark expedition were likely divided between each of the three squads. The first had seven men, the second nine, and the third seven. While the rooms are small it is unlikely that they were often packed full all at the same time. After all this was a working fort, the men were always busy with one task or another. Those tasks often included hunting, guard duty, gathering firewood, repairs and construction, smithing, or for a small crew, making salt down at the salt works in modern day Seaside. <br /> <br /> Of these rooms the middle was notably the largest on the floorplans and likely would have belonged to the largest squad. It is told through the passed down oral history of the local Clatsop nation that the room also had a large tree strump in the middle, and has earned the nickname of simply \"The Stump Room.\"",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.9321862,
+          45.98441445
+        ]
+      },
+      "properties": {
+        "name": "The Lewis & Clark Salt Works",
+        "notes": "The Lewis & Clark Salt Works\nhttps://www.nps.gov/places/the-salt-works.htm\n\n<h3>History</h3> Much of the Corps' stay on the North Coast was spent securing sustenance for the winter and provisions for the trip home. On December 28, 1805, the Lewis & Clark Expedition sent out a detachment of five men in search of a good place to make salt. The expedition, which had been wintering at <a href=\"https://www.nps.gov/places/fort-clatsop-or.htm\">Fort Clatsop</a>, had run out and were in desperate need of more. Salt was important for meat preservation and thus for the crew’s survival on the trip back home. The rivers near the fort weren’t salty enough, and so a better place had to be found. The men found an ideal spot on the Pacific Ocean approximately 15 miles from Fort Clatsop where they set up the salt processing camp.<br /> <br /> Making salt required a bit of planning and a lot of work. Sea water had to be collected and allowed to sit till the sand sank to the bottom. Then the men had to collect a large supply of firewood and build a stone furnace, on top of which they placed five kettles that had to boil 24 hours a day to produce the salt. Captain William Clark and few additional men joined the others at the salt works a little over a week later on January 9, arriving in the early afternoon. The group stayed at the salt works until February 20, when they left with 3.5 bushels (about 28 gallons) of “Excellent, fine, strong & white” salt. <p> </p> <h3>Today</h3> Today, visitors can see the site believed to be the expedition’s salt works. It was identified by a rock cairn and the testimony of Jenny Michel, born in 1816 to a Clatsop man who had pointed the place out to her when she was a child. According to her father, this was the place he had seen white men boiling water.<br /> <br /> The site is located on the Promenade. At the intersection of US Highway 101 and Avenue G, turn west to Beach Drive, then left to Lewis and Clark Way. Park where available without blocking private driveways. Walk west on Lewis and Clark Way to the Salt Cairn.<br /> <br /> <br />  ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.87896260807861,
+          46.134162338142715
+        ]
+      },
+      "properties": {
+        "name": "The Officers and Civilians Rooms of Fort Clatsop",
+        "notes": "The Officers and Civilians Rooms of Fort Clatsop\nhttps://www.nps.gov/places/the-officers-and-civilians-rooms-of-fort-clatsop.htm\n\n<p>According to the floorplans of Fort Clatsop, the rooms for officers and civilians are on the right side after entering the main gate.<br /> <br /> The first room on the right belonged to the civilian interpreter Toussaint Charbonneau and his Wife Sacagawea as well as their son, who turns one year old here, Jean Baptiste Charbonneau. The room to its left was the captains quarters for Lewis and Clark. The third room down was known as the Orderly Room and may have been for the three sergents and perhaps the other civilian Geourge Droulliard. It is unknown if Captain Clark's enslaved man, York, would have stayed in the captains or sergeants room. The final room on this side was the storage room for meat, tools, trade goods, and the few other supplies they had left. It was the duty of the sergeants to ensure no one got into the storage room or bothered the captains without due reason.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.87892772873799,
+          46.13422529787648
+        ]
+      },
+      "properties": {
+        "name": "The Sentinel Box at Fort Clatsop",
+        "notes": "The Sentinel Box at Fort Clatsop\nhttps://www.nps.gov/places/the-sentinel-box-at-fort-clatsop.htm\n\nAs a military expedition it was required that a guard was always on duty, unfortunately the very wet winters we experience make that a miserable experience. Because of the constant rain a sentry box was constructed to help shelter the guard, them being able to stand inside and keep their gun and gunpowder from getting wet.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "name": "The Vote at Station Camp",
+        "notes": "The Vote at Station Camp\nhttps://www.nps.gov/places/the-vote-at-station-camp.htm\n\n<p paraeid=\"{00e737c6-dcb6-4891-9fb9-f82c4adff94a}{44}\" paraid=\"1181413004\">After reaching the Pacific Ocean, it was time to decide where to spend the winter. William Clark polled everyone on November 24, 1805, and tallied their votes in his journal.  </p> <p paraeid=\"{00e737c6-dcb6-4891-9fb9-f82c4adff94a}{72}\" paraid=\"401436884\">Clark recorded the vote of York, a Black man he enslaved. This was decades before Black men had the right to vote in the United States. Several years after the Lewis and Clark Expedition, York asked for his freedom. Clark denied his request. How meaningful was York’s vote, if he still was not free? </p> <p paraeid=\"{00e737c6-dcb6-4891-9fb9-f82c4adff94a}{108}\" paraid=\"1376804430\">Clark also asked Sacagawea’s opinion on where to stay over the winter. Her vote was not tallied, but Clark made a note that she wanted to stay somewhere with lots of wapato, to make sure they had enough food for the winter. The group decision did not heed her concerns, but her point played out: they spent much of the winter trading with the Clatsop for <a href=\"https://www.nps.gov/articles/000/wapato.htm\">wapato</a> and other food. And their health suffered at times when they had only dried salmon or spoiled elk meat to eat. </p> <p paraeid=\"{00e737c6-dcb6-4891-9fb9-f82c4adff94a}{166}\" paraid=\"1297852312\">Ultimately, Lewis and Clark’s party decided to stay south of the Columbia River, where the Clatsop people lived and where there would be easy access to the ocean. The hunting would be good there, it was close to the ocean for salt-making, and they hoped the rain wouldn’t be as bad. </p> <p paraeid=\"{00e737c6-dcb6-4891-9fb9-f82c4adff94a}{178}\" paraid=\"641365020\">Sacagawea voicing her opinion in 1805 gained more attention a century later. The women’s suffrage movement used Sacagawea’s input at Station Camp as a symbol of why women deserved the right to vote. That right came at the national level in 1920 with the passage of the Nineteenth Amendment. However, barriers to suffrage still existed for people of color, including Indigenous women, until well into the twentieth century.</p> <p paraeid=\"{00e737c6-dcb6-4891-9fb9-f82c4adff94a}{218}\" paraid=\"1878192478\">Sacagawea and York gave their opinions to the White men leading the expedition—an expedition that neither of them freely chose to join. But did their votes make a lasting difference for Black people, Indigenous people, or women?  <br /> <br /> About this article: This article is part of a series called <a href=\"https://www.nps.gov/lecl/learn/historyculture/pivotal-places-stories-from-the-lewis-and-clark-national-historic-trail.htm\">“Pivotal Places: Stories from the Lewis and Clark National Historic Trail.”</a></p>",
+        "icon": "red-pin-down.png"
+      }
+    }
+  ]
+}

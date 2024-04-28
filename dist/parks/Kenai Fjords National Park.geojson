@@ -1,0 +1,170 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.63209533691406,
+          60.18394088745117
+        ]
+      },
+      "properties": {
+        "name": "Exit Glacier 1926 sign",
+        "notes": "Exit Glacier 1926 sign\nhttps://www.nps.gov/places/exit-glacier-1926-sign.htm\n\nThis stop offers a view of Exit Creek and a bench to rest on.  In 1926, the toe of Exit Glacier was at this resting point.  You can look around and see the changes that have happened to the landscape since then.  Deciduous trees line the creek bank on either side an early successional forest has developed.  ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.645391599,
+          60.1801689711
+        ]
+      },
+      "properties": {
+        "name": "Exit Glacier 2005 Overlook sign",
+        "notes": "Exit Glacier 2005 Overlook sign\nhttps://www.nps.gov/places/exit-glacier-2005-overlook-sign.htm\n\nThis overlook offers one of the closest viewing points of Exit Glacier.  The toe of Exit Glacier was at this point in 2005.  The ground is mostly barren rock, as the plants that grow after a glacier’s retreat have not had a time to start growing here yet.  There are two wayside signs at this overlook.  Stop here to observe Exit Glacier, and to see the powerful river of ice that helped to shape this landscape.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.6482016627197,
+          60.17946964452476
+        ]
+      },
+      "properties": {
+        "name": "Exit Glacier 2010 Sign and end of trail",
+        "notes": "Exit Glacier 2010 Sign and end of trail\nhttps://www.nps.gov/places/exit-glacier-2010-sign-and-end-of-trail.htm\n\nThis is the closest the trail gets to Exit Glacier. The sign shows where Exit Glacier was located in 2010. Very few plants are growing here as this area has only been exposed recently from underneath Exit Glacier. Stop here to feel the powerful katabatic winds blowing off of Exit Glacier and to observe the land as it is uncovered due to glacial retreat.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.642652,
+          60.180882
+        ]
+      },
+      "properties": {
+        "name": "Exit Glacier Living Laboratories Wayside",
+        "notes": "Exit Glacier Living Laboratories Wayside\nhttps://www.nps.gov/places/exit-glacier-living-laboratories-wayside.htm\n\nAfter going about halfway up the Creekside of the Glacier Overlook Trail, this wayside offers stunning views of Exit Glacier.  Looking around, you might see that there are very few trees as you have gotten closer to Exit Glacier.  If you look away from the glacier towards the outwash plain, you will see a fuller deciduous forest.  Further still, you will see a spruce dominated forest indicative of the non-glaciated areas.  This is a great place to observe the succession of a forest after a glacier’s retreat.  Scientists have studied the plant life on the moraines to date the retreat of Exit Glacier",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.63472094726563,
+          60.18247042994838
+        ]
+      },
+      "properties": {
+        "name": "Exit Glacier Outwash Plain",
+        "notes": "Exit Glacier Outwash Plain\nhttps://www.nps.gov/places/exit-glacier-outwash-plain.htm\n\nThe Exit Glacier Outwash Plain is a complex matrix of plant communities in various successional states interconnected with an abundance of game trails. The plant communities range from dense spruce and cottonwood forests to open shrubby gravel beds. The Exit Glacier Outwash Plain was formed from rushing meltwater streams redistributing sediment from Exit Glacier, and depositing it in recessional moraines across the outwash plain. To get to the outwash plain follow the signs from the Glacier Overlook Trail. Access out to the Outwash Plain can be limited due to Exit Creek.  <strong>Take Caution when crossing any water.</strong>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.63270568847656,
+          60.1840934753418
+        ]
+      },
+      "properties": {
+        "name": "Exit Glacier Overflowing Ice wayside",
+        "notes": "Exit Glacier Overflowing Ice wayside\nhttps://www.nps.gov/places/exit-glacier-overflowing-ice-wayside.htm\n\nThis wayside offers great views of Exit Glacier in the distance.  As you look toward the glacier, you might notice that the plants closer to the glacier tend to be small shrubs compared to the trees and forest that you just went through.  There is a bench to rest on and listen to Exit Creek as it flows by.  The wayside talks about the Harding Icefield, which is the source of ice for Exit Glacier.  There is a picture on the wayside that shows the ice from Exit Glacier spilling over from the Harding Icefield.  ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.631314137,
+          60.1880246579
+        ]
+      },
+      "properties": {
+        "name": "Exit Glacier Pavilion and 1917 sign",
+        "notes": "Exit Glacier Pavilion and 1917 sign\nhttps://www.nps.gov/places/exit-glacier-pavilion-and-1917-sign.htm\n\nThe Exit Glacier Pavilion is an open building a short distance away from the Exit Glacier Nature Center. Across the path from the Pavilion is the 1917 sign, showing where Exit Glacier was in 1917. This is the first dated sign as you go down the lower trails.  <br /> <br /> There are rows of wooden benches underneath the covered building. A bear safe food storage box is also available at the Pavilion. During the summer months Rangers give programs underneath the cover at the Pavilion.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.637079992,
+          60.1848033591
+        ]
+      },
+      "properties": {
+        "name": "Exit Glacier Stone Kiosk",
+        "notes": "Exit Glacier Stone Kiosk\nhttps://www.nps.gov/places/exit-glacier-stone-kiosk.htm\n\nThis small stone building provides an excellent break if it is a rainy day.  Three wayside signs are located inside the stone structure.  Stop here to read about how scientists study the resources in the park, and about how climate change affects more than just the ice.  A post outside of the building offers an opportunity to be a part of a citizen science project by placing a camera, cell phone, or tablet on the post and taking a series of pictures in a circle.  ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.63776055432,
+          60.1839995214721
+        ]
+      },
+      "properties": {
+        "name": "Harding Icefield Trailhead",
+        "notes": "Harding Icefield Trailhead\nhttps://www.nps.gov/places/harding-icefield-trail-trailhead.htm\n\nThis is the trailhead for the 8 mile roundtrip Harding Icefield Trail. This trailhead is located off of the Glacier Overlook trail. From the Exit Glacier Nature Center walk down the concrete path towards the Glacier Overlook trial, and turn off when you see signs for the Harding Icefield Trail. From here, the trail is roughly 4 miles one way (8 miles round trip). The elevation increases to roughly 4000 feet by the trails end. The trail leads up to the Harding Icefield, which is the largest Icefield entirely within the United States. There are spectacular scenic views of Exit Glacier and the Harding Icefield along the way, especially at Marmot Meadows and at Top of Cliffs",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.662905614,
+          60.1817597822
+        ]
+      },
+      "properties": {
+        "name": "Marmot Meadows",
+        "notes": "Marmot Meadows\nhttps://www.nps.gov/places/marmot-meadows.htm\n\nAbout 1/3 of the way up the Harding Icefield Trail, the surrounding forest opens up to Marmot Meadows. Although named for Hoary Marmots that were often seen here, they are less common now due to more plants growing and covering the land. Marmot Meadows offers some spectacular views of Exit Glacier from above it.<br /> <br /> To get to Marmot Meadows, start at the trailhead for the Harding Icefield Trail. Marmot Meadows is roughly 1.3 miles up the trail. The trail is quite steep, averaging roughly 1000 feet of elevation for every mile. Be sure to bring plenty of water and warm clothes, as weather can quickly change. Before hiking here, check the <a href=\"https://www.nps.gov/kefj/planyourvisit/conditions.htm\">Current Conditions</a> page on our Park's website.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.670507216,
+          60.1823401489
+        ]
+      },
+      "properties": {
+        "name": "Top of the Cliffs",
+        "notes": "Top of the Cliffs\nhttps://www.nps.gov/places/top-of-the-cliffs.htm\n\nThe Top of the Cliffs is roughly 2.4 miles into the Harding Icefield Trail. Here you can get some of the first views of the Harding Icefield and the nunataks that rise above it.  This is a great place for lunch and makes a good turn around point if you don’t have time to hike all the way up to the End of the Trail.  Allow 4-6 hours for a round trip hike. <br /> <br /> To get to Top of the Cliffs, continue on the <a href=\"https://www.nps.gov/kefj/planyourvisit/harding_icefield_trail.htm\">Harding Icefield Trail</a> from <a href=\"https://www.nps.gov/places/marmot-meadows.htm\">Marmot Meadows</a> roughly another 1 miles up the trail. The trail between Marmot Meadows and Top of the Cliffs is the steepest part of the Harding Icefield Trail with many switchbacks in this section. ",
+        "icon": "red-pin-down.png"
+      }
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+[
+  {
+    "id": "566851DF-EA6F-4286-BCA9-66BEE16BB2A3",
+    "url": "https://www.nps.gov/places/rainbow-bridge.htm",
+    "title": "Rainbow Bridge",
+    "listingDescription": "Rainbow Bridge is the thing to see at Rainbow Bridge National Monument!",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/0D66D11A-D871-F879-88CAB5BF4D401788.jpg",
+        "credit": "NPS",
+        "altText": "Park ranger has back to camera, looking at a perfect natural sandstone arch.",
+        "title": "Rainbow Bridge!",
+        "description": "",
+        "caption": "Rainbow Bridge!",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/0D66D11A-D871-F879-88CAB5BF4D401788.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/0D66D11A-D871-F879-88CAB5BF4D401788.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "UT",
+        "parkCode": "rabr",
+        "designation": "National Monument",
+        "fullName": "Rainbow Bridge National Monument",
+        "url": "https://www.nps.gov/rabr/index.htm",
+        "name": "Rainbow Bridge"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [
+      "Glen Canyon National Recreation Area",
+      "Rainbow Bridge National Monument",
+      "docks",
+      "trailhead",
+      "natural bridge",
+      "sandstone",
+      "Lake Powell",
+      "Navajo Nation",
+      "remote"
+    ],
+    "latitude": "37.07726807216469",
+    "longitude": "-110.96418284317963",
+    "latLong": "37.07726807216469,-110.96418284317963",
+    "bodyText": "<p>Encompassing just 160 square acres of land, Rainbow Bridge National Monument is one of the smallest units of the National Park Service. However, what it lacks in size it more than makes up for with an abundance of unique and interesting features. The primary feature is, of course, Rainbow Bridge itself, one of the largest natural bridges in the world. From the time the bridge became known to the outside world in the early twentieth century, thousands of people from around the world have visited each year. From its base to the top of the arch, it is 290 feet -nearly the height of the Statue of Liberty- and spans 275 feet across the river; the top of the arch is 42 feet thick and 33 feet wide.<br /> <br /> <strong>There is no visitor center or ranger station at Rainbow Bridge.</strong> All of Rainbow Bridge's Passport Stamps are physically located at Glen Canyon's various <a href=\"https://cms.nps.gov/glca/planyourvisit/visitorcenters.htm\">visitor centers</a>.</p> <p><strong>Rainbow Bridge is closed from sunset to sunrise</strong>. Camping within the boundaries of Rainbow bridge National Monument is prohibited.</p> <p><strong>Getting to the bridge requires hiking at least a mile.</strong>Visitors can take the trail from the courtesy dock to the viewing area for the bridge. Exact trail length varies with lake levels. We ask that visitors respect the religious significance of Rainbow Bridge to neighboring tribes and consider viewing Rainbow Bridge from the viewing area rather than walking up to or under the bridge.</p> <p><strong>Remember to carry water with you!</strong> This is a desert environment and even short hikes require preparation. There are two shade shelters along the trail with benches that make great rest/reflection points.</p> <p><strong>Pack out what you bring in.</strong> There are no facilites or trash receptacles along the trail to Rainbow Bridge in any direction. Leave this land better than you found it - take all trash you make back with you.</p> <h2>Getting to the Monument</h2> <p>Rainbow Bridge is only accessible by boat on Lake Powell or by land over a 14+ mile trail from the Navajo Nation. There are no roads to Rainbow Bridge.</p> <h3>By Boat</h3> <p>Trips to Rainbow Bridge may be made across Lake Powell in Glen Canyon National Recreation Area using private, rental, or <a href=\"http://www.lakepowell.com/\">tour boats</a>. From Wahweap, Antelope Point, and Dangling Rope, travel north. From Bullfrog and Halls Crossing, travel south.<br /> Proceed to the mouth of Forbidding Canyon (buoy 49), where a floating sign on the right marks the canyon entrance. Follow the canyon about 2 miles (4 km) to another sign that points the way left through a narrow passage. Proceed with caution! Beyond the wakeless buoys, go slowly so that no wakes, or waves, are made.</p> <h3>By Hike</h3> <p>You may backpack to Rainbow Bridge across Navajo Nation lands. A permit from the <a href=\"http://www.navajonationparks.org/\">Navajo Nation</a> is required.</p> <p> </p>",
+    "audioDescription": "A parabolic curved natural sandstone arch nestled in the winding canyons around the midway of Glen Canyon. Access is extremely limited. There are no roads that go to Rainbow Bridge. Via Lake Powell, it is a two-hour boat ride to the docks that reach the trailhead. There are microflush toilets on the dock, no other amenities. The trail is rough and rocky with no railings.",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "",
+    "isManagedByNps": "1",
+    "amenities": [
+      "Dock/Pier",
+      "Historical/Interpretive Information/Exhibits",
+      "Trailhead"
+    ],
+    "managedByOrg": "",
+    "quickFacts": [
+      {
+        "id": "5C252B96-2DEB-4EF4-91D1-B5D2B202FCD7",
+        "value": "Bridge Canyon, Lake Powell, Glen Canyon National Recreation Area, Utah/Navajo Nation",
+        "name": "Location"
+      },
+      {
+        "id": "208F1B3C-44DC-4CF5-9A61-9B26A364D701",
+        "value": "Eccentric Stream Erosion",
+        "name": "Significance"
+      },
+      {
+        "id": "E32D2136-A184-4C1A-91D2-4C20CEF9CBAF",
+        "value": "National Monument",
+        "name": "Designation"
+      }
+    ],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  }
+]

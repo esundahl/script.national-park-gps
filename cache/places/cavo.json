@@ -1,0 +1,729 @@
+[
+  {
+    "id": "D4B6BB1C-D680-4460-8B06-235F09986786",
+    "url": "https://www.nps.gov/places/capulin-volcano-picnic-area.htm",
+    "title": "Capulin Volcano Picnic Area",
+    "listingDescription": "Picnic Area at Capulin Volcano with around 10 picnic tables",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/EECF861A-0AE1-72B6-5C18BE4224E79836.jpg",
+        "credit": "NPS Photo",
+        "altText": "Picnic table under ponderosa pine with Capulin Volcano in the background",
+        "title": "Picnic Table at Capulin Volcano",
+        "description": "",
+        "caption": "Picnic Table at Capulin Volcano",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/EECF861A-0AE1-72B6-5C18BE4224E79836.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/EECF861A-0AE1-72B6-5C18BE4224E79836.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "NM",
+        "parkCode": "cavo",
+        "designation": "National Monument",
+        "fullName": "Capulin Volcano National Monument",
+        "url": "https://www.nps.gov/cavo/index.htm",
+        "name": "Capulin Volcano"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [
+      "picnic area",
+      "trails",
+      "picnic tables",
+      "restroom facility",
+      "basalt",
+      "Capulin Volcano National Monument",
+      "New Mexico",
+      "hiking",
+      "parking",
+      "volcano"
+    ],
+    "latitude": "36.77972210814688",
+    "longitude": "-103.9770257029253",
+    "latLong": "36.77972210814688,-103.9770257029253",
+    "bodyText": "Enjoy a picnic at Capulin Volcano! With 10 shaded picnic tables to choose from with a lovely view of the volcano, this is a perfect spot to stop for lunch. <br /> <br /> Accessible seasonal restrooms and drinking water are located in the center of the picnic area for your convenience.<br /> <br /> If you would like to hike across some of the hardened lava flows that erupted from Capulin Volcano, two unpaved trails leave from the picnic area. The Lava Flow Trail is a one mile loop that crosses two of the four lava flows that Capulin Volcano produced. The Boca Trail is a two mile loop that goes past two collapsed lava tubes and other lava features.",
+    "audioDescription": "10 shaded picnic tables, 2 of which are wheelchair accessible, surrounded by grey and brownish red volcanic rock piles and nestled in among pinon pine, ponderosa pine, and juniper trees along with gambel oak thickets. There is a restroom with flush toilets and drinking water available in the middle and to the east side of the paved parking area which can accommodate 21 vehicles. The Lava Flow Trail, a 1 mile unpaved loop that winds around hardened lava features, takes off from the south side of the parking area. The Boca Trail, a 2 mile unpaved loop that crosses the road and winds through hardened lava lake meadows and past 2 collapsed lava tubes, takes off from the north side of the parking area.",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "",
+    "isManagedByNps": "1",
+    "amenities": [
+      "Information Kiosk/Bulletin Board",
+      "Parking - Auto",
+      "Picnic Table",
+      "Recycling",
+      "Restroom",
+      "Restroom - Accessible",
+      "Toilet - Flush",
+      "Trailhead",
+      "Trash/Litter Receptacles",
+      "Water - Bottle-Filling Station",
+      "Water - Drinking/Potable",
+      "Wheelchair Accessible"
+    ],
+    "managedByOrg": "",
+    "quickFacts": [
+      {
+        "id": "5C252B96-2DEB-4EF4-91D1-B5D2B202FCD7",
+        "value": "Volcano Road",
+        "name": "Location"
+      }
+    ],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  },
+  {
+    "id": "11ECE90B-DEB5-403B-8CCF-45364E6DEB6A",
+    "url": "https://www.nps.gov/places/collapsed-lava-tube-at-capulin-volcano.htm",
+    "title": "Collapsed Lava Tube at Capulin Volcano",
+    "listingDescription": "One of two collapsed Lava Tubes along the Boca Trail",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/E8724409-EF7C-ADB0-4D283789CF131B76.jpg",
+        "credit": "NPS Photo",
+        "altText": "Jumble of grayish black volcanic rock and sign for a collapsed lava tube",
+        "title": "First Collapsed Lava Tube on Boca Trail",
+        "description": "",
+        "caption": "First Collapsed Lava Tube on Boca Trail",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/E8724409-EF7C-ADB0-4D283789CF131B76.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/E8724409-EF7C-ADB0-4D283789CF131B76.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "NM",
+        "parkCode": "cavo",
+        "designation": "National Monument",
+        "fullName": "Capulin Volcano National Monument",
+        "url": "https://www.nps.gov/cavo/index.htm",
+        "name": "Capulin Volcano"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [
+      "lava tube",
+      "hiking",
+      "trail",
+      "Capulin Volcano National Monument",
+      "volcanic",
+      "basalt",
+      "New Mexico"
+    ],
+    "latitude": "36.78677749633789",
+    "longitude": "-103.97511291503906",
+    "latLong": "36.78677749633789,-103.97511291503906",
+    "bodyText": "Hike to a collapsed lava tube along the Boca Trail! Formed of Capulin Basalt, this collapsed lava tube shows one of the ways that lava erupted from Capulin Volcano.<br /> <br /> Lava tubes are formed when the top of a lava flow hardens and the outer shell becomes solid. When molten lava no longer flows through the area, a hollow tube is left. Sometimes, these hollow tubes collapse and can be identified by linear rubble piles left over from the collapsed roof.",
+    "audioDescription": "The collapsed lava tube is a pile of large grayish volcanic boulders about a tenth of a mile long and 20 feet wide in front of you. The far side of the collapsed lava tube is a 20 foot tall cliff of grayish volcanic material. On either side of the area is a gambel oak thicket, praire grass, and scattered pinon pine and juniper trees. A brown signpost reads Collapsed Lava Tube and another sign indicates a trail direction change.",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "",
+    "isManagedByNps": "1",
+    "amenities": [
+      "Scenic View/Photo Spot"
+    ],
+    "managedByOrg": "",
+    "quickFacts": [
+      {
+        "id": "5C252B96-2DEB-4EF4-91D1-B5D2B202FCD7",
+        "value": "Boca Trail",
+        "name": "Location"
+      }
+    ],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  },
+  {
+    "id": "7AE3C1AE-1B2C-45CA-BB97-96A886EECF25",
+    "url": "https://www.nps.gov/places/crater-vent-at-capulin-volcano.htm",
+    "title": "Crater Vent at Capulin Volcano",
+    "listingDescription": "The vent from which the cinder cone volcano at Capulin Volcano National Monument formed.",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/5088335C-9A61-CF66-812FB1573186E02D.jpg",
+        "credit": "NPS Photo",
+        "altText": "Sign on the right with basalt lava rocks at the bottom of the crater at Capulin Volcano",
+        "title": "Crater Vent at Capulin Volcano",
+        "description": "",
+        "caption": "Cinder Cone Vent at the Bottom of the Crater of Capulin Volcano",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/5088335C-9A61-CF66-812FB1573186E02D.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/5088335C-9A61-CF66-812FB1573186E02D.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "NM",
+        "parkCode": "cavo",
+        "designation": "National Monument",
+        "fullName": "Capulin Volcano National Monument",
+        "url": "https://www.nps.gov/cavo/index.htm",
+        "name": "Capulin Volcano"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [
+      "volcanic craters",
+      "vent",
+      "basalt",
+      "hiking",
+      "trail",
+      "Capulin Volcano National Monument",
+      "New Mexico"
+    ],
+    "latitude": "36.7824256487",
+    "longitude": "-103.970408382",
+    "latLong": "36.7824256487,-103.970408382",
+    "bodyText": "Walk down into the crater of an extinct cinder cone volcano! Capulin Volcano built from this vent which was plugged after the eruption with solidified lava. <br /> <br /> Rising 415 feet (126 meters) above the vent at it's highest point, the rim of the crater has a bowl shape with a diameter of around 1450 feet (442 meters). The shape of the crater has mostly been preserved from erosion due to spatter deposits of fused volanic bombs in the later stages of eruption.",
+    "audioDescription": "At the end of the Crater Vent Trail is a sign that talks about how the Capulin Volcano's cinder cone was formed. The vent is a pile of large gray basalt volcanic rock just past the sign at the lowest depression of the crater. The sides of the crater are covered in gambel oak brush, prairie grasses, chokecherry, and other bushes. To the west, the crater rises 100 feet above the vent, and to the east, the crater rises 415 feet above the vent.",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "f61dd7cd-4006-461d-bd9a-c0d7c7a6c2df",
+    "isManagedByNps": "1",
+    "amenities": [
+      "Information",
+      "Scenic View/Photo Spot"
+    ],
+    "managedByOrg": "",
+    "quickFacts": [
+      {
+        "id": "5C252B96-2DEB-4EF4-91D1-B5D2B202FCD7",
+        "value": "Crater Vent Trail",
+        "name": "Location"
+      }
+    ],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  },
+  {
+    "id": "53FE5BF2-D4D4-44EE-A89A-250C818E6DFF",
+    "url": "https://www.nps.gov/places/historic-chimney-at-capulin-volcano.htm",
+    "title": "Historic Chimney at Capulin Volcano",
+    "listingDescription": "Explore a historic chimney made of lava rock on the Boca Trail! Near a collapsed lava tube, this chimney is all that remains of a picnic shelter dating back to the time when Capulin Volcano National Monument had a campground.",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/BB89C325-D654-3B20-67F20909C351A34E.jpg",
+        "credit": "NPS Photo",
+        "altText": "6 foot tall and 4 foot wide chimney made of lava rock in prairie grass near a ponderosa pine tree",
+        "title": "Chimney on Boca Trail",
+        "description": "",
+        "caption": "Chimney on the Boca Trail",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/BB89C325-D654-3B20-67F20909C351A34E.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/BB89C325-D654-3B20-67F20909C351A34E.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "NM",
+        "parkCode": "cavo",
+        "designation": "National Monument",
+        "fullName": "Capulin Volcano National Monument",
+        "url": "https://www.nps.gov/cavo/index.htm",
+        "name": "Capulin Volcano"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [
+      "chimney",
+      "historic structure",
+      "basalt",
+      "lava rock topography",
+      "Capulin Volcano National Monument",
+      "New Mexico",
+      "trail",
+      "hiking"
+    ],
+    "latitude": "36.78263854980469",
+    "longitude": "-103.98046875",
+    "latLong": "36.78263854980469,-103.98046875",
+    "bodyText": "Visit a historic chimney along the Boca Trail! The remains of an old picnic area and campground, the chimney is made of basalt lava rock from the surrounding area. Nearby, past a gambel oak thicket, is another collapsed lava tube. This lava tube formed when the molten lava flowing over the landscape formed a hard thick crust on top. When the molten lava emptied from the lava tube, the hardened lava rock on the roof collasped into the open space.<br /> <br /> Please do <strong>NOT </strong>climb on the chimney as it is very fragile.",
+    "audioDescription": "The chimney is around 6 feet long, 5 feet wide, and 7 feet tall made out of grayish lava rock held together by cement. It has 2 openings 2 feet by 1 foot on either side for a fireplace and is smaller at the top than it is at the bottom. The fireplace sits in an open grassy area surrounded by gambel oak brush thickets and occasionally a ponderosa pine tree. To the south of the chimney, through the gambel oak brush is a collapsed lava tube. There is a brown wooden sign with the words \"Collapsed Lava Tube\" and beyond it is large grayish lava rocks covered in lichen tumbling down into a depression.",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "",
+    "isManagedByNps": "1",
+    "amenities": [
+      "Scenic View/Photo Spot"
+    ],
+    "managedByOrg": "",
+    "quickFacts": [
+      {
+        "id": "5C252B96-2DEB-4EF4-91D1-B5D2B202FCD7",
+        "value": "Boca Trail",
+        "name": "Location"
+      }
+    ],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  },
+  {
+    "id": "3BF425CD-9333-4AD8-A6FF-C56168F15B42",
+    "url": "https://www.nps.gov/places/night-sky-viewing-area-at-capulin-volcano.htm",
+    "title": "Night Sky Viewing Area at Capulin Volcano",
+    "listingDescription": "An area of the park that is open to the public 24/7 to view the sky at night. Please do not build fires in this area or camp overnight in this area.",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/1BFE1C98-A413-2024-3104F562CE19E8C5.jpg",
+        "credit": "NPS Photo/Richard Blake",
+        "altText": "Stars in the Night Sky and the Milky Way over the shadow of Capulin Volcano",
+        "title": "Milky Way Over Capulin Volcano",
+        "description": "",
+        "caption": "Milky Way Over Capulin Volcano",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/1BFE1C98-A413-2024-3104F562CE19E8C5.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/1BFE1C98-A413-2024-3104F562CE19E8C5.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "NM",
+        "parkCode": "cavo",
+        "designation": "National Monument",
+        "fullName": "Capulin Volcano National Monument",
+        "url": "https://www.nps.gov/cavo/index.htm",
+        "name": "Capulin Volcano"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [
+      "night sky",
+      "parking",
+      "New Mexico",
+      "night activity",
+      "views",
+      "Capulin Volcano National Monument"
+    ],
+    "latitude": "36.778167724609375",
+    "longitude": "-103.97955322265625",
+    "latLong": "36.778167724609375,-103.97955322265625",
+    "bodyText": "Come view the night sky at Capulin Volcano! As a Gold Tier International Dark Sky Place, thousands of stars are visible on clear nights here.<br /> <br /> Located in the oversized vehicle parking area near the visitor center, the night sky viewing area is open to visitors 24/7 for night sky viewing. We do ask that visitors <strong><u>not</u> </strong>camp overnight here, build any type of fire, play loud music, and clean up after themselves.",
+    "audioDescription": "Oversized vehicle parking area near the visitor center at Capulin Volcano National Monument. The area is paved and able to accommodate large vehicles. The visitor center building is located to the north of the parking area, with the slope of the volcano rising in the east.",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "",
+    "isManagedByNps": "1",
+    "amenities": [
+      "Cellular Signal",
+      "Information - Maps Available",
+      "Parking - Auto",
+      "Parking - Bus/RV",
+      "Picnic Table",
+      "Recycling",
+      "Scenic View/Photo Spot",
+      "Trailhead",
+      "Trash/Litter Receptacles",
+      "Wheelchair Accessible"
+    ],
+    "managedByOrg": "",
+    "quickFacts": [
+      {
+        "id": "5C252B96-2DEB-4EF4-91D1-B5D2B202FCD7",
+        "value": "Visitor Center Parking Area",
+        "name": "Location"
+      }
+    ],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  },
+  {
+    "id": "1F84E09A-92F0-4997-8DF4-9B97574B4AB3",
+    "url": "https://www.nps.gov/places/quaking-aspen-overlook.htm",
+    "title": "Quaking Aspen Overlook",
+    "listingDescription": "Hike the Boca Trail for an amazing view of two other volcanoes in the Raton-Clayton Volcanic Field. Standing on the hardened remains of a lava cascade, the Quaking Aspen Overlook provides an excellent view of the volcanic geology near Capulin Volcano.",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/8E331C54-CF2F-D524-9CD67A9C3D9FE3A2.jpg",
+        "credit": "NPS Photo/Melissa Weih",
+        "altText": "lava rock in the foreground and Jose Butte and Robinson Peak in the background under a blue sky",
+        "title": "Quaking Aspen Overlook",
+        "description": "",
+        "caption": "View from Quaking Aspen Overlook",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/8E331C54-CF2F-D524-9CD67A9C3D9FE3A2.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/8E331C54-CF2F-D524-9CD67A9C3D9FE3A2.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "NM",
+        "parkCode": "cavo",
+        "designation": "National Monument",
+        "fullName": "Capulin Volcano National Monument",
+        "url": "https://www.nps.gov/cavo/index.htm",
+        "name": "Capulin Volcano"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [
+      "volcanoes",
+      "lava rock topography",
+      "basalt",
+      "overlook",
+      "Capulin Volcano National Monument",
+      "New Mexico",
+      "trail",
+      "hiking",
+      "View"
+    ],
+    "latitude": "36.78466796875",
+    "longitude": "-103.9808578491211",
+    "latLong": "36.78466796875,-103.9808578491211",
+    "bodyText": "Enjoy hiking the Boca Trail to Quaking Aspen Overlook for excellent views of the volcanic geology of the Raton-Clayton Volcanic Field! A short walk off the main trail, this overlook rests on top of a hardened lava cascade that originated from the lava flows of Capulin Volcano. In the distance, you'll see Jose Butte (on the left) and Robinson Peak (on the right), two other volcanoes to the west of Capulin.",
+    "audioDescription": "Large, grayish brown blocks of hardened lava covered in lichen cover the ground at your feet and slope downhill. The landscape is a mix of prairie grass and a pinon-juniper tree forest with one quaking aspen tree at the bottom of the tumble of lava rock. In the distance about 10 miles away on the left is Jose Butte, a volcano with a slated top covered in prairie grass. Also in the distance around 10 miles away to the right is Robinson Peak, a volcano with 3 peaks (one tallest and two lower on either side) covered in a mix of trees and prairie grass. Between you and the volcanoes, at the bottom of the lava cascade is New Mexico Highway 325.",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "",
+    "isManagedByNps": "1",
+    "amenities": [
+      "Scenic View/Photo Spot"
+    ],
+    "managedByOrg": "",
+    "quickFacts": [
+      {
+        "id": "5C252B96-2DEB-4EF4-91D1-B5D2B202FCD7",
+        "value": "Boca Trail",
+        "name": "Location"
+      }
+    ],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  },
+  {
+    "id": "7E58103B-6503-465E-A6EF-B578D9B36658",
+    "url": "https://www.nps.gov/places/sierra-grande-volcano-overlook.htm",
+    "title": "Sierra Grande Volcano Overlook",
+    "listingDescription": "Overlook of Sierra Grande Volcano from the Lava Flow Trail",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/B190E462-A8E1-2583-FF15E7D398C929D0.jpg",
+        "credit": "NPS Photo",
+        "altText": "View of Sierra Grande Volcano in the distance behind a sea of prairie grass",
+        "title": "Overlook of Sierra Grande Volcano",
+        "description": "",
+        "caption": "View from Sierra Grande Volcano Overlook",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/B190E462-A8E1-2583-FF15E7D398C929D0.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/B190E462-A8E1-2583-FF15E7D398C929D0.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "NM",
+        "parkCode": "cavo",
+        "designation": "National Monument",
+        "fullName": "Capulin Volcano National Monument",
+        "url": "https://www.nps.gov/cavo/index.htm",
+        "name": "Capulin Volcano"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [
+      "overlook",
+      "volcano",
+      "trail",
+      "hiking",
+      "View",
+      "Capulin Volcano National Monument",
+      "New Mexico"
+    ],
+    "latitude": "36.77644348144531",
+    "longitude": "-103.97624969482422",
+    "latLong": "36.77644348144531,-103.97624969482422",
+    "bodyText": "Enjoy a lovely view of Sierra Grande Volcano from the Lava Flow Trail at Capulin Volcano! Sierra Grande is the tallest volcano in the Raton-Clayton Volcanic Field.<br /> <br /> Sierra Grande is an andesite-shield volcano that erupted around 2.41 to 2.88 million years ago. Rising around 2,200 feet above the surrounding praire, it is located 10 miles to the southeast of Capulin Volcano. At around 8,720 feet elevation, it is also the easternmost point in the United States that reaches an elevation higher than 8,000 feet.",
+    "audioDescription": "A pile of dark gray volcanic rock covered in lichen marks this southeast facing overlook. A pinon pine tree is to the right, while gambel oak covers some of the volcanic rock to the left. Prairie grass covers the view ahead with scattered pinon pine and juniper trees until the base of Sierra Grande volcano 10 miles in the distance. Sierra Grande has gently sloping sides covered in a pinon pine and juniper forest until the top which is bald (or covered in prairie grass). Several metal antennas can be seen at the topmost point of Sierra Grande.",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "",
+    "isManagedByNps": "1",
+    "amenities": [
+      "Scenic View/Photo Spot"
+    ],
+    "managedByOrg": "",
+    "quickFacts": [
+      {
+        "id": "5C252B96-2DEB-4EF4-91D1-B5D2B202FCD7",
+        "value": "Lava Flow Trail",
+        "name": "Location"
+      }
+    ],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  },
+  {
+    "id": "4E67E95B-CBBC-4CF2-A0D4-9417C42A187C",
+    "url": "https://www.nps.gov/places/top-of-capulin-volcano.htm",
+    "title": "Top of Capulin Volcano",
+    "listingDescription": "The highest elevation of Capulin Volcano is 8182 feet (or 2494 meters) above sea level and can be accessed by hiking the Crater Rim Trail.",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/1CB852BF-CD26-CB4C-67CDCDEB111E618F.jpg",
+        "credit": "NPS Photo",
+        "altText": "View of Three Signs to the left and grass and tree covered landscape below the volcano to the right",
+        "title": "View from the Top of Capulin Volcano",
+        "description": "",
+        "caption": "View from the Top of Capulin Volcano",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/1CB852BF-CD26-CB4C-67CDCDEB111E618F.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/1CB852BF-CD26-CB4C-67CDCDEB111E618F.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "NM",
+        "parkCode": "cavo",
+        "designation": "National Monument",
+        "fullName": "Capulin Volcano National Monument",
+        "url": "https://www.nps.gov/cavo/index.htm",
+        "name": "Capulin Volcano"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [
+      "volcano",
+      "Mountain Top",
+      "viewshed",
+      "View",
+      "overlook",
+      "hiking",
+      "trail",
+      "Capulin Volcano National Monument",
+      "New Mexico",
+      "geoheritage sites"
+    ],
+    "latitude": "36.7837596041",
+    "longitude": "-103.968079358",
+    "latLong": "36.7837596041,-103.968079358",
+    "bodyText": "Hike to the top of an extinct cinder cone volcano! By hiking along the Crater Rim Trail, you can get to the highest elevation at Capulin Volcano National Monument at 8182 feet (or 2494 meters).<br /> <br /> From this point, the northern part of the Raton-Clayton Volcanic Field can be seen as well as the highest point in Oklahoma, Black Mesa. In July and August, the bases of the trees here are covered in convergent lady beetles.<br /> <br />  ",
+    "audioDescription": "There are three signs on the east side of the trail that describe the mesas and volcanoes that can be seen from this spot and the phases of eruption of the Raton-Clayton Volcanic Field. On the west side of the trail are dead pinon pine and juniper trees (killed by drought). In the summer, the bases of these trees are covered in ladybug clusters. When looking northeast, the first volcano seen is Mud Hill, an old cinder cone volcano, and just past that is Baby Capulin, a small young cinder cone volcano. To the east on clear days is Black Mesa in Oklahoma. To the west is Johnson Mesa. To the south is Sierra Grande, a large, old adesitic shield volcano.",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "383b2694-6152-442b-96ba-df2c235529c7",
+    "isManagedByNps": "1",
+    "amenities": [
+      "Information",
+      "Scenic View/Photo Spot"
+    ],
+    "managedByOrg": "",
+    "quickFacts": [
+      {
+        "id": "5C252B96-2DEB-4EF4-91D1-B5D2B202FCD7",
+        "value": "Crater Rim Trail",
+        "name": "Location"
+      }
+    ],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  },
+  {
+    "id": "C872685F-BC9E-4480-A890-BBD9AE883330",
+    "url": "https://www.nps.gov/places/volcano-road-parking.htm",
+    "title": "Volcano Road Parking",
+    "listingDescription": "Drive to the top of a volcano and view the western part of the Raton-Clayton Volcanic Field as well as the crater of Capulin Volcano from this parking area.",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/4E967CE0-9463-1B9F-12844D1864B201AC.jpg",
+        "credit": "NPS Photo",
+        "altText": "green view of the crater, parking area, and other volcanoes from the top of Capulin Volcano",
+        "title": "Crater and Parking at the top of Capulin",
+        "description": "",
+        "caption": "Parking Area at the Top of Capulin Volcano Viewed from the Rim Trail",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/4E967CE0-9463-1B9F-12844D1864B201AC.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/4E967CE0-9463-1B9F-12844D1864B201AC.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "NM",
+        "parkCode": "cavo",
+        "designation": "National Monument",
+        "fullName": "Capulin Volcano National Monument",
+        "url": "https://www.nps.gov/cavo/index.htm",
+        "name": "Capulin Volcano"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [
+      "parking",
+      "volcano",
+      "overlook",
+      "View",
+      "viewshed",
+      "volcanic craters",
+      "Raton-Clayton Volcanic Field",
+      "trails",
+      "Capulin Volcano National Monument",
+      "New Mexico"
+    ],
+    "latitude": "36.782527923583984",
+    "longitude": "-103.97225189208984",
+    "latLong": "36.782527923583984,-103.97225189208984",
+    "bodyText": "Drive to the top of an extinct cinder cone volcano! The views of the western part of the Raton-Clayton Volcanic Field and the crater of Capulin Volcano are spectacular.<br /> <br /> If you would like to do some hiking, two trails leave from this parking area though watch out for lightning as the parking area closes whenever a thunderstorm comes within 10 miles. The Crater Rim Trail is a one mile loop that follows the rim of the crater and provides great views of the surrounding landscape. The Crater Vent Trail is a quarter mile walk into the bottom of the crater at Capulin Volcano.",
+    "audioDescription": "A paved parking lot with space for 20 vehicles at the end of Volcano Road surrounded on three sides by a sidewalk and low retaining wall made of volcanic rock. To the west, there are three signs about the area and views of the Sangre de Christo mountains and Jose Butte and Robinson Peak (two other volcanoes). To the east, there is one sign about the eruption and views of the volcanic vent and crater of Capulin Volcano. In the southeast corner of the parking area is a short sidewalk to two restrooms (vault toilets). In the southwest corner of the parking area are two staircases and a sign on the trails starting here. The staircase heading downhill leads to the Crater Vent Trail and the staircase leading uphill heading uphill leads to the Crater Rim Trail.",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "",
+    "isManagedByNps": "1",
+    "amenities": [
+      "Benches/Seating",
+      "Historical/Interpretive Information/Exhibits",
+      "Information Kiosk/Bulletin Board",
+      "Parking - Auto",
+      "Recycling",
+      "Restroom",
+      "Scenic View/Photo Spot",
+      "Toilet - Vault/Composting",
+      "Trailhead",
+      "Trash/Litter Receptacles",
+      "Wheelchair Accessible"
+    ],
+    "managedByOrg": "",
+    "quickFacts": [
+      {
+        "id": "5C252B96-2DEB-4EF4-91D1-B5D2B202FCD7",
+        "value": "Top of Volcano Road",
+        "name": "Location"
+      }
+    ],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  }
+]

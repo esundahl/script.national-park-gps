@@ -1,0 +1,69 @@
+[
+  {
+    "id": "7BF2DD46-9CAB-4422-B0AD-37098247B965",
+    "url": "https://www.nps.gov/places/riverway-park-store.htm",
+    "title": "Park Store",
+    "listingDescription": "The park store carries a wide range of books and educational products for children and other Riverway memorabilia.",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/AB4E64B5-B32C-69BE-89044337A858CC33.jpg",
+        "credit": "NPS",
+        "altText": "Sales items neatly displayed on a rack under lights inside a building.",
+        "title": "Riverway Bookstore",
+        "description": "",
+        "caption": "Shelves are filled with history, geology and natural science books, puzzles, and mugs.",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/AB4E64B5-B32C-69BE-89044337A858CC33.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/AB4E64B5-B32C-69BE-89044337A858CC33.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "WI,MN",
+        "parkCode": "sacn",
+        "designation": "National Scenic Riverway",
+        "fullName": "Saint Croix National Scenic Riverway",
+        "url": "https://www.nps.gov/sacn/index.htm",
+        "name": "Saint Croix"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [
+      "store",
+      "park store",
+      "bookstore"
+    ],
+    "latitude": "45.416870073007544",
+    "longitude": "-92.64696451557387",
+    "latLong": "45.416870073007544,-92.64696451557387",
+    "bodyText": "The park store is operated by the <a href=\"https://americasnationalparks.org/\">Americans National Parks bookstores</a>, an official non-profit partner of the National Park Service dedicated to supporting the educational mission of the St. Croix National Scenic Riverway. The park store in both of the park's <a href=\"https://www.nps.gov/sacn/planyourvisit/visitor-centers.htm\">visitor centers</a> has a wide range of books, guides, and other Riverway items available for sale. These products complement the interpretive themes you experience when visiting the park. ",
+    "audioDescription": "An open space inside the Namekagon River Visitor Center and St. Croix River Visitor Center, approximately 15 feet long by 12 feet wide, with wood and concrete walls support wood slatboards supporting books and gift items.",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "1",
+    "npmapId": "",
+    "geometryPoiId": "",
+    "isManagedByNps": "1",
+    "amenities": [
+      "Gifts/Souvenirs/Books",
+      "Information"
+    ],
+    "managedByOrg": "",
+    "quickFacts": [],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  }
+]

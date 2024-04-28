@@ -1,0 +1,1715 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.21266,
+          32.79123
+        ]
+      },
+      "properties": {
+        "name": "\"Best Den Ever!\" Interpretive Sign",
+        "notes": "\"Best Den Ever!\" Interpretive Sign\nhttps://www.nps.gov/places/best-den-ever-interpretive-sign.htm\n\n<p>In this interpretive sign at Dune Life Nature Trail, Katie the Kit Fox features her kin! She describes the natural eating pattern of kit foxes, and their deep dens that help them stay cool in the summer.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.2117,
+          32.79107
+        ]
+      },
+      "properties": {
+        "name": "\"Best Friends\" Interpretive Sign",
+        "notes": "\"Best Friends\" Interpretive Sign\nhttps://www.nps.gov/places/best-friends-interpretive-sign.htm\n\n<p>In this interpretive sign at Dune Life Nature trail, Katie the Kit Fox describes the friendly relationship between yucca moths and soaptree yuccas.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.21474,
+          32.79041
+        ]
+      },
+      "properties": {
+        "name": "\"Big Mouths!\" Interpretive Sign",
+        "notes": "\"Big Mouths!\" Interpretive Sign\nhttps://www.nps.gov/places/big-mouths-interpretive-sign.htm\n\n<p>In this interpretive sign at Dune Life Nature Trail, Katie the Kit Fox describes some of the least picky eaters at White Sands National Park: lesser nighthawks. </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.21323,
+          32.79058
+        ]
+      },
+      "properties": {
+        "name": "\"Fight to the Death\" Interpretive Sign",
+        "notes": "\"Fight to the Death\" Interpretive Sign\nhttps://www.nps.gov/places/fight-to-the-death-interpretive-sign.htm\n\n<p>This interpretive sign on Dune Life Nature Trail shows another one of Katie the Kit Fox's friends, the tarantula hawk wasp, and its much larger prey.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.21152,
+          32.79791
+        ]
+      },
+      "properties": {
+        "name": "\"Finding Footprints\" Interpretive Sign",
+        "notes": "\"Finding Footprints\" Interpretive Sign\nhttps://www.nps.gov/places/finding-footprints-interpretive-sign.htm\n\n<p>This interpretive exhibit at the Playa Trail showcases some of the tracks found at White Sands.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.2118,
+          32.78967
+        ]
+      },
+      "properties": {
+        "name": "\"Get Down and Come Eat\" Interpretive Sign",
+        "notes": "\"Get Down and Come Eat\" Interpretive Sign\nhttps://www.nps.gov/places/get-down-and-come-eat-interpretive-sign.htm\n\n<p>In this interpretive sign at Dune Life Nature Trail, Katie the Kit Fox describes the unique eating habits of pallid bats.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.21277,
+          32.79156
+        ]
+      },
+      "properties": {
+        "name": "\"Hide to Stay Safe\" Interpretive Sign",
+        "notes": "\"Hide to Stay Safe\" Interpretive Sign\nhttps://www.nps.gov/places/hide-to-stay-safe-interpretive-sign.htm\n\n<p>In this interpretive sign at Dune Life Nature Trail, Katie the Kit Fox shares some of the ways cottontail rabbits hide to stay safe.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.21373,
+          32.78969
+        ]
+      },
+      "properties": {
+        "name": "\"Hoo’s Down in that Hole?\" Interpretive Sign",
+        "notes": "\"Hoo’s Down in that Hole?\" Interpretive Sign\nhttps://www.nps.gov/places/hoos-down-in-that-hole-interpretive-sign.htm\n\n<p>At this interpretive sign on Dune Life Nature Trail, Katie the Kit Fox describes some of the sneaky ways that burrowing owls attract their favorite prey.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.21232,
+          32.79078
+        ]
+      },
+      "properties": {
+        "name": "\"Hungry Enough?\" Interpretive Sign",
+        "notes": "\"Hungry Enough?\" Interpretive Sign\nhttps://www.nps.gov/places/hungry-enough-interpretive-sign.htm\n\n<p>Are you a picky eater? In this interpretive sign at Dune Life Nature Trail, Katie the Kit Fox highlights a very flexible eater found in the park, the American badger.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.21427,
+          32.7909
+        ]
+      },
+      "properties": {
+        "name": "\"Jackrabbit for Dinner... Again?\" Interpretive Sign",
+        "notes": "\"Jackrabbit for Dinner... Again?\" Interpretive Sign\nhttps://www.nps.gov/places/jackrabbit-for-dinner-again-interpretive-sign.htm\n\n<p>Are you a picky eater? In this interpretive sign at Dune Life Nature Trail, Katie the Kit Fox talks about her dunefield roommates: bobcats.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.21165,
+          32.79703
+        ]
+      },
+      "properties": {
+        "name": "\"Just Add Water\" Interpretive Sign",
+        "notes": "\"Just Add Water\" Interpretive Sign\nhttps://www.nps.gov/places/just-add-water-interpretive-sign.htm\n\n<p>This interpretive sign on the Playa Trail showcases how water and the changing seasons create a hidden world that is waiting to come to life.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.21265,
+          32.79356
+        ]
+      },
+      "properties": {
+        "name": "\"Living on the Edge\" Kiosk Panel",
+        "notes": "\"Living on the Edge\" Kiosk Panel\nhttps://www.nps.gov/places/living-on-the-edge-kiosk-panel.htm\n\n<p>This three-foot by four-foot sign showcases some of the creatures found on Dune Life Nature Trail. Read this sign for more information on how to follow along with Katie the Kit Fox as she introduces you to all of her animal friends in the dunefield. </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.17252338585784,
+          32.779285386865986
+        ]
+      },
+      "properties": {
+        "name": "\"Making a Monument\" Interpretive Sign",
+        "notes": "\"Making a Monument\" Interpretive Sign\nhttps://www.nps.gov/places/making-a-monument-interpretive-sign.htm\n\n<p>The \"Making a Monument\" interpretive sign at the Visitor Center complex outlines a brief timeline that describes how White Sands National Monument was initially established.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.17264,
+          32.77966
+        ]
+      },
+      "properties": {
+        "name": "\"Mammoths to Ranchers\" Interpretive Sign",
+        "notes": "\"Mammoths to Ranchers\" Interpretive Sign\nhttps://www.nps.gov/places/mammoths-to-ranchers-interpretive-sign.htm\n\n<p>Did you know that humans have been coming to White Sands for more than 10,000 years? The \"Mammoths to Ranchers\" interpretive sign showcases a timeline of human settlements in the Tularosa Basin.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.21179,
+          32.7921
+        ]
+      },
+      "properties": {
+        "name": "\"Meat-eating Mice\" Interpretive Sign",
+        "notes": "\"Meat-eating Mice\" Interpretive Sign\nhttps://www.nps.gov/places/meat-eating-mice-interpretive-sign.htm\n\n<p>How loud can you roar? In this interpretive sign at Dune Life Nature Trail, Katie the Kit Fox describes grasshopper mice, who are known to let out a lion-like roar after killing their prey.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.17265,
+          32.77966
+        ]
+      },
+      "properties": {
+        "name": "\"Missiles and Missions\" Interpretive Sign",
+        "notes": "\"Missiles and Missions\" Interpretive Sign\nhttps://www.nps.gov/places/missiles-and-missions-interpretive-sign.htm\n\n<p>The \"Missiles and Missions\" interpretive sign describes the unique partnership between the United States military and White Sands National Park.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.21321,
+          32.78873
+        ]
+      },
+      "properties": {
+        "name": "\"Never Takes a Drink\" Interpretive Sign",
+        "notes": "\"Never Takes a Drink\" Interpretive Sign\nhttps://www.nps.gov/places/never-takes-a-drink-interpretive-sign.htm\n\n<p>Did you know there's an animal at White Sands that never drinks water? This interpretive sign at Dune Life Nature Trail showcases Katie the Kit Fox and one of her unique furry friends, the Apache pocket mouse.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.21224,
+          32.78939
+        ]
+      },
+      "properties": {
+        "name": "\"Ready for Bed\" Interpretive Sign",
+        "notes": "\"Ready for Bed\" Interpretive Sign\nhttps://www.nps.gov/places/ready-for-bed-interpretive-sign.htm\n\n<p>In this interpretive sign at Dune Life Nature Trail, Katie the Kit Fox talks about Roadrunners, some of the fastest creatures found at White Sands National Park.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.21121,
+          32.79016
+        ]
+      },
+      "properties": {
+        "name": "\"Watch Out for the Big Dog\" Interpretive Sign",
+        "notes": "\"Watch Out for the Big Dog\" Interpretive Sign\nhttps://www.nps.gov/places/big-dog-interpretive-sign.htm\n\n<p>In this interpretive sign at Dune Life Nature Trail, Katie the Kit Fox describes an elusive predator found at White Sands: the coyote. </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.21152,
+          32.79791
+        ]
+      },
+      "properties": {
+        "name": "\"Wetter, Bigger, Badder\" Interpretive Sign",
+        "notes": "\"Wetter, Bigger, Badder\" Interpretive Sign\nhttps://www.nps.gov/places/wetter-bigger-badder-interpretive-sign.htm\n\n<p>This interpretive sign on the Playa Trail highlights some of the larger-than-life creatures that you would've seen along this trail if you were here over ten thousand years ago.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.26426,
+          32.80992
+        ]
+      },
+      "properties": {
+        "name": "\"White Night Camping\" Kiosk Panel",
+        "notes": "\"White Night Camping\" Kiosk Panel\nhttps://www.nps.gov/places/white-night-camping-kiosk-panel.htm\n\n<p>This three foot by four foot kiosk panel showcases several of the breathtaking views available to backcountry campers at White Sands National Park. </p> <p>Before setting off on your adventure, we strongly recommend anyone interested in hiking the Backcountry Camping Loop Trail also reads our <a href=\"https:///www.nps.gov/whsa/planyourvisit/hiking-safety-tips.htm\">Hiking Safety</a> page.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.21273,
+          32.79221
+        ]
+      },
+      "properties": {
+        "name": "\"Who Eats What?\" Interpretive Sign",
+        "notes": "\"Who Eats What?\" Interpretive Sign\nhttps://www.nps.gov/places/who-eats-what-interpretive-sign.htm\n\n<p>This is the first interpretive panel on Dune Life Nature Trail. It introduces Katie the Kit Fox, and many other creatures you might find at White Sands National Park. </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.23872,
+          32.7953
+        ]
+      },
+      "properties": {
+        "name": "\"Yucca: One Stop Shopping\" Interpretive Sign",
+        "notes": "\"Yucca: One Stop Shopping\" Interpretive Sign\nhttps://www.nps.gov/places/yucca-one-stop-shopping-interpretive-sign.htm\n\n<p>This interactive exhibit at the Interdune Boardwalk highlights the many uses of a common native plant: the soaptree yucca.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.17242,
+          32.77944
+        ]
+      },
+      "properties": {
+        "name": "A Day in the Dunes Interpretive Sign",
+        "notes": "A Day in the Dunes Interpretive Sign\nhttps://www.nps.gov/places/a-day-in-the-dunes-interpretive-sign.htm\n\n<p>Are you ready to plan your visit to White Sands? This interpretive panel provides basic information about park hours, a map of Dunes Drive, and a map of the visitor center area. The sign provides orientation in both English and Spanish. </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.21169,
+          32.79638
+        ]
+      },
+      "properties": {
+        "name": "A Desert Oasis Interpretive Sign",
+        "notes": "A Desert Oasis Interpretive Sign\nhttps://www.nps.gov/places/a-desert-oasis-interpretive-sign.htm\n\n<p>Water is the focus of this interpretive sign on the Playa Trail. It describes how water is trapped in the basin and helps create the dried lakebed that is highlighted on this trail.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.21386968552946,
+          32.790027164418646
+        ]
+      },
+      "properties": {
+        "name": "A Place To Rest - EKO Stop 8",
+        "notes": "A Place To Rest - EKO Stop 8\nhttps://www.nps.gov/places/a-place-to-rest.htm\n\nThe Rio Grande cottonwood tree survives in White Sands National Park due to some adaptations it already had to survive in the surrounding desert. The stems that attach the leaves to the tree are flat instead of round. This helps the leaves twist in the wind allowing them to not be blown off the tree in the high-speed winds that often happen here. The roots run deep into the ground and hold the trees in place, so they don’t lose their grip during windstorms. During the fall, the green leaves of the cottonwood will start to turn yellow to orange in color.<br /> Migratory birds will use the groves of cottonwoods as resting points. The trees give them a place to stop and rest during their long journey.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.27306,
+          32.80781
+        ]
+      },
+      "properties": {
+        "name": "A Place for Snacks, Sleds, and Souvenirs",
+        "notes": "A Place for Snacks, Sleds, and Souvenirs\nhttps://www.nps.gov/places/a-place-for-snacks-sleds-and-souvenirs.htm\n\n<p>Did you swing by the non-profit park store or the gift shop before you headed into the dunes? If so, you explored some concession establishments that were a long time in the making. Visitors who came to White Sands in the 1930s and 40s used to purchase their snacks, sleds, and souvenirs from a large trailer in the dunefield operated by Tom Charles and his White Sands Service Company. He might have even once parked it in the flat interdune area in front of you.<br /> <br /> Charles is known to some as the “Father of White Sands,” as he was instrumental in the park’s designation as a National Monument, and eventually became its first Superintendent. Besides selling trinkets and food items, his company also took visitors on private auto tours throughout the dunefield. They made their way over even the tallest dunes in what would now be a vintage car, and, surprisingly, rarely got stuck!<br /> <br /> If you were to create your own tour or concessions company here at White Sands, what services would you offer?</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.21274317082532,
+          32.79061337644547
+        ]
+      },
+      "properties": {
+        "name": "A Place to Call Home - EKO Stop 9",
+        "notes": "A Place to Call Home - EKO Stop 9\nhttps://www.nps.gov/places/a-place-to-call-home.htm\n\nAnimals like the kit fox will dig inside the plant-pedestal under the skunkbush sumac to build their homes. Birds will use the plant as a place to build a nest. The berries it produces are important source of foot for birds and small mammals once other food sources become scarce or unavailable during the fall and winter. Even a dead skunkbush sumac is useful because the pedestal will remain and is a good  place to build a home.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.26807,
+          32.80948
+        ]
+      },
+      "properties": {
+        "name": "A Road Leading to Nowhere",
+        "notes": "A Road Leading to Nowhere\nhttps://www.nps.gov/places/a-road-leading-to-nowhere.htm\n\n<p>Take a peek around the surrounding interdune areas, or the flat space between dunes. Is there anything there that looks like it doesn’t belong? After making a note of where the closest trail marker to you is, saunter towards this curious conundrum when you think you've spotted it.<br /> <br /> If you’re now standing near the red clay pieces scattered about, you’re not only on the road to successfully finding the focus of this stop – you’re on the road that used to lead into White Sands when it was first designated as a National Monument in 1933. This road served as the main access point to the Monument for most of the 1930s, and was finished just in time to welcome an estimated 776 cars on Opening Day. That was nearly five thousand people, all exploring where you are today!<br /> <br /> While the road added a nice splash of color to the otherwise white dunes, it had a natural inclination to get washed out during periods of heavy rains. Within a few years, the old clay road was replaced by the asphalt pavement you probably rode in on today. But its remaining pieces still caused confusion among new visitors, and countless drivers found themselves lost by following this now destinationless road. To keep people on the right track, Civilian Conservation Corps members eventually removed most of the old clay road in the 1940s.<br /> <br /> As it is in all National Parks, these fragments of history are protected by law. Please take care to Leave No Trace and take nothing from the dunefield, including sand, plants, and pieces of this historic road.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.27308,
+          32.82064
+        ]
+      },
+      "properties": {
+        "name": "A Thousand Vistas",
+        "notes": "A Thousand Vistas\nhttps://www.nps.gov/places/a-thousand-vistas.htm\n\n<p>A landscape full of white dunes offers different perspectives every direction that you look. The key to observing the views is to make sure you know where you are at all times. While beautiful, the views can lead you to get lost if your not careful. <br /> <br /> We strongly recommend that anyone planning to attempt the Alkali Flat Trail reads the entirety of this panel, as well as the potentially life-saving tips on our <a href=\"https:///www.nps.gov/whsa/planyourvisit/hiking-safety-tips.htm\">Hiking Safety</a> page.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.23903,
+          32.79384
+        ]
+      },
+      "properties": {
+        "name": "A White Oasis",
+        "notes": "A White Oasis\nhttps://www.nps.gov/places/a-white-oasis.htm\n\n<p>An oasis in the middle of the desert. A place where unique environmental conditions meets an existing land and the two merge together. This is the ecotone. Where Chihuahuan desert meets gypsum dunefield and the plants and animals must adapt to survive.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.23874,
+          32.79526
+        ]
+      },
+      "properties": {
+        "name": "Adapt or Disappear",
+        "notes": "Adapt or Disappear\nhttps://www.nps.gov/places/adapt-or-disappear.htm\n\n<p>How does a creature survive as its' environment changes? Hopefully the change is slow allowing time for the animal to adapt to its' new conditions. This is what happened for most of the creatures in the park. They adapted to their new environment in multiple ways. By changing color or even changing their diet. These adaptions allowed them to survive in an ever changing world.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.23814,
+          32.79607
+        ]
+      },
+      "properties": {
+        "name": "Add Water, Remove Water, Repeat",
+        "notes": "Add Water, Remove Water, Repeat\nhttps://www.nps.gov/places/add-water-remove-water-repeat.htm\n\n<p>Forming a gypsum dunefield takes many specific environmental conditions. Water, gypsum, a low lying area, sun, and wind. While many places can check off those conditions only White Sands has them occur in a very specific way. These conditions formed the world's largest known gypsum dunefield. </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.27308,
+          32.82064
+        ]
+      },
+      "properties": {
+        "name": "Alkali Flat Kiosk Panel",
+        "notes": "Alkali Flat Kiosk Panel\nhttps://www.nps.gov/places/alkali-flat-kiosk-panel.htm\n\n<p>This sign hangs on the front side of the kiosk at the start of the trail. It provides a trail map, many critical safety messages, and information on how to survive if lost in the dunefield. <br /> <br /> We strongly recommend that anyone planning to attempt the Alkali Flat Trail reads the entirety of this panel, as well as the potentially life-saving tips on our <a href=\"https://www.nps.gov/whsa/planyourvisit/hiking-safety-tips.htm\">Hiking Safety</a> page.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.271875702,
+          32.820392874
+        ]
+      },
+      "properties": {
+        "name": "Alkali Flat Restroom",
+        "notes": "Alkali Flat Restroom\nhttps://www.nps.gov/places/alkali-flat-restroom.htm\n\n<p>The Alkali Flat Trailhead restroom has two separate wheelchair-accessible vault toilets with no running water, a dumpster, and trash bins. It is within a parking area with plenty of space to park automobiles and RVs, and there are accessible places to park directly in front of the restroom.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.273070066,
+          32.8204883678
+        ]
+      },
+      "properties": {
+        "name": "Alkali Flat Trail",
+        "notes": "Alkali Flat Trail\nhttps://www.nps.gov/places/alkali-flat-trail.htm\n\n<p>Red trail markers with a diamond symbol guide hikers along this strenuous, 5-mile (8 km) roundtrip hike. The Alkali Flat Trail skirts the edge of what is now the final remnant of Lake Otero. <strong>This trail is not flat!</strong> You will be hiking up and down dunes the entire way. Go only if you are prepared. There is no shade, no water, and no toilet facility along this trail. The average completion time is three hours.<br /> <br /> <strong>Length:</strong> 5 miles (8 km), round-trip<br /> <strong>Trail Marker Color:</strong> Red<br /> <span style=\"display: none;\"> </span><strong>Trail Marker Symbol:</strong> Diamond<br /> <span style=\"display: none;\"> </span><strong>Average Completion Time:</strong> 3 hours<br /> <strong>Difficulty:</strong> Strenuous<br /> <span style=\"display: none;\"> </span><strong>Distance from Visitor Center:</strong> 7 miles (11.2 km)<br /> <strong>Restroom:</strong> Two vault toilets at the trailhead<br /> <br /> Before setting out on foot at White Sands National Park, please view our <a href=\"https://www.nps.gov/whsa/planyourvisit/hiking-safety-tips.htm\">Hiking Safety Tips</a>.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.264067,
+          32.820383
+        ]
+      },
+      "properties": {
+        "name": "Amphitheater Restroom",
+        "notes": "Amphitheater Restroom\nhttps://www.nps.gov/places/amphitheater-restroom.htm\n\n<p>The amphitheater restroom has two separate wheelchair-accessible vault toilets with no running water, trash bins, and recycling bins. It is adjacent to the amphitheater, which is accessible by vehicle when programs are taking place. There is plenty of space to park automobiles and RVs in this lot, and there are accessible parking spaces directly in front of the restroom.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.26426,
+          32.80992
+        ]
+      },
+      "properties": {
+        "name": "Backcountry Camping Kiosk Panel",
+        "notes": "Backcountry Camping Kiosk Panel\nhttps://www.nps.gov/places/backcountry-camping-kiosk-panel.htm\n\n<p>This three foot by four foot kiosk panel offers an overview of the moderate Backcountry Camping Loop Trail, information on how to obtain a permit to camp, as well as pertinent safety information. <br /> <br /> In addition to reading the entirety of this panel, we strongly recommend anyone interested in hiking the Backcountry Camping Loop Trail also reads our <a href=\"https://www.nps.gov/whsa/planyourvisit/hiking-safety-tips.htm\">Hiking Safety</a> page.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.264346732,
+          32.809835034
+        ]
+      },
+      "properties": {
+        "name": "Backcountry Camping Loop Trail",
+        "notes": "Backcountry Camping Loop Trail\nhttps://www.nps.gov/places/backcountry-camping-loop-trail.htm\n\n<p>The Backcountry Camping Loop Trail is a moderate, 2-mile (3.5 km) roundtrip hike. Though backpackers hike the trail most frequently, it is also open to visitors who want a shorter hike through the heart of the dunes. Follow the orange trail markers with a spade symbol into an area of beautifully varied dunes and vegetation. The trail requires hikers to climb over several steep dunes and loose sand. There is no shade, no water, and no toilet facility along this trail. The average completion time is 1.5 hours.<br /> <br /> <strong>Length:</strong> 2 miles (3.5 km), round-trip<br /> <strong>Trail Marker Color:</strong> Orange<br /> <strong>Trail Marker Symbol:</strong> Spade<br /> <span style=\"display: none;\"> </span><strong>Average Completion Time:</strong> 1.5 hours<br /> <strong>Difficulty:</strong> Moderate<br /> <strong>Distance from Visitor Center:</strong> 6 miles (9.7 km)<br /> <strong>Restroom</strong>: Two vault toilets at the trailhead<br /> <br /> Before setting out on foot at White Sands National Park, please view our <a href=\"https://www.nps.gov/whsa/planyourvisit/hiking-safety-tips.htm\">Hiking Safety Tips</a>.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.263617,
+          32.810133
+        ]
+      },
+      "properties": {
+        "name": "Backcountry Camping Loop Trail Restroom",
+        "notes": "Backcountry Camping Loop Trail Restroom\nhttps://www.nps.gov/places/backcountry-camping-trail-restroom.htm\n\n<p>The Backcountry Camping Loop Trail restroom has two separate wheelchair-accessible vault toilets with no running water, a dumpster, and trash and recycling bins. It is within a parking area with plenty of space to park automobiles and RVs, and there are accessible parking spaces directly in front of the restroom.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.263176252,
+          32.812910094
+        ]
+      },
+      "properties": {
+        "name": "Balloon Area Restroom",
+        "notes": "Balloon Area Restroom\nhttps://www.nps.gov/places/balloon-area-restroom.htm\n\n<p>The Balloon Area restroom has two separate wheelchair-accessible vault toilets with no running water, and trash bins. It is within a pullout parking area along Dunes Drive with space to park automobiles and RVs, and there are accessible parking spaces directly in front of the restroom.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.21214235600598,
+          32.79079372823247
+        ]
+      },
+      "properties": {
+        "name": "Beating the Heat - EKO Stop 10",
+        "notes": "Beating the Heat - EKO Stop 10\nhttps://www.nps.gov/places/beating-the-heat.htm\n\nUnlike most owls, the burrowing owl is most active during the day. Living below ground helps to keep them cool when it’s hot outside. They tend to live in small groups called a parliament. In people, a parliament is a group of leaders who make decisions. In owls, the name comes from their association with wisdom. The owls take turns outside of the den watching for danger. Burrowing owls are known to eat insects, small mammals, and lizards. They will line the entrance of their burrow with mammals scat before they start nesting. Making it easy to get insects at the entrance to their burrow instead of hunting for them.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Big Pedestal",
+        "notes": "Big Pedestal\nhttps://www.nps.gov/places/big-pedestal.htm\n\n<p>Towering at over two stories tall, Big Pedestal is one of the largest pedestals at White Sands National Park. <br /> <br /> For more information about pedestals at White Sands, visit the <a href=\"https://www.nps.gov/whsa/learn/nature/plant-survival-strategies.htm\">Plant Survival Strategies</a> page.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.23812,
+          32.79605
+        ]
+      },
+      "properties": {
+        "name": "Bring on Snow, Rain, Sun, and Wind",
+        "notes": "Bring on Snow, Rain, Sun, and Wind\nhttps://www.nps.gov/places/bring-on-snow-rain-sun-and-wind.htm\n\n<p>Weather shapes and makes the dunes. If one key part doesn't happen the system won't shape or make new dunes. </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.19854,
+          32.79214
+        ]
+      },
+      "properties": {
+        "name": "Chihuahuan Life Roadside Exhibit",
+        "notes": "Chihuahuan Life Roadside Exhibit\nhttps://www.nps.gov/places/chihuahuan-life-roadside-exhibit.htm\n\n<p>The \"Chihuahuan Life\" wayside, located along Dunes Drive, features several of the plants and animals found in the coldest and wettest desert in North America.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.2118,
+          32.7921
+        ]
+      },
+      "properties": {
+        "name": "Cool to the Touch",
+        "notes": "Cool to the Touch\nhttps://www.nps.gov/places/cool-to-the-touch.htm\n\nThe story of dunefield creation starts millions and millions of years ago, back when this area was covered by a shallow sea. Layers of gypsum were left behind as the sea emptied and filled over and over, and you can still see them as light layers of rock in the surrounding mountains.<br /> <br /> Water carries dissolved gypsum down to the basin, then evaporates, leaving behind gypsum crystals. Those crystals are then broken down into smaller and smaller pieces until they are the sand you just dug into.<br /> <br /> The dunes have been here for around 7,000 years! The secret to keeping all this sand in place is shallow underground water acting as an anchor. Much like a paper towel sucking up water, the dunes act like the paper towel and the water holds them in place. When you feel the wet sand a few inches down, you’re feeling the dunefield’s anchor.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.172090343,
+          32.779303112
+        ]
+      },
+      "properties": {
+        "name": "Cruise the Dunes",
+        "notes": "Cruise the Dunes\nhttps://www.nps.gov/places/cruise-the-dunes.htm\n\nWelcome to White Sands National Park and the Sunset Roll self-guided driving tour! This tour begins from the park’s adobe visitor center located immediately to the right as you enter the park from the highway. White Sands National Park is among the most unique places on planet earth featuring expansive gypsum sand dunes. However, White Sands is so much more than just the dunes. Here life within has evolved against a white backdrop which provides a natural laboratory to study rapid evolution. For human visitors, the Tularosa Basin is a place we come to for insights into our past, present, and future as human beings. This tour will show the value of White Sands as a natural wonder, ecosystem, and a place for human enjoyment. Before departing into the dunefield here are a few more tips to help you make the most of your visit:<br />   <ul> <li>Read up on our <a href=\"https://www.nps.gov/whsa/planyourvisit/hiking-safety-tips.htm\"><b>hiking safety tips</b></a> before setting off on foot.</li> <li>This is the last chance to get water! We strongly recommend having at least a gallon of water per person, per day. <strong>There is no drinking water available in the dunefield.</strong></li> <li>Always know where you are in the park if you decide to explore the dunes from the road. Take note of the mile markers along the road and which parking area you leave your vehicle in.</li> </ul> <br /> Let's hit the road!",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Disappearing Darkness",
+        "notes": "Disappearing Darkness\nhttps://www.nps.gov/places/disappearing-darkness.htm\n\nWhen and where was the last time you stopped to appreciate a dark night sky? Today it is rare for many people to have the opportunity to appreciate the everchanging night sky, but it is always there night after night whether we take notice or not. When the world shifts to darkness, most of us humans settle into our homes, close our eyes, and go to sleep. Out here at White Sands however, the park residents relish in the darkness. When visitors are done with their picnics, sledding, and taking selfies the park gets dark, quiet, and nocturnal animals emerge to start their day. This is when moths appear, fluttering from yucca to yucca, making sure they will bloom again next season. Bats squeak, flap, and swoop for prey. Kit foxes’ tiny paws scuttle along the dunes, chasing creatures with tinier paws. A bobcat lurks through the dunes, its eyes aglow in the moonlight. You may associate darkness with evil, uncertainty, and danger, but darkness is essential for all living things. The absence of light allows natural rhythms to take place. Artificial light disrupts this rhythm and alters the behavior of nocturnal animals. Imagine trying to sleep with the lights on or getting up for breakfast in the middle of the night. For us, darkness signals the end of the day and for nocturnal animals the beginning of theirs. In the absence of light, they can navigate, nest, hunt, and hide. Beyond helping nocturnal critters maintain their groove, the night sky has been an inspiration since the beginning of human history. On a clear night, how many stars can you see from your house? What can you do to see more? Perhaps a porch light or a bright floodlight is trespassing on your vision. The more artificial light that is near you, the fewer stars you will see. With few large population centers nearby, the remoteness of White Sands makes it an oasis for nocturnal animals to live undisturbed and for visitors to catch awe-inspiring views of the Milky Way. Tonight, and during your travels, we encourage you to keep your eye on the sky. Observe the darkness in different locations and recognize that this valuable resource is disappearing as we sleep.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.212602482,
+          32.7935566164
+        ]
+      },
+      "properties": {
+        "name": "Dune Life Nature Trail",
+        "notes": "Dune Life Nature Trail\nhttps://www.nps.gov/places/dune-life-nature-trail.htm\n\n<p>The Dune Life Nature Trail is a moderate, one-mile (1.6 km) self-guided loop hike. Though not difficult, this hike does require hikers to climb two steep dunes with loose sand. Follow the blue trail markers with a club symbol. Meet Katie the Kit Fox and learn about her friends on this family-oriented trail. Look for tracks of the animals that call these dunes their home. Kit foxes, badgers, birds, rodents, and reptiles all live in this area. The average completion time is one hour.<br /> <br /> <strong>Length:</strong> One mile (1.6 km) loop<br /> <strong>Trail Marker Color:</strong> Blue<br /> <span style=\"display: none;\"> </span><strong>Trail Marker Symbol:</strong> Clubs<br /> <span style=\"display: none;\"> </span><strong>Average Completion Time:</strong> 1 hour<br /> <strong>Difficulty:</strong> Moderate<br /> <span style=\"display: none;\"> </span><strong>Distance from Visitor Center:</strong> 2.5 miles (4 km)<br /> <strong>Restroom:</strong> Two vault toilets at the trailhead<br /> <br /> Before setting out on foot at White Sands National Park, please view our <a href=\"https://www.nps.gov/whsa/planyourvisit/hiking-safety-tips.htm\">Hiking Safety Tips.</a></p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.21265,
+          32.79356
+        ]
+      },
+      "properties": {
+        "name": "Dune Life Nature Trail Kiosk Panel",
+        "notes": "Dune Life Nature Trail Kiosk Panel\nhttps://www.nps.gov/places/dune-life-nature-trail-kiosk-panel.htm\n\n<p>This three foot by four foot kiosk panel offers an overview of the moderate Dune Life Nature Trail, as well as relevant safety information. </p> <p>In addition to reading the entirety of this panel, we strongly recommend that anyone interested in hiking the Dune Life Nature Trail also reads our <a href=\"https:///www.nps.gov/whsa/planyourvisit/hiking-safety-tips.htm\">Hiking Safety</a> page.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.21255,
+          32.793717
+        ]
+      },
+      "properties": {
+        "name": "Dune Life Nature Trail Restroom",
+        "notes": "Dune Life Nature Trail Restroom\nhttps://www.nps.gov/places/dune-life-nature-trail-restroom.htm\n\n<p>The Dune Life Nature Trail restroom has two separate wheelchair-accessible vault toilets with no running water, a trash bin, and is adjacent to a parking area with plenty of space to park automobiles and RVs. There are accessible parking spaces directly in front of the restroom.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.21240949108898,
+          32.79199719636839
+        ]
+      },
+      "properties": {
+        "name": "EKO Stop 2 Friends of Katie the Kit Fox",
+        "notes": "EKO Stop 2 Friends of Katie the Kit Fox\nhttps://www.nps.gov/places/friends-of-katie-the-kit-fox.htm\n\nThe kit fox is nocturnal, but they are known to come out on cloudy days from time to time. During the day, they stay in their dens to keep out of the heat. A kit fox will grow up to 20 inches (6 crayons) in length and weigh around five pounds. They have hair between their toes which helps them get more traction on the sand. This adaptation helps them to move fast and catch their prey. In the desert, there is very little access to running water. The kit fox gets all the moisture it needs from the food it eats instead of drinking. While it prefers small mammals such as mice, the kit fox will also eat lizards. <a> </a>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.24452,
+          32.79543
+        ]
+      },
+      "properties": {
+        "name": "End of Pavement",
+        "notes": "End of Pavement\nhttps://www.nps.gov/places/end-of-pavement.htm\n\n<p>This spot marks Dunes Drive's transition between pavement and hard-packed gypsum sand.<br /> <br /> The first five miles of Dunes Drive are paved, and the last three miles are firm sand. The entirety of the road is suitable for cars, motorcycles, recreational vehicles, and buses.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.267924014,
+          32.8210573051
+        ]
+      },
+      "properties": {
+        "name": "Evening Program Area Restroom",
+        "notes": "Evening Program Area Restroom\nhttps://www.nps.gov/places/evening-program-area-restroom.htm\n\n<p>The Evening Program Area restroom has two separate wheelchair-accessible vault toilets with no running water, and a trash bin. It is within a pullout along Dunes Drive with plenty of space to park automobiles and RVs, and there are accessible parking spaces directly in front of the restroom.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.21258394550512,
+          32.78908188567675
+        ]
+      },
+      "properties": {
+        "name": "Evolution of the Apache Pocket Mouse - EKO Stop 6",
+        "notes": "Evolution of the Apache Pocket Mouse - EKO Stop 6\nhttps://www.nps.gov/places/evolution-of-the-apache-pocket-mouse.htm\n\nThey use these pockets to carry food to their dens. Pocket mice will store seeds in their burrows to eat later. If there aren’t enough seeds around, they will also eat leaves, stems of plants, and small insects. The white coloration of the Apache pocket mouse makes it hard for predators to see them. The more a mouse blends in with its habitat, the more likely it will live a long life. With each life cycle, the mice will become lighter because of the process of natural selection. In other words, the lighter mice will survive long enough to reproduce. They spend most of the day under the ground to keep out of the heat of the day. They will block up the den opening during the day to keep the cool night air inside. The tracks of the Apache pocket mouse resemble the movement of when you pretended to be a frog by putting your hands in between your feet on the ground and hop forward.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.21161662341586,
+          32.79107331580467
+        ]
+      },
+      "properties": {
+        "name": "Evolution of the Bleached Earless Lizard - EKO Stop 4",
+        "notes": "Evolution of the Bleached Earless Lizard - EKO Stop 4\nhttps://www.nps.gov/places/evolution-of-the-bleached-earless-lizard.htm\n\nDarker lizards are easy for predators to see. While lighter lizards can hide against the gypsum sand, helping them hide. Lizards that escape getting caught due to their white color live longer. If you live longer, you will have more offspring. Their babies will inherit the bright white color and then, in time, pass the coloration onto their own offspring.<br /> <br /> You can sometimes see them running around the dunes catching bugs. The lizards talk to each other by bobbing their heads, just like you have probably seen other kinds of lizards do. They do have ears, but they are not visible like ours. The ears have a layer of skin that helps keep the sand out while digging.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.23818,
+          32.79605
+        ]
+      },
+      "properties": {
+        "name": "Extended Family",
+        "notes": "Extended Family\nhttps://www.nps.gov/places/extended-family.htm\n\n<p><span style=\"color:null;\">While White Sands might be the largest gypsum dunefield in the world it is not the only. Partnering with Área de Protección de Flora y Fauna Cuatrociénegas allows the park to study impacts on gypsum dunes and how the dunefields respond. </span></p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.21427,
+          32.79089
+        ]
+      },
+      "properties": {
+        "name": "Eye Spy with My Little Eye",
+        "notes": "Eye Spy with My Little Eye\nhttps://www.nps.gov/places/eye-spy-with-my-little-eye.htm\n\nThe unique environment here is home to over 800 species of plants and animals. Of those, over 650 are moths! Moths are important pollinators for the plants of the dunefield and great snacks for the birds and bats. Imagine being a bird or a bat migrating and coming across this island feast!",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.27013,
+          32.80467
+        ]
+      },
+      "properties": {
+        "name": "Final Stop of Backcountry Tour",
+        "notes": "Final Stop of Backcountry Tour\nhttps://www.nps.gov/places/final-stop-of-backcountry-tour.htm\n\n<p>We’ve reached the end of the Backcountry Camping Loop Trail self-guided tour. At this stop, feel free to climb to the top of the tallest dune near to you and soak up the view. What can you see? Maybe you’re watching the sun set behind the mountains, or maybe you’ve got sled in hand and are just beginning your adventures.<br /> <br /> Whether you’re just starting your day or are heading home, the time you spend here will stay with you forever. With your help, and by continuing to recreate responsibly on your public lands, these wild spaces will be around forever, too.<br /> <br /> Take as much time as you’d like to enjoy the view. When you’re done, you can either follow the trail back towards the trailhead, or explore another part of the Backcountry Camping Loop.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.264346732,
+          32.809835034
+        ]
+      },
+      "properties": {
+        "name": "Final Stop on our Auto Self Guided Tour",
+        "notes": "Final Stop on our Auto Self Guided Tour\nhttps://www.nps.gov/places/final-stop-on-our-auto-self-guided-tour.htm\n\nCongrats on completing this self-guided audio tour! At the final stop here at the Backcountry Camping Loop take a minute to climb into the dunes near the parking lot and gaze out into the rolling white dunes. Whether you’re just beginning your day here at White Sands or finishing it with a breathtaking sunset you’ve gone on a journey that shows what makes White Sands a special place worthy of being protected as a National Park. You have seen the raw natural forces that have built this place over millions of years and the adaptability of life to survive in an everchanging environment. You have walked in the footsteps of ice age humans and mammoths as well as Mars rovers exploring the solar system. Take time to reflect here on this place, your visit, and what will be remembered about your day here. Thank you for supporting the National Park Service and recreating responsibly on your public lands to keep these spaces wild and pristine.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.26414,
+          32.80986
+        ]
+      },
+      "properties": {
+        "name": "First Stop of Backcountry Camping Loop Trail Tour",
+        "notes": "First Stop of Backcountry Camping Loop Trail Tour\nhttps://www.nps.gov/places/first-stop-of-backcountry-camping-loop-trail-tour.htm\n\n<p>Welcome to White Sands National Park’s digital self-guided tour! If you see the Backcountry Camping Loop Trailhead in front of you, you’re in the right place.<br /> <br /> White Sands is far more than just a sandbox. Over time, this land has been home to countless creatures and people. It’s been a site for research and recreation, sleds and snapshots. Just as the landscape shifts and changes every day, the way recent humans have utilized this place has changed, too. As we begin our voyage to explore how the ways we use this landscape has changed over time, remember that nothing is permanent – especially not the world’s largest gypsum sand dunes. Keep in mind that you may need to adjust your location to get a better view along the way.<br /> <br /> Here are a few more tips to help you make the most of this self-led tour:</p> <ul> <li> <p>Read up on our <a href=\"https://www.nps.gov/whsa/planyourvisit/hiking-safety-tips.htm\">hiking safety tips</a> before setting off on foot.</p> </li> <li> <p>Bring plenty of water! We strongly recommend having at least a gallon of water per person, per day. <strong>There is no drinking water available in the dunefield.</strong></p> </li> <li> <p>Always know where you are, and keep a keen eye on the trail markers both behind you and ahead of you. The backcountry trail markers will all have the spade symbol on them.</p> </li> <li> <p>Please be respectful of visitors setting up camp at the designated sites along the trail, and try to avoid wandering into campsites uninvited. We’re not Goldilocks, and the beds probably won’t fit “just right.”</p> </li> </ul> <p>Now if you’re ready to begin, you can continue along the trail. <br /> <br /> Let’s go!</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.21178823900527,
+          32.791650526610326
+        ]
+      },
+      "properties": {
+        "name": "Fuzzy Plants - EKO Stop 3",
+        "notes": "Fuzzy Plants - EKO Stop 3\nhttps://www.nps.gov/places/fuzzy-plants-eko-stop-3.htm\n\nThe wind moves the sand around at White Sands National Park. Many plants can’t grow inside the sand because they will blow away in the wind. The plants that grow in the sand have all found different ways to survive here. A plant pedestal is one such way of surviving. It is a tall structure of hardened sand. Pedestals form when the plant takes up water from the soil. When the soil dries out, the sand will compact around the root system. The wind blows the loose sand away from the root system, exposing the pedestal underneath. Hoary rosemary mint leaves have shiny white hairs all over. The hairs help protect the plant from the sun. Just like when we put on sunscreen, it protects us from getting burnt.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.260848286,
+          32.8064345271
+        ]
+      },
+      "properties": {
+        "name": "Gone with the Wind",
+        "notes": "Gone with the Wind\nhttps://www.nps.gov/places/gone-with-the-wind.htm\n\nAs you gaze out your window you should see the sign “Gone With the Wind,” and beyond that sparse vegetation, and pure white dunes. How far do you think you can see? On most days you can see for miles, including the surrounding mountain ranges. Now I want you to imagine those mountains becoming obscured. A windstorm has picked up. You can feel it beating against the side of your car. It’s howling all around you. As the wind increases, visibility decreases. You can see a mile away. Then 500 feet. The yucca on the next dune is no longer visible. Then 100 feet. You can no longer see the sledding family. Then 20 feet. Then 5 feet in front of you. You are in the middle of white-out blizzard conditions, but instead of snow, it’s gypsum sand. If you were to try to leave your vehicle, assuming you could get the door open, the result would not be pleasant, gypsum would sandblast its way into every nook and cranny, the feeling of thousands of tiny needles against your skin. Moving only a few feet away from your vehicle could result in total disorientation. Now, what are some words you would use to describe our theoretical encounter? (pause) Wild? Dangerous? Perhaps even violent? As humans, we ascribe violence to nature quite often. Violent storms, volcanoes, and floods are found throughout most of the world. All these forces we may fear or try to prevent, help create the stunning landscapes and natural beauty we love – and the environment you are currently looking at. Eventually, the windstorm subsides, revealing pristine dunes, no footprints insight, with patterns of ripples coating its surface. Dunes move to new destinations, covering plants and revealing fresh ground for others to grow. Seeds fly to those new homes. From the beginning to now, without wind, this landscape would not exist. To change selenite, the crystal form of gypsum, to sand, the wind erodes the landscape. Crystals bounce off each other, collide, and break into smaller and smaller pieces, until they’re the size of a grain of sand, piling high to form the dunes you are seeing. Even though the dunefield loses sand during these windstorms, the wind also carries in new sand, keeping the dunefield in balance.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.260848286,
+          32.8064345271
+        ]
+      },
+      "properties": {
+        "name": "Gone with the Wind Roadside Exhibit",
+        "notes": "Gone with the Wind Roadside Exhibit\nhttps://www.nps.gov/places/gone-with-the-wind-roadside-exhibit.htm\n\n<p>The \"Gone with the Wind\" wayside, located along Dunes Drive, describes the impermanence and ever-shifting nature of White Sands National Park.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.2591667,
+          32.81275
+        ]
+      },
+      "properties": {
+        "name": "Group Use Restroom",
+        "notes": "Group Use Restroom\nhttps://www.nps.gov/places/group-use-restroom.htm\n\n<p>The group use restroom has two separate wheelchair-accessible vault toilets with no running water, and trash bins. It is adjacent to the group use picnic area, which is accessible by vehicle when the area is reserved in advance. There is plenty of space to park automobiles and RVs in the group use lot, and there are accessible places to park directly in front of the restroom.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.261933,
+          32.811033
+        ]
+      },
+      "properties": {
+        "name": "Heart of the Sands Restroom",
+        "notes": "Heart of the Sands Restroom\nhttps://www.nps.gov/places/heart-of-the-sands-restroom.htm\n\n<p>The Heart of the Sands restroom has two separate wheelchair-accessible vault toilets with no running water, and trash bins. It is within a parking area along Dunes Drive with space to park automobiles and RVs, and there are accessible areas to park directly in front of the restroom.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.26968,
+          32.81504
+        ]
+      },
+      "properties": {
+        "name": "Horse Unloading Area",
+        "notes": "Horse Unloading Area\nhttps://www.nps.gov/places/horse-unloading-area.htm\n\n<p>The Horse Unloading Area is a large parking lot. It is the only area vehicles towing horse trailers are allowed to park and unload, but it accommodates vehicles without trailers, as well. <br /> <br /> Besides being a great place to park large trailers, many visitors also enjoy parking in this lot and sledding. For more information about bringing horses into the park, visit the <a href=\"https://www.nps.gov/whsa/planyourvisit/horses-and-other-pack-animals.htm\">Horses and Other Pack Animals</a> page on our website.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.23815,
+          32.79603
+        ]
+      },
+      "properties": {
+        "name": "Imagine All This Sand... Gone",
+        "notes": "Imagine All This Sand... Gone\nhttps://www.nps.gov/places/imagine-all-this-sand-gone.htm\n\n<p>Everything around you has value, including white gypsum sand. Gypsum is used in the food you eat as well as sheetrock that frames walls in houses. Finding a monetary value in the sand is one of the main reasons protections for the dunefield was originally sought for. </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.248558688,
+          32.7973317363
+        ]
+      },
+      "properties": {
+        "name": "In the Shadow of Trinity",
+        "notes": "In the Shadow of Trinity\nhttps://www.nps.gov/places/in-the-shadow-of-trinity.htm\n\nWhat is the day that has most impacted your life? Is it a major event like a wedding? A birth? A death? Or was it a leisurely day like today exploring in a park like this? Why did this one day have a long-lasting impact on your life? These special days that change our lives are unique for each one of us but we all undoubtedly have them. Even rarer than a day that has a special significance to just you, are days that have an undeniable impact on every person on earth. If you had been standing here in the early morning of July 16<sup>th</sup>, 1945, you would have been witness to such an event. As you look out over the dunes to the north, imagine you are here before sunrise and a blinding flash of light appears in the distance before fading away without explanation. The first shot of the atomic age had been fired 60 miles to the north at the Trinity Test site. For three years in near-total secrecy scientists and workers at three sites across the United States had been developing a new kind of weapon designed to bring a swift end to World War II. Known collectively as the Manhattan Project, the Trinity Test was the culmination of their years of work and within weeks of the successful test here in New Mexico the first atomic weapons would be dropped at Hiroshima and Nagasaki, avoiding a full-scale invasion of Japan, but inflicting hundreds of thousands in civilian casualties. To this day they are the only nuclear weapons to have been used. However, the opening of the nuclear age at the Trinity site has had untold impacts on the world we live in. The potential for nuclear weapons to end human existence through mutually assured destruction has dominated global politics throughout the Cold War and into the 21<sup>st</sup> century. It has brought benefits to society in the forms of nuclear energy and medicine, but the adverse impacts cannot be ignored. In communities downwind from nuclear testing sites or uranium mines, the consequences have been devastating with high rates of cancer and birth defects. The Trinity Test is the point in time when the Pandora’s box of the atomic age was opened, and these sands bore witness to that moment.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.23903,
+          32.79384
+        ]
+      },
+      "properties": {
+        "name": "Interdune Boardwalk",
+        "notes": "Interdune Boardwalk\nhttps://www.nps.gov/places/interdune-boardwalk.htm\n\n<p>The Interdune Boardwalk is fully accessible for people using wheelchairs and strollers. Take an easy 0.4 mile (650m) round trip stroll through the dunes and learn about the science, geology, plants, and animals that make White Sands an unequaled natural wonder. The boardwalk is a great place to take a break under the shade canopy, listen for bird calls, observe lizards, and enjoy wildflowers. The average completion time is 20 minutes.<br /> <br /> <strong>Length:</strong> 0.4 mile (650m), round-trip<br /> <strong>Average Completion Time:</strong> 20 minutes<br /> <strong>Difficulty:</strong> Easy<br /> <strong>Distance from Visitor Center:</strong> 4.5 miles (7.2 km)<br /> <strong>Restroom:</strong> Two vault toilets at the trailhead<br /> <br /> Before setting out on foot at White Sands National Park, please view our <a href=\"https://www.nps.gov/whsa/planyourvisit/hiking-safety-tips.htm\">Hiking Safety Tips</a>.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.23903,
+          32.79384
+        ]
+      },
+      "properties": {
+        "name": "Interdune Boardwalk Kiosk Panel",
+        "notes": "Interdune Boardwalk Kiosk Panel\nhttps://www.nps.gov/places/interdune-boardwalk-kiosk-panel.htm\n\n<p>This kiosk panel offers information about the Interdune Boardwalk, the only wheelchair-accessible trail at White Sands National Park.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.238883,
+          32.793417
+        ]
+      },
+      "properties": {
+        "name": "Interdune Boardwalk Restroom",
+        "notes": "Interdune Boardwalk Restroom\nhttps://www.nps.gov/places/interdune-boardwalk-restroom.htm\n\n<p>The Interdune Boardwalk restroom has two separate wheelchair-accessible vault toilets with no running water, a trash bin, and is adjacent to a parking area with plenty of space to park automobiles and RVs. </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.23903,
+          32.79384
+        ]
+      },
+      "properties": {
+        "name": "Interdune Boardwalk Safety Kiosk Panel",
+        "notes": "Interdune Boardwalk Safety Kiosk Panel\nhttps://www.nps.gov/places/interdune-boardwalk-safety-kiosk-panel.htm\n\n<p>This is one of several safety information panels found at White Sands National Park. We strongly encourage visitors hiking at White Sands to read these panels before beginning any on-foot adventures.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.21261,
+          32.79354
+        ]
+      },
+      "properties": {
+        "name": "Let’s Solve a Mystery!",
+        "notes": "Let’s Solve a Mystery!\nhttps://www.nps.gov/places/let-s-solve-a-mystery.htm\n\n<p>Welcome to White Sands National Park! You’ll be journeying along one of the park’s marked trails today to learn about the dunefield through your senses. Here are a few more tips to help you make the most of this self-led tour:</p> <ul> <li> <p>Read up on our <a href=\"https://www.nps.gov/whsa/planyourvisit/hiking-safety-tips.htm\">hiking safety tips</a> before setting off on foot.</p> </li> <li> <p>Bring plenty of water! We recommend having a gallon of water per person, per day. There is no drinking water available in the dunefield.</p> </li> <li> <p>Always know where you are and keep an eye on the trail markers both behind you and ahead of you. Dune Life Nature Trail’s markers are blue with the club symbol.</p> </li> </ul> <p>Let’s go!</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.23337,
+          32.79417
+        ]
+      },
+      "properties": {
+        "name": "Life Thrives Roadside Exhibit",
+        "notes": "Life Thrives Roadside Exhibit\nhttps://www.nps.gov/places/life-thrives-roadside-exhibit.htm\n\n<p>The \"Life Thrives\" wayside, located along Dunes Drive, highlights the fragile microscopic life found in the dunefield.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.23812,
+          32.79606
+        ]
+      },
+      "properties": {
+        "name": "Lift the Land",
+        "notes": "Lift the Land\nhttps://www.nps.gov/places/lift-the-land.htm\n\n<p>What keeps all the sand here? Formation of the land millions of years ago not only formed the land in a way that creates dunes but also in a way that keeps all the sand here. </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.23903,
+          32.79384
+        ]
+      },
+      "properties": {
+        "name": "Moth Tour - Why are Moths Important?",
+        "notes": "Moth Tour - Why are Moths Important?\nhttps://www.nps.gov/places/moth-tour-introduction.htm\n\n<p>White Sands National Park presents a unique opportunity to learn more how life evolves and adapts to harsh and unique environments. Since 2007, Eric Metzler, an expert entomologist and volunteer at White Sands, has discovered over 650 different species of moths in these dunes. Sixty of those species are entirely new to science.<br /> .<br /> This moth research is critical because moths are a great indicator of a ecosystems health. The greater the diversity of moths, the greater the diversity of other animal and plant species, therefore the healthier the ecosystem! If moths died out, songbirds would all but disappear. </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.23873,
+          32.79527
+        ]
+      },
+      "properties": {
+        "name": "Moths, Mars, and Lizards",
+        "notes": "Moths, Mars, and Lizards\nhttps://www.nps.gov/places/moths-mars-and-lizards.htm\n\n<p>What do moths, mars, and lizards all have in common? All three of them are heavily researched at White Sands. Researchers from all over the globe come to the park to study the uniques environment and the animals within. </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.21267,
+          32.79202
+        ]
+      },
+      "properties": {
+        "name": "Mystery Solved!",
+        "notes": "Mystery Solved!\nhttps://www.nps.gov/places/mystery-solved.htm\n\nHere at the edge of the dunefield, where the dunes meet the Chihuahuan desert, plants and animals thrive! The dramatic change from dunes to desert floor occurs because the water table that holds the dunes in place disappears. But don’t worry, plenty of animals and plants call the desert home. As you visit other natural and unique spaces, remember to engage all your senses to fully appreciate your surroundings. Stay safe and keep exploring!",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.212602482,
+          32.7935566164
+        ]
+      },
+      "properties": {
+        "name": "Nature Scavenger Hunt - EKO Stop 1",
+        "notes": "Nature Scavenger Hunt - EKO Stop 1\nhttps://www.nps.gov/places/nature-scavenger-hunt-1.htm\n\nContinue straight on the desert trail with vegetation on both sides and up the first dune. Once the path becomes loose sand and splits, walk up the white dune onto the trailhead. The informational signs of the trail in the dunes go clockwise. At the first trail sign about “Who Eats What” follow the trail markers to the left of the informational sign.<a> </a>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.1733,
+          32.77981
+        ]
+      },
+      "properties": {
+        "name": "Park Closures",
+        "notes": "Park Closures\nhttps://www.nps.gov/places/park-closure.htm\n\nWhite Sands Missile Range regularly conducts missile tests. For visitor safety, the only road into the dunefield, Dunes Drive, may be closed for periods of up to three hours during missile tests. Park staff is usually notified two weeks in advance of scheduled tests; however, notifications from White Sands Missile Range may be received up to 24 hours in advance of a test. Park staff work to inform the public as far in advance as possible for upcoming tests and park closures.<br /> <br /> <a href=\"https://www.nps.gov/whsa/planyourvisit/park-closures.htm\">Click here to see currently scheduled park closures</a>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.1733,
+          32.77981
+        ]
+      },
+      "properties": {
+        "name": "Park Store and Gift Shop",
+        "notes": "Park Store and Gift Shop\nhttps://www.nps.gov/places/park-store-at-white-sands.htm\n\n<p>White Sands National Park has partnerships with a variety of organizations in order to help the National Park Service fulfill its mission. Partners provide important support for education, sustainability initiatives, enhanced visitor experiences, management solutions, and park research. The park strives to nurture these collaborations in order to enhance visitor opportunities, and provide experiences that enable visitors<u> </u>to enjoy outdoor recreation and learn about environmental and cultural resources. Two of our key partners, Western National Parks Association and White Sands Trading LLC, operate retail outlets in the park.</p>   <figure><img alt=\"A book and stuffed animals on a shelf\" src=\"https://www.nps.gov/whsa/getinvolved/images/WHSA_WNPAmerch_Thumbnails.jpg?maxwidth=650&autorotate=false\" title=\"WNPA merch\" /></figure> <h4><br /> Western National Parks Association</h4> As a nonprofit education partner of the National Park Service, Western National Parks Association supports 71 national park partners across the West, developing products, services, and programs that enrich the visitor experience.<br /> <br /> Missed us on your last visit? No problem, please visit our <a href=\"https://store.wnpa.org/\">online store</a>.<br /> <br /> Western National Parks Association’s mission, in partnership with the National Park Service since 1938, is to advance education, interpretation, research, and community engagement to ensure national parks are increasingly valued by all.<br /> <br /> The Western National Park Store at White Sands National Park is able to directly support the development of products, programs, ongoing research, and the White Sands interpretive mission through your purchases. Each item in the store has been selected and approved for sale by park and Western National Parks Association staff in order to inspire and inform our visitors as well as aiding in the creation of lasting memories.<br /> <br /> Shop in the White Sands park store and become a <a href=\"https://www.wnpa.org/become-a-member\">member today</a>. Receive monthly event calendars, quarterly newsletters, 15% discounts off most store purchases and discounts on select Western National Parks Association field trips and workshops. Most importantly, by becoming a member you join a growing team of advocates who are passionate about supporting the mission of our National Parks.<br /> <br /> Western National Parks Association is proud to be affiliated with White Sands National Park and to help educate visitors to the diverse history of this unique place. Financial support from Western National Parks Association is used to provide education and interpretive programing including <a href=\"https://www.nps.gov/whsa/planyourvisit/full-moon-night.htm\">full moon nights</a> and school field trips as well as <a href=\"https://www.nps.gov/whsa/learn/nature/whitemothspecies.htm\">scientific research</a> on the endemic moths of White Sands.<br />   <figure><img alt=\"A sign reads “Gift Shop” above the entrance to a store\" src=\"https://www.nps.gov/whsa/getinvolved/images/WHSA_GiftShop_Thumbnails_1.jpg?maxwidth=650&autorotate=false\" title=\"Gift Shop Entrance 2\" /></figure> <h4><br /> <strong>White Sands Trading, LLC</strong></h4> White Sands Trading (WST), official concessioner of White Sands National Park and a New Mexico family-owned company, is proud to join with the National Park Service in preserving this rich ecosystem for generations to come. We are vigilant in using best practices to limit our impact on the environment and to educate visitors about the fragility of this unique area.<br /> <br /> Since 2005, the White Sands Trading Gift Shop has been providing visitors with unique mementos of White Sands National Park. We offer authentic Native American handcrafts from New Mexico including intricately detailed pottery and sterling silver jewelry. Visitors of all ages enjoy our sand disks while sledding down the dunes. Our grab-and-go area will satisfy your hunger with sandwiches and snacks. You can also restock your water or chose from a variety of beverages. A varied selection of t-shirts and souvenirs will help you memorialize your visit to the largest gypsum dunefield on earth.<br /> <br /> WST pays a franchise fee of 16% of our gross receipts to the park. This money is used to make improvements within the park. We appreciate your support and look forward to continuing our mission of preserving the historic building we occupy while protecting the unparalleled desert-scape of White Sands National Park.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.212602482,
+          32.7935566164
+        ]
+      },
+      "properties": {
+        "name": "Permanent Residents, Temporary Visitors",
+        "notes": "Permanent Residents, Temporary Visitors\nhttps://www.nps.gov/places/permanent-residents-temporary-visitors.htm\n\nYou are currently located at Dune Life Nature Trail! As you look up the trail leading into the dunes you will see desert scrubland vegetation on either side of the trail. Perhaps this is greener than you were expecting to see at a place with a name like White Sands. Here towards the front of the drive is a meeting point of two unique ecosystems that allows a diverse community to thrive. On Dune Life Nature Trail just up the path from the parking lot, you’ll find yourself in another world where snow white dunes are dotted with dune adapted plants such as soaptree yuccas, Rio Grande cottonwoods, and hoary rosemary mint. Across the park road towards the Sacramento Mountains to the east, you will see the Chihuahuan Desert scrubland full of low-growing, thorny fauna such as creosote bush, mesquite, ocotillo, and varieties of cacti. In the dunes, you’ll find full-time residents like kangaroo rats, bleached earless lizards, and over 60 species of moth found nowhere else on earth that have become color adapted to the blindingly white environment. The largest predator that lives full time in the dunes is a kit fox which weighs in at a whopping 4 pounds! Animals residing in the dunes are small, compact, and efficient with their water, never taking a drink in their life. But the White Sands community is more than just what’s found in the dunes. On the edge of the dunefield where the sand meets the desert scrubland, the park receives some interesting visitors. Larger mammals like bobcats, coyotes, badgers, and even porcupines that couldn’t survive in the dunes year-round make their way into the dunes to get the resources they need and then return to their homes in the scrubland. These temporary visitors to the dunes are no less of a part of the dunefield community whether their impact is big or small. Your visit to White Sands today is also a temporary one where you might come to hike, sled, or enjoy a picnic and then return home with memories to last a lifetime. Whether you’ve come from near or far to be here today by taking the time to explore White Sands you have become part of the White Sands community!",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.1733,
+          32.77981
+        ]
+      },
+      "properties": {
+        "name": "Pets at White Sands",
+        "notes": "Pets at White Sands\nhttps://www.nps.gov/places/pets-at-white-sands.htm\n\n<p>Pets love White Sands! To them, it's full of new scents, sights, cool, soft sand, and excitement! You'll love bringing your furry companions with you to the park, too.as long as they are non-disruptive, on a leash no longer than six feet, and are under physical control at all times.</p> <p>We ask you to follow these simple rules for everyone's enjoyment and safety:</p> <p><strong>Pick up after your pet.</strong><br /> Please help keep White Sands clean and beautiful for your enjoyment and for the enjoyment of future generations. Cleaning up after your pet allows the area to remain sanitary and keeps diseases from spreading—helping to keep you and your family as well as your pet safe and healthy! Please consider the many people who walk barefoot, play, and sled in the sand—no one wants to step or sled into pet waste.</p> <p>For your added convenience, White Sands National Park has two designated pet walking stations complete with pet poop pick-up bags to help facilitate with the removal of pet excrement. Both are located outside the visitor center;one is adjacent to the women's restroom and the other is behind the picnic tables.</p> <p><strong>Keep pets on a leash.</strong><br /> Leashing your pet ensures your much-loved friend doesn't run away and get lost. It also prevents them from tangling with hazards such as cacti and rattlesnakes. Federal law prohibits dogs from being off the leash in public areas (36 CFR 2.15). The leash can be no longer than six feet (2 m).</p> <p><strong>Give pets plenty of water.</strong><br /> Like you, pets get thirsty too. Especially in the summer pets can become dehydrated very quickly. They can also suffer from heat stroke and die.</p> <p><strong>Do not bring pets inside the visitor center.</strong><br /> While we love seeing pets in the park, they are not allowed in federal buildings (36 CFR 2.15).</p> <p><strong>Do not leave pets unattended, especially in vehicles.</strong><br /> It is prohibited to leave a pet unattended and tied to an object (36 CFR 2.15).</p> <p>Temperatures at White Sands National Park can reach extreme highs. Pets should never be left alone inside your vehicle. Within just ten minutes, the inside vehicle temperature will become 25 degrees warmer than the outside temperature. Within 30 minutes, inside temperatures can rise over 30 degrees. Pets left unattended in hot vehicles have suffered severe organ damage or even death.</p> <br /> <strong>Service Animals</strong><br /> Service animals are allowed in all facilities and on all trails unless an area has been closed by the superintendent to protect park resources.<br /> <br /> <strong>Definition of Service Animal</strong><br /> The 2010 revision to Title II of the Americans with Disabilities Act (ADA) defines a \"service animal\" as a dog that has been individually trained to do work or perform tasks for the benefit of an individual with a disability, including a physical, sensory, psychiatric, intellectual, or other mental disability.<br /> <br /> Dogs which are not trained to perform tasks to mitigate the effects of a disability, including dogs used purely to provide comfort or emotional support (\"therapy animals\"), are considered pets.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.211594097,
+          32.7956352077
+        ]
+      },
+      "properties": {
+        "name": "Playa Trail",
+        "notes": "Playa Trail\nhttps://www.nps.gov/places/playa-trail.htm\n\n<p>The Playa Trail is an easy, 0.5 mile (800m) round-trip, level trail with outdoor exhibits along the way to help you learn and explore this trail and the characteristics that make it special. Follow the green trail markers with a heart symbol that lead to a small playa. On this self-guided trail, you will discover the importance of a playa undergoing constant change. Learn how this change creates habitats for plants and animals. It may be brown, white, filled with water, or have growing crystals. See what the playa looks like today! At the end of the trail, you have the opportunity to travel back in time and see what this area looked like 10,000 years ago and learn about the giants that once roamed this land. Please stay on the trail. Footprints destroy the biological soil crust that is vital to White Sands. The average completion time is 30 minutes.<br /> <br /> <strong>Length:</strong> 0.5 mile (800m), round-trip<br /> <strong>Trail Marker Color:</strong> Green<br /> <span style=\"display: none;\"> </span><strong>Trail Marker Symbol:</strong> Heart<br /> <strong>Average Completion Time:</strong> 30 minutes<br /> <strong>Difficulty:</strong> Easy<br /> <span style=\"display: none;\"> </span><strong>Distance from Visitor Center: </strong>2.5 miles (4 km)<br /> <strong>Restroom:</strong> No restroom facility is available</p> <p>Before setting out on foot at White Sands National Park, please view our <a href=\"https:///www.nps.gov/whsa/planyourvisit/hiking-safety-tips.htm\">Hiking Safety Tips.</a></p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.260981129,
+          32.8128112771
+        ]
+      },
+      "properties": {
+        "name": "Primrose Picnic Area",
+        "notes": "Primrose Picnic Area\nhttps://www.nps.gov/places/primrose-picnic-area.htm\n\n<p>The Primrose Picnic Area is one of three designated picnic locations at White Sands National Park. Tables are available on a first-come, first-served basis, with metal shade structures attached to each table. There are typically plenty of picnic tables for everyone to enjoy. Some tables are ADA accessible, and each has an elevated grill. </p> <h3>Tips for a great picnic:</h3> <ul> <li>Use colored plates, napkins, cups, and silverware. White, plastic dinnerware is not easily visible on the white sand. Remember to <em><a href=\"https:///www.nps.gov/whsa/planyourvisit/leave-no-trace.htm\">Leave No Trace</a>.</em></li> <li>When you are done with your picnic, use our recycling bins by the vault toilets to recycle plastic and aluminum.</li> <li>Consider using reusable tableware to reduce the amount trash left behind in the park.</li> <li>Trash dumpsters are provided in the picnic areas for your use. If the small trash cans are full please throw trash in the large dumpsters.</li> <li>Bag your trash. Wind will pick up things like paper plates and napkins and carry them into the dunes.</li> </ul> <p>For more information on picnic opportunities at White Sands, please visit our <a href=\"https:///www.nps.gov/whsa/planyourvisit/picknicking.htm\">Picnicking Information</a> page.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.260752438,
+          32.8126705991
+        ]
+      },
+      "properties": {
+        "name": "Primrose Picnic Area Restroom",
+        "notes": "Primrose Picnic Area Restroom\nhttps://www.nps.gov/places/primrose-picnic-area-restroom.htm\n\n<p>The Primrose Picnic Area restroom has two separate wheelchair-accessible vault toilets with no running water, a dumpster, and trash and recycling bins. It is within a large parking area with plenty of space to park automobiles and RVs, and there are accessible parking spaces directly in front of the restroom.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.246330072,
+          32.7963389482
+        ]
+      },
+      "properties": {
+        "name": "Rare Wonder Roadside Exhibit",
+        "notes": "Rare Wonder Roadside Exhibit\nhttps://www.nps.gov/places/rare-wonder-roadside-exhibit.htm\n\n<p>The \"Rare Wonder\" wayside, located along Dunes Drive, showcases a few of the ways visitors can experience White Sands National Park.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.23875,
+          32.79526
+        ]
+      },
+      "properties": {
+        "name": "Riddles in the Sand",
+        "notes": "Riddles in the Sand\nhttps://www.nps.gov/places/riddles-in-the-sand.htm\n\n<p>Tracks in the sand offer a fun adventure. What creature has left the marks you see? Was it an animal or a stick rolling down the dunes? These tracks only last for a short while after they are made so make sure to keep an eye out so you don't miss any of them. </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.261683,
+          32.814583
+        ]
+      },
+      "properties": {
+        "name": "Roadrunner Picnic Area",
+        "notes": "Roadrunner Picnic Area\nhttps://www.nps.gov/places/roadrunner-picnic-area.htm\n\n<p>The Roadrunner Picnic Area is one of three designated picnic locations at White Sands National Park. Tables are available on a first-come, first-served basis, with metal shade structures attached to each table. There are typically plenty of picnic tables for everyone to enjoy. Some tables are ADA accessible, and each has an elevated grill. In addition to dozens of tables, the Roadrunner Picnic Area has two picnic pavilions that can accommodate groups of up to 20 individuals. These pavilions are also available on a first-come, first-served basis.</p> <h3>Tips for a great picnic:</h3> <ul> <li>Use colored plates, napkins, cups, and silverware. White, plastic dinnerware is not easily visible on the white sand. Remember to <em><a href=\"https:///www.nps.gov/whsa/planyourvisit/leave-no-trace.htm\">Leave No Trace</a>.</em></li> <li>When you are done with your picnic, use our recycling bins by the vault toilets to recycle plastic and aluminum.</li> <li>Consider using reusable tableware to reduce the amount trash left behind in the park.</li> <li>Trash dumpsters are provided in the picnic areas for your use. If the small trash cans are full please throw trash in the large dumpsters.</li> <li>Bag your trash. Wind will pick up things like paper plates and napkins and carry them into the dunes.</li> </ul> <p>For more information on picnic opportunities at White Sands, please visit our <a href=\"https://www.nps.gov/whsa/planyourvisit/picknicking.htm\">Picnicking Information</a> page.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.259969182,
+          32.8144420924
+        ]
+      },
+      "properties": {
+        "name": "Roadrunner Picnic Area East Restroom",
+        "notes": "Roadrunner Picnic Area East Restroom\nhttps://www.nps.gov/places/roadrunner-east-restroom.htm\n\n<p>The eastern restroom in the Roadrunner Picnic Area has two separate wheelchair-accessible vault toilets with no running water, a dumpster, and trash bins. It is located within a large parking area with plenty of space to park automobiles and RVs, and there are accessible places to park directly in front of the restroom.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.262183,
+          32.815217
+        ]
+      },
+      "properties": {
+        "name": "Roadrunner Picnic Area North Restroom",
+        "notes": "Roadrunner Picnic Area North Restroom\nhttps://www.nps.gov/places/roadrunner-north-restroom.htm\n\n<p>The northern restroom in the Roadrunner Picnic Area has two separate wheelchair-accessible vault toilets with no running water, a dumpster, and trash and recycling bins. It is located within a large parking area with plenty of space to park automobiles and RVs, and there are accessible parking spaces directly in front of the restroom.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.1733,
+          32.77981
+        ]
+      },
+      "properties": {
+        "name": "Safety at White Sands",
+        "notes": "Safety at White Sands\nhttps://www.nps.gov/places/safety-at-white-sands.htm\n\n  <figure><img alt=\"Graphic of hiker with two bottles of water\" src=\"https://www.nps.gov/whsa/planyourvisit/images/WHSA_2_For_1_Logo_Thumbnail_4.jpg?maxwidth=650&autorotate=false\" title=\"Two for One\" /></figure> <h3><br /> Bring plenty of food and water</h3> You will need more water than you think. Sweat evaporates quickly. Your body loses water rapidly in the desert. Always carry extra water with you. When your water is half-gone, return to your car.<br /> <br /> One gallon (4 Liters) of water per person per day is recommended, as well as high-energy snacks such as fruit, nuts, and energy bars. Fill up water containers at the visitor center. There is no water available in the dunefield.<br /> <br /> In addition, it is important to balance food intake with fluid consumption, lest you run the risk of becoming dangerously debilitated and severely ill. <strong>Hyponatremia </strong>may occur when a person drinks too much water without replenishing electrolytes or eating salts. If a member of your party begins to experience nausea, muscle cramps, or disorientation, yet they are well hydrated, they may need salt. Crackers, pretzels, and sports drinks should be consumed to keep up sodium levels in the body.<br />   <figure><img alt=\"Graphic of a ringing cell phone\" src=\"https://www.nps.gov/whsa/planyourvisit/images/WHSA_Phone_Thumbnail.jpg?maxwidth=650&autorotate=false\" title=\"Phone\" /></figure> <h3><br /> Bring a <em>fully</em> <em>charged</em> cell phone</h3> <p>Start your day with a fully-charged cell phone. Bring a portable charger if you have one. There are no outlets for charging cell phones at the park. Turn your cell phone off or put in airplane mode while walking in the dunes. Conserving your battery for emergencies could mean the difference between life or death.</p>   <figure><img alt=\"A phone with text \"Call 911\"\" src=\"https://www.nps.gov/whsa/planyourvisit/images/WHSA_Emergencies_911_Thumbnail.jpg?maxwidth=650&autorotate=false\" title=\"Call 911\" /></figure> <h3><br /> In an Emergency Call 911</h3> Data and cellular signal strength can vary drastically throughout the park. Sometimes you can text when you are unable to make a call. In an emergency situation with limited cell reception, text a friend and have him call 911 for you. You may not be able to call 911 if you are using a cell phone from outside the United Sates. Consult your mobile service provider for instructions on how to access emergency services with your device prior to venturing out into the dunes.<br /> <br />   <figure><img alt=\"Graphic of hands pointing at a green map\" src=\"https://www.nps.gov/whsa/planyourvisit/images/WHSA_Plan_Ahead_and_Prepare_Logo_Thumbnail.jpg?maxwidth=650&autorotate=false\" title=\"Hands pointing to map\" /></figure> <h3><br /> Have a Plan and Share It</h3> Tell someone who is not in your party where you are going and when you will return. Know the weather forecast and what time the sun sets. Be prepared for the weather and ensure you have enough time to complete your hike.<br /> <br />   <figure><img alt=\"Three hikers on a trail surrounded by grass\" src=\"https://www.nps.gov/whsa/planyourvisit/images/WHSA_visitors_hikers_thumbnail.jpg?maxwidth=650&autorotate=false\" title=\"Hikers on Trail\" /></figure> <h3><br /> Hike with Friends</h3> It is not recommended to hike alone. Always keep your children in sight. Children can wander, and separating from your companions can mean getting lost.<br /> <br />   <figure><img alt=\"Composite image of orange post, flash light, compass, and cell phone.\" src=\"https://www.nps.gov/whsa/planyourvisit/images/WHSA_Know-Where-You-Are_Thumbnails.jpg?maxwidth=650&autorotate=false\" title=\"Know Where You Are\" /></figure> <h3><br /> Know Where You Are</h3> It is easy to become disoriented in the dunefield. Wind moves sand and erases your tracks. GPS can be unreliable. While hiking, pay attention to and follow trail posts, each marked with a specific color and symbol. Knowing the trail markers is critical if you become lost. Look carefully for the next trail marker before continuing. If you cannot see the next marker, do not continue, turn around and return to your car. Plan your hike so that you are back at the trailhead before sunset.<br /> <br />   <figure><img alt=\"One man standing and two children sitting on a white sand dune\" src=\"https://www.nps.gov/whsa/planyourvisit/images/WHSA_Staying_Found_Stop_Do_Not_Wander_Thumbnail.jpg?maxwidth=650&autorotate=false\" title=\"Lost\" /></figure> <h3><br /> Do Not Wander if Lost</h3> Carry a park map and compass and keep landmarks, such as water towers, in view. If you become lost, stop and sit on top of a dune. Wandering can endanger your life and make finding you more difficult. Use a mirror or piece of aluminum foil to flash sunlight towards potential rescuers. Call 911.<br /> <br />   <figure><img alt=\"A pile of gear and hiking supplies spread on an orange tarp\" src=\"https://www.nps.gov/whsa/planyourvisit/images/WHSA_BePrepared_Thumbnails.jpg?maxwidth=650&autorotate=false\" title=\"Gear\" /></figure> <h3><br /> Be Prepared</h3> The sun reflecting off the white sand is intense year round and can cause severe sunburns. Wear a hat, sunscreen with an SPF of 15 or higher, and sunglasses. Apply sunscreen to all exposed areas, even in winter. Wear clothing that is appropriate for the day’s weather: loose, light-colored clothing during warmer months, and warm clothing during cooler seasons. Remember that temperatures can drop drastically after sunset – anywhere from 20 to 30 degrees.<br /> <br /> In addition, take the park map, a flashlight and extra batteries, a whistle, a signal mirror, a first-aid kit, and extra clothes that can be layered for varying weather.<br />   <figure><img alt=\"Three people eating at a picnic table\" src=\"https://www.nps.gov/whsa/planyourvisit/images/WHSA_RestOften_Thumbnails.jpg?maxwidth=650&autorotate=false\" title=\"Rest at Picnic Table\" /></figure> <h3><br /> Rest Often</h3> Heat illness can occur fast. Take frequent breaks in the shade. There are picnic areas with sheltered tables along Dunes Drive. You can also bring your own sun shelter or sun umbrella. Exposure to full sunshine can increase heat index values by up to 15°F (9°C). The sun’s UV rays are the strongest at midday. Plan your visit for early morning or late afternoon when the sun is lower.<br /> <br />   <figure><img alt=\"One hiker walking on white sand dunes\" src=\"https://www.nps.gov/whsa/planyourvisit/images/WHSA_KnowLimits_Thumbnails.jpg?maxwidth=650&autorotate=false\" title=\"Hiker\" /></figure> <h3><br /> Know Your Limits</h3> <h4>Altitude</h4> The elevation at White Sands is 4,235 feet (1,291 m). This may have an effect on those traveling from lower elevations. Allow time for your body to acclimate by adjusting your activity level. Take frequent breaks and drink water. Common symptoms of altitude sickness include headache and loss of appetite. Pace yourself and pay attention to how you are feeling.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.272847,
+          32.820057
+        ]
+      },
+      "properties": {
+        "name": "Sledding Area - Alkali Flat Parking Lot",
+        "notes": "Sledding Area - Alkali Flat Parking Lot\nhttps://www.nps.gov/places/sleddingareathree.htm\n\nAlkali Flat trail parking area has dunes meant for the experienced sledder. The steepness of the dunes means you will get some pretty good speed. Make sure there is nothing at the base of the dune where you are going down because it can be difficult to stop and not run into it.<br /> <br /> This activity can be done throughout the park. One only has to keep these two things in mind; Don’t sled into plants, for they have a tough enough life as it is in the desert. And second, don’t sled into roads, for it might turn into a dangerous situation.<br /> <br /> Bring your own sled or purchase one from the park’s gift shop. <br /> <br /> <br /> <br />  ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.264152,
+          32.810157
+        ]
+      },
+      "properties": {
+        "name": "Sledding Area - Backcountry Camping Parking Lot",
+        "notes": "Sledding Area - Backcountry Camping Parking Lot\nhttps://www.nps.gov/places/sleddingareaone.htm\n\nThe Backcountry Camping Trail parking area is perfect for intermediate sledders that want some good speed but don't want to go flying off the base of the dune.<br /> <br /> This activity can be done throughout the park. One only has to keep these two things in mind; Don’t sled into plants, for they have a tough enough life as it is in the desert. And second, don’t sled into roads, for it might turn into a dangerous situation.<br /> <br /> Bring your own sled or purchase one from the park’s gift shop. <br />  ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.262693,
+          32.814443
+        ]
+      },
+      "properties": {
+        "name": "Sledding Area - Roadrunner Picnic Area",
+        "notes": "Sledding Area - Roadrunner Picnic Area\nhttps://www.nps.gov/places/sleddingareatwo.htm\n\nThe Roadrunner Picnic Area is great for young sledders! The dunes are steep enough to get some speed yet short enough that you won't go flying off the edge. The picnic area also has two bathrooms and several covered picnic table areas for your family to use. <br /> <br /> This activity can be done throughout the park. One only has to keep these two things in mind; Don’t sled into plants, for they have a tough enough life as it is in the desert. And second, don’t sled into roads, for it might turn into a dangerous situation.<br /> <br /> Bring your own sled or purchase one from the gift shop. <br />  ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.2116917187272,
+          32.789648286282414
+        ]
+      },
+      "properties": {
+        "name": "Soap of the Desert - EKO Stop 5",
+        "notes": "Soap of the Desert - EKO Stop 5\nhttps://www.nps.gov/places/soap-of-the-desert.htm\n\nWhen the dune moves, the stem can no longer hold the plant up, the tall stem will fall. Soon new plants will grow from the fallen stem. The fiber from the spikey leaves can be used in making rope, matting, sandals, or baskets. The roots of the soaptree yucca can be boiled and used as soap. It also provides a food source for animals like the Apache pocket mouse.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.2137945182663,
+          32.78945891280274
+        ]
+      },
+      "properties": {
+        "name": "Sometimes Stinky is Best - EKO Stop 7",
+        "notes": "Sometimes Stinky is Best - EKO Stop 7\nhttps://www.nps.gov/places/sometimes-stinky-is-best.htm\n\nWhile the darkling beetles are easy to see against the white sand, they are not defenseless. When scared, the darkling beetle sticks its backside in the air. They will spray a foul-smelling liquid from its posterior to scare off predators. The smell is like an oil-based fuel called kerosene. This smell is not pleasant. As a result, some people incorrectly call them stink bugs!",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.21375,
+          32.7896
+        ]
+      },
+      "properties": {
+        "name": "Staying Cool Out of Sight",
+        "notes": "Staying Cool Out of Sight\nhttps://www.nps.gov/places/staying-cool-out-of-sight.htm\n\nThe sounds of the dunefield are different at night! A lot of the animals come out when it’s cooler and quieter – no humans. The top predator in the dunefield, the five-pound kit fox, comes out to play and hunt when darkness falls. They live in burrows in the exposed pedestals. Looking around, you probably can’t see any sources of water for these mighty hunters, so where do they get water? Kit foxes don’t drink water the way humans do; they get all the water they need from the blood of the prey they consume.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.211594097,
+          32.7956352077
+        ]
+      },
+      "properties": {
+        "name": "Stories from the Ice Age",
+        "notes": "Stories from the Ice Age\nhttps://www.nps.gov/places/stories-from-the-ice-age.htm\n\nWhat drew you to White Sands National Park today? Hiking? Sledding? Solitude? The Tularosa Basin has been a place where we as humans have been coming for thousands of years, even before the dunefield you see today formed. If you had been standing here during the last Ice Age, you would have witnessed a climate that was much cooler, wetter, and greener with a massive lake known as Lake Otero that was the size of the present-day Great Salt Lake in Utah. These were the conditions that lured the Ice Age megafauna like Columbian mammoths, giant ground sloths, dire wolves, camels, and more. This abundance of large game is likely what attracted these early human migrants to this basin. The presence of humans and megafauna at White Sands is not from the discovery of bones or artifacts, but from the preservation of fossilized footprints in the ancient lake sediments. Today, these fossilized footprints have to be cataloged and studied rapidly because as quickly as they appear at the surface, they will continue to erode away with the wind in just a matter of years. These footprints will never tell us everything we want to know about what human and megafauna life at the time was like, but they do provide snapshots. A group of humans stalked a giant ground sloth on a hunt. A woman struggled and slipped through the mud for over a mile with a set of children’s feet appearing occasionally as she briefly sets her child down before moving on. A giant ground sloth made a footprint that became a puddle where children’s footprints show them splashing in the water. Sets of teenagers fossilized footprints carbon-dated to around 23,000 years old, older than any definitive evidence of human habitation yet found in North America. What will be remembered about your visit to White Sands today?",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.248558688,
+          32.7973317363
+        ]
+      },
+      "properties": {
+        "name": "Sunset Stroll Meeting Area",
+        "notes": "Sunset Stroll Meeting Area\nhttps://www.nps.gov/places/sunset-stroll-meeting-area.htm\n\n<p>Meet here for the Sunset Stroll evening program, which is offered daily during normal park operations.<br /> <br /> The <a href=\"https://www.nps.gov/whsa/planyourvisit/sunset-stroll.htm\">Sunset Stroll</a> is a leisurely, ranger-guided stroll through the gypsum sand dunes. It is a splendid opportunity to experience the dunes first-hand while learning about the uniqueness of our geology, plants, and animals. As an added bonus, the stroll is timed to end at sunset, providing a panoramic view of the sun setting over the mountains and the potential for some breath-taking photographic opportunities.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.21177,
+          32.78962
+        ]
+      },
+      "properties": {
+        "name": "Take a Deep Breath",
+        "notes": "Take a Deep Breath\nhttps://www.nps.gov/places/take-a-deep-breath.htm\n\nWhile you’re in the park today, you may notice rock-like mounds dotting the dunes. These are pedestals! Rosemary mint is one of the main plants that creates pedestals. Plants create them by pulling water to their roots and holding it tight. As the dunes move, the pedestals are uncovered and hardened by the sun. Once uncovered, the pedestals begin their second life as homes for the animals that live in the dunefield.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.1859405040741,
+          32.7876533490084
+        ]
+      },
+      "properties": {
+        "name": "The Result of Geologic Coincidences",
+        "notes": "The Result of Geologic Coincidences\nhttps://www.nps.gov/places/the-result-of-geologic-coincidences.htm\n\nHave you ever felt that things fell into place perfectly for you? For the unusual dunes you see to form, the perfect sequence of geologic events had to occur here. Gypsum, the material that makes up the sand dunes, is among the most common on earth and is widely used as a construction material in drywall, plaster of Paris, and concrete. Despite gypsum being found on all seven continents, this place is worthy of being a National Park because gypsum sand dunes are among the rarest geologic features on earth, with only 3 in the entire world! The process of building this geologic wonder has been a long time in the making. In the mountains to the east or west, you may see lighter layers. This is gypsum! It was deposited 280 million years ago by a shallow inland sea that advanced and receded across the southwest, leaving behind the massive deposits of gypsum that make up the white sand today. Flash forward to 70 million years ago when colliding plate tectonics uplifted the horizontal gypsum layers in a massive mountain building event. Around 20 to 30 million years ago these plate tectonics began to pull apart creating the two separate mountain ranges you see today, the San Andres Mountains in the west and the Sacramento Mountains in the east. In between the mountain ranges where you now stand the earth fell away forming the Tularosa Basin. Finally, the ancient Rio Grande River flowed into the Tularosa Basin between 2 and 3 million years ago bringing with it sediments that eventually blocked any water carrying gypsum from flowing out of the basin. Later in this tour, you’ll explore the modern geologic forces that have sculpted these dunes, but without the perfect series of geologic coincidences to set the stage none of this would be possible.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.18636,
+          32.78755
+        ]
+      },
+      "properties": {
+        "name": "Tularosa Basin Roadside Exhibit",
+        "notes": "Tularosa Basin Roadside Exhibit\nhttps://www.nps.gov/places/tularosa-basin-roadside-exhibit.htm\n\n<p>The \"Tularosa Basin\" wayside, located along Dunes Drive, offers information about the basin and its water-storing properties.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.274262632,
+          32.8182783194
+        ]
+      },
+      "properties": {
+        "name": "West Filming Area",
+        "notes": "West Filming Area\nhttps://www.nps.gov/places/west-filming-area.htm\n\n<p>The West Filming Area is both a place to park and a popular spot for sledding. A portion of the area is located behind a locked gate, and is only accessible by vehicle with prior authorization.<br /> <br /> Visit the <a href=\"https://www.nps.gov/whsa/planyourvisit/commercialfilmingandphoto21.htm\">Commercial Filming and Photography</a> page on our website to learn more about some of the ways this space can be utilized.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.26375,
+          32.820433
+        ]
+      },
+      "properties": {
+        "name": "White Sands Amphitheater",
+        "notes": "White Sands Amphitheater\nhttps://www.nps.gov/places/white-sands-amphitheater.htm\n\n<p>The amphitheater is where many fun events and Ranger-led programs are held, like Full Moon Nights and MothaPalooza. While the amphitheater doesn't have built-in seating, it is a large, flat area surrounded by dunes. Visitors are welcome to bring their own seating, blankets, and comfort items for when they sit on the dunes and watch the show.<br /> <br /> For more information about programs at White Sands, visit the <a href=\"https://www.nps.gov/whsa/planyourvisit/ranger-programs.htm\">Park Ranger Programs</a> page on our website.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.17578,
+          32.78263
+        ]
+      },
+      "properties": {
+        "name": "White Sands Entrance Station",
+        "notes": "White Sands Entrance Station\nhttps://www.nps.gov/places/white-sands-entrance-station.htm\n\n<p>This entrance station is where visitors can purchase passes for White Sands National Park itself, as well as America the Beautiful interagency passes, when available.<br /> <br /> For more information about entering White Sands, please visit our <a href=\"https://www.nps.gov/whsa/planyourvisit/fees.htm\">Fees & Passes</a> page.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.25948,
+          32.8122
+        ]
+      },
+      "properties": {
+        "name": "White Sands Group Use Area",
+        "notes": "White Sands Group Use Area\nhttps://www.nps.gov/places/group-use-area.htm\n\n<p>From family reunions to weddings to scout jamborees, White Sands National Park has long been a popular meeting place for large gatherings. Our group use area is the perfect location for private functions, and is available for reservation during normal park operations.<br /> <br /> For more information on how to reserve White Sands' group use area and the amenities it offers, please visit the <a href=\"https://www.nps.gov/whsa/planyourvisit/groupuse.htm\">Group Use Area information</a> page.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.17263,
+          32.77979
+        ]
+      },
+      "properties": {
+        "name": "White Sands Trading Company",
+        "notes": "White Sands Trading Company\nhttps://www.nps.gov/places/white-sands-trading-company.htm\n\n<p>White Sands Trading (WST), official concessioner of White Sands National Park and a New Mexico family-owned company, is proud to join with the National Park Service in preserving this rich ecosystem for generations to come. We are vigilant in using best practices to limit our impact on the environment and to educate visitors about the fragility of this unique area.<br /> <br /> Since 2005, the White Sands Trading Gift Shop has been providing visitors with unique mementos of White Sands National Park. We offer authentic Native American handcrafts from New Mexico including intricately detailed pottery and sterling silver jewelry. Visitors of all ages enjoy our sand disks while sledding down the dunes. Our grab-and-go area will satisfy your hunger with sandwiches and snacks. You can also restock your water or choose from a variety of beverages. A varied selection of t-shirts and souvenirs will help you memorialize your visit to the largest gypsum dunefield on earth.<br /> <br /> WST pays a franchise fee of 16% of our gross receipts to the park. This money is used to make improvements within the park. We appreciate your support and look forward to continuing our mission of preserving the historic building we occupy while protecting the unparalleled desert-scape of White Sands National Park.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.17264,
+          32.77961
+        ]
+      },
+      "properties": {
+        "name": "White Sands Water Station",
+        "notes": "White Sands Water Station\nhttps://www.nps.gov/places/white-sands-water-station.htm\n\n<p>This is White Sands National Park's only water bottle filling station, located near the restrooms and picnic tables at the Visitor Center complex. <strong>There is no water available in the dunefield.</strong><br /> <br /> You will need more water than you think. Sweat evaporates quickly, and your body loses water rapidly in the desert. Always carry extra water with you. One gallon (4 Liters) of water per person per day is recommended.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.26505,
+          32.80857
+        ]
+      },
+      "properties": {
+        "name": "White Sands on the Big Screen",
+        "notes": "White Sands on the Big Screen\nhttps://www.nps.gov/places/white-sands-on-the-big-screen.htm\n\n<p>Do you get a sense of déjà vu as you amble through this picturesque pile of sand? That vaguely familiar feeling might be rooted in seeing White Sands on the big screen, mid-90s <i>MTV</i>, or even as the backdrop of an advertisement for your favorite car. Since 1950, this park has been featured in dozens of films, ranging from classic spaghetti Westerns to modern action, science fiction, documentaries, and comedy movies. On top of being a great spot for yoga instructors to film their classes, this dunefield was even used in a promotion for the Olympics.<br /> <br /> Whether it’s rugged cowboys or old school boybands that pique your interest, it’s possible you’ve followed along some famous footsteps on your hike today. Take a closer look at the landscape the next time you spot some dunes in a video, too – it might be White Sands that you’re watching!<br /> <br /> Want to see White Sands on the big screen sooner rather than later? Swing by the Visitor Center to watch our captivating 17-minute orientation film, which is shown every half hour, on the hour. If the Visitor Center isn’t showing the film, the DVD is available for sale at the non-profit park store.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.239063399,
+          32.7939117002
+        ]
+      },
+      "properties": {
+        "name": "White on White",
+        "notes": "White on White\nhttps://www.nps.gov/places/white-on-white.htm\n\nYou are now at Interdune Boardwalk. On the signs detailing the trail, you will also see an overhead picture of the dunes. Imagine you are a bird of prey soaring over the dunes searching for a tasty snack in the form of a lizard or small rodent. As you look down on the endless waves of white dunes you might think that the dunefield is entirely barren other than the yuccas and rosemary mint dotting the landscape. However, darting in the interdune are small, white color adapted critters doing their best to go unseen. White Sands provides one of the best examples on earth of rapid adaptation to a unique environment. These white sand dunes have only been here for around 7,000 years and in such a short time the animals that call them home have shown remarkable adaptation to their environment. Unlike the surrounding desert, at White Sands it is survival of the lightest! Over generations, certain traits like color give animals an advantage in a given environment and pass on their advantageous traits to their descendants. Here you’ll find that being white color adapted not only helps an animal hide from predators, but it also keeps them cool in the scorching summers by reflecting sunlight away. The rapid change in habitat in the Tularosa Basin has led to an explosion of white, endemic species found nowhere else on earth. Just as isolated islands lead to unique, specialized species of animals, the unusual environment of the dunefield has led to lizards, moths, mammals, and even a species of fish that are found only at White Sands.  ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.26668644099999,
+          32.814166472000004
+        ]
+      },
+      "properties": {
+        "name": "Yucca Picnic Area",
+        "notes": "Yucca Picnic Area\nhttps://www.nps.gov/places/yucca-picnic-area.htm\n\n<p>The Yucca Picnic Area is one of three designated picnic locations at White Sands National Park. Tables are available on a first-come, first-served basis, with metal shade structures attached to each table. There are typically plenty of picnic tables for everyone to enjoy. Some tables are ADA accessible, and each has an elevated grill. </p> <h3>Tips for a great picnic:</h3> <ul> <li>Use colored plates, napkins, cups, and silverware. White, plastic dinnerware is not easily visible on the white sand. Remember to <em><a href=\"https:///www.nps.gov/whsa/planyourvisit/leave-no-trace.htm\">Leave No Trace</a>.</em></li> <li>When you are done with your picnic, use our recycling bins by the vault toilets to recycle plastic and aluminum.</li> <li>Consider using reusable tableware to reduce the amount trash left behind in the park.</li> <li>Trash dumpsters are provided in the picnic areas for your use. If the small trash cans are full please throw trash in the large dumpsters.</li> <li>Bag your trash. Wind will pick up things like paper plates and napkins and carry them into the dunes.</li> </ul> <p>For more information on picnic opportunities at White Sands, please visit our <a href=\"https:///www.nps.gov/whsa/planyourvisit/picknicking.htm\">Picnicking Information</a> page.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.266624483,
+          32.8139596841
+        ]
+      },
+      "properties": {
+        "name": "Yucca Picnic Area Restroom",
+        "notes": "Yucca Picnic Area Restroom\nhttps://www.nps.gov/places/yucca-restroom.htm\n\n<p>The Yucca Picnic Area restroom has two separate wheelchair-accessible vault toilets with no running water, a dumpster, and trash and recycling bins. It is within a large picnic area with plenty of space to park automobiles and RVs, and there are accessible places to park directly in front of the restroom.</p>",
+        "icon": "red-pin-down.png"
+      }
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.8318921,
+          36.1611177
+        ]
+      },
+      "properties": {
+        "name": "Andrew Johnson Homestead",
+        "notes": "Andrew Johnson Homestead\nhttps://www.nps.gov/places/andrew-johnson-homestead.htm\n\nAndrew Johnson owned this home 24 years, and lived here both before and after his presidency. During the Civil War, <a href=\"https://www.nps.gov/anjo/planyourvisit/civil-war-graffiti.htm\">soldiers occupied the house</a> and left it in disrepair. The Johnsons renovated the home when they returned from Washington, filling it with Victorian furnishings and political gifts. Three generations of the family occupied the home before placing it in the stewardship of the National Park Service. The Homestead is filled with many original family belongings and memorabilia.<br /> <br /> Click for more information on how to<strong><a href=\"https://www.nps.gov/anjo/planyourvisit/guidedtours.htm\"> tour the Homestead...</a></strong>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.83145141601562,
+          36.162235260009766
+        ]
+      },
+      "properties": {
+        "name": "Andrew Johnson National Cemetery",
+        "notes": "Andrew Johnson National Cemetery\nhttps://www.nps.gov/places/andrew-johnson-national-cemetery.htm\n\n<p><strong>Welcome to Monument Hill.</strong></p> <p>The land that comprises the Andrew Johnson National Cemetery was bought by Andrew Johnson in 1852. According to family tradition, Johnson enjoyed coming to this spot for peace and meditation. It afforded superb and unpopulated views of the mountains in the distance. Because of its height, it was used during the Civil War for signaling, and it became known as \"Signal Hill.\"</p> <p>It was Andrew Johnson's request that he be buried here, and he was, on the 3rd of August, 1875. At the crest of the hill, the Masons carried out the rites of burial.</p> <p>The family erected the tall obelisk over Andrew and Eliza Johnson's grave in 1878. There was a dedication ceremony, and afterwards, this became known as \"Monument Hill.\"<br /> <br /> <strong>The Cemetery Today</strong></p> <p>The cemetery was owned by the family until 1906. From 1906 until 1942, the cemetery was under the jurisdiction of the War Department. The first veteran burial took place in 1909; by 1939 there were 100 graves.</p> <p>When the NPS took over in 1942, their original policy was to allow no more burials. The DAR and American Legion, however, began lobbying for the reactivation of the Cemetery, and in 1946 they found success. Along with Andersonville National Historic Site, the Andrew Johnson National Cemetery remained one of only two active national cemeteries within the National Park Service until 2019.<br /> <br /> It remains a distinction that both are some of the few cemeteries administered by the NPS to have soldiers other than those who fought in the Civil War. Here you will find veterans from the Civil War, the Spanish-American War, WW1, WW2, the Korean War, Vietnam, the Gulf War, Iraqi Freedom, and Afghanistan. In 2019, the year of transition, over 2000 headstones mark this hallowed ground.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.829149622964,
+          36.1625578112004
+        ]
+      },
+      "properties": {
+        "name": "The Early Home",
+        "notes": "The Early Home\nhttps://www.nps.gov/places/the-early-home.htm\n\nAndrew and Eliza lived in the Early Home from the 1830s until they moved into their larger Homestead in 1851. While living in this house, Johnson served as town tailor while starting his career in politics. He was elected Alderman of the town of Greeneville in 1829. It was in this house that the Johnsons began their family; it was to this house that they brought their first slaves in 1842 and 1843.<br /> <br /> Inside the Early Home today, you will find exhibits which tell the story of Johnson's early life - his arrival in Greeneville, his family & slave family, and his start in politics. There is also a popular time-line which parallels Johnson's life with those in the nation.",
+        "icon": "red-pin-down.png"
+      }
+    }
+  ]
+}

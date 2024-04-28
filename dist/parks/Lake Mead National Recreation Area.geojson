@@ -1,0 +1,335 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.842489632,
+          36.1113667519
+        ]
+      },
+      "properties": {
+        "name": "33 Hole Overlook",
+        "notes": "33 Hole Overlook\nhttps://www.nps.gov/places/33-hole-overlook.htm\n\nEnjoy a picnic with panoramic views of the Las Vegas Bay and the Black Mesa. Here you will find the trailhead for the Owl Canyon, a 2.2 miles moderate hike where burrowing owls are known to occasionally roost. This overlook also provides hiking access to the Cliffs View Point.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.801916601,
+          36.0369503297
+        ]
+      },
+      "properties": {
+        "name": "Boulder Beach",
+        "notes": "Boulder Beach\nhttps://www.nps.gov/places/boulder-beach.htm\n\n<h2>Explore Boulder Beach</h2> <p>Located in the western part of Lake Mead National Recreation Area, Boulder Bay is just minutes from Las Vegas and stretches more than a mile along the shoreline of the Boulder Basin of Lake Mead.<br /> <br /> When you visit Boulder Beach, you’ll have access to many recreation opportunities. Boulder Beach, Special Events Beach, Canoe/Kayak Beach, and PWC Beach are 1-2 miles away. At these locations you can kayak and jetski. If you prefer to explore the park on land, the River Mountains Loop Trail passes right by the campground. This paved trail is more than 30 miles long and leads to the Historic Railroad Trail.<br /> <br /> Nearby Hemenway Harbor offers a fishing pier, boat launch ramp access, and Lake Mead & Las Vegas Bay Marinas. You can rent a boat for a few hours or dine at the docks. Lake Mead Cruises provides cruises on the lake to the Hoover Dam and back.<br />  </p> <hr /> <h3><strong>Boating</strong></h3> <h4>Lake Level Changing: Keep Alert & Launch At Your Own Risk</h4> <ul> <li><strong>Boaters should excercise caution and be watchful of unexpected underwater and exposed water hazards.</strong></li> <li><strong>Hazard buoys do not mark every hazard on the water.</strong></li> <li><strong>Be prepared for longer wait times for launching and recovery</strong></li> <li><strong>Ongoing maintenance/construction at ramps may require temporary closures.</strong></li> </ul> <p>The nearest motorized boating access from Boulder Beach is at Hemenway Harbor launch ramp. Rental boats are located nearby at <a href=\"https://boatinglakemead.com/rental-reservation/all-rentals/\">Las Vegas Boat Harbor</a>. Water-access fuel is located at the Las Vegas Boat Harbor (Hemenway Harbor), which is located near Boulder Beach.<br /> <br /> Visitors may launch personal watercraft from the rocky beaches south of the swim area. These locations include: Boulder Beach, Special Events Beach, Canoe/Kayak Beach, and PWC Beach.<br />  </p> <hr /> <h3><strong>Camping</strong></h3> <p>Boulder Beach Campground is open year-round and features large paved sites that can accommodate tents or large RVs, along with tables, fire pits and/or grills. Restrooms and water spigots are located throughout the campsite.<br /> <br /> Temperatures usually surpass 100F (37C) degrees June-August. In May and September, daytime highs are around 90F (32C). October-April, temperatures are much cooler. Lows can dip to freezing temps December-February. The area averages 4 inches of rain each year.<br /> <br /> Lush vegetation provides shade, and many sites have pristine views of the lake. Boulder Beach is about a 15-minute walk from the campground.</p> <h3>NPS Operated Campgrounds</h3> <em>*50% discount with Senior/Access Pass<br /> **RV's may park in any NPS campsite; however, there are no hookups.<br /> ***WiFi in campgrounds is operated by a concessionaire service. Contact them directly with questions at: </em> <table align=\"center\" border=\"2\" cellpadding=\"1\" cellspacing=\"1.5\" style=\"width:959px;\"> <thead> <tr> <th scope=\"col\" style=\"width: 250px; text-align: center; background-color: rgb(51, 102, 51);\"><span style=\"color:#ffffff;\"><strong>Campground</strong></span></th> <th scope=\"col\" style=\"width: 150px; text-align: center; background-color: rgb(51, 102, 51);\"><span style=\"color:#ffffff;\">Reservations</span></th> <th scope=\"col\" style=\"width: 225px; text-align: center; background-color: rgb(51, 102, 51);\"><span style=\"color:#ffffff;\"><strong>Nightly Fee</strong></span></th> <th scope=\"col\" style=\"width: 150px; text-align: center; background-color: rgb(51, 102, 51);\"><span style=\"color:#ffffff;\"><strong>Total # of Sites</strong></span></th> <th scope=\"col\" style=\"width: 75px; text-align: center; background-color: rgb(51, 102, 51);\"><span style=\"color:#ffffff;\"><img src=\"https://raw.githubusercontent.com/nationalparkservice/symbol-library/gh-pages/places-mobile/renders/wheelchair-accessible.png\" title=\"\" /></span></th> <th scope=\"col\" style=\"width: 75px; text-align: center; background-color: rgb(51, 102, 51);\"><span style=\"color:#ffffff;\"><img src=\"https://raw.githubusercontent.com/nationalparkservice/symbol-library/gh-pages/places-mobile/renders/showers.png\" title=\"\" /></span></th> <th scope=\"col\" style=\"width: 75px; text-align: center; background-color: rgb(51, 102, 51);\"><span style=\"color:#ffffff;\"><img src=\"https://npgallery.nps.gov/GetAsset/fe1fac8c-dbfe-43ae-8a22-ce0fcbe33da8/original.png?\" title=\"\" /></span></th> <th scope=\"col\" style=\"width: 75px; text-align: center; background-color: rgb(51, 102, 51);\"><span style=\"color:#ffffff;\"><img src=\"https://npgallery.nps.gov/GetAsset/d161f689-7daf-4c69-9387-464521b12091/original.png?\" title=\"\" /></span></th> <th scope=\"col\" style=\"width: 75px; text-align: center; background-color: rgb(51, 102, 51);\"><span style=\"color:#ffffff;\"><img src=\"https://npgallery.nps.gov/GetAsset/26c2bf83-ef32-43f1-a732-7b5d121c7d7a/original.png?\" title=\"\" /></span></th> </tr> <tr> <td style=\"width: 250px;\"> <p>Boulder Beach</p> </td> <td style=\"width: 150px; text-align: center;\"> <p><a href=\"https://www.recreation.gov/camping/campgrounds/10075120\">Reserve a site</a></p> </td> <td style=\"width: 225px; text-align: center;\"> <p>$20</p> </td> <td style=\"width: 150px; text-align: center;\"> <p>135</p> </td> <td style=\"width: 75px; text-align: center;\"> <p><img src=\"https://npgallery.nps.gov/GetAsset/87869ceb-4a3b-41b8-9d32-28a7b06f9c4d/original.png?\" title=\"\" /></p> </td> <td style=\"width: 75px; text-align: center;\"> <p> </p> </td> <td style=\"width: 75px; text-align: center;\"> <p><img src=\"https://npgallery.nps.gov/GetAsset/87869ceb-4a3b-41b8-9d32-28a7b06f9c4d/original.png?\" title=\"\" /></p> </td> <td style=\"width: 75px; text-align: center;\"> <p><img src=\"https://npgallery.nps.gov/GetAsset/87869ceb-4a3b-41b8-9d32-28a7b06f9c4d/original.png?\" title=\"\" /></p> </td> <td style=\"width: 75px; text-align: center;\"> <p><img src=\"https://npgallery.nps.gov/GetAsset/87869ceb-4a3b-41b8-9d32-28a7b06f9c4d/original.png?\" title=\"\" /></p> </td> </tr> <tr> <td style=\"width: 250px; background-color: rgb(192, 222, 206);\"> <p>Boulder Beach (Group) </p> </td> <td style=\"width: 150px; text-align: center; background-color: rgb(192, 222, 206);\"> <p><a href=\"https://www.recreation.gov/camping/campgrounds/10048964\">Reserve a site</a></p> </td> <td style=\"width: 225px; text-align: center; background-color: rgb(192, 222, 206);\"> <p>$80</p> </td> <td style=\"width: 150px; text-align: center; background-color: rgb(192, 222, 206);\"> <p>5 (tents)</p> </td> <td style=\"width: 75px; text-align: center; background-color: rgb(192, 222, 206);\"> <p> </p> </td> <td style=\"width: 75px; text-align: center; background-color: rgb(192, 222, 206);\"> <p> </p> </td> <td style=\"width: 75px; text-align: center; background-color: rgb(192, 222, 206);\"> <p><img src=\"https://npgallery.nps.gov/GetAsset/87869ceb-4a3b-41b8-9d32-28a7b06f9c4d/original.png?\" title=\"\" /></p> </td> <td style=\"width: 75px; text-align: center; background-color: rgb(192, 222, 206);\"> <p><img src=\"https://npgallery.nps.gov/GetAsset/87869ceb-4a3b-41b8-9d32-28a7b06f9c4d/original.png?\" title=\"\" /></p> </td> <td style=\"width: 75px; text-align: center; background-color: rgb(192, 222, 206);\"> <p><img src=\"https://npgallery.nps.gov/GetAsset/87869ceb-4a3b-41b8-9d32-28a7b06f9c4d/original.png?\" title=\"\" /></p> </td> </tr> </thead> </table> <h3>Concession Operated Campgrounds</h3> <em>*Information is subject to change. For up-to-date info, contact each concessionaire directly via corresponding reservation page.</em> <table align=\"center\" border=\"1\" cellpadding=\"1\" cellspacing=\"1.5\" style=\"width:959px;\"> <thead> <tr> <th scope=\"col\" style=\"width: 250px; text-align: center; background-color: rgb(51, 102, 51);\"><span style=\"color:#ffffff;\"><strong>RV Park</strong></span></th> <th scope=\"col\" style=\"width: 150px; text-align: center; background-color: rgb(51, 102, 51);\"><span style=\"color:#ffffff;\">Reservations</span></th> <th scope=\"col\" style=\"width: 190px; text-align: center; background-color: rgb(51, 102, 51);\"><span style=\"color:#ffffff;\"><strong>Nightly Fee</strong></span></th> <th scope=\"col\" style=\"width: 150px; text-align: center; background-color: rgb(51, 102, 51);\"><span style=\"color:#ffffff;\"><strong>Total # of Sites</strong></span></th> <th scope=\"col\" style=\"width: 75px; text-align: center; background-color: rgb(51, 102, 51);\"><span style=\"color:#ffffff;\"><img src=\"https://raw.githubusercontent.com/nationalparkservice/symbol-library/gh-pages/places-mobile/renders/wheelchair-accessible.png\" title=\"\" /></span></th> <th scope=\"col\" style=\"width: 75px; text-align: center; background-color: rgb(51, 102, 51);\"><span style=\"color:#ffffff;\"><img src=\"https://raw.githubusercontent.com/nationalparkservice/symbol-library/gh-pages/places-mobile/renders/showers.png\" title=\"\" /></span></th> <th scope=\"col\" style=\"width: 75px; text-align: center; background-color: rgb(51, 102, 51);\"><span style=\"color:#ffffff;\"><img src=\"https://npgallery.nps.gov/GetAsset/fe1fac8c-dbfe-43ae-8a22-ce0fcbe33da8/original.png?\" title=\"\" /></span></th> <th scope=\"col\" style=\"width: 75px; text-align: center; background-color: rgb(51, 102, 51);\"><span style=\"color:#ffffff;\"><img src=\"https://npgallery.nps.gov/GetAsset/d161f689-7daf-4c69-9387-464521b12091/original.png?\" title=\"\" /></span></th> <th scope=\"col\" style=\"width: 75px; text-align: center; background-color: rgb(51, 102, 51);\"><span style=\"color:#ffffff;\"><img src=\"https://npgallery.nps.gov/GetAsset/26c2bf83-ef32-43f1-a732-7b5d121c7d7a/original.png?\" title=\"\" /></span></th> </tr> <tr> <td scope=\"col\" style=\"width: 250px;\"> <p>Lake Mead  </p> </td> <td scope=\"col\" style=\"width: 150px; text-align: center;\"> <p><a href=\"https://lakemeadmohaveadventures.com/lake-mead-rv-village/\">Reserve a site</a></p> </td> <td colspan=\"1\" rowspan=\"2\" scope=\"col\" style=\"width: 190px; text-align: center;\"> <p><i>Info on<br /> concessionaire<br /> website </i></p> </td> <td scope=\"col\" style=\"width: 150px; text-align: center;\"> <p><br /> 115</p> </td> <td style=\"width: 75px; text-align: center;\"> <p><img src=\"https://npgallery.nps.gov/GetAsset/87869ceb-4a3b-41b8-9d32-28a7b06f9c4d/original.png?\" title=\"\" /></p> </td> <td style=\"width: 75px; text-align: center;\"> <p><img src=\"https://npgallery.nps.gov/GetAsset/87869ceb-4a3b-41b8-9d32-28a7b06f9c4d/original.png?\" title=\"\" /></p> </td> <td style=\"width: 75px; text-align: center;\"> <p><img src=\"https://npgallery.nps.gov/GetAsset/87869ceb-4a3b-41b8-9d32-28a7b06f9c4d/original.png?\" title=\"\" /></p> </td> <td style=\"width: 75px; text-align: center;\"> <p><img src=\"https://npgallery.nps.gov/GetAsset/87869ceb-4a3b-41b8-9d32-28a7b06f9c4d/original.png?\" title=\"\" /></p> </td> <td style=\"width: 75px; text-align: center;\"> <p><img src=\"https://npgallery.nps.gov/GetAsset/87869ceb-4a3b-41b8-9d32-28a7b06f9c4d/original.png?\" title=\"\" /></p> </td> </tr> </thead> </table> <table align=\"center\" border=\"1\" cellpadding=\"1\" cellspacing=\"1.5\" style=\"width: 959px;\"> <thead> <tr> <td colspan=\"11\" style=\"background-color: rgb(51, 102, 51); width: 959px;\"> <p><img src=\"https://raw.githubusercontent.com/nationalparkservice/symbol-library/gh-pages/places-mobile/renders/wheelchair-accessible.png\" title=\"\" /><span style=\"color:#ffffff;\">  Accesible sites ——  <img src=\"https://npgallery.nps.gov/GetAsset/fe1fac8c-dbfe-43ae-8a22-ce0fcbe33da8/original.png?\" title=\"\" /> Wifi  ——  <img src=\"https://npgallery.nps.gov/GetAsset/d161f689-7daf-4c69-9387-464521b12091/original.png?\" title=\"\" /> Dump Station<br /> <img src=\"https://npgallery.nps.gov/GetAsset/26c2bf83-ef32-43f1-a732-7b5d121c7d7a/original.png?\" title=\"\" />  Pets allowed on leash   ——  <img src=\"https://raw.githubusercontent.com/nationalparkservice/symbol-library/gh-pages/places-mobile/renders/showers.png\" title=\"\" />  Pay showers  ——   <img src=\"https://raw.githubusercontent.com/nationalparkservice/symbol-library/gh-pages/places-mobile/renders/dot.png\" title=\"\" />  Included at site</span><br />  </p> </td> </tr> </thead> </table>    <hr /> <h3><strong>Fishing</strong></h3> <p><a href=\"https://www.nps.gov/lake/planyourvisit/fishing.htm\">Fishing</a> is a year-round activity at Lake Mead; each season bringing its own exciting opportunities.<br /> <br /> Due to low water conditions, Hemeway Harbor no longer has a fishing pier, however shore fishing at Hemenway Fishing Point is allowed in the designated area marked by bouys.<br /> <br /> In order to be considered wading, a person fishing must be standing with their feet on the bottom and not capable of free flotation through the use of any device. As water recedes, be aware of the potential for soft mud.<br /> <br /> All other water-oriented activities, such as boating, fishing from vessels and floating devices, swimming, snorkeling, and SCUBA diving, are prohibited in this designated area.<br /> <br /> Fishing equipment, bait and supplies are available at the marina store. A convenient fish cleaning station is located at the top of the launch ramp parking lot.<br />  </p> <hr /> <h3><strong>Beaches & Coves</strong></h3> <p>Boulder Beach has a variety of multi-use beaches, including North and South Swim Beaches at Boulder Beach which is popular for families and triathletes alike. The surface is graded regularly, but tends to be rocky.<br /> <br /> Be aware that as the lake levels get lower silty mud becomes exposed and people and vehicles have been known to get stuck. Always carefully test the ground before committing - even if it looks dry on top.<br /> <br /> To the south, visitors can setup for the day with their watercraft and enjoy boating in the Boulder Basin.<br /> <br /> Open dawn till dusk.</p> <p><br />  </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Boulder Harbor Launch Ramp",
+        "notes": "Boulder Harbor Launch Ramp\nhttps://www.nps.gov/places/boulder-harbor-launch-ramp.htm\n\n<blockquote> <h3><em>Before your trip to the park, always check the <a href=\"https://www.nps.gov/lake/planyourvisit/conditions.htm\">Alerts & Conditions</a> webpage for the most up to date information on closures.</em></h3> </blockquote> <h2><br /> Operational Status of Launch Ramp: <span style=\"color:#c0392b;\">INOPERABLE</span></h2> <hr />Boulder Harbor Launch Ramp is closed to the launching and retrieving of vessels due to low water levels. Nearby launch ramps that are operable that you may consider launching from include: <ul> <li><a href=\"https://www.nps.gov/places/hemenway-harbor-launch-ramp.htm\">Hemenway Harbor Launch Ramp</a></li> <li><a href=\"https://www.nps.gov/places/callville-bay-launch-ramp.htm\">Callville Bay Launch Ramp</a></li> </ul> Remember to always wear a life jacket when out on the water!",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.71601867675781,
+          36.1379280090332
+        ]
+      },
+      "properties": {
+        "name": "Callville Bay Launch Ramp",
+        "notes": "Callville Bay Launch Ramp\nhttps://www.nps.gov/places/callville-bay-launch-ramp.htm\n\n<blockquote> <h3><em>Before your trip to the park, always check the <a href=\"https://www.nps.gov/lake/planyourvisit/conditions.htm\">Alerts & Conditions</a> webpage for the most up to date information on closures.</em></h3> </blockquote> <h2><br /> Operational Status of Launch Ramp: <span style=\"color:#27ae60;\">OPERABLE </span></h2> <hr />  <h3>Renting a Boat</h3> <ul> <li>Boats can be rented through the concessionaire at Callville Bay.</li> <li><a href=\"https://callvillebay.com/\">Please visit their website for rental information and bookings. </a></li> </ul> <h3>Boating Safety</h3> <ul> <li>Life jackets save lives.</li> <li>Each person on board a personal watercraft, or anyone being towed behind a vessel, must wear a life jacket.</li> <li>All boaters must know and follow applicable state & federal boating requirements. This inclides carrying all required equipment on your vessel.</li> <li>Children under 13 years old must wear a life jacket whenever underway in a vessel, unless they are in a fully enclosed area.</li> </ul> <h3>Launch Ramp Safety</h3> <ul> <li>Launching is at your own risk.</li> <li>Be prepared for longer wait times for launching and recovery.</li> <li>Always check your surrondings before launching.</li> </ul> <h3>Lake Levels</h3> <ul> <li>Lake levels, <strong>managed by the Bureau of Reclamation</strong>, change regularly.</li> <li>Always approach the shore with caution and watch for shallows and submerged debris.</li> <li><a href=\"https://www.usbr.gov/lc/region/g4000/riverops/hourly7.html#t0\">Track the most recent water levels for Lake Mead.</a></li> </ul> <h3>Weather</h3> <ul> <li>Plan ahead by <a href=\"https://www.nps.gov/lake/planyourvisit/weather.htm\">checking the weather.</a></li> <li>Be prepared in case weather changes.</li> </ul>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.686703761,
+          35.4925723662
+        ]
+      },
+      "properties": {
+        "name": "Cottonwood Cove",
+        "notes": "Cottonwood Cove\nhttps://www.nps.gov/places/cottonwood-cove.htm\n\n<h2>Discover Cottonwood Cove</h2> If you like to open your motel window to sunrises over the water or to dip your toes in the sand or to sleep on a houseboat on Lake Mohave with your closest friends and family, you should check out Cottonwood Cove. It's about an hour south of Las Vegas. Here, you can launch your own boat or rent one of ours or just enjoy a picnic on one of the plentiful beaches.<br /> <br /> Boating<br /> Launching at Cottonwood Cove allows you to experience boating along the narrow Colorado River or in wide open water. Boating services include <a href=\"https://www.nps.gov/lake/planyourvisit/boating.htm\">launch ramps</a>, fuel sales (marine and auto) along with a variety of <a href=\"https://cottonwoodcoveresort.com/houseboats-watercraft/\">boat and equipment rental options</a> to include houseboats. Boat slip rentals and dry storage are also available.<br /> <br /> Where to Stay<br /> There are plenty of options just steps from the water. The <a href=\"https://cottonwoodcoveresort.com/cottonwood-cove-motel/\">Cottonwood Cove Motel</a> rests along a sandy beach, and each room as a covered outdoor patio. Around 75 <a href=\"https://cottonwoodcoveresort.com/explore/lodging-rv-camp/\">RV sites</a> are available with full hookups, and another 45 campsites are available for tents and RVs without hookups. Primitive camping is available nearby, as well.<br /> <br /> Resteraunts and Picknicking<br /> The <a href=\"https://cottonwoodcoveresort.com/explore/marina-store-and-snack-bar/\">Cottonwood Cove Café</a> offers a selection of family-friendly entrees for breakfast, lunch, dinner and catering. A variety of snacks, drinks and charcoal are available at the store. Picnic tables and grills are available, as well.<br /> <br /> Hiking<br /> Take a stroll along the beaches to discover new sandy coves, or journey along the hills for picturesque lake views.<br /> <br /> Beaches and Coves<br /> Park your car and walk right to the water's edge at Cottonwood Cove Beach, or stroll along the shoreline and journey to the north to access Box Cove or venture south to Ski Cove. Dozens of sandy coves can also be reached by boat for a secluded getaway.<br /> <a href=\"https://www.nps.gov/lake/planyourvisit/swimming.htm\">Swimming Information</a>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.68569247111564,
+          35.4928488753304
+        ]
+      },
+      "properties": {
+        "name": "Cottonwood Cove Launch Ramp",
+        "notes": "Cottonwood Cove Launch Ramp\nhttps://www.nps.gov/places/cottonwood-cove-launch-ramp.htm\n\n<blockquote> <h3><em>Before your trip to the park, always check the <a href=\"https://www.nps.gov/lake/planyourvisit/conditions.htm\">Alerts & Conditions</a> webpage for the most up to date information on closures.</em></h3> </blockquote> <h2><br /> Operational Status of Launch Ramp: <span style=\"color:#27ae60;\">OPERABLE </span></h2> <hr />  <h3>Renting a Boat</h3> <ul> <li>Boats can be rented through the concessionaire at Cottonwood Cove.</li> <li><a href=\"https://cottonwoodcoveresort.com/reservations/\">Please visit their website for rental information and bookings. </a></li> </ul> <h3>Boating Safety</h3> <ul> <li>Life jackets save lives.</li> <li>Each person on board a personal watercraft, or anyone being towed behind a vessel, must wear a life jacket.</li> <li>All boaters must know and follow applicable state & federal boating requirements. This inclides carrying all required equipment on your vessel.</li> <li>Children under 13 years old must wear a life jacket whenever underway in a vessel, unless they are in a fully enclosed area.</li> </ul> <h3>Launch Ramp Safety</h3> <ul> <li>Launching is at your own risk.</li> <li>Be prepared for longer wait times for launching and recovery.</li> <li>Always check your surrondings before launching.</li> </ul> <h3>Weather</h3> <ul> <li>Plan ahead by <a href=\"https://www.nps.gov/lake/planyourvisit/weather.htm\">checking the weather.</a></li> <li>Be prepared in case weather changes.</li> </ul>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.42001342773438,
+          36.30686569213867
+        ]
+      },
+      "properties": {
+        "name": "Echo Bay Launch Ramp",
+        "notes": "Echo Bay Launch Ramp\nhttps://www.nps.gov/places/echo-bay-launch-ramp.htm\n\n<blockquote> <h3><em>Before your trip to the park, always check the <a href=\"https://www.nps.gov/lake/planyourvisit/conditions.htm\">Alerts & Conditions</a> webpage for the most up to date information on closures.</em></h3> </blockquote> <h2><br /> Operational Status of Launch Ramp: <span style=\"color:#27ae60;\">OPERABLE </span></h2> <hr />  <h3>Boating Safety</h3> <ul> <li>Life jackets save lives.</li> <li>Each person on board a personal watercraft, or anyone being towed behind a vessel, must wear a life jacket.</li> <li>All boaters must know and follow applicable state & federal boating requirements. This inclides carrying all required equipment on your vessel.</li> <li>Children under 13 years old must wear a life jacket whenever underway in a vessel, unless they are in a fully enclosed area.</li> </ul> <h3>Launch Ramp Safety</h3> <ul> <li>Launching is at your own risk.</li> <li>Be prepared for longer wait times for launching and recovery.</li> <li>Always check your surrondings before launching.</li> </ul> <h3>Lake Levels</h3> <ul> <li>Lake levels, <strong>managed by the Bureau of Reclamation</strong>, change regularly.</li> <li>Always approach the shore with caution and watch for shallows and submerged debris.</li> <li><a href=\"https://www.usbr.gov/lc/region/g4000/riverops/hourly7.html#t0\">Track the most recent water levels for Lake Mead.</a></li> </ul> <h3>Weather</h3> <ul> <li>Plan ahead by <a href=\"https://www.nps.gov/lake/planyourvisit/weather.htm\">checking the weather.</a></li> <li>Be prepared in case weather changes.</li> </ul>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.78274536132812,
+          36.02662658691406
+        ]
+      },
+      "properties": {
+        "name": "Hemenway Harbor Launch Ramp",
+        "notes": "Hemenway Harbor Launch Ramp\nhttps://www.nps.gov/places/hemenway-harbor-launch-ramp.htm\n\n<blockquote> <h3><em>Before your trip to the park, always check the <a href=\"https://www.nps.gov/lake/planyourvisit/conditions.htm\">Alerts & Conditions</a> webpage for the most up to date information on closures.</em></h3> </blockquote> <h2><br /> Operational Status of Launch Ramp: <span style=\"color:#27ae60;\">OPERABLE </span></h2> <hr />  <h3>Renting a Boat</h3> <ul> <li>Boats can be rented through the concessionaire at the marina next to Hemenway Harbor Launch Ramp.</li> <li><a href=\"https://boatinglakemead.com/rental-reservation/all-rentals/\">Please visit their website for rental information and bookings. </a></li> </ul> <h3>Boating Safety</h3> <ul> <li>Life jackets save lives.</li> <li>Each person on board a personal watercraft, or anyone being towed behind a vessel, must wear a life jacket.</li> <li>All boaters must know and follow applicable state & federal boating requirements. This inclides carrying all required equipment on your vessel.</li> <li>Children under 13 years old must wear a life jacket whenever underway in a vessel, unless they are in a fully enclosed area.</li> </ul> <h3>Launch Ramp Safety</h3> <ul> <li>Launching is at your own risk.</li> <li>Be prepared for longer wait times for launching and recovery.</li> <li>Always check your surrondings before launching.</li> </ul> <h3>Lake Levels</h3> <ul> <li>Lake levels, <strong>managed by the Bureau of Reclamation</strong>, change regularly.</li> <li>Always approach the shore with caution and watch for shallows and submerged debris.</li> <li><a href=\"https://www.usbr.gov/lc/region/g4000/riverops/hourly7.html#t0\">Track the most recent water levels for Lake Mead.</a></li> </ul> <h3>Weather</h3> <ul> <li>Plan ahead by <a href=\"https://www.nps.gov/lake/planyourvisit/weather.htm\">checking the weather.</a></li> <li>Be prepared in case weather changes.</li> </ul>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.56581233700001,
+          35.219008625
+        ]
+      },
+      "properties": {
+        "name": "Katherine Landing Launch Ramp",
+        "notes": "Katherine Landing Launch Ramp\nhttps://www.nps.gov/places/katherine-landing-launch-ramp.htm\n\n<blockquote> <h3><em>Before your trip to the park, always check the <a href=\"https://www.nps.gov/lake/planyourvisit/conditions.htm\">Alerts & Conditions</a> webpage for the most up to date information on closures.</em></h3> </blockquote> <h2><br /> Operational Status of Launch Ramp: <span style=\"color:#27ae60;\">OPERABLE </span></h2> <hr />  <h3>Renting a Boat</h3> <ul> <li>Boats can be rented through the concessionaire at Katherine Landing.</li> <li><a href=\"https://www.katherinelanding.com/boat-equipment-rentals\">Please visit their website for rental information and bookings. </a></li> </ul> <h3>Boating Safety</h3> <ul> <li>Life jackets save lives.</li> <li>Each person on board a personal watercraft, or anyone being towed behind a vessel, must wear a life jacket.</li> <li>All boaters must know and follow applicable state & federal boating requirements. This inclides carrying all required equipment on your vessel.</li> <li>Children under 13 years old must wear a life jacket whenever underway in a vessel, unless they are in a fully enclosed area.</li> </ul> <h3>Launch Ramp Safety</h3> <ul> <li>Launching is at your own risk.</li> <li>Be prepared for longer wait times for launching and recovery.</li> <li>Always check your surrondings before launching.</li> </ul> <h3>Weather</h3> <ul> <li>Plan ahead by <a href=\"https://www.nps.gov/lake/planyourvisit/weather.htm\">checking the weather.</a></li> <li>Be prepared in case weather changes.</li> </ul>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.772553077,
+          36.024813991
+        ]
+      },
+      "properties": {
+        "name": "Lake Mead Marina",
+        "notes": "Lake Mead Marina\nhttps://www.nps.gov/places/lake-mead-marina.htm\n\nLake Mead Marina is the oldest marina on Lake Mead. In 2008, the Gripentog Family purchased the marina, store, and restaurant creating the largest inland marina facilities in the world. With just under 1500 slips plus dry storage spaces, two marina stores, two restaurants, marine service and repair facilities, fuel, rentals, and storage.<br />   <p>Share in the beauty of Lake Mead with us 7 days a week all year long.</p> <p><strong>MARINA STORE</strong></p> <p>Our fully stocked marina store is your last stop for drinks, snacks, accessories, parts, summer and winter clothing and nautical knick knacks. Always available for your last minute and lake needs.</p> <p><strong>THE BOAT HOUSE</strong></p> <p>Enjoy our newly refreshed floating Bar and Grill, The Boat House, has an extensive menu with refreshing salads, appetizers, wraps, steak dinners and more. Don’t miss the weekly specials from the kitchen.</p> <p><strong>SPORTING EVENTS</strong></p> <p>Cheer on your team at The Boat House Bar. Don’t miss your favorite sporting event on the 9 1/2 foot BIG screen. Banquets, Weddings, & Special EventsWith a delightful nautical atmosphere and a pictureque view of Lake Mead, our banquet facilities are perfect for weddings, receptions, birthdays, anniversary parites, office parties, meetings and more. You can book your special event in our private party room or bar. Please contact us for details at 702-293-3484.</p> <p><b>ON THE WATER SERVICE</b></p> <p>If you moor your boat on Lake Mead, Lake Mead Marina can service your vessel. With five boat hoists with abilitiy to lift boats up to 60 feet in length – all your service needs can be met with the friendly service at the marina. For larger jobs, your boat can be hauled to the referb yard for bottom work or to our in-town facility, Marine Center of Las Vegas.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.761850621,
+          36.0170844849
+        ]
+      },
+      "properties": {
+        "name": "Lakeview Overlook",
+        "notes": "Lakeview Overlook\nhttps://www.nps.gov/places/lakeview-overlook.htm\n\nStop by this scenic overlook on your way to the Hoover Dam for some panoramic views of the Boulder Basin. Looking northwest you can see the Hemenway Harbor, one of the tunnels of the Hoover Historic Railroad and power lines from Hoover Dam. Looking northeast, you can see Rock, Boulder and Saddle Islands and as far as the Callville Mesa, Muddy Mountains and Black Mountains.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.866921036,
+          36.119365306
+        ]
+      },
+      "properties": {
+        "name": "Las Vegas Bay Overlook",
+        "notes": "Las Vegas Bay Overlook\nhttps://www.nps.gov/places/las-vegas-bay-overlook.htm\n\nThis overlook provides great views of the Las Vegas Bay. Enjoy views of the Las Vegas Wash, which channels rain and treated water from the Las Vegas Valley into Lake Mead. This wash also serves as a wetland habitat within the Mojave Desert for the great blue heron and other wildlife.  ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.775666,
+          36.026884
+        ]
+      },
+      "properties": {
+        "name": "Las Vegas Boat Harbor",
+        "notes": "Las Vegas Boat Harbor\nhttps://www.nps.gov/places/las-vegas-boar-harbor.htm\n\n<p>Since 1957 Las Vegas Boat Harbor has been family owned and operated by the Gripentog Family. It all started with because Bob and Betty Gripentog wanted to fish a lot and work a little. <a href=\"https://boatinglakemead.com/marina-of-the-year/\">Check out our story here</a>. Almost 60 years have gone by and the Gripentog Family has grown their dream into the largest privately owned and operated marinas in the world.<br /> <br /> With just under 1500 slips, the marina can accommodate boats up to 75’ in length. Lake Mead has something to offer everyone – Boating, Skiing, Fishing, Tubing, Relaxing, Swimming, Exploring and Much More. Las Vegas Boat Harbor is a great place to bring the family; have lunch, feed the fish, and people watch. Looking for a little more excitement, rent a boat or waverunner and go exploring!</p> <p>We hope you stop by for a visit and take advantage of all the services that we offer. Good food, great atmosphere, beautiful surroundings, and fun on the lake.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.100063544,
+          36.0904825613
+        ]
+      },
+      "properties": {
+        "name": "South Cove",
+        "notes": "South Cove\nhttps://www.nps.gov/places/south-cove.htm\n\n<h2>Discover South Cove</h2> This is where the Colorado River exits the Grand Canyon and starts to form Lake Mead. Located on the eastern edge of the park near a Joshua Tree forest, South Cove is one of the park's lesser known getaways. From here, you can launch onto the lake and venture out to numerous sandy coves.<br /> <br /> The general area includes: <ul> <li>Pearce Ferry</li> <li>Meadview Scenic Overlook</li> </ul> <br /> The primary boat ramp is closed due to low water levels. Launching is available off the dirt road south of the launch ramp. Four-wheel-drive is recommended. <hr /> <h3>Boating</h3> The primary boat ramp is closed due to low water levels. Launching is available off the dirt road south of the launch ramp. Four-wheel-drive is recommended. <hr /> <h3>Beaches & Coves</h3> Follow the dirt road to the south of the paved launch ramp (which is closed due to low water) to recreate along the water, or launch on the dirt ramp (4wd recommended) and venture out to one of the many secluded coves along the river. <hr /> <h3>Nearby Attractions</h3> Pearce Ferry is about 17 miles upstream from South Cove. Although you can't access it from South Cove by boat, due to intense rapids, you can travel to it by car. It's this point where Lake Mead National Recreation Area borders Grand Canyon National Park.<br /> <br /> Meadview is a small town about 10 miles from South Cove that offers dining, RV parking, lodging and a few stores. <h3> </h3>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.10541676567345,
+          36.0904678949307
+        ]
+      },
+      "properties": {
+        "name": "South Cove Launch Ramp",
+        "notes": "South Cove Launch Ramp\nhttps://www.nps.gov/places/south-cove-launch-ramp.htm\n\n<blockquote> <h3><em>Before your trip to the park, always check the <a href=\"https://www.nps.gov/lake/planyourvisit/conditions.htm\">Alerts & Conditions</a> webpage for the most up to date information on closures.</em></h3> </blockquote> <h2><br /> Operational Status of Launch Ramp: <span style=\"color:#c0392b;\">INOPERABLE</span></h2> <hr />South Cove Launch Ramp is closed to the launching and retrieving of vessels due to low water levels. Nearby launch ramps that are operable that you may consider launching from include: <ul> <li><a href=\"https://www.nps.gov/places/temple-bar-launch-ramp.htm\">Temple Bar Launch Ramp</a></li> </ul> Remember to always wear a life jacket when out on the water!",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.823766844,
+          36.0968689554
+        ]
+      },
+      "properties": {
+        "name": "Sunset View Scenic Overlook",
+        "notes": "Sunset View Scenic Overlook\nhttps://www.nps.gov/places/sunset-view-overlook-lake-mead.htm\n\nAptly named, this overlook is the perfect spot to enjoy the stunning sunsets and sunrises at Lake Mead. Enjoy a panoramic view of the Boulder Basin, the Muddy Mountains and the Callville Mesa.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.32485227,
+          36.0303182899
+        ]
+      },
+      "properties": {
+        "name": "Temple Bar",
+        "notes": "Temple Bar\nhttps://www.nps.gov/places/temple-bar.htm\n\n<h2>Discover Temple Bar</h2> <p>Temple Bar is located in the Temple Basin on the Arizona side of eastern Lake Mead. The area around Temple Bar is especially well known for two things: the massive rock formation that gave the area its name and its 20 mile-long unobstructed water ski runs that have every water sports enthusiast rushing to grab a lifejacket and a rope! Temple Bar Marina has all the fun and amenities that you'd expect from Lake Mead.</p> <hr /> <h3><strong>Boating</strong></h3> <h4>Lake Level Changing: Keep Alert & Launch At Your Own Risk</h4> <ul> <li><strong>Boaters should excercise caution and be watchful of unexpected underwater and exposed water hazards.</strong></li> <li><strong>Hazard buoys do not mark every hazard on the water.</strong></li> <li><strong>Be prepared for longer wait times for launching and recovery</strong></li> <li><strong>Ongoing maintenance/construction at ramps may require temporary closures.</strong></li> </ul> <p>The nearest motorized boating access from Temple Bar is at the Temple Bar launch ramp. Rental boats are located nearby at <a href=\"https://templebarlakemead.com/\">Temple Bar Marina</a>. Water-access fuel is located at the Temple Bar Marina.<br />  </p> <hr /> <h3><strong>Camping</strong></h3> <p>Boulder Beach Campground is open year-round and features large paved sites that can accommodate tents or large RVs, along with tables, fire pits and/or grills. Restrooms and water spigots are located throughout the campsite.<br /> <br /> Temperatures usually surpass 100F (37C) degrees June-August. In May and September, daytime highs are around 90F (32C). October-April, temperatures are much cooler. Lows can dip to freezing temps December-February. The area averages 4 inches of rain each year.<br /> <br /> Lush vegetation provides shade, and many sites have pristine views of the lake. Boulder Beach is about a 15-minute walk from the campground.</p> <h3>NPS Operated Campgrounds</h3> <em>*50% discount with Senior/Access Pass<br /> **RV's may park in any NPS campsite; however, there are no hookups.<br /> ***WiFi in campgrounds is operated by a concessionaire service. Contact them directly with questions at: </em> <table align=\"center\" border=\"2\" cellpadding=\"1\" cellspacing=\"1.5\" style=\"width:959px;\"> <thead> <tr> <th scope=\"col\" style=\"width: 250px; text-align: center; background-color: rgb(51, 102, 51);\"><span style=\"color:#ffffff;\"><strong>Campground</strong></span></th> <th scope=\"col\" style=\"width: 150px; text-align: center; background-color: rgb(51, 102, 51);\"><span style=\"color:#ffffff;\">Reservations</span></th> <th scope=\"col\" style=\"width: 225px; text-align: center; background-color: rgb(51, 102, 51);\"><span style=\"color:#ffffff;\"><strong>Nightly Fee</strong></span></th> <th scope=\"col\" style=\"width: 150px; text-align: center; background-color: rgb(51, 102, 51);\"><span style=\"color:#ffffff;\"><strong>Total # of Sites</strong></span></th> <th scope=\"col\" style=\"width: 75px; text-align: center; background-color: rgb(51, 102, 51);\"><span style=\"color:#ffffff;\"><img src=\"https://raw.githubusercontent.com/nationalparkservice/symbol-library/gh-pages/places-mobile/renders/wheelchair-accessible.png\" title=\"\" /></span></th> <th scope=\"col\" style=\"width: 75px; text-align: center; background-color: rgb(51, 102, 51);\"><span style=\"color:#ffffff;\"><img src=\"https://raw.githubusercontent.com/nationalparkservice/symbol-library/gh-pages/places-mobile/renders/showers.png\" title=\"\" /></span></th> <th scope=\"col\" style=\"width: 75px; text-align: center; background-color: rgb(51, 102, 51);\"><span style=\"color:#ffffff;\"><img src=\"https://npgallery.nps.gov/GetAsset/fe1fac8c-dbfe-43ae-8a22-ce0fcbe33da8/original.png?\" title=\"\" /></span></th> <th scope=\"col\" style=\"width: 75px; text-align: center; background-color: rgb(51, 102, 51);\"><span style=\"color:#ffffff;\"><img src=\"https://npgallery.nps.gov/GetAsset/d161f689-7daf-4c69-9387-464521b12091/original.png?\" title=\"\" /></span></th> <th scope=\"col\" style=\"width: 75px; text-align: center; background-color: rgb(51, 102, 51);\"><span style=\"color:#ffffff;\"><img src=\"https://npgallery.nps.gov/GetAsset/26c2bf83-ef32-43f1-a732-7b5d121c7d7a/original.png?\" title=\"\" /></span></th> </tr> <tr> <td style=\"width: 250px;\"> <p>Temple Bar</p> </td> <td style=\"width: 150px; text-align: center;\"> <p><a href=\"https://www.recreation.gov/camping/campgrounds/10085626\">Reserve a site</a></p> </td> <td style=\"width: 225px; text-align: center;\"> <p>$20</p> </td> <td style=\"width: 150px; text-align: center;\"> <p>71</p> </td> <td style=\"width: 75px; text-align: center;\"> <p><img src=\"https://npgallery.nps.gov/GetAsset/87869ceb-4a3b-41b8-9d32-28a7b06f9c4d/original.png?\" title=\"\" /></p> </td> <td style=\"width: 75px; text-align: center;\"> <p> </p> </td> <td style=\"width: 75px; text-align: center;\"> <p><img src=\"https://npgallery.nps.gov/GetAsset/87869ceb-4a3b-41b8-9d32-28a7b06f9c4d/original.png?\" title=\"\" /></p> </td> <td style=\"width: 75px; text-align: center;\"> <p><img src=\"https://npgallery.nps.gov/GetAsset/87869ceb-4a3b-41b8-9d32-28a7b06f9c4d/original.png?\" title=\"\" /></p> </td> <td style=\"width: 75px; text-align: center;\"> <p><img src=\"https://npgallery.nps.gov/GetAsset/87869ceb-4a3b-41b8-9d32-28a7b06f9c4d/original.png?\" title=\"\" /></p> </td> </tr> </thead> </table> <h3>Concession Operated Campgrounds</h3> <em>*Information is subject to change. For up-to-date info, contact each concessionaire directly via corresponding reservation page.</em> <table align=\"center\" border=\"1\" cellpadding=\"1\" cellspacing=\"1.5\" style=\"width:959px;\"> <thead> <tr> <th scope=\"col\" style=\"width: 250px; text-align: center; background-color: rgb(51, 102, 51);\"><span style=\"color:#ffffff;\"><strong>RV Park</strong></span></th> <th scope=\"col\" style=\"width: 150px; text-align: center; background-color: rgb(51, 102, 51);\"><span style=\"color:#ffffff;\">Reservations</span></th> <th scope=\"col\" style=\"width: 190px; text-align: center; background-color: rgb(51, 102, 51);\"><span style=\"color:#ffffff;\"><strong>Nightly Fee</strong></span></th> <th scope=\"col\" style=\"width: 150px; text-align: center; background-color: rgb(51, 102, 51);\"><span style=\"color:#ffffff;\"><strong>Total # of Sites</strong></span></th> <th scope=\"col\" style=\"width: 75px; text-align: center; background-color: rgb(51, 102, 51);\"><span style=\"color:#ffffff;\"><img src=\"https://raw.githubusercontent.com/nationalparkservice/symbol-library/gh-pages/places-mobile/renders/wheelchair-accessible.png\" title=\"\" /></span></th> <th scope=\"col\" style=\"width: 75px; text-align: center; background-color: rgb(51, 102, 51);\"><span style=\"color:#ffffff;\"><img src=\"https://raw.githubusercontent.com/nationalparkservice/symbol-library/gh-pages/places-mobile/renders/showers.png\" title=\"\" /></span></th> <th scope=\"col\" style=\"width: 75px; text-align: center; background-color: rgb(51, 102, 51);\"><span style=\"color:#ffffff;\"><img src=\"https://npgallery.nps.gov/GetAsset/fe1fac8c-dbfe-43ae-8a22-ce0fcbe33da8/original.png?\" title=\"\" /></span></th> <th scope=\"col\" style=\"width: 75px; text-align: center; background-color: rgb(51, 102, 51);\"><span style=\"color:#ffffff;\"><img src=\"https://npgallery.nps.gov/GetAsset/d161f689-7daf-4c69-9387-464521b12091/original.png?\" title=\"\" /></span></th> <th scope=\"col\" style=\"width: 75px; text-align: center; background-color: rgb(51, 102, 51);\"><span style=\"color:#ffffff;\"><img src=\"https://npgallery.nps.gov/GetAsset/26c2bf83-ef32-43f1-a732-7b5d121c7d7a/original.png?\" title=\"\" /></span></th> </tr> <tr> <td scope=\"col\" style=\"width: 250px;\"> <p>Temple Bar </p> </td> <td scope=\"col\" style=\"width: 150px; text-align: center;\"> <p><a href=\"https://templebarlakemead.com/rv-park-campground/\">Reserve a site</a></p> </td> <td colspan=\"1\" rowspan=\"2\" scope=\"col\" style=\"width: 190px; text-align: center;\"> <p><i>Info on<br /> concessionaire<br /> website </i></p> </td> <td scope=\"col\" style=\"width: 150px; text-align: center;\"> <p><br /> 10</p> </td> <td style=\"width: 75px; text-align: center;\"> <p><img src=\"https://npgallery.nps.gov/GetAsset/87869ceb-4a3b-41b8-9d32-28a7b06f9c4d/original.png?\" title=\"\" /></p> </td> <td style=\"width: 75px; text-align: center;\"> <p><img src=\"https://npgallery.nps.gov/GetAsset/87869ceb-4a3b-41b8-9d32-28a7b06f9c4d/original.png?\" title=\"\" /></p> </td> <td style=\"width: 75px; text-align: center;\"> <p> </p> </td> <td style=\"width: 75px; text-align: center;\"> <p> </p> </td> <td style=\"width: 75px; text-align: center;\"> <p><img src=\"https://npgallery.nps.gov/GetAsset/87869ceb-4a3b-41b8-9d32-28a7b06f9c4d/original.png?\" title=\"\" /></p> </td> </tr> </thead> </table> <table align=\"center\" border=\"1\" cellpadding=\"1\" cellspacing=\"1.5\" style=\"width: 959px;\"> <thead> <tr> <td colspan=\"11\" style=\"background-color: rgb(51, 102, 51); width: 959px;\"> <p><img src=\"https://raw.githubusercontent.com/nationalparkservice/symbol-library/gh-pages/places-mobile/renders/wheelchair-accessible.png\" title=\"\" /><span style=\"color:#ffffff;\">  Accesible sites ——  <img src=\"https://npgallery.nps.gov/GetAsset/fe1fac8c-dbfe-43ae-8a22-ce0fcbe33da8/original.png?\" title=\"\" /> Wifi  ——  <img src=\"https://npgallery.nps.gov/GetAsset/d161f689-7daf-4c69-9387-464521b12091/original.png?\" title=\"\" /> Dump Station<br /> <img src=\"https://npgallery.nps.gov/GetAsset/26c2bf83-ef32-43f1-a732-7b5d121c7d7a/original.png?\" title=\"\" />  Pets allowed on leash   ——  <img src=\"https://raw.githubusercontent.com/nationalparkservice/symbol-library/gh-pages/places-mobile/renders/showers.png\" title=\"\" />  Pay showers  ——   <img src=\"https://raw.githubusercontent.com/nationalparkservice/symbol-library/gh-pages/places-mobile/renders/dot.png\" title=\"\" />  Included at site</span><br />  </p> </td> </tr> </thead> </table>    <hr /> <h3><strong>Hiking</strong></h3> <p>Hike through the desert along the Temple View Trail to observe the crystal blue waters of Lake Mead and the natural \"temple\" that changes colors throughout the day.</p> <hr /> <h3> </h3> <p><br />  </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.31948852539062,
+          36.038536071777344
+        ]
+      },
+      "properties": {
+        "name": "Temple Bar Launch Ramp",
+        "notes": "Temple Bar Launch Ramp\nhttps://www.nps.gov/places/temple-bar-launch-ramp.htm\n\n<blockquote> <h3><em>Before your trip to the park, always check the <a href=\"https://www.nps.gov/lake/planyourvisit/conditions.htm\">Alerts & Conditions</a> webpage for the most up to date information on closures.</em></h3> </blockquote> <h2><br /> Operational Status of Launch Ramp: <span style=\"color:#27ae60;\">OPERABLE </span></h2> <hr />  <h3>Renting a Boat</h3> <ul> <li>Boats can be rented through the concessionaire at Temple Bar.</li> <li><a href=\"https://www.templebarmarina.com/rentals/\">Please visit their website for rental information and bookings. </a></li> </ul> <h3>Boating Safety</h3> <ul> <li>Life jackets save lives.</li> <li>Each person on board a personal watercraft, or anyone being towed behind a vessel, must wear a life jacket.</li> <li>All boaters must know and follow applicable state & federal boating requirements. This inclides carrying all required equipment on your vessel.</li> <li>Children under 13 years old must wear a life jacket whenever underway in a vessel, unless they are in a fully enclosed area.</li> </ul> <h3>Launch Ramp Safety</h3> <ul> <li>Launching is at your own risk.</li> <li>Be prepared for longer wait times for launching and recovery.</li> <li>Always check your surrondings before launching.</li> </ul> <h3>Lake Levels</h3> <ul> <li>Lake levels, <strong>managed by the Bureau of Reclamation</strong>, change regularly.</li> <li>Always approach the shore with caution and watch for shallows and submerged debris.</li> <li><a href=\"https://www.usbr.gov/lc/region/g4000/riverops/hourly7.html#t0\">Track the most recent water levels for Lake Mead.</a></li> </ul> <h3>Weather</h3> <ul> <li>Plan ahead by <a href=\"https://www.nps.gov/lake/planyourvisit/weather.htm\">checking the weather.</a></li> <li>Be prepared in case weather changes.</li> </ul>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.66025336,
+          35.8699426399
+        ]
+      },
+      "properties": {
+        "name": "Willow Beach",
+        "notes": "Willow Beach\nhttps://www.nps.gov/places/willow-beach.htm\n\n<h2>Discover Willow Beach</h2> Surrounded by steep canyon walls along the Colorado River, Willow Beach is a paddlecrafter's dream destination. Many visitors choose to take a guided raft or kayak trip from the base of the Hoover Dam to Willow Beach, stopping at coves, hot springs and waterfalls along the way. Others drive straight to Willow Beach where you can rent boats or paddlecraft and fish from the accessible pier.<br /> <br /> <span style=\"color: rgb(34, 34, 34); font-family: Georgia, Times, \"Times New Roman\", serif; font-size: 1.5625rem; letter-spacing: -0.25px; text-align: var(--bs-body-text-align);\">Boating</span><br /> Willow Beach offers a range of boating services; including a <a href=\"https://www.nps.gov/lake/planyourvisit/boating.htm\">launch ramp</a>, fuel on land and water, along with a variety of <a href=\"https://www.willowbeachharbor.com/watercraft-rates\">boat and equipment rental options</a>, including <a href=\"https://www.willowbeachharbor.com/paddlecraft-rentals\">paddlecraft</a>. Boat slip rentals and dry storage are also available.<br /> <br /> <font color=\"#222222\" face=\"Georgia, Times, Times New Roman, serif\"><span style=\"font-size: 25px; letter-spacing: -0.25px;\">Where to Stay</span></font><br /> Looking to spend the night? Willow Beach has an <a href=\"https://www.willowbeachharbor.com/willow-beach-campground-and-rv-park\">RV Park and Campground</a> with 28 full-service (water, sewer, electric) RV sites and nine tent sites. All sites have fire rings, picnic tables and 24-hour shower and laundry access. You can also camp in the <a href=\"https://www.nps.gov/lake/planyourvisit/backcountry.htm\">backcountry</a> as you kayak up and down the river. <h3>Resteraunts and Picknicking</h3> You may choose to dine while viewing the water at the Willow Beach Grill, or the on-site <a href=\"https://www.willowbeachharbor.com/marina-and-camp-store\">store </a>sells a variety of snacks, drinks and charcoal. <a href=\"https://www.nps.gov/lake/planyourvisit/picnicking.htm\">Picnic</a><a href=\"https://www.nps.gov/lake/planyourvisit/picnicking-old.htm\"> </a>tables and grills are available throughout the area. <h3>Hiking</h3> While there aren't any hiking trails at Willow Beach, you can hop in a canoe or kayak and paddle up river to access the <a href=\"https://www.nps.gov/lake/planyourvisit/hiking.htm\">Arizona Hot Springs</a>. This trail is located in a dramatic slot canyon that joins the river just downstream of Ringbolt Rapid. <h3>Fishing</h3> <a href=\"https://www.nps.gov/lake/planyourvisit/fishing.htm\">Fishing</a> is a year-round activity in Lake Mohave; each season bringing its own exciting opportunities. For those without a boat, there is an accessible fishing pier, and many enjoy fishing right from the shore. Fishing equipment, bait and supplies are available at the marina store. A convenient fish cleaning station is located east of the marina parking lot.<br /> <br /> The U.S. Fish and Wildlife Service <a href=\"https://www.fws.gov/southwest/fisheries/willow_beach/index.html\">Willow Beach Fish Hatchery</a> is located north of the marina near the fishing pier. They routinely release rainbow trout on Fridays. You can also tour their facility. <h3>Beaches and Coves</h3> The riverfront along Willow Beach Harbor includes a mixture of sandy and smooth rocky beaches with a few picnic tables and grills. If you travel by water north or south along the river, you will encounter many coves. Some offer special wonders of nature, including an emerald cave, hot springs and waterfalls.  <h3>History</h3> <p>From artifacts found along the Colorado River, Willow Beach might have been a prehistoric trading center. The Basketmaker Indians from Lost City started camping at Willow Beach around 250 B.C. In more modern times, Willow Beach became a well-known fishing camp on the Colorado River, and once Davis Dam was built, creating Lake Mohave, more amenities were added like pictured here in 1954.<br /> <br />  </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.660735,
+          35.870258
+        ]
+      },
+      "properties": {
+        "name": "Willow Beach Harbor Marina",
+        "notes": "Willow Beach Harbor Marina\nhttps://www.nps.gov/places/willow-beach-harbor-marina.htm\n\nHead out for a trip to Willow Beach Marina & Campground for fun on the water! Located in the Black Canyon region of the Colorado River, Willow Beach has 235 miles of shoreline to explore with some of the most unique scenery and wildlife to see.<br /> <br /> As a part of the Lake Mead National Recreation Area in Arizona, we have boating rentals available to complete your trip including canoes, powerboats and other watercraft to enjoy a day out on the water. Campgrounds and RV spaces are also available to extend your stay as well as marina services including a lakeside convenience store, gift shop and restaurant.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.660673596,
+          35.8696807448
+        ]
+      },
+      "properties": {
+        "name": "Willow Beach Launch Ramp",
+        "notes": "Willow Beach Launch Ramp\nhttps://www.nps.gov/places/willow-beach-launch-ramp.htm\n\n<blockquote> <h3><em>Before your trip to the park, always check the <a href=\"https://www.nps.gov/lake/planyourvisit/conditions.htm\">Alerts & Conditions</a> webpage for the most up to date information on closures.</em></h3> </blockquote> <h2><br /> Operational Status of Launch Ramp: <span style=\"color:#27ae60;\">OPERABLE </span></h2> <hr />  <h3>Renting a Boat</h3> <ul> <li>Boats can be rented through the concessionaire at Willow Beach.</li> <li><a href=\"https://willowbeachharbor.com/boat-rentals/\">Please visit their website for rental information and bookings. </a></li> </ul> <h3>Boating Safety</h3> <ul> <li>Life jackets save lives.</li> <li>Each person on board a personal watercraft, or anyone being towed behind a vessel, must wear a life jacket.</li> <li>All boaters must know and follow applicable state & federal boating requirements. This inclides carrying all required equipment on your vessel.</li> <li>Children under 13 years old must wear a life jacket whenever underway in a vessel, unless they are in a fully enclosed area.</li> </ul> <h3>Launch Ramp Safety</h3> <ul> <li>Launching is at your own risk.</li> <li>Be prepared for longer wait times for launching and recovery.</li> <li>Always check your surrondings before launching.</li> </ul> <h3>Lake Levels</h3> <ul> <li>Lake levels, <strong>managed by the Bureau of Reclamation</strong>, change regularly.</li> <li>Always approach the shore with caution and watch for shallows and submerged debris.</li> <li><a href=\"https://www.usbr.gov/lc/region/g4000/riverops/hourly7.html#t0\">Track the most recent water levels for Lake Mead.</a></li> </ul> <h3>Weather</h3> <ul> <li>Plan ahead by <a href=\"https://www.nps.gov/lake/planyourvisit/weather.htm\">checking the weather.</a></li> <li>Be prepared in case weather changes.</li> </ul>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.658346853,
+          35.870500381
+        ]
+      },
+      "properties": {
+        "name": "Willow Beach Overlook",
+        "notes": "Willow Beach Overlook\nhttps://www.nps.gov/places/willow-beach-overlook.htm\n\nThis overlook, located right on Highway 93, offers panoramic views of Black Canyon and the Colorado River. Over vast amounts of time, the Colorado River has carved its way through the rocks exposed in the Black Canyon. These ancient rock walls are made of volcanic lava. Geologist estimate the lava erupted between 15 and 20 million years ago.<br /> <br /> From this overlook you can see Willow Beach in the Lake Mohave portion of the Colorado River. This iconic river established its present course about five million years ago. Carving its way downstream, the water erodes thick beds of sedimentary rock, sand and gravel while leaving the harder volcanic rock behind. The river follows a relatively gentle grade from the Grand Wash cliffs at the east end of Lake Mead to the Gulf of California in Mexico.",
+        "icon": "red-pin-down.png"
+      }
+    }
+  ]
+}

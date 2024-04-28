@@ -1,0 +1,110 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.18888854980469,
+          36.30924987792969
+        ]
+      },
+      "properties": {
+        "name": "Aliante Parkway Kiosk",
+        "notes": "Aliante Parkway Kiosk\nhttps://www.nps.gov/places/aliante-parkway-kiosk.htm\n\nThis interpretive kiosk is located at N. Aliante Pkwy & W. Moonlight Falls Ave. The kiosk describes the history of scientific research at Tule Springs, safety tips, park regulations, and a map of the monument.  This area features relatively flat terrain, creosote desert scrub habitat, and views of the Las Vegas and Sheep ranges.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.18900299072266,
+          36.3091926574707
+        ]
+      },
+      "properties": {
+        "name": "Aliante Parkway Parking Lot",
+        "notes": "Aliante Parkway Parking Lot\nhttps://www.nps.gov/places/aliante-parkway-parking-lot.htm\n\nThe park is new, therefore there are no facilities or designated trails yet. Park at the City of North Las Vegas' graded dirt parking lot. From the parking lot, view the interpretive kiosk describing the history of scientific research at Tule Springs, safety tips, park regulations, and a map of the monument. Enter the park from here by foot for a self-directed hike across the relatively flat terrain, creosote desert scrub habitat, and views of the Las Vegas and Sheep ranges.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.42288970947266,
+          36.4259147644043
+        ]
+      },
+      "properties": {
+        "name": "Corn Creek Road Kiosk",
+        "notes": "Corn Creek Road Kiosk\nhttps://www.nps.gov/places/corn-creek-road-kiosk.htm\n\nThis interpretive kiosk is located approximately 2 miles east of the US 95 highway and Corn Creek Road and describes the natural history of the Tule Springs area during the Late Pleistocene Ice Age, safety tips, park regulations, and a map of the monument. This area features flat terrain with creosote desert scrub habitat and scenic views of the Sheep and Spring Mountain ranges.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.42288970947266,
+          36.425777435302734
+        ]
+      },
+      "properties": {
+        "name": "Corn Creek Road Parking Area",
+        "notes": "Corn Creek Road Parking Area\nhttps://www.nps.gov/places/corn-creek-road-parking-area.htm\n\nThe park is new, and therefore there are no facilities or designated trails yet. Park at the graded dirt pull-off area on the south side of Corn Creek Road to view the interpretive kiosk  and describes the natural history of the Tule Springs area during the Late Pleistocene Ice Age, geology, safety tips, park regulations, and locate yourself on the map. Enter the park from here by foot for a self-directed hike across the flat desert creosote-scrub landscape. Alternatively, continue to drive east on Corn Creek Road to visit the U.S. Fish & Wildlife Service's Corn Creek Visitor Center to view a present-day example of what the wetter Late Pleistocene environment would have looked like at Tule Springs.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.27894592285156,
+          36.336082458496094
+        ]
+      },
+      "properties": {
+        "name": "Durango/Moccasin Kiosk",
+        "notes": "Durango/Moccasin Kiosk\nhttps://www.nps.gov/places/durango-moccasin-kiosk.htm\n\nThis interpretive kiosk is located at  N. Durango Dr. & W. Moccasin Road. The kiosk describes the hydrology, climate and changing habitats of Tule Springs, safety tips, park regulations, and a map of the monument.  This area features badlands terrain and scenic views of the Sheep, Las Vegas, and Spring Mountain ranges.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.27972412109375,
+          36.33586120605469
+        ]
+      },
+      "properties": {
+        "name": "Durango/Moccasin Parking Lot",
+        "notes": "Durango/Moccasin Parking Lot\nhttps://www.nps.gov/places/durango-moccasin-parking-lot.htm\n\nThe park is new, and therefore there are no facilities or designated trails yet.  Park at the City of Las Vegas' paved asphalt parking lot at the end of N. Durango Dr. & W. Moccasin Road to view the Durango/Moccasin interpretive kiosk describing the hydrology, climate and changing habitats of Tule Springs, safety tips, park regulations, and a map of the monument.  This area features badlands terrain and scenic views of the Sheep, Las Vegas, and Spring Mountain ranges. Enter the park from here by foot for a self-directed hike across this unique terrain.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.16864013671875,
+          36.30588912963867
+        ]
+      },
+      "properties": {
+        "name": "Eglington Preserve Kiosk",
+        "notes": "Eglington Preserve Kiosk\nhttps://www.nps.gov/places/eglington-preserve-kiosk.htm\n\nThis interpretive kiosk is located along an unpaved section of Grand Teton Rd. at the entrance to the Eglington Preserve, where you can view native and rare plants such as the Las Vegas bearpoppy and various types of wildlife. The kiosk features information on the native and rare plants within Tule Springs, safety tips, park regulations, and a map of the monument. ",
+        "icon": "red-pin-down.png"
+      }
+    }
+  ]
+}

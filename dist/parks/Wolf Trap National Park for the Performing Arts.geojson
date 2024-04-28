@@ -1,0 +1,455 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.264344,
+          38.938524
+        ]
+      },
+      "properties": {
+        "name": "Associates Deck",
+        "notes": "Associates Deck\nhttps://www.nps.gov/places/000/wolf-trap-associates-deck.htm\n\n<p>The Associates Pavilion is a site of special events during the summer and can be rented through the park's non-profit partner, <a href=\"http://www.wolftrap.org\">Wolf Trap Foundation</a>.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.2658249725,
+          38.9368390877
+        ]
+      },
+      "properties": {
+        "name": "Box office",
+        "notes": "Box office\nhttps://www.nps.gov/places/000/wolf-trap-box-office.htm\n\n<p>Ticket sales and services for performances in the park are the responsibility of the park's non-profit partner, Wolf Trap Foundation for the Performing Arts. The <a href=\"https://www.wolftrap.org/about/ticket-information/box-office.aspx\">Filene Center Box Office</a> is traditionally open March through September.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.266182,
+          38.937567
+        ]
+      },
+      "properties": {
+        "name": "Bus stop",
+        "notes": "Bus stop\nhttps://www.nps.gov/places/000/wolf-trap-bus-stop.htm\n\n<p>Fairfax Connector provides service to most Filene Center shows from the Metro. <strong>Bus service is not available for performances at The Barns at Wolf Trap, Children's Theatre-in-the-Woods, Summer Blast Off, or the Holiday Sing-A-Long at the Filene Center.</strong> <a href=\"https://www.fairfaxcounty.gov/connector/sites/connector/files/assets/documents/pdf/route%20pdfs/rt_480_wolftrap2nd%20page%20x.pdf\">Wolf Trap Express</a> details are available on Fairfax Connector website.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.265281,
+          38.937585
+        ]
+      },
+      "properties": {
+        "name": "Bust of Catherine Filene Shouse",
+        "notes": "Bust of Catherine Filene Shouse\nhttps://www.nps.gov/places/000/bust-of-catherine-filene-shouse.htm\n\n<p>When you listen to the music, walk the trails, and enjoy the atmosphere of Wolf Trap National Park for the Performing Arts, take a moment to appreciate Mrs. Catherine Filene Shouse, for her generous philanthropic gift that helped create the park.<br /> <br /> Inscriptions<br /> CATHERINE FILENE SHOUSE<br /> FOUNDER<br /> WOLF TRAP FARM PARK<br /> Presented by her friends<br /> 1974<br /> Sculptor Elaine Pear Cohen</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.263412,
+          38.934909
+        ]
+      },
+      "properties": {
+        "name": "Composers Cottage Site",
+        "notes": "Composers Cottage Site\nhttps://www.nps.gov/places/000/composers-cottage-site.htm\n\n<p>A Composers Cottage was built south-east of the Filene Center. The Cottage was envisioned by Mrs. Shouse to be a place where artists could create music and other performing arts as they spent time being immersed and inspired by their surroundings. However, the Cottage was lost to a fire in 1979 and was never rebuilt.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.265388,
+          38.938119
+        ]
+      },
+      "properties": {
+        "name": "Demonstration Garden",
+        "notes": "Demonstration Garden\nhttps://www.nps.gov/places/000/wolf-trap-demonstration-garden.htm\n\n<p>This small plot gets us back to our roots when Mrs. Shouse had a small kitchen garden and shows how anyone with a little bit of land, watering and care can have their own locally grown food. Wolf Trap supports environmentally sound and local gardening practices.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.265572,
+          38.937584
+        ]
+      },
+      "properties": {
+        "name": "Encore Circle Lounge",
+        "notes": "Encore Circle Lounge\nhttps://www.nps.gov/places/000/encore-circle-lounge.htm\n\n<p>The Encore Circle Lounge is a members only facility operated by the park's non-profit partner, the Wolf Trap Foundation for the Performing Arts. This is where members and special guests can relax and enjoy refreshments before and after Filene Center performances.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.265061,
+          38.937248
+        ]
+      },
+      "properties": {
+        "name": "Farmhouse Bell",
+        "notes": "Farmhouse Bell\nhttps://www.nps.gov/places/000/farmhouse-bell.htm\n\n<p>The Farmhouse bell is rung before the show and at the end of intermissions to alert visitors that the show is about to start. This farm bell was hand forged in 1860 and was a gift to the park in 1971 by Mr. and Mrs. Francis Greene of Warrenton, VA.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.264445176,
+          38.936429219
+        ]
+      },
+      "properties": {
+        "name": "Filene Center",
+        "notes": "Filene Center\nhttps://www.nps.gov/places/000/filene-center.htm\n\n<p>The Filene Center is the primary performance venue at Wolf Trap National Park for the Performing Arts. This iconic, open-air amphitheater theater includes the covered seating area which can accommodate up to 3,868 persons. The original Filene Center opened in 1971, but was destroyed by a fire in 1982. This structure re-opened for the 1984 performance season.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.266249,
+          38.937165
+        ]
+      },
+      "properties": {
+        "name": "Filene Center Loop picnic area",
+        "notes": "Filene Center Loop picnic area\nhttps://www.nps.gov/places/000/filene-center-loop-picnic-area.htm\n\n<p>In 2012, park staff converted the maintained grass turf (approximately one acre) at the \"dimple\" near the Filene Center's main gate into a garden meadow of native plants. The main goal of the project was to \"demonstrate that Wolf Trap National Park for the Performing Arts is serious about natural resource management and was willing to take bold steps to show that it was prepared to be a leader in the community as well as the National Park Service.\" This meadow of native plants creates habitat for insects, birds and other animals; reduces stormwater runoff; reduces our carbon footprint as a no mow zone; provides educational opportunities for visitors; serves as a model for use of sustainable landscape techniques; it enhances the visitor experience and natural beauty of the park; and it helps maintain the pastoral setting that Mrs. Shouse envisioned.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.264481,
+          38.936117
+        ]
+      },
+      "properties": {
+        "name": "Filene Center: Stage door",
+        "notes": "Filene Center: Stage door\nhttps://www.nps.gov/places/000/filene-center-stage-door.htm\n\n<p>This is the main entrance to the Filene Center and is for authorized personnel only. It is also the starting point for backstage tours, which are offered in the off-season.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.262859,
+          38.940867
+        ]
+      },
+      "properties": {
+        "name": "Information Panel: From Farm to Theater",
+        "notes": "Information Panel: From Farm to Theater\nhttps://www.nps.gov/places/000/information-panel-from-farm-to-theater.htm\n\nFrom Farm to Theater<br /> <br /> \"Innumerable people would come out, walk through the woods, pick the laurel, enjoy Wolf Trap. I wanted it shared by many people...when I wasn't around to enjoy it myself.\" - Catherine Filene Shouse, 1994<br /> <br /> This pond is a reminder of the farming culture that dominated lands from the 17th to 20th century, prior to the Park's creation. In the 1930s, Mrs. Catherine Filene Shouse purchased the 53-acre plot known as \"Wolf Trap Farm,\" which grew to become a 168-acre country retreat. Encroaching roads and suburban development inspired Mrs. Shouse to gift her property to the American people in 1964. It became the first and only National Park devoted to the performing arts - a natural enclave for visitors to find spiritual nourishment in theater, music, and the peacefulness of nature.<br /> Today, after centuries of cultivation, native flora and fauna are repopulating the Park. This pond was once a livestock pond, used by cows to cool off during the hot summers. Now, it is teeming with dozens of amphibians, reptiles, and insects.<br /> <br /> Mind your manners - Snake Etiquette<br /> Snakes can be spotted basking on rocks in the humid, forested habitats of the park. They are not aggressive but will defend themselves if they feel threatened. The venomous northern copperhead crossbands that camouflage well in the leafy litter. To avoid disturbing our slithery friends, make sure to watch where you step while hiking. <br /> <br /> Want to learn more about the natural world found here at Wolf Trap National Park for the Performing Arts? Continue along the Wolf Trap Trail to discover the park's wetland, pond, and meadow ecosystems and the plants and animals that call these places home.<br />  ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.266152,
+          38.941366
+        ]
+      },
+      "properties": {
+        "name": "Information Panel: Monsters in the Marsh",
+        "notes": "Information Panel: Monsters in the Marsh\nhttps://www.nps.gov/places/000/information-panel-monsters-in-the-marsh.htm\n\nMonsters in the Marsh<br /> <br /> The Importance of Wetlands<br /> Until recently, wetlands were considered to be disease-infested, mucky, dangerous places, filled wiht monsters like Shrek or Beowulf's Grendel. These misconceptions helped justify the destruction of over half the wetlands of the the United States. After decades of scientific research, we now know that wetlands play an important role in water purification, flood control, and shoreline stabilization. <br /> <br /> \"Wetland\" describes any ecosystem in which water saturates the soil for part of the year. The wetlands here in the park are wet meadows. Often found in poorly drained areas such as shallow lake basins and low-lying farmlands, wet meadows collect runoff during periods of high rainfall and help reduce river bank erosion. They also provide important refuge to insects, act as corridors to allow species to travel between larger parks, and serve as outdoor classrooms to educate the public about the importance of wetlands. <br /> <br /> The Veritable Villains<br /> The real monsters of the wetlands have no feet, teeth, or claws: they are invasive plants! Invasive plants compromise wetland health by monopolizing scare soil nutrients and crowding out native species. One of the park's most dangerous invasives is Japanese Stiltgrass, picture above. The fluorescent-green grass quietly blankets the ground, but don't be deceived! a single plant is capable of producing 1000 seeds and spreads like a disease.<br /> <br /> Want to learn more about the natural world found here at Wolf Trap National Park for the Performing Arts? Continue along the Wolf Trap Trail to discover the park's wetland, pond, and meadow ecosystems and the plants and animals that call these places home.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.26292999999998,
+          38.938104
+        ]
+      },
+      "properties": {
+        "name": "Information Panel: The Forests of Wolf Trap",
+        "notes": "Information Panel: The Forests of Wolf Trap\nhttps://www.nps.gov/places/000/information-panel-the-forests-of-wolf-trap.htm\n\nThe Forest of Wolf Trap<br /> <br /> In the early 1960's Catherine Filene Shouse began seeking a way to preserve her farmland. Congress accepted her farm as a donation to the National Park Service in 1966 and created Wolf Trap Farm Park for the Performing Arts. Nestled within a large expanding metropolitan area, this protected woodland forest plays a role in protecting our environment.<br /> <br /> Forest protect water quality by slowing rain runoff, reducing erosion, absorbing nutrients and shading steams to reduce water temperature. Forest also improve air quality by removing harmful air-borne particles and transforming gases like carbon dioxide into breathable oxygen. Forest provide natural habitat for birds and animals. Habitat is where wild animals and birds live and seek shelter and food.<br /> <br /> Protected woodlands enhance our quality of life, creating an oasis within our urban environment. To appreciate the value of quiet open spaces and the forest, take time to walk along this path. The temperature near the water is cooler, the sounds of the water mingle with bird songs and the rustle of animals. Signs along the path will identify some of the trees of the Wolf Trap forest.<br /> <br />  ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.266031,
+          38.93672
+        ]
+      },
+      "properties": {
+        "name": "Information Panel: Tune in to Nature's Rhythms / Sintonicese al ritmo de la naturaleza",
+        "notes": "Information Panel: Tune in to Nature's Rhythms / Sintonicese al ritmo de la naturaleza\nhttps://www.nps.gov/places/000/information-panel-tune-in-to-natures-rhythms-sintonicese-al-ritmo-de-la-naturaleza.htm\n\nInformation Panel: Tune in to Nature's Rhythms / Sintonicese al ritmo de la naturaleza<br /> <br /> Tune in to Nature's Rhythms.<br /> Did you come to Wolf Trap for a show? Don't miss nature's show in the garden! Native plants attract pollinators - bees, butterflies, and hummingbirds - that carry pollen from flower to flower, fertilizing plants to reproduce.<br /> Nature's cues coordinate seasonal timings of life-cycle events like insects hatching and flowers blooming. Rising temperatures could put the timings of flowerings and pollinators out of sync.<br /> Take photos on the nearby picture post to help us monitor impacts of climate change.<br /> <br /> Long-term Resilience<br /> Plants with long blooming times, like mountain mint (below), can help pollinators adapt to climate change. Because it flowers through late summer, pollinators can still eat mountain mint nectar even as nature's timing cues shift.<br /> <br /> Short Windows for PollinationPlants that bloom only briefly, like spring beauty (below), are vulnerable to climate change. Bees and bee flies have only a week to pollinate its flowers. As warming temperatures cause earlier flowering, will pollinators emerge in time to fertilize spring flowers?<br /> <br /> See how one citizen scientist uses photography to help science. Scan the code or visit go.nps.gov/cycle6<br /> <br /> <br /> Sintonícese al ritmo de la naturaleza<br /> ¿Vino aquí para disfrutar un show? ¡No se pierda el show de la naturaleza en el jardín! Las plantas nativas atraen a polinizadores, como abejas, mariposas y colibríes que llevan el polen de flor en flor, fertilizando las plantas para reproducirse.<br /> Las señales de la naturaleza coordinan los ritmos estacionales de los eventos de los ciclo de vida como la salida del cascarón de los insectos y el florecimiento. El aumento de las temperatura puede ‘desincronizar’ el ritmo de los polinizadores y de floracimiento.Tome fotos usando el ‘foto-poste’ cercano para ayudarnos a monitorear el impacto de los cambios climáticos. <br /> <br /> Resiliencia a largo plazo<br /> Las plantas con un largo period de floracimiento, como la menta Pycnanthemum muticum (abajo), pueden ayudar a que los polinizadores se adapten al cambio climático. Debido a que florece a finales del verano, los polinizadores todavía pueden están a tiempo de alimentarse del néctar de estas mentas, incluso cuando la naturaleza muestra señales de cambio.<br /> <br /> Breve espacio de polinización<br /> Las plantas con un corto period de florecimiento, como la hierba Claytonia virginica (abajo), son vulnerables al cambio climático. Las abejas y bombílidos solamente tienen una semana para polinizar sus flores. Cuando el aumento de temperatra provaoca un florecimiento premature, ¿llegarán los polinizadores a tiempo para fertilizar esta flor?<br /> <br /> Vea como un científico ciudadano utiliza la fotografía para ayudar a la ciencia. Escanee el Código o visite la página web go.nps.gov/cycle6",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.263237238476,
+          38.9379190324808
+        ]
+      },
+      "properties": {
+        "name": "Information Panel: Wolf Trap Run",
+        "notes": "Information Panel: Wolf Trap Run\nhttps://www.nps.gov/places/wolf-trap-run.htm\n\n<h1>Information Panel: Wolf Trap Run</h1>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.266365,
+          38.937414
+        ]
+      },
+      "properties": {
+        "name": "Information Panel: You Missed a Spot!",
+        "notes": "Information Panel: You Missed a Spot!\nhttps://www.nps.gov/places/000/information-panel-you-missed-a-spot.htm\n\n<p>You Missed A Spot!<br /> <br /> If you glance at the photos below or think back to your previous visits to Wolf Trap National Park for the Performing Arts, you may notice changes to some of the park lawns. To promote greater plant and animal diversity, this meadow and other specified areas have been designated as \"no-mow\" zones. In 2012, park staff and volunteers planted 42 species of native grasses and wildflowers here to create a habitat that now supports over 40 kinds of bees and 25 types of butterflies. Look, smell, and listen to discover the spritely birds, fragrant flowers, and buzzing pollinators of the meadow.<br /> <br /> Common milkweed is a native meadow plant that provides food and shelter to many animals. So many, in fact, that one might consider it an ecosystem in and of itself. Honeybees and hummingbirds feed on the nectar and polen, monarch butterfly caterpillars munch on the succulent leaves, and white-footed mice collect the silk to build nests. Do your part to protect the milkweed by staying on the designated paths and keeping your dog on a leash.<br /> <br /> Want to learn more about the natural world found here at Wolf Trap National Park for the Performing Arts? Continue along the Wolf Trap Trail to discover the park's wetland, pond, and meadow ecosystems and the plants and animals that call these places home.<br /> <br /> <a href=\"https://www.nps.gov/wotr/learn/landscaperestoration.htm\">Learn more about the Native Meadow Project.</a></p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.267919,
+          38.939092
+        ]
+      },
+      "properties": {
+        "name": "Information panel: Wolf Trap National Park for the Performing Arts",
+        "notes": "Information panel: Wolf Trap National Park for the Performing Arts\nhttps://www.nps.gov/places/000/information-panel-wolf-trap-national-park-for-the-performing-arts.htm\n\n<p>While Wolf Trap National Park for the Performing Arts is primarily known for its live performances during the summer, the park is open to the public year-round. Backstage tours and other interpretive programs are offered throughout the off-season. The park is an excellent location for picnicking and quiet reflection, as well as hiking on over 3 miles of scenic hiking trails.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.26345197420501,
+          38.93832558513164
+        ]
+      },
+      "properties": {
+        "name": "Meadow Pavilion",
+        "notes": "Meadow Pavilion\nhttps://www.nps.gov/places/000/wolf-trap-meadow-pavilion.htm\n\n<p>The Meadow Pavilion is the site of special events during the summer and can be rented through the park's non-profit partner, <a href=\"http://www.wolftrap.org\">Wolf Trap Foundation</a>.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.265118,
+          38.938195
+        ]
+      },
+      "properties": {
+        "name": "Ovations Restaurant",
+        "notes": "Ovations Restaurant\nhttps://www.nps.gov/places/000/wolf-trap-ovations-restaurant.htm\n\n<p>The Ovations Restaurant offers picnics and dinner reservations starting 2.5 hours prior to Filene Center performances. Ovations Restaurant is only open on Filene Center performance nights.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.265175,
+          38.937332
+        ]
+      },
+      "properties": {
+        "name": "Park Headquarters / Old Farm House",
+        "notes": "Park Headquarters / Old Farm House\nhttps://www.nps.gov/places/000/wolf-trap-park-headquarters-old-farm-house.htm\n\n<p>Before it became the only National Park for the Performing Arts, this area was once known as Wolf Trap Farm. The farm and land were purchased by Catherine Filene Shouse in 1930. Catherine and her husband Jouet made this into their family's country home, retreat, and a working farm and it now serves as the administrative headquarters for park staff.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.267704,
+          38.9391
+        ]
+      },
+      "properties": {
+        "name": "Pedestrian Tunnel",
+        "notes": "Pedestrian Tunnel\nhttps://www.nps.gov/places/000/wolf-trap-pedestrian-tunnel.htm\n\n<p>This tunnel serves as the safest way to get from one side of Trap Road to the other. West Lot serves rideshare and taxi dropoff and pickups for Filene Center performances.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.2635680437088,
+          38.936888394826
+        ]
+      },
+      "properties": {
+        "name": "Picnic Area & Restroom",
+        "notes": "Picnic Area & Restroom\nhttps://www.nps.gov/places/000/wolf-trap-picnic-tables-restroom.htm\n\nPicnic tables are throughout the Meadow and are available on a first come first served basis. The Meadow Restroom is open seasonally.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.265482,
+          38.937868
+        ]
+      },
+      "properties": {
+        "name": "Picnic Area - near Barn",
+        "notes": "Picnic Area - near Barn\nhttps://www.nps.gov/places/000/wolf-trap-picnic-tables-1.htm\n\n<p>Picnic tables are available on a first-come, first-served basis and are available throughout the park, and most tables are located in partly-shaded areas.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.264741,
+          38.938564
+        ]
+      },
+      "properties": {
+        "name": "Terrace Deck",
+        "notes": "Terrace Deck\nhttps://www.nps.gov/places/000/wolf-trap-terrace-deck.htm\n\n<p>The Terrace Deck is a site of special events during the summer and can be rented through the park's non-profit partner, <a href=\"http://www.wolftrap.org/\">Wolf Trap Foundation</a>.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.262072,
+          38.938999
+        ]
+      },
+      "properties": {
+        "name": "Theatre-in-the-Woods",
+        "notes": "Theatre-in-the-Woods\nhttps://www.nps.gov/places/000/wolf-trap-theatre-in-the-woods.htm\n\n<p>Tucked in the woods at Wolf Trap National Park for the Performing Arts is Theatre-in-the-Woods, which has been a summer tradition for generations of children and families. Performances run from late June to early August and range from music and dance to storytelling and puppetry.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.2633641,
+          38.9377781
+        ]
+      },
+      "properties": {
+        "name": "Theatre-in-the-Woods Box Office",
+        "notes": "Theatre-in-the-Woods Box Office\nhttps://www.nps.gov/places/000/wolf-trap-theatre-in-the-woods-box-office.htm\n\n<p>The Meadow Kiosk serves as the Theatre-in-the-Woods Box Office and information area during shows late June to early August. It is also the starting point for summer Junior Ranger Days and is next to the trailhead for the Track Trail.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.263075,
+          38.937971
+        ]
+      },
+      "properties": {
+        "name": "Wolf Trap Run",
+        "notes": "Wolf Trap Run\nhttps://www.nps.gov/places/000/wolf-trap-run.htm\n\n<p>In 1739 \"Wolf Trap\" appeared on an official survey as a branch of Difficult Run. Wolves were trapped in this area of Virginia during the early colonial period in an effort to eradicate the animals that were threatening livestock. Wolves are no longer found in northern Virginia. When Mrs. Shouse bought the farm, she adopted the creek's name for her entire property.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.263625,
+          38.937003
+        ]
+      },
+      "properties": {
+        "name": "Woodland Garden",
+        "notes": "Woodland Garden\nhttps://www.nps.gov/places/000/wolf-trap-woodland-garden.htm\n\n<p>The Woodland Shade Garden is a demonstration of a garden landscape using a variety of plants native to the area. Like the Dimple Native Meadow Garden, this garden also supports a diversity of insects, birds and other animals. Park staff are supported in the maintenance of the garden by many volunteer Master Gardeners.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.263724,
+          38.937159
+        ]
+      },
+      "properties": {
+        "name": "Woodland Garden Picture Post",
+        "notes": "Woodland Garden Picture Post\nhttps://www.nps.gov/places/000/wolf-trap-woodland-garden-picture-post.htm\n\n ",
+        "icon": "red-pin-down.png"
+      }
+    }
+  ]
+}

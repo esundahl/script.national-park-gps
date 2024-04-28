@@ -1,0 +1,185 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.39423370361328,
+          27.79949951171875
+        ]
+      },
+      "properties": {
+        "name": "Artesian Park",
+        "notes": "Artesian Park\nhttps://www.nps.gov/places/artesian-park.htm\n\n<p>In 1854, Henry Kinney, Corpus Christi’s founder donated the land where Artesian Park now sits. The park is also the site where in the winter of 1845, hundreds of tents sprang up along these flats on the Corpus Christi Bay as thousands of U.S. soldiers arrived in the region in response to a territory dispute with Mexico.<br /> <br /> The troops remained here until March 1846, when they moved southward to claim the Rio Grande as the southern boundary of Texas.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.47941589355469,
+          26.017166137695312
+        ]
+      },
+      "properties": {
+        "name": "Chaparral Trail",
+        "notes": "Chaparral Trail\nhttps://www.nps.gov/places/chaparral-trail.htm\n\n<p>The “Chaparral Trail” at Palo Alto Battlefield NHP cuts across a network of trees, shrubs, and plants is known as chaparral. This habitat used to dominate much of Rio Grande Valley Unfortunately, this once expansive habitat is quickly shrinking. However, the park is lucky enough to have a substantial amount of it on site.<br /> <br /> Some of the chaparral’s resident plant species are the Honey Mesquite tree, Spanish Dagger or yucca, prickly pear cactus, and the spiny hackberry or granjeno.<br /> <br /> Upon closer inspection of this trail, you might find eastern cottontail rabbits, Texas spiny lizards, or armadillos scurrying around. Due to its geographical location, South Texas is home to migratory animal species from the Trans-Pecos desert in West Texas to as far away as South America and Canada.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.46921300506591,
+          26.028087845809473
+        ]
+      },
+      "properties": {
+        "name": "Coastal Prairie",
+        "notes": "Coastal Prairie\nhttps://www.nps.gov/places/coastal-prairie.htm\n\n<p>Palo Alto Battlefield is a place where nature and history intersect. The rustling of trees and soft chirping of birds are one of the hallmarks of the park.By maintaining the battlefield in its historical condition, the park is preserving a critically endangered habitat. Coastal prairies once covered over 8 million acres of the U.S. Today less than one percent of it remains. Palo Alto Battlefield of one of those precious pockets.This important habitat is home to the endangered Aplomado falcon. Down on the ground you might come across a Texas horned lizard soaking up the sun, or a Fiddler crab burrowing to reach the ground water.Compared to the chaparral, the coastal prairie vegetation is sparser. The types of plants that grow here are limited by the salinity of the soil. Some of the plants that flourish here are gulf-cord grass, sea-ox eye, and shore grass. Although it might look as just a flat open area, the coastal prairie at Palo Alto is a valuable habitat and home to a variety species.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Fort Brown",
+        "notes": "Fort Brown\nhttps://www.nps.gov/places/fort-brown.htm\n\nThe earthen fortification that became known as Fort Brown was constructed by U.S. troops in the spring of 1846. The site served as their main base on the Rio Grande. When war erupted between the U.S. and Mexico, the fort became a primary target for Mexican forces.<br /> <br /> This earthwork withstood a six-day siege by the Mexican Army, sustaining only two casualties. One of them was Major Jacob Brown. On May 17, 1846, General Zachary Taylor honored Brown by issuing an order officially naming the site Fort Brown. The town that eventually grew up in turn took its name from the fort—Brownsville.<br /> <br /> While visiting this site you can see historical markers and even what is left of one of the fort’s bastions. The nearby campus of UTRGV is home to several post-Mexican War buildings.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.207549,
+          26.077773
+        ]
+      },
+      "properties": {
+        "name": "Fort Polk",
+        "notes": "Fort Polk\nhttps://www.nps.gov/places/fort-polk.htm\n\nWhen the U.S. army arrived in the Rio Grande delta in March 1846, General Zachary Taylor first order of business was to establish a supply base. He chose this site, the Mexican settlement known as El Frontón de Santa Isabel or Point Isabel. The garrison would be known as Fort Polk.<br /> <br /> Point Isabel and Fort Polk played a significant role in the start of war between the United States and Mexico. After U.S. troops occupied Matamoros on May 18, Point Isabel and Fort Polk declined in military importance. The post had never been anything more than a series of trenches, mounds of earth and piles of brush, fence posts, and overturned wagons.<br /> <br /> In 1852 a lighthouse was constructed on the grounds of the old fortification. Today, visitors can walk the grounds of the lighthouse and climb the stairs to the observation deck 50 feet above the ground. Nearby, visitors will also find the Port Isabel Historical Museum and the Treasures of the Gulf Museum.<br /> <br /> Please contact the <a href=\"http://portisabellighthouse.com/lighthouse/\">Museums of Port Isabel</a> for information about hours and admission to the lighthouse and museums.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Mexican Battle Line",
+        "notes": "Mexican Battle Line\nhttps://www.nps.gov/places/mexbattleline.htm\n\n<p>In anticipation of U.S. General Zachary Taylor’s return to Fort Texas, Mexican General Mariano Arista positioned his 3,500 troops here on this spot. The Mexican battle line was almost a mile long and ran east to west on the south end of Palo Alto Battlefield. Arista's rested his left flank right on the road. The object was to stop Taylor’s force from relieving the siege of the U.S. Army’s fort on the banks of the Rio Grande.<br /> <br /> The general’s plan was to let Taylor’s army advance down the road or across the field and then envelop him by closing in with his dreaded Lancers.<br /> <br /> Unfortunately for General Arista, things did not go as planned. Taylor never did charge down the road. Instead he pulled his artillery forward and the battle of Palo Alto turned into an artillery duel. It was a duel that put the Mexican Army at a disadvantage.<br /> <br /> On the afternoon of May 8, 1846, this end of the field took heavy fire from Taylor’s artillery. The U.S. guns bombarded the Mexican battle line with explosive shells from 18-pounder siege cannon and solid shot from 6-pounder field guns, tearing open holes all along the line. Arista army suffered 102 killed, 129 wounded, and 26 missing.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.39918518066406,
+          27.800466537475586
+        ]
+      },
+      "properties": {
+        "name": "Old Bayview Cemetery",
+        "notes": "Old Bayview Cemetery\nhttps://www.nps.gov/places/old-bayview-cemetery.htm\n\n<p>Old Bayview Cemetery is the site of the oldest federal military cemetery in Texas.<br /> <br /> The cemetery’s origin dates back to the U.S.-Mexican War.<br /> <br /> In the opening stanzas of the war, General Zachary Taylor’s Army of Occupation established base camp in the Corpus Christi area.<br /> <br /> It became evident early on the camp needed a formal burial ground and this site was chosen.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.478991,
+          26.016761
+        ]
+      },
+      "properties": {
+        "name": "Palo Alto Battlefield Overlook",
+        "notes": "Palo Alto Battlefield Overlook\nhttps://www.nps.gov/places/paaloverlook.htm\n\n<p>The Palo Alto Battlefield Overlook sits on the western edge, practically in the center of the battlefield. On the afternoon of May 8, 1846, artillery rounds would’ve filled the air around this spot.<br /> <br /> The Overlook provides an excellent vantage point to view the battlefield. Directly in front of the overlook lay the remnants of the historic Matamoros to Point Isabel Road, a critical strategic element of the battle. Off to the south, is the Mexican battle line and to the north is the U.S. battle line.<br /> <br /> The prairie in front of the Overlook was ideal for 19th century warfare. It was an open field with good visibility. This area has changed somewhat in the time since the battle. The open prairie and sea of chest-high cord grass, that U.S. and Mexican soldiers wallowed through, is now gone.<br /> <br /> The cord grass is much shorter now and the prairie is broken up by stands of mesquite trees and prickly pear cactus.  These battlefield invaders were aided in their assault by activities such as cattle ranching and development of the surrounding area.<br /> <br /> From here one can appreciate the size of the battlefield. Both battle lines are clearly visible from here as they are only about 700 yards apart. The range limits the artillery forced the lines to be this close. Despite its size, the small field this Overlook watches over would kick off a conflict that led to Mexico losing half of its national territory and the U.S. doubling in size.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.78409740159348,
+          26.06195365952305
+        ]
+      },
+      "properties": {
+        "name": "Rancho de Carricitos",
+        "notes": "Rancho de Carricitos\nhttps://www.nps.gov/places/rancho-de-carricitos.htm\n\nThis is the site of the first official combat between U.S. and Mexican forces. On April 24, 1846 Captain Seth Thornton and his 80 dragoons were ambushed by General Anastasio Torrejón and his 1,600 cavalry and infantry troops at Rancho de Carricitos. The encounter left 11 U.S. soldiers dead on the field and 46, including Captain Thornton, were taken prisoner. Mexican forces suffered only a few minor casualties. News of the skirmish reached Fort Texas later that day. General Taylor forwarded word to President Polk that hostilities had commenced.In the time since the skirmish at Carricitos, the exact location of the ranch has been forgotten. Soldiers had measured the distance to the site along the winding path of the Rio Grande. The shifting course of the river has made these measurements unreliable.Palo Alto Battlefield National Historical Park has continued to conduct research that may, in time, pinpoint the exact location of the Rancho de Carricitos skirmish.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.4849719546,
+          25.9362221341
+        ]
+      },
+      "properties": {
+        "name": "Resaca Overlook",
+        "notes": "Resaca Overlook\nhttps://www.nps.gov/places/resaca-overlook.htm\n\n<p>The overlook deck at Resaca de la Palma Battlefield gives visitors an up-close look at a unique feature of the site—a resaca. Resacas are former channels of the Rio Grande. As the Rio Grande has shifted its position over time, it leaves these resaca beds behind. In their natural state, resacas are dry and then fill up during times of heavy rainfall. Some of the larger resacas can hold water for several days or even weeks after a heavy rain. They do not have a natural connection to the Rio Grande. It is through the pumping of water from the Rio Grande that they have any water flow. Resacas, like this one, are filled with a variety of wildlife including Alligator Gar, Texas spiny soft-shell turtles, and egrets.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.79277038574219,
+          27.133283615112305
+        ]
+      },
+      "properties": {
+        "name": "Taylor's Camp",
+        "notes": "Taylor's Camp\nhttps://www.nps.gov/places/taylor-s-camp.htm\n\n<p>The Kenedy County Rest Area is home to a U.S.-Mexican War historical marker. However, the marker you’ll find there is proof that you shouldn’t believe everything that you read. Zachary Taylor never camped under the tree that now stands at this rest area. The U.S. army did pass this way en route to the Rio Grande in March of 1846. But the marker has not always been at this spot.<br /> <br /> This is a Centennial Marker—one of many placed by the State of Texas in 1936 on the 100th anniversary of Texas independence. In 1978, officials of the Texas Department of Transportation received a request to move the marker several hundred yards to this rest area.<br /> <br /> The marker was relocated and plaque explaining the monument had been repositioned was supposed to be added. The monument was transferred, but the new plaque never was attached.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "name": "U.S. Battle Line",
+        "notes": "U.S. Battle Line\nhttps://www.nps.gov/places/usbattleline.htm\n\n<p>As General Taylor and his army of twenty five hundred emerged from the brush on the north end of what became Palo Alto Battlefield, they were greeted with an impressive scene...General Arista and his army of thirty five hundred, already in battle formation on the southern end of the field. Taylor halted his advance at this spot and contemplated his next move.<br /> <br /> Taylor had told his men before they left Point Isabel it would be the bayonet that would settle any encounter with the Mexican army. However, carrying out a frontal attack against a numerically superior enemy already in battle formation would be foolish. It would also put his long supply wagon train in jeopardy.<br /> Instead of continuing down the road, and possibly taking heavy casualties, General Taylor deployed his troops into battle formation.<br /> <br /> Taylor set his right flank on the Matamoros to Point Isabel Road, near this spot. It consisted of the US 5th Infantry, Major Ringgold’s field artillery, Lt. Churchill’s 18-pounder siege cannons, and the 3rd and 4th Infantry. He kept Captain May’s dragoons in reserve.<br /> <br /> The left flank, to the east of this spot, consisted of Lt. Col. Child’s “Foot Artillery”, Captain Duncan’s field artillery, and the 8th Infantry. Captain Ker’s dragoons pulled double duty guarding the wagon train and supporting the left flank.<br /> <br /> The ensuing battle became a showcase for one of the U.S. Army’s latest weapons...the flying artillery. The light, mobile field guns made up for Taylor’s numerical disadvantage as his guns wreaked havoc on the soldados across the field. The infantries of both armies had very little involvement in the fight.</p>",
+        "icon": "red-pin-down.png"
+      }
+    }
+  ]
+}

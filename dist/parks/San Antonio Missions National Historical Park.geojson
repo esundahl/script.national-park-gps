@@ -1,0 +1,275 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.454678,
+          29.334314
+        ]
+      },
+      "properties": {
+        "name": "Acequia Trail Trailhead - Mission San Juan",
+        "notes": "Acequia Trail Trailhead - Mission San Juan\nhttps://www.nps.gov/places/saju-acequia-trail.htm\n\nAccess the Acequia Trail from Mission San Juan, just off of Mission Road. The Acequia trail takes hikers and bicyclists along the historic irrigation ditches of Mission San Juan. Portions of this trail are gravel. Travel 1.2 miles north on this trail to reach the San Antonio River Hike & Bike Trail. The San Antonio River Hike & Bike Trail connects all 5 missions in San Antonio along a beautiful stretch of waterways, native plants, and wildlife. Hike or bike along this trail and stop at each mission site, or travel straight down to the southernmost mission site, Mission Espada, approx 2.5 miles south along the river.<br /> <br /> The Acequia Trailhead is located at the entrance to the parking lot of Mission San Juan.<br /> <br /> For a map of the San Antonio River Hike & Bike Trail, visit the <a href=\"https://www.sariverauthority.org/resources/san-antonio-river-walk-map\">San Antonio River Authority site.</a>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.445937,
+          29.321396
+        ]
+      },
+      "properties": {
+        "name": "Coahuiltecan Seasons Mural",
+        "notes": "Coahuiltecan Seasons Mural\nhttps://www.nps.gov/places/coahuiltecan-seasons-mural.htm\n\n<p>The <a href=\"https://www.worldheritagesa.com/Touring-the-City/Tours/Public-Art\">World Heritage Mural Trail</a> is a collaborative public art project between the <a href=\"https://www.getcreativesanantonio.com/\">City of San Antonio’s Department of Arts & Culture</a> and <a href=\"https://www.sanantonio.gov/WorldHeritage\">World Heritage Office</a>, along with other City departments and community partners.</p> <p>\"Coahuiltecan Seasons\" consists of four murals along Villamain Road, at its intersection with Camino Coahuilteca near Mission San Juan. \"Coahuiltecan\" is the name that historic Spanish missionaries called the many bands of Native people living in South Texas. It is a name still used by Native descendants today. The four murals pay tribute to the native plants and animals that have sustained generations in this region, and the seasonal migrations of the Coahuiltecan bands that populated this area for thousands of years.</p> <p>Concept and art direction by Andy and Yvette Benavides of SMART, working with Ramon Vasquez of American Indians in Texas at the Spanish Colonial Missions.</p> <p> </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.47174055190783,
+          29.358590452346423
+        ]
+      },
+      "properties": {
+        "name": "E. Pyron Drive Trailhead - San Antonio River Hike & Bike",
+        "notes": "E. Pyron Drive Trailhead - San Antonio River Hike & Bike\nhttps://www.nps.gov/places/e-pyron-dr-trailhead.htm\n\nAccess the San Antonio River Hike & Bike Trail from Mission San Jose via the East Pyron Drive Trailhead. The San Antonio River Hike & Bike Trail connects all 5 missions in San Antonio along a beautiful stretch of waterways, native plants, and wildlife. Hike or bike along this trail and stop at each mission site, or travel straight down to the southernmost mission site, Mission Espada, approx 5 miles from this trailhead.<br /> <br /> The East Pyron Drive Trailhead is 0.4 miles east of Mission San Jose. The trailhead is a 9 minute walk from Mission San Jose, or a 2 minute bike ride.<br /> <br /> For a map of the San Antonio River Hike & Bike Trail, visit the <a href=\"https://www.sariverauthority.org/resources/san-antonio-river-walk-map\">San Antonio River Authority site.</a>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.4613719948,
+          29.3325447255
+        ]
+      },
+      "properties": {
+        "name": "Espada Aqueduct",
+        "notes": "Espada Aqueduct\nhttps://www.nps.gov/places/espada-aqueduct.htm\n\n<p paraeid=\"{c890a3de-fd0d-40b5-bde7-31f33917ba23}{231}\" paraid=\"1846763194\">Most acequias were hand dug earthen ditches that maneuvered the terrain. In certain cases, they had to build aqueducts to cross over creeks or other barriers. The Espada Aqueduct is the oldest Spanish aqueduct in the United States. The aqueduct carries water over Six-mile creek (historically piedras creek) connecting the ditches. The aqueduct is located north of Mission Espada. Water can still be seen today flowing over the aqueduct on its way to Mission Espada. </p> <p paraeid=\"{c890a3de-fd0d-40b5-bde7-31f33917ba23}{249}\" paraid=\"496001976\"><strong>Acequias: The Lifeblood of the Missions </strong></p> <p lang=\"EN-US\" paraeid=\"{e2a07835-f0ef-4e22-9d5e-aa9d0dd53340}{162}\" paraid=\"588735967\" xml:lang=\"EN-US\">The Espada aqueduct was built between 1740 and 1745 and showcases European engineering feats and masonry work.  The aqueduct has withstood major floods and has survived for over 275 years.  The aqueduct spans Six-mile creek with two arches and one support pier. </p> <p paraeid=\"{3775832d-ae72-42b8-8fca-0e94aa803b98}{44}\" paraid=\"114541270\">Before the completion of the aqueduct, the Spanish would’ve used hollowed out logs, or canoas, to carry water over the creek. Once complete, water flowed across the top of the aqueduct in a channel until reunited with the earthen ditch on the other side. Once the water left the aqueduct, the acequia carried it southwardly towards Mission Espada and the farm fields. </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.4655301224,
+          29.3461517121
+        ]
+      },
+      "properties": {
+        "name": "Espada Dam",
+        "notes": "Espada Dam\nhttps://www.nps.gov/places/espada-dam.htm\n\n<p paraeid=\"{5a0d1efb-0fa5-4e3e-8235-3b5fde9f94a3}{126}\" paraid=\"966515770\">The success of the missions depended on the acequias, or irrigation ditches that supplied water to the mission farm fields. The success of the missions depended on being able to feed the people.   </p> <p paraeid=\"{5a0d1efb-0fa5-4e3e-8235-3b5fde9f94a3}{144}\" paraid=\"1471035014\">Missions were established based on topographic features, as landforms dictated the route of the acequia system. Farms required acequias as the rain in South Texas was too infrequent and could not be depended on to water the crops.  A river with dependable flow, proper bank height, and slope were all requirements for establishing a mission. The San Antonio river met all those requirements. </p> <p paraeid=\"{5a0d1efb-0fa5-4e3e-8235-3b5fde9f94a3}{166}\" paraid=\"379189508\">Acequia systems began with a dam that would raise the water level. The dam diverted water from the San Antonio river and forced it into hand dug earthen ditches that carried the water to farms around the missions. Eventually emptying back into the San Antonio River.  The Espada Dam still diverts water from the river into the Espada acequia system, the oldest continually used acequia system in San Antonio.   </p> <p paraeid=\"{5a0d1efb-0fa5-4e3e-8235-3b5fde9f94a3}{186}\" paraid=\"1082033129\"><strong>Acequias: The Lifeblood of the Missions </strong></p> <p lang=\"EN-US\" paraeid=\"{2b357f2c-284d-4f64-a1b6-c2c54783fe1c}{88}\" paraid=\"869676761\" xml:lang=\"EN-US\">A short walk from the parking lot takes you to the Espada Dam, the only Spanish built dam that remains.  The Espada dam was constructed by 1745. The dam is built from flagstone layers placed on a natural ledge across the San Antonio River. The shape of the dam is unusual in that it points downstream instead of upstream. </p> <p paraeid=\"{5a0d1efb-0fa5-4e3e-8235-3b5fde9f94a3}{210}\" paraid=\"817406788\">The Espada dam is a diversion dam. The dam raised the level of the water and pushed it into the acequia.  Gravity did the rest! </p> <p paraeid=\"{5a0d1efb-0fa5-4e3e-8235-3b5fde9f94a3}{222}\" paraid=\"1240247742\">The Espada Acequia was constructed between 1731 and 1745. The acequia is one of the best preserved examples of the Spanish acequia system.   </p> <p paraeid=\"{5a0d1efb-0fa5-4e3e-8235-3b5fde9f94a3}{236}\" paraid=\"1001727857\"><strong>Wild San Antonio</strong> </p> <p lang=\"EN-US\" paraeid=\"{2b357f2c-284d-4f64-a1b6-c2c54783fe1c}{137}\" paraid=\"1164785247\" xml:lang=\"EN-US\">The San Antonio River is a great place to see wildlife.  The Mission Reach Ecosystem Restoration project returned the natural riffle and flow of the river as well as native plants and animals.  More wildlife returned to the area making the ecosystem richer and more diverse.  A recent bird survey found 186 species of birds along the San Antonio River. At this spot along the river you can see Double-crested Cormorants resting on logs, Great Egrets wading along the rivers edge looking for its next snack, and Black-bellied Whistling Ducks in flocks floating in the river. Listen and you might hear how they got their name, from their boisterous whistle of a call. </p> <p paraeid=\"{4ff1ef97-a9cf-436e-a771-528a45a21026}{65}\" paraid=\"1269387204\">This spot is also a great place to catch turtles sun bathing. Look along the top of the dam or on a floating log and you might see a Red-eared Slider or Texas River Cooter. </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.4548,
+          29.33182
+        ]
+      },
+      "properties": {
+        "name": "Farm Loop Trailhead",
+        "notes": "Farm Loop Trailhead\nhttps://www.nps.gov/places/farm-loop-trailhead.htm\n\n<p lang=\"EN-US\" paraeid=\"{5bf9cf9c-cfbd-4a1c-b8ae-96591bb048d9}{174}\" paraid=\"1658251818\" xml:lang=\"EN-US\">explore more of the farm fields and see the historic flowing acequias, or irrigation ditches, carrying water from the San Antonio River. During the mission period, this acequia would water all the Mission San Juan farmland. This was easily done using wooden gates. Gates could be opened or closed depending on what fields needed water. In our demonstration garden, you can see how they planted their seeds on the berms and dug furrows for the water to flow.   </p> <p paraeid=\"{9c6db387-d7c7-4843-b36f-0e47f5167a4c}{201}\" paraid=\"685540323\">The irrigation ditches are still flowing today and are used by the San Antonio Food Bank to irrigate their crops. The food bank pulls water from these acequias into their modern irrigation systems.   </p> <p paraeid=\"{9c6db387-d7c7-4843-b36f-0e47f5167a4c}{217}\" paraid=\"210099888\">The farmland is still being used to feed people in the local community. The San Antonio Food Bank manages this farmland, and donates the produce they grow to feed the people of San Antonio. </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.455149,
+          29.334322
+        ]
+      },
+      "properties": {
+        "name": "Graf Road Trailhead - San Antonio River Hike & Bike",
+        "notes": "Graf Road Trailhead - San Antonio River Hike & Bike\nhttps://www.nps.gov/places/graf-rd-hike-bike.htm\n\nAccess the San Antonio River Hike & Bike Trail from Mission San Juan via the Graf Road Trailhead. The San Antonio River Hike & Bike Trail connects all 5 missions in San Antonio along a beautiful stretch of waterways, native plants, and wildlife. Hike or bike along this trail and stop at each mission site, either to the north or south.<br /> <br /> The Graf Road Trailhead is just west of the Mission San Juan parking lot. The trail begins at a San Antonio Bike Share station. This trail extends south, past Mission San Juan and the historic demonstration farm. This trail meets the San Antonio River 0.6 miles south. Continue south on the river for a total of 1.4 miles to reach Mission Espada.<br /> <br /> For a map of the San Antonio River Hike & Bike Trail, visit the <a href=\"https://www.sariverauthority.org/resources/san-antonio-river-walk-map\">San Antonio River Authority site.</a>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.491287,
+          29.390946
+        ]
+      },
+      "properties": {
+        "name": "Mission Concepción",
+        "notes": "Mission Concepción\nhttps://www.nps.gov/places/mission-concepcion.htm\n\n<p paraeid=\"{dad4a12c-3387-45b1-8eee-6779080872e3}{51}\" paraid=\"240898965\">Originally founded in 1716 in eastern Texas, Mission Concepcion was relocated to the present site in 1731. The thick weathered church and convento (priest’s residence) walls and roofs of Mission Concepcion still stand tall 250 years later making the church one of the oldest unrestored stone churches in the United States. If you look closely at these faded walls, you will find remnants of their colorful past. Colorful geometric designs covered the church inside and out. The exterior frescos have long since faded or worn away but frescos are still visible inside the buildings. There are several rooms in which to see the remaining frescos, the most famous being the “Eye of God” located on the ceiling in the library. Explore the convento, the limestone quarry, and the church. As you explore the convento look on the ceilings and walls for the surviving frescos. <br /> <br /> Mission Concpecion is part of the World Heritage Site. To check out the audio tour visit: <a href=\"https://www.worldheritagesa.com/Missions/Mission-Concepci-oacuten/Concepci-oacuten-Audio-Tour\">Concepción Audio Tour (worldheritagesa.com)</a></p> <p paraeid=\"{dad4a12c-3387-45b1-8eee-6779080872e3}{79}\" paraid=\"49645580\"><strong>Explore The Missions</strong></p> <p paraeid=\"{dad4a12c-3387-45b1-8eee-6779080872e3}{91}\" paraid=\"52545221\">The church, convento, and quarry are all that remain. Mission Concepcion during the mission period would’ve been a walled compound. The walls were originally completed in 1745 following with the completion of the church in 1755. The walls were later deemed insufficient and were rebuilt with living quarters along the walls in the early 1760’s. Explore the four rooms in the convento: the store room, the porteria, the library, and the refectory (dining hall).   </p> <p paraeid=\"{dad4a12c-3387-45b1-8eee-6779080872e3}{125}\" paraid=\"373077968\">The quarry is located in front of the church near the parking lot. The tuffaceous limestone here was quarried and used for building the mission structures. The limestone was also used to make mortar and plaster.   </p> <p paraeid=\"{dad4a12c-3387-45b1-8eee-6779080872e3}{135}\" paraid=\"502429479\">Mission Concepcion was home to the Father President of the  <br /> College of Querétaro. The Queretaro Father President was in charge of the three Queretaro missions in San Antonio: Mission Concepcion, Mission San Juan and Mission San Antonio de Valero. The mission was partially secularized in 1794 and fully secularized by Mexico in 1824.   </p> <p lang=\"EN-US\" paraeid=\"{7e8cad8d-ec8d-4608-a773-e76acd56d00c}{245}\" paraid=\"1937699925\" xml:lang=\"EN-US\"><strong>Bicycle information</strong></p> <p lang=\"EN-US\" paraeid=\"{1db6958f-6b99-4523-9991-e35eed07c6bd}{134}\" paraid=\"955967498\" xml:lang=\"EN-US\">Please walk bikes on sidewalks inside the missions. </p> <p lang=\"EN-US\" paraeid=\"{1db6958f-6b99-4523-9991-e35eed07c6bd}{148}\" paraid=\"21548891\" xml:lang=\"EN-US\">The bike rack is located in the parking lot median. The San Antonio Bike Share docking station is located at the corner of Mission Road and Felisa. </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.451241,
+          29.318073
+        ]
+      },
+      "properties": {
+        "name": "Mission Espada",
+        "notes": "Mission Espada\nhttps://www.nps.gov/places/mission-espada.htm\n\n<p paraeid=\"{7fe531f1-89ea-4489-b9a3-cf4f147d72d0}{175}\" paraid=\"999477851\">Mission Espada was the first mission in the province of Texas, founded in 1690 as San Francisco de los Tejas. In 1731, the mission was relocated from east Texas to the present location along the San Antonio River and renamed Mission San Francisco de la Espada. Mission Espada is the southern most mission in San Antonio. Visitors can walk the mission grounds, visit the church and park museum. <br /> <br /> Mission Espada is part of the World Heritage Site. To check out the audio tour visit: <a href=\"https://www.worldheritagesa.com/Missions/Mission-Espada/Espada-Audio-Tour\">Espada Audio Tour (worldheritagesa.com)</a><br />  </p> <p paraeid=\"{f59d558a-969c-4ca0-a373-657d5e21854c}{4}\" paraid=\"445115075\"><strong>Explore the Missions </strong></p> <p paraeid=\"{f59d558a-969c-4ca0-a373-657d5e21854c}{12}\" paraid=\"1890050281\">San Francisco de los Tejas was founded in 1690 by Franciscan Father Damian Massanet near Weches, Texas and abondoned in 1693 after epidemics and after the Spansih learned of plot by the Tejas to massacre the missionaries. This mission was relocated to San Antonio in 1731 after several failed attempts at other locations in the province of Texas.   </p> <p paraeid=\"{f59d558a-969c-4ca0-a373-657d5e21854c}{60}\" paraid=\"1949987898\">The mission was renamed San Francisco de la Espada. La Espada means sword in Spanish and is believed to be the surname of a distinguished or  person.  The mission started from scratch, recruiting Indigenous groups, and collecting supplies.   </p> <p paraeid=\"{f59d558a-969c-4ca0-a373-657d5e21854c}{98}\" paraid=\"924988068\">The sacristy, granary, and two-story convento were completed in 1745.  The first and current stone church was completed by 1756. The mission was partially secularized in 1794 and fully secularized by Mexico in 1824.   </p> <p paraeid=\"{f59d558a-969c-4ca0-a373-657d5e21854c}{128}\" paraid=\"170932069\"><strong>Acequias: The Lifeblood of the Missions</strong> </p> <p paraeid=\"{f59d558a-969c-4ca0-a373-657d5e21854c}{134}\" paraid=\"1311699537\">During the first years of the missions, the indigenous people under the instruction of the craftsman would’ve began construction on the dam, dug the earthen acequias, cleared land for farming, and built temporary structures. The acequia construction began around 1731 and was completed by 1745.  The acequias water has been flowing ever since. Walk around outside the mission walls and you can see parts of the Espada acequia. </p> <p lang=\"EN-US\" paraeid=\"{20b631cd-4a9a-4fb6-a7ae-869a67700414}{221}\" paraid=\"683632737\" xml:lang=\"EN-US\"><strong>Bicycle Information</strong></p> <p lang=\"EN-US\" paraeid=\"{20b631cd-4a9a-4fb6-a7ae-869a67700414}{223}\" paraid=\"326515942\" xml:lang=\"EN-US\">Please walk bikes on sidewalks inside the missions. </p> <p lang=\"EN-US\" paraeid=\"{20b631cd-4a9a-4fb6-a7ae-869a67700414}{225}\" paraid=\"1156096718\" xml:lang=\"EN-US\">The bike rack is located near the entrance of the hike and bike trail northwest of the mission. The San Antonio Bike Share docking station is located along the hike and bike trail northwest of the mission.     </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.451453,
+          29.318485
+        ]
+      },
+      "properties": {
+        "name": "Mission Espada Trailhead - San Antonio River Hike & Bike Trail",
+        "notes": "Mission Espada Trailhead - San Antonio River Hike & Bike Trail\nhttps://www.nps.gov/places/espa-hike-bike-trail.htm\n\nAccess the San Antonio River Hike & Bike Trail from Mission Espada on the northwest corner of the mission complex. The San Antonio River Hike & Bike Trail connects all 5 missions in San Antonio along a beautiful stretch of waterways, native plants, and wildlife. Hike or bike along this trail and stop at each mission site going north. This trailhead is the southernmost point on the Hike & Bike Trail.<br /> <br /> The trail begins at a San Antonio Bike Share station.<br /> <br /> For a map of the San Antonio River Hike & Bike Trail, visit the <a href=\"https://www.sariverauthority.org/resources/san-antonio-river-walk-map\">San Antonio River Authority site.</a>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.4801843,
+          29.3601283
+        ]
+      },
+      "properties": {
+        "name": "Mission San José",
+        "notes": "Mission San José\nhttps://www.nps.gov/places/mission-san-jose.htm\n\n<p paraeid=\"{e01e0b6c-5bc8-4022-ba8b-c4de94cc769f}{74}\" paraid=\"1374637311\">Mission San Jose is in the center of the mission trail and the largest mission site of all five missions along the San Antonio River. The park visitor center and restrooms are located just outside of the mission walls near the parking lot. At mission San Jose there are several activities for visitors to enjoy. You are welcome to experience the museum in the visitor center, view the park film, buy souvenirs in the gift shop, take a guided walk with a ranger, or enjoy a self-guided walk.<br /> <br /> Mission San Jose is part of the World Heritage Site. To check out the audio tour visit: <a href=\"http://www.worldheritagesa.com/Missions/Mission-San-Jos-eacute/San-Jos-eacute-Audio-Tour\">San José Audio Tour (worldheritagesa.com)</a><br />  </p> <p paraeid=\"{e01e0b6c-5bc8-4022-ba8b-c4de94cc769f}{150}\" paraid=\"308817994\"><strong>Explore the Missions</strong></p> <p lang=\"EN-US\" paraeid=\"{3ab0692c-6b0e-4143-8cf4-05bad22d806a}{180}\" paraid=\"2060478014\" xml:lang=\"EN-US\">Mission San Jose was founded in 1720 and was nicknamed the Queen of Missions, because it was the largest mission in San Antonio and the most beautiful.   </p> <p paraeid=\"{e01e0b6c-5bc8-4022-ba8b-c4de94cc769f}{170}\" paraid=\"268986031\">Mission San Jose is also the most restored mission site offering a glimpse at what the mission sites would’ve looked like during the mission period. The mission walls, parts of the church, and granary were restored in the 1930’s by the Works Progress Administration.   </p> <p paraeid=\"{e01e0b6c-5bc8-4022-ba8b-c4de94cc769f}{212}\" paraid=\"1228434312\">The mission was moved twice before it found its current site. The first site was moved perhaps to make room for another mission, San Francisco Xavier Najera. The second location was too close to the river and the mission suffered heavy losses due to an epidemic. The mission was then moved a third time to its current location around 1740. The stone walls were completed in 1755. The walls had two purposes, protection from hostile threats, and living quarters for the indigenous people.    </p> <p paraeid=\"{d4d73c02-d2af-4580-87cf-0f05cf23b111}{15}\" paraid=\"1889109280\">The living quarters consisted of a room and a kitchen. They were furnished with a metate, a comal, a pot , water jar, closet, pantry, bed, and dresser.  During the peak of the mission in 1768, 350 people would live inside the walls. </p> <p paraeid=\"{d4d73c02-d2af-4580-87cf-0f05cf23b111}{35}\" paraid=\"466397946\">The mission was partially secularized in 1794 and fully secularized by Mexico in 1824.   </p> <p lang=\"EN-US\" paraeid=\"{9e55fa2c-08aa-4b90-a432-a36514b8e270}{166}\" paraid=\"1347121810\" xml:lang=\"EN-US\"><strong>Bicycle Information</strong></p> <p lang=\"EN-US\" paraeid=\"{9e55fa2c-08aa-4b90-a432-a36514b8e270}{168}\" paraid=\"2117331880\" xml:lang=\"EN-US\">Please walk bikes on sidewalks inside the missions. </p> <p lang=\"EN-US\" paraeid=\"{9e55fa2c-08aa-4b90-a432-a36514b8e270}{170}\" paraid=\"1362376894\" xml:lang=\"EN-US\">Bike racks are located in the visitor center patio and by the gristmill. The San Antonio Bike Share docking station is located in front of the visitor center. </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.47994558339765,
+          29.362979552055776
+        ]
+      },
+      "properties": {
+        "name": "Mission San José Gristmill",
+        "notes": "Mission San José Gristmill\nhttps://www.nps.gov/places/mission-san-jose-gristmill.htm\n\n<p paraeid=\"{40bd53e8-a248-4a85-9261-f7700addf7cc}{82}\" paraid=\"1945566478\">In 1778, Commandant General Domingo Caballo ordered the missions to grow wheat. Beginning in 1779, several attempts were made to grow wheat but failed due to storms and seed germination. The first successful harvest of wheat was in 1794 at Mission San Jose. The same year the mill was completed.    </p> <p paraeid=\"{40bd53e8-a248-4a85-9261-f7700addf7cc}{126}\" paraid=\"910138816\">The gristmill at Mission San Jose was the first mill in Texas and it was powered by water from the acequia. The mill was likely built into the quarried area after the lime kilns were discontinued.  The lime kilns can still be seen today at the back of the mill. There you will see three circular indentations into the wall.  These are remnants of the lime kilns.   </p> <p paraeid=\"{40bd53e8-a248-4a85-9261-f7700addf7cc}{168}\" paraid=\"1567351437\">The mill you see today was restored in the 1930’s.  </p> <p paraeid=\"{40bd53e8-a248-4a85-9261-f7700addf7cc}{178}\" paraid=\"635439960\"><strong>Acequias: The Lifeblood of the Missions </strong></p> <p lang=\"EN-US\" paraeid=\"{0cc0d2d0-3439-4ef2-9cb7-00c873f94e36}{34}\" paraid=\"2000980281\" xml:lang=\"EN-US\">Acequias not only irrigated crops but they also powered machinery.   </p> <p paraeid=\"{40bd53e8-a248-4a85-9261-f7700addf7cc}{190}\" paraid=\"808912478\">The acequia water was diverted through a ditch and sluice gate to the gristmill forebay. The Miller would open the gate when he was milling the wheat. The water would flow through the sluice gate to the forebay, a containment area to hold the water. The forebay gate, located at the bottom of the forebay, would be closed. Water would fill the forebay. Once filled, the miller would open the forebay gate to allow water to flow through the forebay channel to move the horizontal wooden water wheel. Water flowed out of the forebay channel and powered the wooden water wheel pushing the wheel counter clockwise. Once the water had powered the wheel, the water would flood a field behind the mill. Water continued to flow from the acequia into the forebay during milling operations to maintain a steady flow of water to the water wheel. </p> <p paraeid=\"{40bd53e8-a248-4a85-9261-f7700addf7cc}{200}\" paraid=\"645572537\">Inside the mill house you can see the two mill stones. The wooden water wheel below moved the grind stones in the mill house. The miller would pour flour into the wooden hopper, then the wheat would spread between the two mill stones and be ground into flour. Flour would pour out the bottom as the finished product. </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.455428,
+          29.332457
+        ]
+      },
+      "properties": {
+        "name": "Mission San Juan",
+        "notes": "Mission San Juan\nhttps://www.nps.gov/places/mission-san-juan.htm\n\n<p paraeid=\"{77c3ddc2-04e0-4c21-923d-2ee82d3a3edb}{169}\" paraid=\"1291910487\">Originally founded in 1716 in eastern Texas, Mission San Juan was relocated in 1731 to its present location along the banks of the San Antonio River. This church, although smaller than the churches found on the mission sites to the north, still represents one of the most dramatic changes that indigenous people undertook as they moved from their traditional way of life to that of being a citizen of Spain. Walk the mission grounds and visit the church and park museum. Explore the Yanaguana Trail, a paved 1/4 of a mile loop trail that takes you to an original stretch of the San Antonio River. South of the mission behind the tree line, you will find historic farm fields that are still in use today. Follow the acequias, or irrigation ditches, that still carry water from the San Antonio River to the mission fields.   <br /> <br /> Mission San Juan is part of the World Heritage Site. To check out the audio tour visit: <a href=\"https://www.worldheritagesa.com/Missions/Mission-San-Juan/San-Juan-Audio-Tour\">San Juan Audio Tour (worldheritagesa.com)</a><br /> <br /> <strong>Explore the Missions </strong></p> <p lang=\"EN-US\" paraeid=\"{f3237c05-8d29-46eb-bca9-2004167ff9cf}{60}\" paraid=\"1897848573\" xml:lang=\"EN-US\">On June 13, 1691, A Spanish expedition of Govenor Teran de los Rios, first governor of the Spanish province of Texas, and Franciscan Priest Damien Massanet were en route to East Texas when they stopped in the area of  Mission San Juan and met the Payaya tribe. It was on the feast day of San Antonio de Padua and so they named the river the San Antonio River.</p> <p paraeid=\"{59a56b3c-7bc8-421e-a7ac-9b49a7ba5edf}{72}\" paraid=\"282682060\">Mission San Juan was originally founded in East Texas, not far from Cushing, and named Mission San Jose de los Nazonis, an indigenous group. The French pushed the Spanish out o East Texas requiring the mission to move to its current location. They moved supplies and renamed the mission San Juan Capistrano. The name was changed because there was already a Mission San Jose along the San Antonio River.   </p> <p paraeid=\"{59a56b3c-7bc8-421e-a7ac-9b49a7ba5edf}{96}\" paraid=\"1946118533\">In 1756 the mission was home to 265 indigenous people and the first stone church with sacristy, granary and convento were completed.  The mission would build and complete two churches with a third church never being finished. The second and current church was completed in 1772.  The third church was built beginning around 1775 and would accommodate a growing population. The church was never complete because the mission population declined.    </p> <p paraeid=\"{59a56b3c-7bc8-421e-a7ac-9b49a7ba5edf}{184}\" paraid=\"1808646160\">The mission was partially secularized in 1794 and fully secularized in 1824 by Mexico.   </p> <p lang=\"EN-US\" paraeid=\"{3c013b28-fd64-45f4-9748-c7ac568a7f78}{36}\" paraid=\"1479540010\" xml:lang=\"EN-US\"><strong>Bicycle Information </strong></p> <p lang=\"EN-US\" paraeid=\"{3c013b28-fd64-45f4-9748-c7ac568a7f78}{100}\" paraid=\"1239521138\" xml:lang=\"EN-US\">Please walk bikes on sidewalks inside the missions. </p> <p lang=\"EN-US\" paraeid=\"{3c013b28-fd64-45f4-9748-c7ac568a7f78}{102}\" paraid=\"1590934022\" xml:lang=\"EN-US\">The bike rack is located near the mission entrance. The San Antonio Bike Share docking station is located NW of the mission.   </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.45566403439331,
+          29.331728143965783
+        ]
+      },
+      "properties": {
+        "name": "Mission San Juan Farm",
+        "notes": "Mission San Juan Farm\nhttps://www.nps.gov/places/mission-san-juan-farm.htm\n\n<p paraeid=\"{9c6db387-d7c7-4843-b36f-0e47f5167a4c}{139}\" paraid=\"1917154560\">The missions depended on the success of the farms. The first priority of the missions was to develop the farmlands to supply and support the mission populations. Mission sites were chosen on their ability to farm and build acequias, or irrigation ditches.  Each mission site had a farm, but Mission San Juan farm is the only one that remains. Visit the small demonstration farm. This section shows visitors what the farm fields that surround the mission would’ve looked like.   </p> <p paraeid=\"{9c6db387-d7c7-4843-b36f-0e47f5167a4c}{159}\" paraid=\"770656152\">The Spanish planted corn, beans, sugar cane. potatoes, squash, pumpkins, chile, cotton, and had orchards with peaches and watermelon. </p> <p paraeid=\"{9c6db387-d7c7-4843-b36f-0e47f5167a4c}{183}\" paraid=\"1633825109\"><strong>Acequias: The Lifeblood of the Missions </strong></p> <p lang=\"EN-US\" paraeid=\"{5bf9cf9c-cfbd-4a1c-b8ae-96591bb048d9}{174}\" paraid=\"1658251818\" xml:lang=\"EN-US\">Walk the acequia trail to explore more of the farm fields and see the historic flowing acequias, or irrigation ditches, carrying water from the San Antonio River. During the mission period, this acequia would water all the Mission San Juan farmland. This was easily done using wooden gates. Gates could be opened or closed depending on what fields needed water. In our demonstration garden, you can see how they planted their seeds on the berms and dug furrows for the water to flow.   </p> <p paraeid=\"{9c6db387-d7c7-4843-b36f-0e47f5167a4c}{201}\" paraid=\"685540323\">The irrigation ditches are still flowing today and are used by the San Antonio Food Bank to irrigate their crops. The food bank pulls water from these acequias into their modern irrigation systems.   </p> <p paraeid=\"{9c6db387-d7c7-4843-b36f-0e47f5167a4c}{217}\" paraid=\"210099888\">The farmland is still being used for its mission, to feed the people in the community. The foodbank donates all the food they grow to feed the people of San Antonio. </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.17836814945957,
+          29.091179361745887
+        ]
+      },
+      "properties": {
+        "name": "Rancho de las Cabras",
+        "notes": "Rancho de las Cabras\nhttps://www.nps.gov/places/rancho-de-las-cabras.htm\n\n<p>Tucked away in a protected prairie are ruins belonging to one of the first ranches in Texas. You can only visit Rancho de las Cabras as part of a guided tour with a park ranger from <a href=\"https://www.nps.gov/saan/index.htm\">San Antonio Missions National Historical Park</a>. Meet the park ranger in Floresville, Texas to explore the stories, myths, and mysteries surrounding Rancho de las Cabras.</p> <p><em><a href=\"https://www.nps.gov/elte/planyourvisit/safety.htm\">Safety Considerations</a></em></p> <p><a href=\"https://www.texasbeyondhistory.net/st-plains/images/he4.html\">Archeology matters! Find out what the earth reveals about Rancho de las Cabras</a>.</p> <p><a href=\"https://stmuscholars.org/remebering-ranchos-de-las-cabras-the-forgotten-outpost-of-mission-espada/\">Read more about the forgotten outpost that helped make Texas the cowboy and cattle capital.</a></p> <h2>Site Information</h2> <p><strong>Location </strong>(Floresville, Texas; Contact San Antonio Missions National Historical Park to sign-up for a guided tour.)</p> <p>Program length is approximately 2 hours. Reservations required with limited availability and first come first serve. To reserve your spot please saan_interpretation@nps.gov and include your name, email, phone number and # in party.</p> <p>This site is only accessible through guided programs.</p> <h2><a href=\"https://www.nps.gov/elte/index.htm\">El Camino Real de los Tejas National Historic Trail</a></h2>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.497928,
+          29.390047
+        ]
+      },
+      "properties": {
+        "name": "Theo Parkway Trailhead - San Antonio River Hike & Bike",
+        "notes": "Theo Parkway Trailhead - San Antonio River Hike & Bike\nhttps://www.nps.gov/places/conc-hike-bike.htm\n\nAccess the San Antonio River Hike & Bike Trail from Mission Concepcion via the Theo Parkway Trailhead. The San Antonio River Hike & Bike Trail connects all 5 missions in San Antonio along a beautiful stretch of waterways, native plants, and wildlife. Hike or bike along this trail and stop at each mission site, or travel straight down to the southernmost mission site, Mission Espada, for approx 7 miles of outdoor exercise.<br /> <br /> The Theo Parkway Trailhead is 0.6 miles west of Mission Concepcion. The trailhead is a 12 minute walk from Mission Concepcion, or a 4 minute bike ride.<br /> <br /> For a map of the San Antonio River Hike & Bike Trail, visit the <a href=\"https://www.sariverauthority.org/resources/san-antonio-river-walk-map\">San Antonio River Authority site.</a>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.455546,
+          29.33194
+        ]
+      },
+      "properties": {
+        "name": "Yanaguana Trailhead",
+        "notes": "Yanaguana Trailhead\nhttps://www.nps.gov/places/yanaguana-trailhead.htm\n\n<p paraeid=\"{6ffde553-8d77-4388-9d17-1a97faa0e010}{234}\" paraid=\"1307226737\">Just southwest of Mission San Juan, visitors can find the Yanaguana Trailhead. The Yanaguana Trail is a 0.3 mile long paved trail that weaves its way through the lush overgrowth along an original channel of the San Antonio River. The trail provides visitors the opportunity to experience some of the natural Texas ecosystems that were common before the Spanish arrival. <br />  </p> <p paraeid=\"{0d8ff1ac-eafc-4507-ace7-4c04c6a2ad4b}{7}\" paraid=\"213882730\"><strong>Wild San Antonio </strong></p> <p lang=\"EN-US\" paraeid=\"{5bf9cf9c-cfbd-4a1c-b8ae-96591bb048d9}{189}\" paraid=\"1516406589\" xml:lang=\"EN-US\">The Yanaguana Trail takes you through a riparian area out to an original channel of the San Antonio river. The Yanaguana offers a rare look at what the San Antonio river and riparian area would’ve looked like before the Spanish arrived.  Look all around you, and you will find pecan and mulberry trees, and grape vines. This would’ve been prime gathering grounds for the indigenous people of South Texas.   Follow the trail out to the river channel and see if you can spot a Great Blue Heron perched on the rivers edge or Red-eared Slider on a log. Listen carefully and you might hear the call of a Red-shouldered Hawk or of a Barred Owl. The Barred Owl sounds like it is saying “who cooks for you? who cooks for you all?\" <br /> Keep your eyes and ears open as you are bound to experience a wilder side to San Antonio.   </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.468461,
+          29.351221
+        ]
+      },
+      "properties": {
+        "name": "“Where I End and You Begin” Mural",
+        "notes": "“Where I End and You Begin” Mural\nhttps://www.nps.gov/places/-where-i-end-and-you-begin-mural.htm\n\n<p>The <a href=\"https://www.worldheritagesa.com/Touring-the-City/Tours/Public-Art\">World Heritage Mural Trail</a> is a collaborative public art project between the <a href=\"https://www.getcreativesanantonio.com/\">City of San Antonio’s Department of Arts & Culture</a> and <a href=\"https://www.sanantonio.gov/WorldHeritage\">World Heritage Office</a>, along with other City departments and community partners.<br /> <br /> This mural by San Antonio artist Jason Eric Gonzalez Martinez pulls together elements of cave art, nesting, bird migration, and connections between built and natural environments. San Antonio Cultural Arts consulted with local communities, the San Antonio River Authority, the East Pyron Symphony Lane Neighborhood Association, and bird specialists to develop the creative concept.</p> <p>Ceramic nests pertrude out from the colorful wall. Gonzalez Martinez also uses flat-stamp iconography influenced by re-conquest indigenous communities of modern-day Mexico to portray the flora and fauna of the this World Heritage Site.<br /> <br /> Check this mural out on your way from Mission San Jose to the Espada Dam!</p>",
+        "icon": "red-pin-down.png"
+      }
+    }
+  ]
+}

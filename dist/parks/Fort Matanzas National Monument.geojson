@@ -1,0 +1,770 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.23409,
+          29.715348
+        ]
+      },
+      "properties": {
+        "name": "A Living Treehouse",
+        "notes": "A Living Treehouse\nhttps://www.nps.gov/places/000/a-living-treehouse.htm\n\n<p>The unique southern live oak species twists and sculpts itself in response to its environment. Notice how most of the branches are leaning west-away from the salty air blowing in from the Atlantic Ocean. Live oak wood is incredibly strong and was once the preferred material for ship building. Scan the long, twisting limbs for lichens, ferns, air plants, lizards, squirrels, and birds.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.232956,
+          29.713506
+        ]
+      },
+      "properties": {
+        "name": "Atlantic Bottlenose Dolphin",
+        "notes": "Atlantic Bottlenose Dolphin\nhttps://www.nps.gov/places/000/atlantic-bottlenose-dolphin.htm\n\n<p>Bottlenose dolphins are a relatively common sight in the Matanzas River and in the ocean. They are very social animals and usually congregate together in groups of up to ten members. As with human beings, communication and cooperation are hallmarks of the species. There is a dolphin \"language\" that consists of noises resembling whistles, whines, groans, and jaw claps. They use their vocalizations to coordinate feeding behavior; sometimes by corralling fish close to shore, making them easier to catch, or by herding schools of fish into a sort of \"ball\" that then serves as easy prey as each dolphin takes a turn swimming through and grabbing a bite to eat. For anyone who has been to a dolphin show at an aquatic park and seen the amazing tricks and stunts they have been trained to perform, fish ball feeding comes as no big surprise!<br /> <br /> Another extraordinary trait dolphins possess is their ability to echolocate using sonar. Using air sacks in their nasal cavities, they make clicking noises that are amplified in a structure called the melon located in their foreheads. These clicks (projected ahead of the dolphin at a rate of up to 2,000 per second!) bounce off objects (such as prey), return, and are funneled to the animal's inner ear and brain by way of the lower jaw. Besides making instantaneous sense of information produced by sonar-echolocation, the dolphin's brain is remarkable in another way. While sleeping, it effectively shuts down one half of its brain while the other half maintains a low level of alertness. In this way the dolphin retains its situational awareness and is able to keep rising to the surface for breaths of air. It will carry on this way for about two hours before switching and resting the other half of its brain. This is quite an evolutionary adaptation on the part of dolphins and other marine mammals which allows them to sleep at sea without drowning!</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.234562,
+          29.714922
+        ]
+      },
+      "properties": {
+        "name": "Be a Junior Ranger",
+        "notes": "Be a Junior Ranger\nhttps://www.nps.gov/places/000/be-a-junior-ranger.htm\n\n<p>The Junior Ranger Program encourages children ages 4 and above and their parents to explore both the history and nature of Fort Matanzas as a family and is a fun way for young visitors and their families to get the most out of their visit. As Junior Rangers, children will be a part of our team helping to protect our parks.<br /> <br /> Free booklets are available in the Visitor Center or digitally <a href=\"https://www.nps.gov/foma/learn/kidsyouth/beajuniorranger.htm\">here </a>.</p> <h3>To Become a Junior Ranger Do the Following</h3> <p>Look at the models and read the exhibits in the visitor center and breezeway<br /> Watch the movie about the park and fort<br /> Visit the fort<br /> Walk the nature trail or beach boardwalk<br /> Complete five or more of the activities in the booklet. Blue-starred activities are for children age 4-7; red-starred activities are for children age 8 and up.<br /> <br /> Completing these requirements will earn children a certificate of completion and an official Junior Ranger Badge from Fort Matanzas National Monument.<br /> <br /> Allow at least 1 1/2 hours to complete the Junior Ranger Program during your visit.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.231494,
+          29.717579
+        ]
+      },
+      "properties": {
+        "name": "Beach Ramp Parking",
+        "notes": "Beach Ramp Parking\nhttps://www.nps.gov/places/000/beach-ramp-parking.htm\n\nThe beach ramp parking area is the exit only ramp for driving on the St. John's County area beaches. Beach driving is not allowed on the Fort Matanzas Beach. There is no oversized parking available.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.231129,
+          29.717884
+        ]
+      },
+      "properties": {
+        "name": "Beaches",
+        "notes": "Beaches\nhttps://www.nps.gov/places/000/beaches.htm\n\n<p>The beaches of our National Monument are some of the most beautiful and popular in St. Augustine. One visit and you will see why! <br /><br />The park-protected beach stretches from the beach ramp all the way to the ferry docks. If you are at the park entrance, you will see a parking area directly across A1A. The beach ramp is open during the summer months and is operated by the county as an exit only ramp. If you wish to drive on the beach, head north on A1A to access the beach from another ramp; you will drive south and exit at our ramp. The beach south of the ramp is NPS property and is closed to motorized vehicles.<br /><br />If you drive south on A1A, you will find two parking areas before the bridge over the Matanzas Inlet. On the northbound side is a boardwalk over the dunes to the beach, an area that is favored by surfers and fishermen. The lot on the southbound side provides access to the river with a short, accessible boardwalk. The river side often has shallow areas ideal for swimming. Remember that the currents near the inlet are extremely strong as the tides go in and out. Use caution when swimming and supervise children closely. <br /><br />A popular fishing area is on the southern end of Rattlesnake Island. There is a small parking area accessible by a dirt road in the Summer Island neighborhood. Access to the fort itself is only permitted by the NPS ferry boat. Visitors on foot or in personal watercraft may not access the fort. <br /><br />Wherever you choose to enjoy our beaches, be safe and help us to preserve and protect our resources.<br /></p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.229894,
+          29.715201
+        ]
+      },
+      "properties": {
+        "name": "Brown Pelican",
+        "notes": "Brown Pelican\nhttps://www.nps.gov/places/000/brown-pelican.htm\n\n<p>What would Florida be without the pelican?? One of the joys of a visit to the shore is sighting a flotilla of these large, distinctive birds, silently gliding up or down the coastline with an occasional beat of their strong wings. Or watching them perched on dock pilings, looking like ambassadors for a sub-tropical lifestyle that winter-weary human snowbirds look forward to on each and every visit. Indeed, pelicans are so associated with the Florida coastal environment that we sometimes take them for granted, forgetting that we once almost lost them to the black hole of extinction.<br /> There are two species of pelicans in Florida, the more common brown pelican, which is a year-round resident, and the migratory American white pelican that spends its winters in Florida and the rest of its time in the northern states and Canada. Their common names describe them pretty accurately, and if seen side by side it would be hard to confuse them, though the brown pelican does have a good bit of white on its head and neck to go along with its grayish-brown body. They can grow upwards of 50 inches in length, weigh around nine pounds, and sport an impressive seven foot wingspan. Their most distinctive anatomical feature is doubtless the pouch which hangs below their long, lower bill. These elastic pouches can hold up to three gallons of water- three times as much liquid as can be contained in their stomachs! The ability to hold so much water at one time comes into play when it's time for the pelican to catch its main food source- fish.<br /> Pelicans require up to four pounds of fish (and perhaps some shrimp) per day to survive. So as they are flying at up to 70 feet high above the ocean, with their long necks folded backwards and their heads resting on their backs, their keen eyes are looking below for schools or even single fish in the water below. When they spot a likely meal, they dive straight down on their unsuspecting quarry and use their pouches to gather up as many fish as they can, along with a large amount of water. However, the water is squeezed out of their mouths, and the trapped fish are then swallowed. If the fish are not located right at the surface of the water, no problem, as pelicans are strong swimmers and can dive as deep as 30 feet. Striking the water at great speeds, as well as surfacing from many feet below, is made possible by the existence of air sacs beneath the bird's skin that cushions impacts and provides buoyancy.<br /> The pelican's pouch is useful for more than just feeding. It is also used as a cooling mechanism in the heat of the summer when water evaporates off the skin surface. But its use as a feeding trough is most appreciated by young pelicans when the parents bring them back a meal to the nest! While as adults they can live up to 30 years in the wild, they reach their breeding stage at about four years of age. Gregarious creatures by nature, they nest in large colonies, sometimes located in mangrove forests, primarily during the months of March through May. The male dutifully gathers and delivers reeds, grass, straw, and sticks to the female, who takes on the chore of building the nest in intertwined branches. She subsequently lays two to three eggs, and both parents will trade off incubating them for about one month. When the chicks are born they are altricial, meaning they are blind, featherless, and completely dependent upon their parents. They develop quickly though, and typically fledge about 75 days after hatching.<br /> Not too many things in nature pose a threat to healthy, adult pelicans as long as they have access to adequate amounts of fish and nesting habitat. It was not until the late 19'th century that their population numbers began to drop, and that was because their feathers suddenly become fashion items in the millinery trade and were in great demand to decorate ladies' hats! Additionally, many pelicans were killed by fishermen in the early 20'th century who thought that the birds were competing with them for fish. (The type of fish eaten by pelicans actually tend not to be the commercial species targeted by fishermen.) Because of these twin threats and their effect on pelican numbers, President Theodore Roosevelt set aside what would become the first National Wildlife Refuge- Pelican Island, near Vero Beach, Florida, in 1903.<br /> Though early protections for pelicans helped, widespread use of the pesticide DDT beginning in the 1940's led to decimated pelican (and other bird) species by the 1960's. (DDT causes birds' egg shells to thin to the point where they can be crushed even by the weight of a mother bird incubating them in the nest.) Pelican numbers had dropped so low that the federal government listed them as an endangered species in danger of extinction throughout their range in 1970. DDT was banned by the Environmental Protection Agency in 1972, and consequently pelican populations began to rebound. In fact, pelicans made such a comeback that in 1985 the populations in Florida and other eastern states were removed from the federal list of threatened and endangered species.<br /> While pelicans are once again a common sight in Florida and elsewhere, they still warrant our protection. They need wild, undeveloped habitat to nest in, and unpolluted waters from which to catch fish. Discarded fishing line entangles many birds each year and subjects them to a slow and unnecessary death. But the birds are a sign of hope that when people care and act, extinction of wildlife is not inevitable, and that we can share our fast growing state with its wild creatures, including one of Florida's best loved- the pelican.<br />  </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.233827,
+          29.715266
+        ]
+      },
+      "properties": {
+        "name": "Coastal Hammock Trail",
+        "notes": "Coastal Hammock Trail\nhttps://www.nps.gov/places/000/coastal-hammock-trail.htm\n\n<p>Pick up a free trail guide to learn about the oldest and highest part of the barrier island is covered with a forest called a hammock (\"shady place\") -- an ancient dune on which larger plant species have taken root in the thin layer of decayed remains from pioneer species.<br /> <br /> Cabbage palm, red bay, magnolia, and live oak provide a canopy under which diverse animal species can thrive. These plants provide food for animals as well as for migrating birds who stop for a rest in the maritime forest.<br /> <br /> Follow this <a href=\"https://www.nps.gov/foma/learn/nature/nature-trail-guide.htm\">link</a> for a digital trail guide.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.234847,
+          29.714909
+        ]
+      },
+      "properties": {
+        "name": "Crumbling Coquina",
+        "notes": "Crumbling Coquina\nhttps://www.nps.gov/places/000/crumbling-coquina.htm\n\n<p>Fort Matanzas was built using coquina, a local limestone. This porous limestone is made from millions of seashells pressed together for thousands of years. The Spanish coated the fort walls with plaster made from oyster shells to help waterproof the structure.<br /> <br /> You can help us preserve the fort for generations to come: touch this sample of coquina instead of the historic walls.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.238961,
+          29.715218
+        ]
+      },
+      "properties": {
+        "name": "Dirt Filling",
+        "notes": "Dirt Filling\nhttps://www.nps.gov/places/000/dirt-filling.htm\n\n<p>A solid foundation is vital for a fortification, especially underneath the heavy cannons.<br /> <br /> With the exception of the water cistern at the center, the base of the fort is filled in with dirt and construction debris. There was no need for extra storage space or to spend the time and resources to construct it of solid stone. The outer walls provided adequate protection against enemy attacks. The dirt filling provided enough support for the living space and observation tower as well as heavy cannons on the gundeck.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.234822,
+          29.714674
+        ]
+      },
+      "properties": {
+        "name": "Docks",
+        "notes": "Docks\nhttps://www.nps.gov/places/000/docks.htm\n\n<p>Since the 1930s, visitation to the park has greatly increased and the docks have gone through many changes. The first Visitor Center Dock was built in 1935 and was a simple wooden structure. It was replaced in 1978-1979 by an aluminum floating dock that moved with the tides. That dock was later replaced in 2001 with a concrete floating dock which is in use today. This dock has since been modified to work with the two current boats which began their ferry service in October 2011.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.23328,
+          29.713845
+        ]
+      },
+      "properties": {
+        "name": "Dunes Overlook",
+        "notes": "Dunes Overlook\nhttps://www.nps.gov/places/000/dunes-overlook.htm\n\n<p>Look for wildlife tracks in the sand. You might see the paw prints of a raccoon, opossum, or even a bobcat. Look carefully for the faint trace of a lizard or a black racer snake. You may see a racerunner lizard itself, but because of daytime heat and the threat of being caught by predators, many wild animals search for food in the dark of the night.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.23269,
+          29.71459
+        ]
+      },
+      "properties": {
+        "name": "Eastern Red Cedar-1",
+        "notes": "Eastern Red Cedar-1\nhttps://www.nps.gov/places/000/eastern-red-cedar-1.htm\n\n<p>The evergreen foliage attracts wildlife for food, protection, and nesting. Its fruit, young branches, and leaves have aromatic oils used in a variety of medicines. A tea made from its leaves can relieve a cough or calm restlessness.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.234981,
+          29.714739
+        ]
+      },
+      "properties": {
+        "name": "Ferry to the Fort",
+        "notes": "Ferry to the Fort\nhttps://www.nps.gov/places/000/ferry-to-the-fort.htm\n\n<p>While there are many things to do at Fort Matanzas National Monument, there is only one way to get to the fort. As long as weather, equipment, and staffing allows, we run our modern USCG inspected ferry 5 days a week except for Christmas and Thanksgiving. <br /> <br /> <span style=\"color:#c0392b;\">Wednesday - Sunday Only:</span> Your space on the ferry is free. Althought reservations are required. Tickets for the Fort Matanzas Ferry are available at the park's visitor center on a first come, first served basis.<br /> <br /> Tours depart the dock at 9:30, 10:30, 11:30, 1:30, 2:30, & 3:30<br /> <br /> Ticket holders must be present when boarding begins at 25 minutes after the hour. Due to popular demand, your seat will be filled if you don't arrive on time.<br /> <br /> Plan to arrive early. Parking spaces and ferry tickets go fast!<br /> <br /> <span style=\"color:#c0392b;\">The ferry will not be running on Monday or Tuesday.</span></p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.239294,
+          29.715428
+        ]
+      },
+      "properties": {
+        "name": "Fort Ground Level",
+        "notes": "Fort Ground Level\nhttps://www.nps.gov/places/000/fort-ground-level.htm\n\n<p>Fort Matanzas is located on a barrier island, which is volatile and ever-changing by nature. Today's landscape is totally different from what the Spanish soldiers would have seen.<br /> <br /> The landscape around Fort Matanzas has changed much over the years. Logs written by the fort's officers describe the island as less than two acres in size. Officers also made log entries describing the condition of the fort. Officer Estevan LaCal, who was stationed at the fort in July of 1796, wrote \"The cement of the fort is deteriorating under the ocean waves.\" Most of the land and rocks surrounding the fort today were added by the National Park Service to help secure the foundations from further erosion. The current size of Rattlesnake Island is due in part to the dredging of the Intracoastal Waterway, which can be seen to the West of the fort.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.23419189453125,
+          29.715660095214844
+        ]
+      },
+      "properties": {
+        "name": "Fort Matanzas",
+        "notes": "Fort Matanzas\nhttps://www.nps.gov/places/fort-matanzas.htm\n\nFort Matanzas National Monument preserves the fortified coquina watchtower, completed in 1742, which defended the southern approach to the Spanish military settlement of St. Augustine.  It was often staffed by seven to ten soldiers, that left St. Augustine for one month of work at the watchtower.  The National Park Service operates a free ferry service to the fort daily.  The first is at 9:30, and the last is at 3:30.  Each tour includes a ranger led presentation about the fort's story.  To take this tour, stop in the park's visitor center for a boarding pass.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.239013274,
+          29.7152550473
+        ]
+      },
+      "properties": {
+        "name": "Fort Matanzas",
+        "notes": "Fort Matanzas\nhttps://www.nps.gov/places/000/fort-matanzas.htm\n\n<p>Coastal Florida was a major field of conflict as European nations fought for control in the New World. As part of this struggle, Fort Matanzas guarded St. Augustine's southern river approach. </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.23511,
+          29.715335
+        ]
+      },
+      "properties": {
+        "name": "Fort Matanzas Fishing",
+        "notes": "Fort Matanzas Fishing\nhttps://www.nps.gov/places/000/fort-matanzas-fishing.htm\n\n<p>Fishing is one of the best kept secrets of Fort Matanzas National Monument. With our close proximity to the Matanzas Inlet, we have an abundance of salt water fish species and a wide area to fish, both on the river side and ocean side. Recreational fishing provides a fun way to enjoy the outdoors with your family and maybe even catch your own dinner if you're lucky.</p> <h3>Getting Started</h3> <p>To get started, in most cases you will need a salt water fishing license. Licenses are available at most of our local bait and tackle shops, or you can get one online, along with more information at the following link: http://myfwc.com/license/. The typical equipment needed is a spinning rod/reel with 10-20 pound test line, small (1/0) hooks, and weights or sinker. Frozen shrimp or squid works well for bait, but the serious fishermen recommend using live bait (finger mullet or fiddler crabs). Bring a bucket or cooler, water, and sunscreen.<br /> You may fish anywhere along our shoreline in the Park, on both the ocean and river side, with the exception of the posted area next to the ferryboat docks. You will find the easiest access during low tides. You can check the tides prior to your visit at the following link: https://tidesandcurrents.noaa.gov/noaatideannual.html?id=8720686</p> <h3>Do's and Don'ts</h3> <p>Fishing is allowed from 9 am until 5:00 pm daily. Do follow the Florida Saltwater Fishing Regulations regarding size, seasons, and catch limits. You can get this information at the following link: http://myfwc.com/fishing/saltwater/recreational/. Practice conservation by using circle hooks and releasing any fish you don't plan to eat. For more information about catch and release fishing see http://myfwc.com/conservation/saltwater. Please do not dig for bait inside the Park boundaries. Alcohol and glass containers are prohibited. Do use courtesy alongside fellow anglers by not crowding them. If you pack it in, please pack it out. Do take all your trash at the end of the day and never leave behind discarded fishing line. It tangles up turtles, birds and other wildlife and goes on killing for years. We have special recycle tubes for discarding used fishing line. Help us preserve this beautiful shoreline by doing your part to keep it clean.</p> <h3>Types of Fish</h3> <p>The species of fish caught can vary by season and include most of the saltwater species found along most of Florida's Atlantic inlets. Mangrove snapper and grunts are here year round. Flounder are sandy bottom dwellers and love live shrimp. Red drum (redfish) and bluefish prefer live bait but are also caught on artificial lures. Sheepshead are found around the rocks and docks and are attracted to live crabs. Mullet are seasonal and usually caught with a cast net. What you catch can also depend on the days. Some days are hot, some are not.<br /> <br /> Ask a local fisherman what's biting. They are usually happy to talk about it. But take the advice with \"a grain of salt,\" as they say, since some fishermen have sometimes been known to stretch the truth.<br /> <br /> Follow this <a href=\"https://www.nps.gov/foma/planyourvisit/fishing.htm\">link</a> to learn more about fishing in the area.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.23901327396891,
+          29.715255047256495
+        ]
+      },
+      "properties": {
+        "name": "Fort Matanzas Virtual Tour",
+        "notes": "Fort Matanzas Virtual Tour\nhttps://www.nps.gov/places/fort-matanzas-virtual-tour.htm\n\n“Parked” at home? You can still experience Fort Matanzas!<br /> <br /> We have many different virtual visit opportunities on our website, including a virtual tour and a 3D model of Fort Matanzas!<br /> <br /> To learn more about virtual tours, please visit: <a href=\"https://www.nps.gov/foma/learn/photosmultimedia/virtualtour.htm\">Virtual Tour - Fort Matanzas National Monument </a><br />  ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.229777,
+          29.713625
+        ]
+      },
+      "properties": {
+        "name": "Gopher Tortoise",
+        "notes": "Gopher Tortoise\nhttps://www.nps.gov/places/000/gopher-tortoise.htm\n\n<p>Who's been digging all those holes in the scrub habitat at Fort Matanzas National Monument?<br /> <br /> The shape of the holes gives an important clue as to who is responsible. The holes are typically hemispherical, as if something with a flat bottom and a convex top did the digging. There's basically only one creature which possesses such distinguishing characteristics- a tortoise! In this case, it's the gopher tortoise (Gopherus polyphemus), an inhabitant of the coastal scrub that is known for digging burrows in the sand. Besides its shell, made up of a flat bottom (plastron) and curved top (carapace), another clue is the shape of its appendages. Its forefeet are shovel-like, perfect for digging and flinging sand in a backwards motion. The \"holes\" that are visible at ground level are actually the entrances to burrows that the tortoises dig. The burrows can be as long as thirty feet and as deep as eight feet, though occasionally they exceed even these limits. While in its burrow, a tortoise is sheltered in a homeothermic environment, meaning it is not exposed to extreme heat or cold. This is important since, being a reptilian species, the tortoise itself is heterothermic (\"cold-blooded\") and not able to maintain a constant body temperature through efficient metabolism.<br /> <br /> If the weather is favorable (typically a warm and sunny afternoon), then a visitor to the park is likely to see not only gopher tortoise burrows, but the tortoises themselves. Because they are encased in a protective shell, tortoises have little to fear from non-human predators, so they are not secretive as they roam through the scrub munching on greenbrier, cactus, and other green plant material. The biggest threat to tortoises occurs when they cross a busy road in search of mates or greener pastures. When they feel the vibrations of an approaching vehicle, their instinct is to retreat into their shells and wait until the danger has passed. Throughout their long evolutionary history this was a perfect form of defense honed by natural selection. However, on a busy roadway such as A1A, this is a recipe for disaster. Park managers are concerned about wildlife mortality in general, and gopher tortoise deaths in particular along A1A as it runs through the park. As such, tallies are being kept of all roadkill noted throughout the year. (Fifteen gopher tortoise deaths documented in 2011.) It is hoped that with enough data the Florida Department of Transportation may be persuaded to lower the speed limit on A1A through the park so that motorists will be less likely to hit wildlife in the road. (Wildlife crossing signs are also being discussed, but the decision is up to FDOT since it is the managing entity over A1A.)<br /> <br /> Why are park managers so concerned about gopher tortoise deaths in particular? The reason is that throughout their range (the coastal plain from Mississippi to South Carolina), gopher tortoises are becoming increasingly rare. In fact, they are considered a threatened species by the state of Florida, and are a candidate species for listing under the federal Endangered Species Act. The primary threat to the gopher tortoise species is destruction of its preferred habitat through urbanization and coastal development. Areas where the gopher tortoise has historically lived are coastal dunes and scrub, sandhills, flatwoods, and prairies. What these areas have in common are well-drained, sandy soils, and a relatively open understory. The increasing human population throughout the historical range of the gopher tortoise (in Florida, particularly since the 1950s) has meant that a vast proportion of natural landscape once utilized by tortoises is no longer available. Parks such as Fort Matanzas, which preserve remnants of wild, undeveloped Florida, are becoming critical to the survival of the gopher tortoise, as well as many other animals and plants, as viable species.<br /> <br /> Park managers have long held a reasonable assumption that gopher tortoises are abundant throughout the open habitats of Fort Matanzas. This is based on anecdotal evidence of tortoise and burrow sightings throughout the years, but from 2011 to 2013 an effort was made to try to quantify just how many gopher tortoises were inhabiting likely habitat within the park. Using a survey protocol developed by the state's wildlife management agency, park staff and volunteers surveyed the park's scrub habitat in order to document gopher tortoise presence and abundance. Per the protocol, the areas in question were overlain with an imaginary grid of belt transects spaced sixteen feet apart. Each transect was walked and the number of potentially occupied burrows were noted. The totals were then put into a formula which converted the number of potentially occupied burrows into the number of gopher tortoises per acre surveyed. (Tortoises use more than one burrow throughout their home range so there's not a direct correlation between number of burrows and number of tortoises.) What the survey revealed was that the area investigated by park staff supported on average about four tortoises per acre. Four tortoises per acre is considered a very healthy population! Future surveys will be performed to discover if the park's resident population experiences upward or downward trends from this baseline.<br /> <br /> One of the best places for the visiting public to potentially see gopher tortoises at Fort Matanzas is from the ocean boardwalk. There is an interpretive area along the boardwalk that highlights the use of tortoise burrows by other creatures of the dunes.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.238988,
+          29.715228
+        ]
+      },
+      "properties": {
+        "name": "Guardroom",
+        "notes": "Guardroom\nhttps://www.nps.gov/places/000/guardroom.htm\n\n<p>Spanish soldiers left their houses in St. Augustine to man Fort Matanzas for 30 days at a time. This room became their shared home away from home.<br /> <br /> The first floor room served as the enlisted men's quarters. The soldiers cooked, ate, and slept in this room. Opposite the fireplace was a long, wooden sleeping platform. Benches and a table completed the furnishings. On average, six people shared this room. More men could be assigned as needed. The small openings on the south wall are loopholes for firing muskets. The windows had shutters to keep out rain and the damp chill of the winter winds.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.238948,
+          29.715211
+        ]
+      },
+      "properties": {
+        "name": "Gundeck",
+        "notes": "Gundeck\nhttps://www.nps.gov/places/000/gundeck.htm\n\n<p>The gundeck is the most fearsome part of the fort. At one time, this watchtower boasted 5 cannons, one of which could shoot up to three miles down range.<br /> <br /> Fort Matanzas is a very simple structure, its main strengths being the artillery and its strategic location. Five cannons once guarded the fort. Each cannon could easily reach the inlet, then only a half-mile away. Two original cannon still stand guard at the fort today. These guns were placed at the fort in 1793 and left behind by the Spanish when they departed Florida in 1821. The other two cannon now on the gun deck are modern reproductions used for the park's cannon firing demonstrations.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.23356,
+          29.71505
+        ]
+      },
+      "properties": {
+        "name": "Hercules Club",
+        "notes": "Hercules Club\nhttps://www.nps.gov/places/000/hercules-club.htm\n\n<p>Also known as the toothache tree, its bitter bark is a home remedy for toothache. In fact, all of its plant parts-seed, fruit, bark, and root-are useful. Seeds can be used like pepper and a tonic from the fruit can ease a stomach ache.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.23337,
+          29.71506
+        ]
+      },
+      "properties": {
+        "name": "Holly & Myrtle",
+        "notes": "Holly & Myrtle\nhttps://www.nps.gov/places/000/holly-myrtle.htm\n\n<p>These evergreens have oval-shaped leaves, but differ in the details. The yaupon holly leaf is a near perfect oval with only a slight serration. The wax myrtle leaf is wavy and has a more pointed base with noticeable notches along its edge.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.205032,
+          29.711851
+        ]
+      },
+      "properties": {
+        "name": "Least Tern",
+        "notes": "Least Tern\nhttps://www.nps.gov/places/000/least-tern.htm\n\n<p>\"Don't move! I'll be right back with lunch!\" If you could translate Tern-speak, this is what you might hear in May or June at the least tern nesting colony at the southern tip of Anastasia Island at Fort Matanzas National Monument.<br /> <br /> Each spring this smallest member of the tern family leaves its wintering grounds along the coast of Central and South America. Some fly through Mexico to California; others follow the Mississippi River, and others fly to the eastern coast of the United States for the summer nesting season.<br /> <br /> A social bird, least terns nest in colonies of only a few nests to several hundred nests, depending on the availability of food, suitable sand (coarse and shelly), and disturbance (or lack of it). Colonial nesting is also a protection against predators such as raccoons, dogs, and house cats. Colonies usually return to the same nesting site each year. In the past few decades, due to habitat loss and crowded beaches, some least terns have begun nesting on the flat, gravel roofs of buildings!<br /> <br /> In late March and early April the terns begin to arrive. The male least tern dives headfirst into the water to catch a small fish which he offers to a prospective mate. She will look him over and appraise his gift. If she accepts the fish, they will become a mated pair for that season.<br /> <br /> Here at Matanzas, there is plenty of food in the ocean and estuary, and the coarse coquina sand at the south end of Anastasia Island is ideal for least tern nests. (The colony at Fort Matanzas is the largest on Florida's east coast. In 2010 there were over 200 nests.) The nest is only a shallow scraping in the sand. After mating, the female lays 2-3 cream-colored, speckled eggs which are nearly invisible against the varicolored sand. Both male and female take their turns incubating the eggs and protecting them and then the chicks from the sun.<br /> <br /> After about 21 days, the eggs hatch into tiny, cream-colored, speckled chicks, which, for the first few days stay still in the nest, avoiding predators. After about four days the chicks are able to leave the nest and exercise their legs. Somehow, even though there might be hundreds of identical-looking chicks scurrying around the nesting grounds, the adults always know which ones are theirs (and vice versa) as the hungry chicks come running up for a meal every hour.<br /> <br /> <br /> <br /> Within another four weeks (June and July) the young birds are fully fledged and ready to fly. However, if storms or predators wipe out the early nests, the pairs will often re-nest, extending the season into August or September.<br /> <br /> Both parents are very protective of the nests and chicks, dive bombing and even defecating on people or animals who come near. Disturbance of the birds threatens the survival of the eggs and chicks, because when the adults are forced to fly up in defense, it leaves the eggs and chicks exposed to the hot sun and to predators such as crows, herons, and gulls. If adults are disturbed repeatedly, they may even abandon their nests.<br /> <br /> By 1900, the species had been nearly wiped out by plume hunters seeking to satisfy the latest fashion statement-- feathers or even whole birds on women's hats. The species never fully recovered. Least terns are now listed as a threatened species in Florida based on this previous population decline and more recently, threats to their coastal habit.<br /> <br /> If you walk down the beach to look at the terns, please respect closed areas and keep your distance. If the birds fly up, you are too close. Leave your dog at home or keep it on a 6-foot leash. Birds perceive dogs as predators and will be disturbed even if the dog is not actively chasing them. An agitated bird is not able to look for food for its chicks. If you live close to the beach, keep your cats indoors.<br /> <br /> Only through protection of existing breeding areas can the continued existence of least terns be assured in Florida.<br /> <br /> The birds use only a small area of the beach for only about three months. People can have it for the rest of the year. Give terns a chance.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.23406,
+          29.715597
+        ]
+      },
+      "properties": {
+        "name": "Live Oak",
+        "notes": "Live Oak\nhttps://www.nps.gov/places/000/live-oak.htm\n\n<p>When people think of a symbol of the American south, they often think of the graceful and majestic live oak festooned with Spanish moss or resurrection fern, like the gnarled old trees in the picnic area at Fort Matanzas.<br /> <br /> While many species of oak trees are found throughout the world's temperate zones, live oaks are native only from Virginia south to Florida and west to central Texas, especially thriving in the heat and humidity near the coast where they often form dense strands such as along the Fort Matanzas nature trail. (Some of the trees, especially in the scrub area, are the closely related species sand live oak.)<br /> <br /> Live oaks possibly get their name because, unlike most other deciduous oaks which drop their leaves in the winter and might look dead, live oaks lose and replace their leaves gradually throughout the year and so look \"live\".<br /> Unlike many other oak trees, live oaks have narrow, smooth-edged leaves, although the leaves of young trees do show some teeth. The edges of these shiny, thick, dark green leaves often curl under. The thick, waxy coating and curling help the tree conserve moisture during the long, hot summers.<br /> <br /> Live oaks are fast growing, hardy trees that prefer acidic, sandy soil and lots of sun. They are fairly salt tolerant, but if you look at them from the side of the picnic area parking lot, you will notice that they appear to be bending away from the ocean. This is due to salt pruning in which salt in the air kills the tender buds on the side closest to the beach.<br /> <br /> Live oaks produce hanging male flowers called catkins which fill the air (and coat our automobiles) with yellow pollen in the spring. Small female flowers appear in clusters where the leaves join the twigs. Later, dark brown acorns are produced. The sweet \"meat\" within the acorn is coveted by birds, squirrels, and even deer. In earlier times, the Native Americans of the area ground live oak acorns into meal.<br /> <br /> Live oaks are known for their large size. The trees grow up to 60 feet tall, and the large canopy typically spreads nearly twice their height. The huge branches of mature trees droop and grow horizontally, sometimes even sweeping the ground. The champion live oak in Waycross, GA is 86 feet tall with a crown spread of 143 feet, and a trunk that is ten feet in diameter. Live oaks are also known for their age. Some scientists think that the Angel Oak in Charleston, SC is more than 1,400 years old.<br /> Tree boring has dated the large oaks in the Fort Matanzas picnic area to almost 200 years old.<br /> <br /> During the time of wooden sailing ships, live oak trees became very important because almost every curve found in a ship's hull could be cut from the curling branches live oaks. Also, the wood is very hard and strong. Dried live oak wood weighs about 60 lbs. per cubic foot, making it among the heaviest of any North American tree. The wood is also resistant to disease and decay. The USS Constitution was one of the famous ships built of live oak timbers, receiving the nickname Old Ironsides due to the strength of its oak construction. In the War of 1812 the USS Constitution engaged the British ship HMS Laurant. Old Ironsides shattered and crushed the Laurant's hull which was made of pine.<br /> <br /> In 1826 President John Adams set aside a stand of live oaks on Santa Rosa Island near Pensacola to assure a future supply of timber for the U.S. Navy. Some of these trees are still protected there in the Naval Live Oak area of Gulf Islands National Seashore.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.239036,
+          29.715265
+        ]
+      },
+      "properties": {
+        "name": "Magazine",
+        "notes": "Magazine\nhttps://www.nps.gov/places/000/magazine.htm\n\n<p>Gunpowder storage was vital, even at this small watchtower. Cannons were the soldiers' only defense against an invading enemy.<br /> <br /> Located within the west wall of the fort and accessed only through the officer's quarters, the powder magazine kept the dangerous black powder from open flames used for heat and light. The magazine shaft extends down through the wall to the level of the gundeck. Although thick walls protected the black powder from enemy fire, humidity was often a problem.<br /> Screen reader support enabled.<br /> <br /> <br /> <br /> <br /> Located within the west wall of the fort and accessed only through the officer's quarters, the powder magazine kept the dangerous black powder from open flames used for heat and light. The magazine shaft extends down through the wall to the level of the gundeck. Although thick walls protected the black powder from enemy fire, humidity was often a problem.<br />  </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.231465,
+          29.704855
+        ]
+      },
+      "properties": {
+        "name": "Matanzas Inlet/River",
+        "notes": "Matanzas Inlet/River\nhttps://www.nps.gov/places/000/matanzas-inlet-river.htm\n\n<p><br /> What connects Matanzas Bay to the Matanzas Inlet and flows right past Fort Matanzas? The Matanzas River of course! (You may notice a bit of a theme here.) Unlike most rivers, the Matanzas doesn't flow in just one direction. It is a tidally influenced waterbody that connects two ocean inlets- one at the port city of St. Augustine, and the other fourteen miles south (as the crow flies) at Fort Matanzas National Monument. Depending on if the tide is outgoing or incoming, the river may be full to its banks and flowing inland, or exposing lots of shoreline and streaming towards the sea. Because the inlets are relatively narrow, the currents can clip along at four knots during a spring tide when water is being forced in or out of the constricted openings. This is also when the tidal range is at its greatest at approximately 6 feet difference.<br /> <br /> All told the river is nearly 23 miles long, and on its course between the inlets it forms the western boundary of Anastasia Island, a classic east coast barrier island. The Matanzas technically runs for another seven miles or so south of the southern inlet until it melds with the Halifax River at about the Volusia County line. Much of this reach is in fact the result of dredging to complete the Intracoastal Waterway in this area in 1907. While the depth of the river varies greatly depending on the tidal cycle, in the Fort Matanzas area lower spots within the river can reach as deep as twenty feet.<br /> <br /> The Matanzas Inlet is the only remaining un-dredged inlet on the east coast of Florida. The inlet's position at the southern tip of the barrier island has progressed even further south over the centuries as the island itself has accreted with the littoral, southward flowing prevailing current. When the Spanish colonists built Fort Matanzas in 1740-42, the position of the inlet was more directly across from where the fort stands today. They constructed the formidable, coquina block watchtower to defend the southern waterway approach to St. Augustine. That city, founded by the Spanish in 1565, is now the nation's oldest port, and Matanzas Bay and the St. Augustine Inlet serve as its maritime entrance. Also in 1565, the Matanzas Inlet was witness to another historical event- the slaughter of about 250 French colonists by the Spanish as the two European powers vied for control of North America. \"Matanzas\" is in fact the Spanish word for \"slaughters\".<br /> <br /> Though possessing of a violent name, the Matanzas River on most days epitomizes the tranquility of an \"old Florida\" natural landscape. The river is fed by many tidal creeks that help support vast areas of salt marsh along its flanks. The salt marsh is made up of cordgrass, needle rush, mangroves, and other plants that are tolerant of the rising and falling water levels, and the salinity of a system that is a mixture of ocean and fresh water. Oysters in particular do well in an estuarine environment, forming large beds and bars in some locations, where they help filter out and break down pollutants that are present in the water. In the shallow waters of the marsh many marine organisms find shelter when they are young and growing before heading out to sea as adults. In this way the marshes of the Matanzas River estuarine system act as a \"nursery\" for multitudes of fish, shellfish, and crustaceans (like shrimp), many of which are consumed by people. The marshes of the river also provide another service which benefits people. They are excellent at soaking up water and wind energy from storms off the ocean (including hurricanes), and so help keep inland areas from flooding and suffering even greater damage. For both natural and historical reasons, the Matanzas River is an integral feature of northeast Florida.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.23008728027344,
+          29.71312141418457
+        ]
+      },
+      "properties": {
+        "name": "Matanzas Rules & Regulations",
+        "notes": "Matanzas Rules & Regulations\nhttps://www.nps.gov/places/matanzas-rules-regulations.htm\n\n<a href=\"https://www.nps.gov/foma/learn/management/fort-matanzas-compendium.htm\">Fort Matanzas Compendium </a>- Click this link to view a collection of rules and regulations related to Fort Matanzas National Monument & the surrounding grounds",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.239,
+          29.715236
+        ]
+      },
+      "properties": {
+        "name": "Observation Deck -1",
+        "notes": "Observation Deck -1\nhttps://www.nps.gov/places/000/observation-deck-1.htm\n\n<p>The observation deck was one of the most vital parts of the Matanzas watchtower, as it enabled the soldiers to see for miles. Enemy ships would be spotted long before they posed a threat.<br /> <br /> Then, as now, a narrow ladder was the only access to the top of the tower. This opening probably had a cover to keep the rain out of the officer's quarters. The deck provided an excellent view of the inlet to the south. In 1742, the inlet was about a half-mile closer than it is now, within easy range of the fort's guns. To the north, the waterway leads to St. Augustine, fourteen miles away. The structure on top of the roof is a chimney, which vents the fireplace in the soldiers' quarters. This deck also collected rain water and funneled it through a drain into the fort's water cistern below.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.230721,
+          29.717951
+        ]
+      },
+      "properties": {
+        "name": "Ocean",
+        "notes": "Ocean\nhttps://www.nps.gov/places/000/ocean.htm\n\n<p>Fort Matanzas National Monument is located on the edge of one the world's most stupendous natural features- the Atlantic Ocean. The Atlantic is the second largest of the Earth's four oceans, covering about 21% of the globe and containing approximately 22 billion billion gallons of water. Its depth ranges from sea level to 27,841 feet at the Puerto Rico Trench (located north of the eponymously named island). Probably the most distinguishing feature of ocean water is its salinity. Due to the presence of salts and minerals washed into the seas over the eons from terrestrial sources, ocean water has a salinity of 3.5%. This is mostly due to the presence of sodium chloride, but also to minerals like magnesium, sulfate, calcium, potassium, etc. that were once part of rocks which were slowly eroded and carried downstream in rivers to their ultimate<br />destination.<br /><br />All the world's oceans are physically connected and together cover about 71% of the Earth's surface and collectively contain perhaps 352 quintillion gallons of water. The world ocean is the predominant natural feature on the planet.</p><h3>Ocean Acidification </h3><p>One would think that the world ocean would prove impervious to the actions of just one living species. And yet, it is no secret that the oceans are overfished and polluted with the byproducts of human civilization. (Microplastics, the degraded remnants of larger plastic items, are now found in surface waters throughout the globe.) Bad enough, but could the very chemistry of the oceans be changing due to humanity's influence? The answer is yes.<br /><br />It is well documented that excess carbon dioxide pumped into the atmosphere since the beginning of the Industrial Revolution has warmed the atmosphere and (along with other greenhouse gases) is responsible for a changing worldwide climate. What may be less appreciated is that every year about a quarter of the CO-2 released into the atmosphere is absorbed by the oceans. In fact, it is estimated by scientists at the National Oceanic and Atmospheric Administration and the Smithsonian Institution that the oceans have absorbed around an excess 525 billion tons of carbon dioxide since 1760 (or currently around 22 million tons per day)! <br /><br />When carbon dioxide and water mix, the result of their union is carbonic acid. In pre-industrial times, natural CO-2 in the atmosphere combining with ocean water maintained an ocean alkalinity of 8.2 on the pH scale. Since industry began in earnest that figure has fallen to 8.1 units. That may not seem like a lot, but keep in mind the pH scale is logarithmic. For example, pH 4 is ten times more acidic than pH 5, and 100 times more acidic than pH 6 (10 x 10). So a decrease of .1 pH units represents a 30% decrease in alkalinity. (pH 7 is considered neutral, with numbers less than that increasingly acidic, and numbers greater increasingly alkaline, or basic.) The term for the ocean becoming steadily less alkaline, and therefore more acidic, is ocean acidification. <br /><br />Already this doesn't sound good, but what is the specific concern about excess carbonic acid in the ocean? Acids, by definition, release hydrogen ions in solution. (An ion is an atom or molecule with a positive or negative electric charge.) Hydrogen ions are very reactive, and in the presence of a carbonate ion (CO-3) two hydrogen ions will bind with it to form a bicarbonate ion. Therein lies the rub: Shell-building marine animals combine relatively unreactive calcium ions in the water with carbonate to form calcium carbonate, the stuff of which their shells are made. However, they can't liberate carbonate from bicarbonate, and if bicarbonate is all that's available, they're out of luck. What's worse, if carbonate is not available in \"free\" form for hydrogen ions to bind with, they are reactive enough that they can break existing calcium carbonate apart to \"liberate\" the carbonate. In effect, sea shells will slowly dissolve in an acidic solution. <br /><br />Many marine organisms have calcium carbonate shells: mollusks like clams, oysters, scallops, snails, and mussels; crustaceans such as barnacles and crabs; echinoderms including sea urchins and starfish; and even calcareous protozoans like dinoflagellates, cocolithophores, and foraminifera. All these animals are important members of the marine ecosystem, with the protozoans in particular forming part of the oceanic plankton that is the basis of the food web. But perhaps the most concern lies in how ocean acidification may affect coral reefs in the long term. Coral reefs provide shelter for nearly one-quarter of all known marine species, including more than 4,000 species of fish. There are over 1 million species, plants and animals combined, that are associated with reefs in one way or another. Along with rain forests, coral reefs are one of the most biologically diverse ecosystems on Earth. With coral reefs already under threat from a warming ocean, impeding their ability to secrete their vital calcium carbonate shells may be something humanity most regrets in times to come. <br /></p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.230329,
+          29.713317
+        ]
+      },
+      "properties": {
+        "name": "Oceanside Boardwalk",
+        "notes": "Oceanside Boardwalk\nhttps://www.nps.gov/places/000/oceanside-boardwalk.htm\n\n<strong><span style=\"color:#e74c3c;\">Area CLOSED due to storm damage</span></strong><br /> <br /> Find free parking available at this oceanside parking lot. There is no oversized parking available. The area closes daily at 10pm; no overnight vehicles are permitted. Hazardous rip currents may occur along the ocean shore.  ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.239055,
+          29.715216
+        ]
+      },
+      "properties": {
+        "name": "Officer's Quarters",
+        "notes": "Officer's Quarters\nhttps://www.nps.gov/places/000/officers-quarters.htm\n\n<p>The commanding officer at Fort Matanzas could survey all activities at the watchtower from his second-floor quarters.<br /> <br /> The commander of Matanzas had this room to himself. The entrance to his room was a staircase from the gundeck. On the left is a wall separating the officer's bedroom from a food storage area and the entrance to the powder magazine. Thick walls protected the gunpowder from enemy fire. The officer had one window looking north and three small musket loopholes looking south toward the inlet. In the middle of the room is a ladder to the observation deck.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.233543,
+          29.714152
+        ]
+      },
+      "properties": {
+        "name": "Old World Showdown",
+        "notes": "Old World Showdown\nhttps://www.nps.gov/places/000/old-world-showdown.htm\n\n<p>One of the first colonial conflicts between European nations happened near here in 1565. Spain had already claimed Florida when France established Fort Caroline near present-day Jacksonville. This French outpost threatened the security of Spanish treasure fleets that sailed along the Florida coast. To defend its claim, protect its fleet, and defend the Catholic religion, Spain sent 800 sailors, soldiers, and civilians to remove the French Protestants (Huguenots) from Florida and start a Spanish colony.<br /> <br /> The French had barely survived a year when the Spanish founded St. Augustine in 1565. To secure their place in the New World, the French sailed south to attack the settlement. A storm scattered the French ships, stranding soldiers and leaving Fort Caroline weakly guarded. The Spanish attacked, capturing Fort Caroline.<br /> <br /> Later, the Spanish found the shipwrecked Frenchmen just south of where you now stand. They spared only a few professed Catholics and artisans needed in St. Augustine. In the end, about 250 people lay dead. Since then, the inlet has been called Matanzas, meaning, \"slaughter\" in Spanish.<br /> <br /> The Spanish found the Frenchmen helpless and unable to cross the inlet.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.234628,
+          29.714933
+        ]
+      },
+      "properties": {
+        "name": "Park Videos-1",
+        "notes": "Park Videos-1\nhttps://www.nps.gov/places/000/park-videos-1.htm\n\n<p>Our short movie is a great way to get oriented to the park and its history.<br /> <br /> Dedicated volunteers handle Fort Matanzas Visitor Center. They will usually be the first people to welcome you to our park, unless you explore our nature trails and encounter one of our rangers. Volunteers are essential to our park operations and are a wealth of information. Upon arrival to the Visitor Center they will provide you with a boarding pass for the next available ferry and encourage you to watch our park movie. The movie is about 8 minutes long and provides you with an overview of the park's history and resources. The Visitor Center will also have information about the park resources, weather, and upcoming special events, as well as a stamping station for the National Park Passport. Stop in and say hello!</p> <h3>Fort Matanzas Coastal Environment</h3> <p>Join volunteer Jim as he discusses the unique coastal environment at Fort Matanzas National Monument.<br /> <br /> To watch the video tap <a href=\"https://youtu.be/RxuLYCMA0MY\">HERE</a></p> <h3>Preservation</h3> <p>The mission of the National Park Service as Congress defined it, was basically two-fold; to preserve the scenery and the natural and historic objects, and the wildlife, and to do that in such a way that it is preserved for the enjoyment of future generations.<br /> <br /> To watch the video tap <a href=\"https://youtu.be/dysnSdtQ-VA\">HERE</a></p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.2341386736,
+          29.7154931474
+        ]
+      },
+      "properties": {
+        "name": "Picnic Area - Fort Matanzas",
+        "notes": "Picnic Area - Fort Matanzas\nhttps://www.nps.gov/places/picnic-area-fort-matanzas.htm\n\nLocated in the main visitor center entrance and parking is a beautifly shaded picnic area. Shaded by an old oak canopy. Here you will find a public restroom facility, nature trailhead, and sidewalk to the visitor center. This gated area of the park is open 9:00am - 5:30pm daily.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.238999,
+          29.715181
+        ]
+      },
+      "properties": {
+        "name": "Piling Grillage",
+        "notes": "Piling Grillage\nhttps://www.nps.gov/places/000/piling-grillage.htm\n\n<p>The marshy ground of Rattlesnake Island was less than ideal for a heavy stone fort, but brilliant construction techniques made it possible.<br /> <br /> Techniques for building stable foundations in unstable environments have evolved and improved over time. In the 18th century, wooden foundations were often the best option in in places such as the marshy shores of Rattlesnake Island. Friction pile construction consists of sturdy pine poles sunk vertically deep into the marsh. The poles were then connected by a grillage of square timbers. The next step was to place the coquina stone on top of the grillage. A 1978 archaeological investigation of Fort Matanzas showed the wood foundation still exists. Over the years, this foundation has settled with the changing environment.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.234567,
+          29.714866
+        ]
+      },
+      "properties": {
+        "name": "Preservation",
+        "notes": "Preservation\nhttps://www.nps.gov/places/000/preservation.htm\n\n<p>When Florida was ceded to the United States in 1821 the tower was abandoned and almost forgotten for nearly one hundred years. It was not until 1916 that efforts were first made to preserve this unique part of America's history. The National Park Service continues to preserve this structure for future generations.</p> <h3>1916</h3> <p>Early on, the United States War Department believed that the construction of modern coastal fortifications was a priority and was unprepared to devote any of its resources to preservation of obsolete fortifications. Finally things changed in 1916 when a Fortification Bill was signed and money was appropriated. These repairs stabilized the areas which needed the most attention and removed some vegetation from the fort. Funding ceased when the U.S. entered World War I.</p> <h3>1924</h3> <p>In early 1924 another authorization was made to conduct repairs on the fort. These repairs included tearing down and rebuilding portions of the East and South walls of the gun platform. Many stones were removed and much of the original stone was used in reconstructing these walls. Later that year, President Calvin Coolidge issued an order which declared Fort Matanzas a National Monument. Among the many projects undertaken at this time was a $750 allotment to reconstruct a sentry box.</p> <h3>1935</h3> <p>The National Park Service took over full operation of Fort Matanzas on July 1, 1935. At the height of the Great Depression the Public Works Administration (PWA), not to be confused with the Works Progress Administration (WPA) allotted funding specifically for restoration of the old watchtower. Projects included a complete reconstruction of the tower arch and a portion of the south side of the tower wall. Also, for the first time in the history of Fort Matanzas, a sea wall was installed around the building to prevent further erosion. Across the Matanzas River, land was set aside to build a visitor center complex. This visitor center still stands in operation today! Over the years, additional projects have been undertaken for the continued preservation and public use of the monument.</p> <h3>1972</h3> <p>The National Park Service began the current ferry service in 1972 when a local boat captain started a concession operation to take people to the fort. Over the years, the monument has also gone through a series of different boat docking facilities. The first was wood, followed by aluminum, and later upgraded to a floating concrete platform which now houses the park's ferry service. Today the monument has two Ferry Boats which carry over 70,000 visitors a year, while the overall park receives over 600,000. Today's funding for future projects actually comes from the admission fees taken at the Castillo de San Marcos National Monument. A percentage of those sales help keep the boats in service and fund future projects geared to preserving and maintaining this national treasure for the enjoyment of future generations.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.23440682888031,
+          29.71517178303312
+        ]
+      },
+      "properties": {
+        "name": "Resurrection Fern",
+        "notes": "Resurrection Fern\nhttps://www.nps.gov/places/resurrection-fern.htm\n\nThis fern is an epiphyte, meaning it grows on other plants (usually live oaks or cypress trees). They do not commandeer any water or nutrients from the plants they grown on; instead they absorb them from the surrounding air. In periods of no rain, they conserve water by shriveling up their fronds and turning brown. Resurrection ferns can lose up to 75% of their water content, a feat not many living species can survive. Once sufficient moisture soaks the area, they ‘resurrect’ and unfurl with fronds of vibrant green again. Because it looks like they come back to life each time this happens, they have received the common name of resurrection fern. ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.230244,
+          29.711702
+        ]
+      },
+      "properties": {
+        "name": "River Boardwalk",
+        "notes": "River Boardwalk\nhttps://www.nps.gov/places/000/river-boardwalk.htm\n\nThis riverside boardwalk offers free parking, and closes daily at 10pm; No oversized parking is available, and no over night parking. This swmming area offers a guarded beach, free from the crashing ocean waves. For your safety, avoid the sharp oyster shells and slippery rocks. Do not climb on the rocks or oyster shells; serious injury can result. You can see historic Fort Matanzas from this location.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.23261,
+          29.71469
+        ]
+      },
+      "properties": {
+        "name": "Sabal & Saw Palmetto",
+        "notes": "Sabal & Saw Palmetto\nhttps://www.nps.gov/places/000/sabal-saw-palmetto.htm\n\n<p>These palms both have long, narrow, blade-like fronds that radiate from a center point, but differ in their stem connection. Sabal palms have a defined center midrib and the saw palms have sharp, saw-toothed leaf stems.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.233211,
+          29.71519
+        ]
+      },
+      "properties": {
+        "name": "Sabal Palm",
+        "notes": "Sabal Palm\nhttps://www.nps.gov/places/000/sabal-palm.htm\n\n<p>One of the most prominent tree species growing at both Fort Matanzas and Castillo de San Marcos is the sabal palm (Sabal palmetto). This palm is widely distributed throughout the state, and is considered so indicative of Florida that it was chosen as the official state tree by the Florida Legislature in 1953.<br /><br />Another name for the sabal palm (its so-called \"common\" name) is cabbage palm. What is so apparently \"cabbage-like\" about the sabal palm that earned it this moniker? New palm fronds (the palm's green leaves) emerge from the top of the tree from a terminal bud that is shaped like a cabbage. Since this was the location where new green life emanated from the plant, some people considered it the \"heart\" of the palm. The fleshy, cabbage-shaped terminal bud is edible by humans, and was in fact a common food for Florida's Native American population. Even today people still use the tree as a food source (think heart-of-palm salad). Unfortunately, cutting out the terminal bud from a sabal palm will eventually kill the tree, since the bud is the only point where this species can produce new growth. (Luckily, other species of palms are available that don't die as a result of harvesting.) <br /><br />One of the many interesting facts about the sabal palm is that it and all other palm species are monocotyledons, or monocots. Monocots are a type of flowering plant that first evolved about 100 to 120 million years ago. (Sabal palms, in particular, evolved around 85 million years ago, making them one of the oldest palm species in existence.) What distinguishes monocots from other flowering plant species are anatomical features such as the way in which a monocot's vascular tissue is arranged. (Like animals, plants have a vascular system that transports water and nutrients throughout the organism.) In monocots the vascular bundles are arranged haphazardly, whereas in dicots they are segregated- water-carrying bundles towards the center of the plant, nutrient-carrying bundles towards the outer perimeter. The most important distinguishing feature is the number of cotyledons (or seed leaves) possessed by each type of plant. As the nomenclature implies, dicot seeds produce two leaves upon germination, and monocots only one. By virtue of their being monocots, palms are more closely related to other monocots such as grasses, corn, irises, and orchids than other types of flowering plants. <br /><br />Sabal palms are somewhat easy to identify based on their morphology, or growth form. They have tan-gray, unbranched trunks. All of the leaves, or fronds, sprout from the top of the plant and are fan-like (palmate) in shape. As the plant grows, the older fronds die off, leaving their bases still attached to the trunk. Over time the bases self-prune due to age and weather, leaving the trunk with a relatively smooth appearance. In developed areas, people often hasten this process by pruning off the old growth themselves for aesthetic reasons. Also in the name of aesthetics, people sometimes prune off live fronds from the crown of the tree to achieve a desired look. This can affect the tree's health, though, if done to excess. The green fronds are where the plant photosynthesizes. Photosynthesis is the chemical reaction whereby carbon dioxide and water are converted into carbohydrates and oxygen using the energy of the sun. Sugar and cellulose are carbohydrates that the palm requires for overall health and structural integrity. If too many fronds are removed too often, the tree can become weak and sickly. <br /><br />A healthy sabal palm can grow to a height of over eighty feet and achieve a stem diameter of nearly twenty-five inches. The fronds can get to almost ten feet in length. When in reproductive mode the palm produces clusters of cream-colored flowers that droop from the crown. Fertilized flowers become round, black fruits that each contain a single seed. The seeds are resistant to salt and are also buoyant. They germinate easily in moist sand, which is why the sabal palm is often found growing along water bodies. Its seeds are highly coveted as a food source by many animals, including: black bears, raccoons, bats, wild turkeys, white-tailed deer, sea gulls, cardinals, grackles, blue jays, and scrub jays. <br /><br />By virtue of its natural resistance to insects and pathogens, this attractive, native tree is a ubiquitous member of Florida landscapes and fully deserves the recognition it's been given. <br /></p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.23037,
+          29.715876
+        ]
+      },
+      "properties": {
+        "name": "Sea Oats",
+        "notes": "Sea Oats\nhttps://www.nps.gov/places/000/sea-oats.htm\n\n<p>One of the most common plants growing within the sand dune system at Fort Matanzas is sea oats (Uniola paniculata). It can be argued that sea oats is one of the most important species comprising the dune ecosystem, particularly the foredune. It is a hardy and salt tolerant plant that can survive in the harsh seashore environment. (It can even survive being inundated by sea water for short periods.) It and other pioneer plants help trap wind-blown sand, which is the first step in dune formation. Once the dune becomes established, sea oat's extensive root system acts to anchor the dune in place. Besides its vital role in contributing to sand dune stabilization, the seeds of sea oats are a crucial food source for one of the rarest animals at Fort Matanzas, the Anastasia Island beach mouse. In addition to beach mice, red-winged blackbirds, sparrows, and marsh rabbits also readily consume sea oats seeds.<br /> <br /> Let's look at sea oats in more detail. It is a plant belonging to the grass family (Poaceae). It is a semitropical perennial, meaning that it produces seeds from year to year, and inhabits the zone between the temperate climate to the north, and the tropical climate to the south. Its leaves are thin (about a quarter inch in width) and vary from eight to twenty-four inches in length, coming to a point at their tips. The plant itself is erect and can grow up to six feet tall.<br /> <br /> One of the most conspicuous features of sea oats is its large seed heads. They look a little bit like flattened oats, and turn a straw color in late summer. The plant reproduces itself by these seeds (their flat shape helps them disperse in the wind), but its primary method of reproduction is through the action of rhizomes (underground stems), which the parent plant shoots out in a radial pattern. Roots emerge at nodes along the rhizome where new clonal plants emerge into the daylight. This growth pattern contributes importantly to sea oats' ability to stabilize shifting sand dunes. In fact, being buried by sand actually stimulates growth in this species. The hot climate of Florida allows for a long growing season for sea oats, which lasts from spring through the fall.<br /> <br /> One of the most interesting aspects of sea oats biology takes place beneath the surface. The plant benefits from existing in a symbiotic relationship with mycorrhizal fungi. This fungus uses the roots of sea oats as a substrate upon which to live. By doing so they in effect increase the surface area of the roots, by which the plant absorbs nutrients from the soil. This contributes to overall plant community health.<br /> <br /> Sea oats is considered such an important plant in terms of its integral role in sand dune formation and stabilization, that it has been given special protected status by the state of Florida. (It is illegal to destroy or remove sea oats without a permit.) To understand why this is so, think of the protective nature of sand dunes. They drastically reduce the impact of the wind (and the associated salt spray) coming in off the ocean. This allows other plants to grow in the leeward side of the foredunes, protected from the direct onslaught of the ocean. Where a greater variety of plants survive, organic matter (humus) is eventually laid down as leaves fall and plants die, forming a moist soil into which even more plants can grow (particularly woody species like trees). Eventually over hundreds of years a mature maritime forest forms where once was open seashore. Forests grow vertically as well as horizontally, supporting a greater variety of ecological niches that are filled with a multitude of animal species, leading to overall increased biodiversity. Without the initial formation of sand dunes, catalyzed by the presence of plants like sea oats, a mature forest would never have the chance to form.<br /> <br /> Of course, sand dunes also perform a much more utilitarian purpose besides ensuring biodiversity. They are nature's first line of defense against hurricanes and other large storms. By breaking up the wind and surf energy of a storm, and acting as a bulwark against tidal surge, sand dunes spare inland areas from the full fury of a storm's pounding. It follows that whenever sand dunes are compromised by putting roads and trails across them, or by constructing buildings upon them, they are no longer able to mitigate a storm's negative effects, thus increasing the likelihood that inshore areas will be subjected to greater damage. All this may be something to keep in mind the next time you see sea oats waving nonchalantly in the ocean breeze as you walk along the seashore!</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.232086,
+          29.714385
+        ]
+      },
+      "properties": {
+        "name": "The Massacre of the French",
+        "notes": "The Massacre of the French\nhttps://www.nps.gov/places/000/the-massacre-of-the-french.htm\n\n<p>The European history of Fort Matanzas National Monument begins with an incident almost 200 years before the construction of the fort at Matanzas - the Spanish massacre of French forces in 1565. It took place near or possibly within the area which now makes up the monument. The incident initiated Spanish control of Florida for 235 years and led to the naming of the Matanzas River.<br /> <br /> When King Philip II of Spain learned that the Frenchman Rene de LaudonniÃ©re had established Fort Caroline, Florida he was incensed -- the colony sat on land belonging to the Spanish crown. Spanish treasure fleets sailed along the Florida coast on their way to Spain and Fort Caroline provided a perfect base for French attacks. Worst of all to the devoutly Catholic Philip, the settlers were Huguenots (French Protestants). Despite Philip's protests, Jean Ribault sailed from France in May 1565 with more than 600 soldiers and settlers to resupply Fort Caroline.<br /> <br /> General Pedro MenÃ©ndez de Aviles, charged with removing the French, also sailed in May, arriving at the Saint Johns River in August with some 800 people, shortly after Ribault. After a brief sea chase, the Spanish retired south to a site they had earlier reconnoitered, a Timucuan village called Seloy. The Spanish came ashore on September 8 and established and named their new village \"St. Augustine\" because land had first been sighted on the Feast Day of St. Augustine, August 28.<br /> <br /> Jean Ribault sailed on September 10 to attack and wipe out the Spanish at St. Augustine, but a hurricane carried his ships far to the south, wrecking them on the Florida coast between present-day Daytona Beach and Cape Canaveral (4 on map).<br /> <br /> At the same time, MenÃ©ndez led a force to attack Fort Caroline. Since most of the soldiers were absent, MenÃ©ndez was easily able to capture the French settlement, killing most of the men in the battle. Some of the inhabitants, including de LaudonniÃ©re and the artist Jacques LeMoyne, were able to escape to ships and return to France. MenÃ©ndez spared the women and children and sent them by ship to Havana.<br /> He then learned from Timucuan Indians that a group of white men were on the beach a few miles south of St. Augustine. He marched with 70 soldiers to where an inlet had blocked 127 of the shipwrecked Frenchmen trying to get back to Fort Caroline (5 on map).<br /> With a captured Frenchman as translator, MenÃ©ndez described how Fort Caroline had been captured and urged the French to surrender. Rumors to the contrary, he made no promises as to sparing them. Having lost most of their food and weapons in the shipwreck, they did surrender. However, when MenÃ©ndez then demanded that they give up their Protestant faith and accept Catholicism, they refused. 111 Frenchmen were killed. Only sixteen were spared - a few who professed being Catholic, some impressed Breton sailors, and four artisans needed at St. Augustine.<br /> Two weeks later the sequence of events was repeated. More French survivors appeared at the inlet, including Jean Ribault. On October 12 Ribault and his men surrendered and met their fate, again refusing to give up their faith. This time 134 were killed. From that time, the inlet was called Matanzas -- meaning \"slaughters\" in Spanish.<br /> Was this a cruel, cold-hearted act by the Spanish? Was Pedro MenÃ©ndez blindly following orders to rid Florida of the interlopers? Was it a religious conflict? What would the French have done to the Spanish if the hurricane had not wrecked their ships? Maybe there is even more involved. With food already low and no chance for resupply until spring, would there have been food and shelter for all if the French had been brought back to the new village of St. Augustine? Perhaps, as leader of his people, MenÃ©ndez knew that survival of the French in October might have meant the starvation of everyone by May.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.239005,
+          29.715226
+        ]
+      },
+      "properties": {
+        "name": "The Spanish Flag",
+        "notes": "The Spanish Flag\nhttps://www.nps.gov/places/000/the-spanish-flag.htm\n\n<p>Spanish naval ships began to fly this flag in the early 1500s in honor of their king. In those days, the flag of a country was actually the flag of the ruling house. Eventually, the army also began to fly this flag, and it came to represent Spain. As Spain's power spread to the New World and across the Pacific to the Philippines, this was the flag carried by ships and flown over the fortresses which guarded Spain's possessions. Thus, it is sometimes referred to as the Spanish Colonial Flag.<br /> <br /> The flag which flies over Fort Matanzas is commonly called \"St. Andrew's cross\" because tradition says that Andrew the Disciple was crucified on a cross shaped like that. The story is that the branches were roughly hacked off two small trees, and the trees were tied together to make the cross. The jagged edges of the cross on the Spanish flag represent these trees with the branched lopped off.<br /> <br /> Since the flags of Ireland and Scotland (and the flag of Great Britain incorporating the cross of Scotland) are also St. Andrew's crosses, when speaking of the Spanish flag, this design (the red saltire raguly on a white field) is best called the Burgundian Cross.<br /> <br /> Queen Isabella and King Ferdinand, who sponsored Columbus' voyages to the New World, used the medieval flag with the red and gold quartered lions and castles which represented the united Spain of Leon and Castile. However, since they did not have a son live to succeed them, the Spanish Crown went to the son of their oldest daughter Juana (Juana the Mad) who was married to Philip, Duke of Burgundy (Philip the Handsome). The red saltire was his family symbol since Andrew was the patron saint of Burgundy. White was the distinctive color of French Royalty, and Burgundy was a French state.<br /> <br /> In 1506 Philip came to rule Spain as Philip I as regent to his young son Charles. Charles also adopted this flag when he became Charles I of Spain (1516-1556). He was also Charles V of the Holy Roman Empire, probably the most powerful man in Europe at that time.<br /> <br /> In 1785, however, under King Charles III, the red and gold striped flag with the simple crest of Castile and Leon became the naval ensign of Spain and by 1793 was also adopted by the forts and other military buildings, but it did not become the Spanish regimental colors until 1843. Since the late 1800s it has been regarded as the flag of a monarchial group in Spain called the \"Carlistas\".<br /> <br /> One also sees variations to the original design. On religious occasions, the field was sometimes blue, the color of the Virgin, and images of the Virgin Mary were placed in the quarters formed by the cross. Sometimes the Spanish coat-of-arms (the quartered castles and lions) was added to the ends of the arms of the cross.<br /> <br /> This flag is actually be square rather than rectangular. Spanish military regulations called for a square battle flag, 6 feet on a side. The colonial Spanish pie (foot) was 11 inches (as measured today), so this flag would be 66\" square. Also, the jagged points all point up on both bars.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.230818,
+          29.711354
+        ]
+      },
+      "properties": {
+        "name": "Turn Back Now!",
+        "notes": "Turn Back Now!\nhttps://www.nps.gov/places/000/turn-back-now.htm\n\n<p>In 1742, cannon fire thundered from Fort Matanzas turning back longboats from British warships beyond the inlet. The fort's gunfire warned the British that the fort was now defensible.<br /><br />The Spanish could challenge any attempt by enemies to sneak up this southern waterway to attack St. Augustine.<br /></p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.23383,
+          29.715349
+        ]
+      },
+      "properties": {
+        "name": "Visitor Center Area Restrooms",
+        "notes": "Visitor Center Area Restrooms\nhttps://www.nps.gov/places/000/visitor-center-area-restrooms.htm\n\nThis restroom facility is located in the main visitor parking area. Oversized parking is not available. There are no restrooms at the visitor center, on the boat, or at the fort.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.238988,
+          29.715242
+        ]
+      },
+      "properties": {
+        "name": "Walls",
+        "notes": "Walls\nhttps://www.nps.gov/places/000/walls.htm\n\n<p>Though not as large or formidable as the Castillo de San Marcos, the coquina walls of Fort Matanzas were more than enough to protect its soldiers from enemy fire.<br /> <br /> Matanzas measures 50 feet on each side and 30 feet high. It was built of local shell stone called coquina. This stone was quarried south of the inlet and transported by boat to the construction site. The stones were held together with mortar made from sand, fresh water, and lime, which was produced by burning oyster shells. This \"lime ash\" was also used to plaster the walls, which waterproofed the structure. The sentry tower was painted red. The opening on the west wall was the entrance into the fort. Soldiers would climb a wooden ladder to reach the gun deck. If needed, a cannon could be moved to point through this opening. Today, sturdy stairs allow easy access for visitors to the fort.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.238999,
+          29.715228
+        ]
+      },
+      "properties": {
+        "name": "Water Cistern",
+        "notes": "Water Cistern\nhttps://www.nps.gov/places/000/water-cistern.htm\n\n<p>While the Matanzas River could provide the soldiers with food if their rations ran out, access to fresh water was vital for their survival.<br /> <br /> <br /> The fort's cistern is located under the gundeck with its opening under the stairs. It measures 13 feet deep and about 8 feet in diameter. The roof of the fort collected rain water which was directed into the cistern by a wooden pipe. There was no other source of fresh water on the island. However, if needed, the soldiers could bring water in barrels from St. Augustine or from nearby creeks.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.201084,
+          29.712089
+        ]
+      },
+      "properties": {
+        "name": "West Indian Manatee",
+        "notes": "West Indian Manatee\nhttps://www.nps.gov/places/000/west-indian-manatee.htm\n\n<p>The West Indian Manatee, the type of manatee found in Florida, is a member of the Dugong family which includes only five species--the West Indian, the Amazonian, and the West African Manatees, the Dugong of east Africa and the East Indies, and the extinct Steller's Sea Cow. In fact, most members of this family are slowing edging towards extinction.<br /> <br /> Several reasons for their decline include a high mortality rate, especially human-influenced (by motor boats, hunting, and discarded fishing line and plastic), low reproductive rates (a female has only one calf every 4-5 years), and the loss of habitat (people move to Florida at the rate of nearly 800 per day, and most settle along the coasts). It is estimated that only about 2500 Manatees are left in Florida.<br /> <br /> And these are remarkable animals. A full-sized adult has an average length of nearly 10 feet (3 meters) and weighs from 800-1200 pounds (363-545 kg)--all on a diet of plants! They spend six to eight hours a day grazing on sea grasses and emergent plants like hydrilla and water lettuce in shallow water near the coast or in warm rivers.<br /> <br /> Manatees move through the water primarily by the pumping action of their flat tails. The front flippers are used for steering and lateral movement, for crawling over the bottom and even for helping put food into their mouths. If you look closely, you may even see four toenails on each flipper.<br /> <br /> They rest submerged just below the surface which makes them very vulnerable to being hit by motor boats. It is a rare manatee that does not show propeller scars on its back. At rest a manatee might stay submerged for as long as twenty minutes, although when feeding or moving, this time will be much shorter.<br /> <br /> Manatees are social creatures and are often found in groups. Females will often act as \"aunts\", helping take care of another's calf. They are also playful and curious and will surface near a boat or dock to look at the people. Remember, though, that Manatees are wild animals. Not only is it against the law to harass or feed a manatee, but these can interrupt the manatee's natural behavior.<br /> <br /> Do you know what land mammal is the closest relative of the manatee?</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.23432099819183,
+          29.71526030396754
+        ]
+      },
+      "properties": {
+        "name": "Wildlife Links",
+        "notes": "Wildlife Links\nhttps://www.nps.gov/places/wildlife-links.htm\n\nFollow the link provided here to learn about the various plants and animals that call Fort Matanzas National Monument home.<br /> <br /> This link takes takes you out of the app and opens in your browser:<br /> <a href=\"https://www.nps.gov/foma/learn/nature/index.htm\">Natural Features, Ecosystems, and Animals</a>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.214199,
+          29.712209
+        ]
+      },
+      "properties": {
+        "name": "stories-in-360 Video",
+        "notes": "stories-in-360 Video\nhttps://www.nps.gov/places/000/stories-in-360-video.htm\n\n<p>These videos are presented in an immersive 360 degree format.</p> <h3>Operating Hours</h3> <p>Join ranger Andy as he talks about Fort Matanzas operating hours, ferry service, and nature trail.<br /> <br /> To watch the video, tap <a href=\"https://youtu.be/yoQGkC-b6Yc\">HERE</a></p> <h3>Overview</h3> <p>Join ranger Andy as he gives a quick overview of Fort Matanzas National Monument<br /> <br /> To watch this video, tap <a href=\"https://youtu.be/CR4GIG0pz2I\">HERE</a></p>",
+        "icon": "red-pin-down.png"
+      }
+    }
+  ]
+}

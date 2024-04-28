@@ -1,0 +1,365 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.5801036969964,
+          39.26504545466797
+        ]
+      },
+      "properties": {
+        "name": "Armistead Plaza",
+        "notes": "Armistead Plaza\nhttps://www.nps.gov/places/armistead-plaza.htm\n\n<p>This monument was originally located closer to the tip of this peninsula and is dedicated to Lt. Colonel George Armistead:<br /> <br /> Born on April 10, 1780, in Caroline County, Virginia, George was one of five brothers, all of whom later served in the War of 1812. On May 18, 1813, while serving as an artillery officer at Fort Niagara, New York, he took an active part in the American attack on Fort George across the Niagara River in upper Canada and was accorded the honor of delivering the captured British flags to President James Madison. On his taking command of Fort McHenry in June 1813, Armistead ordered a flag made \"so large that the British will have no difficulty in seeing it from a distance.\"<br /> <br /> He earned his enduring place in American history under that flag at Fort McHenry whose stalwart defense of Baltimore against British attack in 1814 inspired Francis Scott Key to write \"The Star-Spangled Banner.\" Armistead remained in command of the fort until his untimely death at age 38 on April 25, 1818. He is buried in Old St. Paul's Cemetery, Baltimore, Maryland.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.609260559082,
+          39.2905807495117
+        ]
+      },
+      "properties": {
+        "name": "Baltimore National Heritage Area",
+        "notes": "Baltimore National Heritage Area\nhttps://www.nps.gov/places/baltimore-national-heritage-area.htm\n\nThe <a href=\"http://explorebaltimore.org\">Baltimore National Heritage Area</a> (BNHA) promotes, preserves, and enhances Baltimore’s cultural and historic legacy and natural resources for current and future generations. Originally in the Office of the Mayor, BNHA is now managed through the non-profit Baltimore Heritage Area Association, Inc. <br /> <br /> The purpose of the heritage area is to help local agencies and non-profits with <span style=\"color: rgb(70, 70, 70); font-family: arial, helvetica, sans-serif; font-size: 14px;\">projects and programs that recognize and protect heritage resources; </span>develop recreational and educational opportunities; increase public awareness and appreciation of natural, historic, scenic, and cultural resources; protect and restore historic places that reflect the area’s themes; and identify points of interest.<br /> <br /> One of BNHA’s most visible projects is its network of <strong><a href=\"https://www.explorebaltimore.org/tours\">urban heritage trails</a></strong>. BNHA works n partnership with <a href=\"www.nps.gov/fomc/index.htm\">Fort McHenry National Monument and Historic Shrine</a>. <a href=\"https://www.nps.gov/thingstodo/baltimore-star-spangled-tour.htm\">Things to do in BNHA.</a> The <a href=\"http://explorebaltimore.org/about-us\">Year in Review publications</a> is an in-depth look at the heritage area's impacts.<br /> <br /> <strong>The Baltimore National Heritage Area includes the following National Historic Landmarks:</strong> <ul> <li><a href=\"https://www.explorebaltimore.org/places/basilica-of-the-assumption-baltimore-basilica\">Basilica of the Assumption</a> (Baltimore Basilica)</li> <li><a href=\"https://www.explorebaltimore.org/places/davidge-hall-college-of-medicine-of-maryland\">Davidge Hall</a> (College of Medicine of Maryland)</li> <li><a href=\"https://www.explorebaltimore.org/places/edgar-allan-poe-house\">Edgar Allan Poe House</a></li> <li><a href=\"https://www.explorebaltimore.org/places/edgar-allan-poe-house\">First Unitarian Church of Baltimore</a></li> <li><a href=\"https://www.nps.gov/places/star-spangled-banner-flag-house.htm\">Star-Spangled Banner Flag House</a></li> <li><a href=\"https://www.explorebaltimore.org/news/bnha-takes-stewardship-role-in-future-of-mencken-house\">H.L. Mencken House</a></li> <li><a href=\"https://www.explorebaltimore.org/places/lightship-chesapeake\">Lightship Chesapeake</a></li> <li><a href=\"https://www.explorebaltimore.org/places/mount-clare-station-and-roundhouse\">Mount Clare Station and Roundhouse</a></li> <li><a href=\"https://www.explorebaltimore.org/places/peale-museum\">Peale Museum</a></li> <li><a href=\"https://www.explorebaltimore.org/places/phoenix-shot-tower\">Phoenix Shot Tower</a></li> <li><a href=\"https://www.explorebaltimore.org/places/saint-marys-seminary-chapel\">Saint Mary's Seminary Chapel</a></li> <li><a href=\"https://www.nps.gov/thingstodo/the-baltimore-the-last-steam-powered-tugboat.htm\">Steam Tug Baltimore</a></li> <li><a href=\"https://www.nps.gov/places/uscgc-taney.htm\">USCGC Taney</a></li> <li><a href=\"https://www.nps.gov/thingstodo/board-the-uss-constellation.htm\">USS Constellation</a></li> <li><a href=\"https://www.nps.gov/places/uss-torsk.htm\">USS Torsk</a></li> </ul>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.57972715865542,
+          39.26319651340316
+        ]
+      },
+      "properties": {
+        "name": "Barracks No. 1",
+        "notes": "Barracks No. 1\nhttps://www.nps.gov/places/barracks-no-1.htm\n\n<p>Barracks No. 1 was used to house enlisted men. One room was for non-commissioned officers (corporals and sergeants), perhaps a second for musicians and artificers (skilled military craftsmen). The remaining room was for privates. At the time of the War of 1812 the building was one story, with a second story added in the 1830s. <br /> <br /> Today the building has three museum exhibits ont he first floor. The room to the left is the timeline room featuring an overview of of the entire history of Fort McHenry from its predesessor during the American Revolution, through the Second World War. The middle room features an exhibit on the Battle of North Point which took place just before the bombardment of the fort in 1814. And the room on the right features replica barracks to get a sense of what it would have been like to live in the fort as an enlisted man in 1814.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.58011922501692,
+          39.26313977009233
+        ]
+      },
+      "properties": {
+        "name": "Barracks No. 2",
+        "notes": "Barracks No. 2\nhttps://www.nps.gov/places/barracks-no-2.htm\n\n<p>Barracks No. 2 was used exclusively to house enlisted men, and all three rooms held as many as 20 men each. During the War of 1812 the building was only one story tall, however a second story was added in the 1830s.<br /> <br /> Today the first floor of the barracks is open to the public and serves several different purposes. The room on the left features a repleca doctor's office made to appear in the World War I era of the fort's history when the site was used as a hospital, and the exhibit is only open when staffing allows. The middle room is an archeology room where several items are on display that have been found over time in the park. And on the right side of the building there are public restrooms available.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.5797063352159,
+          39.26374544655496
+        ]
+      },
+      "properties": {
+        "name": "Bastion 1",
+        "notes": "Bastion 1\nhttps://www.nps.gov/places/bastion-1.htm\n\n<p>Bastion 1 is the site where, in July of 1861, General John Dix of the U.S. Army took a group of women who were protesting federal occupation. It was here that Dix threatened to bomb Baltimore, declaring that, \"... if there should be an uprising in Baltimore, I shall be compelled to try to put it down; and that gun is the first that I shall fire.\"<br /> <br /> Today Bastion 1 overlooks the East lawn and faces directly towards the Visitors Center. Visitors can easily access this location by walking through the main star fort entrance, taking an immediate right, waking up the brick pand and into the grass.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.58048458386699,
+          39.26306032261985
+        ]
+      },
+      "properties": {
+        "name": "Bastion 3",
+        "notes": "Bastion 3\nhttps://www.nps.gov/places/bastion-3.htm\n\n<p>Bastion 3 looks out on to the Ferry Branch of the Patapsco River where on the night of September 13, 1814 Capt. Charles Napier led 1,200 British officers, sailors, and marines on an attempted surprise attack flanking Fort McHenry on 20 barges. The attackers were spotted, fired upon, and repelled by American artillerists. <br /> <br /> This bastion came under direct fire during the bombardment of the fort. Pvt. Isaac Monroe editor of the Baltimore Patriot and standing untouched with the gun crew here on bastion three described the horror:</p> <div style=\"margin-left: 40px;\"><em>\"\"By early afternoon September 13th, a nor’easter brought heavy showers and rain on Captain Nicholson’s Baltimore Fencibles Artillery gun crew. At 2pm a bomb would slam into Bastion 3 instantly killing Lt. Levi Claggett [sic] and severely wounding four other men. A 24 pounder was knocked off its carriage. A second bomb would burst over the bastion. Shrapnel the size of a silver dollar tore through Sergeant John Clemm killing him on the spot. These were citizen soldiers, two of the four men killed during the bombardment and were prominent flour merchants and investors in Baltimore’s Privateer trade.\"</em></div>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.57981379652388,
+          39.26279865364596
+        ]
+      },
+      "properties": {
+        "name": "Bastion 4",
+        "notes": "Bastion 4\nhttps://www.nps.gov/places/bastion-4.htm\n\n<p>Bastion 4 was possibly the most important point of the five-point star that makes up the shape of Fort McHenry. The bastion lines up directly with the point of the peninsula meaning that it had views and areas of fire facing both the entance to Baltimore's harbor and the Ferry Branch of the Patapsco River that could be used to flank the city's defenses. The British Royal Marines attempted just such a maneuver in the early morning hours of September 14, 1814, however they were spotted and fired upon, stopping the attempted flank of the fort. <br /> <br /> Today bastion 4 is a scenic location overlooking the end of the peninsula, memorial cherry blossom groves, and views of Baltimore maritime activity. The location is only accessible by steps or the path that leads from bastion 5 to bastion 3.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.57927653789518,
+          39.2632374620235
+        ]
+      },
+      "properties": {
+        "name": "Bastion 5",
+        "notes": "Bastion 5\nhttps://www.nps.gov/places/bastion-5.htm\n\n<p>Bastion 5 is possibly the most scenic of Fort McHenry's main star fort structure. Depending on what direction visitors look they can see views of the Francis Scott Key Bridge, entrance to the Baltimore harbor, Navy ships (both historic and modern depending on their luck), and views of the city of Baltimore. Bastion 5 also allows access to a brick path that runs along the ramparts leading visitors to bastions 4 and 3. <br /> <br /> From this point, several key markers of the Battle of Baltimore can be seen. When looking back towards the city of Baltimore take note of a large green space in the distance with a flag pole flying the American flag. Today this is Patterson Park, but in 1814 this was known as Hampstead Hill. It was there that American soldiers, militia, and citizens came together to dig large earthworks and a force of 15,000 troops stood in the way of 5,000 British soldiers on their way to burn Baltimore. It was the defenses of Hampstead Hill that forced the British Navy to attack Fort McHenry in order to attempt to get into the Baltimore harbor. <br /> <br /> In additon Francis Scott Key's position while observing the battle is out on the river about three miles from the location of this bastion. Additionally the British ships that bombarded the fort were two miles off shore. For reference the Francis Scott Key Bridge in the distance is roughly four miles away.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.57932087802885,
+          39.26490566468473
+        ]
+      },
+      "properties": {
+        "name": "Brick Foundations",
+        "notes": "Brick Foundations\nhttps://www.nps.gov/places/brick-foundations.htm\n\n<p>The path leading up to the Star Fort from the Fort McHenry visitor center passes by several sets of brick foundations. These foundations are representative of several historic buildings that would have been in those locations at the time of the 1814 Bombardment of Fort McHenry. When heading towards the fort from the visitor center, the foundations on the left of the path are the quartermaster & ordnance storehouse, the first set of fundations on the right are the ordnacne/commissary storehouse, and the set of brick foundations about 30 yeards further on the right represent the post hospital. Visitors can use their imaginations to rebuild one story brick buildings that served important purposes the daily funcitoning of the fort. </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.57934993371835,
+          39.26530448357975
+        ]
+      },
+      "properties": {
+        "name": "Chesapeake Map",
+        "notes": "Chesapeake Map\nhttps://www.nps.gov/places/chesapeake-map.htm\n\n<p>This concrete map outside the rear entrance of the park Visitor Center orients visitors to the Chesapeake Bay region of Maryland and Virginia. The map points out not only the Chesapeake Bay, but also important towns and cities relevant to the War of 1812 story of the 1813 and 1814 Chesapeake Campaigns. The campaigns that happened in the region depicted by the map ultimately led to the Battle of Baltimore and the Bombardment of Fort McHenry, inspiring the Star-Spangled Banner.<br /> <br /> Visitors should feel welcome to refer back to the map on the ground here when learning about the history of these campaigns. The map also serves as a meeting spot for many ranger led programs. From the location of the map, visitors can easily access the Seawall trail.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.5795593857765,
+          39.26340672596347
+        ]
+      },
+      "properties": {
+        "name": "Civil War Guard House",
+        "notes": "Civil War Guard House\nhttps://www.nps.gov/places/civil-war-guard-house.htm\n\n<p>The Civil War Guard House served as the work staton for those soldiers whose duty it was to guard the high-risk prison inmates housed in the three adjacent cells. One prisoner, Henry Hall Brogan, described the conditions in the uppermost cell as such: \"At no time were the walls of my cell dry, near the wall particularly. Moisture trickled down it the whole time and could fill my hand with a green slime simply by passing it up the face of the wall.\"<br /> <br /> Today the Guard House offers interpretive signage regarding Abraham Lincoln's controversial suspension of the <em>writ of habeas corpus</em>, and what the American flag meant to different groups of people during the Civil War. The Guard House can be reached by entering the starfort, taking an immediate left up the ramp, and then an immediate left up the stairs and into the room.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.582890689373,
+          39.26437176507209
+        ]
+      },
+      "properties": {
+        "name": "Civil War Powder Magazine",
+        "notes": "Civil War Powder Magazine\nhttps://www.nps.gov/places/civil-war-powder-magazine.htm\n\nThe Civil War Powder Magazine was created in 1863 to be able to solve gun powder storage problems. It was completed in 1864 and could hold up to 1,500 barrels of powder.<br /> <br /> By the time the Civil War came to Fort McHenry, it was no longer readily prepared for war. Improvements were quickly made, including expanding the existing powder storage. The bombproof casements in the sallyport were expanded to hold powder, but an officer was worried about having large amounts of powder stored in a frequently used area where smoking was common. Thus, a Powder Magazine outside of the fort was contracted in 1863 and completed in 1864. The brick-vaulted magazine could hold up to 1,500 barrels of powder. <br /> <br /> The Civil War powsder magazine is not open for the public to go inside, however visitors can access the outside of the structure by following the seawall trail toward the large Orpheus Statue. From the statue take the small path that branches off of the main seawall trail. Next to the building is a small interpretive sign as well as a picnic area. ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.57993647670055,
+          39.26351157731495
+        ]
+      },
+      "properties": {
+        "name": "Commanding Officer's Quarters",
+        "notes": "Commanding Officer's Quarters\nhttps://www.nps.gov/places/commanding-officer-s-quarters.htm\n\nOriginally this structure was built for the commanding officer of the Fort McHenry garrison to live in. In 1814 Major George Armistead lived here, meaning that the commander of the fort not only had his command come under fire, but his home too. The building, however, does not reflect the original appearance. In 1837 the structure was remodeled and repurposed as another barracks building in the fort, and commanding officeres had stuctures outside of the fort that they lived in.<br /> <br /> The left most door of the front of the building leads to a first floor exhibit that talks about Major Armistead, the creation of the Star-Spangled Banner flag, and how areas of this building would have looked in 1814. There is a rear entrance as well, and the building is open during normal visitation hours.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.57799074649807,
+          39.26486869750517
+        ]
+      },
+      "properties": {
+        "name": "East Cherry Blossom Grove",
+        "notes": "East Cherry Blossom Grove\nhttps://www.nps.gov/places/east-cherry-blossom-grove.htm\n\nBlossoming cherry trees are a welcome sight for visitors each spring at Fort McHenry on the banks of the Patapsco River. These trees were planted in 1931 by 1,500 Baltimore school children to commemorate the bicentennial anniversary of George Washington’s birth.<br /> <br /> Each of the 152 cherry trees were planted to represent a Baltimore public school. The schools were highly segregated at the time, and the groves reflect this segregation. These trees were planted by the African American students, while the trees planted by white students were planted on the west side of the fort. The cherry blossoms have been replanted over the years, and still bloom annually.<br /> <br /> Originally plans to establish these groves at Fort McHenry were proposed to attract visitors to Baltimore in the same vein as the popular cherry trees that were planted around the Potomac Park Tidal Basin in Washington D.C. in 1912. Today visitors are invited to walk among these beautiful trees each spring to experience the rebirth of the season.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.57983974511265,
+          39.263438009644666
+        ]
+      },
+      "properties": {
+        "name": "Flag Pole",
+        "notes": "Flag Pole\nhttps://www.nps.gov/places/flag-pole.htm\n\n<p>During the War of 1812, the people of Baltimore believed that the British would attack the city. Not knowing for sure when an attack would occur, they spent months preparing for it. Everything was made ready at Fort McHenry to defend Baltimore.<br /> <br /> Major George Armistead, the Fort’s commanding officer, desired \"to have a flag so large that the British will have no difficulty in seeing it from a distance.\"<br /> <br /> In the summer of 1813, Armistead ordered a large garrison flag (30 feet by 42 feet) as well as with a smaller storm flag (17 feet by 25 feet) for the Fort. The job went out to a 37-year-old widow, Mary Pickersgill, a ship and signal flag maker. She labored for seven weeks with her 13-year-old daughter, Caroline, two nieces, 13-year-old Eliza Young and 15-year-old Margaret Young, a 13-year-old African-American indentured servant, Grace Wisher, and possibly her mother, Rebecca Young, who had taught her the trade. They pieced together strips of loosely woven English wool bunting then laid the whole flag out on the expansive floor of a brewery near Mrs. Pickersgill’s Pratt Street house, now the Star-Spangled Banner House museum. The flags were finished on August 19, 1813.<br /> <br /> The larger of the two flags had stripes two feet wide, and stars 24 inches from point to point. At that time, it was the practice to add one star and stripe for each new state joining the Union. In 1814, the United States flag had 15 stars and 15 stripes.<br /> <br /> The 30' x 42' flag was the one that Francis Scott Key saw on the morning of September 14, 1814. It inspired him to write the words to \"The Star-Spangled Banner.\" Today this flag is displayed in the Smithsonian Institution's National Museum of American History, Washington, D.C. The smaller storm flag, which many historians believe was the flag that flew during the rainy bombardment, has been lost to history.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.58021558100836,
+          39.263298140818975
+        ]
+      },
+      "properties": {
+        "name": "Junior Officers' Quarters",
+        "notes": "Junior Officers' Quarters\nhttps://www.nps.gov/places/junior-officers-quarters.htm\n\n<p>The junior officers' quarters was a seperate barracks from the enlisted barracks. It was this building that the officers would have slept, ate, lived and worked. Although it was a smaller building than the barracks, there were far fewer men living in this building allowing for more living space and a more lavish lifestyle that came with the priveledges of an officer's commission.<br /> <br /> At the time of the War of 1812 the building was only one story, however in the 1830s a second level was added. The first level of the building is partially opened to visitors. The middle door opens to an exhibnit that depicts the scene of how officers' quarters would have looked during the summer of 1814. The door on the right leads to a room that depicts an office that would have been used by officers in the same time period, but is only open when staffing is available. </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.58349099737053,
+          39.265404469213124
+        ]
+      },
+      "properties": {
+        "name": "Main Gate",
+        "notes": "Main Gate\nhttps://www.nps.gov/places/main-gate.htm\n\n<p>The Main Gate that you passed through today has been the main entrance to the park since 1837. It is virtually the same now as it was during the Civil War. The Main Gate was often the first and last thing a prisoner would see during their stay at Fort McHenry. Concerned citizens from the town would often leave fresh vegetables and other food items at the gate, in hopes of providing food to the prisoners held at Fort McHenry throughout the Civil War. <br /> <br /> The modern gate is the entry and exit point for all visitors to the park. The gate features a vehicle gate that is wide enough for one vehicle to go through at a time. Vehicles entering and exiting the park should alternate to keep traffic moving. On either side of the main gate are two pedestrian gates to allow pedestrians and bicyclists to enter the park. All three gates open at 9 am and close 5 pm in the fall, winter, and spring, or 6 pm in the summer (Memorial Day to Labor Day).</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.5821481004,
+          39.2641912
+        ]
+      },
+      "properties": {
+        "name": "Orpheus Statue",
+        "notes": "Orpheus Statue\nhttps://www.nps.gov/places/orpheus-statue.htm\n\n<p>This classical monument is dedicated to Francis Scott Key and the soldiers and sailors who took part in the Battle of North Point and the defense of Fort McHenry during the War of 1812.<br /> <br /> In 1914, Congress appropriated $75,000 for a monument at Fort McHenry to mark the centennial of the writing of “The Star-Spangled Banner” and the defense of Baltimore. A national competition was held by the “Fine Arts Commission” on May 28, 1916. One of the 34 entries was a design by Charles H. Niehaus. His work, called Orpheus with the Awkward Foot was chosen.<br /> <br /> There was a delay erecting the statue due to World War I. Finally, the statue was completed and a dedication was held on Flag Day, June, 14, 1922. The ceremony was attended by President Warren G. Harding.<br /> <br /> The statue was originally placed in the middle of the entrance road with a circular drive around it. In 1962, Orpheus was relocated to the present site.<br /> <br /> The monument consists of a 15-foot high circular base made of white marble. Decorated with a frieze in low relief, the base is surmounted by a 24-foot high figure of Orpheus in bronze, shown playing a five-stringed tortoise-shell lyre. The frieze starts with a portrait shield of Key and the dedication, then continues around the drum of the base with a representation of the classic muses paying honor to the army and navy.<br /> <br /> The marble base bears a medallion honoring Francis Scott Key, flanked by a procession of allegorical figures. The pedestal contains a time capsule filled with documents of patriotic and historical interest. Although the time capsule was opened in 1962, there are no plans to open it in the future.<br /> <br /> The inscription on the base reads:</p> <p style=\"margin-left: 40px;\"><em>To Francis Scott Key - Author of the Star Spangled Banner and to the soldiers and sailors who took part in the Battle of North Point and the defense of Fort McHenry in the War of 1812.</em></p> <p><br />  </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.57936358451842,
+          39.26285432536946
+        ]
+      },
+      "properties": {
+        "name": "Outer Battery",
+        "notes": "Outer Battery\nhttps://www.nps.gov/places/outer-battery.htm\n\n<p>The Fort McHenry outer battery first began to see its modern shape come to fruition in the 1840's when improvements were made to the fort's defenses. The outer battery is one of the aspects that gives the fort more of an appearance for how it would have looked during the Civil War, rather than the War of 1812. Originally the battery was outfitted with large Columbiad guns meant for coastal defense. In 1866 the military began replacing these guns with the larger Rodman guns. Fort McHenry boasts the largest collection Rodman cannons with a collection of 8, 10, and 15 inch guns. The Rodmans are no longer active with their last firings occuring on June 30, 1903. <br /> <br /> In visiting the outer battery visitors can get quite a view, and a first hand visit into history. Brick paths allow visitors to walk in the outer defenses between the walls of the original fort and the earthen mounds, as well as on top of the outer battery walls. Some powder magazines are still open for visitors to enter and explore. Not to mention you can get up close and personal with original, massive, Rodman cannons that are over 150 years old!</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.57915781396335,
+          39.26548615447042
+        ]
+      },
+      "properties": {
+        "name": "Sea Wall Trail",
+        "notes": "Sea Wall Trail\nhttps://www.nps.gov/places/sea-wall-trail.htm\n\nThe sea wall trail is a mile long loop around the park of Fort McHenry. The trail is a paved path that runs along the Patapsco River for roughly 3/4 of a mile. Visitors who walk the trail will get a scenic glimpse of the tip of the Locust Point peninsula in Baltimore. The trail offers various angles to view the star fort structure as well small glimpses into nature with a wide variety of birds, memorial cherry blossoms, and river wildlife. Visitors will also pass by the large Orpheus statue that was dedicated to Francis Scott Key in the early 20th Century. There is no cost to walk the trail and there are various benches and signage along the way. ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.5786633680724,
+          39.2635394612164
+        ]
+      },
+      "properties": {
+        "name": "Star Fort Historic Zone",
+        "notes": "Star Fort Historic Zone\nhttps://www.nps.gov/places/star-fort-historic-zone.htm\n\nThe star fort structure was completed in 1803 and named after James McHenry, Washington's Secretary of War and a signer of the Declaration of Independence. The fort was constructed to defend Baltimore's harbor that sits just about 2 miles to the north west. This structure, as well as water batteries that would have surrounded it, is what stood between the British Navy and being able to support their ground forces in the possible burning of Baltimore in 1814 during the War of 1812. The British Navy Bombarded this fort for 25 hours but was unable to remove the defenders from its wall, forcing their invading forces to withdraw and saving the City of Baltimore from destruction. This event inspired Francis Scott Key to write the Star-Spangled Banner, today's National Anthem.<br /> <br /> The fort remained active beyond its War of 1812 fame. Today the fort most resembles its Civil War era appearance with the inner buildings being built up to two stories, and an outer battery area featuring Rodman cannons dating to the 1860's. The Civil War period found the fort acting as prison for both prisoners of war, and political prisoners who threatened Maryland's possible secession. The fort's busiest time period was during the First World War where it was the centerpiece of a 3,000 bed hospital that was built up on the grounds surrounding it. Shortly after the First World War the fort was removed from active military use, although it was recalled into action during the Second World War as a Coast Guard training facility.<br /> <br /> As you enter the fort explore the various rooms in the buildings that tell the many stories of the fort's long history. Follow paths on top of the ramparts and outer battery that provide scenic and historic view sheds. And take a step back in time with interpretive programs that occur regularly. ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.58018165826796,
+          39.263479109224264
+        ]
+      },
+      "properties": {
+        "name": "Star Fort Powder Magazine",
+        "notes": "Star Fort Powder Magazine\nhttps://www.nps.gov/places/star-fort-powder-magazine.htm\n\n<p>The powder magazine historically held all the gun powder necessary to maintain the fort's fire power. This large one room building has a dome shaped roof to help prevent enemy shells and shrapnel from directly hitting the roof. The magazine had not been made bombproof yet by 1814, however, and disaster almost struck when a British bomb hit the structure during the bombardment of Fort McHenry. Luckly the bomb did not explode and thus the fort's gunpowder supply did not explode with it.<br /> <br /> Shortly after the battle the structure was made bombproof, thickening its walls with a layer of dirt and then and additional layer of bricks. Additionally after the battle, Major Armistead ordered other powder magazines to be built to spread out the fort's powder supply and prevent the possibility of a disaster occuring. Today visitors can enter the powder magazine to see a repleca of how the inside would have looked while the fort was active.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.5785761875265,
+          39.2636154464181
+        ]
+      },
+      "properties": {
+        "name": "Water Battery",
+        "notes": "Water Battery\nhttps://www.nps.gov/places/water-battery.htm\n\n<p>These reconstructed defenses are representative of the main defenses at Fort McHenry which were located outside of the star fort itself. Under the direction of Captain Samuel Babcock, U.S. Army Engineers, civilian laborers, along with members of the First Marine Artillery of the Union, worked throughout the summer of 1813 on improving the Upper and Lower Water Batteries and mounting 18- and 36-pounder naval guns. <br />  </p> <p>Both the Upper and Lower Water Batteries were originially built as part of the Revolutionary War fort, Fort Whetstone. In 1813 the works were again improved under the direction of Captain Samuel Babcock, U.S. Army Engineers. The battery initially mounted guns of 18- and 36-pounder size, with at least three more added prior to the battle in 1814. The batteries also featured a brick hot shot furnaces.</p>   <p>These water batteries were charged with keeping the British ships at bay, and had a range of a mile and a half. When the British ships reached what Armistead believed to be \"good striking distance,\" he ordered \"fire to be opened, which was obeyed with alacrity\" with \"a roar that shook the whole harbor...\" and within half-an-hour the \"intruders again sheltered themselves by withdrawing beyond our reach.\" The garrison \"gave three cheers and again ceased firing.\" The British ships \"continued throwing shells,\" at the forts and batteries.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.58057594299315,
+          39.26232665162504
+        ]
+      },
+      "properties": {
+        "name": "West Cherry Blossom Grove",
+        "notes": "West Cherry Blossom Grove\nhttps://www.nps.gov/places/west-cherry-blossom-grove.htm\n\n<p>Blossoming cherry trees are a welcome sight for visitors each spring at Fort McHenry on the banks of the Potomac River. These trees were planted in 1931 by 1,500 Baltimore school children to commemorate the bicentennial anniversary of George Washington’s birth.<br /> <br /> Each of the 152 cherry trees were planted to represent a Baltimore public school. The schools were highly segregated at the time, and the groves reflect this segregation. The trees planted by the African American students were planted on the east side of the Fort while these trees were planted by white students. The cherry blossoms have been replanted over the years, and still bloom annually.<br /> <br /> Originally plans to establish these groves at Fort McHenry were proposed to attract visitors to Baltimore in the same vein as the popular cherry trees that were planted around the Potomac Park Tidal Basin in Washington D.C. in 1912. Today visitors are invited to walk among these beautiful trees each spring to experience the rebirth of the season.</p>",
+        "icon": "red-pin-down.png"
+      }
+    }
+  ]
+}

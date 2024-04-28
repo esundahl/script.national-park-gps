@@ -1,0 +1,125 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.89510488489053,
+          38.99445939759209
+        ]
+      },
+      "properties": {
+        "name": "Azalea Trail",
+        "notes": "Azalea Trail\nhttps://www.nps.gov/places/azalea-trail.htm\n\n<h2>Walk the Azalea Trail through the forest of Greenbelt Park. (1.2 miles)</h2> <h3>The trailheads begin in the Sweetgum picnic area and ends in the Sweetgum Picnic area. Pick up a park brochure with trail maps and descriptions included in the brochure) and enjoy a 1.2 mile walk. <br /> <b>Parking available at the Sweetgum Picnic Area.</b></h3>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.89750862121582,
+          38.98834440888899
+        ]
+      },
+      "properties": {
+        "name": "Dogwood Trail",
+        "notes": "Dogwood Trail\nhttps://www.nps.gov/places/dogwood-trail.htm\n\n<h2><strong>Dogwood Trail</strong></h2> <h3>The trailhead begins and ends in the Dogwood parking area. Enjoy a 1.4 or 1.6 mile walk through the forest of Greenbelt Park. </h3>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.895192,
+          38.995845
+        ]
+      },
+      "properties": {
+        "name": "Greenbelt Park",
+        "notes": "Greenbelt Park\nhttps://www.nps.gov/places/000/greenbelt-park.htm\n\n<p>Greenbelt Park is a forested oasis amid the city, and the closest campground to the White House. The park offers camping and ranger programs. Metro accessible via a short hike.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8902741481,
+          38.9935751802
+        ]
+      },
+      "properties": {
+        "name": "Holly Picnic Area - Reservations Only",
+        "notes": "Holly Picnic Area - Reservations Only\nhttps://www.nps.gov/places/holly-picnic-area.htm\n\n<p>The Holly Picnic Area is located near the entrance of the park. When entering the park, proceed to the stop sign. Make a left turn and the Holly picnic area is on your right hand side.<br /> <br /> The Holly picnic area can accomodate up to 200 people. There are 99 parking spaces. There are picnic tables and restrooms. A Recreation Fee is charged according to the number of particpants.<br /> <br /> <a href=\"https://www.recreation.gov/camping/campgrounds/251624\">Make a reservation</a></p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8926453590393,
+          38.99143733697883
+        ]
+      },
+      "properties": {
+        "name": "Laurel Picnic Area- Reservations Only",
+        "notes": "Laurel Picnic Area- Reservations Only\nhttps://www.nps.gov/places/laurel-picnic-area-reservations-only.htm\n\n<p>The Laurel Reserved Picnic Area is located on the loop of the park. When entering the park, proceed to the stop sign. Make a left turn and pass the Holly picnic area (on your right hand side) and proceed to Laurel Picnic Area on your right hand side. <br /> <br /> The Holly Reserved Picnic Area can accomodate up to 200 people. There are 99 parking spaces. There are picnic tables and restrooms. A Recreation Fee is charged according to the number of particpants.<br /> <br /> <a href=\"https://www.recreation.gov/camping/campgrounds/251624\">Make a reservation</a></p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.89438739352883,
+          38.995570603139996
+        ]
+      },
+      "properties": {
+        "name": "Perimeter Trail",
+        "notes": "Perimeter Trail\nhttps://www.nps.gov/places/perimeter-trail.htm\n\n<h2>Perimeter Trail<br /> <br /> Enjoy the 5.3 mile Perimeter Trail.</h2> <h3>If arriving by vehicle, parking is available at the Sweetgum Picnic area.<br /> If arriving by foot, the beginning of the Perimeter trail begins near the park entrance.   </h3>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.89497479820349,
+          38.99391591392181
+        ]
+      },
+      "properties": {
+        "name": "Sweetgum Picnic Area",
+        "notes": "Sweetgum Picnic Area\nhttps://www.nps.gov/places/sweetgum-picnic-area.htm\n\n<h4>Sweetgum Picnic Area is open. <br /> <br /> Sweetgum Picnic Area is a first-come first serve picnic area. There are two sets of playground equipment, a baseball field with backstop, and a large field .<br /> <br /> <strong><u>There is a limit of 4 tables and 24 people per group so that everyone may enjoy this area</u></strong>.<br /> <br /> There are picnic tables and a restroom in this area.<br /> If your group is larger than 25 people, you can reserve the reserved picnics areas (Holly and Laurel) available for large groups by <a href=\"https://www.recreation.gov/camping/greenbelt-park-picnic-areas/r/campgroundDetails.do?contractCode=NRSO&parkId=70993\">reserving a picnic area through recreation.gov </a><br /> <br /> Upon entering the park, proceed to the stop sign. Make a right hand turn and the Sweetgum Picnic Area is the first left.</h4>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8954102090149,
+          38.99539653896034
+        ]
+      },
+      "properties": {
+        "name": "U.S. Park Police",
+        "notes": "U.S. Park Police\nhttps://www.nps.gov/places/u-s-park-police.htm\n\nUnited States Park Police Building- District 4<br /> 202-610-7500",
+        "icon": "red-pin-down.png"
+      }
+    }
+  ]
+}

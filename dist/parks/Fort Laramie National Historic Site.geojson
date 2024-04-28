@@ -1,0 +1,260 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.55783803366222,
+          42.20146831400483
+        ]
+      },
+      "properties": {
+        "name": "Administration Building Ruins (1885)",
+        "notes": "Administration Building Ruins (1885)\nhttps://www.nps.gov/places/administration-building-ruins-1885.htm\n\nHeadquarters and the post school were moved here in 1885. Concerts, religious services, dances, plays, and lectures were held here in the post theater.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.573967,
+          42.220597
+        ]
+      },
+      "properties": {
+        "name": "Bedlam Ruts",
+        "notes": "Bedlam Ruts\nhttps://www.nps.gov/places/000/bedlam-ruts.htm\n\n<p>The <b>Bedlam Ruts</b> are a fine stretch of Oregon Trail ruts and swales that visitors can walk. This Trail segment is on 40 acres of undeveloped public lands jointly managed by the Bureau of Land Management and the National Park Service (Ft. Laramie National Historic Site).</p> <h2>Site Information</h2> <p><strong>Location </strong>(On <strong>unpaved</strong> Road 50, west of Fort Laramie National Historic Site. Inquire at the Visitor Center for more information.)</p> <p>The setting is natural and quiet. Onsite interpretive signs tell the story. Reaching the site requires driving on an unpaved road that is usually suitable for passenger sedans when dry. </p> <p><em><a href=\"https://www.nps.gov/oreg/planyourvisit/safety.htm\">Safety Considerations</a></em></p> <h3><a href=\"https://www.wyohistory.org/field-trips/mary-homsley-grave\">More Site Information</a></h3> <h2><a href=\"https://www.nps.gov/oreg/index.htm\">Oregon National Historic Trail</a></h2> <h2><a href=\"https://www.nps.gov/cali/index.htm\">California National Historic Trail</a></h2> <h2><a href=\"https://www.nps.gov/mopi/index.htm\">Mormon Pioneer National Historic Trail</a></h2> <h2><a href=\"https://www.nps.gov/fola/index.htm\">Fort Laramie National Historic Site</a></h2>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.55868400332851,
+          42.20147349241159
+        ]
+      },
+      "properties": {
+        "name": "Captain's Quarters",
+        "notes": "Captain's Quarters\nhttps://www.nps.gov/places/captain-s-quarters.htm\n\nPlanned as the Commanding Officer's quarters, this building became a duplex for company-grade officers.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.5565008843028,
+          42.20475142842404
+        ]
+      },
+      "properties": {
+        "name": "Cavalry Barracks (1874)",
+        "notes": "Cavalry Barracks (1874)\nhttps://www.nps.gov/places/cavalry-barracks-1874.htm\n\nFort Laramie's largest building was built to add housing during the Indian Wars. Soldiers slept in two large squad bays upstairs. The kitchen and mess room were downstairs.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.55593180656433,
+          42.203789355135164
+        ]
+      },
+      "properties": {
+        "name": "Commissary Storehouse",
+        "notes": "Commissary Storehouse\nhttps://www.nps.gov/places/commissary-storehouse.htm\n\nThis lime-concrete building served as a food warehouse for the army. It now houses park offices and the visitor center.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.556215,
+          42.203693
+        ]
+      },
+      "properties": {
+        "name": "Fort Laramie National Historic Site, the Oregon Trail",
+        "notes": "Fort Laramie National Historic Site, the Oregon Trail\nhttps://www.nps.gov/places/000/fort-laramie-national-historic-site-the-oregon-trail.htm\n\n<p><b>Fort Laramie</b> once stood sentinel over the Oregon, California, and Mormon emigration trails; was a stop on the Pony Express route; and served as a staging ground for both peaceful and hostile dealings with Plains Indians. Its association with important figures, including Sitting Bull and Crazy Horse, and historic events makes Fort Laramie an icon of the American West. The one-time Army post, now managed by the National Park Service as a national historic site, looks much as it did 150 years ago.</p> <h2><strong>Site Information</strong></h2> <p><strong>Location</strong> (965 Gray Rocks Road, Fort Laramie, Wyoming)</p> <p>A visitor center, museum, and 12 restored buildings help to tell its story. Audio-tour devices are available at the visitor center. </p> <p><em><a href=\"https://www.nps.gov/oreg/planyourvisit/safety.htm\">Safety Considerations</a></em></p> <h2><a href=\"https://www.nps.gov/fola/index.htm\">Fort Laramie National Historic Site</a></h2> <h2><a href=\"https://www.nps.gov/oreg/index.htm\">Oregon National Historic Trail</a></h2> <h2><a href=\"https://www.nps.gov/cali/index.htm\">California National Historic Trail</a></h2> <h2><a href=\"https://www.nps.gov/mopi/index.htm\">Mormon Pioneer National Historic Trail</a></h2> <h2><a href=\"https://www.nps.gov/poex/index.htm\">Pony Express National Historic Trail</a></h2>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.55753378943581,
+          42.202821186395376
+        ]
+      },
+      "properties": {
+        "name": "Infantry Barracks Foundation (1867)",
+        "notes": "Infantry Barracks Foundation (1867)\nhttps://www.nps.gov/places/infantry-barracks-foundation-1867.htm\n\nThis one-story frame building housed three companies, with mess halls and kitchens for each in the back.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.55785257816315,
+          42.20348905392974
+        ]
+      },
+      "properties": {
+        "name": "Lt. Colonel's Quarters (Burt House, 1884)",
+        "notes": "Lt. Colonel's Quarters (Burt House, 1884)\nhttps://www.nps.gov/places/lt-colonel-s-quarters-burt-house-1884.htm\n\nLt. Col. Andrew Burt, a 7th US Infantry officer, and his wife Elizabeth lived in the home 1887-88. They liked relatively plain furnishings rather than the ornate decor in most officers' houses during the Victorian period.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.55840325251465,
+          42.20329085825404
+        ]
+      },
+      "properties": {
+        "name": "Magazine (1850)",
+        "notes": "Magazine (1850)\nhttps://www.nps.gov/places/magazine-1850.htm\n\nThe stone magazine, restored to 1850-62, held post weapons and ammunition, except large field pieces.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.55690614569124,
+          42.20241728930524
+        ]
+      },
+      "properties": {
+        "name": "New Guardhouse (1876)",
+        "notes": "New Guardhouse (1876)\nhttps://www.nps.gov/places/new-guardhouse-1876.htm\n\nAfter many complaints by the post surgeon, this new guardhouse replaced an unhealthy, overcrowded older one. It held both major and minor offenders.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.534231,
+          42.209702
+        ]
+      },
+      "properties": {
+        "name": "North Platte River Crossing",
+        "notes": "North Platte River Crossing\nhttps://www.nps.gov/places/000/north-platte-river-crossing.htm\n\n<p><b>North Platte River Crossing</b> was one of numerous crossings used by trappers, traders, American Indians, and emigrants to reach Fort Laramie. In order to enter the fort, two rivers had to be crossed- the Laramie River and the North Platte River. Over the years, at least nine different sites were used to cross the Laramie and at least four different sites were used to cross the North Platte. These sites offered various ways to cross the rivers including fording, taking a ferry, or using a bridge. The only one of these crossings that is still easily found is the third crossing of the North Platte. At this location, the iron girder bridge that was built in 1876 still stands. The crossing is now a part of <a href=\"https://www.nps.gov/fola/index.htm\">Fort Laramie National Historic Site. </a></p> <h2>Site Information</h2> <p><strong>Location</strong> (west of Fort Laramie, Wyoming)</p> <p>Interpretive waysides near the bridge tell the story. A 1.5 mile riverside hiking trail also starts here.</p> <p><em><a href=\"https://www.nps.gov/oreg/planyourvisit/safety.htm\">Safety Considerations</a></em></p> <h2><a href=\"https://www.nps.gov/fola/index.htm\">Fort Laramie National Historic Site</a></h2> <h2><a href=\"https://www.nps.gov/oreg/index.htm\">Oregon National Historic Trail</a></h2> <h2><a href=\"https://www.nps.gov/cali/index.htm\">California National Historic Trail</a></h2> <h2><a href=\"https://www.nps.gov/mopi/index.htm\">Mormon Pioneer National Historic Trail</a></h2> <h2><a href=\"https://www.nps.gov/poex/index.htm\">Pony Express National Historic Trail</a></h2>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.55910003895794,
+          42.202403317078144
+        ]
+      },
+      "properties": {
+        "name": "Officers' Quarters Ruins (1881)",
+        "notes": "Officers' Quarters Ruins (1881)\nhttps://www.nps.gov/places/officers-quarters-ruins-1881.htm\n\nThese large buildings, two duplexes and the Commanding Officer's quarters, were additions to smaller 1855 adobe buildings.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.55598958486668,
+          42.20331900482395
+        ]
+      },
+      "properties": {
+        "name": "Old Bakery (1876) and New Bakery Ruins (1883)",
+        "notes": "Old Bakery (1876) and New Bakery Ruins (1883)\nhttps://www.nps.gov/places/old-bakery-1876-and-new-bakery-ruins-1883.htm\n\nBread was a staple of the soldier's diet. Here, in big double-brick ovens, bakers made up to 700 18-ounce loaves daily.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.55866311946876,
+          42.202830274862784
+        ]
+      },
+      "properties": {
+        "name": "Old Bedlam",
+        "notes": "Old Bedlam\nhttps://www.nps.gov/places/-old-bedlam.htm\n\nBuilt to house bachelor officers, \"Old Bedlam\" is Wyoming's oldest documented building. The right side is restored to bachelor officers' quarters in the 1850s; the left side to post headquarters in 1863-64, when fort commander Lt. Col. William O. Collins and his wife lived on the second floor.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.5573511768937,
+          42.20162728870788
+        ]
+      },
+      "properties": {
+        "name": "Old Guardhouse (1866)",
+        "notes": "Old Guardhouse (1866)\nhttps://www.nps.gov/places/old-guardhouse-1866.htm\n\nFort Laramie's second guardhouse, built to house 40 prisoners, often held more. The upper story headquarters for the guard and the Officer of the Guard. The first floor had the general confinement area and two small solitary confinement cells. Prisoners had no furniture, head, or light.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.5580714706229,
+          42.20337473347846
+        ]
+      },
+      "properties": {
+        "name": "Post Surgeon's Quarters (1875)",
+        "notes": "Post Surgeon's Quarters (1875)\nhttps://www.nps.gov/places/post-surgeon-s-quarters-1875.htm\n\nPost Surgeon Louis Brechemin and his family normally lived in half of this duplex from 1885 to 1889. His study held his scientific collections, and most patients were treated there before being sent to the hospital to recuperate.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.5577407267234,
+          42.20369935411209
+        ]
+      },
+      "properties": {
+        "name": "Post Trader's Store (1849) and Complex",
+        "notes": "Post Trader's Store (1849) and Complex\nhttps://www.nps.gov/places/post-trader-s-store-1849-and-complex.htm\n\nBuilt and run by a civilian licensed by the army, the post trader's store did profitable business with soldiers, Indians, gold seekers, and emigrants. The north section, built of stone in 1852, was the sutler's headquarters and, for a time, post office. An 1883 addition housed the officers' club and an enlisted men and civilians' bar. The store is restored to its 1860s appearance.",
+        "icon": "red-pin-down.png"
+      }
+    }
+  ]
+}

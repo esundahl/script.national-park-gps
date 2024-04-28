@@ -1,0 +1,20 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.96418284317963,
+          37.07726807216469
+        ]
+      },
+      "properties": {
+        "name": "Rainbow Bridge",
+        "notes": "Rainbow Bridge\nhttps://www.nps.gov/places/rainbow-bridge.htm\n\n<p>Encompassing just 160 square acres of land, Rainbow Bridge National Monument is one of the smallest units of the National Park Service. However, what it lacks in size it more than makes up for with an abundance of unique and interesting features. The primary feature is, of course, Rainbow Bridge itself, one of the largest natural bridges in the world. From the time the bridge became known to the outside world in the early twentieth century, thousands of people from around the world have visited each year. From its base to the top of the arch, it is 290 feet -nearly the height of the Statue of Liberty- and spans 275 feet across the river; the top of the arch is 42 feet thick and 33 feet wide.<br /> <br /> <strong>There is no visitor center or ranger station at Rainbow Bridge.</strong> All of Rainbow Bridge's Passport Stamps are physically located at Glen Canyon's various <a href=\"https://cms.nps.gov/glca/planyourvisit/visitorcenters.htm\">visitor centers</a>.</p> <p><strong>Rainbow Bridge is closed from sunset to sunrise</strong>. Camping within the boundaries of Rainbow bridge National Monument is prohibited.</p> <p><strong>Getting to the bridge requires hiking at least a mile.</strong>Visitors can take the trail from the courtesy dock to the viewing area for the bridge. Exact trail length varies with lake levels. We ask that visitors respect the religious significance of Rainbow Bridge to neighboring tribes and consider viewing Rainbow Bridge from the viewing area rather than walking up to or under the bridge.</p> <p><strong>Remember to carry water with you!</strong> This is a desert environment and even short hikes require preparation. There are two shade shelters along the trail with benches that make great rest/reflection points.</p> <p><strong>Pack out what you bring in.</strong> There are no facilites or trash receptacles along the trail to Rainbow Bridge in any direction. Leave this land better than you found it - take all trash you make back with you.</p> <h2>Getting to the Monument</h2> <p>Rainbow Bridge is only accessible by boat on Lake Powell or by land over a 14+ mile trail from the Navajo Nation. There are no roads to Rainbow Bridge.</p> <h3>By Boat</h3> <p>Trips to Rainbow Bridge may be made across Lake Powell in Glen Canyon National Recreation Area using private, rental, or <a href=\"http://www.lakepowell.com/\">tour boats</a>. From Wahweap, Antelope Point, and Dangling Rope, travel north. From Bullfrog and Halls Crossing, travel south.<br /> Proceed to the mouth of Forbidding Canyon (buoy 49), where a floating sign on the right marks the canyon entrance. Follow the canyon about 2 miles (4 km) to another sign that points the way left through a narrow passage. Proceed with caution! Beyond the wakeless buoys, go slowly so that no wakes, or waves, are made.</p> <h3>By Hike</h3> <p>You may backpack to Rainbow Bridge across Navajo Nation lands. A permit from the <a href=\"http://www.navajonationparks.org/\">Navajo Nation</a> is required.</p> <p> </p>",
+        "icon": "red-pin-down.png"
+      }
+    }
+  ]
+}

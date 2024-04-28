@@ -1,0 +1,500 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.17197618650818,
+          34.02452245746588
+        ]
+      },
+      "properties": {
+        "name": "Abbotts Bridge Boat, Canoe, and Raft Launch",
+        "notes": "Abbotts Bridge Boat, Canoe, and Raft Launch\nhttps://www.nps.gov/places/abbotts-bridge-launch.htm\n\n<p>The Abbotts Bridge Launch provides access to the river for power boats, canoes, kayaks, rafts, and tubes. During the summer this launch can be very crowded with tubers coming off the river and trailered boats. Please be considerate of other users by moving your equipment off the launch area as soon as possible.</p> <h4>Water Quality</h4> <p>Be sure to check the <a href=\"https://www2.usgs.gov/water/southatlantic/ga/bacteria/\">Current Estimated E. coli count</a> before starting your trip. If the count at Medlock Bridge is greater than 235 you have an increased risk of getting sick. Contact with the river is NOT recommended.</p> <h4>Water Release Schedule</h4> <p>Water conditions on the Chattahoochee River are influenced on a daily basis by water releases from Buford Dam. The water release schedule can be obtained by calling <strong>(770) 945-1466</strong>, or toll free <strong>1-855-DAM-FLOW (1-855-326-3569)</strong>, or visit their <a href=\"http://spatialdata.sam.usace.army.mil/hydropower/default.aspx\"><strong>Hydropower Generating Schedule</strong></a> website. Besides showing the time for scheduled releases it also shows how many turbines will be operating and the current flow in cubic feet per second (cfs). It takes approximately 3 hours and 15 minutes to 4 hours and 30 minutes for water released from Buford Dam to begin rising at Abbotts Bridge.</p> <h4>River Flow Rates</h4> <p>Water conditions on the Chattahoochee River are also influenced by the weather upstream of Abbotts Bridge. Regardless of whether the water is coming from a dam release or inclement weather upstream check the <a href=\"https://waterdata.usgs.gov/monitoring-location/02334653/#parameterCode=00060\">discharge/flow rate</a> at the gaging station 0.76 miles upstream of McGinnis Ferry, Suwanee, GA. </p> <ul> <li>If Canoeing, Kayaking, or Stand Up Paddleboarding and the flow rate is over 4,000 cfs, <strong>cancel your trip</strong>. </li> <li>If Rafting and the flow rate is over 5,000 cfs, <strong>cancel your trip</strong>.</li> <li>If Tubing and the flow is over 2,500 cfs, <strong>cancel your trip</strong>.</li> </ul> <h4>Try These Floating Options</h4> <ul> <li>Lower Pool Park to <strong>Abbotts Bridge</strong>: 12.8 miles</li> <li>Settles Bridge (<i>no trailer access</i>) to <strong>Abbotts Bridge</strong>: 8.63 miles</li> <li>McGinnis Ferry to <strong>Abbotts Bridge</strong>: 4.5 miles</li> <li>Rogers Bridge Park <span style=\"color:#c0392b;\"><strong>(Temporarily Closed)</strong></span> to <strong>Abbotts Bridge</strong>: 2.6 miles</li> <li><strong>Abbotts Bridge</strong> to Medlock Bridge: 4.5 miles</li> <li><strong>Abbotts Bridge</strong> to Jones Bridge Canoe & Raft (<i>no trailer access</i>): 6.6 miles</li> <li><strong>Abbotts Bridge</strong> to Jones Bridge Boat: 6.9 miles</li> <li><strong>Abbotts Bridge</strong> to Garrard Landing Park (<i>no trailer access</i>): 9.9 miles</li> </ul>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.171389,
+          34.023333
+        ]
+      },
+      "properties": {
+        "name": "Abbotts Bridge Pavilion",
+        "notes": "Abbotts Bridge Pavilion\nhttps://www.nps.gov/places/abbotts-bridge-pavilion.htm\n\n<p>The Abbotts Bridge Pavilion is located along the Chattahoochee River in Duluth Georgia. The pavilion is one of only ttree pavilions in Chattahoochee River National Recreation Area.</p> <p>The pavilion is equipped with picnic tables and grills and is next to a large field. A restroom facility is located nearby with cold running water. Electrical service is not available.</p> <p>The nearby parking lot will accommodate up to 26 vehicles. Since this unit is popular with anglers 8 of the parking spaces are reserved for oversized vehicles such as vehicles with trailers. There are 3 ADA-designated parking spaces. The boat ramp located on the other side of the parking area gets heavy use during the week in the summer and on weekends year around by tubers, paddlers, and power boats. </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Abbotts Bridge Unit Trailhead",
+        "notes": "Abbotts Bridge Unit Trailhead\nhttps://www.nps.gov/places/abbotts-bridge-unit-trailhead.htm\n\n<p>The trailhead in the Abbotts Bridge Unit is located on the downstream side of the boat ramp. Stop by the Information Kiosk near the parking lot before starting down the trail.</p> <p>The trail follows the river downstream for about a mile ending at the soccer fields in the Scott Hudgens Park operated by the City of Duluth. The river bank is very steep along the trail providing no access to the river. However, due to the steep banks there are some scenic views of the river. In the early part of the trail are some very impressive oak trees.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.35247668189896,
+          34.007468176456435
+        ]
+      },
+      "properties": {
+        "name": "Allenbrook House",
+        "notes": "Allenbrook House\nhttps://www.nps.gov/places/allenbrook-house.htm\n\n<p>Included in the National Register for Historic Places, the Allenbrook house was originally built between 1851 and 1856 for James R. King, his wife Francis, and his four children. Starting in 1857, King ran Ivy Mill about 1,000 ft away at the confluence of Big Creek and the Chattahoochee River. The mill produced a cotton-wool blended fabric known as “Roswell Gray” for the confederate army until 1864 when the Union army arrived in Roswell.</p> <p>The Allenbrook house, originally had four rooms and a loft, was remodeled several times by various owners. The most significant changes to the house were by Barnett Allen Bell who purchased the property in 1932 and redesigned the front porch. Allenbrook was acquired by the National Park Service in 1978.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.0737912771841,
+          34.160455400424766
+        ]
+      },
+      "properties": {
+        "name": "Buford Dam",
+        "notes": "Buford Dam\nhttps://www.nps.gov/places/buford-dam-place.htm\n\n<p>Buford Dam, which forms Lake Sidney Lanier, marks the start of the Chattahoochee River National Recreation Area with the Bowmans Island Unit. The dam was completed in 1956,and is maintained by the U.S. Army Corps of Engineers. Buford Dam provides 250 million kwh of hydroelectric power annually to the surrounding Atlanta area. The cold water released from the base of the dam provides an ideal habitat for trout, thus becoming a favorite spot among trout fishermen. Remain vigilant of dam releases, as waters can rise rapidly!</p> <p><i><a href=\"https://www.nps.gov/chat/planyourvisit/02334430.htm\"><u>Buford Dam river flow conditions</u></a></i></p> <p><a href=\"http://lanier.uslakes.info/Level.asp\"><i><u>Lake Lanier water levels</u></i></a></p> <p><i><a href=\"https://spatialdata.usace.army.mil/hydropower/\">Buford Dam release schedule</a> - or <b>call 770-945-1466, or toll free 1-855-DAM-FLOW (1-855-326-3569)</b></i></p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.32462811470032,
+          33.98725051081982
+        ]
+      },
+      "properties": {
+        "name": "CRNRA Park Store",
+        "notes": "CRNRA Park Store\nhttps://www.nps.gov/places/chattahoochee-river-national-recreation-area-park-store.htm\n\n<p>The park store is operated by <a href=\"https://americasnationalparks.org/\">America's National Parks</a>, an official non-profit partner of the National Park Service dedicated to supporting the educational mission of Chattahoochee River National Recreation Area. The park store has a wide range of educational products and services available for retail sale. These products complement the interpretive themes you experience when visiting the park. The park store is located at the Island Ford Visitor Center in the historic Hewlett Lodge, or you can visit the <a href=\"https://shop.americasnationalparks.org/store/\">online park store</a>.</p> <h3>Hours of Operation</h3> <p>Open Daily except December 25<br /> <strong>9:00 am - 5:00 pm</strong></p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2582054742,
+          33.9896894466
+        ]
+      },
+      "properties": {
+        "name": "Chattahoochee River Environmental Education Center (CREEC)",
+        "notes": "Chattahoochee River Environmental Education Center (CREEC)\nhttps://www.nps.gov/places/chattahoochee-river-environmental-education-center-creec.htm\n\n<p>The Chattahoochee River Environmental Education Center is located in the downstream section of the Jones Bridge Unit. It is a popular spot for educational programs, field trips, and summer camps and serves as a trailhead for hiking in the Jones Bridge Unit! For upcoming park programs, visit the Park Calendar section of the NPS Mobile App</p> <p>The CREEC is open to the general public only for family educational programs</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.26445719753055,
+          33.973062882720356
+        ]
+      },
+      "properties": {
+        "name": "Garrard Landing Park Canoe and Raft Launch",
+        "notes": "Garrard Landing Park Canoe and Raft Launch\nhttps://www.nps.gov/places/garrard-landing-park-launch.htm\n\n<p>The Garrard Landing Park Canoe and Kayak Launch provides access to the river for canoes, kayaks, rafts, and tubes.</p> <h4>Water Quality</h4> <p>Be sure to check the <a href=\"https://www2.usgs.gov/water/southatlantic/ga/bacteria/\">Current Estimated E. coli count</a> before starting your trip. If the count at Medlock Bridge is greater than 235 you have an increased risk of getting sick. <strong>Contact with the river is NOT recommended.</strong></p> <h4>Water Release Schedule</h4> <p>Water conditions on the Chattahoochee River are influenced on a daily basis by water releases from Buford Dam. The water release schedule can be obtained by calling <strong>(770) 945-1466</strong>, or toll free <strong>1-855-DAM-FLOW (1-855-326-3569)</strong>, or visit their <a href=\"http://spatialdata.sam.usace.army.mil/hydropower/default.aspx\"><strong>Hydropower Generating Schedule</strong></a> website. Besides showing the time for scheduled releases it also shows how many turbines will be operating and the current flow in cubic feet per second (cfs). It takes approximately 5 hours and 15 minutes to 7 hours and 30 minutes for water released from Buford Dam to begin rising at Garrard Landing Park.</p> <h4>River Flow Rates</h4> <p>Water conditions on the Chattahoochee River are also influenced by the weather upstream of Garrard Landing Park. Regardless of whether the water is coming from a dam release or inclement weather upstream check the <a href=\"https://waterdata.usgs.gov/monitoring-location/02335000/#parameterCode=00060\">discharge/flow rate</a> at the gaging station at Medlock Bridge, near Norcross, GA. </p> <ul><br /> <li>If Canoeing, Kayaking, or Stand Up Paddleboarding and the flow rate is over 4,000 cfs, <strong>cancel your trip</strong>. </li> <li>If Rafting and the flow rate is over 5,000 cfs, <strong>cancel your trip</strong>.</li> <li>If Tubing and the flow is over 2,500 cfs, <strong>cancel your trip</strong>.</li> </ul> <h4>Try These Floating Options</h4> <ul> <li>Rogers Bridge <strong><span style=\"color:#e74c3c;\">(Temporarily Closed)</span></strong> to <strong>Garrard Landing Park</strong>: 11.5 miles</li> <li>Abbotts Bridge to <strong>Garrard Landing Park</strong>: 9.9 miles</li> <li>Medlock Bridge to <strong>Garrard Landing Park</strong>: 5.4 miles</li> <li>Jones Bridge Canoe (<i>no trailer access</i>) to <strong>Garrard Landing Park</strong>: 3.3 miles</li> <li>Jones Bridge Boat to <strong>Garrard Landing Park</strong>: 3 miles</li> <li><strong>Garrard Landing Park</strong> to Island Ford (<i>no trailer access</i>): 4.8 miles</li> <li><strong>Garrard Landing Park</strong> to Don White Memorial Park (<i>no trailer access</i>): 7.1 miles</li> </ul>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.32382986982724,
+          33.9870851110441
+        ]
+      },
+      "properties": {
+        "name": "Hewlett Field",
+        "notes": "Hewlett Field\nhttps://www.nps.gov/places/hewlett-field.htm\n\n<p>Hewlett Field is located next to the Chattahoochee River in the Island Ford Unit in Sandy Spring, Georgia. The field with its shaded picnic area is one of the more heavily used areas on a nice day in Chattahoochee River National Recreation Area.  </p> <p>The field accessed by walking down a moderately steep paved walkway behind the Historic Hewlett Lodge. Picnic tables and grills are located just in the woods next to the large field. The restroom facility in the lodge is accessible only during regular visitor center hours, 9 a,m to 5 p.m. daily. Potable water is available in the lodge and outside. Electrical service is not available. The field and picnic area can accommodate approximately 250 people.</p> <p>The parking lots near the lodge will accommodate up to 63 vehicles. There are 5 ADA-designated parking spaces.<br /> <br /> The boat launch located at the end of the field gets heavy use during the week in the summer and on weekends year around by tubers and paddlers. There is road access to the field resulting in tubers and paddlers carrying their gear through the field. This road can also be used to drop off equipment for an event.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.32461952634401,
+          33.98732746514962
+        ]
+      },
+      "properties": {
+        "name": "Hewlett Lodge",
+        "notes": "Hewlett Lodge\nhttps://www.nps.gov/places/hewlett-lodge.htm\n\nListed on the National Register of Historic Places, Hewlett Lodge was originally built in the 1930’s as a summer home for Georgia Supreme Court Justice Samuel Hewlett. The Lodge later served as both a country club and a camp center before being acquired by the National Park Service in 1979. ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.39026184082033,
+          33.964030299452034
+        ]
+      },
+      "properties": {
+        "name": "Hyde Farm",
+        "notes": "Hyde Farm\nhttps://www.nps.gov/places/hyde-farm.htm\n\n<p>Located on the northwest bank of the Chattahoochee River and near Johnson Ferry lies Hyde Farm. Originally known as Cherokee Indian territory, Hyde Farm was settled by James Cooper Power in the 1830s. Other American Indian villages were located just upstream from the farm, but those villagers were forced to leave as well during the Trail of Tears. The original log cabin still exists within the Hyde farmhouse. This is the land that eventually became Hyde Farm. However, farmers borrowed American Indian farming traditions to grow their crops which included such things as sweet potatoes, pumpkins, squash, and beans.</p> <p>James Cooper Power was the son of Joseph and Isabella Power. Joseph and Isabella had four children: Mary Elizabeth, James Cooper, George Abner, and Pinkney Joesph. The Power children all got married and decided to establish farms near their parents along what is now Hyde Road. During this time small family farms predominated the piedmont areas; nuclear families worked the land; housing ranged from crude log cabins to substantial frame, brick, or stone houses; farm families manufactured many necessities. The Power family, including children, worked on the farm tirelessly until 1874.</p> <p>Beginning in 1874 during cotton-picking time, James Cooper Power sharecropped with James Alexander Hyde, a Civil War Confederate veteran moving from South Carolina to Alabama. (During this time many people travelled by foot and stayed in various cities contracted to sharecrop along their journey.) Hyde and his family moved to the Mt. Bethel community east of Cobb County where they had four children, one of which was Jesse Clifford Hyde (who was born just 2 miles from the Power cabin in 1881). James Hyde and Jim” Power’s relationship, though based on work but founded on friendship, was a unique and wholesome commitment to each other. It was a connection and collaboration that grew and flourished over the next 25 years.</p> <p>The South had been devastated by the Civil War; planters had ample land but little money for wages or taxes. The solution was to use the sharecropping system that focused on families working together to farm, which generated cash for the croppers, landowners, merchants and the tax collector. Poor white farmers, who previously had done little farming, needed cash as well and became sharecroppers. In essence, the sharecropper “rented” the land that he/she farmed and gave a portion of his crop back to the landowner as payment.</p> <p>James Power died in 1901 and the Hyde’s continued to work on the farm thereafter. James Hyde’s son, Jesse, was one of the farmers and a construction worker as well. After the bank foreclosed on the property, Jesse was able to obtain the title of the Powers homestead (Hyde Farm) in 1920, which encompassed 135 acres of land. Jesse and his family then moved to the farm from Paulding County. Jesse and his wife, Lela, raised six children; Buck, J.C., Maglee, Gladys, and Rosalee at the farm. Up until his death in 1972, Jesse Hyde continued his father’s work tending to the farm. Leaving the farm to his bachelor sons, J.C. and Buck sustained the up-keep of the farm with traditional methods; using tools like the mule-drawn plows for power, crude wooden plows, all sowing by hand, cultivating by hoe. As east Cobb County developed and suburbanized in the mid-1960, the Hyde brothers began selling fresh vegetables and other produce items off the back of their truck, in the parking lot of Bethel Methodist Church at the intersection of Power’s Ferry and Lower Roswell Roads. Overtime Buck and J.C. Hyde became very famous for their fresh vegetables.</p> <p>Buck Hyde died in 1991. Inheritance taxes forced J.C. Hyde to sell 40 acres of the farm’s bottom land the next year, but he negotiated with the Trust for Public Land to insure that 95 acres of the property would be become part of the Chattahoochee River National Service Area. Currently, Hyde Farm is a total of 135 acres; 95 acres is jointly owned and managed by the National Park Service and Cobb County, the other 40 acres continues to be property of the Trust for Public Land. The 135 acres of land consists of forest, fields, and several streams. The buildings of the farm were built from circa 1830 to 1950. Hyde Farm is in an important area of the Chattahoochee watershed (Mulberry Creek) which provides drinking water for the City of Atlanta and surrounding areas. Developing this land could seriously affect the quality of the water in the Chattahoochee. Hyde Farm has acres of and provides wildlife habitat to fox, coyote, deer, songbirds, beaver, and other species whose habitat has been destroyed by development.</p> <p>Hyde Farm landscape is characterized by sloping terrain with cultivated fields along the plateau southwest and north of the house. There are nine outbuildings connected with the house; the barn, corncrib, machine shop/garage, gear house, shuck shed, two chicken houses, and the well house. Hyde Farm is potentially eligible to the National Register because it is a well preserved foundational display of small farms established in the late 19th and early 20th century.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.323453,
+          33.986949
+        ]
+      },
+      "properties": {
+        "name": "Island Ford Canoe and Raft Launch",
+        "notes": "Island Ford Canoe and Raft Launch\nhttps://www.nps.gov/places/island-ford-launch.htm\n\n<p>The Island Ford Launch provides access to the river for canoes, kayaks, rafts, and tubes. You will need to haul your gear to the launch from the drop-off circle. Make sure you park your vehicle in the parking lot at the top of the hill, not along the road where you may get towed. During the summer this launch can be very crowded with tubers launching on the river.</p> <h4>Water Quality</h4> <p>Be sure to check the <a href=\"https://www2.usgs.gov/water/southatlantic/ga/bacteria/\">Current Estimated E. coli count</a> before starting your trip. If the count at Medlock Bridge Road is greater than 235 you have an increased risk of getting sick. <strong>Contact with the river is NOT recommended.</strong></p> <h4>Water Release Schedule</h4> <p>Water conditions on the Chattahoochee River are influenced on a daily basis by water releases from Buford Dam. The water release schedule can be obtained by calling <strong>(770) 945-1466</strong>, or toll free <strong>1-855-DAM-FLOW (1-855-326-3569)</strong>, or visit their <a href=\"http://spatialdata.sam.usace.army.mil/hydropower/default.aspx\"><strong>Hydropower Generating Schedule</strong></a> website. Besides showing the time for scheduled releases it also shows how many turbines will be operating and the current flow in cubic feet per second (cfs). It takes approximately 6 hours and 30 minutes to 8 hours and 45 minutes for water released from Buford Dam to begin rising at Island Ford.</p> <h4>River Flow Rates</h4> <p>Water conditions on the Chattahoochee River are also influenced by the weather upstream of Island Ford. Regardless of whether the water is coming from a dam release or inclement weather upstream check the <a href=\"https://waterdata.usgs.gov/monitoring-location/02335450/#parameterCode=00060\">discharge/flow rate</a> at the gaging station above Roswell, GA. </p> <ul> <li>If Canoeing, Kayaking, or Stand Up Paddleboarding and the flow rate is over 4,000 cfs, <strong>cancel your trip</strong>. </li> <li>If Rafting and the flow rate is over 5,000 cfs, <strong>cancel your trip</strong>.</li> <li>If Tubing and the flow is over 2,500 cfs, <strong>cancel your trip</strong>.</li> </ul> <h4>Try These Floating Options</h4> <ul> <li>Jones Bridge Canoe (<i>no trailer access</i>) to <strong>Island Ford</strong>: 8.1 miles</li> <li>Jones Bridge Boat to <strong>Island Ford</strong>: 7.8 miles</li> <li>Garrard Landing (<i>no trailer access</i>) to <strong>Island Ford</strong>: 4.8 miles</li> <li><strong>Island Ford to</strong> Don White (<i>no trailer access</i>): 2.3 miles</li> <li><strong>Island Ford to</strong> Azalea Park: 4 miles</li> <li><strong>Island Ford to</strong> Morgan Falls Overlook Park (<i>no trailer access</i>): 7.2 miles</li> </ul>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Island Ford Unit - Hewlett Lodge Trailhead",
+        "notes": "Island Ford Unit - Hewlett Lodge Trailhead\nhttps://www.nps.gov/places/island-ford-hewlett-lodge-trailhead.htm\n\n<p>This trailhead is located on the north end of historic Hewlett Lodge near the informational kiosk. Following the paved trail with the brown handrail you will pass by the lodge and come to two trail junctions.</p> <p>At the first trail junction you will see a patio area behind the lodge with several Adirondack chairs and a picnic table.</p> <p>A short distance further down the paved trail you will come to the second trail junction. Following the trail to your left you will descend several steps arriving shortly at a wood shelter with a large stone fire place. Continue on the trail past the shelter down more steps to arrive on the bank of a stream and eventually the riverside trail.</p> <p>Continue straight on the paved path to Hewlett Field. As you approach the edge of the field you pass by several picnic tables and a trail junction with a riverside trail. On the west end of the field is a launch for small watercraft.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.35019815942597,
+          34.005673654579695
+        ]
+      },
+      "properties": {
+        "name": "Ivy Mill Ruins",
+        "notes": "Ivy Mill Ruins\nhttps://www.nps.gov/places/ivy-mill-ruins-place.htm\n\n<p>Part of the Roswell Mill conglomerate, the Ivy Mill ruins still stands near the mouth of Big Creek in the Vickery Creek Unit. The ruins are best seen during the winter months when the most of the vegetation is without leaves.</p> <p>The mill produced cotton and wool, including the infamous blend known as \"Roswell Gray\", which was used to make Confederate uniforms during the Civil War.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.404044,
+          33.945509
+        ]
+      },
+      "properties": {
+        "name": "Johnson Ferry Boat, Canoe, and Raft Launch",
+        "notes": "Johnson Ferry Boat, Canoe, and Raft Launch\nhttps://www.nps.gov/places/johnson-ferry-launch.htm\n\n<p>The Johnson Ferry Launch provides access to the river for power boats, canoes, kayaks, rafts, and tubes. During the summer this launch can be crowded.</p> <h4>Water Quality</h4> <p>Be sure to check the <a href=\"https://www2.usgs.gov/water/southatlantic/ga/bacteria/\">Current Estimated E. coli count</a> before starting your trip. If the count at Paces Ferry Road is greater than 235 you have an increased risk of getting sick. <strong>Contact with the river is NOT recommended.</strong></p> <h4>Water Release Schedule</h4> <p>Water conditions on the Chattahoochee River are influenced on a daily basis by water releases from Morgan Falls Dam. Visit Georgia Power's <a href=\"https://www.georgiapower.com/community/environment/lakes-rivers/river-levels.html\">Chattahoochee Hydro Real-Time Operations</a> website to view the tentative water release schedule for Morgan Falls Dam. Besides showing the time for scheduled releases it also shows how many turbines will be operating and the current flow in cubic feet per second (cfs). It takes approximately 30 minutes 45 minutes for water released from Morgan Falls Dam to begin rising at Johnson Ferry.</p> <h4>River Flow Rates</h4> <p>Water conditions on the Chattahoochee River are also influenced by the weather upstream of Johnson Ferry. Regardless of whether the water is coming from a dam release or inclement weather upstream check the <a href=\"https://waterdata.usgs.gov/monitoring-location/02335815/#parameterCode=00060\">discharge/flow rate</a> at the gaging station below Morgan Falls Dam. </p> <ul> <li>If Canoeing, Kayaking, or Stand Up Paddleboarding and the flow rate is over 4,000 cfs, <strong>cancel your trip</strong>. </li> <li>If Rafting and the flow rate is over 5,000 cfs, <strong>cancel your trip</strong>.</li> <li>If Tubing and the flow is over 2,500 cfs, <strong>cancel your trip</strong>.</li> </ul> <h4>Try These Floating Options</h4> <ul> <li>Morgan Falls Dam to <strong>Johnson Ferry</strong>: 1.8 miles</li> <li><strong>Johnson Ferry</strong> to Powers Island (<i>no trailer access</i>): 4.2 miles</li> <li><strong>Johnson Ferry</strong> to Whitewater Creek (<i>no trailer access</i>): 6 miles</li> <li><strong>Johnson Ferry</strong> to Paces Mill Canoe (<i>no trailer access</i>): 6.8 miles</li> <li><strong>Johnson Ferry</strong> to Paces Mill Boat: 7 miles</li> </ul>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.414167,
+          33.936389
+        ]
+      },
+      "properties": {
+        "name": "Johnson Ferry South Pavilion",
+        "notes": "Johnson Ferry South Pavilion\nhttps://www.nps.gov/places/johnson-ferry-south-pavilion.htm\n\n<p>The Johnson Ferry South Pavilion is located along the Chattahoochee River in Cobb County, Georgia. The pavilion is one of only three pavilions in Chattahoochee River National Recreation Area.  </p> <p>The pavilion is equipped with picnic tables and grills and is next to a small field. There is no restroom facility, potable, and electrical service at this shelter. The facility can accommodate approximately 175 people</p> <p>The nearby gravel parking lot will accommodate up to 46 vehicles. There are two ADA-designated parking spaces.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.24779342808527,
+          33.998745850917324
+        ]
+      },
+      "properties": {
+        "name": "Jones Bridge Boat, Canoe, and Raft Launch",
+        "notes": "Jones Bridge Boat, Canoe, and Raft Launch\nhttps://www.nps.gov/places/jones-bridge-boat-launch.htm\n\n<p>The Jones Bridge Boat, Canoe, and Kayak Launch provides access to the river for trailered boats, canoes, kayaks, rafts, and tubes. The parking lot is small and only vehicles with trailers are allowed to park in the lot on weekends.</p> <p>Visitors using canoes, kayaks, rafts, or tubes are encouraged to use the Jones Bridge Canoe and Kayak Launch accessible from the main parking lot. You may unload your gear at this launch but will then be required to move your vehicle to the main parking lot and walk 0.4 mile back to the launch. Parking along the access road is not permitted.</p> <h4>Water Quality</h4> <p>Be sure to check the <a href=\"https://www2.usgs.gov/water/southatlantic/ga/bacteria/\">Current Estimated E. coli count</a> before starting your trip. If the count at Medlock Bridge is greater than 235 you have an increased risk of getting sick. <strong>Contact with the river is NOT recommended.</strong></p> <h4>Water Release Schedule</h4> <p>Water conditions on the Chattahoochee River are influenced on a daily basis by water releases from Buford Dam. The water release schedule can be obtained by calling <strong>(770) 945-1466</strong>, or toll free <strong>1-855-DAM-FLOW (1-855-326-3569)</strong>, or visit their <a href=\"http://spatialdata.sam.usace.army.mil/hydropower/default.aspx\"><strong>Hydropower Generating Schedule</strong></a> website. Besides showing the time for scheduled releases it also shows how many turbines will be operating and the current flow in cubic feet per second (cfs). It takes approximately 3 hours and 45 minutes to 6 hours for water released from Buford Dam to begin rising at Jones Bridge.</p> <h4>River Flow Rates</h4> <p>Water conditions on the Chattahoochee River are also influenced by the weather upstream of Jones Bridge. Regardless of whether the water is coming from a dam release or inclement weather upstream check the <a href=\"https://waterdata.usgs.gov/monitoring-location/02335000/#parameterCode=00060\">discharge/flow rate</a> at the gaging station at Medlock Bridge, near Norcross, GA. </p> <ul> <li>If Canoeing, Kayaking, or Stand Up Paddleboarding and the flow rate is over 4,000 cfs, <strong>cancel your trip</strong>. </li> <li>If Rafting and the flow rate is over 5,000 cfs, <strong>cancel your trip</strong>.</li> <li>If Tubing and the flow is over 2,500 cfs, <strong>cancel your trip</strong>.</li> </ul> <h4>Try These Floating Options</h4> <p> </p> <ul> <li>Rogers Bridge <strong><span style=\"color:#e74c3c;\">(Temporarily Closed)</span></strong> to <strong>Jones Bridge</strong>: 8.5 miles</li> <li>Abbotts Bridge to <strong>Jones Bridge</strong>: 6.7 miles</li> <li>Medlock Bridge to <strong>Jones Bridge</strong>: 2.4 miles</li> <li><strong>Jones Bridge</strong> to Garrard Landing Park (<i>no trailer access</i>): 3.0 miles</li> <li><strong>Jones Bridge</strong> to Island Ford (<i>no trailer access</i>): 7.8 miles</li> <li><strong>Jones Bridge</strong> to Don White Memorial Park (<i>no trailer access</i>): 10.2 miles</li> </ul>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.23923795923682,
+          34.00025893284307
+        ]
+      },
+      "properties": {
+        "name": "Jones Bridge Canoe and Raft Launch",
+        "notes": "Jones Bridge Canoe and Raft Launch\nhttps://www.nps.gov/places/jones-bridge-stepdown-launch.htm\n\n<p>The Jones Bridge Canoe and Kayak Launch provides access to the river for canoes, kayaks, rafts, and tubes. You'll have to carry your gear from the main parking lot approximately 100 yards to the step-down ramp. The step-down ramp is 9 feet wide and has 19 steps that you will have to negotiate.</p> <h4>Water Quality</h4> <p>Be sure to check the <a href=\"https://www2.usgs.gov/water/southatlantic/ga/bacteria/\">Current Estimated E. coli count</a> before starting your trip. If the count at Medlock Bridge is greater than 235 you have an increased risk of getting sick. <strong>Contact with the river is NOT recommended.</strong></p> <h4>Water Release Schedule</h4> <p>Water conditions on the Chattahoochee River are influenced on a daily basis by water releases from Buford Dam. The water release schedule can be obtained by calling <strong>(770) 945-1466</strong>, or toll free <strong>1-855-DAM-FLOW (1-855-326-3569)</strong>, or visit their <a href=\"http://spatialdata.sam.usace.army.mil/hydropower/default.aspx\"><strong>Hydropower Generating Schedule</strong></a> website. Besides showing the time for scheduled releases it also shows how many turbines will be operating and the current flow in cubic feet per second (cfs). It takes approximately 3 hours and 45 minutes to 6 hours for water released from Buford Dam to begin rising at Jones Bridge.</p> <h4>River Flow Rates</h4> <p>Water conditions on the Chattahoochee River are also influenced by the weather upstream of Jones Bridge. Regardless of whether the water is coming from a dam release or inclement weather upstream check the <a href=\"https://waterdata.usgs.gov/monitoring-location/02335000/#parameterCode=00060\">discharge/flow rate</a> at the gaging station at Medlock Bridge, near Norcross, GA. </p> <ul> <li>If Canoeing, Kayaking, or Stand Up Paddleboarding and the flow rate is over 4,000 cfs, <strong>cancel your trip</strong>. </li> <li>If Rafting and the flow rate is over 5,000 cfs, <strong>cancel your trip</strong>.</li> <li>If Tubing and the flow is over 2,500 cfs, <strong>cancel your trip</strong>.</li> </ul> <h4>Try These Floating Options</h4> <ul> <li>Rogers Bridge <strong><span style=\"color:#e74c3c;\">(Temporarily Closed)</span></strong> to <strong>Jones Bridge</strong>: 8.2 miles</li> <li>Abbotts Bridge to <strong>Jones Bridge</strong>: 6.4 miles</li> <li>Medlock Bridge to <strong>Jones Bridge</strong>: 2.1 miles</li> <li><strong>Jones Bridge</strong> to Garrard Landing (<i>no trailer access</i>): 3.3 miles</li> <li><strong>Jones Bridge</strong> to Island Ford (<i>no trailer access</i>): 8.1 miles</li> <li><strong>Jones Bridge</strong> to Don White Memorial Park (<i>no trailer access</i>): 10.5 miles</li> </ul>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.07712242628631,
+          34.15782396937278
+        ]
+      },
+      "properties": {
+        "name": "Lower Pool Park Boat, Canoe, and Raft Launch",
+        "notes": "Lower Pool Park Boat, Canoe, and Raft Launch\nhttps://www.nps.gov/places/lower-pool-park-launch.htm\n\n<p>The Lower Pool Park Boat, Canoe, and Raft Launch provides access to the river for trailered boats, canoes, kayaks, and rafts. This launch is located below Buford Dam, which creates Lake Sidney Lanier, and is operated by the U.S. Army Corps of Engineers. Due to the cold water released from the lake tubers are not allowed to put-in at this launch.</p> <h4>Water Quality</h4> <p>Be sure to check the <a href=\"https://www2.usgs.gov/water/southatlantic/ga/bacteria/\">Current Estimated E. coli count</a> before starting your trip. If the count at Medlock Bridge is greater than 235 you have an increased risk of getting sick. Contact with the river is NOT recommended.</p> <h4>Water Release Schedule</h4> <p>Water conditions on the Chattahoochee River are influenced on a daily basis by water releases from Buford Dam. The water release schedule can be obtained by calling <strong>(770) 945-1466</strong>, or toll free <strong>1-855-DAM-FLOW (1-855-326-3569)</strong>, or visit their <a href=\"http://spatialdata.sam.usace.army.mil/hydropower/default.aspx\"><strong>Hydropower Generating Schedule</strong></a> website. Besides showing the time for scheduled releases it also shows how many turbines will be operating and the current flow in cubic feet per second (cfs). It takes less than 15 minutes for water released from Buford Dam to begin rising at Lower Pool Park.</p> <h4>River Flow Rates</h4> <p>Water conditions on the Chattahoochee River are also influenced by the weather upstream of Settles Bridge. Regardless of whether the water is coming from a dam release or inclement weather upstream check the <a href=\"https://waterdata.usgs.gov/monitoring-location/02334430/#parameterCode=00060\">discharge/flow rate</a> at the gaging station below Buford Dam. </p> <ul> <li>If Canoeing, Kayaking, or Stand Up Paddleboarding and the flow rate is over 4,000 cfs, <strong>cancel your trip</strong>. </li> <li>If Rafting and the flow rate is over 5,000 cfs, <strong>cancel your trip</strong>.</li> <li>Float tubes are prohibited on this stretch of the river due to cold water temperatures.</li> </ul> <h4>Try These Floating Options</h4> <ul> <li><strong>Lower Pool Park</strong> to Settles Bridge: 4.5 miles</li> <li><strong>Lower Pool Park</strong> to McGinnis Bridge: 8.3 miles</li> <li><strong>Lower Pool Park</strong> to Roger Bridge <span style=\"color:#c0392b;\"><strong>(Temporarily Closed)</strong></span>: 11.2 miles</li> <li><strong>Lower Pool Park</strong> to Abbotts Bridge: 12.8 miles</li> </ul>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.43751223455007,
+          33.940715598142226
+        ]
+      },
+      "properties": {
+        "name": "Marietta Paper Mill Ruins",
+        "notes": "Marietta Paper Mill Ruins\nhttps://www.nps.gov/places/marietta-paper-mill-ruins.htm\n\n<p>Nestled in the woods, on the banks of Sope Creek, are stone walls that serve as a reminder of a not to distant past. Once the largest paper mill in the state, if its ruins could speak they would tell us about life in the second half of the 19th. Century.</p> <h2>Early Years</h2> <p>Construction on the Marietta Paper Mill began in 1853 and production began two years later in 1855. The Paper Mill included a mill, oil room, mill sluice (raceway), storeroom, dam, machine shop, pulp-grinding mill and two shelters. The Marietta Paper Mill was known as a “rag mill.” This was due to the paper being made from linen rags and old cotton. The abundance of water from Sope Creek and a dam upstream made the paper making process successful at the mill. The job of the mill was to make and provide paper to most of the south from 1855 to 1902. Initially the mill produced writing paper, printing paper, tissue paper, and wrapping paper.</p> <h2>Civil War Years</h2> <p>At the time of the Civil War, the Marietta Paper Mill was the largest in the state. During the war years the mill manufactured cartridge paper used in Confederate guns. The mill was even rumored to have printed Confederate money and bonds therefore nicknaming it the “Confederate Mint.” However, those claims have never been substantiated. This made it a target of destruction during Sherman’s Atlanta Campaign. General William Tecumseh Sherman devised a plan to burn everything that would help the South and prolong its fighting in the Civil War. Union soldiers, led by General Gerrard, burned the mill. There are conflicting reports whether the mill was burned on July 5 or July 6, 1864 by the Union Army.</p> <h2>Post War Years</h2> <p>After the Civil War, the paper mill was rebuilt and back in operation by September 1868. However, on the morning of November 7, 1870, a mill worker accidentally caused a fire which partially destroyed the factory. They rebuilt the damaged part of the mill and four months later they were once again producing paper. The mill struggled financially for a while and then went bankrupt.</p> <p>The mill was sold at public auction and renamed the Marietta Paper Manufacturing Company. The Marietta Paper Manufacturing Company was successful due to two new innovations:</p> <ul> <li>using the abundant pine trees for pulp</li> <li>converting to the production of twine.</li> </ul> <p>These innovations, implemented by Jefferson Land, helped the mill financially for many years. But due to another fire at the mill, increased competition, being in a remote location and not being close enough to a railroad, the mill was losing money. The mill was finally closed in 1902.</p> <h2>Today</h2> <p>The ruins, although deteriorating are not forgotten, remain a tourist attraction due to their beauty and and as a reminder of the past. They are listed on the National Register and it is now the responsibility of the National Parks Service to balance the preservation of the ruins while sharing their beauty.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.09866474072179,
+          34.051432050701216
+        ]
+      },
+      "properties": {
+        "name": "McGinnis Ferry Boat, Canoe, and Raft Launch",
+        "notes": "McGinnis Ferry Boat, Canoe, and Raft Launch\nhttps://www.nps.gov/places/mcginnis-ferry-launch.htm\n\n<p>The McGinnis Ferry Launch provides access to the river for power boats, canoes, kayaks, rafts, and tubes. This launch has a rather small parking area.</p> <h4>Water Quality</h4> <p>Be sure to check the <a href=\"https://www2.usgs.gov/water/southatlantic/ga/bacteria/\">Current Estimated E. coli count</a> before starting your trip. If the count at Medlock Bridge is greater than 235 you have an increased risk of getting sick. Contact with the river is NOT recommended.</p> <h4>Water Release Schedule</h4> <p>Water conditions on the Chattahoochee River are influenced on a daily basis by water releases from Buford Dam. The water release schedule can be obtained by calling <strong>(770) 945-1466</strong>, or toll free <strong>1-855-DAM-FLOW (1-855-326-3569)</strong>, or visit their <a href=\"http://spatialdata.sam.usace.army.mil/hydropower/default.aspx\"><strong>Hydropower Generating Schedule</strong></a> website. Besides showing the time for scheduled releases it also shows how many turbines will be operating and the current flow in cubic feet per second (cfs). It takes approximately 1 hour and 45 minutes to 2 hours for water released from Buford Dam to begin rising at McGinnis Ferry.</p> <h4>River Flow Rates</h4> <p>Water conditions on the Chattahoochee River are also influenced by the weather upstream of McGinnis Ferry. Regardless of whether the water is coming from a dam release or inclement weather upstream check the <a href=\"https://waterdata.usgs.gov/monitoring-location/02334653/#parameterCode=00060\">discharge/flow rate</a> at the gaging station 0.76 miles upstream of McGinnis Ferry, Suwanee, GA. </p> <ul> <li>If Canoeing, Kayaking, or Stand Up Paddleboarding and the flow rate is over 4,000 cfs, <strong>cancel your trip</strong>. </li> <li>If Rafting and the flow rate is over 5,000 cfs, <strong>cancel your trip</strong>.</li> <li>Float tubes are discouraged on this stretch of the river due to cold water temperatures.</li> </ul> <h4>Try These Floating Options</h4> <ul> <li>Lower Pool Park to <strong>McGinnis Ferry</strong>: 8.3 miles</li> <li>Settles Bridge to <strong>McGinnis Ferry</strong>: 3.8 miles</li> <li><strong>McGinnis Ferry</strong> to Rogers Bridge Park <span style=\"color:#c0392b;\"><strong>(Temporarily Closed)</strong></span>: 2.9 miles</li> <li><strong>McGinnis Ferry</strong> to Abbotts Bridge: 4.5 miles</li> <li><strong>McGinnis Ferry</strong> to Medlock Bridge: 9 miles</li> </ul>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.20194016760215,
+          33.99592491979562
+        ]
+      },
+      "properties": {
+        "name": "Medlock Bridge Boat, Canoe, and Raft Launch",
+        "notes": "Medlock Bridge Boat, Canoe, and Raft Launch\nhttps://www.nps.gov/places/medlock-bridge-launch.htm\n\n<p>The Medlock Bridge Launch provides access to the river for power boats, canoes, kayaks, rafts, and tubes. During the summer this launch can be very crowded at times. Please be considerate of other users by moving your equipment off the launch area as soon as possible.</p> <h4>Water Quality</h4> <p>Be sure to check the <a href=\"https://www2.usgs.gov/water/southatlantic/ga/bacteria/\">Current Estimated E. coli count</a> before starting your trip. If the count at Medlock Bridge is greater than 235 you have an increased risk of getting sick. Contact with the river is NOT recommended.</p> <h4>Water Release Schedule</h4> <p>Water conditions on the Chattahoochee River are influenced on a daily basis by water releases from Buford Dam. The water release schedule can be obtained by calling <strong>(770) 945-1466</strong>, or toll free <strong>1-855-DAM-FLOW (1-855-326-3569)</strong>, or visit their <a href=\"http://spatialdata.sam.usace.army.mil/hydropower/default.aspx\"><strong>Hydropower Generating Schedule</strong></a> website. Besides showing the time for scheduled releases it also shows how many turbines will be operating and the current flow in cubic feet per second (cfs). It takes approximately 3 hours and 30 minutes to 4 hours and 45 minutes for water released from Buford Dam to begin rising at Medlock Bridge.</p> <h4>River Flow Rates</h4> <p>Water conditions on the Chattahoochee River are also influenced by the weather upstream of Medlock Bridge. Regardless of whether the water is coming from a dam release or inclement weather upstream check the <a href=\"https://waterdata.usgs.gov/monitoring-location/02335000/#parameterCode=00060\">discharge/flow rate</a> at the gaging station at Medlock Bridge, near Norcross, GA. </p> <ul> <li>If Canoeing, Kayaking, or Stand Up Paddleboarding and the flow rate is over 4,000 cfs, <strong>cancel your trip</strong>. </li> <li>If Rafting and the flow rate is over 5,000 cfs, <strong>cancel your trip</strong>.</li> <li>If Tubing and the flow is over 2,500 cfs, <strong>cancel your trip</strong>.</li> </ul> <h4>Try These Floating Options</h4> <ul> <li>McGinnis Ferry to <strong>Medlock Bridge</strong>: 9 miles</li> <li>Rogers Bridge Park <span style=\"color:#c0392b;\"><strong>(Temporarily Closed)</strong></span> to <strong>Medlock Bridge</strong>: 6.1 miles</li> <li>Abbotts Bridge to <strong>Medlock Bridge</strong>: 4.5 miles</li> <li><strong>Medlock Bridge</strong> to Jones Bridge Canoe (<i>no trailer access</i>): 2.1 miles</li> <li><strong>Medlock Bridge</strong> to Jones Bridge Boat: 2.4 miles</li> <li><strong>Medlock Bridge</strong> to Garrard Landing Park (<i>no trailer access</i>): 5.4 miles</li> <li><strong>Medlock Bridge</strong> to Island Ford (<i>no trailer access</i>): 10.2 miles</li> </ul>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.38307727879874,
+          33.965582102774384
+        ]
+      },
+      "properties": {
+        "name": "Morgan Falls Dam",
+        "notes": "Morgan Falls Dam\nhttps://www.nps.gov/places/morgan-falls-dam.htm\n\n<p>By 1900, Atlanta had emerged as a prominent “New South” city. A post-Civil War period economic revival, which included the rebuilding of prosperous railroad lines, led to significant population growth. Important businessmen of Atlanta began to consider hydroelectric power to provide electricity to the growing population and to promote Georgia’s reputation as an economically viable state. The newly-formed Atlanta Water and Electric Power Company began construction on a massive hydroelectric dam in 1902 with Morgan Smith as the primary investor.</p> <p>The dam, which provided the city’s first source of water-generated electricity, was built on a section of the Chattahoochee River now a reservoir known as Bull Sluice Lake in Sandy Springs, Georgia.  Bull Sluice Lake can be viewed from the Gold Branch unit of the Chattahoochee River National Recreation Area. Completed in 1904, the dam was 1,031 feet long and 56 feet high. Morgan Smith did not live to see the project he had funded completed, but the board of directors of the Atlanta Water and Electric Company named the Morgan Falls Dam facility in his honor. Eventually Morgan Falls Dam became part of the Georgia Power Company. The original generators, though refurbished, are still being used to power metro Atlanta today.</p> <p>The 1957 construction of Buford Dam greatly altered Morgan Falls Dam. In 1959, sixteen spillway gates were added to the Morgan Falls dam to raise the level of Bull Sluice Lake another six feet and increase the reservoir’s capacity. Other work at Morgan Falls included reinforcing the concrete walls of the dam and overhauling or replacing the old turbines. In 1964 and 1965, the powerhouse was upgraded. When Morgan Falls Dam was first built, its production capacity was 10,500 kilowatts of power.  At present, the dam produces 16,800 kilowatts of power.</p> <p>Although Morgan Falls Dam provides a small portion of power for the residents of Georgia today, it provides numerous benefits to the surrounding area. Flood control, wildlife habitats, and recreational opportunities are among the benefits provided by the reservoir at Bull Sluice Lake. The Chattahoochee River National Recreation Area manages the waters of Bull Sluice Lake and its surrounding trail system (Gold Branch Unit). City parks run by Roswell and Sandy Springs also provide river access points for kayakers and canoeists to enjoy on-river views of Morgan Falls Dam and Bull Sluice Lake.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.38266129202844,
+          33.96531204492341
+        ]
+      },
+      "properties": {
+        "name": "Morgan Falls River Park Boat, Canoe, and Raft Launch",
+        "notes": "Morgan Falls River Park Boat, Canoe, and Raft Launch\nhttps://www.nps.gov/places/morgan-falls-river-park-launch.htm\n\n<p>The Morgan Falls River Park Launch provides access to the river for trailered boats, canoes, kayaks, rafts, and tubes. For your safety a Personal Flotation Device (PFD) is required to be worn by <u>all</u> visitors upstream of this launch.</p> <h4>Water Quality</h4> <p>Be sure to check the <a href=\"https://www2.usgs.gov/water/southatlantic/ga/bacteria/\">Current Estimated E. coli count</a> before starting your trip. If the count at Paces Ferry Road is greater than 235 you have an increased risk of getting sick. <strong>Contact with the river is NOT recommended.</strong></p> <h4>Water Release Schedule</h4> <p>Water conditions on the Chattahoochee River are influenced on a daily basis by water releases from Morgan Falls Dam. Visit Georgia Power's <a href=\"https://www.georgiapower.com/community/environment/lakes-rivers/river-levels.html\">Chattahoochee Hydro Real-Time Operations</a> website to view the tentative water release schedule for Morgan Falls Dam. Besides showing the time for scheduled releases it also shows how many turbines will be operating and the current flow in cubic feet per second (cfs). Water released from Morgan Falls Dam will begin rising at Morgan Falls River Park imediately after being released. There is no audible warning of water being released from the dam.</p> <h4>River Flow Rates</h4> <p>Water conditions on the Chattahoochee River are also influenced by the weather upstream of Morgan Falls River Park. Regardless of whether the water is coming from a dam release or inclement weather upstream check the <a href=\"https://waterdata.usgs.gov/monitoring-location/02335815/#parameterCode=00060\">discharge/flow rate</a> at the gaging station below Morgan Falls Dam . </p> <ul> <li>If Canoeing, Kayaking, or Stand Up Paddleboarding and the flow rate is over 4,000 cfs, <strong>cancel your trip</strong>. </li> <li>If Rafting and the flow rate is over 5,000 cfs, <strong>cancel your trip</strong>.</li> <li>If Tubing and the flow is over 2,500 cfs, <strong>cancel your trip</strong>.</li> </ul> <h4>Try These Floating Options</h4> <ul> <li><strong>Morgan Falls River Park</strong> to Johnson Ferry: 1.8 miles</li> <li><strong>Morgan Falls River Park</strong> to Powers Island (<i>no trailer access</i>): 6 miles</li> <li><strong>Morgan Falls River Park</strong> to Whitewater Creek (<i>no trailer access</i>): 7.8 miles</li> <li><strong>Morgan Falls River Park</strong> to Paces Mill Canoe (<i>no trailer access</i>): 8.6 miles</li> <li><strong>Morgan Falls River Park</strong> to Paces Mill Boat : 8.8 miles</li> </ul>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.45226268800629,
+          33.87026667231689
+        ]
+      },
+      "properties": {
+        "name": "Paces Mill Canoe and Raft Launch",
+        "notes": "Paces Mill Canoe and Raft Launch\nhttps://www.nps.gov/places/paces-mill-launch-no1.htm\n\n<p>The Paces Mill Canoe and Kayak Launch provides <strong>the last place for canoes, kayaks, rafts, and tubes to exit the river.</strong> During the summer this launch can be very crowded at times with floaters using their own equipment and floaters using rental equipment. Please be considerate of other users by moving your equipment off the launch area as soon as possible. If you are using rented equipment make sure it is turned in.</p> <h4>Water Quality</h4> <p>Be sure to check the <a href=\"https://www2.usgs.gov/water/southatlantic/ga/bacteria/\">Current Estimated E. coli count</a> before putting in upstream. If the count at Paces Mill is greater than 235 you have an increased risk of getting sick. Contact with the river is NOT recommended.</p> <h4>Try These Floating Options</h4> <ul> <li>Morgan Falls River Park to <strong>Paces Mill</strong>: 8.6 miles</li> <li>Johnson Ferry to <strong>Paces Mill</strong>: 6.8 miles</li> <li>Powers Island to <strong>Paces Mill</strong>: 2.6 miles</li> <li>Whitewater Creek to <strong>Paces Mill</strong>: 0.8 miles</li> </ul>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.44057153366538,
+          33.88913780750311
+        ]
+      },
+      "properties": {
+        "name": "Palisades Overlook",
+        "notes": "Palisades Overlook\nhttps://www.nps.gov/places/palisades-overlook-place.htm\n\n<p>Located in the East Palisades Unit between trail markers EP10 and EP14, Indian Trail overlook offers stunning views of river rapids below and the Atlanta skyline in the distance. The overlook has benches so you can sit, relax and enjoy the view of the Devils Race Course Shoals below and the metro Atlanta skyline above. So, take a seat, enjoy the view, then follow the trail on down to walk along the Chattahoochee. </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.4436033742,
+          33.9034675473
+        ]
+      },
+      "properties": {
+        "name": "Powers Island Canoe and Raft Launch",
+        "notes": "Powers Island Canoe and Raft Launch\nhttps://www.nps.gov/places/powers-island-launch.htm\n\n<p>The Powers Island Launch provides access to the river for canoes, kayaks, rafts, and tubes. During the summer this launch is one of the busiest put-ins on the river.</p> <h4>Water Quality</h4> <p>Be sure to check the <a href=\"https://www2.usgs.gov/water/southatlantic/ga/bacteria/\">Current Estimated E. coli count</a> before starting your trip. If the count at Paces Ferry Road is greater than 235 you have an increased risk of getting sick. <strong>Contact with the river is NOT recommended.</strong></p> <h4>Water Release Schedule</h4> <p>Water conditions on the Chattahoochee River are influenced on a daily basis by water releases from Morgan Falls Dam. Visit Georgia Power's <a href=\"https://www.georgiapower.com/community/environment/lakes-rivers/river-levels.html\">Chattahoochee Hydro Real-Time Operations</a> website to view the tentative water release schedule for Morgan Falls Dam. Besides showing the time for scheduled releases it also shows how many turbines will be operating and the current flow in cubic feet per second (cfs). It takes approximately 1 hour for water released from Morgan Falls Dam to begin rising at Powers Island.</p> <h4>River Flow Rates</h4> <p>Water conditions on the Chattahoochee River are also influenced by the weather upstream of Island Ford. Regardless of whether the water is coming from a dam release or inclement weather upstream check the <a href=\"https://waterdata.usgs.gov/monitoring-location/02335815/#parameterCode=00060\">discharge/flow rate</a> at the gaging station below Morgan Falls Dam.</p> <ul> <li>If Canoeing, Kayaking, or Stand Up Paddleboarding and the flow rate is over 4,000 cfs, <strong>cancel your trip</strong>. </li> <li>If Rafting and the flow rate is over 5,000 cfs, <strong>cancel your trip</strong>.</li> <li>If Tubing and the flow is over 2,500 cfs, <strong>cancel your trip</strong>.</li> </ul> <h4>Try These Floating Options</h4> <ul> <li>Morgan Falls River Park to <strong>Powers Island</strong>: 6 miles</li> <li>Johnson Ferry to <strong>Powers Island</strong>: 4.2 miles</li> <li><strong>Powers Island</strong> to Whitewater Creek (<i>no trailer access</i>): 1.8 miles</li> <li><strong>Powers Island</strong> to Paces Mill Canoe (<i>no trailer access</i>): 2.6 miles</li> <li><strong>Powers Island</strong> to Paces Mill Boat: 2.8 miles</li> </ul>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.14135921138596,
+          34.029951933580286
+        ]
+      },
+      "properties": {
+        "name": "Rogers Bridge",
+        "notes": "Rogers Bridge\nhttps://www.nps.gov/places/rogers-bridge.htm\n\n<p>The Rogers family was one of the earliest settlers of the area and owned the land adjacent to the bridge. In the 1820’s, brothers George and William Rogers ran a ferry service at the site of the current bridge. The pair, who were part Cherokee, had their land seized in conjunction with the tribe’s forced removal from the state. However, in 1839, they sued the state of Georgia, invalidating their action and successfully winning back their land. While there is no record of the bridge’s construction, it was built in the model of the late 19th century “camelback” truss bridges, and remains the best preserved steel-truss bridge in the park.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.14267265836568,
+          34.02946193503648
+        ]
+      },
+      "properties": {
+        "name": "Rogers Bridge Park Canoe and Raft Launch",
+        "notes": "Rogers Bridge Park Canoe and Raft Launch\nhttps://www.nps.gov/places/rogers-bridge-park-launch.htm\n\n<h4><span style=\"color:#c0392b;\">The Rogers Bridge Park and Launch is currently closed for work on the bridge.</span></h4>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.324167,
+          33.987778
+        ]
+      },
+      "properties": {
+        "name": "Sam Hewlett Pavilion",
+        "notes": "Sam Hewlett Pavilion\nhttps://www.nps.gov/places/sam-hewlett-pavilion.htm\n\n<p>The Sam Hewlett Pavilion overlooks the Chattahoochee River in the Island Ford Unit in Sandy Spring, Georgia. The pavilion is one of only three pavilions in Chattahoochee River National Recreation Area.</p> <p>The pavilion is accessed by walking down a moderately steep paved and gravel walkway behind the Historic Hewlett Lodge. The pavilion includes picnic tables and a large built in charcoal/wood fireplace grill set in the shade of the trees. The restroom facility in the lodge is accessible only during regular visitor center hours, 9 a,m to 5 p.m. daily. Potable water is available in the lodge and outside. Electrical service is not available. The facility can accommodate approximately 25 people.</p> <p>The parking lots near the lodge will accommodate up to 63 vehicles. There are 5 ADA-designated parking spaces. </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.110184474,
+          34.098501147
+        ]
+      },
+      "properties": {
+        "name": "Settles Bridge",
+        "notes": "Settles Bridge\nhttps://www.nps.gov/places/settles-bridge-place.htm\n\n<p>The oldest still standing bridge within the park, Settles Bridge was built in 1880 as a steel truss bridge. In the late 19th century, steel truss bridges began replacing fords and ferries as a means to cross the Chattahoochee. The wooden deck that once spanned the bridge is now completely gone, but the steel frame remains as an impressive testament to the history of the river.</p> <p>After admiring the bridge, feel free to hike along the forested river trails, or hop in a boat for a quiet day fishing or floating.</p> <p><b>NOTE: The bridge is unsafe to climb so please enjoy with your eyes and camera only.</b></p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.10910617925074,
+          34.09850717494792
+        ]
+      },
+      "properties": {
+        "name": "Settles Bridge Canoe and Raft Launch",
+        "notes": "Settles Bridge Canoe and Raft Launch\nhttps://www.nps.gov/places/settles-bridge-launch.htm\n\n<p>The Settles Bridge Launch provides access to the river for canoes, kayaks, and rafts. During the summer this launch can be crowded.</p> <h4>Water Quality</h4> <p>Be sure to check the <a href=\"https://www2.usgs.gov/water/southatlantic/ga/bacteria/\">Current Estimated E. coli count</a> before starting your trip. If the count at Medlock Bridge is greater than 235 you have an increased risk of getting sick. Contact with the river is NOT recommended.</p> <h4>Water Release Schedule</h4> <p>Water conditions on the Chattahoochee River are influenced on a daily basis by water releases from Buford Dam. The water release schedule can be obtained by calling <strong>(770) 945-1466</strong>, or toll free <strong>1-855-DAM-FLOW (1-855-326-3569)</strong>, or visit their <a href=\"http://spatialdata.sam.usace.army.mil/hydropower/default.aspx\"><strong>Hydropower Generating Schedule</strong></a> website. Besides showing the time for scheduled releases it also shows how many turbines will be operating and the current flow in cubic feet per second (cfs). It takes approximately 45 minutes for water released from Buford Dam to begin rising at Settles Bridge.</p> <h4>River Flow Rates</h4> <p>Water conditions on the Chattahoochee River are also influenced by the weather upstream of Settles Bridge. Regardless of whether the water is coming from a dam release or inclement weather upstream check the <a href=\"https://waterdata.usgs.gov/monitoring-location/02334430/#parameterCode=00060\">discharge/flow rate</a> at the gaging station below Buford Dam. </p> <ul> <li>If Canoeing, Kayaking, or Stand Up Paddleboarding and the flow rate is over 4,000 cfs, <strong>cancel your trip</strong>. </li> <li>If Rafting and the flow rate is over 5,000 cfs, <strong>cancel your trip</strong>.</li> <li>Float tubes are prohibited on this stretch of the river due to cold water temperatures.</li> </ul> <h4>Try These Floating Options</h4> <p> </p> <ul> <li>Lower Pool Park to <strong>Settles Bridge</strong>: 4.5 miles</li> <li><strong>Settles Bridge</strong> to McGinnis Bridge: 3.8 miles</li> <li><strong>Settles Bridge</strong> to Roger Bridge <span style=\"color:#c0392b;\"><strong>(Temporarily Closed)</strong></span>: 6.7 miles</li> <li><strong>Settles Bridge</strong> to Abbotts Bridge: 8.3 miles</li> <li><strong>Settles Bridge</strong> to Medlock Bridge: 12.8 miles</li> </ul>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.442804,
+          33.878192
+        ]
+      },
+      "properties": {
+        "name": "Whitewater Creek Canoe and Raft Launch",
+        "notes": "Whitewater Creek Canoe and Raft Launch\nhttps://www.nps.gov/places/whitewater-creek-launch.htm\n\n<p>The Whitewater Creek Launch provides access to the river for canoes, kayaks, rafts, and tubes. This launch is used to access the river by anglers wading the shoals especially in the winter during the delayed harvest season.</p> <h4>Water Quality</h4> <p>Be sure to check the <a href=\"https://www2.usgs.gov/water/southatlantic/ga/bacteria/\">Current Estimated E. coli count</a> before starting your trip. If the count at Paces Ferry Road is greater than 235 you have an increased risk of getting sick. <strong>Contact with the river is NOT recommended.</strong></p> <h4>Water Release Schedule</h4> <p>Water conditions on the Chattahoochee River are influenced on a daily basis by water releases from Morgan Falls Dam. Visit Georgia Power's <a href=\"https://www.georgiapower.com/community/environment/lakes-rivers/river-levels.html\">Chattahoochee Hydro Real-Time Operations</a> website to view the tentative water release schedule for Morgan Falls Dam. Besides showing the time for scheduled releases it also shows how many turbines will be operating and the current flow in cubic feet per second (cfs). It takes approximately 1 hour and 15 minutes for water released from Morgan Falls Dam to begin rising at Whitewater Creek.</p> <h4>River Flow Rates</h4> <p>Water conditions on the Chattahoochee River are also influenced by the weather upstream of Island Ford. Regardless of whether the water is coming from a dam release or inclement weather upstream check the <a href=\"https://waterdata.usgs.gov/monitoring-location/02335815/#parameterCode=00060\">discharge/flow rate</a> at the gaging station below Morgan Falls Dam.</p> <ul> <li>If Canoeing, Kayaking, or Stand Up Paddleboarding and the flow rate is over 4,000 cfs, <strong>cancel your trip</strong>. </li> <li>If Rafting and the flow rate is over 5,000 cfs, <strong>cancel your trip</strong>.</li> <li>If Tubing and the flow is over 2,500 cfs, <strong>cancel your trip</strong>.</li> </ul> <h4>Try These Floating Options</h4> <ul> <li>Morgan Falls Dam to <strong>Whitewater Creek</strong>: 7.8 miles</li> <li>Johnson Ferry to <strong>Whitewater Creek</strong>: 6 miles</li> <li>Powers Island (<i>no trailer access</i>) to <strong>Whitewater Creek</strong>: 1.8 miles</li> <li><strong>Whitewater Creek</strong> to Paces Mill Canoe (<i>no trailer access</i>): 0.8 mile</li> <li><strong>Whitewater Creek</strong> to Paces Mill Boat: 1 mile</li> </ul>",
+        "icon": "red-pin-down.png"
+      }
+    }
+  ]
+}

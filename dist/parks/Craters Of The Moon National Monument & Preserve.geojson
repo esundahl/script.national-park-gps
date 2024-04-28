@@ -1,0 +1,125 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.56080293655396,
+          43.44276185152094
+        ]
+      },
+      "properties": {
+        "name": "Big Craters",
+        "notes": "Big Craters\nhttps://www.nps.gov/places/big-craters.htm\n\nThe source of one of the most recent eruptions at Craters of the Moon, Big Craters allows visitors to venture up to the edge of one of the park's larger craters.<br /> <br /> Big Craters is located at the southern end of North Crater Trail near the Spatter Cones area. A short, steep hike is required to view the crater with an elevation gain of 100 feet (30 m). From the Snow Cone Trail, follow North Crater Trail for 800 feet (243 m) to the rim of the crater, approximately 200 feet beyond the end of the paved trail. Continuing along the trail, two smaller craters can be seen past the first crater before the trail turns west and goes downhill. <a href=\"https://www.nps.gov/thingstodo/crmo_northcratertrail.htm\">Be prepared if you plan to hike this strenuous trail</a>.<br /> <br /> <strong>For your safety and to protect fragile lava formations, off-trail travel is not permitted in the Big Craters or Spatter Cones areas.</strong>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.52779388602357,
+          43.41793327481251
+        ]
+      },
+      "properties": {
+        "name": "Craters of the Moon Wilderness",
+        "notes": "Craters of the Moon Wilderness\nhttps://www.nps.gov/places/crmo-wilderness.htm\n\n<p>Established in 1970, the Craters of the Moon Wilderness was one of the first NPS-managed wilderness areas to be created under the Wilderness Act. This area spans over 43,000 acres and is only accessible by hiking. The area offers wide expanses of sagebrush dotted with the occational cinder cone marking the Great Rift.<br /> <br /> The Wilderness is accessed by either the Wilderness Trail or Tree Molds Trail. The Wilderness area begins 0.25 miles (0.4 km) from where the Wilderness Trail splits off Broken Top Loop. The Wilderness Trail can be reliably followed for 3 miles (1.6 km) to Echo Crater before the trail becomes less distinct and ends at The Sentinel. The Tree Molds Trail can be followed for a short distance beyond the sign marking the end of the trail before it disappears completely.<br /> <br /> Experienced adventurerers may also be interested in visiting the rugged and remote <a href=\"https://www.nps.gov/places/nps-preserve-and-blm-monument.htm\">Craters of the Moon National Preserve</a>.</p> <h3>Safety</h3> <p>Always let someone know where you're going and when you plan to return. Cell service is poor to non-existent in the park. There are no roads or facilities in the Wilderness.<br /> <br /> While off-trail hiking is permitted in the Wilderness, go prepared and bring a map, compass or GPS, first-aid kit, sun protection, food, and plenty of water. Be aware of changing conditions that can limit visibility such as fog.</p> <h3>Know Before You Go</h3> <ul> <li>A free permit from the <a href=\"https://www.nps.gov/crmo/planyourvisit/visitor-center.htm\">visitor center</a> is required for all <a href=\"https://www.nps.gov/thingstodo/crmo-backpacking.htm\">overnight trips</a> into the Craters of the Moon Wilderness. Permits allow the park to monitor how many people are using the wilderness, to inform wilderness users of regulations, and to ensure the safe return of all visitors.</li> <li>There is no reliable source of water in the Craters of the Moon Wilderness. We recommend packing one gallon of water per person per day.</li> <li>The lava can be uneven and sharp. Wear sturdy shoes and use caution, especially if traveling off-trail.</li> <li>Plan for hot, dry weather, high winds, and little to no shade.</li> </ul> <h3>Wilderness Regulations</h3> <ul> <li><strong>No wood fires are allowed.</strong> Use backpacking stoves for cooking.</li> <li>Bicycles and other mechanized equipment are not allowed.</li> <li>Pets are not allowed on any hiking trails or in the wilderness.</li> <li>Do not collect artifacts, plants, rocks, or other natural objects.</li> <li>Do not approach or feed wildlife.</li> <li>Camping is not permitted within one mile of the Tree Molds trailhead.</li> <li>In order protect the park's sensitive bat population from disturbance and the spread of <a href=\"https://www.nps.gov/subjects/bats/white-nose-syndrome.htm\">white-nose syndrome</a>, all wilderness caves are closed to public use.</li> </ul> <h3>Leave No Trace Tips</h3> <ul> <li>Pack out all waste, including human waste and toilet paper.</li> <li>Plan ahead: know where you're going and ensure you have everything you need for a safe, enjoyable, and low-impact trip.</li> <li><a href=\"https://www.nps.gov/articles/leave-no-trace-seven-principles.htm\">Learn more about how to Leave No Trace when visiting wilderness areas</a>.</li> </ul>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.47163724535221,
+          43.56026612708806
+        ]
+      },
+      "properties": {
+        "name": "Craters of the Moon, the Oregon Trail",
+        "notes": "Craters of the Moon, the Oregon Trail\nhttps://www.nps.gov/places/craters-of-the-moon-the-oregon-trail.htm\n\n<figure> <h2>History</h2> <h3>A Safer Alternative</h3> </figure> <p>The Oregon Trail followed the course of the Snake River, about 100 miles south of the monument. In 1852, John Jeffrey began promoting a spur trail which traced traditional Shoshone migration routes. He wanted to generate business for his ferry at the mouth of the Blackfoot River. Although the cutoff received some use from 1852-1854, it was not until a decade later that a large percentage of Oregon Trail traffic chose the route.</p> <p>In 1862, an emigrant party asked guide Tim Goodale to lead them west from Fort Hall on the cutoff pioneered by Jeffrey. They hoped the alternate trail would enable them to reach the Salmon River gold fields more directly. Goodale succeeded in leading a group of 1,095 people, 338 wagons, and 2,900 head of stock safely from Fort Hall to Boise. It took this enormous wagon train -- the largest to travel any section of the Oregon Trail -- over 3 hours to get into or out of camp.</p> <p>By 1862, the Northern Shoshone and Bannock tribes were beginning to resist the intrusion of emigrants into their homeland. Skirmishes occurred between the Shoshone and emigrants near <a href=\"https://www.nps.gov/places/000/massacre-rocks-state-park.htm\">Massacre Rocks State Park</a>. The growing hostility along the trail resulted in increased demand for a safe alternative. In 1863, seven out of every ten wagons en route from Fort Hall to Boise took Goodale's Cutoff instead of the main Oregon Trail.</p> <h3>Skirting the Lava Flows</h3> <p><br /> The 230-mile spur headed north from Fort Hall toward Big Southern Butte, a conspicuous landmark on the Snake River Plain. From there it passed near the present-day town of Arco, wound through the northern part of Craters of the Moon National Monument and Preserve, went southwest to Camas Prairie, and ended at Fort Boise. This journey typically took two to three weeks.</p> <p>Goodale's Cutoff took its toll on the travelers and their wagons. The rugged lava restricted travel to one lane, so progress was slow.</p> <p>The path along the edge of the lava flows was circuitous. The emigrants typically passed through in late July, the hottest part of the summer. Wood dried out in the desert air and shrank, causing wheels and boxes to come apart. Pioneers wrote of finding pieces of broken wagons littering the trail.</p> <p>For nearly 50 years, westward-bound pioneers used Goodale's Cutoff. Later, miners moving ore to railroad depots and stagecoaches carrying passengers to the towns of southern Idaho took the route. But the advent of the railroad and automobile led to the demise of Goodale's Cutoff as a wagon route. Today those driving US-20, which follows sections of the route, need not concern themselves with survival and can take time to appreciate the unique beauty of the harsh landscape.</p> <h2>Site Information</h2> <p><strong>Location: </strong>Goodale's Cutoff is visible at many points along Highway 20/26/93 between Arco and Carey.</p>   <ul> <li>The route winds through the northern end of the monument out of sight of the road and intersects the highway 3.5 miles west of the visitor center. From that point on, watch for the dirt road as it follows the edge of the lava flows north of the highway.</li> <li>The cutoff is particularly easy to pick out 5.7 miles west of the visitor center, where the road drops down a steep incline. Look to the slope north of the road, where several earlier routes through this notch are visible. The highest road is Goodale's Cutoff.</li> <li>At Lava Lake, 11.3 miles west of the visitor center, there is a historical marker which describes Goodale's Cutoff.</li> </ul> <p>Goodale's Cutoff is not accessible by car within Craters of the Moon. Check at the visitor center for more information on where to see the trail.</p> <p><em><a href=\"https://www.nps.gov/oreg/planyourvisit/safety.htm\">Safety Considerations</a></em></p> <h3><a href=\"https://www.nps.gov/crmo/index.htm\">More Site Information</a></h3> <h2><a href=\"https://www.nps.gov/oreg/index.htm\">Oregon National Historic Trail</a></h2>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.538439,
+          43.451593
+        ]
+      },
+      "properties": {
+        "name": "Devils Orchard Nature Trail",
+        "notes": "Devils Orchard Nature Trail\nhttps://www.nps.gov/places/devilsorchard.htm\n\nThis paved 0.5 mi (0.8 km) trail explores an area of cinder beds scattered with pieces of North Crater. Exhibits along the trail challenge you to consider the difficulties of protecting this fragile environment. This trail is wheelchair accessible.<br /> <br /> <em>Corresponds to #4 on the park brochure map.</em>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.555362974,
+          43.4449492774
+        ]
+      },
+      "properties": {
+        "name": "Inferno Cone",
+        "notes": "Inferno Cone\nhttps://www.nps.gov/places/inferno-cone.htm\n\nThe steep 0.4 mi (0.8 km) trail to the top of Inferno Cone is challenging, but it rewards hikers with 360-degree views of the Great Rift, the Snake River Plain, and the Pioneer Mountains. On clear days, you may even see the Teton Range, 100 miles to the east.<br /> <br /> Make the strenuous climb to the top, or enjoy scenic views from the overlook near the parking area.<br /> <br /> Caution: This open, exposed trail can be hazardous in high winds.<br /> <br /> <em>Corresponds to #5 on the park brochure map.</em><br /> <br />  ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.52689981460571,
+          43.414135369256584
+        ]
+      },
+      "properties": {
+        "name": "Lava Trees",
+        "notes": "Lava Trees\nhttps://www.nps.gov/places/crmo-lava-trees.htm\n\nDuring an eruption, lava will sometimes encounter living trees that can withstand the heat of the lava long enough to leave behind an impression in the cooling lava. The impressions standing trees leave behind in the rock are called lava trees. Horizontal impressions from trees that were knocked over are called tree molds.<br /> <br /> The Lava Trees are located 150 feet (46 m) off the Wilderness Trail, approximately 1.5 miles (2.4 km) from where the Wilderness Trail splits off from Broken Top Loop. A sign marks their location. Additional lava trees and tree molds are found throughout the area. <a href=\"https://www.nps.gov/thingstodo/crmo-backpacking.htm\">Be prepared if you plan to explore the wilderness.</a> ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.350901,
+          42.98562
+        ]
+      },
+      "properties": {
+        "name": "NPS Preserve and BLM Monument",
+        "notes": "NPS Preserve and BLM Monument\nhttps://www.nps.gov/places/nps-preserve-and-blm-monument.htm\n\n<p>A network of primitive roads through the park service and Bureau of Land Management (BLM) portions of the preserve offers backcountry driving opportunities and access for those with high-clearance, 4-wheel-drive vehicles. Individuals seeking challenge and solitude will find both while cross-country hiking through the sage-brush covered flats and rugged lava flows of the monument and preserve.</p> <h3>Travel Restrictions</h3> <p>Cross-country motorized travel is not allowed anywhere within the preserve except immediately adjacent to roads and trails for purposes of parking, turning around, or passing another vehicle.<br /> <br /> Additional travel restrictions are in effect in certain areas to protect wildlife and sensitive features. Roads designated with seasonal closures may only be used during the open period. Permission from private land owners is required to cross private land unless legal access is provided by a federal, state, or county road.</p> <h3>Safety</h3> <p>Outside of the developed monument, there are no services and marginal phone coverage in the park. Exploring these areas requires special planning and an awareness of potential hazards. Bring a map, compass or GPS, a reliable form of communication, first-aid kit, sun protection, fire extinguisher, shovel, and plenty of water, food, and fuel. Always let someone know where you are traveling to and when you will return. <a href=\"https://www.blm.gov/programs/national-conservation-lands/idaho/craters-of-the-moon\">A full travel map can be downloaded from the BLM's website.</a></p> <h3>Prevent Wildfires</h3> <ul> <li> <p>Never park or drive on dry grass. The exterior of your exhaust system can reach temperatures up to 1000°F, igniting fires in dry vegetation. Vegetation can also gather on top of your exhaust system causing it to ignite. Equipping your vehicle with a proper exhaust system and spark arrestor may help to prevent this.</p> </li> <li>Include a fire extinguisher and a shovel in your vehicle as standard equipment.</li> <li>Fireworks are prohibited on both BLM and NPS land.</li> </ul> <h3>Hunting</h3> <p>Hunting is permitted within the BLM monument and in the NPS preserve. Firearms may only be used for lawful hunting in accord with state law in these areas. No trapping is allowed in any area managed by the NPS. For the protection of your health and the health of wildlife, hunters are encouraged to use non-lead bullets.</p> <h3>Grazing</h3> <p>Grazing is permitted within the BLM Monument by ranchers with valid permits. If you encounter sheep or cattle on a road or trail, make them aware of your presence and move by slowly without startling them. If you open a gate, please close it properly to keep livestock where they are supposed to be.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.557364774,
+          43.4410819769
+        ]
+      },
+      "properties": {
+        "name": "Spatter Cones",
+        "notes": "Spatter Cones\nhttps://www.nps.gov/places/spatter-cones.htm\n\nCreated during the dwindling stages of an eruption, the spatter cones formed as hot lumps of lava were thrown a short distance into the air only to fall back to earth around a small central vent. As the still-molten blobs landed on top of each other, they cooled and adhered to nearby pieces to form the walls of what could be considered a mini-volcano. Take a short walk up the Spatter Cones Trail and the Snow Cone Trail to take a look down into the cones. The Snow Cone Trail is wheelchair accessible.<br /> <br /> <em>Corresponds to #6 on the park brochure map.</em>",
+        "icon": "red-pin-down.png"
+      }
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.773786,
+          40.205056
+        ]
+      },
+      "properties": {
+        "name": "Blacksmith Shop - Hopewell Furnace",
+        "notes": "Blacksmith Shop - Hopewell Furnace\nhttps://www.nps.gov/places/000/blacksmith-shop-1.htm\n\n<p>The blacksmith shop was one of the busiest and most important places in Hopewell. The skill of the blacksmith in making and repairing iron objects made him a necessary worker at Hopewell Furnace and nearly every other community in America during the 18th and 19th centuries. He shaped shoes for the horses and mules that were essential for the furnace operations. He made nails, hinges, hooks, wagon parts, tools, and repaired all the iron fixtures of the furnace's machinery. Little wonder why his work kept him busy 6 days a week and on call 24 hours to maintain the furnace's operation.<br /> <br /> The importance of the Blacksmith and other iron workers illustrate the influence of iron in early America. Iron and its derivative, steel, were the most commonly used metals for making man made objects. As the industrial revolution expanded, iron would play an ever-increasing roll in the nation's economic and industrial development.<br />  </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.773823,
+          40.205469
+        ]
+      },
+      "properties": {
+        "name": "Hopewell Furnace Cast House",
+        "notes": "Hopewell Furnace Cast House\nhttps://www.nps.gov/places/000/hopewell-furnace-cast-house.htm\n\n<p>The Cast House encloses the charcoal blast furnace. All of Hopewell's products were produced in this building. To the left of the furnace, moulders worked at their benches producing sand molds for stove plates and other cast products. Guttermen dug trenches and runners for iron and slag in the clay floor in front of the furnace. The furnace founder monitored the furnace and water wheel, shouting instructions up to the fillers. All of this work was done over two twelve hour shifts, seven days a week, for an average of ten months at a time. Temperatures in this building would reach over 120 degrees Fahrenheit. Imagine what it would be like to stand here in the middle of a busy work shift. The current Cast House is a reconstruction built by Amish contractors for the National Park Service in 1965.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6480484008789,
+          40.2464485168457
+        ]
+      },
+      "properties": {
+        "name": "Schuylkill River Greenways National Heritage Area",
+        "notes": "Schuylkill River Greenways National Heritage Area\nhttps://www.nps.gov/places/schuylkill-river-national-heritage-area.htm\n\n<p>The mission of the <strong>Schuylkill River Valley National Heritage Area</strong>, better known as the <a href=\"https://schuylkillriver.org/\">Schuylkill River Greenways National Heritage Area</a>, is to connect residents, visitors and communities to the Schuylkill River and the <a href=\"https://schuylkillrivertrail.com/\">Schuylkill River Trail</a> by serving as a catalyst for civic engagement and economic development in order to foster stewardship of the watershed and its heritage. By encouraging stewardship and appreciation of the environmental, historical and recreational opportunities provided to residents and visitors alike, Schuylkill River Greenways NHA seeks to leverage economic and community development benefits to the region. To this end, the NHA's signature project is working with partners to build, improve, and promote the <a href=\"https://schuylkillrivertrail.com/\">Schuylkill River Trail</a>. The NHA's signature event is the annual <a href=\"http://www.schuylkillriver.org/Sojourn.aspx\">Schuylkill River Sojourn</a>, a 112-mile guided paddling trip down the river.</p> <p>The NHA is managed by the <a href=\"https://schuylkillriver.org/\">Schuylkill River Greenway Association</a>, who see the Schuylkill River and the Schuylkill River Trail as platforms for the revitalization of the communities; for engaging residents and visitors with nationally significant history; for improving public health by encouraging close to home outdoor recreation; and for connecting people to the incredible natural and historic areas in their own backyards and encouraging them to become stewards of those resources.<br /> <br /> <strong>The Schuylkill River Greeenways National Heritage Area is home to the following NPS Units:</strong></p> <ul> <li><a href=\"https://www.nps.gov/hofu/index.htm\">Hopewell Furnace National Historic Site</a></li> <li><a href=\"https://www.nps.gov/inde/index.htm\">Independence National Historical Park</a></li> <li><a href=\"https://www.nps.gov/vafo/index.htm\">Valley Forge National Historical Park</a></li> </ul> <p>Learn more by visiting the <a href=\"https://schuylkillriver.org/\">Schuylkill River Greenways NHA website</a>.</p>",
+        "icon": "red-pin-down.png"
+      }
+    }
+  ]
+}

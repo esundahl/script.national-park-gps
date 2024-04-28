@@ -1,0 +1,95 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Charles Pinckney National Historic Site",
+        "notes": "Charles Pinckney National Historic Site\nhttps://www.nps.gov/places/charles-pinckney-national-historic-site.htm\n\n<p>Charles Pinckney National Historic Site, located outside Charleston in Mount Pleasant, South Carolina, is a 28-acre remnant of Charles Pinckney’s original 18th-century 715-acre plantation known as Snee Farm. Purchased by his father Colonel Charles Pinckney in 1754 (three years before the younger Pinckney’s birth), Pinckney spent his childhood splitting time between the Snee Farm “country home” and the family’s downtown Charleston residence. Pinckney inherited Snee Farm in 1782 and continued to grow rice and indigo at the plantation using an enslaved workforce.<br /> <br /> Shortly after the Revolutionary War, Pinckney became immersed in American political endeavors that would occupy the next 40 years of his life. His most famous accomplishment was the inclusion of more than 25 clauses in the final draft of the U.S. Constitution. In addition, Pinckney served four terms as governor of South Carolina and as Thomas Jefferson’s Minister to Spain (1801–1805). While his political and social life was based out of his Charleston home, Pinckney used Snee Farm as an accessible country retreat and source of agricultural income.<br /> <br /> The demands of Charles Pinckney’s political career made it difficult for him to manage his extensive land holdings, which included six other plantations besides Snee Farm. Conveyed by Pinckney to trustees in 1816 and sold in 1817, Snee Farm had a number of subsequent owners, one of whom built a new coastal cottage-style house on the site of the Pinckney home around 1828. Snee Farm remained intact as an agricultural property into the 20th century, although by the 1930s the farm had the character of a country vacation residence rather than a working farm.<br /> <br /> The burgeoning suburban development of Mount Pleasant, formerly known as Christ Church Parish, in the late 20th century finally resulted in the breakup of the Snee Farm property. In the early 1970s, all but a 28-acre core of the original Snee Farm was sold for housing development and a golf course. Snee Farm was listed in the National Register of Historic Places on April 13, 1973, and was also designated as a national historic landmark on November 7, 1973.<br /> <br /> Later, a developer purchased the last 28-acre remnant of Snee Farm in 1986. Roads were rough graded and some utilities were installed. In 1988, the Friends of Snee Farm purchased the 28- acre core of Snee Farm from the developer, including the circa 1828 farmhouse and surviving 20th-century agricultural outbuildings. Following congressional authorization of the site, the Friends of Snee Farm sold the site to the National Park Service, ensuring preservation of the core of Snee Farm.<br /> <br /> Congress established Charles Pinckney National Historic Site in 1988 to preserve the site of Pinckney’s former home at Snee Farm in present-day Mount Pleasant, South Carolina, and to interpret his life, the lives of Snee Farm’s free and enslaved inhabitants, and the early history of the United States.  <span style=\"font-size: 11pt;\">A half-mile walking trail includes the archeological site of a slave community. Through exhibits and film, the site examines the constitutional compromises dealing with slavery and the growing sectionalism in the young nation that led the way to Civil War. Living history days during National park Week and Constitutional Week include programming on military and domestic life during the late 18</span><sup>th</sup><span style=\"font-size: 11pt;\"> and early 19</span><sup>th</sup><span style=\"font-size: 11pt;\"> century. </span></p> <p><span style=\"font-size: 11pt;\">The site is part of the Gullah/Geechee National Cultural Heritage Corridor that preserves and interprets the unique local culture of descendants of enslaved Africans. The annual Gullah Heritage Series of cultural programs celebrates the contributions of African Americans to our national heritage. These programs ranger from craft demonstrations such as quilting, cast-net making, indigo-dyeing and sweet-grass basket sewing, to cooking, African drumming and storytelling, folktales, spirituals and other musical performances. </span><br /> <br /> Although the original Pinckney house and outbuildings of Snee Farm no longer stand, the existing 1828 farmhouse that remains today and the surviving outbuildings tell the story of agrarian patterns of South Carolina’s Lowcountry from the mid-17th to the late-20th century. With the house as a backdrop, and because no physical structures from Pinckney ownership of the property remain, the National Park Service emphasizes discoveries from archeological investigations to tangibly connect the Pinckneys to Snee Farm and to provide evidence of the cultural environment that influenced Pinckney and the first decades of the United States as a young nation.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.82423400878906,
+          32.84584426879883
+        ]
+      },
+      "properties": {
+        "name": "Colonel Charles Pinckney Cenotaph",
+        "notes": "Colonel Charles Pinckney Cenotaph\nhttps://www.nps.gov/places/colonel-charles-pinckney-cenotaph.htm\n\nSoutheast of the house, sheltered by a tree sits an object of curiosity for many visitors to Charles Pinckney NHS, the Colonel Charles Pinckney cenotaph.<br /> <br /> A cenotaph is an empty tomb or a monument. In 1785, Pinckney commissioned a stone for his father’s grave at St. Philip’s Church Cemetery in Charleston. The stone’s inscription had an error, so he ordered a new stone for the grave and had the original stone sent to Snee Farm (Matthews 2004:xiv). It was moved from the farm to the yard of the nearby Christ Church in the late nineteenth century. The replica cenotaph was placed by Thomas and Alexandra Stone, who owned the farm from 1943 until the 1960s.<br /> <br /> It has a large, bas-relief urn flanked by arching willows in the upper half. The first three lines of the inscription on the slab are split vertically by the urn and read “Parri Dilecto, Carolo Pinckney, Ob. 22d Sept. 1782 Aetat 52.” Below the urn is the rest of the inscription, which reads, <br /> <br /> What is grandeur! What is power! / Heavier toil! Superior pain! / What the bright reward of gain? / The grateful memory of the good / Sweet is the breath of vernal show’rs / The bees collected creature sweet / Sweet Music’s folk but sweeter yet / The still small voice of GRATITUDE / The generous spark for ever live / Teach me to Love, and to forgive / Exact my own defeats to scan / What others are to feel and know / My son A MAN / In grateful memory of an affectionate / Father this Stone is raised by his Son / Charles Pinckney, Anno Domini / 1785.<br />  ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.82577514648438,
+          32.84455108642578
+        ]
+      },
+      "properties": {
+        "name": "Enslaved Village at Snee Farm",
+        "notes": "Enslaved Village at Snee Farm\nhttps://www.nps.gov/places/enslaved-village-at-snee-farm.htm\n\nThe Enslaved Village site at Snee Farm consists of the archeological remains of four buildings at the southwest corner of the park, located along the trail system. Archeologists believe the enslaved community of Snee Farm first established this village in the eighteenth century and occupied it through the nineteenth century. Three of the structures (circa 1828 - 1853) likely housed enslaved people. The fourth structure (circa 1754 - 1818) was likely used for storage.<br /> <br /> It was depicted on historical maps as a series of orderly cabins. The archeological evidence of the village, however, presents a less orderly picture but one enhanced by trash pits, artifacts, and a range of potential building types not illustrated on the maps. <br /> <br /> Lowcountry planters implemented the task system for agriculture production. Instead of working a set time, enslaved people completed a measurable daily task. Rice cultivation tasks included hoeing one-fourth of an acre or threshing 600 sheaves of rice. After completing their tasks, enslaved people could grow and sell crops, visit with family and friends, and rest. Archeologists excavated the trash pits around the enslaved community of Snee Farm, finding animals bones and crustacean shells. These discoveries indicate the enslaved had the time to supplement their diet and that the enslaved of Snee Farm labored under the task system.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.826203347,
+          32.846872254
+        ]
+      },
+      "properties": {
+        "name": "Snee Farm Barn",
+        "notes": "Snee Farm Barn\nhttps://www.nps.gov/places/snee-farm-barn.htm\n\nThe Snee Farm Barn stands as a reminder of the agricultural use of the property. Alexandra Stone, wife of Thomas Stone, had the Snee Farm barn built to accommodate riding horses circa 1943. It stands in a clearing in the northwest corner of the park.<br /> <br /> The agricultural portion of the property remained in use as a gentleman’s farm into the 1960s, as the Stones continued cultivating the land primarily for pleasure rather than income. African American employees at Snee Farm during the Stones’ tenure included a gardener, foreman, and multiple farm laborers who harvested soybeans, pecans, pears, and other fruits and vegetables for local consumption. <br /> <br /> The National Park Service altered the barn interior in 1990–93 to convert it for use as a park maintenance and storage facility. It is closed to the public.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.8265174363,
+          32.8466152716
+        ]
+      },
+      "properties": {
+        "name": "Snee Farm Corn Crib",
+        "notes": "Snee Farm Corn Crib\nhttps://www.nps.gov/places/snee-farm-corn-crib.htm\n\nThe corn crib is located near the barn in a clearing in the northwest corner of the park. Snee Farm property owner Thomas Hamlin built the corn crib around 1910. Thomas Hamlin purchased Snee Farm from the McCants family in 1900.<br /> <br /> The Hamlins maintained it as a working farm, producing cotton until the 1920s then shifting to market vegetables such as tomatoes, cucumbers, and snap beans. A road bridge connecting Mount Pleasant to Charleston was built in 1929 that facilitated the region’s truck farming economy. The Hamlins trucked produce to freight cars in Charleston for transport to other cities, including New York. They also kept pigs, cattle, and hogs for sale; cows for milk; and chickens for eggs. <br /> <br /> The National Park Service has rehabilitated the corn crib in 1993 and again in 2015. The corn crib is closed to the public. ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Snee Farm Grand Allée",
+        "notes": "Snee Farm Grand Allée\nhttps://www.nps.gov/places/snee-farm-grand-allee.htm\n\nThe historic entrance road trace historically ran from Highway 17 to Long Point Road and now runs approximately north–south through the center of the Snee Farm Plantation Landscape. The gravel road trace begins north of the house, runs along the west elevation before turning slightly southeast, then resumes a north–south path before terminating at the south property boundary. A portion of the road trace near the south end is flanked by a cedar tree allée planted ca. 1945.",
+        "icon": "red-pin-down.png"
+      }
+    }
+  ]
+}

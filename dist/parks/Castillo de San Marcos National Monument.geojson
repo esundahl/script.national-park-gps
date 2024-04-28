@@ -1,0 +1,815 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.310981,
+          29.896345
+        ]
+      },
+      "properties": {
+        "name": "A Living Seawall",
+        "notes": "A Living Seawall\nhttps://www.nps.gov/places/000/a-living-seawall.htm\n\n<p>Over the years, the historic seawall bordering the southern grounds of the Castillo de San Marcos has been weakened by hurricanes, high tides, and the simple crashing of waves. Concurrently, rainwater percolating down through the mowed grounds has undermined the wall as the water seeps out into the bay. These forces have helped destabilize the historic seawall and make its long-term future uncertain.<br /> <br /> In 2011 the National Park Service facilitated the construction of a living seawall 25 feet eastward of the original seawall. The living seawall is constructed of coquina boulders. (Coquina is the same stone from which the Castillo is built, which has stood strong for more than three centuries.) Over time, sand and sediment will wash through gaps in the new seawall and build up between the two walls, which will help stabilize the historic seawall. This new substrate will also create a habitat for oysters, marsh grass, and black mangroves, which will in turn attract marine life such as crabs, shrimp, and fish. At the same time, the coquina boulders and the oysters that adhere to them will act as a breakwater, reflecting pummeling wave energy away from the vulnerable historic seawall. It is hoped that the creation of natural habitat will help preserve a historic resource for many years to come.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.311343,
+          29.897982
+        ]
+      },
+      "properties": {
+        "name": "Artillery Complex",
+        "notes": "Artillery Complex\nhttps://www.nps.gov/places/000/artillery-complex.htm\n\n<p>During times of siege, this room could have been used as a meeting place for the Spanish governor and his officers. </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.311263,
+          29.898006
+        ]
+      },
+      "properties": {
+        "name": "Artillery Complex 2",
+        "notes": "Artillery Complex 2\nhttps://www.nps.gov/places/000/artillery-complex-2.htm\n\n<p>The first room in this northeast corner was the artillery quarters during the Second Spanish Period (1784 to 1821). The next casemate was the ordinance supply room where tools and materials for serving the cannons were kept and issued. The small narrow room once housed a ladder to the gun deck to make transporting gunpowder quicker. The tiny doorway you see here is the entrance to the original gunpowder magazine. The Spanish realized soon after construction that the little room was too humid to store powder, so they used it for storage and as a trash pit during the 51 days of the 1702 Siege. Eventually, a new magazine was built in the northwest corner. When the Spanish renovated the Castillo in the mid-1700s, the old magazine and the ladder room were sealed, not to be opened again until 1833, when the U.S. Army was performing their own modifications. <br /></p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.311515,
+          29.897861
+        ]
+      },
+      "properties": {
+        "name": "Become a Junior Ranger",
+        "notes": "Become a Junior Ranger\nhttps://www.nps.gov/places/000/become-a-junior-ranger.htm\n\n<p>The Junior Ranger Program encourages children ages 6 through 12 to participate in their visit to Castillo de San Marcos, and is a fun way for young visitors and their families to get the most out of their visit.<br /> <br /> Ask a ranger for your workbook or download it <a href=\"https://www.nps.gov/casa/learn/kidsyouth/upload/CASA-Junior-Ranger-Book-September-2014.pdf\">here</a> .<br /> <br /> Once you have your book make sure to view the <a href=\"https://youtu.be/l9KnEcbq6JM\">video</a> , examine the exhibits, and take the self guided tour to get all of the answers<br /> .<br /> Allow about one hour to complete the Junior Ranger Program.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.311754,
+          29.897675
+        ]
+      },
+      "properties": {
+        "name": "Casement 4 Timeline Exhibit",
+        "notes": "Casement 4 Timeline Exhibit\nhttps://www.nps.gov/places/000/casement-4-timeline-exhibit.htm\n\n<p>The timeline exhibit in this room gives general description of the important events in the Castillo's history and a timeline of key dates from the 1400s to 1898.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.31118774414062,
+          29.897535880851002
+        ]
+      },
+      "properties": {
+        "name": "Castillo Artillery Tour",
+        "notes": "Castillo Artillery Tour\nhttps://www.nps.gov/places/castillo-artillery-tour.htm\n\nYour Tour begins on the gundeck of the Castillo at the Flagpole. Click on the link to learn about each cannon in our collection. It takes you to a numbered map that describes each cannon and your location.<br /> <br /> <a href=\"https://www.nps.gov/casa/learn/historyculture/artillery-tour.htm\">Artillery Tour - Castillo de San Marcos National Monument (U.S. National Park Service) (nps.gov)</a><br /> <br /> <strong>Remember: Please do not sit or climb on the cannons</strong>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.311719,
+          29.897615
+        ]
+      },
+      "properties": {
+        "name": "Castillo Construction Exhibit Room",
+        "notes": "Castillo Construction Exhibit Room\nhttps://www.nps.gov/places/000/castillo-construction-exhibit-room.htm\n\n<p>In this room you can learn about the special building materials that makes Castillo de San Marcos NM so unique. We also have the original front door used by the U.S. Army on display.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.31150817871094,
+          29.897626876831055
+        ]
+      },
+      "properties": {
+        "name": "Castillo Rules & Regulations",
+        "notes": "Castillo Rules & Regulations\nhttps://www.nps.gov/places/castillo-rules-regulations.htm\n\nClick this <a href=\"https://www.nps.gov/casa/learn/management/castillo-de-san-marcos-compendium.htm\">link</a> to view a collection of rules and regulations related to Castillo de San Marcos National Monument & the surrounding grounds",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.30997,
+          29.898022
+        ]
+      },
+      "properties": {
+        "name": "Castillo Stories 360",
+        "notes": "Castillo Stories 360\nhttps://www.nps.gov/places/000/castillo-stories-360.htm\n\n<p>Immerse yourself in the videos shot in a 360 degree format.</p> <h3>Soldier's Life</h3> <p>Join volunteer Orlando as he discusses what soldier life would have been like in 1740s St. Augustine.<br /> <br /> TO watch this video click <a href=\"https://youtu.be/v4kzkXkq6TQ\">HERE</a></p> <h3>Cannon Drill</h3> <p>Join us on Castillo's gun deck and imagine what firing cannon would be like in the 1740s.<br /> <br /> To watch the video tap <a href=\"https://youtu.be/CiLVYTc3Yiw\">HERE</a></p> <h3>Storage Room</h3> <p>Join ranger Amy for an immersive look at one of many storage rooms in Castillo de San Marcos National Monument.<br /> <br /> To watch this video tap <a href=\"https://youtu.be/bNCAtXVQ3cY\">HERE</a></p> <h3>Flags Over Castillo de San Marcos</h3> <p>Join ranger Geoff as he discusses the many different flags that have flown over Castillo de San Marcos.<br /> <br /> To watch this video tap <a href=\"https://youtu.be/v_Whz73olfY\">HERE</a></p> <h3>Exterior Tour</h3> <p>Join ranger Mike as he gives an eterior walking tour at Castillo de San Marcos.<br /> <br /> To watch the video tap <a href=\"https://youtu.be/vx4qAZofUpw\">HERE</a></p> <h3>Powder Magazine</h3> <p>Join ranger Chris as he discusses Castillo's powder magazine.<br /> <br /> To watch this video tap <a href=\"https://youtu.be/meTo6IQaTiI\">HERE</a></p> <h3>American Indian Incarcerations</h3> <p>Join ranger Jill as she discusses the American Indian incarcerations at Fort Marion (Castillo de San Marcos) during the 1800s.<br /> <br /> To watch this video tap <a href=\"https://youtu.be/oxXRiSnV71g\">HERE</a></p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.311518,
+          29.898006
+        ]
+      },
+      "properties": {
+        "name": "Chapel",
+        "notes": "Chapel\nhttps://www.nps.gov/places/000/chapel.htm\n\n<p>This chapel was the scene of daily worship for hundreds of years. Religion guided all aspects of life in the 15th through 18th centuries. Roman Catholic Christianity was the common faith throughout the Spanish empire, maintaining a single culture and system of government. One of the most important reasons Spain spent so much treasure and blood founding an empire throughout the Americas, the Philippines, and Africa was to take Christian beliefs to lands where they were unknown. <br /><br />British Protestant ideas of Christianity differed yet upheld a similar, if opposing, empire. U.S. soldiers also used this chapel during the 19th century. In the 1870s and 1880s, it also became the center of Captain <br />Richard Pratt's efforts to assimilate Plains and Apache Indian prisoners into white society. Church services and lessons in Christianity were held here for the Native Americans.<br /></p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.313637,
+          29.897929
+        ]
+      },
+      "properties": {
+        "name": "City Gate",
+        "notes": "City Gate\nhttps://www.nps.gov/places/000/city-gate.htm\n\n<p>Farmers bring crops and food from their fields surrounding the town. Open for trade during the day, but locked up at night, the city gate is the entrance to early 1800s civilization. Here in st. Augustine, Spaniards on the frontier feel safe.<br /> <br /> The Spanish built this gate when they reconstructed the city's norther wall (the Cubo Line) in 1808, more than 100 years after the Castillo was completed. Having wrestled possession back from the British, the Spanish fortified the town to keep the Americans out. The gate was a critical part of improvements to the city's fortified defense. Look on both sides of the gate to see restored sections of the wall that once surrounded St. Augustine.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.311507,
+          29.897778
+        ]
+      },
+      "properties": {
+        "name": "Courtyard",
+        "notes": "Courtyard\nhttps://www.nps.gov/places/000/courtyard.htm\n\n<p>The central courtyard of the Castillo, which was originally all dirt, served a dual purpose. During peacetime, soldiers would assemble here to drill with their muskets. As the common soldier of the 18th century was illiterate, musket and cannon procedures had to be learned by repetitive drilling, not by reading instruction manuals. Once the men had their drills committed to muscle memory, they would not forget them during the heat of battle. It was also here that the citizens of St. Augustine could take refuge when the town was under siege. In this sense, the Castillo was a true castle, built to protect the entire community in times of war. In 1702, the city was attacked by the English, and roughly 1,500 soldiers and civilians were packed into the Castillo for 51 days! They brought materials from their homes to set up tents and rough lean-to's for shelter inside the exposed courtyard. They could not take refuge in the rooms themselves, as they were filled with the supplies necessary to feed and defend everyone.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.311241,
+          29.897261
+        ]
+      },
+      "properties": {
+        "name": "Crumbling Coquina Wayside",
+        "notes": "Crumbling Coquina Wayside\nhttps://www.nps.gov/places/000/crumbling-coquina-wayside.htm\n\n<p>Castillo de San Marcos was built using coquina, a local limestone.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.313119,
+          29.897899
+        ]
+      },
+      "properties": {
+        "name": "Cubo Line",
+        "notes": "Cubo Line\nhttps://www.nps.gov/places/000/cubo-line.htm\n\n<p>The log wall at your right is a replica of the Cubo Line. The earth-and-palm-log embankment extended from the Castillo to the San Sebastian River a half-mile behind you. Two defensive walls enclosed the city: the Cubo and Rosario lines. The Cubo Line marks St. Augustine's northern edge.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.311842,
+          29.898049
+        ]
+      },
+      "properties": {
+        "name": "Deadly Crossfire Wayside",
+        "notes": "Deadly Crossfire Wayside\nhttps://www.nps.gov/places/000/deadly-crossfire-wayside.htm\n\n<p>The Spanish built the star-shaped Castillo de San Marcos in the late-1600s. The star design responded to the advent of a deadly new weapon: the cannon. The fort's complex shape meant a battery of cannons on the gun deck could create interlocking fields of fire.<br /><br />Low and flat on the landscape, star-shaped forts used an obstacle course of defenses. Diamond-shaped protruding corners called bastions created crossfire to repel the enemy. From the bastions and curtain wall, cannon fire could deter or engage an advancing army. A wide ditch at the base of the fort lacked cover for invaders, allowing musket fire to rain down from above. Thick fort walls and a rising slope deflected incoming cannonballs. The fort design has stood the test of time: despite attacks, the Castillo was never conquered.<br /></p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.31192,
+          29.897171
+        ]
+      },
+      "properties": {
+        "name": "Defense in Depth Wayside",
+        "notes": "Defense in Depth Wayside\nhttps://www.nps.gov/places/000/defense-in-depth-wayside.htm\n\n<p>Enemy troops would have encountered an obstacle course of rising slopes, low walls,and ditches before reaching the Castillo's walls. The Spanish built this extensive defensive system to help protect the fort. The ravelin, a wedge-shaped structure, shields the entrance. The moat and covered way enable soldiers to move around the fort, protected from enemy fire. The glacis limits how much of the fort the enemy can see or strike</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.31189,
+          29.897488
+        ]
+      },
+      "properties": {
+        "name": "Engulfed in Flames Wayside",
+        "notes": "Engulfed in Flames Wayside\nhttps://www.nps.gov/places/000/engulfed-in-flames-wayside.htm\n\n<p>Spanish soldiers watch in horror as English troops set fire to their homes. They are helpless. The drawbridges are up. The soldier-settlers and their families are sheltered within the crowded fortress. Except for a few rooms to house the guards on duty, the fort has no living quarters.<br /><br />During the nearly 2-month-long siege in 1702, the English failed to conquer the Castillo, but left St. Augustine in ashes. After the siege, the determined Spanish rebuilt their homes and added more defenses to protect their town.<br /></p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.311157,
+          29.897254
+        ]
+      },
+      "properties": {
+        "name": "Fee Booth",
+        "notes": "Fee Booth\nhttps://www.nps.gov/places/000/fee-booth.htm\n\n<p>At the park entrance, credit cards are preferred for payment. You can also <a href=\"https://www.recreation.gov/sitepass/2620\">purchase your pass in advance</a> , which saves time at the entrance station. Eighty percent of your entrance fees help fund projects that improve your experience here. We appreciate your support!</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.311638,
+          29.897696
+        ]
+      },
+      "properties": {
+        "name": "Flag Room",
+        "notes": "Flag Room\nhttps://www.nps.gov/places/000/flag-room.htm\n\n<p>The flags in the first room represent the different nations the Castillo has served: Hapsburg and Bourbon Spain, Great Britain, the United States of America, and the Confederate States of America. Though the fort has changed hands between countries many times, every transfer was negotiated through treaty and agreement, not battle.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.311512,
+          29.897892
+        ]
+      },
+      "properties": {
+        "name": "Florida: Castillo de San Marcos National Monument",
+        "notes": "Florida: Castillo de San Marcos National Monument\nhttps://www.nps.gov/places/000/florida-castillo-de-san-marcos-national-monument.htm\n\n<p>The Castillo de San Marcos, in St. Augustine, Florida, serves as the oldest masonry fortification in the United States. Fortifications were built as a defensive wall or barrier to prevent potential attacks. During the height of the modern Civil Rights Movement, St. Augustine was selected in 1964 by Dr. Martin Luther King Jr. and the Southern Christian Leadership Conference (SCLC) as a target city for civil rights activities. Activists obtained permits from the National Park Service to use the Castillo as a meeting place for demonstrations.<br /> <br /> In early 1963, local members of the NAACP developed a desegregation plan. NAACP leaders Fannie Fullerwood and Elizabeth Hawthorne wrote letters to then Vice President Lyndon B. Johnson. The letter urged Johnson to cancel his trip to dedicating a historic Spanish landmark. Johnson responded, stating that he would not participate in segregated functions. President John F. Kennedy was also the recipient of a letter from the local NAACP in May 1963, advocating against a federal grant of $350,000 intended for the Castillo’s Quadricentennial. All members of the Quadricentennial board were said to be white persons and were unsympathetic to issues facing the Black residents of St. Augustine.<br /> <br /> On June 25, formal demonstrations began with Black teenagers of the NAACP's Youth Council picketing the local Woolworths and the St. Augustine Civic Center. The next day, 25 teenagers conducted sit-ins at Woolworths, McCrory's, and Service Drugs. White community members did not respond well to the peaceful demonstrations. Youth council leader Robert Hayling was depicted as a violent extremist, which garnered direct opposition from Mayor Joseph Shelley. By 1964, the Ku Klux Klan had begun a campaign of violence and intimidation. Shootings, clashes of violence during protests, and chaotic court cases nearly destroying the peaceful strides of the NAACP. Officials of the local NAACP realized that white militants were trying to seize the initiative. It was time to seek help from outside the city of St. Augustine.<br /> <br /> In March of 1964, Robert Hayling and other Black local leaders met with the aides of Dr. Martin Luther King Jr. at the SCLC annual state meeting held in Orlando, Florida. The Black leaders from St. Augustine were able to convince Rev. C.T. Vivian to visit their town and see the conditions for himself. The SCLC watched events unfold in St. Augustine from July, and after visits with Vivian, they decided that their involvement could strengthen the community. The SCLC anticipated starting their St. Augustine campaign during the week of Easter, which gave white Northern college students a chance to participate. The inclusion of whites was an important strategy within itself, showing positive examples of integration. Hosea Williams coordinated the campaign, consisting of sit-ins, marches, meetings, and demonstrations. Each strategy had the common goal of placing a national microscope on years of oppression and convoluted race relations.<br /> <br /> Several of the meetings were held on the grounds of Castillo de San Marcos, for which permits were obtained from the NPS. The national park grounds served as a safe assembly place for activists of all backgrounds. The police department and St. Johns County Sheriff’s Office failed to protect activists. Four of the local Sheriff's deputies were known active Ku Klux Klan members. On national park property, however, local law enforcement would not have authority over the activists. The successes of the movement in St. Augustine helped to convey the importance of passing a sweeping Civil Rights Act, and in July of that same year, The Civil Rights Act of 1964 was signed by President Lyndon B. Johnson.<br /> <br /> The Castillo de San Marcos National Monument in Florida became part of the <a href=\"https://www.nps.gov/subjects/civilrights/african-american-civil-rights-network.htm\">African American Civil Rights Network</a> in June 2021.<br /> <br /> <i>The African American Civil Rights Network recognizes the civil rights movement in the United States and the sacrifices made by those who fought against discrimination and segregation. Created by the African American Civil Rights Act of 2017, and coordinated by the National Park Service, the Network tells the stories of the people, places, and events of the U.S. civil rights movement through a collection of public and private elements.</i></p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.311048,
+          29.897542
+        ]
+      },
+      "properties": {
+        "name": "Guarding the Back Door Wayside",
+        "notes": "Guarding the Back Door Wayside\nhttps://www.nps.gov/places/000/guarding-the-back-door-wayside.htm\n\n<p>The Spanish built the Castillo de San Marcos along the winding, shallow channel of the Matanzas River. Any ships entering the inlet faced the fort head on, unable to deploy their guns broadside. The strategic location kept marauding pirates and attacking British warships at bay. During the 1740 British siege, ships from Cuba used the inlet at the southern end of Anastasia Island to resupply the town. After the siege, knowing enemies could also use the inlet, the Spanish built Fort Matanzas to protect St. Augustine's back door.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.31127,
+          29.897945
+        ]
+      },
+      "properties": {
+        "name": "Gun Deck Views",
+        "notes": "Gun Deck Views\nhttps://www.nps.gov/places/000/gun-deck-views.htm\n\n<p>Welcome to the gun deck! The Castillo de San Marcos is one of the tallest buildings in town, which means it's a great place from which to view the skyline of the Ancient City. Take time to stroll clockwise around the gun deck and learn about some of our local landmarks.</p> <h3>Anastasia Island</h3> <p>From the top of the stairs, you are looking east towards Anastasia Island, a 15-mile-long barrier island that protects the mainland from wave and storm action. For a short period of time, the first settlers of St. Augustine tried to move their community to the island, but the dynamic nature of the land made it impossible. When the British attacked from Georgia in 1740, James Oglethorpe set up a 40-gun cannon battery directly across the bay from the Castillo and bombarded it for nearly a month.</p> <h3>Water Battery & Shot Furnace</h3> <p>As you look down from the east wall, you will see an area known as the water battery. In the 1840s, the U. S. Army filled in the eastern side of the moat, installed large cannons along the seawall, and built the furnace for creating red-hot cannonballs to fire at wooden ships. The cannons were mounted on the granite blocks near the seawall, and the half-circle tracks enabled them to pivot almost 180 degrees.</p> <h3>Ravelin</h3> <p>This triangular structure stands seperate from the front entrance of the fort. It shielded the fort's weakest point. The wooden drawbridge, from enemy fire. It was never finished as planned. If completed, the outer wall would have been five feet higher, with embrasures for cannon and a powder magazine. The drawbridge here and the main drawbridge are both working reconstructions. The ravelin bridge would have been secured each night at sunset; the main bridge was secured only when the fort was under attack.</p> <h3>St. Augustine Lighthouse</h3> <p>To the st is the St. Augusoutheastine Lighthouse with its distinctive red top and black & white spiral-striped tower. It was finished in 1874 and replaced an old Spanish coquina watchtower that had been adapted for use as a lighthouse. Lit by its original first order Fresnel lens, the lighthouse still serves as an aid to navigation for boats at sea. Visitors can climb the tower for a spectacular view of the Ancient City!</p> <h3>St. Augustine Inlet</h3> <p>As you stand near the bell tower and look northwest, you can look out the St. Augustine inlet to the Atlantic Ocean. The original inlet to the Matanzas Bay was closer to where the lighthouse stands today, and anyone trying to bring a ship into the harbor had to navigate around the barrier islands and tricky sandbars, giving the city added protection. The natural inlet filled in over time, making it necessary for the U.S. Army Corps of Engineers to cut the current one in 1940.</p> <h3>Bridge of Lions</h3> <p>Connecting downtown St. Augustine and Anastasia Island is the Bridge of Lions, named for the Carrara marble lions guarding the west side of the bridge. Construction began in 1925 at the height of Florida's first land boom and was completed two years later. After decades of wear and tear, the bridge was taken apart, restored piece by piece, and reassembled in a 4-year rehabilitation project that was completed in 2010.</p> <h3>First National Bank Building</h3> <p>Directly south of the Castillo, you can see St. Augustine's first and only \"skyscraper!\" The building was completed in 1927 and has been owned by several different banks over the years; it was converted to a private event venue in 2014. It remains the only building of its kind in town, because St. Augustine now has a height limit of 35 feet for new construction.</p> <h3>Cathedral Basilica</h3> <p>To the right of the bank building is the bell tower and steeple of the Cathedral Basilica, the oldest church in Florida. Though it was built in the 1790s, its congregation was established in 1565 with the founding of St. Augustine, making it the oldest Christian congregation in the United States. The previous church was destroyed by fire, and the current building was gutted by fire in 1887, after which it was renovated and the bell tower was added.</p> <h3>Flagler College</h3> <p>The matching towers and brick smokestack visible to the southwest are part of Flagler College, formerly the Ponce de Leon Hotel. The hotel was opened in 1888 by railroad tycoon Henry Flagler as a luxury winter resort for his wealthy northern friends, beginning St. Augustine's \"golden age\" of tourism. It was used as barracks by the U.S. Coast Guard during World War II. Declining visitor numbers caused the hotel to close in 1967, but it re-opened a year later as Flagler College, now a 4-year, private liberal arts college of about 2,800 students.</p> <h3>Memorial Presbyterian Church</h3> <p>The green dome to the right of the college belongs to Memorial Presbyterian Church, built by Henry Flagler in honor of his daughter Jennie Louise, who died of complications following childbirth. She and her child, as well as Flagler himself and his first wife, are laid to rest in a mausoleum inside the church. The design was inspired by St. Mark's Basilica in Venice, Italy, and it is well known for its beautiful stained glass windows.</p> <h3>Cubo Line</h3> <p>As you look down from the west wall of the Castillo, you will see a replica of the Cubo Line, one of the walls that once encircled St. Augustine. When the English attacked the city in 1702, they failed to take the fort, but they burned the city to the ground as they left. To keep this from happening again, the Spanish built walls to protect their homes. The Cubo Line went half a mile west to the San Sebastian River. Another wall, the Rosario Line, bordered the west edge of town, near where Cordova Street is today. The walls were composed of earth and palm logs and had a shallow moat along the outside of it.</p> <h3>Visitor Information Center</h3> <p>The St. Augustine Visitor Information Center and parking garage are visible to the northwest of the fort. The VIC was built by the Works Progress Administration in 1935 and used as a community center until the city began using it for visitor orientation in the 1950s. The garage behind the VIC opened in 2006 and offers convenient parking 24 hours a day, year-round.</p> <h3>Great Cross</h3> <p>The large cross to the north of the Castillo stands on the grounds of Mission Nombre de Dios and marks the place where historians believe Pedro MenÃ©ndez de AvilÃ©s, the founder of St. Augustine, came ashore on September 8, 1565, and claimed this land for Spain and the Catholic Church. The Great Cross stands 208 feet tall and was dedicated on September 8, 1965, to commemorate the city's 400th birthday. Today, the mission grounds also contain a church, a museum, and a shrine to the Virgin Mary.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.312953,
+          29.898446
+        ]
+      },
+      "properties": {
+        "name": "Invincible Defenses Wayside",
+        "notes": "Invincible Defenses Wayside\nhttps://www.nps.gov/places/000/invincible-defenses-wayside.htm\n\n<p>After marching through miles of wilderness, the Castillo is within sight, seemingly close. But can it be taken? A treacherous obstacle course of rising slopes (glacis), low walls (covered way), and a moat, all protected by Spanish soldiers and cannons await anyone any foolish enough to attack.<br /><br />The massive, high walls of the fort provide its defenders with a perfect view of enemy movements. The cannons within the star-shaped fort are positioned to catch attackers in a deadly crossfire. In 1702 and 1740, attackers tried long sieges rather than attempt a direct assault on this fortress.<br /></p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.311198,
+          29.898202
+        ]
+      },
+      "properties": {
+        "name": "It Begins Wayside",
+        "notes": "It Begins Wayside\nhttps://www.nps.gov/places/000/it-begins-wayside.htm\n\n<p>After days of watching the British prepare, bursts of smoke signal their attack from Anastasia Island. The sentry in the San Carlos watchtower in front of you yells and rings the bell. His quick action alerts the garrison that the British are firing at the Castillo. Soldiers surge to their posts or run for cover.<br /><br />This marked the beginning of a 38-day siege in 1740. In the end, cannon fire partially damaged the eastern outer wall and the bombardment killed 2 townspeople.<br /></p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.311011,
+          29.897368
+        ]
+      },
+      "properties": {
+        "name": "Moat",
+        "notes": "Moat\nhttps://www.nps.gov/places/000/moat.htm\n\n<p>The moat is a protective feature around Castillo de San Marcos. Like other features of Castillo, this one has had different uses throughout history.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.311542,
+          29.897645
+        ]
+      },
+      "properties": {
+        "name": "Museum Store",
+        "notes": "Museum Store\nhttps://www.nps.gov/places/000/museum-store.htm\n\n<p>The park store is operated by America’s National Parks™, an official non-profit partner of the National Park Service dedicated to supporting the educational mission of Castillo de San Marcos. The park store has a wide range of books, maps, travel guides, media, educational games, posters, and other items available for retail sale. These products complement the interpretive themes you experience when visiting the park. The park store is located inside the Castillo, in the first door on your left as you enter. <a href=\"https://shop.americasnationalparks.org/store/home/5161/Castillo-de-San-Marcos-National-Monument/\">You can also purchase online</a><br /> <br /> The store is open from 9 a.m. to 4:30 p.m.<br /> <br /> Questions? Call us at 267-530-0821</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.311453,
+          29.898006
+        ]
+      },
+      "properties": {
+        "name": "Native American Room",
+        "notes": "Native American Room\nhttps://www.nps.gov/places/000/native-american-room.htm\n\n<p>Several different and widely varying Indian cultures have left their mark on Florida history, some indigenous, some displaced, and some forcibly moved to the area. Each has a unique and fascinating story to tell.<br />  </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.311225,
+          29.898099
+        ]
+      },
+      "properties": {
+        "name": "Original Powder-Magazine",
+        "notes": "Original Powder-Magazine\nhttps://www.nps.gov/places/000/original-powder-magazine.htm\n\n<p>The tiny doorway you see here is the entrance to the original gunpowder magazine. The Spanish realized soon after construction that the little room was too humid to store powder, so they used it for storage and as a trash pit during the 51 days of the 1702 Siege. Eventually, a new magazine was built in the northwest corner. When the Spanish renovated the Castillo in the mid-1700s, the old magazine and the ladder room were sealed, not to be opened again until 1833, when the U.S. Army was performing their own modifications. <br /></p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.311671,
+          29.897954
+        ]
+      },
+      "properties": {
+        "name": "Park Videos",
+        "notes": "Park Videos\nhttps://www.nps.gov/places/000/park-videos.htm\n\n<p>Here is a selection of videos to help expand on your visit.</p> <h3>A Long Legacy - An Effective Defense</h3> <p>Its design, the soldiers, and the weapons of the Castillo.  This video includes Cannon and Musket Firings.<br /> <br /> To watch the video tap <a href=\"https://youtu.be/l9KnEcbq6JM\">HERE</a> .</p> <h3>Preservation</h3> <p>Join Park Superintendent Gordie Wilson as he explains the importance, and unique challenges of preserving Castillo de San Marcos and Fort Matanzas National Monuments.<br /> <br /> To watch the video tap <a href=\"https://youtu.be/dysnSdtQ-VA\">HERE</a></p> <h3>Overview</h3> <p>Join ranger Amy as she gives a brief overview of Castillo de San Marcos National Monument.<br /> <br /> To watch the video tap <a href=\"https://youtu.be/YWO-pKG7rBM\">HERE</a></p> <h3>Piracy</h3> <p>Join ranger Allen as he talks about piracy, and the defenses of Castillo de San Marcos National Monument.<br /> <br /> To watch the video tap <a href=\"https://youtu.be/9-D1q1CbzGg\">HERE</a></p> <h3>Coquina</h3> <p>Join ranger Jill as she discusses coquina, the wonderful material that Castillo de San Marcos National Monument is constructed of.<br /> <br /> To watch the video tap <a href=\"https://youtu.be/W_t5LVR-1yk\">HERE</a></p> <h3>Seminole Escape</h3> <p>Join ranger Jill as she talks about the Seminole escape of Fort Marion (Castillo de San Marcos).<br /> <br /> To watch the video tap <a href=\"https://youtu.be/BnIHnVmWx_M\">HERE</a></p> <h3>American Civil War</h3> <p>Join ranger Mike as he discusses how Fort Marion (Castillo de San Marcos) was utilized during the American Civil War.<br /> <br /> To watch the video, click <a href=\"https://youtu.be/kcFCv1-V_XY\">HERE</a></p> <h3>Plains Indians Incarceration 1870s</h3> <p>Join ranger Amy as she discusses the Plains Indian incarceration at Fort Marion (Castillo de San Marcos) in the 1870s.<br /> <br /> To view the video, tap <a href=\"https://youtu.be/BoqxIvrDFO4\">HERE</a></p> <h3>Apache Incarcerations 1880s</h3> <p>Join ranger Amy as she discusses the Apache Incarcerations at Fort Marion (Castillo de San Marcos) of the 1880s.<br /> <br /> To view the video, tap <a href=\"https://youtu.be/_D9qNbuxylw\">HERE</a></p> <h3>Golf at the Fort</h3> <p>Join volunteer Jim as he discusses how Fort Marion (Castillo de San Marcos) became one of the first golf courses in Florida.<br /> <br /> To watch the video, tap <a href=\"https://youtu.be/12FHxCpHWUo\">HERE</a></p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.311729,
+          29.896349
+        ]
+      },
+      "properties": {
+        "name": "Parking Lot",
+        "notes": "Parking Lot\nhttps://www.nps.gov/places/000/parking-lot.htm\n\n<p>The Castillo vistor parking is pay to park 7 days a week at $2.50 per hour. Only vehicles 21 feet or shorter, including any trailers, are permitted to park in the Castillo lot. The City of St. Augustine provides free parking for larger vehicles at the corner of West Castillo Drive and Riberia Street. The lot is approximately three blocks from the Castillo and visitors may use the Castillo's lot to drop off and pick up passengers.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.311335,
+          29.897645
+        ]
+      },
+      "properties": {
+        "name": "Prison Cell (Carcel)",
+        "notes": "Prison Cell (Carcel)\nhttps://www.nps.gov/places/000/prison-cell-carcel.htm\n\n<p>This small cell acted as the town jail for the Spanish and as a military jail under British occupation. During the American Revolution, South Carolina statesman and patriot Christopher Gadsden was held in solitary confinement here for 42 weeks.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.311386,
+          29.89795
+        ]
+      },
+      "properties": {
+        "name": "Reading the Cannon Wayside",
+        "notes": "Reading the Cannon Wayside\nhttps://www.nps.gov/places/000/reading-the-cannon-wayside.htm\n\n<p>Every Spanish bronze cannon and mortar has its own story. Each was individually cast, so by examining the engraved lettering and scrollwork, you can discover its origins and the Castillo's ties to Spain. Read other bronze guns as you explore the fort.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.311338,
+          29.89778
+        ]
+      },
+      "properties": {
+        "name": "Restroom Area",
+        "notes": "Restroom Area\nhttps://www.nps.gov/places/000/restroom-area.htm\n\nThe restrooms are along the east wall in the courtyard, under the tall stone curved arch, underneath the Gundeck stairs. There is also a water bottle filling station, a wheelchair accessible water fountain, and an adult water fountain.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.311397,
+          29.898006
+        ]
+      },
+      "properties": {
+        "name": "Room 16",
+        "notes": "Room 16\nhttps://www.nps.gov/places/000/room-16.htm\n\n<p>Throughout the years there have been many different uses of Castillo's rooms. Although there are no displays at this location, park staff offer presentations and rotating temporary exhibits, in this room.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.311504,
+          29.897629
+        ]
+      },
+      "properties": {
+        "name": "Sally Port",
+        "notes": "Sally Port\nhttps://www.nps.gov/places/000/sally-port.htm\n\n<p>This was the only way in or out of the Castillo. Here you can see the large drawbridge and the portcullis, the heavy sliding door. Between these two wooden barriers, the strength of the Castillo is apparent. The thickness of the outer walls varies from 14 to 19 feet thick at the base and tapers to 9 feet towards the top. Note the blocks of coquina stone that make up these walls and how they were set together. There are over 400,000 blocks of stone in the Castillo, all of it cut and set by hand.<br /></p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.311073,
+          29.897459
+        ]
+      },
+      "properties": {
+        "name": "San Agustin Bastion",
+        "notes": "San Agustin Bastion\nhttps://www.nps.gov/places/000/san-agustin-bastion.htm\n\n<p>The design of the fort consists of four diamond-shaped bastions and four connecting walls known as curtains. Cannon were mounted in the embrasures, the cut-outs in the parapet walls. These walls protected the cannon and their crews from incoming fire. </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.311098,
+          29.898226
+        ]
+      },
+      "properties": {
+        "name": "San Carlos Bastion",
+        "notes": "San Carlos Bastion\nhttps://www.nps.gov/places/000/san-carlos-bastion.htm\n\n<p>The design of the fort consists of four diamond-shaped bastions and four connecting walls known as curtains. Cannon were mounted in the embrasures, the cut-outs in the parapet walls. These walls protected the cannon and their crews from incoming fire. The east curtain, facing the water, originally had a parapet wall and embrasures like the other curtains. However, anticipating that most attacks would come from the ocean, the Spanish lowered the wall so that more cannon could be mounted there without limitation. The tall tower in this bastion originally had a bell that would be used to warn the city's residents of oncoming attacks.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.311975,
+          29.898215
+        ]
+      },
+      "properties": {
+        "name": "San Pablo Bastion",
+        "notes": "San Pablo Bastion\nhttps://www.nps.gov/places/000/san-pablo-bastion.htm\n\n<p>The design of the fort consists of four diamond-shaped bastions and four connecting walls known as curtains. Cannon were mounted in the embrasures, the cut-outs in the parapet walls. These walls protected the cannon and their crews from incoming fire.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.31195,
+          29.897414
+        ]
+      },
+      "properties": {
+        "name": "San Pedro Bastion",
+        "notes": "San Pedro Bastion\nhttps://www.nps.gov/places/000/san-pedro-bastion.htm\n\n<p>The design of the fort consists of four diamond-shaped bastions and four connecting walls known as curtains. Cannon were mounted in the embrasures, the cut-outs in the parapet walls.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.311668,
+          29.897787
+        ]
+      },
+      "properties": {
+        "name": "Seige Room",
+        "notes": "Seige Room\nhttps://www.nps.gov/places/000/seige-room.htm\n\n<p>The Castillo was originally built to act not only as a refuge for the townspeople but also as a military warehouse. The Spanish used the western casemates for food storage, and they would have looked much like the supply room. Other casemates were filled with military supplies such as gunpowder, hardware, ship repair materials, and as many as 20,000 cannonballs. <br /><br />All of the stone casemates were constructed between 1738 and 1756, a time of almost constant warfare between Spain and England in the New World. The walls were raised to 35 feet during this remodeling, and these arched ceilings were constructed. Vaulted casemates disperse the weight of the structure throughout the supporting walls and foundation, so they are able to hold much more weight than a simple squared roof. This made these rooms \"bomb proof\" and allowed the Spanish to place more cannon on the gun deck above. When the casemates were finished, the Castillo was able to defend itself, the city, and all approaches to the city out to three and a half miles, the maximum range of the 16-, 18-, and 24-pounder cannon mounted along the fort's walls. <br /></p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.311091,
+          29.897847
+        ]
+      },
+      "properties": {
+        "name": "Sizzling Salvo Wayside",
+        "notes": "Sizzling Salvo Wayside\nhttps://www.nps.gov/places/000/sizzling-salvo-wayside.htm\n\n<p>The hot shot furnace was built in the 1840s to heat up cannon balls to fire a wooden ships. </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.311437,
+          29.897631
+        ]
+      },
+      "properties": {
+        "name": "Spanish Guard Room 1",
+        "notes": "Spanish Guard Room 1\nhttps://www.nps.gov/places/000/spanish-guard-room-1.htm\n\n<p>Accessible only through the Sally Port are the Spanish guard rooms and a locked room that served as the town jail. During Spanish occupation, soldiers did not live inside the Castillo. They walked to work from their homes in town. The soldiers detailed to be on overnight guard duty would have used these rooms to rest, cook food and spend free time socializing and playing games. The room that is currently our bookstore, was once part of the officers' quarters.<br /></p><h3>Soldier Life 360 Video</h3><p>Join volunteer Orlando as he discusses soldier life in 1740s St. Augustine using immersive 360 degree technology.<br /><br />To watch the video tap <a href=\"https://youtu.be/v4kzkXkq6TQ\">HERE</a> </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.311378,
+          29.897636
+        ]
+      },
+      "properties": {
+        "name": "Spanish Guard Room 2",
+        "notes": "Spanish Guard Room 2\nhttps://www.nps.gov/places/000/spanish-guard-room-2.htm\n\n<p>During Spanish occupation, soldiers did not live inside the Castillo. They walked to work from their homes in town. The soldiers detailed to be on guard duty would have used these rooms to rest, cook food, and spend free time socializing and playing games. </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.311156,
+          29.897152
+        ]
+      },
+      "properties": {
+        "name": "Spanish Stronghold Wayside",
+        "notes": "Spanish Stronghold Wayside\nhttps://www.nps.gov/places/000/spanish-stronghold-wayside.htm\n\n<p>Castillo de San Marcos symbolizes Spain's vast New World Empire. Built between 1672 and 1695, the coquina fort replaced a series of wooden forts that had protected St. Augustine for more than 100 years. improvements in the mid-1700s helped the Castillo, with its soldiers and guns, keep pirates and the British at bay. Spain controlled Florida, and the Castillo helped keep their enemies away from the Gulf Stream shipping lanes. Spanish treasure fleets used these routes to carry sugar, tobacco, pearls, silver, and gold to Europe. </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.311654,
+          29.897734
+        ]
+      },
+      "properties": {
+        "name": "Supply Room",
+        "notes": "Supply Room\nhttps://www.nps.gov/places/000/supply-room.htm\n\n<p>The Castillo was originally built to act not only as a refuge for the townspeople, but also as a military warehouse. The Spanish used the western casemates for food storage, and they would have looked much like the locked supply room. Other casemates were filled with military supplies such as gunpowder, hardware, ship repair materials and as many as 20,000 cannonballs.<br /> <br />All of the stone casemates were constructed between 1738 and 1756, a time of almost constant warfare between Spain and England in the New World. The walls were raised 35 feet during this remodeling and these curved ceilings were constructed. Vaulted casemates disperse the weight of the structure throughout the supporting walls and foundation, so they are able to hold much more weight than a simple squared roof. This made these rooms \"bomb proof\" and allowed the Spanish to place more cannon on the gun deck above. When the casemates were finished, the Castillo was able to defend itself, the city, and all approaches to the city out to three and a half miles, the maximum range of the 16-, 18-, and 24- pounder cannon mounted along the fort's walls.<br /></p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.311644,
+          29.898001
+        ]
+      },
+      "properties": {
+        "name": "The British Room",
+        "notes": "The British Room\nhttps://www.nps.gov/places/000/the-british-room.htm\n\n<p>This room shows you how the British remodeled eight of the casemates during their occupation of Florida from 1763 to 1784. Divided into East and West, Florida remained loyal to Great Britain during the American Revolution. During the war, St. Augustine's population nearly doubled as loyalists from Georgia and the Carolinas headed south for safety. Over 500 British soldiers were housed inside the Castillo. Many more were placed in the homes of local citizens.<br /></p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.31152,
+          29.897406
+        ]
+      },
+      "properties": {
+        "name": "The Last Defense Wayside",
+        "notes": "The Last Defense Wayside\nhttps://www.nps.gov/places/000/the-last-defense-wayside.htm\n\n<p>The most vulnerable part of the fort is its entrance in front of you. To protect it, the Spanish designed an elaborate set of defenses: a heavy grated gate called a \"portcullis,\" 2 drawbridges, and the ravelin. The larger drawbridge took 3 soldiers 15 minutes to close and remained open except in times of danger. Soldiers closed the outer drawbridge at night when most of them returned to their homes in the town. The ravelin protected the fort's front door.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.311585,
+          29.898003
+        ]
+      },
+      "properties": {
+        "name": "The Second Spanish Room",
+        "notes": "The Second Spanish Room\nhttps://www.nps.gov/places/000/the-second-spanish-room.htm\n\n<p>After the Revolutionary War, St. Augustine, and Castillo de San Marcos became Spanish again. The Second Spanish period lasts from 1784 to 1821. </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.311381,
+          29.897741
+        ]
+      },
+      "properties": {
+        "name": "Tidal Toilet Wayside",
+        "notes": "Tidal Toilet Wayside\nhttps://www.nps.gov/places/000/tidal-toilet-wayside.htm\n\n<p>This colonial restroom had a twice-daily, natural flushing system. Incoming tides filled the pit with seawater, and outgoing tides flushed the waste out into the bay.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.311349,
+          29.89801
+        ]
+      },
+      "properties": {
+        "name": "Treasury Room",
+        "notes": "Treasury Room\nhttps://www.nps.gov/places/000/treasury-room.htm\n\n<p>In the 18th Century, Spanish military pay chests, important documents, and valuables consigned for shipment back to Spain were kept secured in this room. Notaries, administrative officials appointed by the king, accounted for all monies and goods going to or from the New World. Take a good look at the back wall. A Royal Spanish coat of arms is still visible on the back of this room.<br /> <br /> During the 19th Century, the U.S. Army use this room as a supply room. The solid slab of granite in the doorway was placed there in the 1840s at the request of the Quartermaster to serve as a counter so that soldiers could not enter the room beyond that point.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.311952,
+          29.897163
+        ]
+      },
+      "properties": {
+        "name": "Under Continuous Attack Wayside",
+        "notes": "Under Continuous Attack Wayside\nhttps://www.nps.gov/places/000/under-continuous-attack-wayside.htm\n\n<p>Castillo de San Marcos has been under attack since construction began in 1672. Enemy gunfire assaulted these walls with little damage. The unrelenting onslaught of time and weather, however, are taking a visible toll. National Park Service preservation crews constantly inspect the fort and carry out preservation work.<br /> <br /> Past preservation work removed water from the moat to help stabilize the fort's foundation. Bright coquina shows where workers recently completed a project. The bright color will fade over time and blend with the surrounding stonework. During your visit, see if you can find preservation work in progress.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.310975,
+          29.897483
+        ]
+      },
+      "properties": {
+        "name": "Water Battery Wayside",
+        "notes": "Water Battery Wayside\nhttps://www.nps.gov/places/000/water-battery-wayside.htm\n\n<p>The U.S. Army filled in the east side of the moat in 1842-1844 and mounted Sea Coast artillery pieces along the seawall. The shot furnace heated cannonballs until red hot. This hot shot was then fired at an enemy's wooden ships to set them afire.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.310836,
+          29.897255
+        ]
+      },
+      "properties": {
+        "name": "Weapons of War Wayside",
+        "notes": "Weapons of War Wayside\nhttps://www.nps.gov/places/000/weapons-of-war-wayside.htm\n\n<p>There are many different types of artillery here at Castillo de San Marcos NM. Here are a few examples.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.311743,
+          29.89785
+        ]
+      },
+      "properties": {
+        "name": "Weapons of War Wayside (Gun deck)",
+        "notes": "Weapons of War Wayside (Gun deck)\nhttps://www.nps.gov/places/000/weapons-of-war-wayside-gun-deck.htm\n\n<p>Touring the fort, you will see 3 types of artillery: mortars, howitzers, and cannons. Attackers as well as defenders had access to many types of weaponry. Each one had its own strengths and weaknesses. A CANNON was best at shooting far, a MORTAR used exploding projectiles, and a HOWITZER was a mix of the 2. Battles to conquer a fort often last a long time. Choosing the right artillery could mean the difference between victory and defeat.</p>",
+        "icon": "red-pin-down.png"
+      }
+    }
+  ]
+}

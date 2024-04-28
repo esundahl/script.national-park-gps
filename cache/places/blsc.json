@@ -1,0 +1,100 @@
+[
+  {
+    "id": "A05168EA-8F1E-4CA0-969E-CB8C90F61187",
+    "url": "https://www.nps.gov/places/blackwell-school.htm",
+    "title": "Blackwell School",
+    "listingDescription": "Listed in the National Register of Historic Places in 2019, the Blackwell School in Marfa, Texas, was the sole public education institution for the city’s Hispanic students from 1909-1965. The Blackwell School is a significant local example of the period when the practice of “separate but equal” dominated education and social systems in the United States.",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/E38EE547-AE15-5BFD-A9E01910BFD79E52.jpg",
+        "credit": "NPS Photo",
+        "altText": "plain house with two small windows on either side of the centered door. Steps lead up to the door",
+        "title": "Blackwell School",
+        "description": "",
+        "caption": "Blackwell School",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/E38EE547-AE15-5BFD-A9E01910BFD79E52.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/E38EE547-AE15-5BFD-A9E01910BFD79E52.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "TX",
+        "parkCode": "blsc",
+        "designation": "National Historic Site",
+        "fullName": "Blackwell School National Historic Site",
+        "url": "https://www.nps.gov/blsc/index.htm",
+        "name": "Blackwell School"
+      }
+    ],
+    "relatedOrganizations": [
+      {
+        "id": "B0258A2E-E615-4929-AAEA-2A2109CE5D13",
+        "url": "https://www.nps.gov/orgs/1954/",
+        "name": "National Register of Historic Places Program"
+      }
+    ],
+    "tags": [
+      "National Register of Historic Places",
+      "nrhp",
+      "SHPO",
+      "hispanic heritage",
+      "Latinx",
+      "Latino culture",
+      "Civil Rights",
+      "cultural resources",
+      "historic preservation",
+      "Education",
+      "Mexicana",
+      "teachers",
+      "students",
+      "Texas",
+      "west texas"
+    ],
+    "latitude": "",
+    "longitude": "",
+    "latLong": "",
+    "bodyText": "Listed in the National Register of Historic Places in 2019, the Blackwell School in Marfa, Texas, was the sole public education institution for the city's Hispanic students from 1909-1965. Like many states across the south, segregated education was practiced in the 19<sup>th</sup> and early 20<sup>th</sup> century. Segregation began in Marfa in 1892 following the completion of a new school for the city’s non-Hispanic students. Although there was no state law that mandated separate schools for Hispanic students, Texas school districts perpetuated the practice of <em>de facto</em> segregation through the mid-twentieth century. Segregated students attended the city’s original school building until 1909 when the district constructed a two-room adobe brick building on South Abbot Street. Known originally as the Ward or Mexican School, Blackwell School was later named for its longtime principal Jesse Blackwell. As the student population grew, more buildings were constructed next to the 1909 schoolhouse. Blackwell School closed in 1965 following the integration of the Marfa Independent School District. The Blackwell School is a significant local example of the period when the practice of “separate but equal” dominated education and social systems in the United States.<br /> <br /> On October 17, 2022 President Biden designated the Blackwell School as a National Historic Site. The separation of Mexican American students in what were then called \"community schools\" was met with limited school supplies such as books and athletic equipment. Along with limited resources, students were not allowed to speak their native langauge of Spanish, and were met with consequences, such as punishment by paddling.<br /> <br /> In 1954 Evelyn Davis the 7th grade teacher convinced school leaders to prohibit the speaking of the Spanish language on campus, in classrooms, on the playground, and on sports fields. Davis held a funeral for the language refered to as \"Burying Mr Spanish\" with a ceremony that took place at the entrance of the school. <br />  ",
+    "audioDescription": "",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "https://www.theblackwellschool.org/nhs",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "",
+    "isManagedByNps": "0",
+    "amenities": [],
+    "managedByOrg": "Blackwell School Alliance",
+    "quickFacts": [
+      {
+        "id": "5C252B96-2DEB-4EF4-91D1-B5D2B202FCD7",
+        "value": "501 South Abbot Street Marfa, Texas ",
+        "name": "Location"
+      },
+      {
+        "id": "208F1B3C-44DC-4CF5-9A61-9B26A364D701",
+        "value": "Ethnic Heritage/Hispanic (Mexican), Education  ",
+        "name": "Significance"
+      },
+      {
+        "id": "E32D2136-A184-4C1A-91D2-4C20CEF9CBAF",
+        "value": "Listed in the National Register – Reference number 100004751",
+        "name": "Designation"
+      }
+    ],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  }
+]

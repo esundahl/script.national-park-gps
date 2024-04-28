@@ -1,0 +1,785 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.102,
+          37.1855
+        ]
+      },
+      "properties": {
+        "name": "Audubon Avenue",
+        "notes": "Audubon Avenue\nhttps://www.nps.gov/places/audubon-avenue.htm\n\n<p paraeid=\"{e945ee4f-6fcd-4e8c-bc52-c1967cee55ae}{144}\" paraid=\"1739599817\">This passage was named after John James Audubon, an ornithologist and painter during the early 1800s. He was a friend of the cave owner, Dr. John Croghan. The name prior to this was “Great Bat Avenue” due to the fact it housed a very large colony of bats. <br /> <br /> In this location there are four lit showcases containing artifacts from Prehistoric Native American exploration and samples of the minerals they harvested from the cave.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.1023,
+          37.1852
+        ]
+      },
+      "properties": {
+        "name": "Audubon and Little Bat Avenue - Beneath Your Feet",
+        "notes": "Audubon and Little Bat Avenue - Beneath Your Feet\nhttps://www.nps.gov/places/audubon-and-little-bat-avenue-beneath-your-feet.htm\n\n<p>On the Historic Tour route about a quarter mile from the Historic Entrance is the intersection of Audubon and Little Bat Avenues.  This is a large trunk canyon passage that is about 60 feet wide and about 30 feet high. It was set up as a banquet hall with electrical lights in the early 1900’s. There was a gas generator that charged a bank of batteries to power the lights.  In the mid-1800’s cave owner Dr. John Croghan named Audubon Avenue after his friend, the famous ornithologist and artist John James Audubon. In 1838 a visitor reported seeing “tens of thousands” of bats in Little Bat Avenue. Few bats remain, but visitors still see stain on the ceiling from the bat’s feet where they roosted.<br /> <br /> NPS Mobile App Users: <a href=\"https://www.nps.gov/media/video/view.htm?id=875A02F8-A363-4333-A20D-CAE4514BE347\">Click here to watch a video on a ranger in Audubon and Little Bat Avenue. </a></p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.0986,
+          37.1849
+        ]
+      },
+      "properties": {
+        "name": "Booth's Amphitheatre - Beneath Your Feet",
+        "notes": "Booth's Amphitheatre - Beneath Your Feet\nhttps://www.nps.gov/places/booth-s-amphitheatre-beneath-your-feet.htm\n\n<p paraeid=\"{0704183d-f3bb-4539-8048-7b48ad2bfe2e}{200}\" paraid=\"514428546\">Booth’s Amphitheatre, named after the 19th century Shakespearean actor Edwin Booth (brother of the infamous John Wilkes Booth) lies 169 feet beneath your feet. Booth’s Amphitheatre is where Gothic Avenue intersects with Main cave. This is a large canyon passage, very wide with a high ceiling, there is a set of stairs that go up into Gothic Avenue, an upper oval shaped passageway; located near the stairs are also a second set of salt petre leaching vats.  </p> <p paraeid=\"{0704183d-f3bb-4539-8048-7b48ad2bfe2e}{227}\" paraid=\"1180847566\">Booth and a group of actors visited Mammoth Cave in 1876. He wrote about his joke-telling cave guide in a letter to his daughter: </p> <blockquote> <p paraeid=\"{0704183d-f3bb-4539-8048-7b48ad2bfe2e}{233}\" paraid=\"1314650165\"><em>“We went laughing at his weak jokes; for it was funny to us actors to see this fellow throwing his wit at us, and our appreciation of his acting made him very happy.” </em></p> </blockquote> <p paraeid=\"{0704183d-f3bb-4539-8048-7b48ad2bfe2e}{239}\" paraid=\"1653511514\">Legend has it that Edwin Booth recited from Hamlet from a high natural stage within the room, thus the named Booth’s Amphitheatre.   <br /> <br /> NPS Mobile App Users: <a href=\"https://www.nps.gov/media/video/view.htm?id=8C8F69BB-C03A-4C93-888F-220DE546233F\">Click here to watch a video of a ranger at Booth's Amphitheatre. </a></p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.0987,
+          37.1849
+        ]
+      },
+      "properties": {
+        "name": "Booth’s Amphitheatre",
+        "notes": "Booth’s Amphitheatre\nhttps://www.nps.gov/places/booth-s-amphitheatre.htm\n\n<p paraeid=\"{7c686d3f-15d6-42a0-8495-198b86114367}{156}\" paraid=\"117000060\">An intersection named for actor Edwin Thomas Booth (1833-1893), brother of John Wilkes Booth. Edwin was the famous of the two brothers, until the night of the assassination of Abraham Lincoln at Ford’s Theatre in 1865. While Edwin and his theatre troupe were visiting Mammoth Cave in 1876, he gave a recital of Hamlet's soliloquy from the natural stage formed by the rock outcropping in Gothic Avenue. From this natural stage his voice would be amplified and carried. <br /> <br /> The white marks along the ceiling were created by early guides throwing flaming  torches to light up these upper levels. In order to improve accuracy and distance fabric was tied around small rocks. The friction of the rock scraping across the ceiling would expose fresh layers of limestone beneath the soot stained ceiling.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.1008,
+          37.1858
+        ]
+      },
+      "properties": {
+        "name": "Broadway",
+        "notes": "Broadway\nhttps://www.nps.gov/places/broadway.htm\n\n<p paraeid=\"{ceb12437-6283-4981-b398-a4a558145ef6}{163}\" paraid=\"1296451144\">Leaving Rotunda, this main cave passage became known as Broadway. Early visitors from New York may have thought that the large trunk passage resembled the urbanized Broadway canyon.<br /> <br /> On the left you will see a metal tower. This equipment is part of an experiment to collect data on the cave climate. Cave Scientist are studying the changes that occur due to the surface weather and tourism.<br /> <br /> Running parallel to the stone walkway is a beaten dirt path. This is the old oxen trail used when they were moving the dirt from the harvesting locations back to the leeching vats.  There are logs stretched along the path from the dirt processing operation.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.0487993654207,
+          37.21743743862409
+        ]
+      },
+      "properties": {
+        "name": "Dennison Ferry",
+        "notes": "Dennison Ferry\nhttps://www.nps.gov/places/dennison-ferry.htm\n\n<p>Prior to the establishment of Mammoth Cave National Park, Dennison Ferry was the site of an active vehicle ferry. Families that once lived in what is now the national park used the ferry to commute to larger towns and to visit other families that lived in the local area.  <br /> <br /> After the establishment of Mammoth Cave National Park, Dennison Ferry was designated as a camping area, but has since changed to exclusively a day use area. Visitors often come to this area for access to the Green River at the canoe/boat launch found here. The Dennison Ferry to Green River Ferry float gives paddlers an up close and personal experience with the Green River as they float along to witness one of the most unique geological areas in the state of Kentucky. This relaxing float is perfect for beginners, families and anglers. Dennison Ferry is also a popular picnic area, with its serene location an ideal spot for a small family gathering.   </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.0929218,
+          37.163664401
+        ]
+      },
+      "properties": {
+        "name": "Doyel Valley Overlook",
+        "notes": "Doyel Valley Overlook\nhttps://www.nps.gov/places/doyel-valley-overlook.htm\n\n<p>The Doyel Valley Overlook is a pull-off area along the most commonly used entrance road leading to the visitor center.<br /> This scenic overlook provides a rare view of the park landscape's rolling hills and valleys. The namesake of the area, the Doyel family, called this area home prior to the creation of Mammoth Cave National Park in 1941. The Doyels would have also owned nearby Sand Cave, where, in January 1925, a local caver became stuck, an event known at the <a href=\"https://www.nps.gov/articles/000/tragedy-at-sand-cave.htm\">Tragedy at Sand Cave</a>.<br /> Learn more about the historic communities and the history of appalachian homesteading and culture, the <a href=\"https://www.nps.gov/maca/learn/nature/wildflowers.htm\">wildflowers</a> and <a href=\"https://www.nps.gov/maca/learn/nature/forests.htm\">forest ecosystem</a> within the park, or just get a different view of the park at this overlook.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.0986,
+          37.1849
+        ]
+      },
+      "properties": {
+        "name": "Fat Man's Misery - Beneath Your Feet",
+        "notes": "Fat Man's Misery - Beneath Your Feet\nhttps://www.nps.gov/places/fat-man-s-misery-beneath-your-feet.htm\n\n<p paraeid=\"{5626adb4-c443-4aaa-a468-ac8705655ba4}{202}\" paraid=\"1699584848\">Located about one mile from the Historic entrance, you will find yourself entering Fat Man’s Misery. Fat Man’s Misery is a winding keyhole shaped passageway, the lower part of the passageway is about as wide as your hips or a little wider, above your hips the passage widens to about 5 ½ feet or more, at the very end, the floor comes up 2 feet for a 20 foot stoop walk, the passageway is a little over 100 feet long. </p> <p paraeid=\"{5626adb4-c443-4aaa-a468-ac8705655ba4}{222}\" paraid=\"4603924\">This section was once described by an 1866 visitor as,</p> <blockquote> <p paraeid=\"{5626adb4-c443-4aaa-a468-ac8705655ba4}{222}\" paraid=\"4603924\"><em>\"… a tortuous rift, a snake in convolution and an avenue of torture in ruggedness, narrowness, and lowness. It would perplex a groundhog.” </em></p> </blockquote> <p paraeid=\"{5626adb4-c443-4aaa-a468-ac8705655ba4}{222}\" paraid=\"4603924\">Despite (or because of) its ruggedness, narrowness, and lowness, Fat Man’s Misery is one of the most asked about and popular passages in the cave. No groundhogs have been perplexed there. <br /> <br /> NPS Mobile App Users: <a href=\"https://www.nps.gov/media/video/view.htm?id=FB564C3A-92D6-42FB-8B17-A1AE3FDC9970\">Click here to watch a video of a ranger in Fat Man's Misery. </a></p> <blockquote> <p paraeid=\"{5626adb4-c443-4aaa-a468-ac8705655ba4}{222}\" paraid=\"4603924\"> </p> <p paraeid=\"{5626adb4-c443-4aaa-a468-ac8705655ba4}{222}\" paraid=\"4603924\"> </p> </blockquote>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.05451472883604,
+          37.210947555675354
+        ]
+      },
+      "properties": {
+        "name": "Floyd Collins Homestead",
+        "notes": "Floyd Collins Homestead\nhttps://www.nps.gov/places/floyd-collins-homestead.htm\n\n<p>The Floyd Collins Homestead provides a valuable link with the early 20th century tourism of Mammoth Cave and has played an important role in early exploration of the expansive cave system. <br /> <br /> After Floyd Collins discovered the entrance to Great Crystal Cave in 1917, he and his family started a show cave business and began living at the Floyd Collins Homestead. The business ran for eight years until the death of Floyd Collins in 1925 in nearby Sand Cave. This tragedy brought a lot of attention to the Mammoth Cave area, including interest in the Great Crystal Cave, which the Collins family still owned.  <br /> <br /> In 1927, Dr. H. B. Thomas purchased the Collins Homestead and Crystal Cave, renamed the cave to “Floyd Collins Crystal Cave,” and continued the tourism business. Dr. Thomas and his descendants operated the Floyd Collins Crystal Cave as a private show cave from 1927 until 1960 when it was purchased by the National Park Service to be included within Mammoth Cave National Park.  <br /> <br /> The Floyd Collins Homestead also plays a significant role in cave exploration and cave science. The homestead was the first headquarters of the Cave Research Foundation, a group dedicated to the further exploration and understanding of caves and cave science. The Cave Research Foundation used the Floyd Collins Homestead as a base of operations for many of their expeditions to explore the Flint Ridge Cave System. In 1972, a famous expedition occurred that connected the Flint Ridge Cave System with the Mammoth Cave System and proved that Mammoth Cave was the longest known cave with a length of 144.4 miles (232.4 km) at the time of the discovery Since that time further exploration by the Cave Research Foundation and other organizations has extended the known length of Mammoth Cave to over 400 miles (643 km). </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.1033,
+          37.1872
+        ]
+      },
+      "properties": {
+        "name": "Frequently Asked Questions",
+        "notes": "Frequently Asked Questions\nhttps://www.nps.gov/places/frequently-asked-questions.htm\n\n<h2 paraeid=\"{665ec8dc-10ce-4e8e-bc0c-9560d87c4cdb}{112}\" paraid=\"1649040262\">Why is it called Mammoth Cave?</h2> <p paraeid=\"{665ec8dc-10ce-4e8e-bc0c-9560d87c4cdb}{118}\" paraid=\"1291785558\">Many wonder if Mammoth earned its name by the discovery of an ancient prehistoric pachyderm. This place earned the name Mammoth because of the grandeur showcased by the size of the chambers, not for the Wooly Mammoth. The Rotunda boasts ¼ acre room. Early visitors did not get the opportunity to experience rooms this large. When they would write about their experiences they would often refer to the cave system as mammoth. After a while, that became the name everyone recognized, The Mammoth Cave of Kentucky. <br /> <br />  </p> <h2 paraeid=\"{665ec8dc-10ce-4e8e-bc0c-9560d87c4cdb}{166}\" paraid=\"727826648\">Why are there no cave formations?  </h2> <p paraeid=\"{665ec8dc-10ce-4e8e-bc0c-9560d87c4cdb}{178}\" paraid=\"818144110\">Mammoth Cave is considered a dry cave. Above all the layers of limestone rock there are two more layers of sedimentary rock, sandstone and shale. These <a href=\"https://www.nps.gov/maca/learn/nature/rocks-of-mammoth-cave.htm\">layers of rock</a> were created long after the development of the limestone. A river flowed over this area leaving behind sand, silt and mud. These deposits solidified to form the sandstone caprock of Mammoth Cave. Unlike the soluble limestone, water can not penetrate through this type of rock. The insoluble rock layers keep Mammoth Cave dry. It is this feature that allows Mammoth Cave to be world’s longest cave system and allows all the artifacts in the cave to be preserved. </p> <p paraeid=\"{665ec8dc-10ce-4e8e-bc0c-9560d87c4cdb}{212}\" paraid=\"1372615239\">There are a few places where that caprock is weakened or absent and water can slowly make its way through the layers. In this locations we do find the classic <a href=\"https://www.nps.gov/maca/learn/nature/stalactites-stalagmites-and-cave-formations.htm\">cave formations</a> such as; stalactites, stalagmites, draperies, soda straws, cave bacon, cave grapes, cave popcorn and rim stone dams to name a few. All of these formations are typical of a wet cave.  </p> <p paraeid=\"{665ec8dc-10ce-4e8e-bc0c-9560d87c4cdb}{252}\" paraid=\"1694744471\">Tours to see wet formations: Frozen Niagara, Domes and Dripstones, Gothic Avenue, Violet City [lantern tour], Grand Avenue, Great Onyx [lantern tour], Introduction to Caving [crawling tour], Wild Cave [crawling tour].<br />  </p> <h2 paraeid=\"{6ac78a70-7d8f-4a86-992f-f03818ca0232}{25}\" paraid=\"806533793\">How often do rocks fall?  </h2> <p paraeid=\"{6ac78a70-7d8f-4a86-992f-f03818ca0232}{33}\" paraid=\"161328481\"><em>Only Once, lol. Typical cave humor. It’s the lowest form of humor there is, lol... </em></p> <p paraeid=\"{6ac78a70-7d8f-4a86-992f-f03818ca0232}{47}\" paraid=\"1946172559\">Enough with the horrible puns. This is a legit question that comes up quite often. The truth of the matter is that it does occur occasionally. These stone passages stabilized themselves long ago and there aren’t many outside forces acting on them. Sometimes there are changes in the environment that affect the rock layers. Areas next to entrances or ventilation shafts experience sufficient temperature change to create ice wedging between the layers. In areas where water is still flowing freely the cave experiences changes as rocks are dislodged by the water. </p> <p paraeid=\"{665ec8dc-10ce-4e8e-bc0c-9560d87c4cdb}{252}\" paraid=\"1694744471\"> </p> <h2 paraeid=\"{6ac78a70-7d8f-4a86-992f-f03818ca0232}{89}\" paraid=\"1215130733\">Are people still exploring the cave?  </h2> <p paraeid=\"{6ac78a70-7d8f-4a86-992f-f03818ca0232}{95}\" paraid=\"394914924\">Cave exploration is still active and headed up by the Cave Research Foundation. The group is comprised of scientists, cave enthusiasts and members of the <a href=\"https://caves.org/\">National Speleological Society</a>.  The <a href=\"https://www.cave-research.org/\">Cave Research Foundation</a> (CRF) expedition leaders schedule excursions into the cave on holiday weekends when the members are off from their everyday jobs. Pushing their limits down in these depths trying to find those unexplored passages to add to length of this system. <br />  </p> <h2 paraeid=\"{6ac78a70-7d8f-4a86-992f-f03818ca0232}{155}\" paraid=\"275997700\">How much of the cave was enlarged by people? </h2> <p paraeid=\"{6ac78a70-7d8f-4a86-992f-f03818ca0232}{165}\" paraid=\"830585508\">Mammoth Cave is what is considered a <a href=\"https://www.nps.gov/maca/learn/nature/how-mammoth-cave-formed.htm\">solution cave</a>. Which means it was formed in soluble rock through a chemical reaction that caused the rock to dissolve thus creating passages. The cave is naturally formed by the underground rivers flowing against the limestone walls. The cave walls and ceiling have not been altered by man. The rivers that flowed through left behind large amounts of sediment and displaced rocks.  </p> <p paraeid=\"{6ac78a70-7d8f-4a86-992f-f03818ca0232}{187}\" paraid=\"229064473\">Throughout the use of the cave the floor has been altered. That is to say, loose rocks have been moved around and dirt has been removed in some areas to allow for more clearance between the floor and ceiling. In the Rotunda, the floor has been built up by the <a href=\"https://www.nps.gov/articles/000/saltpetre-mining.htm\">saltpetre</a> processing. After the nitrates were removed from the sediment, mine workers would shovel the wet mud from the leeching vats. The spent dirt was piled up along the sides of the chamber. This caused the floor of the room to rise almost eight feet in some places.<br />  </p> <h2 paraeid=\"{6ac78a70-7d8f-4a86-992f-f03818ca0232}{231}\" paraid=\"597022712\">How many entrances are there?  </h2> <p paraeid=\"{6ac78a70-7d8f-4a86-992f-f03818ca0232}{243}\" paraid=\"1429546519\">So far, we know of 27 entrances. The Historic Entrance is the largest natural entrance. A total of six entrances are used by visitors to access different guided tour experiences. The Great Onyx entrance is not counted among those because the connection of these two cave systems has not been found yet.  <br /> <br />  </p> <h2 paraeid=\"{12e0d934-fdcb-438b-9eee-77608b099248}{6}\" paraid=\"2085965807\">Is there gold or gems in the cave?  </h2> <p paraeid=\"{12e0d934-fdcb-438b-9eee-77608b099248}{18}\" paraid=\"1412894393\">No. The limestone rock is not ideal for discovering gold or other gems. However, aside from calcite formations, the cave does have a variety of minerals that can be found on its walls. Salts such as gypsum, epsomite, and mirabilite can be found within the cave. Some of these were harvested by prehistoric <a href=\"https://www.nps.gov/maca/learn/historyculture/native-americans.htm\">Native Americans</a>.<br /> <br />  </p> <h2 paraeid=\"{12e0d934-fdcb-438b-9eee-77608b099248}{51}\" paraid=\"506643395\">What is the black stuff on the walls? </h2> <p paraeid=\"{12e0d934-fdcb-438b-9eee-77608b099248}{57}\" paraid=\"64555320\">As the limestone is drying out pushing moisture from its pores, it is picking up other minerals along the way. Here, when the moisture evaporates from the surface of the rock it leaves behind gypsum. The build up can take on various forms depending on the shape of the pore it traveled through. Through small pores a sugary crust will develop along the surface. It sparkles like fresh fallen snow. Naturally it is white in color but also appears light brown due to interactions with impurities found here. If the gypsum is forced from a larger pore, sugary lilies and clusters of delicate flowers will bloom on the walls and ceilings. These fragile formations are rated a two on the Mohs hardiness scale (Diamond being a 10 and talc being a one). They are about the same sturdiness of dried up cake icing. In early tourism visitors were allowed to pluck these beauties from the walls to take as souvenirs. With the creation of this national park, beautiful places like this are now protected for future generations. </p> <p paraeid=\"{12e0d934-fdcb-438b-9eee-77608b099248}{89}\" paraid=\"1605357060\">In this section of the cave, the thin crust has been blackened by the smoke of bonfires and from lanterns. Native Americans harvested gypsum in the main cave. </p> <p paraeid=\"{12e0d934-fdcb-438b-9eee-77608b099248}{103}\" paraid=\"1147832460\">Tours to see dry formations: Great Onyx [lantern tour], Cleveland Avenue, Accessible, Grand Avenue, Violet City [lantern tour], Wild Cave [crawling tour], Introduction to Caving [crawling tour].<br /> <br />  </p> <h2 paraeid=\"{12e0d934-fdcb-438b-9eee-77608b099248}{115}\" paraid=\"1756035765\">Why is the ceiling flat? </h2> <p paraeid=\"{12e0d934-fdcb-438b-9eee-77608b099248}{121}\" paraid=\"1599476800\">Limestone is naturally formed in layers, like the layers of a cake. The limestone in the Mammoth Cave area was created when there was a salty sea covering this area of Kentucky. In this sea was a vast ecosystem of aquatic life. Many of these creatures had hard parts, such as shells. When one of these organisms died, the hard parts accumulated as sediment on the sea floor. This sediment continued to build over time and eventually solidify creating <a href=\"https://www.nps.gov/maca/learn/nature/fossils.htm\">fossil</a> rich limestone rocks. When you gaze at the expanse of a flat ceiling in the cave, you are essentially looking at the bottom surface of an exposed layer of limestone. <br /> <br />  </p> <h2 paraeid=\"{12e0d934-fdcb-438b-9eee-77608b099248}{192}\" paraid=\"1209508542\">Where is the water that formed the cave now? </h2> <p paraeid=\"{12e0d934-fdcb-438b-9eee-77608b099248}{198}\" paraid=\"208636599\">Over thousands of years the Green River has been cutting deeper into the valley. At the same time water in the cave is striving to be at the same level as the river on the outside. As time passes water is finding cracks in the limestone and seeping deeper creating layers of twisting passages. <br /> <br /> Once you leave the cave, you can hike the River Styx Spring trail 0.4 miles from the Historic Entrance to the Green River. This is one of many locations where the water is leaving the cave system and joining with the Green River. That will be deepest point of the subterranean labyrinth. <br /> <br />  </p> <h2 paraeid=\"{12e0d934-fdcb-438b-9eee-77608b099248}{254}\" paraid=\"800426675\">Do earthquakes effect the cave? </h2> <p paraeid=\"{23f84393-7255-420d-b2bc-88acfd330513}{5}\" paraid=\"1006150961\">The closest major fault is the New Madrid, located almost 200 miles away. Seismic activity in South Central Kentucky does not occur often, but on the occasion shock waves may reach this area. The areas most impacted by the tremors will be on the surface. To understand this, imagine a rock being thrown into a pond. A duck swimming on top would feel the ripple and waves on the surface of the pond, but a fish swimming at some depth beneath would not be as aware. So while earthquakes can and have caused some impact in the cave, it is relatively a safer environment when compared to the tremendous impacts earthquakes can have on the surface. <br />  </p> <h2 paraeid=\"{23f84393-7255-420d-b2bc-88acfd330513}{53}\" paraid=\"1264985633\">Where are the bats?  </h2> <p paraeid=\"{23f84393-7255-420d-b2bc-88acfd330513}{61}\" paraid=\"981413756\">The bat population has taken a very hard hit with the introduction of White Nose Syndrome and urban development. Bats have been losing much of their natural habitats. This causes them to be found in places they shouldn’t be, such as attic spaces. Food sources are also diminishing due to the increased use of pesticides. Many bat species are now considered endangered or threatened. </p> <p paraeid=\"{23f84393-7255-420d-b2bc-88acfd330513}{71}\" paraid=\"628125661\">Throughout the year the are about 13 different species of bats that will take up residence in this area of Kentucky. Not all of the bats will come into the cave. During the warmer season many bats opt to sleep in the hollow of trees or the thick canopy. When dusk falls and the insects begin to swarm, the bats are much closer to their food source. These nocturnal creatures like to consume what we call “M&Ms” but that isn’t the good kind we like to eat. Their M&Ms are moths and mosquitos. So think about that the next time you see them flying around at night. <br />  </p> <h2 paraeid=\"{23f84393-7255-420d-b2bc-88acfd330513}{85}\" paraid=\"490132172\">What is White-nose Syndrome? </h2> <p paraeid=\"{23f84393-7255-420d-b2bc-88acfd330513}{91}\" paraid=\"2138848472\"><a href=\"https://www.nps.gov/subjects/bats/white-nose-syndrome.htm\">White-nose Syndrome</a> is disease created by a fungus. It effects the bats echolocation when it grows on their faces. This can cause the bat to starve or fly into obstacles. When the fugus develops on the wings it can create holes that make it impossible for the bat to fly. During hibernation the bats normally slow their body systems to allow them to burn through fat reserves slowly. The growth of the fungus on their body causes an irritation that prevents them to go into hibernation for the full season. Infected bats will sometimes wake before the spring season. This can lead to many issues such as freezing to death or starvation. <br /> <br />  </p> <h2 paraeid=\"{23f84393-7255-420d-b2bc-88acfd330513}{111}\" paraid=\"1436025296\">Why do we walk on the mats after the cave and not before we go into the cave? </h2> <p paraeid=\"{23f84393-7255-420d-b2bc-88acfd330513}{117}\" paraid=\"398467897\">We clean our shoes after going into the cave to stop us from spreading the White-nose fungal spore from Mammoth Cave. Since the fungus is already here we can not stop visitors from reintroducing it. White-nose can live in the cave for many years without being reintroduced.  </p> <p paraeid=\"{23f84393-7255-420d-b2bc-88acfd330513}{139}\" paraid=\"564822387\">Before the fungus made it here we did ask visitors to go through a decontamination process before entering into the cave. Then as infected bats were migrating the fungal spore was introduced to the cave environment. Many of the bats here became infected and the fungus spread. </p> <p paraeid=\"{6ac78a70-7d8f-4a86-992f-f03818ca0232}{187}\" paraid=\"229064473\"><br />  </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.096,
+          37.1835
+        ]
+      },
+      "properties": {
+        "name": "Giant's Coffin - Beneath Your Feet",
+        "notes": "Giant's Coffin - Beneath Your Feet\nhttps://www.nps.gov/places/giant-s-coffin-beneath-your-feet.htm\n\n<p>Located on the Historic tour route there is a very large boulder, forty feet in length, twenty feet in height and eight feet wide.  In the early 1800’s cave visitors called the huge, rectangular boulder the “Steamboat”.  By the 1840’s, guides and visitors alike, decided the rock looked more like a Giant’s Coffin, the name is still used for this boulder on the Historic Tour route today.  You will also find historic signatures located on this large boulder. <br /> <br /> NPS Mobile App Users: <a href=\"https://www.nps.gov/media/video/view.htm?id=D3EA1313-240B-4C98-8A1B-FEB335EA73DF\">Click here to watch a video of a ranger at the Giant's Coffin.</a></p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.14710183068846,
+          37.20883281051712
+        ]
+      },
+      "properties": {
+        "name": "Good Spring Baptist Church & Cemetery",
+        "notes": "Good Spring Baptist Church & Cemetery\nhttps://www.nps.gov/places/maca-good-spring-baptist-church.htm\n\n<p paraeid=\"{f0fa6d01-d5a2-4c5f-bb19-768a07b96a34}{166}\" paraid=\"3\">Good Spring Baptist Church is located near the Maple Springs trailhead. The church is composed of one building and an accompanying cemetery. It was founded the third Saturday in February, 1842, by church elders Jesse Moon, R.T. Gardner and William Skaggs. The conditions of the church can be seen in a letter written in 1931 by Aunt Susie Blair to Charlie Whittle: “On Sunday we went to church where Good Spring Church now stands. The old house was built of logs and heated with a fireplace.” Her letter also mentions that, when the number of service attendees was larger than the church could hold, they had service outside amongst the trees. </p> <p paraeid=\"{f0fa6d01-d5a2-4c5f-bb19-768a07b96a34}{220}\" paraid=\"4\"> </p> <p paraeid=\"{f0fa6d01-d5a2-4c5f-bb19-768a07b96a34}{222}\" paraid=\"5\">Before this church was formed, its members had to travel to Nolin Baptist Church or to a church in Beaver Dam. With Nolin Baptist church being about 10 miles away, and with the town of Beaver Dam being about 65 miles away, the construction of the Good Spring Baptist Church saved residents considerable travel time. The church charter members included Brown Blair, Mary Blair, Isaac Blair, Lucy Blair, David Blair, Betsy Blair, J.L. Smith, Sarah Smith, Rachel Pace, William Skaggs, J.D. Sanders, Sally Sanders, Thomas Meredith, Esaline Smith and Pega Davis. Many of these charter members were descendants of the pioneer Baptists that settled in Green County near the Brush Creek Church, located in Tennessee. </p> <p paraeid=\"{02835b6c-8d80-458c-9b0e-bfde06bd7c26}{29}\" paraid=\"6\"> </p> <p paraeid=\"{02835b6c-8d80-458c-9b0e-bfde06bd7c26}{31}\" paraid=\"7\">Good Spring Baptist Church had the largest membership of any church in the Green River Association from 1896 to 1900. When the National Park Service acquired the church property, the church dissolved. The church building itself is still standing today. It currently holds reunion services for descendants of the pioneers during a yearly homecoming and dinner on the grounds. The church was added to the National Register of Historic Places (NRHP) in 1991.  </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.1033436,
+          37.1932742
+        ]
+      },
+      "properties": {
+        "name": "Green River Bluffs Overlook",
+        "notes": "Green River Bluffs Overlook\nhttps://www.nps.gov/places/green-river-bluffs-overlook.htm\n\nThis scenic overlook along the often recommended Green River Bluffs Trail provides one of the best views of the path of the Green River as it winds through the park. The rivers play an important role in both the cave and surface <a href=\"https://www.nps.gov/maca/learn/nature/waterways.htm\">waterway ecosystems</a>, and the Green River is one of the most biodiverse rivers in North America.<br /> Learn about the hydrology of this resource at the information panel or take a break along the hiking trail.<br /> <br /> The site is also home to a long term <a href=\"https://www.nps.gov/subjects/air/webcams.htm?site=maca\">air quality monitoring webcam</a>.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.11264711618422,
+          37.17960842500402
+        ]
+      },
+      "properties": {
+        "name": "Green River Ferry",
+        "notes": "Green River Ferry\nhttps://www.nps.gov/places/green-river-ferry.htm\n\n<p>The Green River Ferry was first developed in 1934 and is the last remaining active river ferry in the park. The ferry shuttles vehicles, hikers and bikers across the Green River 364 days a year. This area is also a popular location for visitors to launch their boats, canoes and kayaks for a day out on the water.  <br /> <br /> If your plan is to go boating, the cement ramp used to reach the ferry boat will be used as your launch. If you are canoeing or kayaking you should use the gravel launch provided in the corner of the parking area, upriver from the ferry. There are some boaters that launch further up river at Dennison Ferry or beyond the park’s boundaries who also utilize this area for taking their boats out of the Green River.  <br /> The Green River Ferry parking area also offers access to the Accessible Echo River Spring hiking trail, a one-mile wheelchair accessible path through the forest. This hike is a great destination for avid bird watchers or for those who just want to spend a day enjoying the river and woodland views. There are picnic tables at the trailhead and benches and viewpoints along the trail. </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.1011538505554,
+          37.18527743223222
+        ]
+      },
+      "properties": {
+        "name": "Historic Cottages",
+        "notes": "Historic Cottages\nhttps://www.nps.gov/places/historic-cottages.htm\n\n<p>The Historic Cottages are an updated representation of 1930s Civilian Conservation Corps construction, they offer a tradtional lodging option in Mammoth Cave National Park.<br /> These private cottages are equipped with air-conditioning, they do not have wifi or tv available. Nightly rates start at $93.<br /> Learn more or make a reservation at <a href=\"https://mammothcavelodge.com/lodging/\">mammothcavelodge.com/lodging/</a></p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.1033,
+          37.1872
+        ]
+      },
+      "properties": {
+        "name": "Historic Entrance of Mammoth Cave",
+        "notes": "Historic Entrance of Mammoth Cave\nhttps://www.nps.gov/places/historic-entrance-of-mammoth-cave.htm\n\n<p paraeid=\"{4bd9760f-95f2-4f82-8df4-7478fd5bcd72}{123}\" paraid=\"1295753690\">You are standing at the largest known natural entrance to the Mammoth Cave system. This collapsed sink hole gave way to an extensive labyrinth of naturally formed passages. It is believed that this is where the Mammoth Cave story first began.<br /> <br /> The cave system is constantly breathing in and out, assuring that the air remains fresh all the way down to the deepest levels. The brisk air escaping provides a blissful retreat from the heat of summer. Traveling around the opening you can feel the chill of the air tickle across your skin. Wouldn’t your curiosity be piqued? Maybe that was what occurred almost 5,000 years ago with <a href=\"https://www.nps.gov/maca/learn/historyculture/native-americans.htm\">Prehistoric Native Americans</a>. They may have been out gathering supplies or hunting when they came across this amazing portal. Intrigued, they set off to explore. We find evidence they traveled over 19 miles with river cane torches to light their way. They journeyed into the cave for about 3,000 years before the exploration stopped... Why do you think they stopped coming into the cave?<br /> <br /> It wasn’t until the late 1700s, that a local legend says a young boy, named John Houchin, rediscovered the cave. According to the legend, this young boy was hunting along the ridge line with his father’s Kentucky long rifle. He spotted a large black bear, a mammal we no longer find in the park. Raising the rifle to his shoulder he took aim and fired. BOOM!... When the smoke cleared, he realized he had only wounded the bear. The injured bear took off down the hillside and deep into the cave. Not wanting to come back empty handed, the boy took off after the bear. Do you think he ever found that bear? What we do know is that this story spread and cave travel began once more.<br /> <br /> As you walk down the steps into the entrance, notice the water cascading from the limestone layers of the entrance. This feature will play an important role in one of our future stops.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.23765511125453,
+          37.2024983347093
+        ]
+      },
+      "properties": {
+        "name": "Houchin Ferry",
+        "notes": "Houchin Ferry\nhttps://www.nps.gov/places/houchin-ferry.htm\n\n<p>Houchin Ferry was once the site of a vehicle ferry that shuttled residents back and forth on their commutes across the Green River.<br /> <br /> Houchin Ferry/Ollie Road had long been the most direct route linking the town of Brownsville to areas on the Northeastern side of Edmonson County. Some residents had long commuted from the rural northeastern part of the county to Brownsville by way of Houchin Ferry. Over the years, the ferry was closed now and then for various reasons which caused a hardship for the local commuters.  <br /> <br /> In 2013 the Houchin Ferry was put out of service and dry-docked. There was an uncontrolled breach in the Green River Lock and Dam #6 in November 2016  and subsequent removal which caused the river levels to drop 8-10 feet. The lower river levels make Houchin Ferry unreliable to use as a vehicle ferry crossing so residents are no longer able to commute to or from Brownsville using this route across the river. <br /> <br /> Today, <a href=\"https://www.nps.gov/maca/planyourvisit/houchinferrycg.htm\">Houchin Ferry Campground</a> is a popular area among local and out of town visitors for camping and river access. There are twelve campsites with a view of the Green River that offer picnic tables, fire rings and vault toilets. It is surrounded by dense woods on two sides of the campground with the third side sitting directly adjacent to the riverbank.  This area is a nice spot for the active fisherman and camper seeking a quiet primitive experience.  There are no designated hiking trails at this area.   </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.102,
+          37.1867
+        ]
+      },
+      "properties": {
+        "name": "Houchin’s Narrows",
+        "notes": "Houchin’s Narrows\nhttps://www.nps.gov/places/houchin-s-narrows.htm\n\n<p paraeid=\"{9fba4225-1ac2-423d-8b13-fe0ad8f094d7}{178}\" paraid=\"768778259\">This section of the cave became known as “Houchin’s Narrows”, named for the legend of that young hunter. Along this path, also known as the twilight zone, light from the sun filters into the entrance. Here it is not uncommon to find surface dwelling animals and plants. Beyond this point very few living things from the surface can thrive in the darkness but we still find life in this extreme habitat. Cave scientists have identified 160 different species and they are still making new discoveries. Some species include eyeless cave fish, eyeless crayfish, pack rats, cave crickets, pseudo scorpions, various arachnids, cave beetles, and about twelve species of bats to name a few. <br /> <br /> This passage has been slightly altered through the years as the use of the cave changed. Loose rocks and dirt have been removed to allow more room between the floor and the ceiling. On the side walls you can observe where the dirt level was at one point. The dirt floor on the right holds a clue for your next stop. There is a wood log half buried in the dirt... What purpose do you think this log had?</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.1354444363486,
+          37.16287630722405
+        ]
+      },
+      "properties": {
+        "name": "Joppa Missionary Baptist Church & Cemetery",
+        "notes": "Joppa Missionary Baptist Church & Cemetery\nhttps://www.nps.gov/places/joppa-missionary-baptist-church-cemetery.htm\n\n<p>As in many other parts of rural Kentucky, churches in the Mammoth Cave area were mostly Baptist denomination. These churches served as the center of community life. Locals attended weekly church services, weddings, baptisms, homecomings, revivals, funerals and grave decoration days.social interactions with family and neighbors from the area. These churches were also places of social interactions with family and neighbors as they were sometimes used as meeting houses and schools for the communities they served. <br /> <br /> Before Mammoth Cave National Park was formed there were several churches that served the communities in the immediate area of the cave. Joppa Church is one of three remaining structures that was added to the National Register of Historic Places in 1991. The church was established in 1862. The Joppa Church served the community of Elko and the residents of the Joppa Ridge area. Elko or Joppa community lay between Woolsey Valley and the Green River and between Turnhole Bend and Deer Park Hollow. The very earliest settlers to this area in the early 1800’s were the families of Davis’, Jones’, Houchins’, Blairs’ along with others. These families were followed by others that were important in the early history of the area they are the families of Ages’, Denhams’, Gentrys’, Merediths’, Woods’, Minyards’ McCombs’, Rutherfords’ Simmons’, Smiths’, Sanders’, Parkers’ to name a few.  <br /> <br /> In 1880 there was five to six square mile area, with families that had no church to serve them. The first building at Joppa was a log schoolhouse that stood on the grounds where the current church stands today.  <br /> <br /> The church was first known as Pleasant Union and was constituted in the log schoolhouse. Wm. Travis Blair wrote of this event and said, “A Baptist minister living in the community held a series of meetings at the home of John Bailey Blair which resulted in the church being formed.” In the early 1900 the old log church was torn down to make way for the wood frame building that is still standing today.  Today the church grounds and cemetery are open to visitors as a day use area. Joppa Church holds a Homecoming every year on the second Sunday of September. </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.1026,
+          37.1853
+        ]
+      },
+      "properties": {
+        "name": "Little Bat Avenue",
+        "notes": "Little Bat Avenue\nhttps://www.nps.gov/places/little-bat-avenue.htm\n\n<p>Like Audubon Ave, this passage housed bats at one point. With the growth of tourism, the bat population decreased in the toured areas. Smoke from lanterns and bonfires may have pushed the nocturnal creatures from this area.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.1039,
+          37.185
+        ]
+      },
+      "properties": {
+        "name": "Lookout Mountain",
+        "notes": "Lookout Mountain\nhttps://www.nps.gov/places/lookout-mountain.htm\n\n<p>This is a collapsed passage from long ago. As the Green River cut a deeper valley, the water moving down the side of the ridge created an instability in the rocks causing the passage to be closed off. When the room is silent you can still hear the sound of water dripping down the rocks. This breakdown happened long before modern day exploration. With the increase of rainfall, the water can be seen cascading down the rocks and disappearing into the depths of the unknown.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.1039,
+          37.185
+        ]
+      },
+      "properties": {
+        "name": "Lookout Mountain - Beneath Your Feet",
+        "notes": "Lookout Mountain - Beneath Your Feet\nhttps://www.nps.gov/places/lookout-mountain-beneath-your-feet.htm\n\n<p>Lookout Mountain is in Rafinesque Hall. This section of the cave was named after Constantine Rafinesque, a French Naturalist. In the early 1800’s he visited Mammoth Cave to study the natural fauna of Mammoth Cave. The view from Lookout Mountain is focused on a large pile of rocks, known as breakdown. This passage once continued but when the valley cut downward outside, erosion cut into the cave, causing the collapse in this section sealing the area off. <br /> <br /> NPS Mobile App Users: <a href=\"https://www.nps.gov/media/video/view.htm?id=B2998144-25CF-4598-AA1F-2B4710745F39\">Click here to watch a video of a ranger at Lookout Mountain. </a></p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.097,
+          37.1809
+        ]
+      },
+      "properties": {
+        "name": "Lover's Leap - Beneath Your Feet",
+        "notes": "Lover's Leap - Beneath Your Feet\nhttps://www.nps.gov/places/lover-s-leap-beneath-your-feet.htm\n\n<p>Lover’s Leap is one of the cave’s oldest named landmarks – the name goes back to 1827.  The route leading you to this section of the cave is lined with historic signatures, monuments and artifacts from early cave visitors.  When you arrive at the end of the passageway you are standing at a stone wall built in the 1930’s by the Civilian Conservation Corp. Overlooking the large canyon passageway, there is a slender pointed slab of rock jutting outward, this was named Lover’s Leap.  <br /> <br /> NPS Mobile App Users: <a href=\"https://www.nps.gov/media/video/view.htm?id=CB8CDE34-9329-47DF-9050-4ED3A9AE2B24\">Click here to watch a video of a ranger at Lover's Leap.</a></p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.0734837,
+          37.197796
+        ]
+      },
+      "properties": {
+        "name": "Mammoth Cave Baptist Church & Cemetery",
+        "notes": "Mammoth Cave Baptist Church & Cemetery\nhttps://www.nps.gov/places/maca-baptist-church.htm\n\n<p paraeid=\"{55ecd30b-b310-4ee1-b6ff-065b6d94fd65}{201}\" paraid=\"510540890\">With the nearest town 10 or more miles from the local community, the Mammoth Cave Baptist Church was used not only for religious purposes but also served as a place for social gatherings.  The church was established in 1827 and served as the site of weddings, funerals, baptisms, town meetings and as a school for the youth.  Even after Mammoth Cave became a national park in 1941, the church was still regularly used by the local community as a meeting place until the 1970’s. The church was built for the white residents of the community and is the only physical representative of the once thriving Mammoth Cave/Flint Ridge rural communities. There was also a Mammoth Cave Colored Baptist Church, but the location is unknown currently.   </p> <p paraeid=\"{55ecd30b-b310-4ee1-b6ff-065b6d94fd65}{235}\" paraid=\"483674748\">The current structure was constructed in 1927 after the original building was destroyed by a tornado. It is included on the National Register of Historic Places. Members of the congregation as well as descendants of the families from days gone by still use the church on occasion for weddings, funerals, or special services.  Next to the church is the Mammoth Cave Baptist Church Cemetery where many of the Mammoth Cave/Flint Ridge residents are buried including Floyd Collins, a local resident and famous cave explorer from the 1920’s. </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.10340476036072,
+          37.187198276172644
+        ]
+      },
+      "properties": {
+        "name": "Mammoth Cave Historic Entrance",
+        "notes": "Mammoth Cave Historic Entrance\nhttps://www.nps.gov/places/mammoth-cave-historic-entrance.htm\n\n<p>Located ¼ mile down the hill from the park visitor center, the Historic Entrance is the largest natural opening into the Mammoth Cave system. For thousands of years this site has served as a gateway to the underground world beneath the park. <a href=\"https://www.nps.gov/maca/learn/historyculture/native-americans.htm\">Prehistoric people</a> first entered the cave through this entrance between 5,000 and 4,000 years ago seeking the resources of minerals the cave holds. Later <a href=\"https://www.nps.gov/articles/000/saltpetre-mining.htm\">saltpetre mining</a> operations dominated the landscape near the entrance, eventually leading way to tourism in 1816. Since then, over two hundred years of guided cave tours have taken place at Mammoth Cave.  </p> <h2>John Houchins and the Bear </h2> <p>Although the credit of the cave’s discovery belongs to the prehistoric Native Americans, the question remains as to how the cave came to the attention of European settlers in the area. According to legend, in the late 1790s a young boy named John Houchins, was out hunting for game for his family. He spotted a black bear roaming through the forest near the entrance of the cave, he took aim and fired. His shot failed to be fatal for the bear, only wounding the animal. The injured bear ran down the hill and took shelter in the cave, leading Houchins into the cave. The legend tapers off at this point, leaving unanswered the question of whether Houchins ever got his bear, but whether or not, Houchins gained the credit of the modern discovery of the great cave. </p> <h2>Visiting the Historic Entrance </h2> <p>The Historic Entrance of Mammoth Cave is viewable all hours, free of charge. To access this area, follow the paved trail down the hill behind the visitor center. The walk along this path travels 0.25 miles and takes about 5-10 minutes. Along the way there are wayside signs that describe the areas geology, and several benches are available. Please note that this trail has a steep incline and is not rated as wheelchair accessible. <br /> <br /> During the busy spring and summer season, the Historic Entrance can be a congested area. Large tour groups pass through this area about every 15 minutes at peak visitation. If there is not a tour entering the cave, you can travel down the 65 stairsteps and travel about 300 feet into the cave opening before reaching the gate.  </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.09880693617629,
+          37.18452281820704
+        ]
+      },
+      "properties": {
+        "name": "Mammoth Cave Historic Train",
+        "notes": "Mammoth Cave Historic Train\nhttps://www.nps.gov/places/maca-historic-train.htm\n\n<h2>\"Hercules\" and Coach #2</h2>   <p paraeid=\"{95ef76ff-a0d9-40fc-8c28-ebf05a9fb2a3}{182}\" paraid=\"1502502698\">The Mammoth Cave Railroad played an important role in bringing more tourism to Mammoth Cave during it’s early development and it improved transportation for the local populace. It also served residents as an avenue of trade to ship farm products to the town of Glasgow Junction and bring back supplies from the merchants in town. The tiny 9-mile track from Glasgow Junction (Park City) to Mammoth Cave operated for 45 years. <br /> <br /> Between the ending of the Civil War and 1880 there were about 40,000 to 50,000 passengers annually on the L&N Railroad that stopped off at Glasgow Junction and then boarded a stagecoach to Mammoth Cave. In 1874 Colonel Larkin J. Procter, who was the owner of the stagecoach line, chartered the Mammoth Cave Railroad with his brother George and other investors and leased the railroad rights to Mammoth Cave from the L&N Railroad. <br /> <br /> The new railroad acquired four used steam engine locomotives. They were Baldwin “dummy” steam engines formally used on the street railways in Memphis and Nashville, Tennessee. The reason the small steam Baldwin locomotive was called “dummy” was because it was boxed up to look like a passenger streetcar. They also acquired two wooden passenger coaches and two wooden combination coaches and baggage cars.   <br /> <br /> The actual work on the railroad did not begin until 1880, and was officially opened for business on November 8th of 1886. The first passenger, W.F. Richardson, paid $3.00 for ticket #1350 as was recorded in the Mammoth Cave Hotel Register on November 8, 1886. The Mammoth Cave Railroad would make several stops at places such as Diamond Caverns, Chaumont Post Office, Proctor’s Hotel and Sloan’s Crossing during its short 8.7-mile trip from Glasgow Junction (Park City) to the Mammoth Cave. <br /> <br /> The Mammoth Cave Railroad was a short rail line with a small train. This “dummy” type locomotive and its accompanying combine coach were among the last of their kind used in the United States. The final run of the Mammoth Cave Railroad occurred in 1931. The original Locomotive “Hercules” #3 was unable to make the last run, so Locomotive #4 was renamed “Hercules” to keep with tradition.  <br /> <br /> Today, visitors can still travel by foot or bicycle on the rail path as the abandoned line was converted to the Mammoth Cave Bike and Hike Trail in 2004.   </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.1004180908203,
+          37.187442779541
+        ]
+      },
+      "properties": {
+        "name": "Mammoth Cave National Park",
+        "notes": "Mammoth Cave National Park\nhttps://www.nps.gov/places/mammoth-cave-national-park.htm\n\n<p>Mammoth Cave has represented the challenge of the unknown for millennia, from the time the first American Indian explorers ventured inside some 5,000 years ago, to the cave’s rediscovery by European settlers at the turn of the 19th century, and still today as explorers, scientists, and visitors from the United States and around the world brave its shadowed chambers in search of wonder and new knowledge. Named for the enormity of its “mammoth” subterranean vaults and the unparalleled extent of its passages, Mammoth Cave is the longest known cave system in the world with 412 miles surveyed to date.<br /> <br /> In 1941, Mammoth Cave’s superlative qualities led the Southern Appalachian National Park Commission to recommend that the cave be made into a national park along with other national treasures such as Great Smoky Mountains and Shenandoah. The Mammoth Cave National Park Association and the Kentucky National Park Commission began the necessary, and unprecedented, 15-year process to convert settled areas into parklands, and once congressional requirements were met, Mammoth Cave National Park entered the national park system.<br /> <br /> Today, Mammoth Cave National Park (the park) comprises approximately 52,830 acres in Edmonson, Hart, and Barren counties in the Commonwealth of Kentucky. Visitors are drawn to the park by its caves, scenic river valleys, bluffs, forests, and abundant wildlife. The park offers ranger-led cave tours and surface walks, camping, hiking, horseback riding, bicycling, scenic drives, canoeing and kayaking, fishing, accessible trails, and picnicking. This breadth of activities is available because Mammoth Cave National Park is a park on two levels—reclaimed hardwood forest and winding riverways above, and complex cave systems below.<br /> <br /> <span style=\"font-size: 11pt;\"><strong>African American History at Mammoth Cave</strong><br /> The history of enslavement and manumission at Mammoth Cave began in the earliest days of the 19</span><sup>th</sup><span style=\"font-size: 11pt;\"> century, when teams of enslaved Africans and African Americans labored extracting minerals from cave soil for the commercial production of gunpowder before and during the War of 1812. Commercial tours began almost immediately after and continued through the Civil </span><span style=\"font-size: 11pt;\">War, when several skirmishes and battles, including the battle of Munfordville in September of 1862, occurred less than 20 miles from the cave entrance.</span></p> <p>Serving as guides and explorers at Mammoth Cave partially rescued at least four men from the obscurity of enslavement. Stephen Bishop, Materson Bransford, Nicholas Bransford, and Alfred Croghan, all had their existence documented in the written journals and diaries of various 19<sup>th</sup> century Mammoth Cave visitors. They were physically described, their personalities contemplated, their intelligence gauged, and their dialects imitated. At least one abolitionist characterized Stephen Bishop, who found many miles of new cave passages, as a charismatic natural leader who could govern the citizenry of freedmen in Liberia, should he choose to relocate there.</p> <p>Modern cavers and researchers have monitored the cave explorations of these men for years. Their dated signatures are found in various places around the cave, often documenting discovery dates of passageways and exploration parties involved. With the exception of Mat Bransford, the personal and professional lives of enslaved Mammoth Cave Guides are shrouded in mystery and continue to be researched. The park’s cultural and geographic landscape, including segregated cemeteries, lends some understanding of these early guides, their families, and their enslavement.</p> <p><strong>Content used with permission from Eastern National’s <a href=\"http://generalstore.eparks.com/store/product/92424/Guidebook-to-African-American-History-in-the-National-Parks/\">Guidebook to African American History in National Parks.</a></strong></p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.10131800439781,
+          37.18713986625081
+        ]
+      },
+      "properties": {
+        "name": "Mammoth Cave Park Store",
+        "notes": "Mammoth Cave Park Store\nhttps://www.nps.gov/places/mammoth-cave-park-store.htm\n\n<p>The park store is operated by <a href=\"https://shop.americasnationalparks.org/store/home/5551/Mammoth-Cave-National-Park/\">America’s National Parks™</a>, an official non-profit partner of the National Park Service dedicated to supporting the educational mission of Mammoth Cave National Park. The park store has a wide range of books, maps, educational games, and other items available for retail sale. These products complement the interpretive themes you experience when visiting the park.<br /> <br /> The park store is located inside the <a href=\"https://www.nps.gov/maca/planyourvisit/mammoth-cave-visitor-center.htm\">Mammoth Cave Visitor Center</a> at 1 Mammoth Cave Parkway, Mammoth Cave, KY 42259., or you can visit the <a href=\"https://shop.americasnationalparks.org/store/home/5551/Mammoth-Cave-National-Park/\">online park store</a>.<br /> <br /> The store is open during regular visitor center hours of operation.</p> <figure> </figure> <p><a href=\"https://americasnationalparks.org/our-impact/funds-at-work/\">America’s National Parks™</a> is a part of <a href=\"http://easternnational.org/\">Eastern National</a>, a non-profit partner of the National Park Service. Your purchases support education and interpretation at Mammoth Cave National Park.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.0995,
+          37.1851
+        ]
+      },
+      "properties": {
+        "name": "Methodist Church - Beneath Your Feet",
+        "notes": "Methodist Church - Beneath Your Feet\nhttps://www.nps.gov/places/methodist-church-beneath-your-feet.htm\n\n<p>The Methodist Church is located about a quarter of a mile in the cave from the Historic entrance.  This is a large canyon room; the ceiling is about 50 feet high.   <br /> <br /> Reverend George Slaughter Gatewood would hold special church services in the 1830’s.  It has been said that the preacher and his parishioners would carry open lanterns into the cave, once reaching the Methodist Church the preacher would collect the lanterns and place them on the pulpit, thus creating a captive audience for the duration of his sermon. <br /> <br /> Facing the church, you are looking at a breakdown of large rocks.  To the left is a prominent ledge 15 feet high called the pulpit.  Along the ledge of the pulpit, the walls are blackened with the soot of lanterns used by the preacher to light up the room. <br /> <br /> NPS Mobile App Users: <a href=\"https://www.nps.gov/media/video/view.htm?id=779F0ECC-7207-4C2B-A8A6-0987F25C275D\">Click here to watch a video of a ranger in the Methodist Church. </a></p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.10495989684239,
+          37.18663471159992
+        ]
+      },
+      "properties": {
+        "name": "Old Guide's Cemetery",
+        "notes": "Old Guide's Cemetery\nhttps://www.nps.gov/places/old-guide-s-cemetery.htm\n\n<p>The Old Guide’s Cemetery is the burial place of one of Mammoth Cave’s earliest cave guides, Stephen Bishop. Bishop was an African-American man who spent almost 20 years guiding cave tours of Mammoth Cave, first as an enslaved guide and then as a free man. He is considered by many to be the most famous cave guide and explorer in Mammoth Cave’s history. The stories of his discoveries inside the cave are shared with hundreds of park visitors annually.  <br /> <br /> The cemetery is the resting place of several members of the surrounding communities, dating from the early 1840’s to the late 1850’s. Also buried here are three patients who died during the experimental Tuberculosis cure treatment held within Mammoth Cave during the winter of 1842. Several of the stone huts where the patients lived can still be found within the cave and are viewable on several tours offered to the public.  <br /> <br /> The Old Guide’s Cemetery is one of approximately 80 cemeteries located within Mammoth Cave National Park and is included in the National Register of Historic Places. It is located near the visitor center, off of the half-mile long Heritage Trail that connects to several other trails in the park. </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.1016,
+          37.1871
+        ]
+      },
+      "properties": {
+        "name": "Pensacola Avenue - Beneath Your Feet",
+        "notes": "Pensacola Avenue - Beneath Your Feet\nhttps://www.nps.gov/places/pensacola-avenue-beneath-your-feet.htm\n\n<p paraeid=\"{298a12bf-e0c1-49e0-9995-ca1638544e80}{204}\" paraid=\"1683011891\">Pensacola Avenue a once -toured passage off the main trail, lies 253 feet beneath you off the Historic Tour route. Pensacola avenue starts as a tubular passage then opens into a tall canyon passage; it is about 2000 feet long.  A 1940’s tourist guidebook says:</p> <blockquote> <p paraeid=\"{298a12bf-e0c1-49e0-9995-ca1638544e80}{204}\" paraid=\"1683011891\"><em>“The dry and sandy floor elicited the naming of this avenue after that pleasant city in Florida.” </em></p> </blockquote> <p paraeid=\"{298a12bf-e0c1-49e0-9995-ca1638544e80}{204}\" paraid=\"1683011891\">The earliest record of the name Pensacola Avenue is from 1860, but the passage was called Pensicoa and Pensico in the 1840’s. Pensacola avenue starts as a tubular passage then opens into a tall canyon passage; it is about 2000 feet long. There is a large nodular dripstone formation perched on a ledge that looks like a Pineapple Bush and another large boulder that is called the sea turtle, this boulder has numerous signatures from the 1800’s and also has an inscription from Stephen Bishop to his wife Charlotte.</p> <blockquote> <p paraeid=\"{298a12bf-e0c1-49e0-9995-ca1638544e80}{244}\" paraid=\"1653511514\"><em>“Charlotte Brown, the flower of Mammoth Cave.”</em><br />  </p> </blockquote> <p paraeid=\"{298a12bf-e0c1-49e0-9995-ca1638544e80}{244}\" paraid=\"1653511514\">NPS Mobile App Users: <a href=\"https://www.nps.gov/media/video/view.htm?id=9464299D-88E5-4CB1-843D-542F2D632070\">Click here to watch a video of a ranger in Pensacola Avenue. </a></p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.1037,
+          37.1853
+        ]
+      },
+      "properties": {
+        "name": "Rafinesque Hall",
+        "notes": "Rafinesque Hall\nhttps://www.nps.gov/places/rafinesque-hall.htm\n\n<p paraeid=\"{ceb12437-6283-4981-b398-a4a558145ef6}{5}\" paraid=\"875351418\">Coming into Rafinesque on the left is a metal tower. This tower is collecting environmental data, such as temperature, wind speed, humidity levels, etc. Scientist are trying to determine how the weather outside and tourism interact with the natural cave ecosystem. How do you think tourism might effect the climate of the cave? <br /> <br /> This chamber is named for Constantine Samuel Rafinesque, “Kentucky's eccentric naturalist”. Here, you have the opportunity to see the effects of water on the limestone walls at lookout mountain, see images of some of the cave inhabitants, and learn about a mushroom growing venture gone wrong. The chamber branches off to right and to left. The continuations do not go very far before they taper and become impassable. Take a moment to look around. This is the turn around point for this journey.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.1,
+          37.1849
+        ]
+      },
+      "properties": {
+        "name": "River Hall - Beneath Your Feet",
+        "notes": "River Hall - Beneath Your Feet\nhttps://www.nps.gov/places/river-hall-beneath-your-feet.htm\n\n<p>River Hall lies 283 feet below your feet on the Historic tour route. Usually dry, this passage is the only passage to fill with water when the Mammoth Cave’s River Styx floods into it. Most of the cave stays dry during floods, River Hall is the only toured section in the floodplain. This room is at the junction of two tributaries of the old river system; one brought water from the River Styx area, and the other brought water from the passage leading from Great Relief Hall. The walls and ceiling of River Hall have prominent scallops formed by flowing water. <br /> <br /> Poet and abolitionist Lydia Maria Child wrote of River Hall when visiting Mammoth Cave:</p> <blockquote> <p><em>\"The River Hall descends like the slope of a mountain; the ceiling stretches away-away before you, vast and grand as the firmament at midnight.\" </em>– Letters from New York, 1845.</p> </blockquote> <p>NPS Mobile App Users: <a href=\"https://www.nps.gov/media/video/view.htm?id=238F6ABC-D0FD-4BBE-9BA9-5621FA52D04B\">Click here to watch a video of a ranger in River Hall.</a> </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.1015,
+          37.1861
+        ]
+      },
+      "properties": {
+        "name": "Rotunda",
+        "notes": "Rotunda\nhttps://www.nps.gov/places/rotunda.htm\n\n<p>Welcome to “The Rotunda”. We are now approximately 140’ below the surface. To the right are two Great War Monuments dedicated in 1922 and 1929. This massive room is ¼ of an acre in size with a circular ceiling, and is the result of rivers that once flowed through these passages, carving away the limestone rock. Over time the water found cracks and weak spots in the layers, slowly making its way deeper into the layers. The unsupported rock gave away and settled to the floor, creating a natural breakout dome. In addition to leaving behind large passageways, the rivers left a thick layer of sediment on the cave floor.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.1015,
+          37.1858
+        ]
+      },
+      "properties": {
+        "name": "Rotunda - Beneath Your Feet",
+        "notes": "Rotunda - Beneath Your Feet\nhttps://www.nps.gov/places/rotunda-beneath-your-feet.htm\n\n<p>In 1810 a gentleman from Bowling Green, Ky visited the Mammoth Cave and upon entering the rotunda he proclaimed in a letter to a friend, </p> <blockquote> <p><em>“at the termination of these narrows you are ushered into one of the most sublimely beautiful and picturesque amphitheaters in the world”.</em></p> </blockquote> <p>The Rotunda, one of the most visited areas in the cave is a large circular room that is the sixth largest room, about a quarter acre in size.  In the center of the room are the leaching vats from the early salt petre operation. To the right are the two Great War Monuments dedicated in 1922 and 1929. It looks as though swirling water created the circular shape ceiling when, it’s where large slabs of limestone have fallen out creating a breakout dome.  <br /> <br /> NPS Mobile App Users: <a href=\"https://www.nps.gov/media/video/view.htm?id=4A5174A5-9608-4C40-9ED0-EB769DFEE6B2\">Click here to watch a video of a ranger in the Rotunda.</a> </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.0987,
+          37.1849
+        ]
+      },
+      "properties": {
+        "name": "Saltpetre Vats (Booth’s)",
+        "notes": "Saltpetre Vats (Booth’s)\nhttps://www.nps.gov/places/saltpetre-vats-booth-s.htm\n\n<p>In this location, there are seven leeching vats and other pieces of dirt processing works. They are part of the original operation preserved by the constant cave environment. Many individual pieces have been moved through the years for reasons such as: creating seating for church services, bonfires to keep visitors warm and various trail projects while privately owned.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.1015,
+          37.1861
+        ]
+      },
+      "properties": {
+        "name": "Saltpetre Vats (Rotunda)",
+        "notes": "Saltpetre Vats (Rotunda)\nhttps://www.nps.gov/places/saltpetre-vats-rotunda.htm\n\n<p paraeid=\"{9edcf8ae-e62e-465c-bb95-77f501be8395}{145}\" paraid=\"491338201\">In the center of the room there are three large square boxes and the remaining scaffolding where a holding tank once stood. Early settlers who entered the cave discovered the sediment was rich in calcium nitrate, a mineral that sparks when exposed to a flame. They figured out how to process the soil on a large scale by gathering dirt in these boxes. They engineered a piping system from hollowed out tulip poplar logs, sharpening one end, and forcing it into the blunted end of the next log. Pipes carried water from the waterfall at the entrance of the cave to these leeching vats. The water slowly seeped through the layers of dirt, pulling with it the nitrates from the soil. The muddy solution would travel through the filter made by the interlocking logs at the bottom, separating debris from the nitrate rich water. The mixture was piped to the surface and placed in large cauldrons where workers would add some ingredients and then boil it down until all that was left was a crystal known as <a href=\"https://www.nps.gov/articles/000/saltpetre-mining.htm\">saltpetre</a>. This crystal is the number one ingredient of black gun powder. America was still young at the time of this operation and the saltpetre created here became very important during the War of 1812. By the end of the war in 1815, America had maintained its freedom. Unfortunately, the majority of the workers in the saltpetre production were enslaved men who would not reap the benefit of freedom for themselves. <br /> <br /> With the end of saltpetre production a new means of industry would develop here at Mammoth Cave. A steel door was installed in the Houchin’s Narrows barring entry. Curious bystanders would now need to purchase a ticket to gain entry into the darkness. Parties were led by local guides that had knowledge of the cave. By 1816, tourism would become the new business model for Mammoth Cave. What do you think it was like for those early visitors?</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.0943,
+          37.182
+        ]
+      },
+      "properties": {
+        "name": "Star Chamber - Beneath Your Feet",
+        "notes": "Star Chamber - Beneath Your Feet\nhttps://www.nps.gov/places/star-chamber-beneath-your-feet.htm\n\n<p>Visitors will enter the cave by lantern light for the Star Chamber tour, you will learn of the early travels of both guides and visitors in the 1800’s. On your way to the Star Chamber you will hear stories about the tuberculosis patients who sought for a cure inside the cave and view numerous signatures and rock formations left by visitors who sought memorable experiences over a hundred years ago. When visiting Mammoth Cave’s Star Chamber, you may feel as though you are above ground gazing at the night sky.  Instead, you will be standing 189 feet below this spot.  Your eyes will be fooled by light specks on the ceiling where people in the past threw rocks to knock patches of sooted gypsum from the ceiling.   <br /> <br /> One famous visitor, Ralph Waldo Emerson referred to Star Chamber in his 1857 essay, Illusions.   </p> <blockquote> <p><em>“I saw or seemed to see the thick with stars glimmering over our heads.  All the party were touched with astonishment and pleasure.” </em><br />  </p> </blockquote> <p>NPS Mobile App Users: <a href=\"https://www.nps.gov/media/video/view.htm?id=E67A6863-4475-46F0-A69A-D9E5B2EFD7F6\">Click here to watch a video of a ranger in Star Chamber.</a></p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.1069149,
+          37.187283901
+        ]
+      },
+      "properties": {
+        "name": "Sunset Point",
+        "notes": "Sunset Point\nhttps://www.nps.gov/places/sunset-point.htm\n\nAs you may have guessed, this overlook is ideal for taking in the setting sun over the forested hills of the park. This scenic view also showcases the deep river valley of the Green River that cuts the park into two parts.<br /> Sunset Point is about half-way along the Heritage Trail, a wheelchair accessible .5 mile <a href=\"https://www.nps.gov/maca/planyourvisit/visitor-center-area-and-south-side-trails.htm\">hiking trail near the visitor center</a>. More information panels can be found along the Heritage Trail, as well as the <a href=\"https://www.nps.gov/places/old-guide-s-cemetery.htm\">Old Guide's Cemetery</a>. ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.10392523765564,
+          37.185790280815894
+        ]
+      },
+      "properties": {
+        "name": "Sunset Terrace",
+        "notes": "Sunset Terrace\nhttps://www.nps.gov/places/sunset-terrace.htm\n\n<p>The Sunset Terrace is located a 5 minute walk from the visitor center and less than that to Sunset Point, a popular overlook along the Heritage Trail which provides a view of the green river valley.<br /> Rooms offer classic hotel amenities including tv, wifi, and air-conditioning. Parking, including wheelchair accessible parking, is available directly adjacent to the rooms. <br /> Nightly rates start at $136.<br /> Learn more or make a reservation at <a href=\"https://mammothcavelodge.com/lodging/\">mammothcavelodge.com/lodging/</a></p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.0953,
+          37.1827
+        ]
+      },
+      "properties": {
+        "name": "TB Huts",
+        "notes": "TB Huts\nhttps://www.nps.gov/places/tb-huts.htm\n\n<p paraeid=\"{7798fb4d-c8f8-4aa2-b10f-1f394513c844}{90}\" paraid=\"979859833\">These two stone huts are the last that remain of an <a href=\"https://www.nps.gov/articles/tuberculosis-mammoth-cave.htm\">experimental treatment to cure a disease</a> in the early 1800s known as ‘Consumption’. The same illness is still around today but we know it as Tuberculosis. In 1839, Dr. John Croghan purchased Mammoth Cave from Franklin Gorin for $10,000.00. He became fascinated with the preservative qualities of the cave environment and thought the cave air might be the key to curing this disease. <br /> <br /> Inside the cave two stone huts and eight wooden huts were built, to function as a sanitorium where patients could “take in the airs.” Sickened individuals lived in the cave for up to five months without seeing the light of day. In the beginning the patients claimed to be feeling better but it was simply the improved morale. Long exposure to cooking and heating fires in the cold clammy cave wrecked havoc on their weakened conditions. The cure for consumption would not be found in the depths of Mammoth Cave. <br /> <br /> The eight wooden huts are no longer standing due to development of tourist trails and people venturing too close to the historic buildings. The second stone building in the distance had to be stabilized. The reconstruction of the shelter left some of the walls incomplete.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.0953,
+          37.1827
+        ]
+      },
+      "properties": {
+        "name": "TB Huts - Beneath Your Feet",
+        "notes": "TB Huts - Beneath Your Feet\nhttps://www.nps.gov/places/tb-huts-beneath-your-feet.htm\n\n<p>Dr. John Croghan’s original interest in the cave came about after reading in the journals of the day, accounts of the preservative qualities of the cave, how timbers from the old nitre mine, now more than 30 years old, had not even begun to rot, bodies of dead bats,  and even the bodies of desiccated remains of prehistoric explorers had been found in the cave and remained perfectly intact and undecayed. The agent, the doctor surmised must be the cave air.  In 1839 Dr. Croghan purchased the cave from Franklin Gorin for $10,000.00, slaves and all. <br /> <br /> Dr. Croghan sent his slaves into the cave to construct a series of buildings, two of stone, eight of wood, to function as a sanitorium where his patients could “take the airs.”  Dr. Croghan led his patients into the cave to their new residence, where they remained for weeks. <br /> <br /> At first the patients claimed to be improving, Dr. Croghan, anticipating success began to draw up plans for a hotel to be built inside the cave.  But as time passed it became obvious that the patients’ claims only came from improved moral.  The smoke from the cooking and heating fires, the cold clammy cave air began to ravage lungs already weakened by disease. <br /> <br /> In all, five patients perished underground, admitting at last that his experiment had failed Dr. Croghan brought the surviving patients back to the surface.  Dr. Croghan himself would struggle with tuberculosis until it claimed his life in 1849.  His will would grant ownership of the cave to his heirs, nine nieces and nephews and would remain in that family until the 1920’s. <br /> <br /> NPS Mobile App Users: <a href=\"https://www.nps.gov/media/video/view.htm?id=4DBF1A00-A323-41B1-A30B-55C453656000\">Click here to watch a video of a ranger at the TB Huts.</a></p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.24924182891846,
+          37.2752138939542
+        ]
+      },
+      "properties": {
+        "name": "Tailwater Recreation Area",
+        "notes": "Tailwater Recreation Area\nhttps://www.nps.gov/places/tailwater-recreation-area.htm\n\n<p>The Tailwater Recreation Area, at the base of the Nolin River Dam, serves as a recreation access point for the Nolin River before it flows into Mammoth Cave National Park, and joins the Green River. This small day-use area is managed by the <a href=\"https://www.lrl.usace.army.mil/Missions/Civil-Works/Recreation/Lakes/Nolin-River-Lake/\">US Army Corps of Engineers (USACE).</a><br /> <br /> A paved boat ramp provides access to <a href=\"https://www.nps.gov/maca/planyourvisit/canoeing-kayaking-and-boating.htm\">canoers, kayakers, and boaters</a> wanting to access the national park on the Nolin River. The site also has restrooms, picnic tables, and a playground. </p> <h2>Nolin: The Story Behind the Name</h2> <p>The Nolin River is named for the early American explorer and Kentucky militia member, Benjamin Lynn. Serving under George Rogers Clark during the Revolutionary War, Lynn traveled to Illinois to spy on the British and Indian forces, and also played a pivotal role in the Northwest Campaign on 1778-79. Following his return to Kentucky, Lynn and several friends were camped in the Green River Area. Lynn became separated from his friends and could not be found for several days. Each night, they returned from the search reporting “No Lynn.” The river at which they camped became known as the Nolin.</p> <p>Many of the early settlers in the area around the Nolin River came from Nordic regions which is reflected in community names such as Stockholm and Sweeden. Others came from France, showing influence through community names like Moutardier and Chalybeate. Rich in culture, the local area mirrors history and tradition in small businesses around the lake.</p> <h2>Contact Nolin River Lake USACE</h2> <p>For more information about the Tailwater Recreation area, please contact Nolin River Lake USACE.</p> <table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width:500px;\"> <tbody> <tr> <td> <p>Phone:</p> </td> <td> <p>(270) 286-4511 </p> </td> </tr> <tr> <td> <p>Mailing Address:</p> </td> <td> <p>P.O. Box 339 <br /> Bee Spring, KY 42207 </p> </td> </tr> <tr> <td> <p>Physical Address:</p> </td> <td> <p>2150 Nolin Dam Road <br /> Bee Spring, KY 42207  </p> </td> </tr> <tr> <td> <p>If using GPS:</p> </td> <td> <p>2150 Nolin Dam Road <br /> Mammoth Cave, KY </p> </td> </tr> </tbody> </table> <p>Office Hours: Monday–Thursday, 6:30 am – 4 pm and Friday 6:30 am – 3 pm (Central Time)  (times may vary, please call ahead) </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.096,
+          37.1832
+        ]
+      },
+      "properties": {
+        "name": "The Acute Angle",
+        "notes": "The Acute Angle\nhttps://www.nps.gov/places/the-acute-angle.htm\n\n<p>The Acute Angle marks where the paving stones end and the historic Civilian Conservation Corp trail begins. This particular spot earned its name by the sharp elbow created as the ancient rivers flowed in this area. Acute Angle is the point located to left as you make the turn.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.0965,
+          37.1828
+        ]
+      },
+      "properties": {
+        "name": "The Bridal Altar - Beneath Your Feet",
+        "notes": "The Bridal Altar - Beneath Your Feet\nhttps://www.nps.gov/places/the-bridal-altar-beneath-your-feet.htm\n\n<p paraeid=\"{7ce14e0b-129c-4c9c-9c99-d215d36b999c}{196}\" paraid=\"733002623\">Located in Gothic Avenue Passage, you arrive at a large chamber with several dripstone columns, in one area of the chamber there are three very large dripstone columns known as the “Bridal Altar”. </p> <p paraeid=\"{7ce14e0b-129c-4c9c-9c99-d215d36b999c}{206}\" paraid=\"987907748\">In the 1800’s and 1900’s several couples got married at the dripstone formation known as “The Bridal Altar”. According to an 1800’s story, a bride who swore to her mother “never to marry any man on the face of the earth” kept her promise by marrying her love in Mammoth Cave, under the earth.   Weddings are no longer held in the cave, but subterranean proposals are still known to happen.  Gothic Avenue is host to some of the earliest 19th century tourism. Early visitors left behind signatures, monuments and artifacts in this area of the cave. <br /> <br /> NPS Mobile App Users: <a href=\"https://www.nps.gov/media/video/view.htm?id=9520DAF0-B5A1-491D-9187-BE4D51DE55D5\">Click here to watch a video of a ranger at the Bridal Altar.</a></p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.0995,
+          37.1852
+        ]
+      },
+      "properties": {
+        "name": "The Church",
+        "notes": "The Church\nhttps://www.nps.gov/places/the-church.htm\n\n<p paraeid=\"{ceb12437-6283-4981-b398-a4a558145ef6}{253}\" paraid=\"638581727\">This is a large canyon room; the ceiling is about 50 feet high. To the left of the room is the Church, you are looking at a breakdown of large rocks. To the left of the breakdown is a prominent ledge 15 feet high called the Pulpit Rock. Along the ledge of the Pulpit, the walls are blackened with soot from lanterns and torch throwing by guides through the years. Special services were held in the cave during the mid 1800s. <br /> <br /> On the right side of the room, there is a set of hollowed out Tulip Poplar logs. The pipes are supported by a triangular scaffold, just as they would have been during their use in saltpetre mining. These pipes would service the next set of leeching vats.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.0957,
+          37.1836
+        ]
+      },
+      "properties": {
+        "name": "The Giant’s Coffin",
+        "notes": "The Giant’s Coffin\nhttps://www.nps.gov/places/the-giant-s-coffin.htm\n\n<p paraeid=\"{0ebb088f-1a76-476d-8987-eac968103ee0}{59}\" paraid=\"849187545\">This large boulder is 48 feet in length, 20 feet in height and Eight feet wide. It weighs approximately 1,000 tons. On the surface you can see many historic signatures, as well as some not so historic signatures. Names like J.N. McDowell M.D., 1839 is considered historic. The signature was scribed before the cave became a national park in 1941. After the establishment of the national park, marking on the cave walls became a federal offense. The earliest name for this particular landmark was “Steamboat”, by the 1840’s visitors decided it looked more like a giant’s coffin.<br /> <br /> Guides began to weave tales about a race of giants that once roamed this land. The smallest among them began to venture daily into these depths. Inside the cave he found a world untouched by the light and filled with strange creatures living in the darkness. The young giant named Cozad befriended the creatures, promising to protect them and their home. Local tribes would bring offerings to the cave entrance daily for the kind giant. As time passed, days became years and years became centuries but each night the offerings would be gone. A peaceful relationship developed between the tribes and Cozad. Entry to this underworld would remain open as long as no harm came to the cave or to those that dwelled there.<br /> <br /> One night, a tribal warrior was on patrol around the entrance and noticed the offerings had not been accepted. Tribal leaders were worried they had offended the giant. So they sent their finest warriors and scholars on a pilgrimage to find the gentle giant and to assure the treaty was still in place. With their torches held high, the group journeyed into the depths. Shadows danced in the flickering amber light that stretched up against the ashen stone walls. Pushing deeper into the quiet void, they found the aged gentle giant sleeping on the stone floor. They tried many things to rouse him but he would not stir. <br /> <br /> The tribe built the stone coffin that protects him today. For it is told that one day when his cave friends need him, the giant shall rise from his slumber and walk these passages once more. Till that day, people like you and I can help protect this subterranean world for future generations.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.1011976035968,
+          37.185971303905745
+        ]
+      },
+      "properties": {
+        "name": "The Lodge at Mammoth Cave",
+        "notes": "The Lodge at Mammoth Cave\nhttps://www.nps.gov/places/the-lodge-at-mammoth-cave.htm\n\n<p>The Lodge at Mammoth Cave is conveniently located across the pedestrian bridge from the visitor center. Stay in one of the ADA accessible Heritage Trail Rooms located just down the hall from where you check in for your stay with the lodge. Nightly rates start at $136.<br /> Learn more about room and cabin options, the day-boarding kennel for your pets, and make a reservation at <a href=\"https://mammothcavelodge.com/lodging/\">mammothcavelodge.com/lodging/</a><br /> <br /> You'll find dining options at the lodge - grab a quick bite at the Spelunker's Cafe, or sit down for a Kentucky style meal at the Green River Grille. Souvenirs and gifts to remember your visit to the park are also available at the two gift shops in the lodge.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Turnhole Bend Overlook",
+        "notes": "Turnhole Bend Overlook\nhttps://www.nps.gov/places/turnhole-bend-overlook.htm\n\n<p>This overlook is located about half-way along the 0.5 mi (0.8 km) loop trail. The overlook provides a scenic view of the northside, a section accessed by the <a href=\"https://www.nps.gov/places/green-river-ferry.htm\">Green River Ferry</a> within the park.<br /> Depending on season and leaf cover, there may also be a view of Turnhole Bend Spring. When river travel was common, this spring area connecting to the Green River provided a wide enough space for river boats to turn around safely. While this turn around area is no longer used, the name remains as an artifact of that time period.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.0964,
+          37.1842
+        ]
+      },
+      "properties": {
+        "name": "Water Clock",
+        "notes": "Water Clock\nhttps://www.nps.gov/places/water-clock.htm\n\n<p>If you listen closely, you can hear the sound of water dripping. On the surface, water has found a weak spot in the sandstone caprock and over time has dripped down creating a vertical shaft. It was here that early guides would stop with their groups and spin a tale about being able to tell what time it was by the steady dripping of the water. The story has been passed down through generations of guides. Earning this location the name, “The Water Clock”. Is it possible to tell the correct time by the dripping? … This is simply a tall tale. The drip rate is never constant due to the rainfall from the surface. </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.1068,
+          37.187
+        ]
+      },
+      "properties": {
+        "name": "Watson Trace - Beneath Your Feet",
+        "notes": "Watson Trace - Beneath Your Feet\nhttps://www.nps.gov/places/watson-trace-beneath-your-feet.htm\n\n<p>Researchers working 161 feet beneath your feet in the late 1990’s felt a breeze coming from between some rocks – a hint that a void lay beyond. Moving rocks, they crawled into a passage shown on no map. Their lights found burnt touches, untouched since the last visitors left them – over 2000 years earlier. The researchers left until they could bring an archaeologist with them to record the find. In time, they would name the new passage “Watson Trace” after archaeologist Patty Jo Watson and geologist Red Watson, whose research here led to much of what we know today about Mammoth Cave’s ancient explorers. This section of the cave is not open to the public. <br /> <br /> NPS Mobile App Users: <a href=\"https://www.nps.gov/media/video/view.htm?id=C67BF6F7-FB1A-4D3D-911B-67AAC53826CD\">Click here to watch a video of a ranger at Watson Trace.</a> </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.10007128570557,
+          37.188925984736535
+        ]
+      },
+      "properties": {
+        "name": "Woodland Cottages",
+        "notes": "Woodland Cottages\nhttps://www.nps.gov/places/woodland-cottages.htm\n\n<p>The Woodland Cottages offer a rustic stay In Mammoth Cave National Park while providing conveniences above camping.<br /> Located just across the parking lot from the visitor center, these convenient cottages are available seasonally, Memorial Day Weekend to November 30th. Cottages do not have heat, air-conditioning, tv, or wifi. Pets are allowed. Nightly rates start at $71.<br /> Learn more or make a reservation at <a href=\"https://mammothcavelodge.com/lodging/\">mammothcavelodge.com/lodging/</a></p>",
+        "icon": "red-pin-down.png"
+      }
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+[
+  {
+    "id": "0E0516D3-A661-442B-A91A-4E0FDB5A06DD",
+    "url": "https://www.nps.gov/places/new-england-national-scenic-trail.htm",
+    "title": "New England National Scenic Trail",
+    "listingDescription": "From the Sound to the Summits: the New England Trail covers 215 miles from Long Island Sound across long ridges to scenic mountain summits in Connecticut and Massachusetts. The trail offers panoramic vistas and close-ups of New England’s natural and cultural landscape: traprock ridges, historic village centers, farmlands, unfragmented forests, quiet streams, steep river valleys and waterfalls.",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/place/nri/20180802/places/D59573B1-F4A3-494C-EF07B1747F793BFC/D59573B1-F4A3-494C-EF07B1747F793BFC.jpg",
+        "credit": "New England Trail Committee",
+        "altText": "2 people stand on a cliff's edge, the sunset colors the valley below.",
+        "title": "",
+        "description": "",
+        "caption": "",
+        "crops": []
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "MA,CT",
+        "parkCode": "neen",
+        "designation": "National Scenic Trail",
+        "fullName": "New England National Scenic Trail",
+        "url": "https://www.nps.gov/neen/index.htm",
+        "name": "New England"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [
+      "national scenic trail",
+      "trail",
+      "New England",
+      "hiking",
+      "Find Your Park"
+    ],
+    "latitude": "42.111149368075914",
+    "longitude": "-72.68707036972046",
+    "latLong": "42.111149368075914,-72.68707036972046",
+    "bodyText": "<p>The New England National Scenic Trail (NET) is a 215-mile hiking trail route that has been in existence for over half a century. The NET travels through 41 communities in Connecticut and Massachusetts, and is comprised primarily of the historic Mattabesett, Metacomet, and Monadnock (M-M-M) Trail systems.<br /> <br /> The NET  travels through classic New England landscape features: long-distance vistas with rural towns as a backdrop, agrarian lands, un-fragmented forests, and large river valleys. The trail also travels through colonial historical landmarks and highlights a range of diverse ecosystems and natural resources:  mountain ridges and summits, forested glades, wetlands and vernal pools, lakes, streams and waterfalls.<br />  </p> <p>The NET was designated on March 30, 2009 as part of Public Law 111-11 (<a href=\"https://newenglandtrail.org/sites/default/files/omnibuspubliclandmanagementact2009_sec_5202.pdf\">Section 5202</a>). The law references the Trail Management Blueprint described in the report titled the ‘<a href=\"https://newenglandtrail.org/sites/default/files/nps_final_report.pdf\">Metacomet Monadnock Mattabesett Trail System National Scenic Trail Feasibility Study and Environmental Assessment</a>’, prepared by the National Park Service, and dated Spring 2006, as the framework for trail management and administration.<br /> <br /> Since the federal designation in 2009, there have been some noteworthy changes to the historic route, including a 4-mile extension to Long Island Sound in Connecticut and a 22+ mile eastward deviation from the historic Metacomet-Monadnock Trail in Massachusetts.</p>",
+    "audioDescription": "",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "https://www.newenglandtrail.org/",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "2889e556-9523-42c5-85d5-b4f37979b75a",
+    "geometryPoiId": "",
+    "isManagedByNps": "0",
+    "amenities": [],
+    "managedByOrg": "Connecticut Forest & Park Association/Appalachian Mountain Club",
+    "quickFacts": [
+      {
+        "id": "5C252B96-2DEB-4EF4-91D1-B5D2B202FCD7",
+        "value": "Massachusetts & Connecticut ",
+        "name": "Location"
+      },
+      {
+        "id": "208F1B3C-44DC-4CF5-9A61-9B26A364D701",
+        "value": "The trail highlights colonial historical landmarks, a range of diverse ecosystems and natural resources: mountain ridges and summits, forested glades, wetlands and vernal pools, lakes, streams and waterfalls.",
+        "name": "Significance"
+      },
+      {
+        "id": "E32D2136-A184-4C1A-91D2-4C20CEF9CBAF",
+        "value": "National Scenic Trail ",
+        "name": "Designation"
+      }
+    ],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  }
+]

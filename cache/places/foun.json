@@ -1,0 +1,111 @@
+[
+  {
+    "id": "FBA6B6C6-6B29-456F-9470-7086D4972D0C",
+    "url": "https://www.nps.gov/places/fort-union-national-monument-the-santa-fe-trail.htm",
+    "title": "Fort Union National Monument, the Santa Fe Trail",
+    "listingDescription": "Fort Union commanded the intersection of the Mountain and Cimarron Branches of the Santa Fe Trail. In a larger sense the fort served as symbol and substance of national power in a vast new acquisition far removed from the eastern heartland. In this context the Santa Fe Trail changed from route of commerce to military lifeline.",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/2D5CEAAB-AA52-8EE3-3610F0C38F5D2966.jpg",
+        "credit": "NPS Photo",
+        "altText": "A stone path leads by the ruins of a wall of an old fort.",
+        "title": "Fort Union Santa Fe Trail",
+        "description": "",
+        "caption": "Visit Fort Union National Monument",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/2D5CEAAB-AA52-8EE3-3610F0C38F5D2966.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/2D5CEAAB-AA52-8EE3-3610F0C38F5D2966.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "NM",
+        "parkCode": "foun",
+        "designation": "National Monument",
+        "fullName": "Fort Union National Monument",
+        "url": "https://www.nps.gov/foun/index.htm",
+        "name": "Fort Union"
+      },
+      {
+        "states": "CO,KS,MO,NM,OK",
+        "parkCode": "safe",
+        "designation": "National Historic Trail",
+        "fullName": "Santa Fe National Historic Trail",
+        "url": "https://www.nps.gov/safe/index.htm",
+        "name": "Santa Fe"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [
+      "Santa Fe Trail",
+      "historic trail",
+      "National Trails",
+      "national historic trail",
+      "place",
+      "Fort Union",
+      "National Monument",
+      "New Mexico",
+      "passport stamp"
+    ],
+    "latitude": "35.90705871582031",
+    "longitude": "-105.01239776611328",
+    "latLong": "35.90705871582031,-105.01239776611328",
+    "bodyText": "<p>Fort Union commanded the intersection of the Mountain and Cimarron Branches of the Santa Fe Trail. In a larger sense the fort served as symbol and substance of national power in a vast new acquisition far removed from the eastern heartland. In this context the Santa Fe Trail changed from route of commerce to military lifeline.</p> <p>Founded in 1851, Fort Union served both military and logistical functions. During the first few years, Fort Union's mounted troops patrolled the trail. Later, the fort provided escorts for mail stages. Until the Civil War period, wagon trains usually provided their own defense. Then the combination of Indian uprisings and raids by Texas-based Confederates forced a new regime of patrols, escorts, and subposts to protect all travelers and keep open the critical link between the Southwest and the States.</p> <p>The start of the Civil War had brought a serious military threat to the trail and to Fort Union itself with a brigade size Confederate invasion that aimed to capture the western portions of the trail and the Colorado gold fields. <a href=\"https://www.nps.gov/foun/learn/historyculture/cultural-encounters.htm\">Read more...</a></p> <h2>Site Information </h2> <p><strong>Location</strong> (3115 NM Highway 161 Watrous, NM)</p> <p><em><a href=\"https://www.nps.gov/oreg/planyourvisit/safety.htm\">Safety Considerations</a></em></p> <h3><a href=\"https://www.nps.gov/foun/index.htm\">Fort Union National Monument</a></h3> <h2><a href=\"https://www.nps.gov/safe/index.htm\">Santa Fe National Historic Trail</a></h2>",
+    "audioDescription": "",
+    "isPassportStampLocation": "1",
+    "passportStampLocationDescription": "You can earn a Santa Fe National Historic Trail passport stamp at this site. Check operating hours for stamp locations and information.",
+    "passportStampImages": [
+      {
+        "credit": "",
+        "description": "",
+        "crops": [
+          {
+            "aspectRatio": 1,
+            "url": "https://www.nps.gov/common/uploads/passport_stamps/primary/D425D156-A29D-224F-96DF72EA9B844B5B.jpeg"
+          }
+        ],
+        "altText": "Passport Stamp Icon with a banner \"Passport to History\".",
+        "title": "SAFE Passport Icon",
+        "caption": "",
+        "url": "https://www.nps.gov/common/uploads/passport_stamps/D425D156-A29D-224F-96DF72EA9B844B5B.jpeg"
+      }
+    ],
+    "managedByUrl": "",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "69d969d6-c53a-43dc-83bb-e02cb9540040",
+    "geometryPoiId": "",
+    "isManagedByNps": "1",
+    "amenities": [],
+    "managedByOrg": "",
+    "quickFacts": [
+      {
+        "id": "5C252B96-2DEB-4EF4-91D1-B5D2B202FCD7",
+        "value": "3115 NM Highway 161 Watrous, NM",
+        "name": "Location"
+      },
+      {
+        "id": "208F1B3C-44DC-4CF5-9A61-9B26A364D701",
+        "value": "Major supply fort on the Santa Fe Trail",
+        "name": "Significance"
+      },
+      {
+        "id": "E32D2136-A184-4C1A-91D2-4C20CEF9CBAF",
+        "value": "National Monument",
+        "name": "Designation"
+      }
+    ],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  }
+]

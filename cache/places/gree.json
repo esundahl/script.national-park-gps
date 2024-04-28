@@ -1,0 +1,622 @@
+[
+  {
+    "id": "DD3BEEC5-C606-4BF9-8F0A-8C590723FD72",
+    "url": "https://www.nps.gov/places/azalea-trail.htm",
+    "title": "Azalea Trail",
+    "listingDescription": "",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/A452801B-F8C4-D26C-B9FEF3622E903903.jpg",
+        "credit": "NPS",
+        "altText": "trail head with Azalea trail sign and trees",
+        "title": "Discover nature on the Azalea Trail",
+        "description": "",
+        "caption": "Enjoy a 1,2 mile walk through the forest of Greenbelt Park",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/A452801B-F8C4-D26C-B9FEF3622E903903.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/A452801B-F8C4-D26C-B9FEF3622E903903.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "MD",
+        "parkCode": "gree",
+        "designation": "Park",
+        "fullName": "Greenbelt Park",
+        "url": "https://www.nps.gov/gree/index.htm",
+        "name": "Greenbelt"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [
+      "hike",
+      "hiking",
+      "opt outside",
+      "find you park",
+      "find your trail",
+      "trail"
+    ],
+    "latitude": "38.99445939759209",
+    "longitude": "-76.89510488489053",
+    "latLong": "38.99445939759209,-76.89510488489053",
+    "bodyText": "<h2>Walk the Azalea Trail through the forest of Greenbelt Park. (1.2 miles)</h2> <h3>The trailheads begin in the Sweetgum picnic area and ends in the Sweetgum Picnic area. Pick up a park brochure with trail maps and descriptions included in the brochure) and enjoy a 1.2 mile walk. <br /> <b>Parking available at the Sweetgum Picnic Area.</b></h3>",
+    "audioDescription": "1.2 mile trail that meanders through the forest of Greenbelt Park. The trail is eight feet across and the ground is dirt with occasional packed stone. Along the 1.2 miles, you will see Still Creek on your right from the 0.2 to 0.4 mile markers. Along the trail, you have the possibility of white tailed deer, woodpeckers, squirrels, and other forest animals.Greenbelt Park is located in suburban Maryland so there is no chance to see any bears.",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "https://www.nps.gov/gree/index.htm",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "",
+    "isManagedByNps": "1",
+    "amenities": [
+      "Trailhead",
+      "Trash/Litter Receptacles"
+    ],
+    "managedByOrg": "National Park Service",
+    "quickFacts": [
+      {
+        "id": "5C252B96-2DEB-4EF4-91D1-B5D2B202FCD7",
+        "value": "Greenbelt Park ",
+        "name": "Location"
+      },
+      {
+        "id": "E32D2136-A184-4C1A-91D2-4C20CEF9CBAF",
+        "value": "National Park Service trail ",
+        "name": "Designation"
+      }
+    ],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  },
+  {
+    "id": "479D9BDF-1DE8-4B72-958E-256459B3A044",
+    "url": "https://www.nps.gov/places/dogwood-trail.htm",
+    "title": "Dogwood Trail",
+    "listingDescription": "Dogwood trail is located along Park Central Road in Greenbelt Park.",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/087CAAB7-9946-D306-361F4F4A460376CC.jpg",
+        "credit": "NPS",
+        "altText": "Dogwood trailhead",
+        "title": "Dogwood Trailhead",
+        "description": "",
+        "caption": "Enjoy a 1.4 mile walk through the forest of Greenbelt Park",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/087CAAB7-9946-D306-361F4F4A460376CC.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/087CAAB7-9946-D306-361F4F4A460376CC.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "MD",
+        "parkCode": "gree",
+        "designation": "Park",
+        "fullName": "Greenbelt Park",
+        "url": "https://www.nps.gov/gree/index.htm",
+        "name": "Greenbelt"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [],
+    "latitude": "38.98834440888899",
+    "longitude": "-76.89750862121582",
+    "latLong": "38.98834440888899,-76.89750862121582",
+    "bodyText": "<h2><strong>Dogwood Trail</strong></h2> <h3>The trailhead begins and ends in the Dogwood parking area. Enjoy a 1.4 or 1.6 mile walk through the forest of Greenbelt Park. </h3>",
+    "audioDescription": "1.4 mile trail that meanders through the forest of Greenbelt Park. The trail is eight feet across and the ground is dirt with occasional packed stone. Along the trail, you have the possibility of white tailed deer, woodpeckers, squirrels, and other forest animals..Greenbelt Park is located in suburban Maryland so there is no chance to see any bears.",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "",
+    "isManagedByNps": "1",
+    "amenities": [
+      "Parking - Auto",
+      "Trailhead"
+    ],
+    "managedByOrg": "National Park Service",
+    "quickFacts": [
+      {
+        "id": "5C252B96-2DEB-4EF4-91D1-B5D2B202FCD7",
+        "value": "Greenbelt Park ",
+        "name": "Location"
+      },
+      {
+        "id": "E32D2136-A184-4C1A-91D2-4C20CEF9CBAF",
+        "value": "National Park Service trail ",
+        "name": "Designation"
+      }
+    ],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  },
+  {
+    "id": "FE831E1C-CF1B-4849-B6B3-9CE9C54CC208",
+    "url": "https://www.nps.gov/places/000/greenbelt-park.htm",
+    "title": "Greenbelt Park",
+    "listingDescription": "Greenbelt Park is a forested oasis amid the city, and the closest campground to the White House. The park offers camping and ranger programs. Metro accessible via a short hike.",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/9D6448CE-D049-5671-C8D2978D365B1C71.jpg",
+        "credit": "",
+        "altText": "A tent in the campground with the Fall colors surrounding the campsite",
+        "title": "Greenbelt in the Fall",
+        "description": "",
+        "caption": "Greenbelt in the Fall",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/9D6448CE-D049-5671-C8D2978D365B1C71.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/9D6448CE-D049-5671-C8D2978D365B1C71.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "MD",
+        "parkCode": "gree",
+        "designation": "Park",
+        "fullName": "Greenbelt Park",
+        "url": "https://www.nps.gov/gree/index.htm",
+        "name": "Greenbelt"
+      },
+      {
+        "states": "DC",
+        "parkCode": "nace",
+        "designation": "",
+        "fullName": "National Capital Parks-East",
+        "url": "https://www.nps.gov/nace/index.htm",
+        "name": "National Capital Parks-East"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [],
+    "latitude": "38.995845",
+    "longitude": "-76.895192",
+    "latLong": "38.995845,-76.895192",
+    "bodyText": "<p>Greenbelt Park is a forested oasis amid the city, and the closest campground to the White House. The park offers camping and ranger programs. Metro accessible via a short hike.</p>",
+    "audioDescription": "",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "",
+    "isManagedByNps": "1",
+    "amenities": [
+      "Grill",
+      "Picnic Table",
+      "Restroom",
+      "Wheelchair Accessible"
+    ],
+    "managedByOrg": "",
+    "quickFacts": [],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  },
+  {
+    "id": "DEF1494A-2355-4151-8636-3315A8E65AB7",
+    "url": "https://www.nps.gov/places/holly-picnic-area.htm",
+    "title": "Holly Picnic Area - Reservations Only",
+    "listingDescription": "There is an asphalt parking area with ninety nine spaces. There is a accessible bathroom facility. There are 15 recycled plastic picnic tables scattered under the tree covering.  ",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/0FB9A34E-BF9C-AD68-E7843717B7AFACB6.jpg",
+        "credit": "NPS / Claire Hassler",
+        "altText": "A sign in front of a wooded picnic area",
+        "title": "Holly Picnic Area - Reservations Only",
+        "description": "",
+        "caption": "Holly Picnic Area - Reservations Only",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/0FB9A34E-BF9C-AD68-E7843717B7AFACB6.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/0FB9A34E-BF9C-AD68-E7843717B7AFACB6.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "MD",
+        "parkCode": "gree",
+        "designation": "Park",
+        "fullName": "Greenbelt Park",
+        "url": "https://www.nps.gov/gree/index.htm",
+        "name": "Greenbelt"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [],
+    "latitude": "38.9935751802",
+    "longitude": "-76.8902741481",
+    "latLong": "38.9935751802,-76.8902741481",
+    "bodyText": "<p>The Holly Picnic Area is located near the entrance of the park. When entering the park, proceed to the stop sign. Make a left turn and the Holly picnic area is on your right hand side.<br /> <br /> The Holly picnic area can accomodate up to 200 people. There are 99 parking spaces. There are picnic tables and restrooms. A Recreation Fee is charged according to the number of particpants.<br /> <br /> <a href=\"https://www.recreation.gov/camping/campgrounds/251624\">Make a reservation</a></p>",
+    "audioDescription": "There is an asphalt parking area with ninety nine spaces. There is a accessible bathroom facility. There are 15 recycled plastic picnic tables scattered under the tree covering of the park forest.  ",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "https://www.nps.gov/gree/index.htm",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "04a6ff91-2be8-403c-b1b5-6a7b41d1b714",
+    "isManagedByNps": "1",
+    "amenities": [
+      "Picnic Table",
+      "Trash/Litter Receptacles"
+    ],
+    "managedByOrg": "National Park Service",
+    "quickFacts": [
+      {
+        "id": "5C252B96-2DEB-4EF4-91D1-B5D2B202FCD7",
+        "value": "Greenbelt Park ",
+        "name": "Location"
+      },
+      {
+        "id": "E32D2136-A184-4C1A-91D2-4C20CEF9CBAF",
+        "value": "Reserved picnic area",
+        "name": "Designation"
+      }
+    ],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  },
+  {
+    "id": "D8544948-0A14-4B04-915E-A1C15B0ABDAA",
+    "url": "https://www.nps.gov/places/laurel-picnic-area-reservations-only.htm",
+    "title": "Laurel Picnic Area- Reservations Only",
+    "listingDescription": "Laurel reserved picnic area. When entering the park, proceed to the stop sign. Make a left turn, pass the Holly picnic area and Laurel picnic entrance will be on your right hand side. The Laurel picnic area can accomodate up to 200 people. There are 99 parking spaces. There are picnic tables and restrooms. A Recreation Fee is charged according to the number of particpants:",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/0FCA95D5-085F-629A-20E279E0F68DD1B2.jpg",
+        "credit": "NPS / Claire Hassler",
+        "altText": "A picnic area in the woods.",
+        "title": "Laurel Picnic Area- Reservations Only",
+        "description": "",
+        "caption": "Laurel Picnic Area- Reservations Only",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/0FCA95D5-085F-629A-20E279E0F68DD1B2.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/0FCA95D5-085F-629A-20E279E0F68DD1B2.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "MD",
+        "parkCode": "gree",
+        "designation": "Park",
+        "fullName": "Greenbelt Park",
+        "url": "https://www.nps.gov/gree/index.htm",
+        "name": "Greenbelt"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [],
+    "latitude": "38.99143733697883",
+    "longitude": "-76.8926453590393",
+    "latLong": "38.99143733697883,-76.8926453590393",
+    "bodyText": "<p>The Laurel Reserved Picnic Area is located on the loop of the park. When entering the park, proceed to the stop sign. Make a left turn and pass the Holly picnic area (on your right hand side) and proceed to Laurel Picnic Area on your right hand side. <br /> <br /> The Holly Reserved Picnic Area can accomodate up to 200 people. There are 99 parking spaces. There are picnic tables and restrooms. A Recreation Fee is charged according to the number of particpants.<br /> <br /> <a href=\"https://www.recreation.gov/camping/campgrounds/251624\">Make a reservation</a></p>",
+    "audioDescription": "There is an asphalt parking area with ninety nine spaces. There is a accessible bathroom facility. There are 15 recycled plastic picnic tables scattered under the tree covering of the park forest.  ",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "https://www.nps.gov/gree/index.htm",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "",
+    "isManagedByNps": "1",
+    "amenities": [
+      "Picnic Table"
+    ],
+    "managedByOrg": "National Park Service",
+    "quickFacts": [
+      {
+        "id": "5C252B96-2DEB-4EF4-91D1-B5D2B202FCD7",
+        "value": "Greenbelt Park ",
+        "name": "Location"
+      },
+      {
+        "id": "E32D2136-A184-4C1A-91D2-4C20CEF9CBAF",
+        "value": "Reserved picnic area",
+        "name": "Designation"
+      }
+    ],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  },
+  {
+    "id": "CFC2D147-CF9D-4EB7-AAEA-6F3CEDFD3920",
+    "url": "https://www.nps.gov/places/perimeter-trail.htm",
+    "title": "Perimeter Trail",
+    "listingDescription": "",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/0FDBE9A5-0669-E5D6-0F22FB5334F7D0BE.jpg",
+        "credit": "NPS / Claire Hassler",
+        "altText": "A sign with the words Perimeter Trail pointing to a trail in the woods",
+        "title": "Perimeter Trail",
+        "description": "",
+        "caption": "Perimeter Trail",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/0FDBE9A5-0669-E5D6-0F22FB5334F7D0BE.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/0FDBE9A5-0669-E5D6-0F22FB5334F7D0BE.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "MD",
+        "parkCode": "gree",
+        "designation": "Park",
+        "fullName": "Greenbelt Park",
+        "url": "https://www.nps.gov/gree/index.htm",
+        "name": "Greenbelt"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [
+      "hike",
+      "hiking",
+      "FindYourPark",
+      "Encuentra Tu Parque"
+    ],
+    "latitude": "38.995570603139996",
+    "longitude": "-76.89438739352883",
+    "latLong": "38.995570603139996,-76.89438739352883",
+    "bodyText": "<h2>Perimeter Trail<br /> <br /> Enjoy the 5.3 mile Perimeter Trail.</h2> <h3>If arriving by vehicle, parking is available at the Sweetgum Picnic area.<br /> If arriving by foot, the beginning of the Perimeter trail begins near the park entrance.   </h3>",
+    "audioDescription": "5.3 mile trail that meanders through the forest of Greenbelt Park. The trail is eight feet across and the ground is dirt with occasional packed stone. Along the 5.3 miles, you will see the roads that surround the park : Greenbelt Road, Interstate 95, the Baltimore Washington Parkway and Kenilworth Avenue. You will also see parts of Still Creek, cross over a couple of wooden bridges and end up at the entrance of the park. Along the trail, you have the possibility of white tailed deer, woodpeckers, squirrels, and other forest animals.Greenbelt Park is located in suburban Maryland so there is no chance to see any bears.",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "https://www.nps.gov/gree/index.htm",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "",
+    "isManagedByNps": "1",
+    "amenities": [
+      "Trailhead"
+    ],
+    "managedByOrg": "National Park Service",
+    "quickFacts": [
+      {
+        "id": "5C252B96-2DEB-4EF4-91D1-B5D2B202FCD7",
+        "value": "Greenbelt Park ",
+        "name": "Location"
+      },
+      {
+        "id": "E32D2136-A184-4C1A-91D2-4C20CEF9CBAF",
+        "value": "National Park Service trail ",
+        "name": "Designation"
+      }
+    ],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  },
+  {
+    "id": "7ED02AED-1516-4E42-A432-A8EF67419AEF",
+    "url": "https://www.nps.gov/places/sweetgum-picnic-area.htm",
+    "title": "Sweetgum Picnic Area",
+    "listingDescription": "",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/A3D16ED1-E13F-806D-72F4116F0EFA3C3B.jpg",
+        "credit": "NPS",
+        "altText": "picnic tables in the foreground and playground equipment featuring fall colors",
+        "title": "Sweetgum Picnic Area",
+        "description": "",
+        "caption": "Enjoy a picnic in the Sweetgum Picnic Area",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/A3D16ED1-E13F-806D-72F4116F0EFA3C3B.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/A3D16ED1-E13F-806D-72F4116F0EFA3C3B.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "MD",
+        "parkCode": "gree",
+        "designation": "Park",
+        "fullName": "Greenbelt Park",
+        "url": "https://www.nps.gov/gree/index.htm",
+        "name": "Greenbelt"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [
+      "picnic area"
+    ],
+    "latitude": "38.99391591392181",
+    "longitude": "-76.89497479820349",
+    "latLong": "38.99391591392181,-76.89497479820349",
+    "bodyText": "<h4>Sweetgum Picnic Area is open. <br /> <br /> Sweetgum Picnic Area is a first-come first serve picnic area. There are two sets of playground equipment, a baseball field with backstop, and a large field .<br /> <br /> <strong><u>There is a limit of 4 tables and 24 people per group so that everyone may enjoy this area</u></strong>.<br /> <br /> There are picnic tables and a restroom in this area.<br /> If your group is larger than 25 people, you can reserve the reserved picnics areas (Holly and Laurel) available for large groups by <a href=\"https://www.recreation.gov/camping/greenbelt-park-picnic-areas/r/campgroundDetails.do?contractCode=NRSO&parkId=70993\">reserving a picnic area through recreation.gov </a><br /> <br /> Upon entering the park, proceed to the stop sign. Make a right hand turn and the Sweetgum Picnic Area is the first left.</h4>",
+    "audioDescription": "Sweetgum Picnic Area is a first-come first serve picnic area. There is a set of playground equipment along with twelve recycled plastic picnic tables in the northern portion and a set of playground equipment along with twelve recycled plastic picnic tables in the southern end of the picnic area, In the half acre of field, there is open space surrounded by forested trees There is a asphalt roadway with 99 parking spaces in the picnic area.",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "https://www.nps.gov/gree/index.htm",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "",
+    "isManagedByNps": "1",
+    "amenities": [
+      "Bicycle - Rack",
+      "Grill",
+      "Information Kiosk/Bulletin Board",
+      "Parking - Auto",
+      "Picnic Table",
+      "Playground",
+      "Restroom",
+      "Restroom - Accessible",
+      "Trash Dumpster",
+      "Trash/Litter Receptacles"
+    ],
+    "managedByOrg": "National Park Service",
+    "quickFacts": [
+      {
+        "id": "5C252B96-2DEB-4EF4-91D1-B5D2B202FCD7",
+        "value": "Greenbelt Park ",
+        "name": "Location"
+      }
+    ],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  },
+  {
+    "id": "62D8F0C8-1133-45AA-9ACC-AB8889C2B594",
+    "url": "https://www.nps.gov/places/u-s-park-police.htm",
+    "title": "U.S. Park Police",
+    "listingDescription": "United States Park Police",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/1010F282-90EF-7167-791676C239FC0C5A.jpg",
+        "credit": "NPS / Claire Hassler",
+        "altText": "A police headquarters building surrounded by woods.",
+        "title": "U.S. Park Police",
+        "description": "",
+        "caption": "U.S. Park Police",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/1010F282-90EF-7167-791676C239FC0C5A.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/1010F282-90EF-7167-791676C239FC0C5A.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "MD",
+        "parkCode": "gree",
+        "designation": "Park",
+        "fullName": "Greenbelt Park",
+        "url": "https://www.nps.gov/gree/index.htm",
+        "name": "Greenbelt"
+      }
+    ],
+    "relatedOrganizations": [
+      {
+        "id": "E33CCEA6-E7D0-4EC4-8C80-2CE6D20059C4",
+        "url": "https://www.nps.gov/subjects/uspp/index.htm",
+        "name": "US Park Police"
+      }
+    ],
+    "tags": [
+      "united states park police",
+      "USPP",
+      "police"
+    ],
+    "latitude": "38.99539653896034",
+    "longitude": "-76.8954102090149",
+    "latLong": "38.99539653896034,-76.8954102090149",
+    "bodyText": "United States Park Police Building- District 4<br /> 202-610-7500",
+    "audioDescription": "Large building that houses the United States Park Police. A large parking lot is in front of the building for police vehicles and vsiitors to the building.",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "https://www.nps.gov/uspp",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "",
+    "isManagedByNps": "1",
+    "amenities": [
+      "Bus/Shuttle Stop",
+      "Fire Extinguisher",
+      "First Aid Kit Available",
+      "Telephone",
+      "Trash/Litter Receptacles",
+      "Wheelchair Accessible"
+    ],
+    "managedByOrg": "National Park Service",
+    "quickFacts": [
+      {
+        "id": "5C252B96-2DEB-4EF4-91D1-B5D2B202FCD7",
+        "value": "Greenbelt Park ",
+        "name": "Location"
+      },
+      {
+        "id": "E32D2136-A184-4C1A-91D2-4C20CEF9CBAF",
+        "value": "United States Park Police",
+        "name": "Designation"
+      }
+    ],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  }
+]

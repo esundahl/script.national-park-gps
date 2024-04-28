@@ -1,0 +1,170 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.98855790216442,
+          29.465675712349846
+        ]
+      },
+      "properties": {
+        "name": "Amistad Visitor Center",
+        "notes": "Amistad Visitor Center\nhttps://www.nps.gov/places/visitor-center-amistad.htm\n\nLocated immediately off U.S. Highway 90 (look for the visitor center and flagpole), is the paved parking for the Amistad National Recreation Area Visitor Center. The lot has 3 designated van accessible, 15 standard, and 9 pull-through oversized vehicle / vehicle + trailer spaces. The park is credit/debit card only (no cash), including the Visitor Center and bookstore. After hours, there are park maps and site bulletins available outside the building to the left of the entrance doors. During normal business hours, Park Rangers staff the information desk to assist with questions, and restrooms are available inside Visitor Center at the back, left corner. View the <a href=\"https://www.nps.gov/amis/planyourvisit/indooractivities.htm\">Visitor Center</a> page for more information including hours, exhibits, and amenities.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.98787066,
+          29.474134899000003
+        ]
+      },
+      "properties": {
+        "name": "Black Brush Point - Amistad",
+        "notes": "Black Brush Point - Amistad\nhttps://www.nps.gov/places/black-brush-point.htm\n\n<p>Black Brush Point is a Day Use Area with a boat ramp. The paved parking lot has 24 standard parking spaces and two suitable for large vehicles or vehicles towing trailers. The day use area includes 5 picnic tables shaded by tin-roofed ramadas. There are both a high-water level and a low-water level ramp; however, location may be closed when lake level is less than 1083 feet above mean sea level (amsl). Pets allowed when on a 6-ft leash attached to a person or fixed object. Must clean up pet waste and deposit in an outdoor trash can.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.17373984599999,
+          29.524628368000002
+        ]
+      },
+      "properties": {
+        "name": "Box Canyon - Amistad",
+        "notes": "Box Canyon - Amistad\nhttps://www.nps.gov/places/box-canyon-amistad.htm\n\nOne of the more remote parking areas and boat ramps in Amistad National Recreation Area, you will travel about 8 miles on a slow road from Highway 90 through the hamlet of Box Canyon before reaching the boat ramp and paved parking area. The parking area can accommodate oversized vehicles / vehicles + trailer and standard vehicles. The boat ramp will usually close around 1064ft amsl (above mean sea level). Lake use passes for motorized boats can be purchased at the fee kiosk with a credit/debit card. Pets are allowed if on a 6-foot leash attached to a person or fixed object; waste must be cleaned up and put in outdoor trash can. Vault toilets are available, and a CD3 (Clean, Drain, Dry, Dispose) unit is also available to help boaters minimize the risk of contamination. Courtesy dock at the ramp. Cell phone signal is not normally available. ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.01227016600001,
+          29.478156698000003
+        ]
+      },
+      "properties": {
+        "name": "Diablo East (Former) Marina - Amistad",
+        "notes": "Diablo East (Former) Marina - Amistad\nhttps://www.nps.gov/places/diablo-east-former-marina-amistad.htm\n\n<p>While the marina no longer exists, the expansive, paved parking lot still does and is the most popular area for fishing tournament weigh-ins. It will accommodate 20 large vehicles / those towing trailers and 48 standard vehicles. Two spaces are designated disabled parking. This lot is immediately adjacent to the fish return tube and a restroom facility, and is near hiking trails, a boat ramp, and a Ranger Station. En route, you will pass an RV dump station (can be used with proof of in-park camping) and fish cleaning station.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.015011366,
+          29.476530398
+        ]
+      },
+      "properties": {
+        "name": "Diablo East Ranger Station - Amistad",
+        "notes": "Diablo East Ranger Station - Amistad\nhttps://www.nps.gov/places/diablo-east-ranger-station-amistad.htm\n\nDiablo East Ranger Station has an outdoor fee kiosk where a lake use pass may be purchased with your credit or debit card (the entire park is cashless). If you purchase an annual pass, be sure to exchange it for the sticker prior to the receipt's expiration in two weeks. <br /> <br /> Paved parking lot will accommodate 14 standard vehicles and 46 oversized vehicles / those towing trailers. There are 2 designated disabled parking spaces that will accommodate vans. It is immediately adjacent to the Ranger Station, several steel-roofed ramadas shading picnic tables, and accessible restrooms. It is near the <a href=\"https://www.nps.gov/amis/planyourvisit/upload/Diablo-East-Map-508-compliant.pdf\">Diablo East hiking trails</a> (the 0.3-mile Nature Trailhead is here) and boat ramps, and an RV dump station (can be used with proof of current in-park camping) and fish cleaning station are en route to this area. It is the most popular location for boating and fishing tournaments.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.015158866,
+          29.4755823978
+        ]
+      },
+      "properties": {
+        "name": "Diablo East Trailhead (North) - Amistad",
+        "notes": "Diablo East Trailhead (North) - Amistad\nhttps://www.nps.gov/places/diablo-east-trailhead-north-amistad.htm\n\nPaved overflow parking for 44 oversized vehicles / with trailer. Located near trailheads, boat ramp, Ranger Station, and comfort station. Trailhead for the 1/2-mile Green Trail Loop, which can be connected to the 1.3-miles Blue Trail Loop as part of the <a href=\"https://www.nps.gov/amis/planyourvisit/upload/Diablo-East-Map-508-compliant.pdf\">Diablo East trail system</a>.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.01337256599999,
+          29.471871897000003
+        ]
+      },
+      "properties": {
+        "name": "Diablo East Trailhead (South) - Amistad",
+        "notes": "Diablo East Trailhead (South) - Amistad\nhttps://www.nps.gov/places/diablo-east-trailhead-south-amistad.htm\n\nPaved parking shared with a fish cleaning station and RV dump station (available to current, in-park campers). Please be mindful of this when parking to access the Diablo East South (Blue) Trailhead.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.02935192799998,
+          29.480594371000002
+        ]
+      },
+      "properties": {
+        "name": "Governors Landing Day Use Area - Amistad",
+        "notes": "Governors Landing Day Use Area - Amistad\nhttps://www.nps.gov/places/governors-landing-day-use-area-amistad.htm\n\nLarge, paved parking lot will accommodate large vehicles and those towing trailers, as well as the standard family cars and vans. It is below the Governors Landing Campground and adjacent to a large picnic area with tables under the shade of tin-roofed ramadas. Lake Amistad can be accessed on foot from here, though it is a longer walk over rocky terrain when reservoir is low. Kayaks and canoes can be launched from here, especially when lake levels are up. There are no lifeguards on duty throughout the park; swim at own risk. Life vests/PFDs are strongly recommended.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.36646144311794,
+          29.701154045170817
+        ]
+      },
+      "properties": {
+        "name": "Pecos Day Use Area - Amistad",
+        "notes": "Pecos Day Use Area - Amistad\nhttps://www.nps.gov/places/pecos-day-use-area-amistad.htm\n\nThe Pecos Day Use Area has multiple picnic tables shaded by large, tin-roofed ramadas with grills. There is a nearby fish cleaning station and nature trail that runs between the upper and lower parking lots. The upper, day-use parking area is a paved with one designated disabled accessible parking space suitable for a van, 8 standard vehicle spaces, and 32 pull-through spaces suitable for oversized vehicles or those towing a trailer. The comfort station (restroom) is isolated, but there are 6 nearby, standard parking spaces. A fee kiosk for motorized boat lake use permits and potable water are located here. The paved lower lot has 25 standard vehicle spaces and 19 oversized / vehicle + trailer spaces. The paved area below that features 2 designated disabled parallel parking spaces and a historic ramada with seating built by the Civilian Conservation Corps. The boat ramp has an information kiosk and may not be useful for motorized boats when the lake level reaches below 1083ft above mean sea level. Pets are allowed on a leash no longer than 6 feet attached to a person or fixed object, and their waste is picked up and disposed of in outdoor trash cans.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.95305971346477,
+          29.465990597260276
+        ]
+      },
+      "properties": {
+        "name": "San Pedro Walk-in Sites and Hiking - Amistad",
+        "notes": "San Pedro Walk-in Sites and Hiking - Amistad\nhttps://www.nps.gov/places/san-pedro-walk-in-sites-and-hiking-amistad.htm\n\nVery limited dirt parking area at end of campground for walk-in (tent without adjacent parking) sites and trail. Restrooms and fee kiosk where camping permits can be purchased with credit or debit card are near this area in the main campground. Not suitable for oversized vehicles / vehicles + trailers.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.97598531788975,
+          29.46119187114388
+        ]
+      },
+      "properties": {
+        "name": "Sunrise Trail - Amistad",
+        "notes": "Sunrise Trail - Amistad\nhttps://www.nps.gov/places/sunrise-trail.htm\n\nLimited, paved parking for Sunrise Trail. Property owners are allowing the three spaces nearest Highway 90 to be used for this purpose. Suitable for standard vehicles. The Sunrise Trail is approximately 1.5 miles long and connects the parking lot at 9685 Hwy 90 West to Spur 454. The hike begins on the Highway 90-side of the covered area but soon after cuts back toward the water. Located on the old Brite Ranch, there often is opportunity to view a large variety of plants and birds on this hike. There are benches on which to sit and enjoy the sweeping views of the lake. The <a href=\"https://www.nps.gov/amis/planyourvisit/upload/Sunrise-Trail-20200622-508-compliant.pdf\">map</a> also depicts where the shoreline is in relation to the trail when the reservoir is at 1117 feet above mean sea level (amsl) in lighter blue and 1100 feet amsl in darker blue. The park boundary is in red. The inset shows where the trail is in relation to San Pedro Campground.",
+        "icon": "red-pin-down.png"
+      }
+    }
+  ]
+}

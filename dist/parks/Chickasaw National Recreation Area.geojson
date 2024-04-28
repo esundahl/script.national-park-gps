@@ -1,0 +1,20 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Chickasaw's Lincoln Bridge",
+        "notes": "Chickasaw's Lincoln Bridge\nhttps://www.nps.gov/places/chickasaw-s-lincoln-bridge.htm\n\n<p>Lincoln Bridge was built after repairs on an existing wooden wagon bridge were undertaken in both 1907 and 1908. This stone bridge, connecting the Flower Park area and the city of Sulphur to the mineral springs south of Travertine Creek, was built in 1909. The bridge is the first and oldest developed structure built in <a href=\"https://www.nps.gov/chic/learn/historyculture/remembering_platt-np.htm\">Platt National Park</a> [the present-day Platt Historic District].<br /> <br /> According to Palmer Boeger's book <em>Oklahoma Oasis</em>, Forrest Townsley, the park’s first full-time ranger, was the designer. The construction contract for the Lincoln Bridge was signed in 1908 and construction began in February with Townsley and Robinson of Oklahoma City as the contractor. <br /> <br /> The bridge, sometimes described as “Gothic Revival,” was a single-arch masonry bridge with four cylindrical, Lieberantz towers forming its abutment. The masonry, of crenellated limestone, used both horizontal coursing on the bridge and, uniquely, vertical coursing on the towers. Small spiral steps led up the towers, which were each crowned with a flagpole.<br /> <br /> The bridge was approximately one hundred feet long and twenty feet wide, which was said to be wide enough for four horses to cross abreast. Eight electric globe lights were installed on the bridge, completing one of the grandest structures in the park. The bridge was opened on February 20, 1909. The bridge rapidly became a favorite scenic spot within the park, confirmed by the multiple postcard views taken of it in the early 19th century. <br /> <br /> A flood on January 21, 1916, damaged the northeast abutment of Lincoln Bridge.<br /> <br /> Over one hundred years after its construction, the Lincoln Bridge has fulfilled the dream of its builders, standing solidly and silently, still connecting the town to the mineral springs whose presence led to the creation of the park. In February of 2009, park staff and members of the community gathered to mark the centennial of the bridge and the bicentennial of its namesake. Like a century before, school children read the Gettysburg Address, and a replacement dedication plaque was placed on the southeast turret. On summer holidays, the park flies 46-star American Flags over the bridge as homage to the early years of the park and Oklahoma’s distinction as the forty-sixth state. Unnoticed by some, beloved by others, the Lincoln Bridge has met and exceeded Superintendent Greene’s prediction that the bridge would “doubtless stand for the ages.”</p>",
+        "icon": "red-pin-down.png"
+      }
+    }
+  ]
+}

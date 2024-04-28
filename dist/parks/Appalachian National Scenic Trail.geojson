@@ -1,0 +1,110 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.740516,
+          39.325457
+        ]
+      },
+      "properties": {
+        "name": "Appalachian Trail Conservancy",
+        "notes": "Appalachian Trail Conservancy\nhttps://www.nps.gov/places/000/appalachian-trail-conservancy.htm\n\n<p>The Appalachian Trail Visitor Center in Harpers Ferry is one of the most legendary landmarks along the entire 2200-mile Appalachian National Scenic Trail. It's a fun stop and great resource whether you're exploring historic Harpers Ferry, looking for a fantastic day-hike nearby, or interested in learning more about the world's most famous footpath.<br /> <br /> Visitor Center hours:<br /> Thursday-Monday: 9 a.m. to 5 p.m.<br /> Tuesday-Wednesday: 10 a.m. to 4 p.m.<br /> Closed on major holidays.<br /> <br /> Learn more about the AT Visitor Center by <a href=\"http://appalachiantrail.org/home/about-us/get-in-touch/harpers-ferry-visitor-center\">visiting their website</a> .</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.728787,
+          39.323363
+        ]
+      },
+      "properties": {
+        "name": "Appalachian Trail Trailhead at The Point",
+        "notes": "Appalachian Trail Trailhead at The Point\nhttps://www.nps.gov/places/000/appalachian-trail-trailhead-at-the-point.htm\n\n<p>One of the most well-known hikes in the United States, this trail runs through Harpers Ferry and visitors can hike a portion of it! This sign at The Point can help direct guests and get them started on this famous trail.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.726612,
+          39.324762
+        ]
+      },
+      "properties": {
+        "name": "C&O Canal Lock 33",
+        "notes": "C&O Canal Lock 33\nhttps://www.nps.gov/places/000/c-o-canal-lock-33.htm\n\nAlong the 184.5 miles of the canal are 74 lift locks. These locks were put into place to help boats overcome the 605-foot elevation change between Georgetown and Cumberland. The C&O Canal is like a staircase, canal boats traveled along the flat sections and used the locks to take a “step up or down” about eight feet. The locks typically had hand-operated miter gates that were simple and followed Leonardo da Vinci’s original 1485 design. Entering the lock was the most demanding part of canalling.  ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.727671,
+          39.323832
+        ]
+      },
+      "properties": {
+        "name": "Footbridge to C&O and Maryland Heights",
+        "notes": "Footbridge to C&O and Maryland Heights\nhttps://www.nps.gov/places/000/footbridge-to-c-o-and-maryland-heights.htm\n\nGoodloe E. Byron Memorial Pedestrian Walkway (footbridge) across the Potomac River",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.7267222222,
+          37.4453027778
+        ]
+      },
+      "properties": {
+        "name": "Harvey's Knob Overlook",
+        "notes": "Harvey's Knob Overlook\nhttps://www.nps.gov/places/harvey-s-knob-overlook.htm\n\n<p>Situated at 2,524 feet above sea level, Harvey’s Knob Overlook offers expansive views of the Great Valley of Virginia and its mosaic of forest and farm fields 1,400 feet below. Mountains more than 30 miles distant can be seen on most days, and stargazers will be treated with a view of thousands of stars on clear nights.</p> <p>Located on the narrow ridge top, Harvey’s Knob Overlook provides excellent views to either side of the ridgeline, making migrating raptors and monarch butterflies easy to observe during their fall migration (August through November). Two wayside exhibits highlight the types of hawks migrating along this mountain flyway.</p> <p>Hikers can access the Appalachian National Scenic Trail as it passes through the overlook.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.923226271,
+          37.947442145
+        ]
+      },
+      "properties": {
+        "name": "Humpback Rocks Picnic Area",
+        "notes": "Humpback Rocks Picnic Area\nhttps://www.nps.gov/places/humpback-rocks-picnic-area.htm\n\n<p>Nestled under an open canopy oak forest on gently rolling hills, this picnic area provides visitors with a quiet forested setting to enjoy a meal with family and friends. Ninety-one picnic tables with charcoal grills, including some with accessibility features and a large group area, are scattered around the upper and lower loops, offering the chance to find the perfect site for your meal.<br /> <br /> Popular activities in the picnic area include grilling, socializing, walking, and wildlife viewing. Two trailheads are located in the back of the lower loop with access to the Appalachian Trail (0.5 mile connection) and Catoctin Overlook trail (0.3 mile one way). Many different kinds of plants and animals can be found living around the picnic area including birds, snakes, squirrels, raccoons, and bears.<br /> <br /> Help us keep our wildlife wild by practicing Leave No Trace ethics during your visit. To prevent human/bear conflicts, there are no trash cans on site. Pack out all your trash & food scraps to avoid attracting scavengers, like crows and bears. All sites are available on a first come, first serve basis. Two comfort stations have drinking water, sinks, and flushing toilets. </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.921486,
+          45.904419
+        ]
+      },
+      "properties": {
+        "name": "Mount Katahdin - Baxter State Park",
+        "notes": "Mount Katahdin - Baxter State Park\nhttps://www.nps.gov/places/katahdin-baxter-state-park.htm\n\nKatahdin, which translates to \"Greatest Mountain\" in Penobscot, is the highest mountain in the state of Maine at 5,269 feet.<br /> <br /> Katahdin is adjacent to Katahdin Woods and Waters National Monument and the prominent visual feature in the region. Katahdin is held sacred by the Maliseet, Micmac, Passamaquoddy, and Penobscot nations and the geology within and around the monument is central to oral histories, traditions, and cultural practices for each tribal community.<br /> <br /> Baxter Peak on Mount Katahdin is the northern terminus of the Appalachian National Scenic Trail. For more information about climbing Katahdin visit <a href=\"https://baxterstatepark.org/\">Baxter State Park</a>'s website.",
+        "icon": "red-pin-down.png"
+      }
+    }
+  ]
+}

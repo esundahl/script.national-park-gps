@@ -1,0 +1,590 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.05357502422264,
+          34.51191650836993
+        ]
+      },
+      "properties": {
+        "name": "Administration Building",
+        "notes": "Administration Building\nhttps://www.nps.gov/places/administration-building.htm\n\nThe administration building was built in 1936 and became a National Historic Landmark in 1987. It's the newest building to be added onto bathhouse row, and started out as the park's visitor center and museum in addition to being the administration building. It wasn't until 1989 when the visitor center and museum operations moved into the newly refurbished Fordyce Bathhouse. <br /> <br /> It was designed in 1936 by Charles Peterson and Thomas Vint of the Park Service's Eastern Planning Division. Peterson especially liked Spanish architecture as the roof is made of clay tiles and the entrance also features Spanish Baroque doors.The building does have one other function: in the basement there is a pump room and reservoir to help distribute the thermal spring water.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.05284512028183,
+          34.51612417325656
+        ]
+      },
+      "properties": {
+        "name": "Arlington Lawn",
+        "notes": "Arlington Lawn\nhttps://www.nps.gov/places/arlington-lawn.htm\n\nArlington Lawn gets its name from the fact that the first two versions of the luxury hotel now located north of the park across Fountain Street were located here on government property. The first, a 150-room wooden structure completed in 1875, was designed specifically to offer patrons the most modern, first-class accommodations possible, the same as they would expect in New York or Chicago. It was replaced in 1893 by a larger, more elaborate brick, stone, and iron version. The grand hotel was of Moorish and Spanish Renaissance style and featured a glass-topped rotunda, large ballroom, and bridges onto Hot Springs Mountain from several floors. It offered 300 guest rooms, 50 of which had private bathrooms. The 2nd Arlington burned in 1923 and was replaced in 1925 by the iconic 500-room Arlington Hotel still in use today.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.05261673791665,
+          34.5121762854603
+        ]
+      },
+      "properties": {
+        "name": "Army and Navy Hospital",
+        "notes": "Army and Navy Hospital\nhttps://www.nps.gov/places/army-and-navy-hospital.htm\n\n<p>Hot Springs is home to the former Army-Navy Hospital, the first general hospital in the nation that provided treatment to both Army and Navy patients.</p> <p>The dream of the Army-Navy Hospital came to be during a dinner party in the Palace Bathhouse in 1882. Sen. John Logan declared Hot Springs to be “an ideal location for an institution of this character” and promised to introduce legislation for an appropriation upon his return to Washington, D.C. The Army-Navy Hospital opened to patients in January 1887 and was led by the Secretary of War, but control was handed off to the U.S. Army in 1957.</p> <p>In the early 1930s, the original building was replaced with a brick-mortar and steel facility with 412 beds. It cost a mere $1.5 million, which would equal nearly $15 million in today’s market. (Photos of both facilities seen below)</p> <p>During World War II, the hospital was at its peak business, having become the army’s leading medical facility in the country for treating patients with arthritis. Even after the close of the war, the hospital continued to grow, serving more than 100,000 veterans by 1945.</p> <p>In 1960, the hospital became a rehabilitation center and was run by the state of Arkansas. It continues to serve as one of the most interesting historical landmarks in the state.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.0530834197998,
+          34.51577750323126
+        ]
+      },
+      "properties": {
+        "name": "Arsenic Spring",
+        "notes": "Arsenic Spring\nhttps://www.nps.gov/places/arsenic-spring.htm\n\nArsenic Spring is the northernmost of the springs located along Hot Springs Creek. Historical photos show that the spring emerged at the base of a cliff of tufa. By the late 1800s, a Victorian-era wooden structure was built over the spring.<br /> <br /> Despite its name, Arsenic Spring became a favorite drinking spring for nineteenth century visitors, particularly for women. A national publication in the 1870s wrote that Arsenic Spring was “in great repute among the fair sex, who fancy that it improves their complexion.”<br /> <br /> Drinking the hot water from springs like Arsenic Spring was an important step in the hot springs treatment for health seekers. Physicians believed the hydrating waters helped flush out toxins. Though temperature and waterflow has changed over the years, in 1901, the water emerged at 134 degrees and 7.5 gal/minute.<br /> <br /> Testing showed that it had a similar chemical profile to the other springs. Fortunately, there was no arsenic to be found in the waters.<br /> <br /> The water of Arsenic Spring temporarily dried up in the 1880s, when blasting along the base of Hot Springs Mountain interrupted the flow of thermal water.<br /> <br /> By 1901, Arsenic Spring was inaccessible underneath the Arlington Hotel. Following the destruction of Arlington Hotel due to fire in the 1920s, the Arsenic Spring was covered by tufa and dirt.<br /> <br /> Eventually the spring water was combined into the park’s common collection system. Today’s hot water fountains in the park include the water of Arsenic Spring.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.07490559948194,
+          34.52486117580579
+        ]
+      },
+      "properties": {
+        "name": "Balanced Rock",
+        "notes": "Balanced Rock\nhttps://www.nps.gov/places/balanced-rock.htm\n\nBalanced Rock is located on Sugarloaf Mountain along Sunset Trail between Blacksnake and Cedarglades Road. It's a huge novaculite outcrop with a great view. ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.0534964799881,
+          34.51463268415043
+        ]
+      },
+      "properties": {
+        "name": "Big Iron Spring",
+        "notes": "Big Iron Spring\nhttps://www.nps.gov/places/big-iron-spring.htm\n\nThe Big Iron Spring is located near the base of Hot Springs Mountain. Historical photos show the spring as a tall mound of tufa rising next to the stream bed, situated under a bluff of exposed rock.<br /> <br /> In a 1901 survey the water emerged at 147 degrees, the hottest in that year’s survey, and flowed out at 140 gal/minute.<br /> <br /> By all accounts, the spring was large in several ways. One observer described the mouth of the spring as “a vein nearly as large as the body of a man.” Big Iron Spring produced 250,000 gallons, approximately one-third, of the more than 700,000 gallons of daily water.<br /> <br /> The spring was named for the brownish, rust-colored deposits that the thermal waters created on the tufa outcrop. There was a small amount of Iron found in the water, but not a concentration significantly different from other springs in the park.<br /> <br /> The Big Iron name could be found throughout nineteenth century Hot Springs. In the 1870s, a developer built a bathhouse adjacent to the spring and named the establishment Big Iron Bath House. Big Iron spring water was piped into the bathhouse. The waters of the Big Iron were one of the most popular springs for drinking water.<br /> <br /> Bathhouse developers used dynamite to blast away large portions of tufa rock in the 1880s. The blasting altered the flow of the thermal water, causing the spring to temporarily dry up.<br /> <br /> By 1901, Big Iron Spring was no longer visible. Due to development, it was covered in 5 feet of soil.<br /> <br /> Today, the water of Big Iron Spring contributes significantly the overall average temperature of Hot Springs' thermal water of 143 degrees Fahrenheit.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.05369321610264,
+          34.5124940693691
+        ]
+      },
+      "properties": {
+        "name": "Buckstaff Bathhouse",
+        "notes": "Buckstaff Bathhouse\nhttps://www.nps.gov/places/buckstaff-bathhouse.htm\n\nOrginally opened in 1912, the Buckstaff is the only facility on the Row that has never fully closed since it first started offering baths. For information about services, rates, and reservations, please <a href=\"https://www.buckstaffbaths.com/services\">visit their website</a> or call them directly at (501) 623-2308.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.05297613143921,
+          34.51415530320697
+        ]
+      },
+      "properties": {
+        "name": "Corn Hole",
+        "notes": "Corn Hole\nhttps://www.nps.gov/places/corn-hole.htm\n\nCorn Hole Springs attracted a broad range of bathers in the nineteenth century because of its ability to treat specific foot ailments.<br /> <br /> The location of Corn Hole is an approximation as it has been covered by more than a century of development. In the nineteenth century, visitors dug into the tufa rock at the mouth of Corn Hole Spring, creating a deeper hole. Bathers placed benches around the spring to make it easier to sit with their feet in the water.<br /> <br /> The Corn Hole was named for its reported power to remove corns, calluses, and bunions on bathers’ feet. Bathers typically sat on the wooden benches and placed their feet in the muddy, 120-degree water for upwards of half an hour. After a week of daily foot-bathing, Bathers could then visit a “corn doctor” practicing near the spring who examined the corns and removed them for 25 cents per callus.<br /> <br /> Corn Hole was popular among all classes of Hot Springs visitors. Observers frequently reported that Corn Hole was the most sociable location in Hot Springs, as strangers chatted about topics like the destruction of Ral Hole and their experiences during the Civil War, while healing their feet. In 1879, a Washington D.C.-based reporter described Corn Hole as “a truly democratic gathering. A judge, a tramp, a Senator, a backwoodsman, may here be sandwhiched.” The only social division was by gender, as women bathed in the morning and men in the afternoon.<br /> <br /> Though Corn Hole was a popular destination for visitors, visitors’ attempts to expand the size of the spring through dynamite blasting caused the spring waters to flow elsewhere. The spring never appeared at its previous location. It was not listed among the active springs in a 1901 survey.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.05315281837458,
+          34.514032667579556
+        ]
+      },
+      "properties": {
+        "name": "Display Spring",
+        "notes": "Display Spring\nhttps://www.nps.gov/places/maurice-historic-display-spring.htm\n\nThe Display Springs are some of the few open-air springs accessible in the Park and<a> </a>are an excellent place to learn to “read’ the landscape for clues about the Hot Springs thermal water cycle.<br /> <br /> The ridges on either side of the valley are composed of a hard, erosion resistant rock called novaculite. The ridges formed during a mountain-building event hundreds of millions of years ago when the ground was squeezed like an accordion into a wave-like shape.<br /> <br /> When rain water falls in the area, some of it is absorbed into the ground, enters the novaculite--and a lower chert layer-- through cracks in the rock, and then follows the plunging rock layers roughly a mile underground, beneath Hot Springs Mountain. As the water travels downwards, the water is heated to roughly 160 degrees fahrenheit by the increasing heat of the Earth, a phenomemon called the geothermal gradient.<br /> <br /> Fault lines help direct the heated water back to the surface. In the area where you are standing, two faults “alpha” and “beta” reach the surface. The location of the “alpha” fault is more clearly visible as it roughly follows Central Avenue and Fountain Street. The “beta” fault roughly follows the top edge of Hot Springs Mountain.<br /> <br /> The faults also formed from the squeezing pressures of the ancient mountain-building event. Large sections of rocks-- hundreds of feet wide and thousands of feet long-- shifted against each other, with one block section sliding up relative to the other, in what is called a \"thrust fault.\" The long fault zones connect the deep aquifer of heated water to the surface and act as a superhighway to conduct the hot water back upwards.<br /> <br /> Most of the four dozen springs, including the Display Springs, emerge in this fault zone, in roughly a 460m by 120m area at the base of Hot Springs Mountain. This area contains several sandstone outcrops associated with the spring openings. The sandstone fractures easily, allowing the thermal water to travel through it. Part of the sandstone layer is visible at the top of the balustrade next to the Display Springs.<br /> <br /> Individual springs then tell the unique story of each flow of water. At the Display Springs, the upper spring is generally slightly hotter than the lower spring, suggesting that the cooler lower spring has a greater interaction with non-thermal water as it reaches the surface than slightly warmer upper spring.  <br /> <br /> Scientists in the 1970s determined that the time it takes one water particle to rain, flow down the rock layers, be heated at depth, and return to the surface via the fault line is over 4,000 years! The roughly four dozen springs produce over 700,000 gallons of water a day, at an average temperature of 143 degrees fahrenheit, easily the hottest springs east of the Rocky Mountains.<br /> <br /> The water from the Display Springs, as well as the other thermal water, eventually enters Hot Springs Creek. Today, Hot Springs Creek is covered by the Creek Arch as it passes through Bathhouse Row. Visitors walking on the Magnolia Walk are walking on top of Hot Springs Creek.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.05231630802155,
+          34.515675840397186
+        ]
+      },
+      "properties": {
+        "name": "Egg Spring",
+        "notes": "Egg Spring\nhttps://www.nps.gov/places/egg-spring.htm\n\nIn the nineteenth century, Egg Spring impressed visitors with the power of the hot water.<br /> <br /> Egg Spring is the northern-most spring located in the uppermost group of hot springs. Today, the hillside is a grass clearing, but the more natural covering would have been a mix of trees, springs, and tufa outcrops.<br /> <br /> Egg Spring was historically one of the hottest springs in the park, suggesting that its geological structure has limited contact with cooler surface level water. One observer even reported a water temperature over 150 degrees. Its 1901 temperature was 143 degrees and flow 20 gal/minute.<br /> <br /> In the nineteenth century, many visitors described the water by mentioning activities performed at home—including boiling tea and scalding hogs. Egg Spring earned its name because it could supposedly boil an egg the quickest, about 15 minutes.<br /> <br /> Water from the Egg Spring was transported via pipes to the Rockafellow Bathhouse, about half a mile to the north. The water was so hot that it had to be mixed with cooler water before it could be used.<br /> <br /> In the 1880s, the federal government chose the location of Egg Spring as a reservoir from which to distribute thermal water to the various bathhouses by gravity. This reservoir location was later abandoned as the spring began to sink.<br /> <br /> By 1901, Egg Spring was covered by soil and grass, and no water was flowing at the surface",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.0396160473543,
+          34.526646402063605
+        ]
+      },
+      "properties": {
+        "name": "Goat Rock View Point",
+        "notes": "Goat Rock View Point\nhttps://www.nps.gov/places/goat-rock-view-point.htm\n\nTrail acess starts from the overlook on North Mountain. Take the short hike below the overlook and stay right, noting novaculite stones strewn along the trail. The stone bars that cross the trail to prevent erosion are a trip hazard, so be careful. Below the second curve, the lower side of the trail opens into flowery glades that offer great vistas of Indian Mountain and east Hot Springs. The trail then becomes uneven and rocky. After another several hundred feet you will pass beneath huge novaculite boulders and Goat Rock Overlook forty feet above. A trail sign indicates the stairway to the overlook.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.05311889817088,
+          34.511801401794095
+        ]
+      },
+      "properties": {
+        "name": "Grand Promenade",
+        "notes": "Grand Promenade\nhttps://www.nps.gov/places/grand-promenade.htm\n\n<p>The Grand Promenade is a National Recreation Trail that runs parallel to bathhouse row, behind the bathhouses. It's about a half mile long and made entirely out of brick. The inspiration for its design came from the Prado, a pedestrian walkway in Havana, Cuba. Along with it being a great place to walk, it also offers many benches, tables, and even a table for playing chess.  </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.0534133911133,
+          34.514720916748
+        ]
+      },
+      "properties": {
+        "name": "Hale Bathhouse",
+        "notes": "Hale Bathhouse\nhttps://www.nps.gov/places/hale-bathhouse.htm\n\n<h2>Hotel Hale Today</h2> <p>Today, the Hale Bathhouse operates as a historic boutique hotel, the Hotel Hale, with a mid-century and modern style. With 9 individual suites, each with a large soaking tub that has hot springs mineral water pumped directly into every room. The Hale is also home to a restaurant, Eden, with options for brunch, lunch, and dinner. Learn more on their website, <a href=\"https://www.hotelhale.com\">www.hotelhale.com</a>.</p> <h2>History of the Hale Bathhouse</h2> <p>Named for early bathhouse owner John Hale, the present Hale Bathhouse is at least the fourth building to use this name. The first Hale Bathhouse remains unknown. After the Civil War ended, a second Hale House was constructed on the present site, with its bathhouse situated on the opposite side of the creek. Sometime before 1882, a Victorian style bathhouse was built on the site by William Nelson, who signed a water lease for the site in 1879. Construction of the new building cost $5,000.<br /> <br /> The present (and fourth) Hale Bathhouse is the oldest visible structure on Bathhouse Row. Most of the present structure was completed in 1892, as designed by George and Fremont Orff. The exact design of the 1892 bathhouse is unknown. A major 1914 remodel by the Little Rock architectural firm of George Mann and Eugene Stern significantly enlarged the red-brick building and modified its style to Classical Revival. At this time the building had rectangular windows on the ground floor with arched windows on the second floor - a typical style element of the Classical Revival style.<br /> <br /> The present building has 12,000 square feet on the two main floors. The lobby area was used as a sunroom where guests could relax in rocking chairs. In 1917, one of the hot springs was captured in a tiled enclosure in the basement, and this feature is still in place. This bathhouse also was connected with a thermal cave carved out of the mountainside and used as a “hot room” in the 1890s (it was rediscovered during a 1993 drainage project and is now a federally protected archeological site).<br /> <br /> In 1939, the building was redesigned by the firm of Sanders, Thompson, and Ginocchio in the Mission Revival style, and the brick was covered in stucco to look as it does today. The 1939 remodeling included changing the rectangular window openings of the sun porch as the front of the structure to arched window openings, like those on the second story. The hip roof was covered with red tile. The classical segemntal arch over the main entrance became a simpler Spanish bell gable. The brick was covered with stucco, and wrought iron grilles were places over the two windows flanking the entrance. The entire effect became very \"California.\" Interior modifications in conjunction with the 1939 renovation are unknown.<br /> <br /> The Hale closed on October 31, 1978. In 1981 it was remodeled for use as a theatre and concessionaire operation (snack bar, gift shops, and arcade). A new emergency exit was installed at the South of the lobby to meet fire code regulations. The concessionaire operation failed and the building closed nine months later.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.04914593696594,
+          34.5187477712754
+        ]
+      },
+      "properties": {
+        "name": "Happy Hollow Jug Fountain (Cold)",
+        "notes": "Happy Hollow Jug Fountain (Cold)\nhttps://www.nps.gov/places/happy-hollow-jug-jountain-cold.htm\n\nThe source of this cool water is a spring above Fountain Street on the southeast slope of North Mountain. Happy Hollow Spring probably issues from Arkansas Novaculite. The water appears to be of recent vintage-perhaps less than a century in age. Prior to 1960 when it was privately owned, it was called the Magnesia Spring and a pitcherful cost 5 cents.<br /> <br /> Water averages 62º Fahrenheit/17º Celsius Parts per Million<br /> <br /> Silica (SiO2) 8.6<br /> Bicarbonate (HCO3) 1.0<br /> Calcium (Ca) 0.30<br /> Sulfate (SO4) 0.90<br /> Magnesium (Mg) 0.28<br /> Chloride (Cl) 2.2<br /> Sodium (Na) 1.4<br /> Nitrate (N) 0.072<br /> Potassium (K) 1.0",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.05381522857442,
+          34.51091465817706
+        ]
+      },
+      "properties": {
+        "name": "Hill Wheatley Plaza Jug Fountain (Hot)",
+        "notes": "Hill Wheatley Plaza Jug Fountain (Hot)\nhttps://www.nps.gov/places/hill-wheatley-plaza-jug-fountain-hot.htm\n\n<p>Located at 629 Central Ave., just across the street from Hot Springs National Park. Water averages 143º Fahrenheit/62º Celsius<br /> <br /> Minerals Parts per Million:</p> <p>Silica (SiO2) 53.0<br /> Bicarbonate (HCO3) 130.0<br /> Calcium (Ca) 47.0<br /> Sulfate (SO4) 7.8<br /> Magnesium (Mg) 4.9<br /> Chloride (Cl) 2.2<br /> Sodium (Na) 4.0<br /> Fluoride (F) 0.26<br /> Potassium (K) 1.4<br /> Oxygen (O2) 4.5<br /> Free Carbon Dioxide (CO2) 9.7</p> <p>Radioactivity through radon gas emanation is 43.3 picocuries per liter.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.04655612538359,
+          34.519718105425774
+        ]
+      },
+      "properties": {
+        "name": "Honeysuckle Trail Shelter House",
+        "notes": "Honeysuckle Trail Shelter House\nhttps://www.nps.gov/places/honeysuckle-trail-shelter-house.htm\n\n<p>Located along Honeysuckle Trail, this shelter is a great place to rest in the shade after a long hike.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.05379688739777,
+          34.51390777127061
+        ]
+      },
+      "properties": {
+        "name": "Hot Springs Creek",
+        "notes": "Hot Springs Creek\nhttps://www.nps.gov/places/hot-springs-creek.htm\n\nHot Springs Creek begins flowing near Whittington Park and eventually empties into the Ouachita River, a few miles south of Hot Springs.The creek is covered as it passes Bathhouse Row and is no longer visible within the park.<br /> <br /> The creek sculpted the small valley we see today. The creek flows against the foot of Hot Springs Mountain on the east side of the valley, but ancient floods created the open flat area on the west side of the valley, where many of the businesses can still be found.<br /> <br /> As Hot Springs Creek flows through the valley along Bathhouse Row, it still collects the runoff of the hot springs waters, and its temperature increases significantly from the influence of the thermal waters.<br /> <br /> In 1828, a visitor from Louisiana described how bathers used the creek water for bathing. \"After 2 or 3 weeks of dry weather, the creek becomes too hot to bathe in, opposite the springs, and bathers go an eighth or a quarter of a mile below, where the warmth is bearable...A man who has just arrived with rheumatism, has I think adopted a judicious plan. He had a bed made for him of a couple of bear skins on the hot gravelly bottoms of the creek—this he covered with other blankets spread over poles like the top of a covered wagon. Here he slept all night undergoing a gentle perspiration for eight or ten hours.\"<br /> <br /> Because most of the springs emerge on the east side of Hot Springs Creek, the bathhouses were also located on the east side of the creek. As bathhouses were constructed in the valley, bridges were built from the road, acroos the creek, and to the bathhouse. <br /> <br /> As the town grew in the valley, the creek effectively became an open sewer, carrying away the used water from bathhouses, hotels, businesses, and even roaming cattle.<br /> <br /> In the 1880s, the Department of the Interior oversaw construction of the Creek Arch that covers the creek to this day. The Creek Arch--14 feet wide and 12 feet tall-- was part of the first major federal infrastructure developments in what was then called Hot Springs Reservation.<br /> <br /> The Creek Arch served two purposes. It met sanitation needs by creating a barrier between the creek and sources of contamination. It also helped to widen the availabe ground in the small valley. Soil and sidewalks were built on top of the arch to connect the road to the bathhouses. The fronts of the present day bathhouses are built on top of the ground created by the Creek Arch.<br /> <br /> The Creek Arch has increased the impact of flooding in Hot Springs Creek. It was designed for 10-year flood events, and cannot accomodate the water volume in major storms. Several flood events have caused standing water to surge down Central Avenue.<br /> <br /> Hot Springs Creek is still visible in Whittington Park--located a mile northwest of Bathhouse Row--and along the Hot Springs Greenway, a city park and trail that begins near the Hot Springs Intracity Transit building.<br /> <br />  <br /> <br />  ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.04140331646975,
+          34.52461554954371
+        ]
+      },
+      "properties": {
+        "name": "Hot Springs Mountain Shelter",
+        "notes": "Hot Springs Mountain Shelter\nhttps://www.nps.gov/places/hot-springs-mountain-shelter.htm\n\nMountain shelters like the one on Hot Spring Mountain were made to provide visitors with a place to rest in the shade while out on a hike.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.04619583963768,
+          34.51717538691973
+        ]
+      },
+      "properties": {
+        "name": "Hot Springs Mountain Tower",
+        "notes": "Hot Springs Mountain Tower\nhttps://www.nps.gov/places/hot-springs-mountain-tower.htm\n\n<h2>History of the Tower</h2> <p>In 1877 local mill owner Enoch Woolman built a wooden observation tower at the summit of Hot Springs Mountain to allow visitors to enjoy the view of the surrounding region. In 1906 a new steel tower opened on Hot Springs Mountain on land leased by Charles N. Rix, president of Arkansas National Bank, and the old Woolman Observatory was removed. Rix Tower included an elevator to carry visitors to the top, where they could view an area estimated by Superintendent Scott Smith to cover a radius of 30 to 40 miles.<br /> <br /> Rix Tower was taken down on July 13, 1971 and in March 1982 a contract was signed for the construction of a new observation tower. The 216-foot tall structure opened to the public in June 1983 as part of the 13th Annual Arkansas Fun Festival.</p> <h2>Today</h2> <p>The Hot Springs Mountain Tower is operated as a concession for the park. The tower's upper observation deck is open-air and at an elevation of 1,256 feet above sea level. From there, visitors may overlook 140 square miles of surrounding countryside, including the entire park and a portion of the Ouachita Mountains. The lower observation deck, enclosed and air conditioned, contains exhibits highlighting park and local history. A gift shop is located at the base of the tower.<br /> <br /> Visit the <a href=\"http://www.hotspringstower.com/\">Mountain Tower's offical website</a> for operating hours, fees, and other information.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.05275957054252,
+          34.51612204759144
+        ]
+      },
+      "properties": {
+        "name": "Hot Water Cascade",
+        "notes": "Hot Water Cascade\nhttps://www.nps.gov/places/hot-water-cascade.htm\n\nLocated at Arlington Lawn, this is the largest visible spring in the Park. Hot water emanates from the hill side near the Grand Promenade and flows under the path, down a steep cliff into two pools.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.05374826725094,
+          34.51216919165669
+        ]
+      },
+      "properties": {
+        "name": "Lamar Bathhouse Emporium",
+        "notes": "Lamar Bathhouse Emporium\nhttps://www.nps.gov/places/lamar-bathhouse-emporium.htm\n\n<h2>Today</h2> <p>Today, the first floor of the Lamar Bathhouse serves as the Park’s official store, the Bathhouse Row Emporium run by Eastern National.  </p> <h2>Lamar Bathhouse History</h2> <p>The Lamar Bathhouse opened in 1923, after replacing the previous wooden Victorian bathhouse of the same name that stood there before. The Lamar remained in operation until 1985, and was most known for having tubs of different lengths to accommodate people of different heights.  </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.04927371703718,
+          34.51207440719053
+        ]
+      },
+      "properties": {
+        "name": "Libbey Bathhouse",
+        "notes": "Libbey Bathhouse\nhttps://www.nps.gov/places/libbey-bathhouse.htm\n\nThe Libbey Bathhouse once operated as the government free bathhouse. It is now vacant but holds a thermal water jug fountain. ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.04928100476313,
+          34.512124643830255
+        ]
+      },
+      "properties": {
+        "name": "Libbey Jug Fountain (Hot)",
+        "notes": "Libbey Jug Fountain (Hot)\nhttps://www.nps.gov/places/libbey-jug-fountain-hot.htm\n\n<p>Water averages 143º Fahrenheit/62º Celsius<br /> <br /> Minerals in Parts Per Million (ppm).</p> <p>Silica (SiO2) 53.0<br /> Bicarbonate (HCO3) 130.0<br /> Calcium (Ca) 47.0<br /> Sulfate (SO4) 7.8<br /> Magnesium (Mg) 4.9<br /> Chloride (Cl) 2.2<br /> Sodium (Na) 4.0<br /> Fluoride (F) 0.26<br /> Potassium (K) 1.4<br /> Oxygen (O2) 4.5<br /> Free Carbon Dioxide (CO2) 9.7</p> <p>Radioactivity through radon gas emanation is 43.3 picocuries per liter.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.05379152297974,
+          34.51314749001108
+        ]
+      },
+      "properties": {
+        "name": "Magnesia Spring",
+        "notes": "Magnesia Spring\nhttps://www.nps.gov/places/magnesia-spring.htm\n\nMagnesia Spring historically flowed from the east bank of Hot Springs Creek, at the base of a 20-foot-high tufa cliff. Visitors could access the spring by crossing a plank laid across the creek. In<b> </b>1901, the water measured 137 degrees, and flowed at 35 gallons a minute.<br /> <br /> Because of its location along Hot Springs Creek, Magnesia Spring was heavily influenced by the development of Bathhouse Row. Developers piped water from Magnesia Spring to the Rammelsburg Bathhouse (site of the current Buckstaff Bathhouse). In the 1880s, blasting into nearby rock—both to locate water sources and to build the bathhouses on the east side of Hot Springs Creek—resulted in a decrease in flow of the Magnesia Spring.<br /> <br /> A bathhouse investor leased the spring of the spring in the late 1880s to construct a bathhouse, which he called Magnesia Bathhouse. The Quapaw Bathhouse, built in 1922 to replace Magnesia Bathhouse with a much larger and more modern bathhouse, now sits over the location of Magnesia Spring.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.05322289466858,
+          34.513257996438995
+        ]
+      },
+      "properties": {
+        "name": "Mud Hole",
+        "notes": "Mud Hole\nhttps://www.nps.gov/places/mud-hole.htm\n\nMud Hole helped to formalize Hot Springs’ place as a health destination for all classes of Americans.<br /> <br /> The spring historically emerged onto a flat plateau of tufa and sandstone. The water measured 119 degrees in 1901 and flowing an estimated 3 gal/minute. The name Mud Hole likely came from the leafy muddy bottom of the shallow basin that was dug out in the tufa rock.<br /> <br /> In the late nineteenth century, the open waters of the Mud Hole were very popular across the class spectrum. Initially, paying customers at the Mud Hole subsidized poorer patients. Eventually, the federal government took over the bathhouse, using revenue from the pay bathhouses to provide free bathing.<br /> <br /> There was also a notable racial integration among Mud Hole bathers. One reporter commented on the multi-racial bathhouse users in 1886, “Black, white, and mulatto get in the muddy water together.”<br /> <br /> Between 1878 and 1921, the Mud Hole was used as the site of the Government Free Bathhouse. The Government Free Bathhouse provided simple hydrotherapy treatment to health seekers unable to afford the businesses on the more luxurious Bathhouse Row.<br /> <br /> Despite limited facilities, the Government Free Bathhouse was often the most used bathhouse in Hot Springs. In some years nearly one-fourth of all health seekers used the Government Free Bathhouse, demonstrating the continued interest among poorer bathers to receive hydrotherapy treatment. Unable to meet demand, the building over the Mud Hole underwent constant repairs and the government upgraded the building several times. expansions. was in constant need of repairs and expansions.<br /> <br /> The Government Free Bathhouse moved to the location of the present day Libbey Memorial Physical Medicine Center in 1921.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.05359695085009,
+          34.51170856251609
+        ]
+      },
+      "properties": {
+        "name": "Noble Fountain (Hot)",
+        "notes": "Noble Fountain (Hot)\nhttps://www.nps.gov/places/noble-fountain-hot.htm\n\n<p>Water averages 143º Fahrenheit/62º Celsius<br /> <br /> Mineral content in parts per million (ppm)</p> <p>Silica (SiO2) 53.0<br /> Bicarbonate (HCO3) 130.0<br /> Calcium (Ca) 47.0<br /> Sulfate (SO4) 7.8<br /> Magnesium (Mg) 4.9<br /> Chloride (Cl) 2.2<br /> Sodium (Na) 4.0<br /> Fluoride (F) 0.26<br /> Potassium (K) 1.4<br /> Oxygen (O2) 4.5<br /> Free Carbon Dioxide (CO2) 9.7</p> <p>Radioactivity through radon gas emanation is 43.3 picocuries per liter.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.0406410184374,
+          34.52741842718622
+        ]
+      },
+      "properties": {
+        "name": "North Mountain",
+        "notes": "North Mountain\nhttps://www.nps.gov/places/north-mountain.htm\n\nHot Springs Mountain Drive begins at the end of Fountain Street off Central Avenue downtown. Built as a carriage road in the 1880s, it has switchbacks that will take you to the top to a picnic area, the Pagoda overlook, and the Hot Springs Mountain Tower. You can continue on to North Mountain Loop and then back down to Fountain Street.There are 3 overlooks starting at the Mountain Tower and ending at the North Mountain Loop. The views from here are primarily North and East facing. To access North Mountain, turn onto Fountain Street from Central Avenue and follow the signs. Additionaly, there is access to Goat Rock Trail at the end of North Mountain Loop, offering many more great views.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.05378870002438,
+          34.51279478686909
+        ]
+      },
+      "properties": {
+        "name": "Ozark Bathhouse",
+        "notes": "Ozark Bathhouse\nhttps://www.nps.gov/places/ozark-bathhouse.htm\n\n<h4>Today</h4> <p>Today, the Ozark houses the Hot Springs National Park Cultural Center. The Center features gallery spaces for displaying artwork from the park's Artist-in-Residence Program and other temporary exhibitions. The building is operated by the park's non-profit supporting organization, the Friends of Hot Springs National Park. Volunteers from the Friends group open the building for special occasions and on Friday, Saturday, and Sunday afternoons. Admission is free.</p> <h4>Architecture & Design</h4> <p>Designed by architects Mann and Stern of Little Rock, the bathhouse was completed in the summer of 1922, just a few months after the Quapaw opened for business. The owners rejected three earlier Mann and Stern designs considered too grand and expensive. Built at a cost of $93,000 in the Spanish Colonial Revival style, the building is set between low towers whose receding windows suggest the nascent Art Deco movement. The prominence of the towers was lessened during the 1942 renovation that brought the building’s wings forward in line with the front porch, which was enclosed at the same time. The plaster-cast window boxes are unique on Bathhouse Row. The cartouches on both sides of the front are of the scroll and shield type with the center symbol described as The Tree of Health or The Tree of Life. Like the Quapaw, the Ozark was more impressive in its exterior facade than in its interior appointments, with only 14,000 square feet and twenty-seven tubs. It catered to a middle economic class of bathers unwilling to pay for frills. The Ozark closed in 1977. The painted wooden porch enclosure was removed in the late 1990s to return the building to its original appearance.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.05377152967893,
+          34.51329488355417
+        ]
+      },
+      "properties": {
+        "name": "Quapaw Bathhouse",
+        "notes": "Quapaw Bathhouse\nhttps://www.nps.gov/places/quapaw-bathhouse.htm\n\n<p>The Quapaw Bathhouse offers modern day spa services with amenities like thermal pools, private baths, and a steam cave. For information about services, rates, and reservations, please <a href=\"http://quapawbaths.com/\">visit their website</a> or call them directly at (501) 609-9822.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.05261135101318,
+          34.51485811308965
+        ]
+      },
+      "properties": {
+        "name": "Ral Spring",
+        "notes": "Ral Spring\nhttps://www.nps.gov/places/ral-spring.htm\n\nRal Spring was perhaps the most famous of the thermal water sources in Hot Springs in the nineteenth century.<br /> <br /> Located midway up the slope of Hot Springs Mountain, Ral Spring lies at the base of a short outcrop of tufa rocks. The pool located here was dug out of the tufa rock and combined the waters of a cooler spring nearby. The primary spring was measured at 145 degrees in 1901 and flow of 6 gal/minute.<br /> <br /> Ral Springs was associated with the most remarkable outcomes in Hot Springs. The name “Ral” was likely an abbreviation of “neuralgia,” which was another term for symptoms of the venereal disease syphilis.<br /> <br /> The stories of healing, along with free access, made Ral Springs the destination for hundreds of health seekers who could not afford the costs of the bathhouses. A small building was built over the site to serve as a crude bathhouse. An encampment around Ral Springs became known as Ral City. National reporters often highlighted Ral Springs diverse users to present Hot Springs as the nation’s health destination for rich and poor alike. One visitor wrote, “the virtues of said water are so apparently superior to the bath houses that all classes go there, although the structures are the roughest imaginable.”<br /> <br /> Ral Springs became the source of controversy in the 1870s as bathhouse owners sought to control access to the springs. Bathhouse owners claimed that the freely accessible springs led to a loss of revenue and that the waters were contaminating springs at the bottom of the hillside. The reservation’s first superintendent mostly agreed with the bathhouse house owners. He ordered the structures over Ral Springs be torn down and eventually had the springs covered with trees and dirt to prohibit further use.<br /> <br /> When the pool was covered over in 1878, the waters were piped into the Big Iron Bathhouse.<br /> <br /> By 1901, Ral Spring’s outflow was severely diminished by the drilling of nearby wells to find new thermal water sources.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.05365287220572,
+          34.51176363994221
+        ]
+      },
+      "properties": {
+        "name": "Reserve Street Jug Fountain (Hot)",
+        "notes": "Reserve Street Jug Fountain (Hot)\nhttps://www.nps.gov/places/reserve-street-jug-fountain-hot.htm\n\nThis thermal jug fountain sits in front of the park's Administration Building at 101 Reserve Street. <br /> <br /> Water averages 143º Fahrenheit/62º Celsius<br /> <br /> Mineral Content in Parts per Million (ppm)<br /> <br /> Silica (SiO2) 53.0<br /> Bicarbonate (HCO3) 130.0<br /> Calcium (Ca) 47.0<br /> Sulfate (SO4) 7.8<br /> Magnesium (Mg) 4.9<br /> Chloride (Cl) 2.2<br /> Sodium (Na) 4.0<br /> Fluoride (F) 0.26<br /> Potassium (K) 1.4<br /> Oxygen (O2) 4.5<br /> Free Carbon Dioxide (CO2) 9.7<br /> <br /> Radioactivity through radon gas emanation is 43.3 picocuries per liter.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.03418610095977,
+          34.53801444095433
+        ]
+      },
+      "properties": {
+        "name": "Rick's Pond",
+        "notes": "Rick's Pond\nhttps://www.nps.gov/places/rick-s-pond.htm\n\nRick's Pond, also know as the Stonebridge Area, contains several features of the old Fordyce-Ricks estate. In 1878 Samuel W. Fordyce purchased about 1,200 acres on Park Avenue northeast of the city. Later, in 1903 he hired the St. Louis architectural firm of Mauran, Russell, and Garden to design a log house on the property reminiscent of a late 19th or early 20th century railroad hostelry. Construction on the imposing 4,338-square-foot home began in 1904 and was completed by 1909. \"The Cabin,\" as Fordyce called it, was designed in the rustic Adirondack style with an exterior of logs and stone designed to integrate with the surrounding environment. Fordyce decorated the interior of \"the Cabin\" with his weapons collection and trophies of the hunt. John Fordyce, the eldest of Samuel’s three sons, served as construction engineer on the project.<br /> <br /> John Fordyce inherited the property upon his father's death and added a dam on the creek below the house to form a pond for his wife to enjoy. Named Lake Lillian in her honor, Fordyce also constructed large and small stone bridges over the creek and pond, a boathouse, and a water wheel to generate electricity for the house.<br /> <br /> After donating and selling some of land to the National Park Service, John Fordyce sold the remaining acreage of the original estate in 1937 to Major General Earl T. Ricks. The house and 17 acres on the hilltop above the pond are still privately owned. Today, Lake Lillian is known locally as Ricks Pond.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.0531825671879,
+          34.5143396367994
+        ]
+      },
+      "properties": {
+        "name": "Stevens Balustrade Shell Fountain (Hot)",
+        "notes": "Stevens Balustrade Shell Fountain (Hot)\nhttps://www.nps.gov/places/maurice-historic-spring-jug-fountain-hot.htm\n\n<p>Water averages 143º Fahrenheit/62º Celsius<br /> <br /> Mineral content in Parts per Million (ppm)</p> <p>Silica (SiO2) 53.0<br /> Bicarbonate (HCO3) 130.0<br /> Calcium (Ca) 47.0<br /> Sulfate (SO4) 7.8<br /> Magnesium (Mg) 4.9<br /> Chloride (Cl) 2.2<br /> Sodium (Na) 4.0<br /> Fluoride (F) 0.26<br /> Potassium (K) 1.4<br /> Oxygen (O2) 4.5<br /> Free Carbon Dioxide (CO2) 9.7</p> <p>Radioactivity through radon gas emanation is 43.3 picocuries per liter.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.05517039252233,
+          34.51837616344887
+        ]
+      },
+      "properties": {
+        "name": "Superior Bathhouse",
+        "notes": "Superior Bathhouse\nhttps://www.nps.gov/places/superior-bathhouse.htm\n\n<h4>Architecture & Design</h4> <p>The present Superior opened on February 1, 1916. It was built by L. C. Young and Robert Proctor in “an eclectic commercial style of classical revival origin,” contained 11,000 square feet, and cost $68,000 to build. The architect was Harry Schwebke. Brick pilasters lend architectural interest to both the forward projecting sun porch and to the second story portion of the main building. The vaguely Doric pilaster capitals are inset with a center medallion of green tile, as are the paterae over the pilasters. Both the sun porch and the second story portion of this bathhouse are topped with brick parapets.</p> <h4>History</h4> <p>The first Superior was constructed on portions of the old Hale and Big Iron bathhouse sites. It was made of red brick, some of which may have been reused in the current building. The style of construction was markedly different from that of the Victorian bathhouses that were its contemporaries. The business’s name was said to derive from offering superior service, but it may also have been meant to appeal to the many health seekers arriving from the upper Midwest. The smallest bathhouse on the Row, the Superior also had the lowest rates; it offered only the basic hydrotherapy, mercury, and massage services. It closed in November of 1983.</p> <h4>Today</h4> <p>The Superior Bathhouse is now home to the only <a href=\"https://www.superiorbathhouse.com/\">brewery</a> in a United States National Park, and the only brewery in the world to utilize thermal spring water to make their beer. Be sure to <a href=\"http://www.superiorbathhouse.com/\">visit their website</a> to learn more about the Superior Bathhouse Brewery.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.06790617487984,
+          34.508486265300796
+        ]
+      },
+      "properties": {
+        "name": "West Mountain",
+        "notes": "West Mountain\nhttps://www.nps.gov/places/west-mountain.htm\n\n<p>West Mountain Drive has entrances on Prospect Avenue and Whittington Avenue. It is a two way road that leads to the Summit Loop where you will find three overlooks. The first overlook affords a good view of Bathhouse Row and the former Army-Navy Hospital. The second overlook has a historic trail shelter and picnic tables and the summit has a view south to the Trap Mountains and Lake Hamilton. You'll find an outcrop of Arkansas Novaculite at the top as well; this rock was used by the Caddo Indians for making tools and weapons and later by European settlers for whetstones. Addtionaly, there is access to sunset trail at the summit. </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.06817564940388,
+          34.508486265300796
+        ]
+      },
+      "properties": {
+        "name": "West Mountain Novaculite Outcrop",
+        "notes": "West Mountain Novaculite Outcrop\nhttps://www.nps.gov/places/west-mountain-novaculite-outcrop.htm\n\n<p>Novaculite was mined by early native people because of its ability to be easily formed into a variety of shaped for tools while retaining their sharp edge. This outcrop is located on the summit of West Mountain. </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.05885264946433,
+          34.51244694572332
+        ]
+      },
+      "properties": {
+        "name": "West Mountain Shelter House",
+        "notes": "West Mountain Shelter House\nhttps://www.nps.gov/places/west-mountain-shelter-house.htm\n\n<p>Located in the middle of West Mountain, this shelter is a great place to rest in the shade after a long hike. This shelter was built in 1924 making it the oldest one still standing in the park today.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.06933477166308,
+          34.51504247873381
+        ]
+      },
+      "properties": {
+        "name": "Whittington Jug Fountain (Cold)",
+        "notes": "Whittington Jug Fountain (Cold)\nhttps://www.nps.gov/places/whittington-jug-fountain-cold.htm\n\n<p>The source of this cool water is just off Whittington Avenue near the base of West Mountain. In 1911, park employees built a trough for this spring flow to gather in, and in 1954 a jug fountain was built at the present location. Emerging from Big Fork Chert, the water is over 6000 years old.<br /> <br /> Water averages 66º Fahrenheit/19º Celsius<br /> <br /> Mineral content in Parts per Million (ppm):<br /> Silica (SiO2) 9.9<br /> Bicarbonate (HCO3) 150.0<br /> Calcium (Ca) 60.0<br /> Sulfate (SO4) 10.0<br /> Magnesium (Mg) 3.0<br /> Chloride (Cl) 2.4<br /> Sodium (Na) 1.7<br /> Nitrate (N) 0.14<br /> Potassium (K) 1.0<br /> Iron (Fe) 0.17</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.06587319991169,
+          34.516096787309706
+        ]
+      },
+      "properties": {
+        "name": "Whittington Park and Creek",
+        "notes": "Whittington Park and Creek\nhttps://www.nps.gov/places/whittington-park-and-creek.htm\n\n<p>Originally called Whittington Lake Reserve when it was built in the late 1890s, this tree-shaded greenway is located along Whittington Creek between West Mountain and Sugarloaf Mountain. It was named for early Hot Springs resident and businessman Hiram A. Whittington.</p> <p>Whittington Park once featured two shallow rowing lakes, several pavilions, tennis courts, carriage drives, and a caretaker's house. Today, it simply offers shaded walking trails for visitors to enjoy.</p>",
+        "icon": "red-pin-down.png"
+      }
+    }
+  ]
+}

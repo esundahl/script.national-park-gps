@@ -1,0 +1,599 @@
+[
+  {
+    "id": "869F7A77-0B28-4FE4-82F2-0B271DF235D0",
+    "url": "https://www.nps.gov/places/000/audio-tour-liberty-island.htm",
+    "title": "Audio Tour Liberty Island",
+    "listingDescription": "This self-guided tour helps visitors learn about the Statue of Liberty while exploring Liberty Island.<br />Adult tours are available in the following languages: English, Spanish, French, Italian, German, Mandarin, Russian, Arabic, Japanese.<br />",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/place/import/a3838384-9863-4ec0-810e-5125da8a4d0a_image_350.jpg",
+        "credit": "",
+        "altText": "The green-roofed white kiosk on the central plaza offers audio tour headphones for visitors to Liberty Island.",
+        "title": "",
+        "description": "",
+        "caption": "Audio Tour Kiosk on Liberty Island",
+        "crops": []
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "NY",
+        "parkCode": "stli",
+        "designation": "National Monument",
+        "fullName": "Statue Of Liberty National Monument",
+        "url": "https://www.nps.gov/stli/index.htm",
+        "name": "Statue Of Liberty"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [],
+    "latitude": "40.6901865735125",
+    "longitude": "-74.0463825365629",
+    "latLong": "40.6901865735125,-74.0463825365629",
+    "bodyText": "<p>This self-guided tour helps visitors learn about the Statue of Liberty while exploring Liberty Island.<br /> Adult tours are available in the following languages: Arabic, English, French, German, Hindi, Italian, Japanese, Korean, Mandarin, Portuguese, Russian, Spanish, American Sign Language (video,) and Audio Described for the Blind and Low Vision (English.)</p>",
+    "audioDescription": "",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "3fedb081-ad28-4eb4-a65e-27c526b28e8c",
+    "isManagedByNps": "1",
+    "amenities": [],
+    "managedByOrg": "",
+    "quickFacts": [],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  },
+  {
+    "id": "8379262D-5E92-44DE-B61C-4D845AD11331",
+    "url": "https://www.nps.gov/places/crown-cafe.htm",
+    "title": "Crown Cafe",
+    "listingDescription": "Amenities Food Service Liberty Island",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/893F077E-A325-5753-36544034BA378636.jpg",
+        "credit": "",
+        "altText": "Room with refrigerators with ice cream and shelves with snacks, a counter for ordering food",
+        "title": "Crown Café",
+        "description": "",
+        "caption": "The Crown Café has snacks, a coffee bar, and full meals available.",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/893F077E-A325-5753-36544034BA378636.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/893F077E-A325-5753-36544034BA378636.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "NY",
+        "parkCode": "stli",
+        "designation": "National Monument",
+        "fullName": "Statue Of Liberty National Monument",
+        "url": "https://www.nps.gov/stli/index.htm",
+        "name": "Statue Of Liberty"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [],
+    "latitude": "40.689921497951005",
+    "longitude": "-74.04610831820264",
+    "latLong": "40.689921497951005,-74.04610831820264",
+    "bodyText": "The Crown Café on Liberty Island has an espresso bar that serves Cappuccinos, Lattés, and Americanos using Starbucks Coffee. A variety of snacks are available including organic fruit, chips, and ice cream. Visitors also have the option of ordering full meals such as paninis, wraps, soup/salads, as well as hotdogs, hamburgers, and fries.<br /> <br /> <strong>Gift Shop & Bookstore:</strong> Within the same building, visitors will find a non-profit shop that sells books, apparel, historical reproductions, collectibles, and games in connection with the National Park Service. Immediately adjacent to the café is a traditional souvenir store that sells various items all related to the Statue of Liberty. Items such as coffee mugs, jewelry, or even family photos can be obtained. For inquiries about hosting an event, please telephone (212) 363-3180.",
+    "audioDescription": "",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "http://www.thestatueofliberty.com",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "",
+    "isManagedByNps": "1",
+    "amenities": [
+      "Food/Drink - Cafeteria",
+      "Food/Drink - Coffee",
+      "Food/Drink - Ice Cream",
+      "Food/Drink - Snacks"
+    ],
+    "managedByOrg": "Evelyn Hill Inc. - An authorized concessioner to the National Park Service",
+    "quickFacts": [
+      {
+        "id": "5C252B96-2DEB-4EF4-91D1-B5D2B202FCD7",
+        "value": "Liberty Island, New York",
+        "name": "Location"
+      },
+      {
+        "id": "208F1B3C-44DC-4CF5-9A61-9B26A364D701",
+        "value": "Statue of Liberty NM",
+        "name": "Significance"
+      },
+      {
+        "id": "E32D2136-A184-4C1A-91D2-4C20CEF9CBAF",
+        "value": "National Park Service",
+        "name": "Designation"
+      }
+    ],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  },
+  {
+    "id": "2A3433DA-EAE3-40CA-A141-7C847574C616",
+    "url": "https://www.nps.gov/places/ferry-liberty-island-to-ellis-island.htm",
+    "title": "Ferry: Liberty Island to Ellis Island",
+    "listingDescription": "This ferry departs Liberty Island and travels to Ellis Island: The National Museum of Immigration.",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/5D76D722-DE8D-EF59-F6413523519C5272.jpg",
+        "credit": "",
+        "altText": "Ferry showing hundreds of visitors in New York Harbor",
+        "title": "Statue Cruises Ferry in New York Harbor",
+        "description": "",
+        "caption": "The journey from Liberty Island to Ellis Island is approximately 15 minutes in length.",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/5D76D722-DE8D-EF59-F6413523519C5272.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/5D76D722-DE8D-EF59-F6413523519C5272.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "NY",
+        "parkCode": "stli",
+        "designation": "National Monument",
+        "fullName": "Statue Of Liberty National Monument",
+        "url": "https://www.nps.gov/stli/index.htm",
+        "name": "Statue Of Liberty"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [],
+    "latitude": "40.68991327807744",
+    "longitude": "-74.04711627960205",
+    "latLong": "40.68991327807744,-74.04711627960205",
+    "bodyText": "You can board the Statue Cruises Ferry on Liberty Island to travel to Ellis Island: The National Museum of Immigration. A departure schedule is located on the dock, and can also be found on their website at statuecruises.com. ",
+    "audioDescription": "",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "https://www.statuecruises.com",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "",
+    "isManagedByNps": "1",
+    "amenities": [
+      "Ferry - Passenger",
+      "Restroom - Accessible",
+      "Wheelchair Accessible"
+    ],
+    "managedByOrg": "Statue Cruises: An authorized concessioner of the National Park Service",
+    "quickFacts": [
+      {
+        "id": "5C252B96-2DEB-4EF4-91D1-B5D2B202FCD7",
+        "value": "Liberty Island Dock",
+        "name": "Location"
+      },
+      {
+        "id": "208F1B3C-44DC-4CF5-9A61-9B26A364D701",
+        "value": "Transportation",
+        "name": "Significance"
+      },
+      {
+        "id": "E32D2136-A184-4C1A-91D2-4C20CEF9CBAF",
+        "value": "Statue of Liberty NM",
+        "name": "Designation"
+      }
+    ],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  },
+  {
+    "id": "0A98475A-86FA-4DC9-B4C3-741064B31BD6",
+    "url": "https://www.nps.gov/places/000/fort-wood.htm",
+    "title": "Fort Wood",
+    "listingDescription": "The Statue of Liberty's pedestal sits atop the remains of Fort Wood, originally one link in a chain of defenses protecting New York City and its vital harbor. The fort was built between 1808 and 1811 in the shape of an eleven-pointed star and was occupied by the War Department as an army post until 1937.<br />The eleven-pointed star design was brought to North America by French military engineers in the 17th century. The fort acted as a lookout position with harbor guns entrenched near the shore.",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/place/import/2d9467d8-6db0-4c1a-b625-f8d12730d722_image_350.jpg",
+        "credit": "",
+        "altText": "The star-shaped base that supports the Statue of Liberty is actually the remains of Fort Wood, a strategic part of the New Harbor Defense.",
+        "title": "",
+        "description": "",
+        "caption": "Today, Fort Wood cradling the Statue's pedestal.",
+        "crops": []
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "NY",
+        "parkCode": "stli",
+        "designation": "National Monument",
+        "fullName": "Statue Of Liberty National Monument",
+        "url": "https://www.nps.gov/stli/index.htm",
+        "name": "Statue Of Liberty"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [],
+    "latitude": "40.68888",
+    "longitude": "-74.044228",
+    "latLong": "40.68888,-74.044228",
+    "bodyText": "<p>The Statue of Liberty's pedestal sits atop the remains of Fort Wood, originally one link in a chain of defenses protecting New York City and its vital harbor. The fort was built between 1808 and 1811 in the shape of an eleven-pointed star and was occupied by the War Department as an army post until 1937.<br />The eleven-pointed star design was brought to North America by French military engineers in the 17th century. The fort acted as a lookout position with harbor guns entrenched near the shore.</p><h3>Why is it called Fort Wood?</h3><p>Fort Wood is named in honor of Lieutenant Colonel Eleazer Derby Wood. An American Army engineer who died in the siege of Fort Erie, Ontario, on the Canadian front of the War of 1812. Lt. Col. Wood was born in New York City and graduated from the United States Military Academy in 1806.</p><h3>What is it made out of?</h3><p>The exterior walls of the fort are covered with a grey-blue granite from Blue Hill, Maine. The granite is bonded to the rubble masonry walls with concrete. Most of the work was completed during the summers of 1845-1847. Remember, this work couldn't be completed in the below freezing temperatures of a winter in New York Harbor. </p>",
+    "audioDescription": "",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "",
+    "isManagedByNps": "1",
+    "amenities": [
+      "Wheelchair Accessible"
+    ],
+    "managedByOrg": "",
+    "quickFacts": [],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  },
+  {
+    "id": "A963F3B7-9619-48D4-BD79-66C7E6B9D29B",
+    "url": "https://www.nps.gov/places/000/liberty-island.htm",
+    "title": "Liberty Island",
+    "listingDescription": "Liberty Island is home of the Statue of Liberty National Monument and Fort Wood. The Statue was a gift from the people of France to the people of the Untied States celebrating the friendship between the two nations. The symbolism of the Statue is ever changing.",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/place/import/47ad9a95-17aa-41df-8f02-d85d48646fe0_image_350.jpg",
+        "credit": "",
+        "altText": "An aerial view of Lady Liberty sets her star shaped base in stark relief against the green grass and blue water surrounding the statue.",
+        "title": "",
+        "description": "",
+        "caption": "Arial view of Liberty Island.",
+        "crops": []
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "NY",
+        "parkCode": "stli",
+        "designation": "National Monument",
+        "fullName": "Statue Of Liberty National Monument",
+        "url": "https://www.nps.gov/stli/index.htm",
+        "name": "Statue Of Liberty"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [],
+    "latitude": "40.690767",
+    "longitude": "-74.045835",
+    "latLong": "40.690767,-74.045835",
+    "bodyText": "<p>Liberty Island is home of the Statue of Liberty National Monument and Fort Wood. The Statue was a gift from the people of France to the people of the Untied States celebrating the friendship between the two nations. The symbolism of the Statue is ever changing.</p><h3>Ranger Tours</h3><p>Meet at the flag pole for a Ranger led tour, weather permitting. Tour times are posted at the flag pole and in the Information Center.<br /><br /></p><h3>Audio Tour Liberty Island</h3><p>This self-guided tour helps visitors learn about the Statue of Liberty while exploring Liberty Island.<br />Adult tours are available in the following languages: English, Spanish, French, Italian, German, Mandarin, Russian, Arabic, Japanese.</p><h3>Fort Wood</h3><p>The Statue of Liberty's pedestal sits atop the remains of Fort Wood, originally one link in a chain of defenses protecting New York City and its vital harbor. The fort was built between 1808 and 1811 in the shape of an eleven-pointed star and was occupied by the War Department as an army post until 1937.<br /><br />The eleven-pointed star design was brought to North America by French military engineers in the 17th century. The fort acted as a lookout position with harbor guns entrenched near the shore. Many incised markings, believed to be Masonic symbols, have been found on its granite exterior walls and the surrounding lawn.</p><h3>Island History</h3><p>Formerly called Bedloe's Island, Liberty Island was under the control of the U.S. Lighthouse Board, then the U.S. War Department, and in 1933, became part of the National Park Service. Liberty Island is approximately 15 acres of land located in New York Harbor and is part of New York State.</p><h3>Ferry off the island</h3><p>Return to the dock where you arrived. The Ferry to Ellis Island and The Battery - New York, will be on your right. The Ferry to Liberty State Park, New Jersey, will be on your left.</p>",
+    "audioDescription": "",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "",
+    "isManagedByNps": "1",
+    "amenities": [
+      "Wheelchair Accessible"
+    ],
+    "managedByOrg": "",
+    "quickFacts": [],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  },
+  {
+    "id": "A6A19C52-EB29-401F-A198-719187DCB3C0",
+    "url": "https://www.nps.gov/places/000/pedestal.htm",
+    "title": "Pedestal",
+    "listingDescription": "Access into the monument is very limited. Pedestal tickets are reserved through Statue Cruises prior to visiting the island. A limited number of \"Pedestal Access\" tickets are available each day at the ticket offices in Battery Park, NY, and Liberty State Park, NJ, on a first-come, first-serve basis.",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/place/import/21cdce3a-0a1e-4466-8d68-9cd45de586ab_image_350.jpg",
+        "credit": "",
+        "altText": "Lady Libertyâ€™s 89-foot-tall stone pedestal contains observation windows where visitors can look out across the harbor.",
+        "title": "",
+        "description": "",
+        "caption": "Pedestal under the Statue",
+        "crops": []
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "NY",
+        "parkCode": "stli",
+        "designation": "National Monument",
+        "fullName": "Statue Of Liberty National Monument",
+        "url": "https://www.nps.gov/stli/index.htm",
+        "name": "Statue Of Liberty"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [],
+    "latitude": "40.689376",
+    "longitude": "-74.044641",
+    "latLong": "40.689376,-74.044641",
+    "bodyText": "<p>Access into the monument is very limited. Pedestal tickets are reserved through Statue Cruises prior to visiting the island. A limited number of \"Pedestal Access\" tickets are available each day at the ticket offices in Battery Park, NY, and Liberty State Park, NJ, on a first-come, first-serve basis.</p><h3>Pedestal Access</h3><p>Pedestal access allows visitors to go to the top of the granite pedestal, as well as the lower pedestal levels and the museum located in the base. The pedestal is accessible by stairs or elevators located within the monument. </p><h3>Funding the Pedestal</h3><p>The Statue of Liberty's pedestal was one of the largest private fundraising efforts of the 19th century. After nearly 20 years of planning, designing and fundraising, the pedestal was completed and the Statue was placed on top.</p><h3>Top of the Pedestal</h3><p>From this point, you may look up inside the Statue through the glass ceiling panels. Also, depending upon weather conditions, visitors have the opportunity to walk outside with a panoramic view of New York Harbor.</p>",
+    "audioDescription": "",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "",
+    "isManagedByNps": "1",
+    "amenities": [
+      "Elevator"
+    ],
+    "managedByOrg": "",
+    "quickFacts": [],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  },
+  {
+    "id": "5C934B91-7280-4D6F-B715-0B1B1E1DFAB6",
+    "url": "https://www.nps.gov/places/000/remnants-of-fort-wood.htm",
+    "title": "Remnants of Fort Wood",
+    "listingDescription": "You are looking at the remains of a bomb-proof room, most likely built in the 1840's. The mortared brick vault enclosed this room, which was later converted for use as a guard room and then as a prison cell.",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/place/import/baa9280a-0cc3-40c1-a2c1-c6b6b69e1dc6_image_350.jpg",
+        "credit": "",
+        "altText": "The excavated remains of Fort Wood, now the base of the Statue of Liberty, are visible after many years of being buried under landfill.",
+        "title": "",
+        "description": "",
+        "caption": "The entire original brick arch",
+        "crops": []
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "NY",
+        "parkCode": "stli",
+        "designation": "National Monument",
+        "fullName": "Statue Of Liberty National Monument",
+        "url": "https://www.nps.gov/stli/index.htm",
+        "name": "Statue Of Liberty"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [],
+    "latitude": "40.68941",
+    "longitude": "-74.044901",
+    "latLong": "40.68941,-74.044901",
+    "bodyText": "<p>You are looking at the remains of a bomb-proof room, most likely built in the 1840's. The mortared brick vault enclosed this room, which was later converted for use as a guard room and then as a prison cell.</p>",
+    "audioDescription": "",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "",
+    "isOpenToPublic": "0",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "",
+    "isManagedByNps": "1",
+    "amenities": [
+      "Historical/Interpretive Information/Exhibits"
+    ],
+    "managedByOrg": "",
+    "quickFacts": [],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  },
+  {
+    "id": "0D2E97EE-47C1-4B7E-9E17-95C93FE14EC2",
+    "url": "https://www.nps.gov/places/000/sculpture-garden.htm",
+    "title": "Sculpture Garden",
+    "listingDescription": "The Sculpture Garden brings to life some of the most important people involved in the creation and construction of the Statue of Liberty and its pedestal. View the statues of Edouard de Laboulaye, Frederic-Auguste Bartholdi, Alexandre-Gustave Eiffel, Joseph Pulitzer, and Emma Lazrus.",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/ACDB4F69-B9A9-5C06-AB8A8DD4F30C5F41.jpg",
+        "credit": "NPS photo",
+        "altText": "Five metal sculptures are displayed by a walkway on Liberty Island",
+        "title": "The Sculpture Garden on Liberty Island",
+        "description": "",
+        "caption": "The Sculpture Garden on Liberty Island",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/ACDB4F69-B9A9-5C06-AB8A8DD4F30C5F41.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/ACDB4F69-B9A9-5C06-AB8A8DD4F30C5F41.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "NY",
+        "parkCode": "stli",
+        "designation": "National Monument",
+        "fullName": "Statue Of Liberty National Monument",
+        "url": "https://www.nps.gov/stli/index.htm",
+        "name": "Statue Of Liberty"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [],
+    "latitude": "40.68929444666259",
+    "longitude": "-74.04546976089478",
+    "latLong": "40.68929444666259,-74.04546976089478",
+    "bodyText": "<p>The Sculpture Garden brings to life some of the most important people involved in the creation and construction of the Statue of Liberty and its pedestal. View the statues of Edouard de Laboulaye, Frederic-Auguste Bartholdi, Alexandre-Gustave Eiffel, Joseph Pulitzer, and Emma Lazrus.</p> <h3>Laboulaye</h3> <p>Edouard de Laboulaye -In 1865, Laboulaye proposed the idea of a monument for the United States representing the ideals of freedom and democracy.</p> <h3>Bartholdi</h3> <p>Frederic-Auguste Bartholdi - The French artist and sculptor who designed the Statue of Liberty, officially entitled Liberty Enlightening the World.</p> <h3>Eiffel</h3> <p>Alexandre-Gustave Eiffel - The architect and engineer who replaced Viollet-le-Duc to design the Statue's internal support system.</p> <h3>Pulitzer</h3> <p>Joseph Pulitzer - Using his newspaper to urge the American public to donate, he helped to raise funds for the Pedestal.</p> <h3>Lazarus</h3> <p>Emma Lazarus - The poet who wrote \"The New Colossus\" to help raise money for the Pedestal's construction.</p>",
+    "audioDescription": "",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "",
+    "isManagedByNps": "1",
+    "amenities": [
+      "Wheelchair Accessible"
+    ],
+    "managedByOrg": "",
+    "quickFacts": [],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  },
+  {
+    "id": "AB8D8C8A-0122-49A8-808A-BDC895C20ECE",
+    "url": "https://www.nps.gov/places/000/statue-front.htm",
+    "title": "Statue Front",
+    "listingDescription": "The front of the island is one of the best places to get pictures and capture the beauty of the Statue of Liberty. Standing at 305 feet and 1 inch (93 meters), the Statue was the tallest structure in New York when built in 1886. The Statue is raising a torch with her right arm and her left arm is supporting a tablet bearing the date of American Independence, July 4, 1776 in Roman numerals (July IV, MDCCLXXVI.)",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/place/import/3d0fd43b-0c68-4102-b99b-133bc254d7b6_image_350.jpg",
+        "credit": "",
+        "altText": "The bright green patina of Lady Liberty stands out in bright contrast to the cumulus clouds behind her.",
+        "title": "",
+        "description": "",
+        "caption": "The view from the approaching Ferry",
+        "crops": []
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "NY",
+        "parkCode": "stli",
+        "designation": "National Monument",
+        "fullName": "Statue Of Liberty National Monument",
+        "url": "https://www.nps.gov/stli/index.htm",
+        "name": "Statue Of Liberty"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [],
+    "latitude": "40.688627",
+    "longitude": "-74.044059",
+    "latLong": "40.688627,-74.044059",
+    "bodyText": "<p>The front of the island is one of the best places to get pictures and capture the beauty of the Statue of Liberty. Standing at 305 feet and 1 inch (93 meters), the Statue was the tallest structure in New York when built in 1886. The Statue is raising a torch with her right arm and her left arm is supporting a tablet bearing the date of American Independence, July 4, 1776 in Roman numerals (July IV, MDCCLXXVI.)</p>",
+    "audioDescription": "Statue of Liberty front and Why is the Statue Green<br /><br />527 words Length: 2:07<br /><br />The Statue of Liberty is a 151 feet tall female figure wearing a Grecian style robe pinned at her left shoulder. Her right arm is raised up at an eighty degree angle, and she holds a torch with a golden flame. Her left arm is bent at the elbow, close to her left side. In her left hand, she holds a tablet inscribed \"July IV MDCCLXXVI\". On her head she wears a circular crown with seven triangular shaped rays extending across the front. Each ray is nine feet long. The base of the crown has twenty-five windows for viewing the New York Harbor and beyond.<br /><br />The statue sits on an eighty-nine-foot tall granite pedestal. The four-sided pedestal has three viewing windows on each side. It rises above a sixty-five-foot tall granite and cement base in the shape of an eleven pointed star. The total height of the statue from the ground to the tip of the torch is 305 feet, the equivalent of a 22-story building.<br /><br />About 100 feet to the left of the statue, there is an informational wayside sign entitled \"Why is the Statue Green?\". It sits at the edge of the walkway on a concrete slab angled 45 degrees front to back. The sign is two feet tall by three feet wide. The background of the sign is an extreme close up of the folds of Lady Liberty's robe rendered in orange and red tones. It gives an impressionistic sense of light and shadow. The text reads: \"The answer is in the air. The Statue's skin is made of copper, and when copper is exposed to oxygen in the air, it undergoes a chemical reaction called oxidation. The reaction causes a fine crust or film to develop that is usually green in color. This layer protects the original metal underneath. In copper and bronze, this natural protective process is called patination. It took nearly thirty years for the Statue to turn from her original copper color to the green you see today. The patination process can also be observed on buildings where copper or bronze are used for roofing or ornamentation such as the ferry dock on Liberty Island and on the roof and domes of the Immigration Station at Ellis Island.\"<br /><br />End of Text<br /><br />To the right of the text is a vertical black and white photograph of the statue. The caption reads: \"Statue of Liberty, ca. 1900, still displaying original copper color.\"<br /><br />End of Text<br /><br />There is a square color photograph to the right of the black and white photograph that shows the Custom House with its green copper roof. The photograph is taken from a position across the street and just slightly more elevated than the roof. The caption reads: \"Alexander Hamilton U.S. Custom House/One Bowling Green, Manhattan/Built 1901-1907/Cass Gilbert, Architect\"<br /><br />End of Text<br /><br />On the far right is a color photograph of the Trump Building's tent-shaped copper roof. The sky behind is clear blue with white clouds. The building is surrounded by several other Lower Manhattan buildings, both old and modern. The caption reads: \"The Trump Building/40 Wall Street, Manhattan./Built 1929-1920./H. Craig Severance, Architect.\"<br /><br />End of Text<br /><br />End of Message",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "",
+    "isManagedByNps": "1",
+    "amenities": [],
+    "managedByOrg": "",
+    "quickFacts": [],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  },
+  {
+    "id": "BA24638C-1EFF-4B92-B38B-8E34C8EF3879",
+    "url": "https://www.nps.gov/places/000/viewing-the-skyline-from-liberty.htm",
+    "title": "Viewing the Skyline from Liberty",
+    "listingDescription": "In 1886, the Statue of Liberty standing on her pedestal, stood taller than any other structure in New York City.<br />View the evolution of the tall buildings in the skyline at the wayside on the northwest side of the of island.",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/700B073A-EA8D-000F-CDF38D3A92D26808.jpg",
+        "credit": "NPS Photo",
+        "altText": "People along railing above water",
+        "title": "Manhattan from Liberty Island",
+        "description": "",
+        "caption": "The View of Manhattan from the Northwest Side of Liberty Island",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/700B073A-EA8D-000F-CDF38D3A92D26808.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/700B073A-EA8D-000F-CDF38D3A92D26808.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "NY",
+        "parkCode": "stli",
+        "designation": "National Monument",
+        "fullName": "Statue Of Liberty National Monument",
+        "url": "https://www.nps.gov/stli/index.htm",
+        "name": "Statue Of Liberty"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [],
+    "latitude": "40.690775",
+    "longitude": "-74.045159",
+    "latLong": "40.690775,-74.045159",
+    "bodyText": "<p>In 1886, the Statue of Liberty standing on her pedestal, stood taller than any other structure in New York City.<br /> View the evolution of the tall buildings in the skyline at the wayside on the northwest side of the of island.</p>",
+    "audioDescription": "Liberty Island Harbor View and Wayside<br /><br />463 words Length: 2:01<br /><br /><br />On the Manhattan side of the red brick plaza leading from the flagpole area, there is a panoramic view of the New York Harbor. The skyline of Manhattan lies ahead. Ellis Island is at eleven o'clock. The Brooklyn Bridge is at one o'clock. The water's edge is bordered by a ten-foot-wide red brick path with a three-foot tall black metal guard rail. The guard rail is just over three-feet high, with black posts spaced every four feet and rectangles of black metal mesh on the bottom two-thirds. There are four coin-operated viewfinders nearby and an informational wayside sign entitled \"Manhattan Skyline\".<br /><br />The two-feet by four-feet wayside sign sits on a triangular shaped black granite pedestal angled at forty-five degrees front to back. The pedestal is elevated on a twenty foot-long black granite rectangular base that is about two feet high. The background of the sign is a photograph of the Manhattan skyline against blue sky. The text reads: \"In 1886, the Statue of Liberty standing on her pedestal stood taller than any other structure in New York City. At 305 feet one inch, 92.9 meters, it exceeded even the Brooklyn Bridge, which had been completed three years earlier. However, the statue was soon surpassed in height by the forest of tall buildings which gave Manhattan its world famous skyline.\"<br /><br />End of Text<br /><br />The following structures are labeled: Empire State Building, 1 World Trade Center, Bank of Manhattan, U.S. Customs House, Citibank Farmer's Trust Company, Brooklyn Bridge\"<br /><br />Three are three rectangular photographs across the bottom of the sign, inserted over the waters of the harbor. They show the changing skyline through the decades.<br /><br />The first photograph is black and white. It is captioned: \"Lower Manhattan Skyline, 1908\". Two buildings are identified in the photograph: Singer Building 1908-1970 and U.S. Customs House 1907.\"<br /><br />To the right of 1908 photograph, there is a black and white photograph captioned: \"Lower Manhattan Skyline, 1934\". Three buildings are identified: Woolworth Building, 1913, Bank of Manhattan, 1929, Citibank Farmer's Trust, 1931.\"<br /><br />In the lower right hand corner, there is a color photograph captioned: \"Lower Manhattan Skyline 1997.\" Two buildings are identified: The Empire State Building, 1931, World Trade Center, 1973 - September 11, 2001\"<br /><br />A fourth caption, describing the overall background photo reads: \"Background: View of Manhattan Skyline 2013.\"<br /><br />End of Text<br /><br />Be aware that two of the view finders are directly in front of the black granite rectangular base, just to the right and left of the sign. They sit on a three-inch high circular granite base. Two more viewfinders are on the other side of the granite base, close to the harbor barrier. A fifth viewfinder is twenty-five feet to the right, mounted on a metal pole that extends two foot into the walkway next to the harbor barricade.<br /><br />End of Message",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "",
+    "isManagedByNps": "1",
+    "amenities": [],
+    "managedByOrg": "",
+    "quickFacts": [],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  }
+]

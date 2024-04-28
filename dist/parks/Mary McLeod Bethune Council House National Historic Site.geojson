@@ -1,0 +1,20 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.030676,
+          38.908376
+        ]
+      },
+      "properties": {
+        "name": "Mary McLeod Bethune Council House National Historic Site",
+        "notes": "Mary McLeod Bethune Council House National Historic Site\nhttps://www.nps.gov/places/000/mary-mcleod-bethune-council-house-national-historic-site.htm\n\n<p>This house was the first national headquarters of the National Council of Negro Women, Inc. (NCNW) and was Mary McLeod Bethune's last home in Washington, DC. From here, Bethune and the NCNW spearheaded strategies and developed programs that advanced the interests of African American women.<br /> Inscriptions<br /> BETHUNE MUSEUM ARCHIVES<br /> Mary McLeod Bethune \"Council House\"<br /> National Historic Site<br /> Designated October 15, 1982<br /> By Act of Congress<br /> Born on July 10, 1875, in Mayesville, South Carolina, Mary McLeod Bethune was the daughter of sharecroppers. After attending Scotia Seminary in North Carolina she founded Daytona School for Negro Girls which became Bethune-Cookman College. A leader in the Black Women's Club movement, Mrs. Bethune became advisor to Presidents Calvin Coolidge. Herbert Hoover, and Franklin Roosevelt.<br /> During the administration of President Roosevelt. Mrs. Bethune served as Special Advisor on Minority Affairs and Director of the Division of Negro Affairs. In 1935 she founded the National Council of Negro Women, which united national black women's organizations to fight discrimination against black people and women. During the period of her greatest influence, Mary McLeod Bethune resided in this house, where she received political leaders and heads of state while working with black women leaders to advance the interest of black Americans. The site served as headquarters for the National Council of Negro Women until 1966. As the Mary McLeod Bethune Memorial Museum and the National Archives for Black Women's History, the house continues Mrs. Bethune's dream to tell the story of black women in America.</p>",
+        "icon": "red-pin-down.png"
+      }
+    }
+  ]
+}

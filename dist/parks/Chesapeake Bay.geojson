@@ -1,0 +1,920 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.93559674072266,
+          38.95344142437474
+        ]
+      },
+      "properties": {
+        "name": "Adkins Arboretum",
+        "notes": "Adkins Arboretum\nhttps://www.nps.gov/places/adkins-arboretum.htm\n\n<p>Adkins Arboretum is a 440-acre native garden and preserve found on Tuckahoe Creek in Caroline County, MD. Tuckahoe State Park surrounds the arboretum, allowing easy access to the park’s trails and amenities. The site is home to woodlands, meadows and one of the Eastern Shore’s most significant forested wetlands. The arboretum also promotes the conservation and restoration of the Chesapeake Bay region’s native landscapes.<br /> <br /> The site’s visitor center orients visitors to the grounds, provides brochures about significant features, and informs participants about guided walks. Adkins Arboretum also hosts numerous environmental education programs that inspire and guide visitors to explore the region’s natural beauty and take action to protect and enhance our backyards, neighborhoods, and communities.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.48693442344666,
+          38.97769352767189
+        ]
+      },
+      "properties": {
+        "name": "Annapolis City Dock",
+        "notes": "Annapolis City Dock\nhttps://www.nps.gov/places/annapolis-city-dock.htm\n\nAnnapolis City Dock is a bustling hub in the historic heart of Annapolis, MD. City Dock has served as an important port within Annapolis and the Chesapeake Bay region for at least 350 years. Though City Dock served as a site for warehouses, shipping, and trade, it also stood as one of the regions and country’s earliest slave ports. City Dock shares this history with numerous plaques and markers indicating its infamous role in the Atlantic Slave Trade.<br /> <br /> Today, City Dock continues to connect its residents with the waters of the Chesapeake Bay and businesses of the region. Just a quick walk from City Dock will bring tourists and visitors to Main Street which is populated with dozens of unique and locally owned shops, restaurants, pubs, inns and more. “Ego Alley” is another popular attraction of City Dock where owners can parade their boats down the alley.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.4764,
+          38.9688
+        ]
+      },
+      "properties": {
+        "name": "Annapolis Maritime Museum",
+        "notes": "Annapolis Maritime Museum\nhttps://www.nps.gov/places/annapolis-maritime-museum.htm\n\n<p>The Annapolis Maritime Museum is a premiere museum in Downtown Annapolis which educates visitors about the area’s maritime heritage and ecology. The organization has two campuses which are used to entertain and educate its visitors: McNasby Oyster Company and Ellen O. Moyer Nature Park.<br /> <br /> The McNasby Oyster Company is a historic building which has served as the museum’s base of operations for over 20 years. Located directly on Back Creek and the Severn River in Eastport, MD, the museum provides a perfect setting for visitors to engage in interactive experiences and programs and learn about the ecology and maritime history of the area. Numerous exhibits, and structures achieve this vision along with a nearby beachside park and piers.<br /> <br /> The Ellen O. Moyer Nature Park is also located on Back Creek and encompasses 12-acres of forested trails, waterfront, event pavilion and more. This park campus caters primarily to school groups, summer camps and education programs for the benefit of inspiring younger generations to love and care for the Chesapeake Bay.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.49644017219543,
+          38.97843582824839
+        ]
+      },
+      "properties": {
+        "name": "Annapolis and Anne Arundel County Visitor Information Center",
+        "notes": "Annapolis and Anne Arundel County Visitor Information Center\nhttps://www.nps.gov/places/annapolis-visitor-center.htm\n\nThe Annapolis and Anne Arundel County Visitor Center is the best destination for anyone wishing to explore both Annapolis and Anne Arundel County, Maryland. Conveniently located in Downtown Annapolis on 26 West Street, the visitor center offers event calendars, brochures and even itineraries for any need. A trained volunteer information specialist is also available to answer any questions and make trip recommendations. The visitor center also has a satellite location, the City Dock Information Booth, located at Annapolis’ City Dock. Both visitor center locations are within walking distance from highlights and points of interest in downtown Annapolis.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.6018,
+          39.2735
+        ]
+      },
+      "properties": {
+        "name": "Baltimore Museum of Industry",
+        "notes": "Baltimore Museum of Industry\nhttps://www.nps.gov/places/baltimore-museum-of-industry.htm\n\n<p>The Baltimore Museum of Industry, located in Downtown Baltimore near the Inner Harbor, explores the industrial and technological history of Baltimore and Maryland through education programs and exhibitions. Situated in a historic 1860s oyster cannery, the museum’s many collections remind visitors of Baltimore’s long history and how the city developed from a small trading port to a thriving industrial hub and one of the country’s major North Atlantic ports.<br /> <br /> Education programs, guided tours, historic galleries, and other exhibits tell the stories of the workers, business-owners and inventions that propelled Baltimore into the Industrial Revolution and how the city stands as a major industrial center.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.609260559082,
+          39.2905807495117
+        ]
+      },
+      "properties": {
+        "name": "Baltimore National Heritage Area",
+        "notes": "Baltimore National Heritage Area\nhttps://www.nps.gov/places/baltimore-national-heritage-area.htm\n\nThe <a href=\"http://explorebaltimore.org\">Baltimore National Heritage Area</a> (BNHA) promotes, preserves, and enhances Baltimore’s cultural and historic legacy and natural resources for current and future generations. Originally in the Office of the Mayor, BNHA is now managed through the non-profit Baltimore Heritage Area Association, Inc. <br /> <br /> The purpose of the heritage area is to help local agencies and non-profits with <span style=\"color: rgb(70, 70, 70); font-family: arial, helvetica, sans-serif; font-size: 14px;\">projects and programs that recognize and protect heritage resources; </span>develop recreational and educational opportunities; increase public awareness and appreciation of natural, historic, scenic, and cultural resources; protect and restore historic places that reflect the area’s themes; and identify points of interest.<br /> <br /> One of BNHA’s most visible projects is its network of <strong><a href=\"https://www.explorebaltimore.org/tours\">urban heritage trails</a></strong>. BNHA works n partnership with <a href=\"www.nps.gov/fomc/index.htm\">Fort McHenry National Monument and Historic Shrine</a>. <a href=\"https://www.nps.gov/thingstodo/baltimore-star-spangled-tour.htm\">Things to do in BNHA.</a> The <a href=\"http://explorebaltimore.org/about-us\">Year in Review publications</a> is an in-depth look at the heritage area's impacts.<br /> <br /> <strong>The Baltimore National Heritage Area includes the following National Historic Landmarks:</strong> <ul> <li><a href=\"https://www.explorebaltimore.org/places/basilica-of-the-assumption-baltimore-basilica\">Basilica of the Assumption</a> (Baltimore Basilica)</li> <li><a href=\"https://www.explorebaltimore.org/places/davidge-hall-college-of-medicine-of-maryland\">Davidge Hall</a> (College of Medicine of Maryland)</li> <li><a href=\"https://www.explorebaltimore.org/places/edgar-allan-poe-house\">Edgar Allan Poe House</a></li> <li><a href=\"https://www.explorebaltimore.org/places/edgar-allan-poe-house\">First Unitarian Church of Baltimore</a></li> <li><a href=\"https://www.nps.gov/places/star-spangled-banner-flag-house.htm\">Star-Spangled Banner Flag House</a></li> <li><a href=\"https://www.explorebaltimore.org/news/bnha-takes-stewardship-role-in-future-of-mencken-house\">H.L. Mencken House</a></li> <li><a href=\"https://www.explorebaltimore.org/places/lightship-chesapeake\">Lightship Chesapeake</a></li> <li><a href=\"https://www.explorebaltimore.org/places/mount-clare-station-and-roundhouse\">Mount Clare Station and Roundhouse</a></li> <li><a href=\"https://www.explorebaltimore.org/places/peale-museum\">Peale Museum</a></li> <li><a href=\"https://www.explorebaltimore.org/places/phoenix-shot-tower\">Phoenix Shot Tower</a></li> <li><a href=\"https://www.explorebaltimore.org/places/saint-marys-seminary-chapel\">Saint Mary's Seminary Chapel</a></li> <li><a href=\"https://www.nps.gov/thingstodo/the-baltimore-the-last-steam-powered-tugboat.htm\">Steam Tug Baltimore</a></li> <li><a href=\"https://www.nps.gov/places/uscgc-taney.htm\">USCGC Taney</a></li> <li><a href=\"https://www.nps.gov/thingstodo/board-the-uss-constellation.htm\">USS Constellation</a></li> <li><a href=\"https://www.nps.gov/places/uss-torsk.htm\">USS Torsk</a></li> </ul>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.61275148391724,
+          39.28366756530204
+        ]
+      },
+      "properties": {
+        "name": "Baltimore Visitor Center",
+        "notes": "Baltimore Visitor Center\nhttps://www.nps.gov/places/baltimore-visitor-center.htm\n\n<p>The Baltimore Visitor Center, located in the Inner Harbor of Baltimore, is an excellent starting point for exploring Baltimore City. The large, state-of-the-art facility provides up-to-date information, resources, and services for visitors to learn all about the best places and sites to visit in Baltimore. The center contains hundreds of brochures, visitor guides and maps for tourism throughout the city as well as exhibits and artworks from city museums and galleries.</p> <h2>History</h2> <p><em>War of 1812</em><br /> After crushing the Americans at <a href=\"https://www.nps.gov/stsp/learn/historyculture/battle-of-bladensburg.htm\">Bladensburg</a> and invading the <a href=\"https://www.nps.gov/stsp/learn/historyculture/invasion-of-washington-dc.htm\">Nation’s Capital</a>, the British targeted Baltimore. If they could capture the city—the third largest in the United States and a commercial and shipbuilding hub—they could likely bring the war to an end. Military and civilians, including free and enslaved African Americans, rallied to fend off the British.<br /> <br /> On September 12-14, 1814, the British attacked by land from <a href=\"https://www.nps.gov/stsp/learn/historyculture/battle-of-north-point.htm\">North Point</a> and by water at <a href=\"https://www.nps.gov/fomc/learn/historyculture/the-bombardment-of-fort-mchenry.htm\">Fort McHenry</a> on the Patapsco. The impressive American defenses and the failure to capture Fort McHenry persuaded the British to withdraw, essentially ending their campaign of the Chesapeake Bay.<br /> <br /> Throughout Baltimore you can find links to people and events that helped turn the tide of the War of 1812:</p> <ul> <li> <p><a href=\"https://www.mdhistory.org/\">Maryland Center for Histori and Culture</a> – War of 1812 exhibits and original manuscript of “Star-Spangled Banner” </p> </li> <li> <p><a href=\"https://pattersonpark.com/\">Patterson Park</a> – Remnants of defensive earthworks on Hampstead Hill; views of British approaches to Baltimore</p> </li> <li> <p><a href=\"https://www.nps.gov/fomc/index.htm\">Fort McHenry National Monument and Historic Shrine </a>– Exhibits and programs about the Star-Spangled Banner and defense of Baltimore</p> </li> <li> <p><a href=\"http://www.flaghouse.org/\">Star-Spangled Banner Flag House</a> – Programs about the flag that inspired the national anthem </p> </li> <li> <p><a href=\"https://www.nps.gov/places/fells-point.htm\">Fells Point</a>  – Historic seaport prominent during the War of 1812</p> </li> </ul>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Battle Acre Park",
+        "notes": "Battle Acre Park\nhttps://www.nps.gov/places/battle-acre-park.htm\n\nBattle Acre Park is a small park that commemorates the <a href=\"https://www.nps.gov/stsp/learn/historyculture/battle-of-north-point.htm\">Battle of North Point</a> on September 12, 1814. Located in Dundalk, MD, the park was dedicated in 1839 to honor the Maryland militia who fought against the British forces.<br /> <br /> The park's large “Home of the Brave” mural highlights the region’s role during the War of 1812 through five separate images. The main image is a depiction of the Battle of North Point with American militia troops engaging British soldiers en route to Baltimore City. On either side of the center image are portraits of the two military leaders for the conflict, with U.S. Brigadier General <a href=\"https://www.nps.gov/stsp/learn/historyculture/john-stricker.htm\">John Stricker</a> on the left and British Major General <a href=\"https://www.nps.gov/people/robert-ross.htm\">Robert Ross </a>on the right. The final two flanking panels showcase Todd’s Inheritance, a signal house and horse courier station during the war, and the 25th anniversary commemoration event where the original Star-Spangled Banner was spread across the stage. The mural, created by artist Marshall Adams and unveiled in 2014, runs along the park's western boundary on an exterior wall of a business, across the street from the <a href=\"https://dnr.maryland.gov/publiclands/Pages/central/NorthPointBattlefield.aspx\">North Point State Battlefield.</a>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.5927,
+          38.4903
+        ]
+      },
+      "properties": {
+        "name": "Battle Creek Cypress Swamp",
+        "notes": "Battle Creek Cypress Swamp\nhttps://www.nps.gov/places/battle-creek-cypress-swamp.htm\n\n<p>Battle Creek Cypress Swamp is one of the northernmost stands of bald cypress trees. These unusual conifers shed their feathery leaves in the fall. In winter, their gray, shreddy bark distinguishes bald cypress from other deciduous trees. A small, wooden boardwalk snakes around these relics of the past. Distinctive, knobby cypress \"knees\" emerge from the water near the boardwalk.</p> <p>On spring mornings, visitors are serenaded by birds such as the golden-colored Prothonotary warbler and the ground-foraging Louisiana waterthrush. In late summer, visitors can enjoy splashes of color provided by cardinal-flower and the threatened red turtlehead (Chelone obliqua). In the evening, one may also hear the quick trill of the arboreal gray treefrog. Visitors can enjoy several hiking trails that lead through the property.</p> <p>Battle Creek Cypress Swamp encompasses about 100 acres of cypress swamp and surrounding upland woods. It was purchased in 1977 by The Nature Conservancy and is currently leased and operated by Calvert County Parks and Recreation. The special habitat at Battle Creek was recognized as a National Natural Landmark in 1965.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.599365234375,
+          37.7744140625
+        ]
+      },
+      "properties": {
+        "name": "Belle Isle State Park",
+        "notes": "Belle Isle State Park\nhttps://www.nps.gov/places/belle-isle-state-park.htm\n\nBelle Isle State Park is an 892-acre park in Lancaster County, Virginia that spans across seven miles of shoreline on the Rappahannock River. The expansive park covers a wide variety of tidal wetlands, farmlands and upland forests. This array of habitats allows for many recreational opportunities, including hiking, biking, horseback-riding, camping and more. The diverse habitats also make Belle Isle a premium park for wildlife viewing and birdwatching, with bald eagles, herons and osprey frequently observed.<br /> <br /> Belle Isle State Park was first operated as a plantation beginning in the 17<sup>th</sup> century, with the land first acquired by John Bertrand in 1692. Though the Downman family operated the plantation until the 19<sup>th</sup> century, various other families have held the property over the years until acquisition by Virginia. The property is also identified on the National Register of Historic Places.<br /> <br /> Address: 1632 Belle Isle Rd., Lancaster, VA  22503. ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.11941814422607,
+          38.44505189193358
+        ]
+      },
+      "properties": {
+        "name": "Blackwater National Wildlife Refuge",
+        "notes": "Blackwater National Wildlife Refuge\nhttps://www.nps.gov/places/blackwater-national-wildlife-refuge.htm\n\n<p>Blackwater National Wildlife Refuge is located on Maryland’s Eastern Shore within Dorchester County and is one of fifteen refuges found in the Chesapeake Bay watershed. Blackwater encompasses over 32,000 acres of wetlands and forests and was first established in 1933 as a sanctuary for migrating birds.  It serves as an important resting and feeding area for migrating and wintering waterfowl and is one of the chief wintering areas for Canada geese using the Atlantic Flyway. The refuge supports one of the highest concentrations of nesting bald eagles on the Atlantic coast.<br /> <br /> Blackwater NWR also protects the historic landscape of Harriet Tubman, as this region is where Tubman was born and spent her enslaved life prior to escaping to freedom. Tubman traveled through this landscape many times, using the Underground Railroad to free her friends and family. Visitors to this historic refuge can enjoy a visitor center, a wildlife drive, nature walks, photography, fishing, crabbing, kayaking and more.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.93867206573486,
+          38.93523600542635
+        ]
+      },
+      "properties": {
+        "name": "Bladensburg Waterfront Park",
+        "notes": "Bladensburg Waterfront Park\nhttps://www.nps.gov/places/bladensburg-waterfront-park.htm\n\nBladensburg Waterfront Park, located in Prince George’s County, Maryland, runs along the Anacostia River, one of the most historic waterways in America. The urban waterfront features a paved riverside walk, picnic pavilion, fishing pier, playgrounds and more. An interpretive pontoon boat offers tours for visitors to explore the ecology and history of the Anacostia. Other environmental and history programs are also offered on-site.<br /> <br /> The park itself directly links to the hiking and biking trails of the Anacostia Tributary Trail System and the Anacostia River Trail. Boat ramps as well as kayak and canoe launches are also available on-site. <h2>History</h2> <p><em>War of 1812</em></p> A wooden bridge just upriver from the present-day park became the focal point on August 24, 1814, when American and British forces clashed in the <a href=\"https://www.nps.gov/stsp/learn/historyculture/battle-of-bladensburg.htm\">Battle of Bladensburg</a>. By the time the Americans realized that the British invasion force was heading to Washington, they had little time to prepare. <br /> <br /> The British veteran force of 4,500 had marched for four days carrying loaded packs in near 100-degree heat. This included a contingent of <a href=\"https://www.nps.gov/stsp/learn/historyculture/colonial-marines.htm\">Colonial Marines</a>, formerly enslaved men from the Chesapeake region who had sought their freedom with the British.  There were 6,000 Americans, including regulars, Chesapeake Flotilla crewmen, marines, and inexperienced militia.<br /> <br /> At 1:00p.m. the British stormed the bridge.<br /> <br /> The opposing troops clashed in three hours of intense fighting. Though superior in number, most of the American defensive forces were poorly trained, ill-equipped, and positioned so the lines could not support one another. They were no match for the seasoned British army. <br /> <br /> President James Madison and several cabinet members were on the field of battle that day. Seeing the start of an American rout, they beat a hasty retreat to Washington, sending word ahead to warn others to save what possessions they could and flee. After a few hours of rest, the British then moved on to Washington, D.C. <br />  ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.14263916015625,
+          38.33399963378906
+        ]
+      },
+      "properties": {
+        "name": "Caledon State Park",
+        "notes": "Caledon State Park\nhttps://www.nps.gov/places/caledon-state-park.htm\n\nCaledon State Park is known for its old growth forests. Hike the park's fourteen trails for views of forests, marshes, and the Potomac River. Tent camping is available. <br /> <br /> Address: 11617 Caledon Rd., King George, VA 22485. ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.4351,
+          38.3965
+        ]
+      },
+      "properties": {
+        "name": "Calvert Cliffs State Park",
+        "notes": "Calvert Cliffs State Park\nhttps://www.nps.gov/places/calvert-cliffs-state-park.htm\n\n<p>Calvert Cliffs State Park is a day-use park featuring a sandy beach, unique fossils, recycled tire playground, a freshwater and tidal marshland and 13 miles of hiking trails located in Calvert County.</p> <p>The massive cliffs from which Calvert Cliffs State Park was named dominate the shoreline of the Chesapeake Bay for roughly 24 miles in Calvert County and were formed over 10 to 20 million years ago when all of Southern Maryland was covered by a warm, shallow sea. When the sea receded the cliffs were exposed and began eroding.</p> <p>Today these cliffs reveal the remains of prehistoric species Including sharks, whales, rays, and seabirds that were the size of small airplanes.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.4643,
+          38.3316
+        ]
+      },
+      "properties": {
+        "name": "Calvert Marine Museum",
+        "notes": "Calvert Marine Museum\nhttps://www.nps.gov/places/calvert-marine-museum.htm\n\n<p>The Calvert Marine Museum is located at the confluence of the Patuxent River and the Chesapeake Bay in Calvert County, MD. Its unique location allows the site to be a focal point for many visitors passing through the region.<br /> <br /> The museum itself details the maritime and ecological history of Southern Maryland through exhibits, educational programs, boat trips and a guided lighthouse tour of two lighthouses.The museum itself is in Solomons which provides local waterfront access through a walkable pier with scenic views. Nearby restaurants and shops are within walking distance as well.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.2285,
+          38.9481
+        ]
+      },
+      "properties": {
+        "name": "Chesapeake Bay Environmental Center",
+        "notes": "Chesapeake Bay Environmental Center\nhttps://www.nps.gov/places/chesapeake-bay-environmental-center.htm\n\n<p>The Chesapeake Bay Environmental Center (CBEC) is a 510-acre preserved located in Queen Anne’s County, MD that promotes stewardship and sustainability through environmental education and habitat restoration. The preserve is surrounded by Prospect Bay and within driving distance of the Chesapeake Bay Bridge. Visitors to the center can enjoy birdwatching, hiking, programs, canoeing and other special events hosted by CBEC.<br /> <br /> The center was first established in 1981 by the Wildfowl Trust of North America Inc. with the purchase of a 315-acre farm. This initial preserve was named the Horsehead Wetlands Center and opened to the public in 1985. The preserve was then expanded in 1998 with the purchase of an additional 195 acres of land, and the center’s name was changed in 2003 to its current name.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.2192,
+          38.7877
+        ]
+      },
+      "properties": {
+        "name": "Chesapeake Bay Maritime Museum",
+        "notes": "Chesapeake Bay Maritime Museum\nhttps://www.nps.gov/places/chesapeake-bay-maritime-museum.htm\n\n<p>The Chesapeake Bay Maritime Museum (CBMM) is an 18-acre campus in St. Michael’s, MD, explores and preserves the history, environment, and culture of the entire Chesapeake Bay region, and makes this resource accessible to all. Nestled along the Miles River, CBMM features historic working boats, maritime history exhibits, ship models, river excursions, tours of the Hooper Strait Lighthouse and more.<br /> <br /> CBMM was first opened to the public in 1965 as a project of the Historical Society of Talbot County. Over the years, the group acquired and showcased waterfront properties and watercraft to expand upon their work. Today, the CBMM campus boasts over 35 buildings, 12 of which house exhibitions that are open to the public<strong>.</strong> Guests can view more than 100 boats and boat models, historical Bay artifacts, and artworks that include a vast collection of watercolors, decoys, guns, and ship’s signboards.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.5345811843872,
+          38.690107380858244
+        ]
+      },
+      "properties": {
+        "name": "Chesapeake Beach Railway Museum",
+        "notes": "Chesapeake Beach Railway Museum\nhttps://www.nps.gov/places/chesapeake-beach-railway-museum.htm\n\n<p>The Chesapeake Beach Railway Museum is in Calvert County, MD and explores the history of the Chesapeake Bay Railway. The museum is within sight distance of the Chesapeake Bay and walking distance of numerous shops, restaurants, and a resort. Visitors to the museum can learn about the history of the railroad and its impact on the local region. The station also provides information about a nearby rail trail that traces the original path the railway traveled.<br /> <br /> The station building was finished in 1898 for the Chesapeake Bay Railway, a railroad which ran for 27 miles from Washington D.C. to the resort town of Chesapeake Beach. During its heyday, the railway was used by tens of thousands of people to access the Bay and the town’s many attractions and amusements. Today, the museum is the only remaining structure of the railway and was transformed into a museum in 1979 through the efforts of local volunteers and the Calvert County Historical Society.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.24941945075989,
+          38.97489940517094
+        ]
+      },
+      "properties": {
+        "name": "Chesapeake Heritage & Visitor Center",
+        "notes": "Chesapeake Heritage & Visitor Center\nhttps://www.nps.gov/places/chesapeake-heritage-and-visitor-center.htm\n\n<p>The Chesapeake Heritage & Visitor Center is located on Kent Island in Queen Anne’s County, MD and acquaints visitors with Chesapeake Bay experiences in the region. The center itself is home to the Chesapeake Legacy Museum which features exhibits that focus on the history, heritage, and culture of the area. One exhibit also displays a quarterly rotating art series, featuring artwork from local artists.<br /> <br /> The center is within driving distance of the Chesapeake Bay Bridge and hosts several outdoor viewing areas to take in the breathtaking views of the waterfront and island. The 6.5-mile Cross Island Trail is a rail trail which connects to the center and allows visitors to bike or walk the length of Kent Island. Also located on the property is the entrance to Ferry Point Park, a local park that includes a large boardwalk, marshland, and walking trail over the Chester River.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.72152042388916,
+          37.138475851040155
+        ]
+      },
+      "properties": {
+        "name": "Chippokes State Park",
+        "notes": "Chippokes State Park\nhttps://www.nps.gov/places/chippokes-state-park.htm\n\n<p>Chippokes State Park sits across the James River in Surry County, Virginia and is one of the oldest continually farmed plantations in the US. The plantation first began farming in 1619 with tobacco emerging as a chief crop. For generations, all the skilled workers on the 1,300-acre property were enslaved. Today, Chippokes State Park explores and shares the history of the enslaved population on the site through programs, exhibits and a memorial.<br /> <br /> The site hosts an array of recreational activities, including biking, hiking, horseback riding, historic tours, fishing and more. The site is also home to the Chippokes Farm and Forestry Museum which displays over 600 antiques and artifacts to interpret rural and early American farm life.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.50795480083083,
+          40.03042788869199
+        ]
+      },
+      "properties": {
+        "name": "Columbia Crossing River Trails Center",
+        "notes": "Columbia Crossing River Trails Center\nhttps://www.nps.gov/places/columbia-crossing-river-trails-center.htm\n\nManaged by the Susquehanna National Heritage Area, the Columbia Crossing River Trails Center is your one-stop-shop for maps and information about paddling, hiking, or biking the Susquehanna River. <br /> <br /> Also stop by to enjoy exhibitions at the River Trails Center. With new exhibits going up regularly, local art and historic artifacts tell the story of the Chesapeake Bay's source river. <br /> <br /> Contact:<br /> info@columbiacrossing.org<br /> 717-449-5607<br /> <br /> Location Address:<br /> 41 Walnut Street,<br /> Columbia,PA 17512<br /> <br /> Mailing Address:<br /> 1706 Long Level Road,<br /> Wrightsville, PA 17368<br /> <br /> Visitor Hours:<br /> Memorial Day – Labor Day<br /> Tuesday through Friday – 10 a.m. to 5 p.m.<br /> Saturday & Sunday – 9 a.m. to 6 p.m.<br /> <br /> September – May<br /> Tuesday through Saturday – 10 a.m. to 4 p.m.<br /> Sunday – 12 p.m. to 4 p.m.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.08476936817169,
+          39.54071979144129
+        ]
+      },
+      "properties": {
+        "name": "Concord Point Lighthouse",
+        "notes": "Concord Point Lighthouse\nhttps://www.nps.gov/places/concord-point-lighthouse.htm\n\n<p>The Concord Point Lighthouse, located in Havre de Grace, Maryland, sits adjacent to the mouth of the Susquehanna River where it flows into the Chesapeake Bay. Constructed in 1827, Concord Point Lighthouse is the second oldest lighthouse in Maryland and was an aid for navigation for 148 years.<br /> <br /> War of 1812 veteran John O'Neill received a presidential appointment as first keeper of Concord Point Lighthouse due to his bravery during the British raid of Havre de Grace in 1813.  He served there from 1827 until his death in 1838. <br /> <br /> Decommissioned in 1975, the lighthouse now serves as a beacon for tourism and history in the region. The site itself offers a spectacular view of the mouth of the Susquehanna River and the Chesapeake Bay. The lighthouse park also sits within a designated historic district and a river promenade, allowing visitors to explore other nearby historic sites and points of interest.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.32500457763673,
+          37.551727946299025
+        ]
+      },
+      "properties": {
+        "name": "Deltaville Maritime Museum",
+        "notes": "Deltaville Maritime Museum\nhttps://www.nps.gov/places/deltaville-maritime-museum.htm\n\n<p>Deltaville Maritime Museum and Holly Point Nature Park is in Middlesex County, Virginia and nestled near the confluence of the Piankatank River and the Chesapeake Bay. The site serves a dual purpose of exploring the region's maritime history and protecting an outdoor, recreational space for nearby residents. The site was first established in 2003 through a dedicated group of local volunteers but faced tragedy due to a fire which wiped out most existing structures. Once rebuilt in 2013, the site has expanded and operated as hub for tourism and events in the region.<br /> <br /> The museum features several exhibits, kiosks and a library devoted to the maritime history and heritage of the surrounding area. Holly Point Nature Park provides opportunities for walking, birding, and viewing wildlife along trails.<br /> <br /> Address: 287 Jackson Creek Road, P.O. Box 466, Deltaville VA, 23043. </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.06420755386353,
+          38.57116947212322
+        ]
+      },
+      "properties": {
+        "name": "Dorchester County Visitor Center",
+        "notes": "Dorchester County Visitor Center\nhttps://www.nps.gov/places/dorchester-county-visitor-center.htm\n\n<p>The Dorchester County Visitor Center is on the shore of the Choptank River in Cambridge, Maryland and serves as a major entry point to the lower Eastern Shore. Situated off U.S. Route 50, the building is known for its distinct appearance with a large white sail shading the building. As a regional information center, the site helps visitors learn about the history of the area as well as the Chesapeake Bay and the best places to visit nearby.<br /> <br /> In addition to brochures and regional information, the site provides direct access to the Choptank waterfront and historic Cambridge. Native plantings, shoreline stability efforts and outdoor signage also helps visitors learn about the Chesapeake Bay restoration effort and ways to become better stewards of the outdoors.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.38289952278137,
+          37.366234874420954
+        ]
+      },
+      "properties": {
+        "name": "Dutch Gap Conservation Area",
+        "notes": "Dutch Gap Conservation Area\nhttps://www.nps.gov/places/dutch-gap-conservation-area.htm\n\n<p>Dutch Gap Conservation Area is a wooded area in Chesterfield County, Virginia that surrounds Henricus, the second successful English settlement in Virginia. The site is nestled against the banks of the James River and consists of 810-acres of woodlands and wetlands. Dutch Gap received in name in 1611 when Sir Thomas Dale attempted to shorten river travel around a meander of the James River by cutting a new channel through the river.<br /> <br /> Today, the conservation area offers activities and opportunities for visitors looking for a way to enjoy an outing on the idyllic James River. The site protects natural resources, including a blue heron rookery in the marsh, and offers observation blinds and walking trails for viewing wildlife.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.22954428195953,
+          39.021901047093735
+        ]
+      },
+      "properties": {
+        "name": "Eastern Neck National Wildlife Refuge",
+        "notes": "Eastern Neck National Wildlife Refuge\nhttps://www.nps.gov/places/eastern-neck-nwr.htm\n\n<p>Eastern Neck National Wildlife Refuge is in Kent County, Maryland, at the confluence of the Chester River and Chesapeake Bay, and is one of fifteen national wildlife refuges found in the Chesapeake Bay watershed.  The varied habitats of this 2,285-acre island, including brackish tidal marsh, forest, cropland, grassland, and open water impoundments, provide a home for a variety of wildlife species.<br /> <br /> The site has a history of inhabitation for thousands of years, with Native American tribes using the land for hunting and gathering. English colonists used the land for farms and other agricultural practices such as logging, orchard growing and raising cattle. By the early 1900s, the island had become a popular hunting retreat. Following development pressure in the 1960s, the U.S. Fish and Wildlife Service acquired the entire island to preserve the valuable wildlife habitat and natural resources. Today, the refuge serves as a major stop for migratory birds along the Atlantic Flyway, with various outlooks and trails providing premium wildlife watching spots and a visitor contact station that offers information, interpretive displays, and restrooms.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.97526550292969,
+          39.477483459802116
+        ]
+      },
+      "properties": {
+        "name": "Elk Neck State Park",
+        "notes": "Elk Neck State Park\nhttps://www.nps.gov/places/elk-neck-state-park.htm\n\n<p>Elk Neck State Park is a 2,370-acre park that stands on a peninsula surrounded by the Chesapeake Bay to the west and the Elk River to the east. Located in Cecil County, Maryland, the park is divided into four distinct areas with varied habitats and recreational opportunities. The Turkey Point Lighthouse Area stands at the southern tip of the peninsula and is home to the Turkey Point Lighthouse, a unique lighthouse that was run by four female keepers between 1844 and 1948.<br /> <br /> The other areas in the park include the North East Beach Area that features a popular swimming area, picnic shelters and grills; the Rogues Harbor Boat Launch Facility which allows public boat ramps to the Elk River and fishing piers; and the Elk River Camping Area which overs hundreds of campsites, a playground and nature center.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.82440733909607,
+          38.48209486133297
+        ]
+      },
+      "properties": {
+        "name": "Emperor’s Landing Park",
+        "notes": "Emperor’s Landing Park\nhttps://www.nps.gov/places/emperor-s-landing-park.htm\n\n<p>Emperor’s Landing Park, previously called Vienna Waterfront Park, is on the banks of the Nanticoke River in Dorchester County, Maryland and serves as a gateway to tourism for the Town of Vienna. The town was founded in 1709 and became an important port and trade center for Bay commerce. Emperor’s Landing Park preserves and explores the park’s historical, cultural, economic, and environmental significance. The park features a riverwalk, floating docks and interpretive signage of the history of the land.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.59634709358215,
+          39.279984493026696
+        ]
+      },
+      "properties": {
+        "name": "Fells Point",
+        "notes": "Fells Point\nhttps://www.nps.gov/places/fells-point.htm\n\n<p><meta charset=\"utf-8\" /></p> <p>Founded in 1726 by English shipbuilder William Fell, Fells Point served as the city’s deep-water port and shipbuilding center. Today, Fells is a National Register Historic District and is noted for its cobblestone streets, historic architecture, restaurants, and shops. Visitors can explore dozens of buildings that once served as homes and businesses for shipbuilders, seamen, immigrants, enslaved and free African Americans, merchants, and families in this bustling maritime neighborhood.</p> <h2>History</h2> <p><em>War of 1812</em><br /> Baltimore’s importance as the commercial heart of the Chesapeake region wasn’t the only reason the British wanted to capture the city in 1814. They also wanted to stifle Fells Point---the home port for many of the privateers that preyed on British merchant ships. The United States augmented its small navy by licensing privately owned ships to attack enemy vessels. Baltimore privateers captured more than 500 British ships during the War of 1812. </p> <h2>Learn more</h2> <p>To find out more specifics on Fells Point in regards to resturants, shops and other various attractions, please visit the Visit Baltimore website,<a href=\"https://baltimore.org/neighborhoods/fells-point/\"> https://baltimore.org/neighborhoods/fells-point/</a>.<br /> <br /> Paid public parking is available.</p> <p dir=\"ltr\"> </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.02511114794922,
+          36.909694927428575
+        ]
+      },
+      "properties": {
+        "name": "First Landing State Park",
+        "notes": "First Landing State Park\nhttps://www.nps.gov/places/first-landing-state-park.htm\n\n<p>First Landing State Park is in Virginia Beach, VA and is among one of the state’s most visited parks. The 2,888-acre park is named for the first English colonizers who landed on the region’s shores in 1607 and it is rumored that Blackbeard once hid in the Narrows area of the park. The park was constructed from 1933 to 1940, primarily by an all-Black Civilian Conservation Corps crew, and is listed on the National Register of Historic Places.<br /> <br /> The park features 1.5 miles of shoreline along the Chesapeake Bay and over 20 miles of trails that stream throughout the park and its many habitats. First Landing also allows camping, picnicking, boating as well as interpretive and educational exhibits on the region’s history and significance.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.45840644836426,
+          38.446774460945264
+        ]
+      },
+      "properties": {
+        "name": "Flag Ponds Nature Park",
+        "notes": "Flag Ponds Nature Park\nhttps://www.nps.gov/places/flag-ponds-nature-park.htm\n\n<p>Flag Ponds Nature Park is a 500-acre nature park that extends along the shoreline of the Chesapeake Bay in Calvert County, Maryland. Millions of years ago, sharks, whales, crocodiles, and other creatures inhabited the water and shores of the area. Though long extinct, their fossils are still preserved and can be found along the park’s shoreline. The park also preserves an original shanty which houses fishermen in the early 20<sup>th</sup> century and features exhibits on the region’s maritime heritage.<br /> <br /> A short, half-mile hike brings you to the sandy beach or you may take longer trail routes that allow you to experience the beauty of the park and explore the extensive forests protecting the Chesapeake Bay shoreline. Additionally, there are observation platforms at two ponds and on the Chesapeake Bay and a visitor’s center with wildlife displays.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.6174829006195,
+          37.03376856906245
+        ]
+      },
+      "properties": {
+        "name": "Fort Boykin",
+        "notes": "Fort Boykin\nhttps://www.nps.gov/places/fort-boykin.htm\n\n<p>Fort Boykin is a small, forested park in Isle of Wight County, Virginia which overlooks the James River. The site’s history dates to 1623 when the colonizers at Jamestown constructed a triangular fort to protect themselves from attacks by the original inhabitants of the land, the Warraskoyack. Since then, the fort was gradually rebuilt, expanded, and involved in numerous military actions, including the American Revolution, the War of 1812 and the Civil War. Today, the fort remains intact as a well-preserved example of military architecture, with visitors able to explore the fort and surrounding trails.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.580237,
+          39.263624
+        ]
+      },
+      "properties": {
+        "name": "Fort McHenry National Monument and Historic Shrine",
+        "notes": "Fort McHenry National Monument and Historic Shrine\nhttps://www.nps.gov/places/fort-mchenry.htm\n\n<p>In September of 1814, after occupying Washington, D.C. and burning the public buildings, a British invasion force proceeded to Baltimore - a busy port city that specialized in outfitting privateers to prey on British shipping. <br /> <br /> Baltimore represented a more stategically important target than the largely undeveloped capital city of Washington, and was thus well protected by a masonry fort commanding the entrance to Baltimore harbor. After a 25 hour bombardment by the British fleet and determined resistance by the gunners of Fort McHenry, the invasion force was repulsed. <br /> <br /> After two and a half years of indecisive campaigning on the Canadian frontier, America was in debt, weary of war, and facing a trained and disciplined European army. There was no hope of achieving the stated goals of the war: free trade, sailors' rights, and the annexation of Canada. But a victory at Fort McHenry offered hope that the War of 1812 might end on terms agreeable to the United States and that the American republic could endure. <br /> <br /> The feeling of pride, patriotism, and hope emerging from the victory at <a href=\"https://www.nps.gov/fomc/index.htm\">Fort McHenry</a> was recorded by Francis Scott Key, who witnessed the fort's American flag surviving the bomardment and recorded his impressions in the words that became America's national anthem -\"The Star Spangled Banner.\"</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.47049522399902,
+          38.203992553549334
+        ]
+      },
+      "properties": {
+        "name": "Furnace Town Historic Site",
+        "notes": "Furnace Town Historic Site\nhttps://www.nps.gov/places/furnace-town.htm\n\n<p>The Furnace Town Historic Site is a historic preserve which explores the story of Furnace Town, an old company town that existed in the mid-19<sup>th</sup> century. Located within Pocomoke State Forest and the Nassawango Creek Preserve, Furnace Town was built by the Maryland Iron Company to house workers for the Nassawango Iron Furnace. From 1828 to 1850, about 300 people lived and worked in Furnace Town to service the furnace at its peak. However, by 1850 the furnace reported bankruptcy and the town soon dissolved. By 1929, only a few foundations of previous buildings and the furnace remained.<br /> <br /> Today, what remains of the historic site has been preserved and is open to the public to explore and learn about Furnace Town, its impact on the region and the burgeoning of industry on the Eastern Shore. Guided tours, a museum and visitor center relay the years of history found on the grounds, with nearby trails snaking through Pocomoke State Forest.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.54205918312073,
+          38.84365187994194
+        ]
+      },
+      "properties": {
+        "name": "Galesville Heritage Museum",
+        "notes": "Galesville Heritage Museum\nhttps://www.nps.gov/places/galesville-heritage-museum.htm\n\n<p>Galesville Heritage Museum sits along the West River in Anne Arundel County, Maryland and serves as an interpretive center for the historic waterside community of Galesville. The center allows visitors to explore the hundreds of years' worth of history found on community’s peninsula. The museum includes several rotating exhibits and collections including artifacts, photos, and boats to detail the region’s history and heritage. Some exhibits include local women’s history, watermen’s heritage, a floating theater that used to visit the area and plenty more.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.50328516960144,
+          37.246369315838564
+        ]
+      },
+      "properties": {
+        "name": "Gloucester Point Beach Park",
+        "notes": "Gloucester Point Beach Park\nhttps://www.nps.gov/places/gloucester-point.htm\n\n<p>Gloucester Point Beach Park is in Gloucester County, Virginia and sits on the banks of the York River, near where it flows into the Chesapeake Bay. The waterfront park offers a sandy beach and large swimming area perfect for sunbathing, swimming, and wading. Though small, the park features a grassy area for picnicking and playing. For visitors hoping to get out onto the water, the park includes a boat ramp as well as a large fishing pier.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.24658703804016,
+          36.72400854809115
+        ]
+      },
+      "properties": {
+        "name": "Great Bridge Lock Park",
+        "notes": "Great Bridge Lock Park\nhttps://www.nps.gov/places/great-bridge-lock.htm\n\n<p>The Great Bridge Lock Park is in Chesapeake, Virginia and sits on a peninsula bordered by the Elizabeth River and the Albemarle & Chesapeake Canal. The park is named for the Corps of Engineers’ lock which separates the river and canal. The canal itself, opened in 1805, is a man-made waterway which connects the Albemarle Sound in North Carolina to the Chesapeake Bay in Virginia and Maryland and is the oldest continually operating man-made canal in the US.<br /> <br /> The 19-acre park offers plenty of recreational opportunities for visitors, including boating, fishing, crabbing, picnicking and more. A boat ramp and floating dock also offers water access to the bodies of water.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.08606219291687,
+          39.54053363110752
+        ]
+      },
+      "properties": {
+        "name": "Havre de Grace Maritime Museum",
+        "notes": "Havre de Grace Maritime Museum\nhttps://www.nps.gov/places/havre-de-grace-maritime-museum.htm\n\n<p>The Havre de Grace Maritime Museum is in Harford County, Maryland, and situated at mouth of the Susquehanna River, where the river meets the Chesapeake Bay. The museum was founded December in 1988 to preserve and interpret the maritime history, heritage, culture and environmental significance of the Lower Susquehanna River and Chesapeake Bay.<br /> <br /> The museum features several galleries and spaces with several permanent exhibits, information, and a library. The site also hosts an Environmental Center for groups, tours, and school programs to teach visitors to better appreciate and protect the Susquehanna River and the Bay. The waterfront site also provides a beautiful view of the surrounding waterfront and is within walking distance of other museums and historical sites in downtown Havre de Grace.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.54191434383392,
+          38.376199532946735
+        ]
+      },
+      "properties": {
+        "name": "Historic Sotterley",
+        "notes": "Historic Sotterley\nhttps://www.nps.gov/places/historic-sotterley.htm\n\n<h3>A Historic Plantation</h3> <p>Built in 1703, Sotterley Plantation grew to become one of the largest plantations in the Chesapeake Bay region. An economic hub of its own, Sotterley's wharf on the Patuxent River saw the export of tobacco, corn, and lumber produced by the enslaved population of the plantation. Ships arrived into the port carrying captive Africans alongside luxury goods from Europe. Managed by a succession of powerful owners, the plantation's income eventually collapsed with the outlawing of slavery in 1864. The buildings and garden have since been restored, and today the site operates as an educational organization with National Historic Landmark status. Sotterley seeks to engage visitors with the challenging realities of our history, cultivating a respect for the past and the natural environment. </p> <h3>Visit Historic Sotterley </h3> Find detailed information about Historic Sotterley on their website: <a href=\"https://sotterley.org/\">Historic Sotterley Home - Sotterley</a><br /> <br /> <u><strong>Address:</strong></u> 44300 Sotterley Ln. Hollywood, MD 20636<br /> <br /> <u><strong>Hours:</strong><br /> Grounds and Gardens:</u><br /> Open 7 days a week*<br /> Monday - Saturday 10 am - 4 pm<br /> Sunday 11:30 am - 4 pm<br /> <br /> <u>Visitor Center:</u><br /> Thursday - Saturday 10 am - 4 pm<br /> Sunday 11:30 am - 4 pm<br /> <br /> <u>Guided Tours:</u><br /> Thursday - Saturday<br /> 10:30 am , 11:30 am, 1 pm, 2 pm, 3 pm<br /> Sunday<br /> Noon, 1 pm, 2 pm, 3 pm<br /> <br /> <u>Office</u><br /> Monday - Friday 9 am - 5 pm<br /> <br /> <u>*Site Closed</u><br /> New Year's Day, Martin Luther King, Jr. Day, Presidents Day, Easter, Memorial Day, Independence Day, Labor Day, Thanksgiving Day, Christmas Day<br /> <br /> <strong><u>Fee:</u></strong><br /> $5, plus additional fee for guided tours:<br /> Adults $ 10<br /> Seniors $ 9<br /> Youth (6-18) $ 6<br /> Children (Under 6) Free",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.429669,
+          38.180699
+        ]
+      },
+      "properties": {
+        "name": "Historic St. Mary's City",
+        "notes": "Historic St. Mary's City\nhttps://www.nps.gov/places/historic-st-marys-city.htm\n\n<p>Historic St. Mary’s City sits along a tributary of the Potomac River in St. Mary’s County, MD and preserves the site of the first European colonization in Maryland. Though the site is the first permanent settlement in Maryland, Historic St. Mary’s is the fourth settlement in North America by British colonizers.<br /> <br /> The living outdoor museum recounts and explores the history of the English colonizers that first sailed to the region as well as the history of the Yaocomaco that lived on the land first. This history is explored through exhibits, walking trails, active archaeological digs, school programs and more.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.09833860397339,
+          38.757362975909295
+        ]
+      },
+      "properties": {
+        "name": "Huntley Meadows Park",
+        "notes": "Huntley Meadows Park\nhttps://www.nps.gov/places/huntley-meadows-park.htm\n\n<p>Huntley Meadows Park, a Fairfax County Park Authority site, located in Fairfax County, VA provides one of the best wildlife viewing areas in the Northern Virginia area. The park features a 40-acre wetland, forests, and meadows. Huntley Meadows Park is managed for its natural and cultural resources. Historic Huntley and its outbuildings circa 1825 are listed on the National Register of Historic Places and provides hilltop views of Huntley Meadows Park. Naturalist and Historian led programs and events are available at both Huntley sites.<br /> <br /> The park offers outstanding passive visitor activities: trail walking, running/jogging is not permitted on the boardwalk but is permissible on other trails, pets are not permitted in the boardwalk area (even if you carry them) or the Restoration Trail, but pets on leash are permitted on other park trails, strollers permitted (no pets in boardwalk zone), trails are ADA accessible. Biking is only permitted on the Hike/Bike Trail (1 mile). All other recreation activities are prohibited, including fishing. Visitor adherence to park rules makes a significant difference to wildlife watching opportunities and to providing a healthy, safe habitat for the plants and animals that live here.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.5162464074707,
+          38.40920768527154
+        ]
+      },
+      "properties": {
+        "name": "Jefferson Patterson Park & Museum",
+        "notes": "Jefferson Patterson Park & Museum\nhttps://www.nps.gov/places/jefferson-patterson-park.htm\n\n<p>Jefferson Patterson Park and Museum is in Calvert County, Maryland and expands for 560-acres along the shoreline of the Patuxent River. The site itself is a very important archaeological site in the Chesapeake Bay region and explores the 10,000+ years’ worth of history on the property. Numerous archaeological digs and excavations have been performed on-site with the oldest evidence of human use dating back to 7500 BC. The site also saw use during the War of 1812 with the <a href=\"https://www.nps.gov/stsp/learn/historyculture/battles-of-st-leonard-creek.htm\">Battle of St. Leonard’s Creek</a>, the largest naval battle fought in Maryland.<br /> <br /> The park itself was donated to Maryland in 1983 by the Patterson Family, one of the largest land donations ever received by the state. Since then, the site has been open for public use and recreation, offering miles of hiking trails, educational and interpretive exhibits, view access of the Patuxent River, and many yearly events.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.74704170227051,
+          37.71259841778931
+        ]
+      },
+      "properties": {
+        "name": "Ker Place",
+        "notes": "Ker Place\nhttps://www.nps.gov/places/onancock-historic-district-town-wharf.htm\n\n<h4><span style=\"color:#c0392b;\"><strong>Passport Stamp Address: Ker Place, 69 Market St. Onancock, VA 23417</strong></span></h4> <h3>Collect a Passport Stamp at Ker Place</h3> <p><a href=\"https://www.shorehistory.org/ker-place\">Ker Place</a> is a Federal-period Georgian-style house that was built between 1799 and 1803 for the merchant farmer John Shepherd Ker. Today the home serves as a gallery, archives, and collections facility with a genealogy room. Guided and self-guided tours of the museum are available. Visitors to Ker Place can <strong>collect a <a href=\"https://www.nps.gov/cajo/planyourvisit/passport-cancellation-stamps.htm\">passport stamp</a></strong> for the Captain John Smith Chesapeake National Historic Trail. <br /> <br /> Address: 69 Market St. Onancock, VA 23417<br /> Hours: Tuesday-Saturday from 11a.m. - 3 p.m.<br /> Admission: By donation<br /> Website: <a href=\"https://www.shorehistory.org/ker-place\">Ker Place — Shore History</a><br /> Contact: (757) 787-8012</p> <h3>Town of Onancock</h3> <p>Decades after the area was explored by Captain John Smith in 1608, the town of Onancock was charted in 1680. Onancock was the trade center of the Eastern Shore for some 250 years. It was closely tied to maritime commerce to Baltimore and Norfolk. </p> <h3>More to See & Do</h3> <p>After exploring Ker Place and the historic town, check out the <a href=\"https://www.nps.gov/places/onancock-marina.htm\">Onancock Marina & Tangier Ferry</a> for great water views, a public boat launch, and a ferry ride to Tangier Island. </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Machicomoco State Park",
+        "notes": "Machicomoco State Park\nhttps://www.nps.gov/places/machicomoco-state-park.htm\n\nMachicomoco State Park is located on the York River in Gloucester County, Virginia. In the Virginia Algonquian language, Machicomoco means \"a special meeting place.\" The park is on land associated with the Powhatan alliance of Tribes, with the important town of <a href=\"https://www.nps.gov/cajo/planyourvisit/werowocomoco.htm\">Werowocomoco</a> located about 10 miles upstream. Machicomoco was the first state park dedicated to Virginia's Indigenous peoples. <br /> <br /> In addition, the park is the site of Timberneck, a circa 1793 house that was part of the larger Rosewell Plantation. A local archeological firm is currently working to restore the site, which is listed on the National Register of Historic Places, for future use as an education and lodging building. <br /> <br /> Visitors to Machicomoco State Park can enjoy a variety of activities. The park has a 3.3 mile paved trail for walking and biking, .7 mile gravel trail around the interpretive area, and a natural trail that runs 2.4 miles.<br /> <br /> Two picnic shelters and numerous campsites are available for rent, including cabins and yurts. An open-air pavilion provides an opportunity to learn more about Virginia's Indigenous communities and history. Follow a timeline from the first arrival of people in North America, to the formation of Tribal groups whose descendents still live in Virginia today.  <br /> <br /> A car-top boat launch allows access to Poplar Creek and the York River. Access to the Catlett Islands and accompanying marsh areas is prohibited due to the sensitive nature of the resources. Motorized boats and boats launched from trailers are not permitted to use this access. Water access is closed from Nov. 1 through Jan. 31 to protect migratory waterfowl that use the area for overwintering. Fishing is permitted at the floating slips located on Timberneck Creek. A valid Virginia saltwater license is required from the Virginia Department of Marine Resources.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.37082695960999,
+          39.348311913542254
+        ]
+      },
+      "properties": {
+        "name": "Marshy Point Park",
+        "notes": "Marshy Point Park\nhttps://www.nps.gov/places/marshy-point-park.htm\n\n<p>Marshy Point Park and Nature Center is nestled between Saltpeter Creek and Dundee Creek, a tributary of the Gunpowder River. In addition to providing premiere access to the waterfront and surrounding forest, the park protects a variety of natural habitats, including woodlands, wetlands, and tidal waterways, for the benefit of wildlife and enjoyment of visitors.<br /> <br /> Marshy Point Park’s office is located inside the Marshy Point Nature Center. The nature center is home to live animal ambassadors, interactive displays and exhibits pertaining to the upper Chesapeake Bay and its watershed. Interpretative programs are led by staff year-round to engage the public with the rich natural history of the area.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.42656862735748,
+          39.207230120671916
+        ]
+      },
+      "properties": {
+        "name": "North Point State Park - MD",
+        "notes": "North Point State Park - MD\nhttps://www.nps.gov/places/north-point-sp.htm\n\n<p>North Point State Park is in Baltimore County, Maryland and expands for 1,310 acres along the shoreline of the Chesapeake Bay. Over half of the park boasts protected wetlands, known as the Black Marsh Natural Area, which hosts upper tidal marsh with shrubs, wetland grasses and unique flowers. The many natural areas of the parks host a variety of wildlife species, including muskrats, beavers, foxes, otters, osprey and more.<br /> <br /> North Point has an extensive history of human use, with evidence dating back at least 9,000 years. The site played a key role for the <a href=\"https://www.nps.gov/fomc/learn/historyculture/the-bombardment-of-fort-mchenry.htm\">Battle of Baltimore</a> during the War of 1812. A 1767 farmhouse formerly located at the park served as a lookout station during the war. In September 1814, a signal flag atop the farmhouse sent a warning to Baltimore that the British fleet was approaching, alerting American troops and local residents to prepare for an attack. During the 20<sup>th</sup> century, the park was the site of the Bay Shore Amusement Park, a small park featuring gardens, a dance hall and even a bowling alley. Today, the park features fishing piers, picnicking areas, hiking trails, a water accessible area and more.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.75405836105347,
+          37.71256871165684
+        ]
+      },
+      "properties": {
+        "name": "Onancock Marina & Tangier Ferry",
+        "notes": "Onancock Marina & Tangier Ferry\nhttps://www.nps.gov/places/onancock-marina.htm\n\n<h2>Water Views and Public Launch from Onancock Wharf and Marina</h2> <p>Onancock Creek is easily accessible from the Onancock Wharf and Marina. The public boat ramp is sufficiently wide and steep for use during all tides. Parking for trailers in town is free for all trailers displaying the Accomack County Boat Ramp decal. All other vehicles require a $7.00 daily parking fee. Next to the marina is a Dinghy Dock & Kayak/Paddleboard/Canoe Launch that can be used free of charge. <br /> <br /> Address: 2 Market St, Onancock, VA 23417<br /> Hours: Wharf and Marina may close for winter season. The hours of operation from Memorial Day to Labor Day are 8:00 a.m. to 4:00 p.m. Monday - Thursday and 8:00am to 6:00pm Friday - Sunday.  <br /> Website: <a href=\"https://www.onancock.com/wharf\">Wharf Information | Town of Onancock, Virginia</a><br /> Contact: wharf@onancock.com / (757) 787-7911<br /> <br /> Onancock Landing is a small park adjacent to the Town Marina that commemorates the site's visitation by Captain John Smith and its inclusion in the Captain John Smith Chesapeake National Historic Trail. </p> <h2>Tangier-Onancock Ferry</h2> <p>Take a ferry from Onancock to reach the offshore island of Tangier, Virginia. These charming islands are home to a historic fishing community and some of the best birdwatching and Bay views in the region. <br /> <br /> The ferry makes daily runs between the first weekend in May and the first weekend in October. The ride duration is approximately an hour, and admission is on a first-come, first-served basis unless you make a reservation. <br /> <br /> Ferry Schedule:<br /> May - First Weekend of October<br /> Departs Tangier for Onancock: 7:30 AM<br /> Departs Onancock for Tangier: 10:00 AM<br /> Departs Tangier for Onancock: 3:30 PM<br /> Departs Onancock for Tangier: 5:00 PM<br /> <br /> Learn more about the ferry: <a href=\"https://www.tangierferry.com/\">Tangier-Onancock Ferry (tangierferry.com)</a></p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.00203657150269,
+          37.57558620133929
+        ]
+      },
+      "properties": {
+        "name": "Pamunkey Indian Museum",
+        "notes": "Pamunkey Indian Museum\nhttps://www.nps.gov/places/pamunkey-indian-museum.htm\n\n<p>The Pamunkey Indian Museum and Cultural Center is in King William, Virginia and teaches visitors about the history, culture, and stories of the Pamunkey Indian Tribe. The center is located on the Pamunkey Indian Reservation and explores the history of the tribe, with information dating back to 12,000 years ago all the way to the present. Original artifacts and historic replicas are used in tandem with exhibits and guided tours to explore the way of life of the Pamunkey during specific eras of history.<br /> <br /> The museum hosts a gift shop and is open seasonally from April to November. Please visit the museum’s Facebook page or Google listing for the most up-to-date information regarding public operating hours.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.64306855201721,
+          38.347092014459804
+        ]
+      },
+      "properties": {
+        "name": "Pemberton Historical Park",
+        "notes": "Pemberton Historical Park\nhttps://www.nps.gov/places/pemberton-historical-park.htm\n\n<p>Pemberton Historical Park, located in Salisbury, Maryland is a 262-acre park that offers 4.5 miles of nature trails, environmental, and special events. The park’s history dates to 1741 when Isaac Handy, one of the founders of the City of Salisbury, first built Pemberton Hall. Though founded by Handy, the park is named for Joseph Pemberton, who sold 960-acres of land to Handy. The historic structure still stands on park grounds and reflects its pre-Revolutionary war history.<br /> <br /> Today, the property offers miles of hiking trails, guided tours, nature camps and even a nature center. While exploring the grounds, visitors will encounter ecosystems, habitats, and wildlife unique to the Eastern Shore, including wetlands, freshwater ponds, upland ponds, forests and more.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.52947425842285,
+          38.135965860175254
+        ]
+      },
+      "properties": {
+        "name": "Piney Point Lighthouse Museum and Historic Park",
+        "notes": "Piney Point Lighthouse Museum and Historic Park\nhttps://www.nps.gov/places/piney-point.htm\n\n<p>Piney Point Lighthouse Museum and Historic Park is in St. Mary’s County, Maryland, and preserves the history of Piney Point Lighthouse. The lighthouse was built in 1836 and was the first to be constructed on the Potomac River. It served as a beacon of safety for mariners and travelers of the river for over one hundred years before being decommissioned in 1964. The site offers activities, exhibits, and tours which explore the lighthouse’s history and importance.<br /> <br /> The surrounding park protects the landscape of the lighthouse and offers numerous recreational activities for its visitors. A museum and maritime exhibit interpret the life of watermen who worked on the Potomac River. A kayak launch, a pier and boardwalk allow visitors to experience the Potomac River first-hand. The park is open from sunrise to sunset, year-round. Guided tours of the lighthouse and keeper’s quarters are available daily.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.33783721923828,
+          38.06446075439453
+        ]
+      },
+      "properties": {
+        "name": "Point Lookout State Park",
+        "notes": "Point Lookout State Park\nhttps://www.nps.gov/places/point-lookout-state-park.htm\n\n<p>Point Lookout State Park, in St. Mary’s County, Maryland, sits on a peninsula bordered by the Chesapeake Bay and the Potomac River. This well-known park is steeped in American history, beginning in the pre-Colonial era, and continuing through opening its gates as a park in 1965.<br /> <br /> During the War of 1812, British Troops used the peninsula as an encampment as they burned and looted the surrounding countryside and offered haven for enslaved people. British troops offered freedom for the enslaved people who made it to the grounds. In 1862, the grounds served as a port, hospital, garrison, and prisoner of war camp for the Union Army during the American Civil War. Thousands of soldiers perished on the grounds of Point Lookout due to harsh conditions in the marshes and swamps of the peninsula. The site is also home to the Point Lookout Lighthouse which was first commissioned in 1830 and oversaw much of the history of the park.<br /> <br /> Point Lookout also offers many recreational opportunities including swimming, fishing, boating, and camping. Guided tours of the lighthouse are available and a nearby nature center and museum provides information on the extensive history of the park and region. The park is open daily throughout the year.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Pride of Baltimore II",
+        "notes": "Pride of Baltimore II\nhttps://www.nps.gov/places/pride-of-baltimore-ii.htm\n\n<p><i>Pride of Baltimore II</i> is a historically evocative reproduction of a War of 1812-era <a href=\"https://www.nps.gov/stsp/learn/historyculture/privateers-make-their-mark.htm\">privateer</a> based out of Baltimore, Maryland. Capturing public imagination through unique worldwide voyages of discovery, <i>Pride II</i> honors Maryland seafarers of all eras and, wherever she sails, shares the innovation, entrepreneurial spirit, and patriotism that forged and continues to define Maryland’s maritime identity.<br /> <br /> <i>Pride of Baltimore II</i> was commissioned in 1988 and was built as a successor to <i>Pride of Baltimore, </i>tragically lost in May 1986 during a storm in the Atlantic Ocean.<br /> <br /> <i>Pride II </i>has visited over 200 ports in 40 countries and logged more than 275,000 nautical miles. When docked in Baltimore, the ship hosts public sails, deck tours, and interpretive programs throughout the year. The ship is also available for private charters.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.274927,
+          37.843373
+        ]
+      },
+      "properties": {
+        "name": "Reedville Fishermen's Museum",
+        "notes": "Reedville Fishermen's Museum\nhttps://www.nps.gov/places/reedville-fisherman-s-museum.htm\n\n<p>The Reedville Fishermen’s Museum is in Northumberland County, Virginia along the banks of Cockrell Creek, a tributary that drains into the lower Chesapeake Bay. The museum stands on land once owned by Captain Elijah Reed. In the mid-19<sup>th</sup> century, Reed sailed to the Chesapeake Bay from Maine and set up residence and a small menhaden fishery along the creek. There he introduced a method of extracting large quantities of oil from the fish to be used as a lubricant and in lighting, and the leftover bones and carcasses were used as meal and valuable fertilizer. The menhaden fishing industry brought tremendous wealth to Northumberland County and the town of Reedville, which was once known as the wealthiest town in the United States, due to its large income produced by the menhaden industry.<br /> <br /> Today, the property is home to the William Walker House, which represents a waterman’s home during the 1800s. This location was the first home of the museum but has now expanded to include a standalone museum and gift shop, a boat shop, model shop, pilot house and several vessel exhibits, two of which are on the National Registry of Historic Places.<br /> <br /> The museum hosts a collection of artifacts, items and historical materials that document and explore the history of fishing in the region, dating from early American Indian practices to modern-day oystermen. The museum operates Thursday through Saturday from 11AM to 4PM and Sunday from 1PM to 4PM from Memorial Day through Labor Day.<br /> <br /> Address: 504 Main Street, Reedville, VA. </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.07021033763885,
+          38.571471445682484
+        ]
+      },
+      "properties": {
+        "name": "Richardson Maritime Museum",
+        "notes": "Richardson Maritime Museum\nhttps://www.nps.gov/places/richardson-maritime-museum.htm\n\n<p>The Richardson Maritime Museum is in Dorchester County, Maryland near the confluence of Cambridge Creek and the Choptank River and helps visitors learn about Cambridge’s maritime history and heritage. The museum was named in honor of Captain James B. Richardson, a local boatbuilder whose skills passed on to new generations. The museum preserves and explores his legacy through various exhibits, boat models and boatworks. Traditional wooden vessels are often crafted by local modelers and put on display.<br /> <br /> The museum is currently closed as it is undergoing renovation and rehabilitation.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.18141174316406,
+          38.5535774230957
+        ]
+      },
+      "properties": {
+        "name": "Smallwood State Park",
+        "notes": "Smallwood State Park\nhttps://www.nps.gov/places/smallwood-state-park.htm\n\n<p>Smallwood State Park in Charles County, Maryland offers a marina, boat launching ramps, a picnic area, camping area, pavilions, playground, and nature trails. There are craft demonstrations, military exhibitions and other special events on special occasions. <br /> <br /> <strong>Address:</strong> 2750 Sweden Point Road<br /> Marbury MD 20658<br /> <br /> <strong>Contact: </strong>301-743-7613<br /> E-mail: <a href=\"https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=smallwood.statepark@maryland.gov\">smallwood.statepark@maryland.gov</a></p> <p><strong>Hours:</strong> 5 a.m. to sunset, April to October<br /> 7 a.m. to sunset, November to March</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.75098717212677,
+          38.224952886903196
+        ]
+      },
+      "properties": {
+        "name": "St. Clement’s Island Museum",
+        "notes": "St. Clement’s Island Museum\nhttps://www.nps.gov/places/st-clements-island-museum.htm\n\n<p>The St. Clement’s Island Museum sits along the Potomac River in St. Mary’s County, Maryland, and explores Maryland’s early colonial history. The museum interprets the history of St. Clement’s Island, the first English settlement in Maryland, as well as the Ark and the Dove, the ships that carried the colonizers. The island itself is in the Potomac River and is only accessible by boat or ferry from the museum.<br /> <br /> The museum features exhibits and brochures that detail the English history that preceded the voyage to Maryland, details the religious and political issues of the 16<sup>th</sup> and 17<sup>th</sup> centuries and the treacherous crossing of the ships across the Atlantic Ocean. The museum also interprets the history & heritage of local watermen and the nearby Blackistone Lighthouse.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.0934329032898,
+          39.55612799872703
+        ]
+      },
+      "properties": {
+        "name": "Susquehanna Museum of Havre de Grace",
+        "notes": "Susquehanna Museum of Havre de Grace\nhttps://www.nps.gov/places/susquehanna-museum-of-havre-de-grace.htm\n\n<p>The Susquehanna Museum of Havre de Grace (aka the Lock House Museum) is the museum of the Susquehanna and Tidewater Canal located in Havre de Grace, MD at the mouth of the Susquehanna River. The museum is a restored lock house and lock that was once the southern terminus of the Susquehanna and Tidewater Canal and preserves the history and impact of the canal on the region. The Lock House was built in 1840 as a canal office and residence for the lock tender. Today, the museum preserves and explores the significance of the canal through historical exhibits, guided tours, and scenic trails.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.99179077148438,
+          37.82133102416992
+        ]
+      },
+      "properties": {
+        "name": "Tangier Island",
+        "notes": "Tangier Island\nhttps://www.nps.gov/places/tangier-island.htm\n\n<h2>A Small Island With a Storied Past</h2> <p>Tangier is a low-lying island, barely visible above the expansive waters of the <a href=\"https://www.nps.gov/chba/index.htm\">Chesapeake Bay</a>. However, this small island is home to a community of watermen and women whose ancestors have lived here since colonial times. Surprising stories emerge from the island's history, from the Native Americans who came here to hunt and fish to the enslaved African Americans who escaped to the island to find their freedom. </p> <h2>Visiting Tangier</h2> <p>Tangier Island is only accesible by private boat or ferry. Catch a ferry from one of these locations:<br /> <br /> <a href=\"https://www.nps.gov/places/onancock-marina.htm\">Onancock</a>, Virginia (Eastern Shore)<br /> <a href=\"https://www.nps.gov/places/reedville-fisherman-s-museum.htm\">Reedville</a>, Virginia (Western Shore)<br /> Chrisfield, Maryland (Eastern Shore)<br /> <br /> <a href=\"https://www.tangierisland-va.com/transportation/\">Find detailed information about ferry rides here.</a><br /> <br /> Visit the <a href=\"https://www.tangierisland-va.com/\">Tangier Island website</a> for a comprehensive guide to travel, lodging, ammenities, and activities available on the island. <br /> <br /> Learn about the <a href=\"https://www.nps.gov/places/tangier-island-history-museum.htm\">TANGIER ISLAND HISTORY MUSEUM</a> here. </p> <h2>Tangier's History</h2> <h3>Native Americans on Tangier</h3> <p>Shell middens, or waste piles of oyster shells, and many stone points discovered on the island reveal that Indigenous peoples visited Tangier Island. They likely came here to take advantage of the summer's rich bounty of fish and shellfish.The Pocomoke people of the Bay's Eastern Shore were among the groups that could have traveled here. They would have reached the offshore island in dugout canoes, the largest of which could reach 70 feet long. </p> <h3>Colonial Settlement</h3> <p>Among the first Europeans to observe the island, John Smith and his crew spotted Tangier and its neighboring islands during their voyage throughout the Bay in the summer of 1608. With a penchant for naming the places he visited, Smith called the islands the Russell Isles, after a member of his crew, Doctor Russell. As early as the 1670s, colonists held patents to the island, which they primarily used to graze livestock. A century later, the first permanent residents arrived on the island. At first they made their living by farming, but fishing, crabbing, and oystering soon took over as their primary occupation. </p> <h3>War of 1812</h3> <p>For nearly 1,000 slaves during the War of 1812, Tangier Island was a fortress of salvation, and the place where they took their first free steps. Fort Albion, named after the ancient name for England and <a href=\"https://www.nps.gov/people/george-cockburn.htm\">Commodore George Cockburn</a>’s flagship, was constructed on the island in 1814 to serve two major functions: as a central base to sustain continued British attacks along the Chesapeake, and as a depot for receiving runaway American slaves into citizenship and service to His Majesty, King George III of England.</p> <p>Using America’s slaves against itself was not a novel idea – the British successfully employed this war tactic during the Revolutionary War. However, in the War of 1812, American slaves were considered free British citizens as soon as they set foot on British soil (which included forts and vessels), as slavery was illegal in all British territories. The new recruits remained neither American nor enslaved in the eyes of the British. Some slaves stole boats or canoes and met British troops directly; others started fires to get the attention of British soldiers for rescue. In some cases, these slaves took up arms as part of an active offense, while in others they simply took the opportunity presented by the British to escape bondage.</p> <p>As early as 1813, British army and navy officers were instructed to “provide shelter, protection, and evacuation to refugees.” <a href=\"https://www.nps.gov/people/alexander-cochrane.htm\">Admiral Alexander Cochrane</a> formalized the policy in April 1814, with a <a href=\"http://www.novascotia.ca/nsarm/virtual/africanns/archives.asp?ID=70\">proclamation</a> offering the “choice of either entering into His Majesty’s Sea or Land Forces, or of being sent as FREE Settlers to the British Possessions in North America or the West Indies.”</p> <p>With an anticipated influx of new recruits, the Royal Navy needed a new base. Tangier Island provided an easy access point in the Chesapeake to the Upper and Lower Bays, as well as the Potomac, Washington and Baltimore, while being surrounded by slaves in the plantation country of Virginia and Maryland. Fort Albion included a barracks, a hospital, a church, family dwellings and gardens, meant to accommodate not just prospective soldiers, but the families they brought with them as well. From its earliest inception, Fort Albion was conceived not just as a place for military training, but a place which would be a temporary home for newly freed Britons.</p> <p>Tangier Island was not employed long; the War of 1812 ended less than a year after Fort Albion was built, on February 17, 1815. As the British withdrew, Cockburn ordered that “on no account [is] a Single Negro [to] be left, except by his own request,” fully embracing the status of the former slaves – whether in service or not – as free subjects of the British Empire. On March 21, 1815, the evacuation of the British from the island was completed, and Fort Albion and its barracks were burned. Former slaves were sent as soldiers and citizens to settle British colonies in the Caribbean and Canada.</p> <p>Between the fort’s intentional destruction and subsequent unintentional destruction by storms and floods common in the Chesapeake, nothing remains of Fort Albion today. Much of Tangier Island where it stood has eroded, leaving a sandy beach reminiscent of those that slaves saw as they set foot on the island, in search of freedom.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.99196493625641,
+          37.82616262550315
+        ]
+      },
+      "properties": {
+        "name": "Tangier Island History Museum",
+        "notes": "Tangier Island History Museum\nhttps://www.nps.gov/places/tangier-island-history-museum.htm\n\n<h2>An oasis among the waves</h2> <p>The Tangier Island History Museum tells the surprising story of a small island off the shore of Virginia. Like Smith Island in Maryland, <a href=\"https://www.nps.gov/places/tangier-island.htm\">Tangier Island</a> has been a fishing community for hundreds of years.Today, the island remains a vibrant watermen community and receives hundreds of tourists every year seeking stunning views of the Chesapeake Bay and a taste of the island's unique culture and history.</p> <h2>Small island, big history</h2> <p>Native Americans utilized the Chesapeake's islands, including Tangier, as evidenced by plentiful stone points visible along their shores. John Smith and his crew were among the first Europeans to visit the island, catching sight of it during their 1608 explorations of the region. Smith named Tangier and its neighboring islands the \"Russell Isles,\" after Doctor Russell, a member of his crew. The island's first settlers in the 1700s relied on farming for their occupation, but over the next century, harvesting seafood became the more lucrative profession. During the War of 1812, the British built Fort Albion on Tangier Island and used it as a staging area for battles further inland. Several enslaved African Americans escaped to Tangier Island and were given their freedom by the British. Some joined the Corps of Colonial Marines, an all-black unit who fought against the Americans. </p> <h2>Visiting the museum</h2> <h4>Getting there</h4> <p>Tangier Island is only accesible by private boat or ferry. Catch a ferry from one of these locations:<br /> <br /> <a href=\"https://www.nps.gov/places/onancock-marina.htm\">Onancock</a>, Virginia (Eastern Shore)<br /> <a href=\"https://www.nps.gov/places/reedville-fisherman-s-museum.htm\">Reedville</a>, Virginia (Western Shore)<br /> Chrisfield, Maryland (Eastern Shore)</p> <h4>Hours & Admission</h4> <p>The museum is open:<br /> Monday - Saturday, 11 a.m. - 4 p.m.<br /> Sunday, 12 p.m. - 4 p.m.<br /> <br /> Admission: $3<br /> Free: Children under 11, Military Veterans, Active Duty, and Residents</p> <h4>Contact</h4> <p>(757) 891-2374</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.03930554627351,
+          38.53119371432405
+        ]
+      },
+      "properties": {
+        "name": "The Thomas Stone House",
+        "notes": "The Thomas Stone House\nhttps://www.nps.gov/places/the-mansion-at-haberdeventure.htm\n\n<p>One of the more unique features at Thomas Stone’s plantation of Haberdeventure is the curved five-part house. While parts of the house are original to Thomas Stone’s lifetime, fire damage, renovation, and modernization have changed the structure.</p> <p>Thomas Stone purchased the 442-acre property from his uncle, Daniel Jenifer, on December 13, 1770. Construction of the house's brick Central Block began in the spring of 1771. The following year, Thomas and his family likely took up residence even though the work was incomplete.</p> <p>The Central Block’s first floor comprises the Center Passage along with the East and West Rooms. The second floor had two large rooms that would have served as bed chambers.</p> <h4>Center Passage</h4> <p>Upon entering the Center Passage, guests could see a large and attractive stairway, expensive portraits, and decorative rooms to the left and right, which provided clues to the wealth and status of the Stones. With doors at each end, this breezeway may have been one of the house's most comfortable rooms during the spring, summer, and fall.</p> <h4>West Room</h4> <p>The West Room is believed to be the Master Bedchamber. Ornate first floor bedchambers in colonial era homes often served the dual purposes of being daytime or informal parlors. In the case of Margaret Stone, who developed a debilitating case of arthritis that often turned her into an invalid, she likely did not receive many guests but could converse with her family on her better days.</p> <p>While there is no supporting evidence, the lifestyles of slave owning gentry of the time suggests that an enslaved African American may have slept either on the floor of the West Room or in the adjacent Center Passage, to be readily available to care for the family's needs both night and day.</p> <h4>East Room</h4> <p>It is evident this room was used for entertaining. Contrary to modern and romanticized visions of colonial era homes, most were not elegant and pristine. Few colonial homes had rooms as beautiful as Thomas Stone's East Room. The expensive furnishing and window coverings and the well crafted woodwork were designed to impress guests, and even though this woodwork is a reconstruction of the original it still shows the detail that was put into the work.</p> <p>Aside from its beauty, the East Room may have served a more important function. With only one doorway, the room could provide privacy for Thomas Stone as he performed his legal and political duties along with directing county defense activities during the American Revolution. In Maryland’s heavily class-based society, the elegance of the East Room emphasized the importance, power, and success of Thomas Stone and justified his role as a leading figure in the community.</p> <h4>Second Floor</h4> <p>The purpose of the second floor was to serve as bed chambers, not just for Thomas and Margaret Stone’s three children. Upon Thomas's father's and eldest brother's deaths in 1773, Thomas permitted some of his younger brothers and sisters to live in the home. Also, as a host to law clients, political allies, several siblings and their families, distant relations, and countless friends, Stone was expected to provide places for everyone to sleep. </p> <p>Crowded homes were quite common in the colonial era. Rooms were hot and stuffy in the summer and drafty and cold in the winter. Privacy by modern standards barely existed. Even George Washington referred to his mansion of Mount Vernon as a “well-restored tavern.”</p> <h4>West Hyphen</h4> <p>The adjoining West Hyphen was built during Thomas Stone’s ownership to connect to the West Wing, which served as a kitchen for the Stones. This Hyphen may have served as a multi-use space with easily moved furnishings to allow dining, indoor chores and crafts, entertaining, and possibly to serve as a guest chamber.</p> <h4>West Wing</h4> <p>The original West Wing kitchen space is believed to have been a small and relatively unadorned structure designed for the function of cooking, cleaning, and other household chores by enslaved workers. The current West Wing, which partially rests upon the original foundations, dates from the mid-1840s. There are two rooms on the first floor and a steep stairway that leads to two more rooms above. In 1846, William Briscoe Stone remarked in a letter to his daughter Mary that the West Wing was, “…much enlarged improved & amended. I am certain you will be surprised and pleased with the change.\"<br /> <br /> During the 20th-century, the residents redesigned the West Hyphen to create a connective hallway between the second floor of the Central Block and the West Wing. This modernization was removed by the National Park Service to help return the mansion to a more historical design.</p> <h4>East Hyphen</h4> <p>The East Hyphen was a unique space. Its primary function was to serve as a protective cover for the full cellar that existed beneath the Central Block. It is not connected in the same way as the West Hyphen is connected. In order to gain access to the space, one would have to go outside the house and enter from the outside. </p> <h4>East Wing</h4> <p>Architectural historians believe that the East Wing is the oldest part of the house. It was likely a wholly separate and independent structure moved from some other location on the plantation to serve as the East Wing. Like the East Hyphen, there was no internal connection from the Central Block to the East Wing. One had to exit the mansion, walk across the lawn, and then enter the East Wing. </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.98387002944946,
+          39.3567657107613
+        ]
+      },
+      "properties": {
+        "name": "Turner's Creek Park",
+        "notes": "Turner's Creek Park\nhttps://www.nps.gov/places/turners-creek-park.htm\n\n<p>Turner’s Creek Park is a 140+ acre park in Kent County, MD that runs along Turner’s Creek, a tributary of the Sassafras River. The park lies side-by-side with the Sassafras Natural Resource Management Area and was once the site of a thriving local shipping port. Though the port has closed, the region is still home to many crabbing and fishing boats. Today, the park offers a spectacular view of the Sassafras River which can be access through hiking trails, a boat ramp, and open fields.<br /> <br /> Located adjacent to the Sassafrass Natural Resource Management Area, Turner's Creek is Chesapeake Gateways Site. Explore 147 acres of trails, wooded acres, open fields, and a waterfront bluff overlooking Turner's Creek off the Sassafrass River. A public boat ramp is surrounded by over 100 feet of bulkhead area (please call the County Public Landings office at 410-778-7439 for more boat ramp details). The picnic pavilion includes charcoal grills, electric, and approximately 12 picnic tables. *Restroom facilities are located in the basement of the historic Lathim House (built in the late 18th century) and a portable toilet is available at the bulkhead. Other attractions include three nature trails, an abundance of waterfowl and wildlife, and a national and historic tree grove.</p>",
+        "icon": "red-pin-down.png"
+      }
+    }
+  ]
+}

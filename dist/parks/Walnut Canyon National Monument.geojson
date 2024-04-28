@@ -1,0 +1,35 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.50842118662344,
+          35.17162485526221
+        ]
+      },
+      "properties": {
+        "name": "Accessible Scenic Overlook",
+        "notes": "Accessible Scenic Overlook\nhttps://www.nps.gov/places/accessible-scenic-overlook.htm\n\nThe accessible scenic overlook includes a viewpoint of Walnut Canyon and Ancestral Puebloan cliff dwellings. It is 150 feet from the visitor center, along a paved accessible path. There is a bench located at the overlook for easy viewing of the canyon's features. Informational park signs describe the canyon and its history. This is also a great location for viewing wildlife.<br />   <h4><span style=\"color: rgb(34, 34, 34); font-family: Georgia, Times, \"Times New Roman\", serif; font-size: 1.5625rem; font-weight: bold; letter-spacing: -0.25px; text-align: var(--bs-body-text-align);\">Ancestral Puebloan Cliff Dwellings</span></h4> The cliff dwellings that are visible from the viewpoint were occupied by Native people from 1100 - 1250 CE. These dwellings provided shelter from variable weather conditions. Residents accessed the bottom of Walnut Canyon by traversing fractures in the sandstone. Many of the trails that they created are no longer seen, but these fractures are still visible from this viewpoint.  <h3>Geology</h3> Walnut Creek, a small meandering waterway slowly carved out Walnut Canyon. On average, the canyon is 400 feet deep. Two layers of exposed sedimentary rocks can be identified. The top layer is Kaibab Limestone. Softer layers within the limestone wore away faster creating natural alcoves. Native people utilized these alcoves to construct their cliff dwelling homes. Below the limestone is the Coconino Sandstone. This layer was formed when ancient coastal dunes were solidified into stone.  ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.50833368301392,
+          35.17277347031266
+        ]
+      },
+      "properties": {
+        "name": "Pueblo and Pithouse",
+        "notes": "Pueblo and Pithouse\nhttps://www.nps.gov/places/pueblo-and-pithouse.htm\n\nTake a leisurely stroll on the loop portion of the Rim Trail. The combination of unexcavated structures and excavated pueblo and pithouse sites offer an introduction into the rich cultural history of Walnut Canyon. These sites were excavated, stabilized, and partially reconstructed between 1966 and 1968. You can help us protect these fragile sites by enjoying them from a distance, do not sit or stand on the walls or enter the pithouse. Please stay on the trails to protect unexcavated areas and leave artifacts in place.<br /> <br /> Along the canyon rim early inhabitants planted crops and built structures with different housing styles than what is found in the cliff alcoves. Pithouses were built into the ground and varied in size and shape. Construction techniques were dependent on the builders and materials at hand. Pueblos were built with two to four rooms and a roof of wooden beams, brush, and mud. Structures were compact, insulated with thick stone walls, and strategically oriented to the sun and seasons. Pueblos and pithouses were widely used over long periods of occupancy. Structures were modified over time to meet the changing needs of the community; some homes may have become temperature-controlled storage as needs changed. Consider how modern homes can be built or modified with sustainable building materials and styles to significantly reduce impacts on the environment.<br /> <br /> Nearby corn, beans, squash, and other crops were planted to supplement the many wild foods gathered around Walnut Canyon. Community members worked together in the gardens, successfully growing crops in this dry high elevation climate, strengthening the seeds to be more viable in following seasons. This tradition of cultivation and gathering continues to this day in and around Flagstaff, further connecting tribal communities with their ancestral heritage and rich agricultural knowledge of the region.",
+        "icon": "red-pin-down.png"
+      }
+    }
+  ]
+}

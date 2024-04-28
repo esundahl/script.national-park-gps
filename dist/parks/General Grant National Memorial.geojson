@@ -1,0 +1,125 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.96290600299835,
+          40.81351691043028
+        ]
+      },
+      "properties": {
+        "name": "Eastern Trophy Room",
+        "notes": "Eastern Trophy Room\nhttps://www.nps.gov/places/the-eastern-trophy-room.htm\n\nThe Eastern Trophy Room contains a collection of reproduction civil war flags and a mural which maps the southern theater of the civil war.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.96305620670319,
+          40.81331390957577
+        ]
+      },
+      "properties": {
+        "name": "Flag of the 11th Indiana",
+        "notes": "Flag of the 11th Indiana\nhttps://www.nps.gov/places/flag-of-the-11th-indiana.htm\n\nThe flag of the 11th Indiana is their original flag from the Civil War. The regiment served under Grant at the beginning of tthe Civil War for many of his most pivitol battles from Fort Donaldson to Vicksburg",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.96310448646545,
+          40.813273309330334
+        ]
+      },
+      "properties": {
+        "name": "General Grant National Memorial",
+        "notes": "General Grant National Memorial\nhttps://www.nps.gov/places/general-grant-national-memorial.htm\n\nBefore Ulysses S. Grant passed away, he requested that he be buried either at West Point, in the Illinois town of Galena he once called home, or New York City. After New York City was chosen as a burial site, the next task would be deciding where in the ever-expanding city.<br /> <br /> While many favored Central Park, a location at Riverside Park was chosen after Frederick Law Olmsted’s close acquaintance Samuel Parsons Jr. convinced Grant’s widow Julia that the Hudson River setting, with its sweeping panoramic views, was superior.<br /> <br /> Shortly after the burial, anxiety began to grow regarding the site of Grant’s Tomb, that it was inappropriate and would lend an unfortunate funerary air to this section of Riverside Park, which had been considered a gala promenade. Frederick Law Olmsted and Calvert Vaux were particularly concerned.<br /> <br /> Nestled within the picturesque landscape of Riverside Park, Grant’s Tomb was designed to be approached by rail, water, carriage, and by foot. Grant’s Tomb is located atop one of the highest points along Riverside Drive, with surrounding formal walkways and parklands designed by Parsons and Vaux.<br /> <br /> To ease Olmsted and Vaux’s concerns, Vaux and Parsons proposed that the grounds of Grant’s Tomb be separated from the rest of Riverside Park with a newly cut road, which was done, ensuring Grant’s Tomb and Riverside Park could coexist in Olmsted’s vision of providing open park space unobstructed by the outside world.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.963109099,
+          40.813485701
+        ]
+      },
+      "properties": {
+        "name": "Grant's Tomb",
+        "notes": "Grant's Tomb\nhttps://www.nps.gov/places/grant-s-tomb.htm\n\n<p>This memorial to Ulysses S. Grant--victorious Union commander of the Civil War--includes the tombs of General Grant and his wife, Julia Dent Grant. A West Point graduate, Grant served in the Mexican War and at various frontier posts before rapidly rising through the ranks during the Civil War. Grant's tenacity and boldness led to victories in the Battles of Vicksburg and Chattanooga and Robert E. Lee's surrender at Appomattox. Scenes of these events are depicted in mosaics in the tomb. In 1866, Congress awarded Grant his fourth star, making him the first full General of the Armies. <br> <br> A grateful nation elected Grant to serve as President of the United States twice, in 1868 and 1872. Grant's accomplishments include signing the act that established the first national park, Yellowstone, on March 1, 1872. After his presidency, Grant settled in New York City. He died of throat cancer on July 23, 1885 in Mount McGregor, New York and was laid to rest in New York City on August 8.<br> <br> Approximately 90,000 people from around the world donated over $600,000 towards the construction of Grant's Tomb. This was the largest public fundraising effort ever at that time. Designed by architect John Duncan, the granite and marble structure was completed in 1897 and remains the largest mausoleum in North America. Over one million people attended the parade and dedication ceremony of Grant's Tomb on April 27, 1897.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9631118774414,
+          40.81335489562049
+        ]
+      },
+      "properties": {
+        "name": "Mausoleum for Ulysses S Grant",
+        "notes": "Mausoleum for Ulysses S Grant\nhttps://www.nps.gov/places/mausoleum.htm\n\nAlso known as Grants Tomb by locals, the mausoleum at General Grant National Memorial is the final resting place for American Civil War Union General and 18th U.S. President <a href=\"https://www.nps.gov/people/ulysses-s-grant.htm\">Ulysses S. Grant</a> and his wife <a href=\"https://www.nps.gov/people/julia-dent-grant.htm\">Julia Dent Grant</a>. Each of thier remains lie within two 8 1/2 ton red Montello Granite Sarcophogi in the center of the round crypt watched over by five busts of Union generals that served under Grant: Sherman, McPherson, Ord, Thomas, and Sheridan. Architect John H. Duncan, who was selected by the Grant Monument Association in 1890, was inspired in part by Napolean's Tomb in Les Invalides, France as well as Helicarnassus in Ancient Greece.  ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.96302938461304,
+          40.81343571016303
+        ]
+      },
+      "properties": {
+        "name": "The Crypt in Grant's Tomb",
+        "notes": "The Crypt in Grant's Tomb\nhttps://www.nps.gov/places/the-crypt-in-grant-s-tomb.htm\n\nThe Crypt level contains the sarcophogai of both Ulysses and Julia Grant. Around the edge of the circle are 5 statues of other Civil War generals.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.96310985088348,
+          40.81337074987764
+        ]
+      },
+      "properties": {
+        "name": "The Rotunda of Grant's Tomb",
+        "notes": "The Rotunda of Grant's Tomb\nhttps://www.nps.gov/places/the-rotunda-of-grant-s-tomb.htm\n\nThe Main Rotunda at General Grant National Memorial is the largest space inside the Mausoleum. The soaring ceiling rises more than 100 feet in to the air to a dome that covers the decorated room. The sunken crypt below the central viewing gallery contains the sarcophogai of Ulysses S Grant and his wife Julia D Grant.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.96312057971954,
+          40.81357781056553
+        ]
+      },
+      "properties": {
+        "name": "Western Trophy Room",
+        "notes": "Western Trophy Room\nhttps://www.nps.gov/places/western-trophy-room.htm\n\nThe Western Trophy room houses several replica Civil War flags as well as a mural depicting the northern theater of the Civil War.",
+        "icon": "red-pin-down.png"
+      }
+    }
+  ]
+}

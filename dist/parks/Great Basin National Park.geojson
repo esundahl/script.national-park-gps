@@ -1,0 +1,695 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.21882390975952,
+          39.005928827470456
+        ]
+      },
+      "properties": {
+        "name": "Absalom Lehman (Stop 8)",
+        "notes": "Absalom Lehman (Stop 8)\nhttps://www.nps.gov/places/absalom-lehman-stop-8.htm\n\nIn the late 1800s, Absalom Lehman - a settler who owned the land surrounding Lehman Caves - planted an orchard of apricot trees. This orchard is still located next to the Lehman Caves Visitor Center, and many trees within the orchard are the same ones planted by Lehman. The National Park Service has planted additional trees in the 1990s and in 2022, with the goal of sustaining and preserving this historic orchard.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.218338,
+          39.008632
+        ]
+      },
+      "properties": {
+        "name": "Astronomy Ampitheater",
+        "notes": "Astronomy Ampitheater\nhttps://www.nps.gov/places/astronomy-ampitheater.htm\n\nAs an International Dark-Sky Park Great Basin National Park offers incredible views of the night-sky on the 39th parallel. The dark night-sky of of the Great Basin area can be experienced almost anywhere within the park. Parking lots, hiking trails, and designated pull-offs on the park roads can be good places to experience the night on your own.<br /> <br /> During the summers rangers offer <a href=\"https://www.nps.gov/grba/planyourvisit/astronomy-programs.htm\">astronomy programs</a> at the Astronomy Amphitheater. These programs showcase the night sky and deep space objects using telescopes. Check the park calendar for program times.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.21177938298032,
+          39.0088485519314
+        ]
+      },
+      "properties": {
+        "name": "Baker Creek Road",
+        "notes": "Baker Creek Road\nhttps://www.nps.gov/places/baker-creek-road.htm\n\n<p data-ogsb=\"white\">Approximately 5.5 miles, unpaved, speed limit 25 mph.  </p> <p data-ogsb=\"white\">Access to Grey Cliffs and Baker Creek Campgrounds, as well as, Pole Canyon, Baker Lake, Johnson Lake, and other hiking trails. Baker Creek Road is unpaved and unplowed during the winter, limiting access seasonally. With the road closed in the winter, snowshoeing and cross-country skiing along the road is a popular way to get out and enjoy the park. You will see Pinyon Pines and Utah Juniper trees cover the hillsides along the road. During the fall, many people come to harvest the Pinyon Pine nuts (25lbs per family), as well as, view the yellow/orange foliage of the Aspens sweeping the slopes. During the hot summer days marmots carve bunkers in the dirt road to stay cool. Conditions vary, expect wash-boarded roads during the busy months. Drive slowly and watch out for Marmots!    </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.245306,
+          38.976552
+        ]
+      },
+      "properties": {
+        "name": "Baker Creek Trailhead",
+        "notes": "Baker Creek Trailhead\nhttps://www.nps.gov/places/baker-creek-trailhead.htm\n\nLocated about three miles up the Baker Creek Road, the Baker Creek Trailhead has access to three trails; South Fork Baker trail, Timber Creek Trail, and Baker Lake. These trails venture through aspen groves and pine tree stands up to alpine lakes and meadows.<br /> <br /> Parking is limited, please follow all parking and driving regulations.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.30862,
+          38.957568
+        ]
+      },
+      "properties": {
+        "name": "Baker Lake",
+        "notes": "Baker Lake\nhttps://www.nps.gov/places/baker-lake.htm\n\nBaker Lake is one of the largest mountain lakes on Great Basin National Park. Nestled in a mountain cirque the beautiful lake frequently has snow on its rocky banks.<br /> <br /> The lake can be reached by taking the Baker Lake Trail for six miles at the Baker Creek Trailhead. ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.22030985355377,
+          39.00650409006164
+        ]
+      },
+      "properties": {
+        "name": "Basin and Range (Stop 5)",
+        "notes": "Basin and Range (Stop 5)\nhttps://www.nps.gov/places/basin-and-range-stop-5.htm\n\nGreat Basin National Park is only a small portion of the area it represents. The Great Basin stretches from the Sierra Nevada of California to the Wasatch Mountains of Utah, and from southern Oregon to southern California. The term \"basin\" refers to the fact that there is no surface water that flows to the sea here. All the snow and rain that falls either evaporates or collects and absorbs into the ground. <br /> <br /> On your way here, did you notice how many mountain ranges you passed through? This landscape of parallel mountains rangers and the valleys between them extends from the Great Basin all the way to Texas and Mexico. When this area was uplifted around 60 million years ago, the crust began to stretch up and out, fracturing into huge blocks. As time went on, some of those blocks were thrust up to become the mountain ranges divided by the broad valleys you see around you.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.303871,
+          38.99962
+        ]
+      },
+      "properties": {
+        "name": "Bristlecone Grove",
+        "notes": "Bristlecone Grove\nhttps://www.nps.gov/places/bristlecone-grove.htm\n\nWalk among the ancients here. 2.8 miles roundtrip. 600 feet elevation gain.Begin at the trailhead at the end of the Wheeler Peak Scenic Drive. The beginning of the trail will start in a forested area and will eventually make its way up a talus slope. Watch your footing. Once you reach the Bristlecone Grove, there are interpretive signs to educate you and inspire you. The trees watching you are around 4,000 years old.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.307082,
+          39.010034
+        ]
+      },
+      "properties": {
+        "name": "Bristlecone Parking Area - Montane & Alpine (Stop 7)",
+        "notes": "Bristlecone Parking Area - Montane & Alpine (Stop 7)\nhttps://www.nps.gov/places/bristlecone-parking-area.htm\n\n<p paraeid=\"{500488a8-78a9-43d9-a956-4f72bf4e987b}{154}\" paraid=\"812306186\">The starting point for the alpine lakes, bristlecone and glacier trails, and the accessible Island Forest Trail. The end of the Wheeler Peak Scenic Drive is also the home of <a href=\"https://www.nps.gov/grba/planyourvisit/campgrounds.htm\">Wheeler Peak Campground</a>.  </p> <p paraeid=\"{500488a8-78a9-43d9-a956-4f72bf4e987b}{160}\" paraid=\"211127437\">The Montane life zone teems with life. Mule deer, turkeys, ground squirrels, Clark’s nutcrackers, and hermit thrushes are common sights in this area contrasted by the much rarer Mountain Lion. Engelman spruce and limber pine are the two conifers found in this area. Up the trails you’ll see groves of aspen trees, and even further up the Great Basin Bristlecone Pines. </p> <p paraeid=\"{500488a8-78a9-43d9-a956-4f72bf4e987b}{166}\" paraid=\"1614655359\"><a href=\"https://www.nps.gov/grba/planyourvisit/identifying-bristlecone-pines.htm\">Bristlecone pines</a> are the oldest single living organisms on earth, and they cut a striking image among the rocky landscape. The sleepy behemoths can live for thousands of years, with wind and fierce weather twisting them into gnarly shapes that stand out among the landscape. Begin at the Bristlecone trailhead and hike the <a href=\"https://www.nps.gov/grba/planyourvisit/hiking-information.htm\">2.8 mile out-and-back trail</a> to see these ancient trees and be reminded of humans’ short time on Earth. </p> <p paraeid=\"{500488a8-78a9-43d9-a956-4f72bf4e987b}{180}\" paraid=\"964859589\">While the Bristlecone Trailhead is the start of many adventures, it is also the end of the Wheeler Peak Scenic Drive. This tour took you from dry, salty sagebrush at low elevations all the way up to rich mountain ecosystems bustling with life. Pick either the Bristlecone/Glacier trail or the Summit trail, both of which start here, and follow it above the tree line to experience the splendor of the alpine life zone.  </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.30717830219848,
+          39.01035513700483
+        ]
+      },
+      "properties": {
+        "name": "Bristlecone, Alpine Lake and Sky Island Forest Trailhead",
+        "notes": "Bristlecone, Alpine Lake and Sky Island Forest Trailhead\nhttps://www.nps.gov/places/bristlecone-alpine-lake-and-sky-island-forest-trailhead.htm\n\nBristlecone, Alpine Lake and Sky Island Forest Trailhead is located at the end of the Wheeler Peak Scenic Drive, 12 miles up. This is one of the most popular trailheads at Great Basin National Park. The Wheeler Bristlecone Grove is just a 3.2 mile roundtrip hike form the trailhead, this is one of the most visited area of the park during the summer and fall. This trailhead also offer access to a wheelchair accessible .4 mile trail and a 2.7 mile loop that visits two alpine lakes.<br /> <br /> Parking is limited, please follow all parking and driving regulations.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.274185,
+          38.936147
+        ]
+      },
+      "properties": {
+        "name": "Dead Lake",
+        "notes": "Dead Lake\nhttps://www.nps.gov/places/dead-lake.htm\n\n<p>Dead Lake, found above Snake Creek, is found in a glacial terminal moraine.<br /> Follow an old roadbed on the north slope of the canyon. Middle sections are steep in the forested area of the trail. Dead lake is small alpine lake. 3.8 miles roundtrip. 1,561 feet elevation gain.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.12350356578827,
+          39.013769504002994
+        ]
+      },
+      "properties": {
+        "name": "Great Basin National Heritage Area",
+        "notes": "Great Basin National Heritage Area\nhttps://www.nps.gov/places/great-basin-national-heritage-area.htm\n\n<p paraeid=\"{38476f75-5ed4-43c5-99d5-bd442895264c}{242}\" paraid=\"8\"><a href=\"https://greatbasinheritage.org/\">The Great Basin National Heritage Area </a>was designated in 2006. The non-profit Great Basin Heritage Area Partnership is the coordinating entity.<br /> <br /> Straddling the Nevada-Utah state line, the Great Basin NHA lies in the vast, open, quiet expanse of the continent’s basin and range physiographic province characterized by long, high-elevation desert valleys separated by steep, narrow mountain ranges. This is a place of distant horizons, starry night skies, and a surprising diversity of flora and fauna including the ancient bristlecone pine. The NHA’s 16,000 square-mile area is equal in size to the nation’s five smallest states combined; home to only 23,000 people, it is one of the least densely populated regions in the country. Great Basin National Park lies in the middle. Many visitors arrive on Highway 50, “America’s loneliest road.”<br /> <br /> Humans have inhabited the Great Basin for more than 13,000 years. The first people migrated throughout their homeland in search of food, with the seasons, and in response to long-term environmental change. Today, their descendants live on four small reservations - the Duckwater Shoshone, Ely Shoshone, Confederated Tribes of the Goshute, and the Kanosh Band of the Utah Paiute – continuing to adapt to a changing world while enriching the heritage of this region through their traditions of dance, music, and art.<br /> <br /> White settlement began in the late 19<sup>th</sup> century. Pony Express riders came through briefly, followed by gold and silver miners whose luck had run out in California. Mining towns sprang up when copper was found near Ely, Nevada in 1900, and the Nevada Northern Railway was laid down to carry the ore to the smelters. Farmers, cattle ranchers, and sheepherders took up residence in the wide-open spaces. Some ranches have remained in the same family for seven or more generations, and the old sheepherders still gather to tell their stories. Ghost towns dot the landscape to recall the dozens of communities that boomed, busted, and disappeared.<br /> <br /> In 1943, in an especially bleak stretch of desert outside Delta, Utah, citizens, and residents of Japanese descent were forcibly relocated from the California coast to the internment camp known as “Topaz,” named after a nearby mountain, for the duration of World War II. A museum on the main street in Delta now tells the stories of the 11,000 internees and this dark chapter in our nation’s history.  <br /> <br /> The Great Basin NHA offers visitors and residents crowd-free opportunities for recreational adventure – hiking, hunting, fishing, four-wheeling. This isolated expanse also invites contemplation of the landscape, and its occupants, through the ages. </p> <h2 paraeid=\"{17c349a4-fc86-4fb8-a105-7532d4e59f62}{23}\" paraid=\"13\">Historic Sites and Points of Interest:</h2> <ol role=\"list\" start=\"1\"> <li aria-setsize=\"-1\" data-aria-level=\"1\" data-aria-posinset=\"1\" data-font=\"Calibri, Calibri_MSFontService, sans-serif\" data-leveltext=\"%1.\" data-listid=\"2\" role=\"listitem\"> <p paraeid=\"{17c349a4-fc86-4fb8-a105-7532d4e59f62}{39}\" paraid=\"16\"><a href=\"https://stateparks.utah.gov/parks/territorial-statehouse/\">Territorial Statehouse State Park</a> </p> </li> </ol> <ol role=\"list\" start=\"2\"> <li aria-setsize=\"-1\" data-aria-level=\"1\" data-aria-posinset=\"2\" data-font=\"Calibri, Calibri_MSFontService, sans-serif\" data-leveltext=\"%1.\" data-listid=\"2\" role=\"listitem\"> <p paraeid=\"{17c349a4-fc86-4fb8-a105-7532d4e59f62}{47}\" paraid=\"17\"><a href=\"http://www.covefort.com/\">Cove Fort</a> </p> </li> </ol> <ol role=\"list\" start=\"3\"> <li aria-setsize=\"-1\" data-aria-level=\"1\" data-aria-posinset=\"3\" data-font=\"Calibri\" data-leveltext=\"%1.\" data-listid=\"2\" role=\"listitem\"> <p paraeid=\"{17c349a4-fc86-4fb8-a105-7532d4e59f62}{55}\" paraid=\"18\"><a href=\"https://www.blm.gov/visit/pahvant-valley-heritage-trail\">Pahvant Valley Heritage Trail</a> </p> </li> </ol> <ol role=\"list\" start=\"4\"> <li aria-setsize=\"-1\" data-aria-level=\"1\" data-aria-posinset=\"4\" data-font=\"Calibri, Calibri_MSFontService, sans-serif\" data-leveltext=\"%1.\" data-listid=\"2\" role=\"listitem\"> <p paraeid=\"{17c349a4-fc86-4fb8-a105-7532d4e59f62}{63}\" paraid=\"19\"><a href=\"http://www.topazmuseum.org/\">Topaz Museum </a><a href=\"http://www.topazmuseum.org/\">and Central Utah Relocation Center National Historic Landmark</a> </p> </li> </ol> <ol role=\"list\" start=\"5\"> <li aria-setsize=\"-1\" data-aria-level=\"1\" data-aria-posinset=\"5\" data-font=\"Calibri, Calibri_MSFontService, sans-serif\" data-leveltext=\"%1.\" data-listid=\"2\" role=\"listitem\"> <p paraeid=\"{17c349a4-fc86-4fb8-a105-7532d4e59f62}{74}\" paraid=\"20\"><a href=\"https://greatbasinmuseum.com/\">Great Basin Museum</a></p> </li> </ol> <ol role=\"list\" start=\"6\"> <li aria-setsize=\"-1\" data-aria-level=\"1\" data-aria-posinset=\"6\" data-font=\"Calibri, Calibri_MSFontService, sans-serif\" data-leveltext=\"%1.\" data-listid=\"2\" role=\"listitem\"> <p paraeid=\"{17c349a4-fc86-4fb8-a105-7532d4e59f62}{82}\" paraid=\"21\"><a href=\"http://www.nps.gov/grba/planyourvisit/lehman-caves-tours.htm\">Lehman Caves (in Great Basin National Park)</a> </p> </li> </ol> <ol role=\"list\" start=\"7\"> <li aria-setsize=\"-1\" data-aria-level=\"1\" data-aria-posinset=\"7\" data-font=\"Calibri, Calibri_MSFontService, sans-serif\" data-leveltext=\"%1.\" data-listid=\"2\" role=\"listitem\"> <p paraeid=\"{17c349a4-fc86-4fb8-a105-7532d4e59f62}{90}\" paraid=\"22\"><a href=\"http://parks.nv.gov/parks/ward-charcoal-ovens\">Ward Charcoal Ovens State Historic Park</a> </p> </li> </ol> <ol role=\"list\" start=\"8\"> <li aria-setsize=\"-1\" data-aria-level=\"1\" data-aria-posinset=\"8\" data-font=\"Calibri, Calibri_MSFontService, sans-serif\" data-leveltext=\"%1.\" data-listid=\"2\" role=\"listitem\"> <p paraeid=\"{17c349a4-fc86-4fb8-a105-7532d4e59f62}{98}\" paraid=\"23\"><a href=\"http://wpmuseum.org/\">White Pine Public Museum & McGill Drugstore</a> </p> </li> </ol> <ol role=\"list\" start=\"9\"> <li aria-setsize=\"-1\" data-aria-level=\"1\" data-aria-posinset=\"9\" data-font=\"Calibri\" data-leveltext=\"%1.\" data-listid=\"2\" role=\"listitem\"> <p paraeid=\"{17c349a4-fc86-4fb8-a105-7532d4e59f62}{106}\" paraid=\"24\"><a href=\"http://www.nnry.com/\">Nevada Northern Railway National Historic Landmark </a> </p> </li> </ol> <ol role=\"list\" start=\"10\"> <li aria-setsize=\"-1\" data-aria-level=\"1\" data-aria-posinset=\"10\" data-font=\"\" data-leveltext=\"%1.\" data-listid=\"2\" role=\"listitem\"> <p paraeid=\"{17c349a4-fc86-4fb8-a105-7532d4e59f62}{114}\" paraid=\"25\"><a href=\"https://s3.amazonaws.com/gbnha-storymap/gbnhastorymap/index.html\">Big Warm Spring (Duckwater, NV)</a></p> </li> </ol>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.126134,
+          39.014831
+        ]
+      },
+      "properties": {
+        "name": "Great Basin Visitor Center - Desert Shrub (Stop 1)",
+        "notes": "Great Basin Visitor Center - Desert Shrub (Stop 1)\nhttps://www.nps.gov/places/great-basin-visitor-center.htm\n\n<p>The first stop on the drive up to Wheeler Peak is the Great Basin Visitor Center, which sits within the Desert Shrub life zone.</p> <p>Down here in Snake Valley it is hot, dry, and salty. This makes for a tough life for plants. The only things that can make it down here are hardy shrubs like shadscale, saltbush, and rabbitbrush. Specialized animals can thrive in this environment, including kangaroo rats and pronghorn antelope.</p> <p>Take a walk through the desert landscape that surrounds the visitor center to truly appreciate this harsh environment. Then, go inside the Great Basin Visitor Center and enjoy all the displays which will prepare you for the sights you’ll see as you journey up the Wheeler Peak Scenic Drive.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.29742,
+          38.94325
+        ]
+      },
+      "properties": {
+        "name": "Johnson Lake",
+        "notes": "Johnson Lake\nhttps://www.nps.gov/places/johnson-lake.htm\n\nJohnson Lake is located deep in the backcountry of Great Basin National Park. Near this mountain lake there are historic building and mining equipment, please to not enter or disturb any historic sites.<br /> <br /> There are multiple different trails that lead to Johnson Lake both from the Baker Creek Trailhead and Snake Creek Trailhead.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.22049224376678,
+          39.006316504948124
+        ]
+      },
+      "properties": {
+        "name": "Leaks in the Roof (Stop 6)",
+        "notes": "Leaks in the Roof (Stop 6)\nhttps://www.nps.gov/places/leaks-in-the-roof-stop-6.htm\n\nAround 150 feet right below your feet lies Lehman Cave, an amazing and intricate structure that began its existence somewhere between two and ten million years ago and is still growing to this day. Many of the cracks in the limestone on this hillside are miniscule passages into the cave below. As rain falls and seeps into the ground , it picks up a little carbon dioxide from the dead matter in the soil, becoming a weak acidic compound we call carbonic acid. (this same compound can be found in soda you drink!) As this acid makes its way into tiny cracks and crevices in the rock, it dissolves a bit as it goes, picking up some of the native calcite.<br /> <br /> Once it reaches the cave, however, the carbon dioxide gets released into the air, just like opening a soda can, and the water can no longer hold onto that mineral it has gathered. The calcite then gets deposited wherever the water seeps out. The resulting diverse speleothems, or cave formations, create an underground world like something from fantasy.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.22018110752106,
+          39.00572039784082
+        ]
+      },
+      "properties": {
+        "name": "Lehman Caves",
+        "notes": "Lehman Caves\nhttps://www.nps.gov/places/lehman-caves.htm\n\nLehman Caves, well known for its numerous shield formations, offers amazing views of fantastic speleothems and Nevada's longest cave. Year round two different tours are offered by reservation to access the cave. <br /> <br /> Cave tours are offered daily, year-round, except for Thanksgiving Day, Christmas Day, and New Year's Day. Park rangers lead all tours and explain the history, ecology, and geology of the caves.  Cave tours regularly sell out. Reservations through <a href=\"https://www.recreation.gov/\">Recreation.gov</a> are strongly recommended.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.253664,
+          39.013483
+        ]
+      },
+      "properties": {
+        "name": "Lehman Creek Trailhead",
+        "notes": "Lehman Creek Trailhead\nhttps://www.nps.gov/places/lehman-creek-trailhead.htm\n\nLehman Creek Trailhead is located in the Upper Lehman Creek Campground. This trailhead offer access to the Lehman Creek trail. This trailhead also is the point of access for the alpine lakes and bristlecone area during the winter. <br /> <br /> Parking is limited, please follow all parking and driving regulations.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.21942472457886,
+          39.006929281144046
+        ]
+      },
+      "properties": {
+        "name": "Lehman's Irrigation Ditch (Stop 2)",
+        "notes": "Lehman's Irrigation Ditch (Stop 2)\nhttps://www.nps.gov/places/lehman-s-irrigation-ditch-stop-2.htm\n\nIn the late 1800s, Absalom Lehman, the first Anglo-American to find the cave, planted an orchard of fruit trees in the open field below the road in front of you. Some of the original apricot trees are still there, bearing fruit for you to sample in the summer and autumn. The wooden structure and narrow ditch below are pieces of the irrigation ditch Lehman built to bring water to his trees from a spring two miles away.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.208207146,
+          38.843955849
+        ]
+      },
+      "properties": {
+        "name": "Lexington Arch",
+        "notes": "Lexington Arch\nhttps://www.nps.gov/places/lexington-arch.htm\n\nRising high above the floor of Lexington Canyon, this imposing natural arch was created by the forces of weather working slowly over a span of centuries. Lexington Arch is unusual in one important respect: it is carved from limestone. Most of the natural arches of the western United States are composed of sandstone. The fact that Lexington Arch is made of limestone leads to speculation that it was once a passage in a cave system. Flowstone, a smooth glossy deposit that forms in caves, has been found at the base of the opening lending support to this theory.<br /> <br /> The hike to the base of the Arch is over 2.7 miles (total round trip mileage is 5.4 miles). The last quarter mile climbs several short switchbacks to the arch<strong>. *Expect an additional 0.5 - 1 mile each way for walking up the washout on the road before reaching the official trailhead.</strong>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.00381401660981,
+          38.87456531578905
+        ]
+      },
+      "properties": {
+        "name": "Lexington Arch Road",
+        "notes": "Lexington Arch Road\nhttps://www.nps.gov/places/lexington-arch-road.htm\n\n<p data-ogsb=\"white\">Approximately 14 miles from Hwy 487, speed limit unpaved, 25 mph.  </p> <p data-ogsb=\"white\">Lexington Arch road provides access to Lexington Arch Trail. After experiencing a wildfire in 2013, a lot of the once vibrant vegetation has been scorched, leaving the road exposed to the hot summer sun. Be Advised! Lexington Arch road is unpaved and has extreme washouts a mile before the trailhead. Do not attempt to drive the last section of this road. To hike this trail park at the last fork in the road. Bring sunscreen and good hiking boots. A creek runs along the road, juxtaposing green life against the stark black and grey decay. Enjoy the rolling hills, full of Utah Juniper and Pinyon Pine to the north, contrasted with the burnt scarring to the south. Follow the cairns along the road to find the trailhead.  </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.16117247034838,
+          38.857736191754874
+        ]
+      },
+      "properties": {
+        "name": "Lexington Arch Trailhead",
+        "notes": "Lexington Arch Trailhead\nhttps://www.nps.gov/places/lexington-arch-trailhead.htm\n\nLexington Arch Trailhead is located on the Lexington Arch road deep in the backcountry of Great Basin National Park. The trailhead is located 2.5 miles from the Arch at the final fork in the road. <strong>Do not drive past the last fork in the road.</strong> The trail follows the old road for about a mile then changes into hiking trail. This area was recently subject to a forest fire beware of falling trees.<br /> <br /> Parking is limited, please follow all parking and driving regulations.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.22035276889801,
+          39.00662497798237
+        ]
+      },
+      "properties": {
+        "name": "Limestone and Marble (Stop 4)",
+        "notes": "Limestone and Marble (Stop 4)\nhttps://www.nps.gov/places/limestone-and-marble-stop-4.htm\n\nLook at the landscape around you. Now, remove the mountains and imagine all of it covered by water. This entire area was once part of a shallow sea that existed around 700 million years ago. How do we know that? The evidence is right beneath your feet!<br /> <br /> The limestone and marble you are standing on are composed mainly of calcite, a common mineral found in the shells of sea creatures. For nearly 400 million years, these animals lived and died in that sea, leaving their shells behind on the sea floor. Over time those laters of calcite were crushed and compressed to create both limestone and marble.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.274753684,
+          39.02035921
+        ]
+      },
+      "properties": {
+        "name": "Mather Overlook",
+        "notes": "Mather Overlook\nhttps://www.nps.gov/places/mather-overlook.htm\n\nMost every National Park site has a Mather Overlook. This is named after the first director of the National Park Service, Stephen Mather. The plaques are popular and are placed at some of the best views in the park. Here at Great Basin, the Mather Overlook is located on the Wheeler Peak Scenic Drive. There is plenty of parking and a large standing area to check out the views of the famous Wheeler Cirque!  ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.274309,
+          39.020587
+        ]
+      },
+      "properties": {
+        "name": "Mather Overlook - Montane (Stop 5)",
+        "notes": "Mather Overlook - Montane (Stop 5)\nhttps://www.nps.gov/places/mather-overlook-auto.htm\n\n<p paraeid=\"{500488a8-78a9-43d9-a956-4f72bf4e987b}{76}\" paraid=\"227517639\">The Overlook features a boardwalk with breathtaking views of Wheeler Peak, a plaque commemorating Stephen Mather, and a bronze relief carving of the Wheeler Peak area. </p> <p paraeid=\"{500488a8-78a9-43d9-a956-4f72bf4e987b}{82}\" paraid=\"1521560435\">Named for the first director of the National Park Service, Stephen Mather, Mather Overlook offers the best views of all the life zones you have traveled through on your way up towards Wheeler Peak.  </p> <p paraeid=\"{500488a8-78a9-43d9-a956-4f72bf4e987b}{88}\" paraid=\"1507642807\">Looking down the valley towards the town of Baker, the lowest life zone we see is the Desert Shrub life zone, where you started your drive. Farther up the mountain, near the entrance to the park, you can see the Sagebrush life zone. From here you can see the valley change into the piñon – juniper life zone which you saw earlier at Upper Lehman Creek Campground. Mather Overlook itself rests within the Montane life zone, the mountain mahogany trees that you can see from this vantage point are good indicators of being within this zone.  </p> <p paraeid=\"{500488a8-78a9-43d9-a956-4f72bf4e987b}{94}\" paraid=\"114087872\">While you’re taking in the views from Mather Overlook, you have the chance to help with research in the park! Look for the chronolog sign on the boardwalk and follow the instructions; your contributions help with the preservation of this beautiful area!</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.21986529440306,
+          39.006345805647285
+        ]
+      },
+      "properties": {
+        "name": "Mountain View Nature Trail Trailhead",
+        "notes": "Mountain View Nature Trail Trailhead\nhttps://www.nps.gov/places/mountain-view-nature-trail-trailhead.htm\n\nThis is a leisurely walk in the pinyon-juniper forest. The trail guide (available for loan at the front desk) describes the geology and ecology of the area. The trail starts at the Rhodes Cabin next to the Lehman Caves Visitor Center. ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.26478333681989,
+          39.0289619564676
+        ]
+      },
+      "properties": {
+        "name": "Ocseola Trailhead",
+        "notes": "Ocseola Trailhead\nhttps://www.nps.gov/places/ocseola-trailhead.htm\n\nThe Ocseola Trailhead is located about 4.5 miles up the Wheeler Peak Scenic Drive. The Ocseola trail runs 4.5 miles from the Scenic Drive to the Strawberry Creek Trailhead through pine stands, rocky paths, and burn scared areas. Parts of this area have been subject to a resent forest fire, beware of falling trees. <br /> <br /> Parking is limited, please follow all parking and driving regulations.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.266534,
+          39.028413
+        ]
+      },
+      "properties": {
+        "name": "Osceola Ditch - Montane (Stop 4)",
+        "notes": "Osceola Ditch - Montane (Stop 4)\nhttps://www.nps.gov/places/osceola-ditch.htm\n\n<p paraeid=\"{500488a8-78a9-43d9-a956-4f72bf4e987b}{16}\" paraid=\"1418596496\">A pull-off on the side of the scenic drive offers access to the <a href=\"https://www.nps.gov/grba/planyourvisit/hiking-information.htm\">Osceola Ditch trail</a> , a relatively flat 9.2-mile round trip trail that leads to the Strawberry Creek area of the park. For a shorter hike, consider taking the trail roughly one mile in to Mill Creek and then return. When a remnant population of <a href=\"https://www.nps.gov/grba/learn/nature/reintroducing-bonneville-cutthroat-trout.htm\">native Bonneville Cutthroat Trout</a> was found in Mill Creek, the stream became a catalyst for reintroducing the parks only native trout to other streams of the snake range.</p> <p paraeid=\"{500488a8-78a9-43d9-a956-4f72bf4e987b}{34}\" paraid=\"1763592989\"><a href=\"https://www.nps.gov/grba/learn/historyculture/the-osceola-ditch.htm\">Gold was discovered</a> 3 miles west of Great Basin National Park in 1877. Water is a critical element in gold mining, and in 1889 construction began on a ditch to bring water from Lehman Creek on the east side of the Snake Range to the gold mines on the west. Limited gold returns, hampered by a water flume that did not deliver enough water, led gold mining to largely stop in 1905. Remnants of the original flume can be found along the trail, with century old pieces of wood baking in the sun.  </p> <p paraeid=\"{500488a8-78a9-43d9-a956-4f72bf4e987b}{40}\" paraid=\"1244952951\">Now that you’re above 8,000 feet, the montane life zone surrounds you. This stop also shows that general life zones are not perfectly delineated and can blend in their transitions. The area surrounding the road is studded with piñon and juniper trees, along with some larger coniferous species, such as white fir, ponderosa pine, and douglas fir. Listen for melodic Cassin’s finches and the repetitive red-breasted nuthatch. </p> <p paraeid=\"{500488a8-78a9-43d9-a956-4f72bf4e987b}{54}\" paraid=\"1512354708\">Enjoy the crisper air as you rise in elevation and keep an eye out as the Montane zone becomes more evident, soaking in the magnificent views of the Snake Valley.  </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.21833574771881,
+          39.00594133322872
+        ]
+      },
+      "properties": {
+        "name": "Pies (Stop 9)",
+        "notes": "Pies (Stop 9)\nhttps://www.nps.gov/places/pies-stop-9.htm\n\nIn several place around Snake Valley, fruit trees were planted to provide fruit that would store well, be made into jams, canned, or made into pie.<br /> <br /> If you're interested, check out <a href=\"https://www.nps.gov/articles/000/great-basin-pie-recipes.htm\">this link</a> for pie recipes using fruit historically found in the orchard!",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.22014355659485,
+          39.00701265164482
+        ]
+      },
+      "properties": {
+        "name": "Pinyon/Juniper Community (Stop 3)",
+        "notes": "Pinyon/Juniper Community (Stop 3)\nhttps://www.nps.gov/places/pinyon-juniper-community-stop-3.htm\n\nPinyon Pine and Utah Juniper trees often thrive together at elevations between 5,000 and 7,000 feet. They can be found all over the western United States and parts of Mexico. Junipers tend to be more numerous at the lower elevations, with pinyons increasing as you climb higher.<br /> <br /> All of the plants in this community, including the Juniper and Pinyon, have adapted to life in this arid climate. Take a look. Some of the plants that look dead might actually be dormant, waiting for the water to return. Other plants have waxy or tiny leaves to keep water from escaping. Still others have roots that extend far into the ground searching for water. Like the plants, how have you adapted to this place for your own visit?",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.212670004,
+          38.989984035
+        ]
+      },
+      "properties": {
+        "name": "Pole Canyon Trailhead",
+        "notes": "Pole Canyon Trailhead\nhttps://www.nps.gov/places/pole-canyon-trailhead.htm\n\nPole Canyon Trailhead located near the Grey Cliff Campground. This trailhead offers access to the Pole Canyon Trail. This trail goes through meadows and over low mountain passes. Offering great views of Snake valley and aspen groves this trail is a great choice for hike any time of the year, even in the winter with snowshoes.<br /> <br /> Parking is limited, please follow all parking and driving regulations.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.17353,
+          39.01781
+        ]
+      },
+      "properties": {
+        "name": "Ranching Exhibit - Sagebrush (Stop 2)",
+        "notes": "Ranching Exhibit - Sagebrush (Stop 2)\nhttps://www.nps.gov/places/ranching-exhibit.htm\n\n<p>Before you enter the park proper, you’ll stop at the ranching exhibit, which is on Bureau of Land Management (BLM) land. These displays discuss the history of ranching and modern human habitation in Snake Valley.</p> <p>The Ranching Exhibit lies within the Sagebrush life zone, named for the aromatic plant that dominates the edges of mountains in the western US. The ground becomes wetter as you travel up the mountain, allowing larger sagebrush to take hold. The sagebrush is home to Great Basin rattlesnakes, badgers, and leopard lizards, along with Brewer’s sparrows. Before you continue up the hill, breathe deeply through your nose and appreciate how much the sagebrush contributes to the landscape & aroma of the American west.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.21976268307844,
+          39.0060663906896
+        ]
+      },
+      "properties": {
+        "name": "Rhodes Cabin (Stop 1)",
+        "notes": "Rhodes Cabin (Stop 1)\nhttps://www.nps.gov/places/rhodes-cabin-stop-1.htm\n\nYour journey begins here at the Rhodes Cabin, one of 12 such structures built in the early 1900s. These were places for visitors to stay the night, since in that time it would have taken several days to get here from any other settlement. After the cave became a national monument in 1922, this cabin remained as lodging for the family appointed as caretakers for the cave. Imagine your entire family living in such a small space!",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.245895,
+          38.925308
+        ]
+      },
+      "properties": {
+        "name": "Serviceberry Trailhead",
+        "notes": "Serviceberry Trailhead\nhttps://www.nps.gov/places/serviceberry-trailhead.htm\n\nServiceberry Trailhead is located along the Snake Creek road. This trailhead offers access to a 3.2 mile loop that travels through aspen and serviceberry groves. This hike gains 700 feet giving a great view of the Snake Creek area.  <br /> <br /> Parking is limited, please follow all parking and driving regulations. Pets are not permitted on this trail.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.06447334223938,
+          38.95760465900116
+        ]
+      },
+      "properties": {
+        "name": "Snake Creek Road",
+        "notes": "Snake Creek Road\nhttps://www.nps.gov/places/snake-creek-road.htm\n\n<p data-ogsb=\"white\">Approximately 13 miles, unpaved, speed limit 25 mph.  </p> <p data-ogsb=\"white\">Snake Creek road provides access to multiple trail including Shoshone trail, Johnson Lake, Dead Lake, Serviceberry, and more. There are multiple primitive group and single vehicle campsites along the winding road. The vegetation changes as you gain in elevation from the sage brush, Juniper and Pinyon Pine of Granite Basin, to the Aspens and Elderberry trees of Serviceberry. After winters with heavy snow fall, Snake Creek roars with life in the spring, infusing the air with the scent of the native flora. Birds return to the trees and feed on the new berries and field mice. Snake Creek is a great place to catch site of a grey fox or mule deer.        </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.251674012,
+          38.926306923
+        ]
+      },
+      "properties": {
+        "name": "Snake Creek Trailhead",
+        "notes": "Snake Creek Trailhead\nhttps://www.nps.gov/places/snake-creek-trailhead.htm\n\nSnake Creek Trailhead is located 12 miles down the Snake Creek Road. This trailhead offers access to many different trails; Shoshone Trail, Dead Lake Trail, Johnson Lake Trail, and the ADA Shoshone Trail. These trails offer views of aspen groves, sweeping views, and mountain lakes. <br /> <br /> Parking is limited, please follow all parking and driving regulations.<br />  ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.318676,
+          39.005881
+        ]
+      },
+      "properties": {
+        "name": "Stella Lake",
+        "notes": "Stella Lake\nhttps://www.nps.gov/places/stella-lake.htm\n\nStella Lake is located along the Alpine Lakes Loop trail. Stella Lake is one of the easier mountain lakes to hike to. Offering grand views of Wheeler Peak and Doso Doyabi, Stella Lake is a popular trail for visitors that have only a short time to hike.<br /> <br /> This lake can be accessed from two different trailheads; Bristlecone, Alpine Lake, Sky Island Forest Trailhead and Summit Trailhead.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.23221299658445,
+          39.092058521314186
+        ]
+      },
+      "properties": {
+        "name": "Strawberry Creek Road",
+        "notes": "Strawberry Creek Road\nhttps://www.nps.gov/places/strawberry-creek-road.htm\n\n<p data-ogsb=\"white\">Approximately 10 miles, unpaved, speed limit 25 mph.  </p> <p data-ogsb=\"white\">Access to Osceola and Strawberry Creek trails. Strawberry Creek experienced a wildfire in the summer of 2016. Drive through the scorched scar of the valley and observe life return to nature. A great place to bird watch, spot snakes and other wildlife. At dusk and dawn, it is common to see herds of Elk over the rugged terrain, grazing on grass, and sometimes crossing the dirt road in large groups. Strawberry Creek is closed to camping as there are a lot of hazardous trees. Heavy winds often fell these trees into the road, causing temporary closures. Generally closed in the winter due to heavy snow, Strawberry Creek road is unpaved with varying conditions. Expect washboard for the first quarter of mile of the road. Check conditions before heading out.  </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.300804,
+          39.055519
+        ]
+      },
+      "properties": {
+        "name": "Strawberry Creek Trailhead",
+        "notes": "Strawberry Creek Trailhead\nhttps://www.nps.gov/places/strawberry-creek-trailhead.htm\n\nStrawberry Creek Trailhead is located in the north section of the Great Basin National Park at the end of the Strawberry Creek Road. This trailhead gives access to the Strawberry Creek Loop Trail and the Osecola Ditch Trail. These trails offer different experiences with in the park.<br /> <br /> Parking is limited, please follow all parking and driving regulations.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.303825,
+          39.016828
+        ]
+      },
+      "properties": {
+        "name": "Summit Trailhead",
+        "notes": "Summit Trailhead\nhttps://www.nps.gov/places/summit-trailhead.htm\n\nThe Summit Trailhead gives access to the Wheeler Summit Trail. This trail leads to the summit of Wheeler Peak, over 4.2 miles one way. This trail is considered strenuous and hikers should be prepared for a steep and exposed hike. <br /> <br /> Thunderstorms and high winds are common. During the summer snow still may be on the trail at the higher elevations.<br /> <br /> Parking is limited, please follow all parking and driving regulations.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.310986,
+          39.003792
+        ]
+      },
+      "properties": {
+        "name": "Teresa Lake",
+        "notes": "Teresa Lake\nhttps://www.nps.gov/places/teresa-lake.htm\n\n<br /> Teresa Lake is located along the Alpine Lakes Loop trail. Located in the popular alpine area of Great Basin National Park, Teresa Lake is one of two lakes along the trail. This lake can also be seen buy diverging from the bristlecone trail just .2 miles.<br /> <br /> This lake can be accessed from Bristlecone, Alpine Lake, Sky Island Forest Trailhead.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.22062635421753,
+          39.00593299605679
+        ]
+      },
+      "properties": {
+        "name": "The Natural Entrance (Stop 7)",
+        "notes": "The Natural Entrance (Stop 7)\nhttps://www.nps.gov/places/the-natural-entrance-stop-7.htm\n\nA metal grate stands over the natural entrance into the cave that Absalom Lehman first stumbled upon in 1885. For many years, this entrance was covered with a shed and then a concrete cap. In 1997 the current structure was installed in order to provide better airflow to the cave as well as allow access to the animals that naturally seek out the cave's protection. In recent years, we have started to see bats returning to sleep and hibernate. If you go through a tour in the summer, particuarly in the morning, you may just spy a few getting comfortable. Come back right after sundown and you might spot some as they spiral out of this entrance to look for food.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.24807,
+          39.013367
+        ]
+      },
+      "properties": {
+        "name": "Upper Lehman Creek Campground - Piñon Juniper (Stop 3)",
+        "notes": "Upper Lehman Creek Campground - Piñon Juniper (Stop 3)\nhttps://www.nps.gov/places/upper-lehman-creek-campground-and-picnic-area.htm\n\n<p paraeid=\"{37e124ef-4d15-4cd8-8ab2-41020f8b9263}{233}\" paraid=\"899320773\">Featuring 23 campsites, 2 picnic areas, a fishing dock, and the trailhead for the Lehman Creek Trail, <a href=\"https://www.nps.gov/grba/planyourvisit/campgrounds.htm\">Upper Lehman Creek Campground</a> is a lovely stop on your drive up through the varied life zones along the Scenic Drive.  </p> <p paraeid=\"{37e124ef-4d15-4cd8-8ab2-41020f8b9263}{239}\" paraid=\"82887823\">The Piñon – Juniper life zone is dominated by low, bushy evergreens, mainly singleleaf piñon pines and Utah junipers. The area within and around Upper Lehman campground is a rich wetland fed by Lehman Creek, home to non-native brook trout, rainbow trout, and brown trout. The increased level of moisture, largely due to snowmelt in the spring, allows larger trees to thrive, including ponderosa pines, mountain mahogany, and white fir. Birds you may encounter include American robins, Townsend’s solitaires, and mountain chickadees. </p> <p paraeid=\"{37e124ef-4d15-4cd8-8ab2-41020f8b9263}{249}\" paraid=\"598825491\">Enjoy the babbling of Lehman Creek from the fishing dock across from campsite 7 or relax underneath the shade of the trees at the picnic areas.  </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.309476,
+          38.988237
+        ]
+      },
+      "properties": {
+        "name": "Wheeler Cirque Glacier",
+        "notes": "Wheeler Cirque Glacier\nhttps://www.nps.gov/places/wheeler-cirque-glacier.htm\n\n<p>Great Basin National Park is home to the only glacier in Nevada, and one of the southernmost glaciers in the United States. The Wheeler Peak Glacier sits at the base of Wheeler Peak, in a protected cirque around 11,500 feet in elevation. The alpine glacier is about two acres in area. Its exact depth is unknown. <br /> <br /> To hike to the glacier start at the Bristlecone, Alpine Lake, and Sky Island Forest Trailhead and follow the trail signs for the glacier. </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.31401014328003,
+          38.985716633734576
+        ]
+      },
+      "properties": {
+        "name": "Wheeler Peak",
+        "notes": "Wheeler Peak\nhttps://www.nps.gov/places/wheeler-peak.htm\n\nSummit the second highest peak in Nevada! 8.2 miles. 2,900 feet of elevation gain. Start very early in the day because of the risk of afternoon thunderstorms. Along most of the route, the trail follows the ridge up to the Wheeler Peak Summit. The beginning of the trail is gradual and winds through an open meadow with a view of the Wheeler Peak Cirque. Eventually, the trail takes you above tree line and through a talus (look rock) slope. Watch your footing. Stacked and worn rocks will show you the way. The majority of the elevation gain will be towards the end of the trail. At times, you will get a view of Stella Lake glistening below. There is no protection along the way, so exposure level to wind and weather is high. Reserve 6-8 roundtrip to complete this hike. Bring plenty of water and gear. ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.286209,
+          39.026298
+        ]
+      },
+      "properties": {
+        "name": "Wheeler Peak Overlook",
+        "notes": "Wheeler Peak Overlook\nhttps://www.nps.gov/places/wheeler-overlook.htm\n\nAbout nine miles up the Wheeler Peak Scenic Drive, the Wheeler Peak Overlook offers accessible views of the impressive high mountain peaks of Wheeler and Doso Doyabi. This overlook also has viewing scopes to help visitors spot wildlife and other distant objects.<br /> <br /> Parking is limited, please follow all parking and driving regulations.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.28632,
+          39.026554
+        ]
+      },
+      "properties": {
+        "name": "Wheeler Peak Overlook - Alpine (Stop 6)",
+        "notes": "Wheeler Peak Overlook - Alpine (Stop 6)\nhttps://www.nps.gov/places/wheeler-peak-overlook.htm\n\n<p paraeid=\"{500488a8-78a9-43d9-a956-4f72bf4e987b}{124}\" paraid=\"1116446926\">A small roadside pullout brings you to Wheeler Peak Overlook, featuring viewing scopes that offer the best views in the park of Wheeler Peak! </p> <p paraeid=\"{500488a8-78a9-43d9-a956-4f72bf4e987b}{130}\" paraid=\"27584848\">Wheeler Peak is the second tallest point in Nevada. Standing 13,063 feet tall, Wheeler Peak and the surrounding area offer the park's best example of an Alpine Life Zone. Windswept and rugged, the alpine zone serves up a harsh existence to the life it supports. Above the tree line, the only plant life to be found are grasses and low perennial herbs and wildflowers. This is the domain of bighorn sheep, rosy-finches, and the American pipit, but even these are rare sights at such altitudes. Covered in snow for large parts of the year, Wheeler Peak stands in stark contrast to the dry, salty areas where the scenic drive began.  </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.20891356739045,
+          39.01013829092731
+        ]
+      },
+      "properties": {
+        "name": "Wheeler Peak Scenic Drive",
+        "notes": "Wheeler Peak Scenic Drive\nhttps://www.nps.gov/places/wheeler-peak-scenic-drive.htm\n\n<p data-ogsb=\"white\">Approximately 12 miles, paved, steep grade, speed limit 35 mph, length limit 24 feet.  </p> <p data-ogsb=\"white\">The Wheeler Peak Scenic Drive provides access to multiple trails including Osceola, Summit, Alpine Lakes, Glacier, and Bristlecone. There are three campgrounds along this road; Lower Lehman, Upper Lehman, and Wheeler Peak. Offering fantastic view of the valley bellow and the the mountains above this drive twists and turns up to 10,000 feet with aspens and pine trees along the way.<br /> <br /> Being the most popular road in the summer, the Scenic Drive and the parking lots along it may be crowded. Please be courteous to other visitors and obey all parking laws.</p>",
+        "icon": "red-pin-down.png"
+      }
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.9770257029253,
+          36.77972210814688
+        ]
+      },
+      "properties": {
+        "name": "Capulin Volcano Picnic Area",
+        "notes": "Capulin Volcano Picnic Area\nhttps://www.nps.gov/places/capulin-volcano-picnic-area.htm\n\nEnjoy a picnic at Capulin Volcano! With 10 shaded picnic tables to choose from with a lovely view of the volcano, this is a perfect spot to stop for lunch. <br /> <br /> Accessible seasonal restrooms and drinking water are located in the center of the picnic area for your convenience.<br /> <br /> If you would like to hike across some of the hardened lava flows that erupted from Capulin Volcano, two unpaved trails leave from the picnic area. The Lava Flow Trail is a one mile loop that crosses two of the four lava flows that Capulin Volcano produced. The Boca Trail is a two mile loop that goes past two collapsed lava tubes and other lava features.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.97511291503906,
+          36.78677749633789
+        ]
+      },
+      "properties": {
+        "name": "Collapsed Lava Tube at Capulin Volcano",
+        "notes": "Collapsed Lava Tube at Capulin Volcano\nhttps://www.nps.gov/places/collapsed-lava-tube-at-capulin-volcano.htm\n\nHike to a collapsed lava tube along the Boca Trail! Formed of Capulin Basalt, this collapsed lava tube shows one of the ways that lava erupted from Capulin Volcano.<br /> <br /> Lava tubes are formed when the top of a lava flow hardens and the outer shell becomes solid. When molten lava no longer flows through the area, a hollow tube is left. Sometimes, these hollow tubes collapse and can be identified by linear rubble piles left over from the collapsed roof.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.970408382,
+          36.7824256487
+        ]
+      },
+      "properties": {
+        "name": "Crater Vent at Capulin Volcano",
+        "notes": "Crater Vent at Capulin Volcano\nhttps://www.nps.gov/places/crater-vent-at-capulin-volcano.htm\n\nWalk down into the crater of an extinct cinder cone volcano! Capulin Volcano built from this vent which was plugged after the eruption with solidified lava. <br /> <br /> Rising 415 feet (126 meters) above the vent at it's highest point, the rim of the crater has a bowl shape with a diameter of around 1450 feet (442 meters). The shape of the crater has mostly been preserved from erosion due to spatter deposits of fused volanic bombs in the later stages of eruption.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.98046875,
+          36.78263854980469
+        ]
+      },
+      "properties": {
+        "name": "Historic Chimney at Capulin Volcano",
+        "notes": "Historic Chimney at Capulin Volcano\nhttps://www.nps.gov/places/historic-chimney-at-capulin-volcano.htm\n\nVisit a historic chimney along the Boca Trail! The remains of an old picnic area and campground, the chimney is made of basalt lava rock from the surrounding area. Nearby, past a gambel oak thicket, is another collapsed lava tube. This lava tube formed when the molten lava flowing over the landscape formed a hard thick crust on top. When the molten lava emptied from the lava tube, the hardened lava rock on the roof collasped into the open space.<br /> <br /> Please do <strong>NOT </strong>climb on the chimney as it is very fragile.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.97955322265625,
+          36.778167724609375
+        ]
+      },
+      "properties": {
+        "name": "Night Sky Viewing Area at Capulin Volcano",
+        "notes": "Night Sky Viewing Area at Capulin Volcano\nhttps://www.nps.gov/places/night-sky-viewing-area-at-capulin-volcano.htm\n\nCome view the night sky at Capulin Volcano! As a Gold Tier International Dark Sky Place, thousands of stars are visible on clear nights here.<br /> <br /> Located in the oversized vehicle parking area near the visitor center, the night sky viewing area is open to visitors 24/7 for night sky viewing. We do ask that visitors <strong><u>not</u> </strong>camp overnight here, build any type of fire, play loud music, and clean up after themselves.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.9808578491211,
+          36.78466796875
+        ]
+      },
+      "properties": {
+        "name": "Quaking Aspen Overlook",
+        "notes": "Quaking Aspen Overlook\nhttps://www.nps.gov/places/quaking-aspen-overlook.htm\n\nEnjoy hiking the Boca Trail to Quaking Aspen Overlook for excellent views of the volcanic geology of the Raton-Clayton Volcanic Field! A short walk off the main trail, this overlook rests on top of a hardened lava cascade that originated from the lava flows of Capulin Volcano. In the distance, you'll see Jose Butte (on the left) and Robinson Peak (on the right), two other volcanoes to the west of Capulin.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.97624969482422,
+          36.77644348144531
+        ]
+      },
+      "properties": {
+        "name": "Sierra Grande Volcano Overlook",
+        "notes": "Sierra Grande Volcano Overlook\nhttps://www.nps.gov/places/sierra-grande-volcano-overlook.htm\n\nEnjoy a lovely view of Sierra Grande Volcano from the Lava Flow Trail at Capulin Volcano! Sierra Grande is the tallest volcano in the Raton-Clayton Volcanic Field.<br /> <br /> Sierra Grande is an andesite-shield volcano that erupted around 2.41 to 2.88 million years ago. Rising around 2,200 feet above the surrounding praire, it is located 10 miles to the southeast of Capulin Volcano. At around 8,720 feet elevation, it is also the easternmost point in the United States that reaches an elevation higher than 8,000 feet.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.968079358,
+          36.7837596041
+        ]
+      },
+      "properties": {
+        "name": "Top of Capulin Volcano",
+        "notes": "Top of Capulin Volcano\nhttps://www.nps.gov/places/top-of-capulin-volcano.htm\n\nHike to the top of an extinct cinder cone volcano! By hiking along the Crater Rim Trail, you can get to the highest elevation at Capulin Volcano National Monument at 8182 feet (or 2494 meters).<br /> <br /> From this point, the northern part of the Raton-Clayton Volcanic Field can be seen as well as the highest point in Oklahoma, Black Mesa. In July and August, the bases of the trees here are covered in convergent lady beetles.<br /> <br />  ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.97225189208984,
+          36.782527923583984
+        ]
+      },
+      "properties": {
+        "name": "Volcano Road Parking",
+        "notes": "Volcano Road Parking\nhttps://www.nps.gov/places/volcano-road-parking.htm\n\nDrive to the top of an extinct cinder cone volcano! The views of the western part of the Raton-Clayton Volcanic Field and the crater of Capulin Volcano are spectacular.<br /> <br /> If you would like to do some hiking, two trails leave from this parking area though watch out for lightning as the parking area closes whenever a thunderstorm comes within 10 miles. The Crater Rim Trail is a one mile loop that follows the rim of the crater and provides great views of the surrounding landscape. The Crater Vent Trail is a quarter mile walk into the bottom of the crater at Capulin Volcano.",
+        "icon": "red-pin-down.png"
+      }
+    }
+  ]
+}

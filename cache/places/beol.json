@@ -1,0 +1,598 @@
+[
+  {
+    "id": "0672AE91-CA10-4142-9A06-3BE0EF21175B",
+    "url": "https://www.nps.gov/places/bents_fort.htm",
+    "title": "Bent's Fort",
+    "listingDescription": "Bent's Fort was a trading post located along the Arkansas River on the route of the Santa Fe Trail. Active from 1833 - 1849, the fort was a place where traders, trappers, travelers, and the Cheyenne and Arapaho tribes came together in peaceful terms for trade. Today, a reconstruction of the fort allows visitors the opportunity to step back in time to experience the sights, sounds, and smells of the past.",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/BDCB5173-EF11-7F77-26CF2C95B641E45D.jpg",
+        "credit": "NPS Photo",
+        "altText": "Trade Room at Bent's Fort with various trade items including animal hides, guns, blankets, etc.",
+        "title": "Trade Room at Bent's Fort",
+        "description": "",
+        "caption": "Trade Room at Bent's Fort",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/BDCB5173-EF11-7F77-26CF2C95B641E45D.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/BDCB5173-EF11-7F77-26CF2C95B641E45D.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "CO",
+        "parkCode": "beol",
+        "designation": "National Historic Site",
+        "fullName": "Bent's Old Fort National Historic Site",
+        "url": "https://www.nps.gov/beol/index.htm",
+        "name": "Bent's Old Fort"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [
+      "fort",
+      "Bent's Old Fort National Historic Site",
+      "history",
+      "santa fe historic trail",
+      "santa fe national historic trail",
+      "Livestock",
+      "ranger tours",
+      "tours",
+      "Self-guided Tour",
+      "Bent's Fort"
+    ],
+    "latitude": "38.040498596",
+    "longitude": "-103.429573828",
+    "latLong": "38.040498596,-103.429573828",
+    "bodyText": "For much of its 16-year history, Bent’s Fort was the only major permanent white settlement on the Santa Fe Trail between Missouri and the Mexican settlements. William and Charles Bent, along with Ceran St. Vrain, built the original adobe fort in 1833 for trade with local Native American tribes and trappers for buffalo robes. Situated along the northern bank of the Arkansas river in what is now southeastern Colorado, the fort quickly became the center of the expanding holdings of Bent, St. Vrain & Company. Soon, it was also an important stop on the Santa Fe Trail’s mountain route and a center for commercial, social, military, and cultural exchange. <br /> <br /> The fort brought together trappers from the southern Rocky Mountains, Anglo-American travelers from Missouri and the east, Hispanic traders from Mexico, and Native Americans, primarily from the Cheyenne, Arapaho, Comanche, and Kiowa Tribes. In addition to trading prospects, the fort also provided weary travelers, such as those following the Santa Fe Trail, with a place to get needed supplies and rest. During the war with Mexico in 1846, the fort became a staging area for Colonel Stephen Watts Kearny's \"Army of the West.\" Disasters and disease caused the fort's abandonment in 1849.<br /> <br /> Although the original fort no longer stands, at Bent’s Old Fort National Historic Site the fort has been reconstructed and is open to the public. The site preserves the resources associated with the Bent–St. Vrain trading empire and provides visitors with the opportunity to explore the trading post’s complex history. ",
+    "audioDescription": "Bent's Old Fort is a reconstructed adobe fort on a shortgrass prairie situated on a series of low benches along the Arkansas River in southeastern Colorado. It is located on the western edge of the Great Plains at an elevation of 4,035 feet.",
+    "isPassportStampLocation": "1",
+    "passportStampLocationDescription": "The passport station is located in the Western National Parks Association bookstore in the rear of the fort. There is a passport stamp for Bent's Old Fort National Historic Site and the Santa Fe National Historic Trail.",
+    "passportStampImages": [
+      {
+        "credit": "",
+        "description": "",
+        "crops": [
+          {
+            "aspectRatio": 1,
+            "url": "https://www.nps.gov/common/uploads/passport_stamps/primary/344B74C2-061F-931F-2E0B66D62786DC73.jpg"
+          }
+        ],
+        "altText": "Passport stamp for Bent's Old Fort NHS",
+        "title": "Passport stamp for Bent's Old Fort NHS",
+        "caption": "",
+        "url": "https://www.nps.gov/common/uploads/passport_stamps/344B74C2-061F-931F-2E0B66D62786DC73.jpg"
+      },
+      {
+        "credit": "",
+        "description": "",
+        "crops": [
+          {
+            "aspectRatio": 1,
+            "url": "https://www.nps.gov/common/uploads/passport_stamps/primary/5DECEF5C-E51C-FDC1-146AC38EA9136C9E.jpg"
+          }
+        ],
+        "altText": "Santa Fe National Historic Trail passport stamp",
+        "title": "Santa Fe NHT passport stamp",
+        "caption": "",
+        "url": "https://www.nps.gov/common/uploads/passport_stamps/5DECEF5C-E51C-FDC1-146AC38EA9136C9E.jpg"
+      }
+    ],
+    "managedByUrl": "https://www.nps.gov/beol/index.htm",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "2dece3cd-fd70-4c93-a49d-30619f14c062",
+    "geometryPoiId": "2718b399-5028-48d4-be97-f3a2a06bf08d",
+    "isManagedByNps": "1",
+    "amenities": [
+      "Accessible Rooms",
+      "Accessible Sites",
+      "Automated External Defibrillator (AED)",
+      "Baby Changing Station",
+      "Benches/Seating",
+      "Captioned Media",
+      "Cellular Signal",
+      "Entrance Passes for Sale",
+      "Fire Extinguisher",
+      "Fire Pit",
+      "First Aid Kit Available",
+      "Food/Drink - Snacks",
+      "Food/Drink - Vending Machine/Self Service",
+      "Gifts/Souvenirs/Books",
+      "Historical/Interpretive Information/Exhibits",
+      "Hitching Post/Corral",
+      "Information",
+      "Information - Maps Available",
+      "Information - Ranger/Staff Member Present",
+      "Information Kiosk/Bulletin Board",
+      "Large Print",
+      "Open Captioning",
+      "Parking - Auto",
+      "Parking - Boat Trailer",
+      "Parking - Bus/RV",
+      "Picnic Shelter/Pavilion",
+      "Picnic Table",
+      "Recycling",
+      "Restroom",
+      "Restroom - Accessible",
+      "Scenic View/Photo Spot",
+      "Theater/Auditorium",
+      "Ticket Sales",
+      "Toilet - Flush",
+      "Trailhead",
+      "Water - Drinking/Potable",
+      "Wheelchair Accessible"
+    ],
+    "managedByOrg": "National Park Service",
+    "quickFacts": [
+      {
+        "id": "5C252B96-2DEB-4EF4-91D1-B5D2B202FCD7",
+        "value": "35110 State Highway 194 E. La Junta, CO 81050",
+        "name": "Location"
+      },
+      {
+        "id": "208F1B3C-44DC-4CF5-9A61-9B26A364D701",
+        "value": "A center of commercial, social, military, and cultural exchange along the Santa Fe Trail.",
+        "name": "Significance"
+      },
+      {
+        "id": "E32D2136-A184-4C1A-91D2-4C20CEF9CBAF",
+        "value": "National Historic Site; National Historic Landmark; National Register of Historic Places",
+        "name": "Designation"
+      }
+    ],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  },
+  {
+    "id": "D840D5E5-3E5F-4EE7-9636-902F33C34E7E",
+    "url": "https://www.nps.gov/places/beol-sand_bents_new_fort.htm",
+    "title": "Bent's New Fort and Fort Wise/Lyon",
+    "listingDescription": "Bent's New Fort was a historic fort and trading post along the banks of the Arkansas River on the Mountain Route branch of the Santa Fe Trail. William Bent operated a trading post with limited success at the site and in 1860 leased the fort to the United States government, which operated it as a military outpost until 1867. The site is privately owned today, and little remains of the building that once stood there.",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/3E08405E-F52A-92F0-BFE3E59E2F1A967E.jpg",
+        "credit": "NPS Photo",
+        "altText": "Stone monument rises above a prairie landscape and blue sky.",
+        "title": "Monument at the site of Bent's New Fort",
+        "description": "",
+        "caption": "Monument at the site of Bent's New Fort",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/3E08405E-F52A-92F0-BFE3E59E2F1A967E.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/3E08405E-F52A-92F0-BFE3E59E2F1A967E.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "CO",
+        "parkCode": "beol",
+        "designation": "National Historic Site",
+        "fullName": "Bent's Old Fort National Historic Site",
+        "url": "https://www.nps.gov/beol/index.htm",
+        "name": "Bent's Old Fort"
+      },
+      {
+        "states": "CO,KS,MO,NM,OK",
+        "parkCode": "safe",
+        "designation": "National Historic Trail",
+        "fullName": "Santa Fe National Historic Trail",
+        "url": "https://www.nps.gov/safe/index.htm",
+        "name": "Santa Fe"
+      },
+      {
+        "states": "CO",
+        "parkCode": "sand",
+        "designation": "National Historic Site",
+        "fullName": "Sand Creek Massacre National Historic Site",
+        "url": "https://www.nps.gov/sand/index.htm",
+        "name": "Sand Creek Massacre"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [
+      "William Bent",
+      "Big Timbers",
+      "Colorado",
+      "Fur Trade",
+      "Civil War",
+      "Nathaniel Lyon",
+      "John Chivington"
+    ],
+    "latitude": "38.094182145656724",
+    "longitude": "-102.75729417800903",
+    "latLong": "38.094182145656724,-102.75729417800903",
+    "bodyText": "<p> </p> <p>Bent's New Fort connects the story of Bent's Old Fort and William Bent's family to the Sand Creek Massacre. The New Fort represented an attempt to continue trading with Plains Tribes following the end of the Mexican War. The operation was shortlived, and William Bent sold the structure to the United States Army, which located a military garrison there under a new name. Both of these forts played a role in the development of the Santa Fe Trail, the destinies of the Plains Indians, and the future of Colorado.</p> <h3>Bent’s New Fort (1853-1869)</h3> <p>William Bent abandoned his old fort (present-day <a href=\"https://www.nps.gov/places/bent-s-old-fort-national-historic-site.htm\">Bent’s Old Fort National Historic Site</a>) in 1849. Lacking satisfactory offers to purchase it, Bent is believed to have burnt much of the fort to keep it from falling into the hands of the Army or his competition. To continue his trade with the Plains Tribes, Bent built a new fort of stone in 1853. Based on Cheyenne recommendations, he located this new fort overlooking the Arkansas River at Big Timbers, near present-day Lamar.<br /> The new fort had several advantages over the old fort, including its stone construction, simple rectangular design, and lack of adobe. Bent no longer needed to hire labor to apply adobe every season, and the durable nature of stone added to its protection. With trade no longer profitable and the construction of Fort Wise nearby in 1860, Bent leased his stone fort to the Army, which used it as a post quartermaster & commissary and Indian Agency office.</p> <h3>Fort Wise (1860)</h3> <p>Fort Wise was made possible through the 1851 Fort Laramie Treaty, which offered Plains Indians annuities and recognition of their land in exchange for allowing uncontested passage along the western trails and the establishment of forts. Named in honor of Virginia Governor Henry A. Wise, Fort Wise served to protect travelers and transportation along the Santa Fe Trail between Fort Larned in Kansas and Pueblo, Colorado.<br /> <br /> The Army situated the fort on lands adjacent to the Arkansas River in 1860, just west of Bent’s New Fort. Fort Wise lacked a protective wall or barricade, instead locating numerous barracks and offices in a square around a central parade ground. With the outbreak of the Civil War in 1861, Governor Wise led Virginia’s secession from the United States. The U.S. Army renamed the military post Fort Lyon in mid-1862 to honor of General Nathaniel Lyon, the first United States general killed in the Civil War.</p> <h3>Fort Lyon (1860-1867)</h3> <p>Fort Lyon encompassed both the former Fort Wise and Bent’s New Fort, as both offered advantages to the Army. As a way station along the Santa Fe Trail, Fort Lyon served as a base for U.S. Army patrols and a rest stop for travelers. In 1864, Colonel Chivington used the fort and its troops for the attack on Sand Creek. He uttered his infamous outburst, “<em>Damn any man who is in sympathy with Indians!</em>” inside the quartermaster office of Bent’s New Fort.<br /> <br /> Detachments of the 1st and 3rd Regiments Cavalry, Colorado (U.S.) Volunteers led by Colonel John Chivington marched overnight from Fort Lyon to reach a village of peaceful Cheyenne and Arapaho at Sand Creek at dawn on November 29, 1864. The 40 mile ride took about 10 hours and allowed the volunteers to attack the village with complete surprise. The attack resulted in the death of approximately 230 men, women and children.<br /> <br /> Fort Lyon’s low position near the Arkansas River rendered it vulnerable to flooding and disease. A large flood in 1867 undercut many of the buildings. In June 1867, the U.S. Army leased land near Las Animas, Colorado, and transferred the post there, making the new military post the second to bear the name Fort Lyon. By William Bent’s death in 1869, the fort near Lamar lay abandoned and neglected, its stones later scavenged for use in local buildings.</p> <h3>The Site of Bent’s New Fort today</h3> <p>Because of its significance to trade along the Santa Fe Trail and its role in the Sand Creek Massacre, the National Park Service worked with the landowner and other partners to open the site of Bent’s New Fort to the public in 2013. This public-private partnership provides access to the site, where visitors can walk a short trail, read interpretive wayside exhibits, and gaze across the scenic Arkansas River Valley.</p> <h4>Driving Directions</h4> <p>To reach Bent’s New Fort Site, take U.S. 50 to County Road 35, approximately 10 miles west of Lamar or 25 miles east of Las Animas. Turn south on County Road 35 for one mile to County Road JJ (T Junction). Turn east (left) and drive ¼ mile, turning south (right) onto County Road 35.25 for ¼ mile to the Bent’s New Fort parking area. A walking trail and interpretive exhibits are available; however, no public facilities exist at the site.</p>",
+    "audioDescription": "",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "",
+    "isManagedByNps": "0",
+    "amenities": [
+      "Historical/Interpretive Information/Exhibits"
+    ],
+    "managedByOrg": "",
+    "quickFacts": [
+      {
+        "id": "5C252B96-2DEB-4EF4-91D1-B5D2B202FCD7",
+        "value": "Along the north bank of the Arkansas River to the west of Lamar, Colorado. ",
+        "name": "Location"
+      },
+      {
+        "id": "208F1B3C-44DC-4CF5-9A61-9B26A364D701",
+        "value": "The site of Bent's New Fort represents a pivot point from the fur trade of the early 1800s and campaigns against Plains Tribes in Colorado in the late 1800s. ",
+        "name": "Significance"
+      },
+      {
+        "id": "E32D2136-A184-4C1A-91D2-4C20CEF9CBAF",
+        "value": "National Register of Historic Places (2016)",
+        "name": "Designation"
+      }
+    ],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  },
+  {
+    "id": "8A06190A-72D3-4575-959B-EA85BB06921E",
+    "url": "https://www.nps.gov/places/bent-s-old-fort-national-historic-site.htm",
+    "title": "Bent's Old Fort National Historic Site",
+    "listingDescription": "Bent's Old Fort National Historic Site features a reconstructed 1840s adobe fur trading post on the mountain branch of the Santa Fe Trail. Here, traders, trappers, travelers, and Native American tribes (primarily Cheyenne, Arapaho, Comanche, and Kiowa) came together in peaceful terms for trade. Step back in time to experience the sights, sounds, and smells of the past.",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/B873E520-933B-1E2F-4D8C8989730DA2D4.jpg",
+        "credit": "NPS Photo",
+        "altText": "Large adobe fort with American flag flying above and a covered wagon, tepee, and path in front of it",
+        "title": "Bent's Old Fort",
+        "description": "",
+        "caption": "View of Bent's Old Fort from the North.",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/B873E520-933B-1E2F-4D8C8989730DA2D4.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/B873E520-933B-1E2F-4D8C8989730DA2D4.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "CO",
+        "parkCode": "beol",
+        "designation": "National Historic Site",
+        "fullName": "Bent's Old Fort National Historic Site",
+        "url": "https://www.nps.gov/beol/index.htm",
+        "name": "Bent's Old Fort"
+      },
+      {
+        "states": "CO,KS,MO,NM,OK",
+        "parkCode": "safe",
+        "designation": "National Historic Trail",
+        "fullName": "Santa Fe National Historic Trail",
+        "url": "https://www.nps.gov/safe/index.htm",
+        "name": "Santa Fe"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [
+      "Santa Fe Trail",
+      "historic trail",
+      "National Trails",
+      "national historic trail",
+      "place",
+      "Colorado",
+      "passport stamp"
+    ],
+    "latitude": "38.04330981408965",
+    "longitude": "-103.43188030015956",
+    "latLong": "38.04330981408965,-103.43188030015956",
+    "bodyText": "<p>For much of its 16-year history, Bent’s Fort was the only major permanent white settlement on the Santa Fe Trail between Missouri and the Mexican settlements. William and Charles Bent, along with Ceran St. Vrain, built the original adobe fort in 1833 for trade with local Native American tribes and trappers for buffalo robes. Situated along the northern bank of the Arkansas river in what is now southeastern Colorado, the fort quickly became the center of the expanding holdings of Bent, St. Vrain & Company. Soon, it was also an important stop on the Santa Fe Trail’s mountain route and a center for commercial, social, military, and cultural exchange. <br /> <br /> The fort brought together trappers from the southern Rocky Mountains, Anglo-American travelers from Missouri and the east, Hispanic traders from Mexico, and Native Americans, primarily from the Cheyenne, Arapaho, Comanche, and Kiowa Tribes. In addition to trading prospects, the fort also provided weary travelers, such as those following the Santa Fe Trail, with a place to get needed supplies and rest. During the war with Mexico in 1846, the fort became a staging area for Colonel Stephen Watts Kearny's \"Army of the West.\" Disasters and disease caused the fort's abandonment in 1849.<br /> <br /> Although the original fort no longer stands, at Bent’s Old Fort National Historic Site the fort has been reconstructed and is open to the public. The site preserves the resources associated with the Bent–St. Vrain trading empire and provides visitors with the opportunity to explore the trading post’s complex history. <br /> <br /> After your visit, if you are heading West, you have the unique opportunity to stop at Comanche National Grassland and retrace a piece of the Santa Fe Trail at the <a href=\"https://www.nps.gov/places/sierra-vista-interpretive-site-comanche-national-grassland.htm\">Sierra Vista Interpretive Site</a>. While you are here, visit <a href=\"https://www.nps.gov/places/iron-spring-comanche-national-grassland.htm\">Iron Spring,</a> an important water stop for Santa Fe Trail travelers. East of Bent’s Old Fort National Historic Site, you can visit <a href=\"https://www.nps.gov/places/lamar-welcome-center.htm\">historic Lamar and </a><a href=\" https://www.nps.gov/places/boggsville-historic-site.htm\">Boggsville Historic Site.</a>  </p> <h2>Site Information</h2> <p><strong>Location </strong>(35110 State Highway 194 E. La Junta, CO 81050)</p> <p><em><a href=\"https://www.nps.gov/safe/planyourvisit/safety.htm\">Safety Considerations</a></em></p> <h2><a href=\"https://www.nps.gov/beol/learn/historyculture/index.htm\">Bent's Old Fort National Historic Site</a></h2> <h2><a href=\"https://www.nps.gov/safe/index.htm\">Santa Fe National Historic Trail</a></h2>",
+    "audioDescription": "A ¼ mile walk down the original Santa Fe Trail to the Fort is a walk back into the 1830s and 1840s when Bent's Fort was called the \"Castle of the Plains\". A trapper or other Fort employee will greet you as you enter the plaza of the two-story adobe fort and there you begin to realize what you see, hear, and smell is true to the spirit of the time. During the peak visitor season and special events, period clothed interpreters may be working in the kitchen, trade room, and carpentry or blacksmith shop. They are friendly and ready to explain their work and place as part of the Bent and St. Vrain Company.",
+    "isPassportStampLocation": "1",
+    "passportStampLocationDescription": "Inquire at the site what passport stamps are available.",
+    "passportStampImages": [],
+    "managedByUrl": "",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "69d969d6-c53a-43dc-83bb-e02cb9540040",
+    "geometryPoiId": "",
+    "isManagedByNps": "1",
+    "amenities": [
+      "Accessible Rooms",
+      "Audio Description",
+      "Automated External Defibrillator (AED)",
+      "Baby Changing Station",
+      "Benches/Seating",
+      "Captioned Media",
+      "Cellular Signal",
+      "Entrance Passes for Sale",
+      "Fire Extinguisher",
+      "First Aid Kit Available",
+      "Gifts/Souvenirs/Books",
+      "Historical/Interpretive Information/Exhibits",
+      "Information",
+      "Information - Maps Available",
+      "Information - Ranger/Staff Member Present",
+      "Junior Ranger Booklet Available",
+      "Parking - Auto",
+      "Parking - Bus/RV",
+      "Pets Allowed",
+      "Picnic Shelter/Pavilion",
+      "Picnic Table",
+      "Tactile Exhibit",
+      "Trash/Litter Receptacles",
+      "Water - Bottle-Filling Station",
+      "Water - Drinking/Potable",
+      "Wheelchair Accessible",
+      "Wheelchairs Available"
+    ],
+    "managedByOrg": "",
+    "quickFacts": [
+      {
+        "id": "5C252B96-2DEB-4EF4-91D1-B5D2B202FCD7",
+        "value": "35110 State Highway 194 E. La Junta, CO 81050",
+        "name": "Location"
+      },
+      {
+        "id": "208F1B3C-44DC-4CF5-9A61-9B26A364D701",
+        "value": "A center of commercial, social, military, and cultural exchange along the Santa Fe Trail.",
+        "name": "Significance"
+      },
+      {
+        "id": "E32D2136-A184-4C1A-91D2-4C20CEF9CBAF",
+        "value": "National Historic Site; National Historic Landmark; National Register of Historic Places",
+        "name": "Designation"
+      }
+    ],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  },
+  {
+    "id": "4DFB87C8-7331-459C-AA1C-FF8AFEE73A2A",
+    "url": "https://www.nps.gov/places/boggsville-historic-site.htm",
+    "title": "Boggsville Historic Site",
+    "listingDescription": "Boggsville was once a stage stop on the Santa Fe Trail. Key businesses there were trading stores, owned by Thomas O. Boggs (built in 1862) and John W. Prowers (built in 1867). Boggsville became the seat of Bent County in 1870, but the coming of the railroad to nearby Las Animas brought about the town's downfall by 1880.",
+    "images": [
+      {
+        "url": "",
+        "credit": "",
+        "altText": "",
+        "title": "",
+        "description": "",
+        "caption": "",
+        "crops": []
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "CO",
+        "parkCode": "beol",
+        "designation": "National Historic Site",
+        "fullName": "Bent's Old Fort National Historic Site",
+        "url": "https://www.nps.gov/beol/index.htm",
+        "name": "Bent's Old Fort"
+      },
+      {
+        "states": "CO,KS,MO,NM,OK",
+        "parkCode": "safe",
+        "designation": "National Historic Trail",
+        "fullName": "Santa Fe National Historic Trail",
+        "url": "https://www.nps.gov/safe/index.htm",
+        "name": "Santa Fe"
+      },
+      {
+        "states": "CO",
+        "parkCode": "sand",
+        "designation": "National Historic Site",
+        "fullName": "Sand Creek Massacre National Historic Site",
+        "url": "https://www.nps.gov/sand/index.htm",
+        "name": "Sand Creek Massacre"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [
+      "Santa Fe Trail",
+      "historic trail",
+      "National Trails",
+      "national historic trail",
+      "place",
+      "Colorado",
+      "Historic site",
+      "Certified Site",
+      "passport stamp"
+    ],
+    "latitude": "38.040245056152344",
+    "longitude": "-103.21073913574219",
+    "latLong": "38.040245056152344,-103.21073913574219",
+    "bodyText": "<p>Boggsville, located on the Purgatoire River, was first used as a campsite by the Plains Indians. With the fur trade vanishing, many former mountain men found work raising livestock. Through his wife’s government land grant connections, Thomas Boggs started his ranch near the river on a branch of the Santa Fe Trail. It became known as Boggsville after he and his wife, Rumalda Luna Bent Boggs, built their first home. John Wesley Prowers moved to the Boggs’s ranch in 1867 along with frontiersman Kit Carson and his family. A year later, with Carson in poor health, his wife, Josefa, died from childbirth complications. Kit died several weeks later at nearby Fort Lyon. Thomas Boggs was the executor of Carson's will.</p> <h2>Site Information</h2> <p><strong>Location </strong>(two miles south of Las Animas on Colorado Highway 101)</p> <p><strong>Available Facilities:</strong> Today, Boggsville is a renovation project in progress. Seeing the site now, which has just a few buildings and old foundations, it is hard to imagine that here is where the cattle and sheep industries first boomed in Colorado. A lot of the early history of Colorado started here. Slowly, some of the buildings are being restored and more are going to be rebuilt.<br /> <br /> <strong>Exhibits:</strong> A bronze state historical marker is located along Colorado Highway 101, and there are several interpretive markers along an area hiking path.</p> <p><em><a href=\"https://www.nps.gov/safe/planyourvisit/safety.htm\">Safety Considerations</a></em></p> <h3><a href=\"http://www.sangres.com/history/boggsville.htm#.YBSs03OSmUk\">More Site Information</a></h3> <h2><a href=\"https://www.nps.gov/safe/index.htm\">Santa Fe National Historic Trail</a></h2>",
+    "audioDescription": "",
+    "isPassportStampLocation": "1",
+    "passportStampLocationDescription": "Passport Stamps may be available at this site during operating hours, please inquire for more information.",
+    "passportStampImages": [
+      {
+        "credit": "",
+        "description": "",
+        "crops": [
+          {
+            "aspectRatio": 1,
+            "url": "https://www.nps.gov/common/uploads/passport_stamps/primary/07D78114-0294-F9CB-5AEC60D99E17A289.jpeg"
+          }
+        ],
+        "altText": "Passport Stamp Icon with a banner \"Passport to History\".",
+        "title": "Santa Fe Trail Passport Stamp",
+        "caption": "",
+        "url": "https://www.nps.gov/common/uploads/passport_stamps/07D78114-0294-F9CB-5AEC60D99E17A289.jpeg"
+      }
+    ],
+    "managedByUrl": "http://exploresoutheastcolorado.com/boggsville.htm",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "69d969d6-c53a-43dc-83bb-e02cb9540040",
+    "geometryPoiId": "",
+    "isManagedByNps": "0",
+    "amenities": [
+      "Historical/Interpretive Information/Exhibits"
+    ],
+    "managedByOrg": "Boggsville National Historic District",
+    "quickFacts": [
+      {
+        "id": "5C252B96-2DEB-4EF4-91D1-B5D2B202FCD7",
+        "value": "two miles south of Las Animas on Colorado Highway 101",
+        "name": "Location"
+      },
+      {
+        "id": "208F1B3C-44DC-4CF5-9A61-9B26A364D701",
+        "value": "ranch near the river on a branch of the Santa Fe Trail",
+        "name": "Significance"
+      },
+      {
+        "id": "E32D2136-A184-4C1A-91D2-4C20CEF9CBAF",
+        "value": "National Historic District",
+        "name": "Designation"
+      }
+    ],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  },
+  {
+    "id": "3BDD9B16-7479-4712-9BFF-FC437E500048",
+    "url": "https://www.nps.gov/places/beol_parkstore.htm",
+    "title": "Park Store at Bent's Old Fort National Historic Site",
+    "listingDescription": "The park store is operated by Western National Parks Association (WNPA), an official non-profit partner of the National Park Service dedicated to supporting the educational mission of Bent's Old Fort National Historic Site. The park store is located in the rear of the fort.",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/23C022E5-E96C-B2A3-0DF71941AF1D75D8.jpg",
+        "credit": "Photo by Karla Linenberger",
+        "altText": "Park Store at Bent's Old Fort NHS showing Items (books, trade goods, patches, clothing,etc) for sale",
+        "title": "Western National Parks Association Store",
+        "description": "",
+        "caption": "Bent's Old Fort Park Store has a variety of trade goods, books, and videos on sale",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/23C022E5-E96C-B2A3-0DF71941AF1D75D8.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/23C022E5-E96C-B2A3-0DF71941AF1D75D8.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "CO",
+        "parkCode": "beol",
+        "designation": "National Historic Site",
+        "fullName": "Bent's Old Fort National Historic Site",
+        "url": "https://www.nps.gov/beol/index.htm",
+        "name": "Bent's Old Fort"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [
+      "western national parks association",
+      "park store",
+      "book store",
+      "Trade Goods",
+      "books",
+      "Bookshop",
+      "bookstore",
+      "maps",
+      "Santa Fe Trail",
+      "SOUVENIRS",
+      "patches",
+      "Videos",
+      "snacks"
+    ],
+    "latitude": "38.04027542610249",
+    "longitude": "-103.42963814735413",
+    "latLong": "38.04027542610249,-103.42963814735413",
+    "bodyText": "<p>The park store is operated by <a href=\"https://www.nps.gov/beol/learn/www.wnpa.org\">Western National Parks Association</a> (WNPA), an official non-profit partner of the National Park Service dedicated to supporting the educational mission of Bent's Old Fort National Historic Site. The park store has a wide range of books, maps, travel guides, media, educational games, posters, and other items available for retail sale. These products complement the interpretive themes you experience when visiting the park. The park store is located at the rear of the reconstructed fort, or you can visit the online park store <a href=\"https://store.wnpa.org/\">https://store.wnpa.org/</a>. You can contact the store directly at 719-384-2800.<br /> <br /> The Trade Goods and Park Store at Bent's Old Fort offers many of the same trade goods that were exchanged for bison robes and other peltries at the fort in 1846. A visit to the store links you to the past when Bent's Fort was part of a thriving commercial trading empire. You can purchase replicas of the same goods offered by the Bent brothers and carried along the Santa Fe Trail. Items such as flint and steel, powder horns, and copper rum cups might have been supplies the mountain men needed; the Indians wanted trade beads and coffee; from Mexico came shells and baskets. Hand made leather pouches and blankets, Hudson Bay blankets and Dutch ovens are examples of goods offered for sale.</p> <p>In addition to trade goods, many titles relating to the Fort, Native Americans, Sand Creek, mountain men, the fur trade, historical cooking, and the Santa Fe Trail are available for every age and level of study.</p> <p>Your purchases directly support educational and scientific research programs at Bent's Old Fort National Historic Site. A membership with WNPA allows you to become a partner with our western parks and thousands of people who visit daily. Six levels of membership offer you the opportunity to chose your level of commitment and all donations are tax deductible. For more information, contact Western National Parks Association at <a href=\"http://www.wnpa.org/\">www.wnpa.org</a> or pick up a brochure at any one of their locations.</p>",
+    "audioDescription": "The park store at Bent's Old Fort National Historic Site is operated by the Western National Parks Association. The park store has a wide range of books, maps, travel guides, media, educational games, posters, and other items available for retail sale. These products complement the interpretive themes you experience when visiting the park. The park store is located at the rear of the reconstructed fort.",
+    "isPassportStampLocation": "1",
+    "passportStampLocationDescription": "Passport stamp station is located at the rear of the reconstructed fort at Bent's Old Fort National Historic Site outside the Western National Parks Association park store.",
+    "passportStampImages": [
+      {
+        "credit": "",
+        "description": "",
+        "crops": [
+          {
+            "aspectRatio": 1,
+            "url": "https://www.nps.gov/common/uploads/passport_stamps/primary/344B74C2-061F-931F-2E0B66D62786DC73.jpg"
+          }
+        ],
+        "altText": "Passport stamp for Bent's Old Fort NHS",
+        "title": "Passport stamp for Bent's Old Fort NHS",
+        "caption": "",
+        "url": "https://www.nps.gov/common/uploads/passport_stamps/344B74C2-061F-931F-2E0B66D62786DC73.jpg"
+      },
+      {
+        "credit": "",
+        "description": "",
+        "crops": [
+          {
+            "aspectRatio": 1,
+            "url": "https://www.nps.gov/common/uploads/passport_stamps/primary/5DECEF5C-E51C-FDC1-146AC38EA9136C9E.jpg"
+          }
+        ],
+        "altText": "Santa Fe National Historic Trail passport stamp",
+        "title": "Santa Fe NHT passport stamp",
+        "caption": "",
+        "url": "https://www.nps.gov/common/uploads/passport_stamps/5DECEF5C-E51C-FDC1-146AC38EA9136C9E.jpg"
+      }
+    ],
+    "managedByUrl": "https://www.wnpa.org/",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "2dece3cd-fd70-4c93-a49d-30619f14c062",
+    "geometryPoiId": "",
+    "isManagedByNps": "1",
+    "amenities": [
+      "Accessible Rooms",
+      "Accessible Sites",
+      "Food/Drink - Snacks",
+      "Gifts/Souvenirs/Books",
+      "Information",
+      "Water - Drinking/Potable"
+    ],
+    "managedByOrg": "Western National Parks Association",
+    "quickFacts": [],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  }
+]

@@ -1,0 +1,410 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.709098,
+          35.937811
+        ]
+      },
+      "properties": {
+        "name": "1896 Monument",
+        "notes": "1896 Monument\nhttps://www.nps.gov/places/000/1896-monument.htm\n\n<p>The monument to Virginia Dare and the Roanoke colony was dedicated by the Roanoke Island Memorial Association on November 24, 1896. This stone monument is the first official commemoration on-site. It is not the gravesite of Virginia Dare; the location of her remains are unknown.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.598179,
+          35.905581
+        ]
+      },
+      "properties": {
+        "name": "Cape Hatteras National Seashore",
+        "notes": "Cape Hatteras National Seashore\nhttps://www.nps.gov/places/000/cape-hatteras-national-seashore.htm\n\n<p>Cape Hatteras National Seashore preserves and protects over 70 miles of coastline on the Outer Banks, offering an array of recreational opportunities as well as preserving habitat for many coastal animal species. Three lighthouses, including the iconic Cape Hatteras Lighthouse, help tell the story of the treacherous Graveyard of the Atlantic.<br /> <br /> For more information, please visit the <a href=\"https://www.nps.gov/caha\">official website</a> or navigate to their page on the NPS Moblie App.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.718042,
+          35.938787
+        ]
+      },
+      "properties": {
+        "name": "Dough Cemetery",
+        "notes": "Dough Cemetery\nhttps://www.nps.gov/places/000/dough-cemetery.htm\n\n<p>The Dough family arrived on Roanoke Island at the turn of the nineteenth century. By 1849, Thomas A. Dough obtained a land grant from the State of North Carolina legitimizing ownership of the Dough homestead on the north end of the island. Originally including a house, outbuildings, farmland, and a family cemetery, the cemetery is the only remaining element of the homestead, now part of Fort Raleigh National Historic Site.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.708911,
+          35.938169
+        ]
+      },
+      "properties": {
+        "name": "Earthwork",
+        "notes": "Earthwork\nhttps://www.nps.gov/places/000/earthwork.htm\n\n<p>The original earthwork was built by the English during the expeditions to Roanoke Island in the late 1500s. However, why the earthwork was built and when it was built remains a bit of a mystery. What is known is that Ralph Lane, the expedition leader of the 1585 expedition, was familiar with and had built similar earthworks to this one. Also, that artifacts pertaining to metallurgical work were found just to the west of the earthwork, further reinforcing the leading idea that this earthwork was built in 1585. However, no evidence yet has been uncovered to prove that, or to explain the purpose of the earthwork.<br /> <br /> The trench of the earthwork was excavated by archeologist J.C. Harrington in 1947, which determined the shape of the earthwork. In 1950, using techniques from the late 1500s, archeologists reconstructed the earthwork by excavated out the fill material in the trenches and piling the material into walls.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.711181,
+          35.937317
+        ]
+      },
+      "properties": {
+        "name": "Elizabethan Gardens",
+        "notes": "Elizabethan Gardens\nhttps://www.nps.gov/places/000/elizabethan-gardens.htm\n\n<p>Fanciful and elaborate gardens were designed to entertain Queen Elizabeth I during her reign. The garden was created for your enjoyment, and as a living memorial to the time when Sir Walter Raleigh’s lost colonists lived in this very place over 400 years ago. The Elizabethan Gardens is a project of the Garden Club of North Carolina.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.71903087203272,
+          35.939054684623365
+        ]
+      },
+      "properties": {
+        "name": "Etheridge Point Beach",
+        "notes": "Etheridge Point Beach\nhttps://www.nps.gov/places/etheridge-point-beach.htm\n\nAt Etheridge Point, a small sandy soundside beach is the perfect place to explore the calm waters of the sound. The sound is usually calmer and warmer than the ocean, and is a great place to play, swim, or just relax in the water.<br /> <br /> Etheridge Point provides some of the most expansive views of the Outer Banks. From this location, you can see Jockey's Ridge, the Wright Brothers Monument, and Colington Island.<br /> <br /> This beach is not lifeguarded. All pets must be on a leash for the safety of park wildlife and other visitors.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.709209,
+          35.939083
+        ]
+      },
+      "properties": {
+        "name": "FDR Marker",
+        "notes": "FDR Marker\nhttps://www.nps.gov/places/000/fdr-marker.htm\n\n<p>US President Franklin Delano Roosevelt attended a performance of <em>The Lost Colony</em> during the drama's inaugural year on August 18, 1937 as part of a speaking engagement commemorating the 350th anniversary of the birth of Virginia Dare.<br /> <br /> The marker was placed inside the Waterside Theater, near the location where President Roosevelt watched the performance of <em>The Lost Colony.</em></p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.709287,
+          35.936796
+        ]
+      },
+      "properties": {
+        "name": "First Light of Freedom Memorial",
+        "notes": "First Light of Freedom Memorial\nhttps://www.nps.gov/places/000/first-light-of-freedom-memorial.htm\n\n<p>This memorial commemorates the freedom that formerly enslaved people found on Roanoke Island during the American Civil War, and the experimental freedmen's colony that existed on the island.<br /> <br /> The memorial is also part of the National Underground Railroad Network to Freedom.<br />  </p> <h3>The Freedmen's Colony Of Roanoke Island 1862-1867</h3> <br /> A year after the Civil War began, Roanoke Island fell to Union forces. Word spread throughout North Carolina that slaves could find \"safe haven\" on the Island. By the end of 1862, over a thousand runaway slaves, freed men, women and children found sanctuary here.<br /> <br /> This colony, precursor to the Freedmen's Bureau, was to serve as a model for other colonies throughout the South. Once again this small island, site of the first English attempt at permanent settlement in the New World, became a land of historic beginnings.<br /> <br /> The Freedmen's Colony encompassed unoccupied, unimproved lands from Manteo to the north and west shores, including some of the land today known as Fort Raleigh National Historic Site. A sawmill, hospital, a school with black female teachers and homes were established.<br /> <br /> Able-bodied men were offered rations and employment to build a new fort. They also enlisted to form the First and Second North Carolina Colored Regiments. The colony could not remain self-supporting without men and became a refuge for three thousand women, children, aged and infirmed.<br /> <br /> Upon the war's end, the federal government discontinued rations and supplies to colonists and returned land to original owners. Reminiscent of early English efforts, the Roanoke Island Freedmen's Colony was abandoned by 1867. Many freed people remained, and their descendants would become respected local residents. Others settled in communities throughout the region and would become an integral part of eastern North Carolina culture. <p> </p> <h3>Roanoke Island Freedmen's Colony</h3> <p>The Roanoke Island Freedmen's Colony was created shortly after the Battle of Roanoke Island in February 1862, when Union forces seized control of the area from Confederate troops.<br /> <br /> From 1862 to 1867, the colony, under the direction of US Army chaplain Horace James, operated on land in the northwest portion of Roanoke Island. Churches, schoolhouses, homes, storefronts, and a sawmill were all constructed and, at its peak, the colony had a population of over 3,000 freed and escaped slaves.<br /> <br /> At war's end, politics played a major role in the dismantling of the colony, and by 1867 the colony was mostly abandoned. The exact location of the colony is still unknown.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.70886516421282,
+          35.93699984381046
+        ]
+      },
+      "properties": {
+        "name": "Fort Raleigh Park Store",
+        "notes": "Fort Raleigh Park Store\nhttps://www.nps.gov/places/fort-raleigh-park-store.htm\n\nThe Eastern National Park Store in the Lindsay Warren Visitor Center at Fort Raleigh National Historic Site, is a great place to find merchandise that helps tell the story of the Lost Colony and Fort Raleigh National Historic Site.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.723149,
+          35.927946
+        ]
+      },
+      "properties": {
+        "name": "Freedman's Colony Picnic Area",
+        "notes": "Freedman's Colony Picnic Area\nhttps://www.nps.gov/places/000/west-end-picnic-area.htm\n\n<p>At the west end of the Freedom Trail and the multi-use path along US-264/64 is a small picnic area and access to the Croatan Sound. A parking lot is available for cars coming from US-264/64.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.711722,
+          35.936868
+        ]
+      },
+      "properties": {
+        "name": "Freedom Trail- Fort Raleigh Trailhead",
+        "notes": "Freedom Trail- Fort Raleigh Trailhead\nhttps://www.nps.gov/places/000/freedom-trail.htm\n\n<p>The Freedom Trail connects Croatan Sound with Fort Raleigh National Historic Site along a level, 1.25 mile trail, allowing hikers to walk between Fort Raleigh and the site of the Freedman's Colony during the Civil War.<br /> <br /> This trailhead is across the parking lot from the Elizabethean Gardens, and offers ample parking.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.722668,
+          35.928146
+        ]
+      },
+      "properties": {
+        "name": "Freedom Trail- Soundside Trailhead",
+        "notes": "Freedom Trail- Soundside Trailhead\nhttps://www.nps.gov/places/000/freedom-trail-1.htm\n\n<p>The Freedom Trail connects Croatan Sound with Fort Raleigh National Historic Site along a level, 1.25 mile trail, allowing hikers to walk between Fort Raleigh and the site of the Freedman's Colony during the Civil War.<br /> <br /> This trailhead has historical information describing the Freedman's Colony and the Civil War Naval Battle for Roanoke Island. Ample parking is available, as well as a great point to access the water.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.709158,
+          35.938262
+        ]
+      },
+      "properties": {
+        "name": "Gans Workshop",
+        "notes": "Gans Workshop\nhttps://www.nps.gov/places/000/gans-workshop.htm\n\n<p>Due to the discovery of copper nuggets, charcoal, antimony ore, furnace bricks, and related items, archeologists believe the metallurgy workshop of Joachim Gans and Thomas Hariot was located immediately west of the English earthwork. One theory is that the earthwork was constructed as a means of defending the metallurgy workshop.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.7111,
+          35.939369
+        ]
+      },
+      "properties": {
+        "name": "Losing Ground Scenic View",
+        "notes": "Losing Ground Scenic View\nhttps://www.nps.gov/places/000/losing-ground.htm\n\n<p>If you were standing here with Thomas Hariot in 1585, the view would be quite different than you see today. Back then, the island's shoreline was much farther out in the sound. Over the past 400 years, changing river currents, rising sea levels, and storms blowing from the northeast have eaten away at the north end of Roanoke Island, pushing the shoreline back 1,500 to 3,000 feet.<br />  </p> <h3>Locate the \"Lost\" Shoreline</h3> <br /> Look out across the water from the edge of the clearing. Try and find the modern navigational buoys like the one pictured. (Hint- they are way out there!) These buoys help boats navigate the sound today. They also happen to mark the shoreline of Roanoke Island in the 1580s, as determined from geologic studies.<br /> <br /> In 1587 the colonists may have built their settlement close to the waters of the sound, leaving some experts to theorize that evidence of their settlement is now underwater. <p> </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.70787,
+          35.936471
+        ]
+      },
+      "properties": {
+        "name": "Main Picnic Area",
+        "notes": "Main Picnic Area\nhttps://www.nps.gov/places/000/picnic-area-1.htm\n\n<p>Located under majestic trees-such as live oaks and loblolly pines-are several picnic tables where you can enjoy a meal, relax for a moment, or take in the forest atmosphere.<br /> <br /> Restrooms and water fountains are nearby at the Lindsay Warren Visitor Center, as well as ample parking.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.71161,
+          35.930339
+        ]
+      },
+      "properties": {
+        "name": "National Wildlife Refuges Visitor Center",
+        "notes": "National Wildlife Refuges Visitor Center\nhttps://www.nps.gov/places/000/national-wildlife-refuges-visitor-center.htm\n\n<p>Operated by the US Fish and Wildlife Service, the National Wildlife Refuges Visitor Center houses exhibits on eleven national wildlife refuges and one national fish hatchery. Admission is free. </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.723503,
+          35.92747
+        ]
+      },
+      "properties": {
+        "name": "Naval Battle of Roanoke",
+        "notes": "Naval Battle of Roanoke\nhttps://www.nps.gov/places/000/naval-battle-of-roanoke.htm\n\n<p>During late January, 1862, a Federal land-sea expedition assembled at Hatteras Inlet to take Roanoke Island and capture control of the North Carolina Sound region. This force was under the joint command of General Ambrose Burnside and navy Flag-Officer Louis Goldsborough.<br /> <br /> After several delays due to bad weather, the Union fleet, consisting of numerous troop transports and more than 20 war vessels, arrived at the southern end of Roanoke Island. On February 7, 1862, Federal warships bombarded Fort Bartow, southernmost of the Confederate defenses. The fort returned the fire but with little effect. The Confederate fleet, under Captain W.F. Lynch, waited to engage the Federals behind a line of obstructions placed in Croatan Sound to retard the Federal advance. However, the Confederate fleet, after a sharp engagement which was ended only by darkness, was forced to retire due to a lack of ammunition.<br /> <br /> On February 8, 1862, the Federal fleet bombarded various positions on Roanoke Island in support of General Burnside's land offensive. After the Union victory on the afternoon of February 8, a detachment of Federal ships under Commander S.C. Rowan was sent into Albemarle Sound in pursuit of the Confederate fleet. The Union forces were now in control of most of the inland waters of northeastern North Carolina.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.704319,
+          35.917994
+        ]
+      },
+      "properties": {
+        "name": "North Carolina Aquarium on Roanoke Island",
+        "notes": "North Carolina Aquarium on Roanoke Island\nhttps://www.nps.gov/places/000/north-carolina-aquarium-on-roanoke-island.htm\n\n<p>The North Carolina Aquarium on Roanoke Island, operated by the North Carolina Department of Natural and Cultural Resources, displays an array of aquatic life, and explores the cultual history of coastal Carolina. The facility also has outdoor exhibits and play areas for children. There is an admission fee. </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.709511,
+          35.936514
+        ]
+      },
+      "properties": {
+        "name": "Outer Banks Group Park Headquarters",
+        "notes": "Outer Banks Group Park Headquarters\nhttps://www.nps.gov/places/000/park-headquarters-1.htm\n\n<p>This is the administrative office for three National Park Service sites on the Outer Banks: Cape Hatteras National Seashore, Wright Brothers National Memorial, and Fort Raleigh National Historic Site.<br /> <br /> The building is not generally open to the public, however passport stamps for all 3 Outer Banks Parks can be found in the lobby Monday-Friday from 8:30am - 4:30pm.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.708981,
+          35.937828
+        ]
+      },
+      "properties": {
+        "name": "Program Amphitheater",
+        "notes": "Program Amphitheater\nhttps://www.nps.gov/places/000/program-amphitheater.htm\n\n<p>The ranger program amphitheater is located ten yards southwest of the reconstructed English earthwork. Ranger programs are offered during the spring, summer, and early fall. Please check the events section or at the visitor center to determine if a ranger program is available for your visit.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.666355,
+          35.911203
+        ]
+      },
+      "properties": {
+        "name": "Roanoke Island Festival Park",
+        "notes": "Roanoke Island Festival Park\nhttps://www.nps.gov/places/000/roanoke-island-festival-park.htm\n\n<p>Located on the waterfront in downtown Manteo and operated by the North Carolina Department of Natural and Cultural Resources, Roanoke Island Festival Park houses a living history museum. Included are reproductions of Algonquian dwellings and a reproduction of the Elizabeth II, a ship that was part of the English expeditions to the New World.<br /> <br /> Operating hours vary and admission is charged for certain sites and events. Co-located on the island is the Outer Banks History Center, a regional archives and research library administered by the North Carolina State Archives.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.70771533620525,
+          35.93300615839679
+        ]
+      },
+      "properties": {
+        "name": "Roanoke Island Multi-Use Trail",
+        "notes": "Roanoke Island Multi-Use Trail\nhttps://www.nps.gov/places/roanoke-island-multi-use-trail.htm\n\nThe Roanoke Island Multi-Use trail is a 7 mile paved trail that connects the northern end of the island with downtown Manteo.  Visitors can access this trail from Fort Raleigh National Historic Site by parking at the Lindsay Warren Visitor Center and walking down the entrance road to the park sign. The trail is paved, and accessible to walkers, runners, bikers, and horseback riders.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.709284,
+          35.93852
+        ]
+      },
+      "properties": {
+        "name": "Thomas Hariot Trail",
+        "notes": "Thomas Hariot Trail\nhttps://www.nps.gov/places/000/thomas-hariot-trail.htm\n\n<p>The Thomas Hariot Trail, offers great views of Albemarle Sound while exploring the beautiful and unique maritime forest. There are great opportunities for birding along the trail, and several trailside markers provide some perspecitve on the area and ecosystem. Trail is a half-mile loop.<br /> <br /> A Strange New Land</p> <br /> In the late 1500s, Roanoke Island and London had very little in common. Imagine what it was like for Thomas Hariot when he first set foot on this strange new land. New people, new plants, new animals- everything was truly \"new.\" Is this land new to you? Look carefully and listen closely as you walk this trail. What strikes you most about this foreign land?<br />   <h3>A Very Costly Venture</h3> <br /> Although supported by Queen Elizabeth, the Roanoke Voyages were privately funded. Surely there was wealth and power to be gained in the New World, but how much, and where? Sir Walter Raleigh assigned Thomas Hariot, one of the most preeminent scientists of the time, to answer these questions.<br /> <br /> While here in 1585, Hariot documented the value of the plants, animals, and minerals he found. Returning to England in 1586, Hariot brought good news to Raleigh and his investors, enthusiastically praising both the people and the land of the New World<br /> <br /> > ...commodities alreadie found or to be raised...as by way of trafficke and exchange with our owne nation of England, will enrich your selves the providers; those that shal deal with you; the enterprisers in general; and greatly profit our owne countrey men... -Thomas Hariot, <strong>A briefe and true report of the new found land of Virginia</strong> <p> </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.707845,
+          35.938356
+        ]
+      },
+      "properties": {
+        "name": "Ticket Office",
+        "notes": "Ticket Office\nhttps://www.nps.gov/places/000/ticket-office.htm\n\n<p>This is where you can purchase tickets for <strong>The Lost Colony</strong> drama, which runs from late May to late August every year. <a href=\"http://thelostcolony.org/\">Visit the Roanoke Island Historical Association website</a> for details.</p> <h3>The Lost Colony</h3> <p>The year was 1587, twenty years before Jamestown. Here on Roanoke Island a great moment in history occurred when 116 men, women, and children planted the roots of English society on the shore at Fort Raleigh. The colonists' hopes for a better life in the New World, however, clashed with the neighboring Indians. The settlement soon disappeared but the colonists' dreams lived on.<br /> <br /> Since the early 1900s, the residents of Roanoke Island have paid tribute to these early English beginnings by staging events each summer. Success of a 1921 movie about the ill-fated settlement led the the creation of an outdoor drama, <strong>The Lost Colony</strong> .<br /> <br /> Pulitzer Prize winner Paul Green created the semi-fictional script from firsthand accounts. <strong>The Lost Colony</strong> is presented each summer in the outdoor Waterside Theatre by the Roanoke Island Historical Association. To the millions of people who have witnessed the play since 1937, <strong>The Lost Colony</strong> remains a tribute to those who struggled and died colonizing the New World.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.70949372805147,
+          35.93699501504583
+        ]
+      },
+      "properties": {
+        "name": "Visitor Center Picnic Area",
+        "notes": "Visitor Center Picnic Area\nhttps://www.nps.gov/places/visitor-center-picnic-area.htm\n\nOutside the Linsday Warren Visitor Center and under the shade of some magnificient trees, are a few picnic tables for your use. Restrooms and water filling stations are located nearby outside the visitor center. This is a central location close to the parking lots and adjacent to the Elizabethean Gardens and Waterside Theater.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.709105,
+          35.939292
+        ]
+      },
+      "properties": {
+        "name": "Waterside Theatre",
+        "notes": "Waterside Theatre\nhttps://www.nps.gov/places/000/waterside-theatre.htm\n\n<p>Originally constructed in 1937 to house the inaugural performance of Paul Green's symphonic drama <strong>The Lost Colony</strong> , the Waterside Theatre has been rebuilt three times. It was damaged by a fire in 1947 and two hurricanes in 1944 and 1960. The drama was not shown from 1942 to 1945 on account of World War II, was cancelled in 1947 due to the fire. <br /> <br /> Since 1947, it has been performed every summer except 2020.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.709201,
+          35.936863
+        ]
+      },
+      "properties": {
+        "name": "Welcome to Fort Raleigh",
+        "notes": "Welcome to Fort Raleigh\nhttps://www.nps.gov/places/000/welcome-to-fort-raleigh-2.htm\n\n<p>Roanoke Island has been the scene of historical dramas for more than four centuries. Algonquians, Europeans, and African Americans have all played their parts here.<br /><br />First here were the Carolina Algonquian, who farmed the land and fished the sounds. In 1584, English explorers sponsored by Sir Walter Raleigh arrived here. It was the first of three voyages in England's attempt to colonize North America. During the American Civil War, the US Army established a freedmen's colony here. The colony prepared formerly enslaved people for life after the war.<br /><br />Today, The Lost Colony dramatically interprets the 1580s interactions between the Algonquian and English. Welcome to Fort Raleigh National Historic Site, where the stories connected with these and other events are preserved and commemorated.<br /><br />This exhibit highlights eight attractions to experience while visiting the park.<br /><br />A. Visitor Center<br />Discover in-depth heritage stories from Roanoke Island.<br /><br />B. Freedmen's Colony Monument<br />Commemorate freedom for formerly enslaved people.<br /><br />C. 1896 Monument<br />Find out about the start of on-site preservation efforts.<br /><br />D. Earthwork<br />Explore the restored earthwork related to the 1585 expedition.<br /><br />E. Thomas Hariot Trail<br />Walk the 0.3-mile loop thorugh the island's maritime forest.<br /><br />F. Theatre Box Office<br />Purchase tickets for The Lost Colony drama (summer).<br /><br />G. Waterside Theatre<br />View the home of The Lost Colony drama (summer).<br /><br />H. The Elizabethan Gardens<br />Wander through 10 acres of 16th-century-style gardens (fee). I. Freedom Trail- Hike the 1.25-mile trail to Croatan Sound on the western edge of the park.</p>",
+        "icon": "red-pin-down.png"
+      }
+    }
+  ]
+}

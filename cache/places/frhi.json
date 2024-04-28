@@ -1,0 +1,244 @@
+[
+  {
+    "id": "C756657D-1BB6-47D6-B264-A04164BC0E04",
+    "url": "https://www.nps.gov/places/friendship-hill-loop-trail.htm",
+    "title": "Friendship Hill Loop Trail",
+    "listingDescription": "Over ten miles of trails include walking paths through woods, meadows, on the bluffs overlooking the Monongahela River. These trails provide a glimpse of this area as it was when first settled by Albert Gallatin in the 1780s.",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/B8719EAC-030F-F3A2-304F69E1A536D428.jpg",
+        "credit": "NPS Photo/Renee Benson",
+        "altText": "Small waterfall cascading into a pool",
+        "title": "Ice Pond Run",
+        "description": "",
+        "caption": "There are many waterfalls at Friendship Hill as the small stream cascade down the bluff to the river",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/B8719EAC-030F-F3A2-304F69E1A536D428.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/B8719EAC-030F-F3A2-304F69E1A536D428.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "PA",
+        "parkCode": "frhi",
+        "designation": "National Historic Site",
+        "fullName": "Friendship Hill National Historic Site",
+        "url": "https://www.nps.gov/frhi/index.htm",
+        "name": "Friendship Hill"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [
+      "hiking trails",
+      "Friendship Hill"
+    ],
+    "latitude": "39.7746828994479",
+    "longitude": "-79.9270216861634",
+    "latLong": "39.7746828994479,-79.9270216861634",
+    "bodyText": "Friendship Hill National Historic Site has more than ten miles of walking trails for you to enjoy. The loop trail system provides a glimpse of this area as it was when first settled by Albert Gallatin in the 1780s. The trails include walking paths through woods, meadows, on the bluffs overlooking the Monongahela River and below the bluffs along the river.<br /> Wildlife abounds. Fox, squirrels, wild turkey, white-tailed deer, pileated woodpeckers, snapping turtles, and red-tailed hawks are familiar residents at Freindship Hill. Wildflowers, mountain laurel and a variety of evergreens and hardwoods enhance the the beauty of the park.<br /> Reminders of the past appear frequently along the trail. Gallatin's first wife, Sophia, is buried on the property as is his friedn and buisness partner, Thomas Clare. Old roads, building foundations, abondoned river guages and water towers are all evidence fo enterprising individuals who walked this land long ago.<br /> <br /> The Friendship Hill Loop Trail system was designated a <a href=\"https://www.nrtdatabase.org/trailDetail.php?recordID=2336\">National Recreational Trail </a>in 1984.",
+    "audioDescription": "",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "146fe5c1-348d-5325-911b-6fee13af9085",
+    "isManagedByNps": "1",
+    "amenities": [
+      "Information - Maps Available"
+    ],
+    "managedByOrg": "",
+    "quickFacts": [
+      {
+        "id": "5C252B96-2DEB-4EF4-91D1-B5D2B202FCD7",
+        "value": "Friendship Hill National HIstoric Site",
+        "name": "Location"
+      },
+      {
+        "id": "E32D2136-A184-4C1A-91D2-4C20CEF9CBAF",
+        "value": "National Recreational Trail",
+        "name": "Designation"
+      }
+    ],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  },
+  {
+    "id": "5050748F-5AEE-4261-8EEF-ED699AA957D2",
+    "url": "https://www.nps.gov/places/friendship-hill.htm",
+    "title": "Friendship Hill National Historic Site",
+    "listingDescription": "As both secretary of treasury and an American diplomat during the War of 1812, Albert Gallatin was instrumental in both securing the finances to fund the fighting and bringing it to an end through peaceful negotiations.",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/places/images/nri/20140902/siteadmin/2E47680D-B5DF-B85F-13D739A30D3A4239/2E47680D-B5DF-B85F-13D739A30D3A4239.jpg",
+        "credit": "NPS photo",
+        "altText": "A two story stone house of gray stone, set behind a matching stone well.",
+        "title": "",
+        "description": "",
+        "caption": "",
+        "crops": []
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "PA",
+        "parkCode": "frhi",
+        "designation": "National Historic Site",
+        "fullName": "Friendship Hill National Historic Site",
+        "url": "https://www.nps.gov/frhi/index.htm",
+        "name": "Friendship Hill"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [
+      "national park service",
+      "war of 1812"
+    ],
+    "latitude": "39.78059761226177",
+    "longitude": "-79.92003254592419",
+    "latLong": "39.78059761226177,-79.92003254592419",
+    "bodyText": "<p>Friendship Hill, a structure dating to the 1790s, was the home of treasury secretary Albert Gallatin. <span style=\"font-size: 11pt;\" data-mce-style=\"font-size: 11pt;\">As treasurer under president Thomas Jefferson and president James Madison, Gallatin presided over the dismantling of the Bank of the United States, leaving America financially unprepared to engage in large scale warfare in 1812. </span></p><p>In order to fund the War of 1812, Gallatin reinstituted politically unpopular taxes that had been imposed by rival Federalists in the 1790s. In 1814, he headed the American delegation to Ghent, where he helped negotiate a successful peace settlement with Great Britain. </p><p>After the war, in 1816, Gallatin assisted in chartering the Second Bank of the United States to meet the nation's postwar financial needs. </p>",
+    "audioDescription": "",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "",
+    "isOpenToPublic": "0",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "",
+    "isManagedByNps": "0",
+    "amenities": [],
+    "managedByOrg": "",
+    "quickFacts": [
+      {
+        "id": "5C252B96-2DEB-4EF4-91D1-B5D2B202FCD7",
+        "value": "Point Marion, Pennsylvania",
+        "name": "Location"
+      },
+      {
+        "id": "208F1B3C-44DC-4CF5-9A61-9B26A364D701",
+        "value": "Home of the American secretary of treasury, whose efforts made financing the War of 1812 possible.",
+        "name": "Significance"
+      },
+      {
+        "id": "E32D2136-A184-4C1A-91D2-4C20CEF9CBAF",
+        "value": "National Historic Site",
+        "name": "Designation"
+      }
+    ],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  },
+  {
+    "id": "A7BC9729-6FD1-49CE-8256-E6305D8DDE9F",
+    "url": "https://www.nps.gov/places/rivers-of-steel-national-heritage-area.htm",
+    "title": "Rivers of Steel National Heritage Area",
+    "listingDescription": "The Rivers of Steel National Heritage Area in southwestern Pennsylvania reveals how one region, in a sustained and thunderous blast of innovation, ambition and fire, forever changed America and its place in the world. It is the story of the industrialists and the workers who pushed an infant industry to it ultimate limits and in doing so pushed the world into the Age of Steel.",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/place/nri/20190703/places/30B0A6E4-FCD9-88E8-F103BA7C3C7C89DD/30B0A6E4-FCD9-88E8-F103BA7C3C7C89DD.jpg",
+        "credit": "",
+        "altText": "Blast furnace towers among trees",
+        "title": "",
+        "description": "",
+        "caption": "View of the Carrie Blast Furnaces National Historic Landmark",
+        "crops": []
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "PA",
+        "parkCode": "fone",
+        "designation": "National Battlefield",
+        "fullName": "Fort Necessity National Battlefield",
+        "url": "https://www.nps.gov/fone/index.htm",
+        "name": "Fort Necessity"
+      },
+      {
+        "states": "PA",
+        "parkCode": "frhi",
+        "designation": "National Historic Site",
+        "fullName": "Friendship Hill National Historic Site",
+        "url": "https://www.nps.gov/frhi/index.htm",
+        "name": "Friendship Hill"
+      },
+      {
+        "states": "PA",
+        "parkCode": "rist",
+        "designation": "National Heritage Area",
+        "fullName": "Rivers Of Steel National Heritage Area",
+        "url": "https://www.nps.gov/rist/index.htm",
+        "name": "Rivers Of Steel"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [
+      "Rivers of Steel National Heritage Area",
+      "National Heritage Areas Program",
+      "Heritage Areas",
+      "Carrie Blast Furnaces",
+      "The Bost Building",
+      "The Pump House",
+      "W.A. Young & Sons Foundry and Machine Shop",
+      "Fort Necessity National Battlefield",
+      "Friendship Hill National Historic Site",
+      "industrial history",
+      "Labor History",
+      "national Heritage areas"
+    ],
+    "latitude": "40.4385108947754",
+    "longitude": "-79.9973373413086",
+    "latLong": "40.4385108947754,-79.9973373413086",
+    "bodyText": "<p>The <a href=\"https://riversofsteel.com/\">Rivers of Steel National Heritage Area</a> in southwestern Pennsylvania reveals how one region, in a sustained and thunderous blast of innovation, ambition and fire, forever changed America and its place in the world. It is the story of the industrialists and the workers who pushed an infant industry to it ultimate limits and in doing so pushed the world into the Age of Steel. Rivers of Steel NHA celebrates the region's industrial history, the landscape that fueled it, and the hardworking people who made it possible, linking the communities of the region through their shared cultural and industrial heritage. <br /> <br /> Created over eons, as water carved away layers of the Allegheny Plateau, southwestern Pennsylvania’s hilly topography set the stage for entrepreneurs. Over time, this land and the local economy continued to transform. Colonial agriculture gave way to boat building and river trade. Business shifted from commerce to industry, making use of the region’s natural resources for glassmaking, coal mining, and small scale iron production, which laid the groundwork for the “Big Steel” era of the 20th century. Industries waxed and waned – each innovating and building upon the one that preceded it – before evolving into today’s dynamic landscape.<br /> <br /> The eight-county region of Rivers of Steel NHA is a National Heritage Area and one of 12 state-desigated Heritage Areas in Pennsylvania. It is managed by the <a href=\"https://riversofsteel.com/about/\">Rivers of Steel Heritage Corporation</a>, a nonprofit that works in partnership with the National Park Service and the Pennsylvania Department of Conservation and Natural Resources. Through public-private partnerships, Rivers of Steel supports heritage conservation, heritage tourism, and outdoor recreation as a means to foster economic redevelopment and enhance cultural engagement.<br /> <br /> <strong>Rivers of Steel National Heritage Area includes the following historic sites:</strong></p> <ul> <li><a href=\"https://riversofsteel.com/attractions/carrie-furnaces/\">Carrie Blast Furnaces National Historic Landmark,</a> Rankin & Swissvale, PA</li> <li><a href=\"https://riversofsteel.com/attractions/bost-building/\">The Bost Building National Historic Landmark</a>, Homestead, PA</li> <li><a href=\"https://riversofsteel.com/attractions/pump-house/\">The Pump House</a>, site of the 1892 Battle of Homestead, Munhall, PA</li> <li><a href=\"https://riversofsteel.com/attractions/w-a-young-sons-foundry-and-machine-shop/\">W.A. Young & Sons Foundry and Machine Shop National Historic Landmark</a>, Rices Landing PA</li> </ul> <p><strong>Rivers of Steel National Heritage Area also includes the following NPS units:</strong></p> <ul> <li><a href=\"https://www.nps.gov/fone/index.htm\">Fort Necessity National Battlefield</a></li> <li><a href=\"https://www.nps.gov/frhi/index.htm\">Friendship Hill National Historic Site</a></li> </ul>",
+    "audioDescription": "",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "https://www.riversofsteel.com",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "",
+    "isManagedByNps": "0",
+    "amenities": [],
+    "managedByOrg": "Rivers of Steel Heritage Corporation",
+    "quickFacts": [
+      {
+        "id": "5C252B96-2DEB-4EF4-91D1-B5D2B202FCD7",
+        "value": "The southwestern Pennsylvania counties of Allegheny, Armstrong, Beaver, Butler, Fayette, Greene, Washington, and Westmoreland.",
+        "name": "Location"
+      },
+      {
+        "id": "208F1B3C-44DC-4CF5-9A61-9B26A364D701",
+        "value": "From 1875 to 1980, southwestern Pennsylvania was the Steel Making Capital of the World, producing the steel for some of America's greatest icons such as the Brooklyn Bridge and the Empire State Building. During World War I and II, its steel workers carried the nation's defense on their backs, producing more steel, armor and armaments in a single year than entire countries. While many of the region's legendary mill sites have been dismantled, and decades have passed since the mills belched fire and smoke over Pittsburgh's skyline, the enormity of the region's steel-making contributions and its historical significance to the nation demand its story be told and its sites preserved.",
+        "name": "Significance"
+      },
+      {
+        "id": "E32D2136-A184-4C1A-91D2-4C20CEF9CBAF",
+        "value": "National Heritage Area",
+        "name": "Designation"
+      }
+    ],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  }
+]

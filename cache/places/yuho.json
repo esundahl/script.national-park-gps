@@ -1,0 +1,66 @@
+[
+  {
+    "id": "EC724638-665E-44C3-B6FB-3CCAC9F7EE04",
+    "url": "https://www.nps.gov/places/yucca_house.htm",
+    "title": "Yucca House",
+    "listingDescription": "Yucca House National Monument preserves a Montezuma Valley Ancestral Pueblo site and remains unexcavated, preserving its archeological integrity and beauty for future generations of scientists and visitors. To the untrained eye, the site is simply a cluster of rocky mounds. But to archeologists or those with a bit of an imagination, it holds the secrets of a large and active farming community that existed centuries ago.",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/FAC406FB-B58D-0CCE-95C248FA20F99788.jpg",
+        "credit": "NPS Photo",
+        "altText": "Ancient, stone-masonry wall surrounded by green farm fields.",
+        "title": "Yucca House National Monument",
+        "description": "",
+        "caption": "Remnants of Ancestral Puebloan architecture at Yucca House NM, surrounded by private farmland.",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/FAC406FB-B58D-0CCE-95C248FA20F99788.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/FAC406FB-B58D-0CCE-95C248FA20F99788.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "CO",
+        "parkCode": "yuho",
+        "designation": "National Monument",
+        "fullName": "Yucca House National Monument",
+        "url": "https://www.nps.gov/yuho/index.htm",
+        "name": "Yucca House"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [
+      "Ancestral Pueblo people"
+    ],
+    "latitude": "",
+    "longitude": "",
+    "latLong": "",
+    "bodyText": "<p>Yucca House National Monument preserves a Montezuma Valley Ancestral Pueblo site and remains unexcavated, preserving its archeological integrity and beauty for future generations of scientists and visitors. To the untrained eye, the site is simply a cluster of rocky mounds. But to archeologists or those with a bit of an imagination, it holds the secrets of a large and active farming community that existed centuries ago.</p> <p>If you wish to visit the site, please be prepared to carefully follow the directions below. The monument is surrounded by private land, there are few directional signs to guide you, and you will be travelling on gravel and dirt roads. There are no facilities or informational signs, so you may want to download and print the <a href=\"https://www.nps.gov/yuho/learn/historyculture/upload/yuhositebulletin.pdf\">Yucca House Visitor Guide</a> (pdf, 258 kb) before you go.</p> <p>Services -- such as gasoline, food, water, lodging, or kennels -- are not available at Yucca House National Monument. The closest gasoline and grocery facilities are in Cortez, approximately 8 miles from Yucca House.<br /> <br /> <strong>DIRECTIONS</strong><br /> •From Cortez, take Hwy. 491 south approximately 8 miles.<br /> •Take a right on MC County Road B (green sign), which is a dirt road one mile south of MC Road C.<br /> •Drive 0.8 miles, crossing a paved road (MC Road 21), and take the next dirt road on the right (before the farmhouse on the left).<br /> •Follow this road north and west for 1.4 miles, and head towards a white ranch house with a red roof on the west horizon.<br /> •Once at the ranch house, Yucca House NM is on the left side if the driveway.<br /> <br /> <em>Please be courteous toward the private landowners and close all gates behind you as you enter to prevent livestock from escaping.</em></p>",
+    "audioDescription": "",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "",
+    "isManagedByNps": "1",
+    "amenities": [
+      "Parking - Auto"
+    ],
+    "managedByOrg": "",
+    "quickFacts": [],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  }
+]

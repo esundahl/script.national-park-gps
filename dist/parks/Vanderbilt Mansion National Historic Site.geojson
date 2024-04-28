@@ -1,0 +1,575 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.94185538491868,
+          41.79849682751225
+        ]
+      },
+      "properties": {
+        "name": "American Basswood",
+        "notes": "American Basswood\nhttps://www.nps.gov/places/vama-american-basswood.htm\n\n<p><em><strong>Tilia Americana</strong></em></p> <p>A little further on towards the river stands a large tree with sprouts growing from the base. After the main trunk dies, these sprouts may survive and grow to tree size. Because of this fact, the American Basswood is sometimes found growing in clumps. The American Basswood is recommended as an ornamental tree where the mass of foliage or a deep shade is desired. No native tree surpasses it in this respect. It is often planted on the windward side of an orchard as a protection to young and delicate trees. The flowers, leaves, wood and charcoal are used for medicinal purposes.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.94412769793894,
+          41.8053086995201
+        ]
+      },
+      "properties": {
+        "name": "Bard Rock",
+        "notes": "Bard Rock\nhttps://www.nps.gov/places/bard-rock.htm\n\n<p>Millions of years of dynamic geologic forces have stimulated human encounters with the Hudson River landscape. The mountains, valleys, ridges, and plateaus framing the Hudson River create one of the most spectacular landscape settings in the world. The natural beauty inspired a mid-19th century American art movement, known as the Hudson River School, a group of landscape painters whose work often depicts the Hudson River Valley and the surrounding area, including views from Hyde Park, and the Catskill Mountains, visible to the north of Bard Rock.</p> <p>The river has been known by many names. This area is claimed as the ancestral homeland of several Algonquin speaking tribes. Some indigenous people inhabiting this area called it <i>Mahicannituck</i> (\"river that flows two ways”), relying on the river and its tributaries for transportation and fishing. The river supports a variety of fresh water fish, including striped bass, American eels, sturgeon, herring, and shad. Early Dutch explorers called it the North River. But it was later named after Henry Hudson, who explored the river in 1609 under the Dutch East India Company in his search for the Northwest Passage. The Hudson River formed the spine of the Dutch colony of New Netherland. Its strategic importance as the gateway to the American interior led to years of competition between the English and the Dutch over control of the river and colony.</p> <p>The Hudson River flows 315 miles from north to south primarily through eastern New York. The river originates in the Adirondack Mountains of Upstate New York and flows southward through the Hudson Valley to the Upper New York Bay between New York City and Jersey City. It eventually drains into the Atlantic Ocean at New York Harbor. The lower half of the river is a tidal estuary—tidal waters influence the Hudson's flow from as far north as the city of Troy. There are about two high tides and two low tides per day.</p> <p>The river is a central feature of The Hudson River Valley National Heritage Area, designated by Congress in 1996 and one of the now fifty-five federally-recognized National Heritage Areas throughout the United States. Today, Bard Rock is a picnic area and hiking destination and one of the only places within the park that visitors can gain such proximity to the Hudson River.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.94212430962007,
+          41.79792770173324
+        ]
+      },
+      "properties": {
+        "name": "Black Oak",
+        "notes": "Black Oak\nhttps://www.nps.gov/places/vama-black-oak.htm\n\n<p><strong><em>Quercus velutina</em></strong></p> <p>On the edge of the bank opposite the rear doors of the Visitor Center grows a black oak. This is a small specimen planted a few years ago to replace a very large black oak, the stump of which is still visible at the edge of the ridge. The leaves are similar to those of the northern red oak in shape, but early in the year are covered with a layer of fuzz. The bark is broken up into rectangular blocks. One of the most common of the eastern oaks, the bark of the black oak was a source of dyes and tannins in earlier years. A good shade tree, but not often found in nurseries due to its deep tap root which makes it difficult to transplant.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9420331145191,
+          41.79814959370929
+        ]
+      },
+      "properties": {
+        "name": "Chestnut Oak",
+        "notes": "Chestnut Oak\nhttps://www.nps.gov/places/vama-chestnut-oak.htm\n\n<p><em><strong>Quercus prinus</strong></em></p> <p>Continuing south along the ridge you will reach a very large chestnut oak standing about twelve feet below the edge of the bank. Its name comes from the leaves, which resemble those of the American chestnut.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9415181304197,
+          41.795629685731846
+        ]
+      },
+      "properties": {
+        "name": "Cutleaf Beech",
+        "notes": "Cutleaf Beech\nhttps://www.nps.gov/places/vama-cutleaf-beech.htm\n\n<p><em><strong>Fagus sylvatica cv. laciniata</strong></em></p> <p>Directly behind the flowering dogwood is an unusual tree which is another variety of European beech. You can recognize the Cutleaf beech by its wavy-edged leaves and smooth bark.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.94134396536032,
+          41.79794974574097
+        ]
+      },
+      "properties": {
+        "name": "Eastern Hemlock",
+        "notes": "Eastern Hemlock\nhttps://www.nps.gov/places/vama-eastern-hemlock.htm\n\n<p><em><strong>Tsuga canadensis</strong></em></p> <p>The next large tree on your right is an eastern hemlock. A common species in the Hudson Valley. Native Americans and pioneers made a mild tea from the needles. Often hemlocks grow under a dense forest canopy. It has the ability to grow in thick forests as well as full sunlight. Look for the tiny cones. The Hemlock Wooly Adelgid (Adelges tsugae), a scale insect introduced from Japan, is currently threatening the survival of hemlocks in the eastern U.S.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.94165224086221,
+          41.79670267458789
+        ]
+      },
+      "properties": {
+        "name": "Eastern Hophornbeam",
+        "notes": "Eastern Hophornbeam\nhttps://www.nps.gov/places/vama-eastern-hophornbeam.htm\n\n<p><em><strong>Ostrya Virginiana</strong></em></p> <p>From the tulip tree make your way around to the lawn in front of the mansion. This is the eastern (American) hophornbeam. Other names for this tree include “ironwood,” and “leatherwood.” It is typically grown as an ornamental or used as a street tree. Its wood is very resilient and is valued for making tool handles and fenceposts. Being a diffuse hardwood of high density and resistance to compression, historically, it was an excellent material for making long bows.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.94158893591265,
+          41.79796357699122
+        ]
+      },
+      "properties": {
+        "name": "Eastern White Pine",
+        "notes": "Eastern White Pine\nhttps://www.nps.gov/places/vama-eastern-white-pine.htm\n\n<p><em><strong>Pinus strobus</strong></em></p> <p>As you face the parking area you will see an eastern white pine on the edge of the sidewalk to your right. This species is easily separated from other native pines because its needles grow in bundles of five, and have a pale, bluish color. When sailing ships ruled the seas, the British and American navies used white pine for their masts. Shipbuilders prized them for their straightness, height and strength. When growing in full sunlight as this one is, white pine bushes out; hence the nickname “cabbage pine.” This species is plagued by several pests, especially white pine blister rust (fungus) and the white pine weevil (insect).</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.94232225091359,
+          41.796433907343385
+        ]
+      },
+      "properties": {
+        "name": "Entrance Hall",
+        "notes": "Entrance Hall\nhttps://www.nps.gov/places/vama-entrance-hall.htm\n\n<p>A seventeenth-century Medici crest is located prominently over the grand fireplace clearly marking this as the home of a “merchant prince.” Cipollino (“onion stone”) and Carerra marble walls and floor, classical statues and throne chairs create an impressive introduction into the Vanderbilt’s home and served to showcase their status. During a party, this would have been a location of formal reception and refreshments. In contrast, stretched bear and tiger skin rugs, piled oriental carpets, large palm trees and cut flowers (all now absent), allowed the room to function most often as a comfortable Living Hall. After a tiring outdoor activity like golf, horseback riding or tennis, weekend guests could enjoy cocktails and doze lazily on stuffed sofas by a roaring fire. </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.94181317339333,
+          41.795734696359254
+        ]
+      },
+      "properties": {
+        "name": "Flowering Dogwood",
+        "notes": "Flowering Dogwood\nhttps://www.nps.gov/places/vama-flowering-dogwood.htm\n\n<p><strong><em>Cornus florida</em></strong></p> <p>Look on your right just a few feet further down the driveway for a small tree with elliptical leaves and scaly, “alligator hide” bark. If you visit in the spring, the beautiful white flowers of the flowering dogwood may be visible. The wood of this tree is very hard, and is used for tool handles, bobbins, mallets and golf club heads. The fruit and twigs provide food for deer, squirrels, skunks, rabbits and at least 86 species of birds. Dogwood is plagued by a disease called Anthracnose, which has killed many dogwood specimens in the wooded areas of the estate.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.94202584465948,
+          41.795014397181546
+        ]
+      },
+      "properties": {
+        "name": "Ginkgo",
+        "notes": "Ginkgo\nhttps://www.nps.gov/places/vama-ginkgo.htm\n\n<p><strong><em>Ginkgo biloba</em></strong></p> <p>Standing alone in the middle of the south lawn is an enormous tree with unusual fan shaped leaves. The age of this tree is unknown, but it is estimated to be about 190 years old. This is the largest ginkgo in North America! The ginkgo is native to China and was first introduced in America in 1764. It is popular as an ornamental due to its remarkable resistance to insects and disease. When the foul-smelling husk is removed the nut is roasted and considered a delicacy. Male and female flowers are borne on separate trees; this tree is a male and produces no fruit.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.94171197600316,
+          41.79837125433321
+        ]
+      },
+      "properties": {
+        "name": "Hackberry",
+        "notes": "Hackberry\nhttps://www.nps.gov/places/vama-hackberry.htm\n\n<p><em><strong>Celtis occidentalis</strong></em></p> <p>Continue toward the river to the Hackberry. Look for the corky, warty bark and the leaves with uneven bases. Many species of birds feed on the small, cherry-like fruit, including woodpeckers and cedar waxwings. The leaves may bear galls which seemingly don’t hurt the tree. The trees produce pea-sized berries that are edible, ripening in early September. Unlike most fruits, the berries are remarkably high in calories from fat, carbohydrates and protein, and these calories are easily digestible without any cooking or preparation. Native Americans like the Omaha ate the berries casually, while the Dakota Sioux pounded the berries fine, seeds and all, for use as a meat flavoring. The berries have little meat on them, and a hard seed within. There is a small edible nut within the seed.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.94192046174737,
+          41.797606346491406
+        ]
+      },
+      "properties": {
+        "name": "Honey Locust",
+        "notes": "Honey Locust\nhttps://www.nps.gov/places/vama-honey-locust.htm\n\n<p><strong><em>Gleditsia tricanthos</em></strong></p> <p>Now begin walking on the sidewalk toward the mansion. The first large tree on the right is a honey locust. This particular specimen is the largest in New York State and has been nominated for National Champion. Please watch out for the long thorns. A thornless variety has been developed and is often used as a shade tree. Male and female flowers are borne on separate trees. This one is female and produces an abundance of large pods that dry in October and fall throughout the winter. Honey locusts are legumes and are in the same family as peas and beans.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.94204384335454,
+          41.79684530233067
+        ]
+      },
+      "properties": {
+        "name": "Horse-chestnut",
+        "notes": "Horse-chestnut\nhttps://www.nps.gov/places/vama-horse-chestnut.htm\n\n<p><strong><em>Aesculus hippocastanum</em></strong></p> <p>Between the sugar maple and the edge of the ridge is a small tree with leaves arranged in a whorl of seven. If you are here in May or June, you may see the large white flowers in bloom. The horse-chestnut was introduced to North America many years ago from Greece and Albania. In Autumn the ground beneath is covered with nuts from this tree. The husks are green with many spines, but the nut itself is a shiny brown. The horse-chestnut is not a true chestnut and the nuts are inedible.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.94192483303428,
+          41.797133781796546
+        ]
+      },
+      "properties": {
+        "name": "Kentucky Coffee-Tree",
+        "notes": "Kentucky Coffee-Tree\nhttps://www.nps.gov/places/vama-kentucky-coffee-tree.htm\n\n<p><strong><em>Gymnocladus dioicus</em></strong></p> <p>Continue along the sidewalk towards the mansion as far as the fire hydrant. The handsome tree on your left is a native of Kentucky and Tennessee. The Kentucky coffee tree takes its name from the seeds which are found inside its’ large pods. The seeds resemble coffee beans and a bitter drink was once brewed from them (unroasted seeds and pods are toxic). This tree is one of the last trees on the property to leaf out in the spring which leads to many visitors asking if it’s dead.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.94216722496168,
+          41.79615999728643
+        ]
+      },
+      "properties": {
+        "name": "Littleleaf Linden",
+        "notes": "Littleleaf Linden\nhttps://www.nps.gov/places/vama-littleleaf-linden.htm\n\n<p><em><strong>Tilia cordata</strong></em></p> <p>The area to the south of the mansion is a showcase of imported tree specimens. As you walk along the driveway heading south past the mansion, on the right you will first encounter a Littleleaf linden. This tree is in the same family as the basswood we saw earlier. It is found from Britain to western Asia. The leaves are distinctly heart shaped. It is popular as a shade tree and an ornamental. It also does very well for bonsai. Prior to the advent of firearms, it was also commonly used for making shields (as referenced in Beowulf).</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.94221819342313,
+          41.79636183109456
+        ]
+      },
+      "properties": {
+        "name": "Mr. Vanderbilt's Office",
+        "notes": "Mr. Vanderbilt's Office\nhttps://www.nps.gov/places/vama-vanderbilt-office.htm\n\n<p>Frederick Vanderbilt used this space as his personal office and valued private refuge. The narrow doorway leads to a toilet room which links his office to his den. </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.94214099870315,
+          41.79787346239113
+        ]
+      },
+      "properties": {
+        "name": "Northern Red Oak",
+        "notes": "Northern Red Oak\nhttps://www.nps.gov/places/vama-northern-red-oak.htm\n\n<p><strong><em>Quercus rubra</em></strong></p> <p>Turning back towards the Visitor Center and walking south along the ridge, you will find a small Red Oak. It is a native of North America. This tree might grow to 100’ and live up to 400 years. It is the most common species of oak in the Northeastern U.S., after the closely related pin oak. The northern red oak is one of the most important oaks for timber production in North America. Quality red oak is of high value as lumber and veneer, while defective logs are used as firewood. Construction uses include flooring, veneer, interior trim and furniture. It is also used for railroad ties and fence posts.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.94166673164173,
+          41.798341349316885
+        ]
+      },
+      "properties": {
+        "name": "Northern White Cedar",
+        "notes": "Northern White Cedar\nhttps://www.nps.gov/places/vama-northern-white-cedar.htm\n\n<p><em><strong>Thuja occidentalis</strong></em></p> <p>Now turn back towards the Hudson River while staying well to the north of the Visitor Center until you reach a tree with a double trunk. Note the unusual foliage. Rather than leaves or needles, you will find small flattened scales. The thin and shreddy bark was once used by Native Americans to make rope or string. The wood is soft, light and very durable. It produces top-notch fence posts, boats, canoes and shingles. Commonly called “arborvitae” in the horticulture trade in the United States. Arborvitae or “tree of life” in Latin got its name due to the supposed medicinal properties of the sap, bark and twigs.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.94095943906419,
+          41.79780100960325
+        ]
+      },
+      "properties": {
+        "name": "Norway Spruce",
+        "notes": "Norway Spruce\nhttps://www.nps.gov/places/vama-norway-spruce.htm\n\n<p><em><strong>Picea abies</strong></em></p> <p>Crossing the road and to the left of the path to the parking lot is a Norway Spruce. This tree is native to Northern, Central and Eastern Europe. It has branchlets that typically hang downwards, and the largest cones of any spruce, which can grow to almost seven inches long. The Norway Spruce is widely planted for its wood. It is one of the most economically important coniferous species in Europe. It used as an ornamental tree in parks and gardens. It is probably best known for its use as a Christmas tree. Every Christmas, the Norwegian capital city, Oslo, provides the cities of London, Edinburgh and Washington D.C. with a Norway Spruce as their way of expressing their gratitude for the aid these countries gave during the Second World War.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.94214420802284,
+          41.79612867079279
+        ]
+      },
+      "properties": {
+        "name": "Purple Beech",
+        "notes": "Purple Beech\nhttps://www.nps.gov/places/vama-purple-beech.htm\n\n<p><strong><em>Fagus sylvatica cv. purpurea</em></strong></p> <p>The smooth skinned tree on your right is the purple beech, a variety of the European beech. The dark purple leaves give it a beautiful appearance, especially when the sun strikes it. Beech trees produce beech nuts which are used in Europe to fatten hogs and produce vegetable oil. This tree will have to live to 30 years old before it produces beech nuts. The word “beech” is very old and means “book.” The first printed bible was produced in the fifteenth century by Guttenberg on a printing press that used movable type carved from beechwood.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.94137365283709,
+          41.798324273706704
+        ]
+      },
+      "properties": {
+        "name": "Silver Maple",
+        "notes": "Silver Maple\nhttps://www.nps.gov/places/vama-silver-maple.htm\n\n<p><em><strong>Acer sachararinum</strong></em></p> <p>Walk towards the parking lot and as you reach the road turn left. About 70 feet ahead on the left side of the road stands a large Silver Maple. A close relative of the Sugar Maple which we will see later, it is identified by its five lobed, toothed leaves that are white on the underside. This species is native to the eastern and central United States and south-eastern Canada. It is one of the most common trees in the United States. It is often found along waterways and in wetlands, leading to the colloquial name “water maple.” The autumn color is less pronounced than in many maples, ending up a pale yellow, although some specimens can produce a more brilliant yellow and even orange and red colorations. It tends to color and drop its leaves earlier in autumn than other maples.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.94233193808152,
+          41.79693211685558
+        ]
+      },
+      "properties": {
+        "name": "Sugar Maple",
+        "notes": "Sugar Maple\nhttps://www.nps.gov/places/vama-sugar-maple.htm\n\n<p><em><strong>Acer Saccharum</strong></em></p> <p>To your right is a sugar maple. The sugar maple is the state tree of New York, and one of the most common trees in the state. It grows abundantly here on the estate. In fact, the tree growing along the ground in front of the Visitor Center is a sugar maple. That one might seem lazy as it lays there on the ground, but it’s a surviving branch from a very old sugar maple that’s been gone for decades. That branch had reached the ground and successfully re-rooted. An example of that same process can be seen on the sugar maple behind the one your looking at now. In early Spring throughout New York, New England and Canada, sugar maples are tapped for the sugary sap within. After long hours of boiling over wood fires most of the water evaporates, leaving the sweet maple syrup behind. Brightly colored in the fall, the leaves may be yellow, red, orange or gold. The buds are eaten by deer.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.94146314052834,
+          41.79748440035132
+        ]
+      },
+      "properties": {
+        "name": "Tamarack",
+        "notes": "Tamarack\nhttps://www.nps.gov/places/vama-tamarack.htm\n\n<p><em><strong>Larix larcina</strong></em></p> <p>Also, on the right side of the walk, if you look between the White Pine and the Eastern Hemlock you can see the Tamarack, commonly called the American larch. The Tamarack is a deciduous conifer. The needles are short light blue green, turning bright yellow before they fall in the autumn, leaving the shoots bare until the following spring. The cones are the smallest of any larch, only 1-2.3cm long; they are bright red, turning brown and opening to release the seeds when mature, 4-6 months after pollination. The wood is tough and durable, but also flexible in thin strips, and was used by the Algonquin people for making snowshoes and other products where toughness was required. It is also grown as an ornamental tree in gardens in cold regions. Several dwarf cultivars have been created, commonly used for bonsai.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.94231731897065,
+          41.796443780895835
+        ]
+      },
+      "properties": {
+        "name": "The Butler Describes a Visit",
+        "notes": "The Butler Describes a Visit\nhttps://www.nps.gov/places/vama-entrance-hall-2.htm\n\nThe butler, Alfred Martin, describes a visit to the mansion.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.94221948566035,
+          41.796307178647986
+        ]
+      },
+      "properties": {
+        "name": "The Den",
+        "notes": "The Den\nhttps://www.nps.gov/places/vama-den.htm\n\n<p>The Den was a place where men could lounge after dinner, drinking fine beverages out of snifters and smoking big blue clouds of tobacco. When no guests were in the home, both Mr. and Mrs. Vanderbilt relaxed in this room. More often than not, this Den would function like a family room does today. </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.94231559155547,
+          41.796595034314514
+        ]
+      },
+      "properties": {
+        "name": "The Dining Room",
+        "notes": "The Dining Room\nhttps://www.nps.gov/places/vama-dining-room.htm\n\n<p>When the Vanderbilts were at Hyde Park, the Dining Room was one of the more utilized rooms inside their mansion. It is one of the largest rooms in the house and mirrors the Living Room in size and shape. It would be one of the focal points for an evening’s gathering. Fine dining was a regular occurrence, along with more casual affairs depending on the number and type of guests. Based on the size of the table and its seating capacity, it’s assumed the largest gatherings were around eighteen people, including the Vanderbilts. Note the smaller table to the right, it was always set for four people, even if it were only Mr. and Mrs. Vanderbilt dining. Breakfast was more commonly served to the Vanderbilts and their guests in their suites on the second and third floors.   </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.94238962257636,
+          41.79383968911803
+        ]
+      },
+      "properties": {
+        "name": "The Gardens",
+        "notes": "The Gardens\nhttps://www.nps.gov/places/the-gardens.htm\n\n<p>During the four decades that Frederick and Louise Vanderbilt owned Hyde Park, from 1895 to 1938, nearly every structure on the property was replaced, with the exception of the Gardener’s Cottage and Tool House. Despite the extensive modifications to the structures, the organization and circulation of the estate remained quite similar. The enduring quality of the property was reinforced by the mature specimen trees planted by earlier owners, which by this time framed the core of the estate, preserving the picturesque style of the landscape.</p> <p>The Vanderbilts' modifications of the formal gardens were typical of late Gilded Age garden design. These gardens reflected the values of wealthy Americans who had benefited from the country’s rapid Western expansion and the application of new industrial technologies to the abundant natural resources of the vast country. Painters, sculptors, architects, and landscape architects encouraged their wealthy clients to envision America as the legitimate heir to the great cultural and political achievements of Classical Greece, Rome, and the Italian Renaissance. They turned to the design precedents of Classical and Renaissance antiquity as proper symbolic expressions of the achievements in science, commerce, industry, and democracy. During the late nineteenth and early twentieth centuries, technological improvements in transportation and greenhouse heating systems made it possible to import and maintain exotic plants, thereby increasing the palette for garden designers.</p> <p>Traveling abroad had become popular, which meant that clients were more receptive and enthusiastic about developing gardens with a European influence. Particularly influential was the Italian style of garden layout and design. The Vanderbilts traveled extensively both in Britain and Continental Europe and like many of their contemporaries were deeply impressed by the pleasure grounds and gardens they experienced. Back at Hyde Park, the Vanderbilts incorporated many of the design elements they had seen in Europe into their gardens.</p> <p>Landscape architect, architect, and artist Charles Platt, whom the Vanderbilts hired for a brief period, published his book, Italian Gardens in 1894, two years before the Vanderbilts purchased Hyde Park. In the book he set forth the design principles of Italian Renaissance and Baroque villas as the proper means of creating a setting of leisured elegance for the wealthy benefactors of the Industrial Revolution. Platt did not copy Italian villas; rather he sought to adapt them to American conditions of climate, topography, vegetation, and social use. The principal features of the Italian style advocated by Platt and many of his contemporaries included geometric patterning, axial spatial organization, and reliance on proportion and interconnection of parts by sight lines. While some designers firmly held to Downing’s principles, preferring “natural” lines as a counterpoint to what they saw as the harsh geometry of the city, other designers adhered to formal design principles, especially those evident in Italian gardens.</p> <p>The Vanderbilts, like many of their contemporaries, combined elements of both the picturesque or natural style and the European formal garden style at Hyde Park. They continued in the botanical traditions and preserved the romantic landscape of previous owners, but modified the existing formal gardens to reflect the era's taste for gardens in the Italian style.</p> <p>Over a period from 1901 to 1934 four noted landscape architects and horticulturists, including Charles A. Platt, James L. Greenleaf, Thomas Meehan and Sons, and Robert B. Cridland, all developed plans and oversaw construction on the formal gardens of Hyde Park. Three of these design professionals, Greenleaf, Meehan, and Cridland, altered various areas of the formal gardens. The end result was a complex of gardens that, though reasonably consistent in style by area, was the product of at least four different designers.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.94237604377739,
+          41.7965365151432
+        ]
+      },
+      "properties": {
+        "name": "The Grand Staircase",
+        "notes": "The Grand Staircase\nhttps://www.nps.gov/places/vama-grand-staircase.htm\n\n<p>One ascends thirty-nine steps of the staircase, climbing 22 feet to reach the second floor. The four-inch rise of each step was a design feature that ensured the Vanderbilts and their guests could navigate the flight with ease and poise—making grand entrances and exits, without tripping over their elaborate costuming. </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.942311670765,
+          41.79627257782541
+        ]
+      },
+      "properties": {
+        "name": "The Living Room",
+        "notes": "The Living Room\nhttps://www.nps.gov/places/vama-living-room.htm\n\n<p>The Vanderbilts used their living room almost exclusively as an entertainment space. This is not a ball room and the house doesn’t have one. This was where Mrs. Vanderbilt and her acquaintances convened for more casual conversation and coffee. Their male counterparts would later join them here for cards, charades, music, and more relaxed dialogue than what would typically take place at dinner. Parties held on Saturday nights included dancing, as well. On these occasions, the Vanderbilts would hire a band from New York City, invite additional guests from the neighboring estates, and clear rugs and furniture from the center of the room so that their guests could dance the night away.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.94181361026118,
+          41.79787400729731
+        ]
+      },
+      "properties": {
+        "name": "The Pavilion at Hyde Park",
+        "notes": "The Pavilion at Hyde Park\nhttps://www.nps.gov/places/the-pavilion-at-hyde-park.htm\n\n<p>Sporting architecture was a unique feature of country house life in America. Playhouses, as they were generally known, were an entirely American tradition—the great houses of Europe have no equivalent. Typically, a playhouse might include a squash or tennis court, swimming pool, bowling alley, gymnasium, billiard room, or sauna. The playhouse reflects the enthusiasm for sport in America in the late nineteenth century. Embraced by the wealthy class, “manly sport” was seen as a means for combating the unhealthy environment of an office. The harder one worked, the more urgently he needed exercise. Architectural critics Harry Desmond and Herbert Croly observed in 1903 in their book <em>Stately Homes in America</em>:</p> <p style=\"margin-left: 40px;\">We Americans are too officious about our diversions, and the appropriate habitation for a contemporary house-party, far from consisting of a series of well-fashioned rooms, would consist rather of a casino with billiard and card tables, bowling-alleys, a tank, and a tennis-court as the chief items of equipment. The office and the play room symbolize the two characteristic and natural extremes of American life.</p> <p><em>Casino </em>was a term borrowed from the Renaissance meaning “pleasure house” and often applied to the playhouse. These buildings also included living rooms, bedrooms, dressing rooms, baths, kitchens, and servant quarters. McKim, Mead and White were the leading architects of such buildings and designed the sporting pavilion for the Vanderbilts at Hyde Park.</p> <p>Though modest compared to playhouses for other stately homes, the Vanderbilts’ sporting pavilion, called simply “The Pavilion,” was conceived in the same tradition. There was no accommodation for indoor sport here, but the location in proximity to the grass tennis lawn outdoors and a shower room denote the building’s intended purpose. Even the interior decoration symbolically perpetuated the idea of a sporting life.</p> <p>The Pavilion was the first new structure erected at Hyde Park shortly after the Vanderbilts purchased the property in May 1895. Design and construction of the new mansion would take nearly four years. But American millionaires were not known for their patience. Frederick and Louise’s desire to make use of the property immediately and observe progress on the estate necessitated the need for a livable space. Thus, the Pavilion was designed quickly, and built in just sixty-six days.</p> <p>The Pavilion is a compact, classical building that resides solidly on the landscape. It is composed of symmetrical east and west facades with centered projecting porticos supported by Doric columns. An open veranda was placed on the south elevation to balance the north and south wings. Later, by 1909, the veranda was enclosed with glazed panels to create a sun room. At the top of the Pavilion, the four gabled sides are united by a shingled attic surmounted by a balustrade. The exterior walls are finished in a rough course plaster called roughcast or pebbledash (lime mixed with cement, sand, small shells, and pebbles) and received a surface coating of limewash, a mixture of lime putty and water used as an architectural finish throughout the world for thousands of years.</p> <p>Inside, a two-story hall is paneled in oak at the first story level and surrounded by a second story open balcony. A large fireplace dominates the center of the south wall. A large 32-light brass chandelier is suspended from the ceiling beneath a circular laylight. Large mounted trophies of elk, buffalo and a ram decorate the walls. The room has the overall feel of the gentlemen’s lodges of the late nineteenth century. Surrounding the central hall, the first floor included a living room, bedroom, kitchen, scullery, pantry, a bath room, and shower room. A staircase hall on the north side of the hall provided access to six bedrooms (three of these for servants), a linen closet, a bath room, and lavatory. An additional bath room, likely for use by the servants, was located in the basement.</p> <p>Drawings for the Pavilion were completed in August 1895. Work began in September and was completed on November 24. An uncertain description of the Pavilion was published in the <em>Poughkeepsie Sunday Courier</em> on July 19, 1986:</p> <p style=\"margin-left: 40px;\">A bachelor’s lodge has been constructed, built on the site of the old carriage-house of which the general outlines have been carefully followed. The broad driveway of the carriage-house has been turned into the entrance hall of the Lodge. This contains an immense fireplace, and is to be used as the general assembly room, and lounging place.</p> <p style=\"margin-left: 40px;\">The furnishings of the lodge show traces of a feminine hand. The entrance hall is nearly covered with a large and beautiful rug. One may judge the size of the room when he learns that upon the rug stands a dining table ,a writing table, and a completely equipped card table. Around the room are scattered every variety of comfortable couch and lounging-chairs, making the hall the beau ideal of a bachelor’s headquarters. Opening off this hall on the north are small rooms, just the depth of the old stalls. On the north is the butler’s pantry, and beyond is the kitchen. Besides these there are on this floor several bath rooms, with eight curtain shower baths. The purpose of this building being to furnish free and easy accommodations for bachelor friends of Mr. Vanderbilt, the bath rooms are for their refreshment on coming in from golf or tennis, the kitchen appointments for the concoction of game suppers, and the main hall for smoking parties and story telling and gossip so dear to the masculine heart.</p> <p style=\"margin-left: 40px;\">There will no doubt be much merriment in this snug little pavilion in the time to come, but at present it wears the aspect of quiet domesticity, since Mrs. Vanderbilt has taken up her residence there in the dismantled condition of the Hall. Her rooms on the second floor, thought small, are brightened by a variety of exquisite feminine trifles. Carpets in plain color cover the floors, and the walls are beautifully decorated. A novel arrangement in curtains drapes the doors. It has always been a problem how to retain in a room the doors, which on often wants to close and still have the graceful effect of portieres. This is managed in the Vanderbilt cottage by a jointed curtain pole, which being fastened to the door itself opens and shuts with it. Drapery on another pole above the door conceals the upper moulding, and gives a dainty finish to the whole. On the other side of the door is hung another curtain so that when the door is open you still have the draped doorway. As the curtains are of the softest and richest kind, the effect is very charming.</p> <p style=\"margin-left: 40px;\">A gallery surrounds the large central hall, and from it opens the rooms in the second story. Above this one ascends by a narrow stairway to the roof, and here you step out through a veritable hatchway on what seems to be a veritable deck with gunwhale, canvas floor and all complete. It is easy to imagine a merry party of men gathered up here among the tops of the trees on a summer night for a comfortable smoke before turning in.</p> <p>The Vanderbilts utilized the Pavilion as their primary residence at Hyde Park until April of 1899. At the end of that month, furniture was moved into the completed mansion, where on May 12, 1899, the Vanderbilts entertained their first house party. From that time, the Pavilion functioned as intended, as a playhouse and bachelors lodge. The Vanderbilts stayed at the Pavilion on occasion in winter when the mansion was “put to bed” for the season.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.94237067935968,
+          41.79631926479047
+        ]
+      },
+      "properties": {
+        "name": "The Reception Room",
+        "notes": "The Reception Room\nhttps://www.nps.gov/places/vama-reception.htm\n\nThe Reception Room is an ornately staged room fashioned in the style of an eighteenth-century French Salon. It was meant for entertaining small groups of Mrs. Vanderbilt’s friends and formally welcoming very special guests.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.94280375187557,
+          41.79668306432135
+        ]
+      },
+      "properties": {
+        "name": "Tulip Tree",
+        "notes": "Tulip Tree\nhttps://www.nps.gov/places/vama-tulip-tree.htm\n\n<p><em><strong>Liriodendron tulipifera</strong></em></p> <p>Moving along the ridge toward the river side of the mansion look for the large tree with 4-lobed leaves. The tulip tree or yellow poplar as it is sometimes called is named for its tulip like flowers. It typically blooms in late spring to early summer and produces a yellow and green tulip shaped blossom. This species is the tallest and one of the largest eastern hardwoods. It was a favorite of President Franklin Delano Roosevelt who also had them on his estate just two miles south of here. The tulip tree is the only tree of its kind in North America but has an almost identical relative in China.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.94198984726935,
+          41.79586800658368
+        ]
+      },
+      "properties": {
+        "name": "Umbrella Magnolia",
+        "notes": "Umbrella Magnolia\nhttps://www.nps.gov/places/vama-umbrella-magnolia.htm\n\n<p><strong><em>Magnolia tripetala</em></strong></p> <p>Just off the circular lawn in front of the mansion heading south toward the formal gardens is a cluster of trees. Look for the tree with the large leaves. This is the umbrella magnolia. The tree gets its name from the large leaves which can give the appearance of a parasol. The flowers are large and appear in the spring, with six to nine creamy-white petals and a large red style, which in late summer to early fall develops into a scarlet fruit. </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.94278758964218,
+          41.79647674266425
+        ]
+      },
+      "properties": {
+        "name": "Vanderbilt Mansion",
+        "notes": "Vanderbilt Mansion\nhttps://www.nps.gov/places/vanderbilt-mansion.htm\n\n<p>The Vanderbilt Mansion is a home built expressly for the aristocratic lifestyle for a family whose name is the very definition of wealth and privilege. The children of William Henry Vanderbilt—at one time the wealthiest man in America—were the most prolific home builders of their era. The houses, often overbearing in their display of opulence, are a stark contrast to the stately house architects McKim, Mead & White designed for Frederick and Louise Vanderbilt at Hyde Park—an understated masterpiece of American design.</p> <p>By the time Frederick Vanderbilt purchased Hyde Park in 1895, it already possessed an appealing and illustrious history. Prior to Vanderbilt ownership, it was home to Dr. Samuel Bard (physician to George Washington during the American Revolution), David Hosack, the noted horticulturist, and the Langdon family, descendants of John Jacob Astor.</p> <p>Though members of elite, wealthy society, Frederick and Louise Vanderbilt lived graciously without spectacle. Hyde Park was a seasonal residence, one of a portfolio of homes the Vanderbilts owned in New York City, Bar Harbor, Newport, and the Adirondacks. Typical of the grand estates along the Hudson River, life at Hyde Park was rooted in the pleasures of the outdoors and genteel agrarian pursuits. House parties were leisurely and intimate, marked by games of golf or lawn tennis, carriage rides, and tea at neighboring estates. At Hyde Park, an extensive complex of greenhouses, formal gardens, and a model farm supplied flowers, produce, meats, and dairy for the Vanderbilt table wherever they were in residence.</p> <p>The Vanderbilts’ selection of McKim, Mead & White, the leading architectural firm at the turn-of-the-century, is not surprising. The firm had designed numerous residences for New York society, but the house they design for Henry Villard on Madison Avenue in New York (1882-1886) marked a new era with emphasis on explicit high classicism—a style that would come to represent the extravagance and success of wealthy American capitalists. As the lead partner for the Vanderbilt commission, McKim’s, sober academic styling is evident at Hyde Park. Buildings by his architectural partner, Stanford White, displayed more relaxed, colorful interpretations of classicism.</p> <p>The architectural lines of new house built for the Vanderbilts was derived from the 1847 Langdon mansion that preceded it. Both houses exhibit the same classical concepts of simple blocks articulated by pilasters and a semicircular portico on the river facade. The new mansion, distinguished by its sturdy classicism, is grand, but not overwrought—a testament to McKim’s reserved use of classical vocabulary.</p> <p>The formal rooms of the ground floor are arranged in a concise, classical plan. A large living room and corresponding dining room accentuate the north and south end of the transverse axis. A series of subsidiary rooms—the reception room, the den, Mr. Vanderbilt’s office, and the grand staircase—are arranged around an elegant elliptical hall that provides access to the great semicircular portico overlooking the Hudson River and Catskill Mountains.</p> <p>Though modest compared to the grand houses of Vanderbilt’s siblings, the Hyde Park interiors spared no expense and are richly appointed with exotic wood paneling, imported marble, lush velvets, French tapestries, and, as was the custom, antique building components salvaged from the great houses of Europe.</p> <p>In the construction of Gilded Age country houses, prominent architects like McKim, Mead & White, generally collaborated with an interior decorator. The curious distinction of Hyde Park is that at least four decorating firms were independently and simultaneously at work on the design and execution of the interiors under the general supervision of McKim and the Vanderbilts—Georges Glaenzer, Herter Brothers, A. H. Davenport, and Ogden Codman. A further distinction is the rare overall carte blanche seemingly given McKim as chief architect on the design and furnishing of the ground floor reception rooms.</p> <p>Herter Brothers would carry out the architectural decoration of the entrance vestibule, the elliptical hall and the dining room and A. H. Davenport, the living room. Ogden Codman would design Louise Vanderbilt’s suite, and Georges Glaenzer would design Mr. Vanderbilt’s bedroom, his office, the den, and the reception room.</p> <p>Mr. Vanderbilt wrote the firm placing the sum of $50,000 at the disposal of Stanford White to purchase articles of furniture and architectural salvage obtained in Europe. White’s acquisitions were guided by McKim’s wishes, a rare illustration of his aesthetic judgement, as well as a reflection of White’s effective decorating eye. McKim identified key furnishings for the hall, staircase, reception room, lobbies, dining room, living room and porticoes. In execution, the concept was followed with remarkable diligence.</p> <p>The local paper noted in mid-April 1899 that “Mr. and Mrs. Vanderbilt will shortly take up their residence in the handsome mansion.” On May 14, 1899, the paper reported that “Mr. and Mrs. F. W. Vanderbilt entertained a large party of guests who came by special train at their mansion on Friday last.\" Most likely, this was a reference to the Vanderbilts’ first house party at Hyde Park.</p> <p>Despite their overall delight with Hyde Park, the Vanderbilts were not entirely pleased with certain aspects of its design. They consulted interior decorators, including Jules Allard et Fils, about possible alterations, but as Frederick Vanderbilt explained in 1906, “so far the problem has not been solved to our satisfaction, and I fear will not be this time.” Rather than engaging McKim, Mead and White to undertake renovations, the Vanderbilts turned to another prominent New York architect, Whitney Warren, who had recently designed the New York Yacht Club and was then at work on Grand Central Terminal. Warren developed a scheme that would transform the halls on the first and second floors of the mansion and alter the living room. This was the only major change the Vanderbilts made to the house.</p> <p>Louise Vanderbilt died in 1926. In the years that followed, Frederick lived quietly at Hyde Park, maintaining the house much as it was left after Louise’s passing. Frederick died in 1938. Without children of his own, he left the house to Louise’s niece, Margaret Van Alen. At the suggestion of Vanderbilt’s neighbor, President Franklin D. Roosevelt, Van Alen conveyed the house and furnishings along with 200 acres to the United States government. The house entered the National Park Service and was open to the public in 1940. It survives today in a remarkable state of preservation.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.94198483475974,
+          41.7944571884779
+        ]
+      },
+      "properties": {
+        "name": "Weeping Beech",
+        "notes": "Weeping Beech\nhttps://www.nps.gov/places/vama-weeping-beech.htm\n\n<p><em><strong>Fagus sylvatica cv. pendula</strong></em></p> <p>Continue south across the lawn away from the mansion and just before reaching the formal garden you’ll see another European beech tree. This one will stand out due to its sweeping pendulous branches. When the branches reach the ground, they often start to grow roots there. In the case of this tree the trunk is not visible because so many of the branches have reached down to meet the earth.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9422043520008,
+          41.7964458834808
+        ]
+      },
+      "properties": {
+        "name": "Welcome to the Vanderbilt Mansion",
+        "notes": "Welcome to the Vanderbilt Mansion\nhttps://www.nps.gov/places/vama-welcome-to-the-vanderbilt-mansion.htm\n\n<p>On behalf of the National Park Service, welcome to Vanderbilt Mansion National Historic Site. Before you stands the only Gilded Age mansion in the National Park Service, “Hyde Park.” This was the country place of Frederick and Louise Vanderbilt, used primarily in the spring and fall. Built over 26 months between 1896 to 1898, at the cost of $660,000, it is one of the best-preserved examples of a Gilded Age home in the US. The approx. 45,000 square-foot building consists of 54 rooms and six floors. It is designed in the Beaux-arts, neo-classical style and was constructed using innovative techniques, particularly applied skyscraper technology. It is supported by steel beams and cement, with an exterior made of Indiana limestone.    </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.94140011323027,
+          41.79807469839662
+        ]
+      },
+      "properties": {
+        "name": "White Fir",
+        "notes": "White Fir\nhttps://www.nps.gov/places/vama-white-fir.htm\n\n<p><em><strong>Abies concolor</strong></em></p> <p>Turning back to face the Visitor Center, look to your right about twenty feet to the right of the walk for the large White Fir. This tree is native to the mountains of western North America. This large evergreen coniferous tree grows best in the central Sierra Nevada of California, where the record specimen was recorded as 246 feet tall and measured 183 inches in diameter in Yosemite National Park. White fir is a preferred construction species because of its nail-holding ability, lightness in weight and resistance to splitting. It is also popular as a Christmas tree owing to its soft needles and excellent needle retention.</p>",
+        "icon": "red-pin-down.png"
+      }
+    }
+  ]
+}

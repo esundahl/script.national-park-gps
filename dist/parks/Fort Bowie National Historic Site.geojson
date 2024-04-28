@@ -1,0 +1,80 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.44831848144531,
+          32.146728515625
+        ]
+      },
+      "properties": {
+        "name": "Fort Bowie Cemetery",
+        "notes": "Fort Bowie Cemetery\nhttps://www.nps.gov/places/cemetery.htm\n\n<h2>History</h2> <br /> The Fort Bowie Cemetery was established before the fort and remained active after the fort was abandoned in October 1894. The first burials were three California Column privates killed by Apaches about one month before the fort's establishment. The final burial was a murdered miner residing in one of the old officer's quarters about two years after the fort's closure. Rotation of military units, heavy campaigning, and years of relative peace are represented by those lying within its picket boundaries.<br /> <br /> Originally the cemetery was not enclosed, enabling the post horse and cattle herds to damage headboards and graves as they grazed the area. Sometime between 1870 and mid- 1878 the cemetery was enclosed by a four-foot-high adobe wall erected on a rock foundation. With this improvement, the cemetery was kept in good order until 1881 when it was reported the walls were crumbling and the gates needed repair. The cemetery continued to deteriorate, and by 1884 it was reported that the gates were gone, and livestock could once again invade grave sites. After Major Eugene Beaumont, post commander, requisitioned lumber for a picket fence, it was constructed in 1885, doubling the size of the existing cemetery. New headboards were replaced with marble head and foot stones quite like the ones in use today. At the time of the fort closure in 1894, the original portion of the cemetery was nearly full and may have contained 112 graves.  <h2>Preservation Efforts</h2> <br /> When the National Park Service acquired the cemetery in 1964, as part of Fort Bowie National Historic Site, there were still two original headboards remaining. The inscription on both had completely weathered away and one of them was split. These headboards were removed, used as patterns for the existing markers, and then sent to Western Archaeological Center in Tucson for treatment and storage. The inscription on the replacement headboard for O.O. Spence is based on an historic photograph taken in 1893 by Owen Wister. Another historic photograph provided inscription information for Milton Sage, Pedro Valdez, and Julian Aqueira. Inscriptions for the rest of the headboards are based upon written descriptions provided by newspaper reporter Charles F. Lummis who visited the cemetery in April 1886. It is thought that between 23 and 33 bodies remain.<br /> <br /> In 2011, the cemetery was expanded to the correct size that it was between 1884-1894, and a picket fence was constructed. Historic photographs were used as a guide to not only show the fence's appearance, but also the construction. The size of today's lumber does not match the size of lumber in the 1880's, so each piece was hand cut for accuracy. Square cut nails of the correct size were also used in the expansion project to match what was used historically.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Fort Bowie Ruins Tour- Stop 3",
+        "notes": "Fort Bowie Ruins Tour- Stop 3\nhttps://www.nps.gov/places/fort-bowie-ruins-tour-stop-3.htm\n\nThe corrals at Fort Bowie were built to enclose the quartermaster’s animals, primarily livestock, as well as cavalry horses. Originally built of timber, adobe walls were first added in 1870. Carpenter shops, blacksmith shops, farrier and saddle rooms, and granaries were also located within the corrals.<br /> <br /> It was the responsibility of the cavalry to care for their horses. This included regular stable duties, as well as feeding and grooming their horses. Horses were utilized for patrolling, or scouting as it was commonly termed. Scouting parties could be out in the field for periods of days or weeks. In southwest, including Arizona, the cavalry was routinely engaged in extended scouts of two to three hundred miles.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.43537139892578,
+          32.144771575927734
+        ]
+      },
+      "properties": {
+        "name": "Fort Bowie Ruins Tour- Stop 4",
+        "notes": "Fort Bowie Ruins Tour- Stop 4\nhttps://www.nps.gov/places/fort-bowie-ruins-tour-stop-4.htm\n\nThe cavalry barracks and mess hall provided accommodations for the cavalrymen stationed at Fort Bowie. During the fort’s operation, troops from 7 cavalry units saw duty at this post.<br /> <br /> First U.S. Cavalry 1869-71; 1881-82<br /> Second U.S. Cavalry 1890-94<br /> Third U.S. Cavalry 1870-71<br /> Fourth U.S. Cavalry 1884-90<br /> Fifth U.S. Cavalry 1872-75<br /> Sixth U.S. Cavalry 1875-85<br /> Eight U.S. Cavalry 1869-70<br /> <br /> Cavalrymen often spent time away from the post as they scouted for and pursued the Chiricahua Apache, and the employment of Apache scouts was instrumental to the Cavalry’s success in this area. The recruitment of Indian Scouts was first authorized in 1866. Some scouts were hired for their services, while others enlisted with the U.S. Army. Enlisted scouts received monthly wages and a were issued uniforms.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.43557739257812,
+          32.143436431884766
+        ]
+      },
+      "properties": {
+        "name": "Fort Bowie Ruins Tour- Stop 5",
+        "notes": "Fort Bowie Ruins Tour- Stop 5\nhttps://www.nps.gov/places/fort-bowie-ruins-tour-stop-5.htm\n\nDuring the 32 years that Fort Bowie was an active fort, it saw many different commanding officers rotate through the post. The first commanding officer to live in this house was Major Eugene B. Beaumont, an officer with the 4<sup>th</sup> U.S Cavalry. <br /> <br /> Major Beaumont was instrumental in securing funds and support for updates and improvements on the post. Under his command, the fort saw new buildings constructed, such as the new hospital, and an improvement to the water system. A steam engine and ice machine were also installed. <br /> <br /> This commanding officer’s quarters was under construction upon his arrival. Major Beaumont, who was a student of architecture, made substantial changes to the original design plan.  He eliminated aspects that were strictly ornamental, expensive, and time consuming to construct. The plans for two mansard towers were deleted, the diamond and circular windows were replaced with standard rectangles, and the house was partitioned to allow two officers to occupy the home.<br /> <br /> Major Beaumont was the commanding officer at Fort Bowie until 1888. He soon after retired from the Army in 1892.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.43494415283203,
+          32.142723083496094
+        ]
+      },
+      "properties": {
+        "name": "Fort Bowie Ruins Tour- Stop 6",
+        "notes": "Fort Bowie Ruins Tour- Stop 6\nhttps://www.nps.gov/places/fort-bowie-ruins-tour-stop-6.htm\n\nThis hospital was one of the last buildings constructed at Fort Bowie. The original hospital was located on the opposite side of the post and was plagued with leaking roofs and structural problems. Plans and money for a new hospital were approved in 1887, though work didn’t begin until early 1889.<br /> <br /> Once finished, this new hospital proved to be a great improvement over the previous building. The medical staff provided treatment here for military personnel, their families, and members of the local community.  ",
+        "icon": "red-pin-down.png"
+      }
+    }
+  ]
+}

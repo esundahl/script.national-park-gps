@@ -1,0 +1,245 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.008009,
+          38.801542
+        ]
+      },
+      "properties": {
+        "name": "Oxon Hill Bathroom Facilities",
+        "notes": "Oxon Hill Bathroom Facilities\nhttps://www.nps.gov/places/000/oxon-hill-bathroom-facilities.htm\n\nIn 1967, the property opened as a National Park Service site as part of Oxon Cove Park. Since then, new structures have been added, and preservation of the historic buildings has been ongoing.<br /> <br /> The bathroom was built in 1980. It has a women's and men's room. There is an accessible stall, lowered sink and also baby changing station in both rooms. The facility is open during the farm hours, 9:00 am to 4:30 pm. This is the only public restroom in the park.  <br /> A water fountain is attached to the wall between the entrances to the bathrooms doors.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.007622,
+          38.802141
+        ]
+      },
+      "properties": {
+        "name": "Oxon Hill Brick Stable",
+        "notes": "Oxon Hill Brick Stable\nhttps://www.nps.gov/places/000/oxon-hill-brick-stable.htm\n\nDeButts era, one of the three originial buildings on site.<br /> <br /> The Brick Stable is a central historic feature of the farm and dates from around 1830. The design is similar to ones used in mid-Atlantic domestic buildings of the time.  In 1832, the Debutts family owned one milk cow, one heifer, 4 yearling and, 2 mules. The stable was their shelter. Today the stable is used to shelter the draft horses when they are sick or during severe weather conditions.<br />  ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.008162,
+          38.802079
+        ]
+      },
+      "properties": {
+        "name": "Oxon Hill Chicken Coop",
+        "notes": "Oxon Hill Chicken Coop\nhttps://www.nps.gov/places/000/oxon-hill-chicken-coop.htm\n\nThe chicken coop was added to the farm in 1991. It houses the park's chickens, the flock varies in size but usually has about 10 hens and a rooster or two. The breeds also vary, but usually we have some Rhode Island Reds, White Leghorns, Australorps, Wyandottes, Orpingtons, Barred Rock, etc.  ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.005251,
+          38.801547
+        ]
+      },
+      "properties": {
+        "name": "Oxon Hill Dairy Barn",
+        "notes": "Oxon Hill Dairy Barn\nhttps://www.nps.gov/places/000/oxon-hill-dairy-barn.htm\n\nThe barn was built in 1980, which replaced the original Goddard Croft era barn that was built in the 1940s. It provides shelter for small herd of cows at the park. The barn also is where the cow milking program takes place.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0090157494,
+          38.8022566672
+        ]
+      },
+      "properties": {
+        "name": "Oxon Hill Farm",
+        "notes": "Oxon Hill Farm\nhttps://www.nps.gov/places/000/oxon-hill-farm.htm\n\n<p>The diverse history of Maryland and our national heritage can be experienced at Oxon Cove Park. Explore how the park evolved from a plantation home during the War of 1812, to a hospital farm, to the park you can visit today. Through hands-on programs and other activities, you can experience farm life and the connections Americans have to the origins of their food.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.00380682945251,
+          38.80204223428939
+        ]
+      },
+      "properties": {
+        "name": "Oxon Hill Farm Picnic Area",
+        "notes": "Oxon Hill Farm Picnic Area\nhttps://www.nps.gov/places/oxon-hill-farm-picnic-area.htm\n\nBy the entrance and main parking lot at Oxon Cove Park is a first-come-first-serve picnic area. This area has many picnic tables, grills, and trash cans for visitor use. It is a great place to relax and eat before or after your visit to Oxon Hill Farm. <br /> <br /> Please be respectful and clean up after yourselves. Trash cans and hot coal receptacles are available. ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.00785887730925,
+          38.80198028356196
+        ]
+      },
+      "properties": {
+        "name": "Oxon Hill Farm Windmill",
+        "notes": "Oxon Hill Farm Windmill\nhttps://www.nps.gov/places/000/oxon-hill-farm-windmill.htm\n\nThe windmill was built in 1970, to pump water to the duck pond. The pump no longer works, the windmill still spins with the wind.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.009135,
+          38.801917
+        ]
+      },
+      "properties": {
+        "name": "Oxon Hill Goat - Sheep Pen",
+        "notes": "Oxon Hill Goat - Sheep Pen\nhttps://www.nps.gov/places/000/oxon-hill-goat-sheep-pen.htm\n\nIn 1967, the property opened as a National Park Service site, as part of the Oxon Cove Park. Since then, new structures have been added, and preservations of the historic buildings has been ongoing. In 2003, the park was listed on the National Register of Historic Places.<br /> <br /> The goat and sheep pen was built in 1980, to house the goats and sheep. ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.00754,
+          38.801934
+        ]
+      },
+      "properties": {
+        "name": "Oxon Hill Hay Barn",
+        "notes": "Oxon Hill Hay Barn\nhttps://www.nps.gov/places/000/oxon-hill-hay-barn.htm\n\nGodding Croft era building<br /> <br /> The hay barn dates from the 1940s, and is used to keep the straw and hay dry. Inside has two functional storage platforms, one for straw bedding and one for hay forage.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.00871257085798,
+          38.80217173997617
+        ]
+      },
+      "properties": {
+        "name": "Oxon Hill Hexagonal Outbuilding",
+        "notes": "Oxon Hill Hexagonal Outbuilding\nhttps://www.nps.gov/places/000/oxon-hill-hexagonal-outbuilding.htm\n\nThe Hexagonal Outbuilding (1900) was a part of the Godding Croft era, 1891 to 1961. Saint Elizabeths Hospital owned the property and used to as a therapeutic farm. Patients lived and worked at Godding Croft, growing food products for the main institution while receiving therapeutic treatment in an agricultural setting.  <br /> <br /> The Hexagonal Outbuilding, may have been used as a milk house. A milk house is where milk could be handled, cooled, and processed. The milk would sit in shallow pans for about ten hours until the cream rose to the surface. Once the cream separated, it could be taken to the kitchen to be turned into butter, bottled, or made into cheese. But the exact use of the building is unknown. <br /> <br /> Today the Outbuilding serves as a storage shed.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.008338,
+          38.802744
+        ]
+      },
+      "properties": {
+        "name": "Oxon Hill Hog-House",
+        "notes": "Oxon Hill Hog-House\nhttps://www.nps.gov/places/000/oxon-hill-hog-house.htm\n\nNational Park Service era building.<br /> <br /> The hog house has under gone several rebuilds and renovation over the years. First added in 1973, rebuilt in 1998, and renovated in 2019 getting a new roof and few new boards.<br /> <br /> The hog house shelters the park's pigs. The adjacent area has a pond for the pigs to wallow in. ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0092098,
+          38.8024012
+        ]
+      },
+      "properties": {
+        "name": "Oxon Hill Mount Welby",
+        "notes": "Oxon Hill Mount Welby\nhttps://www.nps.gov/places/000/oxon-hill-mount-welby.htm\n\nThe farmhouse, known as Mount Welby, is the oldest building on the farm, dating to around 1811. <br /> <br /> During the War of 1812, Mary DeButts and her husband Samuel lived at the home. The war was especially hard for the DeButts; unable to access English banks and markets, the British sympathizers (Samuel was from Ireland, Mary from England) struggled to keep their farm. When the British navigated up the Potomac in late summer of 1814, they sailed past Mount Welby; the DeButts later found three Congreve rockets near their home.  <br /> <br /> Today, it is used as the Park's Administrative offices.  <br /> <br />  ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.01572691110945,
+          38.804481499345975
+        ]
+      },
+      "properties": {
+        "name": "Oxon Hill Oxon Cove",
+        "notes": "Oxon Hill Oxon Cove\nhttps://www.nps.gov/places/000/oxon-hill-oxon-cove.htm\n\nOxon Cove is located on the Western shore of Prince George’s County. This is an area of broad Potomac River floodplain and high upland terrace. Elevation can range from less than 10ft above main sea level to nearly 200 ft. The upland terrace is divided by drainages that descend to the floodplain. The flood plain is crossed by Oxon Run. It was originally called St. Thomas Bay until the land was acquired by the DeButts.  ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.016071,
+          38.804488
+        ]
+      },
+      "properties": {
+        "name": "Oxon Hill Oxon Cove Trailhead",
+        "notes": "Oxon Hill Oxon Cove Trailhead\nhttps://www.nps.gov/places/000/oxon-hill-oxon-cove-trailhead.htm\n\nThe Oxon Cove Trailhead is located at the lower area of Oxon Hill Farm. The Hiker-Biker Trail, which runs from the farm parking lot to the Oxon Cove Park boundary on the Maryland-Washington border. It is part of the Potomac Heritage National Scenic Trail.  In fact, at the border you are at the northern terminus of the Southern Maryland Potomac Heritage Trail Bicycling Route. <br /> <br /> It is open to pedestrians and bicyclists, and has paved surface and moderate hills.<br /> <br />  ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.008556,
+          38.802523
+        ]
+      },
+      "properties": {
+        "name": "Oxon Hill Root Cellar",
+        "notes": "Oxon Hill Root Cellar\nhttps://www.nps.gov/places/000/oxon-hill-root-cellar.htm\n\nBuilt from 1800-1830, brick structures were the prominent structures on the farm. Anchors of this self-contained community, the brick buildings were a sign of wealth to be handed down from generation to generation.  <br /> <br /> The Root Cellar is one of the original buildings built by the DeButts Family. Built in 1830 it was built partially underground, to keep its contents cool. Before refrigeration, root cellars stored starchy vegetables that could last over the winter months without spoiling.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.005251,
+          38.801664
+        ]
+      },
+      "properties": {
+        "name": "Oxon Hill Silo",
+        "notes": "Oxon Hill Silo\nhttps://www.nps.gov/places/000/oxon-hill-silo.htm\n\nThe Silo is a Godding Croft era building. Godding Croft was the name given to the property under the ownership by Saint Elizabeths Hospital. Saint Elizabeths Hospital was established as, and still is, the only national public health service hospital solely concerned with the recovery of the mentally ill. <br /> <br /> Built in 1940 to store food over winter time for the livestock. This particular silo is made of glazed tiles which was typical material used for constructing utilitarian structures during this period of time.",
+        "icon": "red-pin-down.png"
+      }
+    }
+  ]
+}

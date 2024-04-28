@@ -1,0 +1,185 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.85809326171875,
+          32.75970458984375
+        ]
+      },
+      "properties": {
+        "name": "1809 Powder Magazine in Fort Moultrie",
+        "notes": "1809 Powder Magazine in Fort Moultrie\nhttps://www.nps.gov/places/1809-powder-magazine-in-fort-moultrie.htm\n\nThe United States Army finished construction of Fort Moultrie in 1809. While only foundations of the original barracks remain, the 1809 powder magazine still stands, enduring the American Civil War and several hurricanes. <br /> <br /> The magazine stored black powder to keep it safe, dry, and away from flame. The thick walls and solid brick traverse in front of the entrance helped protect the magazine in wartime. To protect the powder from fire, a lightning rod was erected and spark producing metals were kept out of the magazine. A traverse sits in front of the powder magazine. The traverse, a solid brick structure, protected the powder magazine from enemy artillery fire.<br /> <br /> The National Park Service has restored the magazine to its 1840 appearance. Visitors can walk inside the powder magazine and see replica powder barrels. ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.85806274414062,
+          32.759117126464844
+        ]
+      },
+      "properties": {
+        "name": "Battery Bingham & Battery McCorkle",
+        "notes": "Battery Bingham & Battery McCorkle\nhttps://www.nps.gov/places/battery-bingham-battery-mccorkle.htm\n\nBattery Bingham and Battery McCorkle are the Endicott Period batteries along the southern wall of Fort Moultrie. They formed part of the larger program of the modernization of the defense of Charleston Harbor. <br /> <br /> Battery Bingham was begun in April and completed by June 30, 1898. This emplacement consisted of two gun positions separated by an underground service magazine. A gallery was also built to connect the battery with the 1872-76 Principal Magazine. The two Armstrong 4.7 inch rapid-fire guns were mounted in October and small additions made to the concrete work, including a six inch thick apron, in November 1898.<br /> <br /> Construction of Battery McCorkle began on January 2, 1899 and was completed by May of that year. The three Driggs-Seabury 15-pounders were not mounted until April 1901. <br /> <br /> These smaller rapid-fire batteries would prevent enemy minesweepers from breaking through the harbor's mine defenses while the massive rifles of <a href=\"https://www.nps.gov/places/battery-huger.htm\">Battery Huger</a> and <a href=\"https://www.nps.gov/places/battery-jasper.htm\">Battery Jasper</a> would target more distant enemy surface ships.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.8746845734,
+          32.7523700458
+        ]
+      },
+      "properties": {
+        "name": "Battery Huger",
+        "notes": "Battery Huger\nhttps://www.nps.gov/places/battery-huger.htm\n\nThe US Army constructed Battery Huger, an Endicott Period battery on Fort Sumter, from 1898-99. The structure was named for Revolutionary War general <a href=\"https://www.nps.gov/people/isaac-huger.htm\">Isaac Huger</a>. Along with Endicott Period batteries on Sullivan's Island, Battery Huger protected Charleston Harbor from naval surface attack. The structure mounted two breechloading 12-inch rifles, which fired 1,000 pound shells. One rifle sat on a disappearing carriage while the other rifle sat on a barbette mount. Serving until 1941, both of the rifles were replaced with four 90 mm anti-aircraft guns, which were removed in 1947 upon deactivation of the battery.<br /> <br /> Battery Huger extends from near the northern walls (left face and right face of the fort) to the gorge wall of Fort Sumter. It occupies about one third of the parade ground. Today, the ground floor has accessible restrooms. Fort Sumter's museum is located in the former site of the gun emplacement of the disappearing rifle on the second floor, or gun deck. America's National Parks also has a museum shop on the second floor. The top of Battery Huger has a panoramic view of Charleston Harbor and serves as an observation deck. ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.85509490966797,
+          32.758487701416016
+        ]
+      },
+      "properties": {
+        "name": "Battery Jasper",
+        "notes": "Battery Jasper\nhttps://www.nps.gov/places/battery-jasper.htm\n\nThe US Army constructed Battery Jasper, the primary Endicott System battery on Sulivan's Island, from 1897-98. The US Army hurried construction of Endicott System batteries after the outbreak of the Spanish American War. The structure was named for Sergeant <a href=\"https://www.nps.gov/people/william-jasper.htm\">William Jasper</a>, a hero of the Battle of Sullivan's Island.<br /> <br /> Four powerful 10-inch disappearing rifles were mounted on Battery Jasper. These new, breech-loading rifles each weighed 55 tons, had a range of 8.5 miles, and fired shells weighing 571 pounds. Rising above the parapet to fire, the rifle recoiled by moving back and down, \"disappearing\" behind the thick concrete walls to allow the crew to reload in safety. The rifle was raised and lowered by using a counterweight which rested in the deep center cavity of the gun mount. A well trained gun crew could fire the rifle once every 90 seconds. Battery Jasper's guns and carriages were scrapped in 1943. <br /> <br /> One gun emplacement on Battery Jasper is open to the public, showing the magazine, shell room, and gun deck above it. <br /> <br /> The powerhouse, the one-story brick building, on the north side of Battery Jasper is closed to the public. It housed two 25 kilowatt gas generators to supply power for Battery Jasper's lights, ammunition hoists, and other electrical needs. Completed in 1910, the powerhouse replaced old generators inside Battery Jasper that had been operational since 1899. ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.85680389404297,
+          32.75894546508789
+        ]
+      },
+      "properties": {
+        "name": "Cannon Row at Fort Moultrie",
+        "notes": "Cannon Row at Fort Moultrie\nhttps://www.nps.gov/places/cannon-row-at-fort-moultrie.htm\n\nFort Sumter and Fort Moultrie National Historical Park has one of the greatest collections of Civil War era seacoast or siege artillery in the United States. Representing some of the rarest cannon in the world, the collection illustrates the technological innovations of the Civil War. The cannon that make up Cannon Row are some of the largest and most unique within the park's collection.<br /> <br /> Some of the cannon were used during the Civil War on Sullivan's Island while others were brought to the island after the Civil War to rebuild coastal defenses. The United States or the Confederate States produced all eight artillery pieces before or during the Civil War. <br /> <br /> List of Guns (Appear left to right in picture):<br /> <br /> 7-inch Triple Banded Brooke Rifle<br /> Produced by CS Army<br /> <br /> 10-inch Parrott Rifle<br /> Produced by US Army<br /> <br /> 8-inch Parrott Rifle<br /> Produced by US Army<br /> <br /> 10-inch Confederate Columbiad<br /> Produced by CS Army<br /> <br /> Modified 10-inch Columbiad<br /> Produced by US Army. Modified by CS Army.<br /> <br /> 10-inch Rodman<br /> Produced by US Army<br /> <br /> 10-inch Rodman<br /> Produced by US Army<br /> <br /> 13-inch Mortar<br /> Produced by US Army",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.85669016838074,
+          32.762692743735364
+        ]
+      },
+      "properties": {
+        "name": "Fort Moultrie Fishing Dock",
+        "notes": "Fort Moultrie Fishing Dock\nhttps://www.nps.gov/places/fort-moultrie-fishing-dock.htm\n\nSituated on the intracoastal waterway, the fishing dock at Fort Moultrie offers several opportunities for recreation. With a valid South Carolina fishing license, you can try your luck at catching several different types of fish including red and black drums, mackerel and seabass. Additionally, the intracoastal waterway provides homes to both shrimp and Atlantic blue crabs (of South Carolina she-crab soup fame!), they may also be caught if you are so inclined.  Fishing not your thing? There are several benches placed along the dock where you can sit and enjoy the natural beauty of Charleston and South Carolina. Watch a variety of birds, including great blue herons, white ibis, and roseate spoonbills searching for dinner in the marshy grasses. Overhead, you might catch a glimpse of a bald eagle or red-tailed hawk lazily circling the water. Relax and reflect on the history of Fort Moultrie and Charleston. ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.8578578727,
+          32.7604594461
+        ]
+      },
+      "properties": {
+        "name": "Fort Moultrie Torpedo Storehouse",
+        "notes": "Fort Moultrie Torpedo Storehouse\nhttps://www.nps.gov/places/fort-moultrie-torpedo-storehouse.htm\n\nThe Fort Moultrie Military Reservation supplied the minefields in Charleston Harbor. To support a minefield, the US Army built several structures, including a torpedo storehouse. Additional structures included a mining casemate, magazine, cable tank storehouse, a mine wharf, and a tramway connecting all the structures. Most of the structures have been removed with the exception of the torpedo storehouse. <br /> <br /> Built in 1902, the torpedo storehouse was used to store equipment and empty mines. It stands as a reminder of Charleston Harbor's minefield. In 1918, the US Army Mine Planter Service was established and placed under the Coast Artillery Corps. Their mission was to install and maintain the minefields that were an integral part of coastal fortifications. Once the mines were placed, soldiers in mining casemates could electronically detonate them if enemy vessels approached. In Charleston Harbor, there were mining casemates located at Fort Moultrie and Fort Sumter.<br /> <br /> Today, the Fort Moultrie Torpedo Storehouse serves as the administrative headquarters for Fort Sumter and Fort Moultrie National Historical Park and Charles Pinckney National Historic Site. It is open to the public by appointment. <br /> <br />  ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.8576402017485,
+          32.76046836107943
+        ]
+      },
+      "properties": {
+        "name": "Fort Moultrie Visitor Center",
+        "notes": "Fort Moultrie Visitor Center\nhttps://www.nps.gov/places/fort-moultrie-visitor-center.htm\n\n<p paraeid=\"{079bf580-54c2-4e24-95d0-61ec46a16b26}{161}\" paraid=\"1005174358\">Built of brick in 1976, the Fort Moultrie Visitor Center’s unique shape is like that of the fort itself. The 4 angular points on the visitor center are reminiscent of the salient points of Fort Moultrie.  The visitor center was built where the hospital of Fort Moultrie Military Reservation once stood. </p> <p lang=\"EN-US\" paraeid=\"{5b5b7810-7a7d-4564-9e52-145dde2cb200}{168}\" paraid=\"939696895\" xml:lang=\"EN-US\">Today the visitor center houses a museum with exhibits spanning the 170 years of history at Fort Moultrie. Also within the walls of the visitor center are a theater, which plays the park film every half hour, and a bookstore with souvenirs for every visitor. Access to the rooftop observation deck provides views of Fort Moultrie and Charleston Harbor.  Stop inside and say hi to the rangers and learn more about the fascinating history of Fort Moultrie. </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.8570066690445,
+          32.76234539283528
+        ]
+      },
+      "properties": {
+        "name": "General Moultrie's Grave",
+        "notes": "General Moultrie's Grave\nhttps://www.nps.gov/places/general-moultrie-s-grave.htm\n\nWilliam Moultrie was one of South Carolina's leading Patriots during the American Revolution. A man of power and substance, Moultrie was elected to the Commons House of Assembly. This would spark a political career that would last until 1794. Like many of his peers, Moultrie was a wealthy rice plantation owner, with about 200 slaves in his possession. By the 1775, relations with Britain had soured and Moultrie was elected to a Provincial Congress in South Carolina. By June of that year, he was made a colonel of the 2nd South Carolina regiment. <br /> <br /> Because there was no official flag for either the fledgling country or South Carolina, Moultrie designed his own regimental flag: a dark blue rectangle with a white crescent in the top left corner. By March of 1776, Moultrie assumed command of Fort Sullivan on Sullivan's Island. Work was underway to build a fort sufficient for 1000 men. This fort would be constructed of palmetto logs and sand, when the British arrived on June 28, 1776, it would still be incomplete. Moultrie would command his men in triumph against ten British warships. Several days later, in response to Moultrie's victory, the fortification on Sullivan's Island would officially be named Fort Moultrie. <br /> <br /> In 1780, now General Moultrie would be captured when the British returned to Charleston. After the war ended, Moultrie returned to politics, serving in the South Carolina House and Senate and as both lieutenant governor and governor. William Moultrie died in 1805 and was buried in the family cemetary. In 1977, archeaologists would discover Moultrie's resting place and in 1978, his remains would be moved to Sullivan's Island. Today you can visit General Moultrie's grave near the intracoastal waterway at Fort Moultrie. ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.85718536376953,
+          32.759342193603516
+        ]
+      },
+      "properties": {
+        "name": "Harbor Entrance Control Post at Fort Moultrie",
+        "notes": "Harbor Entrance Control Post at Fort Moultrie\nhttps://www.nps.gov/places/harbor-entrance-control-post-fort-moultrie.htm\n\nInside the walls of Fort Moultrie, visitors can explore a World War II era harbor defense structure. The joint Army-Navy installation was known as the Harbor Entrance Control Post - Harbor Defense Command Post (HECP-HDCP). Construction of the permanent concrete structure finished in March 1944, which replaced a temporary timber frame structure on the northwest bastion. <br /> <br /> The structure has three floors. On the ground floor, the offices housed the Duty Officers and Operations Room and the Message Center, while on the opposite side of the corridor were the HECP and Radio Rooms, Air Conditioning and CWS Room, and Heater Room. The second floor housed the Observation Post, and the Signal Tower was on the third floor. <br /> <br /> The missions of the structure were: to protect the harbor facilities and shipping from naval gunfire in event of enemy surface attack; to deny to enemy shipping access to the harbor; to support defense against an amphibious attack. ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.85653460058529,
+          32.76216043934339
+        ]
+      },
+      "properties": {
+        "name": "The Bench By the Road",
+        "notes": "The Bench By the Road\nhttps://www.nps.gov/places/the-bench-by-the-road.htm\n\nThe forced exodus of West Africans to the New World often ended in Charleston, which served as the entry point for nearly half of the captive Africans shipped to North America. Although its main function was military defense, Sullivan's Island also had quarantine stations to protect the colony of South Carolina from deadly diseases. Between 1707 and 1799, four \"pest houses\" were constructed on Sullivan's Island, though never more than one existed at the same time. These \"pest houses\" were used to quarantine enslaved passengers who arrived to the New World carrying infectious diseases. Although the exact locations are unknown, all were built between Fort Moultrie and the western end of the island.<br /> <br /> Approximately, 2 million Africans died during the Middle Passage through various means. Harsh conditions, violent treatment and even the taking of their own lives all contributed to deaths of these enslaved captives. The Bench by the Road serves as a reminder for those Africans captured in the slave trade, whose lives were forever changed. The Bench by the Road can be found near the intercoastal waterway behind the Fort Moultrie Visitor Center. Take a moment to stop and reflect on the enslaved people who made the journey from Africa to Charleston and on those who lost their lives during this arduous journey.<br />  ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.85773086547852,
+          32.759805630142196
+        ]
+      },
+      "properties": {
+        "name": "USS Patapsco Monument",
+        "notes": "USS Patapsco Monument\nhttps://www.nps.gov/places/uss-patapsco-monument.htm\n\n<p paraeid=\"{c18eefb1-ae7d-4ee5-9083-edcc98edbe8d}{170}\" paraid=\"1110608630\">Outside and to the right of the Fort Moultrie sally port stands a small gray obelisk. This monument is the oldest known Civil War monument at the fort. It commemorates the loss of life when the USS Patapsco sank in the Charleston Harbor in January of 1865. The Patapsco was sunk by an underwater mine after two years of naval operations in Charleston. in a tragic twist of fate, it was only a month before the Confederates would abandon the city itself that the Patapsco was lost.  </p> <p paraeid=\"{16a0df9b-f451-48b9-a4fe-f67ebe662d73}{76}\" paraid=\"1692170458\">Listed on the monument are the names of the 62 sailors who were killed when this US ironclad went down. Five bodies were recovered and were buried beneath the monument. The monument was erected sometime between 1892 and 1918 and today is one of the last memories of the Patapsco dead. Take a moment to stop and reflect on the experiences of the Civil War sailor and the tragic loss of the USS Patapsco. </p>",
+        "icon": "red-pin-down.png"
+      }
+    }
+  ]
+}

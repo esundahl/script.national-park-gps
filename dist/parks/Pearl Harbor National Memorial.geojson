@@ -1,0 +1,155 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.9387367948176,
+          21.367432244838312
+        ]
+      },
+      "properties": {
+        "name": "Pacific Historic Parks - Bookstore",
+        "notes": "Pacific Historic Parks - Bookstore\nhttps://www.nps.gov/places/pacific-historic-parks-bookstore.htm\n\n<h1>Park Store</h1> <table cellpadding=\"0\" cellspacing=\"0\" id=\"cs_idLayout2\" role=\"presentation\" summary=\"\" width=\"100%\"> <tbody> <tr> <td id=\"cs_idCell2x1x1\" width=\"100%\"> <figure><img alt=\"The Pearl Harbor Visitor Center bookstore in the evening.\" src=\"https://www.nps.gov/valr/learn/images/Pearl-Harbor-Visitor-Center-Bookstore_1.jpg?maxwidth=1200&maxheight=1200&autorotate=false\" title=\"\" /></figure>   <p>The Pearl Harbor Gift Shop at the visitor center is operated by our non-profit partner, <a href=\"http://www.pacifichistoricparks.org/\">Pacific Historic Parks</a>.</p> <p>Proceeds from sales of books, maps, music, videos, and educational material directly benefit research, educational, and environmental programs at the Pearl Harbor National Memorial.</p> <p>You can also shop via the <a href=\"http://www.pacifichistoricparksbookstore.org/\">online bookstore</a> or over the phone at1-888-485-1941.</p> </td> </tr> </tbody> </table>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.93959433694235,
+          21.36713449120073
+        ]
+      },
+      "properties": {
+        "name": "Remembrance Circle",
+        "notes": "Remembrance Circle\nhttps://www.nps.gov/places/remembrance-circle.htm\n\n<p>The events at Pearl Harbor awakened the local military and civilian residents to the character of war. A total of 2,390 American <a href=\"https://www.nps.gov/valr/learn/historyculture/military-casualties.htm\">service members</a> and <a href=\"https://www.nps.gov/valr/learn/historyculture/civilian-casualties.htm\">civilians</a> were killed at Pearl Harbor due to the attack on Dec. 7, 1941.</p> <ul> <li> <p>Of the 2,341 service members that died on Dec. 7, 1941, almost half died on the <a href=\"https://www.nps.gov/valr/learn/historyculture/uss-arizona.htm\">USS Arizona</a>, a total of 1,177. There were <a href=\"https://www.nps.gov/valr/learn/historyculture/brothersassignedarizona.htm\">38 sets of brothers</a> on board USS <em>Arizona</em>, including three sets of <em>three </em>brothers. Of those 79 people, 63 died as a result of the attack.</p> </li> <li> <p>The second largest loss of life was on the <a href=\"https://www.nps.gov/valr/learn/historyculture/uss-oklahoma.htm\">USS <em>Oklahoma</em></a><em>,</em> with 429 lost. From Dec 1941 through June 1944, Navy personnel recovered the remains of those who perished on <em>Oklahoma</em>. Only 35 men were identified, and nearly 400 unidentified remains were buried as Unknowns at the <a href=\"https://www.cem.va.gov/cems/nchp/nmcp.asp\">National Memorial Cemetery of the Pacific</a> in Honolulu. In 2015, the <a href=\"http://www.dpaa.mil/\">Defense POW/MIA Accounting Agency</a>, through a partnership with the Department of Veterans Affairs, exhumed the unknown remains and began the lengthy identification process. So far, over <a href=\"https://www.nps.gov/valr/uss-oklahoma-casualties-identified.htm\">100 sailors and Marines from<em> Oklahoma </em>have been identified</a> and returned home.</p> </li> <li> <p><a href=\"https://www.nps.gov/articles/hickam-field.htm?utm_source=article&utm_medium=website&utm_campaign=experience_more\">Hickam Field</a> followed, with a loss of 191 people, including five civilians.</p> </li> <li> <p>The USS <em>West Virginia </em>and the USS <em>California</em> followed, with 106 and 105 lost, respectively.</p> </li> <li> <p>A total of 49 civilians were killed as a result of the December 7 attack, some by the enemy and some by friendly fire.</p> </li> </ul>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.9389053154035,
+          21.36659870262224
+        ]
+      },
+      "properties": {
+        "name": "The Defense POW/MIA Accounting Agency (DPAA) Exhibit",
+        "notes": "The Defense POW/MIA Accounting Agency (DPAA) Exhibit\nhttps://www.nps.gov/places/the-defense-pow-mia-accounting-agency-dpaa-exhibit.htm\n\n<p>The Pearl Harbor National Memorial has partnered with the Defense POW/MIA Accounting Agency (DPAA) to create a display case of World War II artifacts. DPAA and its predecessor organizations have been working to identify missing Department of Defense personnel for more than two decades.  </p> <p>The display includes four items from DPAA including a Marine Corps branch insignia, belt buckle, entrenching tool, and a canteen which still has its plastic lid. The canteen, after all these years, has shell and coral attached, forming a concrete covering. The fifth item is a watch found on the USS <em>Oklahoma</em> during a cell rescue and salvage operation after Dec. 7, 1941.<br /> <br /> For additional information on the Defense Department’s mission to account for Americans who went missing while serving our country, visit the DPAA website at <u><a href=\"http://www.dpaa.mil/\">www.dpaa.mil</a></u>, or on social media at <u><a href=\"http://www.facebook.com/dodpaa\">www.facebook.com/dodpaa</a>.</u></p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.93917663060932,
+          21.367658182582588
+        ]
+      },
+      "properties": {
+        "name": "The Lone Sailor",
+        "notes": "The Lone Sailor\nhttps://www.nps.gov/places/the-lone-sailor.htm\n\nThe Lone Sailor signifies the men and women who have served, are serving, or will serve in the Navy. He's called the Lone Sailor, yet he is hardly ever alone.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.93904623817357,
+          21.36670823589013
+        ]
+      },
+      "properties": {
+        "name": "Tree of Life Sculpture",
+        "notes": "Tree of Life Sculpture\nhttps://www.nps.gov/places/tree-of-life-sculpture.htm\n\nThe Tree of Life sculpture is a relief, and a symbol of renewal created by USS <em>Arizona</em> Memorial architect, Alfred Preis inorder to inspire contemplation. ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.93926229733503,
+          21.367688140479387
+        ]
+      },
+      "properties": {
+        "name": "USS Arizona Anchor",
+        "notes": "USS Arizona Anchor\nhttps://www.nps.gov/places/uss-arizona-anchor.htm\n\nOne of the <i>Arizona</i>'s three 19,585-pound (8,884 kg) anchors is displayed at the visitor center. ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.93910288878203,
+          21.366745370181192
+        ]
+      },
+      "properties": {
+        "name": "USS Arizona Bell",
+        "notes": "USS Arizona Bell\nhttps://www.nps.gov/places/uss-arizona-bell.htm\n\nThis bell was recovered from the ship after the attack. A similar bell was removed from the ship a year earlier and resides at the University if Arizona in Tuscon. ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.94986810877796,
+          21.364731882326197
+        ]
+      },
+      "properties": {
+        "name": "USS Arizona Memorial",
+        "notes": "USS Arizona Memorial\nhttps://www.nps.gov/places/uss-arizona-memorial.htm\n\nThe USS <em>Arizona </em>is the final resting place for over 900 of the ship's 1,177 crewmen who lost their lives on December 7, 1941.<br /> <br /> The 184-foot-long memorial structure spans the mid-portion of the sunken battleship and consists of three main sections: the entry room; the assembly room, a central area designed for ceremonies and general observation; and the shrine room, where the names of those killed on the <em>Arizona </em>are engraved on the marble wall.<br /> <br /> The USS <em>Arizona </em>Memorial grew out of wartime desire to establish a memorial at Pearl Harbor to honor those who died in the attack. Suggestions for the memorial began in 1943, but it wasn't until 1949, when the Territory of Hawaii established the Pacific War Memorial Commission, that the first real steps were taken to bring it about.<br /> <br /> Initial recognition came in 1950 when Admiral Arthur Radford, Commander in Chief, Pacific (CINCPAC), ordered that a flagpole be erected over the sunken battleship. On the ninth anniversary of the attack, a commemorative plaque was placed at the base of the flagpole.<br /> <br /> President Dwight D. Eisenhower, who helped achieve Allied victory in Europe during World War II, approved the creation of the Memorial in 1958. Its construction was completed in 1961 with public funds appropriated by Congress and private donations. The Memorial was dedicated in 1962.<br /> <br /> According to its architect, Alfred Preis, the design of the Memorial, \"Wherein the structure sags in the center but stands strong and vigorous at the ends, expresses initial defeat and ultimate victory....The overall effect is one of serenity. Overtones of sadness have been omitted to permit the individual to contemplate his own personal responses... his innermost feelings.\"<br /> <br /> Contrary to popular belief, the USS <em>Arizona </em>is no longer in commission. As a special tribute to the ship and her lost crew, the United States flag flies from the flagpole, which is attached to the severed mainmast of the sunken battleship. The USS <em>Arizona </em>Memorial has come to commemorate all military personnel killed in the Pearl Harbor attack.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.954311586548,
+          21.363545104638874
+        ]
+      },
+      "properties": {
+        "name": "USS Oklahoma Memorial",
+        "notes": "USS Oklahoma Memorial\nhttps://www.nps.gov/places/uss-oklahoma-memorial.htm\n\nLocated on Ford Island, an active duty military base. The USS <em>Oklahoma</em> Memorial is only accessible via Pearl Harbor Historic Sites Shuttle, or with an active duty military or escort with trusted traveler permissions. <br /> <br /> The USS <i>Oklahoma</i> capsized at 8:08 A.M., approximately 12 minutes after the first torpedo hit. Hundreds of men were trapped below her decks. They found themselves in a bizarre world turned upside down, in pitch-black darkness, as compartments filled with water. Death came to 429 officers, sailors and Marines, marking the second greatest loss of life at Pearl Harbor.<br /> <br /> In 1944, the <em>Oklahoma</em> was salvaged and raised at Pearl Harbor. Because new battleships of greater strength and size had been added to the fleet, she was denied future service and decommissioned. In 1947, she was sold for scrap but sank in a storm while being towed to the West Coast.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.9620656616168,
+          21.368655373324387
+        ]
+      },
+      "properties": {
+        "name": "USS Utah Memorial",
+        "notes": "USS Utah Memorial\nhttps://www.nps.gov/places/uss-utah-memorial.htm\n\nOn December 7, 1941, the USS <em>Utah,</em> moored on the other side of Ford Island and hit by torpedoes at the start of the attack, quickly rolled over and sank. Fifty-eight of<em> Utah</em>'s crew died. The ship was never salvaged and <a href=\"https://www.dvidshub.net/video/369019/underwater-images-uss-utah-memorial\">remains where it sank</a> in Pearl Harbor.<br /> <br /> <span style=\"color:#e74c3c;\">The USS <em>Utah</em> is only accessible to the general public through guided bus tours to Ford Island. For more information visit: </span><a href=\"https://www.nps.gov/perl/ford-island-bus-tour.htm\"><span style=\"color:#e74c3c;\">https://www.nps.gov/perl/ford-island-bus-tour.htm</span></a><span style=\"color:#e74c3c;\">.</span><br /> <br /> There are no doctors or nurses on-site. EMS is available and a hospital is nearby. If you have a medical need please call 911. ",
+        "icon": "red-pin-down.png"
+      }
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.13092136426711,
+          32.20365884972959
+        ]
+      },
+      "properties": {
+        "name": "Andersonville National Cemetery",
+        "notes": "Andersonville National Cemetery\nhttps://www.nps.gov/places/andersonville-national-cemetery.htm\n\nAndersonville National Cemetery began as a burial ground for the nearly 13,000 Union soldiers who died in Camp Sumter military prison during the Civil War. These prisoners of war were buried shoulder to shoulder in trenches. In 1865, after the end of the Civil War, the Union Army came and established the site as a national cemetery. Today over 20,000 of our nation's military men and women, representing nearly every American conflict, rest in honor on these hallowed grounds. Andersonville is the only national cemetery managed by the National Park Service that is still open and continues to provide burial services to American military service members, veterans, and their families.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.12186431884766,
+          32.17848587036133
+        ]
+      },
+      "properties": {
+        "name": "Andersonville Park Store",
+        "notes": "Andersonville Park Store\nhttps://www.nps.gov/places/andersonville-park-store.htm\n\nThe park store is operated by <a href=\"https://shop.americasnationalparks.org/store/\">America's National Parks</a>, an official non-profit partner of the National Park Service dedicated to supporting the educational mission of Andersonville National Historic Site. The park store has a wide range of books, media, educational games, and other items available for retail sale. These products complement the interpretive themes you experience when visiting the park. The park store is located at the National Prisoner of War Museum, or you can visit the <a href=\"https://shop.americasnationalparks.org/store/home/5041/Andersonville-National-Historic-Site/\">online </a>park store.",
+        "icon": "red-pin-down.png"
+      }
+    }
+  ]
+}

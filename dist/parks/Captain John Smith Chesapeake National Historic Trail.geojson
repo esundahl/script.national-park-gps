@@ -1,0 +1,665 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.4764,
+          38.9688
+        ]
+      },
+      "properties": {
+        "name": "Annapolis Maritime Museum",
+        "notes": "Annapolis Maritime Museum\nhttps://www.nps.gov/places/annapolis-maritime-museum.htm\n\n<p>The Annapolis Maritime Museum is a premiere museum in Downtown Annapolis which educates visitors about the area’s maritime heritage and ecology. The organization has two campuses which are used to entertain and educate its visitors: McNasby Oyster Company and Ellen O. Moyer Nature Park.<br /> <br /> The McNasby Oyster Company is a historic building which has served as the museum’s base of operations for over 20 years. Located directly on Back Creek and the Severn River in Eastport, MD, the museum provides a perfect setting for visitors to engage in interactive experiences and programs and learn about the ecology and maritime history of the area. Numerous exhibits, and structures achieve this vision along with a nearby beachside park and piers.<br /> <br /> The Ellen O. Moyer Nature Park is also located on Back Creek and encompasses 12-acres of forested trails, waterfront, event pavilion and more. This park campus caters primarily to school groups, summer camps and education programs for the benefit of inspiring younger generations to love and care for the Chesapeake Bay.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.5927,
+          38.4903
+        ]
+      },
+      "properties": {
+        "name": "Battle Creek Cypress Swamp",
+        "notes": "Battle Creek Cypress Swamp\nhttps://www.nps.gov/places/battle-creek-cypress-swamp.htm\n\n<p>Battle Creek Cypress Swamp is one of the northernmost stands of bald cypress trees. These unusual conifers shed their feathery leaves in the fall. In winter, their gray, shreddy bark distinguishes bald cypress from other deciduous trees. A small, wooden boardwalk snakes around these relics of the past. Distinctive, knobby cypress \"knees\" emerge from the water near the boardwalk.</p> <p>On spring mornings, visitors are serenaded by birds such as the golden-colored Prothonotary warbler and the ground-foraging Louisiana waterthrush. In late summer, visitors can enjoy splashes of color provided by cardinal-flower and the threatened red turtlehead (Chelone obliqua). In the evening, one may also hear the quick trill of the arboreal gray treefrog. Visitors can enjoy several hiking trails that lead through the property.</p> <p>Battle Creek Cypress Swamp encompasses about 100 acres of cypress swamp and surrounding upland woods. It was purchased in 1977 by The Nature Conservancy and is currently leased and operated by Calvert County Parks and Recreation. The special habitat at Battle Creek was recognized as a National Natural Landmark in 1965.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.599365234375,
+          37.7744140625
+        ]
+      },
+      "properties": {
+        "name": "Belle Isle State Park",
+        "notes": "Belle Isle State Park\nhttps://www.nps.gov/places/belle-isle-state-park.htm\n\nBelle Isle State Park is an 892-acre park in Lancaster County, Virginia that spans across seven miles of shoreline on the Rappahannock River. The expansive park covers a wide variety of tidal wetlands, farmlands and upland forests. This array of habitats allows for many recreational opportunities, including hiking, biking, horseback-riding, camping and more. The diverse habitats also make Belle Isle a premium park for wildlife viewing and birdwatching, with bald eagles, herons and osprey frequently observed.<br /> <br /> Belle Isle State Park was first operated as a plantation beginning in the 17<sup>th</sup> century, with the land first acquired by John Bertrand in 1692. Though the Downman family operated the plantation until the 19<sup>th</sup> century, various other families have held the property over the years until acquisition by Virginia. The property is also identified on the National Register of Historic Places.<br /> <br /> Address: 1632 Belle Isle Rd., Lancaster, VA  22503. ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.14263916015625,
+          38.33399963378906
+        ]
+      },
+      "properties": {
+        "name": "Caledon State Park",
+        "notes": "Caledon State Park\nhttps://www.nps.gov/places/caledon-state-park.htm\n\nCaledon State Park is known for its old growth forests. Hike the park's fourteen trails for views of forests, marshes, and the Potomac River. Tent camping is available. <br /> <br /> Address: 11617 Caledon Rd., King George, VA 22485. ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.4351,
+          38.3965
+        ]
+      },
+      "properties": {
+        "name": "Calvert Cliffs State Park",
+        "notes": "Calvert Cliffs State Park\nhttps://www.nps.gov/places/calvert-cliffs-state-park.htm\n\n<p>Calvert Cliffs State Park is a day-use park featuring a sandy beach, unique fossils, recycled tire playground, a freshwater and tidal marshland and 13 miles of hiking trails located in Calvert County.</p> <p>The massive cliffs from which Calvert Cliffs State Park was named dominate the shoreline of the Chesapeake Bay for roughly 24 miles in Calvert County and were formed over 10 to 20 million years ago when all of Southern Maryland was covered by a warm, shallow sea. When the sea receded the cliffs were exposed and began eroding.</p> <p>Today these cliffs reveal the remains of prehistoric species Including sharks, whales, rays, and seabirds that were the size of small airplanes.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.4643,
+          38.3316
+        ]
+      },
+      "properties": {
+        "name": "Calvert Marine Museum",
+        "notes": "Calvert Marine Museum\nhttps://www.nps.gov/places/calvert-marine-museum.htm\n\n<p>The Calvert Marine Museum is located at the confluence of the Patuxent River and the Chesapeake Bay in Calvert County, MD. Its unique location allows the site to be a focal point for many visitors passing through the region.<br /> <br /> The museum itself details the maritime and ecological history of Southern Maryland through exhibits, educational programs, boat trips and a guided lighthouse tour of two lighthouses.The museum itself is in Solomons which provides local waterfront access through a walkable pier with scenic views. Nearby restaurants and shops are within walking distance as well.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.2285,
+          38.9481
+        ]
+      },
+      "properties": {
+        "name": "Chesapeake Bay Environmental Center",
+        "notes": "Chesapeake Bay Environmental Center\nhttps://www.nps.gov/places/chesapeake-bay-environmental-center.htm\n\n<p>The Chesapeake Bay Environmental Center (CBEC) is a 510-acre preserved located in Queen Anne’s County, MD that promotes stewardship and sustainability through environmental education and habitat restoration. The preserve is surrounded by Prospect Bay and within driving distance of the Chesapeake Bay Bridge. Visitors to the center can enjoy birdwatching, hiking, programs, canoeing and other special events hosted by CBEC.<br /> <br /> The center was first established in 1981 by the Wildfowl Trust of North America Inc. with the purchase of a 315-acre farm. This initial preserve was named the Horsehead Wetlands Center and opened to the public in 1985. The preserve was then expanded in 1998 with the purchase of an additional 195 acres of land, and the center’s name was changed in 2003 to its current name.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.2192,
+          38.7877
+        ]
+      },
+      "properties": {
+        "name": "Chesapeake Bay Maritime Museum",
+        "notes": "Chesapeake Bay Maritime Museum\nhttps://www.nps.gov/places/chesapeake-bay-maritime-museum.htm\n\n<p>The Chesapeake Bay Maritime Museum (CBMM) is an 18-acre campus in St. Michael’s, MD, explores and preserves the history, environment, and culture of the entire Chesapeake Bay region, and makes this resource accessible to all. Nestled along the Miles River, CBMM features historic working boats, maritime history exhibits, ship models, river excursions, tours of the Hooper Strait Lighthouse and more.<br /> <br /> CBMM was first opened to the public in 1965 as a project of the Historical Society of Talbot County. Over the years, the group acquired and showcased waterfront properties and watercraft to expand upon their work. Today, the CBMM campus boasts over 35 buildings, 12 of which house exhibitions that are open to the public<strong>.</strong> Guests can view more than 100 boats and boat models, historical Bay artifacts, and artworks that include a vast collection of watercolors, decoys, guns, and ship’s signboards.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.87223052978516,
+          37.265281677246094
+        ]
+      },
+      "properties": {
+        "name": "Chickahominy Riverfront Park",
+        "notes": "Chickahominy Riverfront Park\nhttps://www.nps.gov/places/chickahominy-riverfront-park.htm\n\nLocated on the Chickahominy River just east of Richmond, Virginia, Chickahominy Riverfront Park offers camping, a fishing pier, boat launch, access to the Virginia Capital Trail, sports facilities, and concessions. ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.72152042388916,
+          37.138475851040155
+        ]
+      },
+      "properties": {
+        "name": "Chippokes State Park",
+        "notes": "Chippokes State Park\nhttps://www.nps.gov/places/chippokes-state-park.htm\n\n<p>Chippokes State Park sits across the James River in Surry County, Virginia and is one of the oldest continually farmed plantations in the US. The plantation first began farming in 1619 with tobacco emerging as a chief crop. For generations, all the skilled workers on the 1,300-acre property were enslaved. Today, Chippokes State Park explores and shares the history of the enslaved population on the site through programs, exhibits and a memorial.<br /> <br /> The site hosts an array of recreational activities, including biking, hiking, horseback riding, historic tours, fishing and more. The site is also home to the Chippokes Farm and Forestry Museum which displays over 600 antiques and artifacts to interpret rural and early American farm life.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.50795480083083,
+          40.03042788869199
+        ]
+      },
+      "properties": {
+        "name": "Columbia Crossing River Trails Center",
+        "notes": "Columbia Crossing River Trails Center\nhttps://www.nps.gov/places/columbia-crossing-river-trails-center.htm\n\nManaged by the Susquehanna National Heritage Area, the Columbia Crossing River Trails Center is your one-stop-shop for maps and information about paddling, hiking, or biking the Susquehanna River. <br /> <br /> Also stop by to enjoy exhibitions at the River Trails Center. With new exhibits going up regularly, local art and historic artifacts tell the story of the Chesapeake Bay's source river. <br /> <br /> Contact:<br /> info@columbiacrossing.org<br /> 717-449-5607<br /> <br /> Location Address:<br /> 41 Walnut Street,<br /> Columbia,PA 17512<br /> <br /> Mailing Address:<br /> 1706 Long Level Road,<br /> Wrightsville, PA 17368<br /> <br /> Visitor Hours:<br /> Memorial Day – Labor Day<br /> Tuesday through Friday – 10 a.m. to 5 p.m.<br /> Saturday & Sunday – 9 a.m. to 6 p.m.<br /> <br /> September – May<br /> Tuesday through Saturday – 10 a.m. to 4 p.m.<br /> Sunday – 12 p.m. to 4 p.m.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.32500457763673,
+          37.551727946299025
+        ]
+      },
+      "properties": {
+        "name": "Deltaville Maritime Museum",
+        "notes": "Deltaville Maritime Museum\nhttps://www.nps.gov/places/deltaville-maritime-museum.htm\n\n<p>Deltaville Maritime Museum and Holly Point Nature Park is in Middlesex County, Virginia and nestled near the confluence of the Piankatank River and the Chesapeake Bay. The site serves a dual purpose of exploring the region's maritime history and protecting an outdoor, recreational space for nearby residents. The site was first established in 2003 through a dedicated group of local volunteers but faced tragedy due to a fire which wiped out most existing structures. Once rebuilt in 2013, the site has expanded and operated as hub for tourism and events in the region.<br /> <br /> The museum features several exhibits, kiosks and a library devoted to the maritime history and heritage of the surrounding area. Holly Point Nature Park provides opportunities for walking, birding, and viewing wildlife along trails.<br /> <br /> Address: 287 Jackson Creek Road, P.O. Box 466, Deltaville VA, 23043. </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.02511114794922,
+          36.909694927428575
+        ]
+      },
+      "properties": {
+        "name": "First Landing State Park",
+        "notes": "First Landing State Park\nhttps://www.nps.gov/places/first-landing-state-park.htm\n\n<p>First Landing State Park is in Virginia Beach, VA and is among one of the state’s most visited parks. The 2,888-acre park is named for the first English colonizers who landed on the region’s shores in 1607 and it is rumored that Blackbeard once hid in the Narrows area of the park. The park was constructed from 1933 to 1940, primarily by an all-Black Civilian Conservation Corps crew, and is listed on the National Register of Historic Places.<br /> <br /> The park features 1.5 miles of shoreline along the Chesapeake Bay and over 20 miles of trails that stream throughout the park and its many habitats. First Landing also allows camping, picnicking, boating as well as interpretive and educational exhibits on the region’s history and significance.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.31092071533202,
+          37.00186309081315
+        ]
+      },
+      "properties": {
+        "name": "Fort Monroe Visitor and Education Center",
+        "notes": "Fort Monroe Visitor and Education Center\nhttps://www.nps.gov/places/fort-monroe-visitor-and-education-center.htm\n\n<p>The Fort Monroe Visitor and Education Center opened to the public in 2020 after an extensive adaptive reuse project that installed orientation and interpretive exhibits and videos, restored historic features and provided full accessibility access to this structure. Amenities available include public restrooms, visitor information, tours, and programs, and park bookstore. Exhibits found within the galleries explore central themes important to the site such as Native American presence, European colonists arrival, first enslaved African landing in 1619, the \"Contraband Decision\" of 1861 beginning the end of slavery in the US, and the significance of the role of enslaved Africans, freedom seekers, and other significant figures from history on site such as Harriet Tubman. Visitors should enquire with staff to coordinate access to the Casemate Museum, when open, to explore more in-depth the over 400 years of history and culture on exhibit. </p> <p>Designed by noted architect Francis B. Wheaton in the Beaux Arts architectural style, the visitor center (Building# 138), has a classical façade featuring Flemish bond brick walls on a limestone foundation. Construction was completed in 1909 and named Wisser Hall in honor of Brigadier General John P. Wisser an instructor at the Coast Artillery School at Fort Monroe. Following World War II, the visitor center was converted into office space for use by US Army commands headquartered at Fort Monroe. Visitors can see two plaques showing the high-water marks of two significant storm events on the front stairway, the higher being Hurricane Isabel in 2003 and the lower being Chesapeake-Potomac Hurricane in 1933. Inside you’ll find skilled craftsmanship in moldings and ironwork, terrazzo flooring, marble stairs, two-story skylight, and a colonnaded hall.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.024123,
+          38.71235
+        ]
+      },
+      "properties": {
+        "name": "Fort Washington Park",
+        "notes": "Fort Washington Park\nhttps://www.nps.gov/places/000/fort-washington-park.htm\n\n<p>Built to defend the river approach to Washington, DC, Fort Washington has stood as silent sentry for over 200 years. As technologies advanced so did Fort Washington, from the brick and stone of the 19th century to the concrete and steel of the 20th century. Joining the National Park Service in 1946, the park continues to protect the Potomac River.</p> <hr /> <p>Fort Washington was the only fort protecting the approach to Washington, D.C. at the time of the War of 1812.</p> <p>When a British invasion fleet entered the Cheseapeake Bay in the Summer of 1814, the American Secretary of War did not believe Washington D.C. a valuable enough target to warrant a British attack, and so he declined to make adequate preparations for the defense of the nation's capital. </p> <p>Fort Washington was left understaffed and ill-equipped while British troops landed and engaged American defenders at Bladensburg, Maryland. After routing the Americans, British forces entered Washington and burned its public buildings. Fort Washington (sometimes referred to at the time as Fort Warburton), was soon abandoned and destroyed in order to prevent its capture by the enemy. </p> <p>After the conclusion of the War of 1812, the United States recognized the need for a more thorough and modern coastal defense system, and many new masonry forts were constructed. Fort Washington, recognized as the key position defending Washington D.C., was repaired and updated, and remained an active defensive works until well into the twentieth century.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.251952,
+          38.996757
+        ]
+      },
+      "properties": {
+        "name": "Great Falls Overlook",
+        "notes": "Great Falls Overlook\nhttps://www.nps.gov/places/000/great-falls-overlook.htm\n\nA series of boardwalks and bridges traverse a unique floodplain terrace environment and lead to the Great Falls Overlook. The overlook provides spectacular views of the Great Falls, as the Potomac River drops over 60 feet and continues through the Mather Gorge. Trail is 1/4 mile in length (one way) from trailhead to overlook. Stay on the boardwalk. Dogs are not permitted. Boardwalk is handicap accessible.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.090675,
+          39.548525
+        ]
+      },
+      "properties": {
+        "name": "Havre de Grace Visitor Center",
+        "notes": "Havre de Grace Visitor Center\nhttps://www.nps.gov/places/havre-de-grace-visitor-center.htm\n\nVisitors to Havre de Grace can enjoy a walk through the historic downtown, along the Bay-front boardwalk, and past the Concord Point Lighthouse. <br /> <br /> Havre de Grace is located at the mouth of the Susquehanna River. Algonquian and Iroquoian-speaking peoples lived in this area for thousands of years. Englishman Captain John Smith reached the lower Susquehanna in the summer of 1608, and recorded the name of the people he met there as the Susquehannock.<br /> <br /> During the War of 1812, the city was burned by British Rear Admiral George Cockburn. Due to its proximity to the Pennsylvania border, the town was also an important stop on the Underground Railroad.<br /> <br /> Address: 450 Pennington Ave, Havre de Grace, MD 21078. ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.363194,
+          37.374536
+        ]
+      },
+      "properties": {
+        "name": "Henricus Historical Park",
+        "notes": "Henricus Historical Park\nhttps://www.nps.gov/places/henricus-historical-park.htm\n\n251 Henricus Park Rd. Chester, VA 23836<br /> 804-748-1611 <br /> <a href=\"http://www.henricus.org\">www.henricus.org</a><br /> Hours: Wed to Sun from 10-5<br /> <br /> Henricus was the Virginia colony’s second town, established three years after the founding of Jamestown. Today, Henricus is a living history museum, complete with a historic fort, plantation, overlook of the James River, and the recreated American Indian town of Arrohateck. The Arrohateck people were displaced from the area shortly after the English began to establish their colony.<br /> <br /> Henricus was influential in the lives of two important Virginia Indian figures, Pocahontas and Chief Opechancanough. Pocahontas was brought to Henricus where she was baptized and given the name Rebecca. Henricus was also one of the towns attacked by Chief Opechancanough in 1622 as part of a coordinated military campaign.  <br /> <br /> In addition to the living history museum, Henricus Historical Park offers school and youth programs, special events, lesson plans, and adult educational programming.<br /> <br /> Adults: $9<br /> Children (ages 3 - 12): $7<br /> Children (2 and under): Free<br /> Members: Free (must present a Patron Pass or photo identification)<br /> Military: $1 discount to active and retired military personnel and their families",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.54191434383392,
+          38.376199532946735
+        ]
+      },
+      "properties": {
+        "name": "Historic Sotterley",
+        "notes": "Historic Sotterley\nhttps://www.nps.gov/places/historic-sotterley.htm\n\n<h3>A Historic Plantation</h3> <p>Built in 1703, Sotterley Plantation grew to become one of the largest plantations in the Chesapeake Bay region. An economic hub of its own, Sotterley's wharf on the Patuxent River saw the export of tobacco, corn, and lumber produced by the enslaved population of the plantation. Ships arrived into the port carrying captive Africans alongside luxury goods from Europe. Managed by a succession of powerful owners, the plantation's income eventually collapsed with the outlawing of slavery in 1864. The buildings and garden have since been restored, and today the site operates as an educational organization with National Historic Landmark status. Sotterley seeks to engage visitors with the challenging realities of our history, cultivating a respect for the past and the natural environment. </p> <h3>Visit Historic Sotterley </h3> Find detailed information about Historic Sotterley on their website: <a href=\"https://sotterley.org/\">Historic Sotterley Home - Sotterley</a><br /> <br /> <u><strong>Address:</strong></u> 44300 Sotterley Ln. Hollywood, MD 20636<br /> <br /> <u><strong>Hours:</strong><br /> Grounds and Gardens:</u><br /> Open 7 days a week*<br /> Monday - Saturday 10 am - 4 pm<br /> Sunday 11:30 am - 4 pm<br /> <br /> <u>Visitor Center:</u><br /> Thursday - Saturday 10 am - 4 pm<br /> Sunday 11:30 am - 4 pm<br /> <br /> <u>Guided Tours:</u><br /> Thursday - Saturday<br /> 10:30 am , 11:30 am, 1 pm, 2 pm, 3 pm<br /> Sunday<br /> Noon, 1 pm, 2 pm, 3 pm<br /> <br /> <u>Office</u><br /> Monday - Friday 9 am - 5 pm<br /> <br /> <u>*Site Closed</u><br /> New Year's Day, Martin Luther King, Jr. Day, Presidents Day, Easter, Memorial Day, Independence Day, Labor Day, Thanksgiving Day, Christmas Day<br /> <br /> <strong><u>Fee:</u></strong><br /> $5, plus additional fee for guided tours:<br /> Adults $ 10<br /> Seniors $ 9<br /> Youth (6-18) $ 6<br /> Children (Under 6) Free",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.429669,
+          38.180699
+        ]
+      },
+      "properties": {
+        "name": "Historic St. Mary's City",
+        "notes": "Historic St. Mary's City\nhttps://www.nps.gov/places/historic-st-marys-city.htm\n\n<p>Historic St. Mary’s City sits along a tributary of the Potomac River in St. Mary’s County, MD and preserves the site of the first European colonization in Maryland. Though the site is the first permanent settlement in Maryland, Historic St. Mary’s is the fourth settlement in North America by British colonizers.<br /> <br /> The living outdoor museum recounts and explores the history of the English colonizers that first sailed to the region as well as the history of the Yaocomaco that lived on the land first. This history is explored through exhibits, walking trails, active archaeological digs, school programs and more.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.779413,
+          37.226616
+        ]
+      },
+      "properties": {
+        "name": "James City County Marina",
+        "notes": "James City County Marina\nhttps://www.nps.gov/places/james-city-county-marina.htm\n\nJust down the street from <a href=\"https://www.nps.gov/cajo/planyourvisit/historic-jamestowne.htm\">Historic Jamestowne</a>, the James City County Marina is a great place to launch your canoe or kayak and experience the beauty of the James River. <br /> <br /> Address: 2054 Jamestown Rd, Williamsburg, VA 23185. <br />  ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.41498715502641,
+          37.51650516042954
+        ]
+      },
+      "properties": {
+        "name": "James River Association",
+        "notes": "James River Association\nhttps://www.nps.gov/places/james-river-association.htm\n\nThe James River Association works to restore the health of the James River and its inhabitants such as the Atlantic Sturgeon. <br /> <br /> Learn more about their programs <a href=\"https://thejamesriver.org/\">online</a>. ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.5162464074707,
+          38.40920768527154
+        ]
+      },
+      "properties": {
+        "name": "Jefferson Patterson Park & Museum",
+        "notes": "Jefferson Patterson Park & Museum\nhttps://www.nps.gov/places/jefferson-patterson-park.htm\n\n<p>Jefferson Patterson Park and Museum is in Calvert County, Maryland and expands for 560-acres along the shoreline of the Patuxent River. The site itself is a very important archaeological site in the Chesapeake Bay region and explores the 10,000+ years’ worth of history on the property. Numerous archaeological digs and excavations have been performed on-site with the oldest evidence of human use dating back to 7500 BC. The site also saw use during the War of 1812 with the <a href=\"https://www.nps.gov/stsp/learn/historyculture/battles-of-st-leonard-creek.htm\">Battle of St. Leonard’s Creek</a>, the largest naval battle fought in Maryland.<br /> <br /> The park itself was donated to Maryland in 1983 by the Patterson Family, one of the largest land donations ever received by the state. Since then, the site has been open for public use and recreation, offering miles of hiking trails, educational and interpretive exhibits, view access of the Patuxent River, and many yearly events.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.74704170227051,
+          37.71259841778931
+        ]
+      },
+      "properties": {
+        "name": "Ker Place",
+        "notes": "Ker Place\nhttps://www.nps.gov/places/onancock-historic-district-town-wharf.htm\n\n<h4><span style=\"color:#c0392b;\"><strong>Passport Stamp Address: Ker Place, 69 Market St. Onancock, VA 23417</strong></span></h4> <h3>Collect a Passport Stamp at Ker Place</h3> <p><a href=\"https://www.shorehistory.org/ker-place\">Ker Place</a> is a Federal-period Georgian-style house that was built between 1799 and 1803 for the merchant farmer John Shepherd Ker. Today the home serves as a gallery, archives, and collections facility with a genealogy room. Guided and self-guided tours of the museum are available. Visitors to Ker Place can <strong>collect a <a href=\"https://www.nps.gov/cajo/planyourvisit/passport-cancellation-stamps.htm\">passport stamp</a></strong> for the Captain John Smith Chesapeake National Historic Trail. <br /> <br /> Address: 69 Market St. Onancock, VA 23417<br /> Hours: Tuesday-Saturday from 11a.m. - 3 p.m.<br /> Admission: By donation<br /> Website: <a href=\"https://www.shorehistory.org/ker-place\">Ker Place — Shore History</a><br /> Contact: (757) 787-8012</p> <h3>Town of Onancock</h3> <p>Decades after the area was explored by Captain John Smith in 1608, the town of Onancock was charted in 1680. Onancock was the trade center of the Eastern Shore for some 250 years. It was closely tied to maritime commerce to Baltimore and Norfolk. </p> <h3>More to See & Do</h3> <p>After exploring Ker Place and the historic town, check out the <a href=\"https://www.nps.gov/places/onancock-marina.htm\">Onancock Marina & Tangier Ferry</a> for great water views, a public boat launch, and a ferry ride to Tangier Island. </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.98096178308106,
+          37.16997505006787
+        ]
+      },
+      "properties": {
+        "name": "Kiptopeke State Park",
+        "notes": "Kiptopeke State Park\nhttps://www.nps.gov/places/kiptopeke-state-park.htm\n\nAddress:<br /> 3540 Kiptopeke Dr.,<br /> Cape Charles, VA 23310<br /> <br /> A major flyway for migratory birds, Kiptopeke showcases the best that the Chesapeake Bay has to offer. Cayak, canoe, camp sites, and cabins are available for rent. ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.24959342846681,
+          38.59099917749164
+        ]
+      },
+      "properties": {
+        "name": "Leesylvania State Park",
+        "notes": "Leesylvania State Park\nhttps://www.nps.gov/places/leesylvania-state-park.htm\n\nAddress:<br /> 2001 Daniel K. Ludwig Dr.,<br /> Woodbridge, VA 22191<br /> <br /> Located along the Potomac River, come to Leesylvania State Park for hiking, picnicking, fishing, boating. The Park has a universally accessible fishing pier, playground, boat launch, boat storage area, snack bar and store, visitor center, gift shop, 20-station fitness trail, and canoe and kayak rentals. ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Machicomoco State Park",
+        "notes": "Machicomoco State Park\nhttps://www.nps.gov/places/machicomoco-state-park.htm\n\nMachicomoco State Park is located on the York River in Gloucester County, Virginia. In the Virginia Algonquian language, Machicomoco means \"a special meeting place.\" The park is on land associated with the Powhatan alliance of Tribes, with the important town of <a href=\"https://www.nps.gov/cajo/planyourvisit/werowocomoco.htm\">Werowocomoco</a> located about 10 miles upstream. Machicomoco was the first state park dedicated to Virginia's Indigenous peoples. <br /> <br /> In addition, the park is the site of Timberneck, a circa 1793 house that was part of the larger Rosewell Plantation. A local archeological firm is currently working to restore the site, which is listed on the National Register of Historic Places, for future use as an education and lodging building. <br /> <br /> Visitors to Machicomoco State Park can enjoy a variety of activities. The park has a 3.3 mile paved trail for walking and biking, .7 mile gravel trail around the interpretive area, and a natural trail that runs 2.4 miles.<br /> <br /> Two picnic shelters and numerous campsites are available for rent, including cabins and yurts. An open-air pavilion provides an opportunity to learn more about Virginia's Indigenous communities and history. Follow a timeline from the first arrival of people in North America, to the formation of Tribal groups whose descendents still live in Virginia today.  <br /> <br /> A car-top boat launch allows access to Poplar Creek and the York River. Access to the Catlett Islands and accompanying marsh areas is prohibited due to the sensitive nature of the resources. Motorized boats and boats launched from trailers are not permitted to use this access. Water access is closed from Nov. 1 through Jan. 31 to protect migratory waterfowl that use the area for overwintering. Fishing is permitted at the floating slips located on Timberneck Creek. A valid Virginia saltwater license is required from the Virginia Department of Marine Resources.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.18728973547364,
+          38.64261221243999
+        ]
+      },
+      "properties": {
+        "name": "Mason Neck State Park",
+        "notes": "Mason Neck State Park\nhttps://www.nps.gov/places/mason-neck-state-park.htm\n\nAddress: <br /> 7301 High Point Road,<br /> Lorton, VA 22079-4010<br /> <br /> This park, close to Washington D.C., offers guided canoe tours and plentiful opportunities to spot bald eagles. ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.320795,
+          37.433738
+        ]
+      },
+      "properties": {
+        "name": "Mathews County Visitor & Information Center",
+        "notes": "Mathews County Visitor & Information Center\nhttps://www.nps.gov/places/matthew-s-county-visitor-center.htm\n\n<p>The Mathews County Visitor and Information Center is located along Main Street in Mathews, Virginia and provides information for visitors looking to explore the area. Stocked with maps, brochures and event information, the visitor center does its best to help visitors have an authentic Chesapeake experience. The center also provides information on recreational activities, such as hiking or paddling, that are available nearby.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.823828,
+          38.485272
+        ]
+      },
+      "properties": {
+        "name": "Nanticoke River Discovery Center",
+        "notes": "Nanticoke River Discovery Center\nhttps://www.nps.gov/places/nanticoke-river-discovery-center.htm\n\nDiscover the Nanticoke River's rich history at the Nanticoke River Discovery Center in Vienna, Maryland. After viewing the Center's exhibits, take a walk along the riverfront or launch your kayak at the boat launch down the street. <br /> <br /> Address: 113 Old Ocean Gateway, Vienna, MD 21869. ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.75405836105347,
+          37.71256871165684
+        ]
+      },
+      "properties": {
+        "name": "Onancock Marina & Tangier Ferry",
+        "notes": "Onancock Marina & Tangier Ferry\nhttps://www.nps.gov/places/onancock-marina.htm\n\n<h2>Water Views and Public Launch from Onancock Wharf and Marina</h2> <p>Onancock Creek is easily accessible from the Onancock Wharf and Marina. The public boat ramp is sufficiently wide and steep for use during all tides. Parking for trailers in town is free for all trailers displaying the Accomack County Boat Ramp decal. All other vehicles require a $7.00 daily parking fee. Next to the marina is a Dinghy Dock & Kayak/Paddleboard/Canoe Launch that can be used free of charge. <br /> <br /> Address: 2 Market St, Onancock, VA 23417<br /> Hours: Wharf and Marina may close for winter season. The hours of operation from Memorial Day to Labor Day are 8:00 a.m. to 4:00 p.m. Monday - Thursday and 8:00am to 6:00pm Friday - Sunday.  <br /> Website: <a href=\"https://www.onancock.com/wharf\">Wharf Information | Town of Onancock, Virginia</a><br /> Contact: wharf@onancock.com / (757) 787-7911<br /> <br /> Onancock Landing is a small park adjacent to the Town Marina that commemorates the site's visitation by Captain John Smith and its inclusion in the Captain John Smith Chesapeake National Historic Trail. </p> <h2>Tangier-Onancock Ferry</h2> <p>Take a ferry from Onancock to reach the offshore island of Tangier, Virginia. These charming islands are home to a historic fishing community and some of the best birdwatching and Bay views in the region. <br /> <br /> The ferry makes daily runs between the first weekend in May and the first weekend in October. The ride duration is approximately an hour, and admission is on a first-come, first-served basis unless you make a reservation. <br /> <br /> Ferry Schedule:<br /> May - First Weekend of October<br /> Departs Tangier for Onancock: 7:30 AM<br /> Departs Onancock for Tangier: 10:00 AM<br /> Departs Tangier for Onancock: 3:30 PM<br /> Departs Onancock for Tangier: 5:00 PM<br /> <br /> Learn more about the ferry: <a href=\"https://www.tangierferry.com/\">Tangier-Onancock Ferry (tangierferry.com)</a></p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.05509948730469,
+          38.68408203125
+        ]
+      },
+      "properties": {
+        "name": "Piscataway Park",
+        "notes": "Piscataway Park\nhttps://www.nps.gov/places/000/piscataway-park.htm\n\n<p>This landscape, the Piscataway homeland, was the site of the political center of the Piscataway chiefdom, a large Indian village that was able to sustain itself on the natural riches of the Potomac, nearby game, and agriculture. When Captain John Smith first mapped the area in 1608, the Piscataway chiefdom spread throughout southern Maryland and included a number of semi-independent nations. <br /> <br /> Piscataway Park is home to bald eagles, beavers, deer, foxes, ospreys, and many other species. To complement the surroundings, the park has, in addition to a public fishing pier and two boardwalks over fresh water tidal wetlands, a variety of nature trails, meadows, and woodland areas. The park is also home to National Colonial Farm.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.33783721923828,
+          38.06446075439453
+        ]
+      },
+      "properties": {
+        "name": "Point Lookout State Park",
+        "notes": "Point Lookout State Park\nhttps://www.nps.gov/places/point-lookout-state-park.htm\n\n<p>Point Lookout State Park, in St. Mary’s County, Maryland, sits on a peninsula bordered by the Chesapeake Bay and the Potomac River. This well-known park is steeped in American history, beginning in the pre-Colonial era, and continuing through opening its gates as a park in 1965.<br /> <br /> During the War of 1812, British Troops used the peninsula as an encampment as they burned and looted the surrounding countryside and offered haven for enslaved people. British troops offered freedom for the enslaved people who made it to the grounds. In 1862, the grounds served as a port, hospital, garrison, and prisoner of war camp for the Union Army during the American Civil War. Thousands of soldiers perished on the grounds of Point Lookout due to harsh conditions in the marshes and swamps of the peninsula. The site is also home to the Point Lookout Lighthouse which was first commissioned in 1830 and oversaw much of the history of the park.<br /> <br /> Point Lookout also offers many recreational opportunities including swimming, fishing, boating, and camping. Guided tours of the lighthouse are available and a nearby nature center and museum provides information on the extensive history of the park and region. The park is open daily throughout the year.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8806838989258,
+          38.01362993602734
+        ]
+      },
+      "properties": {
+        "name": "Rappahannock River Valley National Wildlife Refuge",
+        "notes": "Rappahannock River Valley National Wildlife Refuge\nhttps://www.nps.gov/places/rappahannock-river-valley-national-wildlife-refuge.htm\n\nThe Rappahannock River Valley National Wildlife Refuge is home to bird species such as the Bald Eagle, Grasshopper Sparrow, and American Black Duck. <br /> <br /> Hunting, fishing, trails, and outdoor classroom await visitors to the refuge. <br /> <br /> 336 Wilna Road<br /> Warsaw, Virginia 22572<br /> <br /> 804-333-1470 Ext. 111",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.274927,
+          37.843373
+        ]
+      },
+      "properties": {
+        "name": "Reedville Fishermen's Museum",
+        "notes": "Reedville Fishermen's Museum\nhttps://www.nps.gov/places/reedville-fisherman-s-museum.htm\n\n<p>The Reedville Fishermen’s Museum is in Northumberland County, Virginia along the banks of Cockrell Creek, a tributary that drains into the lower Chesapeake Bay. The museum stands on land once owned by Captain Elijah Reed. In the mid-19<sup>th</sup> century, Reed sailed to the Chesapeake Bay from Maine and set up residence and a small menhaden fishery along the creek. There he introduced a method of extracting large quantities of oil from the fish to be used as a lubricant and in lighting, and the leftover bones and carcasses were used as meal and valuable fertilizer. The menhaden fishing industry brought tremendous wealth to Northumberland County and the town of Reedville, which was once known as the wealthiest town in the United States, due to its large income produced by the menhaden industry.<br /> <br /> Today, the property is home to the William Walker House, which represents a waterman’s home during the 1800s. This location was the first home of the museum but has now expanded to include a standalone museum and gift shop, a boat shop, model shop, pilot house and several vessel exhibits, two of which are on the National Registry of Historic Places.<br /> <br /> The museum hosts a collection of artifacts, items and historical materials that document and explore the history of fishing in the region, dating from early American Indian practices to modern-day oystermen. The museum operates Thursday through Saturday from 11AM to 4PM and Sunday from 1PM to 4PM from Memorial Day through Labor Day.<br /> <br /> Address: 504 Main Street, Reedville, VA. </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.40666007995604,
+          39.02087985281855
+        ]
+      },
+      "properties": {
+        "name": "Sandy Point State Park",
+        "notes": "Sandy Point State Park\nhttps://www.nps.gov/places/sandy-point-state-park.htm\n\n<p>Sandy Point State Park in Annapolis is a fabulous park for those looking to swim or sunbathe at the beach. The marina has 22 boat ramps, and a small boat launch nearby serves smaller crafts. </p> <p> </p> <p>1100 East College Parkway<br /> Annapolis MD 21409</p> <p><strong>Hours:</strong><br /> 7 a.m. to dusk, year-round<br /> 7 a.m. to 4 p.m., Mid-November - January 2 due to Lights on the Bay program<br /> <br /> Fishing: 24 hr. access year-round (Fishing requires that all persons must be actively fishing including children)</p> <p>Boating: 24 hr. access year-round</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Seaford Museum",
+        "notes": "Seaford Museum\nhttps://www.nps.gov/places/seaford-museum.htm\n\n<h3>A Historic Post Office Turned Local Gem</h3> <p><br /> The Seaford Museum, operated by the Seaford Historical Society, is the trail's easternmost partner. The town of Seaford is located along the Nanticoke River, just beyond the point that John Smith and his crew reached during their 1608 voyage. The local Kuskarawaok people, known today as the Nanticoke, approached the English cautiously but eventually traded with them and exchanged information. This history and more is on display at the Seaford Museum. <br /> <br /> The museum's exhibits follow a timeline, beginning with the region's natural resources. The Indigenous peoples of the area are introduced. Following the development of the city, exhibits explore the agricultural, shipbuilding, and textile industries. From an antique ketchup bottle to a female mob boss more nefarious than Bonnie & Clyde, the Seaford Museum is full of intrigue and surprises. </p> <p> </p> <h3>Information for visitors:</h3> <h4>Hours</h4> <p>Regular Hours:</p> <p> Every Friday: 1:00 - 4:00 p.m.</p> <p> 1st & 2nd Saturday & Sunday of each month: 1:00 – 4:00 p.m.</p> <p> Check the <a href=\"https://www.seafordhistoricalsociety.com/events/\">calendar</a> for additional details.</p> <h4>Tickets & Tours</h4> <p>Tickets: $7 per adult, children 12 and under and Members free.<br /> Combo Tickets for Museum and Ross Mansion are $12.<br /> <a href=\"https://www.seafordhistoricalsociety.com/visit/gov-ross-mansion/\">Learn more about the Governor Ross Mansion.</a><br /> Self-guided tour time: 1 - 2 hours. <br /> To schedule a tour outside of regular hours, call (302) 628-9828 or email admin@seafordhistoricalsociety.com at least 48 hours in advance of desired appointment time.</p> <h4>Parking:</h4> <p>Free parking in lot on east side of museum.<br /> We recommend RV’s and busses park on Conwell St.<br /> The Museum is handicapped accessible.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.18141174316406,
+          38.5535774230957
+        ]
+      },
+      "properties": {
+        "name": "Smallwood State Park",
+        "notes": "Smallwood State Park\nhttps://www.nps.gov/places/smallwood-state-park.htm\n\n<p>Smallwood State Park in Charles County, Maryland offers a marina, boat launching ramps, a picnic area, camping area, pavilions, playground, and nature trails. There are craft demonstrations, military exhibitions and other special events on special occasions. <br /> <br /> <strong>Address:</strong> 2750 Sweden Point Road<br /> Marbury MD 20658<br /> <br /> <strong>Contact: </strong>301-743-7613<br /> E-mail: <a href=\"https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=smallwood.statepark@maryland.gov\">smallwood.statepark@maryland.gov</a></p> <p><strong>Hours:</strong> 5 a.m. to sunset, April to October<br /> 7 a.m. to sunset, November to March</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.99179077148438,
+          37.82133102416992
+        ]
+      },
+      "properties": {
+        "name": "Tangier Island",
+        "notes": "Tangier Island\nhttps://www.nps.gov/places/tangier-island.htm\n\n<h2>A Small Island With a Storied Past</h2> <p>Tangier is a low-lying island, barely visible above the expansive waters of the <a href=\"https://www.nps.gov/chba/index.htm\">Chesapeake Bay</a>. However, this small island is home to a community of watermen and women whose ancestors have lived here since colonial times. Surprising stories emerge from the island's history, from the Native Americans who came here to hunt and fish to the enslaved African Americans who escaped to the island to find their freedom. </p> <h2>Visiting Tangier</h2> <p>Tangier Island is only accesible by private boat or ferry. Catch a ferry from one of these locations:<br /> <br /> <a href=\"https://www.nps.gov/places/onancock-marina.htm\">Onancock</a>, Virginia (Eastern Shore)<br /> <a href=\"https://www.nps.gov/places/reedville-fisherman-s-museum.htm\">Reedville</a>, Virginia (Western Shore)<br /> Chrisfield, Maryland (Eastern Shore)<br /> <br /> <a href=\"https://www.tangierisland-va.com/transportation/\">Find detailed information about ferry rides here.</a><br /> <br /> Visit the <a href=\"https://www.tangierisland-va.com/\">Tangier Island website</a> for a comprehensive guide to travel, lodging, ammenities, and activities available on the island. <br /> <br /> Learn about the <a href=\"https://www.nps.gov/places/tangier-island-history-museum.htm\">TANGIER ISLAND HISTORY MUSEUM</a> here. </p> <h2>Tangier's History</h2> <h3>Native Americans on Tangier</h3> <p>Shell middens, or waste piles of oyster shells, and many stone points discovered on the island reveal that Indigenous peoples visited Tangier Island. They likely came here to take advantage of the summer's rich bounty of fish and shellfish.The Pocomoke people of the Bay's Eastern Shore were among the groups that could have traveled here. They would have reached the offshore island in dugout canoes, the largest of which could reach 70 feet long. </p> <h3>Colonial Settlement</h3> <p>Among the first Europeans to observe the island, John Smith and his crew spotted Tangier and its neighboring islands during their voyage throughout the Bay in the summer of 1608. With a penchant for naming the places he visited, Smith called the islands the Russell Isles, after a member of his crew, Doctor Russell. As early as the 1670s, colonists held patents to the island, which they primarily used to graze livestock. A century later, the first permanent residents arrived on the island. At first they made their living by farming, but fishing, crabbing, and oystering soon took over as their primary occupation. </p> <h3>War of 1812</h3> <p>For nearly 1,000 slaves during the War of 1812, Tangier Island was a fortress of salvation, and the place where they took their first free steps. Fort Albion, named after the ancient name for England and <a href=\"https://www.nps.gov/people/george-cockburn.htm\">Commodore George Cockburn</a>’s flagship, was constructed on the island in 1814 to serve two major functions: as a central base to sustain continued British attacks along the Chesapeake, and as a depot for receiving runaway American slaves into citizenship and service to His Majesty, King George III of England.</p> <p>Using America’s slaves against itself was not a novel idea – the British successfully employed this war tactic during the Revolutionary War. However, in the War of 1812, American slaves were considered free British citizens as soon as they set foot on British soil (which included forts and vessels), as slavery was illegal in all British territories. The new recruits remained neither American nor enslaved in the eyes of the British. Some slaves stole boats or canoes and met British troops directly; others started fires to get the attention of British soldiers for rescue. In some cases, these slaves took up arms as part of an active offense, while in others they simply took the opportunity presented by the British to escape bondage.</p> <p>As early as 1813, British army and navy officers were instructed to “provide shelter, protection, and evacuation to refugees.” <a href=\"https://www.nps.gov/people/alexander-cochrane.htm\">Admiral Alexander Cochrane</a> formalized the policy in April 1814, with a <a href=\"http://www.novascotia.ca/nsarm/virtual/africanns/archives.asp?ID=70\">proclamation</a> offering the “choice of either entering into His Majesty’s Sea or Land Forces, or of being sent as FREE Settlers to the British Possessions in North America or the West Indies.”</p> <p>With an anticipated influx of new recruits, the Royal Navy needed a new base. Tangier Island provided an easy access point in the Chesapeake to the Upper and Lower Bays, as well as the Potomac, Washington and Baltimore, while being surrounded by slaves in the plantation country of Virginia and Maryland. Fort Albion included a barracks, a hospital, a church, family dwellings and gardens, meant to accommodate not just prospective soldiers, but the families they brought with them as well. From its earliest inception, Fort Albion was conceived not just as a place for military training, but a place which would be a temporary home for newly freed Britons.</p> <p>Tangier Island was not employed long; the War of 1812 ended less than a year after Fort Albion was built, on February 17, 1815. As the British withdrew, Cockburn ordered that “on no account [is] a Single Negro [to] be left, except by his own request,” fully embracing the status of the former slaves – whether in service or not – as free subjects of the British Empire. On March 21, 1815, the evacuation of the British from the island was completed, and Fort Albion and its barracks were burned. Former slaves were sent as soldiers and citizens to settle British colonies in the Caribbean and Canada.</p> <p>Between the fort’s intentional destruction and subsequent unintentional destruction by storms and floods common in the Chesapeake, nothing remains of Fort Albion today. Much of Tangier Island where it stood has eroded, leaving a sandy beach reminiscent of those that slaves saw as they set foot on the island, in search of freedom.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.99196493625641,
+          37.82616262550315
+        ]
+      },
+      "properties": {
+        "name": "Tangier Island History Museum",
+        "notes": "Tangier Island History Museum\nhttps://www.nps.gov/places/tangier-island-history-museum.htm\n\n<h2>An oasis among the waves</h2> <p>The Tangier Island History Museum tells the surprising story of a small island off the shore of Virginia. Like Smith Island in Maryland, <a href=\"https://www.nps.gov/places/tangier-island.htm\">Tangier Island</a> has been a fishing community for hundreds of years.Today, the island remains a vibrant watermen community and receives hundreds of tourists every year seeking stunning views of the Chesapeake Bay and a taste of the island's unique culture and history.</p> <h2>Small island, big history</h2> <p>Native Americans utilized the Chesapeake's islands, including Tangier, as evidenced by plentiful stone points visible along their shores. John Smith and his crew were among the first Europeans to visit the island, catching sight of it during their 1608 explorations of the region. Smith named Tangier and its neighboring islands the \"Russell Isles,\" after Doctor Russell, a member of his crew. The island's first settlers in the 1700s relied on farming for their occupation, but over the next century, harvesting seafood became the more lucrative profession. During the War of 1812, the British built Fort Albion on Tangier Island and used it as a staging area for battles further inland. Several enslaved African Americans escaped to Tangier Island and were given their freedom by the British. Some joined the Corps of Colonial Marines, an all-black unit who fought against the Americans. </p> <h2>Visiting the museum</h2> <h4>Getting there</h4> <p>Tangier Island is only accesible by private boat or ferry. Catch a ferry from one of these locations:<br /> <br /> <a href=\"https://www.nps.gov/places/onancock-marina.htm\">Onancock</a>, Virginia (Eastern Shore)<br /> <a href=\"https://www.nps.gov/places/reedville-fisherman-s-museum.htm\">Reedville</a>, Virginia (Western Shore)<br /> Chrisfield, Maryland (Eastern Shore)</p> <h4>Hours & Admission</h4> <p>The museum is open:<br /> Monday - Saturday, 11 a.m. - 4 p.m.<br /> Sunday, 12 p.m. - 4 p.m.<br /> <br /> Admission: $3<br /> Free: Children under 11, Military Veterans, Active Duty, and Residents</p> <h4>Contact</h4> <p>(757) 891-2374</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.03930554627351,
+          38.53119371432405
+        ]
+      },
+      "properties": {
+        "name": "The Thomas Stone House",
+        "notes": "The Thomas Stone House\nhttps://www.nps.gov/places/the-mansion-at-haberdeventure.htm\n\n<p>One of the more unique features at Thomas Stone’s plantation of Haberdeventure is the curved five-part house. While parts of the house are original to Thomas Stone’s lifetime, fire damage, renovation, and modernization have changed the structure.</p> <p>Thomas Stone purchased the 442-acre property from his uncle, Daniel Jenifer, on December 13, 1770. Construction of the house's brick Central Block began in the spring of 1771. The following year, Thomas and his family likely took up residence even though the work was incomplete.</p> <p>The Central Block’s first floor comprises the Center Passage along with the East and West Rooms. The second floor had two large rooms that would have served as bed chambers.</p> <h4>Center Passage</h4> <p>Upon entering the Center Passage, guests could see a large and attractive stairway, expensive portraits, and decorative rooms to the left and right, which provided clues to the wealth and status of the Stones. With doors at each end, this breezeway may have been one of the house's most comfortable rooms during the spring, summer, and fall.</p> <h4>West Room</h4> <p>The West Room is believed to be the Master Bedchamber. Ornate first floor bedchambers in colonial era homes often served the dual purposes of being daytime or informal parlors. In the case of Margaret Stone, who developed a debilitating case of arthritis that often turned her into an invalid, she likely did not receive many guests but could converse with her family on her better days.</p> <p>While there is no supporting evidence, the lifestyles of slave owning gentry of the time suggests that an enslaved African American may have slept either on the floor of the West Room or in the adjacent Center Passage, to be readily available to care for the family's needs both night and day.</p> <h4>East Room</h4> <p>It is evident this room was used for entertaining. Contrary to modern and romanticized visions of colonial era homes, most were not elegant and pristine. Few colonial homes had rooms as beautiful as Thomas Stone's East Room. The expensive furnishing and window coverings and the well crafted woodwork were designed to impress guests, and even though this woodwork is a reconstruction of the original it still shows the detail that was put into the work.</p> <p>Aside from its beauty, the East Room may have served a more important function. With only one doorway, the room could provide privacy for Thomas Stone as he performed his legal and political duties along with directing county defense activities during the American Revolution. In Maryland’s heavily class-based society, the elegance of the East Room emphasized the importance, power, and success of Thomas Stone and justified his role as a leading figure in the community.</p> <h4>Second Floor</h4> <p>The purpose of the second floor was to serve as bed chambers, not just for Thomas and Margaret Stone’s three children. Upon Thomas's father's and eldest brother's deaths in 1773, Thomas permitted some of his younger brothers and sisters to live in the home. Also, as a host to law clients, political allies, several siblings and their families, distant relations, and countless friends, Stone was expected to provide places for everyone to sleep. </p> <p>Crowded homes were quite common in the colonial era. Rooms were hot and stuffy in the summer and drafty and cold in the winter. Privacy by modern standards barely existed. Even George Washington referred to his mansion of Mount Vernon as a “well-restored tavern.”</p> <h4>West Hyphen</h4> <p>The adjoining West Hyphen was built during Thomas Stone’s ownership to connect to the West Wing, which served as a kitchen for the Stones. This Hyphen may have served as a multi-use space with easily moved furnishings to allow dining, indoor chores and crafts, entertaining, and possibly to serve as a guest chamber.</p> <h4>West Wing</h4> <p>The original West Wing kitchen space is believed to have been a small and relatively unadorned structure designed for the function of cooking, cleaning, and other household chores by enslaved workers. The current West Wing, which partially rests upon the original foundations, dates from the mid-1840s. There are two rooms on the first floor and a steep stairway that leads to two more rooms above. In 1846, William Briscoe Stone remarked in a letter to his daughter Mary that the West Wing was, “…much enlarged improved & amended. I am certain you will be surprised and pleased with the change.\"<br /> <br /> During the 20th-century, the residents redesigned the West Hyphen to create a connective hallway between the second floor of the Central Block and the West Wing. This modernization was removed by the National Park Service to help return the mansion to a more historical design.</p> <h4>East Hyphen</h4> <p>The East Hyphen was a unique space. Its primary function was to serve as a protective cover for the full cellar that existed beneath the Central Block. It is not connected in the same way as the West Hyphen is connected. In order to gain access to the space, one would have to go outside the house and enter from the outside. </p> <h4>East Wing</h4> <p>Architectural historians believe that the East Wing is the oldest part of the house. It was likely a wholly separate and independent structure moved from some other location on the plantation to serve as the East Wing. Like the East Hyphen, there was no internal connection from the Central Block to the East Wing. One had to exit the mansion, walk across the lawn, and then enter the East Wing. </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.57065963745117,
+          37.638015536706355
+        ]
+      },
+      "properties": {
+        "name": "Urbanna Marina",
+        "notes": "Urbanna Marina\nhttps://www.nps.gov/places/urbanna-marina.htm\n\n<p>The town of Urbanna is located along the Rappahannock River. The marina is a short walk from downtown. <br /> <br /> Available boat launches:</p> <ul> <li>Over 15 transient slips</li> <li>One, 27-foot wide mega-slip</li> <li>Long dock for boats over 90 feet</li> </ul> <p><br /> Phone: (804) 758-5440</p> <p>Address: 210 Oyster Road, Urbanna, Virginia 23175</p> <p>Email: <a href=\"https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=townmarina@urbannava.gov\">townmarina@urbannava.gov</a></p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.86639864195305,
+          38.16209530499581
+        ]
+      },
+      "properties": {
+        "name": "Westmoreland State Park",
+        "notes": "Westmoreland State Park\nhttps://www.nps.gov/places/westmoreland-state-park.htm\n\nWestmoreland State Park is most known for its beaches where fossil shark teeth can be found. <br /> <br /> 145 Cliff Road,<br /> Montross, VA 22520<br /> <br /> Phone: 804-493-8821<br /> <br /> Email: westmoreland@dcr.virginia.gov",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.71683883666991,
+          37.40897213788786
+        ]
+      },
+      "properties": {
+        "name": "York River State Park",
+        "notes": "York River State Park\nhttps://www.nps.gov/places/york-river-state-park.htm\n\nClassified as a Chesapeake Bay National Estuarine Research Reserve, York River State Park is a short drive from downtown Williamsburg, VA. <br /> <br /> Address: 9801 York River Park Rd.,<br /> Williamsburg, VA 23188<br /> <br /> Phone: 757-566-3036<br /> Email: YorkRiver@dcr.virginia.gov",
+        "icon": "red-pin-down.png"
+      }
+    }
+  ]
+}

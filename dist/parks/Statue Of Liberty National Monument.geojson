@@ -1,0 +1,155 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0463825365629,
+          40.6901865735125
+        ]
+      },
+      "properties": {
+        "name": "Audio Tour Liberty Island",
+        "notes": "Audio Tour Liberty Island\nhttps://www.nps.gov/places/000/audio-tour-liberty-island.htm\n\n<p>This self-guided tour helps visitors learn about the Statue of Liberty while exploring Liberty Island.<br /> Adult tours are available in the following languages: Arabic, English, French, German, Hindi, Italian, Japanese, Korean, Mandarin, Portuguese, Russian, Spanish, American Sign Language (video,) and Audio Described for the Blind and Low Vision (English.)</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.04610831820264,
+          40.689921497951005
+        ]
+      },
+      "properties": {
+        "name": "Crown Cafe",
+        "notes": "Crown Cafe\nhttps://www.nps.gov/places/crown-cafe.htm\n\nThe Crown Café on Liberty Island has an espresso bar that serves Cappuccinos, Lattés, and Americanos using Starbucks Coffee. A variety of snacks are available including organic fruit, chips, and ice cream. Visitors also have the option of ordering full meals such as paninis, wraps, soup/salads, as well as hotdogs, hamburgers, and fries.<br /> <br /> <strong>Gift Shop & Bookstore:</strong> Within the same building, visitors will find a non-profit shop that sells books, apparel, historical reproductions, collectibles, and games in connection with the National Park Service. Immediately adjacent to the café is a traditional souvenir store that sells various items all related to the Statue of Liberty. Items such as coffee mugs, jewelry, or even family photos can be obtained. For inquiries about hosting an event, please telephone (212) 363-3180.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.04711627960205,
+          40.68991327807744
+        ]
+      },
+      "properties": {
+        "name": "Ferry: Liberty Island to Ellis Island",
+        "notes": "Ferry: Liberty Island to Ellis Island\nhttps://www.nps.gov/places/ferry-liberty-island-to-ellis-island.htm\n\nYou can board the Statue Cruises Ferry on Liberty Island to travel to Ellis Island: The National Museum of Immigration. A departure schedule is located on the dock, and can also be found on their website at statuecruises.com. ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.044228,
+          40.68888
+        ]
+      },
+      "properties": {
+        "name": "Fort Wood",
+        "notes": "Fort Wood\nhttps://www.nps.gov/places/000/fort-wood.htm\n\n<p>The Statue of Liberty's pedestal sits atop the remains of Fort Wood, originally one link in a chain of defenses protecting New York City and its vital harbor. The fort was built between 1808 and 1811 in the shape of an eleven-pointed star and was occupied by the War Department as an army post until 1937.<br />The eleven-pointed star design was brought to North America by French military engineers in the 17th century. The fort acted as a lookout position with harbor guns entrenched near the shore.</p><h3>Why is it called Fort Wood?</h3><p>Fort Wood is named in honor of Lieutenant Colonel Eleazer Derby Wood. An American Army engineer who died in the siege of Fort Erie, Ontario, on the Canadian front of the War of 1812. Lt. Col. Wood was born in New York City and graduated from the United States Military Academy in 1806.</p><h3>What is it made out of?</h3><p>The exterior walls of the fort are covered with a grey-blue granite from Blue Hill, Maine. The granite is bonded to the rubble masonry walls with concrete. Most of the work was completed during the summers of 1845-1847. Remember, this work couldn't be completed in the below freezing temperatures of a winter in New York Harbor. </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.045835,
+          40.690767
+        ]
+      },
+      "properties": {
+        "name": "Liberty Island",
+        "notes": "Liberty Island\nhttps://www.nps.gov/places/000/liberty-island.htm\n\n<p>Liberty Island is home of the Statue of Liberty National Monument and Fort Wood. The Statue was a gift from the people of France to the people of the Untied States celebrating the friendship between the two nations. The symbolism of the Statue is ever changing.</p><h3>Ranger Tours</h3><p>Meet at the flag pole for a Ranger led tour, weather permitting. Tour times are posted at the flag pole and in the Information Center.<br /><br /></p><h3>Audio Tour Liberty Island</h3><p>This self-guided tour helps visitors learn about the Statue of Liberty while exploring Liberty Island.<br />Adult tours are available in the following languages: English, Spanish, French, Italian, German, Mandarin, Russian, Arabic, Japanese.</p><h3>Fort Wood</h3><p>The Statue of Liberty's pedestal sits atop the remains of Fort Wood, originally one link in a chain of defenses protecting New York City and its vital harbor. The fort was built between 1808 and 1811 in the shape of an eleven-pointed star and was occupied by the War Department as an army post until 1937.<br /><br />The eleven-pointed star design was brought to North America by French military engineers in the 17th century. The fort acted as a lookout position with harbor guns entrenched near the shore. Many incised markings, believed to be Masonic symbols, have been found on its granite exterior walls and the surrounding lawn.</p><h3>Island History</h3><p>Formerly called Bedloe's Island, Liberty Island was under the control of the U.S. Lighthouse Board, then the U.S. War Department, and in 1933, became part of the National Park Service. Liberty Island is approximately 15 acres of land located in New York Harbor and is part of New York State.</p><h3>Ferry off the island</h3><p>Return to the dock where you arrived. The Ferry to Ellis Island and The Battery - New York, will be on your right. The Ferry to Liberty State Park, New Jersey, will be on your left.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.044641,
+          40.689376
+        ]
+      },
+      "properties": {
+        "name": "Pedestal",
+        "notes": "Pedestal\nhttps://www.nps.gov/places/000/pedestal.htm\n\n<p>Access into the monument is very limited. Pedestal tickets are reserved through Statue Cruises prior to visiting the island. A limited number of \"Pedestal Access\" tickets are available each day at the ticket offices in Battery Park, NY, and Liberty State Park, NJ, on a first-come, first-serve basis.</p><h3>Pedestal Access</h3><p>Pedestal access allows visitors to go to the top of the granite pedestal, as well as the lower pedestal levels and the museum located in the base. The pedestal is accessible by stairs or elevators located within the monument. </p><h3>Funding the Pedestal</h3><p>The Statue of Liberty's pedestal was one of the largest private fundraising efforts of the 19th century. After nearly 20 years of planning, designing and fundraising, the pedestal was completed and the Statue was placed on top.</p><h3>Top of the Pedestal</h3><p>From this point, you may look up inside the Statue through the glass ceiling panels. Also, depending upon weather conditions, visitors have the opportunity to walk outside with a panoramic view of New York Harbor.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.044901,
+          40.68941
+        ]
+      },
+      "properties": {
+        "name": "Remnants of Fort Wood",
+        "notes": "Remnants of Fort Wood\nhttps://www.nps.gov/places/000/remnants-of-fort-wood.htm\n\n<p>You are looking at the remains of a bomb-proof room, most likely built in the 1840's. The mortared brick vault enclosed this room, which was later converted for use as a guard room and then as a prison cell.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.04546976089478,
+          40.68929444666259
+        ]
+      },
+      "properties": {
+        "name": "Sculpture Garden",
+        "notes": "Sculpture Garden\nhttps://www.nps.gov/places/000/sculpture-garden.htm\n\n<p>The Sculpture Garden brings to life some of the most important people involved in the creation and construction of the Statue of Liberty and its pedestal. View the statues of Edouard de Laboulaye, Frederic-Auguste Bartholdi, Alexandre-Gustave Eiffel, Joseph Pulitzer, and Emma Lazrus.</p> <h3>Laboulaye</h3> <p>Edouard de Laboulaye -In 1865, Laboulaye proposed the idea of a monument for the United States representing the ideals of freedom and democracy.</p> <h3>Bartholdi</h3> <p>Frederic-Auguste Bartholdi - The French artist and sculptor who designed the Statue of Liberty, officially entitled Liberty Enlightening the World.</p> <h3>Eiffel</h3> <p>Alexandre-Gustave Eiffel - The architect and engineer who replaced Viollet-le-Duc to design the Statue's internal support system.</p> <h3>Pulitzer</h3> <p>Joseph Pulitzer - Using his newspaper to urge the American public to donate, he helped to raise funds for the Pedestal.</p> <h3>Lazarus</h3> <p>Emma Lazarus - The poet who wrote \"The New Colossus\" to help raise money for the Pedestal's construction.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.044059,
+          40.688627
+        ]
+      },
+      "properties": {
+        "name": "Statue Front",
+        "notes": "Statue Front\nhttps://www.nps.gov/places/000/statue-front.htm\n\n<p>The front of the island is one of the best places to get pictures and capture the beauty of the Statue of Liberty. Standing at 305 feet and 1 inch (93 meters), the Statue was the tallest structure in New York when built in 1886. The Statue is raising a torch with her right arm and her left arm is supporting a tablet bearing the date of American Independence, July 4, 1776 in Roman numerals (July IV, MDCCLXXVI.)</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.045159,
+          40.690775
+        ]
+      },
+      "properties": {
+        "name": "Viewing the Skyline from Liberty",
+        "notes": "Viewing the Skyline from Liberty\nhttps://www.nps.gov/places/000/viewing-the-skyline-from-liberty.htm\n\n<p>In 1886, the Statue of Liberty standing on her pedestal, stood taller than any other structure in New York City.<br /> View the evolution of the tall buildings in the skyline at the wayside on the northwest side of the of island.</p>",
+        "icon": "red-pin-down.png"
+      }
+    }
+  ]
+}

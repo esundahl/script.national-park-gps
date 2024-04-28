@@ -1,0 +1,545 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.9730178499011,
+          41.91305625153989
+        ]
+      },
+      "properties": {
+        "name": "Atlantic White Cedar Swamp Trail",
+        "notes": "Atlantic White Cedar Swamp Trail\nhttps://www.nps.gov/places/atlantic-white-cedar-swamp-trail.htm\n\n<p><strong>Length:</strong> 1.2 mile loop, one hour<br /> <strong>Location:</strong> 195 Marconi Station Road. At the stop light, turn east off Route 6 into the Marconi Station Area, South Wellfleet. Follow brown signs to the Marconi Site and White Cedar Swamp.<br /> <strong>Pets: </strong>Pets are not allowed on the Atlantic White Cedar Swamp Trail.<br /> <strong>Features:</strong> This trail descends through a stunted oak and pine forest into a mature woodland, leads to a boardwalk that winds through the picturesque Atlantic White Cedar Swamp, and returns via the historic “Wireless Road” (a sand road) to the starting location.<br /> <strong>Conditions:</strong> Moderate difficulty; some steep stairs; return route is 0.5 mile in soft sand; swamp portion of this trail is boardwalk<br /> <strong>Restrooms:</strong> Seasonal</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.0748157,
+          41.958125
+        ]
+      },
+      "properties": {
+        "name": "Bay View House",
+        "notes": "Bay View House\nhttps://www.nps.gov/places/bay-view-house.htm\n\n<p>Overlooking Cape Cod Bay, there is no better place on Cape Cod to watch a sunset.<br /> <br /> While located only a few miles from Wellfleet town center, when sitting on the deck enjoying the company of friends and family, you will feel miles away from the stress of everyday life. The Bay View House is a three bedroom, one bathroom home that sleeps seven. This spacious, well-equipped home will make your stay at Cape Cod National Seashore memorable.</p> <p><strong>Rates</strong></p> <ul> <li>Peak Season Nightly Rate: $300</li> <li>Non-Peak Season Nightly Rate: $175</li> <li>Refundable Security Deposit: $250 (per reservation)</li> <li>There is a mandatory 5 night miniumim stay for reservations during the peak season, and a minimum 3 night stay during non-peak season.</li> </ul> <p data-component=\"Heading\"><strong>Facilities</strong></p> <ul> <li>Beds include: one queen, one twin and two fulls.</li> <li>Pillows, blankets, and fans are included. Bed sheets and towels are not provided.</li> <li>Washer and dryer.</li> <li>Kitchen is fully equipped including: microwave, oven, range, coffeemaker, toaster, dishwasher, pots/ pans, eating utensils and plates.</li> <li>Large deck, with a BBQ grill and patio furnishings, overlooking Cape Cod Bay. </li> <li>Flat screen TV with Blu-ray player. </li> <li>Pets are not allowed.</li> </ul> Please visit <a href=\"www.recreation.gov/camping/campgrounds/10004657\">recreation.gov</a> for more information about rates, availability, and amenities.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.94842178850595,
+          41.8477062408907
+        ]
+      },
+      "properties": {
+        "name": "Beach View House",
+        "notes": "Beach View House\nhttps://www.nps.gov/places/beach-view-house.htm\n\nPerched on top of the bluff overlooking Coast Guard Beach, guests can take in the panoramic views of the old Coast Guard station, the ocean and Nauset Bay from your wrap-around deck.<br /> <br /> This home is a recently renovated three-bedroom, two-bathroom cottage that sleeps six. The walk from the front door to Coast Guard Beach, which has been consistently rated as a top family beach by both National Geographic Magazine and Dr. Beach’s Top Beaches, is less than ten minutes. This spacious, well-equipped home will make your stay at Cape Cod National Seashore memorable.<br />   <p><strong>Rates</strong></p> <ul> <li> <p>Peak Season Nightly Rate: $500</p> </li> <li> <p>Non-Peak Season Nightly Rate: $400</p> </li> <li> <p>Refundable Security Deposit: $250 (per reservation)</p> </li> <li> <p>There is a mandatory 5 night miniumim stay for reservations during the peak season, and a minimum 3 night stay during non-peak season.</p> </li> </ul> <p data-component=\"Heading\"><strong>Facilities</strong></p> <ul> <li>Beds include: one queen, one full and two twins.</li> <li>Pillows, blankets, and fans are included. Bed sheets and towels are not provided.</li> <li>Kitchen is fully equipped including: microwave, oven, range, coffeemaker, toaster, dishwasher, pots/ pans, eating utensils and plates.</li> <li>Large deck, with a BBQ grill and patio furnishings, overlooking the Atlantic Ocean. </li> <li>Flat screen TV with Blu-ray player. </li> <li>Pets are not allowed.</li> </ul> Please visit <a href=\"https://www.recreation.gov/camping/campgrounds/10004659\">recreation.gov</a> for more information about rates, availability, and amenities.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.19408442755817,
+          42.066642525337016
+        ]
+      },
+      "properties": {
+        "name": "Beech Forest Trail",
+        "notes": "Beech Forest Trail\nhttps://www.nps.gov/places/beech-forest-trail.htm\n\n<p><strong>Length:</strong> 1 mile loop, (pond loop 0.75 mile, extension loop 0.25 mile), one hour.<br /> <strong>Location: </strong>175 Race Point Road. Turn right off Route 6 at traffic light onto Race Point Road. Proceed approximately 0.5 mile to the Beech Forest parking area on left.<br /> <strong>Features:</strong> Journey into the heart of a picturesque beech forest, and enjoy great bird watching opportunities, especially in spring and fall. It skirts the shallow Beech Forest Pond.<br /> <strong>Conditions:</strong> Easy; extension loop has steep log steps; some soft sand; picnic area and seasonal restrooms at trailhead; Province Lands bicycle trail can be accessed from parking area. Please don't feed the wildlife, including the birds. This can damage the natural balance, and is against the law.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.9715166187,
+          41.8377001908
+        ]
+      },
+      "properties": {
+        "name": "Buttonbush Trail",
+        "notes": "Buttonbush Trail\nhttps://www.nps.gov/places/buttonbush-trail.htm\n\n<p><strong>Length:</strong> 0.3 mile loop, 15 minutes.<br /> <strong>Location:</strong> Adjacent to the Salt Pond Visitor Center amphitheater, 50 Nauset Road, off Route 6.<br /> <strong>Pets: </strong>Pets are not allowed on Buttonsush Trail.<br /> <strong>Features:</strong> This loop trail includes interactive features great for kids, and involves all the senses as it winds through forest, crosses over the Buttonbush Pond on a boardwalk bridge, and traverses formerly cultivated areas. This trail features a guide rope, and text in both braille and large print to assist those with impaired vision.<br /> <strong>Conditions:</strong> Easy; some log steps on the second half of the trail; moderate grade; restrooms at visitor center.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.9462860998,
+          41.8439341998
+        ]
+      },
+      "properties": {
+        "name": "Coast Guard Beach",
+        "notes": "Coast Guard Beach\nhttps://www.nps.gov/places/coast-guard-beach.htm\n\n<p>Coast Guard Beach is the southernmost beach managed by Cape Cod National Seashore. It marks the start of what author Henry David Thoreau called the \"Great Beach,\" an uninterrupted sandy coastline stretching north for over 20 miles. Coast Guard is a prime swimming beach during the summer season.<br /> <br /> From Memorial Day through mid-September, the primary parking area for this beach is at Little Creek, located a short distance west of the beach on Nauset Road. An open- air shuttle provides transportation to the beach. During the summer, parking at the small lot on the beach is restricted to local residents and vehicles displaying handicap placards. There is a seasonal pet prohibition on the south side of the beach to allow for nesting and migrating shorebirds.</p> <p>Coast Guard Beach is named for the old white Coast Guard building that still stands on the dune above the beach. Nesting and migrating shorebirds share the sand with beachgoers, and seals and sharks are at home in the waters just offshore.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.95817275439059,
+          41.84407025969465
+        ]
+      },
+      "properties": {
+        "name": "Doane Trail",
+        "notes": "Doane Trail\nhttps://www.nps.gov/places/doane-trail.htm\n\n<p><strong>Length:</strong> 0.6 mile loop, 30 minutes.<br /> <strong>Location:</strong> Pinecrest Drive, Eastham, MA. Doane Picnic Area, one mile east of Salt Pond Visitor Center on Nauset Road (leading to Coast Guard Beach). Look for brown signs.<br /> <strong>Pets: </strong>Leashed pets are allowed on the trail.<br /> <strong>Features:</strong> This paved, wheelchair-accessible loop trail with interpretive text winds through an emerging pine and oak forest. A picnic area is adjacent to the parking area.<br /> <strong>Conditions:</strong> Easy; wheelchair accessible grade (also good for strollers); seasonal restrooms.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.96197967925917,
+          41.818108150493195
+        ]
+      },
+      "properties": {
+        "name": "Fort Hill Trail",
+        "notes": "Fort Hill Trail\nhttps://www.nps.gov/places/fort-hill-trail.htm\n\n<p><strong>Length:</strong> 1 mile loop, 1 hour.<br /> <strong>Location:</strong> 70 Fort Hill Road. Turn off Route 6 at the brown Fort Hill sign on Governor Prence Road in Eastham. Continue to the parking area on the left, across from the Captain Penniman House. The trail may also be accessed from Hemenway Landing, just north of Fort Hill on Route 6.<br /> <strong>Pets: </strong>Pets are not allowed on Fort Hill Trail.<br /> <strong>Features:</strong> This loop trail crosses open fields, connects with the Red Maple Swamp Trail, and offers spectacular vistas of the Nauset Marsh area. This is also a great location for bird enthousiasts.<br /> <strong>Conditions:</strong> Easy; solid surface, some log steps on slopes; seasonal restrooms near Hemenway Landing.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.06899699079528,
+          41.933423573393334
+        ]
+      },
+      "properties": {
+        "name": "Great Island Trail",
+        "notes": "Great Island Trail\nhttps://www.nps.gov/places/great-island-trail.htm\n\n<p><strong>Length:</strong> 3.9-8.8 miles round trip (3.9 for tavern loop round trip to parking area; 8.8 for round trip to Jeremy Point overlook including tavern loop.)<br /> <em>Allow three to five hours to explore Great Island.</em><br /> <strong>Location:</strong> Corner of Griffin Island and Chequessett Neck Road. From Route 6, follow green signs to Wellfleet Center; turn left onto East Commercial Street (follow signs to Wellfleet Harbor); continue along the shoreline from town pier via Chequessett Neck Road to the Great Island parking area. (Keep water view on left after leaving Route 6.)<br /> <strong>Pets: </strong>Leashed pets are allowed in designated ares on Great Island Trail. Be sure to check trail signs for permitted areas.<br /> <strong>Features:</strong> This trail follows sandy stretches between the elevated heights of Great Island and Great Beach Hill. Its higher elevations punctuate spectacular vistas which emerge from an even-aged, pitch-pine forest. Part of this trail leads to a colonial-era tavern site (no remains visible). Other sections skirt salt marsh embayments.<br /> <em>A picnic area is adjacent to parking area.</em><br /> <strong>Conditions:</strong> The park’s most difficult trail; mostly soft sand; some log steps; portions are submerged at high tide; hats, sturdy footgear and drinking water advised; portable toilets. Leashed pets are allowed between the upper/lower parking areas along the trail to the first cut and out onto the beach. </p> <aside> <p>Beach access is via designated trail only. Do not traverse the dune to reach the beach. Please stay on designated trails to protect fragile resources.</p> </aside>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.0813389024,
+          42.0529767
+        ]
+      },
+      "properties": {
+        "name": "Head of the Meadow Beach",
+        "notes": "Head of the Meadow Beach\nhttps://www.nps.gov/places/head-of-the-meadow-beach.htm\n\nThe landform of Cape Cod is often described as being in the shape of a bent arm with its hand curled into a fist at the northernmost tip. Head of the Meadow Beach in North Truro has the distinction of being located at the \"wrist\" of the Cape, where the landform just begins to curl back toward the mainland US.<br /> <br /> This location is a place of dynamic shifting sands, with bars often forming off the main beach on which herds of seals lounge at low tide. The broad sandy beach offers excellent shorebird nesting habitat, particularly for the Federally-threated piping plover. As a result, during much of the summer season, the beach is closed to pets.<br /> <br /> The wreck of the <em>Frances</em>, which sank in a December gale in 1872, may still be seen here at low tide. United States Life Saving Service men dragged a whaleboat from the bay across the Cape to the outer beach and rescued all aboard. The captain, who died several days later from the effects of exposure, is buried in Truro.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.11390004763611,
+          42.05917259034442
+        ]
+      },
+      "properties": {
+        "name": "Head of the Meadow Bike Trail",
+        "notes": "Head of the Meadow Bike Trail\nhttps://www.nps.gov/places/head-of-the-meadow-bike-trail.htm\n\n<strong>Length:</strong> 2 miles<br /> <strong>Location:</strong> There are two access points to the Head of the Meadow Bike Trail: <ul> <li>High Head Road in Truro (2 hour parking time limit)</li> <li><a href=\"https://www.nps.gov/caco/planyourvisit/head-of-the-meadow.htm\">Head of the Meadow Beach</a> (seasonal fees apply)</li> </ul> <strong>Features:</strong> This 2 mile bike trail connects the dirt parking lot at High Head Road to Head of the Meadow Beach. Enjoy a calm bike ride along berry bushes and trees. Seasonal restrooms are available at Head of the Meadow Beach.<br /> <strong>Difficulty:</strong> Easy; some surfaces may be bumpy, use caution. May encounter mosquitos or deerflies depending on season.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.217671,
+          42.044928999
+        ]
+      },
+      "properties": {
+        "name": "Herring Cove Beach",
+        "notes": "Herring Cove Beach\nhttps://www.nps.gov/places/herring-cove-beach.htm\n\nWhale watching from shore, tidal pools for the kids, calm waters, and killer sunsets: what's not to love about Herring Cove Beach?<br /> <br /> Herring Cove is the only Cape Cod National Seashore beach that is on the Cape Cod Bay side of the Cape. As such, the waves are more gentle and the water temperatures a bit warmer than along the Atlantic Ocean.<br /> <br /> This beach is right outside the town center of Provincetown. It offers some of the best sunsets on Cape Cod, as well as distant views of Race Point Lighthouse. With its handicap accessibility, a snack bar that operates during the summer months, and the Province Lands Bike Trail nearby, Herring Cove bustles with activity throughout the year.<br /> <br />  ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.21652699247511,
+          42.04438473619834
+        ]
+      },
+      "properties": {
+        "name": "Herring Cove Snack Bar",
+        "notes": "Herring Cove Snack Bar\nhttps://www.nps.gov/places/herring-cove-snack-bar.htm\n\n<p>The Herring Cove Snack Bar is a food and beverage service located at Herring Cove Beach in Provincetown. It's operated by Far Land on the Beach, Inc. and operates from Memorial Day through Columbus Day. This is a vintage beach food concession facility that offers lunch, dinner, and other beach snacks.</p> <h3>Additional Options</h3> <p>Many of the towns in and around the seashore offer a variety of food options in close proximity. For more information about other food options in surrounding towns, visit the Cape Cod Chamber of Commerce. Information is also available at each town's information booth.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.062136,
+          42.039303
+        ]
+      },
+      "properties": {
+        "name": "Highland Light",
+        "notes": "Highland Light\nhttps://www.nps.gov/places/highland-light.htm\n\n<p>Highland Light Station, also known as Cape Cod Light, is located on Outer Cape Cod within Cape Cod National Seashore in North Truro. Commissioned by George Washington and established in 1797 as the 20th light station in the United States, the original 45-foot tall wooden tower and keeper's dwelling were built more than 500 feet from the edge of a 125-foot-tall clay cliff. A new brick lighthouse was erected near the original tower in 1831. The present 66-foot-tall brick light tower, keeper's house, and generator shed replaced the previous structures in 1857. An enclosed walkway connects the tower and the one-and-one-half-story, L-shaped, Queen-Anne-style keeper's dwelling.</p> <p>Erosion of the steep cliff throughout the years brought the present light station around 100 feet from the cliff's edge by the early 1990s. Using funds raised by the Truro Historical Society combined with state and Federal grants, Highland Light Station was successfully moved 450 feet back to safer ground. After the 18-day move, the light was relit on November 3, 1996, and is an active aid to navigation. Today, the keeper's house features a gift shop and museum exhibits and a dedicated staff provides tours of the tower.</p> <p>The naturalist and author Henry David Thoreau visited Highland Light several times in the 1850s. Thoreau found the lighthouse \"a neat building, in apple pie order.\"</p> <p>In 1864, Thoreau wrote an essay for Atlantic Monthly on the history of the Highland Light. In this excerpt, he describes the power of the Light:</p> <p><em>\"The keeper entertained us handsomely in his solitary little ocean house. He was a man of singular patience and intelligence, who, when our queries struck him, rang as clear as a bell in response. The light-house lamp a few feet distant shone full into my chamber, and made it bright as day, so I knew exactly how the Highland Light bore all that night, and I was in no danger of being wrecked... I thought as I lay there, half-awake and half-asleep, looking upward through the window at the lights above my head, how many sleepless eyes from far out on the ocean stream -- mariners of all nations spinning their yarns through the various watches of the night -- were directed toward my couch.\"</em></p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.97902413988115,
+          41.922670419174324
+        ]
+      },
+      "properties": {
+        "name": "LeCount Beach House",
+        "notes": "LeCount Beach House\nhttps://www.nps.gov/places/lecount-beach-house.htm\n\nNestled among the pine trees in the middle of Cape Cod National Seashore, the LeCount Beach House is the perfect spot for a family vacation.<br /> <br /> Located in Wellfleet, this recently renovated two bedroom, one bathroom home sleeps six. It’s a short walk to LeCount beach, one of the best beaches on Cape Cod, and minutes from the historic Wellfleet downtown. This spacious, well-equipped home will make a stay at Cape Cod National Seashore memorable.<br /> <br /> <strong>Rates</strong> <ul> <li>Peak Season Nightly Rate: $375</li> <li>Non-Peak Season Nightly Rate: $225</li> <li>Refundable Security Deposit: $250 (per reservation)</li> <li>There is a mandatory 5 night miniumim stay for reservations during the peak season, and a minimum 3 night stay during non-peak season.</li> </ul> <p data-component=\"Heading\"><strong>Facilities</strong></p> <ul> <li>WiFi</li> <li>Beds include: one queen, two twins and one sofa pull out bed.</li> <li>Pillows, blankets, and fans are included. Bed sheets and towels are not provided.</li> <li>Washer and dryer.</li> <li>Kitchen is fully equipped including: microwave, oven, range, coffeemaker, toaster, dishwasher, pots/ pans, eating utensils and plates.</li> <li>Large covered patio, with a BBQ grill and furnishings. </li> <li>Pets are not allowed.</li> <li>Limited heat available.</li> <li>Flat screen TV with blu-ray player.</li> </ul> Please visit <a href=\"https://www.recreation.gov/camping/campgrounds/10004661\">recreation.gov</a> for more information about rates, availability, and amenities.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.9608221007,
+          41.8467314999
+        ]
+      },
+      "properties": {
+        "name": "Little Creek Fee Booth",
+        "notes": "Little Creek Fee Booth\nhttps://www.nps.gov/places/little-creek-fee-booth.htm\n\nLittle Creek is a satellite parking area for Coast Guard Beach. All beach entrance fees for Coast Guard Beach are collected at Little Creek. Daily park entrance passes and America the Beautiful annual passes can be purchased here.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.9618542004,
+          41.8905359993
+        ]
+      },
+      "properties": {
+        "name": "Marconi Beach",
+        "notes": "Marconi Beach\nhttps://www.nps.gov/places/marconi-beach.htm\n\n<p>Marconi Beach has a unique feel among the beaches of the national seashore. The area offers wild pristine nature in all directions. The coastal bluff that runs the backside of Cape Cod is around 50 feet in height here, and a stairway leads down to the sandy beach.<br /> <br /> Marconi Beach is popular for swimming and surfing, and its large parking lot provides access for beachgoers. Once on the beach, it is possible to walk for miles in either direction (be sure to check area tides), getting away from crowds and finding a sense of solitude.<br /> <br /> Marconi Beach is named for the Italian inventor, Guglielmo Marconi, who successfully transmitted the first two-way transatlantic wireless radio communication between the US and England from atop the high bluffs in 1903. It is also famous for being near the site of the <em>Whydah</em>, the pirate ship captained by Samuel Bellamy that wrecked just offshore in a storm in 1717, and which gave rise to a bounty of local legends and tales.</p> <p> </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.9634051322937,
+          41.8220461880898
+        ]
+      },
+      "properties": {
+        "name": "Marconi Station Site",
+        "notes": "Marconi Station Site\nhttps://www.nps.gov/places/marconi-station-site.htm\n\n<h3>The Birth of an Idea</h3> <p>The experiments of Heinrich Hertz inspired the idea. This German physicist first demonstrated the existence of electric and magnetic waves, and with this revelation young Guglielmo Marconi began dreaming of a way to send messages from transmitter to receiver without the aid of wires. In 1894 Marconi retreated to a top floor laboratory of his family’s Villa Grifone near Bologna, Italy, and at the age of twenty began his experiments in earnest. At first, Marconi used homemade equipment, testing and repeatedly modifying it, each time stretching to greater limits the distance that signals could be received from a transmitter. First it was 30 feet. Then it was one mile. Then it was twenty and fifty miles. By 1901, Marconi achieved a range of 200 miles. Wireless telegraphy was suddenly the rage of Europe – and then of America.<br /> <br /> On December 12, 1901 in St. John’s, Newfoundland, Marconi raised a kite with an antenna dangling from it. He sought to prove that radio waves could cross the Atlantic. Through that hanging wire he heard the anticipated signal from across the ocean. The first transatlantic signal from England had been detected.</p> <h3>Spanning the Ocean</h3> <p>For Marconi the ‘great thing’ was to transmit wireless signals across the Atlantic. He built stations at Poldhu, England, Glace Bay, Nova Scotia, and South Wellfleet, Massachusetts. At this stage of wireless technology relatively long electromagnetic waves were used as signals. Transmitting great distances, therefore, required great sensitivity of receivers and tremendous power. Originally, huge rings of masts were installed to support the needed antennas. When storms destroyed them, they were replaced by sets of four wooden towers, 210 feet in height. Power requirements were tremendous. Keroseneburning engines produced 2,200 volts. When fed to a Tesla transformer, the voltage was stepped up to 25,000 volts – the energy needed to transmit longwave signals so far. It was from the Glace Bay station that the first successful two-way transatlantic wireless test message was sent on December 17, 1902.</p> <h3>Impacting Lives</h3> <p>January 18, 1903 the first public two-way wireless communication between Europe and America occurred. With elation, communiques from President Theodore Roosevelt and King Edward VII were translated into international Morse code at the South Wellfleet and English stations, respectively, and were broadcast.<br /> <br /> Ocean-going vessels quickly adopted Marconi apparatus to receive news broadcasts, and soon ship-to-shore transmittals were a major operation. Business and social messages could be sent for fifty cents a word. The South Wellfleet station became the lead North American facility for this function. The station’s effectiveness was limited however, so broadcasts were made between 10 pm and 2 am when atmospheric conditions were best.<br /> <br /> This brought little enthusiasm from local residents, who endured the sounds of the crashing spark from the great three-foot rotor supplied with 30,000 watts. The sound of the spark could be heard four miles downwind from the station. Eventually, the novelty of wireless telegraphy waned. However, the need for communication at sea remained high. Effective communication resulted in numerous sea rescues, culminating in the Carpathia&#’;s Wellfleet transmitter continued in commercial use. Skilled telegraphers sent out messages at the rate of 17 words a minute, and station CC (Cape Cod) served in effect as the first “Voice of America.”</p> <h3>The End of an Era</h3> <p>The demise of the South sparkgap station was inevitable. The sea cliff was eroding three feet each year, threatening the eastern-most towers with collapse. The station was closed in 1917 by the Navy to ensure security and news censorship during World War I. New inventions were making spark-gap transmission obsolete. The station was never reopened and in 1920 it was scrapped. The barn-red towers were dismantled, useful equipment was salvaged, and the buildings, once filled with the excitement and sounds of communication, were abandoned. Old CC was replaced by Wellfleet in Chatham, and it served as the most heavily used ship-to-shore radio station on the East Coast until its closure in 1993.</p> <h3>A Changed World</h3> <p>The early 20th century was an era of new achievements and new horizons. Wireless communication affected the world in many ways. It heightened interest in events beyond the bounds of daily contact. It affected national unity. It raised new possibilities of what could be accomplished. It brought new efficiency to business — and to warfare. WCC spent his life researching communications electronics, and his work yielded many improvements in wireless. Most significant, however, was the foundation he created for developments in radio, radar, microwaves and cellular communication. Upon his death, all wireless around the world was temporarily silenced in his honor. No one had ever received such recognition, and no one has received it since.</p> <h3>A Century Later</h3> <p>In the early 21st century we look back at a remarkable sequence of events. Communications have evolved from the speed of horse and rail to the speed of light and electricity. Most of the former South Marconi site is gone now, eroded by the relentless pounding of the Atlantic Ocean. The surrounding area is preserved as part of Cape Cod National Seashore. Though few reminders of the site remain, one can still stand on an Atlantic cliff on a winter day in South Wellfleet, Massachusetts and reflect on the event that sparked the birth of global wireless communication.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.93792405048137,
+          41.78776741296269
+        ]
+      },
+      "properties": {
+        "name": "Nauset Beach Inn",
+        "notes": "Nauset Beach Inn\nhttps://www.nps.gov/places/nauset-beach-inn.htm\n\n<p>The Nauset Beach Inn is set on four acres and is just a stone’s throw from the Atlantic Ocean and Nauset Beach.</p> <p>Every room commands a superb view of the great outer beach and the ever-changing sea. This quaint lodging option offers peace and enjoyment to all guests. Relish the taste of the ocean air, the sound of the breaking surf, and simply the best view on Cape Cod.<br /> <br /> Please visit the <a href=\"https://www.nausetbeachinn.com/\">Nauset Beach Inn website</a> for the most up-to-date information on rates, availability, and amenities.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.97122876478672,
+          41.83896128515567
+        ]
+      },
+      "properties": {
+        "name": "Nauset Bike Trail",
+        "notes": "Nauset Bike Trail\nhttps://www.nps.gov/places/nauset-bike-trail.htm\n\n<strong>Length:</strong> 1.6 miles<br /> <strong>Location:</strong> There are multiple access points to the Nauset Bike Trail: <ul> <li><a href=\"https://www.nps.gov/caco/planyourvisit/visitorcenters.htm\">Salt Pond Visitor Center</a></li> <li>Doane Picnic Area (2 hour parking limit)</li> <li><a href=\"https://www.nps.gov/caco/planyourvisit/coast-guard-beach-eastham.htm\">Coast Guard Beach</a> (seasonal fees apply)</li> </ul> <strong>Features:</strong> This bike path has been recently paved, and connects the Salt Pond Visitor Center, Doane Picnic Area, and Coast Guard Beach. The path also connects to many of the hiking trails in the area.<br /> <strong>Difficulty:</strong> Intermediate; some hills, recently paved surface.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.9531336999,
+          41.8602507998
+        ]
+      },
+      "properties": {
+        "name": "Nauset Light",
+        "notes": "Nauset Light\nhttps://www.nps.gov/places/nauset-light.htm\n\n<p>The present Nauset Lighthouse, which is listed on the National Register of Historic Places, is made of cast iron with a brick lining and stands 48 feet high. It was built in 1877, and was located in Chatham as a twin to the one that is there today. In 1923, the smaller wooden lighthouse in Eastham was retired, and the north tower in Chatham was dismantled, moved to Eastham, and reconstructed about 200 feet from the edge of the cliff near the relocated keeper's house. In the 1940s, Nauset Lighthouse was painted red and white as a daytime indicator. In 1981, the light's Fresnel lens was replaced by two two rotating aero beacons. The signal was changed from three white flashes to one red and one white flash of 5 second intervals between them.</p> <p>Coastal erosion continued and by 1996 it was dangerously close to the edge of the cliff. Less than 35 feet remained in November 1996 when Nauset Lighthouse was moved in one piece approximately 300 feet to a new site across the road. For the previous 73 years, the lighthouse had provided guidance to mariners traveling along the treacherous coastline of Cape Cod. In its new location, Nauset Lighthouse should be safe for another 30 years.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.9509916,
+          41.858382699
+        ]
+      },
+      "properties": {
+        "name": "Nauset Light Beach",
+        "notes": "Nauset Light Beach\nhttps://www.nps.gov/places/nauset-light-beach.htm\n\n<p>Nauset Light Beach is a broad, sandy beach backed by a steep glacial scarp. A hard-packed path leads from the parking lot down to the beach. During winter months, when wave activity is stronger, the beach can narrow considerably. Sometimes rocks and other features are temporarily uncovered.<br /> <br /> From Memorial Day through mid-September, part of this beach parking lot is restricted to Eastham residents. The lot is small, and tends to fill quickly on nice beach days.</p> <p>The red-and-white Nauset Lighthouse sits on the bluff above the beach. Today the lighthouse is maintained by the Nauset Light Preservation Society, which offers tours from late spring through early fall. A short walk from the parking lot are the Three Sisters lighthouses; these petite towers were decomissioned after Nauset Light was moved to this location. The historic French Cable Hut sits on the northern edge of the parking lot.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.9715360067,
+          41.8374940778
+        ]
+      },
+      "properties": {
+        "name": "Nauset Marsh Trail",
+        "notes": "Nauset Marsh Trail\nhttps://www.nps.gov/places/nauset-marsh-trail.htm\n\n<p><strong>Length:</strong> 1.3 mile loop, plus 1.5 mile spur to <a href=\"https://www.nps.gov/caco/planyourvisit/coast-guard-beach-eastham.htm\">Coast Guard Beach</a>, one hour.<br /> <strong>Location:</strong> Adjacent to the Salt Pond Visitor Center amphitheater, 50 Nauset Road, off Route 6.<br /> <strong>Pets: </strong>Pets are not allowed on Nauset Marsh Trail.<br /> <strong>Features:</strong> This trail winds along the edge of Salt Pond and Nauset Marsh, crosses fields, and returns to the Salt Pond Visitor Center through a recovering forest. There are several spectacular vistas along the way. A minimally-maintained trail extension leads to Doane Picnic Area and Coast Guard Beach. Extension is one mile each way.<br /> <strong>Conditions:</strong> Easy; some log steps; moderate grade; use caution when crossing the bike trail; restrooms located at the visitor center parking area.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.97712069619372,
+          41.92680762269269
+        ]
+      },
+      "properties": {
+        "name": "Ocean View House",
+        "notes": "Ocean View House\nhttps://www.nps.gov/places/ocean-view-house.htm\n\n<p>Spend your vacation enjoying dramatic views and enjoying the sights and sounds of life along the Atlantic Ocean.<br /> <br /> The Ocean View house is a one bedroom, one bathroom home, with a lower level living area that includes a full size futon, that sleeps four. Guests will find themselves minutes away from ocean beaches, ponds, trails, and the charming village of Wellfleet. This spacious, well-equipped home will make a stay at Cape Cod National Seashore memorable.<br /> <br /> <strong>Rates</strong></p> <ul> <li>Peak Season Nightly Rate: $425</li> <li>Non-Peak Season Nightly Rate: $325</li> <li>Refundable Security Deposit: $250 (per reservation)</li> <li>There is a mandatory 5 night miniumim stay for reservations during the peak season, and a minimum 3 night stay during non-peak season.</li> </ul> <p data-component=\"Heading\" data-shared-anchor-page-section-heading=\"true\" id=\"facilities\" tabindex=\"-1\"><strong>Facilities</strong></p> <ul> <li>Wi-Fi</li> <li>Beds include: one queen, one full futon.</li> <li>Pillows, quilts, and fans are included. Bed sheets and towels are not provided.</li> <li>Washer and dryer.</li> <li>Kitchen is fully equipped including: microwave, oven, range, coffeemaker, toaster, dishwasher, pots/ pans, eating utensils and plates.</li> <li>Large deck, with a grill and patio furnishings, overlooking the ocean.</li> <li>Flat screen television with Blu-Ray player.</li> <li>Pets are not allowed.</li> </ul> Please visit <a href=\"https://www.recreation.gov/camping/campgrounds/10004663?tab=info\">recreation.gov</a> for more information about rates, availability, and amenities.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.21648634970188,
+          42.08001973936067
+        ]
+      },
+      "properties": {
+        "name": "Old Harbor Life-Saving Station",
+        "notes": "Old Harbor Life-Saving Station\nhttps://www.nps.gov/places/old-harbor-life-saving-station.htm\n\n<p>The Old Harbor U.S. Life Saving Station is a historic maritime rescue station and museum, located at Race Point Beach in Provincetown, Massachusetts. Built in 1897, it was originally located at Nauset Beach near the entrance to Chatham Harbor in Chatham, Massachusetts. It was used by the United States Life-Saving Service (USLSS), and then by its successor, the United States Coast Guard (USCG), as the Old Harbor Coast Guard Station. The station was decommissioned in 1944, abandoned and sold as surplus in 1947, and was used as a private residence for the next twenty-six years.<br /> <br /> In the summer, the \"Beach Apparatus Drills\" are conducted on the grounds on Thursday evenings.</p> <p><a href=\"https://www.nps.gov/caco/learn/historyculture/upload/FinalIntroUSLSS.wmv\">An Introduction to the United States Life-Saving Service</a><br /> (.wmv file, 4:20 minutes)<br />  </p> <p><a href=\"https://www.nps.gov/caco/learn/historyculture/upload/FinalCrewUSLSS.wmv\">Life and Service of a Surfman</a><br /> (.wmv file, 3:39 minutes)<br /> <br /> Old Harbor Lifesaving Station is open May-September annually, Friday-Monday, 2-4 pm. **The passport stamp is only available when the station is open.**</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.02565212035923,
+          42.00182546983862
+        ]
+      },
+      "properties": {
+        "name": "Pamet Area Trails",
+        "notes": "Pamet Area Trails\nhttps://www.nps.gov/places/pamet-area-trails.htm\n\n<p><strong>Length:</strong> 0.6 miles each way, plus extensions, 45 minutes. Adjacent fire roads offer additional miles of walking opportunities.<br /> <strong>Location:</strong> 111 North Pamet Road. Take Truro Center/Pamet Roads exit off Route 6 in Truro. Proceed 1.5 miles on North Pamet Road to the end. Trail begins at the parking area adjacent to the Environmental Education Center (a hostel in summer).<br /> <strong>Pets: </strong>Pets are not allowed on the Pamet Area Trails.<br /> <strong>Features:</strong> The Bearberry Hill overlooks offer spectacular views of the Pamet landscape, with views of the Atlantic and the glacial terrain of the Pamet River valley, and a former boghouse from the era of commercial cranberry harvesting. Outdoor exhibits and a folder keyed to trail markers describe the area.<br /> <strong>Conditions:</strong> Moderate difficulty; log steps; steep grade to overlook. No restrooms.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.10682958648238,
+          42.05534225809381
+        ]
+      },
+      "properties": {
+        "name": "Pilgrim Spring Trail",
+        "notes": "Pilgrim Spring Trail\nhttps://www.nps.gov/places/pilgrim-spring-trail.htm\n\n<p><strong>Length:</strong> 0.7 mile loop, 30 minutes.<br /> <strong>Location:</strong> Turn right off Route 6, 1.2 miles past the brown Head of the Meadow Beach sign on the right, at the Pilgrim Heights area sign. Walk begins at the covered shelter. Upon exiting the trail near restrooms, proceed ahead across the parking area to your vehicle.<br /> <strong>Features:</strong> Path leads to a site representative of where the Pilgrims drank their first fresh water in New England. This short loop trail winds through the recovering pine and oak forest, and passes a marker which commemorates the Pilgrim’s initial exploration of this area. Leashed pets are permitted on this trail.<br /> <strong>Conditions:</strong> Easy; some log steps; moderate grade; picnic area and seasonal restrooms in parking area at end of trail.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.2053036,
+          42.0740604
+        ]
+      },
+      "properties": {
+        "name": "Province Lands Bike Trail",
+        "notes": "Province Lands Bike Trail\nhttps://www.nps.gov/places/province-lands-bike-trail.htm\n\n<strong>Length:</strong> 5.45 mile loop, 1.1 mile spur to <a href=\"https://www.nps.gov/caco/planyourvisit/herring-cove-beach.htm\">Herring Cove</a>, 0.5 mile spur to <a href=\"https://www.nps.gov/caco/planyourvisit/race-point-beach.htm\">Race Point Beach</a>, 0.25 mile spur to Bennett Pond<br /> <strong>Location:</strong> There are multiple access points to the Province Lands Bicycle Trail: <ul> <li><a href=\"https://www.nps.gov/caco/planyourvisit/race-point-beach.htm\">Race Point Beach</a> (seasonal fees apply)</li> <li><a href=\"https://www.nps.gov/caco/planyourvisit/herring-cove-beach.htm\">Herring Cove Beach</a> (seasonal fees apply)</li> <li><a href=\"https://www.nps.gov/caco/planyourvisit/visitorcenters.htm\">Province Lands Visitor Center</a></li> <li><a href=\"https://www.nps.gov/caco/planyourvisit/beechforest.htm\">Beech Forest Parking Lot</a></li> </ul> <strong>Features:</strong> This trail loops around the Province Lands, passing through pine forests, sandy dunes, and low-lying cranberry bogs. There are connections to both Herring Cove and Race Point beaches, as well as Bennett Pond. Enjoy a nice afternoon bike ride and then cool off at the beach!<br /> <strong>Difficulty:</strong> Advanced-Intermediate; steep hills, sharp turns, tunnels.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.2183554059711,
+          42.078623966091676
+        ]
+      },
+      "properties": {
+        "name": "Race Point Beach",
+        "notes": "Race Point Beach\nhttps://www.nps.gov/places/race-point-beach.htm\n\nRace Point Beach is located at the northernmost point on Cape Cod. With swift currents and deeper water closer to shore, the magic of the ocean ecosystem is just beyond the sand. In the spring whales can often be seen from shore and fishermen with their long surfcasting rods are a common sight at the water's edge.<br /> <br /> The Old Harbor Life-Saving Station Museum is nestled in the dunes here. Open seasonally, the museum provides a glimpse of daily life for the men of the US Lifesaving Service, the precursor to today's Coast Guard.<br /> <br /> With a path from the parking area across the dunes to the beach, Race Point is popular with beachgoers year-round. The park's oversand vehicle corridor is nearby, and offroad vehicles can often be seen parked along the shore in the distance.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.9618065780274,
+          41.81817693604
+        ]
+      },
+      "properties": {
+        "name": "Red Maple Swamp Trail",
+        "notes": "Red Maple Swamp Trail\nhttps://www.nps.gov/places/red-maple-swamp.htm\n\n<p><strong>Length:</strong> 0.8 mile round trip, 30 minutes.<br /> <strong>Location:</strong> Enter this trail from the <a href=\"https://www.nps.gov/caco/planyourvisit/forthill.htm\">Fort Hill Trail</a> or from Hemenway Landing in Eastham.<br /> <strong>Pets: </strong>Pets are not allowed on the Red Maple Swamp Trail.<br /> <strong>Features:</strong> Boardwalk sections of theis trail meander through the heart of the Red Maple Swamp. This setting is the most colorful in the fall.<br /> <strong>Conditions: </strong>Moderate difficulty; seasonal restrooms near Hemenway Landing.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.99425313221808,
+          41.95804718469477
+        ]
+      },
+      "properties": {
+        "name": "Seashore Modern House",
+        "notes": "Seashore Modern House\nhttps://www.nps.gov/places/seashore-modern-house.htm\n\n<p>A house made of windows, that’s the best way to describe the Seashore Modern House.<br /> <br /> Located off the beaten path, this two bedroom, one bathroom home sleeps four. The cottage, which is listed on the National Register of Historic Places, was designed in the “Modern style” and completed in 1961. The home sits atop a high bluff and faces northeast to maximize the sweeping views of the Atlantic Ocean below. Today, the house has been comfortably re-furnished with the era of its original construction in mind. This spacious, well-equipped home will make a stay at Cape Cod National Seashore memorable.<br /> <br /> <strong>Rates</strong></p> <ul> <li>Peak Season Nightly Rate: $325</li> <li>Non-Peak Season Nightly Rate: $175</li> <li>Refundable Security Deposit: $250 (per reservation)</li> <li>There is a mandatory 5 night miniumim stay for reservations during the peak season, and a minimum 3 night stay during non-peak season.</li> </ul> <p data-component=\"Heading\"><strong>Facilities</strong></p> <ul> <li>Beds include: one queen and one full.</li> <li>Pillows, quilts, and fans are included. Bed sheets and towels are not provided.</li> <li>Kitchen is fully equipped including: microwave, oven, range, coffeemaker, toaster, pots/ pans, eating utensils and plates.</li> <li>Large patio, with a grill and furnishings, overlooking the ocean.</li> <li>Pets are not allowed.</li> </ul> Please visit <a href=\"https://www.recreation.gov/camping/campgrounds/10004665\">recreation.gov</a> for more information about rates, availability, and amenities.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.10627168700728,
+          42.05537412265006
+        ]
+      },
+      "properties": {
+        "name": "Small's Swamp Trail",
+        "notes": "Small's Swamp Trail\nhttps://www.nps.gov/places/small-s-swamp-trail.htm\n\n<p><strong>Length:</strong> 0.6 mile loop, 30 minutes.<br /> <strong>Location:</strong> Pilgrim Heights Road, Truro, MA. Turn right off Route 6, 1.2 miles past the brown Head of the Meadow Beach sign, at the Pilgrim Heights area sign. Walk begins and ends at the covered shelter.<br /> <strong>Features:</strong> Chosen by Native People for living sites for thousands of years for water, protection, and food sources, early-European settlers also sought to make a living on this landscape. Gradually, the soil gave out, farms were abandoned, and the landscape began its slow recovery. The forest here now hides most, but not all, of the former land uses in this area.<br /> <strong>Conditions:</strong> Easy; some log steps; moderate grade; short boardwalk surface; picnic area and seasonal restrooms in adjacent parking area.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.97693912738494,
+          41.92594643693657
+        ]
+      },
+      "properties": {
+        "name": "Sunrise House",
+        "notes": "Sunrise House\nhttps://www.nps.gov/places/sunrise-house.htm\n\nSituated on a bluff overlooking the Atlantic Ocean, guests will delight in watching the sunrise each morning as you enjoy your breakfast.<br /> <br /> The Sunrise House is a four bedroom, one and one-half bathroom home that sleeps ten. Guests will find themselves minutes away from ocean beaches, ponds, trails, and the charming village of Wellfleet. This spacious, well-equipped home will make a stay at Cape Cod National Seashore memorable.<br /> <br /> <strong>Rates</strong> <ul> <li>Peak Season Nightly Rate: $550</li> <li>Non-Peak Season Nightly Rate: $350</li> <li>Refundable Security Deposit: $350 (per reservation)</li> <li>There is a mandatory 5 night miniumim stay for reservations during the peak season, and a minimum 3 night stay during non-peak season.</li> </ul> <p data-component=\"Heading\"><strong>Facilities</strong></p> <ul> <li>Wi-Fi </li> <li>Beds include: one king, two queens, four twins.</li> <li>Pillows, quilts, and fans are included. Bed sheets and towels are not provided.</li> <li>Washer and dryer.</li> <li>Kitchens are fully equipped including: microwave, oven, range, coffeemaker, toaster, dishwasher, and pots pans, eating utensils and plates .</li> <li>Flat screen television with Blu-Ray Player</li> <li>Large deck, with a grill and patio furnishings, overlooking the ocean.</li> <li>Four season rental with heat.</li> <li>Pets are not allowed.</li> </ul> Please visit <a href=\"https://www.recreation.gov/camping/campgrounds/10004667\">recreation.gov</a> for more information about rates, availability, and amenities.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.96558017997589,
+          41.818458242990346
+        ]
+      },
+      "properties": {
+        "name": "The Penniman House",
+        "notes": "The Penniman House\nhttps://www.nps.gov/places/the-penniman-house.htm\n\n<p>The Penniman House was built at the end of the Victorian Age and styled after the French Second Empire Period (1855-1870). The house was designed by an unknown architect, built by local artisans using the finest available materials, and sited on land purchased from Captain Penniman’s father.<br /> <br /> Completed in 1868 for the family’s use while the Captain continued his whaling career, the house included every known comfort and many innovative ideas. The foundation was laid on the existing ground, the basement walls built up, and fill brought in to raise the surrounding land by eight feet. This provided excellent drainage, ensuring a dry basement, and raised the windows of the cupola high enough for the Captain to observe the ships passing in both Cape Cod Bay and the Atlantic Ocean.<br /> <br /> The first floor contains a parlor, sitting room, dining room, kitchen and pantry. A center hall divides these rooms and contains the stairs to the second floor. A rear door gives access to the kitchen and the back stairs.<br /> <br /> Upstairs, four bedrooms are separated by a center hall. A small bathroom and stairs to the attic and cupola are at the rear.<br /> <br /> Two chimneys served the wood/coal stoves in the eight rooms. By 1897, a coal-fired furnace was installed in the basement, with pipes running to the parlor, sitting room and dining room. Floor grills are still visible in each of the rooms. The stoves continued to be used as supplementary heat in the spring and fall. About 1915, all the stoves except the kitchen range were removed, and the three-pipe furnace was replaced by a central coal-fired warm air furnace in the basement with a floor grill in the center hall. By 1940, the coal furnace was replaced by the existing oil furnace.<br /> <br /> A novel water collection system supplied the kitchen and bathroom. Drinking water came from a deep well in the rear yard. This house had the first kitchen and bath with indoor plumbing in Eastham and the first indoor flush toilet in town.<br /> <br /> Carpeting, stained glass windows, fine woodwork, running water and an efficient heating system made it one of the finest homes in town.<br />  <br /> The Penniman family occupied this fine home for nearly one hundred years, except for when the captain was at sea or when Mrs. Penniman took one or another of the children along on one of the whaling voyages.<br /> <br /> Mrs. Penniman’s family occupied three homes adjacent to the Penniman house. Her parents’ home was located where the parking lot is today. Sylvanus Knowles owned the house across the road from the Penniman house, and Seth Knowles had the big house at the bend in the road where the road ascends Fort Hill. The Knowles family farmed the land between Fort Hill and Skiff Hill to the north. Some of this land was originally given to Reverend Treat, the first minister in Eastham, and before that, had a long history of Native American use.<br /> <br /> After the Captain’s death in 1913, Mrs. Penniman and their daughter, Betsey, continued to live in the home. Mrs. Penniman’s died in 1921. Betsey Penniman, who never married, stayed around and raised her niece, Irma. Upon Betsey’s death in 1957, the home was left to Irma Penniman Broun. Irma and her husband sold the house with twelve acres to the National Park Service in 1963 when the Cape Cod National Seashore was formed.<br /> <br /> After the sons, Eugene and Edward, had completed their careers, they retired to the home in Eastham until they died. All are buried in Evergreen Cemetery, Eastham.</p> <h3>Architecture</h3> <p>The Penniman House was built by Captain and Mrs. Edward Penniman in 1868. The most conclusive documentation for this date of construction is the entries in Captain Edward Penniman’s account book for the expenses he incurred building the house from June 17 through December 8, 1868. Original drawings and specifications for the house also exist; unfortunately, they bear neither the signature of the architect nor a date. The last two pages of the specifications, where the date and name of the architect probably were written, have been lost.<br /> <br /> The Penniman House is a 2.5 story, wood-frame structure with a mansard roof. The mansard roof is the characteristic feature of French Second Empire style architecture in mid-19th century America.<br /> <br /> Although the architect of the Penniman House remains unknown, it seems likely that a Boston architect prepared these drawings and specifications. The theory that the plans for the house were either brought by the Captain from France, or ordered by him directly from France, is not supporte by any evidence. There are no records of Captain Edward Penniman ever traveling to France. From September 11, 1864, to April 2, 1868-the years immediately preceding the building of the house-Penniman served as Captain of the Minerva, and was on a whaling voyage around the world.<br /> <br /> The master builder of the Penniman House was Nathaniel Nickerson. His name is written on the back of one of the original drawings of the house, suggesting that they were the drawings and specifications from which he worked. Nathaniel Nickerson was also the most highly paid of the men who worked on the construction of the house.</p> <h3>Setting</h3> <p>The property that Captain Penniman purchased from his father in 1867 consisted of approximately twelve acres of land, on which were located a dwelling house, two barns, and several outbuildings.<br /> <br /> By 1880, however, all of the pre-1867 structures had disappeared. The earliest photograph of the property shows only the present house and the mansard-roofed barn built by the Pennimans in 1880. The old house, barn, and woodhouse thus must have been taken down between 1878 and 1880.<br /> <br /> Soon after the barn was built, a greenhouse was constructed along the north wall of the courtyard. It was a rectangular structure of wood and glass that extended along the full length of the courtyard’s north stone wall. With the building of this greenhouse, Captain Penniman appears to have completed his master plan for the property; all of the old buildings had been demolished and three new structures erected.<br /> <br /> In the 1920’s, the greenhouse was destroyed in a hurricane; it was not rebuilt. With this exception, the property retains its late 19th-century site plan.</p> <h3>Interior</h3> <p>The interior layout consists of four rooms on the first floor, two on each side of a central hall, four bedrooms and a bathroom on the second floor, a finished bedroom in the attic, and a cupola above. The interior woodwork and finishes are ornate and of high quality. Windows in the southwest parlor, northwest parlor, and dining room have molded, recessed panels below them extending from window apron to baseboard. The front stair has a handsome mahogany newel, handrail, and turned balusters. Doors on both the first and second stories have fine, hand painted grained finishes. The northwest parlor retains the design scheme applied when the flocked wallpaper and ceiling paper were hung in 1885.<br /> <br /> The house was built with interior plumbing. The kitchen contained two sinks, and a full bath was located on the second story. Water was supplied to this system by two cisterns, one located in the attic and the other underground at the northeast corner of the house. The kitchen retains its original marble sink and cabinet. The original heat source for the house was eight wood or coal stoves. They stood in front of the marble mantles in each of the rooms, and were piped directly into the two chimneys. In the 1890’s, a three-pipe, coal-fired furnace was installed to supplement the stoves. Floor grills are still visible in the parlor, sitting room and dining room. In the early 1900’s, the furnace and all the stoves (except the kitchen range) were replaced by a central coal-fired warm air furnace with a floor grill in the center hall. Later, the coal furnace was replaced by the existing oil furnace.<br /> <br /> When first built, the house was lighted with kerosene lamps. Electricity was introduced in the 1930s, but most of it was removed when the house was restored.<br /> <br /> In the 1980’s, the National Park Service installed reproduction wallpaper based on original designs documented by photographs and physical remainders. A collection of some one hundred glass plate negatives of turn-of-the-century scenes of the house and family serve to allow visitors to the house to envision how rooms were furnished and life was lived in the Penniman family days.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.9565463,
+          41.8596124995
+        ]
+      },
+      "properties": {
+        "name": "Three Sisters Lighthouses",
+        "notes": "Three Sisters Lighthouses\nhttps://www.nps.gov/places/three-sisters-lighthouses.htm\n\n<p>An 1836 petition by Eastham residents concerned about loved ones at sea caused the Boston Marine Society to recommend to the United States Congress the construction of the Nauset Lights. Congress granted $10,000, and the contract was awarded to Winslow Lewis, the lowest bidder at $6549.</p> <p>Three 15-foot high masonry towers were built. The lights soon gained the nickname “The Three Sisters” because from sea they looked like women in white dresses with black hats.</p> <p>Cape Cod shores change quickly. The National Lighthouse Board ordered three new moveable wooden towers to be built thirty feet inland from the original masonry ones.</p> <p>The new towers stood twenty-two feet tall; the lantern housing added an additional seven feet. The old towers were allowed to fall into the Atlantic.</p> <p>Advances in technology, the continuing erosion of Nauset cliffs, and the cost of maintaining three lights, prompted a major change at the Nauset Light station.</p> <p>In 1911, the center tower was moved away from the cliff edge and attached to the 1875 keeper’s house. The other two towers were set aside until a decision could be reached about their future.</p> <p>The fourth-order Fresnel lens in the remaining tower was now mounted on a ball bearing revolver, making the light flash three times every ten seconds.</p> <p>The decommissioned two sisters were sold at a public auction to Helen M. Cummings for $3.50! The Cummings family first moved them to a site near the old French Cable station, before making some repairs.</p> <p>In 1920, the towers were moved onto Cable Road, and adjoined with a room. The “Twin Lights Cottage” was subsequently used as a summer cottage and a dance studio, until the towers were sold to the National Park Service in 1965.</p> <p>After many years of service, the center tower fell into disrepair. The Lighthouse Bureau decided to replace it with one of the former Chatham “twin lights” that was no longer in use. This iron and brick tower was moved, repainted and stands today as the latest in a lineage of Nauset Lights.</p> <p>Once decommissioned, the last of the Three Sisters towers was sold to Albert Hall, who turned it into a cottage.</p> <p>The National Park Service purchased the center tower in 1975 with a plan to reunite it with the other two towers. The three are placed in their original orientation on a plot of land on Cable Road.</p> <p>Restoration took place through the 1980s, and the site opened for its first public tour in 1989.</p> <p>Today one can visit the Sisters and marvel at the remarkable journey that brought them their location on Cable Road in Eastham.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.02497935533218,
+          42.00155409335248
+        ]
+      },
+      "properties": {
+        "name": "Truro Hostel",
+        "notes": "Truro Hostel\nhttps://www.nps.gov/places/truro-hostel.htm\n\n<p>Escape from the hustle and bustle of city life and let cool ocean breezes take away your troubles at the Truro Hostel at Cape Cod National Seashore.<br /> <br /> Take in the breathtaking views from the dining room while you cook up a dinner feast in the shared guest kitchen.<br /> <br /> Spend your day relaxing at the beach, which is just five minutes away, or go on a hike to find the cranberry bog on the Pamet Area Trail System. However you spend your days, you’ll want to spend your evenings in our spacious and comfortable common room. The hostel is open from June to September. While it is possible to come by bus, it’s a 2.0 mile (2.4 km) walk from the bus stop to the hostel. We recommend traveling via car or bicycle.<br /> <br /> Please visit the <a href=\"https://www.hiusa.org/find-hostels/massachusetts/truro-111-north-pamet-road\">Truro Hostel website</a> for the most up to date information on rates, availability, and amenities.</p>",
+        "icon": "red-pin-down.png"
+      }
+    }
+  ]
+}

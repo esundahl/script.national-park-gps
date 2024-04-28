@@ -1,0 +1,140 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Alabama: Freedom Riders National Monument",
+        "notes": "Alabama: Freedom Riders National Monument\nhttps://www.nps.gov/places/freedom-riders-national-monument.htm\n\n<p>An interracial group of \"Freedom Riders\" set out in May 1961 on a journey from Washington, D.C., to New Orleans through the Deep South. In organizing the 1961 Freedom Rides, the Congress of Racial Equality (CORE) was building upon earlier efforts of other civil rights organizations, including the 1947 \"Journey of Reconciliation,\" an integrated bus ride through the segregated Upper South. The purpose of the 1961 Freedom Rides was to test if bus station facilities in the Deep South were complying with U.S. Supreme Court decisions: Brown v. Board of Education of Topeka (1954) had reversed the infamous \"separate but equal\" doctrine in public education, and Morgan v. Virginia (1946) and Boynton v. Virginia (1960) had struck down Virginia laws compelling segregation in interstate travel.<br /> <br /> On May 4, 1961, in Washington, D.C., eleven Freedom Riders split into two groups and boarded two buses, a Greyhound bus and a Trailways bus, bound for New Orleans. The Greyhound bus carrying the first of these groups left Atlanta, Georgia on Sunday, May 14, and pulled into a Greyhound bus station in Anniston, Alabama later that day. There, a segregationist mob, including members of the Ku Klux Klan, violently attacked the Freedom Riders. Throughout their journey, the Riders and their supporters continued to be attack again and again. Finally, on May 20, with the help of Dr. Martin Luther King Jr. and the Southern Christian Leadership Conference’s appeal to the Kennedy Administration and Alabama Governor John Patterson, the National Guard was brought in to stop the violence. <br /> <br /> Media coverage of the Freedom Rides inspired many people to take action and join the effort to end racial inequality. Over the summer of 1961, the number of Freedom Riders grew to over 400, many of whom were arrested and jailed for their activism. The Freedom Rides of 1961 focused national attention on Southern segregationists' disregard for U.S. Supreme Court rulings and the violence that they used to enforce unconstitutional State and local segregation laws and practices. The Freedom Rides forced the Federal Government to take steps to ban segregation in interstate bus travel. On May 29, 1961, Attorney General Kennedy petitioned the Interstate Commerce Commission (ICC) to issue regulations banning segregation, and the ICC subsequently decreed that by November 1, 1961, bus carriers and terminals serving interstate travel had to be integrated.<br /> <br /> <em>A project through the <a href=\"https://www.nps.gov/preservation-grants/civil-rights/\">African American Civil Rights Grant Program</a>, which works to document, interpret, and preserve the sites and stories related to the African American struggle to gain equal rights, funded work to restore the former Geyhound Bus Station and convert it into the Welcome Center to the Anniston Civil Rights Trail. The project focused on rehabilitating exterior and interior of the structure by removing non-historic components of the building and adding interpretive materials.</em></p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.82953401469187,
+          33.655894863977274
+        ]
+      },
+      "properties": {
+        "name": "Anniston Trailways Station",
+        "notes": "Anniston Trailways Station\nhttps://www.nps.gov/places/anniston-trailways-station.htm\n\n\"Throughout the first half of the 20th century, race relations in the South were dominated by local 'Jim Crow' laws. Although in 1960 the Supreme Court ruled that racial segregation violated the Interstate Commerce Act, local laws persisted.\"<br /> <br /> \"When a desegregated bus carrying black and white 'Freedom Riders' arrived at the Trailways Bus Station in Anniston on this date, a group of young white men came aboard to enforce segregated seating: whites in front, blacks in back. The men beat the Riders, forcing them to segregate. After police intervened, the bus continued to Birmingham with the badly injured Freedom Riders kept separated by their attackers.\"<br /> <br /> - Trailways Bus Station Attack Marker, City of Anniston Historic Trails Program (2016)",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.83010918616804,
+          33.658644061542006
+        ]
+      },
+      "properties": {
+        "name": "Corner of Noble Street and 11th Street",
+        "notes": "Corner of Noble Street and 11th Street\nhttps://www.nps.gov/places/corner-of-noble-street-and-11th-street.htm\n\nLocated in the heart of the Downtown Anniston Historic District, this street corner provides a welcome resting place during an afternoon of exploration in downtown Anniston. <br /> <br /> From this point, visitors can few several notable historic buildings in downtown Anniston, including the Kress building (1108 Noble Street), site of some of Anniston's earliest integration efforts, the Calhoun County Courthouse (25 W. 11th Street), site of the 1965 trial of Hubert Damon Strange for the murder of Willie Brewster, and many other historic commercial buildings built during the 20th century.<br /> <br /> This street corner is also only a short walk from the Anniston Greyhound Bus Depot (1031 Gurnee Avenue) and near several works of public art.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Greyhound Bus Burning Site",
+        "notes": "Greyhound Bus Burning Site\nhttps://www.nps.gov/places/greyhound-bus-burn-site.htm\n\nOn this site in May of 1961, a small group of nonviolent activists called Freedom Riders were attacked by a white mob. Traveling to protest segregation in interstate travel, the bus carrying these activists was ambushed at the Greyhound depot in Anniston. A white mob surrounded the bus, slashed its tires, and pursued the Freedom Riders out onto the highway. <br /> <br /> When the bus tires gave out, the mob firebombed the bus as the Freedom Riders onboard prepared for violence. Trapped on the burning bus, they emerged after an explosion and showed courage and resilence as the mob beat them. The Freedom Riders survived the attack and, within a few hours, made their way to Birmingham via a convoy organized by Reverand Fred Shuttlesworth. Images of the attack made headlines around the nation and the world, drawing significant attention to the Freedom Rider cause.<br /> <br /> Visitors to the Greyhound Bus Burning Site can read interpretive panels and take a quiet moment to reflect on the courage the Freedom Riders showed in the face of violence. Limited parking is available.  ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.83111,
+          33.658
+        ]
+      },
+      "properties": {
+        "name": "Greyhound Bus Depot",
+        "notes": "Greyhound Bus Depot\nhttps://www.nps.gov/places/greyhound-bus-depot.htm\n\nThe Anniston Greyhound Bus Depot witnessed the early stages of an attack on a small group of nonviolent civil rights activists in Anniston in May of 1961. Calling themselves the Freedom Riders, this diverse group traveled through the South to protest segregation in interstate travel.<br /> <br /> During a routine Sunday afternoon stop between Atlanta and Birmingham, a white mob ambushed the bus carrying Freedom Riders in the alleyway adjacent to this building. The mob slashed tires and followed the group out of town, firebombing the bus and attacking the activists when the tires gave out. Media coverage of the violence captured the attention of the nation, spurring hundreds to join the Freedom Rider movement during the summer of 1961.<br /> <br /> Now open to the public on Wednesdays from 10am - 3pm, visitors can stop by the Anniston Greyhound Bus Depot to encounter the story of the Freedom Riders in a building that still bears evidence of segregation's realities. Visitors can also view traveling exhibits, pick up brochures, and stamp NPS passports. Limited street parking is available.<br /> <br />  ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.8313086067792,
+          33.65804592547498
+        ]
+      },
+      "properties": {
+        "name": "Greyhound Bus Mural",
+        "notes": "Greyhound Bus Mural\nhttps://www.nps.gov/places/greyhound-bus-mural.htm\n\nCreated by artist Joseph Giri, this mural is titled \"Could You Get On The Bus?\" The mural features a massive, period-correct depiction of a Greyhound bus similar to the one that carried a small group of Freedom Riders into Anniston in May of 1961. The mural faces the alleyway where the attack on these Freedom Riders began.<br /> <br /> This mural also includes several interpretive panels that feature information and a timeline of the 1961 attack. ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.82823571431707,
+          33.656981135458544
+        ]
+      },
+      "properties": {
+        "name": "Public Library of Anniston-Calhoun County",
+        "notes": "Public Library of Anniston-Calhoun County\nhttps://www.nps.gov/places/public-library-of-anniston-calhoun-county.htm\n\n\"Desegregation of the Library began when two African American pastors, Reverends William B. McClain and Nimrod Q. Reynolds, peacefully attempted to enter the building on September 15, 1963. Their actions were endorsed by the city of Anniston Human Relations Council, which was pursuing desegregation of public institutions in Anniston. As the men approached the Library, several white men attacked them, and both men were injured, Reynolds seriously. The next day, Reverends J. Phillips Noble and George Smitherman, City Commissioner Miller Sproull, and Library board members Charlie Doster and Carelton Lentz accompanied McClain as he entered the Library without incident and checked out a book.\"<br /> <br /> - Anniston Public Library Desegregation Marker, City of Anniston Historic Trails Program (2016)<br />  ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.83428140226931,
+          33.66380989097579
+        ]
+      },
+      "properties": {
+        "name": "West 15th Street Historic District",
+        "notes": "West 15th Street Historic District\nhttps://www.nps.gov/places/15th-street-historic-district.htm\n\n\"This district was once the economic and social hub of Anniston's African American community. In its heyday (1940-1950), the District was a \"city within a city,\" with businesses that catered to the black community. Grocery stores, restaurants, doctors' offices, barber and beauty shops, a hotel, and other businesses thrived. The Gem Theater showed movies and hosted celebrity entertainers such as Cab Calloway and Lewis Jordan. At the Blair Hotel, Dr. Martin Luther King, Jr. held strategy sessions with Rev. Nimrod Q. Reynolds and Dr. Gordon Rodgers. The District was added to the National Register of Historic Places in 1991.\"<br /> <br /> - 15th Street Historic District Marker, City of Anniston Historic Trails Program (2016)",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.83153702483598,
+          33.66123814058561
+        ]
+      },
+      "properties": {
+        "name": "Zinn Park",
+        "notes": "Zinn Park\nhttps://www.nps.gov/places/zinn-park.htm\n\nZinn Park is an inviting downtown park, located a few blocks off Noble Street in downtown Anniston. Named for community leader William H. Zinn, this park includes the Martin Luther King Jr. Pavilion which hosts many community events.<br /> <br /> Zinn Park ammenities include an ADA-accesible playground, pavilions, a splash pad, restrooms, and plenty of shaded seating areas. The Unity House, a restored building now used for community group meetings and events, is also located in the park, on the corner of 13th Street and Moore Avenue.",
+        "icon": "red-pin-down.png"
+      }
+    }
+  ]
+}

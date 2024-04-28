@@ -1,0 +1,125 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.046985,
+          38.890672
+        ]
+      },
+      "properties": {
+        "name": "Information Panel: Vietnam Women's Memorial",
+        "notes": "Information Panel: Vietnam Women's Memorial\nhttps://www.nps.gov/places/000/information-panel-vietnam-womens-memorial.htm\n\n<p>An interpretive wayside describing the Vietnam Women's Memorial</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0476806,
+          38.891265
+        ]
+      },
+      "properties": {
+        "name": "Vietnam Veterans Memorial",
+        "notes": "Vietnam Veterans Memorial\nhttps://www.nps.gov/places/000/vietnam-veterans-memorial.htm\n\n<p>Dedicated in 1982, the Vietnam Veterans Memorial was a revolutionary minimalist design for a war memorial. From afar, the memorial appears as a gash on the landscape, an unhealed wound. The names of over 58,000 servicemembers who gave their lives between 1957 and 1975 are listed on the wall in chronological order starting and ending at the center of the wall.<br /> <br /> Guidebooks at the entrances to the memorial can help visitors find a specific name, corresponding to the panel number at the base of each panel and the row as counted from the top of the panel.<br /> <br /> According to a 2019 audit by the Vietnam Veterans Memorial Fund, 58,390 names are on the wall, but due to corrections, duplicates, or individuals who lived or are of unknown status, the wall represents 58,276 individuals.<br /> <br /> Names indicated with a cross are listed as missing in action, while a diamond superimposed on a cross represents a servicemember who was listed as missing in action when the memorial was built in 1982, but has since been determined to be killed in action.<br /> <br /> The nearby statues at the Vietnam Women's Memorial, the statue known as \"The Three Servicemen,\" and the flagpole representing the branches of the military are related features.<br /> <br /> Designer: Maya Ying Lin</p> <h4>Inscriptions</h4> <p>Apex panel, top<br /> 1959<br /> IN HONOR OF THE MEN AND WOMEN OF THE ARMED FORCES OF THE UNITED STATES WHO SERVED IN THE VIETNAM WAR. THE NAMES OF THOSE WHO GAVE THEIR LIVES AND OF THOSE WHO REMAIN MISSING ARE INSCRIBED IN THE ORDER THEY WERE TAKEN FROM US.<br /> Apex panel, bottom<br /> 1975<br /> OUR NATION HONORS THE COURAGE, SACRIFICE AND DEVOTION TO DUTY AND COUNTRY OF ITS VIETNAM VETERANS. THIS MEMORIAL WAS BUILT WITH PRIVATE CONTRIBUTIONS FROM THE AMERICAN PEOPLE. NOVEMBER 11, 1982<br /> Flag base<br /> This flag represents the service rendered to our country by the veterans of the Vietnam War. The flag affirms the principles of freedom for which they fought and their pride in having served under difficult circumstances.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.046573,
+          38.891452
+        ]
+      },
+      "properties": {
+        "name": "Vietnam Veterans Memorial Directory",
+        "notes": "Vietnam Veterans Memorial Directory\nhttps://www.nps.gov/places/000/vietnam-veterans-memorial-directory.htm\n\n<p>These directories help locate names on the wall. The directories are organized alphabetically by last name. Each entry includes a panel number and letter; \"W\" is for \"west\" or the left half of the memorial, \"E\" is for east, or the right half of the memorial. The numbers on the wall ascend from the center out toward the left and right extremes. Look at the bottom of each panel on the wall for its number.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0488507801,
+          38.8900272444
+        ]
+      },
+      "properties": {
+        "name": "Vietnam Veterans Memorial Kiosk",
+        "notes": "Vietnam Veterans Memorial Kiosk\nhttps://www.nps.gov/places/000/vietnam-veterans-memorial-kiosk.htm\n\n<p>When the kiosk is staffed, volunteers or NPS personnel are available at the window to answer questions and provide assistance. This help may include looking up the location of names engraved on the memorial as well as providing paper and pencil for those wishing to make rubbings of names on the wall.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.048479,
+          38.890651
+        ]
+      },
+      "properties": {
+        "name": "Vietnam Veterans Memorial directory-1",
+        "notes": "Vietnam Veterans Memorial directory-1\nhttps://www.nps.gov/places/000/vietnam-veterans-memorial-directory-1.htm\n\n<p>These directories help locate names on the wall. The directories are organized alphabetically by last name. Each entry includes a panel number and letter; \"W\" is for \"west\" or the left half of the memorial, \"E\" is for east, or the right half of the memorial. The numbers on the wall ascend from the center out toward the left and right extremes. Look at the bottom of each panel on the wall for its number.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.048141,
+          38.890583
+        ]
+      },
+      "properties": {
+        "name": "Vietnam Veterans Memorial: In Memory Plaque",
+        "notes": "Vietnam Veterans Memorial: In Memory Plaque\nhttps://www.nps.gov/places/000/vietnam-veterans-memorial-in-memory-plaque.htm\n\n<p>The \"In Memory\" plaque, dedicated in 2004, is located within the northeast corner of the Three Servicemen statue plaza. The plaque honors the men and women who served in Vietnam and later died from causes related to the war. Since the Vietnam War ended, thousands of Vietnam veterans have died each year due to Agent Orange exposure, PTSD/suicide, cancer and other causes related to their service. They are remembered for their sacrifice. Since 1999, the Vietnam Veterans Memorial Fund has held an In Memory Day ceremony each year to honor all those who died as a result of the war. This yearly ceremony recognizes new honorees and all whose names are on the In Memory Honor Roll.<br /> <br /> Inscription:</p> <p style=\"text-align: center;\">IN MEMORY<br /> OF THE MEN AND WOMEN<br /> WHO SERVED IN THE VIETNAM WAR<br /> AND LATER DIED AS A RESULT<br /> OF THEIR SERVICE<br /> <br /> WE HONOR AND REMEMBER<br /> THEIR SACRIFICE</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.048214,
+          38.890511
+        ]
+      },
+      "properties": {
+        "name": "Vietnam Veterans Memorial: Three Servicemen Statue",
+        "notes": "Vietnam Veterans Memorial: Three Servicemen Statue\nhttps://www.nps.gov/places/000/vietnam-veterans-memorial-three-servicemen-statue.htm\n\n<p>The Three Servicemen statue and flagstaff were added to the Vietnam Veterans Memorial in 1984. The statue depicts three American servicemen and the things they carried. Sculptor Frederick Hart's goal was to create a moving evocation of the experience and service of the Vietnam veteran. As Hart described the sculpture, \"The contrast between the innocence of their youth and the weapons of war underscores the poignancy of their sacrifice. There is about them the physical contact and sense of unity that bespeaks the bonds of love and sacrifice that is the nature of men at war...Their strength and their vulnerability are both evident.\"<br /> <br /> The base of the 60-foot flagpole contains emblems of the five services of the military. On it flies the American flag and the P.O.W. M.I.A banner beneath it. </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0469812005881,
+          38.890541699614914
+        ]
+      },
+      "properties": {
+        "name": "Vietnam Women's Memorial",
+        "notes": "Vietnam Women's Memorial\nhttps://www.nps.gov/places/000/vietnam-womens-memorial.htm\n\n<p>During the Vietnam War, women served in many different roles. Many women served as nurses and physicians while others acted as air traffic controllers, communication specialists, and  intelligence officers. The Vietnam Women’s Memorial was established to honor the women who risked their lives to serve their country.<br /> <br /> The memorial was dedicated in 1993 and includes a sculpture by Texas artist Glenna Goodacre depicting three women caring for a fallen soldier. Eight yellowwood trees surround the sculpture in honor of the eight servicewomen who gave their lives in Vietnam. The women's names are also among the over 58,000 names on the Vietnam Veterans Memorial. Ask a ranger to find a name on the wall and learn more about the people who served our country.</p>",
+        "icon": "red-pin-down.png"
+      }
+    }
+  ]
+}

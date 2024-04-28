@@ -1,0 +1,20 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Blackwell School",
+        "notes": "Blackwell School\nhttps://www.nps.gov/places/blackwell-school.htm\n\nListed in the National Register of Historic Places in 2019, the Blackwell School in Marfa, Texas, was the sole public education institution for the city's Hispanic students from 1909-1965. Like many states across the south, segregated education was practiced in the 19<sup>th</sup> and early 20<sup>th</sup> century. Segregation began in Marfa in 1892 following the completion of a new school for the city’s non-Hispanic students. Although there was no state law that mandated separate schools for Hispanic students, Texas school districts perpetuated the practice of <em>de facto</em> segregation through the mid-twentieth century. Segregated students attended the city’s original school building until 1909 when the district constructed a two-room adobe brick building on South Abbot Street. Known originally as the Ward or Mexican School, Blackwell School was later named for its longtime principal Jesse Blackwell. As the student population grew, more buildings were constructed next to the 1909 schoolhouse. Blackwell School closed in 1965 following the integration of the Marfa Independent School District. The Blackwell School is a significant local example of the period when the practice of “separate but equal” dominated education and social systems in the United States.<br /> <br /> On October 17, 2022 President Biden designated the Blackwell School as a National Historic Site. The separation of Mexican American students in what were then called \"community schools\" was met with limited school supplies such as books and athletic equipment. Along with limited resources, students were not allowed to speak their native langauge of Spanish, and were met with consequences, such as punishment by paddling.<br /> <br /> In 1954 Evelyn Davis the 7th grade teacher convinced school leaders to prohibit the speaking of the Spanish language on campus, in classrooms, on the playground, and on sports fields. Davis held a funeral for the language refered to as \"Burying Mr Spanish\" with a ceremony that took place at the entrance of the school. <br />  ",
+        "icon": "red-pin-down.png"
+      }
+    }
+  ]
+}

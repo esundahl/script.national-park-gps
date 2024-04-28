@@ -1,0 +1,125 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.73615944385529,
+          37.06891392488284
+        ]
+      },
+      "properties": {
+        "name": "Tour Stop #1: Park Visitor Center and National Cemetery",
+        "notes": "Tour Stop #1: Park Visitor Center and National Cemetery\nhttps://www.nps.gov/places/tour-stop-1-park-visitor-center-and-national-cemetery.htm\n\nThis is the location of the Mill Springs Battlefield National Monument Visitor Center (NPS) and the Mill Springs National Cemetery, operated by the US Department of Veterans Affairs. <br /> <br /> The Mill Springs Battlefield National Monument Visitor Center building was built in 2006 by the Mill Springs Battlefield Association and was donated to the National Park Service when the site became a National Monument in 2020. Inside the Visitor Center you can find bathroom facilities, water fountains, a community room where a 20 minute film about the battle is shown, and the museum with information and artifacts from the battle. <br /> <br /> Mill Springs National Cemetery was established in 1867, originally under the name of Logan's Crossroads National Cemetery, after William H. and Nancy S. Logan donated additional land to the government for its establishment. ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.73935127258301,
+          37.05627306130235
+        ]
+      },
+      "properties": {
+        "name": "Tour Stop #2: Zollicoffer Park",
+        "notes": "Tour Stop #2: Zollicoffer Park\nhttps://www.nps.gov/places/tour-stop-2-zollicoffer-park.htm\n\nThis is the location of the heaviest fighting during the Battle of Mill Springs on January 19, 1862. Confederate troops moved up into this area from the south early in the morning on January 19th, after meeting Federal pickets stationed at Timmy's Branch. Fighting occurred on both sides of the road, near where modern KY 235 is located. Heavy morning fog, bad weather, and the thick haze of black powder smoke created an environment of confusion as inexperienced troops struggled to see more than a rifle's length in front of them. <br /> <br /> On the eastern side of the road, where Zollicoffer Park is located, Confederate troops were down in the ravine to the east and were fighting uphill against Federal forces located on the other side of a rail fence. Today you can see a facsimilie of this fence in the park. <br /> <br /> On the western side of the road (across KY 235), Federal and Confederate forces clashed, moving through fields and among dense forested areas to exchange fire. <br /> <br /> This site has multiple interesting features: a historic wall and gate built in the early 1900s, a monument to Confederate General Felix K. Zollicoffer, the marker for a Confederate mass grave, the earth-print of a large witness tree that fell in the 1990s (The Zollicoffer Tree), multiple symbolic Confederate headstones, and the Ravine Trail, a 3/4 of a mile hiking trail. ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.73714113235474,
+          37.0540640115261
+        ]
+      },
+      "properties": {
+        "name": "Tour Stop #3: Last Stand Hill",
+        "notes": "Tour Stop #3: Last Stand Hill\nhttps://www.nps.gov/places/tour-stop-3-last-stand-hill.htm\n\nAt this location Confederate forces, the 17th, 28th, 29th Tennesse and the 16th Alabama Infantry regiments, held attempted to hold back advancing Federal forces in a \"Last Stand\". Once it was clear that was not possible and Confederate forces were in a full fighting retreat, Confederate artillery posted at the top of Last Stand Hill attempted to bombard Federal forces in order to allow their fellow units to retreat. They were only able to fire a few shorts due to a fear of friendly fire. <br /> <br /> This location offers a good view of Zollicoffer Park and the battlefield to the north, providing the Confederate perspective of the battle. ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.73485589027405,
+          37.04648596843107
+        ]
+      },
+      "properties": {
+        "name": "Tour Stop #4: Confederate Field Hospital",
+        "notes": "Tour Stop #4: Confederate Field Hospital\nhttps://www.nps.gov/places/tour-stop-4-confederate-field-hospital.htm\n\nThis is the location of a small log cabin used by Confederate forces as a field hospital during the Battle of Mill Springs. The hospital was in operation throughout the battle and most likely continued operating even after its capture by Federal forces after the Confederate retreat. A few of the foundation stones of the cabin are visible. <br /> <br /> Often set up in nearby hones, businesses, and even churches, field hospitals were rudimentary, with doctors and surgeons using whatever they could to supplement their meager supplies. This location was no different, taking advantage of a nearby structure to provide shelter to injured men. <br /> <br />  ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.73365426063538,
+          37.03376856906245
+        ]
+      },
+      "properties": {
+        "name": "Tour Stop #5: Timmy's Branch",
+        "notes": "Tour Stop #5: Timmy's Branch\nhttps://www.nps.gov/places/tour-stop-5-timmy-s-branch.htm\n\nThis stop is the location of the first shots of the Battle of Mill Springs. Having left their encampment at midnight and marched over 10 miles the morning of January 19, 1862, Confederate forces were hoping to surprise the Federal troops camped in and around Logan's Crossroads. Instead, a Confederate cavalry advance met with Federal pickets here at Timmy's Branch around 6:00 AM that morning. Once they began firing, all hope of surprising the larger Federal force further north was lost. ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.78091478347778,
+          36.961200149507015
+        ]
+      },
+      "properties": {
+        "name": "Tour Stop #6: Moulden's Hill",
+        "notes": "Tour Stop #6: Moulden's Hill\nhttps://www.nps.gov/places/tour-stop-6-moulden-s-hill.htm\n\nFederal forces stopped here while pursuing Confederate forces after the battle on January 19, 1862. After pushing Confederate pickets from the area, Federal forces camped and rested here to prepare for a morning assault on the Confederate winter encampment at Beech Grove.<br /> <br /> Throughout the night of January 19, Federal artillery deployed on the high ground in the area of Moulden's Hill shelled the Confederate encampment all night. When Federal forces advanced upon the encampment the next morning, January 20, they found the area abandoned, Confederate troops having retreated across the Cumberland River during the night. ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.78484153747559,
+          36.952601145687005
+        ]
+      },
+      "properties": {
+        "name": "Tour Stop #7: Confederate Fortified Camp at Beech Grove",
+        "notes": "Tour Stop #7: Confederate Fortified Camp at Beech Grove\nhttps://www.nps.gov/places/tour-stop-7-confederate-fortified-camp-at-beech-grove.htm\n\nThis stop is the location of part of the northern edge of the Confederate winter encampment. Along this northern edge was a line of formidable earthworks designed by military engineers. This winter encampment was located on a peninsula created by the Cumberland River and White Oak Creek. Confederate General Felix K. Zollicoffer chose this position, with his back to the river, believing it to be an easily defensible position, with the river covering any enemy attacks from the rear. His commanding officer, General George B. Crittenden disagreed with this, believing that Zollicoffer would be placing his troops in a precarious situation. If he was unable to fend off an attack from the north the river would make any evasive manuevers impossible. <br /> <br /> Despite Crittenden's direct order not to cross the river, Zollicoffer established his winter encampment here at Beech Grove. The first thing he had his troops do was create earthworks and entrenchments to protect themselves from Federal attacks from the North. ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.78643476963043,
+          36.94199036881142
+        ]
+      },
+      "properties": {
+        "name": "Tour Stop #8: Ferry Landing Site",
+        "notes": "Tour Stop #8: Ferry Landing Site\nhttps://www.nps.gov/places/tour-stop-8-ferry-landing-site.htm\n\nThis is the location of the original road leading up from the ferry landing of the Cumberland River that was used by both US and Confederate forces before and after the Battle of Mill Springs. Confederate soldiers crossed from the south side of the river on with orders to move north to build fortifications. Trees were felled and the soldiers began to build winter quarters of log huts for their own personal comfort. <br /> <br /> When the Confederate army retreated back to Beech Grove, Confederate Major General George B. Crittenden ordered the systematic retreat across the Cumberland River throughout the night of January 19-20. Everything the soldiers had brought over was left in their quarters and anything of military necessity was abandoned. The demoralized men marched down the road to the ferry crossing to board the Noble Ellis, a sidewheeled steamer, or rafts, that brought them to safety on the southside of the river. Crittenden successfully extracted his force to Mill Springs, then marched them to Monticello.",
+        "icon": "red-pin-down.png"
+      }
+    }
+  ]
+}

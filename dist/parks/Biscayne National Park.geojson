@@ -1,0 +1,110 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.160867,
+          25.398867
+        ]
+      },
+      "properties": {
+        "name": "19th Century Wooden Sailing Vessel",
+        "notes": "19th Century Wooden Sailing Vessel\nhttps://www.nps.gov/places/19th-century-wooden-sailing-vessel.htm\n\nVery little is known about the site commonly called the “Schooner Wreck,” and, in fact, it is not clear whether the ship actually was a schooner or if the term was generally attributed to a shipwreck of unknown type or origin. The site contains little evidence of cargo and, like most of the historic wrecks in Biscayne National Park, the ship was likely salvaged after sinking. The ship’s stone ballast is basalt, though its exact origins are unknown. Ballast is not a unique marker for a ship’s origin or even for its last port of call, as it was commonly loaded and offloaded as needed. Ballast was often moved from one ship to another and was frequently shared after offl oading between two or more ships for ongoing voyages.<br /> <br /> The presence of rigging elements and iron fasteners throughout the site, as well as the size of the ballast piles and remaining wooden structural elements, points to a small to medium sized sailing vessel from the 19th century. She probably represents a fairly typical working sailing vessel from the Florida Keys. Her port of origin, destination, and the fate of those on board are, at this point, unknown.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.127667,
+          25.41175
+        ]
+      },
+      "properties": {
+        "name": "Alicia",
+        "notes": "Alicia\nhttps://www.nps.gov/places/alicia.htm\n\n<p>The steamer, Alicia, owned by Linea de Vapres Serra, and ported in Bilboa, Spain, left Liverpool in early April, 1905 bound for Havana. Her cargo was valued at greater than one million dollars and included fine silks, linens, silverware, household furniture, machetes, paint, pianos, wine, English ale and liquor, shoes, buggies, harnesses, and even a complete iron bridge. On April 20, 1905 Alicia slammed into Long Reef during a storm and was bilged and waterlogged. A passing ship took her crew to Havana. Captain “Hog” Johnson, master wrecker and Captain of the Key West Schooner Mount Olive, was first on the scene, and was later joined by over 70 other salvors.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.095467,
+          25.591633
+        ]
+      },
+      "properties": {
+        "name": "Arratoon Apcar",
+        "notes": "Arratoon Apcar\nhttps://www.nps.gov/places/arratoon-apcar-wreck.htm\n\n<p><em>Arratoon Apcar</em> was built by James Henderson and Son of Renfrew, Scotland in 1861. This iron-hulled steamer measured 262 feet long, had a 35 foot beam, displaced 1480 tons, and was powered by a 250 horsepower engine.</p> <p>The <em>Arratoon Apcar</em> met its demise steaming to Havana on the evening of February 20, 1878 when Captain Pottinger miscalculated his position and ran aground at Fowey Rocks. Interestingly enough, lighthouse construction was well underway at that sight, and the steamship narrowly missed the platform where several workers were encamped. The crew attempted to de-water the ship for three days, after which point they manned their lifeboats and headed ashore. The nearby<em>Tappahannock</em> rescued the captain and all 24 of his crew. By March 12, foul winter weather had made the coal-laden ship a total loss.</p> <p>Today, the wreck of <em>Arratoon Apcar</em> lies in ten to twenty feet of water near Fowey Rocks. The coral-encrusted lower hull and iron beams of the vessel can still be seen, along with some evidence of other structures, including remnants of the rudder and mast. The shallow depth of the wreck and the abundance of fish make it an attractive site for diving or snorkeling.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.124389,
+          25.424639
+        ]
+      },
+      "properties": {
+        "name": "Erl King",
+        "notes": "Erl King\nhttps://www.nps.gov/places/erl-king.htm\n\n<p><i>Erl King</i> was a 306 foot iron-hulled three-masted steamer built by A. and J. Inglis Shipbuilders and Engineers of Glasgow, Scotland in 1865. This barkentine-rigged steamship had a 34 foot beam and displaced 2178 tons. The ship’s name is an English translation of the German <i>Erlkonig</i>, which was a mythical mischief-making elf in German literature. <i>Erl King</i> was primarily a cargo ship, but also had first-class accommodations for 50 passengers.</p> <p>Robertson and Company of London were the first owners, but <i>Erl King </i>sailed for several other firms under charter, and was captained by John Pinel while trading between China and Australia for the first few years of service.</p> <p><i>Erl King</i> ran aground at Tennessee Reef on January 18, 1881, but was removed, repaired, and returned to service. On December 16, 1891, she ran aground on Long Reef while on the way to New Orleans from Swansea, England. The steamer <i>Feliciana</i> noted that she was “afloat with two anchors out,” apparently while the crew was attempting to conduct repairs. Insurers from Key West reported that cargo was being salvaged, but the ship itself was doomed. Some of her machinery, as well as 200 tons of cargo were saved. Hull plates were reportedly used as scrap metal during World War II.</p> <p>The outline of <i>Erl King’s</i> hull and remains of its cargo can now be seen in 18 feet of water on Long Reef. All that remains of its cargo are barrel-shaped concrete objects that were once wooden barrels filled with dry concrete mix. The wooden barrels have long since been consumed by shipworms, leaving the concrete casts we can see today.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.096667,
+          25.590611
+        ]
+      },
+      "properties": {
+        "name": "Fowey Rocks Lighthouse",
+        "notes": "Fowey Rocks Lighthouse\nhttps://www.nps.gov/places/fowey-rocks-lighthouse.htm\n\n<p>The Cape Florida light at the southern tip of Key Biscayne was built in 1825. Fifty years later, the light served little purpose and was extinguished. Ships did not need to be warned of the island, but rather of the knife-edged reef that lay 5 miles offshore. Iron-pile lighthouses further south in the Keys had been quite successful at marking the reef, so the Light House Board contracted to have one built at Fowey Rocks, southeast of Cape Florida.</p> <p>Construction began in 1875 when a staging platform was built at the site. Materials were initially delivered to Soldier Key, then ferried out to the site as needed. Severe weather hampered the construction of the light for many months. Workers frequently stayed in tents on the staging platform in order to avoid wasted travel time. Twice during construction, workers became keenly aware of how important the light would be when ships headed straight for their camping platform suddenly ground to a halt on the nearby reef! <em>Arratoon Apcar</em> was one of these ships, and it too is now part of the Biscayne National Park Maritime Heritage Trail.</p> <p>The most time-consuming part of the construction was building the foundation and lower decks. Due to the aforementioned weather delays, this part of the process took over a year. The keeper's dwelling itself is a two-story octagonal building in the Second Empire style. It was painted white with green shutters. Rising from the center of the house is a 50' tall enclosed spiral stairwell leading up to the service room, the watch room and the lantern room. The tower is capped with a copper roof and ventilator ball. <br /> <br /> Fowey Rocks Lighthouse is within sight of both the park's northern islands and Cape Florida. The original Fresnel lens is now on display at the U.S. Coast Guard's National Aids to Navigation Training Center in Yorktown, Virginia, and it has been replaced with a modern solar-powered light visible some 17 miles out to sea. Though now part of Biscayne National Park, the light itself is still maintained by the U.S. Coast Guard as the \"Eye of Miami.\"</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.119517,
+          25.443983
+        ]
+      },
+      "properties": {
+        "name": "Lugano",
+        "notes": "Lugano\nhttps://www.nps.gov/places/lugano.htm\n\n<p>The British steamer, <i>Lugano</i>, from Liverpool, was headed for Havana with cargo that included fine silks, wines, rice, and other foods valued at $1 million. She was also carrying 116 passengers, including 12 women and children. All of the passengers except two were Spanish immigrants en route to Cuba.</p> <p>On March 9, 1913 in high winds and heavy seas and significantly off course, Captain P. Penwill grounded on Long Reef. The tug Rescue was radioed, and safely took the passengers of <i>Lugano</i> to Key West while the Captain and crew remained aboard. Cargo was removed, and the hold was intentionally flooded to prevent further pounding on the rocks. By March 20, seven large loads of cargo had been removed and taken to Key West. Wreckers were busily pumping water out of <i>Lugano</i> so that her boilers could be re-lit, allowing her own pumps to dewater the hull. By March 22, their efforts succeeded, but even with the ship’s pumps working night and day, the ill-fated vessel was still lodged on the reef and listing heavily to port. On March 27, The Miami Herald reported there were over 75 wrecking boats attempting to save the cargo. The ensuing confusion and foul weather made it easy for unscrupulous salvors to slip away and stash cargo on nearby reefs. Much cargo was stolen by the Key West wreckers of <i>Dr. Lykes</i>, including linens and 350 cases of brandy. Rumors of the thefts prompted U.S. Customs to dispatch officials to monitor the wreck.</p> <p>By April 4, the crew had abandoned <i>Lugano</i>, which was again full of water. The Lee Brothers, wreckers from Miami, were later contracted to deliver the ship to Key West for $17,000.00. The estimated value of the saved cargo was $150,000.00. <em>Lugano</em> was three stories deep below the water line and was the largest boat to ever go on the rocks of the Florida reefs up to that time.</p> <p>All efforts to refloat <i>Lugano</i> were abandoned on April 15. Two days of high winds pounded the already battered vessel until it was considered a total loss. Wreckers removed nearly everything, leaving only the hull. A settlement on May 28, 1914, gave the primary salvors $64,126.67, the secondary salvors $14,084.30, and the remaining salvors $2,228.18. The schooner <i>Dr. Lykes’</i> share was forfeited because of discrepancies between cargo collected and cargo delivered.</p> <p>In February, 1917, the yacht Ada M struck <i>Lugano</i>, which was the first report of a ship hitting this wreck. A warning to mariners was issued on January 13, 1920 stating that the wreck of Lugano was a danger to navigation. The wreck was estimated to be 3000 tons and had a broken mast and stack visible under water.</p> <p><i>Lugano</i> now lies 25 feet underwater on Long Reef in Biscayne National Park.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.121683,
+          25.442167
+        ]
+      },
+      "properties": {
+        "name": "Mandalay",
+        "notes": "Mandalay\nhttps://www.nps.gov/places/mandalay.htm\n\n<p>On New Years Day, 1966, the schooner <em>Mandalay</em> ran aground on Long Reef. The wreck now lies in the eastern part of Biscayne National Park and is one of the best shallow dive spots in the park.</p> <p>John G. Alden Naval Architects, Inc. designed <em>Mandalay</em>, originally named <em>Hardi Biou</em>, for Dr. Henry D. Lloyd of Brookline, Massachusetts. The 110’ 6” long, steel hulled schooner was built by George Lawley & Son, Corporation in 1928, at a cost of $177,000. The schooner was sold in 1931 and renamed <em>Valor</em>, and subsequently had 5 other owners under that name. Michael Burke, owner of Windjammer Cruises, Inc., purchased, refitted, and renamed the vessel <em>Mandalay</em> in 1965, for use as a luxury cruise ship.</p> <p><em>Mandalay</em> was beautifully outfitted in mahogany, brass, and ivory, and had a teak deck. Aft quarters were a suite of 2 rooms with an adjoining bath for the owner, 3 single staterooms, each with a bath, and a large guest room with an individual bath. Forward of the main mast were a large saloon and living room, 3 officer’s staterooms with a bath, and ample forecastle for 6 men with a washroom and shower. All bathrooms had hot and cold water and all waste connected to a complete sanitary system. There were electrical lights and fans and other electrical equipment, and every stateroom had individual ventilation.</p> <p>In late 1965, <em>Mandalay</em> was headed toward Miami with 23 vacationers and 12 crew, returning from a 10 day Bahamian cruise. Passengers had retired to their rooms after celebrating the arrival of the New Year, 1966. Captain Asmund [Jim] Gjevick, a 26 year old Norwegian, went to sleep about 1:00 AM, leaving a novice seaman at the helm. All were awakened when <em>Mandalay</em> was driven hard aground on Long Reef. Later, Captain Gjevick admitted he had miscalculated the distance from Fowey Rocks, causing <em>Mandalay</em> to be 20 miles off course. At the request of Capt. Gjevick, an SOS was sent by A.E. Lundquist, President of the Coca Cola Bottling Co. of Boston at 3:45 AM, which brought Coast Guard helicopters and patrol boats to the scene. Flares were dropped by the helicopters, and fired by <em>Mandalay</em> crew to illuminate the rescue operation that took place in windy conditions with 10 foot waves. Three helicopters lifted 24 persons, one by one, and flew them to Homestead Air Force Base. The only injury was to L. Quinn Hal, an Indianapolis real estate man, who cut his hand.</p> <p>Scavengers stripped the vessel, taking the ship’s compass, sextant, chronometers, passenger cameras, watches, and purses, and the owner’s personal gear. Tons of lead ballast blocks, taken by small outboard motorboats and melted into lead diving weights, were resold at $1.00 per pound. The ½ ton anchor and stud link chain were also taken. On the Sunday after <em>Mandalay</em> was grounded she was “picked to her skin and bones” by average work-a-day boat owners, before salvage tugs could arrive. The tugs failed to pull the ship off the reef, and so the masts were removed, by contract with the owners, for eventual use in the re-creation of a Spanish Galleon called <em>Golden Doubloon</em>. Today the skeleton of <em>Mandalay</em>, “red carpet ship of the Windjammer fleet”, can be found embedded on Long Reef in Biscayne National Park.</p>",
+        "icon": "red-pin-down.png"
+      }
+    }
+  ]
+}

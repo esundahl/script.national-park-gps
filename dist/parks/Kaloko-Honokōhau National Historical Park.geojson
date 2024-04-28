@@ -1,0 +1,50 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.03289794921875,
+          19.688274383544922
+        ]
+      },
+      "properties": {
+        "name": "Kaloko Fishpond",
+        "notes": "Kaloko Fishpond\nhttps://www.nps.gov/places/kaloko-fishpond.htm\n\nKaloko fishpond, literally translated as \"The Pond\" was a favorite of <a href=\"https://nps.gov/people/kamehameha-the-great.htm\">King Kamehameha I</a>, Hawaii's most famous Ali'i (King).<br /> <br /> Kaloko Fishpond is an excellent example of a <i>loko kuap</i><i>ā </i>type fishpond which has a characteristic feature of a <i>kuap</i><i>ā</i> (or seawall) made of water worn lava. The wall extends out from two points and has an <i>‘auwai</i> (channel) that is used mainly for water flushing or inflow, depending on the rising and dropping of the tides. This <i>auwai is</i> also used during harvesting and stocking. The seawall is 30-40ft. wide and 6 ½ ft high. stretching for 250 yards and is the largest retaining fishpond wall in the state. The native Hawaiians built this wall by dry-stacking the water worn stones and built 2 channels called <i>‘auwai kai</i> and placed a <i>mākāhā</i> (or sluice gate) in the channel.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.02581787109375,
+          19.677249908447266
+        ]
+      },
+      "properties": {
+        "name": "‘Aimakapā Fishpond",
+        "notes": "‘Aimakapā Fishpond\nhttps://www.nps.gov/places/aimakapa-fishpond.htm\n\n‘Aimakapā Fishpond is the largest natural pond and wetland system (~30 acres) on Hawaii Island’s Kona Coast. It is located at the makai (seaward) edge of the Honokōhau ahupua‘a (traditional land division). ‘Aimakapā Fishpond is a <i>loko pu‘uone</i>, a pond separated from the ocean by a sand berm that runs parallel to the sea. The pond formed naturally, and fresh water from springs mixes with seawater that enters through the channels during incoming tides. The ponds were modified by the native Hawaiians to hold and grow fish and was an active aquaculture pond until the 1950’s.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.0258932118013,
+          19.668781869692353
+        ]
+      },
+      "properties": {
+        "name": "‘Ai’ōpio Fishtrap",
+        "notes": "‘Ai’ōpio Fishtrap\nhttps://www.nps.gov/places/ai-opio-fishtrap.htm\n\n‘Aiʻōpio Fishtrap is located at the shoreline on the south side of the park near Honokōhau Boat Harbor. It is the only fishtrap on the island of Hawai‘i. It is a large aquaculture structure with sides that are bordered by rocky lava headlands and a sandy beach. Fish entered the pond at hightide through a narrow channel in the seawall. The four rectangular walled enclosures within the pond along the shoreline were probably used either as holding pens for netted fish or as lanes in which the fish were netted.   This is a good place to view the Hawaiian Green Sea Turtle (Honu). This animal is protected, please stay 20 feet (6 meters) from turtles when viewing.",
+        "icon": "red-pin-down.png"
+      }
+    }
+  ]
+}

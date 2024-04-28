@@ -1,0 +1,185 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.12328554195736,
+          42.347023058566975
+        ]
+      },
+      "properties": {
+        "name": "Boudoir",
+        "notes": "Boudoir\nhttps://www.nps.gov/places/jofi-boudoir.htm\n\n<p>Rose Kennedy called this small room adjoining <a href=\"https://www.nps.gov/places/jofi-master-bedroom.htm\">her bedroom</a> her “boudoir,” or study. It is furnished with her darning egg on a sewing table, a picture of her father—holding her first-born Joe Jr.—on the desk, and pictures of her husband atop the desk. It was essentially her office. She said that Mr. Kennedy had his office in Boston and that as manager of this house, she wanted her office in the home.</p> <p>In the wooden box, she kept meticulous notecards on which she recorded the children’s health, their height and weight by week, and many other details. Rose Kennedy was very regimented and methodical. She had a lot of rules in her house and believed in something called “Scientific Mothering”. She read many books on how to properly raise children and bought into many of these ideas whole-heartedly.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.12126459999999,
+          42.34225755
+        ]
+      },
+      "properties": {
+        "name": "Coolidge Corner",
+        "notes": "Coolidge Corner\nhttps://www.nps.gov/places/coolidge-corner.htm\n\n<p>Coolidge Corner was a retail hub of Brookline at the turn of the century, and a frequent destination of the Kennedy family. With \"one child in his kiddycar and... one or two others on each side,\" Rose Kennedy woud sally forth to shop at the Five and Dime, the bank, or the 1898 S.S. Pierce Building. Here, the Beacon Street rail and electric trolley lines helped connect this typical streetcar suburb to downtown Boston, where much of the Kennedys' social, cultural, and political life was centered.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1237966397768,
+          42.3447334076004
+        ]
+      },
+      "properties": {
+        "name": "Devotion School (Ruffin Ridley School)",
+        "notes": "Devotion School (Ruffin Ridley School)\nhttps://www.nps.gov/places/devotion-school.htm\n\n<p>From kindergarten through third grade, John F. Kennedy attended his local public school, the Edward Devotion School, officially renamed the <a href=\"https://www.nps.gov/people/florida-ruffin-ridley.htm\">Florida Ruffin Ridley</a> School in 2021.</p> <p>This school had a promising reputation of academic excellence. By sending her children to this school, Mrs. Kennedy was allowing to become friends with all of the children in the neighborhood. As a young student here, Jack was a diligent reader and avidly read books, but would be known to zone out of focus, often staring off into space during class. His teachers hardly approved. One day, after school, Jack knew he was in trouble. His teacher was planning to walk to his house to tell his mother about his daydreaming habits. Jack quickly ran ahead of her, to speak with his mother before his teacher got to her. To defend himself, he told his mother, “You know, I’m getting on all right, and if you study too much, you’re liable to go crazy.”</p> <p>At the Florida Ruffin Ridey School today, the students commemorate JFK. Each year, third graders spend time studying JFK and his legacy in Brookline and write about <a href=\"https://www.nps.gov/jofi/learn/education/essay-and-poetry.htm\">what JFK means to them</a>.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.12333101290444,
+          42.347037184002005
+        ]
+      },
+      "properties": {
+        "name": "JFK Birthplace",
+        "notes": "JFK Birthplace\nhttps://www.nps.gov/places/jfk-birthplace.htm\n\n<p>On May 29, 1917, <a href=\"https://www.nps.gov/articles/000/rose-fitzgerald-kennedy-a-life-to-remember.htm\">Rose Fitzgerald Kennedy</a> gave birth to her second son, future president <a href=\"https://www.nps.gov/people/jfk.htm\">John Fitzgerald Kennedy</a>,  in an upstairs bedroom of her family home at 83 Beals Street, Brookline, MA.</p> <p>Rose and <a href=\"https://www.nps.gov/people/joseph-p-kennedy-patriarch-of-the-kennedys.htm\">Joseph P. Kennedy</a> moved into this comfortable home in a streetcar suburb of Boston in 1914, shortly after their marriage. During their residence in this house they welcomed four children, three of whom were born in the house: <a href=\"https://www.nps.gov/articles/000/joseph-patrick-kennedy-jr-a-dream-unfulfilled.htm\">Joe Jr.</a>, John \"Jack,\" <a href=\"https://www.nps.gov/articles/000/rosemary-kennedy-the-eldest-kennedy-daughter.htm\">Rose Marie \"Rosemary,\"</a> and Kathleen. In 1920 they moved their growing family to a <a href=\"https://www.nps.gov/places/abbottsford-road-kennedy-house.htm\">larger home</a> in the neighborhood.</p> <p>Over the <a href=\"https://www.nps.gov/articles/000/a-history-of-83-beals-street-birthplace-of-john-fitzgerald-kennedy.htm\">house's history</a>, it served as a modest family home, a landmark as a presidential birthplace, and a memorial to his life and legacy.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.12325007472207,
+          42.347038916149046
+        ]
+      },
+      "properties": {
+        "name": "Kennedy Dining Room",
+        "notes": "Kennedy Dining Room\nhttps://www.nps.gov/places/jofi-dining-room.htm\n\n<p>The dining room of 83 Beals Street is small, but rather fancy and formal. Many of the items in this room were gifts given to the Kennedys on their wedding day. Margaret Kennedy, Joseph's sister, painted the gold trim around the <a href=\"https://www.nps.gov/articles/000/limoges-demitasse-cup.htm\">set of Limoges china dishes</a>, with tiny shamrocks in the border which speak to the family’s Irish Catholic background. The china cabinet and serving tables display functional china as well as sentimental pieces, like the <a href=\"https://www.nps.gov/articles/000/a-teacup-from-sir-thomas-lipton.htm\">teacups with crossed flags</a>, gifts from Sir Thomas Lipton, owner of the Lipton Tea Company and a close family friend of the Fitzgerald side of the family.</p> <p>The small children's table is set for Joe and Jack, the two oldest Kennedy children. Each boy had a <a href=\"https://www.nps.gov/articles/000/jfk-silver-porringer.htm\">silver porringer bowl</a>, engraved with his monogram: \"J.P.K.Jr.\" and \"J.F.K.\"</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.12326748005404,
+          42.34698832208379
+        ]
+      },
+      "properties": {
+        "name": "Kennedy Guest Bedroom",
+        "notes": "Kennedy Guest Bedroom\nhttps://www.nps.gov/places/kennedy-guest-bedroom.htm\n\n<p>The smaller front bedroom at the Kennedys' home is exhibited as a guest bedroom, as it was used in 1917. Later it was used for children as the Kennedy family grew.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.12328524269728,
+          42.34700256532563
+        ]
+      },
+      "properties": {
+        "name": "Kennedy Living Room",
+        "notes": "Kennedy Living Room\nhttps://www.nps.gov/places/jofi-living-room.htm\n\n<p>The living room, to the right from the front door and across the hall from the <a href=\"https://www.nps.gov/places/jofi-dining-room.htm\">dining room</a>, was probably the first room that you would have been brought to when visiting the family. Although the clues may be subtle, the room is furnished with signs of Mr. and Mrs. Kennedy’s wealth, education, and culture.</p> <p>Mrs. Kennedy was an accomplished musician and her piano sits in the corner. On the walls hang prints of famous works of art that she had seen on her overseas travels and studies in Europe. There are <em>National Geographic</em> magazines, books, a newspaper, and a <em>Literary Digest</em>, which show that the family valued reading. There are also many family portraits - of Mrs. Kennedy with her children, as well as the <a href=\"https://www.nps.gov/articles/000/john-fitzgerald-mayor-of-a-bigger-better-busier-boston.htm\">Fitzgeralds</a>.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.12320313606715,
+          42.34701516184345
+        ]
+      },
+      "properties": {
+        "name": "Kitchen",
+        "notes": "Kitchen\nhttps://www.nps.gov/places/jofi-kitchen.htm\n\n<p>This was a comfortable home for the newlywed Kennedys in 1914. In the kitchen, you see that the family enjoyed many of the basic comforts that we enjoy today: radiator heat, hot and cold running water, electricity, and electric lighting. The large stove could be fueled by either gas or coal.</p> <p>Looking back in the 1960s, Rose Kennedy remembered:</p> <blockquote> <p>With all the baby bottles to be sterilized, formulas to prepare, and meals to cook, this kitchen was a very busy place.</p> </blockquote> <p>The cleaning, preparing, and cooking was done by <a href=\"https://www.nps.gov/articles/000/the-kennedy-family-maids-at-83-beals-street-brookline-ma.htm\">two servants</a> - a maid-of-all-work and a children's nurse. Mrs. Kennedy also remembered that she often found her son Jack in their kitchen after meals, receiving extra food from the cook. She was very strict about mealtimes and she didn’t allow her other children to do this. However, with Jack often being sickly and underweight she didn’t mind him getting these extra bits of food as a way of keeping some weight on him.</p> <p>In this room, she remembered looking out the windows to see the children in the “warm spring sun” and “building snowmen in the winter.” She also said that she was very happy when she lived here and although the family, “did not know about the days ahead, they were enthusiastic and optimistic about the future.”</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1231926259038,
+          42.34700581241895
+        ]
+      },
+      "properties": {
+        "name": "Nursery",
+        "notes": "Nursery\nhttps://www.nps.gov/places/jofi-nursery.htm\n\n<p>John \"Jack\" Kennedy shared the nursery with his brother Joe. As an infant, Jack slept in the white wicker bassinet, as did all of his brothers and sisters and later his own children, Caroline and John Jr.</p> <p>The furnishings include toys — puzzles, <a href=\"https://www.nps.gov/articles/000/toy-blocks.htm\">blocks</a>, trains, a <a href=\"https://www.nps.gov/articles/000/toy-cannon.htm\">toy cannon</a>, a <a href=\"https://www.nps.gov/articles/000/steiff-teddy-bear.htm\">teddy bear</a> — and a range of picture and story books selected by Rose Kennedy to illustrate her children's entertainment.</p> <p>Two of Jack's favorite childhood books are on the chair, <em>King Arthur and his Knights</em> and <em><a href=\"https://www.nps.gov/articles/000/billy-whiskers-book.htm\">Billy Whiskers</a>.</em> <em>King Arthur</em> was a book Mrs. Kennedy really liked—a story about knights and chivalry, performing heroic deeds and full of many of the same types of values that she was trying to instill in young Jack. <em>Billy Whiskers</em> is a book of which she disapproved. he story is about a mischievous goat and she felt that the boys were getting into enough trouble on their own without being inspired by Billy Whiskers.</p> <p>Once their younger sisters were born, the boys moved into the guest room down the hall.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.12327049054862,
+          42.34700308421388
+        ]
+      },
+      "properties": {
+        "name": "Parents' Bedroom",
+        "notes": "Parents' Bedroom\nhttps://www.nps.gov/places/jofi-master-bedroom.htm\n\n<p>The bedroom of Joseph and Rose Kennedy is the largest of the five bedrooms in the house. In her tour recorded after the refurnishings of the house in the 1960s, Rose Kennedy recalled:</p> <blockquote> <p>The president was born in the twin bed, near the window, on May 29th, 1917, at three o'clock in the afternoon.</p> </blockquote> <p>Children were often born at home in the early 1900s. Rose Kennedy gave birth to John's younger sisters Rosemary and Kathleen in this house in 1918 and 1920.</p> <p>Mrs. Kennedy was very religious and she often attended <a href=\"https://www.nps.gov/places/saint-aidans-church.htm\">church </a>every day, bringing the children with her. Despite this, you see very few religious items in the home. However, above the beds you see two <a href=\"https://www.nps.gov/articles/000/madonna-and-child-painting.htm\">religious paintings</a>. Mrs. Kennedy said that she felt that church was a place to worship and home was a place for family, and so she didn’t want a lot of religious items in the house. In the early 1900s in Boston, many Irish Catholics faced discrimination. Years later, when JFK ran for president in 1960, the issue of his Catholic faith was his greatest challenge. He addressed voter concerns early on, identified the need for separation of church and state, and successfully became the nation’s first Irish Catholic president.</p> <p>Similar to his wife’s belief that home was a place for family, Joe Kennedy preferred not to work from home. In this room, you see a telephone between the two beds; there is another <a href=\"https://www.nps.gov/articles/000/jofi-telephone.htm\">telephone</a> downstairs in the front hallway. It was unusual for families to have two phones. However, when Mr. Kennedy was co-managing the Fore River Shipyard, it was a facility that ran 24 hours a day and seven days a week during the war, and so, Mr. Kennedy wanted easy access to communication, if work required his attention. He would later say that he worked harder at the Fore River Shipyard than ever before in his life.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.11916156473069,
+          42.347575688117864
+        ]
+      },
+      "properties": {
+        "name": "Saint Aidan's Church",
+        "notes": "Saint Aidan's Church\nhttps://www.nps.gov/places/saint-aidans-church.htm\n\n<p>St. Aidan's was Brookline's third Catholic Parish (<a href=\"https://www.nps.gov/places/st-marys-of-the-assumption-church.htm\">St. Mary's (1852)</a> being the first and St. Lawrence's (1897) the second). The church building, designed by architects Maginnis and Walsh in the Medieval Revival style, was built in 1911.</p> <p>During the Kennedy family's residence in Brookline from 1914 to 1927, Saint Aidan's was an integral part of their daily life. <a href=\"https://www.nps.gov/people/jfk.htm\">John F. Kennedy</a> was baptized here on June 19, 1917.</p> <p>The original structure of the church still stands, converted into 59 mixed income housing units in 1999.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.12366651439328,
+          42.349566706770354
+        ]
+      },
+      "properties": {
+        "name": "The Kennedy Family's Second Home",
+        "notes": "The Kennedy Family's Second Home\nhttps://www.nps.gov/places/abbottsford-road-kennedy-house.htm\n\n<p>In 1920, the Kennedy family outgrew their <a href=\"https://www.nps.gov/places/jfk-birthplace.htm\">first home at 83 Beals Street</a> in Brookline. When they moved, Mrs. Kennedy was expecting her fifth child, <a href=\"https://www.nps.gov/people/eunice-kennedy-shriver.htm\">Eunice</a>, and they later had Patricia and <a href=\"https://www.nps.gov/people/robert-f-kennedy.htm\">Robert</a> in this home. The couple wanted to stay in Brookline, as it was a developing neighborhood, in walking distance to the nearby <a href=\"https://www.nps.gov/places/saint-aidans-church.htm\">Catholic Church</a>, and allowed Mr. Kennedy a short commute to work. They could now afford this home because of Mr. Kennedy’s continued success at work, and wise investments. He was one of the country’s youngest bank presidents, an investor, and a leader in the motion picture producing industry. The home symbolized the family’s growth.</p> <p>Mrs. Kennedy admired the porch that still wraps around the front of the home today. The new outdoor play space gave the children the welcomed opportunity to play together outside. On this porch, Mrs. Kennedy could supervise all of her children at once, and as they became boisterous, she remembered sometimes dividing the porch so each child could have his or her own space to play. Imagine four or five children, partitioned off on the porch, playing happily as Mrs. Kennedy sat in the center, talking with the passerby and playing with the children. She took full advantage of the neighborhood, as when the mailmen, ice deliverers, milkmen, and neighbors stopped by, Mrs. Kennedy asked her children to practice their manners, and greet them politely. As the children grew older, Mrs. Kennedy placed a bulletin board near the dining room, and pinned current events newspaper clippings, and magazine articles to it. She would expect that her children would read them throughout the day, and be ready to discuss their opinions at dinnertime, encouraging them to articulate their thoughts and argue their perspectives. The family lived in this home until 1927, when Mr. Kennedy decided to move them to New York, claiming that Boston was no place to raise an Irish family.</p>",
+        "icon": "red-pin-down.png"
+      }
+    }
+  ]
+}

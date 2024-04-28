@@ -1,0 +1,20 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Stonewall National Monument",
+        "notes": "Stonewall National Monument\nhttps://www.nps.gov/places/stonewall-national-monument.htm\n\n<p><strong><a href=\"https://www.whitehouse.gov/the-press-office/2016/06/24/presidential-proclamation-establishment-stonewall-national-monument\">Read the President's Proclamation delcaring Stonewall National Monument</a></strong></p> <p>The Stonewall Inn, a bar located in Greenwich Village, New York City, was the scene of an uprising against police repression that led to a key turning point in the struggle for the civil rights of lesbian, gay, bisexual, and transgender (LGBT) Americans. In a pattern of harassment of LGBT establishments, the New York City police raided the Stonewall Inn in the early hours of Saturday, June 28, 1969. The reaction of the bar’s patrons and neighborhood residents that assembled in the street was not typical of these kinds of raids. Instead of dispersing, the crowd became increasingly angry and began chanting and throwing objects as the police arrested the bar's employees and patrons. Reinforcements were called in by the police, and for several hours they tried to clear the streets while the crowd fought back. The initial raid and the riot that ensued led to six days of demonstrations and conflicts with law enforcement outside the bar, in nearby Christopher Park, and along neighboring streets. At its peak, the crowds included several thousand people.</p> <p>The events of Stonewall, as the uprising is most commonly referred to, marked a major change in the struggle for \"homophile rights\" in the U.S., with lesbian women, gay men, bisexual and transgender people beginning to vocally and assertively demand their civil rights. Stonewall is regarded by many as the single most important catalyst for the dramatic expansion of the LGBT civil rights movement. The riots inspired LGBT people throughout the country to organize and within two years of Stonewall, LGBT rights groups had been started in nearly every major city in the U.S. Stonewall was, as historian Lillian Faderman wrote, \"the shot heard round the world...crucial because it sounded the rally for the movement.”</p> <p>Today, the site of the uprisings in Greenwich Village is recognized as a <a href=\"https://www.nps.gov/nhl/\">National Historic Landmark</a> (<strong>NHL</strong>) by the National Park Service and is considered significant under <a href=\"https://www.nps.gov/subjects/nationalhistoriclandmarks/nhl-bulletin.htm\">NHL Criterion 1</a> because of its association with events that outstandingly represent the struggle for civil rights in America. This NHL includes the bar, Christopher Park, and the streets where the events of June 28-July 3, 1969, occurred. The Stonewall Inn is located at 51-53 Christopher Street, New York City, New York and is open to the public.</p>",
+        "icon": "red-pin-down.png"
+      }
+    }
+  ]
+}

@@ -1,0 +1,695 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.467401,
+          29.461752
+        ]
+      },
+      "properties": {
+        "name": "Acequia del Alamo Dam",
+        "notes": "Acequia del Alamo Dam\nhttps://www.nps.gov/places/acequia-del-alamo-dam.htm\n\n<p>In 1719, construction began on the acequia (irrigation ditch) at Mission San Antonio de Valero. The source of the acequia was the San Antonio River near the ford of the \"Paso de Tejas\" where water was diverted from the river by means of a diversion dam that extended into the stream from its western bank. The acequia served to raise and direct the flow of water toward the eastern bank to a canal intake. It remained in use until 1912.</p> <h2>Site Information</h2> <p><strong>Location</strong> (just north of the Witte Museum at 3801 Broadway Street, just south of Hildebrand, San Antonio, Texas)</p> <p><em><a href=\"https://www.nps.gov/elte/planyourvisit/safety.htm\">Safety Considerations</a></em></p> <h3><a href=\"http://www.sonsofdewittcolony.org//adp/archives/glossary/acequia.html\">More site information</a></h3> <h2><a href=\"https://www.nps.gov/elte/index.htm\">El Camino Real de los Tejas National Historic Trail</a></h2>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.139085,
+          30.691577
+        ]
+      },
+      "properties": {
+        "name": "Apache Pass",
+        "notes": "Apache Pass\nhttps://www.nps.gov/places/apache-pass.htm\n\n<p>From 1748 to 1751, three Spanish missions (San Francisco Xavier de Horcasitas, San Ildefonso, and Nuestra Señora de la Candelaria) and a presidio (San Francisco Xavier de Gigedo) were built within five miles of this site by missionaries, soldiers, and resident Indians. The Spaniards' goals were to Christianize and civilize the numerous Indian tribes in the area and to establish a presence. During this period, a rock dam and a system of acequias (canals) were constructed just east of Apache Pass to irrigate the fields of one of the nearby missions. All of these improvements were abandoned in 1755 due to a combination of disease, drought, and Indian troubles. Apache Pass, named by the Spanish, was a gravel bar crossing on the San Gabriel River in this general area that was used successively by Americans Indians, explorers, settlers, and local farmers and ranchers.</p> <h2>Site Information</h2> <p><strong>Location</strong> (9112 North Farm-to-Market Road 908, eight miles northwest of Rockdale, Texas)</p> <p>Apache Pass is an inviting and shallow gravel crossing of the San Gabriel River surrrounded by gently sloping hillsides.</p> <p><em><a href=\"https://www.nps.gov/elte/planyourvisit/safety.htm\">Safety Considerations</a></em></p> <h3><a href=\"http://www.apachepass.com/\">More site information</a></h3> <h2><a href=\"https://www.nps.gov/elte/index.htm\">El Camino Real de los Tejas National Historic Trail</a></h2>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.28267383650746,
+          30.109070673857552
+        ]
+      },
+      "properties": {
+        "name": "Bastrop State Park",
+        "notes": "Bastrop State Park\nhttps://www.nps.gov/places/bastrop-state-park.htm\n\n<p>Bastrop State Park sits just east of Austin along State Highway 21, which follows one of the major routes of El Camino Real de los Tejas. In addition to viewing trail ruts, visitors can camp, swim, picnic, canoe, hike, birdwatch, and attend interpretive programs.</p> <h2>Site Information</h2> <p><strong>Location</strong> (100 Park Road 1A, Bastrop, Texas)</p> <p>The park offers towering pines, historic cabins, and quiet spaces--less than an hour from the state capital.</p> <p><em><a href=\"https://www.nps.gov/elte/planyourvisit/safety.htm\">Safety Considerations</a></em></p> <h3><a href=\"https://tpwd.texas.gov/state-parks/bastrop\">More site information</a></h3> <h2><a href=\"https://www.nps.gov/elte/index.htm\">El Camino Real de los Tejas National Historic Trail</a></h2>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Baumann Family Village Sites",
+        "notes": "Baumann Family Village Sites\nhttps://www.nps.gov/places/baumann-family-village-sites.htm\n\n<p>This privately-owned site near the Rancheria Grande area contains archaeological evidence of exchange between American Indians and Europeans along El Camino Real de los Tejas.<br /> <br /> A project through the <a href=\"http://go.nps.gov/urc\">Underrepresented Community Grant Program</a>, which works to diversify nominations submitted to the National Register of Historic Places, funded the effort to recognize the significance of this property related to Spanish Colonial and Latino history in Milam County, Texas. </p> <h2>Site Information</h2> <p><strong>Location/Access</strong> (this site is not open to the public.)</p> <p><em><a href=\"https://www.nps.gov/elte/planyourvisit/safety.htm\">Safety Considerations</a></em></p> <h3><a href=\"https://www.floresvilletx.gov/\">More site information</a></h3> <h2><a href=\"https://www.nps.gov/elte/index.htm\">El Camino Real de los Tejas National Historic Trail</a></h2>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Cabeza Creek Crossing",
+        "notes": "Cabeza Creek Crossing\nhttps://www.nps.gov/places/cabeza-creek-crossing.htm\n\n<p>Cabeza Creek Crossing is a gravel bar ford that may have been associated with the Bexar-La Bahia road--an important segment of El Camino Real de los Tejas. It sits on a private ranch that formerly belonged to the alcalde of Goliad. Spanish and American Indian artifacts have been found nearby, attesting to its wide usage by a variety of people.</p> <h2>Site Information</h2> <p><strong>Location</strong> (Five miles west of Goliad, Texas)</p> <p>This creek crossing, which shows some ruts from wagon usage over the years, is located on a private ranch, several miles from the nearest public road. <strong>It is not open to general public visitation.</strong></p> <h3><a href=\"https://texashistoricalmarkers.weebly.com/cabeza-creek-crossing-on-the-la-bahia-bexar-road.html\">More site information</a></h3> <h2><a href=\"https://www.nps.gov/elte/index.htm\">El Camino Real de los Tejas National Historic Trail</a></h2>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.14854097304124,
+          31.596711571899295
+        ]
+      },
+      "properties": {
+        "name": "Caddo Mounds State Historic Site",
+        "notes": "Caddo Mounds State Historic Site\nhttps://www.nps.gov/places/caddo-mounds-state-historic-site.htm\n\n<p>The Caddo Indians selected this site in the Neches River valley for a permanent settlement (a village and ceremonial center) about 800 AD, and for the next 500 years the Caddo dominated life in the region. The site was abandoned during the 13th century. After that time, the Caddo continued to live in the area and shared the culture of previous residents, but later groups lacked the sophisticated ceremonialism and material wealth characterized by earlier times. The Hasinai Caddo groups continued to live through the 1830s in their traditional East Texas homeland. By the early 1840s, all Caddo groups had moved west to the Brazos River area to avoid Anglo settlers who brought repressive measures and colonization efforts. Since the late 1850s, the Caddo have lived primarily in western Oklahoma.</p> <h2>Site Information</h2> <p><strong>Location </strong>(1649 State Highway 21 west, six miles southwest of Alto, Texas)<br /> <br /> The mounds sit low on the landscape, connected by a walking trail. A segment of the Camino Real wraps around the back of the site, through a thickly treed section above a swampy bayou.</p> <p><em><a href=\"https://www.nps.gov/elte/planyourvisit/safety.htm\">Safety Considerations</a></em></p> <h3><a href=\"https://www.thc.texas.gov/historic-sites/caddo-mounds-state-historic-site\">More site information</a></h3> <h2><a href=\"https://www.nps.gov/elte/index.htm\">El Camino Real de los Tejas National Historic Trail</a></h2>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.497296,
+          29.423142
+        ]
+      },
+      "properties": {
+        "name": "Casa Navarro State Historic Site",
+        "notes": "Casa Navarro State Historic Site\nhttps://www.nps.gov/places/casa-navarro-state-historic-site.htm\n\n<p>Born in the Spanish town of Béxar, José Antonio Navarro’s life (1795-1871) and career spanned four distinct periods of Texas history: Spanish, Mexican, the Republic of Texas, and the United States. A signer of the Texas Declaration of Independence, a writer of the Texas State Constitution, and the namesake of Navarro County, he was a champion of civil rights for Hispanics.</p> <h2>Site Information</h2> <p><strong>Location</strong> (228 S. Laredo St., San Antonio, Texas)</p> <p>The Navarro complex contains three structures: the house, which dates to the 1850s; a kitchen, constructed in the 1830s; and a two-story office building/commercial space, also from the 1850s.</p> <p><strong><em><a href=\"https://www.nps.gov/elte/planyourvisit/safety.htm\">Safety Considerations</a></em></strong></p> <h3><a href=\"https://www.thc.texas.gov/historic-sites/casa-navarro/casa-navarro-history\">More site information</a></h3> <h2><a href=\"https://www.nps.gov/elte/index.htm\">El Camino Real de los Tejas National Historic Trail</a></h2>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.36771099999999,
+          29.584615
+        ]
+      },
+      "properties": {
+        "name": "Comanche Lookout",
+        "notes": "Comanche Lookout\nhttps://www.nps.gov/places/comanche-lookout.htm\n\n<p>American Indians used this hill as a vantage point for warfare and hunting. The Apache, and later, the Comanche Indians dominated the area as they hunted along waterways, including nearby Cibolo Creek. The hill was also a prominent landmark for travelers in the 1700s and 1800s. The old Spanish road (one of several routes of El Camino Real or the Royal Road) from San Antonio to Bastrop and Nacogdoches in East Texas extended past the base of the hill. The road followed earlier American Indian travel routes, and today its remnants are known as Nacogdoches Road.</p> <h2>Site Information</h2> <p><strong>Location</strong> (in Comanche Lookout Park, 15551 Nacogdoches Road, San Antonio)</p> <p><strong>Available Facilities</strong><br /> This scenic park features a vantage point, playground, picnicking areas, and trails for hiking.</p> <p><em><a href=\"https://www.nps.gov/elte/planyourvisit/safety.htm\">Safety Considerations</a></em></p> <h3><a href=\"http://www.sanantonio.gov/ParksAndRec/Parks-Facilities/All-Parks-Facilities/Parks-Facilities-Details/ArtMID/14820/ArticleID/2680/Comanche-Lookout-Park-/Park/45\">More site information</a></h3> <h2><a href=\"https://www.nps.gov/elte/index.htm\">El Camino Real de los Tejas National Historic Trail</a></h2>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Conner Swale Site",
+        "notes": "Conner Swale Site\nhttps://www.nps.gov/places/conner-swale-site.htm\n\n<p>These swales were established by wagon wheels and animal hooves traveling over El Camino Real de los Tejas.<br /> <br /> A project through the <a href=\"http://go.nps.gov/urc\">Underrepresented Community Grant Program</a>, which works to diversify nominations submitted to the National Register of Historic Places, funded the effort to recognize the significance of this property related to Spanish Colonial and Latino history in Milam County, Texas. </p> <h2>Site Information</h2> <p><strong>Location/Access</strong> (this site is not open to the public)</p> <p><em><a href=\"https://www.nps.gov/elte/planyourvisit/safety.htm\">Safety Considerations</a></em></p> <h2><a href=\"https://www.nps.gov/elte/index.htm\">El Camino Real de los Tejas National Historic Trail</a></h2>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.86350199999998,
+          28.523908
+        ]
+      },
+      "properties": {
+        "name": "Dimmit County Public Library (and Wade House Museum)",
+        "notes": "Dimmit County Public Library (and Wade House Museum)\nhttps://www.nps.gov/places/dimmit-county-public-library-and-wade-house-museum.htm\n\n<p>J. W. House, a teacher from Carrizo Springs, collected pre-Columbian artifacts in and around Dimmit County for over 50 years. His investigations resulted in an impressive collection of projectile points, many of which are visible at the Wade House Museum. The adjacent Dimmit County Public Library is the perfect place to learn more about the people that used these points to hunt mastodon.</p> <h2>Site Information</h2> <p><strong>Location</strong> (200 N. 9th St., Carrizo Springs, Texas)</p> <p>Rows of books and archeological artifacts offer an ideal learning experience for anyone curious about the prehistory of Texas.<br /> <em><a href=\"https://www.nps.gov/elte/planyourvisit/safety.htm\">Safety Considerations</a></em></p> <h3><a href=\"https://dimmitlibrary.org/\">More site information</a></h3> <h2><a href=\"https://www.nps.gov/elte/index.htm\">El Camino Real de los Tejas National Historic Trail</a></h2>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.55295944204045,
+          29.246903404021797
+        ]
+      },
+      "properties": {
+        "name": "Dolores-Applewhite Crossing",
+        "notes": "Dolores-Applewhite Crossing\nhttps://www.nps.gov/places/dolores-applewhite-crossing.htm\n\n<p>Natural beauty and historical significance meet at the Dolores-Applewhite Crossing. Situated in the Medina River Natural Area on land that used to belong to Texas governor Ignacio Perez back in the 1700s, recent archeological research has revealed wheel marks that attest to the Dolores-Applewhite Crossing's role in travel along El Camino Real de los Tejas.</p> <h2>Site Information</h2> <p><strong>Location</strong> (In Medina River Natural Area near intersection of Jett and Applewhite roads; the crossing is along the Medina River, just west of the Applewhite Road bridge, San Antonio, Texas)</p> <p>Located in the <strong>Medina River Natural Area</strong>, this historic crossing provides a prime example of healthy riparian habitat while also containing historic traces of El Camino Real de los Tejas.</p> <p><em><a href=\"https://www.nps.gov/elte/planyourvisit/safety.htm\">Safety Considerations</a></em></p> <h3><a href=\"https://texasindependencetrail.com/plan-your-adventure/historic-sites-and-cities/sites/dolores-applewhite-crossing\">More site information</a></h3> <h2><a href=\"https://www.nps.gov/elte/index.htm\">El Camino Real de los Tejas National Historic Trail</a></h2>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.65490199999999,
+          31.605787
+        ]
+      },
+      "properties": {
+        "name": "Durst Taylor House",
+        "notes": "Durst Taylor House\nhttps://www.nps.gov/places/durst-taylor-house.htm\n\n<p>The Durst-Taylor Historic House, an 1828 wood-frame house, is the second oldest dwelling existing in Nacogdoches. The Durst-Taylor House was home to many early businessmen, bankers, and political leaders. Recent archeological excavations have revealed that this house was built on the site of an older, Spanish-era dwelling: the Acosta House, which dates from the 1790s.</p> <h2>Site Information</h2> <p><strong>Location </strong>(304 North Street (north of Hospital Street), Nacogdoches, Texas)</p> <p>The pier-and-beam foundation, wood framing, and exterior and interior features make it a rare surviving example of Deep South Anglo-influenced frame dwelling from the late Mexican or early Republic period of Texas history.</p> <p><em><a href=\"https://www.nps.gov/elte/planyourvisit/safety.htm\">Safety Considerations</a></em></p> <h3><a href=\"https://nactx.us/693/Durst-Taylor-Historic-House-and-Gardens\">More site information</a></h3> <h2><a href=\"https://www.nps.gov/elte/index.htm\">El Camino Real de los Tejas National Historic Trail</a></h2>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.93959045410156,
+          35.692134857177734
+        ]
+      },
+      "properties": {
+        "name": "El Camino Real de los Tejas National Historic Trail",
+        "notes": "El Camino Real de los Tejas National Historic Trail\nhttps://www.nps.gov/places/el-camino-real-de-los-tejas-national-historic-trail.htm\n\n<p>During the Spanish colonial period in North America, numerous “royal roads”—or caminos reales—tied far-flung regions of the empire to Mexico City. One particular collection of indigenous trails and trade routes became known as El Camino Real de los Tejas, the primary overland route for the Spanish colonization of what is today Texas and northwestern Louisiana. The trail’s name is derived not only from its geographic extent but also from some of its original users. Spaniards referred to a prominent group of Caddo Indians as the Tejas, a word derived from the Caddo term for ‘friend’ or ‘ally.’ Thus, the Spanish province of Tejas, the Mexican state of Coahuila y Tejas, and the historic trail traversing them owe their name to the Caddo language.<br /> <br /> Spanish interest in Texas began because of the expedition of René Robert Cavelier, Sieur de La Salle, a French explorer who established a fort along the Texas coast in 1685. Spanish officials saw this incursion as a threat to their silver mines and their shipping routes through the Gulf of Mexico. Though La Salle’s settlement failed after he was killed by his own men, the threat of French colonization remained a powerful motivating force behind the development of Spanish Texas—much of which occurred along El Camino Real de los Tejas.<br /> <br /> In 1690, a party of soldiers and priests crossed the Rio Grande on their way to the Neches River, where they established two missions intended to cultivate religion and a sedentary lifestyle among the Caddos. Following a smallpox outbreak in 1693, however, Caddos warned the Spaniards to leave or die. They retreated back across the Rio Grande, establishing one of the enduring themes of El Camino Real de los Tejas: American Indians often dictated the terms of Spanish settlement in eastern Texas, and not vice versa.<br /> <br /> Prompted once again by the threat of the French, Spaniards reestablished their presence in eastern Texas in 1716 by building four churches and a presidio; however, the missions largely failed to attract the desired number of American Indian converts. A few years later, Spaniards constructed a fort at Los Adaes—just twelve miles west of the French post at Natchitoches. Yet even though Los Adaes would serve as the capital of Spanish Texas until 1770, it relied heavily upon illegal trade with its neighboring French settlement to stay afloat. Its isolated position at the eastern end of El Camino Real de los Tejas, separated from other Spanish settlements by a long trail with treacherous river crossings, made life at Los Adaes a daily struggle.<br /> <br /> The governor of the Spanish province of Texas began eyeing a new settlement along the San Antonio River to serve as a midpoint between the Rio Grande and the East Texas missions. This area eventually turned into the heart of Spanish Texas, as the Crown’s eastern outposts continued to be hamstrung by supply shortages and indifference from members of the Caddo confederacy who—well-armed with French trade goods and able to sustain themselves without Spanish assistance—found little use for the mission complexes. The Spaniards eventually abandoned three of the East Texas missions, reestablishing them near San Antonio in 1731. By 1750, peace with Apaches allowed the area’s Hispanic settlers to expand their ranching and farming activities along the San Antonio River. By 1773 San Antonio was the new capital of Tejas, and the residents of Los Adaes were forced to relocate there. Once again, El Camino Real de los Tejas played a prominent role in the Spanish cycle of populating and abandoning eastern Texas.<br /> <br /> The trail retained its importance after Mexican independence in 1821. Ranchers continued to bring cattle along El Camino Real, establishing large ranches along the Rio Grande south of Laredo. Large numbers of Anglo settlers used the trail en route to their new homes in Texas; their arrival eventually led to revolt against Mexico, during which armies from both sides moved along the royal road. Usage of the original route diminished in 1845 when the United States annexed Texas.</p> <p><strong>More Information</strong></p> <h2><a href=\"https://www.nps.gov/elte/index.htm\">El Camino Real de los Tejas National Historic Trail</a><br /> <br /> Learn more about other <a href=\"https://www.nps.gov/orgs/1453/national-trails-office-administered-trails.htm\">National Historic Trails</a></h2>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.38339614861616,
+          28.65892317487251
+        ]
+      },
+      "properties": {
+        "name": "El Camino Real de los Tejas Visitor Center",
+        "notes": "El Camino Real de los Tejas Visitor Center\nhttps://www.nps.gov/places/el-camino-real-de-los-tejas-visitor-center.htm\n\n<p>The museum helps tell the story of El Camino Real, a story interwoven with that of the CCC architects who sought to faithfully recreate the bygone era of the Spanish empire through the mission restoration. Among other offerings, visitors have the chance to create their own architectural sketch on a piece of “blueprint” paper, inspired by their own connection to the stories they hear in the museum.</p> <h2>Site Information</h2> <p><strong>Location</strong> (108 Park Road 6, just west of US highways 77 and 183 and State Highway 239, ¾ mile south of Goliad)<br /> <br /> The historic building was a caretakers cottage built by the Civilian Conservation Corps. While moving through the cottage, visitors find interactive exhibits and activities primarily relating to the trail while highlighting aspects of the structure.</p> <p><em><a href=\"https://www.nps.gov/elte/planyourvisit/safety.htm\">Safety Considerations</a></em></p> <h3><a href=\"https://tpwd.texas.gov/state-parks/bastrop\">More site information</a></h3> <h2><a href=\"https://www.nps.gov/elte/index.htm\">El Camino Real de los Tejas National Historic Trail</a></h2>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.162125,
+          29.131852
+        ]
+      },
+      "properties": {
+        "name": "Floresville El Camino Trail",
+        "notes": "Floresville El Camino Trail\nhttps://www.nps.gov/places/floresville-el-camino-trail.htm\n\n<p>Paralleling the right-of-way for the old San Antonio and Aransas Pass Railroad AND the 18th-century Camino Real de los Tejas route between San Antonio and Goliad, the Floresville Hike & Bike Trail takes you through multiple layers of Texas history.</p> <h2>Site Information</h2> <p><strong>Location </strong>(This 2.5 mile trail goes from Hospital Boulevard (US Highway 97) to the Riverbend Golf Course.)</p> <p><em><a href=\"https://www.nps.gov/elte/planyourvisit/safety.htm\">Safety Considerations</a></em></p> <h3><a href=\"https://www.floresvilletx.gov/\">More site information</a></h3> <h2><a href=\"https://www.nps.gov/articles/000/floresville-el-camino-trail-exhibits-audio-description.htm\">Exhibit Audio Description available</a></h2> <h2><a href=\"https://www.nps.gov/elte/index.htm\">El Camino Real de los Tejas National Historic Trail</a></h2>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.97473430476384,
+          31.187230495245092
+        ]
+      },
+      "properties": {
+        "name": "Fort Boggy State Park",
+        "notes": "Fort Boggy State Park\nhttps://www.nps.gov/places/fort-boggy-state-park.htm\n\n<p>Desperate to protect themselves from nearby American Indians, settlers between the Navasota and Trinity rivers built a fort in 1840. It initially bore the name of the Erwin family, but--seeing as the site was so close to Boggy Creek--the fort eventually became known as Fort Boggy. The leader of the Texas Rangers sent to help, Capt. Thomas Greer, was killed on a scouting expedition in 1841. The original families soon left the site; Indian attacks became less frequent, and the fort fell into disrepair.</p> <h2>Site Information</h2> <p><strong>Location</strong> (4994 Highway 75 South , Centerville, TX 75835)</p> <p>The fort consisted of two small blockhouses (fortified buildings that usually include ports for firing outwards) and eleven dwellings inside an area just less than one square mile.</p> <p><em><a href=\"https://www.nps.gov/elte/planyourvisit/safety.htm\">Safety Considerations</a></em></p> <h3><a href=\"https://tpwd.texas.gov/state-parks/fort-boggy\">More site information</a></h3> <h2><a href=\"https://www.nps.gov/elte/index.htm\">El Camino Real de los Tejas National Historic Trail</a></h2>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.402347,
+          31.6124
+        ]
+      },
+      "properties": {
+        "name": "Fort Jesup State Historic Site",
+        "notes": "Fort Jesup State Historic Site\nhttps://www.nps.gov/places/fort-jesup-state-historic-site.htm\n\n<p>After the territorial boundary between the US and Spain was fixed at the Sabine River by the Florida Purchase Treaty of 1819, the United States built Fort Jesup in 1822. Lieutenant Colonel Zachary Taylor, who first established and commanded the garrison, managed to establish law and order in what had long been neutral ground between the two countries.<br /> <br /> Fort Jesup remained an important military post for nearly 25 years. The fort witnessed the migration of US settlers into Texas, the winning of Texas independence, and the annexation of Texas as a US state in 1845. Fort Jesup, no longer needed as a border outpost, was abandoned in 1846.</p> <h2>Site Information</h2> <p><strong>Location</strong> (32 Geoghagan Road (six miles northeast of Many, just south of State Highway 6))</p> <p><em><a href=\"https://www.nps.gov/elte/planyourvisit/safety.htm\">Safety Considerations</a></em></p> <h3><a href=\"https://www.lastateparks.com/\">More site information</a></h3> <h2><a href=\"https://www.nps.gov/elte/index.htm\">El Camino Real de los Tejas National Historic Trail</a></h2>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.08794264,
+          31.75257492
+        ]
+      },
+      "properties": {
+        "name": "Fort St. Jean Baptiste State Historic Site",
+        "notes": "Fort St. Jean Baptiste State Historic Site\nhttps://www.nps.gov/places/fort-st-jean-baptiste-state-historic-site.htm\n\n<p>On a mission to establish trading ties with Spain, French-Canadian trader Louis Juchereau de St. Denis encountered an impenetrable logjam on the Red River; at this spot he hastily built two crude huts, which become Fort St. Jean Baptiste and the town of Natchitoches, the oldest permanent settlement in what would become the Louisiana Purchase. St. Denis was named the commandant of the fort in 1722, and the colony thrived until his death in 1744.<br /> <br /> In 1731, an attack by the Natchez Indians exposed the fort's vulernability, prompting French officials to send an engineer to oversee the construction of a stronger structure. The fort was garrisoned by French soldiers until 1762, when France ceded Lousiana to Spain. Spanish authorities continued to operate the fort as a military outpost and trading center; however, the fort no longer protected a territorial boundary, so its strategic importance diminished. Spain eventually abandoned the fort, and--when the United States acquired the territory in 1803--it was in ruins.</p> <h2>Site Information</h2> <p><strong>Location</strong> (155 Jefferson Street in Natchitoches, between Keyser Street and University Parkway)</p> <p><strong>Available Facilities/Exhibits</strong><br /> The fort replica, a picnic area, and restrooms. In 1979, work began on the fort reconstruction at a location a few hundred yards from the original fort site. Local building materials were used and many 18th-century techniques were employed in the replication, with handmade hinges and latches brought from a nearby foundry.</p> <p><em><a href=\"https://www.nps.gov/elte/planyourvisit/safety.htm\">Safety Considerations</a></em></p> <h3><a href=\"https://www.lastateparks.com/\">More site information</a></h3> <h2><a href=\"https://www.nps.gov/elte/index.htm\">El Camino Real de los Tejas National Historic Trail</a></h2>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.75736825959274,
+          31.46715024067451
+        ]
+      },
+      "properties": {
+        "name": "Gaines-Oliphant House",
+        "notes": "Gaines-Oliphant House\nhttps://www.nps.gov/places/gaines-oliphant-house.htm\n\n<p>The Gaines-Oliphant House is one of the earliest Anglo-American structures in Texas. Once part of the early settlement of Gaines Ferry, the Gaines-Oliphant house is the only surviving structure of James Gaines large plantation and ferry-tavern enterprise on the Sabine River crossing of El Camino Real. Built around 1818, the story and a half log home with dog trot is built from local pine and red clay bricks. The house appears to have been constructed for the parents of his young wife, so they could live nearby.<br /> <br /> James Gaines was one of the first Anglo settlers in Texas arriving in the area in 1812. He built a large plantation and continually participated in the creation of the new Texas Republic.  In Gaines purchased the ferry operation in 1819. He operated an inn, mercantile, and frontier post office near the Sabine River crossing. <br /> <br /> Alfred Oliphant and his wife Martha applied for a landgrant in Sabine County and moved their family here in 1840. James sold the house and 81 acres to Martha Oliphant in 1843. <br /> <br /> Today the house is located in the Pendleton Harbor Subdivision. The houses that surround the Gaines-Oliphant are private. Visitors can park in a gravel pull off and view the house from a short distance. A chain link fence surrounds the property.</p> <h2>Site Information</h2> <p><strong>Location</strong> (350 Ensign Dr., Hemphill, TX 75948 Located in Pendleton Harbor Subdivision, on Highway 21 near Pendleton Bridge, Sabine County;along the Texas-Louisiana border. )</p> <p><em><a href=\"https://www.nps.gov/elte/planyourvisit/safety.htm\">Safety Considerations</a></em></p> <h2><a href=\"https://www.nps.gov/elte/index.htm\">El Camino Real de los Tejas National Historic Trail</a></h2>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.385579,
+          28.656579
+        ]
+      },
+      "properties": {
+        "name": "Goliad State Park and Mission Espiritu Santo State Historic Site",
+        "notes": "Goliad State Park and Mission Espiritu Santo State Historic Site\nhttps://www.nps.gov/places/goliad-state-park-and-mission-espiritu-santo-state-historic-site.htm\n\n<p>Missions Espíritu Santo and Rosario tell a story of faith, sacrifice and the creation of a distinctive ranching heritage. The missions also reveal the story of the Karankawa, Aranama and Tamique people’s traditional way of life. The birthplace of General Ignacio Zaragoza tells of a boy who became a military hero revered by people of two nations. The El Camino Real de los Tejas Visitors Center showcases the architecture inside the Keeper’s Cottage built by the talented men of the Civilian Conservation Corps (CCC) and guides guests down a historic trail.<br /> <br /> The Spanish established the mission at this site in 1749. It was the fourth mission with this name, the previous three having been established in Victoria (and possibly Jackson) counties. This mission was the first large cattle ranch in Texas, supplying its own needs and those of Spanish colonial settlements as far away as Louisiana. The Franciscan priests closed the mission in 1830. The Civilian Conservation Corps reconstructed the mission during the 1930s so that it would appear as it did in 1783. It became a state park in 1949.</p> <h2>Site Information</h2> <p><strong>Location </strong>(108 Park Road 6, just west of US highways 77 and 183 and State Highway 239, ¾ mile south of Goliad)<br /> <br /> The four sites that comprise the park have park amenities such as restrooms and picnic areas, outdoor recreation opportunities on trails and water, and offer historic buildings to experience a step back in time and contextualize the formation of Texas.</p> <ul> <li>Mission Nuestra Señora del Espíritu Santo de Zúñiga</li> <li><a href=\"https://www.nps.gov/places/nuestra-senora-de-rosario-mission.htm\">Mission Nuestra Señora del Rosario</a></li> <li><a href=\"www.nps.gov/places/el-camino-real-de-los-tejas-visitor-center.htm\">El Camino Real Visitor Center</a></li> <li><a href=\"https://www.tshaonline.org/handbook/entries/general-zaragoza-state-historic-site\">Zaragoza Birthplace</a></li> </ul> <p><em><a href=\"https://www.nps.gov/elte/planyourvisit/safety.htm\">Safety Considerations</a></em></p> <h3><a href=\"https://tpwd.texas.gov/state-parks/bastrop\">More site information</a></h3> <h2><a href=\"https://www.nps.gov/elte/index.htm\">El Camino Real de los Tejas National Historic Trail</a></h2>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.488965,
+          29.421584
+        ]
+      },
+      "properties": {
+        "name": "La Villita Historic District",
+        "notes": "La Villita Historic District\nhttps://www.nps.gov/places/la-villita-historic-district.htm\n\n<p>La Villita was San Antonio’s first neighborhood. It was originally a settlement of primitive huts for the Spanish soldiers stationed at Presidio San Antonio de Bexar. After a flood in 1819, brick, stone, and adobe houses replaced the earlier structures. In 1836 La Villita was the site of General Santa Ana’s cannon line in the Battle of the Alamo, and a map from early that year showed the village to be of considerable size.</p> <h2>Site Information</h2> <p><strong>Location</strong> (bounded by the San Antonio River, South Alamo Street, East Nueva Street, and South Presa Street, San Antonio, Texas)</p> <p><strong>Available Facilities/Exhibits</strong><br /> Today La Villita is a thriving art community (a series of small shops). It is a historic district listed on the National Register of Historic Places.</p> <p><em><a href=\"https://www.nps.gov/elte/planyourvisit/safety.htm\">Safety Considerations</a></em></p> <h2><a href=\"https://www.nps.gov/elte/index.htm\">El Camino Real de los Tejas National Historic Trail</a></h2>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.94930267333984,
+          31.4778995513916
+        ]
+      },
+      "properties": {
+        "name": "Lobanillo Swales",
+        "notes": "Lobanillo Swales\nhttps://www.nps.gov/places/lobanillo-swales.htm\n\n<p>A state historic marker in nearby Geneva says that the historic Spanish rancho known as El Lobanillo was located nearby. The rancho included the pueblo of Gil Y'Barbo (1729-1809), a refuge used by his ailing mother and other refugees in 1773 when Spain evacuated colonists from western Louisiana and East Texas. It was given as a land grant to Juan Ignacio Pifermo in 1794, and inherited in the early 1800s by John Maximillian (ca. 1778-1866).</p> <h2>Site Information</h2> <p><strong>Location</strong> (on State Hwy. 21 W 2 miles west of Geneva, Texas (near the Sabine-San Augustine county line))</p> <p>Two sets of deep and parallel swales extend about one-quarter mile through the forest. One set of swales has seven parallel ruts reaching a depth of 18 feet and 12 feet wide. The quiet surroundings and tall pine trees give a sense of what the area was like hundreds of years ago.</p> <p><em><a href=\"https://www.nps.gov/elte/planyourvisit/safety.htm\">Safety Considerations</a></em></p> <h3><a href=\"https://www.elcaminorealdelostejas.org/\">El Camino Real de Los Tejas National Historic Trail Association</a></h3> <h2><a href=\"https://www.nps.gov/elte/index.htm\">El Camino Real de los Tejas National Historic Trail</a></h2>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.29301294999999,
+          31.70770477
+        ]
+      },
+      "properties": {
+        "name": "Los Adaes State Historic Site",
+        "notes": "Los Adaes State Historic Site\nhttps://www.nps.gov/places/los-adaes-state-historic-site.htm\n\n<p>Los Adaes, the symbol of New Spain in Louisiana, was once the capital of Texas. The founding of Natchitoches in 1714 by the French resulted in Spain's establishment, within two years, of six missions and one fort in east Texas. In 1719, a French attack on nearby Mission San Miguel alarmed the Spanish and they built a new presidio, or fort, to counter any further French intrusion into Spanish territory. The Presidio Nuestra Señora del Pilar de Los Adaes (Fort of Our Lady of Pilar at the Adaes) was surrounded by a hexagonal stockade with three bulwarks. In 1729, Spain designated Los Adaes the capital of the province of Texas. This made Los Adaes the official residence of the governor, and a house was constructed for him within the presidio. Los Adaes remained the administrative seat of government for the entire province until 1772 (10 years after Louisiana was transferred to Spain); Los Adaes closed that year and the inhabitants moved to San Antonio. However, many of the 500 soldiers and family members soon left San Antonio and returned to Louisiana, where their descendants live today.</p> <h2>Site Information</h2> <p><strong>Location</strong> (6354 Highway 485, one mile northeast of Robeline)</p> <p><em><a href=\"https://www.nps.gov/elte/planyourvisit/safety.htm\">Safety Considerations</a></em></p> <h3><a href=\"https://www.lastateparks.com/\">More site information</a></h3> <h2><a href=\"https://www.nps.gov/elte/index.htm\">El Camino Real de los Tejas National Historic Trail</a></h2>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.49556875222333,
+          29.424714200062045
+        ]
+      },
+      "properties": {
+        "name": "Main and Military Plazas",
+        "notes": "Main and Military Plazas\nhttps://www.nps.gov/places/main-and-military-plazas.htm\n\n<p>Military Plaza was first established in 1722 as a parade ground and market square for the Spanish soldiers garrisoned there. While this plaza is associated with early Spanish colonialism, due in large part to the preservation of the 1749 Spanish Governor's Palace, it evolved over the years from a community gathering place and marketplace into the city’s seat of government. Main Plaza was the site of the first authorized Texas city when it was established as a market square on March 9, 1731. Soon small block residences were built around the square, with their village church (now San Fernando Cathedral) and the Casas Reales (114 East Main Plaza), their seat of government, as their focal points.</p> <h4>Site Information</h4> <p><strong>Location</strong> (includes all city-owned open areas bounded by Commerce Street, Dolorosa Street, Calder Alley, and Soledad Street, San Antonio, Texas)<br />  </p> <p><strong>Available Facilities/Exhibits</strong><br /> On Military Plaza, the Italian Renaissance Revival-style city hall—built in 1888-91. On Main Plaza, the Romanesque Revival-style county courthouse—built in 1882.</p> <p><em><a href=\"https://www.nps.gov/elte/planyourvisit/safety.htm\">Safety Considerations</a></em></p> <h3><a href=\"http://www.sanantonio.gov/historic/historicsites/HistoricDistricts/MainMilitary\">More site information</a></h3> <h2><a href=\"https://www.nps.gov/elte/index.htm\">El Camino Real de los Tejas National Historic Trail</a></h2>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.721992,
+          30.180754
+        ]
+      },
+      "properties": {
+        "name": "McKinney Falls State Park",
+        "notes": "McKinney Falls State Park\nhttps://www.nps.gov/places/mckinney-falls-state-park.htm\n\n<p>McKinney Falls State Park is an oasis on the outskirts of Austin, featuring wildlife, hiking trails, and--the main attraction--a series of limestone ledges and pools over which Onion Creek flows. One particular site within the park along Onion Creek served as a key crossing point along El Camino Real de los Tejas. The park is named for Thomas F. McKinney who came to Texas in the early 1820s as one of Stephen F. Austin's first 300 colonists. Sometime between 1850 and 1852, McKinney moved to Travis County and to his property on Onion Creek, where he built a large two-story home, stone fences, and the first flour mill in the area.</p> <h2>Site Information</h2> <p><strong>Location</strong> (5808 McKinney Falls Parkway, six miles south/southeast of downtown Austin (as the crow flies) or 13 miles southeast of downtown Austin, Texas (by road))<br />  </p> <p><strong>Available Facilities</strong><br /> Primary activities are camping, hiking, mountain biking, road biking, picnicking, fishing swimming, and wildlife observation.<br />  </p> <p><strong>Exhibits</strong><br /> Information on Thomas F. McKinney and the history of the park's land use is interpreted in the Smith Visitor Center.<br /> <em><a href=\"https://www.nps.gov/elte/planyourvisit/safety.htm\">Safety Considerations</a></em></p> <h3><a href=\"https://tpwd.texas.gov/state-parks/mckinney-falls\">More site information</a></h3> <h2><a href=\"https://www.nps.gov/elte/index.htm\">El Camino Real de los Tejas National Historic Trail</a></h2>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.11549200000002,
+          31.523217
+        ]
+      },
+      "properties": {
+        "name": "Mission Dolores State Historic Site",
+        "notes": "Mission Dolores State Historic Site\nhttps://www.nps.gov/places/mission-dolores-state-historic-site.htm\n\n<p>Established in 1717, abandoned in 1719, and re-established in 1721, the second location of Mission Dolores was chosen for its proximity to a stream and a large, level patch of arable land. Although there are no above-ground remains, archaeological research has uncovered cow and ox bones, horse trappings, broken knife blades, and gun flints offer clues of everyday life at the mission.</p> <h2>Site Information</h2> <p><strong>Location</strong> (701 South Broadway, San Augustine, Texas)</p> <p><strong>Available Facilities</strong><br /> Visitors can explore the site’s history at the museum where interpretive displays tell the story of Mission Dolores. The property also has a campground, picnic area, and group pavilions.</p> <p><em><a href=\"https://www.nps.gov/elte/planyourvisit/safety.htm\">Safety Considerations</a></em></p> <h3><a href=\"https://www.thc.texas.gov/historic-sites/mission-dolores-state-historic-site\">More site information</a></h3> <h2><a href=\"https://www.nps.gov/elte/index.htm\">El Camino Real de los Tejas National Historic Trail</a></h2>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.451241,
+          29.318073
+        ]
+      },
+      "properties": {
+        "name": "Mission Espada",
+        "notes": "Mission Espada\nhttps://www.nps.gov/places/mission-espada.htm\n\n<p paraeid=\"{7fe531f1-89ea-4489-b9a3-cf4f147d72d0}{175}\" paraid=\"999477851\">Mission Espada was the first mission in the province of Texas, founded in 1690 as San Francisco de los Tejas. In 1731, the mission was relocated from east Texas to the present location along the San Antonio River and renamed Mission San Francisco de la Espada. Mission Espada is the southern most mission in San Antonio. Visitors can walk the mission grounds, visit the church and park museum. <br /> <br /> Mission Espada is part of the World Heritage Site. To check out the audio tour visit: <a href=\"https://www.worldheritagesa.com/Missions/Mission-Espada/Espada-Audio-Tour\">Espada Audio Tour (worldheritagesa.com)</a><br />  </p> <p paraeid=\"{f59d558a-969c-4ca0-a373-657d5e21854c}{4}\" paraid=\"445115075\"><strong>Explore the Missions </strong></p> <p paraeid=\"{f59d558a-969c-4ca0-a373-657d5e21854c}{12}\" paraid=\"1890050281\">San Francisco de los Tejas was founded in 1690 by Franciscan Father Damian Massanet near Weches, Texas and abondoned in 1693 after epidemics and after the Spansih learned of plot by the Tejas to massacre the missionaries. This mission was relocated to San Antonio in 1731 after several failed attempts at other locations in the province of Texas.   </p> <p paraeid=\"{f59d558a-969c-4ca0-a373-657d5e21854c}{60}\" paraid=\"1949987898\">The mission was renamed San Francisco de la Espada. La Espada means sword in Spanish and is believed to be the surname of a distinguished or  person.  The mission started from scratch, recruiting Indigenous groups, and collecting supplies.   </p> <p paraeid=\"{f59d558a-969c-4ca0-a373-657d5e21854c}{98}\" paraid=\"924988068\">The sacristy, granary, and two-story convento were completed in 1745.  The first and current stone church was completed by 1756. The mission was partially secularized in 1794 and fully secularized by Mexico in 1824.   </p> <p paraeid=\"{f59d558a-969c-4ca0-a373-657d5e21854c}{128}\" paraid=\"170932069\"><strong>Acequias: The Lifeblood of the Missions</strong> </p> <p paraeid=\"{f59d558a-969c-4ca0-a373-657d5e21854c}{134}\" paraid=\"1311699537\">During the first years of the missions, the indigenous people under the instruction of the craftsman would’ve began construction on the dam, dug the earthen acequias, cleared land for farming, and built temporary structures. The acequia construction began around 1731 and was completed by 1745.  The acequias water has been flowing ever since. Walk around outside the mission walls and you can see parts of the Espada acequia. </p> <p lang=\"EN-US\" paraeid=\"{20b631cd-4a9a-4fb6-a7ae-869a67700414}{221}\" paraid=\"683632737\" xml:lang=\"EN-US\"><strong>Bicycle Information</strong></p> <p lang=\"EN-US\" paraeid=\"{20b631cd-4a9a-4fb6-a7ae-869a67700414}{223}\" paraid=\"326515942\" xml:lang=\"EN-US\">Please walk bikes on sidewalks inside the missions. </p> <p lang=\"EN-US\" paraeid=\"{20b631cd-4a9a-4fb6-a7ae-869a67700414}{225}\" paraid=\"1156096718\" xml:lang=\"EN-US\">The bike rack is located near the entrance of the hike and bike trail northwest of the mission. The San Antonio Bike Share docking station is located along the hike and bike trail northwest of the mission.     </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.486086,
+          29.425765
+        ]
+      },
+      "properties": {
+        "name": "Mission San Antonio de Valero 3rd Site The Alamo",
+        "notes": "Mission San Antonio de Valero 3rd Site The Alamo\nhttps://www.nps.gov/places/mission-san-antonio-de-valero-3rd-site-the-alamo.htm\n\n<p>Most commonly known as the Alamo, the third site of Mission San Antonio de Valero was an important part of missionary work in Texas before becoming the site of many military garrisons.</p> <h2>Site Information</h2> <p><strong>Location</strong> (300 Alamo Plaza, in downtown San Antonio, Texas)</p> <p>This beautifully reconstructed mission offers expansive grounds and many Spanish architectural details, carved in limestone from the banks of the San Antonio River.</p> <p><em><a href=\"https://www.nps.gov/elte/planyourvisit/safety.htm\">Safety Considerations</a></em></p> <h3><a href=\"https://www.thealamo.org/\">More site information</a></h3> <h2><a href=\"https://www.nps.gov/elte/index.htm\">El Camino Real de los Tejas National Historic Trail</a></h2>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.23203492164612,
+          31.542241993035866
+        ]
+      },
+      "properties": {
+        "name": "Mission Tejas State Park",
+        "notes": "Mission Tejas State Park\nhttps://www.nps.gov/places/mission-tejas-state-park.htm\n\n<p>Mission San Francisco de los Tejas, the first Spanish mission in the province of Texas, was established in 1690 on San Pedro Creek just east of the site of present-day Augusta. It was abandoned in 1693 and then reestablished in 1716 in nearby Cherokee County. This second mission lasted until approximately 1730. The first site of this mission has not been found. In 1934, the Civilian Conservation Corps built a commemorative representation of the 1690 mission at the park site. The park was managed by the Texas Forest Service until it became a state park in 1956. The Rice Family log home, which was built by Joseph Rice Sr. between 1828 and 1838, is one of the oldest structures in the area. It initially served as a stopover for immigrants, adventurers, and local residents traveling the Old San Antonio Road.<br /> <br /> The pine forests and grassy fields possess remarkable visual integrity, giving visitors a good idea what the landscape looked like hundreds of years ago.</p> <h2>Site Information</h2> <p><strong>Location</strong> (19343 State Hwy. 21 East, Grapeland, Texas  75844, 16 miles east/northeast of Grapeland, Texas)</p> <p><strong>Available Facilities </strong><br /> The park offers fishing, picnicking, campsites, and group facilities as well as a commemorative representation of Mission San Francisco de los Tejas.</p> <p><strong>Exhibits</strong><br /> The park offers pioneer skills demonstrations, as well as school tours of the two historic structures.<br /> <em><a href=\"https://www.nps.gov/elte/planyourvisit/safety.htm\">Safety Considerations</a></em></p> <h3><a href=\" https://tpwd.texas.gov/state-parks/mission-tejas\">More site information</a></h3> <h2><a href=\"https://www.nps.gov/elte/index.htm\">El Camino Real de los Tejas National Historic Trail</a></h2>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.69139099121094,
+          30.245555877685547
+        ]
+      },
+      "properties": {
+        "name": "Montopolis Bridge",
+        "notes": "Montopolis Bridge\nhttps://www.nps.gov/places/montopolis-bridge.htm\n\n<p>Wondering how a 1930s bridge relates to El Camino Real de los Tejas NHT? The bridge sits at the best river crossing in the area and was the historic trail with the Colorado River crossing just to the east. When standing on the bridge, imagine scores of trail travelers, their carts, and animals, along both sides of the river between the bridge and the Austin skyline.</p> <h2>Site Information</h2> <p><strong>Location</strong> (Austin, Texas)</p> <p><strong>Access</strong><br /> The bridge is open only to cyclists and pedestrians as part of the new hike and bike trail. The path will connect users to multiple trails and parks in Austin. Follow the Camino on foot or bike – using only feet and wheels as travelers did for 300 years when it was the royal road. After all, history and exercise can go hand in hand. </p> <p><em><a href=\"https://www.nps.gov/elte/planyourvisit/safety.htm\">Safety Considerations</a></em></p> <h3><a href=\"http://austintexas.gov/urbantrails\">More site information</a></h3> <h2><a href=\"https://www.nps.gov/elte/index.htm\">El Camino Real de los Tejas National Historic Trail</a></h2> <p> </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.87635399999999,
+          29.888033
+        ]
+      },
+      "properties": {
+        "name": "Monument Hill and Kreische Brewery State Historic Sites",
+        "notes": "Monument Hill and Kreische Brewery State Historic Sites\nhttps://www.nps.gov/places/monument-hill-and-kreische-brewery-state-historic-sites.htm\n\n<p>The monument and tomb commemorate those lost in the Dawson massacre and the Mier expedition, two skirmishes fought between Mexican and Texian forces in 1842. A German immigrant, Heinrich Ludwig Kreische, purchased the property containing the monument and tomb; in the 1860s, using nearby spring water, Kreische started one of the first commercial breweries in Texas.</p> <h2>Site Information</h2> <p><strong>Location</strong> (414 State Loop 92 La Grange, TX 78945-5733)</p> <p>The monument/tomb site and the ruins of the brewery both sit on top of a scenic bluff, providing a magnificent view of the surrounding area.</p> <p><em><a href=\"https://www.nps.gov/elte/planyourvisit/safety.htm\">Safety Considerations</a></em></p> <h3><a href=\"https://www.thc.texas.gov/historic-sites/monument-hill-state-historic-site\">More site information</a></h3> <h2><a href=\"https://www.nps.gov/elte/index.htm\">El Camino Real de los Tejas National Historic Trail</a></h2>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.65497427280093,
+          31.602972532920298
+        ]
+      },
+      "properties": {
+        "name": "Nacogdoches Convention and Visitors Bureau",
+        "notes": "Nacogdoches Convention and Visitors Bureau\nhttps://www.nps.gov/places/nacogdoches-convention-and-visitors-bureau.htm\n\n<p>Located in the historic downtown of \"The Oldest Town in Texas,\" the Charles Bright Visitor Center offers information on local attractions, events, activities, and all things to do in the area. The center is situated along the historic route of El Camino Real de Los Tejas, known today as Main Street. Exhibits in and around the building tell the story of the peoples and cultures that influenced the town before, during, and since it's establishment.<br /> <br /> The Visitor Center staff can offer information on nearby locations to explore trail history including tours of historic structures, outdoor activities, museums, and other attractions. The center has a range of printed materials to help you are your journey. Be sure to get your National Park Passport stamp while you're there.<br /> <br /> Operated by the Nacogdoches Convention and Visitors Bureau, the Visitor Center is a great place to begin your exploration of El Camino Real de Los Tejas in eastern Texas.</p> <h2>Site Information</h2> <p><strong>Location</strong> (200 East Main Street, Nacogdoches, TX 75961; Located in the Charles Bright Visitor Center, along East Main Street/El Camino Real de Los Tejas, in historic downtown Nacogodoches.)</p> <p><em><a href=\"https://www.nps.gov/elte/planyourvisit/safety.htm\">Safety Considerations</a></em></p> <h3><a href=\"https://www.visitnacogdoches.org/\">More site information</a></h3> <h2><a href=\"https://www.nps.gov/elte/index.htm\">El Camino Real de los Tejas National Historic Trail</a></h2>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.08591804000002,
+          31.76275361
+        ]
+      },
+      "properties": {
+        "name": "Natchitoches Parish Convention and Visitors Bureau",
+        "notes": "Natchitoches Parish Convention and Visitors Bureau\nhttps://www.nps.gov/places/natchitoches-parish-convention-and-visitors-bureau.htm\n\n<p>An important resource for maps, recommendations, and other resources for a successful visit to Louisiana's oldest city.</p> <h2>Site Information</h2> <p><strong>Location</strong> (780 Front St STE 100, Natchitoches, LA 71457)</p> <p><em><a href=\"https://www.nps.gov/elte/planyourvisit/safety.htm\">Safety Considerations</a></em></p> <h3><a href=\"http://www.natchitocheschamber.com/\">More site information</a></h3> <h2><a href=\"https://www.nps.gov/elte/index.htm\">El Camino Real de los Tejas National Historic Trail</a></h2>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.43917107582092,
+          28.64480902482233
+        ]
+      },
+      "properties": {
+        "name": "Nuestra Señora de Rosario Mission",
+        "notes": "Nuestra Señora de Rosario Mission\nhttps://www.nps.gov/places/nuestra-senora-de-rosario-mission.htm\n\n<p>This National Register property was established in  November 1754 in an attempt to make peace with various Karankawan tribes, who did not get along with the other Indians at existing missions. Frustratingly for the Spaniards, the Indians arrived in the winter but departed in the spring (when food was more widely available outside the mission grounds). The site was virtually abandoned by 1781, reopened in 1789, abandoned again in 1804, and formally closed in 1807. In 1935 the mission, by then a ruin, was given to the Goliad State Park Commission; it was transferred to the state in 1971. It is currently managed as a state archeological monument.</p> <h2>Site Information</h2> <p><strong>Location</strong> (four miles west of Goliad, Texas, just southwest of where US Highway 59 crosses the San Antonio River)</p> <p>The mission's ruins sit atop a small rise in the San Antonio River valley. Although we cannot know for sure, archeologists think that the site consisted of a chapel, bell tower, sacristy, and residence.<br /> <em><a href=\"https://www.nps.gov/elte/planyourvisit/safety.htm\">Safety Considerations</a></em><br /> <br /> <strong>Access<br /> Closed to the public</strong>. This site is still being studied and can be visited only by appointment.</p> <p><strong>Exhibits</strong><br /> Historical marker along the road adjacent to the site.</p> <h3><a href=\"https://tpwd.texas.gov/state-parks/goliad/goliad-area-historic-sites\">More site information</a></h3> <h2><a href=\"https://www.nps.gov/elte/index.htm\">El Camino Real de los Tejas National Historic Trail</a></h2> <p><br />  </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.57891249777822,
+          29.260946972480433
+        ]
+      },
+      "properties": {
+        "name": "Paso de Sabinitas",
+        "notes": "Paso de Sabinitas\nhttps://www.nps.gov/places/paso-de-sabinitas.htm\n\n<p>Located in the Medina River Natural Area, Paso de Sabinitas was an important ford along the Camino de los Palos Altos. This ford is a state archeological landmark. The route here crossed the Medina River for the Camino de los Palos, known to the Spanish as Paso Sabinitas.</p> <h2>Site Information</h2> <p><strong>Location</strong> (in the Medina River Natural Area, approximately 500 feet east of Palo Alto Road (State Highway 16), San Antonio, Texas)</p> <p>Many contact period artifacts surround this important crossing of the Medina River.</p> <p><em><a href=\"https://www.nps.gov/elte/planyourvisit/safety.htm\">Safety Considerations</a></em></p> <h3><a href=\"https://texasbeyondhistory.net/st-plains/images/he6.html\">More site information</a></h3> <h2><a href=\"https://www.nps.gov/elte/index.htm\">El Camino Real de los Tejas National Historic Trail</a></h2>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.47621756183241,
+          29.45591666926436
+        ]
+      },
+      "properties": {
+        "name": "Paso de los Tejas",
+        "notes": "Paso de los Tejas\nhttps://www.nps.gov/places/paso-de-los-tejas.htm\n\n<p>During the 1690s, materials for the construction of missions were acquired from a series of quarries in this location. There are remnants of structures associated with the period of significance of the trail.</p> <h2>Site Information</h2> <p><strong>Location</strong> (approximately 600 feet downstream from the East Mulberry Avenue bridge over the San Antonio River, San Antonio, Texas)</p> <p><em><a href=\"https://www.nps.gov/elte/planyourvisit/safety.htm\">Safety Considerations</a></em></p> <h3><a href=\"https://mapio.net/pic/p-44745679/\">More site information</a></h3> <h2><a href=\"https://www.nps.gov/elte/index.htm\">El Camino Real de los Tejas National Historic Trail</a></h2>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.38248188836053,
+          28.648407554777066
+        ]
+      },
+      "properties": {
+        "name": "Presidio La Bahía",
+        "notes": "Presidio La Bahía\nhttps://www.nps.gov/places/presidio-la-bahia.htm\n\n<p>When a visitor walks into the Presidio's entrance, they are instantly surrounded by the rich history of Spanish and Texas lifestyles of the 1800's. The museum includes the artifacts found at the Presidio, and a short version of an award-winning film. After touring the museum, a visitor is free to walk the grounds of the Presidio. Visitors can go into the chapel and visit the quadrangle outside the chapel.</p> <h2>Site Information</h2> <p><strong>Location </strong>(217 Loop 71 Goliad, Texas 77963)</p> <p>The restored Presidio sits on the footprint of the original fort with original portions of the historic structures. Our Lady of Loreto chapel is the only completely original structure on site and dates to 1779.<br /> <br /> <em><a href=\"https://www.nps.gov/elte/planyourvisit/safety.htm\">Safety Considerations</a></em></p> <h3><a href=\"https://presidiolabahia.org/\">More Site Information</a></h3> <h2><a href=\"https://www.nps.gov/elte/index.htm\">El Camino Real de los Tejas National Historic Trail</a></h2>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5791089,
+          29.2633571
+        ]
+      },
+      "properties": {
+        "name": "Rancho de Pérez",
+        "notes": "Rancho de Pérez\nhttps://www.nps.gov/places/rancho-de-perez.htm\n\n<p>This is a state archeological landmark, which is part of the Ignacio Pérez land grant. The ranch was known as Rancho de Piedra. The site is located north of the Medina River and was preserved and protected by the Pérez family for more than a century. There is a chapel at the Pérez Cemetery, which was constructed on top of the foundation of the original Spanish Colonial period chapel. Some elements of the original chapel remain.</p> <h2>Site Information</h2> <p><strong>Location</strong> (in the Medina River Natural Area, approximately 2,000 feet west of Applewhite Road, San Antonio, Texas)</p> <p><em><a href=\"https://www.nps.gov/elte/planyourvisit/safety.htm\">Safety Considerations</a></em></p> <h3><a href=\"https://www.nps.gov/nr/feature/places/R_A_14000099.htm\">More site information</a></h3> <h2><a href=\"https://www.nps.gov/elte/index.htm\">El Camino Real de los Tejas National Historic Trail</a></h2>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.17836814945957,
+          29.091179361745887
+        ]
+      },
+      "properties": {
+        "name": "Rancho de las Cabras",
+        "notes": "Rancho de las Cabras\nhttps://www.nps.gov/places/rancho-de-las-cabras.htm\n\n<p>Tucked away in a protected prairie are ruins belonging to one of the first ranches in Texas. You can only visit Rancho de las Cabras as part of a guided tour with a park ranger from <a href=\"https://www.nps.gov/saan/index.htm\">San Antonio Missions National Historical Park</a>. Meet the park ranger in Floresville, Texas to explore the stories, myths, and mysteries surrounding Rancho de las Cabras.</p> <p><em><a href=\"https://www.nps.gov/elte/planyourvisit/safety.htm\">Safety Considerations</a></em></p> <p><a href=\"https://www.texasbeyondhistory.net/st-plains/images/he4.html\">Archeology matters! Find out what the earth reveals about Rancho de las Cabras</a>.</p> <p><a href=\"https://stmuscholars.org/remebering-ranchos-de-las-cabras-the-forgotten-outpost-of-mission-espada/\">Read more about the forgotten outpost that helped make Texas the cowboy and cattle capital.</a></p> <h2>Site Information</h2> <p><strong>Location </strong>(Floresville, Texas; Contact San Antonio Missions National Historical Park to sign-up for a guided tour.)</p> <p>Program length is approximately 2 hours. Reservations required with limited availability and first come first serve. To reserve your spot please saan_interpretation@nps.gov and include your name, email, phone number and # in party.</p> <p>This site is only accessible through guided programs.</p> <h2><a href=\"https://www.nps.gov/elte/index.htm\">El Camino Real de los Tejas National Historic Trail</a></h2>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.50581299999999,
+          27.501872
+        ]
+      },
+      "properties": {
+        "name": "Republic of the Rio Grande Museum",
+        "notes": "Republic of the Rio Grande Museum\nhttps://www.nps.gov/places/republic-of-the-rio-grande-museum.htm\n\n<p>Located in the downtown San AgustÍn Historic District, it was once the Republic of the Río Grande's capitol building. It now showcases memorabilia from the short-lived Republic of the Río Grande and displays pictures, books, and furniture from the 19th-century Laredo area. There are three restored rooms: an office and sitting area, a bedroom, and a kitchen. Casa Ortiz, part of this complex, is a state historic landmark.</p> <h2>Site Information</h2> <p><strong>Location</strong> (1005 Zaragoza St., Laredo, TX 78040 (at the southwest corner of San Agustin Plaza))</p> <p>One of Laredo's oldest structures, the building was constructed in 1830 in the Mexican vernacular style; it features rectangular massing, a flat roof, and few windows.</p> <p><em><a href=\"https://www.nps.gov/elte/planyourvisit/safety.htm\">Safety Considerations</a></em></p> <h3><a href=\"http://webbheritage.org/museums/republic-of-the-rio-grande-museum/\">More site information</a></h3> <h2><a href=\"https://www.nps.gov/elte/index.htm\">El Camino Real de los Tejas National Historic Trail</a></h2>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.42683919699962,
+          27.093219277805574
+        ]
+      },
+      "properties": {
+        "name": "Rio Grande Overlook at Arroyo San Francisco",
+        "notes": "Rio Grande Overlook at Arroyo San Francisco\nhttps://www.nps.gov/places/drexel-rio-grande-overlook.htm\n\n<p>Many cultures have crossed this stretch of the Rio Grande River, and many nations have claimed it. In the 1700s, Spanish colonists settled along the river at Villa de Dolores and Revilla. In the early 1800s, Mexican landowners established ranches on both banks. This overlook provides an expansive view of the river and landscape.<br /> <br /> The overlook sits hundreds of feet above the Rio Grande River. While there have been people living along the Rio Grande for centuries, this site provides a beautiful view of a landscape that offer a glimpse of undeveloped Texas river lands. The overlook is a good vantage point to glimpse the landscape in which the ranchos were created along the river. It is a place to contemplate past and present, and to consider the meaning of the river as both an obstacle to traveling El Camino Real and creating settlements in the past, to understanding the river as an international boundary today. It is a relevant place to be in a time of immigration debate by understanding heritage and ancestry in the modern world. </p> <h2>Site Information</h2> <p><strong>Location</strong> (Off of Highway 83)</p> <p>Expansive view of the Rio Grande River provides the backdrop to a discussion of the nations that claimed Texas as theirs and how the river was then an obstacle but today it is an international border.<br /> <br /> <em><a href=\"https://www.nps.gov/elte/planyourvisit/safety.htm\">Safety Considerations</a></em></p> <h2><a href=\"https://www.nps.gov/elte/index.htm\">El Camino Real de los Tejas National Historic Trail</a></h2>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.49987900000002,
+          29.446477
+        ]
+      },
+      "properties": {
+        "name": "San Pedro Springs",
+        "notes": "San Pedro Springs\nhttps://www.nps.gov/places/san-pedro-springs.htm\n\n<p>The area surrounding these springs was occupied long before Europeans arrived. When Spanish explorers visited the springs in the late 1600s, the area was occupied by the Payayas Indians, who lived in the village of Yanaguana. The area around the springs (at the Presidio San Antonio de Bexar, 1st site) was the original site of San Antonio, and in 1729 it was dedicated as a public space by the Spanish government.</p> <h2>Site Information</h2> <p><strong>Location</strong> (in San Pedro Springs Park, 1315 North San Pedro Avenue, San Antonio, Texas)</p> <p><strong>Available Facilities</strong><br /> Facilities in the park include a swimming pool, tennis courts, a library, and a community theater.</p> <p><em><a href=\"https://www.nps.gov/elte/planyourvisit/safety.htm\">Safety Considerations</a></em></p> <h3><a href=\"http://www.sanantonio.gov/ParksAndRec/Parks-Facilities/All-Parks-Facilities/Parks-Facilities-Details/ArtMID/14820/ArticleID/2504/San-Pedro-Springs-Park/Park/216\">More site information</a></h3> <h2><a href=\"https://www.nps.gov/elte/index.htm\">El Camino Real de los Tejas National Historic Trail</a></h2>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.49598000000003,
+          29.42482
+        ]
+      },
+      "properties": {
+        "name": "Spanish Governor's Palace",
+        "notes": "Spanish Governor's Palace\nhttps://www.nps.gov/places/spanish-governor-s-palace.htm\n\n<p>The Spanish Governor's Palace is all that remains of the original Presidio San Antonio de Bexar--the first permanent Spanish military presence in San Antonio. It served as both the residence and office for captains of the military garrison from 1722 until the early 1800s.</p> <h2>Site Information</h2> <p><strong>Location</strong> (105 Plaza de Armas (105 Military Plaza), in downtown San Antonio, Texas)</p> <p>The complex includes a one-story masonry and stucco structure with ten rooms, a well-manicured courtyard, and a fountain.</p> <p><em><a href=\"https://www.nps.gov/elte/planyourvisit/safety.htm\">Safety Considerations</a></em></p> <h3><a href=\"https://www.sanantonio.gov/CCDO/parksplazas/governorspalace\">More site information</a></h3> <h2><a href=\"https://www.nps.gov/elte/index.htm\">El Camino Real de los Tejas National Historic Trail</a></h2>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.64880099999999,
+          31.619384
+        ]
+      },
+      "properties": {
+        "name": "The Stone Fort Museum",
+        "notes": "The Stone Fort Museum\nhttps://www.nps.gov/places/the-stone-fort-museum.htm\n\n<p>The original structure was built by Antonio Gil Y'Barbo as a market or storage area for the town of Nacogdoches at the intersection of Old San Antonio Road an La Calle del Norte. After this structure was torn down in 1902, the Texas Centennial Commision built a replica in 1936 on the grounds of Stephen F. Austin State University.</p> <h2>Site Information</h2> <p><strong>Location</strong> (1808 Alumni Drive, Nacogdoches, Texas)</p> <p><em><a href=\"https://www.nps.gov/elte/planyourvisit/safety.htm\">Safety Considerations</a></em></p> <h3><a href=\"http://www.sfasu.edu/stonefort/\">More site information</a></h3> <h2><a href=\"https://www.nps.gov/elte/index.htm\">El Camino Real de los Tejas National Historic Trail</a></h2>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.44350033871524,
+          27.04322324942761
+        ]
+      },
+      "properties": {
+        "name": "Treviño-Uribe Rancho",
+        "notes": "Treviño-Uribe Rancho\nhttps://www.nps.gov/places/trevino-uribe-rancho.htm\n\n<p>This national historic landmark was settled in 1830 by former residents of Revilla (now Nuevo Guerrero, Tamaulipas) under the leadership of Jesús Treviño. The site was in the southwest corner of the original Hacienda de Dolores, a grant made in 1750 by Col. José de Escandón to José Vázquez Borrego, and was named for the patron saint of Guerrero, Saint Ignatius Loyola. In 1830 Treviño built a sandstone home, known as Fort Treviño, 100 by 140 feet. José Villareal placed a sundial at the home in 1851; the timepiece has become a tourist attraction. San Ygnacio became a center of trade by the mid-1800s, and the town was the scene of several border skirmishes throughout the years. <br /> <br /> Like many frontier buildings of its era, the fort is fortified by strong walls that protect a courtyard within. Its walls have no windows, only small gunports through which those inside the fort could fire at attackers outside. The fort sits on a small bluff above the Rio Grande, and the lush vegetation and plentiful birdsong creates an almost tropical feeling. </p> <h2>Site Information</h2> <p><strong>Location</strong> (300-398 Trevino St, at the corner of Treviño and Uribe streets, in the northwestern part of San Ygnacio, Texas)</p> <h3><a href=\"https://www.riverpierce.org/\">More Site information</a></h3> <h2><a href=\"https://www.nps.gov/elte/index.htm\">El Camino Real de los Tejas National Historic Trail</a></h2>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.50419383000002,
+          27.50226117
+        ]
+      },
+      "properties": {
+        "name": "Villa Antigua Border Heritage Museum",
+        "notes": "Villa Antigua Border Heritage Museum\nhttps://www.nps.gov/places/villa-antigua-border-heritage-museum.htm\n\n<p>This restored two-story brick building was once home to two early Laredo merchant families. With its size and pivotal location on the banks of the Rio Grande, this Italianate-style residence is representative of the grand houses that populated the San Agustín District in the early 20th century. The home was abandoned for many years and survived numerous fires and initiatives aimed at demolishing it. In 2002, Webb County and its Heritage Foundation acquired the home and undertook its historic rehabilitation.</p> <h2>Site Information</h2> <p><strong>Location</strong> (810 Zaragoza St., Laredo, TX 78040 (just east of the Republic of the Rio Grande Museum))</p> <p>The two-story brick home combines the region's traditional flat-roofed style with ornate details and impressive grounds.</p> <p><em><a href=\"https://www.nps.gov/elte/planyourvisit/safety.htm\">Safety Considerations</a></em></p> <h3><a href=\"http://webbheritage.org/museums/villa-antigua-border-heritage-museum/\">More site information</a></h3> <h2><a href=\"https://www.nps.gov/elte/index.htm\">El Camino Real de los Tejas National Historic Trail</a></h2>",
+        "icon": "red-pin-down.png"
+      }
+    }
+  ]
+}

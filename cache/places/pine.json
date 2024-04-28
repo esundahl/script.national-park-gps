@@ -1,0 +1,73 @@
+[
+  {
+    "id": "DC9484E8-C7B5-4CC7-AD34-04ED8942C14E",
+    "url": "https://www.nps.gov/places/new-jersey-pinelands-national-reserve.htm",
+    "title": "New Jersey Pinelands National Reserve",
+    "listingDescription": "Truly a special place, classified as a United States Biosphere Reserve and in 1978 was established by Congress as the country’s first National Reserve. It includes portions of seven southern New Jersey counties, and encompasses over one-million acres of farms, forests and wetlands. It contains 56 communities, from hamlets to suburbs, with over 700,000 permanent residents.",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/place/nri/20180801/places/A7594588-BE2A-4018-4FCE0F00E3C46DC2/A7594588-BE2A-4018-4FCE0F00E3C46DC2.jpg",
+        "credit": "State of New Jersey Pinelands Commission",
+        "altText": "Green, orange, and yellow lily pads with sedge grasses in dark, still water.",
+        "title": "",
+        "description": "",
+        "caption": "A lily pad pond is",
+        "crops": []
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "NJ",
+        "parkCode": "pine",
+        "designation": "National Reserve",
+        "fullName": "New Jersey Pinelands National Reserve",
+        "url": "https://www.nps.gov/pine/index.htm",
+        "name": "New Jersey Pinelands"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [
+      "pine barren",
+      "Find Your Park",
+      "National Reserve"
+    ],
+    "latitude": "39.75",
+    "longitude": "-74.75",
+    "latLong": "39.75,-74.75",
+    "bodyText": "<p>Congress created the Pinelands National Reserve (PNR) through the passage of the <a href=\"https://www.nj.gov/pinelands/reserve/NR_act_1978_502_16.pdf\">National Parks and Recreation Act of 1978</a>. The PNR is the first National Reserve in the nation. <br /> <br /> The PNR is approximately 1.1 million acres and spans portions of seven counties and all or part of 56 municipalities. The reserve occupies 22% of New Jersey's land area and it is the largest body of open space on the Mid-Atlantic seaboard between Richmond and Boston.<br /> <br /> The reserve is home to dozens of rare plant and animal species and the Kirkwood-Cohansey aquifer system, which contains an estimated 17 trillion gallons of water. It is also classified as a United States Biosphere Reserve. The Pinelands is located in the Atlantic Outer Coastal Plain, geological formation characterized by gently rolling terrain and sandy soils. Underlying much of the Pinelands is the Cohansey Aquifer, which contains enough water to cover all of New Jersey 10 feet deep - and equal to nearly half the water consumed each year in the U.S. This formation of unconsolidated sand and gravel functions as a vast reservoir estimated to contain over 17 trillion gallons of some of the purest water in the country. The water in this shallow aquifer frequently lies at or near the surface, producing bogs, marshes, and swamps. The streams of the Pinelands are fed by this aquifer, and are characteristically acidic and nutrient poor. Natural organic contents leaching out of the soils are responsible for the dark tea color of the region's streams.<br />    </p> <p>In 1979, New Jersey formed a partnership with the federal government to preserve, protect and enhance the natural and cultural resources of this special place.<br /> <br /> Through its implementation of the Pinelands Comprehensive Management Plan, the <a href=\"https://www.nj.gov/pinelands/reserve/\">New Jersey Pinelands Commission</a> protects the Pinelands in a manner that maintains the region's unique ecology while permitting compatible development. <br /> <br /> Whether you are interested in exploring a historic site, canoeing down a Pinelands steam, visiting a nature center, or hiking along a trail, you can find it in the Pinelands National Reserve. A Pinelands Guide to Recreational Opportunities, Historic Sites, Nature Centers, and Field Trips in the New Jersey Pinelands is available on-line at the NJ Pinelands Commission website.</p>",
+    "audioDescription": "",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "https://www.nj.gov/pinelands/reserve/",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "",
+    "isManagedByNps": "0",
+    "amenities": [],
+    "managedByOrg": "State of New Jersey Pinelands Commission",
+    "quickFacts": [
+      {
+        "id": "5C252B96-2DEB-4EF4-91D1-B5D2B202FCD7",
+        "value": "New Jersey",
+        "name": "Location"
+      },
+      {
+        "id": "208F1B3C-44DC-4CF5-9A61-9B26A364D701",
+        "value": "The reserve is home to dozens of rare plant and animal species and the Kirkwood-Cohansey aquifer system, which contains an estimated 17 trillion gallons of water. ",
+        "name": "Significance"
+      },
+      {
+        "id": "E32D2136-A184-4C1A-91D2-4C20CEF9CBAF",
+        "value": "National Reserve",
+        "name": "Designation"
+      }
+    ],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  }
+]

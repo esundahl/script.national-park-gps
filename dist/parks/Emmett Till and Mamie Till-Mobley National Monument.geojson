@@ -1,0 +1,50 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.27090840119394,
+          33.83229047617291
+        ]
+      },
+      "properties": {
+        "name": "Graball Landing",
+        "notes": "Graball Landing\nhttps://www.nps.gov/places/graball-landing.htm\n\nFourteen-year-old <a href=\"https://www.nps.gov/people/emmett-till.htm\">Emmett Till</a>’s body was found near Graball Landing on the Tallahatchie River following his lynching by two White men in 1955. Graball Landing is located near Glendora, Mississippi, and accessible to visitors via River Road. Please note that River Road is unpaved and can be difficult to traverse in wet conditions. The site includes views of the river, a historic marker, and limited roadside parking. Please respect private property around the site.<br /> <br /> <strong>Ask about road conditions at the </strong><a href=\"https://www.emmett-till.org/\">Emmett Till Interpretive Center</a><strong> before visiting. </strong><a href=\"https://www.nps.gov/till/planyourvisit/directions.htm\">Get directions to the site</a>.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.62622580565431,
+          41.821218554859826
+        ]
+      },
+      "properties": {
+        "name": "Roberts Temple Church of God in Christ",
+        "notes": "Roberts Temple Church of God in Christ\nhttps://www.nps.gov/places/roberts-temple.htm\n\nRoberts Temple Church of God in Christ on Chicago’s South Side was the location of <a href=\"https://www.nps.gov/people/emmett-till.htm\">Emmett Till</a>’s funeral in September 1955. It is still an active church today. Public access is limited to the exterior of the building. Please respect the private property of the church. Visitor information is located at <a href=\"https://www.nps.gov/pull/index.htm\">Pullman National Historical Park</a> 11 miles to the south. A Passport to Your National Parks® cancellation stamp for the Illinois unit is available at the Pullman National Historical Park <a href=\"https://www.nps.gov/pull/planyourvisit/visitorcenters.htm\">Administration Clock Tower Building Visitor Center</a>.<br /> <br /> <a href=\"https://www.nps.gov/till/planyourvisit/directions.htm\">Get directions to Roberts Temple Church of God in Christ</a>. ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.36965550270156,
+          33.9708960627197
+        ]
+      },
+      "properties": {
+        "name": "Tallahatchie County Courthouse and Emmett Till Interpretive Center",
+        "notes": "Tallahatchie County Courthouse and Emmett Till Interpretive Center\nhttps://www.nps.gov/places/tallahatchie-county-courthouse-etic.htm\n\nThe trial of the men accused of lynching <a href=\"https://www.nps.gov/people/emmett-till.htm\">Emmett Till</a> took place at the Tallahatchie County Courthouse in Sumner, Mississippi. Visitors can learn more at the <a href=\"https://www.emmett-till.org/\">Emmett Till Interpretive Center</a>, an official nonprofit partner of Emmett Till and Mamie Till-Mobley National Monument, across the street from the courthouse. Tours of the courthouse begin at the center. While at the center, experience local efforts to support community healing through art and storytelling. The center also offers a self-guided tour app of other sites related to Emmett Till and <a href=\"https://www.nps.gov/people/mamie-till-mobley.htm\">Mamie Till-Mobley</a>. A Passport to Your National Parks® cancellation stamp for the Mississippi unit is available at the Emmett Till Interpretive Center. Please respect private property as you visit the area. <a href=\"https://www.nps.gov/till/planyourvisit/directions.htm\">Get directions to the site</a>.",
+        "icon": "red-pin-down.png"
+      }
+    }
+  ]
+}

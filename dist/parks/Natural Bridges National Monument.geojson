@@ -1,0 +1,80 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.015393338,
+          37.6118310392
+        ]
+      },
+      "properties": {
+        "name": "Horse Collar Ruin Overlook",
+        "notes": "Horse Collar Ruin Overlook\nhttps://www.nps.gov/places/horse-collar-ruin-overlook.htm\n\n<p> Horse Collar Ruin is one of the best-preserved ancestral Puebloan sites in the area. The overlook is the easiest and best way to view the site. Horse Collar was named after two structures with doorways that resemble horse collars. We believe people left the area over 700 years ago and the site's remarkable state of preservation is due to the isolation of Natural Bridges. Few visitors made the journey down the canyons, so Horse Collar Ruin's kiva with original roof and interior were not disturbed. The site was rediscovered by an archeological expedition in 1907, seemingly forgotten, and rediscovered again in 1936 by Zeke Johnson, the park’s first custodian.</p> <p>Not much has changed since Zeke Johnson's day. The ladder into the kiva is gone, and much of the debris inside has been removed. Sadly, one can no longer find pottery or arrowheads here anymore--practically everything has been taken away by other visitors.</p> <p>The round structures are also much as Zeke Johnson first saw them. No one knows the exact purpose of these unusual structures. Why are they so perfectly round, and why did their builders not use the back of the alcove as a wall and save themselves a great deal of work? Were they ever roofed? If not, why bother constructing plaster floors? Were they used for storage? If so, why were fires lit inside them? What do you think?</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.02716283237233,
+          37.598082812535765
+        ]
+      },
+      "properties": {
+        "name": "Kachina Bridge Viewpoint",
+        "notes": "Kachina Bridge Viewpoint\nhttps://www.nps.gov/places/kachina-bridge-viewpoint.htm\n\n<p>Kachina is the medium bridge in the monument, larger than Owachomo but smaller than Sipapu. The viewpoint on the mesa top is the easiest way to see Kachina. From there, you can see the bridge’s thick span and reddish color. It is 44 feet wide and 93 feet thick in places. Also visible from the viewpoint is sweeping views of the surrounding landscape, including canyons and buttes. On the path to the viewpoint, look for desert flora like yucca, rabbitbrush, and twisting juniper trees.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.01389694213867,
+          37.58499079128896
+        ]
+      },
+      "properties": {
+        "name": "Owachomo Bridge Viewpoint",
+        "notes": "Owachomo Bridge Viewpoint\nhttps://www.nps.gov/places/owachomo-bridge-viewpoint.htm\n\n<p>Owachomo Bridge is the smallest, thinnest, and most accessible bridge in the monument. The viewpoint is a short distance from the parking area and reveals sweeping views of the delicate span and surrounding country. Also visible from the viewpoint is the plethora of <a href=\"https://www.nps.gov/articles/seug-soil-crust.htm\">biological soil crust</a> around the bridge’s base. Also notice the large rock mound on top of the bridge’s east end; Owachomo means rock mound in Hopi. Owachomo Bridge was also the site of the park’s first visitor center.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.00167728415066,
+          37.615703414020174
+        ]
+      },
+      "properties": {
+        "name": "Sipapu Bridge Viewpoint",
+        "notes": "Sipapu Bridge Viewpoint\nhttps://www.nps.gov/places/sipapu-bridge-viewpoint.htm\n\n<p>With a span of 268 feet, Sipapu Bridge is the largest natural bridge in the monument and the second largest in America (Rainbow Bridge is the first). The viewpoint, up on the mesa top, is the easiest way to see Sipapu Bridge, along with sweeping views of the surrounding canyon landscape. The viewpoint is slightly above the bridge, allowing for a more complete picture than the view from below.</p> <p>The Sipapu Bridge viewpoint is also an excellent place for geology. Look for <a href=\"https://www.nps.gov/articles/desertvarnish.htm\">desert varnish</a> streaking down the canyon walls and <a href=\"https://www.nps.gov/articles/ephemeral-pools.htm\">potholes</a> on the canyon rim. Below the bridge, follow the path of the ancient river that carved this natural landscape. The viewpoint is accessed from the scenic drive via a paved path.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.98964977264404,
+          37.60097683331826
+        ]
+      },
+      "properties": {
+        "name": "View of Bears Ears Buttes",
+        "notes": "View of Bears Ears Buttes\nhttps://www.nps.gov/places/view-of-bears-ears-buttes.htm\n\n<p>Bears Ears Buttes are sacred, beautiful, and iconic. The buttes and surrounding area has a rich cultural heritage for the many local peoples who continue to use these lands for traditional and ceremonial uses. The Bears Ears can be seen from many places in the Four Corners, but one of the best views is from the scenic drive at Natural Bridges. Bears Ears National Monument is separate from Natural Bridges and managed by Bureau of Land Management and US Forest Service. <a href=\"https://www.blm.gov/programs/national-conservation-lands/utah/bears-ears-national-monument\">Learn more about Bears Ears National Monument from the BLM.</a></p>",
+        "icon": "red-pin-down.png"
+      }
+    }
+  ]
+}

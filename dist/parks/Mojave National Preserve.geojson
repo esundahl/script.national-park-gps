@@ -1,0 +1,110 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.60937440148622,
+          34.8043635788339
+        ]
+      },
+      "properties": {
+        "name": "Boulders Viewpoint Area",
+        "notes": "Boulders Viewpoint Area\nhttps://www.nps.gov/places/boulders-viewpoint-area.htm\n\nBoulders Viewpoint Area is a wonderful place to park your car, take a break, and enjoy a stunning view of the Granite Mountains. Boulders Viewpoint Parking Area is located 7 miles north of Interstate 40. In addition, Boulders Viewpoint Parking Area is also 50 miles south of Baker and Interstate 15. There are no services at this viewpoint.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "name": "California| Mojave National Preserve Lanfair Settlement Archive",
+        "notes": "California| Mojave National Preserve Lanfair Settlement Archive\nhttps://www.nps.gov/places/california-mojave-national-preserve-lanfair-settlement-archive.htm\n\nThe desert is a land of mystery, a land of little forgiveness, and a place where dreams have blossomed and withered. One such dream, a dream of economic independence for African Americans, came to be known as Lanfair. The determination to realize that dream has been documented by Goffs historian, Dennis G. Casebier, and anthropologists Rebecca Austin, and Ginny Bengston.  <br /> <br /> When the eastern Mojave Desert was opened to homesteading in 1910, Lanfair Valley became the focus of a visionary group of African American entrepreneurs and clergy in Los Angeles bent on establishing agricultural and mining colonies in the desert. Lanfair is situated within the Mojave National Preserve along Lanfair Road some 17 miles north of the community of Goffs. Though rail service through the valley attracted many to try their luck, there is little across the landscape today to recall this community of homesteading farmers and their efforts to literally grow a new life out of the arid desert soil.  <br /> <br /> Represented in the remains of these homesteads are the stories of the men, women, and children, friends and family, who came to Lanfair Valley to escape oppression and bigotry, and to claim land that with work could become land of their own. Links among some of these homesteaders are documented in census records, land patent proof testimony, recorded interviews, and Ancestry.com. Some were associated in the east, in most cases through family, decades before coming to California. Some became known to each other after settling in Los Angeles and the Pasadena-Monrovia area. Other relationships originated through business and participation in the efforts to colonize the desert. <br /> <br /> The experiment at Lanfair Valley lasted only a short time and has survived the passing years and generations in name only. The reach for independence that brought about that experiment, and the struggle to realize it, perfectly define the American Dream. Details of what these homesteaders experienced and how hard they worked are documented in the historical record and memorialized in what they left behind them. Through the vision of the National Park Service and the efforts of two anthropologists, the dream and the struggle have been brought to light, and the legacy of Lanfair has reunited the descendants of a number of those pioneers.<br /> <br /> In September 2021, the Mojave National Preserve Lanfair Settlement Archive was added to the African American Civil Rights Network (AACRN).<br /> <br /> <i>The African American Civil Rights Network recognizes the civil rights movement in the United States and the sacrifices made by those who fought against discrimination and segregation. Created by the African American Civil Rights Act of 2017, and coordinated by the National Park Service, the Network tells the stories of the people, places, and events of the U.S. civil rights movement through a collection of public and private resources.</i>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.98514,
+          35.114934
+        ]
+      },
+      "properties": {
+        "name": "Ft. Piute",
+        "notes": "Ft. Piute\nhttps://www.nps.gov/places/ft-piute.htm\n\n<p>4WD and High Clearance is required to reach Ft Piute. It is located in a very remote area. The road is not regularly maintained, and some sections are rough and sandy. Before beginning a journey, drivers should ensure that their vehicle is in good condition: check tires, oil, and gas gauge. For emergencies, carry tools, tire jack, towrope, extra water, and fluids for your vehicle.<br /> <br /> Since deserts are defined by a scarcity of water it’s always surprising—indeed magical—when it is present. Piute Creek, the only stream that flows year-round in Mojave National Preserve, is such a place. In a landscape dominated by cholla cactus, Mojave yucca and other signature desert plants, the creekbed is lined with water-loving cottonwood trees. In late fall, the yellow leaves sparkle in the desert sun. It is an incongruous scene in a landscape generally bereft of such autumnal displays. It is magical.</p> <p>The geological backdrop to this scene is equally beautiful. Towering above the last of the cottonwoods at the head of the creek is Piute Gorge, a slot canyon carved by the torrential rains that occasionally surge through it. The walls of the gorge are hundreds of feet high. Cut off from the sky in this cool respite from the sun, you feel cut off from civilization as well. But such thoughts can be deceptive. Where there is water in the desert there are animals… and people.</p> <p>The human history of Piute Creek is as compelling as its natural history. Archeological evidence suggests that humans have used the area for thousands of years. To stand on the banks of this small, remote creek and imagine crops of melon, corn, and other foods planted along the banks is to appreciate the ingenuity and efforts of the people who lived there so long ago. Piute Creek was also a stop along a busy trail that peoples of the Colorado River basin used to trade with tribes along the California Coast—a trail that the Spanish and, later, Americans largely followed. The route became known as the Mojave Road. Its importance is illustrated by the remnants of a fort that US soldiers built above the creek and briefly occupied from 1866–1867. Fort Piute protected mail and emigrants traveling to the coast. With the arrival of railroads, however, the route became extraneous. Mail was carried by rail, wagons ceased to use the road, and the native peoples who first used these trails and lived along the banks of Piute Creek were settled on reservations. The last residents of the area were George and Virginia Irwin who, in the 1940s and 1950s, operated a ranch east of the remains of Fort Piute.</p> <p>Today the Mojave Road has been rerouted to protect the sensitive habitat that this miraculous desert stream supports, but one can still hike a small portion of the original route taken by so many. The human and natural drama of Piute Creek is truly inspirational. And it all begins, and ends, with that little stream on the eastern edge of the Mojave Desert that never dries up.</p> <p>Before visiting, be sure to consult a reliable map and, as always, it’s a good idea to check with a park ranger for the latest information on weather and road conditions.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.731661026,
+          34.9083388361
+        ]
+      },
+      "properties": {
+        "name": "Kelso Dunes",
+        "notes": "Kelso Dunes\nhttps://www.nps.gov/places/kelso-dunes.htm\n\nThe Kelso Dunes, at over 600 feet tall, are a vast playground of sand. For thousands of years, wind picked up sand from the nearby Mojave River sink and carried it until it came upon the moutains. Once the wind hit the Providence and Granite Mountain ranges, it released the sand, forming the beautiful slopes you see now. It is unlikely that any new accumulation is occurring today. <br /> <br /> If you're feeling energetic, take the three-mile roundtrip hike to the top of the dunes. Or explore the many varied windswept shapes along the way. If you're lucky, you might hear the dunes singing: listen (and feel) for a low-pitched booming sound. <br /> <br /> The Kelso Dunes are also home to a unique, fragile ecosystem. There are multiple rare species of plants here, as well as endemic insect species that don't live anywhere else in the world. Sidewinder snakes and Mojave fringe-toed lizards are among some of the animal inhabitants. Look for tracks in the sand. Who else has been there? ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.397233958301,
+          35.04419313418236
+        ]
+      },
+      "properties": {
+        "name": "Rings Loop",
+        "notes": "Rings Loop\nhttps://www.nps.gov/places/rings-loop.htm\n\nDiscover how Hole-in-the-Wall got its name as you ascend narrow Banshee Canyon with the help of metal rings mounted in the rock. The 1.5-mile round-trip hike connects to the Mid Hills to Hole-in-the-Wall Trail.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.334769,
+          35.155023
+        ]
+      },
+      "properties": {
+        "name": "Rock Spring",
+        "notes": "Rock Spring\nhttps://www.nps.gov/places/rock-spring.htm\n\nThe Rock Spring area is beautiful, lush part of the Preserve. Though water flows infrequently, you may still find it in the spring. <br /> <br /> The Rock Spring Loop is an easy, one-mile intrepretive trail, featuring descriptions of the mining and military history of the area. This particular spot has been significant to people for a long time.<br /> <br /> You'll also find the Rock House, a historic building that has provided rest and healing to multiple residents. (The Rock House is locked, please stay out for your safety). ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.751506,
+          35.216319
+        ]
+      },
+      "properties": {
+        "name": "The Lava Tube",
+        "notes": "The Lava Tube\nhttps://www.nps.gov/places/the-lava-tube-at-mojave.htm\n\nThe Lava Tube was formed by hot, molten lava oozing across the desert floor 27,000 years ago. Now, visitors can go inside the lava tube to enjoy a unique underground haven with cooler summer temperatures and fantastic photography opportunities. <br /> <br /> <strong>Access Information:</strong><br /> Two-wheel drive, high clearnace vehicles can usually access the lava tube via the unimproved Aiken Mine Road from North Kelbaker Road. Be sure to check <a href=\"https://www.nps.gov/moja/road-conditions.htm\">current road conditions</a> to verify the route is open for your type of vehicle, as conditions can change due to weather events. The walking trail from the parking area to the tube is 1/2 mile over rocky terrain.  ",
+        "icon": "red-pin-down.png"
+      }
+    }
+  ]
+}

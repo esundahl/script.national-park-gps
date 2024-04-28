@@ -1,0 +1,455 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.465430749,
+          37.162447988
+        ]
+      },
+      "properties": {
+        "name": "Balcony House Parking Area",
+        "notes": "Balcony House Parking Area\nhttps://www.nps.gov/places/balcony-house-parking-area.htm\n\n<em>The Balcony House Parking Area and Cliff Palace Loop Road are open 8 am to sunset from late spring to December 1, or until the first significant snowfall.</em><br /> <br /> Soda Canyon is visible from the Balcony House Parking Area, but surprisingly, Balcony House is not. Why? Because it is perched out of sight, in a cliff alcove below.<br /> <br /> During tour season, ranger-guided tours of Balcony House begin at this location. The overlook features two wayside exhibits: one shows photos of the cliff dwelling and the tour route and another has a tactile display of the structure.<br /> <br /> Balcony House is almost hidden in the side of a steep cliff. Archeologists count 38 rooms and two kivas in the cliff dwelling. Although the site feels isolated and remote, it is part of a much larger community. Eleven small sites have been counted in the immediate vicinity and many larger ones are within easy walking distance.<br /> <br /> Hike the <a href=\"https://www.nps.gov/places/place-sco-trail.htm\">Soda Canyon Overlook Trail</a> to get a view of Balcony House tucked into the canyon wall.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.471872053,
+          37.1622810286
+        ]
+      },
+      "properties": {
+        "name": "Cliff Canyon Overlook",
+        "notes": "Cliff Canyon Overlook\nhttps://www.nps.gov/places/cliff-canyon-overlook.htm\n\n<em>Cliff Canyon Overlook and Cliff Palace Loop Road are open 8 am to sunset from late spring to December 1, or until the first significant snowfall.</em><br /> <br /> The Cliff Canyon Overlook opens up to a stunning view of Cliff Canyon. In the 1200s, Cliff Canyon was a thriving neighborhood, where Ancestral Pueblo people went about their daily lives.<br /> <br /> With careful observation, visitors can spot House of Many Windows, Site 634, Sun Point Cliff Dwelling, and Mummy House perched in the canyon walls. Sun Temple sits on the mesa top across the canyon.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.472471685,
+          37.167362457
+        ]
+      },
+      "properties": {
+        "name": "Cliff Palace Loop Road",
+        "notes": "Cliff Palace Loop Road\nhttps://www.nps.gov/places/cliff-palace-loop-road.htm\n\n<em>The Cliff Palace Loop Road is open 8 am to sunset from late spring to December 1, or until the first significant snowfall.</em><br /> <br /> Cliff Palace Loop Road is a 6-mile (10-km) drive with overlooks of various cliff dwellings, access to the ranger-guided tours of Cliff Palace and Balcony House, and the trailhead for the Soda Canyon Overlook Trail.<br /> <br /> Stops along this road include: <ul> <li><a href=\"https://www.nps.gov/places/cp_overlook.htm\">Cliff Palace Overlook</a></li> <li><a href=\"https://www.nps.gov/places/cliff-canyon-overlook.htm\">Cliff Canyon Overlook</a></li> <li><a href=\"https://www.nps.gov/places/house-of-many-windows.htm\">House of Many Windows Overlook</a></li> <li><a href=\"https://www.nps.gov/places/hemenway-house-overlook.htm\">Hemenway House Overlook</a></li> <li><a href=\"https://www.nps.gov/places/balcony-house-parking-area.htm\">Balcony House Parking Area</a></li> <li><a href=\"https://www.nps.gov/places/place-sco-trail.htm\">Soda Canyon Overlook Trail</a></li> </ul>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.473690272,
+          37.166893747
+        ]
+      },
+      "properties": {
+        "name": "Cliff Palace Overlook",
+        "notes": "Cliff Palace Overlook\nhttps://www.nps.gov/places/cp_overlook.htm\n\n<em>Cliff Palace Overlook and Cliff Palace Loop Road are open 8 am to sunset from late spring to December 1, or until the first significant snowfall. </em><br /> <br /> With at least 150 rooms and 21 kivas, Cliff Palace is an exceptionally large cliff dwelling. It was surrounded by a vibrant, active community. Because of the large kiva to room ratio, some scholars suggest Cliff Palace was an important gathering place, perhaps an administrative center with ceremonial use for many Ancestral Pueblo villages. The people who lived in the area were familiar with dozens of footpaths that led from village to village and to storage structures, farming areas, water sources, and public buildings, such as Cliff Palace.<br /> <br /> Recent studies reveal that Cliff Palace contained 150 rooms and 21 kivas and had a population of approximately 100 people. Out of the nearly 600 cliff dwellings concentrated within the boundaries of the park, 75% contain only 1-5 rooms each, and many are single room storage units.<br /> <br /> Cliff Palace can also be seen from the Sun Point View and Sun Temple stops along the <a href=\"https://www.nps.gov/places/mesatoploopdrive.htm\">Mesa Top Loop Road</a>, which is open all year.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.47545266151428,
+          37.165258475664274
+        ]
+      },
+      "properties": {
+        "name": "Cliff Palace View",
+        "notes": "Cliff Palace View\nhttps://www.nps.gov/places/cliff-palace-view.htm\n\n<p>Cliff Palace is North America’s largest cliff dwelling, with 150 rooms and 21 kivas. Cliff Palace was an important community center. It may have been an administrative site, an important place of business and cultural exchange, or simply a large village. It stands now as a grand testament to Ancestral Puebloan achievements in engineering, architecture, and design.<br /> <br /> For 700 years, Ancestral Pueblo people thrived here on Mesa Verde. While building on the wisdom of the generations before them, they enhanced, adjusted, and refined their way of life. Today, their descendants speak of them with honor and reverence, recognizing that both tradition and innovation are essential components of Pueblo culture.<br /> <br /> “Our culture flourished here, and though the people left, the culture was not lost.” –TJ. Atsye, Laguna Pueblo</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.503647601,
+          37.237905645
+        ]
+      },
+      "properties": {
+        "name": "Far View Community Sites",
+        "notes": "Far View Community Sites\nhttps://www.nps.gov/places/farviewsites.htm\n\n<p>The Far View area was once an extensive farming community and one of the most densely populated regions of the Mesa Verde. This mesa top community includes Far View House, Pipe Shrine House, Coyote Village, Far View Reservoir (currently dry), Megalithic House, and Far View Tower. In ancient times, it was a place of modest homes interspersed with small farm fields. It was a place filled with people, vibrant life, and constant change. </p> <p>Beginning around 800 CE, Ancestral Pueblo people lived here for several centuries, farming the deep mesa-top soils, building their homes, and raising their families. This was not always a quiet woodland. On a summer day in 1050 this ancient community would have been filled with the smell of juniper smoke and the sounds of everyday life: conversations between people working together, barking dogs, laughing children, ravens calling overhead, and the wind rustling through the shiny corn leaves. In the mid-1100s, there may have been at least 35 occupied villages and surrounding farm and garden plots within a half-square-mile area, including those you can visit today. </p> <p>The archeological evidence at Far View reveal the presence of thriving mesa top communities long before the existence of the more famous cliff dwellings. But they also help disclose another, little known fact. Not everyone ultimately moved into and lived in the cliff dwellings. Some families clearly chose to remain on the mesa top, like those at Far View, well after many of their neighbors moved into cliff alcoves. <br /> <br /> <em>As you follow the woodland trail among the six sites, read the trailside signs to learn about Ancestral Pueblo life in the surrounding landscape between 800 to 1300 CE. Take a step back in time and imagine corn (maize), beans, and squash plants sprinkled along the landscape</em>.</p> <h4><strong>Trail Data</strong></h4> <ul> <li> 0.75 miles (1.2 km) loop (unpaved, level trail)</li> <li>Open 8:00 am to sunset</li> <li><em>Parking is limited to vehicles under 25 feet</em></li> </ul> <h4><br /> For Your Safety</h4> <ul> <li>Dehydration and altitude sickness are common problems at Mesa Verde. Drink water and rest often.</li> <li>Avoid hiking during the hottest part of the day.</li> <li>While hiking, remain on the trail and avoid walking along unstable cliff edges.</li> <li>Pets and bicycles are not allowed on the trail.</li> <li>Please respect wildlife by observing them from a distance.</li> </ul> <ul> </ul> <p><br /> <em><strong>This community is more than 750 years old. Please do your part to protect it for all to visit and enjoy.</strong></em></p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.493776134,
+          37.25821957
+        ]
+      },
+      "properties": {
+        "name": "Far View Lodge",
+        "notes": "Far View Lodge\nhttps://www.nps.gov/places/farviewlodge.htm\n\n<em>Open May to late-September.</em> Far View Lodge, the only lodging inside of Mesa Verde National Park, sits on a high shoulder offering panoramic vistas and wildlife watching. The lodge was designed to reflect the true essence of Mesa Verde, with solitude all around you and freedom from the distraction of in-room TVs or cell phone service. Nothing fancy. Absolutely beautiful. Peaceful. A place to linger and appreciate why people lived here for seven centuries.<br /> <br /> The traditional Western decor of the lobby and dining room, fantastic views, warm hospitality and superb dining welcome you for an unforgettable vacation. The lodge has 150 rooms in 2 room types, Kiva and Kiva Deluxe View.<br /> <br /> Open May to late-September. <br /> <br /> <em><strong>Rates and dates are subject to change.</strong> For current information and reservations, please visit the <a href=\"http://www.visitmesaverde.com/accommodations/far-view-lodge.aspx\"><strong>Aramark website</strong></a>.</em><br />   <h4>Reservations</h4> You can reserve <a href=\"http://www.visitmesaverde.com/accommodations/far-view-lodge.aspx\">online</a> or call 1-800-449-2288.<br />   <h4>Far View Lodge Amenities</h4> <table border=\"0\"> <tbody> <tr valign=\"top\"> <td width=\"50%\"> <ul> <li>Award-Winning Metate Dining Room</li> <li>Gift Shops</li> <li>Lounge/Bar</li> <li>Mountain WiFI</li> </ul> </td> <td> <ul> <li>Free Guest Parking</li> <li>Non-Smoking</li> <li>ADA Accessible</li> <li>Pet-Friendly</li> </ul> </td> </tr> </tbody> </table> <hr /> <h4>Room Amenities</h4> <table border=\"0\" height=\"124\"> <tbody> <tr valign=\"top\"> <td width=\"50%\"> <ul> <li>Private Bathroom</li> <li>Private Balcony</li> <li>Coffee Maker</li> <li>Mini-Fridge</li> <li>ADA Accessible Rooms</li> </ul> </td> <td> <ul> <li>Iron/Ironing Board</li> <li>Hair Dryer</li> <li>Rollaway Cribs Upon Request</li> <li>Complimentary Wi-Fi</li> </ul> </td> </tr> </tbody> </table>   ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.4841461206803,
+          37.1979969406878
+        ]
+      },
+      "properties": {
+        "name": "Farming Terrace Trail",
+        "notes": "Farming Terrace Trail\nhttps://www.nps.gov/places/farming-terrace-trail.htm\n\n<p>This short, moderate trail winds along a series of farming terraces built by the Ancestral Pueblo people. Constructing check dams in a natural drainage to create farming terraces was a useful dryland farming technique. Soil and moisture collected behind the check dams during summer thunderstorms and helped increase crop yields.</p> <h4>Trail Description</h4> <p>Beginning and ending on the spur road to Cedar Tree Tower, this 0.5-mile (0.8 km) loop trail leads through a series of check dams built by the Ancestral Pueblo people over 800 years ago. This trail is a great place to look for lizards, hummingbirds, and a wide variety of plants.</p> <p><em>Please respect these places by leaving archeological sites, artifacts, plants, and animals undisturbed for all those who follow you.</em></p> <h4>Be Prepared</h4> <ul> <li>Moderate</li> <li>Pets and bicycles are not allowed on trails.</li> <li>Trails are day-use only. </li> </ul> <h4>For Your Safety</h4> <ul> <li>Dehydration and altitude sickness are common problems at Mesa Verde. Drink water and rest often.</li> <li>Avoid hiking during the hottest part of the day. This trail has little shade.</li> <li>While hiking, remain on the trail to avoid walking along unstable cliff edges or fragile soils. Off-trail walking easily destroys the delicate cryptobiotic soil crusts that take decades to form and are essential to soil stability and plant growth in the deserts of the Southwest. Even the smallest impacts have big effects!</li> <li>Please respect wildlife by observing them from a distance.</li> </ul> <h4>Trail Data</h4> <ul> <li>0.5 mile (0.8 km) to complete the loop</li> <li>145 feet (44.2 m) elevation change</li> <li>Allow about 30 to 40 minutes to complete</li> </ul>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.479144027,
+          37.1646960125
+        ]
+      },
+      "properties": {
+        "name": "Fire Temple & New Fire House",
+        "notes": "Fire Temple & New Fire House\nhttps://www.nps.gov/places/fire-temple-new-fire-house.htm\n\n<p>The large open area at the front of Fire Temple is much like the plazas at the center of Pueblo communities today, where social and ritual activities take place. Central plazas like this one began to appear more frequently around this time, suggesting larger, more inclusive community gatherings.<br /> <br /> This plaza is centered around a raised, round firepit flanked by rectangular floor vaults. When covered, these vaults might have served as foot drums. Painted figures of rain clouds, corn, cactus, people, and animals adorn the site. Look for white and red bands of plaster on the right and back walls.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.461607939,
+          37.1565892575
+        ]
+      },
+      "properties": {
+        "name": "Hemenway House Overlook",
+        "notes": "Hemenway House Overlook\nhttps://www.nps.gov/places/hemenway-house-overlook.htm\n\n<em>Hemenway House Overlook and Cliff Palace Loop Road are open 8 am</em> <em>to s</em><em>unset from late spring to December 1, or until the first significant snowfall.</em><br /> <br /> Perched on a remote cliff in Soda Canyon, Hemenway House looks to fall off the small ledge on which it rests. Built in the 1200s, the cliff dwelling has 26 rooms and one kiva and was part of the larger Balcony House community. Hemenway House was named for Mary Tileston Hemenway, who funded the first scientific archeological expedition in the southwest. She never visited Mesa Verde, but she helped protect Ancestral Pueblo sites throughout the region.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.470705708,
+          37.1595083663
+        ]
+      },
+      "properties": {
+        "name": "House of Many Windows Overlook",
+        "notes": "House of Many Windows Overlook\nhttps://www.nps.gov/places/house-of-many-windows.htm\n\n<em>House of Many Windows Overlook and Cliff Palace Loop Road are open 8 am to s</em><em>unset from late spring to December 1, or until the first significant snowfall.</em><br /> <br /> House of Many Windows is a small cliff dwelling perched on a ten-foot-wide ledge in Cliff Canyon. Its many windows are actually doorways into rooms made of hand-shaped sandstone rock. House of Many Windows is comprised of 15 rooms, and there is evidence of a kiva. This cliff dwelling might have been home to an Ancestral Pueblo family in the 1200s.<br /> <br /> For the keen observer, House of Many Windows Overlook also affords views of Site 634, Mummy House, Oak Tree House, and Sun Temple.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.489394068,
+          37.1687395054
+        ]
+      },
+      "properties": {
+        "name": "Introduction & Pithouse",
+        "notes": "Introduction & Pithouse\nhttps://www.nps.gov/places/pithouse.htm\n\nWhat makes a place a home? Abundant resources? Closeness to family? Generations of memories? Here you see one of the oldest permanent structures built on the mesa, where early Ancestral Pueblo settlers enjoyed many of the same comforts we enjoy in our homes today.<br /> <br /> Though nomadic people lived in the surrounding area for thousands of years, permanent farmsteads began to appear on the mesa around 550. Planting corn, beans, and squash, along with continuing to hunt and gather wild foods, gave them a more reliable and balanced food supply. The transition to farming allowed the Pueblo people to set<br /> down roots. This new lifestyle spurred traditions and innovations that would last for centuries. Resourceful and attuned to their environment, the Ancestral Pueblo people took advantage of the earth’s natural insulation by building pithouses—semi-subterranean homes. The atlatl and spear were replaced with a lighter and more accurate hunting tool: the bow and arrow. Light and portable basketry made way for durable pottery, better for storing and cooking food.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.425377625,
+          37.3042760089
+        ]
+      },
+      "properties": {
+        "name": "Knife Edge Trail",
+        "notes": "Knife Edge Trail\nhttps://www.nps.gov/places/knife-edge-trail.htm\n\n<p>Named after the historic Knife Edge Road which was known for it's scenic value, this trail follows the old roadway and leads to a viewpoint that affords excellent views across Montezuma Valley.</p> <p>A traveler in 1892 once described a trail on this ridge as the Crinkly Edge Trail. In 1911, the trail became the Knife Edge Road, a new section of the main road into the park. Although scenic, the road was narrow and steep and precariously skirted the top of a steep bluff overlooking the Montezuma Valley. Unfortunately, the instability of the soil made it difficult to maintain. Two years later, the park built a bypass road through Morefield and Prater Canyons, and when the first automobile trip was made in 1914, vehicles used the bypass and the Knife Edge Road was soon closed.</p> <p>The scenic value of the Knife Edge Road prompted the park to reopen it again in 1924. Although it continued to challenge road crews for the next 30 years, it remained in use until 1957 when the Morefield-Prater tunnel was completed. Today, you can still enjoy the views via the Knife Edge Trail.</p> <h4><b>Trail Description</b></h4> <p>The 2.0-mile (3.2 km) roundtrip trail is a fairly level trail and follows a portion of the park’s historic entrance road leading to breathtaking views of the Montezuma Valley. Located on the northwestern edge of the mesa, this trail is beautiful in the golden light right before sunset. Sleeping Ute Mountain is near the horizon to the west. Totten Reservoir and Summit Lake, seen further in the distance, shine in the glow of fading light.</p> <p><i>Please respect these places by leaving archeological sites, artifacts, plants, and animals undisturbed for all those who follow you.</i><i></i></p> <h4><b>Be Prepared</b></h4> <ul> <li> <p>Easy</p> </li> <li> <p>Pets and bicycles are not allowed on the trail</p> </li> <li> <p>Trails are day-use only</p> </li> </ul> <h4><b>For Your Safety</b></h4> <ul> <li> <p>Dehydration and altitude sickness are common problems at Mesa Verde. Drink water and rest often.</p> </li> <li> <p>Avoid hiking during the hottest part of the day. Parts of the trail are exposed and will be particularly hot in summer.</p> </li> <li> <p>While hiking, remain on the trail to avoid walking along unstable cliff edges and fragile soil. Off-trail walking easily destroys the delicate cryptobiotic soil crusts that take decades to form and are essential to soil stability and plant growth in the deserts of the Southwest. Even the smallest impacts have big effects!</p> </li> <li> <p>Please respect wildlife by observing them from a distance.</p> </li> </ul> <h4><b>Trail Data</b></h4> <ul> <li> <p>2.0 miles (3.2 km) roundtrip</p> </li> <li> <p>62 feet (18.9 m) elevation change</p> </li> <li> <p>Allow about one hour to complete</p> </li> </ul>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.48941045114043,
+          37.16901999239137
+        ]
+      },
+      "properties": {
+        "name": "Mesa Top Loop (Introduction)",
+        "notes": "Mesa Top Loop (Introduction)\nhttps://www.nps.gov/places/mesa-top-loop-introduction.htm\n\n<h4>Introduction</h4> You are about to embark on a remarkable journey through time. At the 11 stops along this six-mile (9.5 km) drive you will discover pithouses, pueblos, and cliff dwellings built by the Ancestral Pueblo people over the seven centuries they called Mesa Verde home. Here, they built homes, raised families, celebrated with friends, and buried loved ones.<br /> <br /> With this guide, we will explore the traditions and innovations that helped the Pueblo people create a resilient culture that endures today among the 21 Pueblos of New Mexico, Arizona, and Texas.<br /> <br /> <br /> Mesa Verde is a sacred place where Pueblo people come to honor their ancestors. Please visit with respect:<br /> <br /> • Follow posted speed limits.<br /> • Be mindful of bicycle and pedestrian traffic.<br /> • Stay on marked trails; please do not enter closed areas.<br /> • Do not touch, sit, stand, or lean on fragile ancient walls.<br /> • Disturbing, defacing, or removing artifacts is illegal.<br /> • Leashed dogs are allowed on Mesa Top Loop trails.<br /> • Pick up and dispose of dog waste.<br /> • Smoking or eating in any site is prohibited. <h4> </h4>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.489594269,
+          37.1689141074
+        ]
+      },
+      "properties": {
+        "name": "Mesa Top Loop Road",
+        "notes": "Mesa Top Loop Road\nhttps://www.nps.gov/places/mesatoploopdrive.htm\n\n<p>The 6-mile (10 km) Mesa Top Loop takes you through 700 years of Ancestral Pueblo history. From remains of early pithouses and masonry villages to multi-storied cliff dwellings, archeological sites along this loop show how early Pueblo architecture evolved. Archeology and Pueblo oral histories shed light on what life may have been like for people who lived, worked, and raised families here for generations.</p> <p>Along the road, you’ll find short, easily-accessible paved trails to view twelve archeological sites. Short trails along the Mesa Top Loop lead to surface sites such as pithouses and pueblos; overlooks of cliff dwellings tucked into alcoves; and viewpoints where you can enjoy the beauty of the landscape that was home to generations of Ancestral Pueblo people.</p> <p>Highlights include Square Tower House Overlook, and views of Cliff Palace from Sun Point View and Sun Temple. The Mesa Top Loop Road is open daily, 8:00 am to sunset.<br /> <br /> <a href=\"https://www.nps.gov/podcasts/podcasts-mtl-audiotour.htm\">Download the audio tour</a>, <em>A Pueblo Perpective on Mesa Verde,</em> and listen along in your car as you drive the Mesa Top Loop, or on your phone as you explore the ten stops along the way.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.483529751,
+          37.1636508831
+        ]
+      },
+      "properties": {
+        "name": "Mesa Top Sites",
+        "notes": "Mesa Top Sites\nhttps://www.nps.gov/places/mesa-top-sites.htm\n\nLook closely at this site and you will see three villages built one on top of another. The people of the first village constructed their homes of jacal. Later occupants built a second village on the same site with single-stone-wide sandstone masonry.<br /> <br /> A third village, built around 1075, represents a major innovation with its use of double-stone, rubble-core masonry—two outer walls with soil and rock fill between them. This sturdy construction allowed for the building of large multi-story room blocks and towers. This village features three circular towers, which may have been used as signaling stations, astronomical observatories, watchtowers, or ceremonial structures. The kiva was a vital part of all three villages, gradually evolving into what archeologists refer to as the Mesa Verde style kiva.<br /> <br /> As villages continued to increase in size and population, farming became increasingly important, requiring agricultural advancements. Farmers built check-dams—stone terraces built in natural drainages, which created more productive farmland and prevented water runoff and soil erosion.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.415798078,
+          37.3316458662
+        ]
+      },
+      "properties": {
+        "name": "Mesa Verde National Park Entrance Station",
+        "notes": "Mesa Verde National Park Entrance Station\nhttps://www.nps.gov/places/mesa-verde-national-park-entrance-station.htm\n\nMesa Verde National Park entrance station.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.49277898465253,
+          37.16695098600612
+        ]
+      },
+      "properties": {
+        "name": "Navajo Canyon View",
+        "notes": "Navajo Canyon View\nhttps://www.nps.gov/places/navajo-canyon-view.htm\n\nImagine you are an Ancestral Pueblo person looking for a place to build a home. Can you identify the resources that make this a good place to live?<br /> <br /> You are standing at 7,000 feet (2,130 m). This might seem like a high place to farm. However, the southward slope of this plateau provides more sunlight and warmth, lengthening the growing season. The prevailing southwesterly wind also deposits rich sediment. Mesa Verde receives an average of 18 inches (46 cm) of precipitation annually, split between winter snow and late-summer thunderstorms. This pattern allows for farming without irrigation. <br /> <br /> The porous sandstone caprock soaks up some of the seasonal moisture. The water percolates through the rock before seeping out, forming springs below the canyon rim. These seep springs provide an important water source to plants, animals, and people alike. Over time, water-laden rock dissolves carving the alcoves you see across canyon.<br /> <br /> The mesa is home to more than 1,000 species of plants and animals. These species provided food, tools, clothing, and medicine. Today, the landscape provides a dramatic backdrop, but for the Ancestral Pueblo people, the land supplied everything.<br /> <br /> What natural resources make your home a good place to live?",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.476907906,
+          37.163313427
+        ]
+      },
+      "properties": {
+        "name": "Oak Tree House",
+        "notes": "Oak Tree House\nhttps://www.nps.gov/places/oak-tree-house.htm\n\nThe families of Oak Tree House were part of a larger community, neighboring many other cliff dwellings in Fewkes and Cliff Canyons.While most cliff dwellings are small, with fewer than 10 rooms, this neighborhood includes many of Mesa Verde’s largest cliff villages.<br /> <br /> Why move into a cliff dwelling? Like other cliff dwellings, Oak Tree House is tucked neatly into an alcove that protects the village from wind, rain, and snow. Its southern exposure provided warmth from the low winter sun. An active seep spring located a short distance downcanyon supplied the village with fresh water. It’s easy to see why the Ancestral Pueblo people chose to live here.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.461674259,
+          37.2796303802
+        ]
+      },
+      "properties": {
+        "name": "Park Point",
+        "notes": "Park Point\nhttps://www.nps.gov/places/parkpoint_overlook.htm\n\nThe highest elevation in the park at 8,572 feet (2,612 m) above sea level, Park Point is a breezy and cool place to picnic or take in the view. To the north, the 13,000 and 14,000-foot (4,000+ meters) peaks of the San Juan Mountains are visible. To the south, the high deserts of New Mexico stretch out across rocky canyons. To the West is Sleeping Ute Mountain and to the East lies the La Plata Mountains. <br /> <br /> The historic Park Point Fire Lookout sits at the highest point, still used today by the park during fire season to communicate lightning, weather, and fire information for the park and the surrounding areas. <br /> <br /> <b>Always stay on designated trails. </b>Areas off trail here are subject to rock falls! Even the smallest impacts have big effects!<br /> <br /> <em>The road up to Park Point is not plowed, so access is limited during the winter months. </em>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.487590305,
+          37.1836444165
+        ]
+      },
+      "properties": {
+        "name": "Petroglyph Point Trail",
+        "notes": "Petroglyph Point Trail\nhttps://www.nps.gov/places/place-ppt-trail.htm\n\n<p>The Petroglyph Point Trail offers excellent views of Spruce and Navajo Canyons and takes you past a large petroglyph panel located 1.4 miles (2.3 km) south of the trailhead. <br /> <br /> The trail follows a foot-worn trail of the Ancestral Pueblo people into the forested Spruce Canyon landscape and along a sometimes steep, rocky path back to the canyon’s rim. At one time, this path connected the community at Spruce Tree House with other outlying sites within the canyon and the rest of the Pueblo world.<br /> <br /> The large petroglyph panel seen along the trail, represents the written language of the people who inhabited and traveled through this canyon. More than thirty human and animal figures, spirals, and handprints cover an area of over 35 feet wide. <em>Please do not touch the panel. Petroglyphs are fragile, non-renewable cultural resources that, once damaged, can never be repaired or replaced. <br /> <br /> Please respect these places by leaving archeological sites, artifacts, plants, and animals undisturbed for all those who follow you.</em></p> <h4>Trail Description</h4> <p>The 2.4-mile (3.9 km) loop trail is narrow, rugged, and rocky, with several steep drop-offs along the canyon wall on the way to the petroglyph panel. After the panel, you’ll scramble up a large stone staircase using hands and feet to climb to the top, then enjoy an easy return through forest to complete the loop. </p> <h4><strong>Be Prepared</strong></h4> <ul> <li>Moderately Strenuous to Strenuous</li> <li>You must register at either the trailhead or the museum. </li> <li>The gate at the trailhead for Petroglyph Point and Spruce Canyon Trails locks each evening, with hours varying seasonally. Check with a ranger for current times. <em>Early morning hikers</em> can begin<em> </em>the trail in reverse and the gate should be open when you finish. <em>Late afternoon hikers</em> can begin the trail before the gate closes and be aware that you must complete the loop in order to access the parking lot.</li> <li><em>Access into Spruce Tree House is currently strictly prohibited due to danger of rock fall.</em></li> </ul> <h4>For Your Safety</h4> <ul> <li>Dehydration and altitude sickness are common problems at Mesa Verde. Drink water and rest often.</li> <li>Avoid hiking during the hottest part of the day.</li> <li>While hiking, remain on the trail and avoid walking along unstable cliff edges.</li> <li>Please do not touch the petroglyphs; the oils on our skin can stain and permanently damage the images. </li> <li>Pets and bicycles are not allowed on the trail.</li> <li>Please respect wildlife by observing them from a distance.</li> <li>Trails are day-use only.</li> </ul> <h4><strong>Trail Data</strong></h4> <ul> <li> 2.4 miles (3.9 km) loop</li> <li>174 ft (53 m) elevation change</li> <li>Allow about 2 hours to complete</li> </ul>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.420124106,
+          37.3071113806
+        ]
+      },
+      "properties": {
+        "name": "Point Lookout Trail",
+        "notes": "Point Lookout Trail\nhttps://www.nps.gov/places/point-lookout-trail.htm\n\n<p>The Point Lookout Trail climbs up the iconic Point Lookout, the geological formation that towers above the park entrance. The trail offers views of the San Juan and La Plata Mountains, as well as Mancos and Montezuma Valleys.</p> <h4>Trail Description</h4> <p>The 2.2-mile (3.5 km) roundtrip trail climbs steep switchbacks up the west side of Point Lookout. Hikers are rewarded with magnificent views, including the historic entrance road snaking its way onto the mesa.</p> <p><em>Please respect these places by leaving archeological sites, artifacts, plants, and animals undisturbed for all those who follow you.</em></p> <h4>Be Prepared</h4> <ul> <li>Strenuous</li> <li>Pets and bicycles are not allowed on the trail</li> <li>Trails are day-use only</li> </ul> <h4>For Your Safety</h4> <ul> <li>Dehydration and altitude sickness are common problems at Mesa Verde. Drink water and rest often.</li> <li>Avoid hiking during the hottest part of the day.</li> <li>While hiking, remain on the trail to avoid walking along unfenced, unstable cliff edges and fragile soil. Off-trail walking easily destroys the delicate cryptobiotic soil crusts that take decades to form and are essential to soil stability and plant growth in the deserts of the Southwest. Even the smallest impacts have big effects!</li> <li>Please respect wildlife by observing them from a distance.</li> </ul> <h4><strong>Trail Data</strong></h4> <ul> <li>2.2 miles (3.5 km) roundtrip</li> <li>400 ft (122 m) elevation change</li> <li>Allow about two hours to complete</li> </ul>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.418350769,
+          37.2967732023
+        ]
+      },
+      "properties": {
+        "name": "Prater Ridge Trail",
+        "notes": "Prater Ridge Trail\nhttps://www.nps.gov/places/prater-ridge-trail.htm\n\n<p>The trail traverses Prater Ridge which divides Prater and Morefield Canyons. The South Loop offers views into Prater Canyon, named for an early pioneer family. The North Loop ascends for views into Montezuma Valley and the beautiful San Juan Mountains.</p> <h4>Trail Description</h4> <p>The trailhead is located on the west side of Morefield Campground. The Prater Ridge Trail contains two hiking loops. You have the option of staying right toward the North Loop or taking the South Loop for a shorter hike. The North Loop is 3.6 miles (5.7 km) and the South Loop is 2.4 miles (3.9 km). If you choose to hike both loops, the entire Prater Ridge Trail is 7.8 miles (12.6 km)</p> <p><em>Please respect these places by leaving archeological sites, artifacts, plants, and animals undisturbed for all those who follow you.</em></p> <h4>Be Prepared</h4> <ul> <li>Strenuous</li> <li>Pets and bicycles are not allowed on the trail</li> <li>Trails are day-use only</li> </ul> <h4>For Your Safety</h4> <ul> <li>Dehydration and altitude sickness are common problems at Mesa Verde. Drink water and rest often.</li> <li>Avoid hiking during the hottest part of the day.</li> <li>While hiking, remain on the trail to avoid walking along unfenced, unstable cliff edges and fragile soil. Off-trail walking easily destroys the delicate cryptobiotic soil crusts that take decades to form and are essential to soil stability and plant growth in the deserts of the Southwest. Even the smallest impacts have big effects!</li> <li>Please respect wildlife by observing them from a distance.</li> </ul> <h4><strong>Trail Data</strong></h4> <ul> <li>7.8 miles (12.6 km) to complete North and South Loops</li> <li>675 ft (206 m) elevation change</li> <li>Allow about four hours to complete both loops</li> </ul>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.469899865,
+          37.1675816885
+        ]
+      },
+      "properties": {
+        "name": "Soda Canyon Overlook Trail",
+        "notes": "Soda Canyon Overlook Trail\nhttps://www.nps.gov/places/place-sco-trail.htm\n\n<p><em>Soda Canyon Overlook Trail and Cliff Palace Loop Road are open 8 am to sunset from late spring to December 1, or until the first significant snowfall.</em><br /> <br /> This easy, out-and-back trail meanders through the mesa top pinyon-juniper forest to three overlooks at the edge of Soda Canyon. Hikers are rewarded with views of Balcony House and several other cliff dwellings across the canyon. The canyon was named for the white, calcium carbonate deposits visible below the rim. These are the evaporative remains of seeps springs once used by the Ancestral Pueblo people.</p> <p><em>Please respect these places by leaving archeological sites, artifacts, plants, and animals undisturbed for all those who follow you.</em></p> <h4>Trail Description</h4> The 1.2-mile (2 km) roundtrip trail is unpaved. Look for centuries-old mature pinyon pine and Utah juniper trees, and forest dwellers like mule deer, desert cottontail, black-tailed jackrabbit, and wild turkey. At the overlook, watch for birds like the turkey vulture, white-throated swift, American kestrel, violet-green swallow, and common raven.<br /> <br /> This is the only view of Balcony House without taking a ranger-guided tour. <h4>Be Prepared</h4> <ul> <li>Easy to Moderate</li> <li>Although considered an easy trail, parts of the trail are exposed and will be hot in the summer.</li> </ul> <h4>For Your Safety</h4> <ul> <li>Dehydration and altitude sickness are common problems at Mesa Verde. Drink water and rest often.</li> <li>Avoid hiking during the hottest part of the day.</li> <li>While hiking, remain on the trail and avoid walking along unstable cliff edges. Off-trail walking easily destroys the delicate cryptobiotic soil crusts that take decades to form and are essential to soil stability and plant growth in the deserts of the Southwest. Even the smallest impacts have big effects!</li> <li>Pets and bicycles are not allowed on the trail.</li> <li>Please respect wildlife by observing them from a distance.</li> <li>Trails are day-use only.</li> </ul> <h4><strong>Trail Data</strong></h4> <ul> <li>1.2 miles (2 km) roundtrip</li> <li>67 ft (20 m) elevation change</li> <li>Allow about 40 minutes to complete</li> </ul>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.487626417,
+          37.1832289735
+        ]
+      },
+      "properties": {
+        "name": "Spruce Canyon Trail",
+        "notes": "Spruce Canyon Trail\nhttps://www.nps.gov/places/place-sc-trail.htm\n\n<p>The Spruce Canyon Trail offers an opportunity to explore the canyon bottoms of Mesa Verde and discover the plants and wildlife that live in this habitat. Parts of this canyon trail offers the shade of Douglas Fir trees and the coolness and humidity of a natural wetland area. The presence of water in the canyon attracts an abundance of birds and other wildlife. </p> <h4>Trail Description</h4> Starting at the Spruce Tree House Overlook near the Museum, this 2.4 miles (3.9 km) scenic loop trail follows the bottom of Spruce Canyon, and winds through excellent wildlife habitat. A steep climb leads out of the canyon and then passes through the picnic area before returning to the museum.  <h4>Be Prepared</h4> <ul> <li>Moderately Strenuous to Strenuous</li> <li>You must register at either the trailhead or the museum. </li> <li>The gate at the trailhead for Petroglyph Point and Spruce Canyon Trails locks each evening, with hours varying seasonally. Check with a ranger for current times. <em>Early morning hikers</em> can begin<em> </em>the trail in reverse and the gate should be open when you finish. <em>Late afternoon hikers</em> can begin the trail before the gate closes and be aware that you must complete the loop in order to access the parking lot.</li> <li><em>Access into Spruce Tree House is currently strictly prohibited due to danger of rock fall.</em></li> </ul> <h4>For Your Safety</h4> <ul> <li>Dehydration and altitude sickness are common problems at Mesa Verde. Drink water and rest often.</li> <li>Avoid hiking during the hottest part of the day.</li> <li>While hiking, remain on the trail and avoid walking along unstable cliff edges.</li> <li>Pets and bicycles are not allowed on the trail.</li> <li>Please respect wildlife by observing them from a distance.</li> <li>Trails are day-use only.</li> </ul> <h4><em>Trail Data</em></h4> <ul> <li>2.4 miles (3.9 km) loop</li> <li>558 ft (170 m) elevation change</li> <li>Allow about 2 hours to complete</li> </ul>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.48820935789507,
+          37.18428170697442
+        ]
+      },
+      "properties": {
+        "name": "Spruce Tree House Overlook",
+        "notes": "Spruce Tree House Overlook\nhttps://www.nps.gov/places/sth_overlook.htm\n\nSpruce Tree House, the third largest cliff dwelling in the park (only Cliff Palace and Long House are larger), was constructed in the 1200s by ancestors of the Pueblo peoples of the Southwest. As the best-preserved cliff dwelling, much of the wood, walls, and plaster that you see from the overlook is original material. By the late 1270s, up to 19 households (60 to 80 people) lived here.<br /> <br /> Tucked into the cliff above are ten storage rooms for storing surplus corn, beans, squash and wild plants. The storage rooms, called granaries, were reached using ladders and pecked hand-and-toe hold trails. The doors were sealed with stone slabs to deter rodents and to keep supplies dry. <br /> <br /> <em>Spruce Tree House is currently closed due to danger of rock fall,</em> but you can view the site from two overlooks near the Chapin Mesa Archeological Museum. Please stay on the trail and avoid cliff edges.<br /> <br /> <b>By the Numbers</b><br /> <i>Rooms: 131 rooms (including surrounding granaries), 8 kivas</i><br /> <i>Age: 1200 - 1280 CE</i><br /> <i>Estimated Population: 60-80 people</i><br /> <i>Alcove Dimensions: 216 ft. W x 30 ft. H. x 89 ft. D</i>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.491357046,
+          37.166712468
+        ]
+      },
+      "properties": {
+        "name": "Square Tower House",
+        "notes": "Square Tower House\nhttps://www.nps.gov/places/square-tower-house.htm\n\nHere, you see one of their most spectacular architectural achievements, built six centuries later.<br /> <br /> This cliff dwelling includes the tallest standing architecture in Mesa Verde, a four-story, 27-foot (8 m) tall structure that was part of an even larger building complex. Although the site has been stabilized by archeologists, 90% is original. Painted murals and pecked rock art are found throughout Square Tower House. From the overlook, look for original roof beams and intact plastered walls.<br /> <br /> What do such elaborate decorations tell us about Ancestral Pueblo society? Perhaps it suggests that the builders were not only concerned with meeting their basic needs, but also recognized the importance of art and beauty as essential components of a thriving community.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.478546768,
+          37.161677219
+        ]
+      },
+      "properties": {
+        "name": "Sun Point Pueblo",
+        "notes": "Sun Point Pueblo\nhttps://www.nps.gov/places/sun-point-pueblo.htm\n\nThis was one of the last mesa-top pueblos to be built at Mesa Verde: a 30-room village with a large kiva and tower connected by a tunnel at its center.<br /> <br /> The site lacks the building materials, such as wooden roof beams, by which archeologists usually date occupation. Perhaps the missing materials were recycled to construct nearby cliff dwellings.<br /> <br /> Pottery types found here lead archeologists to estimate that this village was occupied for only ten years. A decade may seem like a short time to invest in a home, but did you know that the average American today moves more than ten times in their lifetime? What prompted your last move?",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.475095333,
+          37.16248195
+        ]
+      },
+      "properties": {
+        "name": "Sun Point View",
+        "notes": "Sun Point View\nhttps://www.nps.gov/places/sun-point-view.htm\n\nThe canyon junction before you was once a bustling community. Over 30 cliff dwellings occupy these canyon alcoves and ledges. How many can you spot?<br /> <br /> Look around you. Imagine living here 800 years ago, seeing your neighbors’ doors glowing with firelight and hearing the sounds of singing, laughter, barking dogs, and crying babies echoing off the canyon walls.<br /> <br /> Think of all the many relationships that connected this community. What does your community mean to you?",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.475404654,
+          37.1647045817
+        ]
+      },
+      "properties": {
+        "name": "Sun Temple",
+        "notes": "Sun Temple\nhttps://www.nps.gov/places/sun-temple.htm\n\n<p>Walk around the walls of this large structure and notice how it differs from others you have seen. Sun Temple was likely a communal building that played an important role in the Cliff Palace community. While this D-shaped structure resembles other Pueblo sites such as Pueblo Bonito in Chaco Canyon, it is the only building of its kind in the Pueblo world.<br /> <br /> The skillfully crafted four-foot-thick walls indicate that extensive effort went into Sun Temple's construction. Archeologists excavated 24 rooms of various shapes and sizes as well as three circular structures inside the main complex. An additional circular structure stands detached to the southeast. No roof beams or household goods were found.<br /> <br /> Some experts suggest that the walls of Sun Temple may have been used by observers in Cliff Palace as a marker for astronomical events like the winter solstice sunset. Perhaps the builders intentionally left sun temple unroofed, as an observatory for such events, or perhaps it was never finished. Many questions remain.</p>",
+        "icon": "red-pin-down.png"
+      }
+    }
+  ]
+}

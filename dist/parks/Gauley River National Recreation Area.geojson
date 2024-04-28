@@ -1,0 +1,20 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.1876373291016,
+          37.7775917053223
+        ]
+      },
+      "properties": {
+        "name": "National Coal Heritage Area",
+        "notes": "National Coal Heritage Area\nhttps://www.nps.gov/places/coal-national-heritage-area.htm\n\n<p>The mission of the National Coal Heritage Area (NCHA) is to preserve, protect, and interpret lands, structures, and communities associated with the coal mining heritage of southern West Virginia.  The NCHA includes 13 counties in southern West Virginia: Boone, Cabell, Fayette, Logan, McDowell, Mercer, Mingo, Raleigh, Summers, Wayne, Lincoln, Wyoming, and Cabin Creek and Paint Creek in Kanawha County.<br /> <br /> As the coordinating entity for the National Heritage Area, <a href=\"http://www.coalheritage.org/\">National Coal Heritage Area Authority</a> works to preserve, interpret, and promote the rich coal heritage of southern West Virginia.  To accomplish this, the NCHA depends on a strong network of partner organizations at the local, state, and federal level.<br /> <br /> In addition to other cultural preservation initiatives, projects the NCHA has supported include revitalization of the downtown Bluefield Historic District including Chicory Square; restoration of the Nellis Church in Boone County; reconstruction of the Bramwell Depot in Mercer County; assistance with development of new exhibits at the Miner’s Museum in Boone County; construction of the new visitor center at the Beckley Exhibition Coal Mine; and more.<br /> <br /> <strong>National Coal Heritage Area is home to the following NPS units:</strong></p> <ul> <li> <p><a href=\"https://www.nps.gov/blue/index.htm\">Bluestone National Scenic River</a></p> </li> <li> <p><a href=\"https://www.nps.gov/gari/index.htm\">Gauley River National Recreation Area</a></p> </li> <li> <p><a href=\"https://www.nps.gov/neri/index.htm\">New River Gorge National River</a></p> </li> </ul>",
+        "icon": "red-pin-down.png"
+      }
+    }
+  ]
+}

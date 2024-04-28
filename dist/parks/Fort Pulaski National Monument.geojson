@@ -1,0 +1,95 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.892459974,
+          32.030127547
+        ]
+      },
+      "properties": {
+        "name": "Battery Hambright",
+        "notes": "Battery Hambright\nhttps://www.nps.gov/places/battery-hambright.htm\n\nWelcome to Battery Horace Hambright. Visitors are often surprised to find this concrete gun battery. It has much more in common with Tybee Island’s Fort Screven, than it does with nearby masonry Fort Pulaski. The battle for Fort Pulaski in 1862 illustrated how new military technologies would soon render masonry forts obsolete. The need for modern coastal defenses became an important priority by the end of the 19th century.<br /> <br /> In 1885 President Grover Cleveland appointed a joint Army, Navy, and civilian board, headed by Secretary of War William C. Endicott, to investigate the state of the nation’s coastal defenses. The findings of the Board painted a grim picture of neglect. The board recommended a massive $127 million construction program for a series of new forts with modern breech-loading steel guns, mortars, and submarine mines. The Endicott Era Forts, as they became known, ushered in a new age of fort construction, one that saw the transition from brick and stone to one of concrete and steel.<br /> <br /> With the construction of Fort Screven on the horizon, a submerged minefield was designed to guard the entrance to the Savannah River. Fort Pulaski was chosen to be a control center and storage facility for one of these minefields. These underwater mines, anchored to the bottom of the river, could be detonated by an operator at the fort or set to explode on contact.<br /> <br /> When the United States went to war in 1898, the Army began planning new protections for the minefield near Fort Pulaski. Battery Horace Hambright was one the last of the original defenses to be built at the mouth of the Savannah River. Construction began on June 1, 1899. Underneath the battery, there is a foundation of 30,000 bricks that were taken from the remains of the original Fort Pulaski construction village, which had been destroyed in an 1881 hurricane.<br /> <br /> Battery Hambright is a poured-in-place, unreinforced concrete gun emplacement. It was designed to hold two rifled 3-inch guns on disappearing, masking pedestal mounts, which could be rapidly fired at any lightly armored fast moving ships. The battery was completed, with the exception of mounting the guns, on March 31, 1900, for a cost of $12,800.<br /> <br /> In 1904, the War Department named the battery at Fort Pulaski in honor of Horace George Hambright of Loudon, Tennessee. Born on September 24, 1869, Hambright later attended the US Military Academy at West Point, graduating last in his class in 1892. Upon his graduation, he was promoted to 2nd Lieutenant and assigned to the 22nd United States Infantry. Hambright served on garrison duty at Fort Keogh, Camp Merritt, and at Fort Yates in North Dakota. It was at Fort Yates where he was thrown from his horse and died of his injuries, on April 15, 1896. Battery Hambright was named after a likely charming young officer whose Army and Navy Journal obituary stated, his death:<br /> <br /> \". . . has been a painful shock to his numerous friends, especially at Fort Keogh, his former post of duty. He was a young officer of great promise and by his genial disposition and gallant bearing had greatly endeared himself to his brother officers and the various members of their families during his term of service with them.\"<br /> <br /> Ironically, Battery Hambright’s service was just as short. It never saw military action, and in fact, never received the guns it was designed to hold. <br /> <br /> Battery Horace Hambright remains in good condition today and provides an excellent opportunity for visitors to Fort Pulaski to see how military engineers adapted to technological changes after the American Civil War and continued to the develop new technologies in an attempt to defend the nation’s coastlines. The differences between the two eras are stark.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.89521789799619,
+          32.02804519778867
+        ]
+      },
+      "properties": {
+        "name": "Cockspur Island",
+        "notes": "Cockspur Island\nhttps://www.nps.gov/places/cockspur-island.htm\n\n<p>Cockspur Island has been important since the founding of the Colony of Georgia due to its strategic location, just inside the mouth of the Savannah River. Spring tides covered most of the island monthly. Several marsh islands will later join Cockspur Island as the result of necessary dredging of the Savannah River to accommodate modern shipping.</p> <h3>Early Fortifications</h3> <p>The first military use of Cockspur was in 1761 with the construction of an earth and hewn log fort near the confluence of the South Channel and Lazaretto Creek. Nearby, on Tybee Island, was a quarantine station (Lazaretto) and customs checkpoint. Fort George protected both the entrances to the city and enforced quarantine and customs regulations. The archaeology of Fort Pulaski has led to many discoveries of the fort's history.</p> <p>During the Revolutionary War, the Patriots, dismantled Fort George because of its exposed location. However, the British established a safe haven for Loyalists on Cockspur. When the Royal Governor, Sir James Wright, fled there with the great seal of the Province, Cockspur became for a short time capital of the colony of Georgia.</p> <p>Once the Revolutionary War ended, the new United States would build a fort on the site of Fort George in 1794-95. This new fort was constructed very much like Fort George (earth and log) and was named for the Revolutionary War hero, General Nathaniel Greene. The life of Fort Greene would be short and tragic. In September 1804 a hurricane swept across the island washing away all vestiges of the fort.</p> <h3>Construction of Fort Pulaski</h3> <p>Assigned to assist Major Babcock was a recent graduate of West Point, Second Lieutenant Robert Edward Lee. Lieutenant Lee's job was classified as \"acting assistant commissary of subsistence\". The labor force would consist of white and black, slave and free, who lived in the workers village. A large pier was constructed on the North Channel to handle the arrival of supplies from ports north and south. Work continued until 1847 when the new fort, now named Fort Pulaski, was finally finished.</p> <h3>Post Civil War</h3> <p>After the Civil War, Fort Pulaski was unoccupied and neglected. The War Department made Fort Pulaski a national monument in 1924 by presidential proclamation of Calvin Coolidge. The 1930s saw new activity on the island with the arrival of the Civilian Conservation Corps (CCC). The CCC worked to rehabilitate Fort Pulaski and the surrounding landscape, including rebuilding the island's early drainage system and wet ditches.</p> <p>Cockspur Island saw further activity as a section base for the US Navy during World War II. Following the war, the island and historic fort again were under the watch of the National Park Service. Today the island is open to visitors looking to explore pristine marsh land, historic military engineering, and a diverse collection of native flora and fauna.</p> <h2> </h2>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.8799887744,
+          32.0227009474
+        ]
+      },
+      "properties": {
+        "name": "Cockspur Island Lighthouse",
+        "notes": "Cockspur Island Lighthouse\nhttps://www.nps.gov/places/cockspur-island-lighthouse.htm\n\nThe Cockspur Lighthouse stands on a small islet off the southeastern tip of Cockspur Island, overlooking the South Channel of the Savannah River. The islet, often covered by high tide, is comprised of oyster shells, and marsh grass.<br /> <br /> Documented references suggest the first brick tower, used as a daymark, was built on Cockspur Island between March 1837 and November 1839. In 1848, John Norris, a New York architect, was contracted to supervise construction of an illuminated station. The noted architect designed many of Savannah's grand structures including the U.S. Custom House in downtown Savannah, the Mercer-Wilder House, and the Green-Meldrim House, where General Sherman stayed during the Civil War. Norris's duties were to \"repair, alter, and put up lanterns and lights on Cockspur Island...and to erect a suitable keeper's house.\" This first tower stood 25 feet above sea level. The beacon housed a fixed white light emanating from five lamps, with 14 inch reflectors visible for nine miles.<br /> <br /> Tragedy struck in 1854 when a hurricane destroyed the structure. The tower was rebuilt and enlarged on the same foundation the following year. At the start of the American Civil War, the light was temporarily extinguished. On April 10, 1862, Union forces in eleven batteries stretching along the beach at Tybee Island, started a long range bombardment of Fort Pulaski. Thirty-six guns participated in a thirty-hour siege of the fort with the Cockspur Lighthouse in direct line of fire.<br /> <br /> Following the surrender of Fort Pulaski on April 11, 1862, the little beacon only suffered minor damage. Theories abound as to how the tower escaped destruction. One theory suggests to effectively hit the Fort walls approximately 1,500 yards distant, Union artillerists had to fire shots at a high angle, thus passing over the tower. This strategy, coupled with the short duration of battle could explain why the tower survived. Soon after war's end, April 25, 1866, the beacon was relit and painted white for use as a daymark.<br /> <br /> Throughout its life, hurricanes plagued the Cockspur Light. August 27, 1881, a massive storm struck Cockspur Island causing water to rise 23' above sea level. The storm surge filled the lighthouse interior and destroyed the Keeper's house.<br /> <br /> Jeremiah Keane, the Assistant Keeper Charles Sisson, and two Fort Pulaski caretakers took refuge inside the Northwest stair tower of the brick fort when the great hurricane of 1893 struck. A two story cottage originally built atop the Fort Pulaski for an Ordnance Sergeant would be used by the light keeper in 1906.<br /> <br /> To accommodate large freighters, the increasingly busy Savannah port routed vessels to the deep, more navigable North Channel. The Cockspur Lighthouse was decommissioned on June 1, 1909, due to low usage of the South Channel for navigation.<br /> <br /> As the threat to the beacon by salvage crews and other private interests grew, the National Park Service looked into the acquisition of the light. On August 14, 1958, by presidential proclamation, the Cockspur Lighthouse was transferred from the United States Coast Guard to the National Park Service. The National Park Service is dedicated to the preservation of this historic marker.<br /> <br /> The National Park Service is dedicated to the preservation of this historic marker. <strong>Due to ongoing preservation efforts, the lighthouse and lighthouse island are closed to the public.</strong> However, an overlook trail offers visitors the best chance to get a closer look at the lighthouse today.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.8901656868693,
+          32.0270301074293
+        ]
+      },
+      "properties": {
+        "name": "Fort Pulaski",
+        "notes": "Fort Pulaski\nhttps://www.nps.gov/places/fort-pulaski.htm\n\nAfter the War of 1812 there was a push by the United States to better protect its maritime interests. From 1816 through the end of the American Civil War, the United States constructed over forty state of the art coastal fortifications. This included Fort Pulaski, which was built to protect the port of Savannah. Construction of the fort began in 1829 and took 18 years to complete.<br /> <br /> Fort Pulaski saw its heaviest use during the Civil War. Beginning the conflict as a United States fort, Fort Pulaski was seized by the State of Georgia. Authority over the fort was transferred to the Confederates States of America. The United States once again took possession of the fort after a fifty day siege and two day artillery battle that saw the first use of rifled artillery in combat. <br /> <br /> Fort Pulaski's role during the war changed a number of times. Not only was it used as a fortification, the fort was also home to soldiers from both sides of the conflict and served as a prison of war camp for soldiers. It also served as a safe haven for formerly enslaved people. <br /> <br /> While the fort was ultimately abandoned at the turn of the 20th century, Fort Pulaski has a lot of stories to share. You can explore the fort on your own or take an interpretive program that can help unravel its mysteries.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.8906888959882,
+          32.02692156343074
+        ]
+      },
+      "properties": {
+        "name": "Fort Pulaski Sutler Store",
+        "notes": "Fort Pulaski Sutler Store\nhttps://www.nps.gov/places/fort-pulaski-sutler-store.htm\n\nThe Sutler Store, located inside historic Fort Pulaski, is operated by <a href=\"https://shop.americasnationalparks.org/store/home/5551/Mammoth-Cave-National-Park/\">America’s National Parks™</a>, an official non-profit partner of the National Park Service dedicated to supporting the educational mission of Fort Pulaski National Monument. The Sutler Store has a wide range of books, gifts, educational games, and other items available for retail sale. These products complement the interpretive themes you experience when visiting the park. Learn how <a href=\"https://americasnationalparks.org/our-impact/\">your purchase helps Fort Pulaski National Monument.</a><br /> <br /> The Sutler Store is open from 9:00 a.m. until 4:00 p.m. when the park is open or you may <a href=\"https://shop.americasnationalparks.org/store/home/5321/Fort-Pulaski-National-Monument/\">visit the on-line Fort Pulaski Store.</a><br /> <br /> <a href=\"https://americasnationalparks.org/our-impact/funds-at-work/\">America’s National Parks™</a> is a part of <a href=\"http://easternnational.org/\">Eastern National</a>, a non-profit partner of the National Park Service. Your purchases support education and interpretation at Fort Pulaski National Monument.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.88993144839147,
+          32.0154529599421
+        ]
+      },
+      "properties": {
+        "name": "Lazaretto Creek Boat Ramp",
+        "notes": "Lazaretto Creek Boat Ramp\nhttps://www.nps.gov/places/lcbr.htm\n\nLazaretto is a term synonymous with quarantine, particularly for maritime travelers. During the slave trade, incoming slave ships would access a quarantine station on Tybee Island via Lazaretto creek, hence the name. <br /> <br /> The Lazaretto Creek Boat Ramp is located on the South side of U.S. Highway 80, East of the Fort Pulaski park entrance. It is comanaged under a joint agreement between the National Park Service, <a href=\"http://parks.chathamcounty.org/\">Chatham County Parks and Recreation</a>, and the <a href=\"https://www.gadnr.org/\">Georgia Department of Natural Resources</a>.  <br /> <br /> In 1934 McQueens Island was deeded to the United States Government in order to be managed by the National Park Service (NPS) as part of Fort Pulaski National Monument. McQueen’s Island lies between the Bull River and Lazaretto Creek. Cockspur Island, where historic Fort Pulaski is located, is separated from McQueen’s Island by the South Channel of the Savannah River.  <br /> <br /> U.S. Highway 80 intersects McQueen’s Island by right of way. Running parallel to the highway on the north side is the McQueen’s Island Hiker Biker Trail. It is a 13 mile stretch of an abandoned railroad line originally built in 1887 by the Central of Georgia Railway to transport visitors from Savannah to Tybee Island. The portion of the Hiker Biker Trail west of the Fort Pulaski park entrance is managed by Chatham County Parks and Recreation and is open for use. The portion East of Fort Pulaski park entrance is closed due to storm damage. <br /> <br /> In the 1950s the Lazaretto Creek boat ramp was established on NPS land, allowing deep water access to the general public which is very close to the Atlantic. A public fishing pier was also added in the 1990s by the Georgia Department of Natural Resources. Further improvements to the floating dock and fixed dock handrails were completed by federal, state and local partners in February 2020.  <br /> <br /> The facility includes a 3-lane boat ramp, floating dock for loading and unloading, parking for vehicles and trailers, and a large fishing pier. The facility is open 24 hours a day, 7 days a week and is free of charge. ",
+        "icon": "red-pin-down.png"
+      }
+    }
+  ]
+}

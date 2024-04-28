@@ -1,0 +1,305 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.64491772651672,
+          39.7973842876885
+        ]
+      },
+      "properties": {
+        "name": "Abraham Lincoln Home",
+        "notes": "Abraham Lincoln Home\nhttps://www.nps.gov/places/abraham-lincoln-home.htm\n\n<p>Abraham Lincoln came of age while living and working as a private citizen in Springfield, Illinois. It was here that he chose to settle down, build a life for himself and his family, and worked hard to achieve success. At the same time, many of Lincoln's social and political beliefs were formed while he lived in this house at Eighth and Jackson Streets.<br /> <br /> The house that would become the future Lincoln Home was built in 1839 for the Reverend Charles Dresser. Dresser actually married Abraham Lincoln and Mary Todd in 1842. When the house was completed, the house stood one-and-a-half stories tall with five rooms, including a sleeping loft.<br /> <br /> In May 1844, the Lincolns purchased the Dresser home and lot for $1500. Abraham, Mary, and Robert, born August 1, 1843, moved into the comfortable home. During the 17 years the Lincolns lived in this home, three of the Lincoln children were born--Edward \"Eddie\" Lincoln in 1846, William \"Willie\" Lincoln in 1850, and Thomas \"Tad\" Lincoln in 1853. Eddie sadly died in the Lincoln Home of \"consumption\" when he was nearly 4 years old.<br /> <br /> The Lincolns continued to live in the house until departing for the White House in February 1861. Although they had planned to return, the Lincolns never came back to live in their house on the corner of Eighth and Jackson Streets. Today, the restored house reflects the Lincoln Home of 1860.<br /> <br /> <em><strong>The inside of the Lincoln Home is only accessible to the public by taking a guided tour of the Lincoln Home. Tickets for the guided tour are free of charge and can be obtained at the Visitor Center located one block west of the Lincoln Home, at 426 South 7th Street. </strong></em></p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Abraham Lincoln National Heritage Area",
+        "notes": "Abraham Lincoln National Heritage Area\nhttps://www.nps.gov/places/abraham-lincoln-national-heritage-area.htm\n\n<p paraeid=\"{b91aac72-d0b4-410c-895d-2b0a6d7cc399}{227}\" paraid=\"7\">The <a href=\"https://www.lookingforlincoln.com/\">Abraham Lincoln </a><a href=\"https://www.lookingforlincoln.com/\">National Heritage Area</a> (ALNHA) was designated by Congress in 2008 and works in partnership with the Lincoln Home National Historic Site. Looking for Lincoln acts as the coordinating entity for the 43-county heritage area and partners with communities, organizations, and individuals dedicated to enhancing the communities and landscapes of central Illinois through recognition and support of their significant natural, cultural and historical legacies. <br /> <br /> As the only heritage area named for an American President, Abraham Lincoln National Heritage Areas (ALNHA) is home to a very unique collection of American history and shares a deeper look inside the life and times of Abraham Lincoln in central Illinois. There, he raised his family and pursued his passion for law and politics. The heritage area also highlights the people and the stories that shaped him to lead our nation through issues of unity, equality and race relations, and democratic ideals. It is home to Lincoln’s infamous 1858 Illinois State Senate debates with incumbent Senator Stephen A. Douglas, where they squared off in seven communities. Known as the “Land of Lincoln,” each community in the heritage area region has its own Lincoln story to tell in the form of artifacts, folklore, screenscapes, buildings, and living landscapes. Together, they bring an immediacy and tangible quality to the powerful Lincoln legacy. <br /> <br /> Looking for Lincoln? You’ll find him here! His stories come to life through the heritage areas’ living history programs. </p> <h2 paraeid=\"{241b52fe-ba93-49b7-91be-0ce88c0edad3}{54}\" paraid=\"16\">Historic Sites and Points of Interest: </h2> <ol role=\"list\" start=\"1\"> <li aria-setsize=\"-1\" data-aria-level=\"1\" data-aria-posinset=\"1\" data-font=\"\" data-leveltext=\"%1.\" data-listid=\"2\" role=\"listitem\"> <p paraeid=\"{241b52fe-ba93-49b7-91be-0ce88c0edad3}{60}\" paraid=\"17\"><a href=\"https://www.lookingforlincoln.com/Explore/MajorAttractions/LincolnLogCabinStateHistoricSite\">Lincoln Log Cabin State Historic Site</a> </p> </li> </ol> <ol role=\"list\" start=\"2\"> <li aria-setsize=\"-1\" data-aria-level=\"1\" data-aria-posinset=\"2\" data-font=\"\" data-leveltext=\"%1.\" data-listid=\"2\" role=\"listitem\"> <p paraeid=\"{241b52fe-ba93-49b7-91be-0ce88c0edad3}{68}\" paraid=\"18\"><a href=\"https://www.lookingforlincoln.com/Explore/MajorAttractions/LincolnHeritageMuseum\">Lincoln Heritage Museum</a> </p> </li> </ol> <ol role=\"list\" start=\"3\"> <li aria-setsize=\"-1\" data-aria-level=\"1\" data-aria-posinset=\"3\" data-font=\"\" data-leveltext=\"%1.\" data-listid=\"2\" role=\"listitem\"> <p paraeid=\"{241b52fe-ba93-49b7-91be-0ce88c0edad3}{76}\" paraid=\"19\"><a href=\"https://www.lookingforlincoln.com/Explore/MajorAttractions/HistoricNauvoo\">Historic Nauvoo</a> </p> </li> </ol> <ol role=\"list\" start=\"4\"> <li aria-setsize=\"-1\" data-aria-level=\"1\" data-aria-posinset=\"4\" data-font=\"\" data-leveltext=\"%1.\" data-listid=\"2\" role=\"listitem\"> <p paraeid=\"{241b52fe-ba93-49b7-91be-0ce88c0edad3}{84}\" paraid=\"20\"><a href=\"https://www.lookingforlincoln.com/Explore/MajorAttractions/MtPulaskiCourthouseStateHistoricSite\">Mount Pulaski Courthouse State Historic Site</a> </p> </li> </ol> <ol role=\"list\" start=\"5\"> <li aria-setsize=\"-1\" data-aria-level=\"1\" data-aria-posinset=\"5\" data-font=\"\" data-leveltext=\"%1.\" data-listid=\"2\" role=\"listitem\"> <p paraeid=\"{241b52fe-ba93-49b7-91be-0ce88c0edad3}{92}\" paraid=\"21\"><a href=\"https://www.pikelincoln.com/pittsfield/talking-houses/\">Talking Houses of Pittsfield</a>  </p> </li> </ol> <ol role=\"list\" start=\"6\"> <li aria-setsize=\"-1\" data-aria-level=\"1\" data-aria-posinset=\"6\" data-font=\"\" data-leveltext=\"%1.\" data-listid=\"2\" role=\"listitem\"> <p paraeid=\"{241b52fe-ba93-49b7-91be-0ce88c0edad3}{102}\" paraid=\"22\"><a href=\"https://www.lookingforlincoln.com/Explore/MajorAttractions/OldStateCapitolStateHistoricSite\">Old State Capitol State Historic Site</a>   </p> </li> </ol> <ol role=\"list\" start=\"7\"> <li aria-setsize=\"-1\" data-aria-level=\"1\" data-aria-posinset=\"7\" data-font=\"\" data-leveltext=\"%1.\" data-listid=\"2\" role=\"listitem\"> <p paraeid=\"{241b52fe-ba93-49b7-91be-0ce88c0edad3}{112}\" paraid=\"23\"><a href=\"https://www.lookingforlincoln.com/Explore/MajorAttractions/LincolnTombStateHistoricSite\">Lincoln Tomb State Historic Site</a> </p> </li> </ol> <ol role=\"list\" start=\"8\"> <li aria-setsize=\"-1\" data-aria-level=\"1\" data-aria-posinset=\"8\" data-font=\"\" data-leveltext=\"%1.\" data-listid=\"2\" role=\"listitem\"> <p paraeid=\"{241b52fe-ba93-49b7-91be-0ce88c0edad3}{120}\" paraid=\"24\"><a href=\"https://www.lookingforlincoln.com/Explore/MajorAttractions/AbrahamLincolnPresidentialLibraryandMuseum\">Abraham Lincoln Presidential Library and Museum</a>  </p> </li> </ol> <ol role=\"list\" start=\"9\"> <li aria-setsize=\"-1\" data-aria-level=\"1\" data-aria-posinset=\"9\" data-font=\"\" data-leveltext=\"%1.\" data-listid=\"2\" role=\"listitem\"> <p paraeid=\"{241b52fe-ba93-49b7-91be-0ce88c0edad3}{130}\" paraid=\"25\"><a href=\"https://www.lookingforlincoln.com/Explore/MajorAttractions/McLeanCountyMuseumofHistory\">McLean County Museum of History</a> </p> </li> </ol> <ol role=\"list\" start=\"10\"> <li aria-setsize=\"-1\" data-aria-level=\"1\" data-aria-posinset=\"10\" data-font=\"\" data-leveltext=\"%1.\" data-listid=\"2\" role=\"listitem\"> <p paraeid=\"{241b52fe-ba93-49b7-91be-0ce88c0edad3}{138}\" paraid=\"26\"><a href=\"https://www.lookingforlincoln.com/Explore/MajorAttractions/LookingforLincolnStoryTrail\">Looking for Lincoln Story Trail</a> </p> </li> </ol> <h2 paraeid=\"{241b52fe-ba93-49b7-91be-0ce88c0edad3}{146}\" paraid=\"27\">Notable People:  </h2> <ol role=\"list\" start=\"1\"> <li aria-setsize=\"-1\" data-aria-level=\"1\" data-aria-posinset=\"1\" data-font=\"\" data-leveltext=\"%1.\" data-listid=\"1\" role=\"listitem\"> <p paraeid=\"{241b52fe-ba93-49b7-91be-0ce88c0edad3}{152}\" paraid=\"28\"><a href=\"https://www.nps.gov/people/abraham-lincoln.htm\">Abraham Lincoln</a>  </p> </li> </ol> <ol role=\"list\" start=\"2\"> <li aria-setsize=\"-1\" data-aria-level=\"1\" data-aria-posinset=\"2\" data-font=\"\" data-leveltext=\"%1.\" data-listid=\"1\" role=\"listitem\"> <p paraeid=\"{241b52fe-ba93-49b7-91be-0ce88c0edad3}{162}\" paraid=\"29\"><a href=\"https://www.nps.gov/liho/learn/historyculture/marylincoln.htm\">Mary Todd Lincoln</a> </p> </li> </ol> <ol role=\"list\" start=\"3\"> <li aria-setsize=\"-1\" data-aria-level=\"1\" data-aria-posinset=\"3\" data-font=\"\" data-leveltext=\"%1.\" data-listid=\"1\" role=\"listitem\"> <p paraeid=\"{241b52fe-ba93-49b7-91be-0ce88c0edad3}{170}\" paraid=\"30\"><a href=\"https://www.nps.gov/people/stephen-a-douglas.htm\">Stephen A. Douglas </a> </p> </li> </ol>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.64487481117249,
+          39.7970409250183
+        ]
+      },
+      "properties": {
+        "name": "Charles Arnold House",
+        "notes": "Charles Arnold House\nhttps://www.nps.gov/places/charles-arnold-house.htm\n\nSitting just across the street from Abraham Lincoln's residence, the Arnold House was once home to Charles Arnold, neighbor and a Whig political ally of Abraham Lincoln. The building was originally built and owned by Reverend Francis Springer, who sold the Lincoln Home to Abraham Lincoln. Today, the Arnold House holds exhibits focusing on the Lincoln neighborhood and historic preservation.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6454541683197,
+          39.79763855026346
+        ]
+      },
+      "properties": {
+        "name": "Harriet Dean House",
+        "notes": "Harriet Dean House\nhttps://www.nps.gov/places/harriet-dean-house.htm\n\nThis home was occupied by Mrs. Harriet Dean, a teacher for girls and a neighbor to Abraham Lincoln from approximately 1849 to early 1860. Today the first floor of the historical house displays exhibits focusing on the Lincoln family and the evolution of the Lincoln Home for the public to enjoy.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.64499244987078,
+          39.796595805093034
+        ]
+      },
+      "properties": {
+        "name": "Jameson Jenkins Lot",
+        "notes": "Jameson Jenkins Lot\nhttps://www.nps.gov/places/jameson-jenkins-lot.htm\n\nLocated only a half-block south of the home where Abraham Lincoln raised his family and lived preceding his presidency, this unassuming grass lot was once the site of the home of Jameson Jenkins and his family. Mr. Jenkins is believed to have helped escape slaves reach freedom and have played a role in the Underground Railroad. <br /> <br /> Jameson Jenkins was a drayman, transporting goods and providing transportation services, which likely was an excellent occupation for someone who was also a conductor on the Underground Railroad. When Mr. Lincoln left Springfield for Washington D.C. to assume the presidency, Mr. Jenkins gave Lincoln a ride to the Great Western Depot where Lincoln delivered his Farewell Address to the citizens of Springfield.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.64504110813145,
+          39.79662197848451
+        ]
+      },
+      "properties": {
+        "name": "LIHO Wayside: A Lot of Activism",
+        "notes": "LIHO Wayside: A Lot of Activism\nhttps://www.nps.gov/places/liho-wayside-a-lot-of-activism.htm\n\nThis seemingly humble lot once held the home to a conductor of the Underground Railroad, Jameson Jenkins. Learn about Jenkins, his family and connections to the Underground Railraod, and some archeological finds of this unique place at the Lincoln Home.<br /> <br /> Audio description of wayside (including text and images) is available through this application with a screenreader.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.64519667625427,
+          39.797413134347295
+        ]
+      },
+      "properties": {
+        "name": "LIHO Wayside: A Place to Call Home",
+        "notes": "LIHO Wayside: A Place to Call Home\nhttps://www.nps.gov/places/liho-wayside-place-to-call-home.htm\n\nThe Lincoln Home is a place of memory, triumph, and tragedy, but above all else, it was a home. It was the home of Abraham Lincoln for the 17 years preceding his presidency and the one in which he raised his family. Learn about this place that the Lincolns called \"home\" on this wayside, in front of the famous house itself.<br /> <br /> Audio description of wayside (including text and images) is available through this application with a screenreader.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6451386332512,
+          39.7977911803486
+        ]
+      },
+      "properties": {
+        "name": "LIHO Wayside: Boyhood Home of Julius Rosenwald",
+        "notes": "LIHO Wayside: Boyhood Home of Julius Rosenwald\nhttps://www.nps.gov/places/liho-wayide-julius-rosenwald.htm\n\nOnly a few doors down from and only a few years after Lincoln left his home on 8th and Jackson Street, Julius Rosenwald grew up in this house. Although not as well known as the 16th president of the United States, Rosenwald had an enormous impact on this nation as president of Sears, Roebuck & Company and as one of the most generous and signifacant philanthropists of his time and arguably the nation's history, particularly playing a large role in supporting African American education in the rural south after the Civil war. Learn about this amazing but often forgotten figure in American history on this wayside, located in front of his boyhood home.<br /> <br /> Audio description of wayside (including text and images) is available through this application with a screenreader.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.64466265181828,
+          39.79734324121244
+        ]
+      },
+      "properties": {
+        "name": "LIHO Wayside: Day with the Lincolns",
+        "notes": "LIHO Wayside: Day with the Lincolns\nhttps://www.nps.gov/places/liho-wayside-day-with-the-lincolns.htm\n\nWhat was it like living in the Lincoln Home among the now-famous family? For them, it was just like living with any old family, though perhaps the little Lincoln boys were rowdier than most! On this wayside, get a glimpse into what it was like to have a \"day with the Lincolns\" and compare the wayside image of what their backyard may have looked like (picture is from 1865) versus today.<br /> <br /> Audio description of wayside (including text and images) is available through this application with a screenreader.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.64507766201073,
+          39.796586776797014
+        ]
+      },
+      "properties": {
+        "name": "LIHO Wayside: Economic & Ethnic Diversity in Springfield",
+        "notes": "LIHO Wayside: Economic & Ethnic Diversity in Springfield\nhttps://www.nps.gov/places/liho-wayside-economic-and-ethnic-diversity.htm\n\nLincoln's neighborhood, and the city of Springfield itself, was a diverse place for the time period. Learn about the economic and ethnic diversity of Springfield with this outdoor wayside exhibit, located on the replica wagon on 8th Street by the Jameson Jenkins lot. This wayside also includes maps of the city of Springfield showing the ethnic and regional diversity of Springfield houses in 1860.<br /> <br /> Audio description of wayside (including text and images) is available through this application with a screenreader.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6452103658863,
+          39.797048926138615
+        ]
+      },
+      "properties": {
+        "name": "LIHO Wayside: Lincoln's Home Becomes a Shrine 1",
+        "notes": "LIHO Wayside: Lincoln's Home Becomes a Shrine 1\nhttps://www.nps.gov/places/liho-wayside-lincoln-home-shrine-1.htm\n\nThis wayside focusing on the photographic history of the Lincoln Home appropriately is positioned at the prime photography spot of the Lincoln Home! <br /> <br /> Learn about historical photographs of Lincoln and the Lincoln Home with pictures of some of the most famous pictures related to Abraham Lincoln of the time period.<br /> <br /> Audio description of wayside (including text and images) is available through this application with a screenreader.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6451748938963,
+          39.79698297140124
+        ]
+      },
+      "properties": {
+        "name": "LIHO Wayside: Lincoln's Home Becomes a Shrine 2",
+        "notes": "LIHO Wayside: Lincoln's Home Becomes a Shrine 2\nhttps://www.nps.gov/places/liho-wayside-lincoln-shrine-2.htm\n\nThis wayside focuses on visitors of the Lincoln Home, as a visitor, we hope you will stop by this wayside too!<br /> <br /> Learn about the history of visitors to Lincoln and see images of some early Lincoln Home visitors and what the Lincoln Home looked like before <em>both</em> turn of the centuries!<br /> <br /> Audio description of wayside (including text and images) is available through this application with a screenreader.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.64521057841739,
+          39.79675704805791
+        ]
+      },
+      "properties": {
+        "name": "LIHO Wayside: Mary Lincoln's Circle of Friends",
+        "notes": "LIHO Wayside: Mary Lincoln's Circle of Friends\nhttps://www.nps.gov/places/liho-wayside-mary-s-friends.htm\n\nTucked in the front yeard of the Sprigg House, this wayside explores the friendships of Mary Todd Lincoln, Abraham Lincoln's wife. Mary was quite a sociable woman and made many friends in the neighborhood and in the city of Springfield whom she kept correspondence with throughout her life, even after teh family moved to Washington D.C. Among her friends was Julia Ann Sprigg, whose house stands next to this wayside.<br /> <br /> Audio description of wayside (including text and images) is available through this application with a screenreader.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.64520399542167,
+          39.7972940257223
+        ]
+      },
+      "properties": {
+        "name": "LIHO Wayside: Mary Todd Lincoln",
+        "notes": "LIHO Wayside: Mary Todd Lincoln\nhttps://www.nps.gov/places/liho-wayside-mary-lincoln.htm\n\nOld Abe wasn't the only one who lived in the Lincoln Home! His wife, Mary Todd Lincoln, was intelligent, sociable, and very politically aware for a woman of her time. Learn about this famoud soon-to-be first lady on this wayside in full view of the Lincoln Home!<br /> <br /> Audio description of wayside (including text and images) is available through this application with a screenreader.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.64519049025871,
+          39.79645603356795
+        ]
+      },
+      "properties": {
+        "name": "LIHO Wayside: Politics in the Neighborhood",
+        "notes": "LIHO Wayside: Politics in the Neighborhood\nhttps://www.nps.gov/places/liho-wayside-politics.htm\n\nLincoln's political influence was not only reflected in his speeches and in political spaces such as the Illinois Old State Capitol, but also in the neighborhood itself! Lincoln became quite the celebrity in town as presidential candidate and then president-elect. Learn about political celebrations and events in the neighborhood on this wayside, located on a replica Lincoln political campagin wagon!<br /> <br /> Audio description of wayside (including text and images) is available through this application with a screenreader.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.64517521858215,
+          39.79748193173582
+        ]
+      },
+      "properties": {
+        "name": "LIHO Wayside: The Long Road to Washington",
+        "notes": "LIHO Wayside: The Long Road to Washington\nhttps://www.nps.gov/places/liho-wayside-long-road-to-wa.htm\n\nIt was a long road for Lincoln to get to the White House, politically, in his life, and also physically, considering the distance from Springfield, IL to Washington D.C. It was not an easy journey for the man who grew up in a humble log cabin to end up in the White House, but it is a journey that has come to represent the American Dream--that any American should have the opportunity to improve their lot in life as long as they put in the effort. <br /> <br /> On this wayside, trace Lincoln's life's journey from Kentucky to Illinois, and his inaugural journey from Illinois to Washington D.C. on the wayside map--both important routes on his \"Long Road to Washington.\"<br /> . <br /> Audio description of wayside (including text and images) is available through this application with a screenreader.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6451410894394,
+          39.79753551179854
+        ]
+      },
+      "properties": {
+        "name": "LIHO Wayside: The People Lincoln Knew",
+        "notes": "LIHO Wayside: The People Lincoln Knew\nhttps://www.nps.gov/places/liho-wayside-the-people-lincoln-knew.htm\n\nThe Lincolns weren't the only ones who lived in this 4-block area. Neighbors, friends, and rivals of Abraham Lincoln and his family lived here too. These individuals came from different parts of the country, sometimes even different parts of the world, and formed relationships with the Lincoln family. Learn about some of these neighborhood individuals from distant and faraway places who touched the Lincolns' lives on this wayside, located on the north side of 8th street. <br /> <br /> Audio description of wayside (including text and images) is available through this application with a screenreader.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.64592988670894,
+          39.79731043127557
+        ]
+      },
+      "properties": {
+        "name": "LIHO Wayside: Welcome to the Park",
+        "notes": "LIHO Wayside: Welcome to the Park\nhttps://www.nps.gov/places/liho-wayside-welcome-to-the-park.htm\n\nThis welcoming wayside sits outside the Lincoln Home National Historic Site visitor center as you make your way into the heart of Lincoln Home National Historic Site, towards the Lincoln Home itself!<br /> <br /> Learn about the context of the neighborhood on this wayside and get an idea of what it may have been like to walk these same streets during Lincoln's time.<br />  <br /> Audio description of wayside (including text and images) is available through this application with a screenreader.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6462249755859,
+          39.7978057861328
+        ]
+      },
+      "properties": {
+        "name": "Lincoln Home National Historic Site",
+        "notes": "Lincoln Home National Historic Site\nhttps://www.nps.gov/places/lincoln-home-national-historic-site.htm\n\n<p>Lincoln Home National Historic Site in Springfield, Illinois, was established in 1971 by Public Law 92-128 (85 Stat. 347). Lincoln Home National Historic Site protects and interprets the home where Abraham Lincoln lived with his family from 1844 to 1861.<br /> <br /> Lincoln Home National Historic Site preserves 14 houses that date from the Lincoln era, including the Lincoln Home. The Lincoln Home neighborhood was diverse, representing many occupations and social and economic levels. Through neighborhood preservation and interpretive activities, the National Park Service seeks to recreate a vivid sense of the relationship of the Lincoln family to their neighbors and the broader Springfield community, enriching the experience of visitors at Lincoln Home National Historic Site.<br /> <br /> From 1834 to 1842, Lincoln represented Sangamon County in the Illinois General Assembly and helped move the capital from Vandalia to Springfield. Lincoln and Mary Todd married in 1842 and in their first year together, the Lincolns lived in a hotel boarding house, the Globe Tavern. In 1844, Lincoln bought the home on the corner of Eighth and Jackson Streets for $1,200 cash and a small lot worth $300. The young family, which now included Robert, born in 1843, lived on a tight budget. Lincoln himself chopped the wood, carried the water, and milked the cow.<br /> <br /> When the family moved to Washington, DC, for Lincoln's presidency, the home was rented rather than sold and their best furniture placed in storage for their eventual return. But on April 15, 1865, an assassin’s bullet took the life of President Lincoln. His home became the focus for mourners and the photographers who recorded these early visitors. Mary Lincoln faced a lonely future and wrote that she “could not bear to return to the scenes of the happiest times in my life without my family.”<br /> <br /> By the late 19th century, Lincoln’s home became a popular scene for rallies, ceremonies, and celebrations. The Lincoln Home remained rental property until Lincoln’s son, Robert, donated the home to the State of Illinois in 1887 to be protected and preserved for future generations. Robert Lincoln did so with the condition that the home remain well maintained and available to the public free of charge.<br /> <br /> The home was designated a national historic landmark in 1960, and it remained the property of the State of Illinois until 1972, when it was transferred to the National Park Service. Property within the national historic site boundary was added to the National Register of Historic Places as a district in 1976. The national register district boundaries encompass a smaller area contained completely within the boundary of Lincoln Home National Historic Site.<br /> <br /> As Lincoln’s reputation grew, his home became a powerful political symbol. Even today, presidents and presidential hopefuls make well-publicized pilgrimages to the home. There are a variety of visitor activities available at Lincoln Home National Historic Site, including exhibits, a park film, and guided tours of the Lincoln Home.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.64538138571592,
+          39.797811139370786
+        ]
+      },
+      "properties": {
+        "name": "The Rosenwald House",
+        "notes": "The Rosenwald House\nhttps://www.nps.gov/places/rosenwald-liho.htm\n\n<p paraeid=\"{1c1b7e96-0403-410c-8f18-cc4f965d5779}{222}\" paraid=\"2002157135\">Located only half a block away from the house where Abraham Lincoln raised his own family, this two-story frame house was the childhood home of Jewish-American <a href=\"https://www.nps.gov/people/julius-rosenwald.htm\">Julius Rosenwald</a>, who would go on to become a well-known businessman and philanthropist.  </p> <p paraeid=\"{1c1b7e96-0403-410c-8f18-cc4f965d5779}{236}\" paraid=\"554243201\">Samuel and Augusta Rosenwald, both German Jewish immigrants, moved to Springfield in 1861. Their son Julius was born one year later. The family quickly became involved in their community, and by 1867 Samuel Rosenwald served as president of their congregation B’rith Sholom.  </p> <p paraeid=\"{1c1b7e96-0403-410c-8f18-cc4f965d5779}{254}\" paraid=\"1040108337\">As an adult, Julius Rosenwald would go on to invest in Sears and Roebuck company, and quickly rose through the organization becoming president in 1908. With what he said was more money than he could ever spend, Rosenwald focused on philanthropy donating more than 60 million dollars in his lifetime.  </p> <p paraeid=\"{05493851-0f8b-456f-b7fd-397f802aa271}{23}\" paraid=\"1901161082\">Much of this philanthropy was to support the African American community through a variety of initiatives including YMCAs for African Americans, fellowships, and schools. One of his most impactful initiatives were <a href=\"https://www.nps.gov/articles/the-rosenwald-schools-progressive-era-philanthropy-in-the-segregated-south-teaching-with-historic-places.htm\">\"Rosenwald Schools\".</a> These schools were funded partly through Rosenwald but also required local community support. From 1917 to 1932 more than 5,000 Rosenwald schools were built across 15 states. By the time the last school was built more than 600,000 African American students had attended a Rosenwald school. <br /> <br /> Today the house is owned and operated by the National Park Service. </p>",
+        "icon": "red-pin-down.png"
+      }
+    }
+  ]
+}

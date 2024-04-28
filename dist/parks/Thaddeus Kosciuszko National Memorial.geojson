@@ -1,0 +1,20 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.147185,
+          39.943327
+        ]
+      },
+      "properties": {
+        "name": "The Kosciuszko House",
+        "notes": "The Kosciuszko House\nhttps://www.nps.gov/places/kosciuszko-house.htm\n\nThe site is located at 3rd and Pine Streets. It is open Saturdays and Sundays, 12 noon to 4 pm.<br /> <br /> The first floor of the Kosciuszko House consists of exhibits about the life of Thaddeus Kosciuszko. On the second floor, visitors can watch a short film and then see the furnished room that Kosciuszko stayed in.<br /> <br /> Polish general, military engineer, and revolutionary Thaddeus Kosciuszko lived in this house in 1797 and 1798. He served with the Continental Army during the American Revolutionary War, designing successful fortifications at Saratoga and West Point. After the war, he fought for Polish independence from Russia when he was wounded and exiled from his home country. He returned to the United States a hero, and stayed in Philadelphia as he recovered from his wounds. He received many notable visitors while staying in this house, including Thomas Jefferson and Chief Little Turtle. ",
+        "icon": "red-pin-down.png"
+      }
+    }
+  ]
+}

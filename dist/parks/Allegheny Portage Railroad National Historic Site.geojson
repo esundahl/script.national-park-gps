@@ -1,0 +1,245 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.54902029040204,
+          40.457432462870244
+        ]
+      },
+      "properties": {
+        "name": "Allegheny Portage Railroad National Historic Site Flag Pole",
+        "notes": "Allegheny Portage Railroad National Historic Site Flag Pole\nhttps://www.nps.gov/places/allegheny-portage-railroad-national-historic-site-flag-pole.htm\n\nWelcome to Allegheny Portage Railroad National Historic Site, a unit of the National Park Service!<br /> <br /> This site preserves the remains of the Allegheny Portage Railroad, which was a critical link for the Pennsylvania Main Line Canal from 1834 to 1854. Using a system of inclined planes and other more level stretches of railroad, the Portage allowed canal boats and their goods and passengers to go from one section of the canal up and over the Allegheny Mountains to the other section so they could continue on their journey between Philadelphia and Pittsburgh.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.55803966554959,
+          40.45923656073264
+        ]
+      },
+      "properties": {
+        "name": "Allegheny Portage Railroad Picnic Area",
+        "notes": "Allegheny Portage Railroad Picnic Area\nhttps://www.nps.gov/places/allegheny-portage-railroad-picnic-area.htm\n\nEnjoy a picnic lunch at our covered pavilion. The Engine House and Lemon House sites can be reached from the trails from the Picnic Area in addition to the boardwalk from the Visitor Center. To get to the Visitor Center parking lot from the Picnic Area, take the Gallitzin Exit from New Route 22 and turn right to enter the park. For more information about the park and special programs, please call 814-886-6150. For emergencies, please dial 911.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.55057954580843,
+          40.456183443274945
+        ]
+      },
+      "properties": {
+        "name": "Engine House No. 6 Exhibit Shelter",
+        "notes": "Engine House No. 6 Exhibit Shelter\nhttps://www.nps.gov/places/engine-house-no-6-exhibit-shelter.htm\n\nThis building is a reproduction meant to show what the 10 engine houses of the Portage Railroad were like. It is built over the foundation of the original Engine House 6 and helps to protect its remains from the elements. The machinery housed inside is also a reproduction of the many wheels, gears, boilers, and brakes of the stationary steam engine and its accessories that raised and lowered rail cars and canal boats on the incline. Engine houses were very dangerous places to work with all of this machinery in motion, fires and scalding hot water in the boilers and many cars going back and forth along the rails. In 1852, the boilers actually exploded and killed several of the workers. The glass-walled “discovery room” contains several hands-on exhibits that help to further explain the workings of an inclined plane on the Allegheny Portage Railroad. The building is open daily from 9:00 am to 5:00 pm. ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.55006098782724,
+          40.456107250509525
+        ]
+      },
+      "properties": {
+        "name": "Incline #6 Overlook",
+        "notes": "Incline #6 Overlook\nhttps://www.nps.gov/places/incline-6-overlook.htm\n\nThe old railbed in front of you is what remains of Incline Plane No. 6. There were 10 inclines on the railroad between Hollidaysburg and Johnstown. In the 1830s, when the Portage Railroad was built, the primitive locomotives couldn’t haul trains up steep grades. The engineers of the Portage came up with the idea to build 11 sections of nearly level track that were connected by 10 inclined planes to raise or lower trains from one level to the next. This made the railroad like a giant staircase up one side and down the other side of the mountain. Each incline was operated by a stationary steam engine housed in a structure like the one to your right. The rail cars and sectional canal boats were attached to a large hemp rope that raised and lowered them. Accidents were common and this hemp rope was eventually replaced by John Roebling’s iron wire rope. The tracks in front of you are reproductions. Notice how there are no stone sleepers here. They would have shifted out of place on the steep incline, so wooden ties were used instead on all 10 planes. Also notice that the rails themselves are mostly wood, with just a strap of iron on top since heavy locomotives wouldn’t be traveling on the incline. On select summer days, rangers can be seen making these wooden ties just like they did in the days of the Portage along the trail to your left.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.55155944824219,
+          40.45631950375407
+        ]
+      },
+      "properties": {
+        "name": "Lemon House",
+        "notes": "Lemon House\nhttps://www.nps.gov/places/lemon-house.htm\n\nThis is the famous Lemon House, one of the finest establishments along the Portage Railroad in the 1830s and 40s. It is the original structure and has been restored by the National Park Service to what it would have looked like around 1840. This tavern was operated by Sam and Jean Lemon and provided food and drink to the travelers and workers of the Portage Railroad. Though the structure appears very large, overnight guests were not a frequent occurrence. The building was constructed large enough to contain the tavern business, plus upstairs living quarters for the Lemon family and their many employees. Similar businesses sprouted near to all 10 inclines of the Portage because of the delay in travel caused by the slow inclines. In addition to this tavern, the Lemons also operated a coal mine, sold stone, wood, and water to the state-run Portage Railroad, and leased horses to pull rail cars in and out of the Engine House. The Lemon’s business interests led them to become one of the wealthiest families in the area. The Lemon House is open daily from 9:00 am to 5:00 pm. Please come in and have a look around the restored and furnished first floor.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.55161666946515,
+          40.45633038885952
+        ]
+      },
+      "properties": {
+        "name": "Lemon House Bar-room",
+        "notes": "Lemon House Bar-room\nhttps://www.nps.gov/places/lemon-house-bar-room.htm\n\nWelcome to the barroom of the Lemon House. In the 1800s only men could enter the bar. Today everyone is welcome. The bartender was the cashier and all food and drinks were paid for here. The yellow paint on the walls is a copy of the original color, intended to do its best to brighten a dark and smoky room. The furnishings are reproductions of the types that would have been found here. The spit boxes and spittoon on the floor were meant to catch the tainted saliva that was the product of the most common nasty habit of the day. Visitors to America at that time commented on how seemingly everybody they encountered was constantly chewing and spitting. The raccoon gazing down from the shelf in the corner is the symbol of Mr. Lemon’s beloved Whig Party, the counterpart to the Democratic Party in the two-party system of pre-Civil War America. The main hall from which you entered the bar was a place to relax and catch up with the news by way of the newspapers left behind on the benches by other travelers. Local businesses posted notices on the walls to entice potential customers passing through the area. The painted canvas oilcloth on the floor protected the wood from the many wet, muddy shoes that passed through the door. The hall will take you to the next room on your tour, where ladies WERE welcome in the 1800s, the fancy parlor.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.55158805852625,
+          40.45631406194805
+        ]
+      },
+      "properties": {
+        "name": "Lemon House Dining Room",
+        "notes": "Lemon House Dining Room\nhttps://www.nps.gov/places/lemon-house-dining-room.htm\n\nHunger would have been hard at work on the travelers as they finally reached the Summit on the Portage Railroad. The Lemon House would have been a welcome sight indeed. Many transportation companies scheduled their meal breaks at the Lemon House, and even in the cases of those that didn’t, there was ample time to stop in for a bite because of the delay caused by Incline 6. The fare wouldn’t have been fancy, usually some sort of stew, because it could be kept warm all day waiting for the next group of travelers to come through the door. There was no menu or special orders. Everybody at the same thing. This was the fast food of the 1830s and 40s. And it was all you can eat for 25 cents. Before you say what a bargain that was, remember that most workers of the time only earned about 50 cents a day. Notice other similarities to the modern fast food establishments—the hard seating surfaces so you don’t stay too long, the easily wiped tables-no table cloths here, and the flooring that allowed spills and muddy footprints to be easily cleaned up. Not all that different from today when you think about it.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.551566600363,
+          40.45633038786299
+        ]
+      },
+      "properties": {
+        "name": "Lemon House Fancy Parlor",
+        "notes": "Lemon House Fancy Parlor\nhttps://www.nps.gov/places/lemon-house-fancy-parlor.htm\n\nThe Lemons furnished their fancy parlor with only the finest things available to them. Only proper ladies and gentlemen, who didn’t want to take their meals with the common rabble in the dining room, were allowed in the parlor. Notice the wallpaper, the wall to wall carpeting, the piano, and the centrally located astral lamp-all signs that the Lemons were enjoying great success on the Summit. And the Lemons were happy to share that success with their guests. Along with the finer objects in the room, also notice that there are still spittoons and spit boxes-a sign that chewing tobacco use was not limited by class, or sex for that matter. This was truly a multi-purpose room. People could be eating at one table, while other travelers may be engaged in a game at another in the corner. A businessman from Pittsburgh could be catching up on the latest news in a chair by the fireplace, while his wife may be playing the piano under the watchful gaze of Mrs. Lemon, or at least from her painting that hangs above. But don’t get too comfortable-before long it will be time to reboard your train and continue on your journey.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.5435987617,
+          40.4531754968
+        ]
+      },
+      "properties": {
+        "name": "Skew Arch Bridge",
+        "notes": "Skew Arch Bridge\nhttps://www.nps.gov/places/skew-arch-bridge.htm\n\nThe Skew Arch Bridge was built to carry the Huntingdon, Cambria, & Indiana Turnpike, the forerunner of Route 22, over the tracks of the Allegheny Portage Railroad. This bridge was required because the turnpike and railroad crossed paths along the length of Incline Plane #6 and therefore a standard wooden railroad crossing would not work because of the ropes of the incline. The privately-run turnpike also required the state-run Portage to build the bridge at the exact angle the turnpike crossed the railroad. The state had actually started to build the bridge at a much-easier-to-build right angle to the railroad, which they then had to tear down and start over at the correct angle. The construction journal of May 21, 1833, notes the expense of “taking up and relaying of masonry in consequence of alteration in place.” Fenlon, Darlin, & Co. was the contractor and the bridge was completed at a cost of $2327.44. The bridge continued to be used until the early 20<sup>th</sup> century and actually carried automobile traffic. Make sure to examine the spiraling stonework on the underside of the arch. The skills of the stonemasons are very evident there. If you reached the bridge by way of the trail, please be careful crossing the highway on your way back.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.85472416877747,
+          40.36072546938639
+        ]
+      },
+      "properties": {
+        "name": "Staple Bend Tunnel",
+        "notes": "Staple Bend Tunnel\nhttps://www.nps.gov/places/staple-bend-tunnel.htm\n\nYour two-mile journey has paid off. You’ve made it to the Staple Bend Tunnel, the first railroad tunnel in America. Hopefully you didn’t forget your flashlight, because there are many interesting things to see inside. If you’re biking, please walk your bike through the tunnel for safety. The Staple Bend Tunnel opened in 1834 and allowed the tracks of the Portage to bypass a long bend in the Little Conemaugh River. Mainly Irish and Welsh workers constructed the tunnel by hand-drilling long holes which were then filled with black powder. Once a series of holes were drilled and blasted, the broken stone was carted out and used as fill on other sections of the railroad. The tunnel was excavated from each end and the two crews met in the middle. On Christmas of 1832, a large party was held at the tunnel on this occasion of “holing through” and the contractors, officials, and workers made many toasts in celebration. Amazingly no workers were killed in the tunnel during its construction, but at least 4 people were killed inside as the result of careless accidents during the operation of the Portage. The tunnel was abandoned in 1852 as the first section of the New Portage Railroad, which bypassed the inclines, was opened. The restored tunnel reopened in 2001 when this trail was completed. Enjoy your time exploring the tunnel and be careful on your return to the parking lot.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.85099053382874,
+          40.37646086210418
+        ]
+      },
+      "properties": {
+        "name": "Staple Bend Tunnel Culverts",
+        "notes": "Staple Bend Tunnel Culverts\nhttps://www.nps.gov/places/staple-bend-tunnel-culverts.htm\n\nThe Allegheny Portage Railroad had 157 passages for water under the railroad along its 36-mile length. Though some were impressive viaducts, the most famous of which was the Conemaugh Viaduct with an 80 foot span, most of these passages were stone culverts and drains with spans of just a few feet to twenty feet. Passages for water had to be created for even the smallest of streams, even ones that are dry for part of the year, because during storms rushing water could quickly wash the railbed away and cause travel delays and expensive repairs. These culverts were all created from hand cut sandstone that was quarried nearby and then covered over with earthen fill to create a level roadbed for the tracks above. The park has been restoring many of these culverts, but many others are still in good repair and still function to divert water under and away from the railroad to this day.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.85460615158081,
+          40.36972983335961
+        ]
+      },
+      "properties": {
+        "name": "Staple Bend Tunnel Trail, Stone Sleepers",
+        "notes": "Staple Bend Tunnel Trail, Stone Sleepers\nhttps://www.nps.gov/places/staple-bend-tunnel-trail-stone-sleepers.htm\n\nThese large stones embedded in the ground were actually the railroad ties of the Allegheny Portage Railroad. They were called sleepers and were hand-cut from local sandstone. These sleepers were used on about 31 of the 36 miles of the Portage Railroad. Stone sleepers were not used on the inclines of the Portage because the heavy stone blocks would have shifted out of place on the steep slopes. Each sleeper took about 24 hours of total work to create, from the quarry to being ready to place in the railbed. The workers made over 200,000 sleepers for the railroad. Can you imagine making a 500 pound sleeper with just a hammer and chisel? Hard work indeed! Notice that there are two holes drilled into the top of each sleeper. Wooden plugs were pounded into these holes and then railroad spikes to hold the iron rails had a place to be driven into. Stone sleepers were only used for a short time on early railroads in America. The technology had been copied from Great Britain and American railroad builders quickly determined that it would be much easier and cheaper to use wood for railroad ties instead. Wooden ties would not be permanent like ones made of stone, but they would be cheap and easy to replace and also created a more stable railroad because the two rails of each track were actually connected together and could not spread apart like rails laid on individual sleepers.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8356983657286,
+          40.37617615923073
+        ]
+      },
+      "properties": {
+        "name": "Staple Bend Tunnel Trailhead",
+        "notes": "Staple Bend Tunnel Trailhead\nhttps://www.nps.gov/places/staple-bend-tunnel-trailhead.htm\n\nThe Staple Bend Tunnel was the first railroad tunnel built in America and shortened the Portage Railroad by bypassing a bend in the Little Conemaugh River. The trail follows the old railbed of the Portage Railroad and remains of the Portage can be seen along the two miles it takes to reach the tunnel. A flashlight is helpful to see features in the tunnel itself. Please pace yourself on the four mile round trip. To learn more about the Allegheny Portage Railroad, please visit our main site which is just off the Gallitzin exit of Route 22 between Ebensburg and Altoona. For more information, please call the park at 814-886-6150. For emergencies, please dial 911.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.54927062993738,
+          40.4567072727768
+        ]
+      },
+      "properties": {
+        "name": "Stone Quarry",
+        "notes": "Stone Quarry\nhttps://www.nps.gov/places/stone-quarry.htm\n\nMost of this hillside was once one of the stone quarries used to build the Allegheny Portage Railroad. The local sandstone was needed for bridges, tunnel arches and even the railroad ties themselves! Workers toiled long days for as little as 50 cents per day drilling, cutting and chiseling the stone. All the work was done by hand. One stone railroad tie, called a “sleeper” in those days, took 24 hours of labor to complete. And the workers were able to produce over 200,000 of these sleepers. Look at or feel the marks left behind from these stonecutters on the outcropping of stone near the boardwalk. These marks are from the hand drills that were used to split large blocks of stone into smaller ones. Feel how rough the stone is and imagine how tough your hands would have become handling this for hours on end each day. Listen closely, sometimes you can still hear the sound of their tools ringing through the woods-Oh, wait that’s just one of our park rangers demonstrating how those sleepers were made. If you hear that sound, please go check out the program!",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.54949951695744,
+          40.45726647243247
+        ]
+      },
+      "properties": {
+        "name": "Summit Level Visitor Center",
+        "notes": "Summit Level Visitor Center\nhttps://www.nps.gov/places/summit-level-visitor-center.htm\n\n<p>There are three buildings in the park that you can tour between the hours of 9:00 a.m. and 5:00 p.m. each day, the Visitor Center, which is the building to your right, plus Engine House No. 6 Exhibit Shelter and the Lemon House, both of which are a short distance down the boardwalk in front of you. There is no charge to visit the park!<br /> <br /> The best place to start your visit is by watching the park orientation movie in the Visitor Center. Learn the fascinating story of the Allegheny Portage Railroad and the Pennsylvania Main Line Canal and how canal boats were hauled over this mountain from 1834 to 1854. When you have seen the exhibits and models in the visitor center, please journey back in time by following this boardwalk to the Portage Railroad itself. The Boardwalk is also the starting point of the park’s Inclines 6 to 10 Trail. Please ask in the visitor center for further trail information and a map. Park regulations and information on special events can be found on the bulletin board in front of you. If you have any questions or concerns during your visit, please ask the ranger on duty in the visitor center or dial 814-886-6150. For emergencies, please dial 911.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.4604589996,
+          40.4081712996
+        ]
+      },
+      "properties": {
+        "name": "Trailhead for the Inclines 6 to 10 Trail",
+        "notes": "Trailhead for the Inclines 6 to 10 Trail\nhttps://www.nps.gov/places/trailhead-for-the-inclines-6-to-10-trail.htm\n\nYou are now at the Dry Run Road Trailhead for the park’s Inclines 6 to 10 Trail, which follows the path of two versions of the Portage Railroad. Please become familiar with our rules and regulations posted on the informational panel here at the trailhead. Motorized vehicles are prohibited on the trail and pets must be on a leash at all times. Certain sections of the trail are for both hiking and bicycling, while others are for hiking only. Some sections of the hiking trail are very steep and uneven. Please pace yourself and watch your step. Most important of all, enjoy your day on our trails and take the time to also stop in our visitor center and see the rest of the park which is just off the Gallitizin exit of New Route 22. For more information about the park and special events, please call 814-886-6150. For emergencies, please dial 911.",
+        "icon": "red-pin-down.png"
+      }
+    }
+  ]
+}

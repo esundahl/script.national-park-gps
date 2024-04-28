@@ -1,0 +1,113 @@
+[
+  {
+    "id": "667B9AF1-15EF-4E1C-8BC2-3497E9A78EDA",
+    "url": "https://www.nps.gov/places/gloria-dei-church.htm",
+    "title": "Gloria Dei Church",
+    "listingDescription": "Gloria Dei (Old Swedes') Episcopal Church in South Philadelphia is the oldest church building in Pennsylvania.",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/F5802FF3-C373-305A-E00B9C6B18326EEF.jpg",
+        "credit": "NPS Photo",
+        "altText": "A brick church with a red door and wooden steeple behind a snow covered burial ground.",
+        "title": "Gloria Dei Church National Historic Site",
+        "description": "",
+        "caption": "Gloria Dei (Old Swedes') Church was built between 1698 and 1700 for Swedish colonists.",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/F5802FF3-C373-305A-E00B9C6B18326EEF.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/F5802FF3-C373-305A-E00B9C6B18326EEF.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "PA",
+        "parkCode": "glde",
+        "designation": "National Historic Site",
+        "fullName": "Gloria Dei Church National Historic Site",
+        "url": "https://www.nps.gov/glde/index.htm",
+        "name": "Gloria Dei Church"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [
+      "Gloria Dei Church National Historic Site",
+      "Gloria Dei Old Swedes Church",
+      "Swedish Culture"
+    ],
+    "latitude": "39.934645",
+    "longitude": "-75.14361200000002",
+    "latLong": "39.934645,-75.14361200000002",
+    "bodyText": "Gloria Dei (Old Swedes') Episcopal Church in South Philadelphia is the oldest church building in Pennsylvania, and among the oldest in the country. The grounds are open daily from 5AM to 11PM. Consult the <a href=\"https://www.old-swedes.org/\">church's website</a> for visiting hours and services.<br /> <br /> The attractive building, constructed in Flemish bond with glazed black header brick, was built between 1698 and 1700 for Swedish settlers. After serving as the Swedish Lutheran Church for almost 150 years, Gloria Dei became part of the Episcopal Church in 1845.",
+    "audioDescription": "Gloria Dei Church. This small brick church sits at the end of a brick walk with old gravestones filling the churchyard, the grassy space in front and on either side. The church is a classic shape with a square vestibule in front and a long nave extending back from it. Two side wings holding the side aisles complete the cruciform or cross-like floorplan. A square bell tower rises over the middle of the building topped by a narrow conical steeple and weathervane. Some of the bricks are darker in color than others. On either side of the main doors the bricks form two diamond shapes. The large front doors are paneled wood and painted dark red. A large lantern-shaped light hangs over the door with a multipaned window directly above. Inserted into the brick paving in front of the door is a rectangular stone that reads, \"This is none other but the House of God and this is the Gate of Heaven.\" Along the left side of the cemetery in front of the church are three buildings, which are identified on a map hanging on a wall in the parking lot on the far side of the buildings. The building immediately to the left of the church itself is the rectory, a long narrow two-story house. The next building as we move away from the church is Riverside Hall, a single-story building also of brick with large arched windows and doors at either end. Next to that is the Sexton's House, a small, three-story brick house. A hedge stands between this house and the churchyard, with a paved area and benches next to it. The walkway between the Sexton's House and Riverside Hall leads out to the small paved parking lot. At the far end of the cemetery, opposite the church, is Roak House, which has a two-story central section and two one-story wings on either side. End of Description.",
+    "isPassportStampLocation": "1",
+    "passportStampLocationDescription": "The Gloria Dei Church National Historic Site passport stamp can be found at the church or at the park ranger desk in the Independence Visitor Center at Independence National Historical Park.",
+    "passportStampImages": [
+      {
+        "credit": "",
+        "description": "",
+        "crops": [
+          {
+            "aspectRatio": 1,
+            "url": "https://www.nps.gov/common/uploads/passport_stamps/primary/F5CD138A-C1AD-E0D9-775487EF9D6CCACB.jpg"
+          }
+        ],
+        "altText": "A blue national park passport stamp with date and location.",
+        "title": "Gloria Die Church NHS passport stamp",
+        "caption": "",
+        "url": "https://www.nps.gov/common/uploads/passport_stamps/F5CD138A-C1AD-E0D9-775487EF9D6CCACB.jpg"
+      }
+    ],
+    "managedByUrl": "https://www.old-swedes.org/about",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "e66ef840-1e59-489a-ad2e-ebfe0222159e",
+    "isManagedByNps": "0",
+    "amenities": [
+      "Restroom",
+      "Water - Drinking/Potable"
+    ],
+    "managedByOrg": "Gloria Dei (Old Swedes') Episcopal Church",
+    "quickFacts": [
+      {
+        "id": "5C252B96-2DEB-4EF4-91D1-B5D2B202FCD7",
+        "value": "Philadelphia",
+        "name": "Location"
+      },
+      {
+        "id": "208F1B3C-44DC-4CF5-9A61-9B26A364D701",
+        "value": "The oldest church building in Pennsylvania.",
+        "name": "Significance"
+      },
+      {
+        "id": "E32D2136-A184-4C1A-91D2-4C20CEF9CBAF",
+        "value": "National Historic Site",
+        "name": "Designation"
+      }
+    ],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [
+      {
+        "title": "Gloria Dei Church NHS - Exterior",
+        "id": "9845AA38-1DD8-B71B-0B29-C88D949CCC45",
+        "type": "multimedia/galleries",
+        "url": "https://www.nps.gov/media/photo/gallery.htm?pg=6627203&id=9845AA38-1DD8-B71B-0B29-C88D949CCC45"
+      },
+      {
+        "title": "Gloria Dei Church NHS - Interior",
+        "id": "9A412D23-1DD8-B71B-0B4E-ED861B4DD06E",
+        "type": "multimedia/galleries",
+        "url": "https://www.nps.gov/media/photo/gallery.htm?pg=6627203&id=9A412D23-1DD8-B71B-0B4E-ED861B4DD06E"
+      }
+    ],
+    "relevanceScore": 1
+  }
+]

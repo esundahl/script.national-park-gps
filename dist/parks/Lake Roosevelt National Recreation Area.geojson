@@ -1,0 +1,515 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.148816566,
+          48.5141235164
+        ]
+      },
+      "properties": {
+        "name": "Bradbury Beach Boat Launch",
+        "notes": "Bradbury Beach Boat Launch\nhttps://www.nps.gov/places/bradbury-beach-boat-launch.htm\n\nBradbury Beach is a water access point on the shore of Lake Roosevelt. It has a paved boat ramp, boat dock, and parking for trailers, cars, and RVs. There is a vault toilet available year-round. Adjacent to the launch area, is a day-use picnic area with a swim beach.<br /> <br /> The minimum lake elevation for boat launch is 1251'.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.145895471355,
+          48.5151741267731
+        ]
+      },
+      "properties": {
+        "name": "Bradbury Beach Day Use Area",
+        "notes": "Bradbury Beach Day Use Area\nhttps://www.nps.gov/places/bradbury-beach-day-use-area.htm\n\nBradbury Beach day use area is adjacent to the boat launch, approximately 8.9 miles south of Kettle Falls on Washington State Highway 25. The facility has a small grassy area with picnic tables, barbeque grills, vault toilets, and water access. Potable water is not available.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.951148539,
+          48.8102787758
+        ]
+      },
+      "properties": {
+        "name": "China Bend Boat Launch",
+        "notes": "China Bend Boat Launch\nhttps://www.nps.gov/places/china-bend-boat-launch.htm\n\nChina Bend is a water access point on Lake Roosevelt, with a paved boat ramp, boat dock, information kiosk, and a vault toilet.<br /> <br /> The minimum lake elevation for boat launching is 1277'.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.146858533,
+          48.297110974
+        ]
+      },
+      "properties": {
+        "name": "Cloverleaf Day Use Area",
+        "notes": "Cloverleaf Day Use Area\nhttps://www.nps.gov/places/cloverleaf-day-use-area.htm\n\nCloverleaf Day Use Area is a very small access point with a beach and vault toilet on Lake Roosevelt.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.98696940032617,
+          47.947914872635614
+        ]
+      },
+      "properties": {
+        "name": "Crescent Bay Boat Launch",
+        "notes": "Crescent Bay Boat Launch\nhttps://www.nps.gov/places/crescent-bay-boat-launch.htm\n\nCrescent Bay Boat Launch is a water access point on Lake Roosevelt, located between the town of Grand Coulee and the Grand Coulee Dam. The road to the launch is not paved. In addition to the paved boat launch, there is a dock, a vault toilet, a large gravel parking area, and an information kiosk.<br /> <br /> The minimum lake elevation for boat launch is 1265'.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.167900622,
+          48.3756760155
+        ]
+      },
+      "properties": {
+        "name": "Daisy Boat Launch",
+        "notes": "Daisy Boat Launch\nhttps://www.nps.gov/places/daisy-boat-launch.htm\n\nDaisy Boat Launch is a water access point on the shore of Lake Roosevelt with a paved boat ramp, dock, vault toilets, parking area and an information kiosk. It is adjacent to the Daisy Store.<br /> <br /> Minimum lake eleveation for boat launch is 1265'.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.019598811,
+          48.6993109012
+        ]
+      },
+      "properties": {
+        "name": "Evans Boat Launch",
+        "notes": "Evans Boat Launch\nhttps://www.nps.gov/places/evans-boat-launch.htm\n\nEvans Boat Launch is a water access point on Lake Roosevelt NRA with a paved boat ramp, boat dock, information kiosk, and vault toilets. Evans Campground and Evans Group Site are nearby.<br /> <br /> Minimum lake elevation for boat ramp use is 1280'.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.01765146,
+          48.698818147
+        ]
+      },
+      "properties": {
+        "name": "Evans Day Use Area",
+        "notes": "Evans Day Use Area\nhttps://www.nps.gov/places/evans-day-use-area.htm\n\nThis day use area is located adjacent to the Evans Campground and Evans Boat Launch, approximately 9 miles north of the town of Kettle Falls on Washington State Highway 25. The facility has a grassy area with picnic tables, barbeque grill, gazebo, water access, an outdoor cold shower, and restrooms. Potable water is available during the summer season.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.3109246,
+          47.9096605001
+        ]
+      },
+      "properties": {
+        "name": "Fort Spokane Boat Launch",
+        "notes": "Fort Spokane Boat Launch\nhttps://www.nps.gov/places/fort-spokane-boat-launch.htm\n\nFort Spokane Boat Launch is a water access point on Lake Roosevelt with a paved boat ramp, docks, a vault toilet, large parking area, and an information kiosk.<br /> <br /> Minimum lake elevation for boat launch use is 1247'.<br /> <br /> Fort Spokane Campground is directly adjacent to the boat launch. Reservations are required to camp.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.3151893,
+          47.9066939
+        ]
+      },
+      "properties": {
+        "name": "Fort Spokane Day Use Area",
+        "notes": "Fort Spokane Day Use Area\nhttps://www.nps.gov/places/fort-spokane-day-use-area.htm\n\nFort Spokane Day Use Area is a water access point on Lake Roosevelt with picnic tables, grills, picnic shelters, restrooms, a large grassy area, a trailhead to the nearby visitor center, and potable water during the summer season.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.197746771,
+          48.4948493818
+        ]
+      },
+      "properties": {
+        "name": "French Rocks Boat Launch",
+        "notes": "French Rocks Boat Launch\nhttps://www.nps.gov/places/french-rocks.htm\n\nFrench Rocks Boat Launch is a water access point on the shore of Lake Roosevelt with a paved boat ramp, skid dock, vault toilet, and information kiosk.<br /> <br /> Minimum lake elevation for boat ramp use is 1265'.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.145259339,
+          48.2884670754
+        ]
+      },
+      "properties": {
+        "name": "Gifford Boat Launch",
+        "notes": "Gifford Boat Launch\nhttps://www.nps.gov/places/gifford-boat-launch.htm\n\nGifford Boat launch is a water access point on Lake Roosevelt with a paved boat ramp, docks, information kiosk, parking area. A vault toilet is available a short distance down the road to the adjacent Gifford Campground. Reservations are required to stay at the campground. <br /> <br /> Minimum lake elevation for use of the boat launch is 1249'.<br /> <br />  ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.98664566500003,
+          47.960475519000006
+        ]
+      },
+      "properties": {
+        "name": "Grand Coulee Dam Visitor Center",
+        "notes": "Grand Coulee Dam Visitor Center\nhttps://www.nps.gov/places/grand-coulee-dam-visitor-center.htm\n\n<p>The visitor center is managed by the Bureau of Reclamation. open daily from 8:30 am to 5 pm Pacific Time and closed on Thanksgiving, Christmas, and New Year's Day. Admission is free. More details can be found at the <a href=\"https://www.usbr.gov/pn/grandcoulee/visit/gcvc.html\">Grand Coulee Dam Visitor Center website</a> or by calling 509-633-9265.</p> <p>The Grand Coulee Dam Visitor Center was built in the late 1970s as part of the dam’s Nathaniel “Nat” Washington Power Plant expansion. It was designed by architect Marcel Breuer to resemble a generator rotor. An evening <a href=\"https://www.usbr.gov/pn/grandcoulee/visit/laser.html\">laser light show</a> was added in 1989. The center was retrofitted in 2004 for seismic, life-safety, and accessibility standards. The original laser equipment was replaced in 2013, and a new laser light show, “One River, Many Voices,” premiered in 2014.</p> <p>In 2006, new exhibits and displays were installed. The exhibits highlight Grand Coulee’s role as one of the main irrigation, flood control, and hydroelectric dams on the Columbia River. They also describe the effects the dam has had on various groups of people, including Native Americans and early settlers. The new exhibits were designed, manufactured, and installed by Formations, Inc., of Portland, Oregon. </p> <p>This visitor center is fully accessible and features hands-on exhibits and an auditorium. Service animals are allowed inside the visitor center.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.625614455236,
+          47.9213258864457
+        ]
+      },
+      "properties": {
+        "name": "Hanson Harbor Boat Launch",
+        "notes": "Hanson Harbor Boat Launch\nhttps://www.nps.gov/places/hanson-harbor-boat-launch.htm\n\nHanson Harbor Boat Launch is a water access point on Lake Roosevelt with a boat launch, vault toilets, an information kiosk, parking area, and picnic tables.<br /> <br /> Miniminum lake elevation for boat launch is 1253'.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.330099889585,
+          47.815335361329
+        ]
+      },
+      "properties": {
+        "name": "Hawk Creek Boat Launch",
+        "notes": "Hawk Creek Boat Launch\nhttps://www.nps.gov/places/hawk-creek-boat-launch.htm\n\nHawk Creek boat launch is a popular access point on Lake Roosevelt, with a paved boat launch, dock, information kiosk, and pit toilet. A small parking area is next to the boat launch, but space is limited. <br /> <br /> Minimum lake elevation for the boat launch is 1277'.<br /> <br /> Hawk Creek Campground is adjacent to the boat launch, with a small craft, canoe/kayak dock on the shoreline.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.225239951,
+          48.1293609775
+        ]
+      },
+      "properties": {
+        "name": "Hunters Boat Launch",
+        "notes": "Hunters Boat Launch\nhttps://www.nps.gov/places/hunters-boat-launch.htm\n\nHunters Boat Launch is a water access point on Lake Roosevelt with a paved boat ramp, docks, information kiosk, a large paved parking lot, and vault toilets. It is directly adjacent to Hunters Campground. A reservation is required to stay at the campground.<br /> <br /> Minimum lake elevation for boat launch is 1230'.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.231331985,
+          48.1255472976
+        ]
+      },
+      "properties": {
+        "name": "Hunters Day Use Area",
+        "notes": "Hunters Day Use Area\nhttps://www.nps.gov/places/hunters-day-use-area.htm\n\nHunters Day Use area is a water access point on the shore of Lake Roosevelt with a large grassy area, picnic tables, grills, restrooms, picnic shelters, and potable water during the summer season.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.582221135,
+          47.920608454
+        ]
+      },
+      "properties": {
+        "name": "Jones Bay Boat Launch",
+        "notes": "Jones Bay Boat Launch\nhttps://www.nps.gov/places/jones-bay-boat-launch.htm\n\nJones Bay Boat Launch is a water access point on Lake Roosevelt that has a paved boat ramp, docks, parking area, information kiosk, and vault toilets. The boat launch is accessed through the Jones Bay Campground. Reservations are required to stay in the campground.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.6925,
+          47.92744
+        ]
+      },
+      "properties": {
+        "name": "Keller Boat Launch",
+        "notes": "Keller Boat Launch\nhttps://www.nps.gov/places/keller-boat-launch.htm\n\nKeller Boat Launch is a water access point on Lake Roosevelt with a paved boat ramp, docks, large parking area, information kiosk, and vault toilets. The adjacent marina and campground are operated by <a href=\"http://lakerooseveltadventures.com/\">Lake Roosevelt Adventures</a>. <br /> <br /> Minimum lake elevation for boat launch is 1229'.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.69444549072796,
+          47.928448439990014
+        ]
+      },
+      "properties": {
+        "name": "Keller Ferry Day Use Area",
+        "notes": "Keller Ferry Day Use Area\nhttps://www.nps.gov/places/keller-ferry-day-use-area.htm\n\nKeller Ferry Day Use Area is a water access point on Lake Roosevelt with a large grassy area and plenty of large trees for shade. The day use area is adjacent to Keller Ferry Campground (made by reservation only through lakerooseveltadventure.com). Keller Ferry Day Use Area includes restrooms, a shaded pergola, and is walking distance to the Keller Ferry Boat Launch.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.122725814,
+          48.599330886
+        ]
+      },
+      "properties": {
+        "name": "Kettle Falls Boat Launch",
+        "notes": "Kettle Falls Boat Launch\nhttps://www.nps.gov/places/kettle-falls-boat-launch.htm\n\nKettle Falls Boat Launch is a water access point on Lake Roosevelt with a paved boat ramp, docks, information kiosk, and a vault toilet. Kettle Falls Marina is directly adjacent and is operated by <a href=\"http://www.lakeroosevelt.com/\">Lake Roosevelt Vacations Inc (LRVI)</a>. Kettle Falls Campground, across the road, requires a reservation for camping.<br /> <br /> Minimum lake elevation for boat launch use is 1243'.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.11375992823459,
+          48.58656573697331
+        ]
+      },
+      "properties": {
+        "name": "Kettle Falls Day Use Area",
+        "notes": "Kettle Falls Day Use Area\nhttps://www.nps.gov/places/kettle-falls-day-use-area.htm\n\nKettle Falls day use area is south of the marina and campground along Kettle Park Road. The facility has a grassy area with a playground and three picnic shelters, as well as grills, and flush and vault toilets. Potable water is available.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.44045929964634,
+          47.83667749870496
+        ]
+      },
+      "properties": {
+        "name": "Lincoln Mill Boat Launch",
+        "notes": "Lincoln Mill Boat Launch\nhttps://www.nps.gov/places/lincoln-mill-boat-launch.htm\n\nLincoln Mill is a water access point on the shore of Lake Roosevelt. There is a paved boat launch, a boat dock, information kiosk, a picnic area, and vault toilets.<br /> <br /> The minimum lake elevation for boat launch is 1245'.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.065091283,
+          48.666276591
+        ]
+      },
+      "properties": {
+        "name": "Marcus Island Boat Launch",
+        "notes": "Marcus Island Boat Launch\nhttps://www.nps.gov/places/marcus-island-boat-launch.htm\n\nThe Marcus Island Boat Launch is a water access point on Lake Roosevelt with a paved ramp, dock, parking area, information kiosk, and vault toilet.<br /> <br /> Minimum lake elevation for launch is 1281'.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.0645591838766,
+          48.666147606071874
+        ]
+      },
+      "properties": {
+        "name": "Marcus Island Day Use Area",
+        "notes": "Marcus Island Day Use Area\nhttps://www.nps.gov/places/marcus-island-day-use-area.htm\n\nA small day use area adjacent to the Marcus Island boat launch. There is water access and a small sandy beach, picnic tables, and vault toilets.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.106401,
+          48.628663
+        ]
+      },
+      "properties": {
+        "name": "Mission Point",
+        "notes": "Mission Point\nhttps://www.nps.gov/places/mission-point.htm\n\n<p>On a bluff overlooking the former Kettle Falls, Mission Point is one of the richest and concentrated points of history in the Pacific Northwest with over 9,000 years of continuous human presence. <a href=\"https://www.nps.gov/laro/learn/historyculture/stpauls-mission.htm\">St. Paul’s Mission</a>, an Indian Jesuit Mission orginally built in 1847 and reconstructed in 1939, stands watch. The point also contains several points including native culture and Fort Colvile, a Hudson's Bay fur trading post.<br /> <br /> Mission Point is open to the public year round. St. Paul's Mission is open and self-guided however it is NOT wheelchair accessible. Take a hike and the ponderosa pine forest on a <a href=\"https://cms.nps.gov/thingstodo/mission-point-trail.htm\">short, self-guided hike</a> out to the point.<br /> <br /> A cell phone ranger audio tour is available and provides information about each point of interest.<br /> <br /> Stop by the Kettle Falls Information Center to see historic pictures and exhibts.</p> <h2>History of St. Paul's Mission</h2> <p><br /> In early November of 1838, two Catholic priests, Father François Norbert Blanchet and Father Modeste Demers were enroute from Montreal to Fort Vancouver when they stopped at Fort Colvile, a fur trading post on the Upper Columbia River near Kettle Falls. Throughout the region, the fur traders promoted their coming to the Native Americans. Representatives from five tribes came. For three days, the priests along with translators conducted religious services, including daily mass and 19 baptisms. Their activities marked the first Catholic presence in the region between the Cascade and Rocky Mountains. As they left the trading post, the priests promised the fur traders and natives that someone would return to establish a mission for the Upper Columbia River.</p>   <p>In 1847, Father Peter de Vos began his year-long residency at St. Paul’s. With assistance from fur traders at Fort Colvile, he began construction of a larger, substantial chapel to function both as a residence and a mission. Several cedar logs were chiseled and handhewn into beams for the frame. Instead of nails, pegs were used to keep the beams in place. White mud was chinked into the walls to prevent drafts. The building also featured glass windows. Two wood-burning stoves were installed to provide heat during the cold winter. By the end of the year, building of the mission was complete.<br /> <br /> Learn more about the <a href=\"https://www.nps.gov/laro/learn/historyculture/stpauls-mission.htm\">history of St. Paul’s Mission</a>.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.1163574,
+          48.7346474998
+        ]
+      },
+      "properties": {
+        "name": "Napoleon Bridge Boat Launch",
+        "notes": "Napoleon Bridge Boat Launch\nhttps://www.nps.gov/places/napoleon-bridge-boat-launch.htm\n\nNapoleon Bridge Boat Launch is a water access point on Lake Roosevelt with a paved boat launch, information kiosk, parking area, and vault toilet.<br /> <br /> Minimum lake elevation for boat launch is 1280'.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.001472328,
+          48.7867979787
+        ]
+      },
+      "properties": {
+        "name": "North Gorge Boat Launch",
+        "notes": "North Gorge Boat Launch\nhttps://www.nps.gov/places/north-gorge-boat-launch.htm\n\nNorth Gorge Boat Launch is a water access point in the north district of Lake Roosevelt NRA. There is a paved access road and boat ramp, with a floating dock, information kiosk, and vault toilet. The adjacent North Gorge campground, reservation required, is open during the summer season.<br /> <br /> Minimum lake elevation for boat launch is 1265'.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.175199779,
+          47.897464911
+        ]
+      },
+      "properties": {
+        "name": "Porcupine Bay Boat Launch",
+        "notes": "Porcupine Bay Boat Launch\nhttps://www.nps.gov/places/porcupine-bay-boat-launch.htm\n\nPorcupine Bay Boat Launch is a water access point on Lake Roosevelt with a paved boat ramp, dock, large parking area, information kiosk, and vault toilet.<br /> <br /> Minimum elevation for boat launch is 1243'.<br /> <br /> Porcupine Bay Campground is directly adjacent.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.175135367,
+          47.8945931616
+        ]
+      },
+      "properties": {
+        "name": "Porcupine Bay Day Use Area",
+        "notes": "Porcupine Bay Day Use Area\nhttps://www.nps.gov/places/porcupine-bay-day-use-area.htm\n\nPorcupine Bay Day Use Area is a water access point on the shoreline of Lake Roosevelt. There is a large grassy area, picnic tables, grills, picnic shelters, vault toilets, and flush toilets and potable water during the summer season.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.340924018,
+          47.8538600132
+        ]
+      },
+      "properties": {
+        "name": "Seven Bays Boat Launch",
+        "notes": "Seven Bays Boat Launch\nhttps://www.nps.gov/places/seven-bays-boat-launch.htm\n\nSeven Bays Boat Launch is a water access point on Lake Roosevelt with a paved boat ramp, docks, parking area, information kiosk, and vault toilet. The adjacent marina and restaurant are operated by <a href=\"http://lakerooseveltadventures.com/\">Lake Roosevelt Adventures</a>. <br /> <br /> Minimum lake elevation for boat launch is 1227'.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.059172038,
+          48.732989274
+        ]
+      },
+      "properties": {
+        "name": "Snag Cove Boat Launch",
+        "notes": "Snag Cove Boat Launch\nhttps://www.nps.gov/places/snag-cove-boat-launch.htm\n\nSnag Cove Boat Launch is a water access point on Lake Roosevelt with a paved boat ramp, dock, parking area, information kiosk, and vault toilet.<br /> <br /> Minimum lake elevation for launch is 1277'.<br /> <br /> Snag Cove Camground is directly adjacent. Reservations required.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.934956497,
+          47.935113509
+        ]
+      },
+      "properties": {
+        "name": "Spring Canyon Boat Launch",
+        "notes": "Spring Canyon Boat Launch\nhttps://www.nps.gov/places/spring-canyon-boat-launch.htm\n\nThe Spring Canyon Boat Launch has a paved ramp with multiple docks for temporary mooring. There is an information kiosk adjacent to the ramp and a vault toilet across the main parking lot. An additional overflow parking area suitable for RV and larger trailers is nearby. A day use area with picnic tables and grills is west of the boat launch, with a swim beach access below. <br /> <br /> Minimum launch elevation is 1222'.<br /> <br /> Spring Canyon Campground, reservation required, is also accessible from this location.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.937852243,
+          47.935010448
+        ]
+      },
+      "properties": {
+        "name": "Spring Canyon Day Use Area",
+        "notes": "Spring Canyon Day Use Area\nhttps://www.nps.gov/places/spring-canyon-day-use-area.htm\n\nSpring Canyon Day Use Area is a water access point on Lake Roosevelt with a large grassy area, picnic tables, grills, picnic shelters, accessible restrooms, and potable water, cold showers, and flush toilets during the summer season.",
+        "icon": "red-pin-down.png"
+      }
+    }
+  ]
+}

@@ -1,0 +1,1237 @@
+[
+  {
+    "id": "454636A0-765D-45FD-96BB-530C1FD56040",
+    "url": "https://www.nps.gov/places/a-rhythm-of-seasons.htm",
+    "title": "A Rhythm of Seasons",
+    "listingDescription": "",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/29C12B87-D8CC-C74F-38EE7D315387A3BD.jpg",
+        "credit": "NPS",
+        "altText": "An interpretive wayside in view of a picnic table and open grassy space.",
+        "title": "A rhythm of seasons",
+        "description": "",
+        "caption": "A grassy lawn at the Cant Ranch grounds.",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/29C12B87-D8CC-C74F-38EE7D315387A3BD.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/29C12B87-D8CC-C74F-38EE7D315387A3BD.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "OR",
+        "parkCode": "joda",
+        "designation": "National Monument",
+        "fullName": "John Day Fossil Beds National Monument",
+        "url": "https://www.nps.gov/joda/index.htm",
+        "name": "John Day Fossil Beds"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [],
+    "latitude": "44.5556888508542",
+    "longitude": "-119.64420318603516",
+    "latLong": "44.5556888508542,-119.64420318603516",
+    "bodyText": "Time has erased much evidence characteristic to ranch life. In contrast to today's lawn, the back yard was originally bare ground trampled by livestock. Two small buildings below the ranch house were a feed shed and a chicken coop. The wire-enclosed chicken yard and nearby hog pen no longer exist.<br /> <br /> Ranch work followed a rhythm timed with the changing seasons. Produce from two large gardens and fruit trees provided fresh summer vegetables and preserves for winter months. Cold weather was critical for river ice that was \"put-up\" in an ice house in winter months. An ice box on the ranch house porch was the only source of refrigeration throughout the following spring and summer months.",
+    "audioDescription": "",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "",
+    "isManagedByNps": "1",
+    "amenities": [],
+    "managedByOrg": "",
+    "quickFacts": [
+      {
+        "id": "5C252B96-2DEB-4EF4-91D1-B5D2B202FCD7",
+        "value": "Cant Ranch Historic District",
+        "name": "Location"
+      },
+      {
+        "id": "208F1B3C-44DC-4CF5-9A61-9B26A364D701",
+        "value": "Ranch work depended on the changing seasons.",
+        "name": "Significance"
+      }
+    ],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  },
+  {
+    "id": "49BB3AA8-5F62-4683-BDBE-428C9E0E0B85",
+    "url": "https://www.nps.gov/places/arch-trail-introduction.htm",
+    "title": "Arch Trail Introduction",
+    "listingDescription": "",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/48A2AF99-BC0E-7316-75817F8E02D606A3.jpg",
+        "credit": "NPS Photo",
+        "altText": "Tan cliff formations with a grassy slope below dotted with fallen boulders.",
+        "title": "Arch Trail Introduction",
+        "description": "",
+        "caption": "View of the Clarno Palisades from the Arch Trail",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/48A2AF99-BC0E-7316-75817F8E02D606A3.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/48A2AF99-BC0E-7316-75817F8E02D606A3.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "OR",
+        "parkCode": "joda",
+        "designation": "National Monument",
+        "fullName": "John Day Fossil Beds National Monument",
+        "url": "https://www.nps.gov/joda/index.htm",
+        "name": "John Day Fossil Beds"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [],
+    "latitude": "44.9115904545",
+    "longitude": "-120.415616295",
+    "latLong": "44.9115904545,-120.415616295",
+    "bodyText": "The Clarno Unit is an underrated yet incredibly important unit of the Monument, since it preserves one of the lushest and most diverse chapters in Oregon’s ancient history. The Clarno Palisades may not be as visually stimulating as the Painted Hills or Sheep Rock, but Clarno is the only unit in the monument where real fossils are easily viewable along the trail in their original resting place! As you continue towards the base of the Palisades, look out for any leaf or vine imprints on the boulders along the trail. We strongly encourage you to trace these fossil imprints with your fingers, or even sketch them in a journal to reflect on your visit to the Clarno Unit long after you leave.",
+    "audioDescription": "",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "cb3a0495-d560-4a71-b4cb-c69869a10b8a",
+    "isManagedByNps": "1",
+    "amenities": [
+      "Pets Allowed",
+      "Scenic View/Photo Spot"
+    ],
+    "managedByOrg": "",
+    "quickFacts": [],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  },
+  {
+    "id": "F7C3CA79-21E3-4FE3-85FE-0B9AB75609AF",
+    "url": "https://www.nps.gov/places/blue-basin.htm",
+    "title": "Blue Basin",
+    "listingDescription": "",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/FDF9D465-E4C7-0493-7781E8B359CD0C64.jpg",
+        "credit": "NPS Photo / B. Lillie",
+        "altText": "Blue-green and tan claystones",
+        "title": "Blue Basin",
+        "description": "",
+        "caption": "Blue Basin",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/FDF9D465-E4C7-0493-7781E8B359CD0C64.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/FDF9D465-E4C7-0493-7781E8B359CD0C64.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "OR",
+        "parkCode": "joda",
+        "designation": "National Monument",
+        "fullName": "John Day Fossil Beds National Monument",
+        "url": "https://www.nps.gov/joda/index.htm",
+        "name": "John Day Fossil Beds"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [],
+    "latitude": "44.59512119706867",
+    "longitude": "-119.63159981867302",
+    "latLong": "44.59512119706867,-119.63159981867302",
+    "bodyText": "Hike self-guided trails through blue and tan fossil-bearing rock layers deposited 31-28 million years ago. There are two trails here, the 0.75-mile Island in Time Trail and 3.25-mile Blue Basin Overlook Trail. Picnic tables and restrooms are located here as well.<br /> <br /> <strong>No collecting is allowed and off-trail hiking in Blue Basin is strictly prohibited.</strong>",
+    "audioDescription": "Hike self-guided trails through blue and tan fossil-bearing rock layers.",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "",
+    "isManagedByNps": "1",
+    "amenities": [
+      "Benches/Seating",
+      "Historical/Interpretive Information/Exhibits",
+      "Information",
+      "Parking - Auto",
+      "Parking - Bus/RV",
+      "Picnic Shelter/Pavilion",
+      "Picnic Table",
+      "Scenic View/Photo Spot",
+      "Tactile Exhibit",
+      "Toilet - Vault/Composting",
+      "Trailhead",
+      "Trash/Litter Receptacles"
+    ],
+    "managedByOrg": "",
+    "quickFacts": [
+      {
+        "id": "5C252B96-2DEB-4EF4-91D1-B5D2B202FCD7",
+        "value": "Sheep Rock Unit",
+        "name": "Location"
+      },
+      {
+        "id": "208F1B3C-44DC-4CF5-9A61-9B26A364D701",
+        "value": "Two trails that offer close-up views of blue-green claystones of Blue Basin.",
+        "name": "Significance"
+      }
+    ],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  },
+  {
+    "id": "A99A9D36-D11D-46B1-9E83-EDC7FF11D0B6",
+    "url": "https://www.nps.gov/places/building-new-with-old.htm",
+    "title": "Building New with Old",
+    "listingDescription": "",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/295A17FB-E8E8-5764-722E34DF685365AF.jpg",
+        "credit": "NPS",
+        "altText": "A small log house next to the ranch house.",
+        "title": "Log house",
+        "description": "",
+        "caption": "Log house used as a bunkhouse for hired men",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/295A17FB-E8E8-5764-722E34DF685365AF.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/295A17FB-E8E8-5764-722E34DF685365AF.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "OR",
+        "parkCode": "joda",
+        "designation": "National Monument",
+        "fullName": "John Day Fossil Beds National Monument",
+        "url": "https://www.nps.gov/joda/index.htm",
+        "name": "John Day Fossil Beds"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [],
+    "latitude": "44.55505048697287",
+    "longitude": "-119.6445894241333",
+    "latLong": "44.55505048697287,-119.6445894241333",
+    "bodyText": "Step inside the little log house on the left. The Cant family made use of the log cabin built by the Officers as a bunkhouse for hired men. Space in the loft stored supplies for when they trailed sheep to their summer range in the nearby mountains. Root vegetables stowed in a cellar under the cabin floor were accessible through a trap door and shelves held home canned fruit.<br /> <br /> By 1917, the Cant family had grown to include three more children. Overnight guests were also common as travelers passed through the area. Three plans from a 1903 book of Radford American Homes were combined to create the house plan. Work started on the big house in 1917 and finished in 1918. Lumber for the house came from within thirty miles. The estimated building price was between two and three thousand dollars.",
+    "audioDescription": "",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "",
+    "isManagedByNps": "1",
+    "amenities": [],
+    "managedByOrg": "",
+    "quickFacts": [
+      {
+        "id": "5C252B96-2DEB-4EF4-91D1-B5D2B202FCD7",
+        "value": "Cant Ranch Historic District",
+        "name": "Location"
+      },
+      {
+        "id": "208F1B3C-44DC-4CF5-9A61-9B26A364D701",
+        "value": "The Cant family needed a bigger home for their family.",
+        "name": "Significance"
+      }
+    ],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  },
+  {
+    "id": "077D03C9-9B5E-4CF7-BF0C-251A00E7DB7A",
+    "url": "https://www.nps.gov/places/clarno-palisades.htm",
+    "title": "Clarno Palisades",
+    "listingDescription": "",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/3A473762-FC06-9E17-FF6686AE288027F1.jpg",
+        "credit": "NPS Photo / P. Gamman",
+        "altText": "Tall tan cliffs with sagebrush covered slopes and trees in the foreground and blue skies",
+        "title": "Clarno Palisades",
+        "description": "",
+        "caption": "Clarno Palisades",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/3A473762-FC06-9E17-FF6686AE288027F1.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/3A473762-FC06-9E17-FF6686AE288027F1.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "OR",
+        "parkCode": "joda",
+        "designation": "National Monument",
+        "fullName": "John Day Fossil Beds National Monument",
+        "url": "https://www.nps.gov/joda/index.htm",
+        "name": "John Day Fossil Beds"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [],
+    "latitude": "44.913804897",
+    "longitude": "-120.409473896",
+    "latLong": "44.913804897,-120.409473896",
+    "bodyText": "<p>The Palisades are the most prominent landform and are volcanic lahars, or mudflows, that formed 54-40 million years ago in a lush semi-tropical rainforest environment. Tiny four-toed horses, huge rhino-like brontotheres, crocodilians, and meat-eating creodonts that once roamed ancient jungles are now found in the rocks of the Clarno Unit, as well as an incredibly diverse range of plant life. Leaves, fruits, nuts, seeds, and petrified wood from 173 species of trees, vines, shrubs, and other plants have been found here thus far.</p> <p>Glimpses of fossilized plants can be seen along the cliff walls.</p>",
+    "audioDescription": "The Palisades are 125 ft. tall tan cliffs formed by volcanic eruptions and shaped by erosion.",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "",
+    "isManagedByNps": "1",
+    "amenities": [
+      "Accessible Sites",
+      "Benches/Seating",
+      "Historical/Interpretive Information/Exhibits",
+      "Information Kiosk/Bulletin Board",
+      "Parking - Auto",
+      "Parking - Bus/RV",
+      "Picnic Shelter/Pavilion",
+      "Picnic Table",
+      "Scenic View/Photo Spot",
+      "Toilet - Vault/Composting",
+      "Trailhead",
+      "Trash/Litter Receptacles"
+    ],
+    "managedByOrg": "",
+    "quickFacts": [
+      {
+        "id": "5C252B96-2DEB-4EF4-91D1-B5D2B202FCD7",
+        "value": "Clarno Unit",
+        "name": "Location"
+      },
+      {
+        "id": "208F1B3C-44DC-4CF5-9A61-9B26A364D701",
+        "value": "The Palisades are the most prominent landform and are volcanic lahars, or mudflows, that formed 54-40 million years ago in a lush semi-tropical rainforest environment.",
+        "name": "Significance"
+      }
+    ],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  },
+  {
+    "id": "3D1494A4-E076-4068-930F-A3FA1B6AF1F2",
+    "url": "https://www.nps.gov/places/foree.htm",
+    "title": "Foree",
+    "listingDescription": "",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/05FB7737-CC42-0492-9FC3C2EDCE4C62C7.jpg",
+        "credit": "NPS Photo",
+        "altText": "Blue-green rock formation with thin red rock layer on top.",
+        "title": "Foree",
+        "description": "",
+        "caption": "Scenic View of Blue-green Claystones Along Flood of Fire Trail",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/05FB7737-CC42-0492-9FC3C2EDCE4C62C7.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/05FB7737-CC42-0492-9FC3C2EDCE4C62C7.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "OR",
+        "parkCode": "joda",
+        "designation": "National Monument",
+        "fullName": "John Day Fossil Beds National Monument",
+        "url": "https://www.nps.gov/joda/index.htm",
+        "name": "John Day Fossil Beds"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [],
+    "latitude": "44.6522304019",
+    "longitude": "-119.6405897135",
+    "latLong": "44.6522304019,-119.6405897135",
+    "bodyText": "A picnic site and two short trails, each under 0.5 miles, offer views of sculpted green claystone capped by volcanic flows. There are park brochures and pit toilets available here as well.<br /> <br /> <strong>No collecting is allowed and please stay on trail.</strong>",
+    "audioDescription": "",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "",
+    "isManagedByNps": "1",
+    "amenities": [
+      "Benches/Seating",
+      "Historical/Interpretive Information/Exhibits",
+      "Information",
+      "Information - Maps Available",
+      "Parking - Auto",
+      "Parking - Bus/RV",
+      "Picnic Table",
+      "Scenic View/Photo Spot",
+      "Tactile Exhibit",
+      "Toilet - Vault/Composting",
+      "Trailhead",
+      "Trash/Litter Receptacles"
+    ],
+    "managedByOrg": "",
+    "quickFacts": [
+      {
+        "id": "5C252B96-2DEB-4EF4-91D1-B5D2B202FCD7",
+        "value": "Sheep Rock Unit",
+        "name": "Location"
+      },
+      {
+        "id": "208F1B3C-44DC-4CF5-9A61-9B26A364D701",
+        "value": " Scenic views, picnic area, park brochures available and pit toilets.",
+        "name": "Significance"
+      }
+    ],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  },
+  {
+    "id": "916CE9F3-D957-466D-B9E6-6AD5958D7C95",
+    "url": "https://www.nps.gov/places/forest-regrowth.htm",
+    "title": "Forest Regrowth",
+    "listingDescription": "",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/49FABECC-02DE-43D1-13381E0DE7E6A15B.jpg",
+        "credit": "NPS Photo",
+        "altText": "Towering cliff formations with distinct layers, with a crack going upwards through half the layers.",
+        "title": "Layers of the Clarno Palisades",
+        "description": "",
+        "caption": "Each layer in the Clarno Palisades preserves a story.",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/49FABECC-02DE-43D1-13381E0DE7E6A15B.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/49FABECC-02DE-43D1-13381E0DE7E6A15B.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "OR",
+        "parkCode": "joda",
+        "designation": "National Monument",
+        "fullName": "John Day Fossil Beds National Monument",
+        "url": "https://www.nps.gov/joda/index.htm",
+        "name": "John Day Fossil Beds"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [],
+    "latitude": "44.91253984331445",
+    "longitude": "-120.41598558436817",
+    "latLong": "44.91253984331445,-120.41598558436817",
+    "bodyText": "<p paraeid=\"{e665661c-591d-49fa-9cf2-a8939cf83db2}{212}\" paraid=\"1448073273\">Each layer of the Palisades was once a forest floor, which were later buried under lahars. These lahars were so strong that some trees were easily flattened, like the two trees now fossilized in the cliffside.</p> <p paraeid=\"{e665661c-591d-49fa-9cf2-a8939cf83db2}{245}\" paraid=\"212372991\">Decades, centuries, or even millennia separated each layer of the Palisades, giving a forest the chance to grow before being flattened once again. Paleontologists use the fossils within these layers to understand the recovery and regrowth after each eruption. In areas you’ve lived in or visited, have you noticed the landscape recover after a major natural disaster such as a mudslide, wildfire, or even a volcanic eruption?</p>",
+    "audioDescription": "",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "",
+    "isManagedByNps": "1",
+    "amenities": [
+      "Pets Allowed",
+      "Scenic View/Photo Spot"
+    ],
+    "managedByOrg": "",
+    "quickFacts": [],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  },
+  {
+    "id": "E49DCC78-D2CF-41C9-A499-DC3B0B198160",
+    "url": "https://www.nps.gov/places/homestead-welcome.htm",
+    "title": "Homestead Welcome",
+    "listingDescription": "",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/205499DE-EC0A-2C05-CA8C70CF617C9FC1.jpg",
+        "credit": "",
+        "altText": "An old photograph looking across the Officer homestead.",
+        "title": "Officer Homestead",
+        "description": "",
+        "caption": "Officer homestead, circa 1900",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/205499DE-EC0A-2C05-CA8C70CF617C9FC1.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/205499DE-EC0A-2C05-CA8C70CF617C9FC1.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "OR",
+        "parkCode": "joda",
+        "designation": "National Monument",
+        "fullName": "John Day Fossil Beds National Monument",
+        "url": "https://www.nps.gov/joda/index.htm",
+        "name": "John Day Fossil Beds"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [],
+    "latitude": "44.55539069374525",
+    "longitude": "-119.64491665363312",
+    "latLong": "44.55539069374525,-119.64491665363312",
+    "bodyText": "The basic structure of the ranch complex that you see today was established by Floyd Officer. The 1862 Homestead Act enabled people to obtain 160 acres by living on the land in a habitable dwelling for five years and cultivating the land. Floyd worked the land for seven years and successfully filed on the homestead in 1898. That same year, Floyd married Sylvia Fitzgerald. Together they raised eight children on this remote homestead. The isolated ranch was almost completely self-sufficient. Floyd traveled to The Dalles or Heppner twice a year for supplies such as flour, sugar, salt, and construction materials. These trips were made by wagon and often lasted up to six weeks.",
+    "audioDescription": "",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "",
+    "isManagedByNps": "1",
+    "amenities": [],
+    "managedByOrg": "",
+    "quickFacts": [
+      {
+        "id": "5C252B96-2DEB-4EF4-91D1-B5D2B202FCD7",
+        "value": "Cant Ranch Historic District",
+        "name": "Location"
+      },
+      {
+        "id": "208F1B3C-44DC-4CF5-9A61-9B26A364D701",
+        "value": "The 1862 Homestead Act made it possible for Floyd Officer to establish a homestead.",
+        "name": "Significance"
+      }
+    ],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  },
+  {
+    "id": "EBC06523-8699-4840-928A-6A84FB179391",
+    "url": "https://www.nps.gov/places/impact-of-time.htm",
+    "title": "Impact of Time",
+    "listingDescription": "",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/2B1997CA-D1B1-D8AF-735F63AB812D824D.jpg",
+        "credit": "NPS",
+        "altText": "A corral with old farming equipment in the foreground.",
+        "title": "Impact of Time",
+        "description": "",
+        "caption": "The corral and farming equipment",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/2B1997CA-D1B1-D8AF-735F63AB812D824D.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/2B1997CA-D1B1-D8AF-735F63AB812D824D.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "OR",
+        "parkCode": "joda",
+        "designation": "National Monument",
+        "fullName": "John Day Fossil Beds National Monument",
+        "url": "https://www.nps.gov/joda/index.htm",
+        "name": "John Day Fossil Beds"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [],
+    "latitude": "44.55620488839417",
+    "longitude": "-119.6441924571991",
+    "latLong": "44.55620488839417,-119.6441924571991",
+    "bodyText": "Silent testimony to the impact of time, the shearing shed was built after a road through Picture Gorge made it possible to move wool out of this canyon. During the early years, in April, bands of sheep were trailed around Picture Gorge to a ranch near Dayville to be sheared. By 1946, falling wool prices together with the difficulty of locating skilled sheep herders led to many ranchers switching to cattle.<br /> <br /> By 1965, the Cants were producing about six hundred head of cattle annually and only a small flock of sheep were left. Jim Cant Jr. and his wife Freda operated the ranch until 1975 when the National Park Service purchased the ranch house and 878 acres to be incorporated into John Day Fossil Beds National Monument. Descendents of the Cants continue to ranch the 6,000 acres surrounding the National Monument land.<br /> <br /> Sheep and cattle have been replaced by sweeping lawns, trails and visitors. Dust and the tangy odors of livestock no longer hang in the air. Listed in the National Register of Historic Places in 1984, the turn of the century ranch house is home to a cultural history museum open select summer days and serves as headquarters for John Day Fossil Beds National Monument.<br /> <br /> Paleontologists and geologists have visited this area for more than 150 years to collect fossils and study the geology. Recognition of the area's significance led to President Gerald Ford authorizing the new monument on October 26, 1974. Three state parks formed the core of the new monument unique for the diversity of fossils and the nearly continuous record of rocks over a broad span of time. John Day Fossil Beds National Monument was formally established in 1975 consisting of three widely separated areas: the Clarno Unit, Painted Hills Unit, and Sheep Rock Unit.<br /> <br /> Serving a mission of protection, John Day Fossil Beds National Monument preserves and provides for the scientific and public understanding of the paleontological resources of the John Day region, as well as the natural, scenic, and cultural resources within the boundaries of the National Monument.",
+    "audioDescription": "",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "",
+    "isManagedByNps": "1",
+    "amenities": [],
+    "managedByOrg": "",
+    "quickFacts": [
+      {
+        "id": "5C252B96-2DEB-4EF4-91D1-B5D2B202FCD7",
+        "value": "Cant Ranch Historic District",
+        "name": "Location"
+      },
+      {
+        "id": "208F1B3C-44DC-4CF5-9A61-9B26A364D701",
+        "value": "John Day Fossil Beds preserves both scientific and cultural resources.",
+        "name": "Significance"
+      }
+    ],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  },
+  {
+    "id": "194E4990-8942-4DCD-A83E-8CC052B1DC9C",
+    "url": "https://www.nps.gov/places/living-fossils.htm",
+    "title": "Living Fossils",
+    "listingDescription": "",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/4A3DF172-A435-4673-E8DBB0925D6D227C.jpg",
+        "credit": "NPS Photo",
+        "altText": "A hackberry tree",
+        "title": "Hackberry Tree",
+        "description": "",
+        "caption": "Hackberry tree",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/4A3DF172-A435-4673-E8DBB0925D6D227C.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/4A3DF172-A435-4673-E8DBB0925D6D227C.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "OR",
+        "parkCode": "joda",
+        "designation": "National Monument",
+        "fullName": "John Day Fossil Beds National Monument",
+        "url": "https://www.nps.gov/joda/index.htm",
+        "name": "John Day Fossil Beds"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [],
+    "latitude": "44.9127614511537",
+    "longitude": "-120.41583538111354",
+    "latLong": "44.9127614511537,-120.41583538111354",
+    "bodyText": "Some plant species from the Clarno Assemblage were resilient enough and adapted to survive millions of years of climate fluctuations and volcanic eruptions. Netleaf Hackberry trees (Celtis reticulata) are examples of “living fossils”, because they’ve avoided extinction while remaining relatively unchanged for millions of years.",
+    "audioDescription": "",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "",
+    "isManagedByNps": "1",
+    "amenities": [
+      "Benches/Seating",
+      "Historical/Interpretive Information/Exhibits",
+      "Pets Allowed",
+      "Scenic View/Photo Spot"
+    ],
+    "managedByOrg": "",
+    "quickFacts": [],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  },
+  {
+    "id": "91DD2B44-8D27-422F-A0F1-82CB0CAAC073",
+    "url": "https://www.nps.gov/places/mascall-formation-overlook.htm",
+    "title": "Mascall Formation Overlook",
+    "listingDescription": "",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/27BEA2F8-0EAB-6312-0725993817CC707B.jpg",
+        "credit": "NPS Photo",
+        "altText": "Tan volcanic formation viewed from above that sits in a valley with shrubs and plateaus",
+        "title": "Mascall Formation",
+        "description": "",
+        "caption": "Mascall Formation",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/27BEA2F8-0EAB-6312-0725993817CC707B.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/27BEA2F8-0EAB-6312-0725993817CC707B.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "OR",
+        "parkCode": "joda",
+        "designation": "National Monument",
+        "fullName": "John Day Fossil Beds National Monument",
+        "url": "https://www.nps.gov/joda/index.htm",
+        "name": "John Day Fossil Beds"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [],
+    "latitude": "44.500236",
+    "longitude": "-119.621838",
+    "latLong": "44.500236,-119.621838",
+    "bodyText": "<strong>Mascall Formation Overlook (430 feet round trip)</strong> Sweeping views of the John Day Valley and Picture Gorge can be seen from the overlook. Informational brochures, picnic tables, and pit toilets are located here as well. <h4>Mascall Formation</h4> The rocks of the Mascall Formation were laid down in a series of wide, level basins following a ferocious volcanic period 15 million years ago. The Mascall landscape consisted of several broad basins with lakes and meandering streams that formed atop the last of the Picture Gorge Basalt flows.<br /> <br /> These deposits were subsequently covered by successive falls of ash from volcanoes to the west and from the much closer Strawberry volcanics to the east. Alternating between the <strong>tuffs</strong> (consolidated volcanic ash) are layers of ancient soils and stream deposits that provide evidence of a dynamic floodplain. Many of the vertebrate fossils from the Mascall formation are found in close association with a prominent layer, the 15 million-year-old “Mascall Tuff.”<br />   <h4>Changing Climates</h4> Although dramatic fluctuations in the global climate and regional volcanic activity continued, there were enough phases of moderate climate with ample rainfall and fertile soil to allow the growth of lush grasses and mixed hardwood forests. This savanna-like landscape was characterized by broad, level floodplains with scattered lakes.",
+    "audioDescription": "Mascall Formation Overlook (430 feet round trip) includes sweeping views of the John Day Valley and Picture Gorge. There is a short trail leading to a scenic view of the formation. Informational brochures, picnic tables, and pit toilets are located here.",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "",
+    "isManagedByNps": "1",
+    "amenities": [
+      "Benches/Seating",
+      "Historical/Interpretive Information/Exhibits",
+      "Information",
+      "Information - Maps Available",
+      "Parking - Auto",
+      "Parking - Bus/RV",
+      "Picnic Table",
+      "Scenic View/Photo Spot",
+      "Toilet - Vault/Composting",
+      "Trailhead",
+      "Trash/Litter Receptacles"
+    ],
+    "managedByOrg": "",
+    "quickFacts": [
+      {
+        "id": "5C252B96-2DEB-4EF4-91D1-B5D2B202FCD7",
+        "value": "Sheep Rock Unit",
+        "name": "Location"
+      },
+      {
+        "id": "208F1B3C-44DC-4CF5-9A61-9B26A364D701",
+        "value": "Scenic view of 16 million year old formations. Informational brochures, picnic tables, and pit toilets are located here as well.",
+        "name": "Significance"
+      }
+    ],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  },
+  {
+    "id": "183CF366-F5D0-41FC-AAFB-ECC217D99572",
+    "url": "https://www.nps.gov/places/new-discoveries.htm",
+    "title": "New Discoveries",
+    "listingDescription": "",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/4A23B2BD-A447-7DB1-EFC8D5ED6E950D32.jpg",
+        "credit": "NPS Photo",
+        "altText": "Boulders surrounded by bunchgrasses",
+        "title": "Boulders along Clarno Arch Trail",
+        "description": "",
+        "caption": "Rockfalls in the Clarno Unit can lead to new fossil discoveries.",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/4A23B2BD-A447-7DB1-EFC8D5ED6E950D32.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/4A23B2BD-A447-7DB1-EFC8D5ED6E950D32.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "OR",
+        "parkCode": "joda",
+        "designation": "National Monument",
+        "fullName": "John Day Fossil Beds National Monument",
+        "url": "https://www.nps.gov/joda/index.htm",
+        "name": "John Day Fossil Beds"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [],
+    "latitude": "44.911876279897584",
+    "longitude": "-120.41634321177298",
+    "latLong": "44.911876279897584,-120.41634321177298",
+    "bodyText": "Erosion caused numerous rockfalls that revealed new pages in the Clarno Nut Beds storyline on the surfaces of the boulders all around you. Paleontologists at the Monument use the effects of erosion to find new fossils on the surface instead of digging for them. Discovering these fossils allowed paleontologists to piece together the events that formed the Palisades.",
+    "audioDescription": "",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "",
+    "isManagedByNps": "1",
+    "amenities": [
+      "Pets Allowed",
+      "Scenic View/Photo Spot"
+    ],
+    "managedByOrg": "",
+    "quickFacts": [],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  },
+  {
+    "id": "5B4A3979-A8A5-4787-AA55-4BDACDBC49E6",
+    "url": "https://www.nps.gov/places/painted-hills-picnic-area.htm",
+    "title": "Painted Hills Picnic Area",
+    "listingDescription": "",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/03DE3621-EA8A-AD2B-22ADD6F9FED65A45.jpg",
+        "credit": "NPS Photo",
+        "altText": "Grassy area behind a 6 inch high wooden fence with a picnic table and trees.",
+        "title": "Painted Hills Picnic Area",
+        "description": "",
+        "caption": "Painted Hills Picnic Area",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/03DE3621-EA8A-AD2B-22ADD6F9FED65A45.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/03DE3621-EA8A-AD2B-22ADD6F9FED65A45.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "OR",
+        "parkCode": "joda",
+        "designation": "National Monument",
+        "fullName": "John Day Fossil Beds National Monument",
+        "url": "https://www.nps.gov/joda/index.htm",
+        "name": "John Day Fossil Beds"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [],
+    "latitude": "44.6539644414",
+    "longitude": "-120.2520904536",
+    "latLong": "44.6539644414,-120.2520904536",
+    "bodyText": "The Painted Hills Picnic Area contains numerous picnic tables and grassy area for a picnic. Remember to #LeaveNoTrace! Park brochures are available at the kiosk along with informational bulletins. Pit toilets are located in this area as well. Free WiFi is provided by our park partner Discover Your Northwest.",
+    "audioDescription": "A grassy area with picnic tables and a path leading to a shaded pavilion with a picnic table. Pit toilets are available at the edge of the parking area. A small kiosk with informational bulletins and brochures is in the center of the picnic area.",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "",
+    "isManagedByNps": "1",
+    "amenities": [
+      "Accessible Sites",
+      "Automated External Defibrillator (AED)",
+      "Fire Extinguisher",
+      "First Aid Kit Available",
+      "Historical/Interpretive Information/Exhibits",
+      "Information - Maps Available",
+      "Information Kiosk/Bulletin Board",
+      "Internet/WiFi Available",
+      "Parking - Auto",
+      "Parking - Bus/RV",
+      "Picnic Shelter/Pavilion",
+      "Picnic Table",
+      "Toilet - Vault/Composting",
+      "Trash/Litter Receptacles"
+    ],
+    "managedByOrg": "",
+    "quickFacts": [
+      {
+        "id": "5C252B96-2DEB-4EF4-91D1-B5D2B202FCD7",
+        "value": "Painted Hills Unit",
+        "name": "Location"
+      },
+      {
+        "id": "208F1B3C-44DC-4CF5-9A61-9B26A364D701",
+        "value": "Restrooms, picnic tables, trash receptacles, and informational bulletins and brochures",
+        "name": "Significance"
+      }
+    ],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  },
+  {
+    "id": "3F0D4934-2675-43D6-8DB7-D211F267C373",
+    "url": "https://www.nps.gov/places/ranching-life-and-business.htm",
+    "title": "Ranching: Life and Business",
+    "listingDescription": "",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/2A770FDA-E5C4-6B55-C2ECC14B061D58D3.jpg",
+        "credit": "NPS",
+        "altText": "A small log shed near old farm equipment on barren ground.",
+        "title": "Ranching: Life and Business",
+        "description": "",
+        "caption": "A wooden shed and old farm equipment near the barn.",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/2A770FDA-E5C4-6B55-C2ECC14B061D58D3.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/2A770FDA-E5C4-6B55-C2ECC14B061D58D3.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "OR",
+        "parkCode": "joda",
+        "designation": "National Monument",
+        "fullName": "John Day Fossil Beds National Monument",
+        "url": "https://www.nps.gov/joda/index.htm",
+        "name": "John Day Fossil Beds"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [],
+    "latitude": "44.55605581135266",
+    "longitude": "-119.64396715164185",
+    "latLong": "44.55605581135266,-119.64396715164185",
+    "bodyText": "The barn and corrals were the hub of ranch business. Standing quiet now, this area was once filled with hundreds of bleating sheep or later, bellowing cattle.<br /> <br /> For more than thirty years, this ranch was driven by the intensive process of raising sheep. Each season of the year followed a pattern. Fall brought the main band back to the ranch from summer pastures, and winter months involved feeding and watching over the sheep. By March, all hands and family members were busy with lambing. Sheep shearing started in April, when crews sheared over 2,400 head of sheep. Ewes and lambs were moved out to summer pastures in early May. Herders spent the summer alone with the sheep in the mountains, a job many ranch children looked forward to.",
+    "audioDescription": "",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "",
+    "isManagedByNps": "1",
+    "amenities": [],
+    "managedByOrg": "",
+    "quickFacts": [
+      {
+        "id": "5C252B96-2DEB-4EF4-91D1-B5D2B202FCD7",
+        "value": "Cant Ranch Historic District",
+        "name": "Location"
+      },
+      {
+        "id": "208F1B3C-44DC-4CF5-9A61-9B26A364D701",
+        "value": "The barn and corrals were the hub of ranch business.",
+        "name": "Significance"
+      }
+    ],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  },
+  {
+    "id": "601A772E-441C-4B77-A60B-9B9882BFC9EA",
+    "url": "https://www.nps.gov/places/standing-sentinel.htm",
+    "title": "Standing Sentinel",
+    "listingDescription": "",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/21455A19-D0E7-1DD9-27DA23E91E539896.jpg",
+        "credit": "NPS",
+        "altText": "Looking across the yard at the entrance of the Cant Ranch home.",
+        "title": "Standing Sentinel",
+        "description": "",
+        "caption": "Various trees grown around the Cant Ranch home.",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/21455A19-D0E7-1DD9-27DA23E91E539896.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/21455A19-D0E7-1DD9-27DA23E91E539896.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "OR",
+        "parkCode": "joda",
+        "designation": "National Monument",
+        "fullName": "John Day Fossil Beds National Monument",
+        "url": "https://www.nps.gov/joda/index.htm",
+        "name": "John Day Fossil Beds"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [],
+    "latitude": "44.55504284185401",
+    "longitude": "-119.64495420455933",
+    "latLong": "44.55504284185401,-119.64495420455933",
+    "bodyText": "The Officers cleared land for fields, established a garden, and planted a fruit orchard. They hand dug an irrigation ditch originating on Rock Creek at its confluence with the John Day River, more than two miles to the south of the homestead. The ditch wound in and out of draws and around foothills, so a sixteen-foot 2x4 with a level was used to maintain the necessary grade to keep the water moving to the fields.<br />   <h4>The Cants</h4> With just $25 in his pocket, James Cant immigrated to America in 1905. he worked for the Murray Ranch in the Dayville area, taking half his wages in lambs each year so he could put together his own band of sheep. By 1907, James had saved enough money to send to Scotland for his sweetheart, Elizabeth Grant.<br /> <br /> One wonders at the thoughts Lizzie must have had when she received the letter from James asking her to join him in Oregon. Lizzie's decision to come here meant leaving the only home she knew for an unknown and rugged place far away from family and friends, but also the beginning of a new life with the man she loved.<br /> <br /> James married Elizabeth Grant in 1908. Capturing that moment in time, Lizzie penned a note on the back of their wedding photo \"<em>it was the Start twords the happyest days of our Lives\".</em><br /> <br /> James purchased the 677 acre Officer Ranch, with water rights, one band of 1200 sheep, and some cattle, all for $6,900. James and Lizzie settled into the isolated two bedroom ranch house with their one-year old son and started the business of sheep ranching. Travel to the homestead was difficult as there was still no road through Picture Gorge until 1920. <h3> </h3> <h4> </h4>",
+    "audioDescription": "",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "",
+    "isManagedByNps": "1",
+    "amenities": [],
+    "managedByOrg": "",
+    "quickFacts": [
+      {
+        "id": "5C252B96-2DEB-4EF4-91D1-B5D2B202FCD7",
+        "value": "Cant Ranch Historic District",
+        "name": "Location"
+      },
+      {
+        "id": "208F1B3C-44DC-4CF5-9A61-9B26A364D701",
+        "value": "James and Elizabeth Cant starting a new life in Oregon.",
+        "name": "Significance"
+      }
+    ],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  },
+  {
+    "id": "AD26286D-5F16-4273-ADEB-72C201EF13D0",
+    "url": "https://www.nps.gov/places/the-titanic-effort-of-moving-water.htm",
+    "title": "The Titanic Effort of Moving Water",
+    "listingDescription": "",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/2A29BDD6-967B-80D7-693BE880238C8BAD.jpg",
+        "credit": "NPS",
+        "altText": "A gravel patch through a grassy area.",
+        "title": "The Titanic Effort of Moving Water",
+        "description": "",
+        "caption": "A view along the River Trail.",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/2A29BDD6-967B-80D7-693BE880238C8BAD.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/2A29BDD6-967B-80D7-693BE880238C8BAD.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "OR",
+        "parkCode": "joda",
+        "designation": "National Monument",
+        "fullName": "John Day Fossil Beds National Monument",
+        "url": "https://www.nps.gov/joda/index.htm",
+        "name": "John Day Fossil Beds"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [],
+    "latitude": "44.555470966963334",
+    "longitude": "-119.64365601539612",
+    "latLong": "44.555470966963334,-119.64365601539612",
+    "bodyText": "The Rock Creek irrigation ditch, constructed by the Officer family between 1885 and 1904, runs through the lower orchard and along the near edge of the field.<br /> <br /> In 1912, the Cants built another irrigation ditch on the far side of the river. Named the \"Titanic Ditch\" to commemorate the sinking of the <em>Titanic,</em> this ditch originated two miles to the south at the confluence of Rock Creek and the John Day River. The new water rights associated with this ditch allowed an additional 73 acres of land to be put into cultivation.<br /> <br /> Two men were hired to maintain the irrigation ditches on both sides of the river. This was a time consuming job that required constant work throughout the year as flash floods and spring runoff repeatedly filled ditches with debris. Water flowing along the irrigation ditches had to be continually moved through small lateral ditches across fields for crops.",
+    "audioDescription": "",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "",
+    "isManagedByNps": "1",
+    "amenities": [],
+    "managedByOrg": "",
+    "quickFacts": [
+      {
+        "id": "5C252B96-2DEB-4EF4-91D1-B5D2B202FCD7",
+        "value": "Cant Ranch Historic District",
+        "name": "Location"
+      },
+      {
+        "id": "208F1B3C-44DC-4CF5-9A61-9B26A364D701",
+        "value": "An additional irrigation ditch allowed for more land to be cultivated at the ranch.",
+        "name": "Significance"
+      }
+    ],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  },
+  {
+    "id": "33E4BFEF-18B3-4D0C-BCB1-DBBC5C089679",
+    "url": "https://www.nps.gov/places/what-have-you-discovered.htm",
+    "title": "What Have You Discovered?",
+    "listingDescription": "",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/4A69A074-B1A8-C404-D39BAA74012D658C.jpg",
+        "credit": "NPS Photo",
+        "altText": "A view of layered mudflow cliff formations above a valley.",
+        "title": "End of Clarno Arch Trail",
+        "description": "",
+        "caption": "Viewpoint from the end of the Arch Trail",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/4A69A074-B1A8-C404-D39BAA74012D658C.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/4A69A074-B1A8-C404-D39BAA74012D658C.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "OR",
+        "parkCode": "joda",
+        "designation": "National Monument",
+        "fullName": "John Day Fossil Beds National Monument",
+        "url": "https://www.nps.gov/joda/index.htm",
+        "name": "John Day Fossil Beds"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [],
+    "latitude": "44.91284249626021",
+    "longitude": "-120.4155600071499",
+    "latLong": "44.91284249626021,-120.4155600071499",
+    "bodyText": "The Palisades are more than just tan cliff formations! The Clarno Unit is an important paleontological resource that inspires wonder and discovery of Oregon’s semi-tropical past for present and future generations. What were you hoping to discover while walking the Arch Trail? Were you seeking a stronger understanding of Clarno’s unapparent, turbulent history? Perhaps you simply needed a quiet space with a view. Whatever your reason was for hiking the Arch Trail, now you may have a greater appreciation for the role John Day Fossil Beds National Monument serves to preserve these valuable resources. As a visitor, you can help us preserve these important resources by staying on trail and leaving the fossils in their resting place for the next hikers to enjoy!",
+    "audioDescription": "",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "",
+    "isManagedByNps": "1",
+    "amenities": [
+      "Benches/Seating",
+      "Scenic View/Photo Spot"
+    ],
+    "managedByOrg": "",
+    "quickFacts": [],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  }
+]

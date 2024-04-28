@@ -1,0 +1,20 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.6964892,
+          34.989226
+        ]
+      },
+      "properties": {
+        "name": "Gutiérrez-Hubbell House",
+        "notes": "Gutiérrez-Hubbell House\nhttps://www.nps.gov/places/gutierrez-hubbell-house.htm\n\n<p>Located along El Camino Real, the oldest continuously used European roadway in North America, this property is listed on the New Mexico Register of Cultural Properties and the National Register of Historic Places. Its name comes from the family who built it in the years following the Civil War. It was originally the private residence, built in 1868, of James L. (Santiago) Hubbell, a merchant and trader; his wife Julianita Gutierrez-Hubbell; and their twelve children, all of whom were born in the house. Lorenzo, the third child, followed his father's trade and established the well-known <a href=\"https://www.nps.gov/hutr/index.htm\">Hubbell Trading Post</a> in Ganado, Arizona (on the Navajo Indian Reservation), a historic site that is now managed by the National Park Service. The Gutierrez-Hubbell house later served as a trading post, a stagecoach stop, and the local post office. This 5,700-foot, 150-year-old adobe hacienda features 28-inch-thick walls and 10-foot ceilings with pine vigas.</p> <h2>Site Information</h2> <p><strong>Location </strong>(6029 Isleta Blvd. SW, Albuquerque, New Mexico)<br /> <br /> <strong>Available Facilities </strong><br /> The property consists of the main house, which is surrounded by 10 acres of cultivated farmland. It is part of a 1500-acre Bernalillo County open space network and is one of several public open space sites in the South Valley. It serves as the centerpiece of the Pajarito community and is a natural focal point for community building and area pride. The property offers a variety of community events including a composting facility, backyard farming, a master naturalist program, history internships, and natural history observation opportunities.<br /> <em><a href=\"https://www.nps.gov/elca/planyourvisit/safety.htm\">Safety Considerations</a></em></p> <h3><a href=\"http://gutierrezhubbellhouse.org/\">More Site Information</a></h3> <h2><a href=\"https://www.nps.gov/elca/index.htm\">El Camino Real de Tierra Adentro National Historic Trail</a></h2> <h2><a href=\"https://www.nps.gov/hutr/index.htm\">Hubbell Trading Post National Historic Site</a> </h2> <p> </p>",
+        "icon": "red-pin-down.png"
+      }
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+[
+  {
+    "id": "8BEC0A54-F384-4B8D-A1F4-7A64FCFD1698",
+    "url": "https://www.nps.gov/places/great-egg-harbor-river.htm",
+    "title": "Great Egg Harbor River",
+    "listingDescription": "Nearly all of the Great Egg Harbor River system lies within an area of more than one million acres traditionally known as the Pine Barrens. The Great Egg Harbor River was studied and designated into the National Wild and Scenic Rivers System in 1992 based on its outstandingly remarkable cultural, historic, recreational and natural resource values and became a cooperatively-managed unit of the National Park System.",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/place/nri/20180801/places/9B1CB833-CB86-0E10-55B4BF6E9CEA874C/9B1CB833-CB86-0E10-55B4BF6E9CEA874C.jpg",
+        "credit": "National Park Service",
+        "altText": "A patchy white birch tree. Smooth waters and lush green leaves seen through the branches.",
+        "title": "",
+        "description": "",
+        "caption": "Dark waters, subtle shades of spring green, and lazy summer days can be found along the river.",
+        "crops": []
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "NJ",
+        "parkCode": "greg",
+        "designation": "",
+        "fullName": "Great Egg Harbor River",
+        "url": "https://www.nps.gov/greg/index.htm",
+        "name": "Great Egg Harbor River"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [
+      "National Rivers",
+      "scenic river",
+      "Great Egg Harbor",
+      "Find Your Park",
+      "recreational river"
+    ],
+    "latitude": "39.4499778747559",
+    "longitude": "-74.7218170166016",
+    "latLong": "39.4499778747559,-74.7218170166016",
+    "bodyText": "<p>The Great Egg Harbor River begins in suburban towns and meanders for 59 miles, draining 304 square miles of pristine wetlands in the heart of New Jersey's Pinelands Reserve (the famous \"Pine Barrens\") on its way to the Atlantic Ocean. Known locally as the \"Great Egg,\" the river is close to Philadelphia, Pennsylvania; Trenton and Camden, New Jersey; and Wilmington, Delaware.<br /> <br /> Starting as a trickle near Berlin, NJ, the River gradually widens as it picks up the waters of 17 tributaries on its way to Great Egg Harbor and the Atlantic Ocean. Established by Congress in 1992, nearly all of this 129-mile river system rests within the <a href=\"https://www.nps.gov/places/new-jersey-pinelands-national-reserve.htm\">Pinelands National Reserve</a>. This National Park Service unit is unusual in that local jurisdictions continue to administer the lands.</p> <p>Two key ingredients make up this largely undeveloped landscape: sand and water. The sand, deposited by an ancient river more than 20 million years ago, is morte than 95% silica. The water quickly seeps through the layers of sand and beds of gravel to form one of North America's largest inderground reservoirs, or aquifers, jolding 17 trillion gallons of fresh, drinkable water.<br />  </p> <p>Natural vegetation in the Pinelands varies with moisture and elevation. In the dry uplands, vegetation consists of pitch pine and scrub oak with an understory of blueberry and huckleberry. In the lowlands, red maple and tupelo trees dominate, with blueberry, sweetbay, magnolia, holly, sweet pepperbush and swamp azaleas fill in along the waterways.<br /> <br /> Backpacking, biking, bird watching, boating, camping, fishing, hiking, hunting, kayaking, nature walks, stargazing, and wildlife viewing can all be enjoyed along the banks of this unique system.<br /> <br /> <strong>Classification/Mileage:</strong><br /> Scenic — 30.6 miles; Recreational — 98.4 miles; Total — 129.0 miles.</p>",
+    "audioDescription": "",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "http://www.gehwa.org/",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "",
+    "isManagedByNps": "0",
+    "amenities": [],
+    "managedByOrg": "Great Egg Harbor Watershed Association",
+    "quickFacts": [
+      {
+        "id": "5C252B96-2DEB-4EF4-91D1-B5D2B202FCD7",
+        "value": "New Jersey",
+        "name": "Location"
+      },
+      {
+        "id": "208F1B3C-44DC-4CF5-9A61-9B26A364D701",
+        "value": "Nearly all of the Great Egg Harbor River system lies within an area of more than one million acres traditionally known as the Pine Barrens.",
+        "name": "Significance"
+      },
+      {
+        "id": "E32D2136-A184-4C1A-91D2-4C20CEF9CBAF",
+        "value": "National Scenic & Recreational River",
+        "name": "Designation"
+      }
+    ],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  }
+]

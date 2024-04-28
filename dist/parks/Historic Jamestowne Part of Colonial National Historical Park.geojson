@@ -1,0 +1,20 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.78416776678932,
+          37.22110237319116
+        ]
+      },
+      "properties": {
+        "name": "Glasshouse",
+        "notes": "Glasshouse\nhttps://www.nps.gov/places/glasshouse.htm\n\nAt \"glass point\" near Jamestown, the glass furnaces were re-discovered and excavated in 1948. Today, in a reconstructed, interpretive facility, glassblowing is again performed at Jamestown. Modern artisans, in reproductive clothing, produce common glass objects very much as they must have done almost 400 years ago.<br /> <br /> Visitors can see the remains of the original furnaces used by those early glassblowers and watch as modern glassblowers produce wine bottles, pitchers, candleholders and various other glass objects. Today's glass furnaces are heated by natural gas, rather than by wood as in 1608. Glassblowers, however, use tools and methods similar to those of the 17th century.Come witness what was surely one of England's first industries in North America. You will be mesmerized as artisans form glass into useful household products. Many of these treasures can be purchased through our sales outlet at the Glasshouse.",
+        "icon": "red-pin-down.png"
+      }
+    }
+  ]
+}

@@ -1,0 +1,620 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.908776513,
+          38.42312614
+        ]
+      },
+      "properties": {
+        "name": "Alcove Spring Trail",
+        "notes": "Alcove Spring Trail\nhttps://www.nps.gov/places/alcove-spring-trail.htm\n\n<p>After descending 1,300 feet (396 m) past a large alcove, the trail meanders in a wide canyon to the base of the notable Moses and Zeus towers. </p> <ul> <li> <p><strong>Roundtrip Distance</strong>: 11.2 mi (18 km)</p> </li> <li> <p><strong style=\"color: rgb(85, 85, 85); font-family: Arial, sans-serif; font-size: 16px;\">Time</strong><span style=\"color: rgb(85, 85, 85); font-family: Arial, sans-serif; font-size: 16px;\">: 6-7 hrs</span></p> </li> <li> <p><strong style=\"color: rgb(85, 85, 85); font-family: Arial, sans-serif; font-size: 16px;\">Elevation Change</strong><span style=\"color: rgb(85, 85, 85); font-family: Arial, sans-serif; font-size: 16px;\">: 1,455 ft (444 m)</span></p> </li> <li> <p><strong style=\"color: rgb(85, 85, 85); font-family: Arial, sans-serif; font-size: 16px;\">Difficulty</strong><span style=\"color: rgb(85, 85, 85); font-family: Arial, sans-serif; font-size: 16px;\">: Strenuous – Mesa Top to White Rim</span></p> </li> <li> <p><strong style=\"color: rgb(85, 85, 85); font-family: Arial, sans-serif; font-size: 16px;\">Hike Description</strong><span style=\"color: rgb(85, 85, 85); font-family: Arial, sans-serif; font-size: 16px;\">: After descending 1,400 ft (4276 m) past a large alcove, the trail meanders in a wide canyon to the base of the notable Moses and Zeus towers.</span></p> </li> <li> <p><strong style=\"color: rgb(85, 85, 85); font-family: Arial, sans-serif; font-size: 16px;\">Bring</strong><span style=\"color: rgb(85, 85, 85); font-family: Arial, sans-serif; font-size: 16px;\">: Water (1 L per person, per hour), snacks, sturdy footwear, headlamp, map, and be prepared for, sun, rain, heat, or cold.</span></p> </li> <li> <p><strong style=\"color: rgb(85, 85, 85); font-family: Arial, sans-serif; font-size: 16px;\">Accessibility</strong><span style=\"color: rgb(85, 85, 85); font-family: Arial, sans-serif; font-size: 16px;\">: This trail can be rough, uneven, and requires walking up and down a rocky hill and stone steps. It is not accessible to wheelchairs. In winter, there may be snow or icy conditions; we recommend traction devices for hikers.</span></p> </li> <li> <p><span style=\"color: rgb(85, 85, 85); font-family: Arial, sans-serif; font-size: 16px;\"><strong>Dogs are not allowed on this trail</strong>. Service animals are allowed in national parks. </span><a href=\"https://cms.nps.gov/planyourvisit/service-animals.htm\">What is a service animal?</a><span style=\"color: rgb(85, 85, 85); font-family: Arial, sans-serif; font-size: 16px;\"> </span></p> </li> </ul>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.882044684,
+          38.393500646
+        ]
+      },
+      "properties": {
+        "name": "Aztec Butte Trail",
+        "notes": "Aztec Butte Trail\nhttps://www.nps.gov/places/aztec-butte-trail.htm\n\n<p paraeid=\"{6586b1d3-5177-47f9-8426-e7e98ddba119}{68}\" paraid=\"308520971\">Indigenous people once stored foods and medicines in rock structures, called granaries, built into alcoves here. Despite the current name, they were not part of the Aztec civilization. <em>Do not touch or enter the extremely fragile ancient structures.</em></p> <ul role=\"list\"> <li paraeid=\"{6586b1d3-5177-47f9-8426-e7e98ddba119}{68}\" paraid=\"308520971\"><strong>Roundtrip Distance</strong>: 1.4 mi (2.3 km) </li> <li aria-setsize=\"-1\" data-aria-level=\"5\" data-aria-posinset=\"53\" data-font=\"Courier New\" data-leveltext=\"o\" data-listid=\"4\" role=\"listitem\"> <p paraeid=\"{6586b1d3-5177-47f9-8426-e7e98ddba119}{71}\" paraid=\"1737025540\"><strong>Time</strong>: 1.5 hrs </p> </li> <li aria-setsize=\"-1\" data-aria-level=\"5\" data-aria-posinset=\"54\" data-font=\"Courier New\" data-leveltext=\"o\" data-listid=\"4\" role=\"listitem\"> <p paraeid=\"{6586b1d3-5177-47f9-8426-e7e98ddba119}{74}\" paraid=\"1626783381\"><strong>Elevation Change</strong>: 222 ft (68 m) </p> </li> <li aria-setsize=\"-1\" data-aria-level=\"5\" data-aria-posinset=\"55\" data-font=\"Courier New\" data-leveltext=\"o\" data-listid=\"4\" role=\"listitem\"> <p paraeid=\"{6586b1d3-5177-47f9-8426-e7e98ddba119}{77}\" paraid=\"677485685\"><strong>Difficulty</strong>: Moderate – Mesa Top </p> </li> <li aria-setsize=\"-1\" data-aria-level=\"5\" data-aria-posinset=\"56\" data-font=\"Courier New\" data-leveltext=\"o\" data-listid=\"4\" role=\"listitem\"> <p paraeid=\"{6586b1d3-5177-47f9-8426-e7e98ddba119}{80}\" paraid=\"1277110565\"><strong>Hike Description</strong>: The trail follows a sandy wash, then splits. The eastern fork to your right ascends Aztec Butte for spectacular views. The western fork on the left climbs the smaller butte then drops below the rim to two granaries. Both trails require scrambling up slickrock and ledges. Entering, touching, or climbing on archeological sites is strictly prohibited. View structures from a distance to protect fragile walls.  </p> </li> <li aria-setsize=\"-1\" data-aria-level=\"5\" data-aria-posinset=\"57\" data-font=\"Courier New\" data-leveltext=\"o\" data-listid=\"4\" role=\"listitem\"> <p paraeid=\"{6586b1d3-5177-47f9-8426-e7e98ddba119}{83}\" paraid=\"1363910551\"><strong>Accessibility</strong>: This trail can be rough, uneven, and requires walking up and down a rocky hill and stone steps. It is not accessible to wheelchairs. In winter, there may be snow or icy conditions; we recommend traction devices for hikers. </p> </li> <li aria-setsize=\"-1\" data-aria-level=\"5\" data-aria-posinset=\"58\" data-font=\"Courier New\" data-leveltext=\"o\" data-listid=\"4\" role=\"listitem\"> <p paraeid=\"{6586b1d3-5177-47f9-8426-e7e98ddba119}{87}\" paraid=\"1527760529\">Dogs are not allowed on this trail. Service animals are allowed in national parks. <a href=\"https://cms.nps.gov/planyourvisit/service-animals.htm\">What is a service animal?</a> </p> </li> </ul>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.8169374,
+          38.1782154
+        ]
+      },
+      "properties": {
+        "name": "Big Spring Canyon Overlook and Trailhead",
+        "notes": "Big Spring Canyon Overlook and Trailhead\nhttps://www.nps.gov/places/big-spring-canyon-overlook-and-trailhead.htm\n\n<h4>Overlook</h4> <p>Big Spring rests at the end of the Needles Park Road. From the overlook, unique rock spires and multi-colored sandstone benches line the bend in the canyon. The presence of the spring allows trees and plants to flourish in the spring and summer months.</p> <h4>Trailhead</h4> <p>From the overlook, follow marked cairns down to the canyon to begin the Big Spring to Elephant Hill loop, a challenging hike which spans 10.8 miles (17 km). This loop features extended hiking on slickrock benches and mesa tops overlooking canyons. There are excellent views of sheer cliff walls and other rock formations. You will have to climb two ladders in the pass between the canyons, making this a particularly strenuous hike.</p> <h4>Accessibility</h4> <p>Portions of the canyon are visible from the paved parking area. The trail into and along the rim of the overlook include slopes and rocky, uneven surfaces.</p> <h4>Parking</h4> <p>The Trailhead and overlook are located at the end of the Needles park road, approximately 6.5 mi (10.5 km) past the Needles Visitor Center. Several parking spaces at the roundabout and alongside the last section of the park road are available.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.803654,
+          38.14347449
+        ]
+      },
+      "properties": {
+        "name": "Big Spring Canyon to Elephant Canyon Loop Trail",
+        "notes": "Big Spring Canyon to Elephant Canyon Loop Trail\nhttps://www.nps.gov/places/big-spring-to-elephant-canyon-loop-trail.htm\n\n<p>This loop features extended hiking on slickrock benches and mesa tops overlooking canyons. Excellent views of sheer cliff walls and other rock formations.</p>   <ul role=\"list\"> <li aria-setsize=\"-1\" data-aria-level=\"5\" data-aria-posinset=\"1\" data-font=\"Courier New\" data-leveltext=\"o\" data-listid=\"4\" role=\"listitem\"> <p paraeid=\"{863dbba9-92a9-4926-86c7-97eb2e14b853}{150}\" paraid=\"1792760086\"><strong>Roundtrip Distance</strong>: 10.5 mi (16.9 km) </p> </li> <li aria-setsize=\"-1\" data-aria-level=\"5\" data-aria-posinset=\"2\" data-font=\"Courier New\" data-leveltext=\"o\" data-listid=\"4\" role=\"listitem\"> <p paraeid=\"{863dbba9-92a9-4926-86c7-97eb2e14b853}{159}\" paraid=\"1110728402\"><strong>Time</strong>: 4-6 hrs  </p> </li> </ul> <ul role=\"list\"> <li aria-setsize=\"-1\" data-aria-level=\"5\" data-aria-posinset=\"1\" data-font=\"Courier New\" data-leveltext=\"o\" data-listid=\"4\" role=\"listitem\"> <p paraeid=\"{863dbba9-92a9-4926-86c7-97eb2e14b853}{172}\" paraid=\"422829055\"><strong>Overall Elevation Change</strong>: 443ft (135m) <br /> <em>Cumulative elevation gain on this route is much greater. </em></p> </li> <li aria-setsize=\"-1\" data-aria-level=\"5\" data-aria-posinset=\"2\" data-font=\"Courier New\" data-leveltext=\"o\" data-listid=\"4\" role=\"listitem\"> <p paraeid=\"{863dbba9-92a9-4926-86c7-97eb2e14b853}{181}\" paraid=\"1904918403\"><strong>Difficulty</strong>: Strenuous </p> </li> <li aria-setsize=\"-1\" data-aria-level=\"5\" data-aria-posinset=\"3\" data-font=\"Courier New\" data-leveltext=\"o\" data-listid=\"4\" role=\"listitem\"> <p paraeid=\"{863dbba9-92a9-4926-86c7-97eb2e14b853}{190}\" paraid=\"1570864325\"><strong>Hike Description</strong>: You will have to climb two ladders in the pass between the canyons.  </p> </li> <li aria-setsize=\"-1\" data-aria-level=\"5\" data-aria-posinset=\"4\" data-font=\"Courier New\" data-leveltext=\"o\" data-listid=\"4\" role=\"listitem\"> <p paraeid=\"{863dbba9-92a9-4926-86c7-97eb2e14b853}{199}\" paraid=\"614746361\"><strong>Bring</strong>: Water (at least 1 L per person, per hour), snacks, sturdy footwear, headlamp, map, and be prepared for, sun, rain, heat, or cold. </p> </li> <li aria-setsize=\"-1\" data-aria-level=\"5\" data-aria-posinset=\"5\" data-font=\"Courier New\" data-leveltext=\"o\" data-listid=\"4\" role=\"listitem\"> <p paraeid=\"{863dbba9-92a9-4926-86c7-97eb2e14b853}{208}\" paraid=\"422259802\"><strong>Accessibility</strong>: This trail can be rough, uneven, and requires climbing two ladders. It is not accessible to wheelchairs. In winter, there may be snow or icy conditions; we recommend traction devices for hikers. </p> </li> </ul> <ul role=\"list\"> <li aria-setsize=\"-1\" data-aria-level=\"5\" data-aria-posinset=\"1\" data-font=\"Courier New\" data-leveltext=\"o\" data-listid=\"4\" role=\"listitem\"> <p paraeid=\"{863dbba9-92a9-4926-86c7-97eb2e14b853}{221}\" paraid=\"1092500356\">Dogs are not allowed on this trail. Service animals are allowed in national parks. <a href=\"https://cms.nps.gov/planyourvisit/service-animals.htm\">What is a service animal?</a> </p> </li> </ul>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.803654,
+          38.14347449
+        ]
+      },
+      "properties": {
+        "name": "Big Spring Canyon to Wooden Shoe Canyon Loop Trail",
+        "notes": "Big Spring Canyon to Wooden Shoe Canyon Loop Trail\nhttps://www.nps.gov/places/big-spring-to-wooden-shoe-canyon-loop-trail.htm\n\n<p paraeid=\"{156383aa-4d02-43bf-bbf7-157c741fb3f7}{25}\" paraid=\"962957899\">A great introduction to the landscape of The Needles, this route connects two canyons for a loop across varied terrain.</p> <ul role=\"list\"> <li><strong>Roundtrip Distance</strong>: 7.5 mi (12 km) </li> <li aria-setsize=\"-1\" data-aria-level=\"5\" data-aria-posinset=\"2\" data-font=\"Courier New\" data-leveltext=\"o\" data-listid=\"4\" role=\"listitem\"> <p><strong>Time</strong>: 3-4 hrs  </p> </li> </ul> <ul role=\"list\"> <li aria-setsize=\"-1\" data-aria-level=\"5\" data-aria-posinset=\"1\" data-font=\"Courier New\" data-leveltext=\"o\" data-listid=\"4\" role=\"listitem\"> <p paraeid=\"{156383aa-4d02-43bf-bbf7-157c741fb3f7}{39}\" paraid=\"473667242\"><strong>Overall Elevation Change</strong>: 478 ft (146 m) <br /> <em>Cumulative elevation gain on this route is much greater.</em></p> </li> <li aria-setsize=\"-1\" data-aria-level=\"5\" data-aria-posinset=\"2\" data-font=\"Courier New\" data-leveltext=\"o\" data-listid=\"4\" role=\"listitem\"> <p paraeid=\"{156383aa-4d02-43bf-bbf7-157c741fb3f7}{46}\" paraid=\"2086089808\"><strong>Difficulty</strong>: Strenuous </p> </li> <li aria-setsize=\"-1\" data-aria-level=\"5\" data-aria-posinset=\"3\" data-font=\"Courier New\" data-leveltext=\"o\" data-listid=\"4\" role=\"listitem\"> <p paraeid=\"{156383aa-4d02-43bf-bbf7-157c741fb3f7}{53}\" paraid=\"1057024445\"><strong>Hike Description</strong>: The route between the canyons climbs steep grades that are dangerous when wet and may make people with a fear of heights uncomfortable.  </p> </li> <li aria-setsize=\"-1\" data-aria-level=\"5\" data-aria-posinset=\"4\" data-font=\"Courier New\" data-leveltext=\"o\" data-listid=\"4\" role=\"listitem\"> <p paraeid=\"{156383aa-4d02-43bf-bbf7-157c741fb3f7}{62}\" paraid=\"477220187\"><strong>Bring</strong>: Water (at least 1 L per person, per hour), snacks, sturdy footwear, headlamp, map, and be prepared for, sun, rain, heat, or cold. </p> </li> <li aria-setsize=\"-1\" data-aria-level=\"5\" data-aria-posinset=\"5\" data-font=\"Courier New\" data-leveltext=\"o\" data-listid=\"4\" role=\"listitem\"> <p paraeid=\"{156383aa-4d02-43bf-bbf7-157c741fb3f7}{71}\" paraid=\"1085137931\"><strong>Accessibility</strong>: This trail can be rough, uneven, and requires walking up and down a rocky hill and stone steps. It is not accessible to wheelchairs. In winter, there may be snow or icy conditions; we recommend traction devices for hikers. </p> </li> </ul> <ul role=\"list\"> <li aria-setsize=\"-1\" data-aria-level=\"5\" data-aria-posinset=\"1\" data-font=\"Courier New\" data-leveltext=\"o\" data-listid=\"4\" role=\"listitem\"> <p paraeid=\"{156383aa-4d02-43bf-bbf7-157c741fb3f7}{84}\" paraid=\"1356721401\">Dogs are not allowed on this trail. Service animals are allowed in national parks. <a href=\"https://cms.nps.gov/planyourvisit/service-animals.htm\">What is a service animal?</a></p> </li> </ul>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.860939572,
+          38.345747255
+        ]
+      },
+      "properties": {
+        "name": "Buck Canyon Overlook",
+        "notes": "Buck Canyon Overlook\nhttps://www.nps.gov/places/buck-canyon-overlook.htm\n\n<p>From a paved overlook at 6,240 feet (1,902 m) in elevation, enjoy sweeping vistas to the west and across the Colorado River canyon. </p> <h4>Accessibility:</h4> <ul> <li>A short paved walkway leads to the overlook. It is accessible to wheelchairs.</li> </ul> <h4>Parking:</h4> <ul> <li>Parking is limited. </li> </ul>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.868606,
+          38.374431
+        ]
+      },
+      "properties": {
+        "name": "Candlestick Tower Overlook",
+        "notes": "Candlestick Tower Overlook\nhttps://www.nps.gov/places/candlestick-tower-overlook.htm\n\n<p>From this small roadside pullout, enjoy sweeping views to the west, including more than one imaginatively named feature.</p> <h4>Accessibility:</h4> <ul> <li>Candlestick Tower can be viewed from your vehicle, or along the paved pullout.</li> <li>The area closer to the canyon rim is unpaved, rocky and uneven. </li> </ul> <h4>Parking:</h4> <ul> <li>Parking is limited. The paved roadside pullout can accommodate 4-5 cars at a time. </li> </ul>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.751512284,
+          38.157201742
+        ]
+      },
+      "properties": {
+        "name": "Canyonlands' Cave Spring Trail",
+        "notes": "Canyonlands' Cave Spring Trail\nhttps://www.nps.gov/places/cany-cave-spring.htm\n\n<p>This is the trailhead for a short, 0.6-mile (1 km) loop leading to a historic cowboy camp and prehistoric rock markings. You will climb two ladders to complete the route. </p> <ul> <li><strong>Roundtrip Distance</strong>: 0.6 mi (1 km) Time: 45 min</li> <li><strong>Elevation Change</strong>: 67 ft (20 m)</li> <li><strong>Difficulty</strong>: Easy</li> <li><strong>Hike Description</strong>: This short loop leads to a historic cowboy camp and prehistoric rock markings. You will climb two ladders to complete the route. <em>Entering, touching, or climbing on archeological sites is strictly prohibited. View structures from a distance to protect fragile walls.</em></li> <li><strong>Accessibility</strong>: This trail can be rough, uneven, and requires walking up and down a rocky hill and stone steps. It is not accessible to wheelchairs. In winter, there may be snow or icy conditions; we recommend traction devices for hikers.</li> <li><strong>Dogs are not allowed on this trail</strong>. Service animals are allowed in national parks. <a href=\"https://www.nps.gov/planyourvisit/service-animals.htm\">What is a service animal?</a></li> </ul> <p>Descendants of these people still live in the region and consider the spring a sacred place. Help protect our heritage by not entering the spring. <strong>Do not touch or mark the rock markings. It is a violation of federal law to deface pictographs.</strong></p> <h2>Canyon Country</h2> <p>The geology and climate of Canyonlands have created an unusual landscape characterized by maze-like canyons, sheer cliff faces, strange rock formations, deep crevices, and alcoves. Some areas are hospitable to life; some are not. Water plays a major role in determining suitable habitat for humans as well as plants and animals. As you hike Cave Spring Trail, notice how the presence of water has affected each area. Plants, animals, and people have all played a part in shaping the environment we see today. In turn, the canyons have molded the behavior, adaptations, and character of the inhabitants.</p> <h2><strong>Cowboys</strong></h2> <p>In the late 1800s pioneering <a href=\"https:///www.nps.gov/cany/learn/historyculture/minersranchers.htm\">cattlemen</a> settled in canyon country and carved successful cattle operations out of this desert.</p> <p>Widespread ranching required cowboys to stay on the open range with their cattle. They lived in isolated outdoor camps such at this one near Cave Spring. They used these camps from the late 1800s through 1975, when cattle ranching ended inside the park. Many original items left by the cowboys remain. Please do not enter the camp, touch, or remove the objects.</p> <p>The cowboys cooked over an open fire, using Dutch ovens and other simple cookware. Usual cowboy fare included beans, bacon, potatoes, canned goods, sourdough biscuits, and the ever-present coffee.</p> <p>Cowboys established the camp at Cave Spring because of the reliable water source. Rainwater percolating through layers of porous sandstone forms these seeps. Moisture hastens erosion of the rock face and carves alcoves.</p> <h2>Sacred Water</h2> <p>Springs are rare in the desert. In the alcove beyond the cowboy camp, you may notice soot-blackened ceilings, handprints, & painted figures. These tell us that this precious resource also attracted earlier people. Ancestors of today's <a href=\"https:///www.nps.gov/cany/learn/historyculture/nativeamericans.htm\">Native Americans </a>occupied these canyons six millennia before the cattlemen arrived, about 6,000 to 700 years ago.</p> <p>Before the adoption of corn agriculture, Native Americans kept on the move. They followed the annual migrations of their prey and camped near areas with fresh water and plants they could use. Once they domesticated foods like squash, corn, and beans, they moved less and began farming. They left the area when the water table dropped following prolonged drought, making farming difficult.</p> <h2>Plants and Animals</h2> <p>Few plants can survive the intense heat and dryness of bare rock. Shallow pockets of soil support the growth of <a href=\"https:///www.nps.gov/articles/seug-soil-crust.htm\">biological soil crust</a>. This crust is made up of cyanobacteria, lichens, moss, fungi, and algae, and it is an essential component of the desert ecosystem. It protects soils from wind and water erosion and enriches them with nitrogen and other nutrients. Biological soil crust can take years to grow, and careless footsteps can crush it. Tracks remain visible for decades. Please stay on established trails or bare rock.</p> <p>You can learn about plants and how people have made use of them over time. Signs mark specific plants along the trail.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.827326509571,
+          38.1415625049673
+        ]
+      },
+      "properties": {
+        "name": "Chesler Park Loop and Joint Trail",
+        "notes": "Chesler Park Loop and Joint Trail\nhttps://www.nps.gov/places/chesler-park-loop-joint-trail.htm\n\n<p>This trail provides many great panoramas of the Needles formations. The Joint Trail winds through deep, narrow fractures in the rock. </p> <ul> <li> <p><strong>Roundtrip Distance</strong>: 10.7 mi (17.2 km)</p> </li> <li> <p><strong>Time</strong>: 5-7 hrs</p> </li> <li> <p><strong>Overall Elevation Change</strong>: 615 ft (187 m)<br /> <em>Cumulative elevation gain on this route is much greater.</em></p> </li> <li> <p><strong>Difficulty</strong>: Strenuous</p> </li> <li> <p><strong>Hike Description</strong>: This trail provides many great panoramas of the Needles formations. The Joint Trail winds through deep, narrow fractures in the rock.</p> </li> <li> <p><strong>Bring</strong>: Water (1 L per person, per hour), snacks, sturdy footwear, headlamp, map, and be prepared for, sun, rain, heat, or cold.</p> </li> <li> <p><strong>Accessibility</strong>: This trail can be rough, uneven, and requires walking up and down stone steps. It is not accessible to wheelchairs. In winter, there may be snow or icy conditions; we recommend traction devices for hikers.</p> </li> <li> <p><strong>Dogs are not allowed on this trail</strong>. Service animals are allowed in national parks. <a href=\"https://cms.nps.gov/planyourvisit/service-animals.htm\">What is a service animal?</a></p> </li> </ul>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.827326509571,
+          38.1415625049673
+        ]
+      },
+      "properties": {
+        "name": "Chesler Park Viewpoint Trail",
+        "notes": "Chesler Park Viewpoint Trail\nhttps://www.nps.gov/places/chesler-park-viewpoint-and-trail.htm\n\n<p>Discover stunning views of the sandstone spires that characterize the Needles.</p> <ul> <li><strong>Roundtrip Distance</strong>: 5.8 mi (9.3 km)</li> <li><strong>Time</strong>: 3-4 hrs</li> <li><strong>Overall Elevation Change</strong>: 533 ft (162 m)<br /> <em>Cumulative elevation gain on this route is much greater.</em></li> <li><strong>Difficulty</strong>: Strenuous</li> <li><strong>Hike Description</strong>: This popular trail leads to a pass overlooking a scenic expanse of desert grasses and shrubs surrounded by sandstone spires.</li> <li><strong>Bring</strong>: Water (1 L per person, per hour), snacks, sturdy footwear, headlamp, map, and be prepared for, sun, rain, heat, or cold.</li> <li><strong>Accessibility</strong>: This trail can be rough, uneven, and requires walking and scrambling on rocky slopes. It is not accessible to wheelchairs. In winter, there may be snow or icy conditions; we recommend traction devices for hikers.</li> <li><strong>Dogs are not allowed on this trail</strong>. Service animals are allowed in national parks. <a href=\"https://cms.nps.gov/planyourvisit/service-animals.htm\">What is a service animal?</a></li> </ul>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.82958101015014,
+          38.2158961063265
+        ]
+      },
+      "properties": {
+        "name": "Colorado River Overlook",
+        "notes": "Colorado River Overlook\nhttps://www.nps.gov/places/colorado-river-overlook.htm\n\n<p><em>This overlook is 7 miles down a rugged, unpaved road. You must have a high-clearance, four-wheel-drive vehicle or mountain bike. No permit required.</em><br /> <br /> This moderate road is good for mountain bikes. You can avoid the large rocks and stair-step drops in the last 1.5 miles by parking on the road and walking to the overlook. (Be sure to leave room for other vehicles to pass.) There are outstanding views of the Colorado River canyon. This is an unprotected overlook; use caution. No vehicle camping.</p> <h4>Accessibility:</h4> <p>The parking area at the end of the unpaved road is rocky and uneven, and may not allow for much exploration by wheelchair.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.816950755,
+          38.178209507
+        ]
+      },
+      "properties": {
+        "name": "Confluence Overlook Trail",
+        "notes": "Confluence Overlook Trail\nhttps://www.nps.gov/places/confluence-overlook-trail.htm\n\n<p>Unlike other Needles hikes, this trail traverses dry, open country along the northern edge of the geologic faults that shaped the Needles. The trail ends at a cliff overlooking the junction of the Green and Colorado rivers 1,000 ft (304 m) below.</p> <ul> <li><strong>Roundtrip Distance</strong>: 11 mi (17.7 km)</li> <li><strong>Time</strong>: 5-6 hrs</li> <li><strong>Overall Elevation Change</strong>: 309 ft (94 m)<br /> <em>Cumulative elevation gain on this route is much greater.</em></li> <li><strong>Difficulty</strong>: Strenuous</li> <li><strong>Hike Description</strong>: Unlike other Needles hikes, this trail traverses dry, open country along the northern edge of the geologic faults that shaped the Needles. Trail ends at a cliff overlooking the junction of the Green and Colorado rivers 1,000 ft (304 m) below.</li> <li><strong>Bring</strong>: Water (1 L per person, per hour), snacks, sturdy footwear, headlamp, map, and be prepared for, sun, rain, heat, or cold.</li> <li><strong>Accessibility</strong>: This trail can be rough, uneven, and requires walking up and down rocky slopes. It is not accessible to wheelchairs. In winter, there may be snow or icy conditions; we recommend traction devices for hikers.</li> <li><strong>Dogs are not allowed on this trail</strong>. Service animals are allowed in national parks. <a href=\"https://cms.nps.gov/planyourvisit/service-animals.htm\">What is a service animal?</a></li> </ul>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.827326509571,
+          38.1415625049673
+        ]
+      },
+      "properties": {
+        "name": "Druid Arch Trail",
+        "notes": "Druid Arch Trail\nhttps://www.nps.gov/places/druid-arch-trail.htm\n\n<p>Encounter spectacular rock formations on this unique trail.</p> <ul> <li><strong>Roundtrip Distance</strong>: 10.8 mi (17.4 km)</li> <li><strong>Time</strong>: 5-7 hrs</li> <li><strong>Overall Elevation Change</strong>: 503 ft (153 m)<br /> <em>Cumulative elevation gain on this route is much greater.</em></li> <li><strong>Difficulty</strong>: Strenuous</li> <li><strong>Hike Description</strong>: This trail offers one of the most spectacular views in The Needles. It follows the first part of the Chesler Park trail, then branches off to travel along the bottom of Elephant Canyon through deep sand and loose rock. The last 1.25 mile at the upper end is steep with one ladder and some scrambling.</li> <li><strong>Bring</strong>: Water (1 L per person, per hour), snacks, sturdy footwear, headlamp, map, and be prepared for, sun, rain, heat, or cold.</li> <li><strong>Accessibility</strong>: This trail can be rough, sandy, and requires climbing a ladder and some scrambling on rock. It is not accessible to wheelchairs. In winter, there may be snow or icy conditions; we recommend traction devices for hikers. </li> <li><strong>Accessibility</strong>: This trail can be rough, uneven, and requires walking up and down a rocky hill and stone steps. It is not accessible to wheelchairs. In winter, there may be snow or icy conditions; we recommend traction devices for hikers. </li> <li><strong>Dogs are not allowed on this trail.</strong> Service animals are allowed in national parks. <a href=\"https://cms.nps.gov/planyourvisit/service-animals.htm\">What is a service animal?</a></li> </ul>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.017523833,
+          38.444175076
+        ]
+      },
+      "properties": {
+        "name": "Fort Bottom Trail",
+        "notes": "Fort Bottom Trail\nhttps://www.nps.gov/places/fort-bottom-trail.htm\n\n<p><i>Reaching this trail requires a permit to drive the 4WD White Rim Road. </i><br /> <br /> Fort Bottom Ruin is an ancient stone structure overlooking the Green River, built by Indigenous inhabitants of the Canyonlands area centuries ago. </p> <ul role=\"list\"> <li aria-setsize=\"-1\" data-aria-level=\"5\" data-aria-posinset=\"1\" data-font=\"Courier New\" data-leveltext=\"o\" data-listid=\"4\" role=\"listitem\"> <p paraeid=\"{51fc24b3-dad5-4945-9b6b-3095dda59348}{56}\" paraid=\"21476894\"><strong>Roundtrip Distance</strong>: 3.4 mi (5.5 km) </p> </li> <li aria-setsize=\"-1\" data-aria-level=\"5\" data-aria-posinset=\"2\" data-font=\"Courier New\" data-leveltext=\"o\" data-listid=\"4\" role=\"listitem\"> <p paraeid=\"{51fc24b3-dad5-4945-9b6b-3095dda59348}{63}\" paraid=\"1334523613\"><strong>Time</strong>: 2 hrs  </p> </li> <li aria-setsize=\"-1\" data-aria-level=\"5\" data-aria-posinset=\"3\" data-font=\"Courier New\" data-leveltext=\"o\" data-listid=\"4\" role=\"listitem\"> <p paraeid=\"{51fc24b3-dad5-4945-9b6b-3095dda59348}{70}\" paraid=\"734692506\"><strong>Elevation Change</strong>: 418 ft (128 m) </p> </li> <li aria-setsize=\"-1\" data-aria-level=\"5\" data-aria-posinset=\"4\" data-font=\"Courier New\" data-leveltext=\"o\" data-listid=\"4\" role=\"listitem\"> <p paraeid=\"{51fc24b3-dad5-4945-9b6b-3095dda59348}{77}\" paraid=\"801684951\"><strong>Difficulty</strong>: Moderate </p> </li> <li aria-setsize=\"-1\" data-aria-level=\"5\" data-aria-posinset=\"5\" data-font=\"Courier New\" data-leveltext=\"o\" data-listid=\"4\" role=\"listitem\"> <p paraeid=\"{51fc24b3-dad5-4945-9b6b-3095dda59348}{90}\" paraid=\"210825528\"><strong>Hike Description</strong>: Exposed trail crosses a narrow mesa to a high point in a bend of the Green River. A tower structure marks the historic home of ancestral Puebloan people. <em>Entering, touching, or climbing on archeological sites is strictly prohibited. View structures from a distance to protect fragile walls. </em></p> </li> </ul> <ul role=\"list\"> <li aria-setsize=\"-1\" data-aria-level=\"5\" data-aria-posinset=\"1\" data-font=\"Courier New\" data-leveltext=\"o\" data-listid=\"4\" role=\"listitem\"> <p paraeid=\"{51fc24b3-dad5-4945-9b6b-3095dda59348}{101}\" paraid=\"1479568021\"><strong>Bring</strong>: Water (1 L per person, per hour), snacks, sturdy footwear, headlamp, map, and be prepared for, sun, rain, heat, or cold. </p> </li> <li aria-setsize=\"-1\" data-aria-level=\"5\" data-aria-posinset=\"2\" data-font=\"Courier New\" data-leveltext=\"o\" data-listid=\"4\" role=\"listitem\"> <p paraeid=\"{51fc24b3-dad5-4945-9b6b-3095dda59348}{110}\" paraid=\"659665487\"><strong>Accessibility</strong>: This trail requires walking on uneven, rocky surfaces. It is not accessible to wheelchairs.  </p> </li> <li aria-setsize=\"-1\" data-aria-level=\"5\" data-aria-posinset=\"3\" data-font=\"Courier New\" data-leveltext=\"o\" data-listid=\"4\" role=\"listitem\"> <p paraeid=\"{51fc24b3-dad5-4945-9b6b-3095dda59348}{123}\" paraid=\"519334217\">Dogs are not allowed on this trail. Service animals are allowed in national parks. <a href=\"https://cms.nps.gov/planyourvisit/service-animals.htm\">What is a service animal?</a> </p> </li> </ul> <i></i>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.849520941,
+          38.322859814
+        ]
+      },
+      "properties": {
+        "name": "Gooseberry Trail",
+        "notes": "Gooseberry Trail\nhttps://www.nps.gov/places/gooseberry-trail.htm\n\n<p paraeid=\"{dd69bb86-0131-4382-92b9-332d48e86814}{110}\" paraid=\"110904803\">This is the steepest trail in this district of Canyonlands, descending over a thousand feet of scree slopes and switchbacks across sheer cliffs.</p> <ul> <li> <p><strong>Roundtrip Distance</strong>: 4.6 mi (7.4 km)</p> </li> <li> <p><strong style=\"color: rgb(85, 85, 85); font-family: Arial, sans-serif; font-size: 16px;\">Time</strong><span style=\"color: rgb(85, 85, 85); font-family: Arial, sans-serif; font-size: 16px;\">: 4-6 hrs</span></p> </li> <li> <p><strong style=\"color: rgb(85, 85, 85); font-family: Arial, sans-serif; font-size: 16px;\">Elevation Change</strong><span style=\"color: rgb(85, 85, 85); font-family: Arial, sans-serif; font-size: 16px;\">: 1,529 ft (466 m)</span></p> </li> <li> <p><strong style=\"color: rgb(85, 85, 85); font-family: Arial, sans-serif; font-size: 16px;\">Difficulty</strong><span style=\"color: rgb(85, 85, 85); font-family: Arial, sans-serif; font-size: 16px;\">: Strenuous– Mesa Top to White Rim</span></p> </li> <li> <p><strong style=\"color: rgb(85, 85, 85); font-family: Arial, sans-serif; font-size: 16px;\">Hike Description</strong><span style=\"color: rgb(85, 85, 85); font-family: Arial, sans-serif; font-size: 16px;\">: Steeply and rapidly descends 1,400 feet (427 m) to the White Rim Bench. Rough switchbacks cross sheer cliffs and scree slopes. Step carefully, and don’t forget to look up to take in the view.</span></p> </li> <li> <p><strong style=\"color: rgb(85, 85, 85); font-family: Arial, sans-serif; font-size: 16px;\">Bring</strong><span style=\"color: rgb(85, 85, 85); font-family: Arial, sans-serif; font-size: 16px;\">: Water (at least 1 QT/1 L per person, per hour), snacks, sturdy footwear, headlamp, map, and be prepared for, sun, rain, heat, or cold.</span></p> </li> <li> <p><strong style=\"color: rgb(85, 85, 85); font-family: Arial, sans-serif; font-size: 16px;\">Accessibility</strong><span style=\"color: rgb(85, 85, 85); font-family: Arial, sans-serif; font-size: 16px;\">: This trail can be rough, uneven, and requires walking up and down a rocky hill and stone steps. It is not accessible to wheelchairs. In winter, there may be snow or icy conditions; we recommend traction devices for hikers.</span></p> </li> <li> <p><span style=\"color: rgb(85, 85, 85); font-family: Arial, sans-serif; font-size: 16px;\"><strong>Dogs are not allowed on this trail</strong>. Service animals are allowed in national parks. </span><a href=\"https://cms.nps.gov/planyourvisit/service-animals.htm\">What is a service animal?</a><span style=\"color: rgb(85, 85, 85); font-family: Arial, sans-serif; font-size: 16px;\"> </span></p> </li> </ul>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.774147755,
+          38.454962413
+        ]
+      },
+      "properties": {
+        "name": "Gooseneck Overlook Trail",
+        "notes": "Gooseneck Overlook Trail\nhttps://www.nps.gov/places/gooseneck-overlook-trail.htm\n\n<p><i>Reaching this trail requires a permit to drive the 4WD White Rim Road. </i><br /> <br /> This short walk from the White Rim Road ends abruptly at an overlook of a meandering gooseneck bend in the Colorado River.</p> <ul role=\"list\"> <li aria-setsize=\"-1\" data-aria-level=\"5\" data-aria-posinset=\"33\" data-font=\"Courier New\" data-leveltext=\"o\" data-listid=\"4\" role=\"listitem\"> <p paraeid=\"{201e8669-80a9-4a79-9f79-697ee30fdd69}{211}\" paraid=\"1995645859\"><strong>Roundtrip Distance</strong>: 0.6 mi (1 km) </p> </li> <li aria-setsize=\"-1\" data-aria-level=\"5\" data-aria-posinset=\"34\" data-font=\"Courier New\" data-leveltext=\"o\" data-listid=\"4\" role=\"listitem\"> <p paraeid=\"{201e8669-80a9-4a79-9f79-697ee30fdd69}{214}\" paraid=\"2111059783\"><strong>Time</strong>: 30 min  </p> </li> <li aria-setsize=\"-1\" data-aria-level=\"5\" data-aria-posinset=\"35\" data-font=\"Courier New\" data-leveltext=\"o\" data-listid=\"4\" role=\"listitem\"> <p paraeid=\"{201e8669-80a9-4a79-9f79-697ee30fdd69}{217}\" paraid=\"2146458364\"><strong>Elevation Change</strong>: 98 ft (30 m) </p> </li> <li aria-setsize=\"-1\" data-aria-level=\"5\" data-aria-posinset=\"36\" data-font=\"Courier New\" data-leveltext=\"o\" data-listid=\"4\" role=\"listitem\"> <p paraeid=\"{201e8669-80a9-4a79-9f79-697ee30fdd69}{220}\" paraid=\"955442431\"><strong>Difficulty</strong>: Easy</p> </li> <li aria-setsize=\"-1\" data-aria-level=\"5\" data-aria-posinset=\"37\" data-font=\"Courier New\" data-leveltext=\"o\" data-listid=\"4\" role=\"listitem\"> <p paraeid=\"{201e8669-80a9-4a79-9f79-697ee30fdd69}{223}\" paraid=\"54703244\"><strong>Hike Description</strong>: Along the White Rim Road. Note the rock layers distorted by salt pushing up from below.  </p> </li> <li aria-setsize=\"-1\" data-aria-level=\"5\" data-aria-posinset=\"38\" data-font=\"Courier New\" data-leveltext=\"o\" data-listid=\"4\" role=\"listitem\"> <p paraeid=\"{201e8669-80a9-4a79-9f79-697ee30fdd69}{226}\" paraid=\"108170808\"><strong>Accessibility</strong>: This trail covers uneven, rocky surfaces. It is not accessible to wheelchairs.</p> </li> <li aria-setsize=\"-1\" data-aria-level=\"5\" data-aria-posinset=\"39\" data-font=\"Courier New\" data-leveltext=\"o\" data-listid=\"4\" role=\"listitem\"> <p paraeid=\"{201e8669-80a9-4a79-9f79-697ee30fdd69}{230}\" paraid=\"1454648514\">Dogs are not allowed on this trail. Service animals are allowed in national parks. <a href=\"https://cms.nps.gov/planyourvisit/service-animals.htm\">What is a service animal?</a> </p> </li> </ul>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.856615815,
+          38.31075644
+        ]
+      },
+      "properties": {
+        "name": "Grand View Point Overlook and Trail",
+        "notes": "Grand View Point Overlook and Trail\nhttps://www.nps.gov/places/grand-view-point.htm\n\n<p>Grand View Point lies at the southernmost end of the Island in the Sky scenic drive. From here, you can see the across miles of corrugated canyons, the White Rim four-wheel-drive road, features in The Maze and The Needles, and distant mountains. A short, paved sidewalk leads to a spectacular viewpoint. From there you can hike an additional mile to a second viewpoint. Rangers often present geology talks at Grand View Point spring through fall.</p> <ul> <li><strong>Roundtrip Distance</strong>: 1.8 mi (2.9 km)</li> <li><strong>Time</strong>: 1.5 hrs</li> <li><strong>Elevation Change</strong>: 73 ft (22 m)</li> <li><strong>Difficulty</strong>: Easy</li> <li><strong>Hike Description</strong>: A stunning out-and-back trail, this walk showcases spectacular panoramic views as it follows the canyon edge.</li> <li><strong>Accessibility</strong>: This trail can be rough, uneven, and requires walking up and down a rocky hill and stone steps. It is not accessible to wheelchairs. In winter, there may be snow or icy conditions; we recommend traction devices for hikers.</li> <li><strong>Dogs are not allowed on this trail.</strong> Service animals are allowed in national parks. <a href=\"https://cms.nps.gov/planyourvisit/service-animals.htm\">What is a service animal?</a> </li> </ul>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.889506593,
+          38.378388613
+        ]
+      },
+      "properties": {
+        "name": "Green River Overlook",
+        "notes": "Green River Overlook\nhttps://www.nps.gov/places/green-river-overlook.htm\n\nThis southwest-facing viewpoint affords the best views of one of Canyonlands' two mighty rivers: the Green River, deep in its channel 1,300 feet (396 m) below. Visitors can also see features of The Maze district and the White Rim Road.<br /> <br /> This spot one of the best places at Island in the Sky to watch the sun set.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.20431804700675,
+          38.45723447032156
+        ]
+      },
+      "properties": {
+        "name": "Horseshoe Canyon",
+        "notes": "Horseshoe Canyon\nhttps://www.nps.gov/places/horseshoe-canyon.htm\n\n<p>Horseshoe Canyon contains some of the most significant ancient rock markings in North America. The Great Gallery, the best known pictograph panel in Horseshoe Canyon, includes well-preserved, life-sized figures with intricate designs. Other impressive sights include spring wildflowers, sheer sandstone walls, and mature cottonwood groves along the intermittent stream in the canyon bottom. Horseshoe Canyon was added to Canyonlands National Park in 1971.</p> <p>The archeology of Horseshoe Canyon spans thousands of years of human history. Artifacts recovered from sites in this area date back as early as 9000-7000 BCE (Before Common Era), when Paleoindians hunted large mammals like mastodons and mammoths across the southwest.</p> <p><a href=\"https://www.nps.gov/cany/learn/historyculture/nativeamericans.htm\">American Indian</a> rock markings found in Horseshoe Canyon are most commonly painted in a style known as “Barrier Canyon.” This style is believed to date to the Late Archaic period, from 2000 BCE to 500 CE (Common Era). During this time, nomadic groups of hunter-gatherers made Horseshoe Canyon their seasonal home.</p> <p>During later periods, the Fremont-era and Ancestral Puebloan cultures left their own distinctive rock markings in the canyon, but their presence was brief in comparison, and final abandonment occurred by 1300 CE.</p> <p>The Great Gallery is the best known and most spectacular of the Horseshoe Canyon panels. This well preserved site includes both pictographs (painted figures) and petroglyphs (figures etched in the rock with a sharp stone). The tapered, life-size figures lack arms and legs but frequently contain intricate designs. These designs are characteristic of the Barrier Canyon style.</p> <p>Though Horseshoe Canyon is most famous for its rock markings, the canyon’s history has many chapters. After centuries of indigenous peoples passed through, <a href=\"https://www.nps.gov/cany/learn/historyculture/non-indigenous-settlement-and-exploration.htm\">European Americans</a> arrived. Outlaws like Butch Cassidy made use of Horseshoe Canyon in the late 1800s, taking refuge in the confusing network of canyons, especially those around Robbers Roost to the southwest.</p> <p>In the early 1900s, <a href=\"https://www.nps.gov/cany/learn/historyculture/minersranchers.htm\">ranchers</a> built several stock trails into Horseshoe Canyon so livestock could reach water and feed in the canyon bottom. Eventually, the ranchers constructed a pumping operation to fill water tanks on the canyon rim. Many of these modifications are still visible today.</p> <p>Prospectors explored the area in the mid-1900s, improving many stock trails to accommodate vehicles and drill rigs. Though they searched the rock layers for oil and other minerals, no successful wells or mines were ever established around Horseshoe Canyon.</p> <p>After being added to Canyonlands National Park in 1971, grazing and mineral exploration in Horseshoe ended. Today, park visitors descend the old ranching trail and marvel at the history of this magnificent canyon.</p> <p><a href=\"https://www.nps.gov/cany/planyourvisit/horseshoecanyon.htm\">Visiting Horseshoe Canyon</a> requires driving on unpaved roads, which can become impassable with changing weather. Visiting the rock painting and pecking panels requires a hike of up to seven miles roundtrip.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.827060268,
+          38.433718691
+        ]
+      },
+      "properties": {
+        "name": "Lathrop Trail",
+        "notes": "Lathrop Trail\nhttps://www.nps.gov/places/lathrop-trail.htm\n\n<p>The Lathrop Trail crosses a wide grassland on the mesa top, enjoys views of Colorado River, then descends into the canyon below. For a moderate trail option, hikers often turn around at the canyon rim. Continuing down to the White Rim Road means a strenuous hike back out.</p> <h4>Lathrop to Canyon Rim</h4> <ul role=\"list\"> <li aria-setsize=\"-1\" data-aria-level=\"5\" data-aria-posinset=\"41\" data-font=\"Courier New\" data-leveltext=\"o\" data-listid=\"4\" role=\"listitem\"> <p paraeid=\"{19984644-bb68-4fd5-bdb1-8b772acf5646}{9}\" paraid=\"759803121\"><strong>Roundtrip Distance</strong>: 5 mi (8 km) </p> </li> <li aria-setsize=\"-1\" data-aria-level=\"5\" data-aria-posinset=\"42\" data-font=\"Courier New\" data-leveltext=\"o\" data-listid=\"4\" role=\"listitem\"> <p paraeid=\"{19984644-bb68-4fd5-bdb1-8b772acf5646}{12}\" paraid=\"1074252435\"><strong>Time</strong>: 2-3 hrs </p> </li> <li aria-setsize=\"-1\" data-aria-level=\"5\" data-aria-posinset=\"43\" data-font=\"Courier New\" data-leveltext=\"o\" data-listid=\"4\" role=\"listitem\"> <p paraeid=\"{19984644-bb68-4fd5-bdb1-8b772acf5646}{15}\" paraid=\"1702129227\"><strong>Elevation Change</strong>: 158 ft (48 m) </p> </li> <li aria-setsize=\"-1\" data-aria-level=\"5\" data-aria-posinset=\"44\" data-font=\"Courier New\" data-leveltext=\"o\" data-listid=\"4\" role=\"listitem\"> <p paraeid=\"{19984644-bb68-4fd5-bdb1-8b772acf5646}{18}\" paraid=\"1989934415\"><strong>Difficulty</strong>: Moderate</p> </li> <li aria-setsize=\"-1\" data-aria-level=\"5\" data-aria-posinset=\"45\" data-font=\"Courier New\" data-leveltext=\"o\" data-listid=\"4\" role=\"listitem\"> <p paraeid=\"{19984644-bb68-4fd5-bdb1-8b772acf5646}{21}\" paraid=\"1243145905\"><strong>Hike Description</strong>: Trail crosses open grasslands, ending in spectacular views of Airport Tower & Colorado River.  </p> </li> <li aria-setsize=\"-1\" data-aria-level=\"5\" data-aria-posinset=\"46\" data-font=\"Courier New\" data-leveltext=\"o\" data-listid=\"4\" role=\"listitem\"> <p paraeid=\"{19984644-bb68-4fd5-bdb1-8b772acf5646}{24}\" paraid=\"602666266\"><strong>Bring</strong>: Water (1 L per person, per hour), snacks, sturdy footwear, headlamp, map, and be prepared for, sun, rain, heat, or cold. </p> </li> <li aria-setsize=\"-1\" data-aria-level=\"5\" data-aria-posinset=\"47\" data-font=\"Courier New\" data-leveltext=\"o\" data-listid=\"4\" role=\"listitem\"> <p paraeid=\"{19984644-bb68-4fd5-bdb1-8b772acf5646}{27}\" paraid=\"1587477615\"><strong>Accessibility</strong>: This trail can be rough, uneven, and requires walking up and down a rocky hill and stone steps. It is not accessible to wheelchairs. In winter, there may be snow or icy conditions; we recommend traction devices for hikers. </p> </li> <li paraeid=\"{19984644-bb68-4fd5-bdb1-8b772acf5646}{31}\" paraid=\"1959337794\">Dogs are not allowed on this trail. Service animals are allowed in national parks. <a href=\"https://cms.nps.gov/planyourvisit/service-animals.htm\">What is a service animal?</a> </li> </ul> <h4 paraeid=\"{19984644-bb68-4fd5-bdb1-8b772acf5646}{37}\" paraid=\"538840437\">Lathrop to White Rim Road </h4> <ul role=\"list\"> <li aria-setsize=\"-1\" data-aria-level=\"5\" data-aria-posinset=\"49\" data-font=\"Courier New\" data-leveltext=\"o\" data-listid=\"4\" role=\"listitem\"> <p paraeid=\"{19984644-bb68-4fd5-bdb1-8b772acf5646}{40}\" paraid=\"720667934\"><strong>Roundtrip Distance</strong>: 11.8 mi (19 km) </p> </li> <li aria-setsize=\"-1\" data-aria-level=\"5\" data-aria-posinset=\"50\" data-font=\"Courier New\" data-leveltext=\"o\" data-listid=\"4\" role=\"listitem\"> <p paraeid=\"{19984644-bb68-4fd5-bdb1-8b772acf5646}{43}\" paraid=\"1317485204\"><strong>Time</strong>: 5-7 hrs </p> </li> <li aria-setsize=\"-1\" data-aria-level=\"5\" data-aria-posinset=\"51\" data-font=\"Courier New\" data-leveltext=\"o\" data-listid=\"4\" role=\"listitem\"> <p paraeid=\"{19984644-bb68-4fd5-bdb1-8b772acf5646}{46}\" paraid=\"852723913\"><strong>Elevation Change</strong>: 1,721 ft (525 m) </p> </li> <li aria-setsize=\"-1\" data-aria-level=\"5\" data-aria-posinset=\"52\" data-font=\"Courier New\" data-leveltext=\"o\" data-listid=\"4\" role=\"listitem\"> <p paraeid=\"{19984644-bb68-4fd5-bdb1-8b772acf5646}{49}\" paraid=\"1858999875\"><strong>Difficulty</strong>: Strenuous</p> </li> <li aria-setsize=\"-1\" data-aria-level=\"5\" data-aria-posinset=\"53\" data-font=\"Courier New\" data-leveltext=\"o\" data-listid=\"4\" role=\"listitem\"> <p paraeid=\"{19984644-bb68-4fd5-bdb1-8b772acf5646}{52}\" paraid=\"1244999339\"><strong>Hike Description</strong>: Trail crosses open grasslands, then drops 1,600 ft (488 m) into the canyon below. Enjoy views of the La Sal Mountains and fanciful sandstone knobs on this varied and challenging hike to the White Rim.  </p> </li> <li aria-setsize=\"-1\" data-aria-level=\"5\" data-aria-posinset=\"54\" data-font=\"Courier New\" data-leveltext=\"o\" data-listid=\"4\" role=\"listitem\"> <p paraeid=\"{19984644-bb68-4fd5-bdb1-8b772acf5646}{55}\" paraid=\"813806301\"><strong>Bring</strong>: Water (at least 1 L per person, per hour), snacks, sturdy footwear, headlamp, map, and be prepared for, sun, rain, heat, or cold. </p> </li> <li aria-setsize=\"-1\" data-aria-level=\"5\" data-aria-posinset=\"55\" data-font=\"Courier New\" data-leveltext=\"o\" data-listid=\"4\" role=\"listitem\"> <p paraeid=\"{19984644-bb68-4fd5-bdb1-8b772acf5646}{58}\" paraid=\"95544369\"><strong>Accessibility</strong>: This trail can be rough, uneven, and requires walking up and down a rocky hill and stone steps. It is not accessible to wheelchairs.</p> </li> <li aria-setsize=\"-1\" data-aria-level=\"5\" data-aria-posinset=\"56\" data-font=\"Courier New\" data-leveltext=\"o\" data-listid=\"4\" role=\"listitem\"> <p paraeid=\"{19984644-bb68-4fd5-bdb1-8b772acf5646}{62}\" paraid=\"902928539\">Dogs are not allowed on this trail. Service animals are allowed in national parks. <a href=\"https://cms.nps.gov/planyourvisit/service-animals.htm\">What is a service animal?</a> </p> </li> </ul>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.868160655,
+          38.389180289
+        ]
+      },
+      "properties": {
+        "name": "Mesa Arch Trail",
+        "notes": "Mesa Arch Trail\nhttps://www.nps.gov/places/mesa-arch.htm\n\n<p>Perched at the edge of the mesa top, this 27-foot-long (8.3 m) arch frames views of the canyon far below and the La Sal Mountains in the distance. The loop hike has slightly more elevation change at the beginning if you travel counter-clockwise. To reduce the number of stairs, walk clockwise to the arch, then retrace your steps.</p> <ul> <li><strong>Roundtrip Distance</strong>: 0.6 mi (1 km)</li> <li><strong>Time</strong>: 30 min</li> <li><strong>Elevation Change</strong>: 56 ft (17 m)</li> <li><strong>Difficulty</strong>: Easy</li> <li><strong>Hike Description</strong>: A short hike leads to a cliff-edge arch. Mesa Arch is a classic sunrise spot, and has stunning views towards the La Sal Mountains any time of day.</li> <li><strong>Accessibility</strong>: This trail can be rough, uneven, and requires walking up and down a rocky hill and stone steps. It is not accessible to wheelchairs. In winter, there may be snow or icy conditions; we recommend traction devices for hikers.</li> <li><strong>Dogs are not allowed on this trail</strong>. Service animals are allowed in national parks. <a href=\"https://cms.nps.gov/planyourvisit/service-animals.htm\">What is a service animal?</a></li> </ul> <p><br /> Mesa Arch is one of most photographed arches in southeast Utah. This location is especially popular at sunrise, when groups of photographers often lay in wait for the glow of sunrise on the bottom of the arch.</p> <p> </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.43756708361622,
+          37.83482853143013
+        ]
+      },
+      "properties": {
+        "name": "Mormon Pioneer National Heritage Area",
+        "notes": "Mormon Pioneer National Heritage Area\nhttps://www.nps.gov/places/mormon-pioneer-national-heritage-area.htm\n\n<p paraeid=\"{cf2021eb-0e26-4c13-9bbd-a216dc6a8c33}{251}\" paraid=\"8\">Designated by Congress in 2006, this National Heritage Area is managed by the Utah Heritage Highway Alliance. The landscape along Highways 12, 24, and 89, now known as the <a href=\"http://www.mormonpioneerheritage.org/\">Mormon Pioneer National Heritage Area</a>, was originally occupied by the Paiute, Ute, and San Pitch Native American tribes. Today, the MPNHA spreads across six counties in Utah and stretches from Central Utah to the southern edge of the state. It preserves the story of the first Mormon pioneers in the area who settled there in 1849. The settlers were a “handpicked group of men, women, and children originally hailing from New England, England and Scandinavia,” and traces their settlement patterns across the United States into Utah.</p> <p paraeid=\"{50bd6341-e204-40a5-b79f-61c737fd23d0}{7}\" paraid=\"9\"><strong>This National Historic Area provides many opportunities to explore Mormon Pioneer heritage with five heritage districts:  </strong></p> <ul role=\"list\"> <li aria-setsize=\"-1\" data-aria-level=\"1\" data-aria-posinset=\"1\" data-font=\"Noto Sans Symbols\" data-leveltext=\"●\" data-listid=\"1\" role=\"listitem\"> <p paraeid=\"{50bd6341-e204-40a5-b79f-61c737fd23d0}{13}\" paraid=\"10\">Little Denmark – Visit Little Denmark for its rich Scandinavian pioneer influence and stories of immigration. They even have an annual Scandinavian Heritage Festival in Ephraim.  </p> </li> </ul> <ul role=\"list\"> <li aria-setsize=\"-1\" data-aria-level=\"1\" data-aria-posinset=\"1\" data-font=\"Noto Sans Symbols\" data-leveltext=\"●\" data-listid=\"1\" role=\"listitem\"> <p paraeid=\"{50bd6341-e204-40a5-b79f-61c737fd23d0}{20}\" paraid=\"11\">Sevier Valley – A rich landscape where farmers and ranchers followed the ancient Native American tradition of living off the land. Visit the Sevier Valley district for Big Rock Candy Mountain or Lemonade Springs.  </p> </li> <li aria-setsize=\"-1\" data-aria-level=\"1\" data-aria-posinset=\"2\" data-font=\"Noto Sans Symbols\" data-leveltext=\"●\" data-listid=\"1\" role=\"listitem\"> <p paraeid=\"{50bd6341-e204-40a5-b79f-61c737fd23d0}{27}\" paraid=\"12\">Headwaters – This district is known for its rich mining history and network of rivers and tributaries. Visit this area to find “abandoned mines and tales of lost gold.”  </p> </li> <li aria-setsize=\"-1\" data-aria-level=\"1\" data-aria-posinset=\"3\" data-font=\"Noto Sans Symbols\" data-leveltext=\"●\" data-listid=\"1\" role=\"listitem\"> <p paraeid=\"{50bd6341-e204-40a5-b79f-61c737fd23d0}{34}\" paraid=\"13\">Under the Rim – This district is frequented by Hollywood producers looking for a wild west feel. It is named after the red rock rims of the High Plateau of Utah. </p> </li> <li aria-setsize=\"-1\" data-aria-level=\"1\" data-aria-posinset=\"4\" data-font=\"Noto Sans Symbols\" data-leveltext=\"●\" data-listid=\"1\" role=\"listitem\"> <p paraeid=\"{50bd6341-e204-40a5-b79f-61c737fd23d0}{41}\" paraid=\"14\">Boulder Loop – Visit the Boulder Loop district for an awe-inspiring heritage byway showcasing cowboy and pioneer trails, Bryce Canyon and Capitol Reef National Parks and the Grand Staircase-Escalante National Monument. </p> </li> </ul> <p paraeid=\"{50bd6341-e204-40a5-b79f-61c737fd23d0}{48}\" paraid=\"15\">Each district boasts a unique history while remaining connected to the larger focus of Mormon Pioneer heritage. Mormon Pioneer National Heritage Area is beloved among many communities in Utah and is sure to make an impact on all who visit!  </p> <h2 paraeid=\"{50bd6341-e204-40a5-b79f-61c737fd23d0}{139}\" paraid=\"30\"><strong>Historic Sites and Points of Interest: </strong></h2> <ul role=\"list\"> <li><a href=\"https://fairviewmuseum.org/\">Fairview Museum of History and Art</a></li> <li><a href=\"https://sanpete.com/pages/temple\">Manti Temple - 1888</a></li> <li><a href=\"http://www.casinostartheatre.com/history.html\">Casino Star Theatre</a></li> <li><a href=\"https://sanpete.com/businesses/show/674-moroni-historic-opera-house\">Moroni Opera House - 1890</a></li> <li><a href=\"https://geology.utah.gov/map-pub/survey-notes/geosights/big-rock-candy-mountain/\">Big Rock Candy Mountain</a></li> <li>Scandinavian Heritage Festival</li> <li><a href=\"https://www.escalanteheritagecenter.org/\">Escalante Pioneer Heritage Center</a></li> <li><a href=\"https://www.ghosttowns.com/states/ut/kimberly.html\">Kimberly - Ghost Town Natural History/Pioneer Museum</a></li> <li><a href=\"https://www.circlevilleutah.org/butch.html\">Circleville M. Parker (Butch Cassidy Cabin) - 1878</a></li> <li><a href=\"https://www.littlehollywoodmuseum.org/little-hollywood-history.html\">Kanab - Parry Lodge, Home to the Movie Stars Little Hollywood Walk of Fame</a></li> </ul> <h2 paraeid=\"{50bd6341-e204-40a5-b79f-61c737fd23d0}{219}\" paraid=\"42\"><strong>Notable People:  </strong></h2> <ul role=\"list\"> <li><a href=\"https://www.biography.com/crime-figure/butch-cassidy\">Butch Cassidy</a></li> <li><a href=\"https://www.britannica.com/biography/Brigham-Young\">Brigham Young</a></li> <li><a href=\"http://sanpetemessenger.com/archives/8905\">Chief Sanpitch</a></li> <li><a href=\"https://www.britannica.com/biography/Black-Hawk-Sauk-and-Fox-leader\">Chief Blackhawk</a></li> <li><a href=\"http://isdup.org/\">The Daughters of the Utah Pioneers</a> (past, present, and future</li> </ul>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.920460517,
+          38.47595665
+        ]
+      },
+      "properties": {
+        "name": "Moses and Zeus Towers Trail",
+        "notes": "Moses and Zeus Towers Trail\nhttps://www.nps.gov/places/moses-and-zeus-towers-trail.htm\n\n<p><i>Reaching this trail requires a permit to drive the 4WD White Rim Road or hiking down Alcove Spring Trail (11.2 mi/18.3 km roundtrip).</i><br /> <br /> Moses and Zeus are two prominent towers overlooking Taylor Canyon. This trail leads to their base.</p> <ul role=\"list\"> <li aria-setsize=\"-1\" data-aria-level=\"5\" data-aria-posinset=\"1\" data-font=\"Courier New\" data-leveltext=\"o\" data-listid=\"4\" role=\"listitem\"> <p paraeid=\"{51fc24b3-dad5-4945-9b6b-3095dda59348}{149}\" paraid=\"1943375598\"><strong>Roundtrip Distance</strong>: 1.3 mi (2 km) </p> </li> <li aria-setsize=\"-1\" data-aria-level=\"5\" data-aria-posinset=\"2\" data-font=\"Courier New\" data-leveltext=\"o\" data-listid=\"4\" role=\"listitem\"> <p paraeid=\"{51fc24b3-dad5-4945-9b6b-3095dda59348}{156}\" paraid=\"489721398\"><strong>Time</strong>: 1 hr </p> </li> <li aria-setsize=\"-1\" data-aria-level=\"5\" data-aria-posinset=\"3\" data-font=\"Courier New\" data-leveltext=\"o\" data-listid=\"4\" role=\"listitem\"> <p paraeid=\"{51fc24b3-dad5-4945-9b6b-3095dda59348}{163}\" paraid=\"1034074153\"><strong>Elevation Change</strong>: 717 ft (219 m) </p> </li> <li aria-setsize=\"-1\" data-aria-level=\"5\" data-aria-posinset=\"4\" data-font=\"Courier New\" data-leveltext=\"o\" data-listid=\"4\" role=\"listitem\"> <p paraeid=\"{51fc24b3-dad5-4945-9b6b-3095dda59348}{170}\" paraid=\"1523086190\"><strong>Difficulty</strong>: Moderate </p> </li> <li aria-setsize=\"-1\" data-aria-level=\"5\" data-aria-posinset=\"5\" data-font=\"Courier New\" data-leveltext=\"o\" data-listid=\"4\" role=\"listitem\"> <p paraeid=\"{51fc24b3-dad5-4945-9b6b-3095dda59348}{183}\" paraid=\"399500275\"><strong>Hike Description</strong>: Along Taylor Canyon Road. Trail ascends to the base of prominent sandstone spires. Climbers: this is the trail to approach the technical routes on Moses and Zeus towers.</p> </li> </ul> <ul role=\"list\"> <li aria-setsize=\"-1\" data-aria-level=\"5\" data-aria-posinset=\"1\" data-font=\"Courier New\" data-leveltext=\"o\" data-listid=\"4\" role=\"listitem\"> <p paraeid=\"{51fc24b3-dad5-4945-9b6b-3095dda59348}{192}\" paraid=\"913022942\"><strong>Accessibility</strong>: This trail crosses rough, uneven, rocky surfaces. It is not accessible to wheelchairs. </p> </li> <li aria-setsize=\"-1\" data-aria-level=\"5\" data-aria-posinset=\"2\" data-font=\"Courier New\" data-leveltext=\"o\" data-listid=\"4\" role=\"listitem\"> <p paraeid=\"{51fc24b3-dad5-4945-9b6b-3095dda59348}{205}\" paraid=\"566013339\">Dogs are not allowed on this trail. Service animals are allowed in national parks. <a href=\"https://cms.nps.gov/planyourvisit/service-animals.htm\">What is a service animal?</a> </p> </li> </ul>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.863830103,
+          38.35500389
+        ]
+      },
+      "properties": {
+        "name": "Murphy Loop Trail",
+        "notes": "Murphy Loop Trail\nhttps://www.nps.gov/places/murphy-loop-trail.htm\n\n<p>A great full-day hike, the Murphy Trail offers outstanding views from atop the Murphy Hogback and White Rim Road. <em>This trail starts at the same trailhead as the moderate Murphy Point Overlook Trail. Pay close attention at the junction.</em></p> <ul> <li><strong>Roundtrip Distance</strong>: 10.8 mi (17.4 km)</li> <li><strong>Time</strong>: 5-7 hrs</li> <li><strong>Elevation Change</strong>: 1,448 ft (441 m)</li> <li><strong>Difficulty</strong>: Strenuous– Mesa Top to White Rim</li> <li><strong>Hike Description</strong>: After descending the switchbacks, most hikers travel the loop counter-clockwise: crossing Murphy Hogback with outstanding views, descending the unpaved White Rim Road for a mile, then ascending via a wash through dramatic geologic layers to the switchbacks again.</li> <li><strong>Bring</strong>: Water (at least 1 L per person, per hour), snacks, sturdy footwear, headlamp, map, and be prepared for, sun, rain, heat, or cold.</li> <li><strong>Accessibility</strong>: This trail can be rough, uneven, and requires walking up and down a rocky hill and stone steps. It is not accessible to wheelchairs. In winter, there may be snow or icy conditions; we recommend traction devices for hikers.</li> <li><strong>Dogs are not allowed on this trail</strong>. Service animals are allowed in national parks. <a href=\"https://cms.nps.gov/planyourvisit/service-animals.htm\">What is a service animal?</a></li> </ul>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.863830103,
+          38.35500389
+        ]
+      },
+      "properties": {
+        "name": "Murphy Point Trail",
+        "notes": "Murphy Point Trail\nhttps://www.nps.gov/places/murphy-point-trail.htm\n\n<p>People seeking a mostly level hike longer than just a mile might enjoy the Murphy Point Trail. It leaves the pavement and vehicle sounds behind, and offers the change to imagine what Canyonlands looked like during its ranching days before it became a national park. </p> <ul> <li><strong>Roundtrip Distance</strong>: 3.4 mi (5.5 km)</li> <li><strong>Time</strong>: 2 hrs</li> <li><strong>Elevation Change</strong>: 142 ft (43 m)</li> <li><strong>Difficulty</strong>: Easy Hike</li> <li><strong>Description</strong>: This longer but mostly level hike leads past a historic corral on the mesa top. The trail ends with panoramic views of Candlestick Tower, the Green River, and the White Rim Road.</li> <li><strong>Accessibility</strong>: This trail can be rough, uneven, and requires walking up and down a rocky hill and stone steps. It is not accessible to wheelchairs. In winter, there may be snow or icy conditions; we recommend traction devices for hikers. </li> <li><strong>Dogs are not allowed on this trail</strong>. Service animals are allowed in national parks. <a href=\"https://www.nps.gov/planyourvisit/service-animals.htm\">What is a service animal?</a></li> </ul>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.820454721,
+          38.452402043
+        ]
+      },
+      "properties": {
+        "name": "Neck Spring Trail",
+        "notes": "Neck Spring Trail\nhttps://www.nps.gov/places/neck-spring-trail.htm\n\n<p>A walk back in time, this loop trail passes historic ranching features and two springs where cowboys watered cattle.</p> <ul> <li><strong>Roundtrip Distance</strong>: 5.6 mi (9 km)</li> <li><strong>Time</strong>: 3-4 hrs</li> <li><strong>Elevation Change</strong>: 418 ft (127 m)</li> <li><strong>Difficulty</strong>: Moderate – Mesa Top</li> <li><strong>Hike Description</strong>: A walk back in time, this loop trail passes historic ranching features and two springs where cowboys watered cattle. With minor elevation changes, this trail is a great way to see some varied plant life.</li> <li><strong>Bring</strong>: Water (1 L per person, per hour), snacks, sturdy footwear, headlamp, map, and be prepared for, sun, rain, heat, or cold.</li> <li><strong>Accessibility</strong>: This trail can be rough, uneven, and requires walking up and down a rocky hill and stone steps. It is not accessible to wheelchairs. In winter, there may be snow or icy conditions; we recommend traction devices for hikers.</li> <li><strong>Dogs are not allowed on this trail</strong>. Service animals are allowed in national parks. <a href=\"https://cms.nps.gov/planyourvisit/service-animals.htm\">What is a service animal?</a> </li> </ul>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.85837807,
+          38.313497661
+        ]
+      },
+      "properties": {
+        "name": "Orange Cliffs Overlook",
+        "notes": "Orange Cliffs Overlook\nhttps://www.nps.gov/places/orange-cliffs-overlook.htm\n\n<p>At Island in the Sky, most of the landscape visible from the scenic road and its overlooks lies outside the park boundary. This viewpoint near the end of the main park road offers a panoramic view across the canyon of the Green River. Dazzling sandstone cliffs of the aptly named Orange Cliffs unit of <a href=\"https://www.nps.gov/glca/index.htm\">Glen Canyon National Recreation Area</a> sit just across the river from the viewpoint, with The Maze district of Canyonlands stretching toward the south. When Grand View Point parking area is full, this stop makes a great alternative.</p> <h4>Accessibility:</h4> <p>The cliffs are visible from the paved parking area. The area closer to the canyon rim is unpaved, rocky, and uneven.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.803654,
+          38.14347449
+        ]
+      },
+      "properties": {
+        "name": "Peekaboo Trail",
+        "notes": "Peekaboo Trail\nhttps://www.nps.gov/places/peekaboo-trail.htm\n\n<p>This trail crosses both Squaw and Lost canyons on its way to Salt Creek Canyon, passing along high slickrock benches with spectacular views. <em>NOTE: A new place name to replace the derogatory term \"Sq---\" is under consideration.</em></p> <ul role=\"list\"> <li aria-setsize=\"-1\" data-aria-level=\"5\" data-aria-posinset=\"3\" data-font=\"Courier New\" data-leveltext=\"o\" data-listid=\"4\" role=\"listitem\"> <p paraeid=\"{863dbba9-92a9-4926-86c7-97eb2e14b853}{53}\" paraid=\"439193328\"><strong>Roundtrip Distance</strong>: 10.8 mi (17.4 km) </p> </li> <li aria-setsize=\"-1\" data-aria-level=\"5\" data-aria-posinset=\"4\" data-font=\"Courier New\" data-leveltext=\"o\" data-listid=\"4\" role=\"listitem\"> <p paraeid=\"{863dbba9-92a9-4926-86c7-97eb2e14b853}{62}\" paraid=\"1117900153\"><strong>Time</strong>: 5-6 hrs  </p> </li> </ul> <ul role=\"list\"> <li aria-setsize=\"-1\" data-aria-level=\"5\" data-aria-posinset=\"1\" data-font=\"Courier New\" data-leveltext=\"o\" data-listid=\"4\" role=\"listitem\"> <p paraeid=\"{863dbba9-92a9-4926-86c7-97eb2e14b853}{75}\" paraid=\"1384170630\"><strong>Overall Elevation Change</strong>: 429 ft (131 m) <br /> <em>Cumulative elevation gain on this route is much greater. </em></p> </li> <li aria-setsize=\"-1\" data-aria-level=\"5\" data-aria-posinset=\"2\" data-font=\"Courier New\" data-leveltext=\"o\" data-listid=\"4\" role=\"listitem\"> <p paraeid=\"{863dbba9-92a9-4926-86c7-97eb2e14b853}{84}\" paraid=\"1949118939\"><strong>Difficulty</strong>: Strenuous </p> </li> <li aria-setsize=\"-1\" data-aria-level=\"5\" data-aria-posinset=\"3\" data-font=\"Courier New\" data-leveltext=\"o\" data-listid=\"4\" role=\"listitem\"> <p paraeid=\"{863dbba9-92a9-4926-86c7-97eb2e14b853}{93}\" paraid=\"156147533\"><strong>Hike Description</strong>: Steep slopes and nearby cliff edges make this a challenging route. Two ladders must be climbed. View prehistoric rock markings at the end of the trail near Peekaboo camp.  </p> </li> <li aria-setsize=\"-1\" data-aria-level=\"5\" data-aria-posinset=\"4\" data-font=\"Courier New\" data-leveltext=\"o\" data-listid=\"4\" role=\"listitem\"> <p paraeid=\"{863dbba9-92a9-4926-86c7-97eb2e14b853}{102}\" paraid=\"1681936186\"><strong>Bring</strong>: Water (at least 1 L per person, per hour), snacks, sturdy footwear, headlamp, map, and be prepared for, sun, rain, heat, or cold. </p> </li> <li aria-setsize=\"-1\" data-aria-level=\"5\" data-aria-posinset=\"5\" data-font=\"Courier New\" data-leveltext=\"o\" data-listid=\"4\" role=\"listitem\"> <p paraeid=\"{863dbba9-92a9-4926-86c7-97eb2e14b853}{111}\" paraid=\"881386901\"><strong>Accessibility</strong>: This trail can be rough, uneven, and requires climbing two ladders. It is not accessible to wheelchairs. In winter, there may be snow or icy conditions; we recommend traction devices for hikers. </p> </li> </ul> <ul role=\"list\"> <li aria-setsize=\"-1\" data-aria-level=\"5\" data-aria-posinset=\"1\" data-font=\"Courier New\" data-leveltext=\"o\" data-listid=\"4\" role=\"listitem\"> <p paraeid=\"{863dbba9-92a9-4926-86c7-97eb2e14b853}{124}\" paraid=\"1510076259\">Dogs are not allowed on this trail. Service animals are allowed in national parks. <a href=\"https://www.nps.gov/planyourvisit/service-animals.htm\">What is a service animal?</a> </p> </li> </ul> <br /> <br />  ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.806921,
+          38.486404
+        ]
+      },
+      "properties": {
+        "name": "Pets in Canyonlands",
+        "notes": "Pets in Canyonlands\nhttps://www.nps.gov/places/pets-in-canyonlands.htm\n\n<p>Pets and owners have a special bond, but a national park is not always the best place for pets. Canyonlands National Park is a designated natural area, and its purpose is to preserve and protect the park's natural environment, cultural resources, wildlife, and scenic beauty.</p> <h4>Pets are not allowed:</h4> <ul role=\"list\"> <li> <p>on any hiking trails, or anywhere off-trail, even while in a carrier</p> </li> <li> <p>at any overlooks</p> </li> <li> <p>in the visitor center or any building</p> </li> <li> <p>in the backcountry (including vehicles on backcountry roads, and on any river trips)</p> </li> </ul> <h4>Where Can I Take my Pet?</h4> <p><strong>Leashed </strong>pets may accompany you in the following areas:</p> <ul> <li> <p>Along established front-country roads or in parking areas</p> </li> <li>In established front-country campgrounds and picnic areas</li> </ul> <p>Pets may be transported inside vehicles driving the Shafer Trail to Potash Road at Island in the Sky. When the road to Beef Basin via Cathedral Butte is closed by snow/mud, persons with pets are allowed to cross the Needles district via the Elephant Hill-Devil’s Lane/Bobby’s Hole roads. Pets must be on a leash at all times when not in the vehicle, and must remain on the designated road surface only. Any pet excrement deposited on the ground must be collected and removed from the park.</p> <h4>Pet Regulations</h4> <ul> <li> <p>Pets must be leashed at all times.</p> </li> <li> <p>Leashes must be 6 feet (1.8 meters) long or less.</p> </li> <li> <p>Pets may not make excessive noise that impacts visitors or wildlife.</p> </li> <li> <p>Pet excrement must be immediately collected by the pet handler and disposed of in the nearest trash receptacle.</p> </li> <li> <p>Leaving a pet unattended and tied to an object (other than your own parked vehicle) is prohibited. If leaving a pet unattended, ensure the following:</p> <ul> <li> <p>The pet is secured at a location where it will not interfere with wildlife or normal travel by other visitors, and</p> </li> <li> <p>The pet is not being left unattended overnight, and</p> </li> <li> <p>The pet is secured such that no resource damage occurs.</p> </li> </ul> </li> <li> <p>Pets may not be led by a leash from a bicycle or vehicle.</p> </li> <li> <p>Pets may not be left unattended in vehicles if it creates a danger to the animal or if the animal becomes a public nuisance.<strong> Cars heat up <em>quickly</em></strong>. When air temperatures exceed 65°F/18°C, a pet in a vehicle may die—even with the windows cracked. </p> </li> </ul> <h4>Pet Safety</h4> <p>Temperatures in Canyonlands <strong>regularly exceed 100°F.</strong> Extreme temperatures mean pets are susceptible to heat related illness or injury. Look for signs of upset stomach, vomiting, diarrhea, heavy panting, or disorientation and confusion. Rest in the shade, give pets cool water or ice cubes, cool them with a wet towel or with water, and seek medical attention if necessary. Avoid walking pets during the hottest parts of the day. </p> <p>When walking leashed pets in designated frontcountry areas, keep in mind that pavement can get dangerously hot. Try this test. Place your hand on the pavement for 7-10 seconds. If it is too hot for you, it is too hot for your dog's paws.<br />  </p> <table border=\"1\" cellpadding=\"1\" cellspacing=\"1\"> <tbody> <tr> <td colspan=\"5\" style=\"background-color: rgb(221, 221, 221);\"> <p style=\"text-align: center;\"><strong>Pavement and Paw Safety</strong></p> </td> </tr> <tr> <td> <p style=\"text-align: center;\"><strong>When the air is:</strong></p> </td> <td style=\"text-align: center;\"> <p>77°F</p> </td> <td style=\"text-align: center;\"> <p>86°F</p> </td> <td style=\"text-align: center;\"> <p>87°F</p> </td> <td style=\"text-align: center;\"> <p>102°F</p> </td> </tr> <tr> <td> </td> <td style=\"text-align: center;\"> <p> 25°C</p> </td> <td style=\"text-align: center;\"> <p>30°C</p> </td> <td style=\"text-align: center;\"> <p>31°C</p> </td> <td style=\"text-align: center;\"> <p>39°C</p> </td> </tr> <tr> <td style=\"background-color: rgb(221, 221, 221);\"> <p style=\"text-align: center;\"><strong>The asphalt is:</strong></p> </td> <td style=\"text-align: center; background-color: rgb(221, 221, 221);\"> <p><strong><span style=\"color:#c0392b;\">125°F</span></strong></p> </td> <td style=\"text-align: center; background-color: rgb(221, 221, 221);\"> <p><strong><span style=\"color:#c0392b;\">135°F</span></strong></p> </td> <td style=\"text-align: center; background-color: rgb(221, 221, 221);\"> <p><strong><span style=\"color:#c0392b;\">143°F</span></strong></p> </td> <td style=\"text-align: center; background-color: rgb(221, 221, 221);\"> <p><strong><span style=\"color:#c0392b;\">167°F</span></strong></p> </td> </tr> <tr> <td style=\"background-color: rgb(221, 221, 221);\"> </td> <td style=\"text-align: center; background-color: rgb(221, 221, 221);\"> <p><strong><span style=\"color:#c0392b;\">52°C</span></strong></p> </td> <td style=\"text-align: center; background-color: rgb(221, 221, 221);\"> <p><strong><span style=\"color:#c0392b;\">57°C</span></strong></p> </td> <td style=\"text-align: center; background-color: rgb(221, 221, 221);\"> <p><strong><span style=\"color:#c0392b;\">62°C</span></strong></p> </td> <td style=\"text-align: center; background-color: rgb(221, 221, 221);\"> <p><strong><span style=\"color:#c0392b;\">75°C</span></strong></p> </td> </tr> <tr> <td colspan=\"5\"> <p><span style=\"color:#c0392b;\">125°F / 52°C surfaces will burn skin in 60 seconds</span></p> </td> </tr> </tbody> </table>  <br /> <br /> <span style=\"color: rgb(34, 34, 34); font-family: inherit; font-size: 1.25rem; font-weight: 700;\">Why Can't I Have my Dog on Trails?</span> <ul> <li> <p>The mere presence of pets alters the natural behavior of wildlife, which can have devastating consequences. Dogs are predators that can chase, scare and transmit diseases to local wildlife. Even their lingering scent can disrupt an animals’ natural movement and behavior. In such a harsh desert environment, expending energy in this way threatens the survival of species that the park aims to protect.</p> </li> <li> <p>Pets can disturb or destroy natural resources, such as native plants and fragile desert soils. Sensitive cultural and archeological sites may be inadvertently damaged by inquisitive pets.</p> </li> <li> <p>The safety of your pet should be a top priority. Canyonlands is a harsh desert environment with many hazards, including sharp rocks, cliff edges, rattlesnakes and scorpions that can harm your pet. Dogs can easily become the hunted. Your pet may become prey for wildlife like coyotes and mountain lions.</p> </li> <li> <p>Not all visitors are comfortable around pets. Dogs can bite humans. Even if your pet follows instructions and is well behaved, others do not know this and may feel uneasy when encountering you. Park visitors should be able to enjoy the park without the disruptions caused by others’ pets.</p> </li> </ul> <h4>Service Animals and Emotional Support Animals</h4> <p><a href=\"https://www.nps.gov/planyourvisit/service-animals.htm\">Service animals</a> that have been individually trained to perform specific task(s) for the benefit of an individual with a disability are allowed in the park. The tasks performed by the animal must be directly related to the person’s disability.</p> <p>Therapy, companion, or comfort animals are not service animals under the Americans with Disabilities Act and may not access visitor centers, trails or other non-motorized areas. Owners of service dogs or horses must comply with pet waste and restraint regulations, unless restraint specifically interferes with the task the animal is trained to perform.</p> <p>Pet owners violating park regulations may be <u>cited, fined, and/or issued a mandatory appearance before the United States Magistrate Court</u>.</p> <h4>Pet Friendly Alternatives Outside of Canyonlands National Park</h4> <p>If you'd like to hike on trails with your pets, there are many options outside Canyonlands National Park, including:</p> <ul> <li><a href=\"https://stateparks.utah.gov/parks/dead-horse/traveling-with-pets/\">Dead Horse Point State Park</a></li> <li><a href=\"https://www.blm.gov/sites/blm.gov/files/Moab%20BLM%20Visitior%20Guide_pub_2019_all%20vertical%20pages.pdf\">Bureau of Land Management</a></li> <li><a href=\"https://www.fs.usda.gov/activity/mantilasal/recreation/hiking/?recid=72816&actid=50\">La Sal National Forest</a></li> <li>Other options for <a href=\"https://www.discovermoab.com/hiking/\">pet-friendly hikes</a> in the area</li> <li>Visit <a href=\"https://www.discovermoab.com/pet-information/\">discovermoab.com</a> for a listing of nearby kennels, veterinarians, and other pet services.</li> </ul>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.806394843,
+          38.170386698
+        ]
+      },
+      "properties": {
+        "name": "Pothole Point Trail",
+        "notes": "Pothole Point Trail\nhttps://www.nps.gov/places/pothole-point.htm\n\n<p>This short loop trail (0.6 mi/1 km) crosses sandstone dimpled with pockets called potholes.</p> <ul> <li><strong>Roundtrip Distance</strong>: 0.6 mi (1 km)</li> <li><strong>Time</strong>: 45 min</li> <li><strong>Elevation Change</strong>: 36 ft (11 m)</li> <li><strong>Difficulty</strong>: Easy/Short</li> <li><strong>Hike Description</strong>: Uneven slickrock leads to diverse pothole communities and views of The Needles. Trail follows cairns.</li> <li><strong>Accessibility</strong>: This trail can be rough, uneven, and requires walking up and down a rocky hill and stone steps. It is not accessible to wheelchairs. In winter, there may be snow or icy conditions; we recommend traction devices for hikers.</li> <li><strong>Dogs are not allowed on this trail</strong>. Service animals are allowed in national parks. <a href=\"https://cms.nps.gov/planyourvisit/service-animals.htm\">What is a service animal?</a> </li> </ul> <h2>Help protect fragile desert ecosystems</h2> <p>When wet or dry, potholes are tiny—and sensitive—ecosystems. Body oils, soaps, and sunscreens easily pollute the water. Protect these ecosystems by never putting anything (like fingers or feet) into potholes, and by walking around potholes, even when they are dry.</p> <p>The bumpy soil along the trail is also alive. Biological soil crusts are living communities of cyanobacteria, mosses, algae, lichens, and fungi. Soil crust prevents erosion, stores moisture, and provides critical nutrients for plants. Protect this life by staying on trail.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.821563,
+          38.448264
+        ]
+      },
+      "properties": {
+        "name": "Shafer Trail Viewpoint",
+        "notes": "Shafer Trail Viewpoint\nhttps://www.nps.gov/places/shafer-trail-viewpoint.htm\n\n<p>A short, 0.9 mi (1.4 km) drive past the Island in the Sky visitor center leads to a breathtaking view of the Shafer Trail. <br /> <br /> The Shafer Trail at the Island in the Sky district of Canyonlands National Park is an iconic road that descends 1,500 feet (457 m) through a colorful, massive sandstone cliff. Its function has changed through the years; from a route made by Native Americans to access resources on the mesa top, to a trail for sheep herders moving flocks to better foraging in winter time, and then a road for trucks moving loads of uranium from the backcountry to market. Today, the Shafer Trail is a challenging, unpaved backcountry road for recreational users seeking the experience of a lifetime.</p> <h4>Shafer Trail History</h4> <p>The Shafer Trail is named after the Shafer family, who were Mormon pioneer settlers. Starting in 1916, John “Sog” Shafer, used this trail to move cattle from summer pastures on the mesa top to winter ground on the White Rim sandstone, several rock layers down into the canyon. John Shafer is credited for improving the trail and making access into the canyon easier. Many other trails at Island in the Sky also bear names for the families who worked them.<br /> <br /> Expanding upon the work of Sog Shafer, the Atomic Energy Commission widened Shafer Trail and extended it to the White Rim Road to accommodate trucks moving loads of uranium-bearing rock from the backcountry and down to Moab for processing. Many backcountry roads in the Moab area used for recreation today were improved by the Atomic Energy Commission.</p> <p>After Canyonlands was established in 1964, ranchers were granted a ten-year extension of ranching in the park. </p> <h4>From Ranching to Recreation</h4> <p>Overtime, the use of Shafer transitioned from ranching to recreation. Today, hundred of visitors every year experience the thrill of a lifetime driving down the sandstone cliff to the basin below.<br /> <br /> For more information on driving the Shafer Trail, check out the Scenic Drives section under Things to Do. </p> <h4>Accessibility</h4> <p>This small roadside pullout is paved with enough space to accommodate a handful of cars. A short, but unpaved and uneven trail leads to a fenced viewing area. </p> <h4>Driving Tips</h4> <p>Driving the Shafer Trail is something that you’ll never forget, however, it is important to do it safely.</p> <ul> <li> <p>High-clearance 4WD vehicles with a low range gear (4LO) are <strong>strongly </strong>recommended. ATVs, OHVs, or UTVs are not permitted inside the park.</p> </li> <li> <p>Backcountry driving conditions can change rapidly after rain or snow. Check the <a href=\"https://www.nps.gov/cany/planyourvisit/weather.htm\">weather report</a> before starting your trip and <a href=\"https://www.nps.gov/cany/planyourvisit/road-conditions.htm\">current road conditions</a> before heading out. </p> </li> <li>Buckle up! Seatbelts are required on all roads.</li> <li>Obey the 15 mph (24 kph) speed limit.</li> <li>Watch for low overhanging rocks.</li> <li>Uphill traffic has the “right-of-way.” Use berms and pull-outs to allow uphill traffic to pass safely.</li> <li>Please stay on the trail so as not to disturb biological soil crust. Damaged soils are prone to erosion and invasive species.</li> </ul>   <h4> </h4>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.814592949,
+          38.177069393
+        ]
+      },
+      "properties": {
+        "name": "Slickrock Trail",
+        "notes": "Slickrock Trail\nhttps://www.nps.gov/places/slickrock-trail.htm\n\n<p paraeid=\"{d14d2d0d-a4b0-4790-be11-fb663f41d6ff}{113}\" paraid=\"137460281\">Slickrock, a general term for any bare rock surface, dominates much of the landscape in Canyonlands. For millions of years, natural forces have interacted to create the sweeping vistas and landmarks visible along this trail. </p> <ul> <li> <p><strong>Roundtrip Distance</strong>: 2.4 mi (3.9 km)</p> </li> <li> <p><strong>Time</strong>: 1.5 hrs</p> </li> <li> <p><strong>Overall Elevation Change</strong>: 73 ft (22 m)</p> </li> <li> <p><strong>Difficulty</strong>: Easy/Short</p> </li> <li> <p><strong>Hike Description</strong>: This trail features expansive 360-degree views into Big Spring Canyon and Little Spring Canyon, with the La Sal Mountains and Abajo Mountains in the background. Geology guide available at trailhead.</p> </li> <li> <p><strong>Accessibility</strong>: This trail can be rough and uneven. It is not accessible to wheelchairs. In winter, there may be snow or icy conditions; we recommend traction devices for hikers.</p> </li> <li> <p><strong>Dogs are not allowed on this trail</strong>. Service animals are allowed in national parks. <a href=\"https://cms.nps.gov/planyourvisit/service-animals.htm\">What is a service animal?</a> </p> </li> </ul>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.7624781555301,
+          38.163190121259504
+        ]
+      },
+      "properties": {
+        "name": "Stone Storehouse Trail",
+        "notes": "Stone Storehouse Trail\nhttps://www.nps.gov/places/stone-storehouse-trail.htm\n\n<p>Visit one of the best preserved ancient structures in the park, built perhaps over a thousand years ago. Along the short trail (0.3 mile (0.5 km) loop) you will see native plants which people used to meet their daily needs. They will help acquaint you with the way of life of the early inhabitants of this area.</p> <ul> <li><strong>Roundtrip Distance</strong>: 0.3 mi (0.5 km)</li> <li><strong>Time</strong>: 20 min </li> <li><strong>Elevation Change</strong>: 11 ft (3 m)</li> <li><strong>Difficulty</strong>: Short/Easy</li> <li><strong>Hike Description</strong>: A short trail leads to a storage structure built by Indigenous people.<em> Entering, touching, or climbing on archeological sites is strictly prohibited. View structures from a distance to protect fragile walls. </em></li> <li><strong>Accessibility</strong>: This trail can be rough, uneven, and requires walking up and down a rocky hill and stone steps. It is not accessible to wheelchairs. In winter, there may be snow or icy conditions; we recommend traction devices for hikers.</li> <li><strong>Dogs are not allowed on this trail</strong>. Service animals are allowed in national parks. <a href=\"https://cms.nps.gov/planyourvisit/service-animals.htm\">What is a service animal?</a> </li> </ul> <h2>Who lived here?</h2> <p>Around 950 CE (Common Era), ancestral Puebloan populations around <a href=\"https:///www.nps.gov/meve/index.htm\">Mesa Verde</a> and Fremont communities to the north were growing. Emigration into the Canyonlands area increased. Both groups were farmers, seeking locations that provided water, arable land, building sites, and a variety of wild plants. One of those productive locations was the nearby Salt Creek drainage.</p> <p>The ancestral Puebloans practiced full-time farming, but the Fremont split their time between farming and foraging. They raised corn, beans, squash, and cotton and gathered seeds, roots, and fruits. They also hunted deer and bighorn sheep and trapped or snared small animals and birds.</p> <p>Climate change and regional droughts in the late 1200s made farming difficult. By the end of the century most farmers had emigrated south to what is now New Mexico and Arizona. They joined other groups that would become the Hopi and Zuni tribes. Others stayed and adapted to the colder climate by relying on wild plant gathering. These groups would become local Ute and Paiute tribes.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.926121289,
+          38.426320813
+        ]
+      },
+      "properties": {
+        "name": "Syncline Loop Trail",
+        "notes": "Syncline Loop Trail\nhttps://www.nps.gov/places/syncline-loop-trail.htm\n\n<p>The Syncline Loop Trail follows canyons around Upheaval Dome and requires navigating steep switchbacks, climbing and scrambling through boulder fields, and a 1,500-foot (460 m) elevation change. <strong><em>This is the most challenging trail in the Island in the Sky district, and most park rescues occur on this trail. </em></strong></p> <ul> <li><strong>Roundtrip Distance</strong>: 8.1 mi (13 km)</li> <li><strong>Time</strong>: 5-7 hrs</li> <li><strong>Elevation Change</strong>: 1,516 ft (462 m)</li> <li><strong>Difficulty</strong>: Strenuous– Mesa Top to White Rim</li> <li><strong>Hike Description</strong>: This challenging trail follows the canyons around Upheaval Dome and requires navigating steep switchbacks, climbing and scrambling through boulder fields where trail markers are few and far apart. Hiking the trail clockwise starts with a very steep descent but affords better afternoon shade for the gradual ascent through miles of loose sand.</li> <li><strong>Bring</strong>: Water (at least 1 gallon/4 L per person), snacks, sturdy footwear, headlamp or flashlight, map, and be prepared for, sun, rain, heat, or cold.</li> <li><strong>Accessibility</strong>: This trail can be rough, uneven, and requires walking up and down a rocky hill and stone steps. It is not accessible to wheelchairs. In winter, there may be snow or icy conditions; we recommend traction devices for hikers.</li> <li><strong>Dogs are not allowed on this trail</strong>. Service animals are allowed in national parks. <a href=\"https://cms.nps.gov/planyourvisit/service-animals.htm\">What is a service animal?</a></li> </ul> <p>This trail loops around Upheaval Dome but does not provide any views of that unusual geologic feature. For the best views, hike the Upheaval Dome Overlooks trail described in the <strong>Moderate - Mesa Top</strong> section of the Canyonlands app.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.927088882,
+          38.424868807
+        ]
+      },
+      "properties": {
+        "name": "Upheaval Dome",
+        "notes": "Upheaval Dome\nhttps://www.nps.gov/places/upheaval-dome.htm\n\n<p>This unusually circular and tilted geologic formation is a bit of a mystery, obviously different from what's around it. For the best view, hike the one-mile roundtrip (1.5 km) trail to the first overlook (climbing 100 feet/30 meters).</p> <h4>What Happened Here?</h4> <p>Canyonlands is a place of relative geologic order, with rock layers that have not been altered, tilted or folded significantly in the millions of years since they were laid down by ancient seas, rivers or winds.</p> <p>In the area of Upheaval Dome, approximately three miles (5 km) across, rock layers are dramatically deformed. In the center, the rocks are pushed up into a circular structure called a dome, or an anticline. Surrounding this dome is a downwarp in the rock layers called a syncline. What caused these folds at Upheaval Dome? Geologists do not know for sure, but there are two main theories which are hotly debated.</p> <h4><strong>Salt Dome Hypothesis</strong></h4> <p>A thick layer of salt, formed by the evaporation of ancient landlocked seas, underlies much of southeastern Utah and Canyonlands National Park. When under pressure from thousands of feet of overlying rock, the salt can flow plastically, like ice moving at the bottom of a glacier. In addition, salt is less dense than sandstone. As a result, over millions of years salt can flow up through rock layers as a \"salt bubble\", rising to the surface and creating salt domes that deform the surrounding rock.</p> <p>When geologists first suggested that Upheaval Dome was the result of a salt dome, they believed the land form resulted from erosion of the rock layers above the dome itself. Recent research suggests that a salt bubble as well as the overlying rock have been entirely removed by erosion and the present surface of Upheaval Dome is the pinched off stem below the missing bubble. If true, Upheaval Dome would earn the distinction of being the most deeply eroded salt structure on earth.</p> <h4><strong>Impact Crater Hypothesis</strong></h4> <p>When meteorites collide with the earth, they leave impact craters like the well-known one in Arizona. Some geologists estimate that roughly 60 million years ago, a meteorite with a diameter of approximately one-third of a mile hit at what is now the Upheaval Dome. The impact created a large explosion, sending dust and debris high into the atmosphere. The impact initially created an unstable crater that partially collapsed. As the area around Upheaval Dome reached an equilibrium, the rocks underground heaved upward to fill the void left by the impact. Erosion since the impact has washed away any meteorite debris, and now provides a glimpse into the interior of the impact crater, exposing rock layers once buried thousands of feet underground.</p> <h4><strong>Upheaval Dome Today</strong></h4> <p><a href=\"http://geology.gsapubs.org/content/36/3/227.abstract\">Recent research findings</a> support the meteorite hypothesis, but questions still remain. Within Canyonlands National Park, Upheaval Dome serves as a protected geologic laboratory where all can learn about, and be inspired by, the mysteries of nature. Perhaps, with time, we may solve the mystery of this crater and others on our planet.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.926121289,
+          38.426320813
+        ]
+      },
+      "properties": {
+        "name": "Upheaval Dome Overlooks Trail",
+        "notes": "Upheaval Dome Overlooks Trail\nhttps://www.nps.gov/places/upheaval-dome-overlook-trails.htm\n\n<p>Two short but steep hikes lead to overlooks of a spectacular and colorful geologic feature: Upheaval Dome.<br /> <br /> <em>Within minutes of starting, the Overlooks trail crosses the very challenging Syncline Trail, which loops around Upheaval Dome without viewing its center. For more information about the Syncline Trail, see the <strong>Strenuous Hikes - Mesa Top to White Rim</strong> section of the Canyonlands app.</em></p> <h2>Upheaval Dome first overlook</h2> <ul> <li><strong>Roundtrip Distance</strong>: 0.6 mi (1 km)</li> <li><strong>Time</strong>: 1 hr</li> <li><strong>Elevation Change</strong>: 115 ft (35m)</li> <li><strong>Difficulty</strong>: Moderate</li> <li><strong>Hike Description</strong>: A short but steep trail leads to a clear view into Upheaval dome. Exhibits at the end of the trail discuss this unique geologic feature.</li> </ul> <h2>Upheaval Dome second overlook</h2> <ul> <li><strong>Roundtrip Distance</strong>: 1.2 mi (1.9 km)</li> <li><strong>Time</strong>: 1.5 hrs</li> <li><strong>Elevation Change</strong>: 114 ft (35m)</li> <li><strong>Difficulty</strong>: Moderate</li> <li><strong>Hike Description</strong>:This trail splits off from the first overlook trail, following cairns to more views of Upheaval Dome and Upheaval Canyon.</li> <li><strong>Accessibility</strong>: This trail can be rough, uneven, and requires walking up and down a rocky hill and stone steps. It is not accessible to wheelchairs. In winter, there may be snow or icy conditions; we recommend traction devices for hikers.</li> <li><strong>Dogs are not allowed on this trail</strong>. Service animals are allowed in national parks. <a href=\"https://cms.nps.gov/planyourvisit/service-animals.htm\">What is a service animal?</a>  </li> </ul> <p>Canyonlands is a place of relative geologic order. <a href=\"https://www.nps.gov/cany/learn/nature/rockstrata.htm\">Layers</a> of sedimentary deposits systematically record chapters in the park's past. With some exceptions, these layers have not been altered, tilted or folded significantly in the millions of years since they were laid down by ancient seas, rivers or winds.</p> <p>Upheaval Dome is quite a different story. In an area approximately three miles (5 km) across, rock layers are dramatically deformed. In the center, the rocks are pushed up into a circular structure called a dome, or an anticline. Surrounding this dome is a downwarp in the rock layers called a syncline. What caused these folds at Upheaval Dome? Geologists do not know for sure, but there are two main theories which are hotly debated.</p> <p><strong>Salt Dome Theory</strong></p> <p>A thick layer of salt, formed by the evaporation of ancient landlocked seas, underlies much of southeastern Utah and Canyonlands National Park. When under pressure from thousands of feet of overlying rock, the salt can flow plastically, like ice moving at the bottom of a glacier. In addition, salt is less dense than sandstone. As a result, over millions of years salt can flow up through rock layers as a \"salt bubble\", rising to the surface and creating salt domes that deform the surrounding rock.</p> <p>When geologists first suggested that Upheaval Dome was the result of a salt dome, they believed the land form resulted from erosion of the rock layers above the dome itself. Recent research suggests that a salt bubble as well as the overlying rock have been entirely removed by erosion and the present surface of Upheaval Dome is the pinched off stem below the missing bubble. If true, Upheaval Dome would earn the distinction of being the most deeply eroded salt structure on earth.</p> <p><strong>Impact Crater Theory</strong></p> <p>When meteorites collide with the earth, they leave impact craters like the well-known one in Arizona. Some geologists estimate that roughly 60 million years ago, a meteorite with a diameter of approximately one-third of a mile hit at what is now the Upheaval Dome. The impact created a large explosion, sending dust and debris high into the atmosphere. The impact initially created an unstable crater that partially collapsed. As the area around Upheaval Dome reached an equilibrium, the rocks underground heaved upward to fill the void left by the impact. Erosion since the impact has washed away any meteorite debris, and now provides a glimpse into the interior of the impact crater, exposing rock layers once buried thousands of feet underground.</p> <p><strong>Upheaval Dome Today</strong></p> <p><a href=\"http://geology.gsapubs.org/content/36/3/227.abstract\">Recent research findings</a> support the meteorite hypothesis, but questions still remain. Within Canyonlands National Park, Upheaval Dome serves as a protected geologic laboratory where all can learn about, and be inspired by, the mysteries of nature. Perhaps, with time, we may solve the mystery of this crater and others on our planet.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.914169548,
+          38.426753511
+        ]
+      },
+      "properties": {
+        "name": "Whale Rock Trail",
+        "notes": "Whale Rock Trail\nhttps://www.nps.gov/places/whale-rock-trail.htm\n\n<p>Many features in this region bear imaginative names. Does this long sandstone dome looked like a giant whale to you? This trail walks along its side, then climbs from its \"tail\" up to its \"blowhole.\"</p> <ul role=\"list\"> <li aria-setsize=\"-1\" data-aria-level=\"5\" data-aria-posinset=\"45\" data-font=\"Courier New\" data-leveltext=\"o\" data-listid=\"4\" role=\"listitem\"> <p paraeid=\"{6586b1d3-5177-47f9-8426-e7e98ddba119}{41}\" paraid=\"1643395219\"><strong>Roundtrip Distance</strong>: 0.8 mi (1.3 km) </p> </li> <li aria-setsize=\"-1\" data-aria-level=\"5\" data-aria-posinset=\"46\" data-font=\"Courier New\" data-leveltext=\"o\" data-listid=\"4\" role=\"listitem\"> <p paraeid=\"{6586b1d3-5177-47f9-8426-e7e98ddba119}{44}\" paraid=\"1782287218\"><strong>Time</strong>: 1 hr </p> </li> <li aria-setsize=\"-1\" data-aria-level=\"5\" data-aria-posinset=\"47\" data-font=\"Courier New\" data-leveltext=\"o\" data-listid=\"4\" role=\"listitem\"> <p paraeid=\"{6586b1d3-5177-47f9-8426-e7e98ddba119}{47}\" paraid=\"2054007394\"><strong>Elevation Change</strong>: 141 ft (43 m) </p> </li> <li aria-setsize=\"-1\" data-aria-level=\"5\" data-aria-posinset=\"48\" data-font=\"Courier New\" data-leveltext=\"o\" data-listid=\"4\" role=\"listitem\"> <p paraeid=\"{6586b1d3-5177-47f9-8426-e7e98ddba119}{50}\" paraid=\"652405392\"><strong>Difficulty</strong>: Moderate – Mesa Top </p> </li> <li aria-setsize=\"-1\" data-aria-level=\"5\" data-aria-posinset=\"49\" data-font=\"Courier New\" data-leveltext=\"o\" data-listid=\"4\" role=\"listitem\"> <p paraeid=\"{6586b1d3-5177-47f9-8426-e7e98ddba119}{53}\" paraid=\"1888812353\"><strong>Hike Description</strong>: This trail leads up the side of a sandstone dome, ending with broad views of the Island in the Sky. Great for kids who like to scramble on rock. Be careful: wear soles with good traction and avoid steep drop-offs.  </p> </li> <li aria-setsize=\"-1\" data-aria-level=\"5\" data-aria-posinset=\"50\" data-font=\"Courier New\" data-leveltext=\"o\" data-listid=\"4\" role=\"listitem\"> <p paraeid=\"{6586b1d3-5177-47f9-8426-e7e98ddba119}{56}\" paraid=\"562753937\"><strong>Accessibility</strong>: This trail can be rough, uneven, and requires walking up and down a rocky hill and stone steps. It is not accessible to wheelchairs. In winter, there may be snow or icy conditions; we recommend traction devices for hikers. </p> </li> <li aria-setsize=\"-1\" data-aria-level=\"5\" data-aria-posinset=\"51\" data-font=\"Courier New\" data-leveltext=\"o\" data-listid=\"4\" role=\"listitem\"> <p paraeid=\"{6586b1d3-5177-47f9-8426-e7e98ddba119}{60}\" paraid=\"1760780803\">Dogs are not allowed on this trail. Service animals are allowed in national parks. <a href=\"https://cms.nps.gov/planyourvisit/service-animals.htm\">What is a service animal?</a> <br />  </p> </li> </ul> <p>Whale Rock is part of a large outer ring of sandstone surrounding the nearby Upheaval Dome formation.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.849520941,
+          38.322859814
+        ]
+      },
+      "properties": {
+        "name": "White Rim Overlook Trail",
+        "notes": "White Rim Overlook Trail\nhttps://www.nps.gov/places/white-rim-overlook-trail.htm\n\n<p>When the parking lot at Grand View Point is full, this easy hike is a good alternative with similar views of Monument Basin. People uncomfortable with exposure to heights may find it less challenging that the Grand View Point Trail, as well.</p> <ul> <li><strong>Roundtrip Distance</strong>: 1.8 mi (2.9 km)</li> <li><strong>Time</strong>: 1.5 hrs</li> <li><strong>Elevation Change</strong>: 159 ft (49 m)</li> <li><strong>Difficulty</strong>: Easy</li> <li><strong>Hike Description</strong>: Walk to an east-facing overlook for views of the Colorado River, Monument Basin, and La Sal Mountains. Best in the late afternoon. Very limited trailhead parking. Hikers may not park off pavement of in the picnic area. </li> <li><strong>Accessibility</strong>: This trail can be rough, uneven, and requires walking up and down a rocky hill and stone steps. It is not accessible to wheelchairs. In winter, there may be snow or icy conditions; we recommend traction devices for hikers.</li> <li><strong>Dogs are not allowed on this trail</strong>. Service animals are allowed in national parks. <a href=\"https://cms.nps.gov/planyourvisit/service-animals.htm\"> What is a service animal?</a></li> </ul>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.898376835,
+          38.404301585
+        ]
+      },
+      "properties": {
+        "name": "Wilhite Trail",
+        "notes": "Wilhite Trail\nhttps://www.nps.gov/places/wilhite-trail.htm\n\n<p paraeid=\"{dd69bb86-0131-4382-92b9-332d48e86814}{233}\" paraid=\"840572081\">A primitive trail with steep switchbacks drops 1,600 feet (488 m) into a long, sandy wash. Follow the wash to the White Rim Road. No shade.</p> <ul role=\"list\"> <li paraeid=\"{dd69bb86-0131-4382-92b9-332d48e86814}{233}\" paraid=\"840572081\"> <p><strong>Roundtrip Distance</strong>: 11.4 mi (18.3 km) </p> </li> <li aria-setsize=\"-1\" data-aria-level=\"5\" data-aria-posinset=\"34\" data-font=\"Courier New\" data-leveltext=\"o\" data-listid=\"4\" role=\"listitem\"> <p paraeid=\"{dd69bb86-0131-4382-92b9-332d48e86814}{236}\" paraid=\"635427932\"><strong>Time</strong>: 6-8 hrs </p> </li> <li aria-setsize=\"-1\" data-aria-level=\"5\" data-aria-posinset=\"35\" data-font=\"Courier New\" data-leveltext=\"o\" data-listid=\"4\" role=\"listitem\"> <p paraeid=\"{dd69bb86-0131-4382-92b9-332d48e86814}{239}\" paraid=\"947959421\"><strong>Elevation Change</strong>: 1,693 ft (516 m) </p> </li> <li aria-setsize=\"-1\" data-aria-level=\"5\" data-aria-posinset=\"36\" data-font=\"Courier New\" data-leveltext=\"o\" data-listid=\"4\" role=\"listitem\"> <p paraeid=\"{dd69bb86-0131-4382-92b9-332d48e86814}{242}\" paraid=\"767731027\"><strong>Difficulty</strong>: Strenuous– Mesa Top to White Rim </p> </li> <li aria-setsize=\"-1\" data-aria-level=\"5\" data-aria-posinset=\"37\" data-font=\"Courier New\" data-leveltext=\"o\" data-listid=\"4\" role=\"listitem\"> <p paraeid=\"{dd69bb86-0131-4382-92b9-332d48e86814}{245}\" paraid=\"360272499\"><strong>Hike Description</strong>: A primitive trail with steep switchbacks drops 1,600 feet (488 m) into a long, sandy wash. Follow the wash to the White Rim Road. No shade.   </p> </li> <li aria-setsize=\"-1\" data-aria-level=\"5\" data-aria-posinset=\"38\" data-font=\"Courier New\" data-leveltext=\"o\" data-listid=\"4\" role=\"listitem\"> <p paraeid=\"{dd69bb86-0131-4382-92b9-332d48e86814}{248}\" paraid=\"2009137951\"><strong>Bring</strong>: Water (at least 1 L per person, per hour), snacks, sturdy footwear, headlamp, map, and be prepared for, sun, rain, heat, or cold. </p> </li> <li aria-setsize=\"-1\" data-aria-level=\"5\" data-aria-posinset=\"39\" data-font=\"Courier New\" data-leveltext=\"o\" data-listid=\"4\" role=\"listitem\"> <p paraeid=\"{dd69bb86-0131-4382-92b9-332d48e86814}{251}\" paraid=\"65028159\"><strong>Accessibility</strong>: This trail can be rough, uneven, and requires walking up and down a rocky hill and stone steps. It is not accessible to wheelchairs. In winter, there may be snow or icy conditions; we recommend traction devices for hikers. </p> </li> <li aria-setsize=\"-1\" data-aria-level=\"5\" data-aria-posinset=\"40\" data-font=\"Courier New\" data-leveltext=\"o\" data-listid=\"4\" role=\"listitem\"> <p paraeid=\"{dd69bb86-0131-4382-92b9-332d48e86814}{255}\" paraid=\"1762132102\">Dogs are not allowed on this trail. Service animals are allowed in national parks. <a href=\"https://cms.nps.gov/planyourvisit/service-animals.htm\">What is a service animal?</a> </p> </li> </ul>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.78144392296335,
+          38.15052988922924
+        ]
+      },
+      "properties": {
+        "name": "Wooden Shoe Arch Overlook",
+        "notes": "Wooden Shoe Arch Overlook\nhttps://www.nps.gov/places/wooden-shoe-arch-overlook.htm\n\n<p>Many landforms in canyon country have visually descriptive names. Just like it says, this roadside overlook offers a great view of large sandstone arch shaped like a classic Dutch wooden shoe. Spring through fall, cottonwood trees and other greenery in the foreground create a lovely composition.</p> <h4>Accessibility:</h4> <p>The arch is visible from the paved pullout along the road.<br />  </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.803654,
+          38.14347449
+        ]
+      },
+      "properties": {
+        "name": "Wooden Shoe Canyon to Lost Canyon Loop Trail",
+        "notes": "Wooden Shoe Canyon to Lost Canyon Loop Trail\nhttps://www.nps.gov/places/wooden-shoe-to-lost-canyon-loop-trail.htm\n\n<p paraeid=\"{156383aa-4d02-43bf-bbf7-157c741fb3f7}{101}\" paraid=\"216926381\">This loop hike is a bit more challenging, with one ladder and some difficult sections of climbing between the two canyons.</p> <ul role=\"list\"> <li aria-setsize=\"-1\" data-aria-level=\"5\" data-aria-posinset=\"2\" data-font=\"Courier New\" data-leveltext=\"o\" data-listid=\"4\" role=\"listitem\"> <p paraeid=\"{156383aa-4d02-43bf-bbf7-157c741fb3f7}{110}\" paraid=\"1791321305\"><strong>Roundtrip Distance</strong>: 8.7 mi (14 km) </p> </li> <li aria-setsize=\"-1\" data-aria-level=\"5\" data-aria-posinset=\"3\" data-font=\"Courier New\" data-leveltext=\"o\" data-listid=\"4\" role=\"listitem\"> <p paraeid=\"{156383aa-4d02-43bf-bbf7-157c741fb3f7}{119}\" paraid=\"1985146426\"><strong>Time</strong>: 4-6 hrs  </p> </li> </ul> <ul role=\"list\"> <li aria-setsize=\"-1\" data-aria-level=\"5\" data-aria-posinset=\"1\" data-font=\"Courier New\" data-leveltext=\"o\" data-listid=\"4\" role=\"listitem\"> <p paraeid=\"{156383aa-4d02-43bf-bbf7-157c741fb3f7}{132}\" paraid=\"1619693159\"><strong>Overall Elevation Change</strong>: 404 ft (123 m) <br /> <em>Cumulative elevation gain on this route is much greater. </em></p> </li> <li aria-setsize=\"-1\" data-aria-level=\"5\" data-aria-posinset=\"2\" data-font=\"Courier New\" data-leveltext=\"o\" data-listid=\"4\" role=\"listitem\"> <p paraeid=\"{156383aa-4d02-43bf-bbf7-157c741fb3f7}{141}\" paraid=\"540641982\"><strong>Difficulty</strong>: Strenuous </p> </li> <li aria-setsize=\"-1\" data-aria-level=\"5\" data-aria-posinset=\"3\" data-font=\"Courier New\" data-leveltext=\"o\" data-listid=\"4\" role=\"listitem\"> <p paraeid=\"{156383aa-4d02-43bf-bbf7-157c741fb3f7}{150}\" paraid=\"866779344\"><strong>Hike Description</strong>: A wonderful loop hike with some difficult sections climbing between two canyons. Riparian areas in both canyons attract birds and other wildlife. Route in Lost Canyon passes through dense vegetation and may be very wet. One ladder must be climbed.   </p> </li> <li aria-setsize=\"-1\" data-aria-level=\"5\" data-aria-posinset=\"4\" data-font=\"Courier New\" data-leveltext=\"o\" data-listid=\"4\" role=\"listitem\"> <p paraeid=\"{156383aa-4d02-43bf-bbf7-157c741fb3f7}{161}\" paraid=\"1088643807\"><strong>Bring</strong>: Water (at least 1 L per person, per hour), snacks, sturdy footwear, headlamp, map, and be prepared for, sun, rain, heat, or cold. </p> </li> <li aria-setsize=\"-1\" data-aria-level=\"5\" data-aria-posinset=\"5\" data-font=\"Courier New\" data-leveltext=\"o\" data-listid=\"4\" role=\"listitem\"> <p paraeid=\"{156383aa-4d02-43bf-bbf7-157c741fb3f7}{170}\" paraid=\"1141704206\"><strong>Accessibility</strong>: This trail can be rough, uneven, and requires climbing rock surfaces and one ladder. It is not accessible to wheelchairs. In winter, there may be snow or icy conditions; we recommend traction devices for hikers. </p> </li> </ul> <ul role=\"list\"> <li aria-setsize=\"-1\" data-aria-level=\"5\" data-aria-posinset=\"1\" data-font=\"Courier New\" data-leveltext=\"o\" data-listid=\"4\" role=\"listitem\"> <p paraeid=\"{156383aa-4d02-43bf-bbf7-157c741fb3f7}{183}\" paraid=\"1099138247\">Dogs are not allowed on this trail. Service animals are allowed in national parks. <a href=\"https://cms.nps.gov/planyourvisit/service-animals.htm\">What is a service animal?</a> </p> </li> </ul>",
+        "icon": "red-pin-down.png"
+      }
+    }
+  ]
+}

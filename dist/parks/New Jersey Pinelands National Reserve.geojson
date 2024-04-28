@@ -1,0 +1,20 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.75,
+          39.75
+        ]
+      },
+      "properties": {
+        "name": "New Jersey Pinelands National Reserve",
+        "notes": "New Jersey Pinelands National Reserve\nhttps://www.nps.gov/places/new-jersey-pinelands-national-reserve.htm\n\n<p>Congress created the Pinelands National Reserve (PNR) through the passage of the <a href=\"https://www.nj.gov/pinelands/reserve/NR_act_1978_502_16.pdf\">National Parks and Recreation Act of 1978</a>. The PNR is the first National Reserve in the nation. <br /> <br /> The PNR is approximately 1.1 million acres and spans portions of seven counties and all or part of 56 municipalities. The reserve occupies 22% of New Jersey's land area and it is the largest body of open space on the Mid-Atlantic seaboard between Richmond and Boston.<br /> <br /> The reserve is home to dozens of rare plant and animal species and the Kirkwood-Cohansey aquifer system, which contains an estimated 17 trillion gallons of water. It is also classified as a United States Biosphere Reserve. The Pinelands is located in the Atlantic Outer Coastal Plain, geological formation characterized by gently rolling terrain and sandy soils. Underlying much of the Pinelands is the Cohansey Aquifer, which contains enough water to cover all of New Jersey 10 feet deep - and equal to nearly half the water consumed each year in the U.S. This formation of unconsolidated sand and gravel functions as a vast reservoir estimated to contain over 17 trillion gallons of some of the purest water in the country. The water in this shallow aquifer frequently lies at or near the surface, producing bogs, marshes, and swamps. The streams of the Pinelands are fed by this aquifer, and are characteristically acidic and nutrient poor. Natural organic contents leaching out of the soils are responsible for the dark tea color of the region's streams.<br />    </p> <p>In 1979, New Jersey formed a partnership with the federal government to preserve, protect and enhance the natural and cultural resources of this special place.<br /> <br /> Through its implementation of the Pinelands Comprehensive Management Plan, the <a href=\"https://www.nj.gov/pinelands/reserve/\">New Jersey Pinelands Commission</a> protects the Pinelands in a manner that maintains the region's unique ecology while permitting compatible development. <br /> <br /> Whether you are interested in exploring a historic site, canoeing down a Pinelands steam, visiting a nature center, or hiking along a trail, you can find it in the Pinelands National Reserve. A Pinelands Guide to Recreational Opportunities, Historic Sites, Nature Centers, and Field Trips in the New Jersey Pinelands is available on-line at the NJ Pinelands Commission website.</p>",
+        "icon": "red-pin-down.png"
+      }
+    }
+  ]
+}

@@ -1,0 +1,468 @@
+[
+  {
+    "id": "F34125FF-3CD3-4D74-B438-DD49BFE00F91",
+    "url": "https://www.nps.gov/places/mariners-home.htm",
+    "title": "Mariners' Home",
+    "listingDescription": "The Mariners’ Home was opened for its present use as a home for transient mariners in 1857. Originally built as a private mansion in 1787, the building was later donated to the New Bedford Port Society and moved to its present location. ",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/F9C8D228-F714-CE9E-9CBB8B945410D27E.jpg",
+        "credit": "",
+        "altText": "Mariner's Home",
+        "title": "Mariner's Home",
+        "description": "",
+        "caption": "Mariner's Home Right of the Image",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/F9C8D228-F714-CE9E-9CBB8B945410D27E.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/F9C8D228-F714-CE9E-9CBB8B945410D27E.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "MA",
+        "parkCode": "nebe",
+        "designation": "National Historical Park",
+        "fullName": "New Bedford Whaling National Historical Park",
+        "url": "https://www.nps.gov/nebe/index.htm",
+        "name": "New Bedford Whaling"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [
+      "Mariners Home",
+      "New Bedford Whaling National Historical Park",
+      "New Bedford",
+      "national historical park",
+      "National Historic Landmark"
+    ],
+    "latitude": "",
+    "longitude": "",
+    "latLong": "",
+    "bodyText": "<h2>About</h2> <p paraeid=\"{953bf880-08df-4138-adf8-596a8d61f740}{28}\" paraid=\"1856422497\">Built circa 1787 by William Rotch, Jr. as a private residence, this 3-story Federal style structure was moved to this site from its original location on the southwest corner of William and North Water Streets.  After the death of William Rotch, Jr. In 1850, the building was donated to the New Bedford Port Society and moved to this site. The Mariners’ Home was opened for its present use as a home for transient mariners in 1857. Today, the Mariners’ Home is used as offices and exhibition space.   </p> <h2 paraeid=\"{953bf880-08df-4138-adf8-596a8d61f740}{35}\" paraid=\"620989789\">History</h2> <ul role=\"list\"> <li aria-setsize=\"-1\" data-aria-level=\"3\" data-aria-posinset=\"2\" data-font=\"Wingdings\" data-leveltext=\"\" data-listid=\"3\" role=\"listitem\"> <p paraeid=\"{39e9eeb1-de12-4ad6-b257-b1222a2b5c46}{246}\" paraid=\"1430112090\">William Rotch Jr. and his family moved to New Bedford from Nantucket between May and June 1788 to take over the New Bedford branch of the family sperm whaling business. </p> </li> <li aria-setsize=\"-1\" data-aria-level=\"3\" data-aria-posinset=\"3\" data-font=\"Wingdings\" data-leveltext=\"\" data-listid=\"3\" role=\"listitem\"> <p paraeid=\"{cb602953-5d7a-4ace-b5e8-0792f668c3bf}{6}\" paraid=\"1822838733\">By 1790 he and his wife Elizabeth built a new home on the southwest corner of William and North Water streets on the site of his grandfather Joseph Rotch’s house. Joseph, who helped pioneer the colonial whale fishery of Bedford Village, died in 1784. His house had been burned by the British during the American Revolution. William and his second wife Lydia Scott Rotch, moved from this house up the hill to a new house on County Street in 1834. </p> </li> <li aria-setsize=\"-1\" data-aria-level=\"3\" data-aria-posinset=\"1\" data-font=\"Wingdings\" data-leveltext=\"\" data-listid=\"3\" role=\"listitem\"> <p paraeid=\"{cb602953-5d7a-4ace-b5e8-0792f668c3bf}{45}\" paraid=\"184140644\">From 1834 to 1850, William Rotch Jr. rented his home for a variety of commercial uses. After his passing in 1850, William’s daughter Sarah Rotch Arnold donated the home to the New Bedford Port Society. It was moved up to Johnny Cake Hill and placed next to the Seamen’s Bethel, where it became known as the Mariners’ Home. </p> </li> <li aria-setsize=\"-1\" data-aria-level=\"3\" data-aria-posinset=\"2\" data-font=\"Wingdings\" data-leveltext=\"\" data-listid=\"3\" role=\"listitem\"> <p paraeid=\"{cb602953-5d7a-4ace-b5e8-0792f668c3bf}{52}\" paraid=\"1279996522\">Beginning in 1851, the Ladies Branch of the New Bedford Port Society for the Moral Improvement of Seamen (established in 1830) operated the Mariners’ Home as a safe and moral boarding house for whalers, fishermen, and other mariners in the Port of New Bedford. The Mariners’ Home was purposefully located close to the Seamen’s Bethel (built in 1834) where sailors could hear sermons and gain reassurance and inspiration before setting off on their long voyages. The Mariners’ Home provided a haven for New Bedford seamen and fishermen into the 21st century. </p> </li> </ul>",
+    "audioDescription": "Standing on the narrow bluestone sidewalk facing the east elevation of the Seamen’s Bethel, you will observe a 3-story five-bay Federal style residence with a clapboard front on the east elevation, shingles on the west elevation, and brick on the north and south elevations. The main entry on Johnny Cake Hill is a 2018 addition built between the Seamen’s Bethel and the Mariners’ Home providing an accessible entry to the public. The new entry is glass with a centered door between the Bethel and the Mariners’ Home. Behind the building is a parking lot for the site. Inside the Mariners’ Home are commercial offices for several local nonprofit organizations",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "http://seamensbethel.org/",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "",
+    "isManagedByNps": "1",
+    "amenities": [
+      "Accessible Rooms",
+      "Accessible Sites",
+      "Automated Entrance",
+      "Elevator",
+      "Historical/Interpretive Information/Exhibits",
+      "Information",
+      "Restroom",
+      "Wheelchair Accessible"
+    ],
+    "managedByOrg": "The New Bedford Port Society",
+    "quickFacts": [
+      {
+        "id": "5C252B96-2DEB-4EF4-91D1-B5D2B202FCD7",
+        "value": "15 Johnny Cake Hill  New Bedford, MA 02740  ",
+        "name": "Location"
+      },
+      {
+        "id": "208F1B3C-44DC-4CF5-9A61-9B26A364D701",
+        "value": "Museum",
+        "name": "Significance"
+      },
+      {
+        "id": "E32D2136-A184-4C1A-91D2-4C20CEF9CBAF",
+        "value": "National Historical Landmark",
+        "name": "Designation"
+      }
+    ],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  },
+  {
+    "id": "99EED9CC-85DB-4DF4-A020-868F94678325",
+    "url": "https://www.nps.gov/places/nathan-and-polly-johnson-house.htm",
+    "title": "Nathan and Polly Johnson House",
+    "listingDescription": "The Nathan and Polly Johnson House is a location important to the history of the Underground Railroad. Mentioned in Narrative of the Life of Frederick Douglass, An American Slave, Nathan and Polly Johnson provided the first free home to Frederick and Anna Douglass. A designated site on the National Park Service Underground Railroad Network to Freedom, it became a National Historic Landmark in 2000 and, was added to the Network to Freedom in 2001.",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/53F574F9-A831-C4A3-F40E4FE580A45148.jpg",
+        "credit": "NPS Photo",
+        "altText": "Close up image of the historic home of Nathan and Polly Johnson",
+        "title": "Nathan and Polly Johnson House",
+        "description": "",
+        "caption": "Nathan and Polly Johnson Virtual House",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/53F574F9-A831-C4A3-F40E4FE580A45148.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/53F574F9-A831-C4A3-F40E4FE580A45148.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "MA",
+        "parkCode": "nebe",
+        "designation": "National Historical Park",
+        "fullName": "New Bedford Whaling National Historical Park",
+        "url": "https://www.nps.gov/nebe/index.htm",
+        "name": "New Bedford Whaling"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [
+      "Nathan and Polly Johnson House",
+      "New Bedford",
+      "Polly Johnson House",
+      "Nathan Johnson House",
+      "Frederick Douglass",
+      "New Bedford Whaling National Historical Park",
+      "Abolitionist"
+    ],
+    "latitude": "41.63297070839743",
+    "longitude": "-70.92852265108377",
+    "latLong": "41.63297070839743,-70.92852265108377",
+    "bodyText": "<h2>About</h2> <p>The Nathan and Polly Johnson House is a location important to the history of the Underground Railroad. Mentioned in Narrative of the Life of Frederick Douglass, An American Slave, Nathan and Polly Johnson provided the first free home to Frederick and Anna Douglass. A designated site on the National Park Service Underground Railroad Network to Freedom, it became a National Historic Landmark in 2000 and, was added to the Network to Freedom in 2001. The Johnson House is also a site on the White House Millennial trail and the New Bedford Black History Trial. </p> <h2>History</h2> <p paraeid=\"{4cbc50ac-dac7-4320-a54f-1c66e1fb0339}{214}\" paraid=\"1087536948\">The Nathan and Polly Johnson House is a Greek Revival/Italianate-style building built in the area east of County Street “behind the mansions.” A Black migration and settlement in this neighborhood mirrored white migration in some instances and stood distinct from others. The owners Nathan and Mary Johnson were prosperous African American entrepreneurs who were well known for their extensive work in the anti-slavery movement. </p> <p paraeid=\"{4cbc50ac-dac7-4320-a54f-1c66e1fb0339}{235}\" paraid=\"2006659274\">This house is located on 21 Seventh Street and was constructed by Nathan Johnson in the early 19th century. Nathan Johnson was a very prominent African American resident of New Bedford. He was born into slavery in Virginia in 1795 and in the early 19th century escaped to new Bedford. In 1819, he married Mary (known as Polly) Page, the daughter of Isaac and Ann Mingo, a free black family from Fall River. Nathan and Polly were actively involved in the Underground Railroad, and they assisted many former slaves in their journey north including Frederick Douglass, who escaped from slavery and came to New Bedford in 1838.  </p> <p paraeid=\"{4cbc50ac-dac7-4320-a54f-1c66e1fb0339}{254}\" paraid=\"1979489895\">The Nathan and Polly Johnson House was a shelter for freedom for many enslaved families. The most notable families are Frederick and Anna Douglass, The Molyneux-Gibson family, Josephine and Clarissa family, William Wells Brown, and Caroline Harris. It was in this house, then, Frederick Johnson became Frederick Douglass. This name was suggested to him by Nathan Johnson. Nathan claims that there were too many Johnsons in New Bedford and suggested Douglass from a book he was reading. The book was Sir Walter Scott’s verse “Lady of the Lake,” whose hero is the Scottish Lord Douglas; the name, with an extra “s” became the fugitive’s new name.</p>",
+    "audioDescription": "The address of this building is 21 Seventh Street, New Bedford, Massachusetts, 02740 and it is about 15 minutes' walk from the visitor center. Sturdy walking shoes is recommended. From the visitor center main entrance, head towards Union Street from Second Street on your right. Take Right on Union Street and stay on it until Seventh Street. It is about five city block and then, take a left on Seventh Street. The house should be on the right-hand side after Spring Street and a yellow house. On your left, is the new Abolitionist Row Park. The primary entrance is housed within a 1-by-1 bay, hip-roof entrance porch in the north bay that consist of a glass door flanked by full sidelight. The vestibule features recessed panel pilasters, dentils, and fixed-glass windows and is accessed via eight wood stairs with simple wood rails. The structural system is wood frame on a stone foundation with brick facing. The exterior wall fabric is wood shingle, and the roof sheathing is asphalt. There is no wheelchair accessible. Other notable exterior features include, on the right, a landmark historical marker, about two feet high black iron fence, and a nice, maintained flower garden.",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "https://nbhistoricalsociety.org/",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "",
+    "isManagedByNps": "1",
+    "amenities": [
+      "Historical/Interpretive Information/Exhibits",
+      "Information"
+    ],
+    "managedByOrg": "New Bedford Historical Society",
+    "quickFacts": [
+      {
+        "id": "5C252B96-2DEB-4EF4-91D1-B5D2B202FCD7",
+        "value": "21 7th Street. New Bedford, MA 02740",
+        "name": "Location"
+      },
+      {
+        "id": "E32D2136-A184-4C1A-91D2-4C20CEF9CBAF",
+        "value": "National Historic Landmark",
+        "name": "Designation"
+      }
+    ],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  },
+  {
+    "id": "C088736F-CF5B-488B-B2B9-72E1783A97A4",
+    "url": "https://www.nps.gov/places/new-bedford-whaling-museum.htm",
+    "title": "New Bedford Whaling Museum",
+    "listingDescription": "The New Bedford Whaling Museum is a world-renowned museum that brings to life the rich history of the whaling industry and New Bedford. Located in the heart of New Bedford Whaling National Historical Park.",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/CAAA44C6-CA7A-6BD5-B671875F963209AE.jpg",
+        "credit": "NPS Photo",
+        "altText": "Front view of the Whaling Museum building.",
+        "title": "New Bedford Whaling Museum",
+        "description": "",
+        "caption": "Front entrance of the Whaling Museum building.",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/CAAA44C6-CA7A-6BD5-B671875F963209AE.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/CAAA44C6-CA7A-6BD5-B671875F963209AE.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "MA",
+        "parkCode": "nebe",
+        "designation": "National Historical Park",
+        "fullName": "New Bedford Whaling National Historical Park",
+        "url": "https://www.nps.gov/nebe/index.htm",
+        "name": "New Bedford Whaling"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [
+      "New Bedford Whaling Museum",
+      "whaling",
+      "whaling history",
+      "Whaling Industry",
+      "Whaling Museum Lobby",
+      "Whaling Museum",
+      "history",
+      "sea",
+      "ocean",
+      "Partner",
+      "partnership",
+      "collaboration"
+    ],
+    "latitude": "41.63555908203125",
+    "longitude": "-70.92333221435547",
+    "latLong": "41.63555908203125,-70.92333221435547",
+    "bodyText": "<h2>About</h2> <p>New Bedford Whaling Museum is a world-renowned museum that offers visitors the opportunity to explore the rich history of the whaling industry and New Bedford. Located in the heart of New Bedford Whaling National Historical Park, the Museum features interactive exhibits, including the world’s largest whaling ship model; displays of fine and decorative arts; collections of cultural artifacts, rare antiquities, scrimshaw and logbooks; and five whale skeletons including the rare blue and northern right whale. </p> <h2>History</h2> <p paraeid=\"{aad91d14-1657-48c2-99ee-536c1fbc1ffa}{2}\" paraid=\"708401127\">Formed by the Old Dartmouth Historical Society, the New Bedford Whaling Museum opened in 1903 to display and store artifacts relevant to the whaling industry and local history. The museum collection contains more than 750,000 items, including 3,000 pieces of scrimshaw and 2,500 logbooks, both of which are the largest collections of these items in the world. The museum also maintains a significant collection of fine art and crafts by local artisans from the whaling era. The museum hosts popular educational programs for school children. <br />  </p> <p paraeid=\"{aad91d14-1657-48c2-99ee-536c1fbc1ffa}{27}\" paraid=\"84059238\">The Whaling Museum quickly outgrew its first home in the Masonic Building at Pleasant and Union Streets. In 1907 the museum moved into the Bank of Commerce, the first of what is now a six-building complex, on Water Street. In 1916 Emily Howland Bourne presented the Bourne Building to the Society. Named in honor of her father Jonathan Bourne, one of New Bedford’s most successful whaling merchants, the large, central building was built to house a half-scale model of Bourne’s favorite ship, the Lagoda, and other whaling artifacts. Sited across the street from the Seaman’s Bethel, the museum’s the 1916 building displaced brothels and taprooms on the eastern side of Johnny Cake Hill and overlooked littered streetscapes toward the harbor.  <br />  </p> <p paraeid=\"{aad91d14-1657-48c2-99ee-536c1fbc1ffa}{27}\" paraid=\"84059238\">Today the museum sits on a full city block campus of multiple structures. Since the 1916 addition of the Bourne Building, the museum has constructed the Wood Building (1934), the Cook Theater Complex (1973), the Jacob Wattles Education Center (2015). The museum has also incorporated the following existing buildings into its campus – the Sundial Building (1820) and the Eben Hirst Building (c.1820). </p>",
+    "audioDescription": "The address of this building is 18 Johnny Cake Hill, New Bedford, MA 02740, but the entry is on the corner of William Street and Johnny Cake Hill. Walking to the building you would walk across blue stone pathways that tend to be uneven in certain locations, sturdy walking shoes are recommended. When entering the plaza of the Whaling Museum, you will have a 2-foot stone wall on the right side that is sometimes used as a seating area. During the summer on the right side will be a tall statue and a few feet from that will a smaller statue of a spermaceti whale. This whale is also located on the right side of the gift shop outdoor entrance. The left side is an open area the leads to William Street with an orientation panel of the park map. The middle contains the main entrance with an overhang that has a giant orange squid that’s tentacles reach across to the lettering that says Whaling Museum. Walking closure to the entrance there it large glass doors and with long silver pull handles attached, on the right side is the wheelchair accessible button the automatically open the doors. There are two sets of glass doors to enter through with the same handle fixtures. On the entrance level of the Whaling Museum are the Cook Memorial Theater, the Jacobs Family Gallery, the Wattles Family Gallery, the Museum store, coatroom and restrooms. The first stop inside the building is the 250-seat Cook Memorial Theater, where museum events are held. Next door is the Jacobs Family Gallery which has the skeletons of a blue whale (66-foot), humpback whale (37-foot), and North Atlantic right whale mother (49-foot) and unborn calf. In addition, there is a life-size model of a whale heart in the gallery. Continuing from this gallery are museum exhibits highlighting how whaling impacted New Bedford culture with the influx of rich into the community. The main level of the Whaling Museum houses the Braitmayer Family Gallery, the Centre Street Gallery, the Scrimshaw collection, the Gratia Houghton Rinehart Gallery, the Energy and Enterprise exhibit, Old Dartmouth History exhibit, the Pursuit to Preservation exhibit, and the ½ scale whaling boat Lagoda. The upper level of the Whaling Museum houses the Azorean Whaleman Gallery, the Cape Verdean Maritime Exhibit, and the San Francisco Room.",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "https://www.whalingmuseum.org/",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "",
+    "isManagedByNps": "0",
+    "amenities": [
+      "Accessible Rooms",
+      "Accessible Sites",
+      "Amphitheater",
+      "Gifts/Souvenirs/Books",
+      "Historical/Interpretive Information/Exhibits",
+      "Information",
+      "Restroom - Accessible",
+      "Restroom - Family",
+      "Scenic View/Photo Spot",
+      "Tactile Exhibit",
+      "Theater/Auditorium",
+      "Ticket Sales",
+      "Wheelchair Accessible"
+    ],
+    "managedByOrg": "New Bedford Whaling Museum",
+    "quickFacts": [
+      {
+        "id": "5C252B96-2DEB-4EF4-91D1-B5D2B202FCD7",
+        "value": "18 Johnny Cake Hill, New Bedford, MA 02740",
+        "name": "Location"
+      },
+      {
+        "id": "208F1B3C-44DC-4CF5-9A61-9B26A364D701",
+        "value": "Museum",
+        "name": "Significance"
+      },
+      {
+        "id": "E32D2136-A184-4C1A-91D2-4C20CEF9CBAF",
+        "value": "Legislative Park Partner",
+        "name": "Designation"
+      }
+    ],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  },
+  {
+    "id": "B2812B42-076F-40C0-9EF7-E1BF76292FD1",
+    "url": "https://www.nps.gov/places/new-bedford-whaling-national-historical-park-visitor-center.htm",
+    "title": "New Bedford Whaling National Historical Park Visitor Center",
+    "listingDescription": "Located at 33 William Street, the Visitor Center provides the National Park Service visitor with an introduction to New Bedford Whaling National Historical Park. Brochures, maps, exhibits and an introductory film are available as well as a small gift shop, rest rooms, Ranger programs, an Artist-in-Residence program, and information on the Park’s partners. ",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/BEBB3BE0-ED4E-13E1-ACB9F11B963432CC.jpg",
+        "credit": "NPS Photo",
+        "altText": "Sunny day view of Visitor Center on the left with the garden and corson building to the right",
+        "title": "National Park Visitor Center",
+        "description": "",
+        "caption": "New Bedford Whaling National Historical Park Visitor Center",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/BEBB3BE0-ED4E-13E1-ACB9F11B963432CC.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/BEBB3BE0-ED4E-13E1-ACB9F11B963432CC.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "MA",
+        "parkCode": "nebe",
+        "designation": "National Historical Park",
+        "fullName": "New Bedford Whaling National Historical Park",
+        "url": "https://www.nps.gov/nebe/index.htm",
+        "name": "New Bedford Whaling"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [
+      "visitor center",
+      "New Bedford",
+      "national historical park",
+      "whaling",
+      "whaling history",
+      "interpretation",
+      "history"
+    ],
+    "latitude": "41.635725255278516",
+    "longitude": "-70.92417240151008",
+    "latLong": "41.635725255278516,-70.92417240151008",
+    "bodyText": "<h2>About</h2> <p>Located at 33 William Street, the Visitor Center provides the National Park Service visitor with an introduction to New Bedford Whaling National Historical Park. Brochures, maps, exhibits and an introductory film are available as well as a small gift shop, rest rooms, Ranger programs, an Artist-in-Residence program, and information on the Park’s partners. </p> <h2 paraeid=\"{105fd8b6-b690-4137-b7f5-e180bf2bf754}{191}\" paraid=\"221113097\">The History</h2> <p paraeid=\"{105fd8b6-b690-4137-b7f5-e180bf2bf754}{198}\" paraid=\"1671837701\">The Visitor Center sits at the corner of William and North Second Streets and is a solid brownstone and brick building in late Greek Revival style, built for the New Bedford Institution for Savings (NBIS) in 1853-54. From 1898 until 1914 it served as the Third District Court of Bristol County. Sold at auction, it would subsequently house a shirt factory, piano warehouse, machine and auto repair until it was “rescued” and restored by its original tenant, NBIS, as a bank branch in 1978. Fleet Bak (formerly NBIS) donated the building to the Waterfront Historic Area LeaguE (WHALE) for use as the National Park Visitor Center in 1995. WHALE formally donated the building to the National Park Service in 2000. </p>",
+    "audioDescription": "The Greek Revival brownstone and brick building anchors the corner of William and North Second Streets. A granite fence and foundation raise the building above street level. Granite steps lead past a brownstone balustrade, level with the first story wood framed glass doors. Tall windows, 2 panes wide and 4 panes high peer out from behind the balustrade on either side of the entrance. A gable end triangular pediment of carved brownstone rises above the central doors and transom. The smooth embedded frieze announces: “The Third District Court of Bristol.” On the right side of the building between 2 granite pillars is a brick walkway which leads to a ramp, providing handicapped access to the main building. This walkway also leads to a pleasant garden area nestled between the main visitor center and the Corson Maritime Learning Center. A contemporary glass and stone link housing rest rooms, water filling station and exhibits connects the two structures. Ornamental shrubs, seasonal flowers, herbs, and greenery make this a favorite spot for concerts, ranger programs, and living history demonstrations. The East side of the garden borders the Corson Maritime Learning Center that houses a 55-seat theater, Makerspace, and offices. The 3-story brick Corson complex built in 1875-1884 was extensively renovated after a fire in 1997, but the variety of window shapes and Victorian adornments have been preserved. Architects refer to the unusual combination of these elements as the “whimsey” of Victorian Times. Older residents' smirk that it was simply a practical way for the previous establishment to showcase the building materials it sold! Inside the Visitor Center are several exhibition areas. Entering the front doors is like stepping inside a 19th century commercial space with a whaling boat replica in the center. The walls are painted yellow ochre and the tall windows are decorated with wood graining. The barrel-vaulted ceiling has multiple coffers painted gray and ochre and trimmed with gold leaf paint. Between the ceiling and wall is a highly decorated cornice bank with egg and dart/lambs tongue beading and dentils, all painted in gold leaf. Around the room are exhibits telling the story of whaling and its impact on New Bedford and the globe. Leaving the Main Bank room, the next room is the Communities of Whaling exhibit, which focuses on the history of the people of color in whaling and how they got to New Bedford. These communities include Wampanoag people, formerly enslaved men and women who came to New Bedford in search of freedom, immigrants from Portugal, Cape Verde, and the Caribbean. There are exhibit stations with interviews with a whaler who still lived in the 1990s and the Behind the Mansions exhibit, which maps the residences of people of color in New Bedford. Leaving the Communities of Whaling Exhibit, the halls have panels describing the economics and history of whaling, as well and a flag display showing the flags of the New Bedford whaling merchants, whose vessels traveled the globe. This hall goes from the Visitor Center through the link where you can find the public restrooms, a 1851 map showing the migration of whales across the globe, and a life-size scale wall sculpture depicting a whale tail. Continuing past the restrooms to the 55-seat theater where the park film is screened, and special events are held. To the right is the exit and the Preservation Exhibit, which highlights the story of preservation in New Bedford. Should you take the elevator to the second floor, you will then be in the MakerSpace, an exhibit space dedicated to the park Artist-in-Residence program. In addition, the space is used as a multipurpose space for events, has additional exhibits on New Bedford history, and a reading nook for the park storyteller program and families.",
+    "isPassportStampLocation": "1",
+    "passportStampLocationDescription": "Passport stamp is located in a small basket laying on a wood table in communities of whaling room inside the visitor center.",
+    "passportStampImages": [],
+    "managedByUrl": "https://nps.gov/nebe",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "",
+    "isManagedByNps": "1",
+    "amenities": [
+      "Accessible Sites",
+      "Benches/Seating",
+      "Bicycle - Rack",
+      "Elevator",
+      "Ferry - Passenger",
+      "Fire Extinguisher",
+      "First Aid Kit Available",
+      "Historical/Interpretive Information/Exhibits",
+      "Information",
+      "Information - Maps Available",
+      "Information - Park Newspaper Available",
+      "Information - Ranger/Staff Member Present",
+      "Information Kiosk/Bulletin Board",
+      "Junior Ranger Activity",
+      "Junior Ranger Booklet Available",
+      "Parking - Auto",
+      "Restroom",
+      "Restroom - Accessible",
+      "Theater/Auditorium",
+      "Water - Bottle-Filling Station",
+      "Wheelchair Accessible"
+    ],
+    "managedByOrg": "National Park Service",
+    "quickFacts": [
+      {
+        "id": "5C252B96-2DEB-4EF4-91D1-B5D2B202FCD7",
+        "value": "33 William St. New Bedford, MA 02740",
+        "name": "Location"
+      },
+      {
+        "id": "208F1B3C-44DC-4CF5-9A61-9B26A364D701",
+        "value": "National Park Service Visitor Center",
+        "name": "Significance"
+      }
+    ],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  },
+  {
+    "id": "C19636CC-2A42-48A3-BB2C-A4BFA8462FCE",
+    "url": "https://www.nps.gov/places/seamens-bethel.htm",
+    "title": "Seamens Bethel",
+    "listingDescription": "The Seamen’s Bethel was opened in 1832 by wealthy Quakers concerned with the spiritual well-being of mariners in New Bedford. The Seamen’s Bethel became famous when depicted as the “Whalemen’s Chapel” in Herman Melville’s 1851 novel, Moby-Dick; or, The Whale. The Seamen’s Bethel is open to the public and is still used for regular services, weddings, funerals, and other religious activities.",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/50E6DEA8-CD5F-742C-9497305F6B7ED236.jpg",
+        "credit": "NPS Photo",
+        "altText": "Sunny day view of Seamen's Bethel taken from the left side of the building",
+        "title": "Seamen's Bethel",
+        "description": "",
+        "caption": "Seamen's Bethel",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/50E6DEA8-CD5F-742C-9497305F6B7ED236.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/50E6DEA8-CD5F-742C-9497305F6B7ED236.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "MA",
+        "parkCode": "nebe",
+        "designation": "National Historical Park",
+        "fullName": "New Bedford Whaling National Historical Park",
+        "url": "https://www.nps.gov/nebe/index.htm",
+        "name": "New Bedford Whaling"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [
+      "New Bedford",
+      "Seamen's Bethel",
+      "Chapel",
+      "Herman Mellville",
+      "moby dick",
+      "New Bedford Whaling National Historical Park"
+    ],
+    "latitude": "41.63502282575084",
+    "longitude": "-70.92360591901524",
+    "latLong": "41.63502282575084,-70.92360591901524",
+    "bodyText": "<h2>About</h2> <p><span style=\"color:#000000;\">The Seamen’s Bethel was opened in 1832 by wealthy Quakers concerned with the spiritual well-being of mariners in New Bedford. The Seamen’s Bethel became famous when depicted as the “Whalemen’s Chapel” in Herman Melville’s 1851 novel, Moby-Dick; or, The Whale. The Seamen’s Bethel is open to the public and is still used for regular services, weddings, funerals, and other religious activities.</span></p> <h2>History</h2> <p><span style=\"color:#000000;\">As the whaling industry grew, the number of seamen in Bedford Village ranged from 5,000 to 10,000 — nearly equaling the population of the village! Their lives, however, vastly contrasted those of locals. <br />  <br /> Whalemen sought out gambling dens, brothels, saloons, and dance halls. Leading citizens observed that these establishments were “detrimental to the dignity and good order of our community.” Additionally, Quaker whaling merchants were concerned that whalemen spent the wages of a multi-year voyage in just a few days on such pursuits, leaving them broke and without means of support. <br />  <br /> In response, town citizens met in 1830 to discuss the situation. The resulting New Bedford Port Society for the Moral Improvement of Seamen was organized. They immediately offered church services to whalemen before they shipped out on whaling voyages. Services were held either at the waterfront or in the Town Hall. Between the impracticality of waterfront services and the difficulty of constantly arranging to use the Town Hall, the Port Society concluded that they needed their own building. In 1832, the Seamen’s Bethel was dedicated as a nondenominational church and serves today in that capacity. <br />  <br /> The term “bethel” comes from two Hebrew words, “Beth” and “El.” Beth means “House” and El means “God,” so it is a Seamen’s House of God or a Seamen’s Church. </span></p>",
+    "audioDescription": "Standing on the narrow bluestone sidewalk facing the east elevation of the Seamen’s Bethel, you will observe a 2 ½ story three-bay church building clad with painted clapboards and projecting entry tower. This was the main entry of the structure, but a 2018 addition built between the Seamen’s Bethel and the Mariners’ Home has connected the two buildings, providing an accessible entry to the public. The new entry is glass with a centered door between the Bethel and the Mariners’ Home. The remaining three sides of the Seamen’s Bethel are clapboard covered with a rubblestone foundation. The Bethel occupies about half the site, with rocky ledge outcroppings projecting in some areas. There is a garden, shaded with large trees, forms a green oasis in a congested urban setting. The lower level of the Seamen’s Bethel, also known as “the Saltbox,” is an open space with stadium style seating. The Saltbox was used to teach whalers and sailors about navigation plus basic reading and writing skills. Restrooms are also found on this level. The upper level of the Seamen’s Bethel is the main sanctuary and gallery seating. The pew seating is divided into four sections within the space. The prow shaped pulpit sits on and elevated stage area and is painted black and white. On the walls in the sanctuary and gallery are many cenotaphs – monuments erected to whalers and fishermen whose remains lie elsewhere. The cenotaphs are stone tablets with the engraved names of the lost men.",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "https://seamensbethel.org/",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "",
+    "isManagedByNps": "1",
+    "amenities": [
+      "Accessible Rooms",
+      "Elevator",
+      "Historical/Interpretive Information/Exhibits",
+      "Information",
+      "Information Kiosk/Bulletin Board"
+    ],
+    "managedByOrg": "New Bedford Port Society",
+    "quickFacts": [
+      {
+        "id": "5C252B96-2DEB-4EF4-91D1-B5D2B202FCD7",
+        "value": "18 Johnny Cake Hill, New Bedford, MA 02740",
+        "name": "Location"
+      },
+      {
+        "id": "208F1B3C-44DC-4CF5-9A61-9B26A364D701",
+        "value": "Bethel",
+        "name": "Significance"
+      },
+      {
+        "id": "E32D2136-A184-4C1A-91D2-4C20CEF9CBAF",
+        "value": "National Historical Landmark",
+        "name": "Designation"
+      }
+    ],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  }
+]

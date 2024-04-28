@@ -1,0 +1,50 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -158.15559005737305,
+          56.88280077964348
+        ]
+      },
+      "properties": {
+        "name": "Aniakchak Caldera",
+        "notes": "Aniakchak Caldera\nhttps://www.nps.gov/places/aniakchak-caldera.htm\n\n<p>Aniakchak was a towering 7,000 foot tall volcano until its summit collapsed during a massive eruption roughly 3,500 years ago. A more than six-mile (10 km) wide, 2,500 foot (770 m) deep caldera was left in the eruption’s wake. The elevation of the caldera rim varies from 4,400 ft (1,341 m) to 2,000 ft (610 m). Subsequent eruptions created cinder cones, lava flows, and explosion pits that dot the caldera floor.<br /> <br /> Aniakchak Caldera is a raw and rugged volcanic feature located in a landscape that is, because of its remoteness, little affected by human occupancy. Plant and animal communities are in tune with the natural phenomena that control their habitat. Volcanic activity has subsided since the last eruption in 1931, but the geologic processes that follow such activity continue to weather, erode, and redistribute the volcanic materials. <br /> <br /> The caldera also contains Surprise Lake, a warm springs fed lake. The lake is the source of the Aniakchak River, which flows through a breach in the caldera rim to the Pacific Ocean.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -158.10587694775313,
+          56.924794084841146
+        ]
+      },
+      "properties": {
+        "name": "Surprise Lake",
+        "notes": "Surprise Lake\nhttps://www.nps.gov/places/surprise-lake.htm\n\n<p>Aniakchak Caldera was once partly filled with a large lake, similar to Crater Lake in Oregon. Eventually, a weaker portion of the caldera rim collapsed. The resulting outflow eroded the rim to create The Gates through which the Aniakchak River now flows. Surprise Lake, located in the northeast part of the caldera, is all that remains of the once larger lake. Warm springs, melting snow, and glaciers feed Surprise Lake, which in turn gives rise to the Aniakchak River.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -158.06769943237305,
+          56.903957512818565
+        ]
+      },
+      "properties": {
+        "name": "The Gates",
+        "notes": "The Gates\nhttps://www.nps.gov/places/the-gates.htm\n\n<p>When the former 7,000-foot high Aniakchak peak erupted and collapsed, it formed Aniakchak Caldera. Water eventually filled most of the caldera, similar to Crater Lake in Oregon. The caldera wall was breached roughly 2,000 years ago and the force of the outrushing water carved The Gates. The Gates now stand as a v-shaped notch in the caldera rim through which the Aniakchak River now flows.</p>",
+        "icon": "red-pin-down.png"
+      }
+    }
+  ]
+}

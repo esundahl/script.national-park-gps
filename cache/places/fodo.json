@@ -1,0 +1,1791 @@
+[
+  {
+    "id": "3CCD1A2E-31A7-4E32-8426-BC09236757F9",
+    "url": "https://www.nps.gov/places/ben-hur-chariots-wheel.htm",
+    "title": "Ben Hur Chariots Wheel",
+    "listingDescription": "Chariot's Wheel",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/9DC49675-D8D0-F860-0AAE693CDE88C0B6.jpg",
+        "credit": "NPS",
+        "altText": "artwork quilt block",
+        "title": "quilt block Chariots Wheel",
+        "description": "",
+        "caption": "Chariots Wheel on the Stewart County Public Library",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/9DC49675-D8D0-F860-0AAE693CDE88C0B6.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/9DC49675-D8D0-F860-0AAE693CDE88C0B6.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "KY,TN",
+        "parkCode": "fodo",
+        "designation": "National Battlefield",
+        "fullName": "Fort Donelson National Battlefield",
+        "url": "https://www.nps.gov/fodo/index.htm",
+        "name": "Fort Donelson"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [
+      "quilts"
+    ],
+    "latitude": "36.485693",
+    "longitude": "-87.830729",
+    "latLong": "36.485693,-87.830729",
+    "bodyText": "The lovely quilt block seen on the north side of the Stewart County Pubilc Library is known as Chariots Wheel or Ben-Hur's Chariot's Wheel.<br /> <br /> Brigadier General Lew Wallace was a division commander during the 1862 battle. His division was located not too far from the public library in the area where much of the February 15th fighting occurred. Wallace's Division was instrumental in halting the escape of Confederates from the area.",
+    "audioDescription": "The parking lot for the public library is located off Natcor Drive. Accessible walkways and parking are near the front of the building. The block may be seen on the north side of the building near the pavilion.",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "",
+    "isManagedByNps": "1",
+    "amenities": [
+      "Scenic View/Photo Spot"
+    ],
+    "managedByOrg": "",
+    "quickFacts": [],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  },
+  {
+    "id": "F2A7336D-3944-4E51-9D06-DB2B862747AB",
+    "url": "https://www.nps.gov/places/confederate-monument.htm",
+    "title": "Confederate Monument",
+    "listingDescription": "Confederate Monument",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/2DCD7EA9-09D6-D91D-09911CEF1D29C6A6.jpg",
+        "credit": "National Park Service",
+        "altText": "monument",
+        "title": "Confederate Monument",
+        "description": "",
+        "caption": "Placed on the Battlefield in 1933 to honor Confederate fall",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/2DCD7EA9-09D6-D91D-09911CEF1D29C6A6.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/2DCD7EA9-09D6-D91D-09911CEF1D29C6A6.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "KY,TN",
+        "parkCode": "fodo",
+        "designation": "National Battlefield",
+        "fullName": "Fort Donelson National Battlefield",
+        "url": "https://www.nps.gov/fodo/index.htm",
+        "name": "Fort Donelson"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [
+      "Civil War",
+      "monument",
+      "confederates"
+    ],
+    "latitude": "36.4848310468",
+    "longitude": "-87.8629390748",
+    "latLong": "36.4848310468,-87.8629390748",
+    "bodyText": "This monument was placed here by the Tennessee Division of the United Daughters of the Confederacy in 1933. The Confederate Monument commemorates the Southern soldiers who fought and died at Fort Donelson in 1862. The exact location of Confederate graves is unknown.",
+    "audioDescription": "The monument is placed nearby the earthworks, up a slight hill. Parking is available across the park road from the monument. Concrete steps will lead you to the base of the monument, approximately 120 feet from the parking area.",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "0a350398-883b-4b02-9232-f48a685adc58",
+    "isManagedByNps": "1",
+    "amenities": [
+      "Historical/Interpretive Information/Exhibits",
+      "Parking - Auto",
+      "Scenic View/Photo Spot"
+    ],
+    "managedByOrg": "",
+    "quickFacts": [
+      {
+        "id": "208F1B3C-44DC-4CF5-9A61-9B26A364D701",
+        "value": "Memorial",
+        "name": "Significance"
+      },
+      {
+        "id": "E32D2136-A184-4C1A-91D2-4C20CEF9CBAF",
+        "value": "National Register of Historic Places",
+        "name": "Designation"
+      }
+    ],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  },
+  {
+    "id": "2C40F486-2D75-437E-9411-4AE76ED43D58",
+    "url": "https://www.nps.gov/places/dover-hotel-surrender-house-tour-stop-10.htm",
+    "title": "Dover Hotel (Surrender House) Tour Stop #10",
+    "listingDescription": "The Dover Hotel or Surrender House (Fort Donelson NB)",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/96F0A500-FAA5-E8EB-536ECE357F7EA0EF.jpg",
+        "credit": "National Park Service",
+        "altText": "Dover Hotel on the Cumberland River",
+        "title": "Special Events at the Dover Hotel 2019",
+        "description": "",
+        "caption": "Holidays at the Dover Hotel 2019",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/96F0A500-FAA5-E8EB-536ECE357F7EA0EF.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/96F0A500-FAA5-E8EB-536ECE357F7EA0EF.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "KY,TN",
+        "parkCode": "fodo",
+        "designation": "National Battlefield",
+        "fullName": "Fort Donelson National Battlefield",
+        "url": "https://www.nps.gov/fodo/index.htm",
+        "name": "Fort Donelson"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [
+      "Civil War soldiers",
+      "Prisoners of War",
+      "Dover Hotel",
+      "U.S. Grant",
+      "Cumberland River",
+      "migratory birds",
+      "fishing"
+    ],
+    "latitude": "36.4891004",
+    "longitude": "-87.8366928",
+    "latLong": "36.4891004,-87.8366928",
+    "bodyText": "This nineteenth century hotel was the site of the 1862 surrender between Brigadier General Ulysses S. Grant and Brigadier General Simon B. Buckner. One room is open to the public, and visitors can read interpretive exhibits, and view a short film about the significance of the structure to the battle and the small community of Dover. Wayside exhibits are also located here. The audiovisual film is also available on the park's website.<br /> <br /> Public restrooms are not available. Brick walkways permit easy access for those with disabilities. One picnic table is available.<br /> <br /> The historic structure has had a rich history as hotel for riverboat travelers, a headquarters for Confederate commanders during the war, and as a private museum.",
+    "audioDescription": "Driving into the parking area, handicapped parking is available near the building. Concrete sidewalks and brick walkways lead to a two-story white frame, double-porched hotel. The walkways and porch are lined with native flowers and plants, some indicative of 19th century gardens. The structure has three chimneys. One chimney on the north end is the original limestone rock. The limestone foundation is original as well. The hotel sits within feet of the Cumberland River. One picnic table sits under an American elm just adjacent to the first-floor porch. The hotel was built sometime between 1851-1853, and has three levels: an upstairs (now used by the National Park Service), the first floor (an interpretive area with exhibits and 19th-century reproduction furnishings), and a basement (which is largely used by the Park Service as storage). Exhibits describe the personalities and commanders of the 1862 Campaign, as well as the events of the surrender. A short film may be viewed and limited seating is available for visitors. There is ample space for wheelchairs to navigate the exhibit area. The audiovisual film is also available online.",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "Dover Hotel Passport Cancelation Stamp",
+    "passportStampImages": [
+      {
+        "credit": "",
+        "description": "",
+        "crops": [
+          {
+            "aspectRatio": 1,
+            "url": "https://www.nps.gov/common/uploads/passport_stamps/primary/CD203CEE-0041-8060-9CBEA30EE443E88A.jpg"
+          }
+        ],
+        "altText": "A purple circle with the letters Fort Donelson National Battlefield and Dover Hotel",
+        "title": "Dover Hotel Stamp",
+        "caption": "",
+        "url": "https://www.nps.gov/common/uploads/passport_stamps/CD203CEE-0041-8060-9CBEA30EE443E88A.jpg"
+      }
+    ],
+    "managedByUrl": "",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "",
+    "isManagedByNps": "1",
+    "amenities": [
+      "Accessible Rooms",
+      "Captioned Media",
+      "Historical/Interpretive Information/Exhibits",
+      "Parking - Auto",
+      "Parking - Bus/RV",
+      "Picnic Table",
+      "Scenic View/Photo Spot",
+      "Trash Dumpster",
+      "Wheelchair Accessible"
+    ],
+    "managedByOrg": "",
+    "quickFacts": [
+      {
+        "id": "E32D2136-A184-4C1A-91D2-4C20CEF9CBAF",
+        "value": "National Register of Historic Places",
+        "name": "Designation"
+      }
+    ],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  },
+  {
+    "id": "97BFFED0-D959-420D-BC65-13CD94A9A512",
+    "url": "https://www.nps.gov/places/feathered-star-quilt-block.htm",
+    "title": "Feathered Star quilt block",
+    "listingDescription": "Feathered Star",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/9CFB7542-009A-99DD-2D876C198F66ED26.jpg",
+        "credit": "NPS",
+        "altText": "quilt artwork",
+        "title": "Feathered Star block",
+        "description": "",
+        "caption": "The Feathered Star quilt",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/9CFB7542-009A-99DD-2D876C198F66ED26.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/9CFB7542-009A-99DD-2D876C198F66ED26.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "KY,TN",
+        "parkCode": "fodo",
+        "designation": "National Battlefield",
+        "fullName": "Fort Donelson National Battlefield",
+        "url": "https://www.nps.gov/fodo/index.htm",
+        "name": "Fort Donelson"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [],
+    "latitude": "36.4856522",
+    "longitude": "-87.8463737",
+    "latLong": "36.4856522,-87.8463737",
+    "bodyText": "This quilt block is very intricate and was used by accomplished quilters to showcase their handiwork.<br /> <br /> The Sykes Museum is administered by the local historical society. It was built in the 1880's and remodeled later to add the large porches. It is open by appointment only.",
+    "audioDescription": "",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "",
+    "isManagedByNps": "1",
+    "amenities": [
+      "Scenic View/Photo Spot"
+    ],
+    "managedByOrg": "",
+    "quickFacts": [],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  },
+  {
+    "id": "F68F61AF-7771-4FB0-BA52-CEE56412A530",
+    "url": "https://www.nps.gov/places/forge-road.htm",
+    "title": "Forge Road",
+    "listingDescription": "Forge Road (Tour Stop #9)",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/59E601AA-A6B2-E2B0-5645A72B8E77FFA6.jpg",
+        "credit": "National Park Service",
+        "altText": "tour stop #9 with exhibits and parking",
+        "title": "Forge Road",
+        "description": "",
+        "caption": "The Confederate Breakout",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/59E601AA-A6B2-E2B0-5645A72B8E77FFA6.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/59E601AA-A6B2-E2B0-5645A72B8E77FFA6.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "KY,TN",
+        "parkCode": "fodo",
+        "designation": "National Battlefield",
+        "fullName": "Fort Donelson National Battlefield",
+        "url": "https://www.nps.gov/fodo/index.htm",
+        "name": "Fort Donelson"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [
+      "Forge Road",
+      "Cedar Street",
+      "Confederate Breakout",
+      "John McClernand",
+      "NB Forrest",
+      "Bushrod Johnson",
+      "Texas Monument"
+    ],
+    "latitude": "36.4809570150758",
+    "longitude": "-87.84067290884758",
+    "latLong": "36.4809570150758,-87.84067290884758",
+    "bodyText": "On the morning of February 15, 1862, the Confederate divisions of Generals Gideon Pillow and Bushrod Johnson, along with Lieutenant Colonel N.B. Forrest's cavalry, launched an attack on the Union line held by Brigadier General John A. McClernand near this location. This road was known at that time as Forge Road because it led to Randolph Forge.<br /> <br /> Soldiers with both the 26th Mississippi and 26th Tennessee infantries, later joined by other regiments, were successful in pushing General McClernand's Division from its position. Soldiers with the 8th, 9th, 11th, 12th, 18th, 20th, 30th, and 41st Illinois Infantries fought valiantly to hold their positions, before they were exhausted and scattered, needing ammunition to continue the fight. <br /> <br /> For a brief time, Forge Road was open, which would have allowed a way of escape for Confederates.  By nightfall, after more than six hours of continuous battle, the Confederates were ordered to return to their original positions. The way of escape was now closed, as Union forces moved to reoccupy the area once more.<br /> <br /> The Texas Monument was placed in this location in 1963 to honor of the Texas troops who fought at Fort Donelson.  ",
+    "audioDescription": "This site sits along a busy city street. One wayside exhibit, two War Department plaques, and one granite monument tell the story of this site. One field cannon sits under an oak tree. Earthworks line the park road, ending at Main Street (to your right near the parking area). The area has a manicured lawn. A small, wood-framed church sits across the street from this location. In the distance from this tour stop, you can see another brick church, private homes, and a city municipal water tower.",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "",
+    "isManagedByNps": "1",
+    "amenities": [
+      "Historical/Interpretive Information/Exhibits",
+      "Parking - Auto"
+    ],
+    "managedByOrg": "",
+    "quickFacts": [],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  },
+  {
+    "id": "0E2A8893-CA06-4088-A2F7-500CBA9A603C",
+    "url": "https://www.nps.gov/places/fort-donelson-entrance.htm",
+    "title": "Fort Donelson Entrance",
+    "listingDescription": "The Civil War fortification",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/2E9A64E7-E1A1-D735-84F99EB27E5FA62A.jpg",
+        "credit": "NPS",
+        "altText": "directional, tour route sign to Fort Donelson",
+        "title": "The Fort Entrance",
+        "description": "",
+        "caption": "Entrance to the Earthen Fort Donelson",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/2E9A64E7-E1A1-D735-84F99EB27E5FA62A.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/2E9A64E7-E1A1-D735-84F99EB27E5FA62A.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "KY,TN",
+        "parkCode": "fodo",
+        "designation": "National Battlefield",
+        "fullName": "Fort Donelson National Battlefield",
+        "url": "https://www.nps.gov/fodo/index.htm",
+        "name": "Fort Donelson"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [
+      "Civil War",
+      "fort wall",
+      "park road",
+      "Fort Donelson NB"
+    ],
+    "latitude": "36.49092905135468",
+    "longitude": "-87.85684341503601",
+    "latLong": "36.49092905135468,-87.85684341503601",
+    "bodyText": "The fortification was constructed from logs and earth with picks and axes, creating walls that reached ten feet tall. Confederate soldiers and enslaved African Americans began working on the fort in the summer of 1861 and it was completed by the end of that year. In addition, all the trees surrounding the 15-acre fort were cut, with the treetops sharpened, to form an <em>abatis</em>. This <em>abatis</em> was an additional obstruction for the enemy.<br /> <br /> The fort was built for the defense of the artillery batteries on the Cumberland River.  ",
+    "audioDescription": "The parking area for this tour stop is located to the right of the park road, just inside the rock columns. From here, you can see the earthen fort as it appears as a grass-covered mound. A few trees grow from the fort wall. As you drive further into the fort, field cannons are placed inside the wall at three locations as you continue the drive to tour stop #3. The entire area and park road sits along a ridge, which encircles a large hollow or \"bowl.\" Turkey, coyotes, deer and bald eagles and other wildlife may be seen seasonally within this area.",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "",
+    "isManagedByNps": "1",
+    "amenities": [
+      "Historical/Interpretive Information/Exhibits",
+      "Parking - Auto",
+      "Scenic View/Photo Spot"
+    ],
+    "managedByOrg": "",
+    "quickFacts": [],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  },
+  {
+    "id": "B854649E-3362-49B2-A6D1-F77B376EDB74",
+    "url": "https://www.nps.gov/places/fort-donelson-nb-education-pavilion.htm",
+    "title": "Fort Donelson NB Education Pavilion",
+    "listingDescription": "Pavilion",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/02BEF7E5-C3E7-82A0-C2B632A3F893FB8B.jpg",
+        "credit": "NPS",
+        "altText": "pavilion and raised beds with walkway",
+        "title": "Education Pavilion at Fort Donelson NB",
+        "description": "",
+        "caption": "Enjoy Programs Offered by Rangers at the Education Pavilion at Fort Donelson NB",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/02BEF7E5-C3E7-82A0-C2B632A3F893FB8B.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/02BEF7E5-C3E7-82A0-C2B632A3F893FB8B.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "KY,TN",
+        "parkCode": "fodo",
+        "designation": "National Battlefield",
+        "fullName": "Fort Donelson National Battlefield",
+        "url": "https://www.nps.gov/fodo/index.htm",
+        "name": "Fort Donelson"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [
+      "Fort Donelson NB Visitor Center",
+      "pavilion"
+    ],
+    "latitude": "36.48276035182041",
+    "longitude": "-87.86249025695992",
+    "latLong": "36.48276035182041,-87.86249025695992",
+    "bodyText": "The pavilion near the Fort Donelson NB Visitor Center is often a location for park programs and interpretive media.<br /> <br />  ",
+    "audioDescription": "An open-air pavilion with rough floor surfaces to prevent slippage. Brick walkways lead from the main parking area into the pavilion and also from the northside. The structure is approximately 30 ft x 40 ft, roof with wood shakes, with stacked limestone columns. Seating is available around the interior of the structure. electric panel available on the rear of the structure.",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "",
+    "isManagedByNps": "1",
+    "amenities": [
+      "Accessible Sites",
+      "Trash/Litter Receptacles",
+      "Wheelchair Accessible"
+    ],
+    "managedByOrg": "Fort Donelson NB",
+    "quickFacts": [
+      {
+        "id": "5C252B96-2DEB-4EF4-91D1-B5D2B202FCD7",
+        "value": "Near the National Park Visitor Center",
+        "name": "Location"
+      }
+    ],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  },
+  {
+    "id": "C20FA630-A690-403B-A66D-33A010483751",
+    "url": "https://www.nps.gov/places/fort-donelson-nb-visitor-center.htm",
+    "title": "Fort Donelson NB Visitor Center",
+    "listingDescription": "One of the surviving Mission-66 visitor centers is undergoing a renovation, so you will find orientation in our current Visitor Center. Friendly staff, Civil War exhibits, the Passport to Your Parks stamps, Junior Ranger Handbooks, and a gift shop are available. One handicapped accessible restroom is located here. The Education Pavilion nearby is also stocked with information and Junior Ranger Handbooks.",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/35442501-9B97-72B7-3C6CAF747A0D271E.jpg",
+        "credit": "NPS",
+        "altText": "visitor center with entrance sign",
+        "title": "Fort Donelson NB Visitor Center NPS",
+        "description": "",
+        "caption": "Enjoy Museum Exhibits and the Gift Shop",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/35442501-9B97-72B7-3C6CAF747A0D271E.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/35442501-9B97-72B7-3C6CAF747A0D271E.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "KY,TN",
+        "parkCode": "fodo",
+        "designation": "National Battlefield",
+        "fullName": "Fort Donelson National Battlefield",
+        "url": "https://www.nps.gov/fodo/index.htm",
+        "name": "Fort Donelson"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [
+      "visitor center",
+      "exhibits",
+      "Civil War",
+      "Junior Ranger Handbooks",
+      "Junior Ranger badges",
+      "passport to your national parks",
+      "handicapped accessible restroom"
+    ],
+    "latitude": "36.48232566045848",
+    "longitude": "-87.863506022229",
+    "latLong": "36.48232566045848,-87.863506022229",
+    "bodyText": "The Visitor Center and Education Pavilion are located at the main entrance. Brochures, exhibits, passport stamps, and restrooms are available. Park Rangers currently staff the temporary Visitor Center daily, 8:30 am - 4:00 pm.  <br /> <br /> The park audiovisual film is available online: <a href=\"https://www.nps.gov/fodo/planyourvisit/things2do.htm\">Things To Do - Fort Donelson National Battlefield (U.S. National Park Service) (nps.gov)</a><br /> <br /> Brochures, Junior Ranger Handbooks, and other information are available daily at the Education kiosk. Park roads are open daily as well.",
+    "audioDescription": "The Visitor Center, pavilion, information, gift shop, exhibits, and a restroom are located at the main park entrance. Handicapped parking is adjacent to this area, with side walks leading to the pavilion. The area is also the location of the trail head and exit. An amphitheater is located behind the pavilion. Construction and rehabiliation on the Mission-66 Visitor Center occur behind a chain-link fence. Gravel walkways lead visitors to the temporary Visitor Center. Ramps are located at the front and rear entrance of the modular structure.",
+    "isPassportStampLocation": "1",
+    "passportStampLocationDescription": "Circlular stamp enclosing the words \"Fort Donelson National Battlefield, Dover, TN.\" The ink is blue.",
+    "passportStampImages": [
+      {
+        "credit": "",
+        "description": "",
+        "crops": [
+          {
+            "aspectRatio": 1,
+            "url": "https://www.nps.gov/common/uploads/passport_stamps/primary/158E18DB-B574-5BF7-BC21F1CE81B747F3.jpg"
+          }
+        ],
+        "altText": "passport stamp",
+        "title": "Fort Donelson NB Passport Stamp",
+        "caption": "",
+        "url": "https://www.nps.gov/common/uploads/passport_stamps/158E18DB-B574-5BF7-BC21F1CE81B747F3.jpg"
+      }
+    ],
+    "managedByUrl": "",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "",
+    "isManagedByNps": "1",
+    "amenities": [
+      "Accessible Rooms",
+      "Amphitheater",
+      "Braille",
+      "Gifts/Souvenirs/Books",
+      "Historical/Interpretive Information/Exhibits",
+      "Information - Maps Available",
+      "Information - Ranger/Staff Member Present",
+      "Parking - Auto",
+      "Parking - Bus/RV",
+      "Picnic Shelter/Pavilion",
+      "Recycling",
+      "Restroom - Accessible",
+      "Trailhead",
+      "Trash/Litter Receptacles",
+      "Wheelchair Accessible"
+    ],
+    "managedByOrg": "Fort Donelson NB",
+    "quickFacts": [],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [
+      {
+        "title": "Park Exhibits and other Museum Artifacts",
+        "id": "023D5C8D-6293-4C93-95B5-6BD1C52DB121",
+        "type": "multimedia/galleries",
+        "url": "https://www.nps.gov/media/photo/gallery.htm?pg=6757971&id=023D5C8D-6293-4C93-95B5-6BD1C52DB121"
+      },
+      {
+        "title": "Quilt Trail tours",
+        "id": "964736F6-13DE-49B9-BBA1-26EA2CFBEFC5",
+        "type": "multimedia/galleries",
+        "url": "https://www.nps.gov/media/photo/gallery.htm?pg=6757971&id=964736F6-13DE-49B9-BBA1-26EA2CFBEFC5"
+      }
+    ],
+    "relevanceScore": 1
+  },
+  {
+    "id": "8EBDD82E-E208-443C-BBC3-A11193664A87",
+    "url": "https://www.nps.gov/places/fort-donelson-national-cemetery.htm",
+    "title": "Fort Donelson National Cemetery",
+    "listingDescription": "National Cemetery (FODO)",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/5C0682E1-EA09-54C3-0C9A85ADC57EFDB6.jpg",
+        "credit": "NPS",
+        "altText": "headstones in the national cemetery",
+        "title": "Fort Donelson National Cemetery",
+        "description": "",
+        "caption": "Memorial Day in the National Cemetery",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/5C0682E1-EA09-54C3-0C9A85ADC57EFDB6.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/5C0682E1-EA09-54C3-0C9A85ADC57EFDB6.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "KY,TN",
+        "parkCode": "fodo",
+        "designation": "National Battlefield",
+        "fullName": "Fort Donelson National Battlefield",
+        "url": "https://www.nps.gov/fodo/index.htm",
+        "name": "Fort Donelson"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [
+      "handicapped accessible",
+      "restrooms",
+      "cemetery roster",
+      "Memorial Day events",
+      "park headquarters",
+      "veteran",
+      "carriage house",
+      "Meigs House",
+      "National Cemetery"
+    ],
+    "latitude": "36.488392547000004",
+    "longitude": "-87.847567175",
+    "latLong": "36.488392547000004,-87.847567175",
+    "bodyText": "Fort Donelson National Cemetery was established in 1867. Buried within this hallowed grounds are the remains of 670 United States soldiers and civilians from the Civil War, plus subsequent veteran burials from all American wars. There are approximately 1,700 gravesites.<br /> <br /> The fifteen-acre cemetery is enclosed by a hand-hewn limestone rock wall. A two-story Meigs home, originally built for a cemetery Superintendent, now houses the National Park headquarters. An original carriage house serves as exhibit space and contains an electronic roster of cemetery internments, park brochures, and maps. Restrooms are available in the cemetery.  ",
+    "audioDescription": "Exiting Highway 79, turn right on Church Street. The entrance is just a short drive. At the first parking area, you will see a limestone rock wall, double-cast iron gates, and a large two-story brick lodge with a front porch. The smaller brick building to the left of the parking area is the cemetery carriage house or shelter. It houses exhibits. Handicapped parking is available in the two parking spaces near the double-gate entrance. Leaving the parking lot, and driving left towards the back of the national cemetery, you will see Union headstones, a brick restroom, a flagpole, and Civil War cannon monument. Parking is available at the back of the cemetery. Another double, cast-iron gate is located in this section. A smaller gate provides entrances for visitors and families.",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "Fort Donelson National Cemetery Stamp",
+    "passportStampImages": [
+      {
+        "credit": "",
+        "description": "",
+        "crops": [
+          {
+            "aspectRatio": 1,
+            "url": "https://www.nps.gov/common/uploads/passport_stamps/primary/CDAA8810-A628-8BBD-3AF27C6F8CBF2305.jpg"
+          }
+        ],
+        "altText": "A purple circle with the letters; Fort Donelson National Battlefield Nat'l Cemetery",
+        "title": "Fort Donelson National Cemetery Stamp",
+        "caption": "",
+        "url": "https://www.nps.gov/common/uploads/passport_stamps/CDAA8810-A628-8BBD-3AF27C6F8CBF2305.jpg"
+      }
+    ],
+    "managedByUrl": "",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "bc336563-10d3-418a-8b46-9b4c3c8004a0",
+    "isManagedByNps": "1",
+    "amenities": [
+      "Accessible Rooms",
+      "Accessible Sites",
+      "Benches/Seating",
+      "Historical/Interpretive Information/Exhibits",
+      "Information - Maps Available",
+      "Parking - Auto",
+      "Parking - Bus/RV",
+      "Restroom - Accessible",
+      "Scenic View/Photo Spot",
+      "Trash Dumpster",
+      "Wheelchair Accessible"
+    ],
+    "managedByOrg": "",
+    "quickFacts": [],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [
+      {
+        "title": "Park Exhibits and other Museum Artifacts",
+        "id": "023D5C8D-6293-4C93-95B5-6BD1C52DB121",
+        "type": "multimedia/galleries",
+        "url": "https://www.nps.gov/media/photo/gallery.htm?pg=6641662&id=023D5C8D-6293-4C93-95B5-6BD1C52DB121"
+      },
+      {
+        "title": "2009 Fort Donelson Eagles",
+        "id": "7F411E06-1DD8-B71C-074A-2B057DC94611",
+        "type": "multimedia/galleries",
+        "url": "https://www.nps.gov/media/photo/gallery.htm?pg=6641662&id=7F411E06-1DD8-B71C-074A-2B057DC94611"
+      }
+    ],
+    "relevanceScore": 1
+  },
+  {
+    "id": "B08A4678-5E64-40EF-8B89-1E0A4A93B69A",
+    "url": "https://www.nps.gov/places/fort-heiman.htm",
+    "title": "Fort Heiman",
+    "listingDescription": "The Fort Heiman Unit is located in Calloway County, Kentucky. The site is still under development, but you will find an impressive view of Kentucky Lake and the historic earthworks, wayside interpretive exhibits, and a pavilion with exhibits. Cell phone service is limited.",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/C9DF8A11-EE27-25B2-F55213ABC3D1168E.jpg",
+        "credit": "NPS",
+        "altText": "entrance sign",
+        "title": "Fort Heiman Entrance Sign",
+        "description": "",
+        "caption": "Entrance to the Fort Heiman Site",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/C9DF8A11-EE27-25B2-F55213ABC3D1168E.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/C9DF8A11-EE27-25B2-F55213ABC3D1168E.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "KY,TN",
+        "parkCode": "fodo",
+        "designation": "National Battlefield",
+        "fullName": "Fort Donelson National Battlefield",
+        "url": "https://www.nps.gov/fodo/index.htm",
+        "name": "Fort Donelson"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [
+      "Unit of Fort Donelson",
+      "Civil War Site",
+      "Earthworks",
+      "pavilion",
+      "walking paths",
+      "Tennessee River",
+      "Kentucky Lake",
+      "birding",
+      "exhibits",
+      "pit toliet"
+    ],
+    "latitude": "36.50081458891341",
+    "longitude": "-88.0553784817053",
+    "latLong": "36.50081458891341,-88.0553784817053",
+    "bodyText": "Fort Heiman is now preserved as a unit of Fort Donelson National Battlefield. It is located in Calloway County, Kentucky.<br /> <br /> The site is still under early development; there is not a Visitor Center or Contact Station. Interpretive wayside exhibits, historic earthworks, and a small pavilion with exhibits are located here. NPS regulations are enforced.<br /> <br /> Visitors to the area should park near the pavilion and be prepared to walk, from this location, to view earthworks and more interpretive exhibits. This is perhaps a half-mile hike to a higher point overlooking the Tennessee River.",
+    "audioDescription": "The site is still under development. No Visitor Center or Contact Station is located here, but you will find wayside interpretive exhibits, one open-air pavilion with exhibits, and historic earthworks. There's one pit toliet. Handicapped parking is avilable. There's limited cell-phone service. The county road is closed past the pavilion; visitors should be prepared to walk to a higher point overlooking the river. The road is rough in places and the terrain is hilly.",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "Fort Heiman Passport Stamp",
+    "passportStampImages": [
+      {
+        "credit": "",
+        "description": "",
+        "crops": [
+          {
+            "aspectRatio": 1,
+            "url": "https://www.nps.gov/common/uploads/passport_stamps/primary/0234FB75-A10B-E450-4528448C9A0B68E2.jpg"
+          }
+        ],
+        "altText": "A purple circle with the letters Fort Donelson National Battlefield and Fort Heiman",
+        "title": "Fort Heiman Stamp",
+        "caption": "",
+        "url": "https://www.nps.gov/common/uploads/passport_stamps/0234FB75-A10B-E450-4528448C9A0B68E2.jpg"
+      }
+    ],
+    "managedByUrl": "https://www.nps.gov/fodo",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "",
+    "isManagedByNps": "1",
+    "amenities": [
+      "Audio Description",
+      "Benches/Seating",
+      "Historical/Interpretive Information/Exhibits",
+      "Information Kiosk/Bulletin Board",
+      "Parking - Auto",
+      "Toilet - Vault/Composting",
+      "Trash/Litter Receptacles"
+    ],
+    "managedByOrg": "",
+    "quickFacts": [
+      {
+        "id": "5C252B96-2DEB-4EF4-91D1-B5D2B202FCD7",
+        "value": "654 Fort Heiman road, New Concord, KY",
+        "name": "Location"
+      },
+      {
+        "id": "208F1B3C-44DC-4CF5-9A61-9B26A364D701",
+        "value": "Civil War fort",
+        "name": "Significance"
+      },
+      {
+        "id": "E32D2136-A184-4C1A-91D2-4C20CEF9CBAF",
+        "value": "National Register of Historic Places",
+        "name": "Designation"
+      }
+    ],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  },
+  {
+    "id": "F55D8923-D3D6-407F-96B3-96F4A4C3EEA3",
+    "url": "https://www.nps.gov/places/french-s-battery.htm",
+    "title": "French's Battery",
+    "listingDescription": "French's Battery",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/2FCA6103-F763-1514-53FE392FA27638C7.jpg",
+        "credit": "National Park Service",
+        "altText": "tour stop #8",
+        "title": "French's Battery",
+        "description": "",
+        "caption": "Confederate Outer Defense Line",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/2FCA6103-F763-1514-53FE392FA27638C7.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/2FCA6103-F763-1514-53FE392FA27638C7.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "KY,TN",
+        "parkCode": "fodo",
+        "designation": "National Battlefield",
+        "fullName": "Fort Donelson National Battlefield",
+        "url": "https://www.nps.gov/fodo/index.htm",
+        "name": "Fort Donelson"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [
+      "field cannon",
+      "Earthworks",
+      "6 pdr field cannon"
+    ],
+    "latitude": "36.480358879249835",
+    "longitude": "-87.84359115225578",
+    "latLong": "36.480358879249835,-87.84359115225578",
+    "bodyText": "This is the location of David A. French's four-gun battery. This battery supported Colonel Joseph Drake's Brigade on the February 15th Confederate Breakout.<br /> <br /> Earthworks, one field cannon, and wayside exhibits may be viewed if you walk a short distance from the parking area.  <br /> <br />  ",
+    "audioDescription": "A manicured lawn with wayside exhibits and War Department plaques. The exhibits require some walking from the parking area. There are no paved paths or brick walkways. A field gun sits near the line of continuous earthworks.",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "",
+    "isManagedByNps": "1",
+    "amenities": [
+      "Historical/Interpretive Information/Exhibits",
+      "Parking - Auto"
+    ],
+    "managedByOrg": "",
+    "quickFacts": [],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  },
+  {
+    "id": "46A99FBF-22D1-4F59-88DA-4C6427BDD56E",
+    "url": "https://www.nps.gov/places/graves-battery.htm",
+    "title": "Graves Battery",
+    "listingDescription": "Graves Battery",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/AD4326F0-9128-0172-2C48502681E5FB1D.jpg",
+        "credit": "NPS/Donald Watkins",
+        "altText": "field cannon under tree",
+        "title": "Cannon at Graves Battery",
+        "description": "",
+        "caption": "Serenity at Graves Battery",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/AD4326F0-9128-0172-2C48502681E5FB1D.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/AD4326F0-9128-0172-2C48502681E5FB1D.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "KY,TN",
+        "parkCode": "fodo",
+        "designation": "National Battlefield",
+        "fullName": "Fort Donelson National Battlefield",
+        "url": "https://www.nps.gov/fodo/index.htm",
+        "name": "Fort Donelson"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [
+      "field cannon",
+      "Earthworks"
+    ],
+    "latitude": "36.48142850793003",
+    "longitude": "-87.85758370472412",
+    "latLong": "36.48142850793003,-87.85758370472412",
+    "bodyText": "This location provides an understanding of the outer earthworks and their importance for the Confederate defense line. At the time of the battle, this high ridge provided a view of the enemy's approach and positions.<br /> <br /> Graves Battery was a six-gun battery commanded by Captain Rice E. Graves and placed here to guard the Indian Creek valley. They assisted with the February 13th attack on Maney's Battery and moved to support the Confederate breakout on February 15th.<br /> <br /> <br />  ",
+    "audioDescription": "The manicured lawn has an extensive line of continuous earthworks and one field cannon. Mature trees provide shade. A trail entrance begins here. A brick walkway leads you to a wayside exhibit and War Department plaque.",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "",
+    "isManagedByNps": "1",
+    "amenities": [
+      "Accessible Sites",
+      "Historical/Interpretive Information/Exhibits",
+      "Parking - Auto",
+      "Trailhead",
+      "Wheelchair Accessible"
+    ],
+    "managedByOrg": "",
+    "quickFacts": [],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  },
+  {
+    "id": "516AA658-44F0-465A-AC96-03DF91FE9669",
+    "url": "https://www.nps.gov/places/joseph-s-coat.htm",
+    "title": "Joseph's Coat",
+    "listingDescription": "Quilt Trail",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/60BB3FD9-DFC0-CB16-C843F5BC51803AAA.jpg",
+        "credit": "NPS",
+        "altText": "quilt block",
+        "title": "Joseph's Coat",
+        "description": "",
+        "caption": "Joseph's Coat quilt block at the Fort Donelson NB Visitor Center",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/60BB3FD9-DFC0-CB16-C843F5BC51803AAA.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/60BB3FD9-DFC0-CB16-C843F5BC51803AAA.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "KY,TN",
+        "parkCode": "fodo",
+        "designation": "National Battlefield",
+        "fullName": "Fort Donelson National Battlefield",
+        "url": "https://www.nps.gov/fodo/index.htm",
+        "name": "Fort Donelson"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [
+      "Quilt Trail"
+    ],
+    "latitude": "36.4824529",
+    "longitude": "-87.8626048",
+    "latLong": "36.4824529,-87.8626048",
+    "bodyText": "This quilt block is called Joseph's Coat. While each 19th century seamstress may have varied patterns a little, this pattern must have been a popular one. Confederates after the surrender in February 1862 were described as having ragged and thin clothing, but the colors were \"all the colors of Joseph's Coat.\"  <br /> <br /> Other accounts described Confederates wrapped in quilts, blankets, and even horse blankets to protect themselves from the harsh wintry and cold weather.",
+    "audioDescription": "The quilt block for this location is located on the south side of the building. Currently, you will have to walk around the chain link fence to see this block.",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "",
+    "isManagedByNps": "1",
+    "amenities": [
+      "Information - Maps Available",
+      "Information - Ranger/Staff Member Present",
+      "Parking - Auto",
+      "Parking - Bus/RV",
+      "Picnic Shelter/Pavilion",
+      "Restroom - Accessible",
+      "Trailhead",
+      "Wheelchair Accessible"
+    ],
+    "managedByOrg": "",
+    "quickFacts": [],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  },
+  {
+    "id": "1B3CA610-3D2F-4835-98DB-6C83F137AC8C",
+    "url": "https://www.nps.gov/places/log-cabin-quilt-block.htm",
+    "title": "Log Cabin Quilt block",
+    "listingDescription": "Log Cabin block - Quilt Trail",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/9C3471F4-0AA3-A52C-52AC1C837E5D9510.jpg",
+        "credit": "Naitonal Park Service",
+        "altText": "artwork quilt block",
+        "title": "Log Cabin quilt",
+        "description": "",
+        "caption": "The Log Cabin Quilt Block",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/9C3471F4-0AA3-A52C-52AC1C837E5D9510.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/9C3471F4-0AA3-A52C-52AC1C837E5D9510.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "KY,TN",
+        "parkCode": "fodo",
+        "designation": "National Battlefield",
+        "fullName": "Fort Donelson National Battlefield",
+        "url": "https://www.nps.gov/fodo/index.htm",
+        "name": "Fort Donelson"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [],
+    "latitude": "36.481744",
+    "longitude": "-87.882618",
+    "latLong": "36.481744,-87.882618",
+    "bodyText": "The location of Brigadier General Ulysses S. Grant's headquarters during the 1862 battle was not far from this location, in a small farmhouse owned by Widow Crisp.  <br /> <br /> Mrs. Crisp's descendants preserved one of her quilts, the Log Cabin or \"barn raising\" quilt, which is featured in this quilt block. The quilt is now in the care of Carolyn Walter Darke.",
+    "audioDescription": "The Log Cabin quilt block is featured on the Dover Family Pharmacy, on the west side. Parking is available in the front or back of the pharmacy. Be careful, the pharmacy pick-up line is near the block. It may be safer to sit in the adjacent parking area and view the block.",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "",
+    "isManagedByNps": "1",
+    "amenities": [
+      "Scenic View/Photo Spot"
+    ],
+    "managedByOrg": "",
+    "quickFacts": [],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  },
+  {
+    "id": "68640D5D-F4AD-43C7-BD3F-E725B06CFA49",
+    "url": "https://www.nps.gov/places/memory-wreath.htm",
+    "title": "Memory Wreath",
+    "listingDescription": "Memory Wreath",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/BE19B2C2-E120-4DD7-B6778B8158D923A8.jpg",
+        "credit": "NPS",
+        "altText": "barn with quilt block",
+        "title": "Maple Grove Farm barn",
+        "description": "",
+        "caption": "Memory Wreath quilt block",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/BE19B2C2-E120-4DD7-B6778B8158D923A8.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/BE19B2C2-E120-4DD7-B6778B8158D923A8.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "KY,TN",
+        "parkCode": "fodo",
+        "designation": "National Battlefield",
+        "fullName": "Fort Donelson National Battlefield",
+        "url": "https://www.nps.gov/fodo/index.htm",
+        "name": "Fort Donelson"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [
+      "Quilt Block",
+      "Self-guided Tour",
+      "19th century"
+    ],
+    "latitude": "36.447038500364165",
+    "longitude": "-87.8023560199713",
+    "latLong": "36.447038500364165,-87.8023560199713",
+    "bodyText": "This quilt block is found on the large barn at Maple Grove Farm.",
+    "audioDescription": "The quilt block is located on a large early 20th century barn. It's location is in a farm setting, with farm buildings, fences, and a two-story house. The block is located on the east side of the barn, facing Long Creek Road.",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "",
+    "isManagedByNps": "1",
+    "amenities": [],
+    "managedByOrg": "",
+    "quickFacts": [],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  },
+  {
+    "id": "3B266700-C5A8-41B9-9D9E-B2E12D9F1F57",
+    "url": "https://www.nps.gov/places/quilt-trail.htm",
+    "title": "Quilt Trail",
+    "listingDescription": "Medallion Sampler Quilt block",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/5BA6CA9B-C548-F8B2-AC49503869F7B5B5.jpg",
+        "credit": "NPS",
+        "altText": "quilt block painted",
+        "title": "Quilt Trail of Stewart County, TN",
+        "description": "",
+        "caption": "Medallion Quilt located near the county court house",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/5BA6CA9B-C548-F8B2-AC49503869F7B5B5.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/5BA6CA9B-C548-F8B2-AC49503869F7B5B5.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "KY,TN",
+        "parkCode": "fodo",
+        "designation": "National Battlefield",
+        "fullName": "Fort Donelson National Battlefield",
+        "url": "https://www.nps.gov/fodo/index.htm",
+        "name": "Fort Donelson"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [
+      "Quilt Block",
+      "Underground Railroad",
+      "visitor center",
+      "auto tours",
+      "Medallion Sampler"
+    ],
+    "latitude": "36.48791775188531",
+    "longitude": "-87.84003678465577",
+    "latLong": "36.48791775188531,-87.84003678465577",
+    "bodyText": "The Quilt Tour is a self-guided auto tour of the colorful, painted quilt blocks in Stewart County, Tennessee. One of the blocks is featured on the side of the Mission-66 Visitor Center within Fort Donelson NB. Many of the other 90 quilt blocks are found on businesses, churches, and private homes.  It took nearly five years for a few volunteers and history enthusiasts to create and hang these beautiful pieces of art. <br /> <br /> The quilt trail was inspired by local artist Carolyn Walter Darke, who owned her own archtectural rendering business in Atlanta, and returned to her hometown. She was inspired by her own family's story, which was intertwined in the battle of Fort Donelson. More research led Darke and fellow art lover Betsy Tumelson to highight how Americans remembered the Civil War, how quilts commemorate the veterans who served, and how art and history unite to tell a story.<br /> <br /> Quilting is one of the oldest forms of American folk art. In the 19th century, women and young girls knew how to piece quilt blocks. Quilts were not really artwork, they were utilitarian, offering comfort and warmth for families. As the war began, quilts were taken by Confederate soldiers to training camps. Quilting provided a way to support the war effort too. Groups of women made quilts to raffle off as fundraisers or sewed soldier's cot quilts to cover coffins of deceased veterans (one may be found in the historic Dover Hotel). Newspaper journalists and sketch artists recorded the stories and images of thousands of Confederate soldiers, now prisoners-of-war at Fort Donelson, who wrapped themselves in homemade quilts and blankets to await their trip to Northern prisons.<br /> <br /> This auto tour consists of four separate driving tours. Some of the tour can take you approximately 25 -miles outside of the city of Dover. Plan for at least three-four hours to view all blocks. Don't be disappointed if some quilt blocks have been moved; it's entirely a voluntary agreement to display the quilt block for the visiting public.  <br /> <br /> <a href=\"https://npgallery.nps.gov/AssetDetail/964736f6-13de-49b9-bba1-26ea2cfbefc5?branding=NONE\">NPGallery Asset Detail (nps.gov)</a><br />  ",
+    "audioDescription": "The Mission-66 visitor center is under renovation, with a chain-link fence surrounding the premises. The Underground Railroad Quilt block is located on the south-facing side of the building. It is visible from Highway 79 and also by parking in the large parking area and walking along the earthworks to the side of the building. Restrooms, a gift shop, and information are available here inside the temporary park Visitor Center.",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "",
+    "isManagedByNps": "1",
+    "amenities": [
+      "Gifts/Souvenirs/Books",
+      "Historical/Interpretive Information/Exhibits",
+      "Information - Maps Available",
+      "Information - Ranger/Staff Member Present",
+      "Parking - Auto",
+      "Parking - Bus/RV",
+      "Picnic Shelter/Pavilion",
+      "Restroom - Accessible",
+      "Trash/Litter Receptacles",
+      "Wheelchair Accessible"
+    ],
+    "managedByOrg": "",
+    "quickFacts": [],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  },
+  {
+    "id": "56B13B70-DCAA-40BC-9495-25CDF4284B71",
+    "url": "https://www.nps.gov/places/roper-star-quilt-block.htm",
+    "title": "Roper Star Quilt Block",
+    "listingDescription": "Roper Star Quilt",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/9D58A931-BA23-428F-8A81C87ED9C438EB.jpg",
+        "credit": "NPS",
+        "altText": "quilt trail",
+        "title": "Roper Star block",
+        "description": "",
+        "caption": "The Roper Star Quilt block",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/9D58A931-BA23-428F-8A81C87ED9C438EB.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/9D58A931-BA23-428F-8A81C87ED9C438EB.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "KY,TN",
+        "parkCode": "fodo",
+        "designation": "National Battlefield",
+        "fullName": "Fort Donelson National Battlefield",
+        "url": "https://www.nps.gov/fodo/index.htm",
+        "name": "Fort Donelson"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [
+      "Quilt Block",
+      "Quilt Trail",
+      "cultural arts",
+      "Auto Tour"
+    ],
+    "latitude": "36.478912",
+    "longitude": "-87.866715",
+    "latLong": "36.478912,-87.866715",
+    "bodyText": "The Roper Star was pieced by a young woman named Timexenia M. Morris Roper in Stewart County, TN using bits of home-dyed black, yellow and orange tobacco sacks.  <br /> <br /> She made this for one of her twin sons sometime during the Civil War.<br /> <br /> For another view of this beautiful quilt, visit the Black Family Farm, 175 Lorena Bagwell Drive, Dover, TN 37058.<br /> <br /> For additional information on this quilt, see <em>The Quilts of Tennessee: Images of Domestic Life Prior to 1930.</em>",
+    "audioDescription": "The Stewart County Visitor Center sits across Highway 79 from Fort Donelson NB. A large parking area is located in front of the one-story building. Sidewalks surround three sides. A wheelchair ramp may be found to the left of the main entrance. Picnic tables are located to the right of the building. The double-glass doors lead into the lobby. The doors are not handicapped accessible. A large reception desk sits in the room to the left, just off the lobby. The Roper Star may be found near the back of the Visitor Center. For an additional view of this lovely quilt, visit Black Family Farms, 175 Lorena Bagwell Drive, Dover, TN 37058.",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "",
+    "isManagedByNps": "0",
+    "amenities": [
+      "Accessible Rooms",
+      "Restroom - Accessible",
+      "Trash/Litter Receptacles",
+      "Wheelchair Accessible"
+    ],
+    "managedByOrg": "",
+    "quickFacts": [],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  },
+  {
+    "id": "DC6F767D-D426-4100-A7AF-FB5D41F76490",
+    "url": "https://www.nps.gov/places/site-of-fort-henry.htm",
+    "title": "Site of Fort Henry",
+    "listingDescription": "Fort Henry, USDA Land Between the Lakes-US Forest Service www.landbetweenthelakes.us",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/66B7FA05-E13D-5A01-C87BA3EB9090E742.jpg",
+        "credit": "National Park Service",
+        "altText": "historicla marker",
+        "title": "Fort Henry exhibit",
+        "description": "",
+        "caption": "Fort Henry Historical Commission marker",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/66B7FA05-E13D-5A01-C87BA3EB9090E742.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/66B7FA05-E13D-5A01-C87BA3EB9090E742.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "KY,TN",
+        "parkCode": "fodo",
+        "designation": "National Battlefield",
+        "fullName": "Fort Donelson National Battlefield",
+        "url": "https://www.nps.gov/fodo/index.htm",
+        "name": "Fort Donelson"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [
+      "Earthworks",
+      "Kentucky Lake",
+      "trails",
+      "Land Between the Lakes NRA",
+      "US Forest Service"
+    ],
+    "latitude": "36.507083892822266",
+    "longitude": "-88.01578521728516",
+    "latLong": "36.507083892822266,-88.01578521728516",
+    "bodyText": "Fort Henry, located on the Tennessee River, was the site of the first battle between Union ironclads and Confederate land batteries in February 1862. The remains of this historic site are located on public lands managed by the USDA Land Between the Lakes NRA. On-site Visitor Center is not available.<br /> <br /> Maps and hiking trails information are available at the South Welcome Station or the USFS Land Between the Lakes NRA website. You will drive past this area on Hwy 79 South as you travel to the Fort Heiman Site.<br /> <br /> A second Fort Henry historical marker is located on Highway 79. You may see this as you drive toward Fort Heiman.",
+    "audioDescription": "From the South Welcome Station within Land Betweent the Lakes NRA, drive west on Fort Henry Road to the Boswell Landing/Fort Henry Site. You will see the Fort Henry Interpretive Marker. Turn right into the site, and you will notice a gravel road. The trail head for the Fort Henry hiking trails begins, and parking is available, at the end of the gravel road. Follow the informational kiosk and your hiking trip guide for your walk. If you drive Highway 79 South to Fort Heiman, you will pass the second Fort Henry marker. It's located right off the highway.",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "https://www.landbetweenthelakes.us/",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "",
+    "isManagedByNps": "0",
+    "amenities": [
+      "Historical/Interpretive Information/Exhibits"
+    ],
+    "managedByOrg": "USDA Land Between the Lakes National Recreation Area",
+    "quickFacts": [
+      {
+        "id": "5C252B96-2DEB-4EF4-91D1-B5D2B202FCD7",
+        "value": "Fort Henry Road ",
+        "name": "Location"
+      },
+      {
+        "id": "208F1B3C-44DC-4CF5-9A61-9B26A364D701",
+        "value": "Site of 1862 Campaign for Forts Henry and Donelson",
+        "name": "Significance"
+      }
+    ],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  },
+  {
+    "id": "406E659D-52EF-4A2C-9B60-CEE06D8B456B",
+    "url": "https://www.nps.gov/places/smith-s-attack.htm",
+    "title": "Smith's Attack",
+    "listingDescription": "Smith's Attack Tour Stop #5",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/2B0394A5-D506-8E9D-2B5F532D7A06D503.jpg",
+        "credit": "NPS",
+        "altText": "directional sign for Tour Stop #5",
+        "title": "Smith's Attack",
+        "description": "",
+        "caption": "Tour Stop #5",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/2B0394A5-D506-8E9D-2B5F532D7A06D503.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/2B0394A5-D506-8E9D-2B5F532D7A06D503.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "KY,TN",
+        "parkCode": "fodo",
+        "designation": "National Battlefield",
+        "fullName": "Fort Donelson National Battlefield",
+        "url": "https://www.nps.gov/fodo/index.htm",
+        "name": "Fort Donelson"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [
+      "counterattack",
+      "Civil War Union Army",
+      "rifle pits",
+      "2nd Iowa Infantry"
+    ],
+    "latitude": "36.488065346126874",
+    "longitude": "-87.86556595875244",
+    "latLong": "36.488065346126874,-87.86556595875244",
+    "bodyText": "On this portion of the battlefield, Brigadier General Ulysses S. Grant ordered a counterattack on the point in the Confederate line that was believed to be the weakest point. General Charles F. Smith led this assault by horseback, up the steep hillside, with young soldiers from the 2nd Iowa, 7th Iowa, 14th Iowa, 16th Missouri and 25th Indiana Infantry units following him. Slowly and sadly, the Confederate soldiers were ordered to return to this area, their former camp.  <br /> <br /> It was at this point in the battle that Corporal Voltaire Twombly, 2nd Iowa Infantry, picked up the colors from three other wounded comrades and carried them until the end of the engagement. Twombly would be awarded the Medal of Honor in 1897.<br /> <br /> The Confederate position was overrun, and they were pushed back to the next ridge, while Smith's forces occupied the earthworks by nightfall. Both sides waited for daylight to resume combat. <br />  ",
+    "audioDescription": "The area is both a mixture of manicured lawn and a wooded area with a mixed forest of oaks and hickories. The area contains segemented rifle pits, or fighting positions, unlike other areas of the battlefield, which have a continous line of earthworks. One War Department exhibit and one wayside exhibit explain the circumstances of the engagement. One brass field piece sits nearby the exhibits.",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "",
+    "isManagedByNps": "1",
+    "amenities": [
+      "Historical/Interpretive Information/Exhibits",
+      "Wheelchair Accessible"
+    ],
+    "managedByOrg": "",
+    "quickFacts": [],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  },
+  {
+    "id": "D991D8D6-3678-483D-84FF-9DFA3C84B2DE",
+    "url": "https://www.nps.gov/places/the-confederate-fort.htm",
+    "title": "The Confederate Fort",
+    "listingDescription": "The remains of the fort (Tour Stop #3) illustrate how the agricultural landscape of the 19th century was transformed into a military fortification. You can help us continue to preserve this historic resource by not walking or climbing on the fort walls or earthworks within the national battlefield.",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/F7F60D57-E13F-1C2C-B4C82DB85A75D3F0.jpg",
+        "credit": "NPS",
+        "altText": "a view of the cabins",
+        "title": "Inside the Confederate Fort Donelson",
+        "description": "",
+        "caption": "A Summertime View of the Log Huts within the Fort",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/F7F60D57-E13F-1C2C-B4C82DB85A75D3F0.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/F7F60D57-E13F-1C2C-B4C82DB85A75D3F0.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "KY,TN",
+        "parkCode": "fodo",
+        "designation": "National Battlefield",
+        "fullName": "Fort Donelson National Battlefield",
+        "url": "https://www.nps.gov/fodo/index.htm",
+        "name": "Fort Donelson"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [
+      "log huts",
+      "Fort Donelson",
+      "Confederate Soldiers"
+    ],
+    "latitude": "36.49318693047339",
+    "longitude": "-87.8563200628682",
+    "latLong": "36.49318693047339,-87.8563200628682",
+    "bodyText": "If you're at Tour Stop #3, you are inside the fortification. Earthen walls were constructed on the high ridges around the \"bowl\" or hollow. The park road was built through the fort walls; once you leave this area, you are driving or walking away from the fort toward the river.<br /> <br /> The 15-acre fort was built between June-December 1861. Confederates built winter quarters, similar to the reproduction log hut visible from this point. This was a training camp for volunteers: they were mustered into Confederate regiments at this site, practiced their drills, and worked on the construction of the fort.<br /> <br /> According to post-battle accounts, the huts were burned after the battle.<br /> <br /> Weathering and erosion impacted the fortification since the Civil War. We urge you to protect these cultural resources by not walking on the fort wall.",
+    "audioDescription": "The 15-acre fort sits upon a high point along the Cumberland River. The remains of the fort encircle a large \"bowl\" or hollow. The fort walls were built on top of the ridges surrounding this hollow. One reproduction log hut can be seen (and you may go inside) just adjacent to the parking area. It is believed that Confederates built winter huts similar to this during the winter of 1861-1862. Two wayside exhibits are accessed from this location: one in front of the log hut, and the other near a field gun across the park road. The walls of the fortification have eroded in the years after the 1862 battle. Signage directs visitors to stay off the fort walls to preserve the cultural resource. The walls have been sodded with grass and a few trees grow from the wall too.",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "",
+    "isManagedByNps": "1",
+    "amenities": [
+      "Parking - Auto",
+      "Parking - Bus/RV",
+      "Scenic View/Photo Spot",
+      "Trash/Litter Receptacles",
+      "Wheelchair Accessible"
+    ],
+    "managedByOrg": "",
+    "quickFacts": [],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  },
+  {
+    "id": "C7038574-3571-4C8F-81E8-967FE9A02C50",
+    "url": "https://www.nps.gov/places/underground-railroad-free-state-community.htm",
+    "title": "Underground Railroad \"Free State Community\"",
+    "listingDescription": "UGRR Network to Freedom site",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/6524A462-0CDB-56FB-84A90205A159F78C.jpg",
+        "credit": "NPS",
+        "altText": "exhibit and location of UGRR",
+        "title": "Underground Railroad - Free State",
+        "description": "",
+        "caption": "Interpretive Information on the Free State at Fort Donelson",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/6524A462-0CDB-56FB-84A90205A159F78C.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/6524A462-0CDB-56FB-84A90205A159F78C.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "KY,TN",
+        "parkCode": "fodo",
+        "designation": "National Battlefield",
+        "fullName": "Fort Donelson National Battlefield",
+        "url": "https://www.nps.gov/fodo/index.htm",
+        "name": "Fort Donelson"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [
+      "Underground Railroad",
+      "USCT"
+    ],
+    "latitude": "36.48630315718918",
+    "longitude": "-87.84739774603271",
+    "latLong": "36.48630315718918,-87.84739774603271",
+    "bodyText": "Freedom-seeking slaves sought refuge, food, and safety from the Union Army in the days and weeks following the 1862 surrender of Confederate forces to Brigadier General Ulysses S. Grant. U.S. troops maintained control of Middle Tennessee and the Twin Rivers for the remainder of the war. In the shadows of the Union camps at Henry, Heiman, and Donelson, a thriving African American community developed.<br /> <br /> Oral histories, military records, and a few diaries tell the stories of these often unknown refugees. Schools, churches, and homes were built near the Union Fort Donelson (today's national cemetery). A postwar map described the area as \"Free State.\"",
+    "audioDescription": "Exiting from Church Street, just off Highway 79, enter the entrance to the National Cemetery. Before you enter the gate, look to the left. You will see a gravel road and the wayside exhibit for the Free State is located here. Visitors may park here to read the exhibit.",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "Fort Donelson NB Underground RR Freedom Network Stamp",
+    "passportStampImages": [
+      {
+        "credit": "",
+        "description": "",
+        "crops": [
+          {
+            "aspectRatio": 1,
+            "url": "https://www.nps.gov/common/uploads/passport_stamps/primary/CD6857D6-0371-8689-C84FFB9979A61F3D.jpg"
+          }
+        ],
+        "altText": "A purple circle with the letters Fort Donelson National Battlefield, Underground RR Freedom Network",
+        "title": "UGRR Free State Stamp",
+        "caption": "",
+        "url": "https://www.nps.gov/common/uploads/passport_stamps/CD6857D6-0371-8689-C84FFB9979A61F3D.jpg"
+      }
+    ],
+    "managedByUrl": "",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "",
+    "isManagedByNps": "1",
+    "amenities": [
+      "Historical/Interpretive Information/Exhibits",
+      "Parking - Auto"
+    ],
+    "managedByOrg": "",
+    "quickFacts": [
+      {
+        "id": "5C252B96-2DEB-4EF4-91D1-B5D2B202FCD7",
+        "value": "Fort Donelson National Cemetery",
+        "name": "Location"
+      },
+      {
+        "id": "208F1B3C-44DC-4CF5-9A61-9B26A364D701",
+        "value": "Site of Free State Community",
+        "name": "Significance"
+      },
+      {
+        "id": "E32D2136-A184-4C1A-91D2-4C20CEF9CBAF",
+        "value": "National UGRR Network to Freedom Site",
+        "name": "Designation"
+      }
+    ],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  },
+  {
+    "id": "143F5BB6-842D-4AFF-A08A-353E636EA341",
+    "url": "https://www.nps.gov/places/union-camp.htm",
+    "title": "Union Camp",
+    "listingDescription": "",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/2BD445DF-FBA4-9FC2-A9165CDDDE5709FB.jpg",
+        "credit": "NPS",
+        "altText": "exhibit area depicting the Union camp",
+        "title": "Union Camp",
+        "description": "",
+        "caption": "Exhausted and cold U.S. soldiers camped in this area by nightfall, February 15, 1862",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/2BD445DF-FBA4-9FC2-A9165CDDDE5709FB.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/2BD445DF-FBA4-9FC2-A9165CDDDE5709FB.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "KY,TN",
+        "parkCode": "fodo",
+        "designation": "National Battlefield",
+        "fullName": "Fort Donelson National Battlefield",
+        "url": "https://www.nps.gov/fodo/index.htm",
+        "name": "Fort Donelson"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [
+      "U.S. Soldiers",
+      "wayside exhibit",
+      "Earthworks"
+    ],
+    "latitude": "36.486685209416756",
+    "longitude": "-87.86535138203125",
+    "latLong": "36.486685209416756,-87.86535138203125",
+    "bodyText": "In this location, you will see rifle pits, some just beyond the wayside exhibit. These are much different than the other earthworks that surrounded the Confederate fort. This tour stop is called the Union camp, because it was captured after General Smith's counterattack earlier in the day (Tour Stop #5).<br /> <br /> Many of General Buckner's men, the soldiers with the 18th Tennessee, the 2nd Kentucky, and the 14th Mississippi infantries, struggled throughout the afternoon on February 15th to try and dislodge the Union forces from their newly-acquired position in the former Confederate rifle pits. By nightfall, soldiers on both side collapsed, cold, exhausted, and hungry. Both armies roughly ended up in the same battlefield positions from which they began fighting earlier that same morning. The Confederates had captured some pieces of artillery, weapons, and military supplies, but this wasn't what this breakout attempt had been all about.<br /> <br /> Confederates now formed a new line, their final defense on the wooded ridge, across the park road, behind you. <br /> <br /> <br /> <br />  ",
+    "audioDescription": "The mowed grass areas contain rifle pits, one wayside exhibit, and parking. The area is heavily wooded along the ravines and areas beyond the earthworks or rifle pits.",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "",
+    "isManagedByNps": "1",
+    "amenities": [
+      "Historical/Interpretive Information/Exhibits",
+      "Parking - Auto"
+    ],
+    "managedByOrg": "",
+    "quickFacts": [],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  },
+  {
+    "id": "2DE90A95-62D6-4A23-81C4-F37334528A4E",
+    "url": "https://www.nps.gov/places/water-batteries.htm",
+    "title": "Water Batteries",
+    "listingDescription": "Two artillery positions were constructed on the banks of the river to provide formidable defenses against attack by the U.S. Navy. This site marks the location of the Valentine's Day battle between the ironclad gunboats and the Confederate artillerists. Today's views from the Cumberland River (Lake Barkley) offer outstanding views of the historic resources, and glimpses of wildlife and migratory birds.",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/F67C4E73-95C9-FE36-5FBA0A44E3811A72.jpg",
+        "credit": "NPS",
+        "altText": "cannon looking at river",
+        "title": "River Batteries on the Cumberland River",
+        "description": "",
+        "caption": "32-lb seacoastal cannon",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/F67C4E73-95C9-FE36-5FBA0A44E3811A72.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/F67C4E73-95C9-FE36-5FBA0A44E3811A72.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "KY,TN",
+        "parkCode": "fodo",
+        "designation": "National Battlefield",
+        "fullName": "Fort Donelson National Battlefield",
+        "url": "https://www.nps.gov/fodo/index.htm",
+        "name": "Fort Donelson"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [
+      "artillery",
+      "Cumberland River",
+      "observation deck",
+      "trails",
+      "migratory birds"
+    ],
+    "latitude": "36.49448701775901",
+    "longitude": "-87.85611343383789",
+    "latLong": "36.49448701775901,-87.85611343383789",
+    "bodyText": "Tour Stop #4 contains the site of the artillery batteries built by the Confederates for the defense of the Cumberland River. The upper gun battery has three guns: two 32-lb carronades and one rifled Columbiad. The lower battery features several 32-lb cannons and one smoothbore Columbiad.  <br /> <br /> Rivers were strategically important for both armies. The Confederates chose this site to protect not only the waterway, but their supply base located in Nashville, TN.  <br /> <br /> At this location, Confederate gunners exchanged fire with Union sailors aboard the <em>City Series</em> fleet of ironclad gunboats on February 14, 1862. If you walk in front of the gun battery emplacement at the Lower Gun Battery, you will find interpretive signs explaining the ironclads and a War Department plaque which describes the battle. Wayside intepretive exhibits are also located on the observation deck.<br /> <br /> <br /> <br />  ",
+    "audioDescription": "This historic area has both gun emplacements and cannons at two locations: the lower gun battery and the upper gun battery. The lower battery consists of seven 32-lb cannons and one columbiad. Two 32-lb cannons are resting on the grass near the park roadway. The upper gun battery has three guns, two 32-lb carronades and one rifled columbiad. Today, these features are separated by a parking area and limestone rock wall. The Cumberland River has been impounded by dams, thus it appears differently than it would have in 1862. The area across from this artillery battery is managed by the US Corps of Engineers. Depending on the season, you may see migratory waterfowl, duck blinds, flooded waters, or you may see crops such as soybeans or corn. The description of this area reflects the flow of the Cumberland River. The river flows north at this point; therefore, you pass by the Upper Gun battery first, and drive a little further, and you arrive at the Lower Gun battery. The Upper Gun battery can only be reached by trail. The trail is steep. The Lower Gun battery has an observation deck and one sidewalk. Exhibits may be found at both locations. Exhibits are also located on the observation deck. Walking around the gun emplacements at the Lower Gun battery, you will find interpretive exhibits and a War Department plaque which tell the story of the ironclad gunboats and 1862 battle.",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "",
+    "isManagedByNps": "1",
+    "amenities": [
+      "Accessible Sites",
+      "Benches/Seating",
+      "Parking - Auto",
+      "Parking - Bus/RV",
+      "Scenic View/Photo Spot",
+      "Wheelchair Accessible"
+    ],
+    "managedByOrg": "",
+    "quickFacts": [
+      {
+        "id": "E32D2136-A184-4C1A-91D2-4C20CEF9CBAF",
+        "value": "National Historic Register",
+        "name": "Designation"
+      }
+    ],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  }
+]

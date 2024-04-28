@@ -1,0 +1,155 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.67420824932375,
+          41.753749459792026
+        ]
+      },
+      "properties": {
+        "name": "Armsmear",
+        "notes": "Armsmear\nhttps://www.nps.gov/places/armsmear.htm\n\n<p>Armsmear was the family home of Samuel Colt and Elizabeth Hart Jarvis Colt.<br /> <br /> Armsmear was built between 1856 and 1857 by local architect, Octavius Jordan. It would remain the Colt family home until Elizabeth's death in 1905.<br /> <br /> The design of Armsmear was inspired by the Colts' travels in the East (Turkey, Iran, France, and Great Britain). It is described as an Italianate Villa with Moorish elements and it was considered to be one of the grandest exotic residences in the United States before the Civil War. The location of Armsmear allowed the Colt family to look upon Colt Park and Samuel Colts' Factory.<br /> <br /> The residence, when initially constructed, had an ogee dome, similar to that of the Blue Onion Dome on the East Armory, three towers and elaborate glass conservatories. It was a state-of-the-art building at the time, including gas lighting and a plumbing system.<br /> <br /> Aside from linking Colt Factory to the family house with an ogee dome, the name itself, Armsmear, means \"the meadow of arms.\" Today, as it was when it was first built, the main door is guarded by a pair of marble Uffizi Dogs, replicas of ones from Rome's Hellenistic Period.<br /> <br /> After Samuel's passing, Elizabeth reimagined the public rooms of Armsmear. The ballroom became a private art gallery and a reception room replaced the music room. Elizabeth continued to add to her private art collection until her passing, giving Armsmear an eclectic, worldly feel.<br /> <br /> The philanthropic mission of Elizabeth continued even after her death as Armsmear became a place of residence for senior women of faith with limited income and assets. Armsmear has undergone many changes, but it still maintains the spirit of Elizabeth through the organizations mission.<br /> <br /> Armsmear was registered as a Historic Site through the Historic Sites Act in 1935 and in 1966 it was designated as a National Historic Landmark. In 2008 it became a contributing building in the Coltsville Historic District and is registered as a National Historic Landmark.<br /> <br /> Armsmear is a private residence and is not open to the public. Please be respectful of the current members residing in this community.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.66810012054444,
+          41.75221676256823
+        ]
+      },
+      "properties": {
+        "name": "Colt Park",
+        "notes": "Colt Park\nhttps://www.nps.gov/places/colt-park.htm\n\n<p>Located behind the Colt family home, were expansive grounds that allowed for relaxation and an escape from the urban center, not only for the Colts but also for the employees of Colts’ Firearm Factory.<br /> <br /> The grounds of Colt Park, during the residence of the Colts, were extravagant and modeled in High Victorian style. The 105 acres were designed in a way to allow family and guests to escape from the hustle and bustle of the 19th century and reconnect with nature.<br /> <br /> The grounds contained many manicured gardens, green houses, a working farm, several conservatories, a large open lawn, a bronze colt statue, Greek Mythology marble sculptures, a deer park, a lake and two ponds. The lake offered various recreation opportunities including row boating, ice skating and fishing. The greenhouses contained rare plants but also tropical fruits such as pineapples, oranges, bananas and figs. Exotic animals could often been seen wandering the grounds.<br /> <br /> At the Western Entrance of the Park, off of Wethersfield Avenue and Morris Street, the Samuel Colt Monument stands as a reminder of Samuel Colt’s legacy. Here, nestled under an oak tree, stands a testament to the man who greatly impacted Hartford and the United States through his technological innovations and the development of an industrial village. The memorial was commissioned by Elizabeth Hart Jarvis Colt and was completed in 1906.<br /> <br /> The memorial statue consists of four different depictions of Samuel Colt throughout his lifetime, each representing a significant moment in his life. Sitting at the front of the memorial is that of a young Samuel Colt whittling a revolver barrel during his time as a sailor. The story, as told by Samuel, is that as a sailor on the <em>Corvo</em>, he developed his idea of a revolving barrel, allowing for multiple shots, by observing the helm of the ship.<br /> <br /> Behind him, standing tall, overlooking the park entrance is Samuel as an adult, a man of success, and on either side of the memorial base are relief's cast in bronze. One showing an interaction with the Russian Czar and the other of Samuel showing his new invention, the revolver, to the British House of Commons. Both relief's refer to Colt's Tour of Europe in 1854 where he was acclaimed for perfecting the revolver.<br /> <br /> Elizabeth deeded Colt Park to the City of Hartford after her death for the grounds to be used for future generations. Today while the park doesn’t look the same, but it serves the same function allowing individuals to reconnect with nature and the outdoors.</p> <p paraeid=\"{df02819d-573e-4526-b0eb-d26bea162993}{91}\" paraid=\"1875099781\">In 1976 the Colt Park was designated as Historic Place and in 2008, and it became a contributing site to the Coltsville Historic District which is registered as a National Historic Landmark District. In 2014, the United States Congress authorized creation of the Coltsville National Historical Park which includes the Colt Park. <br /> <br /> Colt Park, today, now has basketball and handball courts, soccer, baseball, softball, and football fields, two swimming pools, a playground and a walking path. The Park is managed by the City of Hartford and is open to the public from dawn to dusk. </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.66395026025774,
+          41.756236729122094
+        ]
+      },
+      "properties": {
+        "name": "Coltsville Self-Guided Tours",
+        "notes": "Coltsville Self-Guided Tours\nhttps://www.nps.gov/places/colt-armory-complex.htm\n\n<h3>Welcome to Coltsville National Historical Park!</h3> <br /> The Colt Armory Complex is the starting point of all of our self guided tours. In this historic location, you can use the <a href=\"https://coltsvillenhp.oncell.com/\">Coltsville NHP App</a> to explore this industrial city on a self-guided walking tour, visiting at eleven different sites all while learning about Samuel Colt and Elizabeth Hart Jarvis Colt. As you walk this historic district, take a moment to reflect upon the ingenuity of a man and how Samuel and Elizabeth changed the landscape and history of Hartford and the United States.<br /> <br /> Many of these locations are now private residences and are not open to the public, therefore please be respectful of the current residents while walking the grounds of Coltsville. <div style=\"text-align: center;\"><a href=\"javascript:HandleLink(\">Click here to start a self-guided walking tour of Coltsville!</a></div>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.67370109288139,
+          41.751724850661255
+        ]
+      },
+      "properties": {
+        "name": "James B. Colt House",
+        "notes": "James B. Colt House\nhttps://www.nps.gov/places/the-james-b-colt-house.htm\n\nThe James B. Colt House was built in 1855 for Samuel's brother, James Benjamin Colt.<br /> <br /> The James B. Colt house was built in the same Italianate style as the Colt family home, Armsmear, and is located just down the street. The house sits on what used to be a part of the Colt Estate and it had a view of Colt Park and the Connecticut River Valley. <br /> <br /> James Colt worked closely with Samuel during the early years of his firearms business and helped supervise the construction of Colt's Firearm Manufacturing Company and was the treasurer for a few years. When Samuel open his firearm factory in London, in 1851, James oversaw those operations.<br /> <br /> Samuel and James worked together until they had a falling out in 1856, which was noted in various newspapers of the time. It appears that the only contact between the two brothers after this point was in court cases filed by James. James continued to file lawsuits against the Colt's even after Samuel's death regarding an inheritance left to him and his children in Samuel's Will. <br /> <br /> From 1855-1859, James would reside in the house but many distinguished individuals would live there, including William Buel Franklin, a retired Union Army General and the General Manager of Colt's Firearm Manufacturing Company and George H. Day, Hartford's Parks Commissioner and leading industrial manager. <br /> <br /> In 1975, the James B. Colt house was added to the National Register of Historic Places and in 2008 it became a contributing building to the Coltsville Historic District which is registered as a National Historic Landmark.<br /> <br /> Today the property is an apartment complex and not open to the public. Please be respectful of the current residents. ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6629164638965,
+          41.75167741296334
+        ]
+      },
+      "properties": {
+        "name": "The \"Potsdam\" Worker Houses",
+        "notes": "The \"Potsdam\" Worker Houses\nhttps://www.nps.gov/places/the-potsdam-cottages.htm\n\nThe \"Potsdam\" Worker Houses, or \"Potsdam Cottages, were built in 1858 to house Samuel Colt's Willow Ware factory employees. <br /> <br /> The Colt Willow Ware factory was one of Samuel Colt's enterprising ideas meant to make use of the resources around him. To hold back the periodic flooding's of the Connecticut River, Samuel built a two mile dyke in 1855, to ensure that South Meadows would remain dry. To stabilize the dyke, French Osier Willow Trees were planted. In 1858, Samuel saw the opportunity for a new business adventure in the making of wicker furniture, by collecting the branches from the willow trees. <br /> <br /> Colt, wanting to ensure that his wicker work was top quality, looked to hire the best craftsmen who lived in Prussia. To entice the workers to move to Hartford, Colt had the houses and factory built to resemble houses found in Potsdam, Germany and were built in a 'Swiss Chalet' style. Frederick Kunkle, one of Samuel's trusted aids, traveled across Europe recruiting German workers to work at the Colt Willow Ware Factory  and move into the new Potsdam Village. <br /> <br /> The Potsdam Cottages were built of brick and set in a wooden frame with long overhanging cornices, exaggerated scallops and outdoor staircases leading to the second level. Each Cottage was built to house two families.<br /> <br /> To help ease the new immigrants into their life in Hartford and to retain them as workers, Samuel not only built houses but he also opened an area for gardening and a raising livestock, built a beer hall and vineyard. The workers were encouraged to maintain their traditional lifestyle and ethnic heritage. <br /> <br /> The Colt Willow Ware Manufacturing Company opened in 1859 and for 14 years, the company produced top quality wicker items including baskets, chairs, wagons, and cradles. By 1863, the Colt Willow Ware Factory employed over one hundred workers and the products were being marketed not only across the United States, but in Cuba and South America as well.  In 1873, the factory was destroyed in a fire and was never rebuilt.<br /> <br /> Twelve cottages were originally built, with nine remaining today, all under private ownership. In 1976 they were designated a part of the Colt Industrial District in the National Register of Historic Places and in 2008 they became contributing buildings to the Coltsville Historic District which is registered as a National Historic Landmark.<br /> <br /> While all of the cottages have undergone various modifications, but they serve as a reminder to the immigrant culture that Samuel Colt celebrated. <br /> <br />  Please be respectful of those who currently reside in these properties. <br />  ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.66891344693164,
+          41.75685857610787
+        ]
+      },
+      "properties": {
+        "name": "The Caldwell Hart Colt Memorial Parish House",
+        "notes": "The Caldwell Hart Colt Memorial Parish House\nhttps://www.nps.gov/places/the-caldwell-hart-colt-memorial-parish-house.htm\n\nThe Caldwell Hart Colt Memorial Parish House was commissioned by Elizabeth Hart Jarvis Colt in memory of her, and Samuel's, only son who lived to adulthood, Caldwell Hart Colt.<br /> <br /> The Parish House was designed by prominent architect, Edward Tuckerman Potter, who also designed the Mark Twain House. Potter came out of an eighteen-year retirement to design and build the Parish House as a memorial to Caldwell and to compliment his earlier work on the Church of the Good Shepherd. It was dedicated in September of 1896.<br /> <br /> The Parish House was designed to reflect Caldwells' many passions including sailing and worldly explorations, while showcasing the love Elizabeth had for her son. Both the exterior and interior of the building incorporate many stone carvings that bring to mind sailing such as shells, coral and anchors. Windows resemble ship port-holes and the third floor of the building was designed to resemble a ship deck with a catwalk leading to a crow's nest; three cannons, from Caldwell’s ship the <em>Dauntless</em>, grace the balcony today.<br /> <br /> One of the more prominent features on the second floor is an alcove memorial to Caldwell. This memorial features a painting of Caldwell on the <em>Dauntless</em> and four pure white Egyptian Onyx tablets. These tablets memorialize Caldwell and speak of Elizabeth’s love for her son. The ceiling is painted crystal blue as the sky would appear on a clear day out on the sea.<br /> <br /> Perhaps the most symbolic and emotional tribute to Caldwell can be found here in the alcove as well. On the left side beneath Caldwell’s birth date carved into stone is the <em>Dauntless</em> heading out to sea with full sails. On the right beneath his death date is the <em>Dauntless</em> pulling into harbor with sails furled, signifying the end of the voyage, but with a lighthouse shining bright representing a peaceful rest in heaven.<br /> <br /> The Parish House was built to serve as a community center and included a library, office space, fitness equipment, a bowling alley, a stage and auditorium. Today, while it no longer has athletic facilities, it is still a functioning community center managed by the Church of the Good Shepherd.<br /> <br /> In 1975, the Parish House was added to the National Register of Historic Places and in 2008 it became a contributing building the Coltsville Historic District, which is a National Historic Landmark District. In 2014, the U.S. Congress authorized creation of the Coltsville National Historical Park to include the Caldwell Hart Colt Memorial Parish House.<br /> <br /> Please note, that while the grounds are open to the public, the buildings are not. Tours can be requested by contacting the Church of the Good Shepherd. You can explore the interior of the Caldwell Hart Colt Memorial Parish House by checking out the <a href=\"https://www.capturepics.com/3d-model/27365-2/skinned/\">3D Virtual Tour</a> of the location.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6685767126427,
+          41.75759496310771
+        ]
+      },
+      "properties": {
+        "name": "The Church of the Good Shepherd",
+        "notes": "The Church of the Good Shepherd\nhttps://www.nps.gov/places/the-church-of-the-good-shepherd.htm\n\nThe Church of the Good Shepherd was commissioned by Elizabeth Hart Jarvis Colt in memory of her husband, Samuel Colt, and their three children who passed away in early childhood.<br /> <br /> The Church was designed by prominent architect Edward Tuckerman Potter, who designed Hartford’s renowned <a href=\"javascript:HandleLink(\">Mark Twain House</a> and the Caldwell Hart Colt Memorial Parish House. The Church was built in the Gothic Revival style architecture and contains a center for worship and a room for the education of children in the faith. <br /> <br /> The Armorer’s Entrance of the Church is unique as the stonework surrounding the archway incorporates different parts of the Colt Revolver into its construction. Parts such as revolver cylinders, triggers, hammers, and pistol handles are all hidden around this entrance. These embellishments would have been clearly recognizable to armory employees, but they were included in a manner that maintained the sanctity of the church. <br /> <br /> The interior of the Church strongly emphasizes Elizabeth’s love of her family. Multiple stained-glass windows, throughout the church, are designed for and dedicated to Elizabeth’s departed loved ones. The dedication windows, at the back of the Church, contain biblical symbolism as well as the Colt family crest and motto at the bottom, ensuring that visitors to the church understand exactly why, and for whom, it was built. The ceiling of the Church is painted blue and has gold star embellishments which was common for Episcopalian Churches at the time, but it echoes the Blue Dome that sits atop the East Armory. <br /> <br /> Another striking feature inside the church is the baptismal font. This sculpture is dedicated to the three Colt children who passed away. The font was commissioned for the Church by Elizabeth’s sister, Hetty, and depicts the cherub-like children on a pedestal. They are supporting a large shell basin in their arms for baptisms. <br /> <br /> From its very conception, the Church of the Good Shepherd was meant to represent remembrance and connection in multiple aspects. It is filled with memorials to loved ones who passed and connections to the Colt Factory which was dear to Elizabeth and Samuel. <br /> <br /> In 1975, the Church was added to the National Register of Historic Places and in 2008 it became a contributing building of the Coltsville Historic District, which is a National Historic Landmark District. In 2014, the United States Congress authorized creation of Coltsville National Historical Park which includes the Church of the Good Shepherd. Today, the Church is a functioning place of worship open to the public and offers accessible English and Spanish services.  <br /> <br /> Please note, that while the grounds are open to the public, the buildings are not. Tours can be requested by contacting the Church of the Good Shepherd. You can explore the interior of the Church of the Good Shepherd by checking out a <a href=\"https://www.capturepics.com/3d-model/church-of-the-good-shepherd-iglesia-del-buen-pastor/skinned/\">3D Virtual Tour </a>of the location.  ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.67211158068041,
+          41.754153713650396
+        ]
+      },
+      "properties": {
+        "name": "The Colt Gardener's Cottage and Colt Carriage House",
+        "notes": "The Colt Gardener's Cottage and Colt Carriage House\nhttps://www.nps.gov/places/the-colt-gardener-s-cottage-and-colt-carriage-house.htm\n\n<p paraeid=\"{23245593-d8a1-4d09-b877-3f1a471ea651}{183}\" paraid=\"767777426\">Just down the hill from the Colt family home, nestled under trees, sits the Gardener’s Cottage and the Carriage House. </p> <p paraeid=\"{23245593-d8a1-4d09-b877-3f1a471ea651}{191}\" paraid=\"1628105061\">Both built around 1860 along Shamrock Ave, now the walking path in Colt Park, they have undergone numerous changes over the years. <br /> <br /> From Armsmear, the family home, overlooking the Colt Estate, numerous gardens and greenhouses were scattered about. Samuel was fond of flowers and Elizabeth reported that there was over a mile of greenhouses on the property. Aside from flowers, the greenhouses had traditional crops such as cotton, rice, and numerous vegetables. Other fruits grown throughout the year included bananas, figs, nectarines, and peaches. <br /> <br /> The gardener lived in a small red brick house tucked behind the stable and near the deer park. The building has undergone structural changes with additions and demolitions over the years.<br /> <br /> The Carriage House, a red brick building resembling a garage, is located near the pools. Constructed of brick and wood, with a copula, the Colt’s horses were stabled in the wooden shed. With simple arched windows and a large stone foundation with a brick building set on top, the Carriage House was easily accessible to the Colts.<br /> <br /> In 2008, the Gardener’s Cottage and Carriage House were noted as contributing buildings to the Coltsville Historic District which is registered as a National Historic Landmark District. In 2014, the United States Congress authorized creation of the Coltsville National Historical Park.  <br /> <br /> The buildings are not open to the public. You many walk around them, but be respectful of park property. </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.66311229581298,
+          41.75676774014461
+        ]
+      },
+      "properties": {
+        "name": "The East Armory Complex",
+        "notes": "The East Armory Complex\nhttps://www.nps.gov/places/the-east-armory-complex.htm\n\n<p>American industrialist and gunsmith, Samuel Colt, would establish a successful business developing and creating firearms in Hartford, Connecticut. <br /> <br /> The East Armory is easily recognizable in the Hartford Skyline by the Blue Onion Dome and Rampant Colt. Samuel, inspired by his trips to Russia, reproduced the Onion Dome style and added his own flair by adorning it with a Rampant Colt. The Colt seen atop the armory is a replica of the original that was destroyed in a fire. Used equally as a marking tool and a call for recognition, the dome and the rampant colt remain a pivotal part of the Colt Legacy. <br /> <br /> Samuel’s first business, Patent Arms Manufacturing Company, built in Paterson, New Jersey would close in September 1842 due to poor sales. Colt refused to give up on his dream of a successful firearm business and in 1851 he began purchasing land in South Meadows. By 1855 the Colt's Patent Firearms Manufacturing Company was built and producing firearms. By 1857 it was producing 150 finished weapons a day. <br /> <br /> With his success, Samuel began expanding his factory and created an industrial town encompassing housing for his workers, a gathering hall, Colt Park and another small factory, Colt Willow Ware Manufacturing. <br /> <br /> Samuel would spend most of his time focusing on perfecting precision machinery, designing and producing new arms and ensuring that patents and infringements were aptly dealt with. With the onset of the American Civil War in 1861, Colt’s business was booming. One year into the war, Samuel would pass away unexpectedly and Elizabeth Hart Colt, his wife, would take control of the business. <br /> <br /> On February 4th, 1864, tragedy would once again strike the Colt family. In the middle of the Civil War, when Colt was the nation’s largest producer of munitions, a fire broke out in one of the buildings. Even with people fighting the blaze, the fire quickly spread and within minutes entire floors were ablaze. Shortly after 9am the blue dome would crash to the ground as Elizabeth watched.<br /> <br /> Over half of the factory would burn to the ground, but Elizabeth having foresight, had taken out an insurance policy and would rebuild. Since completing the rebuild in 1867, the Blue Dome has graced the Hartford skyline. <br /> <br /> Today, the East Armory is owned by Colt Gateway LLC and is leased out as office space and apartments. Other buildings contain an art academy, the office of a Senator, a cafe, and software development company. <br /> <br /> The East Armory and Dome are not open to the public and the National Park Service is not conducting tours at this time due to safety, liability and accessibility reasons.<br /> <br /> While we are unable to conduct tours of the Dome at this time, please check out our <a href=\"javascript:HandleLink(\">3D Dome Tours</a> that provide a view of the City of Hartford from inside the Dome! </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.66471941649921,
+          41.75577094005996
+        ]
+      },
+      "properties": {
+        "name": "Worker Housing",
+        "notes": "Worker Housing\nhttps://www.nps.gov/places/colt-factory-worker-housing.htm\n\nThe Worker Houses, located on Huyshope Avenue and Van Block Avenue, were built in 1856 to provide housing for employees at Colt's Firearms Manufacturing Company. <br /> <br /> Samuel Colt believed that by building housing near the factory and providing recreational opportunities he would be able to employee and retain skilled workers for his firearm factory. In the late 1850's Colt would build twenty houses behind the factory that could house up to 145 families. <br /> <br /> The worker houses were built in two different styles, Gothic Revival (located on Huyshope Ave) and Italianate (located on Van Block Avenue), meant to attract immigrant workers from Germany and Ireland. The brick Gothic Revival Houses were built to house six families each while the Italianate houses, with their exterior stairwells, could house up to eight families. <br /> <br /> To provide a sense of privacy and ownership, trees were planted along the streets and fences were erected. The houses reflected Colt's paternal nature for his employees by ensuring that they had access to fresh air and open spaces for recreation by leaving space between the houses. Aside from providing his workers with a place to live, Colt also built various recreational facilities including a beer hall and Charter Oak Hall. Here workers were able to read books and newspapers, hold gatherings, host exhibits and where the Colt Armory Band gathered.<br /> <br /> The houses initially were home to skilled workers including craftsmen, machinists and tool makers, but by the late 1880's they primarily housed unskilled workers. <br /> <br /> During World War II, the ten houses closest to the factory, were demolished to build a parking lot for the expanding employee workforce.<br /> <br /> In 1976 they were designated apart of the Colt Industrial District in the National Register of Historic Places and in 2008 they became contributing buildings to the Coltsville Historic District which is registered as a National Historic Landmark.<br /> <br /> Today, the remaining ten buildings are privately owned condominiums, that reflect the ingenuity of a man who strived to build a workplace that felt like a family. Please be respectful of those who currently reside in these properties.  ",
+        "icon": "red-pin-down.png"
+      }
+    }
+  ]
+}

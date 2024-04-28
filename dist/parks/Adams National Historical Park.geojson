@@ -1,0 +1,185 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.997481,
+          42.233992
+        ]
+      },
+      "properties": {
+        "name": "Abigail Adams Cairn",
+        "notes": "Abigail Adams Cairn\nhttps://www.nps.gov/places/abigail-adams-cairn.htm\n\nAs the <a href=\"https://www.nps.gov/bost/learn/historyculture/bhm.htm\">Battle of Bunker Hill unfolded in Boston</a>, windows rattled and the ground shook from the cannon fire in Braintree. Abigail Adams brought her seven year old son, John Quincy Adams, up to the top of near-by Penn’s Hill to watch the battle from afar. John Quincy later wrote, “Of June lighted the fires of Charlestown -- I saw with my own eyes those fires, and heard Britannia's thunders in the Battle of Bunker's hill and witnessed the tears of my mother and mingled with them my own, at the fall of Warren a dear friend of my father, and a beloved Physician to me.”<br />  <br /> The Abigail Adams Cairn is located in a neighborhood with limited parking. Please respect the neighbors’ property. Ground is slippery when wet.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Adams Family Orchard",
+        "notes": "Adams Family Orchard\nhttps://www.nps.gov/places/adams-family-orchard.htm\n\n“In conformity to the fashion I drank this Morning and Yesterday Morning, about a Jill of Cyder. It seems to do me good, by diluting and dissolving the Phlegm or the Bile in the Stomach.” - Diary of John Adams <br />  <br /> Apple orchards are a staple in New England. Here behind Peace field are a variety of apples that could have been found during John and Abigail Adams’s time. In John’s letters to Abigail he laments that he is unable to drink the cider Abigail made from their orchards.<br /> <br /> Be careful while walking through the orchard. Ticks can be found in the grassy area. Keep an eye out for falling \"Adams Apples.\"",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.010915,
+          42.2559947
+        ]
+      },
+      "properties": {
+        "name": "Boxwoods",
+        "notes": "Boxwoods\nhttps://www.nps.gov/places/boxwoods.htm\n\nLining the pathways in the garden are dwarf English boxwoods (<em>Buxus sempervirens suffruticosa</em>). The boxwoods are some of the oldest features of the landscape, dating back to the house’s construction in 1731. The boxwoods were on the property when John and Abigail Adams moved to the home in 1788. <br />  <br /> Due to their age, the boxwoods are very fragile. Please remain within the established paths, and do not step over the hedges. If you wish to exit the paths use the opening by the rose bush or between the house and the Stone Library.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0110609,
+          42.256074
+        ]
+      },
+      "properties": {
+        "name": "Drying Yard",
+        "notes": "Drying Yard\nhttps://www.nps.gov/places/drying-yard.htm\n\nThe post holes for the drying yard date to Abigail Adams’s time (1788 - 1818). In a world before dryers, clothes would be pinned on a line to dry outside.  The points on the posts are to keep birds away.<br /> <br /> The greenhouse behind the drying yard is still in use.  It dates to Brooks Adams (1886 - 1927).",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.003448,
+          42.239347
+        ]
+      },
+      "properties": {
+        "name": "John Adams Birthplace",
+        "notes": "John Adams Birthplace\nhttps://www.nps.gov/places/john-adams-birthplace.htm\n\nJohn Adams was born in this house on October 30 (October 19 O.S.), 1735. From this country farm, the future lawyer, politician, diplomat, and president learned the values that formed his political career.  While living in this property he started a courtship with a woman from Weymouth, Abigail Smith. The John Adams Birthplace is one of the two oldest presidential birthplaces in the nation. The other is the John Quincy Adams Birthplace.<br />  <br /> The John Adams Birthplace is open seasonally by guided tour only. Please visit the <a href=\"https://www.recreation.gov/ticket/facility/300003\">Adams National Historical Park Recreation.gov</a> webpage for information on the next available tour.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.003486,
+          42.239314
+        ]
+      },
+      "properties": {
+        "name": "John Quincy Adams Birthplace",
+        "notes": "John Quincy Adams Birthplace\nhttps://www.nps.gov/places/john-quincy-adams-birthplace.htm\n\nJohn and Abigail Adams moved into this house following their wedding on October 25, 1764. In this property their oldest two children, Abigail “Nabby” and John Quincy Adams, were born. While John Adams was in Philadelphia and Europe during the American Revolutionary War, Abigail Adams ran the farm, raised and educated her children, housed refugees, and sent intelligence to her husband from this property. The John Quincy Adams Birthplace is one of the two oldest presidential birthplaces in existence today. <br />  <br /> The John Quincy Adams Birthplace is open seasonally by guided tour only. Please the <a href=\"https://www.recreation.gov/ticket/facility/300003\">Adams National Historical Park Recreation.gov website</a> for information on the next available tour.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0108522,
+          42.2561049
+        ]
+      },
+      "properties": {
+        "name": "Old House at Peace field",
+        "notes": "Old House at Peace field\nhttps://www.nps.gov/places/old-house-at-peace-field.htm\n\nOld House at Peace field was originally built in 1731. It was purchased by John and Abigail Adams in 1788. Four generations of the Adams Family lived in this house from 1788 to 1927. The family added three additions to the house, as well as updated the garden to the English gentleman’s garden we see today. To tour the garden, please follow the paths in the boxwood hedges. <br />  <br /> Old House at Peace field is open seasonally by guided tour only. Please visit <a href=\"https://www.recreation.gov/ticket/facility/300003\">Adams National Historical Park's Recreation.gov webpage</a> for information on the next available tour.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0111095,
+          42.2561116
+        ]
+      },
+      "properties": {
+        "name": "Stone Library",
+        "notes": "Stone Library\nhttps://www.nps.gov/places/stone-library.htm\n\n“You will never be alone with a poet in your pocket.” - John to John Quincy Adams <br />  <br /> John Quincy Adams acquired more than 6,000 books over the course of his life. His son, Charles Francis Adams, built this Stone Library in 1870 to house his father’s collection. The books are in up to 14 different languages and cover topics from religious texts to novels. John Quincy Adams’s grandson, Henry Adams, researched and wrote his nine-volume <em>The History of the United States During the Administrations of Thomas Jefferson and James Madison</em> in this library. <br />  <br /> The Stone Library is open seasonally for by guided tour only. Please visit <a href=\"https://www.recreation.gov/ticket/facility/300003\">Adams National Historical Park's Recreation.gov webpage</a> for information on the next available tour.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.010414,
+          42.256522
+        ]
+      },
+      "properties": {
+        "name": "The Carriage House",
+        "notes": "The Carriage House\nhttps://www.nps.gov/places/adams-carriage-house.htm\n\nUpon purchasing an expensive carriage, Charles Francis Adams needed a place to store it. The son and grandson of U.S. Presidents, Charles Francis Adams married a wealthy woman, Abigail Brooks, which afforded him extra comforts unavailable to his parents and grandparents. They built this Carriage House in 1873, which not only housed the carriage and horses but also the coachman and family telephone. <br />  <br /> The Carriage House is open seasonally. If the barn doors are open, feel free to walk in and explore the Carriage Room. A family tree inside helps to explain the four generations of the Adams Family that called Peace field home. <br />  <br /> Adams National Historical Park conducts curriculum based education programming in the Carriage Room. If you are an educator, visit <a href=\"https://www.nps.gov/adam/learn/education/index.htm\">Adams National Historical Park - Education</a> for information on field trips and how to book one.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.010907,
+          42.2562136
+        ]
+      },
+      "properties": {
+        "name": "Water Pump",
+        "notes": "Water Pump\nhttps://www.nps.gov/places/water-pump.htm\n\nThe water pump is a reproduction of the original installed in the early 1700s at the location of the well. It would have been surrounded by buildings to support the farm. In the 1850’s, Charles Francis Adams brought running water into the house, replacing the well and pump. Only 3.68 acres remain of the 75 acre farm at Peace field.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0114535,
+          42.2560967
+        ]
+      },
+      "properties": {
+        "name": "White Roses",
+        "notes": "White Roses\nhttps://www.nps.gov/places/white-roses.htm\n\nAbigail Adams brought these White Roses of York to Quincy (then Braintree) from England. They were planted in 1788. Abigail’s great-grandson, Brooks Adams, moved the roses to this location where they continue to thrive.  The roses bloom to this day, using the same original root system, around mid-June. Abigail had also brought with her some Red Roses of Lancaster which unfortunately died many years ago.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.011442,
+          42.2558686
+        ]
+      },
+      "properties": {
+        "name": "Yellowwood Tree",
+        "notes": "Yellowwood Tree\nhttps://www.nps.gov/places/yellowwood-tree.htm\n\nThe yellowwood tree <em>(Cladristis kentukea</em>) is attributed to Louisa Catherine (1775 - 1852) and John Quincy Adams (1767 - 1848). It was planted cerca 1830. Yellowwoods are not native to Massachusetts. The yellowwood, acquired in Washington, D.C., blooms in springtime.",
+        "icon": "red-pin-down.png"
+      }
+    }
+  ]
+}

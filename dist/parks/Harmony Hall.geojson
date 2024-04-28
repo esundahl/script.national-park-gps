@@ -1,0 +1,35 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.002238127,
+          38.745912375
+        ]
+      },
+      "properties": {
+        "name": "Harmony Hall",
+        "notes": "Harmony Hall\nhttps://www.nps.gov/places/000/harmony-hall.htm\n\n<p>Harmony Hall is a two and a half story Georgian style house built in 1723. Initially known as Battersea, the building was renamed Harmony Hall by Elizabeth Hesselius Addison after the harmonious living arrangement she and her husband, Walter Dulaney Addison, enjoyed while sharing the home with Addison’s brother and his wife from 1792-1793. <br /> The mansion is located on a 62.5-acre open pasture land estate along the Potomac River. This estate was purchased by the National Park Service in 1966, to preserve southern Maryland cultural heritage. Surrounded by a rich landscape, it offers visitors many chances to connect with Colonial History. The park also home to the remains of the Want Water House and canal.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0050971919,
+          38.7483027454
+        ]
+      },
+      "properties": {
+        "name": "Want Water Ruins",
+        "notes": "Want Water Ruins\nhttps://www.nps.gov/places/000/want-water-ruins.htm\n\nNot much remains of the 18th century one and a half story house constructed by Colonel Thomas Addison. Records taken by the Historic American Buildings Survey in the 1930s indicate that the house once had a gambrel roof, three windows on each side, and rich interior paneling. ",
+        "icon": "red-pin-down.png"
+      }
+    }
+  ]
+}

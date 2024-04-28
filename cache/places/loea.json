@@ -1,0 +1,79 @@
+[
+  {
+    "id": "58F8C936-F77D-469C-AE18-5EE2F8915311",
+    "url": "https://www.nps.gov/places/lower-east-side-tenement-museum.htm",
+    "title": "Lower East Side Tenement Museum",
+    "listingDescription": "The Tenement Museum preserves and interprets the history of immigration through the personal experiences of the generations of newcomers who settled in and built lives on Manhattan's Lower East Side, America's iconic immigrant neighborhood; forges emotional connections between visitors and immigrants past and present; and enhances appreciation for the profound role immigration has played and continues to play in shaping America's evolving national identity.",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/place/nri/20180815/places/6C95F985-D36F-D1A8-8DC0D2A2C8102B2F/6C95F985-D36F-D1A8-8DC0D2A2C8102B2F.jpg",
+        "credit": "National Park Service",
+        "altText": "An old building front. A rod iron stair climbs to a wood trimmed porch.",
+        "title": "",
+        "description": "",
+        "caption": "Step into 97 Orchard St., step into another time",
+        "crops": []
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "NY",
+        "parkCode": "loea",
+        "designation": "National Historic Site",
+        "fullName": "Lower East Side Tenement Museum National Historic Site",
+        "url": "https://www.nps.gov/loea/index.htm",
+        "name": "Lower East Side Tenement Museum"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [
+      "immigration history",
+      "Immigration Museum",
+      "New York City",
+      "19th century history",
+      "Urban America",
+      "Find Your Park",
+      "Historic Preservation Fund",
+      "Historic Preservation Grants",
+      "Save Americas Treasures"
+    ],
+    "latitude": "40.7186126708984",
+    "longitude": "-73.9911117553711",
+    "latLong": "40.7186126708984,-73.9911117553711",
+    "bodyText": "<p>The heart of the museum is a historic tenement, home to an estimated 7,000 people from over 20 nations between 1863 and 1935. The tenement’s cramped living spaces, the lives of past residents and the history of the Lower East Side, contribute to its representation of the immigrant experience. They faced challenges we understand today: making a new life, working for a better future, starting a family with limited means.<br /> <br /> In recognizing the importance of this seemingly ordinary building, the Tenement Museum has re-imagined the role that museums can play in our lives. Throughout the year, programs such as historic building tours, neighborhood walking tours, virtual events and more are offered.<br /> <br /> <strong>Our Mission</strong><br /> The Tenement Museum preserves and interprets the history of immigration through the personal experiences of the generations of newcomers who settled in and built lives on Manhattan's Lower East Side, America's iconic immigrant neighborhood; forges emotional connections between visitors and immigrants past and present; and enhances appreciation for the profound role immigration has played and continues to play in shaping America's evolving national identity.<br /> <br /> <em>A project through the <a href=\"http://go.nps.gov/sat\">Save America's Treasures Grant Program</a>, which helps preserve nationally significant historic properties and collections, funded stabilization and restoration work at the Tenement Museum</em><em> in 2000. </em></p>",
+    "audioDescription": "",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "https://www.tenement.org/",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "",
+    "isManagedByNps": "0",
+    "amenities": [],
+    "managedByOrg": "The Lower East Side Tenement Museum",
+    "quickFacts": [
+      {
+        "id": "5C252B96-2DEB-4EF4-91D1-B5D2B202FCD7",
+        "value": "New York City, New York ",
+        "name": "Location"
+      },
+      {
+        "id": "208F1B3C-44DC-4CF5-9A61-9B26A364D701",
+        "value": "The stories of immigrants who started their lives anew on Manhattan's Lower East Side between the 19th and 21st centuries. Two historic tenement buildings housed over 15,000 working class immigrants from over 20 nations while they served as residences.",
+        "name": "Significance"
+      },
+      {
+        "id": "E32D2136-A184-4C1A-91D2-4C20CEF9CBAF",
+        "value": "National Historic Site",
+        "name": "Designation"
+      }
+    ],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  }
+]

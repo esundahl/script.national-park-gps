@@ -1,0 +1,20 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.825507,
+          40.89321
+        ]
+      },
+      "properties": {
+        "name": "St. Paul's Church - Exterior",
+        "notes": "St. Paul's Church - Exterior\nhttps://www.nps.gov/places/000/st-pauls-church-exterior.htm\n\n<p>Established in 1763, this fieldstone and brick church served both the American and British armies as a Revolutionary War field hospital. It has facilitated the spiritual lives of generations of local residents as an Episcopal house of worship until 1980.</p> <h3>Western Side</h3> <p>The simple, Georgian, vernacular style church was constructed as a community project utilizing local field-stone and brick, with the keystone, 1765, still visible over the door.<br />  </p> <h3>Symbology</h3> <p>The completion date of 1788, with initials of the chief mason, **CP**, can often be observed in the afternoon, depending on the light. Rows of unfilled scaffold holes remain from the 18th century. According to local tradition, **LV**, diagonally up from the keystone, represents Louis Vincent, a prominent parishioner who helped to save the bell at the start of the Revolutionary War. Increased wealth and a religious shift toward greater displays of symbols of Christianity led to the erection of the Victorian steeple in 1887. The copper cross replaced an earlier religious symbol knocked off by a hurricane in the early 1950s.</p>",
+        "icon": "red-pin-down.png"
+      }
+    }
+  ]
+}

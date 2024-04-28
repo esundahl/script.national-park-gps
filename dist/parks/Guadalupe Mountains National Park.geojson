@@ -1,0 +1,620 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.83907461166382,
+          31.897357617258066
+        ]
+      },
+      "properties": {
+        "name": "\"Around The Bend\"",
+        "notes": "\"Around The Bend\"\nhttps://www.nps.gov/places/gumo_gp_aroundthebend.htm\n\nAt just over one and a half miles into the hike you'll encounter a major change in vegetation. Here the trail crosses the ridge around to a north-facing slope. North-facing slopes generally receive less sunlight than south-facing slopes, which results in cooler temperatures allowing higher elevation plants to survive. Suddenly you'll see a forest of two-needle pinyon, Douglas fir, ponderosa pine, and a few southwestern white pines.<br /> <br /> From this point on the trail is not quite as steep as the first mile and a half. As you climb higher in elevation, watch the skies for the rare Peregrine Falcon. Peregrines have been known to nest in the cliffs above Pine Spring Canyon each spring.  ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.88179979,
+          31.917867246
+        ]
+      },
+      "properties": {
+        "name": "Bartlett Peak",
+        "notes": "Bartlett Peak\nhttps://www.nps.gov/places/gumo_bartlett_peak.htm\n\n<p>Located on the Western escarpment of the Guadalupe Mountains, Bartlett Peak is the fourth highest point in Texas with an elevation of 8,508 feet above sea level. No trail reaches the summit, and the peak is best seen from U.S. Highway 62/180 to the west of the park. The Salt Basin Dunes is an excellent location to view the peak from a distance. </p> <p>The peak is named for John Russell Bartlett. From 1850 to 1853 Bartlett served as the United States Boundary Commissioner responsible for surveying the boundary between the United States and Mexico. In 1854 he published <i>A Personal Narrative of Explorations and Incidents in Texas, New Mexico, California, Sonora and Chihuahua</i>, in which he described the Guadalupes as \"a dark, gloomy-looking range, with bold and forbidding sides, consisting of huge piles of rock, their <em>debris</em> heaped far above the surrounding hills.\" </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.880078273,
+          31.9296023381
+        ]
+      },
+      "properties": {
+        "name": "Bush Mountain",
+        "notes": "Bush Mountain\nhttps://www.nps.gov/places/gumo_bush_mountain.htm\n\n<p>With an elevation of 8,631 feet (2,631 m), Bush Mountain, is the second highest peak in the state of Texas. Bush Mountain is nearly three miles northwest of <a href=\"https://www.nps.gov/places/gumo_guadalupe_peak.htm\">Guadalupe Peak</a>. Bush Mountain is within the <a href=\"https://www.nps.gov/articles/000/gumo_gumo-wilderness.htm\">Guadalupe Mountains Wilderness</a> and can only be accessed via hiking or horseback.</p> <p>Bush Mountain can be reached via trailheads at both Pine Springs and Dog Canyon and the Bush Mountain Trail passes over the summit of the mountain. The <a href=\"https://www.nps.gov/gumo/planyourvisit/bm_wcg.htm\">Bush Mountain Wilderness Campground</a> is located along the trail just below the southeast side of the summit. A radio repeater is located a short distance off the trail and near the summit. </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.85346734523773,
+          31.892620950863137
+        ]
+      },
+      "properties": {
+        "name": "Campground Junction",
+        "notes": "Campground Junction\nhttps://www.nps.gov/places/gumo_gp_campgroundjunction.htm\n\nAt three and one quarter miles up the trail hikers will pass a sign indicating the Guadalupe Peak backcountry campsite. A short trail leads north to the campsite, where there are five individual tent sites. Backpackers wishing to hike the peak for sunrise and sunset can camp here. Camping is only permitted in designated sites and requires a Wilderness Use Permit that must be obtained before you begin your hike. <br /> <br /> Along the trail, you may occasionally find fossils that remind us that this land was once covered by an ancient sea. During the Permian period, between 250 and 290 million years ago, a reef formed at the bottom of an ancient sea that covered much of what is now West Texas and Southeast New Mexico. The 400-mile long, horseshoe-shaped Capitan Reef was formed of algae, sponges, and other lime-secreting organisms, as well as lime that precipitated directly from the seawater. <br /> <br /> Eventually the channel connecting the sea to the ocean became restricted and the sea began to dry up. As the water evaporated, the reef was buried beneath a thick blanket of sediments and salts. Millions of years later, faulting lifted this ancient reef and exposed it to the elements, which quickly eroded away the sediments in which it had long been buried. This reef is exposed today in the Guadalupe Mountains, the Apache Mountains, and the Glass Mountains. ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.229305,
+          32.417769
+        ]
+      },
+      "properties": {
+        "name": "Carlsbad, New Mexico",
+        "notes": "Carlsbad, New Mexico\nhttps://www.nps.gov/places/gumo_carlsbad-nm.htm\n\nGateway communities to Guadalupe Mountains National Park include Carlsbad, New Mexico.<br /> <br /> Fifty-five miles to the northeast of the park, Carlsbad, New Mexico is the largest nearby community and offers most services, including restaraunts, lodging, grceries, and service stations. ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.43174398281091,
+          32.08867821743631
+        ]
+      },
+      "properties": {
+        "name": "Chosa Campground (BLM)",
+        "notes": "Chosa Campground (BLM)\nhttps://www.nps.gov/places/gumo_chosa_campground_blm.htm\n\n<p>The Chosa Campground is a maintained dry camping area. Camping is free and the camping limit is 14 days. The entire area is a large, square, gravel parking lot which makes it easy for leveling. There are no electric, water, or sewer hookups available. Trash cans are available on site.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.201193,
+          31.938828
+        ]
+      },
+      "properties": {
+        "name": "Dell City, Texas",
+        "notes": "Dell City, Texas\nhttps://www.nps.gov/places/gumo_dellcity-tx.htm\n\nGateway communities to Guadalupe Mountains National Park include Van Horn, Texas.<br /> <br /> Located forty-five miles west of the park, Dell City, Texas is a small farming community with limited services, including gas and lodging options. Access to the Salt Basin Dunes is a short distance to the east of Dell City. ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.857781522,
+          31.8770554083
+        ]
+      },
+      "properties": {
+        "name": "El Capitan",
+        "notes": "El Capitan\nhttps://www.nps.gov/places/gumo_el_capitam.htm\n\nEl Capitan is the southern-most point of the Guadalupe Mountains. At 8,085 feet above sea level, El Capitan is the eighth highest peak in Texas and it's imposing height and stark outline have made it an iconic image for generations of travelers.<br /> <br /> No formal trail reaches the summit, and the peak is best seen from U.S. Highway 62/180 in the vicinity of the park.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.82947766780853,
+          31.896656241643644
+        ]
+      },
+      "properties": {
+        "name": "El Capitan Trail Junction",
+        "notes": "El Capitan Trail Junction\nhttps://www.nps.gov/places/gumo_gp_3trailsjct.htm\n\nLess than a quarter mile from the trail is the junction of three trails. Stay straight to continue toward the summit of Guadalupe Peak. A right turn directs hikers toward Devil's Hall and the Guadalupe Peak \"stock trail\". A left turn here begins the El Capitan Trail. <br /> <br /> The El Capitan Trail leads around the base of El Capitan and along the west side of the Guadalupe escarpment, ending at the historic Williams Ranch house. It is the only trail to provide access to the west side of the Guadalupes. As such, the trail provides excellent opportunities for solitude and sweeping views.<br /> <br /> If following the trail to the right, in about a mile you'll reach the junction of the Stock trail connector for Guadalupe Peak. This trail features a less steep ascent/descent from the peak. A short distance past the stock trail junction this trail ends in the wash which leads to Devil's Hall. The route to Devil's Hall is a strenuous hike and features surfaces that are slippery when dry.  ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.79974623362426,
+          31.899544044051577
+        ]
+      },
+      "properties": {
+        "name": "Frijole Horse Corral Trailhead",
+        "notes": "Frijole Horse Corral Trailhead\nhttps://www.nps.gov/places/gumo_horsetrailhead.htm\n\n<p>The Frijole Horse Corral Trailhead is located at the Frijole Horse Corral Campground and a short distance from the historic ranch compound. For those visitors riding horses within the park, this is one of two trailheads with corrals and hitching posts.  <br /> <br /> Stock trails and routes beginning here include:</p> <ul> <li><a href=\"https://www.nps.gov/places/gumo_frijole_ranch_museum.htm\">Frijole Ranch Museum</a></li> <li><a href=\"https://www.nps.gov/thingstodo/gumo_foothills_loop.htm\">Foothills Loop</a></li> <li>Tejas Trail</li> <li><a href=\"https://www.nps.gov/thingstodo/gumo_hike_guadalupe_peak.htm\">Guadalupe Peak</a><br />  </li> </ul>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.801161518,
+          31.9077859849
+        ]
+      },
+      "properties": {
+        "name": "Frijole Ranch Museum",
+        "notes": "Frijole Ranch Museum\nhttps://www.nps.gov/places/gumo_frijole_ranch_museum.htm\n\n<p>Frijole Ranch is a delightful oasis on the edge of the dry, lower slopes of the Guadalupe escarpment which truly captures the rugged sprit of the American West. Today the Frijole Ranch History Museum occupies the old ranch headquarters, and displays the sequential human history of the Guadalupes from Native Americans and the early ranching community to the establishment of a national park.<br /> <br /> Just outside is a tiny one-room schoolhouse and spring house that was constructed for water protection and storage. The cold, spring water which is channeled through the courtyard (once essential for subsistence and farming) provides precious moisture for the large shade trees and the grass that surrounds them. Shade and water, both scarce commodities in the desert, are coveted by a variety of species that frequent the area at dawn and dusk. As you look around, imagine what life may have been like in this remote West Texas locale.</p> <p>Frijole Ranch is located 1½ miles northeast of the Pine Springs Visitor Center. The Frijole Ranch Museum is open seasonally, when staff or volunteers are available. The grounds are always open, with picnic tables under the large shade trees in the courtyard. Bring your binoculars; this is and excellent location for birding and wildlife observation. The Smith Springs loop trail begins here as well. Restrooms and picnic shelters are located at the nearby parking area and trailhead.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.801475668,
+          31.9077168539
+        ]
+      },
+      "properties": {
+        "name": "Frijole Ranch Trailhead",
+        "notes": "Frijole Ranch Trailhead\nhttps://www.nps.gov/places/gumo_frijole_ranch_trailhead.htm\n\n<p>The Frijole Ranch trailhead is located at the end of the Frijole Ranch Road and a short distance from the historic ranch. The popular Smith Spring loop trail begins here. A picnic area is immediately adjacent the trailhead. <br /> <br /> Trails and routes beginning here include:</p> <ul> <li><a href=\"https://www.nps.gov/places/gumo_frijole_ranch_museum.htm\">Frijole Ranch Museum</a></li> <li><a href=\"https://www.nps.gov/thingstodo/gumo_manzanita_spring.htm\">Manzanita Spring</a></li> <li><a href=\"https://www.nps.gov/thingstodo/gumo_hike_smith_springs_trail.htm\">Smith Spring Loop</a></li> <li><a href=\"https://www.nps.gov/thingstodo/hunter-peak.htm\">Hunter Peak</a></li> <li><a href=\"https://www.nps.gov/thingstodo/gumo_foothills_loop.htm\">Foothills Loop</a></li> </ul>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.860807855,
+          31.8914744875
+        ]
+      },
+      "properties": {
+        "name": "Guadalupe Peak",
+        "notes": "Guadalupe Peak\nhttps://www.nps.gov/places/gumo_guadalupe_peak.htm\n\n<p>Guadalupe Peak is the highest natural point in Texas, with an elevation of 8,751 feet above sea level. The peak can be climbed by a maintained strenuous day hike via the Guadalupe Peak Trail with a 3,000 feet elevation gain at any time of the year. This is the most popular day hike in the park and the summit can be crowded on weekends. Weather at the summit is generally ten degrees cooler and winds are ten miles per hour faster than Pine Springs.</p> <p>A stainless steel pyramid marks the summit. It was erected by American Airlines in 1958 to commemorate the 100th anniversary of the Butterfield Overland Mail, a transcontinental stagecoach route that passed south of the mountain. <br /> <br /> While Guadalupe Peak offers exhilarating physical challenges and stunning vistas to those that hike it, its desert mountain environment is fragile: rocks, plants, and wildlife are vulnerable to damage wrought by the presence and action of humans. And in their own way, the spirited humans who climb Guadalupe Peak are also fragile: they’re vulnerable to accidents and exhaustion, to high winds, rain and snow, and to the results of their own choices and preparation as well as those of the visitors before them. Because Guadalupe Peak has been a destination of<br /> enormous popularity but is also a site of grandeur and vulnerability – human and non-human – it offers an unusually important opportunity to demonstrate the careful balance within the twofold mission of the national park system.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.04156036270102,
+          31.926938985095365
+        ]
+      },
+      "properties": {
+        "name": "Hueco Tanks State Park & Historic Site",
+        "notes": "Hueco Tanks State Park & Historic Site\nhttps://www.nps.gov/places/gumo_hueco-tanks.htm\n\n<p>A unique geology and a relative abundance of water made the Hueco Tanks site a refuge for nature and humans for over ten thousand years. Formed thirty four million years ago when magma entered an older limestone formation and then cooled, the Hueco geology emerged as weather eroded away the limestone and carved the odd sculptural hoodoos seen today. Hollows, known as huecos, populated the rock surfaces, catching rainfall where microhabitats developed and supported a diversity of plants and animals.</p> <p>The presence of water in this Chihuahuan Desert environment also drew humans following the end of the last ice age. Hunter-gatherers crossing the region found the huecos to be a reliable source of water, leaving designs painted on the rocks as they passed through. Many of these pictographs survive and perhaps the most compelling are those left by a group of people we call the Jornada Mogollon. Rather than just passing through, the Jornada hung around, occupying the Hueco site starting sometime around 1150 A.D. They built pithouse structures, planted simple crops, fashioned stone tools, and painted animals, birds, and large-eyed storm deities across the rock surfaces. The Jornada also painted more than two hundred “masks” or face designs, considered the largest known assemblage of pictographic “masks” in the country, beneath rock overhangs, within boulder shelters, and at other odd and hidden places throughout the site. This well-preserved (and protected) collection of pictographs is part of the Hueco Tanks State Park and Historic Site, administered by the Texas Parks and Wildlife Department, and can be seen on guided and self-guided tours. The Historic Site also offers camping, hiking, and some of the best bouldering and rock climbing in the state.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.78876015,
+          31.969518961
+        ]
+      },
+      "properties": {
+        "name": "Hunter Line Shack",
+        "notes": "Hunter Line Shack\nhttps://www.nps.gov/places/gumo_hunter_line_shack.htm\n\nTucked deep into South McKittrick Canyon, the Hunter Line Shack stands as a wilderness remnant of the Hunter-Grisham partnership which consolidated small West Texas ranches into a large corporate entity to make it economically viable in the early Twentieth Century. By the mid-1930s the Hunter family owned the vast majority of the lands that are now a part of Guadalupe Mountains National Park. For fifty years the Hunter family hosted guests at this site while the maanged these lands as the Guadalupe Mountain Ranch. <br /> <br /> Located just a short distance from the Grotto, the line shack stands as a testemant to the stewardship of the Guadalupe Mountains by <a href=\"https://www.nps.gov/people/gumo_judge_j_c_hunter.htm\">Judge J. C. Hunter</a> and his son, <a href=\"https://www.nps.gov/people/gumo_j_c_hunter_jr.htm\">J. C. Hunter, Jr.</a> The shack is composed of long, rectangular irregular masonry with a porch all along the south elevation; the north elevation is built into the hill. The remains of a tack room are located a short distance to the north. In the 1980s the National Prk Service removed a wood frame addition to the structure so that it would not have to be preserved. <br /> <br /> The Hunter Line Shack is last of the day hike destinations in McKittrick Canyon reached without gaining significant elevation. ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.830299696,
+          31.913991626
+        ]
+      },
+      "properties": {
+        "name": "Hunter Peak",
+        "notes": "Hunter Peak\nhttps://www.nps.gov/places/gumo_hunter_peak.htm\n\n<p>At 8,368 feet elevation, Hunter Peak is the sixth highest mountain in Texas and only 381 feet lower than Guadalupe Peak. The north side of the mountain slopes gently and is covered with pine trees and other vegetation, while the south side is much steeper, more rugged and has a much more desert like appearance. Like the other peaks in the Guadalupe Mountains, Hunter Peak is part of a fossilized coral reef and is composed of fossil rich limestone. The name of the peak remembers J. C. Hunter, a major landowner and early proponent of the park. <br /> <br /> There are <a href=\"https://www.nps.gov/thingstodo/hunter-peak.htm\">good loop routes leading to the summit of Hunter Peak</a>, but it receives much less attention that Guadalupe Peak. </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.8550542,
+          31.970072189
+        ]
+      },
+      "properties": {
+        "name": "Lost Peak",
+        "notes": "Lost Peak\nhttps://www.nps.gov/places/gumo_lost_peak.htm\n\nLost Peak is a gentle and easily accessed peak on the north end of Guadalupe Mountains National Park. At 7,830 feet above sea level, Lost Peak is the ninth highest point in the state of Texas and is five feet higher than Big Bend National Park's high point, Emory Peak.<br /> <br /> The summit is easy to reach, requiring a simple off-trail jaunt from the Tejas Trail on rocky, open terrain with good visibility. This summit is quiet, breezy and peaceful and affords expansive views of the desert to the west.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.79839478,
+          31.9103594925
+        ]
+      },
+      "properties": {
+        "name": "Manzanita Spring",
+        "notes": "Manzanita Spring\nhttps://www.nps.gov/places/gumo_manzanita_spring.htm\n\nManzanita Spring did not always look as it does today. The Smith Family periodically dredged the spring and used it to help irrigate crops. Before the arrival of the Smiths, a bog surrounded the spring. Maps from the 1870s and 1880s call it Cienaga (Bog), Tule (Rush), and Escondido (Hidden) Spring.<br /> <br /> Manzanita Spring is a good place to observe some of the region's unique wildlife. Watch for mule deer, elk, javelina, gray fox, and birds like violet-green swallows and white-throated swifts.<br /> <br /> As you continue along the Smith Spring Trail, notice how the desert plants are well adapted for survival in an arid land. The leaves of agaves and yuccas form a circular pattern allowing rainwater to flow down the grooves in the leaves straight to the heart and root system of the plant.<br /> <br /> Other plants like the gray oak have very small leaves that don't collect as much sunlight as larger leaves would. This helps prevent the tree from losing too much moisture. Some desert plants don't have any leaves, while others will drop their leaves during dry periods to conserve water.<br /> <br /> Cacti can store water collected during rain events to rely on later during periods of drought. These plants are also eaten by animals like javelina or deer, which rely on the moisture contained in cactus pads to survive in the arid desert environment.<br /> <br /> As you are walking along the trail, look at the mountains ahead of you. Although dry today, water is the creator of this landscape. An ancient sea sustained the creatures which would create the reef that we now know as the Guadalupe Mountains. Algaes and sponges living in an ancient sea that covered this area over 250 million years ago helped form what is now one of the best examples of an exposed fossil reef anywhere in the world.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.752323276,
+          31.977767991
+        ]
+      },
+      "properties": {
+        "name": "McKittrick Canyon Trailhead",
+        "notes": "McKittrick Canyon Trailhead\nhttps://www.nps.gov/places/gumo_mckittrick_canyon_trailhead.htm\n\n<p>The McKittrick Canyon trailhead is the starting point for trails for destinations in McKittrick Canyon as well as above and beyond the canyon. Trail destinations inside the canyon make excellent day hikes. The trailhead is located on the other side of the visitor center from the parking lot. This is a day use area and visitors must exit before the gate closing time each evening. <br /> <br /> Trails and routes beginning here include:</p> <ul> <li><a href=\"https://www.nps.gov/thingstodo/gumo_hike_mckittrick_canyon_nature_trail.htm\">McKittrick Canyon Nature Trail</a></li> <li><a href=\"https://www.nps.gov/thingstodo/gumo_hiketoprattcabin.htm\">Pratt Cabin</a></li> <li><a href=\"https://www.nps.gov/thingstodo/gumo_hiketogrottohunter.htm\">The Grotto and Hunter Line Shack</a></li> <li><a href=\"https://www.nps.gov/thingstodo/gumo_hike_the_notch.htm\">The Notch</a></li> <li><a href=\"https://www.nps.gov/thingstodo/gumo_permian_reef_trail.htm\">Permian Reef Trail</a></li> <li><a href=\"https://www.nps.gov/thingstodo/gumo_mckittrickridge-overnight.htm\">Overnight on McKittrick Ridge</a></li> <li><a href=\"https://www.nps.gov/thingstodo/gumo_overnight_wildernessridge.htm\">Overnight on Wilderness Ridge</a></li> <li><a href=\"https://www.nps.gov/thingstodo/gumo_pinesprings2mckittrickcyn.htm\">McKittrick Canyon to Pine Springs</a></li> <li><a href=\"https://www.nps.gov/thingstodo/mckittrick-canyon-to-dog-canyon.htm\">McKittrick Canyon to Dog Canyon</a></li> </ul>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.821733496,
+          31.8943419067
+        ]
+      },
+      "properties": {
+        "name": "Park Store at Guadalupe Mountains",
+        "notes": "Park Store at Guadalupe Mountains\nhttps://www.nps.gov/places/gumo_park_store.htm\n\nThe park store is operated by <a href=\"http://www.wnpa.org/\">Western National Parks Association</a>, an official non-profit partner of the National Park Service dedicated to supporting the educational mission of Guadalupe Mountains National Park. The park store has a wide range of books, maps, travel guides, and other items available for retail sale. These products complement the interpretive themes you experience when visiting the park. The park store is located in the Pine Springs Visitor Center, or you can visit the <a href=\"https://store.wnpa.org/park-stores/guadalupe-mountains-national-park.html\">online park store</a>. ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.8156750202179,
+          31.892042514328626
+        ]
+      },
+      "properties": {
+        "name": "Pine Springs Store & Café",
+        "notes": "Pine Springs Store & Café\nhttps://www.nps.gov/places/gumo_pinesprings_store.htm\n\n<p><a href=\"https://www.nps.gov/people/gumo_walter_glover.htm\">Walter Glover</a> purchased land near Pine Springs as early as 1913. Ranching in the area first, following the construction of the highway, he and his wife, <a href=\"https://www.nps.gov/people/gumo_bertha_glover.htm\">Bertha</a>, developed a stop for tourists that included a gas station, store, café, and guesthouse with cabins for overnight stays.<br /> <br /> In the early 1950s the Glovers had previously deeded a small portion of their property, a one-half-acre tract containing remnants of the old <a href=\"https://www.nps.gov/places/gumo_the_pinery.htm\">Butterfield stage station</a>, to American Airlines. The airline company had planned to restore the stage station but when costs made the plans unfeasible, the property reverted to the Glovers. It was speculated that the Glovers might be convinced to make a similar agreement with the Park Service.<br /> <br /> Before 1964 the Glovers had no previous knowledge of the proposed park and were extremely upset by the news that their property was included within the potential boundary. Inclusion of the Glover property in the park proposal had become important for two reasons: to provide access to Pine Spring Canyon from Highway 62/180 and allow preservation of the Butterfield stage station ruins. About 80 acres out of the more than 4,000 acres they owned was identified for acquisition.   <br /> <br /> When a park advocate associated with <a href=\"https://www.nps.gov/people/gumo_j_c_hunter_jr.htm\">J.C. Hunter, Jr</a>. stopped to see the couple in the spring of 1964, he was not well received, and the Glovers literally ran him off their property. Shortly afterward, the Glovers told a Park Service planner that as regards the park proposal, “If it helps Hunter in any way, we are against it.”<br /> <br /> A May 1964 report Park Service report was not optimistic. It described that the Glovers were \"openly hostile to the park proposal and to any suggestion of including any part of their property within it. . . . [T]here was absolutely no opportunity for compromise\" as far as the Glovers were concerned. It was suggested that although the Glovers' attitude might soften, the only way to eliminate their opposition to the park was to delete their property from the proposed park boundaries.<br /> <br /> The recommendations of Park Service personnel regarding the Glover property brought about no bill revisions in Congress. The Glover tract remained a part of the future park when the enabling lesgislation was passed in 1966.<br /> <br /> Two years later, in December 1969, J. E. Williamson, a negotiator from the Office of Land Acquisition and Water Resources, visited the Glovers. He hoped to obtain their permission for an appraisal of their property. In his notes, he bluntly assessed the Glover property and situation:</p> <p style=\"margin-left: 40px;\">This is a <u>problem</u> tract. Owners are old and <u>very hostile</u> to the park. Mr. Glover is 91, Mrs. is 77. They have lived on or near the tract for 55 years. . . . The improvements consist of several old unused tourist cabins and an old building along the hwy [sic]. which is used as living quarters, service station and a very dirty little lunch stand. From what I could see the improvements are of little value.<br /> . . . [T]he purpose of my visit was to obtain permission for an appraisal. . . . I made several attempts to communicate with Mrs. Glover and go over the map with her. I failed. She would take-off on a verbal barrage against the park, about how I was trying to steal their land and that our appraisal would be just another trick by another crook. . . . She would talk only on their refusal to have anything to do with the park. She would not listen.</p> <p>Williamson also met with Bertha Glover's brother, T. C. Miller, a retired Park Service ranger who lived in Carlsbad. Miller was not surprised at the Glovers' response and told Williamson he doubted that there was an answer to the problem. He recommended waiting until both Glovers died, since he did not think the Park Service would condemn the property. Williamson advised Miller not to believe that condemnation would not be utilized. Miller agreed to try to reason with the Glovers.<br /> <br /> A month later Williamson met with the Glovers again. This time Mrs. Glover said they would not sell their property for less than a million dollars, but asked Williamson what the federal government would offer. He responded that until an appraisal had been made, he could not make an offer. Mrs. Glover again refused to allow an appraiser to look at the property. Williamson added a parenthetical note to his report, saying he thought an earlier estimated appraisal of $50,000 to $75,000 was too high.<br /> <br /> Edward Hummel, Assistant Director of Park Management for the Park Service, suggested offering the Glovers a life estate in the property. However, if that offer was refused, he recommended filing a complaint reserving a life estate, believing such action would reduce \"the sting of condemnation.\" Carl O. Walker, Acting Director of the Park Service, instructed the land office to try negotiating with the Glovers one more time. If that effort failed, he recommended filing a complaint action.<br /> <br /> In April 1970, the Park Service offered $35,000 plus a life estate for the Glovers which allowed them the non-transferrable right to continue their business as long as they wished or lived. This offer was refused, and condemnation proceedings began.<br /> <br /> The condemnation judgment, filed March 10, 1972, gave the Glovers $55,000 for their land. The presence of water wells on the land justified the increase of $20,000 over the government appraisals. The judgment also gave the Glovers the right to use and occupy the property as it was then improved until the death of the last surviving spouse. The Glover property was the last piece of land to be acquired before official establishment of the park on September 30, 1972.<br /> <br /> For the next decade the store operated as it had. Walter Glover died in 1973 at the age of 94; Bertha Glover died in August 1982 at the age of 89. During the years in which Bertha Glover continued to operate the Pine Springs Cafe, she and the park personnel at Guadalupe Mountains maintained a friendly, if distant, relationship.<br /> <br /> A month after Bertha Glover's death, park staff met with Mary Glover Hinson, the Glover's daughter, who had been living with her mother. They discussed how much time Hinson needed to close the business and vacate the buildings. Hinson asked to wait at least until the end of the tax year. It was determined that December 31, 1982, would be a \"fair and reasonable\" date for vacating the property.<br /> <br /> On October 26 a national newspaper carried the story of Mary Hinson and announced that Texas Senator Lloyd Bentsen had sent a written request for an extension of time for Hinson to vacate the cafe.<br /> <br /> At the same time, staff members from the offices of Secretary of the Interior James Watt and Congressman Richard White also became involved in the question of extending Hinson's occupancy of the Pine Springs buildings. The Park Service responded briefly and factually to the query from the Interior Department, advising the staff member of the means of acquisition of the Glover property, the reservation attached to it, and the termination of the reservation with the death of Bertha Glover. He described the buildings on the property and emphasized the fact that the newspaper had distorted the situation by referring to Hinson's dislocation as an eviction.<br /> <br /> A market study conducted in 1981 indicated a concession would not be economically feasible. The high cost of rehabilitating the Pine Springs store building to meet standards of safety and structural soundness was also a significant barrier.<br /> <br /> Park Superintendent Dunmire agreed to a six-month extension of occupancy, setting June 30, 1983, as the date by which she would vacate the property. Despite the apparent finality of the agreement between Dunmire and Hinson, due to the public and Congressional support Mary Hinson was able to gain, she still occupied the Pine Springs Cafe beyond the June 1983 extension. In the spring of 1983, hoping to \"cool the issue\" and believing that the decision was not harmful to the park, Superintendent Dunmire acquiesced to Hinson's request to continue to occupy the Pine Springs buildings for another year. He renewed her right to occupancy again in June 1984 and June 1985. During these years Hinson paid $50 per month for rent and charges for water used in the store.<br /> <br /> In the spring of 1986, new park Superintendent Richard Smith stated, “To close out the use and occupancy at the expiration of the current permit would be the proper course of action for the preservation and protection of park values.” A tentative date of November 1, 1986 was established as the final date for vacating the property.<br /> <br /> Despite what appeared to be orderly progress toward the park's final possession of the Glover buildings, Hinson was not ready to give up. Less than a week after Smith issued his news release about the Glover tract, Secretary of the Interior Donald Paul Hodel overturned the Regional decision to not renew Hinson's special permit. According to the story that appeared in the Washington Post on September 25, Hodel had learned of Hinson's problem from Bentsen and had decided to permit Hinson's occupancy for five more years, until January 1, 1992.<br /> <br /> After obtaining the new agreement, Hinson spent little time at the Pine Springs property. She lived in El Paso and the spouse of a highway department employee operated the store for her. The Pine Springs Store closed for the final time at the end of 1992. Because of the dilapidated condition of the structures, the site of the Pine Springs Store was cleared in 1994.<br /> <br /> For nearly three generations of travelers in Far West Texas, Walter and Bertha Glover’s Pine Springs Store was a significant waypoint in a remote region. Many stories can be told of the unique regional flavor and hospitality to be found at the little store and café nestled against the mountains. The Glover’s long resistance to the park idea is a reminder that the creation of national parks is not without costs and consequences.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.828177339,
+          31.8966092408
+        ]
+      },
+      "properties": {
+        "name": "Pine Springs Trailhead",
+        "notes": "Pine Springs Trailhead\nhttps://www.nps.gov/places/gumo_pinesprings_trailhead.htm\n\n<p>The Pine Springs trailhead is the starting point for many park trails, and is located above the Pine Springs Visitor Center and near the campground. Except for the <a href=\"https://www.nps.gov/thingstodo/gumo_pinery_trail.htm\">Pinery Trail</a> near the visitor center, most of the trails starting here are rated strenuous with significant elevation gains. <a href=\"https://www.nps.gov/gumo/planyourvisit/whenitsbusy.htm\">On busy weekends</a> this trailhead area often fills first. A connector trail leads from the visitor center parking area through the campground to this trailhead. <br /> <br /> Trails and routes beginning here include:</p> <ul> <li><a href=\"https://www.nps.gov/thingstodo/gumo_hike_devils_hall_trail.htm\">Devil's Hall</a></li> <li><a href=\"https://www.nps.gov/thingstodo/gumo_hike_guadalupe_peak.htm\">Guadalupe Peak</a></li> <li>El Capitan</li> <li>Salt Basin Overlook</li> <li><a href=\"https://www.nps.gov/thingstodo/hunter-peak.htm\">Hunter Peak</a></li> <li>The Bowl</li> <li><a href=\"https://www.nps.gov/thingstodo/gumo_foothills_loop.htm\">Foothills Loop</a></li> <li><a href=\"https://www.nps.gov/thingstodo/gumo_pinesprings2mckittrickcyn.htm\">Pine Springs to McKittrick Canyon</a></li> <li><a href=\"https://www.nps.gov/thingstodo/gumo_tejastrail_hikethru.htm\">Pine Springs to Dog Canyon via the Tejas Trail</a></li> <li>Tejas Trail & Bush Mountain Loop</li> <li>Overnight to Shumard Canyon</li> </ul>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.780661429,
+          31.9836386775
+        ]
+      },
+      "properties": {
+        "name": "Pratt Cabin",
+        "notes": "Pratt Cabin\nhttps://www.nps.gov/places/gumo_pratt_cabin.htm\n\n<p>Just over two miles inside <a href=\"https://www.nps.gov/gumo/planyourvisit/mckittrick.htm\">McKittrick Canyon</a>, at the confluence of North and South McKittrick Creek is a stone cabin and outbuildings built as a vaction home by the oil geologist Wallace Pratt in the 1930s. Today, the porch and grounds of the cabin make for a pleasant rest stop as visitors hike into McKittrick Canyon. <br /> <br /> Geologist <a href=\"https://www.nps.gov/people/wallace-e-pratt.htm\">Wallace Pratt</a> was introduced to the Guadalupe Mountains by an associate, Judge Drane, while on a business trip to Pecos, Texas in 1921. After Drane mentioned that there was land for sale, Pratt and three colleagues bought ranch property in the area. By 1930, Pratt had purchased the rest of his original partners’ land holdings and continued to expand his ownership, which included the lower portion and mouth of McKittrick Canyon. Pratt grazed approximately 100 head of cattle on his property, which he called Manzanital Ranch. Between 1931 and 1932, the Pratts had a stone cabin built at the confluence of the north and south forks of McKittrick Canyon to serve as their summer home.<br /> <br /> Vance Phenix, an engineer and architect from John Staub’s Houston office, drafted the plans for and subsequently oversaw the actual construction of the Cabin. Dean Phenix, Vance’s brother, was an accomplished carpenter and assisted in the construction. Phenix hired Alfred Lehman, a rancher that lived near McKittrick Canyon as a laborer. Greene McCombs, who lived on property adjacent to Pratt’s, helped quarry and transport the stone used to construct the Cabin. The plumbing was installed by a professional from Calsbad, New Mexico. The small crew constructed the Cabin over the winter of 1931-1932. Vance Phenix camped with his wife and two sons at the site of the Cabin during the duration of the construction. The Garage was completed after the Cabin by another crew; the exact date of its construction is unknown.<br /> <br /> The limestone blocks were quarried from the former McCombs Ranch site, approximately 4.5 miles from the site of the Cabin. The site of the quarry was chosen as the limestone was weathered smooth and fractured in thin beds that required less work to form ideally shaped blocks and slabs. The stone was transported into the canyon using Greene McCombs’ pick-up truck and a horse-pulled sled. The stonework, the foremost character-defining feature of Pratt Cabin, was laid by stonemason Adolph May. The yellow pine timber was shipped from East Texas to Carlsbad, NM.<br /> <br /> Once complete, the Pratts furnished the cabin with rough plank reclining chairs, four beds and assorted hammocks, and a special table to seat twelve. Outdoors was a picnic table made of stone. Although the cabin is often called the \"Pratt Lodge,\" Wallace Pratt told an interviewer that he had grown up in Kansas and never quite learned what a \"lodge\" was used for. He always referred to the house as The Stone Cabin. During summers when Houston, Texas is hot and humid, the Pratts and their three children spent time in the Guadalupes, sharing the cabin with friends.<br /> <br /> The Pratt family used the Cabin chiefly as a summer home from 1932 until 1940, when Wallace's wife, Pearl, died. Wallace soon remarried, and by 1941, they began designing a second residence in the area, <a href=\"https://www.nps.gov/places/gumo_ship_on_the_desert.htm\">Ship on the Desert</a>, which was completed around 1943. McKittrick Canyon was a destination for geologists from all over the world, many of whom were hosted by the Pratts at the Cabin. The contractor commissioned to build Ship on the Desert lived in the Cabin while the new residence was being built. The use of the Cabin declined, though the Pratt family continued to use it as a retreat.<br /> <br /> In 1963, Pratt donated over 5,000 acres of land to the National Park Service, including Pratt Cabin and Ship on the Desert, which greatly contributed to the creation of Guadalupe Mountains National Park in 1972. Pratt Cabin was listed on the National Register of Historic Places in 1975.<br /> <br /> Pratt Cabin is currently used as an interpretive site, commemorating the Pratt family’s residence in the canyon. The east bedroom within the Cabin is used for storage of National Park Service supplies and Cabin materials that are not in use. The grounds around the Cabin and Garage are used as a picnic and rest area for hikers. The Cabin is not open to the public unless a volunteer or ranger is present, nor are there bathroom facilities at the site.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.89666700363159,
+          31.91382019155808
+        ]
+      },
+      "properties": {
+        "name": "Pure Well",
+        "notes": "Pure Well\nhttps://www.nps.gov/places/gumo_pure_oil_well.htm\n\n<p><strong><span style=\"color:#c0392b;\">The Pure Well </span></strong> <strong><span style=\"color:#c0392b;\">site, located to the west of Bartlett Peak is closed to the public until the completion of the plug & abandonment, and final reclamation work, anticipated to occur in 2023-24.</span></strong> </p> <p>On the park's remote west side, below Bartlett peak stands the Pure Well. This abandoned oil well stands as a testament to repeated, unsuccessful efforts to locate oil in the Guadalupe Mountains, even by a family dedicated to preserving this landscape. Today the site of the well is inside the 1978 Wilderness boundary and is surrounded to the west by eligible Wilderness lands.<br /> <br /> The Pure Well is located on a flattened terrace that was blasted out of the side of a steeply sloping west-facing flank of Bartlett Peak near the southern tip of the Guadalupe Mountain Range. The terrace, or well pad, is roughly rectangular in shape and measures approximately 75 feet by 150 feet. The well is located 15 feet to the west from the cut wall and situated within an asymmetrically shaped 4-foot-deep cellar. While active, the well was artificially lifted by sucker rod pump, which is the most commonly used method for onshore drilling. An electric powered, conventional pumping unit remains intact at the location. An extremely eroded and deeply rutted road segment trails off from the western end of the site. Material and equipment were dragged up this road using a looped 1‐1/4” steel braded cable which was hoisted by a vintage Fordson tractor converted to a stationary power source. The tractor remains mounted upon a reinforced concrete foundation. The tractor is also attached to and appears to have powered a pulley system attached to a mast.<br /> <br /> <i></i>In 1947, The Pure Oil Company submitted an application to the Railroad Commission of Texas to drill a new well on the property of Eloise Hunter. Hunter’s property was located approximately 75 miles north of Van Horn, Texas, in what is now Guadalupe National Park.  Drilling began on June 20, 1947 and was completed on May 5, 1949. Over the course of two years, the well reached a final depth of 6,650 feet. The well was a dry hole, meaning that it produced no oil. However, this may not have been the express purpose of the endeavor. Given the location and time frame of drilling, the well may have been drilled as an exploratory or test well with the aim to inform future development locations for the oil company.  The well was partially plugged back to a water well on May 13, 1949.</p> <p>The Hunter family and name are considered synonymous with the creation of Guadalupe Mountains National Park. <a href=\"https://www.nps.gov/people/gumo_judge_j_c_hunter.htm\">Jesse Coleman “J.C.” Hunter</a> was a Texas businessman who developed an interest in the natural resources of the Guadalupe Mountains during the early 20<sup>th</sup> century. Early into his professional career he had already garnered a number of career accolades in addition to a stellar personal reputation amongst his community. Coleman served as a Superintendent of Schools in the town of Van Horn, Texas and went on to hold several minor political positions in Culberson County before trying his hand in the oil and gas business. He and his business partner, Matt Grisham, began the Grisham-Hunter Corporation as a means to acquire land in the vicinity of the southern Guadalupe Mountains; mainly for the purpose of sinking exploratory wells. Armed with seemed to be an uncanny amount of foresight, Hunter began acquiring small parcels of land in the area during the 1910s and 1920s. The economic slowdown continued to worsen, leading into the Great Depression. Grisham and Hunter were in a position to take advantage of the excess of foreclosed property and failed ranches that flooded the local market. In the 1930s, Hunter scooped up the William’s property and several other key locations in the area. It was apparent that Hunter had begun to consider a long-term plan for conservation of his growing estate. In 1934, Hunter met with Roger Toll, superintendent of Yellowstone National Park. Hunter offered to sell the 42,300 acres then held by the Grisham-Hunter Corporation to the federal government for $237,600 for the express purpose of creating a national park. The sale never materialized; however, Toll became interested in the possibility of turning the Hunter property into a detached unit of nearby Carlsbad Caverns National Park. Political motivation for the effort waxed and waned and logistical problems kept the idea alive but on the back burner for several decades.</p> <p>After the well had been plugged back for water use it was removed from their regulatory jurisdiction.  The remote location and arduous route to access the well resulted in the eventual abandonment of the site. The expense of maintaining the equipment and site access was too expensive of an endeavor for any corporation or individual to take on. It is unclear when precisely the well was officially abandoned, however, the water produced by the well was no longer needed for livestock once the Guadalupe Ranch was sold to establish the park. </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.00616261186487,
+          31.92358749830382
+        ]
+      },
+      "properties": {
+        "name": "Salt Basin Dunes Trailhead",
+        "notes": "Salt Basin Dunes Trailhead\nhttps://www.nps.gov/places/gumo_salt_basin_dunes_trailhead.htm\n\nThe white gypsum sands of the Salt Basin Dunes rise 100 feet from the desert floor and provide a brilliant contrast to the dark, towering cliffs of the Guadalupe Mountains. To the west are barren salt flats that are the source of these beautiful dunes. When rain runs off the highly soluble limestone rock in the adjacent mountains, salts are leached. This runoff pools in the desert basin and as it evaporates, large grains of mineral salts are left behind. The wind carries the salt grains northeast toward the Guadalupe Mountains and deposits them at the base of the western Guadalupe escarpment to form gypsum dunes.<br /> <br /> The dune landscape is geologically young. It developed over the past few thousand years as dissolved salts and gypsum from an adjacent lake bed were deposited by wind into ever changing sculpted hill, swale, and ripple formations. The mesquite coppice dunes form stabilized spots where wildlife abounds.<br /> <br /> The dunes environment is home to gypsum-loving plant and animal life such as gypsum scalebroom, a white variant of the lesser earless spiny lizard, and five of the park’s seven species of scorpions.<br /> <br /> Visitors are allowed to hike over the open dunes, but are encouraged to avoid walking on the fragile biological soil crusts. Visitors may also hike on abandoned ranch road traces and discover windmills and other historic remnants of the past. Temperatures in the dunes area are generally mild in the winter and dangerously hot in the summer.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.758911,
+          31.958054
+        ]
+      },
+      "properties": {
+        "name": "Ship on the Desert",
+        "notes": "Ship on the Desert\nhttps://www.nps.gov/places/gumo_ship_on_the_desert.htm\n\n<p><strong>Ship on the Desert was listed as one of <a href=\"https://savingplaces.org/stories/11-most-endangered-places-2018#.YW7az7jML-g\">America’s 11 Most Endangered Historic Places</a> by the National Trust for Historic Preservation in 2018. </strong>Stay tuned for more information about future preservation plans for the building. <br /> <br /> Ship on the Desert is an early example of 20th century modernism, distinct for West Texas. The architecture firm Milliken & Bevin, based in New York, designed the Pratt family summer residence to blend into the surrounding mountainous landscape, using local limestone and panoramic windows which serve as the building’s most prominent character defining features.<br /> <br /> <a href=\"https://www.nps.gov/people/wallace-e-pratt.htm\">Wallace E. Pratt</a> first saw the land that would later become his home in 1921 when he visited West Texas on a trip with oil brokers to acquire leases for Humble. While there he was offered the opportunity to see the “most beautiful spot in Texas,” this spot being McKittrick Canyon, a resplendent enclave amid the scrub desert with free-flowing streams, waterfalls, and lush greenery. Pratt purchased the land with two partners as a summer vacation spot and built his first home in the area, <a href=\"https://www.nps.gov/places/gumo_pratt_cabin.htm\">Pratt Cabin</a>, designed by architect John Staubs, in the winter of 1931-32. Pratt Cabin is a small, two bedroom cabin with a distinctly rustic feel, made of locally quarried stone. The Pratt family summered here but it’s remote location and susceptibility to inclement weather made it somewhat undesirable. After his first wife, Pearl died in 1940, he married <a href=\"https://www.nps.gov/people/iris-calderhead-pratt.htm\">Iris Calderhead</a>, a prominent early 20th Century suffragist. The newlyweds quickly chose an alternate location on higher ground for their new home, and hired New York architecture firm Milliken & Bevin to design their second home. <br /> <br /> From their time in New York City, the Pratts were close friends with Elizabeth and Newton Bevin, of the firm Milliken & Bevin. Site selection for the house occured in 1941 and primary construction began one year later. The house was completed by 1943 as per the May 1943 issue of <i>The New Pencil Points</i> magazine which published an article on the home. During construction, Newton Bevin and his wife Elizabeth stayed in the Pratt Cabin in McKittrick Canyon while overseeing the work of building contractor Edward Birdsall of Carlsbad, New Mexico. While the firm is formally credited for the building’s design, Pratt, in his letters, cites Elizabeth and Newton Bevin as the actual designers of the building. The built product was immediately acknowledged by the architectural community for its design excellence, with it most notably featured in <i>New Pencil Points</i>. Its progressive use of the stylistic and structural elements of European Modernism and the International Style were unprecedented in this remote region of West Texas. While on the one hand being an incredibly modern piece of architecture, Ship on the Desert retained, through its use of locally quarried stone masonry, a rustic quality that is very much in harmony with the landscape and with Wallace Pratt’s interests as a geologist. <br /> <br /> The house incorporates elements of both Wallace and Iris Pratt's lives. The house was designed to resemble an oil tanker at sea, a tribute to Pratt's long career in the oil industry - at one point there was actually an oil tanker named for him. But at least one of the doors was painted a bright purple color, the color of the women's suffage movement and National Woman's Party, a likely nod to Iris's lifetime of activism for the cause of women's rights.   <br /> <br /> Following its construction, Wallace and Iris Pratt lived at the residence for the following 15 years. In their retirement, the Pratts lived in relative solitude, and Wallace would often fly his small plane from the main house to his office in Carlsbad, New Mexico. The couple eventually moved to Arizona due to health concerns, leading to Pratt’s decision to donate the house to the National Park Service in 1959. The initial donation included 4,942 acres of land and an additional 690 acres were donated by the Pratt’s between 1960 and 1961. That first gift to the NPS lead to the creation of the Guadalupe Mountains National Park, officially established in 1972. Today Ship on the Desert remains under the care of the National Park Service and is generally not open to the public.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.8744181,
+          31.9074801246
+        ]
+      },
+      "properties": {
+        "name": "Shumard Peak",
+        "notes": "Shumard Peak\nhttps://www.nps.gov/places/gumo_shumard_peak.htm\n\n<p>Located on the Western escarpment of the Guadalupe Mountains, Shumard Peak is the third highest point in Texas with an elevation of 8,615 feet above sea level. No trail reaches the summit, and the peak is best seen from U.S. Highway 62/180 to the west of the park. The Salt Basin Dunes is an excellent location to view the peak from a distance. </p> <p>The peak is named for George Getz Shumard (1823–1867) He made significant geological explorations in northern and western Texas while serving as surgeon and geologist on a series of exploring expeditions sent out by the United States War Department in the 1850s, and as assistant to his brother, Benjamin Franklin Shumard, who was appointed the first state geologist in 1858. During an 1852 exploration Captain Randolph B. Marcy, and Captain George B. McClellan, Shumard discovered the presence of Permian fossils in the area of the Guadalupe Mountains. </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.806528861,
+          31.9185469485
+        ]
+      },
+      "properties": {
+        "name": "Smith Spring",
+        "notes": "Smith Spring\nhttps://www.nps.gov/places/gumo_smith_spring.htm\n\nSmith Spring is one of several springs along the base of the Eastern escarpment. There is no reliable water in the high country. When it rains, water quickly enters a series of cracks and joints in the limestone, later emerging in springs like this below the escarpment. The water from Smith Spring goes underground just a short way below the spring, later reemerging at Manzanita Spring.<br /> <br /> At this point you have entered a lush riparian (streamside) woodland. This beautiful oasis is made possible by the water emerging from the spring. Because of this abundant water, trees can survive here that could not live in the open desert.<br /> <br /> Look for tall, long-needled pines with orange-colored bark. These are Ponderosa Pines.<br /> <br /> See if you can locate a tree with peeling red bark and green leaves (even in winter). This is the Texas Madrone. In the fall the Texas Madrone may have red berries on it, and in the spring look for white flowers.<br /> <br /> Try to find a deciduous tree with small maple-like leaves. This will be much easier in the fall when the leaves have turned brilliant reds and oranges. This tree is the big-toothed maple.<br />  ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.83511030673981,
+          31.894041976369042
+        ]
+      },
+      "properties": {
+        "name": "Stock Trail Junction",
+        "notes": "Stock Trail Junction\nhttps://www.nps.gov/places/gumo_gp_stocktrailjct.htm\n\n<p>At eight tenths of a mile up the trail you'll intersect with the horse or stock trail. There are good views of the campground and Guadalupe Pass from this location. From here, the steep switchbacks continue for a little over ½ mile.<br /> <br /> Near the top of the switchbacks, one and a half miles up the trail, you'll pass a cliff with steep drop offs just next to the trail. There is a sign here warning horseback riders to dismount and walk their horses across this area. From just beyond the cliff we get a great view of <a href=\"https://www.nps.gov/places/gumo_shumard_peak.htm\">Shumard Peak</a>. The peak was named for geologist G. G. Shumard, who visited the Guadalupes in 1855 and described the massive white limestone of the Guadalupe Mountains as the Capitan Formation of Permian age.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.42471357485448,
+          32.11929540146091
+        ]
+      },
+      "properties": {
+        "name": "Sunset Reef Campground (BLM)",
+        "notes": "Sunset Reef Campground (BLM)\nhttps://www.nps.gov/places/gumo_sunsetreefcampground_blm.htm\n\nThe Sunset Reef Campground, located off the Washington Ranch Road, is a reclaimed well pad with 11 developed campsites; five RV spaces and six tent sites. Each site has a covered picnic table and grill for your camping convenience with a vault toilet on site. Visitors can dry camp in the area for a maximum of five nights for free.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.82857644557953,
+          31.896688122469303
+        ]
+      },
+      "properties": {
+        "name": "Tejas Trail Junction",
+        "notes": "Tejas Trail Junction\nhttps://www.nps.gov/places/gumo_gp_tejastrailjct.htm\n\nJust a short distance up the trail from the Pine Springs Trailhead is the Tejas Trail Junction. The Tejas trail connects to Dog Canyon on the north and provides access to the high elevation alpine forest in the Bowl as well as other Wilderness destinations. ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.85486209392548,
+          31.892293018785715
+        ]
+      },
+      "properties": {
+        "name": "The Bridge",
+        "notes": "The Bridge\nhttps://www.nps.gov/places/gumo_gp_thebridge.htm\n\nJust after passing the trail to the Guadalupe Peak Wilderness Campground, the trail begins a brief descent and crosses a cliff on a wooden bridge. Just after the bridge the trail spans a saddle looking down into Guadalupe Canyon. From here begins the one mile final ascent to the summit. <br /> <br /> Views immediately open up to the south, looking over highway 62/180 descending from Guadalupe Pass. Several switchbacks on the south side of the mountain are high enough to provide views of El Capitan. <br /> <br /> After climbing a few switchbacks the trail enters another small pine forest on the north side of the peak. When you emerge from the forest, fantastic views begin to open up in all directions. The climb here is steep and rocky, but the outstanding vistas help to take your mind off of the physical exertion. ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.83411943928148,
+          31.99364776418881
+        ]
+      },
+      "properties": {
+        "name": "The Dog Canyon Trailhead",
+        "notes": "The Dog Canyon Trailhead\nhttps://www.nps.gov/places/gumo_dogcanyon_trailhd.htm\n\n<p>The Dog Canyon Trailhead is located in the remote northern district of the park. The higher elevation makes for faster access to the wilderness and high country. Most of the trails and routes starting here are rated strenuous with significant elevation gains. <br /> <br /> Trails and routes beginning here include:</p> <ul> <li><a href=\"https://www.nps.gov/thingstodo/gumo_marcus-overlook.htm\">Marcus Overlook</a></li> <li><a href=\"https://www.nps.gov/thingstodo/gumo_lost_peak.htm\">Lost Peak Saddle</a></li> <li>Marcus Trail Loop</li> <li><a href=\"https://www.nps.gov/thingstodo/mckittrick-canyon-to-dog-canyon.htm\">Dog Canyon to McKittrick Canyon</a></li> <li><a href=\"https://www.nps.gov/thingstodo/gumo_tejastrail_hikethru.htm\">Dog Canyon to Pine Springs via the Tejas Trail</a></li> </ul>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.80089604854584,
+          31.90792314869063
+        ]
+      },
+      "properties": {
+        "name": "The Frijole Ranch Orchard",
+        "notes": "The Frijole Ranch Orchard\nhttps://www.nps.gov/places/gumo_frijoleranch_orchard.htm\n\n<p>John T. Smith and family began to develop Frijole Ranch in 1906, transforming the property into a productive, self-sustaining family farmstead and ranching operation. Soon after their arrival, they planted an orchard adjacent to the house. The orchard would evolve as they experimented with different varieties and techniques, continuing to provide the family with a source of food and shade in the remote area of the Chihuahuan desert.<br /> <br /> The orchard was enclosed by a stacked stone cobble wall with a wooden fence along the top to protect the trees from grazing livestock. An irrigation system of troughs and ditches diverted spring water to the orchard trees, and manure from their cows provided fertilizer.The Smiths grew several varieties of apple, including Red Delicious, Golden Delicious, Winesap, Royal Gala, crab apples, along with pear, wild cherry, peaches, plums, and apricots. Smith even cultivated lemon and orange trees. The area under the orchard trees was planted with alfalfa, which was cut using scythes and stored in the barn to feed livestock. There is also evidence that Smith experimented with grafting techniques.<br /> <br /> When the Smiths sold the ranch, it changed from functioning as a single-family farmstead to part of a large, commercial ranching operation. During this period (1941-1969), when Frijole Ranch continued to serve as a single-family residence for the ranch foreman and as ranch headquarters, the orchard continued to be used. However, residents did not rely on the fruit in the same way, and as a result the trees were not maintained.<br /> <br /> The 1994 Cultural Landscape Report (CLR) recommended that the orchard be rehabilitated by reintroducing fruit trees, maintaining historic organization, and incorporating historic management techniques. At that time, only a single apple tree remained from the Smith’s orchard. In February of 2006, a century after the Smiths settled at Frijole Ranch, the orchard was partially replanted. The work was undertaken by 13 Eagle Scouts who planted apple, pear, and cherry trees and addressed improvements to soil and irrigation. The replanting incorporated oral history, the CLR treatment plan, interviews with nurseries about historic fruit trees, and about 60 hours of time by the group. While there have been several tree replacements since then due to the impacts of wildlife, the trees continue to be an important part of understanding the ranch landscape.  </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.788206479,
+          31.97037885
+        ]
+      },
+      "properties": {
+        "name": "The Grotto",
+        "notes": "The Grotto\nhttps://www.nps.gov/places/gumo-the_grotto.htm\n\nThe open face of a small cave and rock benches and tables await you in the deep shade in McKittrick Canyon, a tempting location for a picnic. Follow the trail from the Grotto to Hunter Cabin, a structure which was once part of a hunting retreat and ranching operation. Look up the canyon slope and see the steep switchbacks where the trail continues to the Notch and onto McKittrick Ridge. Round-trip distance from the visitor center to the Grotto is 7.0 miles.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.86006557941437,
+          31.89126366884501
+        ]
+      },
+      "properties": {
+        "name": "The Hitching Posts",
+        "notes": "The Hitching Posts\nhttps://www.nps.gov/places/gumo_gp_hitchingposts.htm\n\nJust below the summit the trail passes by a short spur leading to several hitching posts for adventurous horseback riders who ride up the peak. This is as far as horses and other stock animals are allowed. The trail is very rocky and exposed beyond this point, but this is the last few hundred feet of the trail.   ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.792564279,
+          31.9649823049
+        ]
+      },
+      "properties": {
+        "name": "The Notch",
+        "notes": "The Notch\nhttps://www.nps.gov/places/gumo_the_notch.htm\n\nLocated where the McKittrick Canyon Trail first breaks through the ridge, \"The Notch\" is a strenuous hike and the last traditional day hike destination within South McKittrick Canyon. Most day hikers turn around here or at the Grotto.<br /> <br /> The Notch is a physical break in the ridge line that the trail passes through. From this spot, excellent views into the interior of South McKittrick Canyon can be had. <br /> <br /> Beyond this point the McKittrick Canyon continues what will feel like an endless climb toward the McKittrick Ridge campsites and the trail junction with the Tejas Trail. ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.817244888,
+          31.8941548819
+        ]
+      },
+      "properties": {
+        "name": "The Pinery",
+        "notes": "The Pinery\nhttps://www.nps.gov/places/gumo_the_pinery.htm\n\n<p>Visit the ruins of the Pinery Station and get a sense of the isolation and rugged beauty that travelers experienced here in 1858. The old stone walls stand today as a testament to the spirit of change that early travelers, station keepers, and stage drivers carried as they passed this way over a century and a half ago.</p> <h4><strong>The Pinery Trail</strong></h4> <p>Travel the short 0.75 mile path from the Pine Springs Visitor Center to the ruins of the old Pinery Station, once a favored stop on the original 2,800 mile Butterfield Overland Mail Route. The trail is paved, rated easy, and wheelchair accessible. Pets are allowed on leash.</p> <h4><strong>Preservation of the Ruins</strong></h4> <p>The ruin is fragile; climbing on the walls can destroy this piece of history. It is preserved by the National Park Service as a window to the past, in the relatively unchanged, rugged setting that stage riders and Mescalero Apaches saw more than one hundred years ago. With the help of careful visitors to protect it, this historic location will continue to reflect the spirit of courage and adventure which commanded the senses of long-ago travelers, and still stirs in those who ride this route today.</p> <h4>On the Butterfield Trail</h4> <p>“In the bright moonlight, we could see the Guadalupe Mountains, sixty miles distant on the other side of the river, standing out in bold relief against the clear sky, like the walls of some ancient fortress covered with towers and embattlements.” Waterman L Ormsby, the only through passenger on the first westbound stage of the Butterfield Overland Mail, wrote these words in September of 1858 as he approached the Guadalupe Mountains. Upon arriving at the Pinery Station at Guadalupe Pass he wrote; “it seems as if nature had saved all her ruggedness to pile it up in this form of the Guadalupe Peak.”<br /> <br /> The Pinery was one of approximately 200 way stations and relay posts along the 2,800-mile Butterfield Overland Mail route, which made biweekly runs from St. Louis to San Francisco. Prior to the Butterfield, mail to California left the East Coast by boat, traveled around the southern tip of South America, and then all the way back up to California. The Butterfield Overland Mail traveled an average of 120 miles per day, making the cross-country route in a maximum of 25 days. In addition to carrying mail, the Butterfield stage carried passengers who were squeezed into three rows, often times three abreast with their knees interlocked, baggage in their laps, and mailbags under their feet. For the passengers, this could be 25 days of pure torture. It was a long, exhausting journey with all too infrequent stops. Passengers suffered through cramped conditions, rough roads, extreme heat in the summer, intense cold in the winter, and the ever present threat of an Indian attack. At one point in his journey Ormsby wrote, “Our driver’s ambition to make good time overcame his caution and away we went, bouncing over stones at a fearful rate. To feel oneself bouncing now on one hard seat, now against the roof, and now against the side of the wagon was no joke.” Upon arriving in San Francisco, one passenger remarked, “I know what Hell is like. I’ve had twenty-four days of it.”<br /> <br /> The Pinery Station, named for nearby forests of pine, had the distinction of being the highest station on the route at 5,534 feet. Nearby Pine Springs supplied all the water needed for horses, drivers, and thirsty travelers. When Ormsby arrived in 1858, the Pinery consisted of little more than a heavy, pine timber corral and a couple of tents. Shortly after Ormsby passed through, a high walled rock enclosure was constructed that protected three limestone walled rooms, a blacksmith shop, and a water tank. The station maintained a change of horses and provided meals of venison pie and baked beans to stage drivers and weary travelers. After the meal, the first weary travelers jolted slowly down the pass on their rough-riding stage. Shortly after sunset, near the base of Guadalupe Pass, the westbound coach from St. Louis pulled alongside the eastbound from San Francisco. The excited passengers and drivers exchanged comments about their history-making encounter. For the brief space of a converstaion, the ends of the continent were connected. But there was mail to deliver; and the stages rolled on as contracted.<br /> <br /> The Pinery was one of the most isolated stations on the Butterfield route. It was also one of the most spectacular, being located in the heart of the rugged Guadalupe Mountains. Despite the discomforts Ormsby experienced as he passed through the Guadalupes, he still had the time to marvel at the grandeur of these mountains and to appreciate the beauty of this rugged landscape. Today in our fast paced world of high speed transportation and wireless communications, the Guadalupe Mountains still endure as a wilderness.</p> <h4><strong>Operations at the Pinery Station, 1858</strong></h4> <p>When the conductor, his driver, and their sole passenger made their first call at the Pinery, there was little to see: a stout corral built of pine that had been cut and hauled from the mountains above, and the tents that housed the station keeper and his men. But two months later the station consisted of a high-walled rock enclosure protecting a wagon repair shop, a black smith shop, and the essential replacement teams of fresh horses. Three mud-roofed rooms with limestone walls offered a double fireplace, a warm meal, and a welcome retreat from the dusty trail of the plains below.<br /> <br /> Pinery Station was built of local limestone, in a fortress like pattern. High rock walls formed a rectangular enclosure with a single entrance. The three mud-roofed rooms were attached, lean-to fashion, to the inside walls, which afforded safety and protection from Indian raids. These walls, built of limestone slabs and adobe, were 30 inches thick and 11 feet high. The station's water supply came from Pine Spring through an open ditch to a tank inside the station. A stockade of heavy pine posts protected the main entrance on the south. In the southeast corner of the enclosure, a thatched shelter covered the wagon repair shop and smithy. Livestock were kept in the stone-walled corral on the north end.<br /> <br /> There was more activity about this station than one might suspect. The station keeper was Henry Ramstein, a surveyor from El Paso. He supervised six to eight men who worked as cooks, blacksmiths, and herders. Four times a week the distant sound of the conductor's horn announced the arrival of the mail coach with up to nine passengers. Express riders dashed through at all hours, road crews stopped off, and tank wagons filled up at Pine Spring, rolling on to fill water tanks along the dry stretches. Freighters and mule pack trains added to the passing traffic.<br /> <br /> There were fearful moments, as when an army scout brought word that Indians were sighted in a nearby canyon. All stock was quickly herded inside the station, bars were secured across the entrance gate, and every man stood ready with his Sharp's rifle. At times, soldiers were garrisoned at the Pinery to guard against Indian attacks, which led to stories that this ruin was once a government fort. There was also news of tragic happenings. On one occasion a rider reported that the three men who had built this station were murdered with axes at a mail station in Arizona by three of their helpers. Their construction foreman, St. John, was still living, but had suffered an axe blow that severed his arm. On another occasion an express rider brought news of an Apache attack in Arizona which stopped the mail and left the station keeper and a passing emigrant family massacred.<br /> <br /> The Butterfield Mail Coach continued to come through the Pinery for 11 months until August 1859, when this route was abandoned for a new road that passed by way of Forts Stockton and Davis. The new route better served the chain of forts along the southern military road to El Paso, and was better protected against Indian attacks. A total of ten stations were abandoned along the Guadalupe route and 16 were added along the \"Fort Trail.\" But long after its abandonment, the old Pinery Station continued to be a retreat for emigrants, freighters, soldiers, outlaws, renegades, and drovers. It is now a fragile remnant of an early endeavor to span the continent with the first reliable transportation and communication system ever attempted.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.831239,
+          31.039799
+        ]
+      },
+      "properties": {
+        "name": "Van Horn, Texas",
+        "notes": "Van Horn, Texas\nhttps://www.nps.gov/places/gumo_vanhorn-tx.htm\n\nGateway communities to Guadalupe Mountains National Park include Van Horn, Texas.<br /> <br /> Located fifty-five miles south of the park, Van Horn, Texas is located along the Interstate 10 corridor and offers various lodging options, gift shops and galleries, convenience stores, restaurants, auto service, and other basic services. ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.375854,
+          32.1753
+        ]
+      },
+      "properties": {
+        "name": "Whites City, New Mexico",
+        "notes": "Whites City, New Mexico\nhttps://www.nps.gov/places/gumo_whitescity-nm.htm\n\nGateway communities to Guadalupe Mountains National Park include Whites City, New Mexico.<br /> <br /> Whites City, New Mexico is a commercial development offering camping and lodging and other services immediately adjacent Carlsbad Caverns National Park and thirty-five miles northeast of Guadalupe Mountains National Park. White City offers the nearest gasoline to both parks. ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.885199685,
+          31.883139458
+        ]
+      },
+      "properties": {
+        "name": "Williams Ranch",
+        "notes": "Williams Ranch\nhttps://www.nps.gov/places/gumo_williams_ranch.htm\n\n<h2><span style=\"color:#c0392b;\"><strong>The Williams Ranch Road is currently closed. </strong></span></h2> <p><span style=\"color:#c0392b;\"><strong>The Williams Ranch Road is closed to all public access at this time due to severe damage and dangerous conditions. This closure includes public access by foot, vehicle, mountain bike, and stock traffic.</strong></span><br /> <i>Heavy rains in the summer of 2021 caused extensive damage to the road, rendering it impassable for 4x4 vehicles. This closure is enacted to allow staff time to develop appropriate planning and compliance actions in order to address road conditions and return the road to safe condition efficiently.</i><br /> <br /> The Williams Ranch can currently be reached by hikers via the El Capitan Trail from Pine Springs. </p> <hr /><br /> The Williams Ranch house was built in 1908 using both materials hauled from Van Horn, Texas and locally procured stone. The historical record suggests the ranch house was commissioned by Robert Belcher; however, it was his brother, Henry, along with his wife and daughter who settled there. The family established a longhorn ranching operation at the site. Around 1917 the property was transferred to James Adolphous \"Dolph\" Williams, who raised cattle, sheep, and goats and farmed on a small scale with his partner and friend <a href=\"https://www.nps.gov/people/gumo_geronimo_segura.htm\">Geronimo Segura</a> until 1941. <br /> <br /> In January of 1934, Roger Toll, Superintendent of Yellowstone National Park, and Judge Jesse Hunter, who was interested in developing a national park from his land holdings, toured the western sectors of the area. They researched ownership and contacts but found that there was an unwillingness on the part of various owners to sell property to the Federal Government. At the time, El Capitan was owned Dolph Williams.<br /> <br /> Williams seems to have lived a fairly spartan life. Rather than replacing the wallpaper, he patched it with newspapers. Accounts from other pioneers of the area attest that this practice was common as a way to keep the wind and dust from blowing through the walls. Faced with harsh economic and environmental conditions, Williams sold the property to <a href=\"https://www.nps.gov/people/gumo_judge_j_c_hunter.htm\">J. C. Hunter</a>. Williams died in New Mexico in 1942.<br /> <br /> After the Guadalupe Mountains National Park was authorized in 1966, <a href=\"https://www.nps.gov/people/gumo_j_c_hunter_jr.htm?utm_source=person&utm_medium=website&utm_campaign=experience_more&utm_content=small\">J.C. Hunter Jr.</a> sold his extensive land holdings, including the Williams Ranch site, to the Department of the Interior, expanding the size of the park. The park was formally established in 1972, and the Williams Ranch has been maintained by the National Park Service since then.<br /> <br /> The Williams Ranch house is one of few remnants of the historic ranching operations in the area. In addition to its association with longhorn ranching and the broad social patterns brought on by the Dust Bowl Era, the ranch house is significant due to its unique architectural style.<br /> <br /> The architectural style is Victorian but contains vernacular elements, including incorporation of local materials. The single-story house has an L-shaped floor plan and sits on a stone foundation. The thin walls are of box-and-strip construction finished with Boston clinker siding. The gabled roof is finished with wood shingles. A covered porch protrudes from the north facyade and a screened-porch is incorporated into the west side of the house. Decorative trim and lathed posts on the north porch are Victorian elements that add character. On the interior, the simple vertical wood plank walls and ceilings were hung with ornately patterned wallpaper, a character-defining feature.<br /> <br /> The geology of the Capitan Reef and Forebasin contributed to the building's appearance and construction. The construction of the foundation is oflocal sandstone is important in terms of character, as it anchors the structure to the site with the use of the native material. In addition to the inclusion of locally sourced materials, the house contains unique architectural features that are vernacular in nature. For instance, the door and window frames are significantly thicker than the simple box-and-strip walls and protrude well beyond the wall surface on the interior of the house .<br /> <br /> The panoramic west facing view from the Williams Ranch porch has changed dramatically over the last ninety years. Although the story of the human endeavor here is only vaguely reconstructed, this singular place contributes far more than a mere physical or textbook record. Its silent eloquence may stir time-worn feelings and engender a profound appreciation for all that once was. Above all, it evokes a bittersweet yearning for a time of simplicity and beauty that will never be again.",
+        "icon": "red-pin-down.png"
+      }
+    }
+  ]
+}

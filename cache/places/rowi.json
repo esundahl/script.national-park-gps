@@ -1,0 +1,83 @@
+[
+  {
+    "id": "69BDFBEA-5A56-41F1-9857-40C4E7011D46",
+    "url": "https://www.nps.gov/places/blackstone-river-valley-national-heritage-corridor.htm",
+    "title": "John H. Chafee Blackstone River Valley National Heritage Corridor",
+    "listingDescription": "Blackstone River Valley National Heritage Corridor tells the story of how the American Industrial Revolution sent reverberations throughout the country. Follow the 46 miles of the Blackstone River as it drops 450 feet to sea level. Explore the varied habitats of its watershed, the charming towns and villages in the region, and our distinctive culture created by influences from around the globe.",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/place/nri/20170821/places/44AB17D9-1DD8-B71B-0BB3AEAB2CB99727/44AB17D9-1DD8-B71B-0BB3AEAB2CB99727.jpg",
+        "credit": "Blackstone Heritage Corridor, Inc.",
+        "altText": "Paddlers on the river in the Blackstone Heritage Corridor",
+        "title": "",
+        "description": "",
+        "caption": "Paddlers on the river in the Blackstone Heritage Corridor",
+        "crops": []
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "RI,MA",
+        "parkCode": "blrv",
+        "designation": "National Historical Park",
+        "fullName": "Blackstone River Valley National Historical Park",
+        "url": "https://www.nps.gov/blrv/index.htm",
+        "name": "Blackstone River Valley"
+      },
+      {
+        "states": "RI",
+        "parkCode": "rowi",
+        "designation": "National Memorial",
+        "fullName": "Roger Williams National Memorial",
+        "url": "https://www.nps.gov/rowi/index.htm",
+        "name": "Roger Williams"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [
+      "Blackstone River Valley National Heritage Corridor",
+      "Blackstone River Valley National Historical Park",
+      "National Heritage Areas Program",
+      "Northeast Region",
+      "Roger Williams National Memorial"
+    ],
+    "latitude": "42.09821319580078",
+    "longitude": "-71.64604949951172",
+    "latLong": "42.09821319580078,-71.64604949951172",
+    "bodyText": "The <strong>John H. Chafee Blackstone River Valley National Heritage Corridor </strong>(often shortened to the <strong>Blackstone Heritage Corridor</strong>) is where the American Industrial Revolution began. From there it sent reverberations throughout the United States. Follow the 46 miles of the Blackstone River as it drops 450 feet to sea level. Explore the varied habitats of its watershed, the charming towns and villages in the region, and their distinctive culture created by influences from around the globe.<br /> <br /> The Blackstone Heritage Corridor is managed by <a href=\"https://blackstoneheritagecorridor.org/\">Blackstone Heritage Corridor Inc. </a>(BHC), a dynamic nonprofit 501 (c)(3) corporation. BHC is committed to the long term vitality of the region by partnering with municipalities, nonprofits, business and residents to restore, retain and reinvigorate the Valley. The BHC facilitates a variety of programs and events to connect people to the Corridor and its nationally significant resources.<br /> <br /> Working closely with the <a href=\"https://www.nps.gov/blrv/index.htm\">Blackstone River Valley National Historical Park</a> and <a href=\"https://www.nps.gov/rowi/index.htm\">Roger Williams National Memorial</a>, BHC provides services throughout the Heritage Corridor to complement the work of those NPS units in four areas: economic development and tourism; resource conservation; community planning and revitalization; and education and interpretation.",
+    "audioDescription": "",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "https://blackstoneheritagecorridor.org/",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "",
+    "isManagedByNps": "0",
+    "amenities": [],
+    "managedByOrg": "Blackstone Heritage Corridor, Inc.",
+    "quickFacts": [
+      {
+        "id": "5C252B96-2DEB-4EF4-91D1-B5D2B202FCD7",
+        "value": "MA, RI",
+        "name": "Location"
+      },
+      {
+        "id": "208F1B3C-44DC-4CF5-9A61-9B26A364D701",
+        "value": "The Blackstone River runs from Worcester, MA to Providence, RI. Its waters powered the Slater Mill in Pawtucket, RI, America's first successful cotton spinning mill. This creative spark began the nation's transformation from Farm to Factory. Today, the Blackstone River Valley is a special type of National Park - a living landscape containing thousands of natural and historic treasures.",
+        "name": "Significance"
+      },
+      {
+        "id": "E32D2136-A184-4C1A-91D2-4C20CEF9CBAF",
+        "value": "National Heritage Area",
+        "name": "Designation"
+      }
+    ],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  }
+]

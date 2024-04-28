@@ -1,0 +1,545 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Antioch/Oakley Regional Shoreline",
+        "notes": "Antioch/Oakley Regional Shoreline\nhttps://www.nps.gov/places/antioch-oakley-regional-shoreline.htm\n\n<h2>Introduction</h2> <p>A 550-foot pier provides access to great fishing in the San Joaquin River at Antioch/Oakley Regional Shoreline, located just upstream from Highway 160's Nejedly Bridge in Antioch. Swimming is not allowed at the shoreline park, but fishing, picnicking and kite flying are all favorite pastimes. The park is open from 5 am to 10 pm. Overnight use of the park, including camping and picnicking, is not allowed. Fishing from the pier, however, is allowed 24 hours daily.</p> <p>There is no parking fee or admission fee. Picnic tables are first-come, first-served and cannot be reserved.</p> <h2>History</h2> <p>Antioch/Oakley Shoreline is operated by the East Bay Regional Park District on a no-cost lease from the State of California. The land was acquired in 1979 with the support of then-Senator John Nejedly, who later served as a State Parks commissioner. When the state constructed the new bridge, now named for Nejedly, that now passes over the park's western edge, Nejedly suggested that some of the old bridge's pillars be used for a fishing pier. This was done, and the new pier has been a great success. The pier is open around the clock for fishing, every day of the year.</p> <p>The park was renamed from Antioch Regional Shoreline to Antioch/Oakley Regional Shoreline in 1999 to commemorate the incorporation of Oakley in that year.</p> <h2>Fishing</h2> <p>The fishing pier is open 24 hours daily, year-round. Depending on the season, fish that can be caught from the pier include striped bass, channel catfish, Sacramento pike, sturgeon, steelhead and salmon. A fishing license is required for all anglers aged 16 or older. Please follow these fishing rules:</p> <ul> <li>Know and follow all State Fish and Game regulations while fishing from the pier or shoreline.</li> <li>A State fishing license is required for persons aged 16 or older. (A Park District Daily Fishing Access Permit is not required at Antioch/Oakley Regional Shoreline, but it is required for persons aged 16 or older at Lake Chabot, Contra Loma, Cull Canyon, Del Valle, Shadow Cliffs, Don Castro, and Lake Temescal. Fishing Access Permits are available at most of these facilities. People with disabilities or those aged 62 or older may purchase an annual Fishing Access Permit. Permit revenues help to purchase fish plants for District fishing lakes.)</li> </ul>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.469792,
+          37.787378
+        ]
+      },
+      "properties": {
+        "name": "Anza Expedition Camp Site",
+        "notes": "Anza Expedition Camp Site\nhttps://www.nps.gov/places/000/anza-expedition-camp-site.htm\n\n<p>In 1776, Captain Juan Bautista de Anza's scouting party camped here before establishing the military outpost that would become the Presidio. The expedition arrived during a period of European colonial expansion, when the Spanish were eager to stake a claim further north along the Pacific Coast.<br /> <br /> The Juan Bautista de Anza National Historic Trail enters the Presidio here at Mountain Lake. The trail continues north to the edge of San Francisco, commemorating the route followed by the de Anza's expedition from Sonora, Mexico to the Golden Gate.<br /> <br /> Friar Pedro Font of the Anza expedition had this to say about Mountain Lake:<br /> <br /> \"This place and its vicinity has abundant pasturage, plenty of firewood, and fine water, all good advantages for establishing here the presidio or fort which is planned. It lacks only timber, for there is not a tree on all those hills, though the oaks and other trees along the road are not very far away....Here and near the lake there are yerba buena and so many lilies that I almost had them inside my tent.\"</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.403187,
+          33.255901
+        ]
+      },
+      "properties": {
+        "name": "Anza-Borrego Desert State Park",
+        "notes": "Anza-Borrego Desert State Park\nhttps://www.nps.gov/places/anza-borrego-desert-state-park.htm\n\n<p>Anza-Borrego Desert State Park is the largest of the California State Parks and protects a crossroads of desert landscapes and ecosystems. It is located on the traditional homelands of the Cocopah and Cuahuilla.<br /> <br /> The Anza expedition camped here from December 20 to 22, 1775 (historic campsite #52) along Coyote Creek at El Vado (The Ford). With plentiful water from the creek and a little pasturage nearby, the animals recovered from their long desert passage and the colonists could rest. The site is a short distance to the east of the Desert Gardens portion of the park created by the Anza-Borrego Foundation and Institute.<br /> <br /> Traveling up the creek and canyon, the expedition's next camp (#53) was at Santa Catarina, situated at Lower Willows. The campsites are both marked with California Historic Landmark plaques. The park contains two stretches of Anza's route. These trails provide a rare opportunity to precisely follow in the footsteps of the expedition surrounded by terrain that has changed little since the group's passage.<br /> <br /> The park's visitor center (200 Palm Canyon Dr., Borrego Springs) features interpretive exhibits on the desert ecosystems and the Cocopah and Cuahilla. Anza Trail Passport Stamp #13 is also located inside the visitor center.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Big Break Regional Shoreline",
+        "notes": "Big Break Regional Shoreline\nhttps://www.nps.gov/places/big-break-regional-shoreline.htm\n\n<h2>Introduction</h2> <p>Big Break Regional Shoreline is a part of the great 1150-square-mile Sacramento-San Joaquin River Delta. The water flowing past Big Break through the Sacramento and San Joaquin, the State's two greatest rivers, drains half of California and creates the largest estuarine environment on the Pacific coast. This area is also referred to as the \"Inland Coast.\"</p> <p>Big Break was once an upland farm, now submerged. It is a small bay or estuary at the edge of the San Joaquin River and lies in the zone where salty seawater meets snowmelt and runoff from the Sierra Nevada mountains. The mixing of salty and fresh water produces an \"edge effect,\" increasing habitat and species diversity. It makes Big Break a fine home or stopover spot for a wide variety of species, particularly birds and fish.</p> <p>Big Break is home to 70 species of birds and several species of mammals. Twenty-seven special-status wildlife species have the potential to occur within the parkland; six special-status wildlife species are known to occur. Nesting is confirmed or suspected for black rails, northern harriers, white-tailed kites, and yellow-breasted chats. Many wading birds, including great blue herons, great egrets, snowy egrets, green herons, and white-faced ibis, forage in the tidal sloughs and freshwater marshes. These areas also provide habitat for Western pond turtles, a California Species of Special Concern. Big Break is a suitable breeding habitat for turtles, and females can lay their eggs in the sandy banks and well-drained upland soils. The tidal sloughs, freshwater marsh, and riparian areas also provide valuable habitat for beavers, muskrats, and river otters, which forage and potentially den at Big Break.</p> <h2>Attractions</h2> <h3>Big Break Visitor Center at the Delta</h3> <p>The newest East Bay Parks District Visitor Center, <a href=\"https://www.ebparks.org/parks/visitor-centers/big-break\">Big Break Visitor Center</a> is located in the area of the park accessible from Big Break Road. The visitor center includes temporary displays about the Delta and is staffed by East Bay Parks District naturalists who can give information about the park and specific activities in the area, including wetland walks and adjoining trails. Big Break Regional Shoreline offers picnic and meadow areas, a small, shaded amphitheater, boat and kayak launch facilities (an official <a href=\"http://sfbaywatertrail.org/\">San Francisco Bay Water Trail</a> trailhead), a fishing and observation pier, and spectacular Delta views. </p> <p>Completed in 2012, the interpretive center building is certified 3 Green Globes by the Green Building Initiative for green building design, engineering, construction, and facility operations. The 5,500-square-foot pre-fabricated building project was partially funded by a $2.5 million grant from the State of California's Proposition 84.</p> <h3>Shoreline and Delta Discovery Experience</h3> <p>Big Break Regional Shoreline also includes the Delta Discovery Experience (DDX), an “interpretive landscape” depicting the Delta watershed. Highlighted by a 1,200-square-foot interactive scale map of the Delta, the DDX allows visitors to see how water flows into and through the region. The map was designed, fabricated and installed by Scientific Art Studio, based in Richmond, California. </p> <p>Many park users come to Big Break simply to enjoy cool Delta breezes in the summer. Birdwatchers are drawn by the constant birdsong from the marshes, and everyone comes to enjoy easy access to the beautiful Delta waterfront.</p> <h3>Fishing</h3> <p>The 100-foot fishing pier is very popular with local anglers. A California fishing license is required to fish from the pier or shoreline, but an EBRPD fishing access permit is not required. While shore fishing offers less success, boaters offshore catch primarily largemouth bass and striped bass but also catch white catfish, bluegill, sunfish, and sturgeon.</p> <h3>Boating</h3> <p>Kayakers and canoeists can access the waters of Big Break from the on-site beach launch, a quarter-mile walk from the parking lot. Boaters enjoy Big Break due to its proximity to the rivers and sloughs of the Inland Coast with access from local marinas and launches. </p> <h3>Hiking and Biking</h3> <p>The Big Break Regional Trail, which runs along the southern edge of Big Break through the Ironhouse Sanitary District, provides access for hikers, bicyclists, and equestrians to the southeastern edge of the estuary. The trail connects to the northern end of the Marsh Creek Regional Trail, providing access to Brentwood and Oakley. The Marsh Creek Regional Trail connects to the Delta de Anza Regional Trail via West Cypress Road, providing access to Oakley, Brentwood, Antioch, Pittsburg, and Bay Point.</p> <h3>Naturalist Programs</h3> <p>Park Naturalists conduct a variety of programs for both organized groups and the public. Programs are offered on a variety of subjects, including Delta history and current issues, birding, wetland ecology, and general nature exploration. Public programs, usually on weekends, are publicized in the Park District's bi-monthly newsletter, <a href=\"https://www.ebparks.org/whats-new/rin\">Regional In Nature</a>, which is also available in the visitor center or by browsing “Activities” under <a href=\"http://apm.activecommunities.com/ebparks\">EBParks.org/Register</a>. Weekday field trips and programs are available for schools and organized groups by reservation. Please see the Educators Resources information <a href=\"https://www.ebparks.org/programs/educators\">here</a> or call (510) 544-3050 for further information.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.53264617919922,
+          32.99700927734375
+        ]
+      },
+      "properties": {
+        "name": "Casa Grande Ruins",
+        "notes": "Casa Grande Ruins\nhttps://www.nps.gov/places/casa-grande-ruins.htm\n\n<p>Rising from the Sonoran Desert floor near the Gila River is one of the largest prehistoric structures ever built in North America. Its purpose remains a mystery, though many have tried to understand and explain its existence. What is clear is that the three-story structure was built around 1350 C.E. by the Ancestral Sonoran Desert people and included a vast and complex network of irrigation channels to deliver the Gila River waters to the parched agricultural plots surrounding the \"Great House\". <br /> <br /> In late October of 1775, Commander Anza and Father Font of the overland Anza expedition took a detour from their route to visit Casa Grande with the intention of taking measurements. They were guided by the 'governor of Uturitúc', a nearby O'odham village (Font refers to the people as the Gila Pima). The O'odham are the ancestors of the Casa Grande builders, and the governor of Uturitúc \"narrated ... a story and tradition preserved by the Gila Pimas\". <br /> <br /> Font diligently recorded the story. This interaction with the governor of Uturitúc produced the oldest known historical account of Gila River O'odham cosmology and Casa Grande. <br /> <br /> Font's interpretation of the governor Uturitúc’s story includes subjective comments influenced by his cultural perspective and ethnocentric bias. For instance, Font dismisses the story as \"fables mingled and tangled up with a few Catholic truths\". Even with its embedded biases and unabashed mockery, Font’s description of the story is valuable to the O’odham and to historians and anthropologists of today because it provides a glimpse into the oral history of the O'odham in 1775.<br /> <br /> The journey to Casa Grande on October 30, 1775 was a short day trip by members of the Anza expedition, but the measurements made by Font and the stories that he documented are valuable pieces of the past that can help us interpret the history of this intriguing structure and the people who built it.<br /> <br /> Take your own journey to Casa Grande Ruins National Monument and stand in awe in front of this monumental earthen structure. Check the park’s website to learn about operating hours, events, and amenities: <a href=\"http://www.nps.gov/cagr\">www.nps.gov/cagr</a></p> <br /> <br />  ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.03622198104858,
+          32.285850735510756
+        ]
+      },
+      "properties": {
+        "name": "Christopher Columbus Park",
+        "notes": "Christopher Columbus Park\nhttps://www.nps.gov/places/christopher-columbus-park.htm\n\nPresent-day Christopher Columbus Park is the site of the Anza Expedition's Historic Turquisin Camp (Campsite #18). Two Anza interpretive exhibits line the west side of the lake. The park is open for recreation and includes a dog park, RC model airfields, a Little League baseball field, and a lake for boating and fishing.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.62354462766007,
+          32.72742073605963
+        ]
+      },
+      "properties": {
+        "name": "Colorado River State Historic Park",
+        "notes": "Colorado River State Historic Park\nhttps://www.nps.gov/places/colorado-river-state-historic-park.htm\n\n<p>Located on Quechan and Cocopah lands, the Colorado River State Historic Park interprets and perserves a significant site in the history of Arizona and the American West. The first non-indigenous contact with the Quechan happened in 1540, when Hernando de Alarcón sailed passed this site. Alarcón became the first to navigate a Spanish ship from the Gulf of California up the Colorado River in his mission to resupply the Coronado overland expedition. Many years later, Padre Eusebio Kino may have looked out over the river from this site in 1683.<br /> <br /> The Anza expedition crossed the Colorado River near Colorado River State Historic Park with the help of the local Quechan guides in November of 1775. Padre Font wrote in his expedition journal: \"I estimated the width of the river, where we forded it, at some three or four hundred yards, and this at a time when the water is at its lowest, for when the river rises it is leagues wide\". When the expedition members safely reached the other side, they were treated to a feast of watermelon courtesy of the Quechan leader Salvador Palma. Padre Garces of the expedition chose to stay in this area only to see the relationship between the Spanish and Quechan erode. In 1781, the newly established Catholic mission across the river was destroyed and Garces was killed.<br /> <br /> The area began to experience the American westward surge when countless immigrants crossed by ferry from Yuma on their way to the California gold fields in 1849. In 1850, a military post was established at Yuma, and when rich placer gold strikes on the Colorado River precipitated a gold rush in 1858, Yuma experienced a boom. In 1871 Yuma incorporated and became the county seat of Yuma County.<br /> <br /> Learn more about the diverse history of this place by visiting the <a href=\"https://azstateparks.com/colorado-river/explore/facility-information\">Visitor Center</a> or visit the <a href=\"https://azstateparks.com/colorado-river/\">park's website</a>. An Anza Trail passport stamp (#12) is located behind the front desk at the visitor center. Check with the state park for more info on operating hours.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Don Fernando Pacheco Adobe",
+        "notes": "Don Fernando Pacheco Adobe\nhttps://www.nps.gov/places/don-fernando-pacheco-adobe.htm\n\nThe Don Fernando Pacheco Adobe is situated next to the 26-acre Hillcrest Park at Grant Street and Olivera Road. The Adobe is listed by the National Register of Historic Places and the California State Parks Office of Historic Preservation. The city of Concord acquired the Don Fernando Pacheco Adobe from Contra Costa County in 1979. Since that time, the property has been leased to the Contra Costa Horsemen’s Association. When the lease terminated in October 2019, it created an opportunity to revitalize a City treasure.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Don Salvio Pacheco Adobe",
+        "notes": "Don Salvio Pacheco Adobe\nhttps://www.nps.gov/places/don-salvio-pacheco-adobe.htm\n\nIn 1834, Don Salvio Pacheco was awarded a grant called Monte del Diablo. On June 24, 1835, he completed this two-story adobe, which is the first building to be erected in this valley. Don Salvio gave the land surrounding this adobe to the refugees of the earthquake and flood of 1868, and the community became known as Concord.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.477206,
+          37.810682
+        ]
+      },
+      "properties": {
+        "name": "Fort Point Lighthouse: Fort Point Tour",
+        "notes": "Fort Point Lighthouse: Fort Point Tour\nhttps://www.nps.gov/places/000/fort-point-lighthouse-fort-point-tour.htm\n\n<p>Starting in 1852, the United States government went lighthouse-crazy, funding the construction of 59 lighthouses along the California coast. At this early date, the Fort Point light was one of 13 serving the San Francisco Bay.<br /> <br /> The original light was built and destroyed in 1853. Army engineers blew up the bluff it stood on to make way for the construction of Fort Point. A second lighthouse, built near the water in 1855, was removed to permit seawall construction. In the end, it was the third lighthouse, designed by Brevet Lieutenant Colonel Robert S. Williamson, that did the trick. Construction was completed on top of the fort in 1864. This final installment can still be seen today. Rated as a fifth order Fresnel light, it could be seen 10-12 miles at sea.<br /> <br /> Through the years at Fort Point, the lighthouse keepers lived and served at the fort with their families alongside the soldiers stationed there. The light remained in operation until 1934, when the US Lighthouse Service keepers extinguished the Fort Point light for the last time in order to begin construction of the Golden Gate Bridge.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.7296187,
+          32.9449377
+        ]
+      },
+      "properties": {
+        "name": "Gila Bend",
+        "notes": "Gila Bend\nhttps://www.nps.gov/places/gila-bend.htm\n\n<p>The town of Gila Bend is near two historic campsites of the Anza expedition: Camp #27 San Simón y Judas de Uparsoytac, and Camp #28 at the Village of Opas. The expedition rested at an indigenous settlement on November 10 and 11, 1775. They referred to the people there as the Opas. Anza Trail Passport Stamp #10 is located inside the <a href=\"https://www.visitgilabend.org/museum-visitor-center\">Gila Bend Museum and Visitor Center</a>.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.97309613227844,
+          33.25389934290498
+        ]
+      },
+      "properties": {
+        "name": "Gila River Indian Community",
+        "notes": "Gila River Indian Community\nhttps://www.nps.gov/places/gila-river-indian-community.htm\n\n<p>The Gila River Indian Community is a Native American reservation in Arizona. It lies adjacent to the south side of Phoenix and is within the Phoenix Metropolitan Area in Pinal and Maricopa counties. Gila River Indian Reservation was established in 1859, and the Gila River Indian Community was formally established by Congress in 1939. The community is home for members of both the Akimel O’odham (Pima) and the Pee-Posh (Maricopa) tribes.<br /> <br /> From October 30 to November 6, 1775, the Anza Expedition camped at four sites in the area that is now the Gila River Indian Community. Anza and Font called this place the \"Pima Villages\" and noted that the expedition was well-received and cared for. These are Historic Campsites #22-25. At Camp #25 <em>Laguna del Hospital, </em>Father Garces wrote, \"We returned to camp, and having gone 2 leagues northwest arrived at some pools of bad water, where some of our party were made sick, and for that were they called <em>Las Lagunas del Hospital</em>.\"</p> <p>Today, the Huhugam Heritage Center is a place that tells the stories of the history, culture, and language of the peoples of the Gila River Indian Community and honors the ancient Huhugam. It is designed to house and preserve the cultural resources of the Gila River Indian Community, including past and current archaeological findings. Through exhibitions, classes, programs, and collections, its goal is to educate the public about the rich cultural heritage of the Akimel O'odham (Pima) and Pee Posh (Maricopa) peoples.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.016609,
+          31.794054
+        ]
+      },
+      "properties": {
+        "name": "Historic Hacienda de la Canoa",
+        "notes": "Historic Hacienda de la Canoa\nhttps://www.nps.gov/places/historic-hacienda-de-la-canoa.htm\n\n<p>La Canoa (the \"watering trough\") was the first campsite after the Anza expedition left its final assembly point at <a href=\"https://www.nps.gov/places/tubac-presidio.htm\">Tubac Presidio</a>. It is refered to as Campsite #15 on the expedition. Here on the evening of October 23rd, 1775, José Antonio Capistrano Féliz was born feet first and sadly his mother, María Ignacia Manuela Piñuelas Féliz, died the next morning. <br /> <br /> Father Font and the colonists said the Rosary and sang \"Salve de la Virgen de los Dolores\" for the deceased as they reached <em>Punta de los Llanos</em> (Campsite #16). <br /> <br /> Historic Hacienda de la Canoa is located on the Raúl M. Grijalva Canoa Ranch Conservation Park and includes an exhibit about the Anza Expedition and an NPS Anza Trail Passport Stamp (Anza NHT passport stamp #5 - <a href=\"https://www.nps.gov/juba/planyourvisit/nps-passport-stamps.htm\">find a list of passport stamp locations here</a>).<br /> <br /> The Raúl M. Grijalva Canoa Ranch Conservation Park comprises 4,800 acres of the original San Ignacio de la Canoa Grant. Historic Canoa Ranch is listed in the National Register of Historic Places. </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Juan de Anza House, CA",
+        "notes": "Juan de Anza House, CA\nhttps://www.nps.gov/places/juan-de-anza-house-ca.htm\n\n<p>During the 18th and 19th centuries, the Spanish established a chain of 21 missions throughout California. The Spanish founded Mission San Juan Bautista as the 15th mission in 1797. They constructed the mission in the San Juan Valley, a location selected because it was only a day’s walk between Mission San Carolos Barromeo de Carmel and Mission Santa Clara. While the Spanish lost control of California and its missions to Mexico in 1821, the settlement of San Juan Bautista continued to grow throughout the 19th century. One of the oldest buildings in San Juan Bautista’s Third Street Historic District and a National Historic Landmark in its own right is the Juan de Anza House or Casa Juan de Anza Adobe that dates from 1834 during the period of Mexican control.<br /> <br /> Constructed on the San Andreas earthquake fault line, the newly founded Mission San Juan Bautista converted local Mutsun Native Americans to Catholicism. For thousands of years, the Mutsun lived in the San Juan Valley as a hunter and gatherer society residing in dome-shaped willow reed and grass huts. Their lives dramatically changed with the establishment of Mission San Juan Bautista. The mission’s padres used Mutson labor and recruited Yokuts and Miwok people to construct the mission’s buildings, raise crops, and care for livestock. Mission San Juan Bautista prospered, however, its role as a Spanish mission would change in the coming years.<br /> <br /> In 1821, when Mexico gained its independence from Spain, California and its missions became a part of Mexico, which secularized all the missions and converted church property to private property. The Mexicans secularized Mission San Juan Bautista and converted the settlement into a town in 1835. Mexico’s civil administrator for the area, Jose Tiburcio Castro, oversaw the seizure, division, and sale of mission property to Mexican residents. In 1840, San Juan Bautista had about 50 Mexican residents and by 1845, the Mexican population had increased to 75. Constructed during this period of Mexican control, Casa Juan de Anza Adobe is one of the oldest buildings in San Juan Bautista’s Third Street Historic District.<br /> <br /> The Anza House, Casa Juan de Anza Adobe, is an example of a Spanish Colonial style dwelling built during the Mexican era of California’s history. Practiced throughout what are today the states of California, New Mexico, Arizona, and Texas, the Spanish Colonial style was extremely popular because the adobe material used to construct these buildings was readily available and inexpensive. Most built between 1600 and 1840, Spanish Colonial dwellings generally have sun-dried adobe brick exterior walls covered with a whitewashed lime plaster coating that helped protect them from the regional weather extremes. The thick adobe walls helped to insulate the houses -- keeping them cool in the summer and warm in the winter. The typical Spanish Colonial dwellings throughout this region were one-story and had a basic rectangular shape.<br /> <br /> Constructed in 1834 as the Anza family residence, the Casa Juan de Anza Adobe was originally a one-story, rectangular two-room adobe house covered with whitewashed plaster. A farmer or merchant looking to make additional income likely built the house. In the 1850s, the adobe house was “Americanized” and enlarged, and windows with wooden or metal bars were added.<br /> <br /> By 1870, San Juan Bautista had nearly 1,500 residents. Around this same time, the new owner of the Anza House, Francisco Bravo, modified the house yet again, turning it into a cantina that would serve some of the town’s residents. This began the Anza House’s use as a commercial building. Other than a brief period when Jake Beutler and subsequently his stepson, Fred Beck, lived in the house, the building remained in commercial use and housed the first antique store in San Juan Bautista’s Third Street Commercial District beginning in 1933. The same family operated the antique shop there for 60 years.<br /> <br /> Today, at the Casa Juan de Anza Adobe in San Juan Bautista’s Third Street Historic District and San Juan Bautista’s State Historic Park visitors can step back in time and experience an old-fashioned mission town that retains much of its historic rural character. A series of “bypasses,” first when the railroad bypassed the town in 1870 and then when it was bypassed for the position of county seat by nearby Hollister, CA, led to economic ups and downs for San Juan Bautista. These “bypasses” helped preserve the town’s original character, because the town did not develop outside of its original town limits. This makes San Juan Bautista distinctive among California’s mission towns. Many of the mission communities eventually grew into large cities such as San Francisco, San Diego, and Santa Barbara. Walking along the streets of San Juan Bautista and viewing the Casa Juan de Anza Adobe, visitors to this old mission town can readily experience the Spanish and Mexican heritage of the area.<br /> <br /> See Also: <a href=\"https://www.nps.gov/juba/learn/historyculture/california-anza-trail-sites.htm\">Anza Trail: Historic & Cultural Sites in California</a></p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.9552317478274,
+          31.390114954119866
+        ]
+      },
+      "properties": {
+        "name": "Las Lagunas de Anza Interpretive Site",
+        "notes": "Las Lagunas de Anza Interpretive Site\nhttps://www.nps.gov/places/las-lagunas-de-anza.htm\n\nLas Lagunas de Anza Wetlands is an Anza Trail Certified Interpretive Site and marks Historic Campsite #13 of the 1775-76 Anza Expedition. The site offers a short trail, interpretive waysides, a bird watching blind, ramada structures, a shrine for la Virgin de Guadalupe, and is an NPS Passport Stamp location. The site is managed by Santa Fe Ranch Foundation and the Las Lagunas de Anza outreach group.<br /> <br /> You will find the Passport box behind the large Virgin de Guadalupe shrine just before you go down to the marsh on the Willow Trail.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.98698735237122,
+          32.214198975361356
+        ]
+      },
+      "properties": {
+        "name": "Mission San Agustín del Tucson",
+        "notes": "Mission San Agustín del Tucson\nhttps://www.nps.gov/places/mission-san-agustín-del-tucson.htm\n\nOn the western side of the Santa Cruz River, across the river from modern downtown Tucson, this location had long been occupied by a succession of people: Archaic, Hohokam, and Piman. On the site of the Piman village, the Spanish developed a substantial mission complex. Foundation walls and other signs of past occupation remain sufficiently intact.<br /> <br /> This is the current site of <a href=\"https://www.missiongarden.org/\">Mission Garden</a>. Mission Garden is a re-creation of the Spanish Colonial walled garden that was part of the original Mission San Agustín del Tucson and interprets the 4,000 years of agricultural history in Tucson. Mission Garden’s multi-generational, outdoor, hands-on educational setting encourages interactive exchange of traditional knowledge gathered from diverse community elders and historical documents. By exclusively growing heritage crops and heirloom trees, they aspire to test, refine, and evaluate the practical wisdom of long-term arid-adapted agricultural practices. ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.0078,
+          32.1071
+        ]
+      },
+      "properties": {
+        "name": "Mission San Xavier del Bac",
+        "notes": "Mission San Xavier del Bac\nhttps://www.nps.gov/places/mission-san-xavier-del-bac.htm\n\n<p>Mission San Xavier del Bac was under Franciscan control when the Anza Expedition stopped here on October 25, 1775. It was established by Jesuit Father Eusebio Kino in 1692 at the site of an existing Akimel O'odham village. Father Thomás Eixarch of the expedition baptized baby José Antonio Capistrano Féliz whose mother had died during childbirth the previous day. <br /> <br /> Before Father Kino established the mission, the site was an O'odham village of \"W:ac,\" which was changed to \"Bac\" by the Spanish. \"W:ac is the O'odham word for 'where it goes' in or 'to submerge' (wachkk), referring to the place on the Santa Cruz River where the water submerges into the ground.\"<sup>1</sup> This site has been O'odham land for centuries and the current mission site is located on the San Xavier Reservation, part of the larger Tohono O'odham Nation. Please respect this land and the people when visiting this site. <br /> <br /> The gleaming white facade of the mission church is a striking feature on the desert landscape. Called the \"White Dove of the Desert,\" San Xavier Del Bac is one of the most beautiful mission church complexes in the Southwest. The original mission was founded in 1692 by a Jesuit missionary, Father Eusebio Francisco Kino, at the Wa:c village of the O'odham. The present church was built by the Franciscans between 1783-1797. Of Baroque design, the large stucco church has two bell towers, one of, which is incomplete. The church's beautiful front portal is decorated with scrolled ornaments and sculptures and virtually the entire interior is covered with elaborately painted and sculpted surfaces.<sup>2</sup><br /> <br /> Tours of the mission grounds and church are occasionally offered through <a href=\"https://patronatosanxavier.org/\">Patronato San Xavier</a>, a non-profit conservation group. Self-guided tours of the church are available and an open air craft market can be found on select weekends. Contact the site to learn about regulations, site closures, and admission. The mission church, an active parish, also has a museum and small gift store.<br /> <br /> <sup>1</sup>Deni Seymour, San Xavier del Bac, Wa:k O'odhem, and Wa:k Ge'echu, http://www.seymourharlan.com/My_Homepage_Files/Page71.html \"(accessed May 2021)<br /> <sup>2</sup>NPS, Discover Our Shared Heritage, American Southwest, A National Register of Historic Places Travel Itinerary, San Xavier Del Bac: https://www.nps.gov/nr/travel/amsw/sw6.htm (accessed May 2021) </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.471665,
+          37.787183
+        ]
+      },
+      "properties": {
+        "name": "Mountain Lake Park",
+        "notes": "Mountain Lake Park\nhttps://www.nps.gov/places/000/mountain-lake-park.htm\n\n<p>Mountain Lake Park is a San Francisco city park that's an awesome place to bring the kiddos. There's swings, slides and things to climb, all tucked away in a quiet neighborhood.<br /> <br /> Mountain Lake also holds historical significance. This was campsite #95 for the Juan Bautista de Anza colonizing expedition. The members visited this site in March, 1776.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.93481,
+          27.02126
+        ]
+      },
+      "properties": {
+        "name": "Museum of Sonoran History - Museo Costumbrista de Sonora",
+        "notes": "Museum of Sonoran History - Museo Costumbrista de Sonora\nhttps://www.nps.gov/places/museum-of-sonoran-history.htm\n\n<p>On May 9, 1775, the Anza Expedition left Álamos, Sonora bound for the Presidio of Tubac in modern-day Arizona to consolidate resources for the great overland expedition which would establish the city of San Francisco. 240 people would eventually join the expedition led by Juan Bautista de Anza, many of whom were recruited from the Álamos, Sonora region and neighboring Sinaloa. Silver and other ore mines near Álamos were struggling, and some families found conditions dire enough to risk a dangerous journey into the unknown, knowing they would likely never return. <br /> <br /> The <a href=\"http://isc.gob.mx/devel/espacios/museo-costumbrista-de-sonora/\">Museum of Sonoran History</a> in historic Álamos includes exhibits and information about the Anza Expedition and the complex colonial history that led up to the expedition of 1775-76. Visitors can find a Passport Stamp for the Juan Bautista de Anza National Historic Trail at the museum as well. This is Juan Bautista de Anza NHT Passport Stamp #1 (<a href=\"https://www.nps.gov/juba/planyourvisit/nps-passport-stamps.htm\">full list of Anza Trail passport stamp locations</a>).</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.04540396062748,
+          33.02437098912844
+        ]
+      },
+      "properties": {
+        "name": "Painted Rock Petroglyph Site",
+        "notes": "Painted Rock Petroglyph Site\nhttps://www.nps.gov/places/painted-rock-petroglyph-site.htm\n\n<p><a href=\"https://www.blm.gov/visit/painted-rock-petroglyph-campground\">Painted Rock Petroglyph Site</a> is an archaeological site containing hundreds of figures and designs carved into rocks, known as petroglyphs. These were produced centuries ago by indigenous peoples. This site is considered important and even sacred to many of the Native American tribes in southern Arizona. Please keep this in mind when you visit and be respectful. There are also inscriptions made by people who passed through during historic times. </p> <p>Many important trails are near the site, some of which have been traveled for thousands of years. The Anza expedition camped nearby at historic campsite #29 Ranchería de San Diego on October 14, 1775. At the site entrance, there are interpretive panels about the expedition in both English and Spanish. There is also a small interpretive trail around the petroglyph site with informational displays. The petroglyphs face the east-southeast primarily and would have been noticed by any travelers approaching from that direction. In addition to seeing the petroglyphs, you can also come here to camp, hike, birdwatch, and star gaze.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.4219741821289,
+          32.6212272644043
+        ]
+      },
+      "properties": {
+        "name": "Picacho Peak (Cerro de Tacca)",
+        "notes": "Picacho Peak (Cerro de Tacca)\nhttps://www.nps.gov/places/picacho-peak-cerro-de-tacca.htm\n\n<p>Picacho, or Cerro de Tacca as it is referred to in the Anza expedition diary of Padre Font, is a prominent landmark between Tucson and Phoenix, Arizona, and has likely been used by travelers as a guide for as long as people have been living in the area. The Anza expedition diaries mention the landmark and on October 29, 1775, the colonists camped at historic Expedition Campsite #21 near the prominent peak.</p> <p><i><br /> \"October 29 — From the lagoons of Oytaparts we set forth at one in the afternoon, and at a quarter past five we halted a little beyond a peak which the Indians call Tacca\"</i></p> <p><br /> An NPS Anza Trail Passport Stamp can be found here at the <a href=\"https://azstateparks.com/picacho/\">Picacho Peak State Park</a> Visitor Center. This is Anza NHT Passport Stamp #8.<br /> <br /> Picacho Peak State Park offers a visitor center with exhibits and a park store, a playground, historical markers, a campground and picnic areas. Many hiking trails traverse the desert landscape and offer hikers both scenic and challenging hikes.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.973711,
+          32.224293
+        ]
+      },
+      "properties": {
+        "name": "Presidio San Agustín del Tucson",
+        "notes": "Presidio San Agustín del Tucson\nhttps://www.nps.gov/places/presidio-san-agustin-del-tucson.htm\n\n<p>The Presidio San Agustín del Tucson Museum is a re-creation of the Tucson Presidio built in 1775, the same year that the Anza expedition passed through along the Santa Cruz River along the overland route that would establish the city of San Francisco and Spanish power in Alta California. <br /> <br /> At the Presidio San Agustín del Tucson, visitors can \"travel back in time to learn about life as early Tucsonans would have lived it. Docent tours discuss life in the Santa Cruz Valley for early Native Americans, Presidio residents and Territorial Period settlers. See the archaeological remains of a pit house. Walk along the original Presidio wall and experience a 150-year-old classic Sonoran Row house.\"<br /> <br /> The Tucson Presidio Museum is located in downtown Tucson. An official NPS Juan Bautista de Anza NHT Passport Stamp is located at this site. This is passport stamp #7 (a list of <a href=\"https://www.nps.gov/juba/planyourvisit/nps-passport-stamps.htm\">Anza NHT Passport Stamp locations is found on this page</a>). Operating hours and information can be found on the <a href=\"https://tucsonpresidio.com/\">Tucson Presidio website</a>.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.13971948776452,
+          32.39158857147251
+        ]
+      },
+      "properties": {
+        "name": "Puerto del Azotado",
+        "notes": "Puerto del Azotado\nhttps://www.nps.gov/places/puerto-del-azotado.htm\n\n<p><em>Puerto del Azotado </em>roughly translates to \"port of the whipping.\" When two muleteers tried to run away from Anza's expedition, he ordered Native Americans to retrieve the deserters. They were then punished at this site. Anza recounts in his diary:</p> <blockquote> <p><em>\"At the time when we set forth this afternoon two muleteers deserted us, and I entrusted their apprehension to the justices of Tuczon , who came to bid me goodbye. At eight o’clock at night six Pimas of the last pueblo came to camp and brought one of the fugitives. I immediately had him given a beating, and for this reason the soldiers called the place where we camped for the night the plain of El Azotado.\"</em></p> </blockquote> <p>Today, this is the site of El Rio Preserve. It is a rich riparian habitat for nesting and migratory birds. More than 200 species of birds have been observed here. El Rio is one of the links in the chain of preserved riparian habitat along the Lower Santa Cruz River, including sites such as <a href=\"https://www.tucsonaz.gov/water/sweetwater-wetlands\">Sweetwater Wetlands</a> and <a href=\"https://webcms.pima.gov/UserFiles/Servers/Server_6/File/Government/Flood%20Control/Projects/KERP/kerp-urban-oasis-booklet2015.pdf\">Kino Environmental Restoration Project</a>. There are two interpretive exhibits at the parking lot recounting the indigenous and Spanish colonial history of this site.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.90612077713013,
+          37.31573815707237
+        ]
+      },
+      "properties": {
+        "name": "Roberto-Suñol Adobe",
+        "notes": "Roberto-Suñol Adobe\nhttps://www.nps.gov/places/roberto-suñol-adobe.htm\n\n<h2>Overview</h2> <p>San José has only two extant adobes, one of which is the Roberto-Suñol Adobe. The California Pioneers of Santa Clara County created a free museum for the benefit of the public at this site. The adobe is included in the National Register of Historic Places, is a passport stamp location, and is certified as an Interpretive Site of the Anza Trail.  </p> <h2>History</h2> <p>In 1775-1776, Juan Bautista de Anza led a colonizing expedition that resulted in the founding of Pueblo San José de Guadalupe. San José was the first civil settlement in California and would later become California’s first state Capital. </p> <p>A Native American named Roberto Balermino was born in 1782 and grew up on this part of the valley in a rancheria called San Juan Bautista where the Guadalupe River and Los Gatos River came together. Around 1836, Roberto Balermino built the Roberto Adobe, which still stands today. He petitioned the Mexican governor for a land grant called Rancho de los Coches (Ranch of the Pigs). He was granted the 2,219 acres in 1844.</p> <p>By 1844, Spaniard Antonio Maria Suñol was living upon Rancho los Coches with his wife Maria Dolores Bernal and their children. In 1847, Suñol acquired Rancho los Coches and built a brick house adjoining the Roberto Adobe. It was the first brick house to be completed in Alta California. At this residence, which still exists on the historic site, Suñol entertained members of the first California Legislature.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.19731545448303,
+          32.25449303492965
+        ]
+      },
+      "properties": {
+        "name": "Saguaro National Park West",
+        "notes": "Saguaro National Park West\nhttps://www.nps.gov/places/saguaro-national-park-west.htm\n\nTucson, Arizona is home to the nation's largest cacti. The giant saguaro is the universal symbol of the American west. These majestic plants, found only in a small portion of the United States, are protected by Saguaro National Park, to the east and west of the modern city of Tucson. Here you have a chance to see these enormous cacti, silhouetted by the beauty of a magnificent desert sunset.<br /> <br /> Saguaro National Park is west of the Anza Expedition historic route. The park offers a spectacular view of the desert, very similar to how it would have appeared to the expedition in 1775. This is also a passport stamp location for the Anza Trail.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.959527,
+          31.452512
+        ]
+      },
+      "properties": {
+        "name": "San Cayetano de Calabazas",
+        "notes": "San Cayetano de Calabazas\nhttps://www.nps.gov/places/san-cayetano-de-calabazas.htm\n\n<p>The name Calabazas first appears in a baptismal record of June 2, 1756. It was evidently established as a mission earlier that year when Father Francisco Xavier Pauer relocated at least seventy-eight Pimas to the site from their village of <em>Toacuquita</em>, a Spanish rendition of the Pima words \"<em>do'ag cugidaga</em>,\" meaning \"peaked mountain.\" This village was located closer to the Santa Cruz River. When the mission was moved up away from the river, it was given the name \"San Cayetano de Calabazas.\" <em>Calabazas</em> means \"squash\" or \"gourds\" in Spanish -- the name may be a reference to the wild \"coyote gourds\" that grow in the area or to the domestic squash cultivated by the O'odham. Records are scanty, but it is known that construction of the church was half complete in 1761 and was functional by 1773.</p> <p>Father Antonio de los Reyes on 6 July 1772 submitted a report on the condition of the missions in the Upper and Lower Pimeria Alta. This was his report on San Cayetano de Calabazas as translated by Father Kieran McCarty:</p> <blockquote dir=\"ltr\"> <p><em>The village of San Cayetano at Calabazas lies two leagues to the east of Guevavi on an open plain with good lands, but the Indians do little or no farming at all. There is no church nor house for the Missionary. According to the Census book, which I have here before me, there are seventeen married couples, four widowers, seven widows, the number of souls in all sixty-four.</em></p> </blockquote> <p>On October 17, 1775, Father Pedro Font said mass at Calabazas during the expedition to California led by Juan Bautista de Anza. The church, houses and the granary were set on fire during an Apache attack in 1777. Calabazas was abandoned in 1786 when the last of the O'odham left because of continuing problems with the Apaches.</p> <p>From 1807 to 1830, it was used as a farm for the Tumacácori mission. In 1808, several non-Indians moved into Calabazas and restored the chapel. But again, the Apaches attacked, set fire to the buildings and carried off the sacred vessels and vestments. In 1844, Calabazas was sold to Manuel Gándara, governor of Sonora. In 1853, Gandara had 6,000 head of stock and converted the church into a ranch house. After the Gadsden Purchase, the ranch house (the old Jesuit church) served a number of purposes -- customs house, post office, and dwelling. Fort Mason was established at Calabazas in 1864 by the California Volunteers. However, 300 of the 400 men got sick with malaria and so the fort was abandoned. By 1878, Calabazas was totally abandoned with only a roofless shell remaining.</p> <p>In 1960, Father Norman Whalen from Tombstone, Arizona recruited preservation volunteers who capped the walls and laid a cement foundation. The Arizona Historical Society took over site management and ownership in October of 1974. Like Guevavi, Calabazas was added to Tumacácori National Historical Park in 1990. Though Padre Kino never set foot there, the spirit of the master promoter of the Pimeria Alta is certainly present.<br /> <br /> Access to Calabazas is restricted to participants on <a href=\"https://www.nps.gov/thingstodo/see-more-missions.htm\">guided tours</a>.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.045538,
+          31.569548
+        ]
+      },
+      "properties": {
+        "name": "Santa Cruz River",
+        "notes": "Santa Cruz River\nhttps://www.nps.gov/places/santa-cruz-river.htm\n\n<p paraeid=\"{789655bc-7d2a-4a59-8c1a-83ee971079b9}{90}\" paraid=\"841213529\">The Santa Cruz River is an international waterway. It begins in the San Rafael Valley, flows southward into Mexico, then makes a U-turn back into the United States. Here, it flows from south to north, eventually joining the Gila River. The river creates essential habitat and a wildlife corridor for threatened and endangered species. </p> <p paraeid=\"{789655bc-7d2a-4a59-8c1a-83ee971079b9}{100}\" paraid=\"1636554113\">Where underlying bedrock slopes up, the water is forced to the surface. The O’odham situated their villages in these locations, known as “gaining reaches,” to take advantage of the reliable water source. Later settlers followed suit. </p> <p paraeid=\"{789655bc-7d2a-4a59-8c1a-83ee971079b9}{106}\" paraid=\"1780625867\">The river provided not only water for drinking and irrigation, but habitat for the complex web of life that supported human settlement. It contributed to every basket, meal, article of clothing, medicine, and cultural practice. Literally every item a person touched over the course of a lifetime connected back to the Santa Cruz River corridor. </p> <p paraeid=\"{789655bc-7d2a-4a59-8c1a-83ee971079b9}{122}\" paraid=\"1700881466\">Today, the cottonwood-willow environment along the Santa Cruz is one of the most rare and endangered habitats in the United States. The river‘s plant and animal communities and water quality are threatened by climate change and modern land use. The stretch of river that flows through Tumacácori is now composed almost entirely of treated effluent, released from the Nogales International Wastewater Treatment Facility in Rio Rico, Arizona. Although this supplemental water source has supported the return of the endangered Gila topminnow (<em>Poeciliopsis occidentalis</em>), it is not safe for human consumption. Avoid contact.  </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.98919391981326,
+          32.241154412862294
+        ]
+      },
+      "properties": {
+        "name": "Santa Cruz River Park",
+        "notes": "Santa Cruz River Park\nhttps://www.nps.gov/places/santa-cruz-river-park.htm\n\nLocated along the banks of the Santa Cruz River in Tucson, the park runs from El Rio Park north of Twin Peaks Road to Silverlake Road. Another section runs from Ajo Way to Drexel Road, which includes El Paseo de los Arboles Commemorative Park on the west bank.<br /> <br /> Santa Cruz River Park contains a multi-use trail within the Anza Trail historic corridor. El Paseo de los Árboles, \"The Pathway of the Trees,\" is located along the west bank between Irvington Rd. and Ajo Way, and a tree there is dedicated to Anza.<br /> <br /> The park is owned by the City of Tucson and managed by the Pima County Flood Control District. It features drinking water, equestrian access, exercise stations, a playground, restrooms, and walking paths.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Santa Cruz Valley National Heritage Area",
+        "notes": "Santa Cruz Valley National Heritage Area\nhttps://www.nps.gov/places/santa-cruz-valley-national-heritage-area.htm\n\n<p paraeid=\"{e5eadcd5-68c1-4372-b385-a06e2ecca7bf}{229}\" paraid=\"8\">Designated by Congress in 2019, <a href=\"https://santacruzheritage.org/\">Santa Cruz Valley National Heritage Area (SCVNHA)</a> recognizes the rich history, natural and cultural resources, and heritage of the Santa Cruz River watershed. The Santa Cruz Valley Heritage Alliance is a non-profit local coordinating entity for the heritage area. It is an alliance of partners that includes local governments, non-profit organizations, and businesses that collaborate together in the region to further the mission of the heritage area.<br /> <br /> SCVNHA is a unique and diverse watershed in the southwestern U.S. that encompasses a mosaic of cultures and history. Living together in this region are Native American tribes with ancient roots to the area, the descendants of Spanish settlers who colonized the valley in the late 1600s, Mexican families who settled the area before the 1854 Gadsden Purchase made it part of the United States, and current generations of late nineteenth-century American pioneers who ventured into this borderland seeking new beginnings. <br />  </p> <p paraeid=\"{e5eadcd5-68c1-4372-b385-a06e2ecca7bf}{252}\" paraid=\"11\"><strong>The SCVNHA supports community-led efforts to:  </strong></p> <ul role=\"list\"> <li aria-setsize=\"-1\" data-aria-level=\"1\" data-aria-posinset=\"1\" data-font=\"Noto Sans Symbols\" data-leveltext=\"●\" data-listid=\"1\" role=\"listitem\"> <p paraeid=\"{6004c223-f64c-4bf9-bb61-a14236ff80f5}{3}\" paraid=\"12\">Increase heritage and nature tourism and grow tourism-related economic impact </p> </li> <li aria-setsize=\"-1\" data-aria-level=\"1\" data-aria-posinset=\"2\" data-font=\"Noto Sans Symbols\" data-leveltext=\"●\" data-listid=\"1\" role=\"listitem\"> <p paraeid=\"{6004c223-f64c-4bf9-bb61-a14236ff80f5}{14}\" paraid=\"13\">Develop heritage education programs </p> </li> <li aria-setsize=\"-1\" data-aria-level=\"1\" data-aria-posinset=\"3\" data-font=\"Noto Sans Symbols\" data-leveltext=\"●\" data-listid=\"1\" role=\"listitem\"> <p paraeid=\"{6004c223-f64c-4bf9-bb61-a14236ff80f5}{21}\" paraid=\"14\">Promote local foods, crafts, and other traditional products </p> </li> <li aria-setsize=\"-1\" data-aria-level=\"1\" data-aria-posinset=\"4\" data-font=\"Noto Sans Symbols\" data-leveltext=\"●\" data-listid=\"1\" role=\"listitem\"> <p paraeid=\"{6004c223-f64c-4bf9-bb61-a14236ff80f5}{28}\" paraid=\"15\">Riparian restoration </p> </li> </ul> <ul role=\"list\"> <li aria-setsize=\"-1\" data-aria-level=\"1\" data-aria-posinset=\"1\" data-font=\"Noto Sans Symbols\" data-leveltext=\"●\" data-listid=\"1\" role=\"listitem\"> <p paraeid=\"{6004c223-f64c-4bf9-bb61-a14236ff80f5}{35}\" paraid=\"16\">Rehabilitation of historic buildings </p> </li> <li aria-setsize=\"-1\" data-aria-level=\"1\" data-aria-posinset=\"2\" data-font=\"Noto Sans Symbols\" data-leveltext=\"●\" data-listid=\"1\" role=\"listitem\"> <p paraeid=\"{6004c223-f64c-4bf9-bb61-a14236ff80f5}{42}\" paraid=\"17\">Improve the quality of life for residents by instilling a sense of place </p> </li> </ul> <p paraeid=\"{6004c223-f64c-4bf9-bb61-a14236ff80f5}{49}\" paraid=\"18\">The region has an abundance of well-preserved historic and archaeological resources associated with the rich multicultural history, along with spectacular natural, scenic, and outdoor recreational resources. From museums to national, state, and local parks to historical sites, the SCVNHA has something for everyone. </p> <h2 paraeid=\"{6004c223-f64c-4bf9-bb61-a14236ff80f5}{111}\" paraid=\"28\"><strong>Historic Sites and Points of Interest: </strong></h2> <ul role=\"list\"> <li><a href=\"https://www.nps.gov/subjects/travelspanishmissions/san-xavier-del-bac-mission.htm\">San Xavier del Bac Mission</a><a href=\"https://www.nps.gov/subjects/travelspanishmissions/san-xavier-del-bac-mission.htm\">, National Historic Landmark</a></li> <li><a href=\"https://webcms.pima.gov/cms/One.aspx?pageId=1507\">Historic Canoa Ranch</a> </li> <li><a href=\"http://www.sanxaviercoop.org/\">San Xavier </a><a href=\"http://www.sanxaviercoop.org/\">Co-op</a><a href=\"http://www.sanxaviercoop.org/\"> Farm</a></li> <li><a href=\"https://azstateparks.com/tubac/\">Tubac Presidio State Historic Park</a></li> <li><a href=\"https://azstateparks.com/catalina/\">Catalina State Park</a></li> <li><a href=\"https://www.nature.org/en-us/get-involved/how-to-help/places-we-protect/patagonia-sonoita-creek-preserve/\">Patagonia-Sonoita Creek Preserve</a></li> <li><a href=\"https://www.desertmuseum.org/\">Arizona-Sonora Desert Museum</a></li> <li><a href=\"https://www.missiongarden.org/\">Mission Garden</a></li> <li><a href=\"https://tucsonpresidio.com/\">Presidio San Agustín del Tucson Museum</a></li> <li><a href=\"https://webcms.pima.gov/cms/one.aspx?portalId=169&pageId=1503\">Agua Caliente Park</a></li> </ul> <h2 paraeid=\"{6004c223-f64c-4bf9-bb61-a14236ff80f5}{180}\" paraid=\"37\"><strong>Notable People:  </strong></h2> <ul role=\"list\"> <li><a href=\"https://www.nps.gov/tuma/learn/historyculture/eusebio-francisco-kino.htm\">Eusebio Francisco Kino</a>    </li> <li><a href=\"http://www.tonation-nsn.gov/history-culture/\">Tohono O’odham Nation</a> </li> <li><a href=\"https://www.pascuayaqui-nsn.gov/index.php/culture-home\">Pascua Yaqui Tribe</a></li> </ul>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.3755373954773,
+          32.9319571046109
+        ]
+      },
+      "properties": {
+        "name": "Sears Point",
+        "notes": "Sears Point\nhttps://www.nps.gov/places/sears-point.htm\n\nMany archaeological remains left by prehistoric peoples are visible here, but the most predominant are the petroglyphs. Hundreds of petroglyphs can be seen on the volcanic basalt outcrops that lie next to the Gila River. Other features at the site include sleeping circles, geoglyphs, trails, rock alignments, and a historic canal.<br /> <br /> The area is believed to have been utilized for thousands of years, more so from A.D. 500 until the 1800s. The Anza expedition passed by this area on the north side of the river in 1775. Due to its proximity to the Gila River, the area has a long history of use as a major traveling route by missionaries and people heading for California (including the Butterfield Overland Mail route). In addition to cultural resources, the area contains a sizeable mesquite bosque with significant wildlife habitat. The site is monitored regularly by volunteer Site Stewards.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.29699969291687,
+          32.847495974953986
+        ]
+      },
+      "properties": {
+        "name": "Sonoran Desert National Monument",
+        "notes": "Sonoran Desert National Monument\nhttps://www.nps.gov/places/sonoran-desert-national-monument.htm\n\nThe Sonoran Desert National Monument sits in the most biologically diverse North American desert. The most striking aspect of the plant community in the monument is the extensive saguaro cactus forest. The monument contains three distinct mountain ranges, the Maricopa, Sand Tank and Table Top mountains. The monument also contains three congressionally designated wilderness areas, archaeological and historic sites, and remnants of several important historic trails, including the Anza Trail.<br /> <br /> Anza Trail Historic Campsite #26 Arroyo Seco is located within the monument. The expedition camped there on November 7, 1775. On the west side of the monument, there is an Anza Trail interpretive sign marking a trailhead along W. Maricopa Road.<br /> <br /> In addition to hiking, you can also camp, ride horses, and go biking here. The Sonoran Desert National Monument is in south central Arizona, 60 miles from Phoenix. Interstate 8 provides some access at the Vekol interchange (Exit 144) and the Freeman Interchange (Exit 140).",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.13359334477354,
+          37.99114859333537
+        ]
+      },
+      "properties": {
+        "name": "Stop 12: Juan Bautista de Anza",
+        "notes": "Stop 12: Juan Bautista de Anza\nhttps://www.nps.gov/places/stop-12-juan-bautista-de-anza.htm\n\nTranscript from Cell Tour Audio:<br /> <br /> It was between 1775 and 1776 that 240 colonists, soldiers, and others packed up their lives and began an astounding journey of 1200 miles. Led by Lt. Colonel Juan Bautista de Anza, the expedition began from present-day Sonora, Mexico, to the area of what the Spanish then called “Alta California”.  <br /> <br /> The goal of Anza’s expedition was to establish an overland route for further settlement of the region. While we know it as California, today, it was then the northern frontier of the Spanish empire. When they reached their final destination of San Francisco, they would work to establish a mission for personal religious purposes, to evangelize the local people, as well as build a military fort, also known as a presidio. <br /> <br /> The colonists of the Anza Expedition were a multiethnic group of families of mixed Native American, African, and European ancestry. Their collective experiences and cultures established a wonderful foundation for the thriving mixed heritage that the San Francisco Bay Area is known for, today. <br /> <br /> The official handwritten records from the expedition have provided a connection to many of the family groups who participated. However, the names of horsemen, carpenters, blacksmiths, muleteers, cowboys, Indian guides, and servants who were essential members of the journey, were not included.  <br /> <br /> When the Anza expedition arrived in the bay area, they discovered that the lands were inhabited by the Native American Ohlone peoples. Over time, the colonialist displaced the Ohlone through cultural clashes and forced missionization. By the turn of the century the impact of colonialism had forever changed both the environment and the first peoples of this land.  <br /> <br /> The early 1800’s marked the change of San Francisco, and the rest of Alta California, which were no longer under Spanish rule and had become a part of the newly independent Mexico.   <br /> <br /> The original families of the expedition and their descendants, known as Californios, continued to navigate the changing political landscape, and dispersed throughout Alta California to settle new regions.   Manuel Ramírez de Arellano, who had brought his family from Sonora on the Anza Expedition, moved to Los Angeles with his wife and 4 children after retiring from the military.   <br /> <br /> In 1797, he became the <i>alcalde,</i> or mayor, of Los Angeles. His daughter, María Martina Arellano, married a cadet stationed at the Presidio of Santa Barbara named Lieutenant Don Ignacio Martínez, who would eventually become one of the most prominent figures in San Francisco during his life.  <br /> <br /> Over the course of their marriage, Lt. Don Ignacio Martínez and María Martina Arellano would move from Santa Barbara to San Diego to San Francisco and have 11 children along the way. By 1823, Don Ignacio, now the Comandante of the San Francisco Presidio, was granted over 17,000 acres of land that would become Rancho Pinole, and included the property where John Muir’s home sits today. María and Ignacio’s son, Vicente, built the adobe home in 1849 where he resided with his wife. To this day the city of Martinez continues to carry the name of the family and the Martinez Adobe is considered one of the oldest standing two-story adobe structures.  <br /> <br /> Vicente Martinez eventually sold off portions of land, including the adobe house, to Edward Franklin who, in 1875, sold the property to Dr. John T. Strentzel. The adobe was used as a headquarters and storage for the ranch. A Victorian-style home was built by Dr. Strentzel, which would eventually become the home of his daughter Louisa Strentzel and son-in-law, John Muir. The Muir’s daughter, Wanda, moved into the adobe in 1907, with her husband, and raised her three children there. Today, the Martinez Adobe stands as a bridge through centuries to the early Spanish colonial era ushered in by those on the Anza Expedition.  ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.047072,
+          31.611869
+        ]
+      },
+      "properties": {
+        "name": "Tubac Presidio State Historic Park",
+        "notes": "Tubac Presidio State Historic Park\nhttps://www.nps.gov/places/tubac-presidio.htm\n\n<p>Tubac Presidio State Historic Park preserves the ruins of the oldest Spanish Presidio site in Arizona, San Ignacio de Tubac. The Tubac Presidio was established in 1752 to protect the Spanish colonists from the Apache (Ndee and Chiricahua) and Seri (Comca’ac), to intimidate and control the O'odham people and to further expand Spanish colonial power in what is now the Southwest United States.<br /> <br /> Juan Bautista de Anza was the second commander of the presidio. He led the expedition to California that resulted in the founding of the city of San Francisco in 1776. The expedition included 240 colonists orginally from Sinaloa and Sonora, 63 of whom were living in Tubac. The colonists gathered over 1,000 head of livestock--cattle, horses, and mules--at Tubac for the expedition. The group departed from the presidio on October 23, 1775. <br /> <br /> Tubac Presidio State Historic Park is managed by Arizona State Parks with generous support from volunteers and the Friends of Tubac Presidio and Museum. The park includes a visitor center, museum, gardens, historic interpretation, gift shop, picnic area, and trailhead access to recreational trail that follows the Juan Bautista de Anza National Historic Trail. An official Juan Bautista de Anza NHT Passport Stamp is available in the visitor center. This is passport stamp #4 along the Anza Trail (<a href=\"https://www.nps.gov/juba/planyourvisit/nps-passport-stamps.htm\">list of Anza Trail passport stamp locations</a>).<br /> <br /> For operating hours and information contact <a href=\"https://azstateparks.com/tubac\">Tubac Presidio State Historic Park</a>.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.047038,
+          31.569477
+        ]
+      },
+      "properties": {
+        "name": "Tumacácori - Anza Trail Junction",
+        "notes": "Tumacácori - Anza Trail Junction\nhttps://www.nps.gov/places/anza-trail-junction.htm\n\n<p paraeid=\"{786b25a4-b8c9-4a00-9eed-84dcbd982fb4}{2}\" paraid=\"1599692460\">The Santa Cruz River has long been a highway of trade and travel. Prehistoric people followed the river to trade with neighbors. The O’odham farmed along the river, using the floodplain and low banks to grow crops. Later, missionaries and explorers would rely on these existing networks to colonize the area.  </p> <p paraeid=\"{786b25a4-b8c9-4a00-9eed-84dcbd982fb4}{12}\" paraid=\"1803544016\">In 1775, an expedition of approximately 240 people and nearly a thousand head of livestock followed this river on the first part of a journey that would establish the first European settlement on the San Francisco Bay. The Juan Bautista de Anza National Historic Trail was designated to commemorate this massive and important movement of settlers across the nation. </p> <p paraeid=\"{786b25a4-b8c9-4a00-9eed-84dcbd982fb4}{22}\" paraid=\"1775176081\">Today the Anza Trail preserves this important history while also providing valuable outdoor recreational space. At Tumacácori, it passes through habitat that supports the most diverse migratory bird population outside of the tropics. Hikers, runners, and riders can travel along this route. Even a casual stroll connects visitors to the residents and travelers of history.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.050934,
+          31.56787
+        ]
+      },
+      "properties": {
+        "name": "Tumacácori Visitor Center - Mission Model",
+        "notes": "Tumacácori Visitor Center - Mission Model\nhttps://www.nps.gov/places/visitor-center-mission-model.htm\n\n<p paraeid=\"{1c834b0b-d601-4199-af2f-8ba4a5bc1fcf}{202}\" paraid=\"213701893\">The goal of Spanish colonization was simple: to remake New Spain in the image of Old Spain. All aspects of daily life would be subject to transformation – food, language, clothing, agriculture, and religion. In the mission model you can see adobe buildings for residences and workshops, agricultural lands, cattle, and the main irrigation ditch. A mission community could be considered a residential training academy where indigenous people learned and adopted a new way of life. The plan was for the missionary priest to move on after ten years, when the community could sustain itself. In fact, more than 100 years would pass before the turn of the 19th century when the first bricks would be laid for the mission church you see today. <br /> <br /> On October 17, 1775, Father Pedro Font held mass at the mission as Juan Bautista de Anza marshalled his forces at Tubac. The mission also contributed a small herd of cattle to the expedition.<br /> <br /> Tumacácori went from being an O’odham village to a frontier <em>visita </em>(satellite mission) to a <em>cabecera </em>(headquarters mission). Its people changed as well. The O’odham became known as the “Pima” and the “Papago,” and their lands the <em>Pimería Alta</em> (land of the upper Pima). They were baptized with Spanish names, given Spanish-style clothing, and assigned Spanish jobs. They tended to domestic livestock rather than hunting wild game, and irrigated fruit trees that came from oceans away. </p> <p paraeid=\"{dfb4ab41-585f-4bba-bb28-8ef886f8a288}{11}\" paraid=\"325370160\">Today, the O’odham people still carry with them the legacy of colonization. Because they did not record their stories in a written language, exploring their history requires empathy, inference, and respect for O’odham oral tradition. The descendants of mission-era communities are still living all around us.<br /> <br /> The visitor center is a National Historic Landmark and includes a museum. Visits to Calabasas and Guevavi can be arranged at the park's headquarters. A trail connects Tumacácori and Tubac along the Santa Cruz river through beautiful riparian habitat containing cottonwoods and mesquite. Look for several large ramadas enclosing interpretive panels about Anza's Expeditions and the natural history of the area.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Waterbird Regional Preserve",
+        "notes": "Waterbird Regional Preserve\nhttps://www.nps.gov/places/waterbird-regional-preserve.htm\n\n<h2>Introduction</h2> <p>McNabney Marsh and the uplands area of Waterbird Regional Preserve provide habitat for a variety of birdlife and offer good opportunities for birders to view species ranging from waterbirds to raptors.</p> <p>Waterfowl and shorebirds use the marsh for foraging and nesting, and the uplands areas are home to small mammals such as ground squirrels and pocket gophers. The patient birdwatcher may see birds ranging from the American avocet, killdeer, and great blue heron to the American kestrel, western meadowlark, cedar waxwing, and great horned owl. Familiar waterbirds observed in the marsh area include the American coot, mallard, green-winged teal, black-necked stilt, bufflehead, Canada goose, cinnamon teal, and white pelican. Other common birds seen at the Preserve include the barn swallow, black phoebe, Brewer's blackbird, cliff swallow, European starling, Say's phoebe, house finch and house sparrow.</p> <p>This is only a partial listing of the many bird species that are resident or are expected to visit this Preserve. The lucky birder may also see the white-tailed kite, northern harrier, golden eagle, osprey, and peregrine falcon.</p> <h2>History</h2> <p>The area now known as McNabney Marsh was first visited by the Bay Miwok's Chupcan people, a tribelet thought to have consisted of about 200 people. With the plentiful resources of the bay, marshlands, and uplands, these Native Americans were able to sustain their existence here for centuries, until the influx of explorers and missionaries in the 1800s.</p> <p>The construction of a major rail line through the area in the 1880s helped define the marsh as we see it today. The shipping and rail services of Martinez encouraged the location of the Peyton Chemical Company and the Mountain Copper Company at the mouth of Peyton Slough. The uplands area of the Preserve with pepperwoods and eucalyptus was most likely the site of early nineteenth-century chemical company worker housing. The pepperwoods line is an old road made of \"clinker\" stones, produced through smelting operations.</p> <p>McNabney Marsh, named after a former leader of the Mt. Diablo Audubon Society, is part of a larger 200-acre wetland complex connected by Peyton Slough, which drains into Suisun Bay. In 1988, an oil spill inundated marshlands in this area, including McNabney Marsh. Following that spill, a $10 million Natural Resource Fund was established to restore, rehabilitate and acquire the equivalent of the natural resources damaged by the oil spill. The East Bay Regional Park District acquired 198 acres in the south end of the marsh in 1992 using funding provided by the Trustee Committee overseeing the Natural Resource Fund. This land included the uplands to the east of the marsh, which provide recreational trail opportunities today.</p> <h2>Activities</h2> <h3>Birdwatching</h3> <p>McNabney Marsh lies on the Pacific Flyway for migratory birds and is home to many species of waterfowl and shorebirds. The fall and spring migrations bring an abundance of waterfowl as they stop to rest and feed on their flights north or south.</p> <h3>Hiking</h3> <p>The Preserve also provides hiking opportunities in the several miles of trails in the uplands area. Take the trail out of the parking area to reach the Meadowlark Ridge Loop for good views of the marsh. Walk to the northern end of the park towards the pepperwood trees to see signs of the old housing site dating from the early 1900s.</p>",
+        "icon": "red-pin-down.png"
+      }
+    }
+  ]
+}

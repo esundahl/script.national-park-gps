@@ -1,0 +1,185 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.7513600136621,
+          48.5267167824214
+        ]
+      },
+      "properties": {
+        "name": "Anderson Bay",
+        "notes": "Anderson Bay\nhttps://www.nps.gov/places/anderson-bay.htm\n\n<p>Voyageurs National Park is situated on the southern tip of what is known as the Canadian Shield, a gigantic dome of volcanic bedrock that forms the heart of the North American Continent. This bedrock dates from the birth of North America. Some 2.8 billion years ago, massive volcanoes erupted through this area and deposited layer after layer of ash and lava, building up the island landmasses. These island arc volcanoes collided forming still larger landmasses. Subsequent uplifting, folding, superheating along with tremendous pressure created igneous and metamorphic rock to form the present day granite and schist of the Kabetogama Peninsula. Eons of erosion then wore down these volcanic mountain ranges to the landscape you see today. </p> <h4>Visiting Anderson Bay </h4>   <p>Anderson Bay exemplifies the outstanding scenery for which Voyageurs was established. The exposed white granite cliffs of Anderson Bay rise 80 feet from the water and provide spectacular views of the bay and Rainy Lake. It is one of the most photographed areas of the park. There are picnic tables, fire ring, and privy at this Visitor Destination and Day Use site. Visitors can also hike the 1.75-mile loop trail to see the bluffs from the top. In addition, this is the northern trailhead for the 9.5 mile, one way, Cruiser Lake Trail system that crosses the Kabetogama Peninsula to connect with Lost Bay on Kabetogama Lake. </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.80583190917969,
+          48.49811935424805
+        ]
+      },
+      "properties": {
+        "name": "Backcountry Lakes of Voyageurs National Park",
+        "notes": "Backcountry Lakes of Voyageurs National Park\nhttps://www.nps.gov/places/backcountry-lakes-of-voyageurs-national-park.htm\n\n<p paraeid=\"{e3588c11-5c26-438f-97df-cb94e7549fef}{103}\" paraid=\"960775798\">Voyageurs’ 218,054 acres include four major lakes – Rainy, Kabetogama, Namakan, and Sand Point, and twenty-six smaller inland lakes that together make up more than a third of the total park area. The smaller inland lakes are scattered throughout the park, but primarily on the Kabetogama Peninsula. The peninsula is Voyageurs’ largest landmass and can be reached by water in summer or over the ice in winter.</p> <p paraeid=\"{e3588c11-5c26-438f-97df-cb94e7549fef}{139}\" paraid=\"1536074597\"><strong> Backcountry camping details</strong>: </p> <ul role=\"list\"> <li aria-setsize=\"-1\" data-aria-level=\"1\" data-aria-posinset=\"2\" data-font=\"Symbol\" data-leveltext=\"\" data-listid=\"6\" role=\"listitem\"> <p paraeid=\"{e3588c11-5c26-438f-97df-cb94e7549fef}{168}\" paraid=\"131240212\">Backcountry camping has 2 to 3 steps: </p> <ul> <li aria-setsize=\"-1\" data-aria-level=\"2\" data-aria-posinset=\"1\" data-font=\"Courier New\" data-leveltext=\"o\" data-listid=\"6\" role=\"listitem\"> <p paraeid=\"{e3588c11-5c26-438f-97df-cb94e7549fef}{175}\" paraid=\"1073697516\">1. Travel by boat to a trailhead (visitors must either use their own boat, <a href=\"https://www.nps.gov/voya/getinvolved/commercial-services.htm\">rent a vessel, or use a water taxi</a>). </p> </li> <li aria-setsize=\"-1\" data-aria-level=\"2\" data-aria-posinset=\"2\" data-font=\"Courier New\" data-leveltext=\"o\" data-listid=\"6\" role=\"listitem\"> <p paraeid=\"{e3588c11-5c26-438f-97df-cb94e7549fef}{187}\" paraid=\"82218416\">2. Hike a trail into the Backcountry </p> </li> <li aria-setsize=\"-1\" data-aria-level=\"2\" data-aria-posinset=\"3\" data-font=\"Courier New\" data-leveltext=\"o\" data-listid=\"6\" role=\"listitem\"> <p paraeid=\"{e3588c11-5c26-438f-97df-cb94e7549fef}{194}\" paraid=\"1064960067\">3. Some backcountry sites also require campers to use a canoe (available for rent by the park and staged at the end of the trail) after hiking to reach their campsite. </p> </li> </ul> </li> <li aria-setsize=\"-1\" data-aria-level=\"1\" data-aria-posinset=\"1\" data-font=\"Symbol\" data-leveltext=\"\" data-listid=\"6\" role=\"listitem\"> <p paraeid=\"{e3588c11-5c26-438f-97df-cb94e7549fef}{145}\" paraid=\"1433980374\">Voyageurs National Park has 15 backcountry camping sites. </p> </li> </ul> <ul role=\"list\"> <li aria-setsize=\"-1\" data-aria-level=\"1\" data-aria-posinset=\"1\" data-font=\"Symbol\" data-leveltext=\"\" data-listid=\"6\" role=\"listitem\">Reservations required. Reservations can be made <a href=\"https://www.recreation.gov/camping/campgrounds/249981?q=Voyageurs%20National%20Park%20Camping%20Permits\">online</a> or by calling by calling recreation.gov at 877-444-6777. <br />  </li> </ul>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.9802698650361,
+          48.4976949985906
+        ]
+      },
+      "properties": {
+        "name": "Ellsworth Rock Gardens",
+        "notes": "Ellsworth Rock Gardens\nhttps://www.nps.gov/places/ellsworth-rock-gardens.htm\n\n<p>The Ellsworth Rock Gardens have been known as the “Showplace of Lake Kabetogama” since the 1940s. Jack Ellsworth, the garden’s creator and a self-taught artist, used natural elements of the native northern Minnesota landscape as his artistic media, creating an original and distinctive art environment on the north shore of Kabetogama Lake. <br /> <br /> Over a period of roughly twenty years, Ellsworth, a carpenter from Chicago, used art and engineering to create a complex, terraced garden on a prominent rock outcrop. Ellsworth constructed 62 terraced flower beds on the outcrop, which he filled with more than 13,000 lilies and other flower varieties. He then accented his garden landscape with over 200 abstract rock sculptures that have been compared to the work of modern sculptors like Noguchi and Brancusi. <br /> <br /> The uniqueness and magnitude of Mr. Ellsworth’s creation and the garden’s importance as a recreational destination since the 1940s establish its significance. The gardens are eligible for the National Register for Historic Places and are the most popular day use destination in Voyageurs National Park. </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.5379762845586,
+          48.394741353603
+        ]
+      },
+      "properties": {
+        "name": "Grassy Bay Cliffs",
+        "notes": "Grassy Bay Cliffs\nhttps://www.nps.gov/places/grassy-bay-cliffs.htm\n\n<p>Voyageurs National Park is situated on the southern tip of what is known as the Canadian Shield, a gigantic dome of volcanic bedrock that forms the heart of the North American Continent. This bedrock dates from the birth of North America. Some 2.8 billion years ago, massive volcanoes erupted through this area and deposited layer after layer of ash and lava, building up the island landmasses. These island arc volcanoes collided forming still larger landmasses. Subsequent uplifting, folding, superheating along with tremendous pressure created igneous and metamorphic rock to form the present day granite and schist of the Kabetogama Peninsula. Eons of erosion then wore down these volcanic mountain ranges to the landscape you see today. </p> <h4>Visiting Grassy Bay Cliffs </h4>   <p>The sheer granite cliffs of Grassy Bay rise 125 feet above the surface of Sand Point Lake and reach one of the highest points within Voyageurs. This Lac La Croix biotite granite batholith (a body of magma that cooled underground) is the largest and youngest igneous intrusion in the area, dated at 2.64 to 2.69 billion years old. <br /> <br /> In summer, these cliffs are accessible by boat and in winter by snowmobile. There are currently no amenities at this Visitor Destination. </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.0110544510002,
+          48.5961004688989
+        ]
+      },
+      "properties": {
+        "name": "Harry Oveson Fish Camp",
+        "notes": "Harry Oveson Fish Camp\nhttps://www.nps.gov/places/harry-oveson-fish-camp.htm\n\n<p>Today, visitors can still experience the seclusion and lifestyle of Harry’s legacy. This Day Use site has a picnic table and fire ring. Visitors are welcome to enjoy a shore lunch while immersing themselves in Voyageurs’ fishing history. Peek into the ice house, relax, watch for birds, and enjoy Harry Oveson’s life on Rainy Lake. <br /> <br /> Harry Oveson was born in 1906 in Roseau, Minnesota and moved with his family, in 1921, to International Falls. In his youth, he worked at many different jobs; from his father’s bait and tackle shop to the local lumber mill. During the Great Depression, Harry engaged in train hopping to travel across America. During World War II, Harry served in the U.S. Army stationed in Alaska. In 1959, he settled on Rainy Lake to build his fish camp.<br /> <br /> In a typical day, Harry would rise before dawn and often see the sun come up from his front window. By 6:00 am he headed out on his 16-foot Alumacraft boat to lift his nets, remove the fish, and reset the nets for the next morning’s catch. At 10:00 am he would be back at the fish house to prepare and pack the fish. He removed the entrails of the whitefish, but the walleye could be packed whole. His catch of the day would be packaged in fish boxes and put on crushed ice for transport. A good day’s catch would produce around 300 lbs. of whitefish and 50 lbs. of walleye. As a bachelor, he was content with his dog Goofball and the various birds that frequented his North Woods haven. Quiet evenings and dark skys made for excellent reading and star gazing, two of Harry’s other interests.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.7479447017909,
+          48.4178543330784
+        ]
+      },
+      "properties": {
+        "name": "Hoist Bay",
+        "notes": "Hoist Bay\nhttps://www.nps.gov/places/hoist-bay.htm\n\n<p>Today Hoist Bay is registered as a historic site for its long history in logging and recreation. Visitors can enjoy the area as a day use visitor destination. This site provides park visitors a dock, picnic tables, and a privy. The historic boathouse, cabins, ice house, and root cellar are open for exploration. The pilings for the trestles and railroad grade can also be seen.</p> <h4>History</h4>   <p><em>The Logging Era<br /> Camp 75</em><br /> <br /> In 1905 Edward Hines and the Weyerhaeuser family pooled their resources to create the Virginia and Rainy Lake Lumber Company. The flag ship of the company was its sawmill in Virginia, Minnesota, which could process one million board feet of lumber a day.<br /> <br /> To transport logs to the sawmill before the days of modern logging technology, logs had to be floated down rivers and winched across lakes in giant booms by amphibious boats called gators. Hoist Bay, home of the Virginia and Rainy Lake Logging Camp 75, was one of these destinations.<br /> <br /> At Hoist Bay, a hoist machine lifted the logs out of the water and placed them on empty train cars for transportation. Pictured below is the railroad trestle and hoist built across the water. The train then transported the logs to Virginia, Minnesota to be cut into boards.<br /> <br /> Between 1913 and 1929 the camp in Hoist Bay operated for 16 years. In its lifetime, 13.5 million board feet of lumber entered its waters. By 1929 most of the white and red pine stands were cut; Camp 75 was shut down and dismantled, ending one part of the Hoist Bay story.<br /> <br /> <em>The Recreation Era<br /> Monson's Resort</em><br /> <br /> The Hoist Bay area lay dormant for almost 10 years, changing ownership 50 times, until 1939 when Ted and Fern Monson purchased the land, starting a new chapter in its history.<br /> <br /> When the Monsons arrived, there were few reminders of the previous logging era. The only remnants included the railroad trestle, an old root cellar, and a garbage dump.<br /> <br /> Between 1939 and 1945 the Monsons built 4 cabins; each cabin had 4 bedrooms, a kitchen, and a living room. Modern amenities such as indoor bathrooms and electricity were added in the 1950s.<br /> <br /> In all, the Monsons built 14 buildings that were enjoyed by summer visitors, and they catered to their guests’ needs for 35 years only closing for 3 years during World War 2.<br /> <br /> Ted and Fern decided to sell the resort in 1973, and in 1978 the Hoist Bay land was acquired by the National Park Service. It was designated a point of interest for visitors, and a new chapter in the history of Hoist Bay began.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.01067950643181,
+          48.456044397965826
+        ]
+      },
+      "properties": {
+        "name": "Kabetogama Lake",
+        "notes": "Kabetogama Lake\nhttps://www.nps.gov/places/kabetogama-lake.htm\n\n<p paraeid=\"{07195cfa-c07f-4eb8-bc5b-a71850115e06}{171}\" paraid=\"1062118440\">Kabetogama Lake can be accessed by the gateway communities of <a href=\"https://kabetogama.com/\">Kabetogama</a> and <a href=\"http://www.ashriver.com/\">Ash River.</a> Kabetogama Lake is 15 miles long and 25,760 acres in size. It has 78 miles of shoreline, a maximum depth of 80 feet, and 200 islands. All of Kabetogama Lake is in the park. Kabetogama has an Ojibwe Indian name – Ga-bi'-togum-ag' za’ -ga-I-gun that translates as “the lake that lies parallel or double with another lake,” meaning Kabetogama lies parallel to Rainy Lake. French fur traders referred to Kabetogama Lake as “Travere” or “Travers” which translates as “abreast or alongside.” Kabetogama has been spelled a variety of ways through the years including Kahpetogamak and Capetogama. </p> <p paraeid=\"{07195cfa-c07f-4eb8-bc5b-a71850115e06}{249}\" paraid=\"296459412\">Kabetogama Lake provides great boating, camping, paddling, and fishing opportunities.  </p> <p paraeid=\"{174a119a-f5eb-49ba-a7d0-39e1473fb4ed}{2}\" paraid=\"2065319956\"><strong>Get out on the lake</strong>: </p> <ul role=\"list\"> <li aria-setsize=\"-1\" data-aria-level=\"1\" data-aria-posinset=\"1\" data-font=\"Symbol\" data-leveltext=\"\" data-listid=\"2\" role=\"listitem\"> <p paraeid=\"{174a119a-f5eb-49ba-a7d0-39e1473fb4ed}{6}\" paraid=\"1853698559\">Voyageurs National Park offers boat tours. Reservations can be made <a href=\"https://www.recreation.gov/ticket/facility/233405?q=Voyageurs%20National%20Park%20Tours\">online</a> or by calling recreation.gov at 877-444-6777. </p> </li> <li aria-setsize=\"-1\" data-aria-level=\"1\" data-aria-posinset=\"2\" data-font=\"Symbol\" data-leveltext=\"\" data-listid=\"2\" role=\"listitem\"> <p paraeid=\"{174a119a-f5eb-49ba-a7d0-39e1473fb4ed}{22}\" paraid=\"351945797\">There are <a href=\"https://www.nps.gov/voya/getinvolved/commercial-services.htm\">commercial services</a> in the park that offer private boat tours, fishing charters, canoe rentals, etc. </p> </li> <li aria-setsize=\"-1\" data-aria-level=\"1\" data-aria-posinset=\"3\" data-font=\"Symbol\" data-leveltext=\"\" data-listid=\"2\" role=\"listitem\"> <p paraeid=\"{174a119a-f5eb-49ba-a7d0-39e1473fb4ed}{34}\" paraid=\"1268904134\">In the winter there are snowmobile trails and an ice road that leads to a sledding hill and the Ash River Visitor Center. Please check the current <a href=\"https://www.nps.gov/voya/planyourvisit/winter-ice-and-trail-conditions.htm\">winter trail conditions</a> for updates.  </p> </li> </ul> <p paraeid=\"{174a119a-f5eb-49ba-a7d0-39e1473fb4ed}{50}\" paraid=\"497856812\"><strong>Camping Details</strong>: </p> <ul role=\"list\"> <li aria-setsize=\"-1\" data-aria-level=\"1\" data-aria-posinset=\"1\" data-font=\"Symbol\" data-leveltext=\"\" data-listid=\"1\" role=\"listitem\"> <p paraeid=\"{174a119a-f5eb-49ba-a7d0-39e1473fb4ed}{54}\" paraid=\"567653490\">All Frontcountry  campsites are water-based, require a permit, and can only be accessed by boat. Frontcountry campsites are directly accessible by boat. </p> </li> <li aria-setsize=\"-1\" data-aria-level=\"1\" data-aria-posinset=\"2\" data-font=\"Symbol\" data-leveltext=\"\" data-listid=\"1\" role=\"listitem\"> <p paraeid=\"{174a119a-f5eb-49ba-a7d0-39e1473fb4ed}{61}\" paraid=\"135294242\">28 campsites on Kabetogama Lake. </p> </li> <li aria-setsize=\"-1\" data-aria-level=\"1\" data-aria-posinset=\"3\" data-font=\"Symbol\" data-leveltext=\"\" data-listid=\"1\" role=\"listitem\"> <p paraeid=\"{174a119a-f5eb-49ba-a7d0-39e1473fb4ed}{68}\" paraid=\"1698589334\">Reservations required. Reservations can be made <a href=\"https://www.recreation.gov/camping/campgrounds/249981?q=Voyageurs%20National%20Park%20Camping%20Permits\">online</a> or by calling by calling recreation.gov at 877-444-6777. </p> </li> </ul>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.6384900210241,
+          48.5015194217208
+        ]
+      },
+      "properties": {
+        "name": "Kettle Falls Hotel",
+        "notes": "Kettle Falls Hotel\nhttps://www.nps.gov/places/kettle-falls-hotel.htm\n\n<p>The history of Kettle Falls is as colorful as the red roof on the hotel. Constructed by timber cruiser Ed Rose and reputedly financed by Madame Nellie Bly, the Kettle Falls Hotel has accommodated and entertained travelers since 1913. Robert Williams bought the hotel in 1918 for $1,000 and four barrels of whiskey. From its somewhat scandalous past, grew a long tradition of hearty home cooking and hospitality served by the Williams family. This historic hotel was renovated by the National Park Service in 1987 so you, too, can enjoy a hearty meal, relax on the veranda or spend the night.<br /> <br /> <a href=\"http://www.kettlefallshotel.com/\">Kettle Falls Hotel</a> is the only lodging within Voyageurs National Park. Remotely located on the far eastern side of the Kabetogama Peninsula, it is approximately 15 miles from the nearest road and is only accessible by water.<br /> <br /> If you do not have a watercraft of your own, you can arrange a shuttle service with your hotel reservation through <a href=\"http://www.kettlefallshotel.com/\">Kettle Falls Hotel</a>.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.74480820051394,
+          48.450780702610224
+        ]
+      },
+      "properties": {
+        "name": "Namakan Lake",
+        "notes": "Namakan Lake\nhttps://www.nps.gov/places/namakan-lake.htm\n\n<p paraeid=\"{174a119a-f5eb-49ba-a7d0-39e1473fb4ed}{94}\" paraid=\"1102785822\">Namakan Lake can be accessed through the gateway communities of either <a href=\"https://kabetogama.com/\">Kabetogama Lake</a>, <a href=\"http://www.ashriver.com/\">Ash River</a> or <a href=\"https://www.visitcranelake.com/\">Crane Lake</a>. Namakan Lake is 16 miles long and 25,130 acres in size. It has 146 miles of shoreline, a maximum width of 7 miles, and a maximum depth of 150 ft. The park encompasses 12,323 acres of Namakan Lake. The name Namakan figures prominently in history. Name’ or Nah-mee means sturgeon in the Ojibwe language.  </p> <p paraeid=\"{174a119a-f5eb-49ba-a7d0-39e1473fb4ed}{139}\" paraid=\"332824163\">Namakan Lake provides great boating, camping, paddling, and fishing opportunities.  </p> <p paraeid=\"{174a119a-f5eb-49ba-a7d0-39e1473fb4ed}{145}\" paraid=\"1782066682\"><strong>Get out on the lake</strong>: </p> <ul role=\"list\"> <li aria-setsize=\"-1\" data-aria-level=\"1\" data-aria-posinset=\"1\" data-font=\"Symbol\" data-leveltext=\"\" data-listid=\"2\" role=\"listitem\"> <p paraeid=\"{174a119a-f5eb-49ba-a7d0-39e1473fb4ed}{149}\" paraid=\"192158828\">Voyageurs National Park offers boat tours. Reservations can be made <a href=\"https://www.recreation.gov/ticket/facility/233405?q=Voyageurs%20National%20Park%20Tours\">online</a> or by calling recreation.gov at 877-444-6777. </p> </li> <li aria-setsize=\"-1\" data-aria-level=\"1\" data-aria-posinset=\"2\" data-font=\"Symbol\" data-leveltext=\"\" data-listid=\"2\" role=\"listitem\"> <p paraeid=\"{174a119a-f5eb-49ba-a7d0-39e1473fb4ed}{165}\" paraid=\"1766047704\">There are <a href=\"https://www.nps.gov/voya/getinvolved/commercial-services.htm\">commercial services</a> in the park that offer private boat tours, fishing charters, canoe rentals, etc. Namakan Lake can be accessed by paddling or boating through either Kabetogama Lake or from Crane Lake into Sand Point Lake. </p> </li> </ul> <ul role=\"list\"> <li aria-setsize=\"-1\" data-aria-level=\"1\" data-aria-posinset=\"1\" data-font=\"Symbol\" data-leveltext=\"\" data-listid=\"2\" role=\"listitem\"> <p paraeid=\"{174a119a-f5eb-49ba-a7d0-39e1473fb4ed}{187}\" paraid=\"1391283828\">In the winter there are snowmobile trails in the area. Please check the current <a href=\"https://www.nps.gov/voya/planyourvisit/winter-ice-and-trail-conditions.htm\">winter trail conditions</a> for updates.  </p> </li> </ul> <p paraeid=\"{174a119a-f5eb-49ba-a7d0-39e1473fb4ed}{203}\" paraid=\"189378675\"><strong>Camping Details</strong>: </p> <ul role=\"list\"> <li aria-setsize=\"-1\" data-aria-level=\"1\" data-aria-posinset=\"2\" data-font=\"Symbol\" data-leveltext=\"\" data-listid=\"1\" role=\"listitem\"> <p paraeid=\"{174a119a-f5eb-49ba-a7d0-39e1473fb4ed}{207}\" paraid=\"2031681880\">All Frontcountry campsites are water-based, require a permit, and can only be accessed by boat. Frontcountry campsites are directly accessible by boat. </p> </li> <li aria-setsize=\"-1\" data-aria-level=\"1\" data-aria-posinset=\"3\" data-font=\"Symbol\" data-leveltext=\"\" data-listid=\"1\" role=\"listitem\"> <p paraeid=\"{174a119a-f5eb-49ba-a7d0-39e1473fb4ed}{214}\" paraid=\"2094793644\">42 campsites on Namakan Lake. </p> </li> <li aria-setsize=\"-1\" data-aria-level=\"1\" data-aria-posinset=\"4\" data-font=\"Symbol\" data-leveltext=\"\" data-listid=\"1\" role=\"listitem\"> <p paraeid=\"{174a119a-f5eb-49ba-a7d0-39e1473fb4ed}{221}\" paraid=\"1461685797\">Reservations required. Reservations can be made <a href=\"https://www.recreation.gov/camping/campgrounds/249981?q=Voyageurs%20National%20Park%20Camping%20Permits\">online</a> or by calling by calling recreation.gov at 877-444-6777. </p> </li> </ul>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.15710744403486,
+          48.58913746489022
+        ]
+      },
+      "properties": {
+        "name": "Rainy Lake",
+        "notes": "Rainy Lake\nhttps://www.nps.gov/places/rainy-lake.htm\n\n<p paraeid=\"{d1985516-4ff8-439a-9f7e-fe3e674eb47f}{230}\" paraid=\"355278081\">Rainy Lake is located near the gateway communities of <a href=\"https://www.rainylake.org/\">International Falls and Rainer</a>.  Rainy Lake is 60 miles long and 227,604 acres in size; it has 929 miles of shoreline. Only 1/3 or 36,418 acres of Rainy lake is within park boundaries. Within the park Rainy Lake has a maximum width of 12 miles, a maximum depth of 161 feet, an average depth of 35-feet, and 200 islands. Rainy Lake was often called Lac La Pluie by Native Americans and translates to “mist from the falls.” In 1688, French-Candian voyageur Jacques de Noyon passed through Rainy Lake and noted that it was called “Ouchichiq” by the Cree Indians. Explorer LeVerenrye called it “Tekamamihiouenne” in 1783. </p> <p paraeid=\"{07195cfa-c07f-4eb8-bc5b-a71850115e06}{44}\" paraid=\"969339517\">Rainy Lake provides great boating, camping, paddling, and fishing opportunities.  </p> <p paraeid=\"{07195cfa-c07f-4eb8-bc5b-a71850115e06}{48}\" paraid=\"1729494123\"><strong>Get out on the lake:</strong> </p> <ul role=\"list\"> <li aria-setsize=\"-1\" data-aria-level=\"1\" data-aria-posinset=\"1\" data-font=\"Symbol\" data-leveltext=\"\" data-listid=\"2\" role=\"listitem\"> <p paraeid=\"{07195cfa-c07f-4eb8-bc5b-a71850115e06}{56}\" paraid=\"1706041076\">Voyageurs National Park offers boat tours. Reservations can be made <a href=\"https://www.recreation.gov/ticket/facility/233405?q=Voyageurs%20National%20Park%20Tours\">online</a> or by calling recreation.gov at 877-444-6777. </p> </li> <li aria-setsize=\"-1\" data-aria-level=\"1\" data-aria-posinset=\"1\" data-font=\"Symbol\" data-leveltext=\"\" data-listid=\"2\" role=\"listitem\"> <p paraeid=\"{07195cfa-c07f-4eb8-bc5b-a71850115e06}{76}\" paraid=\"736759602\">There are <a href=\"https://www.nps.gov/voya/getinvolved/commercial-services.htm\">commercial services</a> in the park that offer private boat tours, fishing charters, canoe rentals, etc. </p> </li> <li aria-setsize=\"-1\" data-aria-level=\"1\" data-aria-posinset=\"2\" data-font=\"Symbol\" data-leveltext=\"\" data-listid=\"2\" role=\"listitem\"> <p paraeid=\"{07195cfa-c07f-4eb8-bc5b-a71850115e06}{90}\" paraid=\"1242965337\">In the winter there are snowmobile trails and an ice road. Please check the <a href=\"https://www.nps.gov/voya/planyourvisit/winter-ice-and-trail-conditions.htm\">current winter trail conditions</a> for updates.  </p> </li> </ul> <p paraeid=\"{07195cfa-c07f-4eb8-bc5b-a71850115e06}{108}\" paraid=\"914468453\"><strong>Camping Details: </strong></p> <ul role=\"list\"> <li aria-setsize=\"-1\" data-aria-level=\"1\" data-aria-posinset=\"3\" data-font=\"Symbol\" data-leveltext=\"\" data-listid=\"1\" role=\"listitem\"> <p paraeid=\"{07195cfa-c07f-4eb8-bc5b-a71850115e06}{112}\" paraid=\"753966262\">All Frontcountry campsites are water-based, require a permit, and can only be accessed by boat. Frontcountry campsites are directly accessible by boat. </p> </li> <li aria-setsize=\"-1\" data-aria-level=\"1\" data-aria-posinset=\"4\" data-font=\"Symbol\" data-leveltext=\"\" data-listid=\"1\" role=\"listitem\"> <p paraeid=\"{07195cfa-c07f-4eb8-bc5b-a71850115e06}{127}\" paraid=\"1833812769\">47 campsites on Rainy Lake. </p> </li> </ul> <ul role=\"list\"> <li aria-setsize=\"-1\" data-aria-level=\"1\" data-aria-posinset=\"1\" data-font=\"Symbol\" data-leveltext=\"\" data-listid=\"1\" role=\"listitem\"> <p paraeid=\"{07195cfa-c07f-4eb8-bc5b-a71850115e06}{142}\" paraid=\"595173730\">Reservations required. Reservations can be made <a href=\"https://www.recreation.gov/camping/campgrounds/249981?q=Voyageurs%20National%20Park%20Camping%20Permits\">online</a> or by calling by calling recreation.gov at 877-444-6777. </p> </li> </ul>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.16104706376449,
+          48.584366641120646
+        ]
+      },
+      "properties": {
+        "name": "Rainy Lake Ethnobotanical Garden",
+        "notes": "Rainy Lake Ethnobotanical Garden\nhttps://www.nps.gov/places/rainy-lake-ethnobotanical-garden.htm\n\n<p paraeid=\"{208c138a-94ad-41f0-a3bf-3dfa576e2227}{203}\" paraid=\"1018331264\">This one-acre garden of native plants restores a site that had been overtaken by invasive plants. In the 1990s, during dredging for the boat basin, invasive reed canary grass was transported to this location. Due to this plant’s prolific roots and early growing season, reed canary grass stole resources from vulnerable native plants, transforming this once bountiful site into a barren field. The term ‘ethnobotanical' refers to the cultural importance of the native plants and their uses to the local inhabitants. By the early 1700s the Ojibwe people had moved into the area that is now Voyageurs National Park and remain closely connected to this land. </p> <p paraeid=\"{208c138a-94ad-41f0-a3bf-3dfa576e2227}{235}\" paraid=\"1368233752\">Our lives depend on the environment in which we live. Each of us is affected by nature's rhythm whether it’s the availability of seasonal foods, changes in outdoor recreation, or the clothes we wear. For the Ojibwe, each season brought different plants used for food, medicine, ceremonies, and raw materials. </p> <p paraeid=\"{208c138a-94ad-41f0-a3bf-3dfa576e2227}{245}\" paraid=\"1401891255\">With interpretive signage and exhibits to guide you along the the scenic ADA accessible trail immerse yourself in the <a href=\"https://www.nps.gov/voya/planyourvisit/rainy-lake-ethnobotanical-garden.htm\">ethnobotanical garden.</a> Learn about the history of the local Ojibwe and the plants on which they relied while also pondering the significance of native plants in our daily lives. </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.47483063093388,
+          48.39281030421622
+        ]
+      },
+      "properties": {
+        "name": "Sand Point Lake",
+        "notes": "Sand Point Lake\nhttps://www.nps.gov/places/sand-point-lake.htm\n\n<p paraeid=\"{174a119a-f5eb-49ba-a7d0-39e1473fb4ed}{249}\" paraid=\"452742417\">Sand point Lake can be accessed closest through the gateway community of <a href=\"https://www.visitcranelake.com/\">Crane Lake</a>. Sand Point Lake is 8 miles long and 8,869 acres in size. It has 92 miles of shoreline, a maximum width of 5 miles, a maximum depth of 184 feet, and 115 islands. There are 5,179 acres and 66 islands of Sand Point Lake within the park. Sand Point Lake is located along the voyageurs route and is described by early explorers and fur traders. It is named for the large, sandy point on the Canadian side of the lake.  </p> <p paraeid=\"{e3588c11-5c26-438f-97df-cb94e7549fef}{23}\" paraid=\"1749057811\"><strong>Get out on the lake</strong>: </p> <ul role=\"list\"> <li aria-setsize=\"-1\" data-aria-level=\"1\" data-aria-posinset=\"1\" data-font=\"Symbol\" data-leveltext=\"\" data-listid=\"2\" role=\"listitem\"> <p paraeid=\"{e3588c11-5c26-438f-97df-cb94e7549fef}{27}\" paraid=\"1104724674\">There are <a href=\"https://www.nps.gov/voya/getinvolved/commercial-services.htm\">commercial services</a> in the park that offer private boat tours, fishing charters, canoe rentals, etc. </p> </li> </ul> <ul role=\"list\"> <li aria-setsize=\"-1\" data-aria-level=\"1\" data-aria-posinset=\"1\" data-font=\"Symbol\" data-leveltext=\"\" data-listid=\"2\" role=\"listitem\"> <p paraeid=\"{e3588c11-5c26-438f-97df-cb94e7549fef}{39}\" paraid=\"1155077513\">In the winter there are snowmobile trails in the area. Please check the current <a href=\"https://www.nps.gov/voya/planyourvisit/winter-ice-and-trail-conditions.htm\">winter trail conditions</a> for updates.  </p> </li> </ul> <p paraeid=\"{e3588c11-5c26-438f-97df-cb94e7549fef}{55}\" paraid=\"7900016\"><strong>Camping Details</strong>: </p> <ul role=\"list\"> <li aria-setsize=\"-1\" data-aria-level=\"1\" data-aria-posinset=\"2\" data-font=\"Symbol\" data-leveltext=\"\" data-listid=\"1\" role=\"listitem\"> <p paraeid=\"{e3588c11-5c26-438f-97df-cb94e7549fef}{59}\" paraid=\"953513133\">All Frontcountry campsites are water-based, require a permit, and can only be accessed by boat. Frontcountry campsites are directly accessible by boat. </p> </li> <li aria-setsize=\"-1\" data-aria-level=\"1\" data-aria-posinset=\"3\" data-font=\"Symbol\" data-leveltext=\"\" data-listid=\"1\" role=\"listitem\"> <p paraeid=\"{e3588c11-5c26-438f-97df-cb94e7549fef}{66}\" paraid=\"1103447427\">40 campsites on Sand Point Lake. </p> </li> <li aria-setsize=\"-1\" data-aria-level=\"1\" data-aria-posinset=\"4\" data-font=\"Symbol\" data-leveltext=\"\" data-listid=\"1\" role=\"listitem\"> <p paraeid=\"{e3588c11-5c26-438f-97df-cb94e7549fef}{77}\" paraid=\"1152666464\">Reservations required. Reservations can be made <a href=\"https://www.recreation.gov/camping/campgrounds/249981?q=Voyageurs%20National%20Park%20Camping%20Permits\">online</a> or by calling by calling recreation.gov at 877-444-6777. </p> </li> </ul>",
+        "icon": "red-pin-down.png"
+      }
+    }
+  ]
+}

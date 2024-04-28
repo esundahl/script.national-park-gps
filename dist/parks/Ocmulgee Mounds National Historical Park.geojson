@@ -1,0 +1,185 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.607178,
+          32.838701
+        ]
+      },
+      "properties": {
+        "name": "British Trading Post",
+        "notes": "British Trading Post\nhttps://www.nps.gov/places/british-trading-post.htm\n\nThe British Trading Post was established in 1690, and consisted of a five-sided stockade and two interior buildings. The longest wall paralleled the ancient trading path adjacent to it and had two openings, probably gates. The smallest ‘gate’ was five feet in length and possibly used for pedestrian traffic. The length of the second ‘gate’ suggests use for the pack horses loaded with incoming trading goods and outgoing deer skins.<br /> <br /> Most trading posts of this era had a building for trading, including merchandise storage and a warehouse for storing the deer skins prior to shipment. Excavations at the site revealed Indian construction techniques (wattle and daub) consistent with the practice of using Indian labor. The smaller building was approximately 11 x 11 feet and adjacent to the largest entrance. A second structure was in the southwestern area of the stockade and measured 15 x 25 feet.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.602319,
+          32.844033
+        ]
+      },
+      "properties": {
+        "name": "Civil War Earthworks",
+        "notes": "Civil War Earthworks\nhttps://www.nps.gov/places/civil-war-earthworks.htm\n\nThe Civil War earthworks were constructed after the Battle of Dunlap Hill, which took place July 30, 1864. The earthworks were used again that same year in November during the Battle of Walnut Creek. They are one of a few surviving Civil War earthworks in Macon.<br /> <br /> The Civil War earthworks are at the end of the Dunlap Trail, which is 1/4th of a mile long and begins across the park road from the Visitor Center. The earthworks are near the Dunlap Mound and Dunlap House, which is now a private residence. ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.606609,
+          32.836922
+        ]
+      },
+      "properties": {
+        "name": "Clay Pond",
+        "notes": "Clay Pond\nhttps://www.nps.gov/places/clay-pond.htm\n\nClay Pond is an important part of the wetlands here in Ocmulgee Mounds, and has abundant wildlife viewing opportunities, including birding. You may see egrets, osprey, herrings, and anhinga just to name a few. During the summer months you might also be able to see turtles or even an alligator sunning on one of the logs in the pond. Clay Pond is visible from the Opelofa Trail, the park road, and the Great Temple Mound.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.605283,
+          32.841504
+        ]
+      },
+      "properties": {
+        "name": "Cornfield Mound",
+        "notes": "Cornfield Mound\nhttps://www.nps.gov/places/cornfield-mound.htm\n\nThe Cornfield Mound is believed to have originally been a ceremonial cornfield. Later the mound was built over the field. During the excavation of the mound, archaeologists discovered charred corncobs and a layer of rolling topsoil in parallel rows under the mound. The parallel rows indicated a cultivated field used by the Mississippians; who not only grew corn, but also beans, squash, sunflowers, and tobacco in fields closer to the river. ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.603004,
+          32.845701
+        ]
+      },
+      "properties": {
+        "name": "Dunlap House",
+        "notes": "Dunlap House\nhttps://www.nps.gov/places/dunlap-house.htm\n\nIn 1856, Samuel S. Dunlap constructed this house as part of his 400-acre cotton plantation. On July 30, 1864, the Dunlap house was occupied by Union troops during the Battle of Dunlap Hill, part of Stoneman’s Raid. After the war, Captain Dunlap turned the plantation into a dairy farm.<br /> <br /> In the late 1930s the Dunlap house served as an office for the National Park Service staff of Ocmulgee Mounds National Historical Park. In 1940, the office was moved into the new administration building and the house was converted into the superintendent’s residence. In the early 1950s, the house was remodeled to its present appearance. Today, the Dunlap house is still used as a residence for park staff, and is one of the oldest houses in Macon.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.6050878001,
+          32.8410315997
+        ]
+      },
+      "properties": {
+        "name": "Earth Lodge",
+        "notes": "Earth Lodge\nhttps://www.nps.gov/places/ocmulgee-mounds-earth-lodge.htm\n\nVisitors experience a view of the ancient past when they enter the Earth Lodge, a reconstructed council chamber of the Mississippian culture. This building’s walls and ceiling were reconstructed in the late 1930’s by Civilian Conservation Corp and Works Project Administration crews under the direction of Archeologist A.R. Kelly. The clay floor within this building is the original floor built by native people. It is dated, using carbon dating techniques, at the year 1015. <br /> <br /> The Earth Lodge is a short walk from the Visitor Center parking lot.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.6107701,
+          32.8396279
+        ]
+      },
+      "properties": {
+        "name": "Funeral Mound",
+        "notes": "Funeral Mound\nhttps://www.nps.gov/places/funeral-mound.htm\n\nThe Funeral Mound was built as a burial ground for the elite members of the Mississippian society. It was built in seven stages and was originally nearly 50 ft. tall. Presently, it stands at only 20 ft. tall because of railroad construction in the 1870's. Please do not walk on this mound.<br /> <br /> The Funeral Mound is at the end of the park road, next to one of the park's parking lots. The parking lot is also the trailhead for the Funeral Loop trail, a half-mile loop through woods on the opposite side of the parking lot as the Funeral Mound.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.608116,
+          32.83678
+        ]
+      },
+      "properties": {
+        "name": "Great Temple Mound Complex",
+        "notes": "Great Temple Mound Complex\nhttps://www.nps.gov/places/great-temple-mound-complex.htm\n\nThe Great Temple Mound Complex consists of the two tallest mounds in the park: The Great Temple Mound and the Lesser Temple Mound. These mounds were created by the Mississippians who lived here in the 10<sup>th</sup> century CE. The flat-topped, pyramidal mounds were raised in layers at intervals over many years; and suggest intricate social relationships. The Great Temple Mound is where the village chief would have lived, and was built in four separate stages with clay steps going up the northern slope. It’s estimated that 10 million baskets of dirt, weighing about 60 pounds each, were used to build the 55-feet-tall mound! Today, there are steps that allow visitors to climb to the top of both mounds for a spectacular view of the surrounding area.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.6081290992,
+          32.8462904998
+        ]
+      },
+      "properties": {
+        "name": "McDougal Mound",
+        "notes": "McDougal Mound\nhttps://www.nps.gov/places/mcdougal-mound.htm\n\nThis mound is named after Captain Robert McDougal, who was in command of Fort Hawkins in 1809. McDougal died in 1809, and according to legend, was buried in a small Indian mound near the fort, but archaeologists did not find any human remains in this mound during the excavations in the 1930s. There were three smaller mounds between the McDougal Mound and the fort which were destroyed during expansion and construction of Macon.<br /> <br /> The McDougal Mound is located at the end of the McDougal Trail, which is accessed off of the Heritage Trail in the park.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.606834354,
+          32.84349653
+        ]
+      },
+      "properties": {
+        "name": "Mound X",
+        "notes": "Mound X\nhttps://www.nps.gov/places/mound-x.htm\n\nMound X is no longer visible. The first evidence of the mound's existence was in an 1806 survey of the area along with other mounds in the park. In the 1930s, an excavation was conducted in the mound area, which was about three feet high at the time. The excavators dug seven trenches and discovered an area of tan sand over a sod layer that in turn overlays a dark tan sand layer some 70 feet wide. The mound was constructed outside of the Mississippian village's fortifications, suggesting that the mound was built near the end of the Mississippian period after the village had expanded.<br /> <br />  ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.603865,
+          32.842595
+        ]
+      },
+      "properties": {
+        "name": "Ocmulgee Mounds Association Bookstore",
+        "notes": "Ocmulgee Mounds Association Bookstore\nhttps://www.nps.gov/places/ocmulgee-mounds-association-bookstore.htm\n\n<p>The park store is operated by the <a href=\"https://www.nps.gov/ocmu/getinvolved/supportyourpark/coopassociation.htm\">Ocmulgee Mounds Association</a>, an official non-profit partner of the National Park Service dedicated to supporting the educational mission of Ocmulgee Mounds National Historical Park. The park store has a wide range of books, magnets, postcards, and other items available for retail sale. These products complement the interpretive themes you experience when visiting the park. The park store is located at the park visitor center, or you can visit the online <a href=\"https://www.ocmulgeemounds.org/store\">park store</a>.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.6037387336,
+          32.8390109933
+        ]
+      },
+      "properties": {
+        "name": "Southeast Mound",
+        "notes": "Southeast Mound\nhttps://www.nps.gov/places/southeast-mound.htm\n\nThe Southeast Mound remains a bit of a mystery to archaeologists. Not much is known about the mound. Its oval shape suggests heavy damage from erosion and ploughing before the 1930s. Today, the mound measures three feet high. The mound was likely built near the end of the Mississippian period since it was built outside of the village fortifications; hinting that the village expanded beyond the originial fortifications over time.<br /> <br /> The Southeast Mound is located at the end of the Southeast Mound trail and at one end of the Bartram Trail (either the beginning or end, depending on which way you start).",
+        "icon": "red-pin-down.png"
+      }
+    }
+  ]
+}

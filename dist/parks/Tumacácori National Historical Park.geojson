@@ -1,0 +1,1190 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.050422,
+          31.568691
+        ]
+      },
+      "properties": {
+        "name": "Jesuit Church Footprint",
+        "notes": "Jesuit Church Footprint\nhttps://www.nps.gov/places/jesuit-church-foundation.htm\n\n<p paraeid=\"{ff2d1174-089a-4e83-b380-b7a346cec46d}{106}\" paraid=\"987433150\">Padre Eusebio Francisco Kino first celebrated Mass at Tumacácori in 1691 under a <em>ramada </em>(shade structure) built by the O'odham who were living here. At that time, the village was located on the other side of the Santa Cruz River. Although he chose Guevavi to be the <em>cabecera </em>(headquarters) where the priest would live, he and other priests continued to visit Tumacácori￼, sing the Mass, and tend to mission business. There is no record of an adobe church having been built while the village was on the east side of the river.  </p> <p paraeid=\"{ff2d1174-089a-4e83-b380-b7a346cec46d}{142}\" paraid=\"1803006028\">In November of 1751, a group of O'odham led by Captain General Luis Oacpicagigua (“Ahk-pee-ah-CUK-ya”) rebelled against the Spanish and Yoeme who had moved into their land. The resulting conflict caused the abandonment of mission communities for over a year. </p> <p paraeid=\"{ff2d1174-089a-4e83-b380-b7a346cec46d}{148}\" paraid=\"228914107\">The Spanish began construction of a <em>presidio</em>, a military outpost, at Tubac. When everyone returned, the village of Tumacácori was moved to the present location nearer to and on the same side of the river as the new presidio. </p> <p paraeid=\"{ff2d1174-089a-4e83-b380-b7a346cec46d}{160}\" paraid=\"213230342\">The outline that you see before you marks the footprint of the community’s first church, begun in the spring of 1753. The date of its completion is uncertain, but it is known to have been in use by the summer of 1757. </p> <p paraeid=\"{ff2d1174-089a-4e83-b380-b7a346cec46d}{166}\" paraid=\"1306051146\">This small church remained under the management of Jesuit priests until they were expelled in 1767. A year later the Franciscans arrived to carry on the mission project in the Pimería Alta. They continued to use this building until the new church was ready for use in 1822. </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.901991097,
+          31.410075503
+        ]
+      },
+      "properties": {
+        "name": "Los Santos Ángeles de Guevavi",
+        "notes": "Los Santos Ángeles de Guevavi\nhttps://www.nps.gov/places/los-santos-angeles-de-guevavi.htm\n\n<p>Guevavi is a name derived from the O'odham word for big spring, <em>ge'e vavi</em>, or big well, <em>gu waihe.</em> <br /> <br /> This settlement of <a href=\"https://www.nps.gov/articles/oodham.htm\">O'odham </a>people was first visited in January 1691 by Catholic Jesuit Fathers <a href=\"https://www.nps.gov/people/eusebio-francisco-kino.htm\">Kino</a> and Salvatierra. They established it as a mission, naming it San Gabriel de Guevavi. Subsequent missionaries called it San Rafael and San Miguel, resulting in the common historical name of Los Santos Ángeles de Guevavi.</p> <p>In 1701, Guevavi was established as a district headquarters and <a href=\"https:///www.nps.gov/tuma/historyculture/juan-de-san-martin.htm\">Juan de San Martin</a> was assigned as the first resident priest. A small church was started that same year. Father San Martin left in 1703. Fathers <a href=\"https:///www.nps.gov/tuma/historyculture/agustin-de-campos.htm\">Agustín de Campos</a> and <a href=\"https:///www.nps.gov/tuma/historyculture/luis-xavier-velarde.htm\">Luis Xavier Velarde</a> visited occasionally after that. <a href=\"https:///www.nps.gov/tuma/historyculture/juan-bautista-grazhoffer.htm\">Father Grazhoffer</a>, in 1732, reestablished Guevavi as <em>cabecera</em> and completed the church. Unfortunately, he died the following year - possibly of poison. <a href=\"https:///www.nps.gov/tuma/historyculture/joseph-garrucho.htm\">Father Garrucho</a>, resident priest from 1745 to 1751, recorded 148 burials, many from disease. In 1751, Father Garrucho contracted the building of a 15 foot by 50 foot church, the ruins of which still exist today.</p> <p>The first captain of the <a href=\"https:///www.nps.gov/tuma/historyculture/san-ignacio-de-tubac.htm\">Tubac Presidio</a>, <a href=\"https://www.nps.gov/tuma/learn/historyculture/captain-juan-tomas-belderrain.htm\">Juan Tómas de Beldarrain</a>, was wounded by Seri Indians and died at Guevavi. His body lies buried beneath the altar steps of the church. The <a href=\"https:///www.nps.gov/tuma/historyculture/maria-rosa-bezerra-nieto.htm\">mother</a> of <a href=\"https:///www.nps.gov/tuma/historyculture/juan-bautista-de-anza-ii.htm\">Captain Juan Bautista de Anza</a>, Beldarrain's replacement, is also buried in front of the altar.<br /> <br /> The <a href=\"https://www.nps.gov/tuma/learn/historyculture/pima-uprising-of-1751.htm\">Pima revolt of 1751</a>, later Apache raids, disease, and the removal of the <a href=\"https:///www.nps.gov/tuma/historyculture/jesuit-missionaries.htm\">Jesuits</a> in 1767 caused much disruption to mission life. The first <a href=\"https:///www.nps.gov/tuma/historyculture/franciscan-missionaries.htm\">Franciscan</a> priest, <a href=\"https:///www.nps.gov/tuma/historyculture/juan-crisostomo-gil-de-bernabe.htm\">Juan Crisóstomo Gil de Bernabé</a>, arrived in 1768 and began the mission with about fifty families. Unfortunately the Apaches attacked in 1769 and killed all but two of the few Spanish soldiers guarding the mission. In 1770 and 1771, the Apaches continued their attacks and the cabecera was moved to <a href=\"https:///www.nps.gov/tuma/historyculture/tumacacori.htm\">Tumacácori</a>. Antonio de los Reyes, Bishop of Sonora, on 6 July 1772 wrote a report on the condition of the missions in the Upper and Lower Pimeria Alta.</p> <p><em>\"The village of Guevavi is situated on a open and fertile plain beside an arroyo with good land where the Indians cultivate their individual fields of wheat, Indian corn, other crops, and one small community farm. The church on the inside is adorned with two altars and a small side chapel with paintings in gilded frames. In the sacristy are three chalices, two dishes with cruets, one pyx, a ciborium, a censer, and a baptismal shell - all silver - vestments of every kind and color and other ornaments for the altar and divine services. According to the census book, which I have here before me, there are nineteen married couples, five widowers, seven widows, twelve orphans, the number of should in all eighty-six.\" - translated by Kieran McCarty</em><br /> <br /> Guevavi was abandoned for the last time in 1775. After sitting abandoned since the 1770s, Guevavi's ruins were added to Tumacácori National Historical Park in 1990. The late Ralph Wingfield, a local rancher, donated the ruins to the <a href=\"http://www.americanarchaeology.org/\">Archaeological Conservancy</a> which, in turn, donated it to the National Park Service.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.050363572,
+          31.568312817
+        ]
+      },
+      "properties": {
+        "name": "Melhok Ki (ocotillo and mud house)",
+        "notes": "Melhok Ki (ocotillo and mud house)\nhttps://www.nps.gov/places/melhok-ki-ocotillo-and-mud-house.htm\n\n<p paraeid=\"{ff2d1174-089a-4e83-b380-b7a346cec46d}{214}\" paraid=\"1609292761\">The O'odham word for house is <em>ki </em>(“kee”). <em>Melhok </em>(“MOO-ro”) is the spiky plant known in Spanish and English as ocotillo. Before the arrival of adobe construction from Spain, the O’odham built rounded homes using mud applied over a wood and brush framework. When rain washed away some of the mud, a new coating was always close at hand. Over time, the O’odham adopted the square rooms favored by the Spanish.  </p> <p paraeid=\"{ff2d1174-089a-4e83-b380-b7a346cec46d}{228}\" paraid=\"463732423\">The home would also include a <em>wa:ato</em> (“WAH-ah-toe”), or mesquite ramada, and a brush enclosure for cooking. While the inside of the ki provided shelter on cold nights, many activities in the home took place under or around the wa:ato. </p> <p paraeid=\"{ff2d1174-089a-4e83-b380-b7a346cec46d}{246}\" paraid=\"2092952311\">Although many mission residents lived in the Spanish-style adobe rooms around the plaza in front of the church, some may have continued to live in traditional homes. </p> <p paraeid=\"{ff2d1174-089a-4e83-b380-b7a346cec46d}{252}\" paraid=\"1843745034\">The O’odham still build and use structures like this, made of mesquite timbers, ocotillo sticks, saguaro ribs, and mud. This one was built in 1997 by O’odham from the San Xavier community using traditional hand tools. When completed, it was dedicated by them to San Francisco Xavier, Father Kino’s patron saint. </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.050787,
+          31.568881
+        ]
+      },
+      "properties": {
+        "name": "Recorrido Autoguiado - Almacén",
+        "notes": "Recorrido Autoguiado - Almacén\nhttps://www.nps.gov/places/recorrido-autoguiado-almacen.htm\n\n<p paraeid=\"{b502ef00-846f-4aac-811f-88c57f6f33ad}{179}\" paraid=\"411040337\">El almacén fue una estructura de dos pisos y la parte más alta del complejo del convento. Los escalones amplios se dirigían al segundo piso, el cual era sostenido por vigas pesadas de pino. Los pinos fueron trasladados desde las alturas de las montañas de Santa Rita. Las vigas en si estaban sostenidas por dos pilares gruesos de adobe. Al lado derecho de la entrada hay depresiones donde se colocaban ollas grandes de barro llenas de semillas y granos, los cuales guardaban para sembrar la próxima temporada.<br /> <br /> Las sobras y los déficits del almacén eran la medida del éxito o el fracaso de la misión. Un almacén con buen suministro permitía que compraran ropa y otros recursos. Repisas vacías indicaban estrés.<br /> <br /> El almacén también encarnaba la nueva jerarquía corporativa de estilo europeo de la comunidad y contrastaba con el estilo de gobernación basado en consensos de los O’odham. Los alimentos cosechados se guardaban aquí y luego se distribuían semanalmente. Sin embargo, el portero del almacén podría negar el acceso al suministro. Acceso a la comida dependía de que cumplieran con las reglas de la misión.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.050822,
+          31.56851
+        ]
+      },
+      "properties": {
+        "name": "Recorrido Autoguiado - Baptisterio",
+        "notes": "Recorrido Autoguiado - Baptisterio\nhttps://www.nps.gov/places/recorrido-autoguiado-baptisterio.htm\n\n<p paraeid=\"{b34dbc52-88af-485d-b512-35b4e2ee37fe}{182}\" paraid=\"1999647577\">A la derecha de la entrada de la iglesia hay una pequeña sala donde se realizaban los bautismos. El cuarto está construido de ladrillos de adobe secados en el sol. Las paredes miden nueve pies de grueso con un núcleo de roca en el centro, lo cual sostiene el campanario arriba. La escalera (inaccesible para los visitantes por razones de seguridad) se dirige hacia el desván del coro, la sala de túnicas, y más arriba el campanario y el techo.<br /> <br /> El bautismo fue el primer sacramento realizado por los residentes de la misión. Los adultos participaban en la instrucción religiosa para aprender sobre la doctrina de la iglesia católica. Los bebés eran bautizados por los padres con el permiso y en la presencia de los papás. A todas las personas bautizadas se les daba al menos una madrina o padrino a quien le correspondería proporcionar apoyo espiritual. En el baptisterio, la religión católica se convirtió oficialmente en parte de la vida de los miembros de la comunidad.<br /> <br /> ¿Cómo se sintieron los nuevos conversos al ser bautizados? ¿Tenían aprensión? ¿Orgullo? ¿Tendrían que renunciar a sus creencias tradicionales o podrían practicar todas sus creencias espirituales simultáneamente? Quizá nunca lo sabremos. Sin embargo, una cosa es cierta, este cuarto fue un espacio de transición y cambio.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.050976089,
+          31.567675409
+        ]
+      },
+      "properties": {
+        "name": "Recorrido Autoguiado - Jardín del patio",
+        "notes": "Recorrido Autoguiado - Jardín del patio\nhttps://www.nps.gov/places/recorrido-autoguiado-jardin-del-patio.htm\n\n<p paraeid=\"{e8cf43ec-ca99-4c04-9730-98da37d7398f}{190}\" paraid=\"2105885073\">Las misiones ocuparon la tradición española en el diseño de sus jardines, el cual replica tradiciones arquitectónicas árabes, moriscas, y romanas. Un jardín español ideal incorporaba un patio amurallado con una fuente central y abundante sombra, fragancia, y color.<br /> <br /> Estos jardines incorporaban principalmente plantas importadas de Europa que fueron transportadas al nuevo mundo por los padres. Cada planta era valiosa: por importancia cultural, religiosa o simbólica, valor medicinal o alimenticio, y sombra o estética. La tranquilidad de estos espacios naturales unió a las comunidades españolas e indígenas para saborear valores culturales comunes: belleza y utilidad.<br /> <br /> El jardín del patio en Tumacácori fue construido en 1939 como parte de la construcción de la era “New Deal” del centro de visitantes. Su diseño, al igual que el del centro de visitantes, fue inspirado por otras misiones de la Pimería Alta. Participaron varias agencias, pero los diseños originales fueron realizados por dieciséis jóvenes que trabajaban por el Civilian Conservation Core (CCC). Se dejaron tres árboles de mezquite nativos en su lugar, los cuales continúan creciendo en el jardín. El olivo (Olea europaea), el granado ornamental (Punica granatum) y el árbol casto (Vitex agnus-castus) sobreviven hasta hoy. Cuando se tuvo que quitar el albaricoque (Prunus armeniaca) original, una semilla de ese árbol proporcionó su reemplazo.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.050934,
+          31.56787
+        ]
+      },
+      "properties": {
+        "name": "Recorrido Autoguiado - Modelo de la misión",
+        "notes": "Recorrido Autoguiado - Modelo de la misión\nhttps://www.nps.gov/places/recorrido-autoguiado-modelo-de-la-mision.htm\n\n<p paraeid=\"{1c834b0b-d601-4199-af2f-8ba4a5bc1fcf}{202}\" paraid=\"213701893\">El objetivo de la colonización española era simple: rehacer la nueva España en la imagen de vieja España. Todos los aspectos de la vida diaria estarían sujetos a transformación—comida, idioma, ropa, agricultura y religión. En el modelo de la misión se pueden ver viviendas y talleres de adobe, terrenos agrícolas, ganado y la acequia principal. Una comunidad misionera podría ser considerada como una academia de entrenamiento residencial donde los indígenas aprendieron y adoptaron una nueva forma de vida. El plan era que el sacerdote misionero siguiera adelante después de diez años, cuando la comunidad pudiera sostenerse. De hecho, pasarían más de 100 años antes del siglo XIX, cuando se colocaron los primeros ladrillos para la iglesia misionera que ves hoy.<br /> <br /> En solo unas décadas, Tumacácori paso de ser un pueblo O’odham a una visita fronteriza y luego una cabecera. Su gente también cambió. Los O’odham pasaron a ser conocidos como los “Pima” y los “Papago”, y sus tierras la Pimería Alta. Fueron bautizados con nombres españoles, se les dio ropa de estilo español, y se les asignaron trabajos españoles. Cuidaban ganado doméstico en lugar de cazar animales silvestres y regaban árboles frutales que fueron transportados a través del océano. <br /> <br /> Hoy, la gente O’odham todavía lleva el legado de la colonización. Debido a que ellos no grabaron sus historias en un idioma escrito, explorar su historia requiere empatía, inferencia y respeto por la tradición oral de los O’odham. Los descendientes de las comunidades de la misión todavía viven a nuestro alrededor.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.050975,
+          31.567945
+        ]
+      },
+      "properties": {
+        "name": "Recorrido Autoguiado - Plaza comunitaria",
+        "notes": "Recorrido Autoguiado - Plaza comunitaria\nhttps://www.nps.gov/places/recorrido-autoguiado-plaza-comunitaria.htm\n\n<p paraeid=\"{af5431f1-c59d-4fc5-a749-43cd0345de10}{255}\" paraid=\"1357869444\">En su apogeo de actividad, este espacio comunitario fue área de fondo para las vidas de casi 200 residentes de la misión. La gente caminaba desde aquí para asistir a los servicios de la iglesia, trabajar en el convento o ir a los campos, jardines y huertas entre la plaza y el río.<br /> <br /> La lomita larga y baja a la izquierda del sendero protege lo que queda de las viviendas de adobe. Las viviendas estaban conectadas en una línea que corre de norte a sur. La ramada a la derecha se parece a una cocina al aire libre de una familia de la misión. Tome un momento para imaginar cómo era antes la comunidad de la misión: los sonidos de animales, niños corriendo y jugando en la plaza, bueyes y carretas yendo y viniendo. Aquí hay un pueblo en acción.<br /> <br /> En la plaza se podían escuchar muchos idiomas diferentes. Algunos sacerdotes procedían de España, pero otros de Austria, Suiza, Italia o Baviera. Los O’odham tenían muchos dialectos. Los Yoeme, ahora conocidos como los Yaqui, hablaban un idioma totalmente diferente. Los Nde, ahora conocidos como Apache, compartían raíces lingüísticas con los Navajo.<br /> <br /> La proximidad de los vecinos en el núcleo de la misión contrasta a los pueblos tradicionales O’odham. Allí, hogares familiares generalmente pueden agruparse, pero no comparten paredes, espacios cerrados, ni otras instalaciones. La densidad de la comunidad misionera probablemente contribuyó a la propagación de enfermedades europeas como el sarampión, la viruela y el tifus.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.047038,
+          31.569477
+        ]
+      },
+      "properties": {
+        "name": "Recorrido Autoguiado - Sendero de Anza",
+        "notes": "Recorrido Autoguiado - Sendero de Anza\nhttps://www.nps.gov/places/recorrido-autoguiado-sendero-de-anza.htm\n\n<p paraeid=\"{786b25a4-b8c9-4a00-9eed-84dcbd982fb4}{2}\" paraid=\"1599692460\">El río Santa Cruz ha sido una carretera de comercio donde muchos han pasado. La gente prehistórica siguió el río para comerciar con vecinos. Los O’odham cultivaban tierras a lo largo del río, utilizando la llanura aluvial y los bancos bajos para sus cultivos. Más tarde, los misioneros y exploradores dependerían de estas redes existentes para colonizar el área.<br /> <br /> En 1775, una expedición de aproximadamente 240 personas y casi mil vacas y caballos siguieron este río durante la primera parte de su viaje a establecer el primer asentamiento europeo en la bahía de San Francisco. El Sendero Histórico Nacional Juan Bautista de Anza fue designado para conmemorar este movimiento masivo e importante de colonos a través de esta región.<br /> <br /> Hoy día, el Sendero Anza conserva esta historia importante y al mismo tiempo proporciona un espacio valioso para recrear al aire libre. En Tumacácori el sendero atraviesa hábitat que sostiene la más diversa población de aves migratorias fuera de los trópicos.<br /> <br /> Los excursionistas, corredores y ciclistas pueden usar el sendero. Incluso un paseo casual conecta a visitantes con los residentes y viajeros de la historia.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.049749,
+          31.568728
+        ]
+      },
+      "properties": {
+        "name": "Recorrido autoguiado - Acequia",
+        "notes": "Recorrido autoguiado - Acequia\nhttps://www.nps.gov/places/recorrido-autoguiado-acequia.htm\n\n<p paraeid=\"{d95ce187-fd8b-4f96-8174-0f8c9ce461b6}{9}\" paraid=\"1015097165\">Para los O’odham viviendo en el desierto, a las niñas les correspondía correr varios kilómetros todos los días en la mañana a traer agua a casa de su familia. Cuando se acercaba la temporada de las lluvias, las familias se mudaban a lugares donde canales poco profundos podrían dirigir el agua a sus campos. Los O’odham que vivían cerca de un río redirigían el agua del río directamente hacia los campos de maíz, frijoles, calabazas, agave y melones.<br /> <br /> Con los españoles llegaron las ideas europeas de irrigación. La estructura de ladrillos de adobe al frente de ti es parte de la acequia madre. Este canal principal traía agua del río Santa Cruz, aproximadamente una milla al sur, hacia la misión. El lado más angosto podría cerrarse, elevando el nivel del agua para satisfacer varias funciones. Como compuerta, dirigía el agua hacia la huerta al este. Como tanque de agua, era conveniente para llenar ollas de barro y llevar agua a las casas para beber y cocinar. Debido a que tenía una superficie roja pulida, probablemente también se usó como lavandería, o lugar para lavar ropa y platos, e incluso posiblemente para bañarse.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.0492069123486,
+          31.569410120208076
+        ]
+      },
+      "properties": {
+        "name": "Recorrido autoguiado - Bosque de mezquite",
+        "notes": "Recorrido autoguiado - Bosque de mezquite\nhttps://www.nps.gov/places/recorrido-autoguiado-bosque-de-mezquite.htm\n\n<p paraeid=\"{789655bc-7d2a-4a59-8c1a-83ee971079b9}{152}\" paraid=\"107753304\">Los bosques de mezquite alcanzan su máximo crecimiento cerca a los ríos del desierto o donde sus largas raíces pueden llegar al agua subterránea. Esta diversa comunidad de plantas sostiene a una gran biodiversidad de insectos, aves y mamíferos. Hoy, el bosque de mezquite de Tumacácori protege especies en peligro como el Cuclillo Pico Amarillo (Coccyzus americanus) y otras especies poco comunes. El bosque le proporcionó a los O’odham, y más tarde a los españoles, con leña, medicinas, y comida. <br /> <br /> Las flores de mezquite dan polen y néctar para fauna en la región. Las flores están agrupadas en espigas largas llamadas amentos. Cuando se fertilizan, las flores forman vainas verdes largas como de frijol. Crecen y maduran durante el verano, cambiando a color moreno claro con rayas rojas. Las vainas se pueden comer en todas las etapas de su crecimiento.  <br /> <br /> Los O’odham las comían como verdura cuando estaban verdes, y las vainas maduras las molían para obtener una harina dulce con sabor a nuez. La semilla es preferida por muchos animales, incluyendo las liebres, ratones, rata-canguro, rata montera y los jabalís.<br /> <br /> Dos especies de mezquite se encuentran en esta región, mezquite miel (Prosopis glandulosa) y mezquite terciopelo (Prosopis velutina). El mesquite terciopelo domina el paisaje de Tumacácori. Algunos teorizan que la introducción española de ganado aceleró la expansión de los bosques de mezquite en la Pimería Alta.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.051004,
+          31.569558
+        ]
+      },
+      "properties": {
+        "name": "Recorrido autoguiado - Calera",
+        "notes": "Recorrido autoguiado - Calera\nhttps://www.nps.gov/places/recorrido-autoguiado-calera.htm\n\n<p paraeid=\"{b502ef00-846f-4aac-811f-88c57f6f33ad}{207}\" paraid=\"487232660\">La mayoría de las estructuras de la misión están hechas de ladrillos de adobe. Tierra y agua se mezclan hasta formar una pasta espesa de barro. El barro se echa a formas rectangulares de madera hasta llenar bien el molde y luego se deja secar al sol. Este estilo eficiente que utiliza la tecnología de construcción con tierra se ha utilizado a través de miles de años, pero requiere mantenimiento constante. La humedad, ya sea del suelo o precipitación, deteriora los ladrillos de adobe, rendiendo la estructura inestable.<br /> <br /> Los españoles favorecían la aplicación de yeso de cal como capa protectora en sus edificios de adobe. Se recolectaron muchas toneladas de piedra caliza y se trasladaron a los hornos de cal (caleras) de la misión. Se encendía un fuego debajo de una parrilla de metal y las altas temperaturas “cocían” la piedra caliza durante varios días hasta que se podía machucar en un polvo fino. Luego, ese polvo se mezclaba con agua y arena para hacer una pasta que se podía aplicar en capas sobre las paredes de adobe.<br /> <br /> Recolección de piedra, mezclar yeso, y revestir las grandes estructuras requería el trabajo de muchos trabajadores. Para los O’odham, la calera probablemente representó un cambio significante en su estilo de vida. Anteriormente, vivían en un paisaje variable, en edificios que cambiaban con él. La visión del mundo europea priorizaba la permanencia y el desafío al desgaste y la erosión natural. Este cambio influiría como la gente de la región vivía y pensaba durante los siglos por venir.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.05078239716416,
+          31.568466511743388
+        ]
+      },
+      "properties": {
+        "name": "Recorrido autoguiado - Campanario",
+        "notes": "Recorrido autoguiado - Campanario\nhttps://www.nps.gov/places/recorrido-autoguiado-campanario.htm\n\n<p paraeid=\"{b502ef00-846f-4aac-811f-88c57f6f33ad}{235}\" paraid=\"1834891427\">El campanario se construyó de tres niveles: el baptisterio se encuentra en el primer piso, la sala de preparación para el coro en el segundo, y los arcos y campanas en el tercero. Los nichos de conchas de vieira evocan a Santiago de Compostela, el santo patrón de España, e indican un baptisterio debajo.<br /> <br /> Una campana colgaba debajo de cada uno de los cuatro arcos. Con imaginación, puedes ver a los niños y niñas O’odham parados en el suelo, jalando las cuerdas que cuelgan de la torre, señalando que empieza la misa. Los “cuarenta y nueves” en camino a la fiebre del oro de California, recordaron haber escuchado el sonido encantador de las campanas que sonaban a través del valle mientras se acercaban. Que le paso a esas campanas originales sigue siendo un misterio. Desde entonces han sido reemplazadas.<br /> <br /> Las campanas sonaban muchas veces al día, señalando a los residentes de la misión cuando comer, trabajar y orar. Sin embargo, construcción de la torre nunca se completó. Los orificios redondos marcan el lugar donde los andamios de construcción aún soportaban el trabajo en progreso. Aunque el campanario parece estar en ruinas, ha cambiado poco desde que se fueron los últimos residentes en 1848. Los ladrillos cocidos de los arcos del campanario nunca recibieron sus últimas capas de yeso. Y si había intensión de construir una cúpula sobre la torre, tal vez nunca lo sabremos.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.050827,
+          31.568783
+        ]
+      },
+      "properties": {
+        "name": "Recorrido autoguiado - Cementerio",
+        "notes": "Recorrido autoguiado - Cementerio\nhttps://www.nps.gov/places/recorrido-autoguiado-cementerio.htm\n\n<p paraeid=\"{b502ef00-846f-4aac-811f-88c57f6f33ad}{69}\" paraid=\"939951059\">Los O’odham y sus vecinos practicaban tradiciones complejas para los entierros. Los difuntos estaban bien vestidos al ser enterrados. Frecuentemente se incluían algunos artículos personales en la tumba, la cual se cubría con rocas. Los O’odham a veces quemaban artículos que habían pertenecido a la persona que falleció y le pedían al difunto que estuviera en paz y no volviera a molestar a los vivos. Hoy en día, continúa una mezcla de creencias y ceremonias tradicionales y católicas entre los O’odham.<br /> <br /> Los catorce nichos en las paredes que rodean el cementerio hubieran ocupado pinturas o esculturas católicas de las “Estaciones de la Cruz”. En el centro se encuentra la capilla mortuoria. El plan quizá era de cubrir el edificio circular con una cúpula. Una familia podía pasar tiempo con el ser querido que falleció en este cuarto antes del entierro. <br /> <br /> Aunque existen registros de los entierros de Tumacácori de 1755 hasta 1825, el primer entierro en este cementerio ocurrió en 1822. El primer cementerio estaba junto a la iglesia de la época de los jesuitas. Muchos de los que fallecieron fueron víctimas de las terribles epidemias de viruela, sarampión y tifus que arrasaron por las misiones. Algunos murieron durante los ataques de los Apaches. La mayoría de los entierros de Tumacácori fueron niños menores de cinco años.<br /> <br /> Aunque los registros describen casi 600 entierros en Tumacácori, cualquier evidencia de tumbas de la era de la misión fueron destruidas por el clima, ganado y vándalos. Familias que se mudaron a esta área después de que los residentes O’odham se fueron continuaron usando este cementerio para enterrar a sus difuntos. La pequeña Juanita Alegría, quien murió de influenza a los nueve meses en 1916, fue la última persona enterrada en Tumacácori.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.050422,
+          31.568691
+        ]
+      },
+      "properties": {
+        "name": "Recorrido autoguiado - Cimiento de la iglesia jesuita",
+        "notes": "Recorrido autoguiado - Cimiento de la iglesia jesuita\nhttps://www.nps.gov/places/recorrido-autoguiado-huella-de-la-iglesia-jesuita.htm\n\n<p paraeid=\"{ff2d1174-089a-4e83-b380-b7a346cec46d}{106}\" paraid=\"987433150\">El padre Eusebio Francisco Kino celebró por primera vez una misa en Tumacácori en 1691 debajo de una ramada (estructura para dar sombra) que fue construida por los O’odham que vivían allí. En ese momento, el pueblo estaba ubicado al otro lado del río Santa Cruz.<br /> <br /> Aunque eligió a Guevavi como la cabecera donde viviría el sacerdote, él y otros sacerdotes continuaron visitando a Tumacácori, cantando la misa y atendiendo los asuntos misioneros. No hay registro de que se haya construido una iglesia de adobe cuando el pueblo estaba en el lado este del río.<br /> <br /> En noviembre de 1751, un grupo de O’odham organizados por el capitán general Luis Oacpicagigua (“Ahk-pee-ah-CUK-ya”) se rebelaron contra los españoles y los Yoeme que se habían mudado a sus tierras. El conflicto resulto en el abandono de las comunidades misioneras durante más de un año.<br /> <br /> Los españoles comenzaron a construir un presidio, un puesto militar, en Tubac. Cuando todos regresaron, el pueblo de Tumacácori se trasladó a esta ubicación, la cual estaba más cerca y en el mismo lado del río que el nuevo presidio.<br /> <br /> El cimiento que vez enfrente de ti es la huella de la primera iglesia de la comunidad, la cual fue construida en la primavera de 1753. No se sabe la fecha en que se terminó de construir, pero se sabe que estuvo en uso en el verano de 1757.<br /> <br /> Esta pequeña iglesia permaneció bajo la dirección de los sacerdotes jesuitas hasta que fueron expulsados en 1767. Un año después llegaron los franciscanos para seguir el proyecto misionero en la Pimería Alta. Ellos continuaron usando este edificio hasta que la iglesia nueva estaba lista para uso en 1822.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.05031819460088,
+          31.568966041125584
+        ]
+      },
+      "properties": {
+        "name": "Recorrido autoguiado - Complejo del convento",
+        "notes": "Recorrido autoguiado - Complejo del convento\nhttps://www.nps.gov/places/recorrido-autoguiado-complejo-del-convento.htm\n\n<p paraeid=\"{d2ad0579-e333-4f41-8140-8efe89593b31}{86}\" paraid=\"2125705026\">Aunque comúnmente se confunde el término “convento”, el convento de Tumacácori no tiene nada que ver con una vivienda para monjas. El convento era la parte operativa de la misión. Funcionaba como un espacio comunitario de trabajo y un centro gubernamental. Hubiera sido un espacio viviente con los sonidos de gente hablando, trabajando, y moviéndose aquí y allá.<br /> <br /> Los cuartos se alinean en forma de U alrededor de un patio central. A lo largo de la sección al norte, donde todavía se puede ver una lomita elevada larga, las evidencias arqueológicas sugieren que aquí se encuentra una cocina, herrería, carpintería, una sala para tejer, área para trabajar el cuero de ganado, y molino para grano. El almacén es todo lo que queda de la sección del oeste del convento. La sección al sur incluía la habitación del sacerdote, oficinas, y una entrada arqueada que se dirigía al patio interior. El patio central probablemente estaba plantado con árboles, flores ornamentales, y plantas medicinales y para consumir. Una arcada, ósea un pasillo techado con arcos apoyados sobre columnas y bancos empotrados a lo largo, se encontraba frente a los cuartos. Este espacio sombreado hubiera sido un lugar atractivo y agradable para juntarse con y saludar a los vecinos. La arcada y el jardín del patio del centro de visitantes se construyeron para replicar esta experiencia.<br /> <br /> Para los residentes O’odham, el convento de la misión pudo haber sido un lugar donde la tradición y el cambio chocaban. Una multitud de herramientas, tecnologías y alimentos nuevos ahora estaban disponibles. En lugar de yuca o fibras de algodón, un tejedor podría usar lana. En lugar de hueso o piedra podían fabricar herramientas de metal. Pero la adopción de estos cambios tuvo un costo social y cultural.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.050898,
+          31.568508
+        ]
+      },
+      "properties": {
+        "name": "Recorrido autoguiado - Desván del coro",
+        "notes": "Recorrido autoguiado - Desván del coro\nhttps://www.nps.gov/places/recorrido-autoguiado-desvan-del-coro.htm\n\n<p paraeid=\"{b34dbc52-88af-485d-b512-35b4e2ee37fe}{144}\" paraid=\"1729835643\">Mirando hacia la puerta principal de la iglesia, se puede ver el lugar donde estaba el desván del coro. Fíjate en la entrada al balcón en lo alto de la pared a la izquierda y las bases deterioradas de los dos pilares que sostenían el arco debajo de él.<br /> <br /> La música jugo un papel importante en la vida de la misión, como siempre lo tuvo en la vida de los O’odham y Yoeme. Tumacácori probablemente tenía entre ocho y diez miembros del coro, tanto hombres como mujeres. También había músicos que tocaban instrumentos como oboe, flauta y cítara (guitarra), agregando floreo al sonido de las misas y otras ceremonias religiosas.<br /> <br /> Los cantantes necesitaban memorizar hasta veinticinco canciones para las misas, los servicios y las procesiones de la comunidad. A pesar de que pocos sabían leer o escribir, aprendieron e interpretaron himnos y kyries en latín, griego, español y O’odham.<br /> <br /> Si gustas puedes cantar unas barras de compás de tú canción favorita aquí. La excelente acústica del edificio no es un accidente. El sonido, junto con la altura, el color y la belleza del espacio, fueron diseñados para inspirar sentimientos de asombro y una sensación de poder y majestad.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.050886,
+          31.56847
+        ]
+      },
+      "properties": {
+        "name": "Recorrido autoguiado - Fachada de la iglesia",
+        "notes": "Recorrido autoguiado - Fachada de la iglesia\nhttps://www.nps.gov/places/recorrido-autoguiado-fachada-de-la-iglesia.htm\n\n<p paraeid=\"{b34dbc52-88af-485d-b512-35b4e2ee37fe}{74}\" paraid=\"491227897\">Los maestros de obra españoles utilizaban tradiciones arquitecturales de a través del mundo. Los capiteles en la parte extrema superior de las columnas son de estilo egipcio. El diseño del arco emplastado sobre la entrada principal es romano. Las cimas puntiagudas de los nichos de las estatuas del segundo nivel provienen de la influencia del Medio Oriente (morisco) y el norte de África. Incluso, la concha de vieira del nicho en el campanario es un símbolo del santo patrón de España, el cual tiene orígenes romanos.<br /> <br /> Las influencias españolas también llegaron a Tumacácori en forma de color. Las columnas al frente de la iglesia estaban pintadas rojas. Los capiteles amarillos con marcas negras. Las estatuas estaban situadas en frente de un fondo azul en sus nichos. El emplaste de yeso sobre la entrada principal fue tallado y pintado para que parecieran bloques de mármol naranja. Todavía se puede ver pintura original en la entrada principal y debajo de la cornisa bajo la ventana.<br /> <br /> El edificio monumental, con su combinación de colores brillantes y elementos decorativos, no se parecía a nada en la tradición O’odham. Anteriormente, características naturales como manantiales y montañas proveían la identidad y el nombre de una comunidad. Pero después de que los O’odham trabajaron durante más de veinte años para construir esta nueva cara para su pueblo, se convirtió en una característica del paisaje en sí misma y en un símbolo de la compleja historia de Tumacácori.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.050492,
+          31.568499
+        ]
+      },
+      "properties": {
+        "name": "Recorrido autoguiado - Fragmento del convento",
+        "notes": "Recorrido autoguiado - Fragmento del convento\nhttps://www.nps.gov/places/recorrido-autoguiado-fragmento-del-convento.htm\n\n<p paraeid=\"{ff2d1174-089a-4e83-b380-b7a346cec46d}{28}\" paraid=\"233572219\">El complejo del convento originalmente tenía tres secciones. Hoy, solo quedan dos fragmentos; el almacén de dos pisos en la esquina al noroeste, y estos cuartos. Justo enfrente de usted estaba la entrada arqueada que se dirigía hacia el patio del convento, adornado con una pequeña cúpula arriba. El padre también vivía en esta sección del complejo.<br /> <br /> Originalmente, Tumacácori fue solo una visita, una estación que misioneros católicos visitaban de vez en cuando. No fue hasta 1768 que Tumacácori se convirtió en una cabecera, una misión donde se encontraba un residente sacerdote. Esto probablemente causó una interrupción significante para los O’odham de Tumacácori. Con solo visitas ocasionales del sacerdote, podían continuar abiertamente con sus prácticas religiosas y tradiciones sociales. Ahora, bajo la mirada atenta de un sacerdote residente, tenían que ocultar esas prácticas para conformar con los valores españoles y católicos.   <br /> <br /> Esta estructura continuó sirviendo a la comunidad de Tumacácori mucho después de la era de la misión. A fines del siglo XIX y principios del siglo XX, esta sección del convento sirvió como residencia, escuela y luego como museo del nuevo Monumento Nacional de Tumacácori. El piso original de un cuarto, con diseño “Herringbone” (espina de pez), fue duplicado y protege el piso original debajo de él. Más que cualquier otra estructura aquí, se han tratado muchas técnicas de preservación para protegerlo.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.04943,
+          31.568931
+        ]
+      },
+      "properties": {
+        "name": "Recorrido autoguiado - Huerta",
+        "notes": "Recorrido autoguiado - Huerta\nhttps://www.nps.gov/places/recorrido-autoguiado-huerta.htm\n\n<p paraeid=\"{d95ce187-fd8b-4f96-8174-0f8c9ce461b6}{55}\" paraid=\"1091636858\">El saguaro y el cactus órgano, los cuales generalmente se encuentran en elevaciones más bajas, le proporcionaban a los O’odham un gusto anual de fruta dulce y jugosa. La cosecha de fruta del saguaro se celebra con baile, canto y cuentos, y la preparación y el tomar del vino de fruta de saguaro, esencial para llamar a las nubes que traigan las lluvias de verano.  <br /> <br /> El establecimiento de una misión trajo nuevos frutos, importados de Europa y considerados esenciales para una vida “civilizada” por los sacerdotes y colonos. Como agricultores, los O’odham les dieron la bienvenida a estos nuevos cultivos. El trigo, cultivado durante el invierno, proporcionaba una cosecha durante una temporada de recursos limitados. Los caballos, las vacas, las ovejas, las cabras y los pollos proporcionaron transporte, labor, fibra, y fuente conveniente de proteína.<br /> <br /> El complejo de la misión incluía un jardín y huerta amurallado, protegiendo el contenido de los ciervos y el ganado. Arboles nativos, incluyendo el cumbro (Celtis reticulata), crecen a lo largo de los cimientos de esas paredes de adobe. Dentro del espacio original de 1.86 ha (4.6 acres), la comunidad cultivó vegetales y árboles frutales. Los árboles favoritos trasladados desde Europa incluían durazno, granada, membrillo y higo. Tan recientemente como en 1938, los duraznos crecían al borde de la acequia de la misión, estabilizando el bordo y aprovechando la humedad que se filtraba a través de las paredes de barro.<br /> <br /> Los árboles frutales que ve aquí hoy crecieron de semillas y esquejes de árboles frutales de variedades antiguas – propagados de árboles antiguos que se encontraban en huertas y patios históricos en todo el sur de Arizona. La nueva huerta se dedicó en 2007.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.050339,
+          31.568289
+        ]
+      },
+      "properties": {
+        "name": "Recorrido autoguiado - Melhok ki",
+        "notes": "Recorrido autoguiado - Melhok ki\nhttps://www.nps.gov/places/recorrido-autoguiado-melhok-ki.htm\n\n<p paraeid=\"{ff2d1174-089a-4e83-b380-b7a346cec46d}{214}\" paraid=\"1609292761\">La palabra O’odham para casa es ki (“kee”). Melhok (“MOOro”) es la planta puntiaguda conocida en español e inglés como ocotillo. Antes de la llegada de la construcción con ladrillos de adobe de España, los O’odham construían casas redondas hechas de ramas y arbustos cubiertas con capas de barro. Cuando la lluvia remueve parte de la capa de barro, siempre había una nueva capa para aplicar. Con el tiempo, los O’odham adoptaron habitaciones cuadradas las cuales eran preferidas por los españoles.<br /> <br /> La casa también incluía un wa:ato (“WAH-ah-toe”), o ramada de mezquite, y un recinto de ramas para cocinar. El interior del ki daba refugio durante las noches frías, pero la mayoría de las actividades del hogar se llevaban a cabo debajo o alrededor del wa:ato. Aunque muchos residentes de la misión vivían en las habitaciones de adobe de estilo español en frente de la plaza y la iglesia, es posible que algunos hayan seguido viviendo en hogares tradicionales.<br /> <br /> Los O’odham todavía construyen y usan estructuras como esta. Es construida con troncos largos de mezquite, ramas de ocotillo, costillas de saguaro, y barro. Este fue construido en 1997 por los O’odham de la comunidad de San Xavier utilizando herramientas tradicionales. Cuando lo terminaron, fue dedicado a San Francisco Xavier, el santo patrón de padre Kino.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.050906023,
+          31.568608426
+        ]
+      },
+      "properties": {
+        "name": "Recorrido autoguiado - Nave",
+        "notes": "Recorrido autoguiado - Nave\nhttps://www.nps.gov/places/recorrido-autoguiado-nave.htm\n\n<p paraeid=\"{b34dbc52-88af-485d-b512-35b4e2ee37fe}{110}\" paraid=\"2101783567\">Pase por la entrada arqueada al salón central de la iglesia, la nave. En esta sala impresionante, los indígenas y colonos españoles rezaban y celebraban la misa todos los días. No había bancos. La gente se arrodillaba o se paraba durante los servicios. A lo largo de las paredes hay cuatro altares laterales donde se podrían colocar velas devocionales. En las paredes hay nichos donde estuvieron situadas estatuas vistosas de santos.<br /> <br /> A lo largo de las paredes interiores, la deterioración y el desgate debido al clima ha expuesto los ladrillos de adobe, los cuales fueron hechos por los residentes de la misión. Las paredes estaban pintadas de colores brillantes. Fueron decoradas por las manos firmes de artesanos indígenas y españoles.<br /> <br /> Con el amanecer del sol, las familias y las personas que vivían en la misión se dirigían a la nave para reunirse y comenzar el día. Es probable que hombres y mujeres fueron separados por sexos, la cual fue una costumbre de la época colonial. Aquí, los indígenas aprendieron y practicaron nuevas tradiciones religiosas en nuevos idiomas. Adoptaron un nuevo dios y establecieron una nueva perspectiva mundial bajo la dirección de los padres. En este espacio hubo lágrimas tanto de alegría como de tristeza. Hubo pérdida, celebración, aprendizaje y cambio.<br /> <br /> Poco después de que los residentes se fueran en 1848, los colonos locales se llevaron las vigas del techo para usarlos en otro lugar. Durante los siguientes setenta años, la nave estuvo expuesta y fue dañada por el clima. Los saqueadores, en busca de un tesoro jesuita que nunca existió, escarbaron agujeros en las paredes y los pisos.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.050747,
+          31.568
+        ]
+      },
+      "properties": {
+        "name": "Recorrido autoguiado - Ramada para cocinar",
+        "notes": "Recorrido autoguiado - Ramada para cocinar\nhttps://www.nps.gov/places/recorrido-autoguiado-ramada-para-cocinar.htm\n\n<p>Cuando obtuvo su independencia de España, la nueva nación de México no valoró a las misiones por su propósito original de convertir a los nativos a ciudadanos de España. Los sacerdotes nacidos en España fueron deportados, incluyendo el último sacerdote residente de Tumacácori en 1828. Las familias de la misión permanecieron aquí otros veinte años. Por razones que no grabaron en registros, los residentes de Tumacácori se mudaron en 1848. Las mujeres cargaron en sus espaldas las canastas con los preciosos santos a San Xavier del Bac. Dejaron atrás su iglesia, cementerio, campos, y hogares.<br /> <br /> Con la compra de Gadsden en 1854, Tumacácori se convirtió en parte de los Estados Unidos. El sistema de reservas para personas indígenas de los EE. UU. limitó el territorio legal de los O’odham a cinco reservaciones: las naciones de San Xavier, Tohono (desierto) O’odham, Gila River (Río Gila), Salt River (Río de Sal), y Ak-Chin Pima (Pima del Río).<br /> <br /> Hoy día, los Tohono O’odham y Pima son conocidos por sus canastas hermosas, tejidas con materiales recolectadas en los desiertos y ríos de su tierra natal. Los Yoeme (Yaqui) son famosos por sus tallas de madera y danzas religiosas, los Apache por sus abalorios. Muchos todavía hablan los idiomas de sus antepasados.<br /> <br /> Después de cientos de años de matrimonios, la creación de nuevas familias y la mezcla de tradiciones, resultó un grupo nuevo: el mestizaje de México. Sabores como chiles, carne asada y tortillas reflejan esta mezcla de orígenes. Compartir alimentos tradicionales, recién hechos en cocinas como esta, nos conecta con nuestra herencia compartida.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.045538,
+          31.569548
+        ]
+      },
+      "properties": {
+        "name": "Recorrido autoguiado - Río Santa Cruz",
+        "notes": "Recorrido autoguiado - Río Santa Cruz\nhttps://www.nps.gov/places/recorrido-autoguiado-rio-santa-cruz.htm\n\n<p paraeid=\"{789655bc-7d2a-4a59-8c1a-83ee971079b9}{90}\" paraid=\"841213529\">El Río Santa Cruz es una vía de agua internacional. Comienza en el valle de San Rafael, fluye al sur hacia México, luego cambia dirección de nuevo hacia los Estados Unidos. Aquí, fluye del sur al norte, y finalmente se une con el Río Gila. El río crea un hábitat esencial y un corredor de vida silvestre para especies amenazadas y en peligro de extinción.<br /> <br /> Donde la roca subterránea es menos profunda, el agua es forzada a la superficie. Los O’odham instalaron sus pueblos en estos lugares, para aprovechar de una fuente de agua segura. Los colonos hicieron lo mismo.<br /> <br /> El río proporcionaba no solo agua para beber y para regar los cultivos, sino también un hábitat para la red de vida compleja que sostenía los asentamientos humanos. Proporcionaba cada canasta, comida, articulo de ropa, medicina y práctica cultural. Literalmente, cada elemento que una persona tocaba a lo largo de su vida se conectaba directamente con el río Santa Cruz.<br /> <br /> Hoy día, el hábitat de álamos y sauces a lo largo del rio Santa Cruz es uno de los hábitats poco comunes en los Estados Unidos— y está en peligro de extinción. Las comunidades de plantas y animales del río y la calidad del agua están amenazadas por el cambio climático y el uso moderno de las tierras a su alrededor. La sección de río que fluye por Tumacácori consiste casi totalmente de aguas residuales que han pasado por un proceso de depuración. Este tratamiento se lleva a cabo en la Planta Internacional de Tratamiento de Aguas Residuales de Nogales en Río Rico, Arizona. Aunque esta agua suplementaria ha permitido la recuperación de poblaciones del Gila topminnow (Poeciliopsis occidentalis) en peligro de extinción, no es adecuada para el consumo humano. Evita el contacto con el agua en el rio.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.050845,
+          31.568702
+        ]
+      },
+      "properties": {
+        "name": "Recorrido autoguiado - Sacristía",
+        "notes": "Recorrido autoguiado - Sacristía\nhttps://www.nps.gov/places/recorrido-autoguiado-sacristia.htm\n\n<p paraeid=\"{b34dbc52-88af-485d-b512-35b4e2ee37fe}{248}\" paraid=\"28277239\">La sacristía funcionaba como la oficina del sacerdote. Aquí se encontraban las vestimentas sagradas y otros objetos para la misa. Un sacerdote pasaba muchas horas trabajando con la luz de velas en esta sala, grabando en papel los eventos importantes del día como bautismos, matrimonios y muertes. Los registros de la misión son un tesoro de información, pero requieren cierta habilidad para interpretarlos. Fueron escritos a mano con pluma y tinta negra en español que ahora es anticuado. Los detalles personales, especialmente las perspectivas de las mujeres, los miembros de la comunidad O’odham, Yoeme y Nde, son difíciles de extraer.<br /> <br /> Después que los habitantes de la misión abandonaron a Tumacácori por última vez en 1848, la iglesia se convirtió en refugio y la sacristía en su alojamiento principal. La protección de sus muros gruesos ofreció un refugio bienvenido a los que viajaban hacia California en busca de oro, y a los soldados y vaqueros mexicanos y estadounidenses. Estos peregrinos cansados grabaron sus nombres y la fecha de su visita no en los libros de registro de la misión, sino en las paredes. El techo oscurecido y los muchos nombres son prueba de los fuegos numerosos encendidos, cenas cocinadas, y cuentos contados en este espacio.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.050924,
+          31.568701
+        ]
+      },
+      "properties": {
+        "name": "Recorrido autoguiado - Santuario",
+        "notes": "Recorrido autoguiado - Santuario\nhttps://www.nps.gov/places/recorrido-autoguiado-santuario.htm\n\n<p paraeid=\"{b34dbc52-88af-485d-b512-35b4e2ee37fe}{206}\" paraid=\"2131508311\">El santuario se puede ver como el corazón de la iglesia. Todavía esta adornado con los restos descoloridos de pinturas, marcos de cuadros, y estarcidos originales. Aquí el sacerdote, vestido con vestimentas de colores brillantes, dirigía la misa. Durante las partes más sagradas de la ceremonia, el padre cantaba las palabras mirando hacia el altar, con su espalda a la congregación. Las escrituras se leían del púlpito, el cual fue reconstruido en la pared al este cerca al santuario. El servicio se realizaba en una combinación de latín, español y O’odham.<br /> <br /> Parados bajo la alta cúpula, se puede imaginar las decoraciones pintadas con colores brillantes en las paredes y los techos, la luz de las velas parpadeando, los parroquianos arrodillados en la nave, y el sonido de cantos, oraciones y canciones reverberando por el cuarto. La combinación de estas experiencias intentaba crear una distancia mental del trabajo arduo que ocurre justo afuera de las puertas.<br /> <br /> Las personas O’odham y Yoeme de la misión podrían haber encontrado extraños los rituales de la misa católica después de la primera introducción. La práctica de arrodillarse, ponerse de pie y luego arrodillarse nuevamente, durante una ceremonia realizada principalmente en lenguas extranjeras, fue sin duda confusa para algunos. Sin embargo, con el tiempo, estas costumbres extrañas se convirtieron en algo familiar y se mezcló con las creencias espirituales y religiosas de las comunidades indígenas. Hoy en día, muchas personas O’odham y Yoeme practican esta tradición religiosa singularmente entrelazada.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.05049312715911,
+          31.569625772100615
+        ]
+      },
+      "properties": {
+        "name": "Recorrido autoguiado - Terreno de la fiesta",
+        "notes": "Recorrido autoguiado - Terreno de la fiesta\nhttps://www.nps.gov/places/recorrido-autoguiado-terreno-de-la-fiesta.htm\n\n<p paraeid=\"{789655bc-7d2a-4a59-8c1a-83ee971079b9}{50}\" paraid=\"46664916\">La Fiesta de Tumacácori se lleva a cabo en esta área cada año durante el primer fin de semana (sábado y domingo) en diciembre. El evento empezó en 1965 con una misa católica dentro de la iglesia de la misión en honor al padre Eusebio Francisco Kino. En 1971 el evento anual incluyo la misa conmemorativa y actividades adicionales durante el resto del día. La Fiesta rápidamente creció y el espacio en frente de la iglesia no era adecuado así es que se movió a este terreno que había sido cultivado.<br /> <br /> Cada año, la Fiesta de Tumacácori reúne a personas de todas las culturas del Valle de Santa Cruz durante dos días de celebración. Cada cultura tradicional de Tumacácori está representada en música y baile. Se invita a las organizaciones locales sin fines de lucro a que proporcionen información tocante su organización y que vendan artículos artesanales y alimentos tradicionales. Artesanos que representan las culturas O’odham (Tohono O’odham y Pima), Yoeme (Yaqui), Nde (Apache), y tradiciones mexicanas y mexicoamericanas muestran sus habilidades y comparten sus culturas con personas de todo el mundo.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.050755,
+          31.568412
+        ]
+      },
+      "properties": {
+        "name": "Recorrido autoguiado - Tinas",
+        "notes": "Recorrido autoguiado - Tinas\nhttps://www.nps.gov/places/recorrido-autoguiado-tinas.htm\n\n<p paraeid=\"{31eac87c-4e70-4289-93a7-6b84ea6fe157}{32}\" paraid=\"1662381678\">Directamente frente a la estructura más importante, más simbólica y decorada de la misión hay tres tinas, las cuales su propósito sigue siendo un misterio.<br /> <br /> Las primeras excavaciones encontraron una superficie de cal hidráulico cubriendo las tinas, lo cual sugiere que estaban diseñadas para prevenir la penetración del agua. Sin embargo, los arqueólogos e historiadores no están de acuerdo tocante su función original. Algunos se refieren a ellos como cisternas. Otros teorizan que proporcionaban “cañería de agua interior” al convento. Otros miran hacia el campanario, el cual nunca fue terminado, como evidencias de que las tinas cumplían una función en la preparación de piedra caliza a yeso. <br /> <br /> Las paredes laterales son reconstrucciones. No sabemos si originalmente las paredes estaban construidas más arriba sobre el nivel de la tierra. ¿Cuál es tu teoría?</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.959527,
+          31.452512
+        ]
+      },
+      "properties": {
+        "name": "San Cayetano de Calabazas",
+        "notes": "San Cayetano de Calabazas\nhttps://www.nps.gov/places/san-cayetano-de-calabazas.htm\n\n<p>The name Calabazas first appears in a baptismal record of June 2, 1756. It was evidently established as a mission earlier that year when Father Francisco Xavier Pauer relocated at least seventy-eight Pimas to the site from their village of <em>Toacuquita</em>, a Spanish rendition of the Pima words \"<em>do'ag cugidaga</em>,\" meaning \"peaked mountain.\" This village was located closer to the Santa Cruz River. When the mission was moved up away from the river, it was given the name \"San Cayetano de Calabazas.\" <em>Calabazas</em> means \"squash\" or \"gourds\" in Spanish -- the name may be a reference to the wild \"coyote gourds\" that grow in the area or to the domestic squash cultivated by the O'odham. Records are scanty, but it is known that construction of the church was half complete in 1761 and was functional by 1773.</p> <p>Father Antonio de los Reyes on 6 July 1772 submitted a report on the condition of the missions in the Upper and Lower Pimeria Alta. This was his report on San Cayetano de Calabazas as translated by Father Kieran McCarty:</p> <blockquote dir=\"ltr\"> <p><em>The village of San Cayetano at Calabazas lies two leagues to the east of Guevavi on an open plain with good lands, but the Indians do little or no farming at all. There is no church nor house for the Missionary. According to the Census book, which I have here before me, there are seventeen married couples, four widowers, seven widows, the number of souls in all sixty-four.</em></p> </blockquote> <p>On October 17, 1775, Father Pedro Font said mass at Calabazas during the expedition to California led by Juan Bautista de Anza. The church, houses and the granary were set on fire during an Apache attack in 1777. Calabazas was abandoned in 1786 when the last of the O'odham left because of continuing problems with the Apaches.</p> <p>From 1807 to 1830, it was used as a farm for the Tumacácori mission. In 1808, several non-Indians moved into Calabazas and restored the chapel. But again, the Apaches attacked, set fire to the buildings and carried off the sacred vessels and vestments. In 1844, Calabazas was sold to Manuel Gándara, governor of Sonora. In 1853, Gandara had 6,000 head of stock and converted the church into a ranch house. After the Gadsden Purchase, the ranch house (the old Jesuit church) served a number of purposes -- customs house, post office, and dwelling. Fort Mason was established at Calabazas in 1864 by the California Volunteers. However, 300 of the 400 men got sick with malaria and so the fort was abandoned. By 1878, Calabazas was totally abandoned with only a roofless shell remaining.</p> <p>In 1960, Father Norman Whalen from Tombstone, Arizona recruited preservation volunteers who capped the walls and laid a cement foundation. The Arizona Historical Society took over site management and ownership in October of 1974. Like Guevavi, Calabazas was added to Tumacácori National Historical Park in 1990. Though Padre Kino never set foot there, the spirit of the master promoter of the Pimeria Alta is certainly present.<br /> <br /> Access to Calabazas is restricted to participants on <a href=\"https://www.nps.gov/thingstodo/see-more-missions.htm\">guided tours</a>.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.045538,
+          31.569548
+        ]
+      },
+      "properties": {
+        "name": "Santa Cruz River",
+        "notes": "Santa Cruz River\nhttps://www.nps.gov/places/santa-cruz-river.htm\n\n<p paraeid=\"{789655bc-7d2a-4a59-8c1a-83ee971079b9}{90}\" paraid=\"841213529\">The Santa Cruz River is an international waterway. It begins in the San Rafael Valley, flows southward into Mexico, then makes a U-turn back into the United States. Here, it flows from south to north, eventually joining the Gila River. The river creates essential habitat and a wildlife corridor for threatened and endangered species. </p> <p paraeid=\"{789655bc-7d2a-4a59-8c1a-83ee971079b9}{100}\" paraid=\"1636554113\">Where underlying bedrock slopes up, the water is forced to the surface. The O’odham situated their villages in these locations, known as “gaining reaches,” to take advantage of the reliable water source. Later settlers followed suit. </p> <p paraeid=\"{789655bc-7d2a-4a59-8c1a-83ee971079b9}{106}\" paraid=\"1780625867\">The river provided not only water for drinking and irrigation, but habitat for the complex web of life that supported human settlement. It contributed to every basket, meal, article of clothing, medicine, and cultural practice. Literally every item a person touched over the course of a lifetime connected back to the Santa Cruz River corridor. </p> <p paraeid=\"{789655bc-7d2a-4a59-8c1a-83ee971079b9}{122}\" paraid=\"1700881466\">Today, the cottonwood-willow environment along the Santa Cruz is one of the most rare and endangered habitats in the United States. The river‘s plant and animal communities and water quality are threatened by climate change and modern land use. The stretch of river that flows through Tumacácori is now composed almost entirely of treated effluent, released from the Nogales International Wastewater Treatment Facility in Rio Rico, Arizona. Although this supplemental water source has supported the return of the endangered Gila topminnow (<em>Poeciliopsis occidentalis</em>), it is not safe for human consumption. Avoid contact.  </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Santa Cruz Valley National Heritage Area",
+        "notes": "Santa Cruz Valley National Heritage Area\nhttps://www.nps.gov/places/santa-cruz-valley-national-heritage-area.htm\n\n<p paraeid=\"{e5eadcd5-68c1-4372-b385-a06e2ecca7bf}{229}\" paraid=\"8\">Designated by Congress in 2019, <a href=\"https://santacruzheritage.org/\">Santa Cruz Valley National Heritage Area (SCVNHA)</a> recognizes the rich history, natural and cultural resources, and heritage of the Santa Cruz River watershed. The Santa Cruz Valley Heritage Alliance is a non-profit local coordinating entity for the heritage area. It is an alliance of partners that includes local governments, non-profit organizations, and businesses that collaborate together in the region to further the mission of the heritage area.<br /> <br /> SCVNHA is a unique and diverse watershed in the southwestern U.S. that encompasses a mosaic of cultures and history. Living together in this region are Native American tribes with ancient roots to the area, the descendants of Spanish settlers who colonized the valley in the late 1600s, Mexican families who settled the area before the 1854 Gadsden Purchase made it part of the United States, and current generations of late nineteenth-century American pioneers who ventured into this borderland seeking new beginnings. <br />  </p> <p paraeid=\"{e5eadcd5-68c1-4372-b385-a06e2ecca7bf}{252}\" paraid=\"11\"><strong>The SCVNHA supports community-led efforts to:  </strong></p> <ul role=\"list\"> <li aria-setsize=\"-1\" data-aria-level=\"1\" data-aria-posinset=\"1\" data-font=\"Noto Sans Symbols\" data-leveltext=\"●\" data-listid=\"1\" role=\"listitem\"> <p paraeid=\"{6004c223-f64c-4bf9-bb61-a14236ff80f5}{3}\" paraid=\"12\">Increase heritage and nature tourism and grow tourism-related economic impact </p> </li> <li aria-setsize=\"-1\" data-aria-level=\"1\" data-aria-posinset=\"2\" data-font=\"Noto Sans Symbols\" data-leveltext=\"●\" data-listid=\"1\" role=\"listitem\"> <p paraeid=\"{6004c223-f64c-4bf9-bb61-a14236ff80f5}{14}\" paraid=\"13\">Develop heritage education programs </p> </li> <li aria-setsize=\"-1\" data-aria-level=\"1\" data-aria-posinset=\"3\" data-font=\"Noto Sans Symbols\" data-leveltext=\"●\" data-listid=\"1\" role=\"listitem\"> <p paraeid=\"{6004c223-f64c-4bf9-bb61-a14236ff80f5}{21}\" paraid=\"14\">Promote local foods, crafts, and other traditional products </p> </li> <li aria-setsize=\"-1\" data-aria-level=\"1\" data-aria-posinset=\"4\" data-font=\"Noto Sans Symbols\" data-leveltext=\"●\" data-listid=\"1\" role=\"listitem\"> <p paraeid=\"{6004c223-f64c-4bf9-bb61-a14236ff80f5}{28}\" paraid=\"15\">Riparian restoration </p> </li> </ul> <ul role=\"list\"> <li aria-setsize=\"-1\" data-aria-level=\"1\" data-aria-posinset=\"1\" data-font=\"Noto Sans Symbols\" data-leveltext=\"●\" data-listid=\"1\" role=\"listitem\"> <p paraeid=\"{6004c223-f64c-4bf9-bb61-a14236ff80f5}{35}\" paraid=\"16\">Rehabilitation of historic buildings </p> </li> <li aria-setsize=\"-1\" data-aria-level=\"1\" data-aria-posinset=\"2\" data-font=\"Noto Sans Symbols\" data-leveltext=\"●\" data-listid=\"1\" role=\"listitem\"> <p paraeid=\"{6004c223-f64c-4bf9-bb61-a14236ff80f5}{42}\" paraid=\"17\">Improve the quality of life for residents by instilling a sense of place </p> </li> </ul> <p paraeid=\"{6004c223-f64c-4bf9-bb61-a14236ff80f5}{49}\" paraid=\"18\">The region has an abundance of well-preserved historic and archaeological resources associated with the rich multicultural history, along with spectacular natural, scenic, and outdoor recreational resources. From museums to national, state, and local parks to historical sites, the SCVNHA has something for everyone. </p> <h2 paraeid=\"{6004c223-f64c-4bf9-bb61-a14236ff80f5}{111}\" paraid=\"28\"><strong>Historic Sites and Points of Interest: </strong></h2> <ul role=\"list\"> <li><a href=\"https://www.nps.gov/subjects/travelspanishmissions/san-xavier-del-bac-mission.htm\">San Xavier del Bac Mission</a><a href=\"https://www.nps.gov/subjects/travelspanishmissions/san-xavier-del-bac-mission.htm\">, National Historic Landmark</a></li> <li><a href=\"https://webcms.pima.gov/cms/One.aspx?pageId=1507\">Historic Canoa Ranch</a> </li> <li><a href=\"http://www.sanxaviercoop.org/\">San Xavier </a><a href=\"http://www.sanxaviercoop.org/\">Co-op</a><a href=\"http://www.sanxaviercoop.org/\"> Farm</a></li> <li><a href=\"https://azstateparks.com/tubac/\">Tubac Presidio State Historic Park</a></li> <li><a href=\"https://azstateparks.com/catalina/\">Catalina State Park</a></li> <li><a href=\"https://www.nature.org/en-us/get-involved/how-to-help/places-we-protect/patagonia-sonoita-creek-preserve/\">Patagonia-Sonoita Creek Preserve</a></li> <li><a href=\"https://www.desertmuseum.org/\">Arizona-Sonora Desert Museum</a></li> <li><a href=\"https://www.missiongarden.org/\">Mission Garden</a></li> <li><a href=\"https://tucsonpresidio.com/\">Presidio San Agustín del Tucson Museum</a></li> <li><a href=\"https://webcms.pima.gov/cms/one.aspx?portalId=169&pageId=1503\">Agua Caliente Park</a></li> </ul> <h2 paraeid=\"{6004c223-f64c-4bf9-bb61-a14236ff80f5}{180}\" paraid=\"37\"><strong>Notable People:  </strong></h2> <ul role=\"list\"> <li><a href=\"https://www.nps.gov/tuma/learn/historyculture/eusebio-francisco-kino.htm\">Eusebio Francisco Kino</a>    </li> <li><a href=\"http://www.tonation-nsn.gov/history-culture/\">Tohono O’odham Nation</a> </li> <li><a href=\"https://www.pascuayaqui-nsn.gov/index.php/culture-home\">Pascua Yaqui Tribe</a></li> </ul>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.049749,
+          31.568728
+        ]
+      },
+      "properties": {
+        "name": "Self-Guided Tour - Acequia",
+        "notes": "Self-Guided Tour - Acequia\nhttps://www.nps.gov/places/tour-acequia.htm\n\n<p paraeid=\"{d95ce187-fd8b-4f96-8174-0f8c9ce461b6}{9}\" paraid=\"1015097165\">For the O’odham living in the desert, it was the job of young girls to run each day in the early morning, often for many miles, to bring home water for their family. As the monsoon season approached, families would move to locations where shallow irrigation channels delivered rainwater to their fields.  </p> <p paraeid=\"{d95ce187-fd8b-4f96-8174-0f8c9ce461b6}{15}\" paraid=\"1374705230\">The O’odham living along streams channeled river water directly into rich fields of corn, beans, squash, agave, and melons. </p> <p paraeid=\"{d95ce187-fd8b-4f96-8174-0f8c9ce461b6}{25}\" paraid=\"693132084\">With the Spanish came European ideas of irrigation. The fired adobe structure before you is part of the <em>acequia madre</em>, the main irrigation channel that brought water to the mission from the Santa Cruz River a mile or more to the south. The narrowed end could be closed, raising the elevation of the water to serve various functions. As a <em>compuerta</em>, or diversion box, it turned water from the ditch into the orchard to the east. As a holding tank, it was convenient for filling <em>ollas</em>, earthen jars, to carry water back to the houses for drinking and cooking. Because it had a polished, red surface, it was probably also used as a <em>lavandería</em>, or place for washing clothes and dishes, and possibly even bathing.  </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.047038,
+          31.569477
+        ]
+      },
+      "properties": {
+        "name": "Self-Guided Tour - Anza Trail Junction",
+        "notes": "Self-Guided Tour - Anza Trail Junction\nhttps://www.nps.gov/places/tour-anza-trail-junction.htm\n\n<p paraeid=\"{786b25a4-b8c9-4a00-9eed-84dcbd982fb4}{2}\" paraid=\"1599692460\">The Santa Cruz River has long been a highway of trade and travel. Prehistoric people followed the river to trade with neighbors. The O’odham farmed along the river, using the floodplain and low banks to grow crops. Later, missionaries and explorers would rely on these existing networks to colonize the area.  </p> <p paraeid=\"{786b25a4-b8c9-4a00-9eed-84dcbd982fb4}{12}\" paraid=\"1803544016\">In 1775, an expedition of approximately 240 people and nearly a thousand head of livestock followed this river on the first part of a journey that would establish the first European settlement on the San Francisco Bay. The Juan Bautista de Anza National Historic Trail was designated to commemorate this massive and important movement of settlers across the nation. </p> <p paraeid=\"{786b25a4-b8c9-4a00-9eed-84dcbd982fb4}{22}\" paraid=\"1775176081\">Today the Anza Trail preserves this important history￼ while also providing valuable outdoor recreational space. At Tumacácori it passes through habitat that supports the most diverse migratory bird population outside of the tropics. Hikers, runners, and riders can travel along its route. Even a casual stroll connects visitors to the residents and travelers of history.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.050822,
+          31.56851
+        ]
+      },
+      "properties": {
+        "name": "Self-Guided Tour - Baptistry",
+        "notes": "Self-Guided Tour - Baptistry\nhttps://www.nps.gov/places/tour-baptistry.htm\n\n<p paraeid=\"{b34dbc52-88af-485d-b512-35b4e2ee37fe}{182}\" paraid=\"1999647577\">To the right of the church entrance is a small room where baptisms were performed. The room is composed of sun-dried adobe walls, nine feet thick with an inner rock core, which support the bell tower above. The stairway (inaccessible to visitors for reasons of safety) leads to the choir loft, the robing room, and beyond to the bell tower and roof.  </p> <p paraeid=\"{b34dbc52-88af-485d-b512-35b4e2ee37fe}{188}\" paraid=\"499547252\">Baptism was the first major sacrament undertaken by mission residents. Adults participated in religious instruction in order to learn about the doctrine of the Catholic church. Infants were baptized by padres with the permission and presence of the parents. All newly baptized individuals were given at least one godmother or godfather whose job it was to provide spiritual support. In the baptistry, Catholic religion officially became a part of the lives of community members.  </p> <p paraeid=\"{b34dbc52-88af-485d-b512-35b4e2ee37fe}{194}\" paraid=\"1843341817\">How did the new converts undergoing baptism feel? Were they apprehensive? Proud? Would they have to give up their traditional beliefs, or could they practice all of their spiritual beliefs simultaneously? We may never know. One thing is certain, though, this room was a space of transition and change. </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.05078239716416,
+          31.568466511743388
+        ]
+      },
+      "properties": {
+        "name": "Self-Guided Tour - Bell Tower",
+        "notes": "Self-Guided Tour - Bell Tower\nhttps://www.nps.gov/places/tour-church-bell-tower.htm\n\n<p paraeid=\"{b502ef00-846f-4aac-811f-88c57f6f33ad}{235}\" paraid=\"1834891427\">The bell tower was built in three stories: on the ground floor lies the baptistry, on the second level the preparation room for the choir, and on the third level the arches and bells. The scallop shell niches harken to Saint James, Santiago de Compostela, the patron saint of Spain, and indicate a baptistry below. </p> <p paraeid=\"{b502ef00-846f-4aac-811f-88c57f6f33ad}{245}\" paraid=\"776149335\">A bell hung under each of the four arches. With imagination, you can see young O’odham boys and girls standing on the ground below, pulling on ropes dangling from the tower, signaling for Mass to begin. Forty-niners, en route to the California gold rush, recalled the haunting sound of the bells ringing through the river valley as they approached. The whereabouts of those original bells remains a mystery. They have since been replaced. </p> <p paraeid=\"{ff2d1174-089a-4e83-b380-b7a346cec46d}{6}\" paraid=\"1375932279\">The bells rang many times each day, instructing mission residents when to eat, work, and pray. Yet the tower was never completed; round holes mark where construction scaffolding still supported the work in progress. Although the bell tower appears to be in ruin, it has changed little since the last residents left in 1848. The fired bricks of the bell arches never received their finishing coats of plaster. And whether a dome was intended to sit atop the tower we may never know.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.050827,
+          31.568783
+        ]
+      },
+      "properties": {
+        "name": "Self-Guided Tour - Cemetery",
+        "notes": "Self-Guided Tour - Cemetery\nhttps://www.nps.gov/places/tour-cemetery.htm\n\n<p paraeid=\"{b502ef00-846f-4aac-811f-88c57f6f33ad}{69}\" paraid=\"939951059\">The O’odham and their neighbors had complex traditions for burials. The dead were dressed well, often provided with some personal items, ￼buried ￼in a cavity, and covered with rocks. The O’odham would sometimes burn items that had belonged to a person who died, and would ask the dead to remain at peace, not come back to disturb the living. A blend of traditional and Catholic beliefs and ceremonies continue among the O’odham today. </p> <p paraeid=\"{b502ef00-846f-4aac-811f-88c57f6f33ad}{99}\" paraid=\"530857859\">The fourteen niches in the walls surrounding the cemetery would have held paintings or sculptures of the Catholic “Stations of the Cross.” ￼In the center of the cemetery lies the round mortuary chapel. The plan may have been to cover the round building with a dome – if so, it was never completed. ￼￼A family might spend time with their deceased loved one in this room before burial. </p> <p paraeid=\"{b502ef00-846f-4aac-811f-88c57f6f33ad}{129}\" paraid=\"1498224786\">Many of the dead were victims of the terrible epidemics ￼￼of smallpox, measles, and typhus that swept through the missions. A few were killed during Apache raids. The majority of Tumacácori’s burials were of children under the age of five.  </p> <p paraeid=\"{b502ef00-846f-4aac-811f-88c57f6f33ad}{155}\" paraid=\"1902153843\">While mission records describe nearly 600 burials at Tumacácori, most took place in the previous cemetery, outside these walls. Any evidence of mission-era graves was destroyed long ago by weather, cattle, and vandals. Families who moved into the area after the O’odham residents left continued to use this cemetery to bury their dead. ￼Little Juanita Alegria, who died of influenza at the age of nine months in 1916, was the last person buried at Tumacácori. </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.050898,
+          31.568508
+        ]
+      },
+      "properties": {
+        "name": "Self-Guided Tour - Choir Loft",
+        "notes": "Self-Guided Tour - Choir Loft\nhttps://www.nps.gov/places/tour-choir-loft.htm\n\n<p paraeid=\"{b34dbc52-88af-485d-b512-35b4e2ee37fe}{144}\" paraid=\"1729835643\">Facing the front door of the church, you can see where the choir loft once stood. Notice the entrance to the balcony high on the left wall, and the ruined bases of the two pillars that supported the arch below it.  </p> <p paraeid=\"{b34dbc52-88af-485d-b512-35b4e2ee37fe}{150}\" paraid=\"2105187361\">Music played an important role in mission life. Tumacácori likely supported anywhere from eight to ten choir members, both men and women, at a given time. There were also musicians who played instruments such as oboe, flute, and zither (guitar), adding flourish to the sound of the Masses and other religious ceremonies held here.  </p> <p paraeid=\"{b34dbc52-88af-485d-b512-35b4e2ee37fe}{164}\" paraid=\"763209771\">Singers needed to memorize up to twenty-five songs for the community’s Masses, services, and processions. Despite the fact that few could read or write, they learned and performed hymns and kyries in Latin, Greek, Spanish, and O’odham. You are welcome to sing a few bars of your favorite song here. The excellent acoustics of the building are no accident - the sound, along with the height, color, and beauty of the space, were designed to inspire feelings of awe, and a sense of power and majesty. </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.050975,
+          31.567945
+        ]
+      },
+      "properties": {
+        "name": "Self-Guided Tour - Community Plaza",
+        "notes": "Self-Guided Tour - Community Plaza\nhttps://www.nps.gov/places/tour-community-plaza.htm\n\n<p paraeid=\"{af5431f1-c59d-4fc5-a749-43cd0345de10}{255}\" paraid=\"1357869444\">At its peak of activity, this bustling community space served as the backdrop to the lives of nearly 200 mission residents. People walked from here to attend church services, engage in work in the convento, or to go into the fields, gardens, and orchards between the plaza and the river.</p> <p paraeid=\"{b34dbc52-88af-485d-b512-35b4e2ee37fe}{10}\" paraid=\"701505243\">The long, low mound to the left of the sidewalk protects what remains of adobe residences connected in a line running north to south. The ramada to the right resembles a mission family’s outdoor cooking and living area. Take a moment to imagine the mission community as it once was – the sounds of animals, children running and playing in the plaza, oxen and carts coming and going. Here is a village at work.  </p> <p paraeid=\"{b34dbc52-88af-485d-b512-35b4e2ee37fe}{16}\" paraid=\"1345166446\">Many different languages could be heard in the plaza. Some priests came from Spain, but others from Austria, Switzerland, Italy, or Bavaria. The O’odham had many dialects. The Yoeme, now referred to as the Yaqui, spoke a totally separate language. The Nde, now called the Apache, shared linguistic roots with the Navajo. </p> <p paraeid=\"{b34dbc52-88af-485d-b512-35b4e2ee37fe}{52}\" paraid=\"1369178426\">The proximity of neighbors in the mission core differs from traditional O’odham villages. There, family households might be generally clustered together, but did not share walls, enclosed spaces, or other facilities. The density of the closely-packed mission community likely  contributed to the spread of European diseases such as measles, smallpox, and typhus. </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.05031819460088,
+          31.568966041125584
+        ]
+      },
+      "properties": {
+        "name": "Self-Guided Tour - Convento Complex",
+        "notes": "Self-Guided Tour - Convento Complex\nhttps://www.nps.gov/places/tour-convento-complex.htm\n\n<p paraeid=\"{d2ad0579-e333-4f41-8140-8efe89593b31}{86}\" paraid=\"2125705026\">Although commonly confused with the term \"convent,\" Tumacácori's convento had nothing to do with housing for nuns. The convento was the operational part of the mission. It functioned as a shared, community workspace and governmental center. It would have been alive with the sounds of people talking, working, and moving about. The rooms aligned in a U-shape around a central courtyard. Along the north wing, where a long raised mound is still visible today, archeological evidence suggests a kitchen, ironworker's shop, carpentry shop, weaving room, leather shop, and grain grinding mill. The storeroom is all that remains of the west row of the convento. The south wing included the priest’s quarters, other office spaces, and an arched entrance to the interior courtyard. The central courtyard was likely planted with trees, ornamental flowers, and medicinal and edible plants. An arcade – a covered walkway lined with arches and built-in benches – ran in front of the rooms. It would have been a shady, inviting, and pleasant place to meet and greet one’s neighbors. The arcade and courtyard garden of the visitor center were built to replicate this experience.  </p> <p paraeid=\"{d2ad0579-e333-4f41-8140-8efe89593b31}{114}\" paraid=\"1272546086\">For its O’odham residents, the mission’s convento may have been a place where tradition and change clashed. A host of new tools, technologies, and food sources had become available. Instead of yucca or cotton fibers, a weaver could use wool. Instead of bone or stone, one could craft tools from metal. But adopting these changes came at a social and cultural cost.  </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.050526316,
+          31.568510424
+        ]
+      },
+      "properties": {
+        "name": "Self-Guided Tour - Convento Fragment",
+        "notes": "Self-Guided Tour - Convento Fragment\nhttps://www.nps.gov/places/tour-convento-fragment.htm\n\n<p paraeid=\"{ff2d1174-089a-4e83-b380-b7a346cec46d}{28}\" paraid=\"233572219\">Only portions of the original three-sided convento complex remain today: the two-story storeroom at the northwest corner, and this fragment. Just ahead of you was the arched entrance into the convento courtyard, graced by a small dome above. The priest also lived in this wing of the complex.  </p> <p paraeid=\"{ff2d1174-089a-4e83-b380-b7a346cec46d}{38}\" paraid=\"2037684198\">Originally, Tumacácori was only a visita – a visiting station for Catholic missionaries. It wasn’t until 1768 that Tumacácori became a cabecera – a mission that housed a resident priest. This likely caused a significant disturbance for the O’odham of Tumacácori. With only occasional visits from the priest, they could openly continue their traditional religious and social practices. Now, under the watchful eye of a resident priest, they had to conceal those practices in order to model Spanish and Catholic values.  </p> <p paraeid=\"{ff2d1174-089a-4e83-b380-b7a346cec46d}{72}\" paraid=\"1213708685\">This structure continued to serve the Tumacácori community long after the mission era. In the late 1800s and early 1900s, this remaining section of the convento served as a residence, a school, and later housed the museum of the fledgling Tumacácori National Monument. A herringbone-pattern floor currently duplicates and protects the original floor beneath one room. More than any other structure here it has seen many preservation techniques tried to protect it. </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.050747,
+          31.568
+        ]
+      },
+      "properties": {
+        "name": "Self-Guided Tour - Cooking Ramada",
+        "notes": "Self-Guided Tour - Cooking Ramada\nhttps://www.nps.gov/places/tour-cooking-ramada.htm\n\n<p>Once it gained its independence from Spain, the new nation of Mexico no longer valued the missions for their original purpose of converting native people into European-style citizens. Priests born in Spain were deported, including Tumacácori’s last resident priest in 1828. The mission families stayed on for another twenty years. For reasons that they did not record, in 1848 the residents of Tumacácori moved away, the women carrying their precious <em>santos </em>(saint statues) on their backs in burden baskets to San Xavier del Bac. They left behind their church, cemetery, fields, and homes.<br /> <br /> With the Gadsden Purchase in 1854, Tumacácori became part of the United States. The U.S. reservation system eventually limited the legal territory of the O’odham to five sister reservations: the San Xavier and Tohono (desert) O’odham, and Gila River, Salt River, and Ak-Chin Pima (river) nations.<br /> <br /> Today, the Tohono O’odham and Pima are known for their beautiful basketry, woven using materials collected from the deserts and rivers of their homeland. The Yoeme (Yaqui) are famous for their carvings and religious dance, the Apache for their beadwork. Many still speak the languages of their ancestors.<br /> <br /> After hundreds of years of mixing, marrying, creating new families, and blending traditions, a new people emerged: the <em>mestizaje </em>of Mexico. Flavors like chiles, carne asada, and tortillas reflect this mixing of origins. Sharing traditional foods—made fresh in kitchens such as this one—connects us to each other and to our shared heritage.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.050967,
+          31.567643
+        ]
+      },
+      "properties": {
+        "name": "Self-Guided Tour - Courtyard Garden",
+        "notes": "Self-Guided Tour - Courtyard Garden\nhttps://www.nps.gov/places/tour-courtyard-garden.htm\n\n<p paraeid=\"{e8cf43ec-ca99-4c04-9730-98da37d7398f}{190}\" paraid=\"2105885073\">Missions took their garden design from Spanish tradition, which itself borrowed from Arabic, Moorish, and Roman architectural tradition. An ideal Spanish garden incorporated a walled courtyard with a central fountain that promoted shade, fragrance, and color.  </p> <p paraeid=\"{e8cf43ec-ca99-4c04-9730-98da37d7398f}{196}\" paraid=\"1499976238\">These gardens featured mostly plants imported from Europe and brought to the New World by the padres. They were each valuable in their own way—for cultural, religious, or symbolic importance, medicinal or food value, shade, or aesthetics. The tranquility of these natural spaces brought the Spanish and indigenous communities together to savor common cultural values: beauty and utility.   </p> <p paraeid=\"{e8cf43ec-ca99-4c04-9730-98da37d7398f}{210}\" paraid=\"577743043\">The courtyard garden at Tumacácori was built in 1939 as part of the visitor center's “New Deal” era construction. Its design, like that of the adjacent visitor center, was inspired by other missions in the Pimería Alta. Several agencies were involved, but the original plantings were carried out by sixteen young men employed by the Civilian Conservation Corps (CCC). Three native mesquite trees were left in place and continue to grow in the garden. The olive, ornamental pomegranate, and monk’s pepper trees survive to this day. When the original apricot tree had to be removed, a seed from that tree provided its replacement.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.050886,
+          31.56847
+        ]
+      },
+      "properties": {
+        "name": "Self-Guided Tour - Façade",
+        "notes": "Self-Guided Tour - Façade\nhttps://www.nps.gov/places/tour-facade.htm\n\n<p paraeid=\"{b34dbc52-88af-485d-b512-35b4e2ee37fe}{74}\" paraid=\"491227897\">Spanish <em>maestros de obra</em> used architectural traditions from across the globe. The capitals at the tops of the columns are Egyptian in style. The plastered arch design over the front door is Roman. The pointed tops on the statue niches on the second level come from the Moorish influence of the middle east and northern Africa. Even the bell tower niche scallop shell motif, a nod to Spain’s patron saint, has Roman origins.  </p> <p paraeid=\"{b34dbc52-88af-485d-b512-35b4e2ee37fe}{84}\" paraid=\"516223453\">Spain’s influences made their way to Tumacácori in color, as well. The columns on the front of the church were painted red, the capitals yellow with black markings. Statues stood against a blue background in their niches. The plaster of the doorway was carved and painted to resemble blocks of orange marble. You can still see original paint in the doorway and under the cornice below the window. </p> <p paraeid=\"{b34dbc52-88af-485d-b512-35b4e2ee37fe}{90}\" paraid=\"2145623720\">The monumental building with its bright color scheme and decorative elements would have been unlike anything in O’odham tradition. Previously, natural features like springs and mountains provided a community’s identity and place name. But after the O’odham labored for more than twenty years to build this new face for their village, it became a landscape feature itself, and a symbol for Tumacácori’s complex story. </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.05049312715911,
+          31.569625772100615
+        ]
+      },
+      "properties": {
+        "name": "Self-Guided Tour - Fiesta Grounds",
+        "notes": "Self-Guided Tour - Fiesta Grounds\nhttps://www.nps.gov/places/tour-fiesta-grounds.htm\n\n<p paraeid=\"{789655bc-7d2a-4a59-8c1a-83ee971079b9}{50}\" paraid=\"46664916\">The annual event, La Fiesta de Tumacácori, takes place in this open area each year on the first full weekend in December. Originating with a Catholic Mass inside the mission church in honor of Father Eusebio Francisco Kino in 1965, the first all-day fiesta took place following the 1971 commemorative Mass. The Fiesta quickly outgrew the space in front of the church and was moved to this area of previously farmed land. </p> <p paraeid=\"{789655bc-7d2a-4a59-8c1a-83ee971079b9}{74}\" paraid=\"1885759364\">Each year, the Tumacácori Fiesta brings together people from all the cultures of the Santa Cruz Valley for two days of celebration. Each culture traditional to Tumacácori is represented in music and dance. Local non-profit organizations are invited to provide information and to sell handcrafted items and traditional foods. Artisans and craftspeople representing O’odham (Tohono O’odham and Pima), Yoeme (Yaqui), Nde (Apache), Mexican, and Mexican-American traditions demonstrate their skills and share their cultures with people from all over the world. </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.050422,
+          31.568691
+        ]
+      },
+      "properties": {
+        "name": "Self-Guided Tour - Jesuit Church Footprint",
+        "notes": "Self-Guided Tour - Jesuit Church Footprint\nhttps://www.nps.gov/places/tour-jesuit-church.htm\n\n<p paraeid=\"{ff2d1174-089a-4e83-b380-b7a346cec46d}{106}\" paraid=\"987433150\">Padre Eusebio Francisco Kino first celebrated Mass at Tumacácori in 1691 under a <em>ramada </em>(shade structure) built by the O'odham who were living here. At that time, the village was located on the other side of the Santa Cruz River. Although he chose Guevavi to be the <em>cabecera </em>(headquarters) where the priest would live, he and other priests continued to visit Tumacácori￼, sing the Mass, and tend to mission business. There is no record of an adobe church having been built while the village was on the east side of the river.  </p> <p paraeid=\"{ff2d1174-089a-4e83-b380-b7a346cec46d}{142}\" paraid=\"1803006028\">In November of 1751, a group of O'odham led by Captain General Luis Oacpicagigua (“Ahk-pee-ah-CUK-ya”) rebelled against the Spanish and Yoeme who had moved into their land. The resulting conflict caused the abandonment of mission communities for over a year. </p> <p paraeid=\"{ff2d1174-089a-4e83-b380-b7a346cec46d}{148}\" paraid=\"228914107\">The Spanish began construction of a <em>presidio</em>, a military outpost, at Tubac. When everyone returned, the village of Tumacácori was moved to the present location nearer to and on the same side of the river as the new presidio. </p> <p paraeid=\"{ff2d1174-089a-4e83-b380-b7a346cec46d}{160}\" paraid=\"213230342\">The outline that you see before you marks the footprint of the community’s first church, begun in the spring of 1753. The date of its completion is uncertain, but it is known to have been in use by the summer of 1757. </p> <p paraeid=\"{ff2d1174-089a-4e83-b380-b7a346cec46d}{166}\" paraid=\"1306051146\">This small church remained under the management of Jesuit priests until they were expelled in 1767. A year later the Franciscans arrived to carry on the mission project in the Pimería Alta. They continued to use this building until the new church was ready for use in 1822. </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.051004,
+          31.569558
+        ]
+      },
+      "properties": {
+        "name": "Self-Guided Tour - Lime Kiln",
+        "notes": "Self-Guided Tour - Lime Kiln\nhttps://www.nps.gov/places/tour-lime-kiln.htm\n\n<p paraeid=\"{b502ef00-846f-4aac-811f-88c57f6f33ad}{207}\" paraid=\"487232660\">Most of the mission structures are made from sun-dried adobe bricks. A soil mixture would be mixed with water into a thick paste and then pressed into rectangular wooden forms and left in the sun to dry. This efficient style of earthen technology goes back thousands of years, but requires constant maintenance. Moisture, either from the ground or from precipitation, will erode sun-dried adobe bricks, rendering the structure unstable. </p> <p paraeid=\"{b502ef00-846f-4aac-811f-88c57f6f33ad}{213}\" paraid=\"1339374744\">The Spanish favored limestone plaster as a protective coating on their adobe buildings. Many tons of limestone rocks were gathered and carted to the mission’s lime kilns. A fire was built under a metal grill and high temperatures “cooked” the limestone over several days until it could be hammered into a fine powder. That powder was then made into a paste using water and sand, which was later troweled onto on the exposed adobe brick walls. </p> <p paraeid=\"{b502ef00-846f-4aac-811f-88c57f6f33ad}{219}\" paraid=\"686887388\">Gathering stone, mixing plaster, and coating the large structures required the labor of many workers. For the O’odham, the kiln probably represented a significant change in their lifestyle. Previously, they lived with a changing landscape, in buildings that changed with it. The European worldview prioritized permanence and defiance of natural weathering. This shift would shape the way that people across the region live and think for centuries to come. </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.050339,
+          31.568289
+        ]
+      },
+      "properties": {
+        "name": "Self-Guided Tour - Melhok Ki (ocotillo and mud house)",
+        "notes": "Self-Guided Tour - Melhok Ki (ocotillo and mud house)\nhttps://www.nps.gov/places/tour-ki.htm\n\n<p paraeid=\"{ff2d1174-089a-4e83-b380-b7a346cec46d}{214}\" paraid=\"1609292761\">The O'odham word for house is <em>ki </em>(“kee”). <em>Melhok </em>(“MOO-ro”) is the spiky plant known in Spanish and English as ocotillo. Before the arrival of adobe construction from Spain, the O’odham built rounded homes using mud applied over a wood and brush framework. When rain washed away some of the mud, a new coating was always close at hand. Over time, the O’odham adopted the square rooms favored by the Spanish.  </p> <p paraeid=\"{ff2d1174-089a-4e83-b380-b7a346cec46d}{228}\" paraid=\"463732423\">The home would also include a <em>wa:ato</em> (“WAH-ah-toe”), or mesquite ramada, and a brush enclosure for cooking. While the inside of the ki provided shelter on cold nights, many activities in the home took place under or around the wa:ato. </p> <p paraeid=\"{ff2d1174-089a-4e83-b380-b7a346cec46d}{246}\" paraid=\"2092952311\">Although many mission residents lived in the Spanish-style adobe rooms around the plaza in front of the church, some may have continued to live in traditional homes. </p> <p paraeid=\"{ff2d1174-089a-4e83-b380-b7a346cec46d}{252}\" paraid=\"1843745034\">The O’odham still build and use structures like this, made of mesquite timbers, ocotillo sticks, saguaro ribs, and mud. This one was built in 1997 by O’odham from the San Xavier community using traditional hand tools. When completed, it was dedicated by them to San Francisco Xavier, Father Kino’s patron saint. </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.0492069123486,
+          31.569410120208076
+        ]
+      },
+      "properties": {
+        "name": "Self-Guided Tour - Mesquite Bosque",
+        "notes": "Self-Guided Tour - Mesquite Bosque\nhttps://www.nps.gov/places/tour-mesquite-bosque.htm\n\n<p paraeid=\"{789655bc-7d2a-4a59-8c1a-83ee971079b9}{152}\" paraid=\"107753304\">Mesquite <em>bosques </em>(small forests) reach their greatest development near desert rivers or where their long roots can reach groundwater. This rich woodland plant community supports a tremendous biodiversity of insects, birds, and mammals. Today, the mesquite bosque of Tumacácori protects the threatened yellow-billed cuckoo and other rare species. It provided the O’odham, and later the Spanish, with wood, medicine, and food.  </p> <p paraeid=\"{789655bc-7d2a-4a59-8c1a-83ee971079b9}{162}\" paraid=\"1628561373\">Mesquite flowers provide important pollen and nectar for wildlife. The flowers are crowded into long spikes called catkins. When fertilized, the flowers form long green fruits that resemble string beans. They grow and mature through the summer, turning tan or streaked with red.  </p> <p paraeid=\"{789655bc-7d2a-4a59-8c1a-83ee971079b9}{168}\" paraid=\"148337816\">The beans can be eaten at all stages of their growth. The O'odham ate them as a vegetable when green, and ground the pods into a sweet, nutty flour when ripe. They are favored by many animals, including hares, pocket mice, kangaroo rats, pack rats, and javelinas.  </p> <p paraeid=\"{789655bc-7d2a-4a59-8c1a-83ee971079b9}{174}\" paraid=\"949856009\">Although honey mesquite can be found in the region, the velvet mesquite (<em>Prosopis velutina</em>) dominates the landscape of Tumacácori. Some theorize that the Spanish introduction of cattle accelerated the spread of mesquite bosques in the Pimería Alta. </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.050934,
+          31.56787
+        ]
+      },
+      "properties": {
+        "name": "Self-Guided Tour - Mission Model",
+        "notes": "Self-Guided Tour - Mission Model\nhttps://www.nps.gov/places/tour-mission-model.htm\n\n<p paraeid=\"{1c834b0b-d601-4199-af2f-8ba4a5bc1fcf}{202}\" paraid=\"213701893\">The goal of Spanish colonization was simple: to remake New Spain in the image of Old Spain. All aspects of daily life would be subject to transformation – food, language, clothing, agriculture, and religion. In the mission model you can see adobe buildings for residences and workshops, agricultural lands, cattle, and the main irrigation ditch. A mission community could be considered a residential training academy where indigenous people learned and adopted a new way of life. The plan was for the missionary priest to move on after ten years, when the community could sustain itself. In fact, more than 100 years would pass beforethe turn of the 19th century, when the first bricks would be laid for the mission church you see today.<br /> <br /> Tumacácori went from being an O’odham village to a frontier <em>visita </em>(satellite mission) to a <em>cabecera </em>(headquarters mission). Its people changed as well. The O’odham became known as the “Pima” and the “Papago,” and their lands the <em>Pimería Alta</em> (land of the upper Pima). They were baptized with Spanish names, given Spanish-style clothing, and assigned Spanish jobs. They tended to domestic livestock rather than hunting wild game, and irrigated fruit trees that came from oceans away. </p> <p paraeid=\"{dfb4ab41-585f-4bba-bb28-8ef886f8a288}{11}\" paraid=\"325370160\">Today, the O’odham people still carry with them the legacy of colonization. Because they did not record their stories in a written language, exploring their history requires empathy, inference, and respect for O’odham oral tradition. The descendants of mission-era communities are still living all around us.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.050912,
+          31.568597
+        ]
+      },
+      "properties": {
+        "name": "Self-Guided Tour - Nave",
+        "notes": "Self-Guided Tour - Nave\nhttps://www.nps.gov/places/tour-nave.htm\n\n<p paraeid=\"{b34dbc52-88af-485d-b512-35b4e2ee37fe}{110}\" paraid=\"2101783567\">Step through the arched entryway and into the remains of an impressive nave, the central hall of the church. In this room, indigenous people and Spanish settlers prayed and celebrated the Mass each day. There were no pews. People knelt or stood during services. Along the walls are four side altars where devotional candles might be placed. In the walls above are niches where ornate statues of saints once stood. </p> <p paraeid=\"{b34dbc52-88af-485d-b512-35b4e2ee37fe}{116}\" paraid=\"1137885974\">Along the interior walls, weathering has exposed the sun-dried adobe bricks made by mission residents. The once brightly-painted walls were decorated by the steady hands of artisans both indigenous and Spanish.  </p> <p paraeid=\"{b34dbc52-88af-485d-b512-35b4e2ee37fe}{122}\" paraid=\"1391018378\">With the rising sun, families and individuals living in the mission would make their way to the nave to gather and start the day. It is likely that men and women were separated by sex, as was the colonial manner. Here, indigenous people learned and practiced new religious traditions in new languages. They adopted new deities and established a new worldview under the direction of the padres. In this space, there were tears, both happy and sad. There was loss, celebration, learning, and change. </p> <p paraeid=\"{b34dbc52-88af-485d-b512-35b4e2ee37fe}{132}\" paraid=\"1768517039\">Shortly after the residents left in 1848, the roof timbers were taken by local settlers for construction elsewhere. For the next seventy years, the nave was exposed and heavily damaged by weather. Looters, seeking Jesuit treasure that never existed, dug holes in the walls and floors.  </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.04943,
+          31.568931
+        ]
+      },
+      "properties": {
+        "name": "Self-Guided Tour - Orchard",
+        "notes": "Self-Guided Tour - Orchard\nhttps://www.nps.gov/places/tour-orchard.htm\n\n<p paraeid=\"{d95ce187-fd8b-4f96-8174-0f8c9ce461b6}{55}\" paraid=\"1091636858\">The saguaro and organ pipe cactus, generally found at lower elevations, provided the O’odham an annual treat of sweet, juicy fruit. The saguaro harvest was celebrated with dancing, singing, and storytelling, and the making and drinking of saguaro wine, essential for the calling of the clouds that would bring the summer rains.  </p> <p paraeid=\"{d95ce187-fd8b-4f96-8174-0f8c9ce461b6}{69}\" paraid=\"1318144640\">The establishment of a mission brought new fruits, imported from Europe and considered essential to a “civilized” life by the priests and settlers. As farmers, the O’odham welcomed these new crops. Wheat, grown over the winter, provided a harvest during an otherwise lean season. Horses, cattle, sheep, goats, and chickens provided transportation, labor, fiber, and convenient sources of protein. </p> <p paraeid=\"{d95ce187-fd8b-4f96-8174-0f8c9ce461b6}{87}\" paraid=\"68448209\">The mission complex included a walled garden and orchard, the contents protected from deer and cattle. Native trees, including hackberries, now grow along the foundations of those adobe walls. Within the original 4.6 acre enclosure the community grew vegetables and fruit trees. Favorite trees brought from Europe included peach, pomegranate, quince, and fig. As recently as 1938, peach trees lined the mission acequia, stabilizing its banks and making use of moisture which seeped through its mud walls. </p> <p paraeid=\"{d95ce187-fd8b-4f96-8174-0f8c9ce461b6}{107}\" paraid=\"1016305585\">The fruit trees that you see here today were grown from seeds and cuttings of old cultivar fruit trees—the oldest trees that could be found in historic orchards and yards throughout southern Arizona. The replanted orchard was dedicated in 2007. </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.050845,
+          31.568702
+        ]
+      },
+      "properties": {
+        "name": "Self-Guided Tour - Sacristy",
+        "notes": "Self-Guided Tour - Sacristy\nhttps://www.nps.gov/places/tour-sacristy.htm\n\n<p paraeid=\"{b34dbc52-88af-485d-b512-35b4e2ee37fe}{248}\" paraid=\"28277239\">The sacristy served as the priest’s office. It housed the holy vestments and other objects for Mass. A priest would spend many hours working by candlelight in this room, documenting the important events of the day such as baptisms, marriages, and deaths. The mission records are a treasure trove of information, but require some skill to interpret as they were handwritten with quill pen in now-antique Spanish. Personal details, especially from the perspective of women, O’odham, Yoeme, and Nde community members, are difficult to extract. </p> <p paraeid=\"{b502ef00-846f-4aac-811f-88c57f6f33ad}{9}\" paraid=\"653555608\">After the mission residents left Tumacácori for the last time in 1848, the church became a refuge and the sacristy its primary lodging. The protection of its thick walls offered welcome shelter for gold-seekers on their way to California, and for Mexican and U.S. soldiers and cowboys. These tired travelers recorded their stays not in mission record books, but on the walls. The darkened ceiling and many names are proof of the numerous fires made, dinners cooked, and stories told in this space.  </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.050924,
+          31.568701
+        ]
+      },
+      "properties": {
+        "name": "Self-Guided Tour - Sanctuary",
+        "notes": "Self-Guided Tour - Sanctuary\nhttps://www.nps.gov/places/tour-sanctuary.htm\n\n<p paraeid=\"{b34dbc52-88af-485d-b512-35b4e2ee37fe}{206}\" paraid=\"2131508311\">The sanctuary, still adorned with remnants of the original paints and flourishes, picture frames, and stenciling, can be seen as the heart of the church. Here, the priest, dressed in brightly-colored vestments, led the Mass. During the most sacred parts of the ceremony, he sang the words facing toward the altar, his back to the congregation. Scriptures were read from the pulpit, reconstructed on the east wall beside the sanctuary. The service was conducted in a combination of Latin, Spanish, and O’odham.  </p> <p paraeid=\"{b34dbc52-88af-485d-b512-35b4e2ee37fe}{212}\" paraid=\"1787802628\">Standing under the high dome, you might imagine the brightly painted decorations on the walls and ceilings, flickering candles, the congregants kneeling in the nave, the sound of chants, prayers, and song reverberating through the room. The combination of these things was meant to create a mental distance from the day’s hard work happening just outside the doors.  </p> <p paraeid=\"{b34dbc52-88af-485d-b512-35b4e2ee37fe}{222}\" paraid=\"42319699\">The O’odham and Yoeme people of the mission might have found the rituals of the Mass strange upon first introduction to the Catholic faith. The practice of kneeling, standing, and then kneeling again, during a ceremony conducted in primarily foreign tongues, was no doubt confusing for some. Eventually, however, these strange customs became familiar and blended with the spiritual and religious beliefs of the indigenous communities. Today, many O’odham and Yoeme people practice this uniquely intertwined religious tradition. </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.045538,
+          31.569548
+        ]
+      },
+      "properties": {
+        "name": "Self-Guided Tour - Santa Cruz River",
+        "notes": "Self-Guided Tour - Santa Cruz River\nhttps://www.nps.gov/places/tour-santa-cruz-river.htm\n\n<p paraeid=\"{789655bc-7d2a-4a59-8c1a-83ee971079b9}{90}\" paraid=\"841213529\">The Santa Cruz River is an international waterway. It begins in the San Rafael Valley, flows southward into Mexico, then makes a U-turn back into the United States. Here, it flows from south to north, eventually joining the Gila River. The river creates essential habitat and a wildlife corridor for threatened and endangered species. </p> <p paraeid=\"{789655bc-7d2a-4a59-8c1a-83ee971079b9}{100}\" paraid=\"1636554113\">Where underlying bedrock slopes up, the water is forced to the surface. The O’odham situated their villages in these locations, known as “gaining reaches,” to take advantage of the reliable water source. Later settlers followed suit. </p> <p paraeid=\"{789655bc-7d2a-4a59-8c1a-83ee971079b9}{106}\" paraid=\"1780625867\">The river provided not only water for drinking and irrigation, but habitat for the complex web of life that supported human settlement. It contributed to every basket, meal, article of clothing, medicine, and cultural practice. Literally every item a person touched over the course of a lifetime connected back to the Santa Cruz River corridor. </p> <p paraeid=\"{789655bc-7d2a-4a59-8c1a-83ee971079b9}{122}\" paraid=\"1700881466\">Today, the cottonwood-willow environment along the Santa Cruz is one of the most rare and endangered habitats in the United States. The river‘s plant and animal communities and water quality are threatened by climate change and modern land use. The stretch of river that flows through Tumacácori is now composed almost entirely of treated effluent, released from the Nogales International Wastewater Treatment Facility in Rio Rico, Arizona. Although this supplemental water source has supported the return of the endangered Gila topminnow (<em>Poeciliopsis occidentalis</em>), it is not safe for human consumption. Avoid contact.  </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.050819819,
+          31.5688877367
+        ]
+      },
+      "properties": {
+        "name": "Self-Guided Tour - Storeroom",
+        "notes": "Self-Guided Tour - Storeroom\nhttps://www.nps.gov/places/tour-storeroom.htm\n\n<p paraeid=\"{b502ef00-846f-4aac-811f-88c57f6f33ad}{179}\" paraid=\"411040337\">The storeroom’s two-story structure was the tallest part of the convento complex. Its wide staircase led to an upper level which was supported by heavy pine beams, hauled from the heights of the Santa Rita Mountains. The large beams were, in turn, supported by two thick adobe piers. On the right side of the doorway are depressions where large clay jars filled with seed and grain were stored for next season’s crops.  </p> <p paraeid=\"{b502ef00-846f-4aac-811f-88c57f6f33ad}{189}\" paraid=\"347479631\">The storeroom’s surpluses and deficits were the measure of success or failure of the mission. A well-stocked storeroom allowed the purchase of clothing or other resources. Empty shelves signaled stress. </p> <p paraeid=\"{b502ef00-846f-4aac-811f-88c57f6f33ad}{195}\" paraid=\"454121610\">The storeroom also embodied the community’s new European-style corporate hierarchy and contrasted with the O’odham’s consensus-based government. Harvested food would be collected here and then distributed on a weekly basis. However, the gatekeeper to the storeroom could withhold access, making food contingent on following the mission’s rules.   </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.050755,
+          31.568412
+        ]
+      },
+      "properties": {
+        "name": "Self-Guided Tour - Vats",
+        "notes": "Self-Guided Tour - Vats\nhttps://www.nps.gov/places/tour-vats.htm\n\n<p paraeid=\"{31eac87c-4e70-4289-93a7-6b84ea6fe157}{32}\" paraid=\"1662381678\">Directly in front of the most important, most symbolic, and most decorated structure of the mission are three features whose purpose remains a mystery.  </p> <p paraeid=\"{31eac87c-4e70-4289-93a7-6b84ea6fe157}{38}\" paraid=\"1058237292\">Early excavations found hydraulic lime surfaces at the bottom of the boxes, suggesting they were meant to be water tight. However, archeologists and historians continue to disagree about their original function. Some refer to them as cisterns. Others theorize they provided rudimentary “indoor plumbing” to the convento. Still others look to the unfinished bell tower as evidence the vats served a function in working limestone plaster. </p> <p paraeid=\"{31eac87c-4e70-4289-93a7-6b84ea6fe157}{44}\" paraid=\"806308883\">The side walls are reconstructions. We do not know if they originally rose above ground level. What is your leading theory? </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.047072,
+          31.611869
+        ]
+      },
+      "properties": {
+        "name": "Tubac Presidio State Historic Park",
+        "notes": "Tubac Presidio State Historic Park\nhttps://www.nps.gov/places/tubac-presidio.htm\n\n<p>Tubac Presidio State Historic Park preserves the ruins of the oldest Spanish Presidio site in Arizona, San Ignacio de Tubac. The Tubac Presidio was established in 1752 to protect the Spanish colonists from the Apache (Ndee and Chiricahua) and Seri (Comca’ac), to intimidate and control the O'odham people and to further expand Spanish colonial power in what is now the Southwest United States.<br /> <br /> Juan Bautista de Anza was the second commander of the presidio. He led the expedition to California that resulted in the founding of the city of San Francisco in 1776. The expedition included 240 colonists orginally from Sinaloa and Sonora, 63 of whom were living in Tubac. The colonists gathered over 1,000 head of livestock--cattle, horses, and mules--at Tubac for the expedition. The group departed from the presidio on October 23, 1775. <br /> <br /> Tubac Presidio State Historic Park is managed by Arizona State Parks with generous support from volunteers and the Friends of Tubac Presidio and Museum. The park includes a visitor center, museum, gardens, historic interpretation, gift shop, picnic area, and trailhead access to recreational trail that follows the Juan Bautista de Anza National Historic Trail. An official Juan Bautista de Anza NHT Passport Stamp is available in the visitor center. This is passport stamp #4 along the Anza Trail (<a href=\"https://www.nps.gov/juba/planyourvisit/nps-passport-stamps.htm\">list of Anza Trail passport stamp locations</a>).<br /> <br /> For operating hours and information contact <a href=\"https://azstateparks.com/tubac\">Tubac Presidio State Historic Park</a>.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.047038,
+          31.569477
+        ]
+      },
+      "properties": {
+        "name": "Tumacácori - Anza Trail Junction",
+        "notes": "Tumacácori - Anza Trail Junction\nhttps://www.nps.gov/places/anza-trail-junction.htm\n\n<p paraeid=\"{786b25a4-b8c9-4a00-9eed-84dcbd982fb4}{2}\" paraid=\"1599692460\">The Santa Cruz River has long been a highway of trade and travel. Prehistoric people followed the river to trade with neighbors. The O’odham farmed along the river, using the floodplain and low banks to grow crops. Later, missionaries and explorers would rely on these existing networks to colonize the area.  </p> <p paraeid=\"{786b25a4-b8c9-4a00-9eed-84dcbd982fb4}{12}\" paraid=\"1803544016\">In 1775, an expedition of approximately 240 people and nearly a thousand head of livestock followed this river on the first part of a journey that would establish the first European settlement on the San Francisco Bay. The Juan Bautista de Anza National Historic Trail was designated to commemorate this massive and important movement of settlers across the nation. </p> <p paraeid=\"{786b25a4-b8c9-4a00-9eed-84dcbd982fb4}{22}\" paraid=\"1775176081\">Today the Anza Trail preserves this important history while also providing valuable outdoor recreational space. At Tumacácori, it passes through habitat that supports the most diverse migratory bird population outside of the tropics. Hikers, runners, and riders can travel along this route. Even a casual stroll connects visitors to the residents and travelers of history.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.050747,
+          31.568
+        ]
+      },
+      "properties": {
+        "name": "Tumacácori - Cooking Ramada",
+        "notes": "Tumacácori - Cooking Ramada\nhttps://www.nps.gov/places/cooking-ramada.htm\n\n<p>Once it gained its independence from Spain, the new nation of Mexico no longer valued the missions for their original purpose of converting native people into European-style citizens. Priests born in Spain were deported, including Tumacácori’s last resident priest in 1828. The mission families stayed on for another twenty years. For reasons that they did not record, in 1848 the residents of Tumacácori moved away, the women carrying their precious <em>santos </em>(saint statues) on their backs in burden baskets to San Xavier del Bac. They left behind their church, cemetery, fields, and homes.<br /> <br /> With the Gadsden Purchase in 1854, Tumacácori became part of the United States. The U.S. reservation system eventually limited the legal territory of the O’odham to five sister reservations: the San Xavier and Tohono (desert) O’odham, and Gila River, Salt River, and Ak-Chin Pima (river) nations.<br /> <br /> Today, the Tohono O’odham and Pima are known for their beautiful basketry, woven using materials collected from the deserts and rivers of their homeland. The Yoeme (Yaqui) are famous for their carvings and religious dance, the Apache for their beadwork. Many still speak the languages of their ancestors.<br /> <br /> After hundreds of years of mixing, marrying, creating new families, and blending traditions, a new people emerged: the <em>mestizaje </em>of Mexico. Flavors like chiles, carne asada, and tortillas reflect this mixing of origins. Sharing traditional foods—made fresh in kitchens such as this one—connects us to each other and to our shared heritage.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.05049312715911,
+          31.569625772100615
+        ]
+      },
+      "properties": {
+        "name": "Tumacácori - Fiesta Grounds",
+        "notes": "Tumacácori - Fiesta Grounds\nhttps://www.nps.gov/places/tumacacori-fiesta-grounds.htm\n\n<p paraeid=\"{789655bc-7d2a-4a59-8c1a-83ee971079b9}{50}\" paraid=\"46664916\">The annual event, La Fiesta de Tumacácori, takes place in this open area each year on the first full weekend in December. Originating with a Catholic Mass inside the mission church in honor of Father Eusebio Francisco Kino in 1965, the first all-day fiesta took place following the 1971 commemorative Mass. The Fiesta quickly outgrew the space in front of the church and was moved to this area of previously farmed land. </p> <p paraeid=\"{789655bc-7d2a-4a59-8c1a-83ee971079b9}{74}\" paraid=\"1885759364\">Each year, the Tumacácori Fiesta brings together people from all the cultures of the Santa Cruz Valley for two days of celebration. Each culture traditional to Tumacácori is represented in music and dance. Local non-profit organizations are invited to provide information and to sell handcrafted items and traditional foods. Artisans and craftspeople representing O’odham (Tohono O’odham and Pima), Yoeme (Yaqui), Nde (Apache), Mexican, and Mexican-American traditions demonstrate their skills and share their cultures with people from all over the world. </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.0492069123486,
+          31.569410120208076
+        ]
+      },
+      "properties": {
+        "name": "Tumacácori - Mesquite Bosque",
+        "notes": "Tumacácori - Mesquite Bosque\nhttps://www.nps.gov/places/mesquite-bosque.htm\n\n<p paraeid=\"{789655bc-7d2a-4a59-8c1a-83ee971079b9}{152}\" paraid=\"107753304\">Mesquite <em>bosques </em>(small forests) reach their greatest development near desert rivers or where their long roots can reach groundwater. This rich woodland plant community supports a tremendous biodiversity of insects, birds, and mammals. Today, the mesquite bosque of Tumacácori protects the threatened yellow-billed cuckoo and other rare species. It provided the O’odham, and later the Spanish, with wood, medicine, and food.  </p> <p paraeid=\"{789655bc-7d2a-4a59-8c1a-83ee971079b9}{162}\" paraid=\"1628561373\">Mesquite flowers provide important pollen and nectar for wildlife. The flowers are crowded into long spikes called catkins. When fertilized, the flowers form long green fruits that resemble string beans. They grow and mature through the summer, turning tan or streaked with red.  </p> <p paraeid=\"{789655bc-7d2a-4a59-8c1a-83ee971079b9}{168}\" paraid=\"148337816\">The beans can be eaten at all stages of their growth. The O'odham ate them as a vegetable when green, and ground the pods into a sweet, nutty flour when ripe. They are favored by many animals, including hares, pocket mice, kangaroo rats, pack rats, and javelinas.  </p> <p paraeid=\"{789655bc-7d2a-4a59-8c1a-83ee971079b9}{174}\" paraid=\"949856009\">Although honey mesquite can be found in the region, the velvet mesquite (<em>Prosopis velutina</em>) dominates the landscape of Tumacácori. Some theorize that the Spanish introduction of cattle accelerated the spread of mesquite bosques in the Pimería Alta. </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.050822,
+          31.56851
+        ]
+      },
+      "properties": {
+        "name": "Tumacácori Church - Baptistry",
+        "notes": "Tumacácori Church - Baptistry\nhttps://www.nps.gov/places/tumacacori-church-baptistry.htm\n\n<p paraeid=\"{b34dbc52-88af-485d-b512-35b4e2ee37fe}{182}\" paraid=\"1999647577\">To the right of the church entrance is a small room where baptisms were performed. The room is composed of sun-dried adobe walls, nine feet thick with an inner rock core, which support the bell tower above. The stairway (inaccessible to visitors for reasons of safety) leads to the choir loft, the robing room, and beyond to the bell tower and roof.  </p> <p paraeid=\"{b34dbc52-88af-485d-b512-35b4e2ee37fe}{188}\" paraid=\"499547252\">Baptism was the first major sacrament undertaken by mission residents. Adults participated in religious instruction in order to learn about the doctrine of the Catholic church. Infants were baptized by padres with the permission and presence of the parents. All newly baptized individuals were given at least one godmother or godfather whose job it was to provide spiritual support. In the baptistry, Catholic religion officially became a part of the lives of community members.  </p> <p paraeid=\"{b34dbc52-88af-485d-b512-35b4e2ee37fe}{194}\" paraid=\"1843341817\">How did the new converts undergoing baptism feel? Were they apprehensive? Proud? Would they have to give up their traditional beliefs, or could they practice all of their spiritual beliefs simultaneously? We may never know. One thing is certain, though, this room was a space of transition and change. </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.05078239716416,
+          31.568466511743388
+        ]
+      },
+      "properties": {
+        "name": "Tumacácori Church - Bell Tower",
+        "notes": "Tumacácori Church - Bell Tower\nhttps://www.nps.gov/places/church-bell-tower.htm\n\n<p paraeid=\"{b502ef00-846f-4aac-811f-88c57f6f33ad}{235}\" paraid=\"1834891427\">The bell tower was built in three stories: on the ground floor lies the baptistry, on the second level the preparation room for the choir, and on the third level the arches and bells. The scallop shell niches harken to Saint James, Santiago de Compostela, the patron saint of Spain, and indicate a baptistry below. </p> <p paraeid=\"{b502ef00-846f-4aac-811f-88c57f6f33ad}{245}\" paraid=\"776149335\">A bell hung under each of the four arches. With imagination, you can see young O’odham boys and girls standing on the ground below, pulling on ropes dangling from the tower, signaling for Mass to begin. Forty-niners, en route to the California gold rush, recalled the haunting sound of the bells ringing through the river valley as they approached. The whereabouts of those original bells remains a mystery. They have since been replaced. </p> <p paraeid=\"{ff2d1174-089a-4e83-b380-b7a346cec46d}{6}\" paraid=\"1375932279\">The bells rang many times each day, instructing mission residents when to eat, work, and pray. Yet the tower was never completed; round holes mark where construction scaffolding still supported the work in progress. Although the bell tower appears to be in ruin, it has changed little since the last residents left in 1848. The fired bricks of the bell arches never received their finishing coats of plaster. And whether a dome was intended to sit atop the tower we may never know.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.050898,
+          31.568508
+        ]
+      },
+      "properties": {
+        "name": "Tumacácori Church - Choir Loft",
+        "notes": "Tumacácori Church - Choir Loft\nhttps://www.nps.gov/places/tumacacori-church-choir-loft.htm\n\n<p paraeid=\"{b34dbc52-88af-485d-b512-35b4e2ee37fe}{144}\" paraid=\"1729835643\">Facing the front door of the church, you can see where the choir loft once stood. Notice the entrance to the balcony high on the left wall, and the ruined bases of the two pillars that supported the arch below it.  </p> <p paraeid=\"{b34dbc52-88af-485d-b512-35b4e2ee37fe}{150}\" paraid=\"2105187361\">Music played an important role in mission life. Tumacácori likely supported anywhere from eight to ten choir members, both men and women, at a given time. There were also musicians who played instruments such as oboe, flute, and zither (guitar), adding flourish to the sound of the Masses and other religious ceremonies held here.  </p> <p paraeid=\"{b34dbc52-88af-485d-b512-35b4e2ee37fe}{164}\" paraid=\"763209771\">Singers needed to memorize up to twenty-five songs for the community’s Masses, services, and processions. Despite the fact that few could read or write, they learned and performed hymns and kyries in Latin, Greek, Spanish, and O’odham. You are welcome to sing a few bars of your favorite song here. The excellent acoustics of the building are no accident - the sound, along with the height, color, and beauty of the space, were designed to inspire feelings of awe, and a sense of power and majesty. </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.050886,
+          31.56847
+        ]
+      },
+      "properties": {
+        "name": "Tumacácori Church - Façade",
+        "notes": "Tumacácori Church - Façade\nhttps://www.nps.gov/places/tumacacori-church-facade.htm\n\n<p paraeid=\"{b34dbc52-88af-485d-b512-35b4e2ee37fe}{74}\" paraid=\"491227897\">Spanish <em>maestros de obra</em> used architectural traditions from across the globe. The capitals at the tops of the columns are Egyptian in style. The plastered arch design over the front door is Roman. The pointed tops on the statue niches on the second level come from the Moorish influence of the middle east and northern Africa. Even the bell tower niche scallop shell motif, a nod to Spain’s patron saint, has Roman origins.  </p> <p paraeid=\"{b34dbc52-88af-485d-b512-35b4e2ee37fe}{84}\" paraid=\"516223453\">Spain’s influences made their way to Tumacácori in color, as well. The columns on the front of the church were painted red, the capitals yellow with black markings. Statues stood against a blue background in their niches. The plaster of the doorway was carved and painted to resemble blocks of orange marble. You can still see original paint in the doorway and under the cornice below the window. </p> <p paraeid=\"{b34dbc52-88af-485d-b512-35b4e2ee37fe}{90}\" paraid=\"2145623720\">The monumental building with its bright color scheme and decorative elements would have been unlike anything in O’odham tradition. Previously, natural features like springs and mountains provided a community’s identity and place name. But after the O’odham labored for more than twenty years to build this new face for their village, it became a landscape feature itself, and a symbol for Tumacácori’s complex story. </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.050912,
+          31.568597
+        ]
+      },
+      "properties": {
+        "name": "Tumacácori Church - Nave",
+        "notes": "Tumacácori Church - Nave\nhttps://www.nps.gov/places/tumacacori-church-nave.htm\n\n<p paraeid=\"{b34dbc52-88af-485d-b512-35b4e2ee37fe}{110}\" paraid=\"2101783567\">Step through the arched entryway and into the remains of an impressive nave, the central hall of the church. In this room, indigenous people and Spanish settlers prayed and celebrated the Mass each day. There were no pews. People knelt or stood during services. Along the walls are four side altars where devotional candles might be placed. In the walls above are niches where ornate statues of saints once stood. </p> <p paraeid=\"{b34dbc52-88af-485d-b512-35b4e2ee37fe}{116}\" paraid=\"1137885974\">Along the interior walls, weathering has exposed the sun-dried adobe bricks made by mission residents. The once brightly-painted walls were decorated by the steady hands of artisans both indigenous and Spanish.  </p> <p paraeid=\"{b34dbc52-88af-485d-b512-35b4e2ee37fe}{122}\" paraid=\"1391018378\">With the rising sun, families and individuals living in the mission would make their way to the nave to gather and start the day. It is likely that men and women were separated by sex, as was the colonial manner. Here, indigenous people learned and practiced new religious traditions in new languages. They adopted new deities and established a new worldview under the direction of the padres. In this space, there were tears, both happy and sad. There was loss, celebration, learning, and change. </p> <p paraeid=\"{b34dbc52-88af-485d-b512-35b4e2ee37fe}{132}\" paraid=\"1768517039\">Shortly after the residents left in 1848, the roof timbers were taken by local settlers for construction elsewhere. For the next seventy years, the nave was exposed and heavily damaged by weather. Looters, seeking Jesuit treasure that never existed, dug holes in the walls and floors.  </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.050845,
+          31.568702
+        ]
+      },
+      "properties": {
+        "name": "Tumacácori Church - Sacristy",
+        "notes": "Tumacácori Church - Sacristy\nhttps://www.nps.gov/places/tumacacori-church-sacristy.htm\n\n<p paraeid=\"{b34dbc52-88af-485d-b512-35b4e2ee37fe}{248}\" paraid=\"28277239\">The sacristy served as the priest’s office. It housed the holy vestments and other objects for Mass. A priest would spend many hours working by candlelight in this room, documenting the important events of the day such as baptisms, marriages, and deaths. The mission records are a treasure trove of information, but require some skill to interpret as they were handwritten with quill pen in now-antique Spanish. Personal details, especially from the perspective of women, O’odham, Yoeme, and Nde community members, are difficult to extract. </p> <p paraeid=\"{b502ef00-846f-4aac-811f-88c57f6f33ad}{9}\" paraid=\"653555608\">After the mission residents left Tumacácori for the last time in 1848, the church became a refuge and the sacristy its primary lodging. The protection of its thick walls offered welcome shelter for gold-seekers on their way to California, and for Mexican and U.S. soldiers and cowboys. These tired travelers recorded their stays not in mission record books, but on the walls. The darkened ceiling and many names are proof of the numerous fires made, dinners cooked, and stories told in this space.  </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.050924,
+          31.568701
+        ]
+      },
+      "properties": {
+        "name": "Tumacácori Church - Sanctuary",
+        "notes": "Tumacácori Church - Sanctuary\nhttps://www.nps.gov/places/tumacacori-church-sanctuary.htm\n\n<p paraeid=\"{b34dbc52-88af-485d-b512-35b4e2ee37fe}{206}\" paraid=\"2131508311\">The sanctuary, still adorned with remnants of the original paints and flourishes, picture frames, and stenciling, can be seen as the heart of the church. Here, the priest, dressed in brightly-colored vestments, led the Mass. During the most sacred parts of the ceremony, he sang the words facing toward the altar, his back to the congregation. Scriptures were read from the pulpit, reconstructed on the east wall beside the sanctuary. The service was conducted in a combination of Latin, Spanish, and O’odham.  </p> <p paraeid=\"{b34dbc52-88af-485d-b512-35b4e2ee37fe}{212}\" paraid=\"1787802628\">Standing under the high dome, you might imagine the brightly painted decorations on the walls and ceilings, flickering candles, the congregants kneeling in the nave, the sound of chants, prayers, and song reverberating through the room. The combination of these things was meant to create a mental distance from the day’s hard work happening just outside the doors.  </p> <p paraeid=\"{b34dbc52-88af-485d-b512-35b4e2ee37fe}{222}\" paraid=\"42319699\">The O’odham and Yoeme people of the mission might have found the rituals of the Mass strange upon first introduction to the Catholic faith. The practice of kneeling, standing, and then kneeling again, during a ceremony conducted in primarily foreign tongues, was no doubt confusing for some. Eventually, however, these strange customs became familiar and blended with the spiritual and religious beliefs of the indigenous communities. Today, many O’odham and Yoeme people practice this uniquely intertwined religious tradition. </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.049749,
+          31.568728
+        ]
+      },
+      "properties": {
+        "name": "Tumacácori Mission - Acequia",
+        "notes": "Tumacácori Mission - Acequia\nhttps://www.nps.gov/places/acequia.htm\n\n<p paraeid=\"{d95ce187-fd8b-4f96-8174-0f8c9ce461b6}{9}\" paraid=\"1015097165\">For the O’odham living in the desert, it was the job of young girls to run each day in the early morning, often for many miles, to bring home water for their family. As the monsoon season approached, families would move to locations where shallow irrigation channels delivered rainwater to their fields.  </p> <p paraeid=\"{d95ce187-fd8b-4f96-8174-0f8c9ce461b6}{15}\" paraid=\"1374705230\">The O’odham living along streams channeled river water directly into rich fields of corn, beans, squash, agave, and melons. </p> <p paraeid=\"{d95ce187-fd8b-4f96-8174-0f8c9ce461b6}{25}\" paraid=\"693132084\">With the Spanish came European ideas of irrigation. The fired adobe structure before you is part of the <em>acequia madre</em>, the main irrigation channel that brought water to the mission from the Santa Cruz River a mile or more to the south. The narrowed end could be closed, raising the elevation of the water to serve various functions. As a <em>compuerta</em>, or diversion box, it turned water from the ditch into the orchard to the east. As a holding tank, it was convenient for filling <em>ollas</em>, earthen jars, to carry water back to the houses for drinking and cooking. Because it had a polished, red surface, it was probably also used as a <em>lavandería</em>, or place for washing clothes and dishes, and possibly even bathing.  </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.050827,
+          31.568783
+        ]
+      },
+      "properties": {
+        "name": "Tumacácori Mission - Cemetery",
+        "notes": "Tumacácori Mission - Cemetery\nhttps://www.nps.gov/places/cemetery-campo-santo.htm\n\n<p paraeid=\"{b502ef00-846f-4aac-811f-88c57f6f33ad}{69}\" paraid=\"939951059\">The O’odham and their neighbors had complex traditions for burials. The dead were dressed well, often provided with some personal items, ￼buried ￼in a cavity, and covered with rocks. The O’odham would sometimes burn items that had belonged to a person who died, and would ask the dead to remain at peace, not come back to disturb the living. A blend of traditional and Catholic beliefs and ceremonies continue among the O’odham today. </p> <p paraeid=\"{b502ef00-846f-4aac-811f-88c57f6f33ad}{99}\" paraid=\"530857859\">The fourteen niches in the walls surrounding the cemetery would have held paintings or sculptures of the Catholic “Stations of the Cross.” ￼In the center of the cemetery lies the round mortuary chapel. The plan may have been to cover the round building with a dome – if so, it was never completed. ￼￼A family might spend time with their deceased loved one in this room before burial. </p> <p paraeid=\"{b502ef00-846f-4aac-811f-88c57f6f33ad}{129}\" paraid=\"1498224786\">Many of the dead were victims of the terrible epidemics ￼￼of smallpox, measles, and typhus that swept through the missions. A few were killed during Apache raids. The majority of Tumacácori’s burials were of children under the age of five.  </p> <p paraeid=\"{b502ef00-846f-4aac-811f-88c57f6f33ad}{155}\" paraid=\"1902153843\">While mission records describe nearly 600 burials at Tumacácori, most took place in the previous cemetery, outside these walls. Any evidence of mission-era graves was destroyed long ago by weather, cattle, and vandals. Families who moved into the area after the O’odham residents left continued to use this cemetery to bury their dead. ￼Little Juanita Alegria, who died of influenza at the age of nine months in 1916, was the last person buried at Tumacácori. </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.050975,
+          31.567945
+        ]
+      },
+      "properties": {
+        "name": "Tumacácori Mission - Community Plaza",
+        "notes": "Tumacácori Mission - Community Plaza\nhttps://www.nps.gov/places/museum-patio.htm\n\n<p paraeid=\"{af5431f1-c59d-4fc5-a749-43cd0345de10}{255}\" paraid=\"1357869444\">At its peak of activity, this bustling community space served as the backdrop to the lives of nearly 200 mission residents. People walked from here to attend church services, engage in work in the convento, or to go into the fields, gardens, and orchards between the plaza and the river.</p> <p paraeid=\"{b34dbc52-88af-485d-b512-35b4e2ee37fe}{10}\" paraid=\"701505243\">The long, low mound to the left of the sidewalk protects what remains of adobe residences connected in a line running north to south. The ramada to the right resembles a mission family’s outdoor cooking and living area. Take a moment to imagine the mission community as it once was – the sounds of animals, children running and playing in the plaza, oxen and carts coming and going. Here is a village at work.  </p> <p paraeid=\"{b34dbc52-88af-485d-b512-35b4e2ee37fe}{16}\" paraid=\"1345166446\">Many different languages could be heard in the plaza. Some priests came from Spain, but others from Austria, Switzerland, Italy, or Bavaria. The O’odham had many dialects. The Yoeme, now referred to as the Yaqui, spoke a totally separate language. The Nde, now called the Apache, shared linguistic roots with the Navajo. </p> <p paraeid=\"{b34dbc52-88af-485d-b512-35b4e2ee37fe}{52}\" paraid=\"1369178426\">The proximity of neighbors in the mission core differs from traditional O’odham villages. There, family households might be generally clustered together, but did not share walls, enclosed spaces, or other facilities. The density of the closely-packed mission community likely  contributed to the spread of European diseases such as measles, smallpox, and typhus. </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.05031819460088,
+          31.568966041125584
+        ]
+      },
+      "properties": {
+        "name": "Tumacácori Mission - Convento Complex",
+        "notes": "Tumacácori Mission - Convento Complex\nhttps://www.nps.gov/places/mission-convento-complex.htm\n\n<p paraeid=\"{d2ad0579-e333-4f41-8140-8efe89593b31}{86}\" paraid=\"2125705026\">Although commonly confused with the term \"convent,\" Tumacácori's convento had nothing to do with housing for nuns. The convento was the operational part of the mission. It functioned as a shared, community workspace and governmental center. It would have been alive with the sounds of people talking, working, and moving about. The rooms aligned in a U-shape around a central courtyard. Along the north wing, where a long raised mound is still visible today, archeological evidence suggests a kitchen, ironworker's shop, carpentry shop, weaving room, leather shop, and grain grinding mill. The storeroom is all that remains of the west row of the convento. The south wing included the priest’s quarters, other office spaces, and an arched entrance to the interior courtyard. The central courtyard was likely planted with trees, ornamental flowers, and medicinal and edible plants. An arcade – a covered walkway lined with arches and built-in benches – ran in front of the rooms. It would have been a shady, inviting, and pleasant place to meet and greet one’s neighbors. The arcade and courtyard garden of the visitor center were built to replicate this experience.  </p> <p paraeid=\"{d2ad0579-e333-4f41-8140-8efe89593b31}{114}\" paraid=\"1272546086\">For its O’odham residents, the mission’s convento may have been a place where tradition and change clashed. A host of new tools, technologies, and food sources had become available. Instead of yucca or cotton fibers, a weaver could use wool. Instead of bone or stone, one could craft tools from metal. But adopting these changes came at a social and cultural cost.  </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.050492,
+          31.568499
+        ]
+      },
+      "properties": {
+        "name": "Tumacácori Mission - Convento Fragment",
+        "notes": "Tumacácori Mission - Convento Fragment\nhttps://www.nps.gov/places/convento-ruin.htm\n\n<p paraeid=\"{ff2d1174-089a-4e83-b380-b7a346cec46d}{28}\" paraid=\"233572219\">Only portions of the original three-sided convento complex remain today: the two-story storeroom at the northwest corner, and this fragment. Just ahead of you was the arched entrance into the convento courtyard, graced by a small dome above. The priest also lived in this wing of the complex.  </p> <p paraeid=\"{ff2d1174-089a-4e83-b380-b7a346cec46d}{38}\" paraid=\"2037684198\">Originally, Tumacácori was only a visita – a visiting station for Catholic missionaries. It wasn’t until 1768 that Tumacácori became a cabecera – a mission that housed a resident priest. This likely caused a significant disturbance for the O’odham of Tumacácori. With only occasional visits from the priest, they could openly continue their traditional religious and social practices. Now, under the watchful eye of a resident priest, they had to conceal those practices in order to model Spanish and Catholic values.  </p> <p paraeid=\"{ff2d1174-089a-4e83-b380-b7a346cec46d}{72}\" paraid=\"1213708685\">This structure continued to serve the Tumacácori community long after the mission era. In the late 1800s and early 1900s, this remaining section of the convento served as a residence, a school, and later housed the museum of the fledgling Tumacácori National Monument. A herringbone-pattern floor currently duplicates and protects the original floor beneath one room. More than any other structure here it has seen many preservation techniques tried to protect it. </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.051012663,
+          31.5695485148
+        ]
+      },
+      "properties": {
+        "name": "Tumacácori Mission - Lime Kiln",
+        "notes": "Tumacácori Mission - Lime Kiln\nhttps://www.nps.gov/places/lime-kiln.htm\n\n<p paraeid=\"{b502ef00-846f-4aac-811f-88c57f6f33ad}{207}\" paraid=\"487232660\">Most of the mission structures are made from sun-dried adobe bricks. A soil mixture would be mixed with water into a thick paste and then pressed into rectangular wooden forms and left in the sun to dry. This efficient style of earthen technology goes back thousands of years, but requires constant maintenance. Moisture, either from the ground or from precipitation, will erode sun-dried adobe bricks, rendering the structure unstable. </p> <p paraeid=\"{b502ef00-846f-4aac-811f-88c57f6f33ad}{213}\" paraid=\"1339374744\">The Spanish favored limestone plaster as a protective coating on their adobe buildings. Many tons of limestone rocks were gathered and carted to the mission’s lime kilns. A fire was built under a metal grill and high temperatures “cooked” the limestone over several days until it could be hammered into a fine powder. That powder was then made into a paste using water and sand, which was later troweled onto on the exposed adobe brick walls. </p> <p paraeid=\"{b502ef00-846f-4aac-811f-88c57f6f33ad}{219}\" paraid=\"686887388\">Gathering stone, mixing plaster, and coating the large structures required the labor of many workers. For the O’odham, the kiln probably represented a significant change in their lifestyle. Previously, they lived with a changing landscape, in buildings that changed with it. The European worldview prioritized permanence and defiance of natural weathering. This shift would shape the way that people across the region live and think for centuries to come. </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.04943,
+          31.568931
+        ]
+      },
+      "properties": {
+        "name": "Tumacácori Mission - Orchard",
+        "notes": "Tumacácori Mission - Orchard\nhttps://www.nps.gov/places/heritage-orchard.htm\n\n<p paraeid=\"{d95ce187-fd8b-4f96-8174-0f8c9ce461b6}{55}\" paraid=\"1091636858\">The saguaro and organ pipe cactus, generally found at lower elevations, provided the O’odham an annual treat of sweet, juicy fruit. The saguaro harvest was celebrated with dancing, singing, and storytelling, and the making and drinking of saguaro wine, essential for the calling of the clouds that would bring the summer rains.  </p> <p paraeid=\"{d95ce187-fd8b-4f96-8174-0f8c9ce461b6}{69}\" paraid=\"1318144640\">The establishment of a mission brought new fruits, imported from Europe and considered essential to a “civilized” life by the priests and settlers. As farmers, the O’odham welcomed these new crops. Wheat, grown over the winter, provided a harvest during an otherwise lean season. Horses, cattle, sheep, goats, and chickens provided transportation, labor, fiber, and convenient sources of protein. </p> <p paraeid=\"{d95ce187-fd8b-4f96-8174-0f8c9ce461b6}{87}\" paraid=\"68448209\">The mission complex included a walled garden and orchard, the contents protected from deer and cattle. Native trees, including hackberries, now grow along the foundations of those adobe walls. Within the original 4.6 acre enclosure the community grew vegetables and fruit trees. Favorite trees brought from Europe included peach, pomegranate, quince, and fig. As recently as 1938, peach trees lined the mission acequia, stabilizing its banks and making use of moisture which seeped through its mud walls. </p> <p paraeid=\"{d95ce187-fd8b-4f96-8174-0f8c9ce461b6}{107}\" paraid=\"1016305585\">The fruit trees that you see here today were grown from seeds and cuttings of old cultivar fruit trees—the oldest trees that could be found in historic orchards and yards throughout southern Arizona. The replanted orchard was dedicated in 2007. </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.050787,
+          31.568881
+        ]
+      },
+      "properties": {
+        "name": "Tumacácori Mission - Storeroom",
+        "notes": "Tumacácori Mission - Storeroom\nhttps://www.nps.gov/places/storeroom-aka-granary.htm\n\n<p paraeid=\"{b502ef00-846f-4aac-811f-88c57f6f33ad}{179}\" paraid=\"411040337\">The storeroom’s two-story structure was the tallest part of the convento complex. Its wide staircase led to an upper level which was supported by heavy pine beams, hauled from the heights of the Santa Rita Mountains. The large beams were, in turn, supported by two thick adobe piers. On the right side of the doorway are depressions where large clay jars filled with seed and grain were stored for next season’s crops.  </p> <p paraeid=\"{b502ef00-846f-4aac-811f-88c57f6f33ad}{189}\" paraid=\"347479631\">The storeroom’s surpluses and deficits were the measure of success or failure of the mission. A well-stocked storeroom allowed the purchase of clothing or other resources. Empty shelves signaled stress. </p> <p paraeid=\"{b502ef00-846f-4aac-811f-88c57f6f33ad}{195}\" paraid=\"454121610\">The storeroom also embodied the community’s new European-style corporate hierarchy and contrasted with the O’odham’s consensus-based government. Harvested food would be collected here and then distributed on a weekly basis. However, the gatekeeper to the storeroom could withhold access, making food contingent on following the mission’s rules.   </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.050755,
+          31.568412
+        ]
+      },
+      "properties": {
+        "name": "Tumacácori Mission - Vats",
+        "notes": "Tumacácori Mission - Vats\nhttps://www.nps.gov/places/mission-vats.htm\n\n<p paraeid=\"{31eac87c-4e70-4289-93a7-6b84ea6fe157}{32}\" paraid=\"1662381678\">Directly in front of the most important, most symbolic, and most decorated structure of the mission are three features whose purpose remains a mystery.  </p> <p paraeid=\"{31eac87c-4e70-4289-93a7-6b84ea6fe157}{38}\" paraid=\"1058237292\">Early excavations found hydraulic lime surfaces at the bottom of the boxes, suggesting they were meant to be water tight. However, archeologists and historians continue to disagree about their original function. Some refer to them as cisterns. Others theorize they provided rudimentary “indoor plumbing” to the convento. Still others look to the unfinished bell tower as evidence the vats served a function in working limestone plaster. </p> <p paraeid=\"{31eac87c-4e70-4289-93a7-6b84ea6fe157}{44}\" paraid=\"806308883\">The side walls are reconstructions. We do not know if they originally rose above ground level. What is your leading theory? </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.050967,
+          31.567643
+        ]
+      },
+      "properties": {
+        "name": "Tumacácori Visitor Center - Courtyard Garden",
+        "notes": "Tumacácori Visitor Center - Courtyard Garden\nhttps://www.nps.gov/places/visitor-center-courtyard-garden.htm\n\n<p paraeid=\"{e8cf43ec-ca99-4c04-9730-98da37d7398f}{190}\" paraid=\"2105885073\">Missions took their garden design from Spanish tradition, which itself borrowed from Arabic, Moorish, and Roman architectural tradition. An ideal Spanish garden incorporated a walled courtyard with a central fountain that promoted shade, fragrance, and color.  </p> <p paraeid=\"{e8cf43ec-ca99-4c04-9730-98da37d7398f}{196}\" paraid=\"1499976238\">These gardens featured mostly plants imported from Europe and brought to the New World by the padres. They were each valuable in their own way—for cultural, religious, or symbolic importance, medicinal or food value, shade, or aesthetics. The tranquility of these natural spaces brought the Spanish and indigenous communities together to savor common cultural values: beauty and utility.   </p> <p paraeid=\"{e8cf43ec-ca99-4c04-9730-98da37d7398f}{210}\" paraid=\"577743043\">The courtyard garden at Tumacácori was built in 1939 as part of the visitor center's “New Deal” era construction. Its design, like that of the adjacent visitor center, was inspired by other missions in the Pimería Alta. Several agencies were involved, but the original plantings were carried out by sixteen young men employed by the Civilian Conservation Corps (CCC). Three native mesquite trees were left in place and continue to grow in the garden. The olive, ornamental pomegranate, and monk’s pepper trees survive to this day. When the original apricot tree had to be removed, a seed from that tree provided its replacement.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.050934,
+          31.56787
+        ]
+      },
+      "properties": {
+        "name": "Tumacácori Visitor Center - Mission Model",
+        "notes": "Tumacácori Visitor Center - Mission Model\nhttps://www.nps.gov/places/visitor-center-mission-model.htm\n\n<p paraeid=\"{1c834b0b-d601-4199-af2f-8ba4a5bc1fcf}{202}\" paraid=\"213701893\">The goal of Spanish colonization was simple: to remake New Spain in the image of Old Spain. All aspects of daily life would be subject to transformation – food, language, clothing, agriculture, and religion. In the mission model you can see adobe buildings for residences and workshops, agricultural lands, cattle, and the main irrigation ditch. A mission community could be considered a residential training academy where indigenous people learned and adopted a new way of life. The plan was for the missionary priest to move on after ten years, when the community could sustain itself. In fact, more than 100 years would pass before the turn of the 19th century when the first bricks would be laid for the mission church you see today. <br /> <br /> On October 17, 1775, Father Pedro Font held mass at the mission as Juan Bautista de Anza marshalled his forces at Tubac. The mission also contributed a small herd of cattle to the expedition.<br /> <br /> Tumacácori went from being an O’odham village to a frontier <em>visita </em>(satellite mission) to a <em>cabecera </em>(headquarters mission). Its people changed as well. The O’odham became known as the “Pima” and the “Papago,” and their lands the <em>Pimería Alta</em> (land of the upper Pima). They were baptized with Spanish names, given Spanish-style clothing, and assigned Spanish jobs. They tended to domestic livestock rather than hunting wild game, and irrigated fruit trees that came from oceans away. </p> <p paraeid=\"{dfb4ab41-585f-4bba-bb28-8ef886f8a288}{11}\" paraid=\"325370160\">Today, the O’odham people still carry with them the legacy of colonization. Because they did not record their stories in a written language, exploring their history requires empathy, inference, and respect for O’odham oral tradition. The descendants of mission-era communities are still living all around us.<br /> <br /> The visitor center is a National Historic Landmark and includes a museum. Visits to Calabasas and Guevavi can be arranged at the park's headquarters. A trail connects Tumacácori and Tubac along the Santa Cruz river through beautiful riparian habitat containing cottonwoods and mesquite. Look for several large ramadas enclosing interpretive panels about Anza's Expeditions and the natural history of the area.</p>",
+        "icon": "red-pin-down.png"
+      }
+    }
+  ]
+}

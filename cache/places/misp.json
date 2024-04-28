@@ -1,0 +1,659 @@
+[
+  {
+    "id": "8EC35108-2206-456E-AD68-0EA08E6CF3F3",
+    "url": "https://www.nps.gov/places/tour-stop-1-park-visitor-center-and-national-cemetery.htm",
+    "title": "Tour Stop #1: Park Visitor Center and National Cemetery",
+    "listingDescription": "",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/1525FF70-A2ED-0218-CD080C1E185DE504.jpg",
+        "credit": "NPS",
+        "altText": "A road leading up to a large brick building at the top of a hill. The sky is blue with clouds.",
+        "title": "Visitor Center",
+        "description": "",
+        "caption": "Mill Springs Battlefield National Monument Visitor Center",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/1525FF70-A2ED-0218-CD080C1E185DE504.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/1525FF70-A2ED-0218-CD080C1E185DE504.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "KY",
+        "parkCode": "misp",
+        "designation": "National Monument",
+        "fullName": "Mill Springs Battlefield National Monument",
+        "url": "https://www.nps.gov/misp/index.htm",
+        "name": "Mill Springs Battlefield"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [
+      "mill springs battlefield national monument",
+      "battle of mill springs",
+      "Mill Springs"
+    ],
+    "latitude": "37.06891392488284",
+    "longitude": "-84.73615944385529",
+    "latLong": "37.06891392488284,-84.73615944385529",
+    "bodyText": "This is the location of the Mill Springs Battlefield National Monument Visitor Center (NPS) and the Mill Springs National Cemetery, operated by the US Department of Veterans Affairs. <br /> <br /> The Mill Springs Battlefield National Monument Visitor Center building was built in 2006 by the Mill Springs Battlefield Association and was donated to the National Park Service when the site became a National Monument in 2020. Inside the Visitor Center you can find bathroom facilities, water fountains, a community room where a 20 minute film about the battle is shown, and the museum with information and artifacts from the battle. <br /> <br /> Mill Springs National Cemetery was established in 1867, originally under the name of Logan's Crossroads National Cemetery, after William H. and Nancy S. Logan donated additional land to the government for its establishment. ",
+    "audioDescription": "Mill Springs Battlefield National Monument Visitor Center is a tall, fort-like structure, placed on top of a hill beside the Mill Springs National Cemetery. A historic wall separates the two locations.",
+    "isPassportStampLocation": "1",
+    "passportStampLocationDescription": "Mill Springs Battlefield National Monument and Beech Grove Winter Encampment",
+    "passportStampImages": [],
+    "managedByUrl": "",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "",
+    "isManagedByNps": "1",
+    "amenities": [
+      "Accessible Rooms",
+      "Accessible Sites",
+      "Automated External Defibrillator (AED)",
+      "Benches/Seating",
+      "Cellular Signal",
+      "Fire Extinguisher",
+      "First Aid Kit Available",
+      "Historical/Interpretive Information/Exhibits",
+      "Information",
+      "Information - Maps Available",
+      "Information - Ranger/Staff Member Present",
+      "Junior Ranger Activity",
+      "Junior Ranger Booklet Available",
+      "Restroom",
+      "Restroom - Accessible",
+      "Water - Bottle-Filling Station",
+      "Water - Drinking/Potable"
+    ],
+    "managedByOrg": "",
+    "quickFacts": [
+      {
+        "id": "5C252B96-2DEB-4EF4-91D1-B5D2B202FCD7",
+        "value": "Nancy, KY",
+        "name": "Location"
+      },
+      {
+        "id": "208F1B3C-44DC-4CF5-9A61-9B26A364D701",
+        "value": "Civil War Battlefield ",
+        "name": "Significance"
+      },
+      {
+        "id": "E32D2136-A184-4C1A-91D2-4C20CEF9CBAF",
+        "value": "National Monument",
+        "name": "Designation"
+      }
+    ],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  },
+  {
+    "id": "5772B760-9B89-4785-91D4-B10215B4E3E6",
+    "url": "https://www.nps.gov/places/tour-stop-2-zollicoffer-park.htm",
+    "title": "Tour Stop #2: Zollicoffer Park",
+    "listingDescription": "",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/C8249B04-CE28-7265-90F02DCEE4BB00A1.jpg",
+        "credit": "NPS",
+        "altText": "Parking lot in front of a historic wall and gate behind which is a small obelisk monument.",
+        "title": "Zollicoffer Park",
+        "description": "",
+        "caption": "A historic fence and gate open into Zollicoffer Park.",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/C8249B04-CE28-7265-90F02DCEE4BB00A1.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/C8249B04-CE28-7265-90F02DCEE4BB00A1.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "KY",
+        "parkCode": "misp",
+        "designation": "National Monument",
+        "fullName": "Mill Springs Battlefield National Monument",
+        "url": "https://www.nps.gov/misp/index.htm",
+        "name": "Mill Springs Battlefield"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [
+      "mill springs battlefield national monument",
+      "Mill Springs",
+      "battle of mill springs"
+    ],
+    "latitude": "37.05627306130235",
+    "longitude": "-84.73935127258301",
+    "latLong": "37.05627306130235,-84.73935127258301",
+    "bodyText": "This is the location of the heaviest fighting during the Battle of Mill Springs on January 19, 1862. Confederate troops moved up into this area from the south early in the morning on January 19th, after meeting Federal pickets stationed at Timmy's Branch. Fighting occurred on both sides of the road, near where modern KY 235 is located. Heavy morning fog, bad weather, and the thick haze of black powder smoke created an environment of confusion as inexperienced troops struggled to see more than a rifle's length in front of them. <br /> <br /> On the eastern side of the road, where Zollicoffer Park is located, Confederate troops were down in the ravine to the east and were fighting uphill against Federal forces located on the other side of a rail fence. Today you can see a facsimilie of this fence in the park. <br /> <br /> On the western side of the road (across KY 235), Federal and Confederate forces clashed, moving through fields and among dense forested areas to exchange fire. <br /> <br /> This site has multiple interesting features: a historic wall and gate built in the early 1900s, a monument to Confederate General Felix K. Zollicoffer, the marker for a Confederate mass grave, the earth-print of a large witness tree that fell in the 1990s (The Zollicoffer Tree), multiple symbolic Confederate headstones, and the Ravine Trail, a 3/4 of a mile hiking trail. ",
+    "audioDescription": "A historic stone wall with a wrought iron gate leads into Zollicoffer Park. You first enter the park in lightly wooded area with a small cement walkway that leads to the stone obelisk monument to Confederate General Felix K. Zollicoffer to the front and to the right, to the marker for the Confederate mass grave. To the right are the symbolic Confederate headstones and to the left is an open field with a rail fence laid diagonal on the hillside. Down the hill that the main area of the park sits on is a heavily wooded area, through which winds the moderately difficult Ravine Trail which guides visitors through the ravine from which Confederate troops fought during the battle.",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "",
+    "isManagedByNps": "1",
+    "amenities": [
+      "Accessible Sites",
+      "Benches/Seating",
+      "Cellular Signal",
+      "Historical/Interpretive Information/Exhibits",
+      "Parking - Auto",
+      "Pets Allowed",
+      "Trailhead"
+    ],
+    "managedByOrg": "",
+    "quickFacts": [
+      {
+        "id": "5C252B96-2DEB-4EF4-91D1-B5D2B202FCD7",
+        "value": "Nancy, KY",
+        "name": "Location"
+      },
+      {
+        "id": "208F1B3C-44DC-4CF5-9A61-9B26A364D701",
+        "value": "Civil War Battlefield ",
+        "name": "Significance"
+      },
+      {
+        "id": "E32D2136-A184-4C1A-91D2-4C20CEF9CBAF",
+        "value": "National Monument",
+        "name": "Designation"
+      }
+    ],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  },
+  {
+    "id": "DE89E57E-57AF-4984-A50C-DEFE9F14D6C5",
+    "url": "https://www.nps.gov/places/tour-stop-3-last-stand-hill.htm",
+    "title": "Tour Stop #3: Last Stand Hill",
+    "listingDescription": "",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/CC99829F-F48A-3DBB-398006C790EA3E48.jpg",
+        "credit": "NPS",
+        "altText": "Two cannons located on a green hill with a tree in the background and blue sky with clouds.",
+        "title": "Two Cannons at Last Stand Hill",
+        "description": "",
+        "caption": "Two Civil War era cannons sit at the top of Last Stand Hill.",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/CC99829F-F48A-3DBB-398006C790EA3E48.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/CC99829F-F48A-3DBB-398006C790EA3E48.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "KY",
+        "parkCode": "misp",
+        "designation": "National Monument",
+        "fullName": "Mill Springs Battlefield National Monument",
+        "url": "https://www.nps.gov/misp/index.htm",
+        "name": "Mill Springs Battlefield"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [
+      "battle of mill springs",
+      "Mill Springs",
+      "mill springs battlefield national monument"
+    ],
+    "latitude": "37.0540640115261",
+    "longitude": "-84.73714113235474",
+    "latLong": "37.0540640115261,-84.73714113235474",
+    "bodyText": "At this location Confederate forces, the 17th, 28th, 29th Tennesse and the 16th Alabama Infantry regiments, held attempted to hold back advancing Federal forces in a \"Last Stand\". Once it was clear that was not possible and Confederate forces were in a full fighting retreat, Confederate artillery posted at the top of Last Stand Hill attempted to bombard Federal forces in order to allow their fellow units to retreat. They were only able to fire a few shorts due to a fear of friendly fire. <br /> <br /> This location offers a good view of Zollicoffer Park and the battlefield to the north, providing the Confederate perspective of the battle. ",
+    "audioDescription": "A gravel drive and parking lot leads to the top of Last Stand Hill. In front of the parking lot are two cannons facing north toward Zollicoffer Park.",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "",
+    "isManagedByNps": "1",
+    "amenities": [
+      "Cellular Signal",
+      "Parking - Auto",
+      "Pets Allowed"
+    ],
+    "managedByOrg": "",
+    "quickFacts": [],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  },
+  {
+    "id": "A2AE3E5D-A299-4FE9-8961-E4C72E784ED8",
+    "url": "https://www.nps.gov/places/tour-stop-4-confederate-field-hospital.htm",
+    "title": "Tour Stop #4: Confederate Field Hospital",
+    "listingDescription": "",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/D132DF89-C7FC-9811-CFB8C25C672DE5F4.jpg",
+        "credit": "NPS",
+        "altText": "A green field with building foundation stones in the center and a sign in front.",
+        "title": "Confederate Field Hospital Site",
+        "description": "",
+        "caption": "The remnants of a building used as a field hospital.",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/D132DF89-C7FC-9811-CFB8C25C672DE5F4.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/D132DF89-C7FC-9811-CFB8C25C672DE5F4.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "KY",
+        "parkCode": "misp",
+        "designation": "National Monument",
+        "fullName": "Mill Springs Battlefield National Monument",
+        "url": "https://www.nps.gov/misp/index.htm",
+        "name": "Mill Springs Battlefield"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [
+      "battle of mill springs",
+      "Mill Springs",
+      "mill springs battlefield national monument"
+    ],
+    "latitude": "37.04648596843107",
+    "longitude": "-84.73485589027405",
+    "latLong": "37.04648596843107,-84.73485589027405",
+    "bodyText": "This is the location of a small log cabin used by Confederate forces as a field hospital during the Battle of Mill Springs. The hospital was in operation throughout the battle and most likely continued operating even after its capture by Federal forces after the Confederate retreat. A few of the foundation stones of the cabin are visible. <br /> <br /> Often set up in nearby hones, businesses, and even churches, field hospitals were rudimentary, with doctors and surgeons using whatever they could to supplement their meager supplies. This location was no different, taking advantage of a nearby structure to provide shelter to injured men. <br /> <br />  ",
+    "audioDescription": "A gravel driveway goes up a small hill to a small gravel parking lot. In front of the lot is a small open field with a few foundational stones visible in the ground. There is an informational sign placed in front of the foundation stones.",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "",
+    "isManagedByNps": "1",
+    "amenities": [
+      "Cellular Signal",
+      "Parking - Auto"
+    ],
+    "managedByOrg": "",
+    "quickFacts": [
+      {
+        "id": "5C252B96-2DEB-4EF4-91D1-B5D2B202FCD7",
+        "value": "Nancy, KY",
+        "name": "Location"
+      },
+      {
+        "id": "208F1B3C-44DC-4CF5-9A61-9B26A364D701",
+        "value": "Civil War Battlefield",
+        "name": "Significance"
+      },
+      {
+        "id": "E32D2136-A184-4C1A-91D2-4C20CEF9CBAF",
+        "value": "National Monument",
+        "name": "Designation"
+      }
+    ],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  },
+  {
+    "id": "3A06422E-CC6E-4629-8C48-CFE475327B22",
+    "url": "https://www.nps.gov/places/tour-stop-5-timmy-s-branch.htm",
+    "title": "Tour Stop #5: Timmy's Branch",
+    "listingDescription": "",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/D3A112CD-CE6E-FAA7-4C78001A47E37797.jpg",
+        "credit": "NPS",
+        "altText": "A sign is visible surrounded by thick vegetation and a tree to the right.",
+        "title": "Wayside at Timmy's Branch",
+        "description": "",
+        "caption": "Informational sign at Timmy's Branch.",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/D3A112CD-CE6E-FAA7-4C78001A47E37797.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/D3A112CD-CE6E-FAA7-4C78001A47E37797.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "KY",
+        "parkCode": "misp",
+        "designation": "National Monument",
+        "fullName": "Mill Springs Battlefield National Monument",
+        "url": "https://www.nps.gov/misp/index.htm",
+        "name": "Mill Springs Battlefield"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [
+      "mill springs battlefield national monument",
+      "Mill Springs",
+      "battle of mill springs"
+    ],
+    "latitude": "37.03376856906245",
+    "longitude": "-84.73365426063538",
+    "latLong": "37.03376856906245,-84.73365426063538",
+    "bodyText": "This stop is the location of the first shots of the Battle of Mill Springs. Having left their encampment at midnight and marched over 10 miles the morning of January 19, 1862, Confederate forces were hoping to surprise the Federal troops camped in and around Logan's Crossroads. Instead, a Confederate cavalry advance met with Federal pickets here at Timmy's Branch around 6:00 AM that morning. Once they began firing, all hope of surprising the larger Federal force further north was lost. ",
+    "audioDescription": "This stop is a small gravel pull off to the side of KY 235. There is an informational sign talking about the significance of Timmy's Branch next to the pull off.",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "",
+    "isManagedByNps": "1",
+    "amenities": [
+      "Cellular Signal",
+      "Parking - Auto"
+    ],
+    "managedByOrg": "",
+    "quickFacts": [
+      {
+        "id": "5C252B96-2DEB-4EF4-91D1-B5D2B202FCD7",
+        "value": "Nancy, KY",
+        "name": "Location"
+      },
+      {
+        "id": "208F1B3C-44DC-4CF5-9A61-9B26A364D701",
+        "value": "Civil War Battlefield ",
+        "name": "Significance"
+      }
+    ],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  },
+  {
+    "id": "D847820A-5A78-415C-BED1-878A5F6D1845",
+    "url": "https://www.nps.gov/places/tour-stop-6-moulden-s-hill.htm",
+    "title": "Tour Stop #6: Moulden's Hill",
+    "listingDescription": "",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/D6767ADE-A394-55A9-35414EA578C24856.jpg",
+        "credit": "NPS",
+        "altText": "A sign in a small clearing surrounded by trees.",
+        "title": "Wayside at Moulden's Hill",
+        "description": "",
+        "caption": "The informational sign at Moulden's Hill.",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/D6767ADE-A394-55A9-35414EA578C24856.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/D6767ADE-A394-55A9-35414EA578C24856.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "KY",
+        "parkCode": "misp",
+        "designation": "National Monument",
+        "fullName": "Mill Springs Battlefield National Monument",
+        "url": "https://www.nps.gov/misp/index.htm",
+        "name": "Mill Springs Battlefield"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [
+      "battle of mill springs",
+      "Mill Springs",
+      "mill springs battlefield national monument"
+    ],
+    "latitude": "36.961200149507015",
+    "longitude": "-84.78091478347778",
+    "latLong": "36.961200149507015,-84.78091478347778",
+    "bodyText": "Federal forces stopped here while pursuing Confederate forces after the battle on January 19, 1862. After pushing Confederate pickets from the area, Federal forces camped and rested here to prepare for a morning assault on the Confederate winter encampment at Beech Grove.<br /> <br /> Throughout the night of January 19, Federal artillery deployed on the high ground in the area of Moulden's Hill shelled the Confederate encampment all night. When Federal forces advanced upon the encampment the next morning, January 20, they found the area abandoned, Confederate troops having retreated across the Cumberland River during the night. ",
+    "audioDescription": "This stop is a small gravel pull off next to a small open area. In the grass is an informational sign.",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "",
+    "isManagedByNps": "1",
+    "amenities": [
+      "Cellular Signal"
+    ],
+    "managedByOrg": "",
+    "quickFacts": [
+      {
+        "id": "5C252B96-2DEB-4EF4-91D1-B5D2B202FCD7",
+        "value": "Wayne County, KY",
+        "name": "Location"
+      },
+      {
+        "id": "208F1B3C-44DC-4CF5-9A61-9B26A364D701",
+        "value": "Civil War Battlefield ",
+        "name": "Significance"
+      },
+      {
+        "id": "E32D2136-A184-4C1A-91D2-4C20CEF9CBAF",
+        "value": "National Monument",
+        "name": "Designation"
+      }
+    ],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  },
+  {
+    "id": "7FC046E0-A0DC-4EC2-8944-592098524A53",
+    "url": "https://www.nps.gov/places/tour-stop-7-confederate-fortified-camp-at-beech-grove.htm",
+    "title": "Tour Stop #7: Confederate Fortified Camp at Beech Grove",
+    "listingDescription": "",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/0506CDC4-EBCA-7466-0D9C49CF27C3CB7C.jpg",
+        "credit": "NPS",
+        "altText": "Leaf covered trail going through a wooded area.",
+        "title": "Trail view of Beech Grove",
+        "description": "",
+        "caption": "A portion of the trail at Beech Grove",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/0506CDC4-EBCA-7466-0D9C49CF27C3CB7C.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/0506CDC4-EBCA-7466-0D9C49CF27C3CB7C.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "KY",
+        "parkCode": "misp",
+        "designation": "National Monument",
+        "fullName": "Mill Springs Battlefield National Monument",
+        "url": "https://www.nps.gov/misp/index.htm",
+        "name": "Mill Springs Battlefield"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [
+      "battle of mill springs",
+      "Mill Springs",
+      "mill springs battlefield national monument"
+    ],
+    "latitude": "36.952601145687005",
+    "longitude": "-84.78484153747559",
+    "latLong": "36.952601145687005,-84.78484153747559",
+    "bodyText": "This stop is the location of part of the northern edge of the Confederate winter encampment. Along this northern edge was a line of formidable earthworks designed by military engineers. This winter encampment was located on a peninsula created by the Cumberland River and White Oak Creek. Confederate General Felix K. Zollicoffer chose this position, with his back to the river, believing it to be an easily defensible position, with the river covering any enemy attacks from the rear. His commanding officer, General George B. Crittenden disagreed with this, believing that Zollicoffer would be placing his troops in a precarious situation. If he was unable to fend off an attack from the north the river would make any evasive manuevers impossible. <br /> <br /> Despite Crittenden's direct order not to cross the river, Zollicoffer established his winter encampment here at Beech Grove. The first thing he had his troops do was create earthworks and entrenchments to protect themselves from Federal attacks from the North. ",
+    "audioDescription": "Small gravel parking lot in front of a fence with a trail to the right that leads past an information sign to a cannon overlooking the Confederate earthworks. A trail to the left takes visitors further into the park and to multiple other informational signs.",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "",
+    "isManagedByNps": "1",
+    "amenities": [
+      "Benches/Seating",
+      "Cellular Signal",
+      "Parking - Auto",
+      "Pets Allowed"
+    ],
+    "managedByOrg": "",
+    "quickFacts": [],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  },
+  {
+    "id": "1BFA7676-66CF-4277-93B6-F40478ACBC3E",
+    "url": "https://www.nps.gov/places/tour-stop-8-ferry-landing-site.htm",
+    "title": "Tour Stop #8: Ferry Landing Site",
+    "listingDescription": "",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/6ADF6667-CC7D-2832-AF67DE223AB49F9A.jpg",
+        "credit": "NPS",
+        "altText": "A gravel road leading down to a body of water that is Lake Cumberland.",
+        "title": "Ferry Crossing",
+        "description": "",
+        "caption": "A gravel road leads down to the original ferry crossing on the Cumberland River.",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/6ADF6667-CC7D-2832-AF67DE223AB49F9A.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/6ADF6667-CC7D-2832-AF67DE223AB49F9A.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "KY",
+        "parkCode": "misp",
+        "designation": "National Monument",
+        "fullName": "Mill Springs Battlefield National Monument",
+        "url": "https://www.nps.gov/misp/index.htm",
+        "name": "Mill Springs Battlefield"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [
+      "beech grove",
+      "ferry crossing",
+      "Confederate retreat",
+      "Lake Cumberland",
+      "Cumberland River",
+      "mill springs battlefield national monument",
+      "battle of mill springs"
+    ],
+    "latitude": "36.94199036881142",
+    "longitude": "-84.78643476963043",
+    "latLong": "36.94199036881142,-84.78643476963043",
+    "bodyText": "This is the location of the original road leading up from the ferry landing of the Cumberland River that was used by both US and Confederate forces before and after the Battle of Mill Springs. Confederate soldiers crossed from the south side of the river on with orders to move north to build fortifications. Trees were felled and the soldiers began to build winter quarters of log huts for their own personal comfort. <br /> <br /> When the Confederate army retreated back to Beech Grove, Confederate Major General George B. Crittenden ordered the systematic retreat across the Cumberland River throughout the night of January 19-20. Everything the soldiers had brought over was left in their quarters and anything of military necessity was abandoned. The demoralized men marched down the road to the ferry crossing to board the Noble Ellis, a sidewheeled steamer, or rafts, that brought them to safety on the southside of the river. Crittenden successfully extracted his force to Mill Springs, then marched them to Monticello.",
+    "audioDescription": "A gravel roadbed with a brown sign that reads \"Tour Stop #8: Ferry Crossing\" and a wayside panel describing the evacuation of the Confederate army from Beech Grove. The roadbed is flanked on both sides by trees that lead down to Lake Cumberland.",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "",
+    "isManagedByNps": "0",
+    "amenities": [
+      "Historical/Interpretive Information/Exhibits",
+      "Information",
+      "Parking - Auto",
+      "Pets Allowed"
+    ],
+    "managedByOrg": "Wayne County, Kentucky.",
+    "quickFacts": [
+      {
+        "id": "5C252B96-2DEB-4EF4-91D1-B5D2B202FCD7",
+        "value": "Wayne County, Kentucky",
+        "name": "Location"
+      },
+      {
+        "id": "208F1B3C-44DC-4CF5-9A61-9B26A364D701",
+        "value": "Original Ferry Crossing Site",
+        "name": "Significance"
+      }
+    ],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [
+      {
+        "title": "Tour Stop #8: The Ferry Crossing",
+        "id": "5F3B7574-FC44-4D35-89D3-3F207877F1F3",
+        "type": "multimedia/audio",
+        "url": "https://www.nps.gov/media/video/view.htm?id=5F3B7574-FC44-4D35-89D3-3F207877F1F3"
+      }
+    ],
+    "relevanceScore": 1
+  }
+]

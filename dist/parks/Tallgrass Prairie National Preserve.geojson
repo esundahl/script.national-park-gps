@@ -1,0 +1,125 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.5518051947995,
+          38.40281715691849
+        ]
+      },
+      "properties": {
+        "name": "Bottomland Nature Trail",
+        "notes": "Bottomland Nature Trail\nhttps://www.nps.gov/places/bottomland-nature-trail.htm\n\nThis stop offers a little of everything for a short visit. The small parking lot is equipped with bike rack, picnic tables, and comfort station restrooms. The one-mile figure-8 gravel is wheelchair accessible in dry conditions and dog friendly. Interpretive signs provide light reading. Spaced benches allow for a short rest to enjoy the surrounding wildlife. The loop connects to the grassy Fox Creek Trails for longer walks.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.55786552771927,
+          38.43987177740766
+        ]
+      },
+      "properties": {
+        "name": "Lower Fox Creek Schoolhouse",
+        "notes": "Lower Fox Creek Schoolhouse\nhttps://www.nps.gov/places/lower-fox-creek-schoolhouse.htm\n\nThe Lower Fox Creek Schoolhouse District #14, completed in 1882, was just one of many signs that a more settled, stable, and established existence was taking shape in the American West. One-room schoolhouses would soon spread across the West as settlers established themselves, believing that only through education and knowledge could a child one day fully participate in American society. The school was operational from 1882 to 1930 and was attended by nearby children. School attendance ranged from 3 to 19 students with all eight grades.<br /> <br /> School is located one mile north of the visitor center and is accessible by car. Turn left out of the visitor center parking lot and travel north on K-177 for one mile, going beyond the school. Make a left turn onto the gravel access road that makes its way to the school. Be careful, as the turn is on a curve. The building is open during the main visitor season from 9 a.m. to 4 p.m., but the interior is still viewable through the windows.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Scenic Overlook Trail",
+        "notes": "Scenic Overlook Trail\nhttps://www.nps.gov/places/scenic-overlook-trail.htm\n\nThe Scenic Overlook Trail is open 24 hours every day. It winds 3.2 miles (5.3 km) one-way through the center of the preserve to a 1492 ft (456 m) hilltop. The wide gravel trail starts at the visitor center or at the ranch complex. It continues into the Windmill Pasture where bison roam freely. Visitors are cautioned to keep at least 100 yards (92 m) distance from the bison. More safety information on bison can be found at the visitor center.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.56132520099999,
+          38.435088302000004
+        ]
+      },
+      "properties": {
+        "name": "Southwind Nature Trail",
+        "notes": "Southwind Nature Trail\nhttps://www.nps.gov/places/southwind-nature-trail.htm\n\nSouthwind Nature Trail is open 24 hours daily. It starts from three locations north of the Spring Hill Ranch. Visitors can loop around and see the Lower Fox Creek School from a distance. Two overlooks highlight the 1.9 miles (3.1 km) dog friendly grass trail through prairie and light wooded areas. Summer blossom and butterfly spotting is popular on this short stroll with mild elevation change. For visitors wanting a small, easily traveled prairie experience, this is the most popular trail.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.5586003999,
+          38.4334502008
+        ]
+      },
+      "properties": {
+        "name": "Spring Hill Farm and Stock Ranch Barn",
+        "notes": "Spring Hill Farm and Stock Ranch Barn\nhttps://www.nps.gov/places/spring-hill-farm-and-stock-ranch-barn.htm\n\nThe massive 1882 barn of the Spring Hill Farm and Stock Ranch stands as an impressive example of form following function. The barn is a working center of the ranch. Storing hay, grain, and farm equipment and animal keeping have given it a beautiful working form. Its function has varied through many decades of activity.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.557838901,
+          38.434293501
+        ]
+      },
+      "properties": {
+        "name": "Spring Hill Ranch House",
+        "notes": "Spring Hill Ranch House\nhttps://www.nps.gov/places/spring-hill-ranch-house.htm\n\nThe grand four-level ranch house forms the centerpiece of the Spring Hill Farm and Stock Ranch. Completed in 1881, it stands as a beautiful example of French Renaissance Second Empire architecture, a style popular in the late 19th century. This large stately home is also an example of great change in the American West: the transition from small ranches on the vast open range to large enclosed ranching businesses, laying the foundations for the present-day American cattle industry.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.5583489,
+          38.432172202
+        ]
+      },
+      "properties": {
+        "name": "Tallgrass Prairie National Preserve",
+        "notes": "Tallgrass Prairie National Preserve\nhttps://www.nps.gov/places/tallgrass-prairie-national-preserve.htm\n\n<p>Tallgrass prairie once covered 170 million acres of North America, but within a generation most of it had been transformed into farmland. Today less than 4% remains intact, mostly in the Kansas Flint Hills. Established on November 12, 1996, the preserve protects a nationally significant remnant of the once vast tallgrass prairie ecosystem. Here the tallgrass makes its last stand.</p> <h2>Site Information</h2> <p><strong>Location</strong> (2480B KS Hwy 177 Strong City)</p> <p><em><a href=\"https://www.nps.gov/safe/planyourvisit/safety.htm\">Safety Considerations</a></em></p> <h3><a href=\"https://www.nps.gov/tapr/index.htm\">Tallgrass Prairie National Preserve</a></h3> <h2><a href=\"https://www.nps.gov/elte/index.htm\">Santa Fe National Historic Trail</a></h2>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.55832686766983,
+          38.43231325683599
+        ]
+      },
+      "properties": {
+        "name": "Tallgrass Prairie National Preserve Visitor Center",
+        "notes": "Tallgrass Prairie National Preserve Visitor Center\nhttps://www.nps.gov/places/tallgrass-prairie-national-preserve-visitor-center.htm\n\n<i>The park's Visitor Center is a great place to begin your tallgrass prairie journey of discovery. National Park Service staff can help answer questions, provide guidance, and offer unique insights into the tallgrass prairie and its nature, history, and culture. Inside the building are restroom facilities, interpretive exhibits, an orientation film, and gift shop. </i>",
+        "icon": "red-pin-down.png"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.14361200000002,
+          39.934645
+        ]
+      },
+      "properties": {
+        "name": "Gloria Dei Church",
+        "notes": "Gloria Dei Church\nhttps://www.nps.gov/places/gloria-dei-church.htm\n\nGloria Dei (Old Swedes') Episcopal Church in South Philadelphia is the oldest church building in Pennsylvania, and among the oldest in the country. The grounds are open daily from 5AM to 11PM. Consult the <a href=\"https://www.old-swedes.org/\">church's website</a> for visiting hours and services.<br /> <br /> The attractive building, constructed in Flemish bond with glazed black header brick, was built between 1698 and 1700 for Swedish settlers. After serving as the Swedish Lutheran Church for almost 150 years, Gloria Dei became part of the Episcopal Church in 1845.",
+        "icon": "red-pin-down.png"
+      }
+    }
+  ]
+}

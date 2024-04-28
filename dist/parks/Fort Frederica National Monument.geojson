@@ -1,0 +1,380 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.38964658106879,
+          31.222789734806746
+        ]
+      },
+      "properties": {
+        "name": "Abbott Monument",
+        "notes": "Abbott Monument\nhttps://www.nps.gov/places/abbott-monument.htm\n\nRobert Sengstacke Abbott was born on St. Simons Island in 1868. As the son of former slaves, the advocacy of rights became his life's work. Trained as a printer and lawyer, he turned to journalism to confront the prejudices of the day and founded <em>The Chicago Defender </em>in 1905. This would become the largest Black-owned daily newspaper in the world and the first to circulate over 100,000 copies. <em>The </em><em>Defender </em>denounced atrocities that affected Black Americans, was outlawed in many southern communities, and had to be smuggled to reach its audience. By praising life in the north, listing jobs, train schedules, and housing opportunities, the newspaper gave the hope and inspirations that launched the Great Migration. Eventually over one million rural black southerners would move north.<br /> <br /> In 1929, Robert Abbott placed a monument on St. Simons Island, at what is now Fort Frederica National Monument, in memory of his aunt and father. At a time when Black history was largely ignored, the monument ensured that his family was not forgotten.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.38974279707851,
+          31.2228363310614
+        ]
+      },
+      "properties": {
+        "name": "African American Burial Ground",
+        "notes": "African American Burial Ground\nhttps://www.nps.gov/places/african-american-burial-ground.htm\n\nLocated across from the Abbott Monument, visit the African American Burial Ground to learn more about the enslaved people on St. Simons Island and surrounding coastal areas.<br /> <br /> The African American Burial Ground is a testament to the enslaved people that were brought to coastal Georgia from Central and West Africa. They brought their cultural customs, languages, and belief systems with them. Enslavement on isolated island and coastal plantations in the lower Atlantic coast created a unique culture with deep African retentions. Descendants of these enslaved people and their traditions are known as Gullah Geechee.<br /> <br /> Following the Revolutionary War, fourteen plantations were established on St. Simons Island, including the land that is now Fort Frederica National Monument. Owners used enslaved people to work the land. Burial sites were typically located on land unsuitable for farming or other commercial pursuits. The burials at Fort Frederica were discovered in the summer of 2019. Research is ongoing to discover more details about the lives of the individuals found here.<br /> <br /> The use of seashells, while not unique to Gullah Geechee culture, has been described as a connection to the water that transported them and would hopefully take them back to Africa after death.<br /> <br /> <br />  ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.39050407407203,
+          31.223752201284093
+        ]
+      },
+      "properties": {
+        "name": "Bennett Tavern",
+        "notes": "Bennett Tavern\nhttps://www.nps.gov/places/bennett-tavern.htm\n\n<p>In Savannah and Charleston, some assumed Oglethorpe was bluffing to get money for his Regiment. You can imagine the heated discussions in Frederica’s three taverns.</p> <p>Each of the taverns served a particular clientele. If Davison’s, located further west on Broad Street, served gentle folk, Bennett’s was for working men.<br /> <br /> Anne Bennett’s tavern stood behind a sign where a tree stands today. Tavern keeping was one of the few business occupations available to a single or widowed woman. Here common soldiers and farmers consoled themselves with drinks and games. Frederica’s third tavern, at the edge of town, was favored by bachelors in search of other comforts.<i> </i>Imagine the commotion here when the Spanish fleet was sighted as it sailed into Jekyll Sound.<br /> <br /> Oglethorpe summonded his troops. His patchwork army united English and Scottish infantry, frontier rangers, Indian warriors, and colonial militia. Many of the soldiers had families at Frederica- most called Georgia home. Even so, Frederica’s muster totaled 750 against over 2000 Spanish. Oglethorpe leapt onto a horse to rally his troops.<br /> <br /> Little did he know that victories at Gully Hole Creek and Bloody Marsh would soon follow, ending Spanish claims to Georgia.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.38031016624151,
+          31.156604495910244
+        ]
+      },
+      "properties": {
+        "name": "Bloody Marsh",
+        "notes": "Bloody Marsh\nhttps://www.nps.gov/places/bloody-marsh.htm\n\nThe Bloody Marsh site marks the last Spanish threat to the British colony of Georgia. For nearly 100 years, England and Spain claimed the \"disputed\" land of Georgia. On July 7, 1742, decisive British victories at Gully Hole Creek and Bloody Marsh ended these claims. <br /> <br /> In June of 1742, a Spanish armada sailed north from Saint Augustine to invade the English colonies in hopes of taking lands that they considered theirs. Spanish commander Manuel de Montiano, the governor of Florida, hoped to destroy Frederica and lay waste to the coast as far north as South Carolina. On the morning of July 7, 1742 the Spanish suffered a defeat near Fort Frederica at Gully Hole Creek. That afternoon, Spanish reinforcements hoped to approach along the Military Road toward the fort but were met with an ambush. Scottish Highlanders (British) hidden in the woods along the marsh opened fire. The battle was decisive and short-lived. Legend has it that the marsh ran red with blood as the British muskets routed the Spanish force.<br /> <br /> The dual disasters proved fatal to the Spanish invasion of St. Simons Island and any hopes of controlling territory in Georgia.<br /> <br /> <strong>Bloody Marsh is located on St. Simon's Island, on 11806 Old Demere Road. It is open from 8:30 am to 4:00 pm, 7 days a week, except for Thanksgiving, Christmas Day and New Year's Day.</strong>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.39026999473572,
+          31.22362830708091
+        ]
+      },
+      "properties": {
+        "name": "Broad Street of Frederica",
+        "notes": "Broad Street of Frederica\nhttps://www.nps.gov/places/broad-street-of-frederica.htm\n\n<p>Each morning a procession from the village filed past the gates to till the fields outside the town walls, the European way of life unchanged since medieval times. <br /> <br /> Broad Street, which stretches to the river, is flanked by pecan and live oak trees. Historically, Broad Street was lined with orange trees planted by settlers, since the Trustees imagined Georgia as a Mediterranean-like port. Walk on the grass down Broad Street towards the fort.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.38880193222576,
+          31.223683355685704
+        ]
+      },
+      "properties": {
+        "name": "Burial Ground and \"Bloody Marsh\" Wayside",
+        "notes": "Burial Ground and \"Bloody Marsh\" Wayside\nhttps://www.nps.gov/places/burial-ground-and-bloody-marsh-wayside.htm\n\n<p>Oglethorpe evacuated Fort St. Simons as the Spanish landed at Gascoigne’s Bluff. Montiano’s troops then advanced toward Frederica. As the Spanish marched up Military Road, a roar shook the trees. The howls of Indian warriors and Frederica townsmen convinced the invaders they were outnumbered. Their drums beat out retreat. Oglethorpe led the chase for two miles and then as he raced back to Frederica for reinforcements the armies re-engaged. When Oglethorpe returned down the Military Road: <br /> <br /> OGLETHORPE: <i>“I found the Spaniards entirely routed by one Platoon of the Regiment under the command of Lieut. Sutherland and the Highland Company under the Command of Lieut. Charles Mackay.” </i><br /> <br /> Rain ended the battle. The marsh around the battlefield was stained red with blood. The day’s action would be known as the Battle of Bloody Marsh, July 7, 1742. Manuel de Montiano was now in the position that Oglethorpe had been in at St. Augustine; in hostile country facing unknown odds. Montiano sent ships to scout the river. These were repelled by Frederica’s cannon, which at last fulfilled their destiny. After several days of indecision, Montiano sailed for home. Frederica had prevailed. Oglethorpe declared a day of Thanksgiving, thanking God:<br /> <br /> OGLETHORPE: <i>“For his great deliverance and the end it has put to the Spanish Invasion.”</i><br /> <br /> <i></i>Oglethorpe was vindicated. Frederica had fulfilled its purpose.<br /> <br /> Return now to the Visitor Center where you began the tour.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.39167552283958,
+          31.22384597636279
+        ]
+      },
+      "properties": {
+        "name": "Calwell House",
+        "notes": "Calwell House\nhttps://www.nps.gov/places/calwell-house.htm\n\nDuring its short history, Frederica's residents engaged in a variety of occupations. John Calwell prospered here on Saint Simons Island. He and his family made candles and soap fine enough to export to Philadelphia. Calwell, like other Frederica residents, worked more than one trade or profession. He was also a traveling merchant, shopkeeper, bailiff, surveyor and \"Conservator of the Peace.\"<br /> <br /> The Calwell House was one of the best in town, with thick walls made of tabby, an oyster-shell concrete visible in the foundation ruins. In the basement, there is evidence of a tile floor and elaborate red brick hearths and oven. In Georgia's sultry climate, rooms below ground were the coolest. ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.39111757278442,
+          31.223779690666937
+        ]
+      },
+      "properties": {
+        "name": "Cannon Plot",
+        "notes": "Cannon Plot\nhttps://www.nps.gov/places/cannon-plot.htm\n\n<p>James Oglethorpe’s military background had not prepared him for the siege. To succeed, he had to block Spanish supply lines and bombard the Castillo until Montiano surrendered. For three weeks, he kept up his cannonade. But his troops were scattered, and Montiano showed no sign of weakening. With no end in sight, Oglethorpe gave up. He had squandered men and money and had failed. Disgraced, exhausted and ill, Oglethorpe returned to Frederica to take up a different battle—a verbal skirmish with South Carolina over blame for the disaster.<br /> <br /> The first house after you pass Cross Street belonged to Daniel Cannon, a carpenter who built many of the houses at Frederica. The odd zigzagging shape of these foundations may result from additions to the original structure. Like Samuel Perkins, Cannon left Frederica, seeking wider opportunities in Charleston.<br /> <br /> CANNON: <i>“Look around you in any direction—a dozen houses I built, but why build a town for Florida to burn? In Charleston they say General Oglethorpe is dangerous!</i><br /> <br /> <i></i>Continue along Broad Street. The next house labeled, “A New House,” probably was built later in Frederica’s history, when the war with Spain had faded into memory. Keep walking past it to the next exhibit titled “Tavernkeepers”.<br /> <br /> Oglethorpe’s experiment was on the verge of crumbling. Settlers were leaving for better economic opportunities, Oglethorpe’s military strategy was questioned, the trustees halved his civil authority dividing Georgia into two counties. But Frederica’s greatest challenge was yet to come.<br /> <br /> Georgia’s spies reported that Manuel de Montiano was preparing to invade Georgia. Oglethorpe sent warnings to Savanah, Carolina, and England that unless help came soon, Fort Frederica could not survive. After months of futile petitions for aid, Oglethorpe wrote to the Duke of Newcastle: <br /> <br /> OGLETHORPE: <i>“…it is too late now to ask succors: before they can arrive the matter will be over. I hope I shall behave as well as one with so few men and so little artillery can.”</i></p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.3913106918335,
+          31.223697117831897
+        ]
+      },
+      "properties": {
+        "name": "Cross Street Intersection",
+        "notes": "Cross Street Intersection\nhttps://www.nps.gov/places/cross-street-intersection.htm\n\n<p>This intersection at Broad Street and Cross was the center of town. Consider the noises, sights, and smells that once filled this crossroads.<br /> <br /> In keeping with the Trustees’ plan to aide those in distress, Oglethorpe welcomed settlers from several nations to Georgia. Austrian Lutherans from Salzburg built a village two miles from Frederica, as well the town of Ebenezer farther north. Highland Scots settled Darien on the Altamaha River. Even French Huguenots were not unknown among Frederica’s citizens.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.39210999011993,
+          31.224243014681136
+        ]
+      },
+      "properties": {
+        "name": "Francis Moore House",
+        "notes": "Francis Moore House\nhttps://www.nps.gov/places/francis-moore-house.htm\n\nFrancis Moore, like other Frederica settlers, wore many hats. He served as General Oglethorpe's secretary, town recorder, and keeper of the supplies in the King's Storehouses. Moore was also an author and shortly after returning to England in 1743, he published an eyewitness account of the founding of Frederica entitled <em>A Voyage to Georgia. </em><br /> <br /> Moore and is wife, Mary, lived on this site in a small, two-story brick house. When archaeologists excavated the site in 1958, they found charred timbers, burned nails, and molten glass- evidence that the house had been destroyed by fire.<br /> <br /> The Moore plot can be found by veering north off Broad Street- the main street of Frederica- toward the barracks. A wayside shows the house floor plan and gives a description of Francis Moore's role at Frederica. Artifacts excavated from the site are on display.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.39221479644266,
+          31.223618302607413
+        ]
+      },
+      "properties": {
+        "name": "Hawkins-Davison House",
+        "notes": "Hawkins-Davison House\nhttps://www.nps.gov/places/hawkins-davison-house.htm\n\n<p>Fort Frederica’s officers and gentlemen came through Samuel Davison’s door to relax in the most respected drinking establishment in town. By law, Davison could serve beer and wine - nothing stronger. The Georgia Trustees banned rum and other spirits, though their use was not at all unknown here.<br /> <br /> The foundation with middle wall helped archeologists determined that this was a duplex. The Davisons' neighbors on the right, Dr. and Mrs. Hawkins, possessed some wealth here on the frontier: Dr. Hawkins was the regiment’s doctor, Frederica’s bailiff, and a successful farmer. But many of his neighbors found him and his wife quick-tempered and quarrelsome. Though Davison and Hawkins shared a wall - or maybe because they did - their feuding entertained Frederica for years. <br /> <br /> The remains of a well at the back of the Hawkins house became a tremendous resource to archeologists. Abandoned wells were used as trash pits, and several artifacts were recovered from this well: a tankard from the tavern, and an ointment jar from the doctor’s apothecary shop - what we would today call a pharmacy.<br /> <br /> At Davison’s, as in taverns of every place and time, raising several glasses elevated the general expertise on all subjects.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.39174688148897,
+          31.223565339173454
+        ]
+      },
+      "properties": {
+        "name": "Houstoun House",
+        "notes": "Houstoun House\nhttps://www.nps.gov/places/houstoun-house.htm\n\n<p>At Frederica, most houses once stood close to the street, another English village tradition. In the backyard cooking and laundry chores could be carried out in cool comfort among the herb gardens and chicken coops.<br /> <br /> Not all Frederica citizens were working class. At this end of Broad Street, more spacious foundations can be found, with liberal use of brick. West of Cross Street was the fashionable side of town. Certainly, houses here caught the first breeze from the river. The Houstoun house had an air of nobility. The home of Priscilla and Patrick Houstoun [pronounced “HOW-ston”], these Frederica residents were founders of a colonial dynasty. Pivotal to shipping goods between Frederica and Savannah, Houstoun also served as Quartermaster of the Regiment. He eventually inherited the title of an English baronet and was later appointed to the Royal Council of Georgia.<br /> <br /> One of Priscilla and Patrick Houstoun's six children, John, in his adult life served as delegate to the Continental Congress and was later elected Governor of Georgia after the American Revolution.<br /> <br /> At Frederica, the Houstouns were more noted for their love of the grape. Archeologists found hundreds of wine bottles behind the house.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.39104604715612,
+          31.223550321502586
+        ]
+      },
+      "properties": {
+        "name": "Humble-Holzendorf Lot",
+        "notes": "Humble-Holzendorf Lot\nhttps://www.nps.gov/places/humble-holzendorf-lot.htm\n\n<p>Georgia became a haven for James Oglethorpe’s worthy poor, workers chronically in debt, or unemployed who needed a fresh start in life. When Frederica was established in 1736, British Trustees provided each settler with tools and food to get them started, along with 50 acres of farmland, and a lot in town for a house. Frederica’s first houses were simple huts thatched with palmetto fronds. John Humble, the first occupant of this lot, stayed in his palmetto structure for years. The tabby foundations remaining today are from a later resident, Dr. Holzendorf, a surgeon to the British regiment. He purchased the lot in 1743 and built a tabby house that was likely two stories tall.<br /> <br /> Oglethorpe expected settlers to improve their property. In John Humble’s case though, Oglethorpe probably overlooked a certain amount of neglect. Humble was a pilot who navigated ships through the narrow coastal channels, a skill essential to Frederica.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.39308203741287,
+          31.22139124596719
+        ]
+      },
+      "properties": {
+        "name": "Kayak Launch",
+        "notes": "Kayak Launch\nhttps://www.nps.gov/places/kayak-launch.htm\n\nPaddling to Fort Frederica can offer a unique perspective of the former British fort and town site. This type of visit requires advance planning, however. The Frederica River is influenced by the tides, so a tide chart is essential for a paddle here. Consider the wind speed and direction as well. Paddling against the tide and/or wind can make for a challenging experience. Choppy, hazardous conditions in times of high wind are possible. It isn't recommended to paddle during these times.<br /> <br /> The kayak launch is located on the east bank of the Frederica River, just south of the fort. Instructions for use of the kayak launch are listed on the mechanism. Paddlers are to paddle onto the metal frame platform. Climb the ladder attached to the lift system, and use the hand crank on the dock to raise or lower your kayak or canoe.<br /> <br /> Questions about paddling to Fort Frederica National Monument? Call the park at (912) 638-3639 x10. A ranger can offer information about the water conditions and tides.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.3909333943775,
+          31.223522797165472
+        ]
+      },
+      "properties": {
+        "name": "LeVally-Maxwell House",
+        "notes": "LeVally-Maxwell House\nhttps://www.nps.gov/places/levally-maxwell-house.htm\n\n<p>James Oglethorpe built Frederica for defense and envisioned it as an experiment in social reform. In the 18<sup>th</sup> century, London swarmed with workmen desperately competing for the same few jobs. Economic conditions, the Georgia trustees believed, cheated everyone of a fair living and filled debtors’ prisons.<br /> <br /> This house was the home of John Levally, Jr., a shoemaker from Charing Cross, England. Georgia welcomed men like Levally, the laborers and craftsmen Oglethorpe called England’s “worthy poor.” Georgia offered land and opportunities denied to these people in England. Like the home of Mary Musgrove, the town's interpreter to the Native American population, Levally’s house was made of tabby, a building material like concrete made from sand, lime, oyster shells and water. These materials are ample along the Georgia coast. Tabby was poured into wooden forms to build a wall one layer at a time. The word “tabby” may derive from the Spanish word <i>tapia</i>, which means wall, or may refer to the material’s striped texture, like a tabby cat.<br /> <br /> Primrose Maxwell, a later occupant of this house, was a Lieutenant in Oglethrope's regiment. He payed an active role in the 1740 British attack on St. Augustine, in Spanish Florida to the south.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.39121323421618,
+          31.223587134848458
+        ]
+      },
+      "properties": {
+        "name": "MacKay-Allen-Sumner House",
+        "notes": "MacKay-Allen-Sumner House\nhttps://www.nps.gov/places/mackay-allen-sumner-house.htm\n\nVisitors today will only find ruins, but an elegant two-story duplex with tabby walls once stood here. Evidence of two wine cellars was discovered, as well as elegant brick and wood detailing.<br /> <br /> Archeologists feel certain that the house was destroyed by fire, perhaps the Great Town Fire of 1758. On the ground floor a layer of ashes that contained charred lumber was found, as well as blobs of melted window glass, and fragments of many bottles, jugs, and crocks.<br /> <br /> The house may have been built by Captain James MacKay, Frederica's commanding officer during Oglethorpe's attack on Spanish St. Augustine in 1743. Earlier residents on this lot included Will Allen, a beaker; and Thomas Sumner, a carpenter.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.39050151868014,
+          31.223501282875894
+        ]
+      },
+      "properties": {
+        "name": "Mary Musgrove House",
+        "notes": "Mary Musgrove House\nhttps://www.nps.gov/places/mary-musgrove-house.htm\n\n<p>By the time of James Oglethorpe’s arrival in Georgia, the coastal native population had already been decimated by earlier European contact. The remaining tabby foundation marks the home of Mary Musgrove Matthews Bosomworth, who lived on the lot in the 1740s. Half-Creek Indian and half-British, Musgrove was a frontier trader and Oglethorpe’s interpreter and liaison to the Indians. Her diplomacy bridged the gap between the two cultures and aided Oglethorpe’s desire for humane and peaceful relations with the Indians. She also helped secure Indian alliances against the Spanish. <br /> <br /> Archeological evidence shows that a living area was located on the left and a cooking area with a fireplace on the right. Sleeping quarters occupied a second floor or loft. Today it may be hard to imagine that entire families lived together in houses as small as this. Frederica’s settlers followed the same rural house-building traditions as their counterparts in England. James Oglethorpe chose settlers accustomed to hard work and plain living. Much of colonial life was spent outdoors working and gathering food. </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.38984441735374,
+          31.22355337978512
+        ]
+      },
+      "properties": {
+        "name": "Moat",
+        "notes": "Moat\nhttps://www.nps.gov/places/moat.htm\n\nThis walkway was once Military Road, the first colonial highway on St. Simons Island. Military Road extended from Fort St. Simons on the south tip of the island to the gates of Frederica. Francis Moore, Oglethorpe’s secretary, described St. Simons Island: <br /> <br /> MOORE (pp. 45, 46):<i> “The island abounds with deer and rabbits; there are no buffaloes on it, though there are large herds upon the main.… The woods on the island are chiefly live-oak, water-oak, laurel, bay, cedar, gum and sassafras, and some pines. There are also abundance of vines growing wild in the woods; one called the fox grape, from a kind of muscadine taste...”.</i><br /> <br /> Woody muscadine grape vines still thread the trees overhead. The low footbridge you are approaching was built to protect the enormous vine on the left, stretching to the ground as thick as a tree trunk. This vine may be 100 years old. As you pass it, you will see a second bridge ahead.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.3893039739,
+          31.2233940467
+        ]
+      },
+      "properties": {
+        "name": "Oglethorpe Cut-Out in the Museum",
+        "notes": "Oglethorpe Cut-Out in the Museum\nhttps://www.nps.gov/places/oglethorpe-cut-out-in-the-museum.htm\n\n<p>The figure is of James Edward Oglethorpe. A respected scholar and member of the British Parliament, Oglethorpe served on Georgia’s board of Trustees, an elite council created by King George the Second. The only Trustee ever to set foot in Georgia, he personally directed and defended the colony for ten years.<br /> <br /> Although Oglethorpe’s unbending will made him a hero to some and a tyrant to others, he inspired hundreds to uproot their lives in England and follow him to Georgia; an act they knew might lead them into war with Spain.  It is Oglethorpe’s town that you are visiting today, shaped both by his plan to protect Britain’s colonial coast, and by his benevolent philosophy. </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.39202952384949,
+          31.22379651093376
+        ]
+      },
+      "properties": {
+        "name": "Perkins House",
+        "notes": "Perkins House\nhttps://www.nps.gov/places/perkins-house.htm\n\n<p>Like Georgia, Florida was a buffer colony protecting Spain’s trade routes to Cuba and the Gulf of Mexico. James Oglethorpe likewise had his counterpart in Florida, Manuel de Montiano, Governor of Florida and commander of the Castillo de San Marcos at St. Augustine. Oglethorpe and Montiano fought a war of wits while they prepared for battle. Florida offered English slaves their freedom if they would fight for Spain. In turn, Oglethorpe captured slaves who tried to escape through Georgia. Both sides fought to secure the alliance of the Indians. Tomochichi warned that the Lower Creek tribes near Florida might side with Spain. Though sick with fever, Oglethorpe rode ten days to a tribal summit at Coweta. Impressed by his determination, the Lower Creeks promised to defend him. Creek warriors began regular raids on Florida. Oglethorpe denied any part in this, but suggested that the raids would cease if Spain retreated from the Georgia territories.<br /> <br /> At the start of the war, the town’s first settlers had lived at Frederica for three years. Many now longed for the wealth and comfort available in plantation colonies and resented Oglethorpe’s restrictions on their lives and livelihoods. On the foundations to the left stood the home of Mr. and Mrs. Samuel Perkins, original settlers who would leave in frustration after five years in Frederica.<br /> <br /> MRS. PERKINS:<i> “I and my husband here are uses as beggars. In England, he was a coach maker, and prospered. But when he offered to improve our fortunes here by returning to that trade, Mr. Oglethorpe said he’s burn Sam’s first coach if he tried! And we work only as he permits—keeping store for the regiment while he plays at soldiers. Where’s the profit in this fools’ war? And now he commands us to provision him to take St. Augustine!” </i><br /> <br /> <i></i>Continue to the next house.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.39125545221006,
+          31.225269622512897
+        ]
+      },
+      "properties": {
+        "name": "The Barracks",
+        "notes": "The Barracks\nhttps://www.nps.gov/places/the-barracks.htm\n\nAt the time of the Spanish attack of St. Simons Island in 1742, about 200 British troops were stationed at Fort Frederica. Some of the officers and married men lived in their own homes. Others lived camp-style in clapboard or thatched huts adjacent to the barracks. The square structure with open parade and gateway tower was made of tabby and could accommodate over 100 soldiers. <br /> <br /> During the 1742 military campaign the barracks served as a hospital and quarters for Spanish prisoners-of-war. The British soldiers housed here had the large duty of protecting the town of Frederica, in contested Georgia, on the edge of the great American wilderness.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.3931683975088,
+          31.223859333646658
+        ]
+      },
+      "properties": {
+        "name": "The Kings Magazine",
+        "notes": "The Kings Magazine\nhttps://www.nps.gov/places/the-kings-magazine.htm\n\nThe Kings Magazine was only part of the town's extensive fortifications, but to many visitors today, it is \"the fort.\" Less than half of the 96-foot \"Kings Magazine\" remains standing. Archeologists believe this structure had three principal parts: vaults for protecting gunpowder, the main entrance with guard tower, called the sally port, and small rooms used by soldiers on guard duty.<br /> <br /> This structure overlooking the river and salt marsh area became the focal point of efforts to preserve the remains of Frederica. Walls were rebuilt and the riverbank was backfilled to prevent erosion of the site. <strong>For your own safety, and the protection of the fragile tabby ruins, please do not climb on the Kings Magazine.</strong>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.3893039739,
+          31.2233940467
+        ]
+      },
+      "properties": {
+        "name": "Town Model in the Museum",
+        "notes": "Town Model in the Museum\nhttps://www.nps.gov/places/town-model-in-the-museum.htm\n\n<p>Frederica was the name of both a fort and its associated town. James Oglethorpe founded Frederica in 1736 to defend the three-year-old colony of Georgia. This model shows Frederica as she might have looked when her defenses were complete. A palisade wall surrounded the town. Inside the palisade lay well ordered streets and houses, where settlers plied their trades and raised their families; their lives intermingled with the soldiers of the garrison. To them all, this fortress on the Georgia frontier was home.<br /> <br /> At the top of the model a small fort guards the river. Look in the mirror at the back of the case for a view of Frederica from the water’s edge.<br /> <br /> Georgia, the 13<sup>th</sup> English colony in North America, filled the gap between South Carolina and the Spanish colony of Florida. This buffer region, claimed by both Spain and England, was known as the “debatable lands.” Frederica was British Georgia’s first line of defense against invasion by the Spaniards.<br /> <br /> Look up from the model through the window for a view of what remains of Frederica today. At first glance, you may see only a clearing in the woods, the trees festooned with Spanish moss. If you look closer at the ground however you see foundations of a house and traces of the town’s earthen palisade. The National Park Service is preserving Frederica’s ruins and archeological resources as they have survived through time. Most of Frederica’s buildings were abandoned or destroyed by fire in 1758, leaving the ruins as an archeological time capsule of life on the colonial frontier.<br /> <br /> Against the wall to your left, photos and artifacts highlight the role of archaeology at Frederica. Excavation of the site began prior to 1950. Archaeologists are still at work today piecing together fragments of the town. Exposed foundations, broken tools and pottery, along with journals, letters, maps, and inventories tell all we know today of Frederica.<b> </b></p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.39000713825226,
+          31.223545734113635
+        ]
+      },
+      "properties": {
+        "name": "Town Wall",
+        "notes": "Town Wall\nhttps://www.nps.gov/places/town-wall.htm\n\n<p>The British townsite and fort at Frederica, circa 1740, was seemingly impenetrable. Earthworks six feet high, two rows of eight foot posts called palisades, a moat, and armed soldiers made for a quality defense system.  <br /> <br /> Today, at the foot of the bridge, on either side of the railing, are remnants of the mile-long wall that once enclosed the town of Frederica. Posts mark the location of the town gate, now a tree-covered embankment. Soldiers once stood guard duty here on a firing step, making sure the enemy did not enter the town at this point.<br /> <br /> The expanse in front of the town wall is Broad Street. Imagine it lined with houses and shops.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.39253577416132,
+          31.223788409079667
+        ]
+      },
+      "properties": {
+        "name": "Wayside Outside the King's Magazine",
+        "notes": "Wayside Outside the King's Magazine\nhttps://www.nps.gov/places/wayside-outside-the-king-s-magazine.htm\n\n<p>James Oglethorpe lived a varied life in America, splitting his time and duties among Georgia’s settlements. In his early years at Frederica he slept in a tent, even as he urged others to build fine houses. He finally built a home just outside the town—a modest estate known simply as “The Farm.”<br /> <br /> Today Oglethorpe’s fort still proudly flies the British King's Colors (1603-1801). For six years, Oglethorpe improved his defenses, convinced that the battle for the debatable lands would be decided here. There were higher, more comfortable sites for a fortress, but few better suited to a tactical defense.<br /> <br /> Fort Frederica did not face the ocean, where an entire Spanish fleet could surround it. A lookout post, Fort St. Simons, at the south end of the island watched for approaching vessels. Before hostile forces reached Frederica, they would have to sail past the guns of Fort St. Simons, then continue up the river on the inland side of the island. Fort Frederica stood at a sharp bend in the river, her guns facing south and west, though Oglethorpe knew Spanish strategy would bring an assault from the south.<br /> <br /> On the wayside a drawing of the fortification, circa 1742, shows that the island once extended farther into the river. Storms and erosion have washed away the shoreline where the spur was built.</p>",
+        "icon": "red-pin-down.png"
+      }
+    }
+  ]
+}

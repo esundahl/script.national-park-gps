@@ -1,0 +1,1153 @@
+[
+  {
+    "id": "35A96D31-2793-4973-B681-D4201895E6AC",
+    "url": "https://www.nps.gov/places/flood-marker.htm",
+    "title": "Flood Marker",
+    "listingDescription": "This canal, skirting the 76-foot drop of the Great Falls on the Potomac, was the most demanding and complex of the five canals built by the Patowmack Company.",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/3B400452-916A-00D8-D3960D8100BAF5EC.jpg",
+        "credit": "Photo: NPS / Claire Hassler",
+        "altText": "A pole acting as a flood marker has 7 dates to indicate the height of floods from different years.",
+        "title": "Flood Marker",
+        "description": "",
+        "caption": "Flood Marker",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/3B400452-916A-00D8-D3960D8100BAF5EC.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/3B400452-916A-00D8-D3960D8100BAF5EC.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "VA",
+        "parkCode": "grfa",
+        "designation": "Park",
+        "fullName": "Great Falls Park",
+        "url": "https://www.nps.gov/grfa/index.htm",
+        "name": "Great Falls"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [],
+    "latitude": "38.9950061009",
+    "longitude": "-77.2531621002",
+    "latLong": "38.9950061009,-77.2531621002",
+    "bodyText": "<h3>The Patowmack Canal, 1785-1828</h3> <p>This canal, skirting the 76-foot drop of the Great Falls on the Potomac, was the most demanding and complex of the five canals built by the Patowmack Company.<br /> <br /> The company was founded by George Washington on May 17, 1785 to improve the Potomac River for access and trade with the western frontier. <br /> <br /> The agreement that was developed between Maryland and Virginia to share the river for their common purpose led to further meetings- Annapolis (1786) and Philadelphia (1787) and to drafting of the U.S. Constitution. </p>",
+    "audioDescription": "A flood marker is positioned in front of a stone walkway. The walkway is uneven. To the left of the stone pathway is a gravel a pathway leading to a boardwalk. Dates on the marker from highest to lowest: 1936, 1942, 1972, 1937, 1996, 1985.",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "64f894c7-7a5b-4d92-89b2-ae030d83417a",
+    "isManagedByNps": "1",
+    "amenities": [
+      "Historical/Interpretive Information/Exhibits"
+    ],
+    "managedByOrg": "",
+    "quickFacts": [],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  },
+  {
+    "id": "CB249736-3540-4410-8DE4-7432F63659D8",
+    "url": "https://www.nps.gov/places/000/great-falls-overlook-1.htm",
+    "title": "Great Falls Overlook 1",
+    "listingDescription": "This overlook is located to the left of the south end of the Visitor Center. It is the closest you can get to the Falls themselves.",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/148BFCBE-AACF-1F6C-1FAA3E9B295D081D.jpg",
+        "credit": "NPS / Claire Hassler",
+        "altText": "A rushing waterfall",
+        "title": "Great Falls Overlook 1",
+        "description": "",
+        "caption": "Great Falls Overlook 1",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/148BFCBE-AACF-1F6C-1FAA3E9B295D081D.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/148BFCBE-AACF-1F6C-1FAA3E9B295D081D.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "VA",
+        "parkCode": "grfa",
+        "designation": "Park",
+        "fullName": "Great Falls Park",
+        "url": "https://www.nps.gov/grfa/index.htm",
+        "name": "Great Falls"
+      },
+      {
+        "states": "DC,MD,VA",
+        "parkCode": "gwmp",
+        "designation": "Memorial Parkway",
+        "fullName": "George Washington Memorial Parkway",
+        "url": "https://www.nps.gov/gwmp/index.htm",
+        "name": "George Washington"
+      },
+      {
+        "states": "DC,MD,PA,VA",
+        "parkCode": "pohe",
+        "designation": "National Scenic Trail",
+        "fullName": "Potomac Heritage National Scenic Trail",
+        "url": "https://www.nps.gov/pohe/index.htm",
+        "name": "Potomac Heritage"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [
+      "overlook",
+      "View"
+    ],
+    "latitude": "38.9964274312",
+    "longitude": "-77.2536855604",
+    "latLong": "38.9964274312,-77.2536855604",
+    "bodyText": "<p>This overlook is located to the left of the south end of the Visitor Center. It is the closest you can get to the Falls themselves. A short trail leads down to a dirt viewing platform. The rest of the overlook is rocky and will require some easy climbing. Do not go beyond the fences. Falls from this area can cause serious injury or death.</p> <p>There is not a fully accessible trail to Overlook 1.</p>",
+    "audioDescription": "",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "a2cf11bc-7119-449c-9e6e-ad359b6f3361",
+    "isManagedByNps": "1",
+    "amenities": [
+      "Historical/Interpretive Information/Exhibits",
+      "Scenic View/Photo Spot"
+    ],
+    "managedByOrg": "",
+    "quickFacts": [],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  },
+  {
+    "id": "735E3C74-1777-4FFA-AE17-F73A1C1955E5",
+    "url": "https://www.nps.gov/places/000/great-falls-overlook-2.htm",
+    "title": "Great Falls Overlook 2",
+    "listingDescription": "This overlook is located further down the trail. Most of the waterfall can be seen from this overlook.",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/149695FF-DD49-BA60-06A56546F82A2CB2.jpg",
+        "credit": "NPS / Claire Hassler",
+        "altText": "A rushing waterfall surrounded by large rock boulders",
+        "title": "Great Falls Overlook 2",
+        "description": "",
+        "caption": "Great Falls Overlook 2",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/149695FF-DD49-BA60-06A56546F82A2CB2.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/149695FF-DD49-BA60-06A56546F82A2CB2.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "VA",
+        "parkCode": "grfa",
+        "designation": "Park",
+        "fullName": "Great Falls Park",
+        "url": "https://www.nps.gov/grfa/index.htm",
+        "name": "Great Falls"
+      },
+      {
+        "states": "DC,MD,VA",
+        "parkCode": "gwmp",
+        "designation": "Memorial Parkway",
+        "fullName": "George Washington Memorial Parkway",
+        "url": "https://www.nps.gov/gwmp/index.htm",
+        "name": "George Washington"
+      },
+      {
+        "states": "DC,MD,PA,VA",
+        "parkCode": "pohe",
+        "designation": "National Scenic Trail",
+        "fullName": "Potomac Heritage National Scenic Trail",
+        "url": "https://www.nps.gov/pohe/index.htm",
+        "name": "Potomac Heritage"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [
+      "overlook",
+      "scenic view"
+    ],
+    "latitude": "38.995940561",
+    "longitude": "-77.253351371",
+    "latLong": "38.995940561,-77.253351371",
+    "bodyText": "<p>This overlook is located further down the trail. Most of the waterfall can be seen from this overlook. Take a left on the small wooden footbridge by the Patowmack Canal wayside. A staircase and ramp leads down to a large wooden viewing platform.</p> <p>This overlook is accessible.</p>",
+    "audioDescription": "",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "687222db-982a-4a96-8e26-96d0b9eab5bc",
+    "isManagedByNps": "1",
+    "amenities": [
+      "Historical/Interpretive Information/Exhibits",
+      "Scenic View/Photo Spot"
+    ],
+    "managedByOrg": "",
+    "quickFacts": [
+      {
+        "id": "5C252B96-2DEB-4EF4-91D1-B5D2B202FCD7",
+        "value": "Great Falls Park",
+        "name": "Location"
+      },
+      {
+        "id": "208F1B3C-44DC-4CF5-9A61-9B26A364D701",
+        "value": "Scenic View",
+        "name": "Significance"
+      }
+    ],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  },
+  {
+    "id": "B21C4DEF-9229-4C6D-8E93-4A8A4E791F70",
+    "url": "https://www.nps.gov/places/000/great-falls-overlook-3.htm",
+    "title": "Great Falls Overlook 3",
+    "listingDescription": "Two viewing platforms at Overlook 3 provide the best view of Great Falls.",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/14B103F7-D5F6-3BF6-DA501A93D8BAF2B9.jpg",
+        "credit": "NPS / Claire Hassler",
+        "altText": "A large river rushing down a stream filled with large boulders.",
+        "title": "Great Falls Overlook 3",
+        "description": "",
+        "caption": "Great Falls Overlook 3",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/14B103F7-D5F6-3BF6-DA501A93D8BAF2B9.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/14B103F7-D5F6-3BF6-DA501A93D8BAF2B9.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "VA",
+        "parkCode": "grfa",
+        "designation": "Park",
+        "fullName": "Great Falls Park",
+        "url": "https://www.nps.gov/grfa/index.htm",
+        "name": "Great Falls"
+      },
+      {
+        "states": "DC,MD,VA",
+        "parkCode": "gwmp",
+        "designation": "Memorial Parkway",
+        "fullName": "George Washington Memorial Parkway",
+        "url": "https://www.nps.gov/gwmp/index.htm",
+        "name": "George Washington"
+      },
+      {
+        "states": "DC,MD,PA,VA",
+        "parkCode": "pohe",
+        "designation": "National Scenic Trail",
+        "fullName": "Potomac Heritage National Scenic Trail",
+        "url": "https://www.nps.gov/pohe/index.htm",
+        "name": "Potomac Heritage"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [],
+    "latitude": "38.995166404",
+    "longitude": "-77.252849099",
+    "latLong": "38.995166404,-77.252849099",
+    "bodyText": "<p>Follow the trail that goes past Overlook 2 across the second small wooden footbridge. On your left, you will see the High Water Marks pole, with markers showing how high the floods reached. Two viewing platforms provide the best view of Great Falls. This overlook is the last place that the Falls can be viewed.</p> <p>Overlook 3 is fully accessible.</p>",
+    "audioDescription": "",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "32184b1d-c4df-40fe-b724-2bfc24f83ebc",
+    "isManagedByNps": "1",
+    "amenities": [
+      "Historical/Interpretive Information/Exhibits",
+      "Scenic View/Photo Spot"
+    ],
+    "managedByOrg": "",
+    "quickFacts": [
+      {
+        "id": "5C252B96-2DEB-4EF4-91D1-B5D2B202FCD7",
+        "value": "Great Falls Park",
+        "name": "Location"
+      },
+      {
+        "id": "208F1B3C-44DC-4CF5-9A61-9B26A364D701",
+        "value": "Scenic View",
+        "name": "Significance"
+      }
+    ],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  },
+  {
+    "id": "47F5A24C-87CF-48BD-A637-FD1A4FAC89AB",
+    "url": "https://www.nps.gov/places/great-falls-park-fee-booth.htm",
+    "title": "Great Falls Park Fee Booth",
+    "listingDescription": "Great Falls Fee Booth.",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/CA9282C0-9828-7CD9-A403405B419F7729.jpeg",
+        "credit": "NPS",
+        "altText": "A small wooden structure in woods next to a road.",
+        "title": "Great Falls Fee Booth",
+        "description": "",
+        "caption": "Great Falls Fee Booth",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/CA9282C0-9828-7CD9-A403405B419F7729.jpeg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/CA9282C0-9828-7CD9-A403405B419F7729.jpeg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "VA",
+        "parkCode": "grfa",
+        "designation": "Park",
+        "fullName": "Great Falls Park",
+        "url": "https://www.nps.gov/grfa/index.htm",
+        "name": "Great Falls"
+      },
+      {
+        "states": "DC,MD,VA",
+        "parkCode": "gwmp",
+        "designation": "Memorial Parkway",
+        "fullName": "George Washington Memorial Parkway",
+        "url": "https://www.nps.gov/gwmp/index.htm",
+        "name": "George Washington"
+      },
+      {
+        "states": "DC,MD,PA,VA",
+        "parkCode": "pohe",
+        "designation": "National Scenic Trail",
+        "fullName": "Potomac Heritage National Scenic Trail",
+        "url": "https://www.nps.gov/pohe/index.htm",
+        "name": "Potomac Heritage"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [
+      "fee booth"
+    ],
+    "latitude": "38.995240712959266",
+    "longitude": "-77.25541041758132",
+    "latLong": "38.995240712959266,-77.25541041758132",
+    "bodyText": "Fee Booth for Great Falls Park.",
+    "audioDescription": "",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "",
+    "isManagedByNps": "1",
+    "amenities": [
+      "Entrance Passes For Sale",
+      "Information",
+      "Information - Ranger/Staff Member Present",
+      "Ticket Sales"
+    ],
+    "managedByOrg": "",
+    "quickFacts": [
+      {
+        "id": "5C252B96-2DEB-4EF4-91D1-B5D2B202FCD7",
+        "value": "Great Falls Park",
+        "name": "Location"
+      },
+      {
+        "id": "208F1B3C-44DC-4CF5-9A61-9B26A364D701",
+        "value": "Fee Booth",
+        "name": "Significance"
+      }
+    ],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  },
+  {
+    "id": "E6D8D856-1D00-4275-B3D5-AA0AC8F63E33",
+    "url": "https://www.nps.gov/places/information-panel-a-globally-rare-environment.htm",
+    "title": "Information Panel: A Globally Rare Environment",
+    "listingDescription": "Look around you. Have you noticed the unusual landscape here? Because of this landscape's wild river and rocky terrain, this is one of the country's most biologically diverse areas. Bedrock terraces high above the river, precarious ledges and floodplains have become a fragile home to over 30 distinct plant communities, three of which are not found anywhere else in the world. What has and continues to cause this diverse, rare life to exist? The river before you is the answer. ",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/3D54B5FB-E27A-6F19-D6D1664A8312B75B.jpg",
+        "credit": "Photo: NPS / Claire Hassler",
+        "altText": "A map of a watershed is displayed on top of a picture of white water flowing over rocks.",
+        "title": "Info Panel: A Globally Rare Environment",
+        "description": "",
+        "caption": "Information Panel: A Globally Rare Environment",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/3D54B5FB-E27A-6F19-D6D1664A8312B75B.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/3D54B5FB-E27A-6F19-D6D1664A8312B75B.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "VA",
+        "parkCode": "grfa",
+        "designation": "Park",
+        "fullName": "Great Falls Park",
+        "url": "https://www.nps.gov/grfa/index.htm",
+        "name": "Great Falls"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [],
+    "latitude": "38.99512302621667",
+    "longitude": "-77.25275337696075",
+    "latLong": "38.99512302621667,-77.25275337696075",
+    "bodyText": "\"In more than twenty-five years of field work, I have not seen another site with a comparable diversity of land forms, plants, and natural communities.\" - Gary Fleming, Ecologist Virginia DCR<br /> <br /> Look around you. Have you noticed the unusual landscape here? Because of this landscape's wild river and rocky terrain, this is one of the country's most biologically diverse areas. Bedrock terraces high above the river, precarious ledges and floodplains have become a fragile home to over 30 distinct plant communities, three of which are not found anywhere else in the world. What has and continues to cause this diverse, rare life to exist? The river before you is the answer. <br /> <br /> As you explore this 2.5-mile long trail you will encounter 14 trailside exhibits illustrating the unique features of the Potomac River Gorge and the important role it fills within the watershed. <br /> <br /> What is a watershed? It's an area of land from which rainwater and snowmelt drain into a large body of water. Everybody lives in a watershed!",
+    "audioDescription": "An information panel is embedded within a wood barrier. The barrier to prevent visitors from falling is placed atop a stone wall. A river with large rocks surrounding it is positioned in the background.",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "",
+    "isManagedByNps": "1",
+    "amenities": [
+      "Historical/Interpretive Information/Exhibits"
+    ],
+    "managedByOrg": "",
+    "quickFacts": [],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  },
+  {
+    "id": "5D009016-7690-4462-941B-182FEBDA4537",
+    "url": "https://www.nps.gov/places/information-panel-explore-a-trail-network.htm",
+    "title": "Information Panel: Explore A Trail Network",
+    "listingDescription": "Welcome to Great Falls Park. We hope that you enjoy your time exploring the Potomac River Gorge, but please remember to keep your own safety in mind. If you aren't adapted with long sturdy legs and wide spreading toes like we Herons, it will be easy for you to slip off the rocks at the river's edge of get carried away by the swift currents or whirlpools. Enjoy your visit and please come again!",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/39D08D26-CEB2-B3A3-C912B1527312E079.jpg",
+        "credit": "Photo: NPS / Claire Hassler",
+        "altText": "A map of the coastal plain of great falls is positioned next to images of blue Herons.",
+        "title": "Info Panel: Explore A Trail Network",
+        "description": "",
+        "caption": "Information Panel: Explore A Trail Network",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/39D08D26-CEB2-B3A3-C912B1527312E079.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/39D08D26-CEB2-B3A3-C912B1527312E079.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "VA",
+        "parkCode": "grfa",
+        "designation": "Park",
+        "fullName": "Great Falls Park",
+        "url": "https://www.nps.gov/grfa/index.htm",
+        "name": "Great Falls"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [],
+    "latitude": "38.99696579885506",
+    "longitude": "-77.2554087638855",
+    "latLong": "38.99696579885506,-77.2554087638855",
+    "bodyText": "You are standing on part of the Potomac Heritage National Scenic Trail. Discover the Potomac River up close here at Great Falls Park with sweeping views of the river and its largest falls. Dynamic river forces have exposed ancient metamorphic bedrock and created unique and rare plant communities. Archeology suggests that indigenous people used the area as fishing and seasonal hunting grounds. Early Americans saw the falls as an obstacle to trade and settlement. In 1785 they built the Potowmack Canal to make the river navigable for trade and settlement in lands to the West. Here, and along the Potomac Heritage National Scenic Trail, you can explore the wonders of the Potomac- the Nation's River.  <h3><br /> Have a Safe Experience</h3> Welcome to Great Falls Park. We hope that you enjoy your time exploring the Potomac River Gorge, but please remember to keep your own safety in mind. If you aren't adapted with long sturdy legs and wide spreading toes like we Herons, it will be easy for you to slip off the rocks at the river's edge of get carried away by the swift currents or whirlpools. Enjoy your visit and please come again!<br /> <br /> \"If someone is pulled in, they can expect to go under. If you can imagine going through a washing machine, that's what it will feel like. Your pants will probably be sucked off, your shoes will pop off. It will probably try to suck your shirt off, and the river will probably try to pull you right to the bottom.\"<br /> <br /> The Potomac River can be deadly due to very long currents, unpredictable hydraulics and undertows. Swimming and wading is strictly prohibited, and rock hopping is strongly discouraged near the river's edge. <br /> <br /> Since 2001, there have been 24 fatal drowning incidents, and 112 near miss situations in this area of the Potomac River. ",
+    "audioDescription": "Two information panels are connected. They are positioned behind a gravel surface. Behind and to the left of the panels is a fence constructed of wood. Trees stand in the background.",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "",
+    "isManagedByNps": "1",
+    "amenities": [
+      "Historical/Interpretive Information/Exhibits"
+    ],
+    "managedByOrg": "",
+    "quickFacts": [],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  },
+  {
+    "id": "EBC2387A-06E9-4560-ABB1-47CF6D2D6342",
+    "url": "https://www.nps.gov/places/information-panel-life-under-the-surface.htm",
+    "title": "Information Panel: Life Under the Surface",
+    "listingDescription": "The Potomac River travels 383 miles from its headwaters to the Chesapeake Bay. Migratory fish depend on its constant flow to survive. The American Shad symbolizes the struggle that many aquatic organisms face when trying to find a healthy and dependable habitat to breed. ",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/3946AF81-B009-5A43-CA25B219B22369A8.jpg",
+        "credit": "Photo: NPS / Claire Hassler",
+        "altText": "Six fish with large stomachs are pictured on the panel swimming in light green water.",
+        "title": "Info Panel: Life Under the Surface",
+        "description": "",
+        "caption": "Information Panel: Life Under the Surface",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/3946AF81-B009-5A43-CA25B219B22369A8.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/3946AF81-B009-5A43-CA25B219B22369A8.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "VA",
+        "parkCode": "grfa",
+        "designation": "Park",
+        "fullName": "Great Falls Park",
+        "url": "https://www.nps.gov/grfa/index.htm",
+        "name": "Great Falls"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [],
+    "latitude": "39.003527680924414",
+    "longitude": "-77.24979758262634",
+    "latLong": "39.003527680924414,-77.24979758262634",
+    "bodyText": "The Potomac River travels 383 miles from its headwaters to the Chesapeake Bay. Migratory fish depend on its constant flow to survive. The American Shad symbolizes the struggle that many aquatic organisms face when trying to find a healthy and dependable habitat to breed. <br /> <br /> Once plentiful here, and an important food resource for centuries, the American Shad's population nearly collapsed by the mid 1900s. Pollution, overdosing, and human alterations to the river's flow have seriously impacted aquatic organisms in this region. <br /> <br /> Some fish, like the American Shad and the American Eel, cover vast distances during their annual migration between Great Falls and the Atlantic Ocean. Many other fish species and aquatic life depend on the Bay's water and freshwater tributaries year round. <br /> <br /> The fish passage constructed at Little Falls Dam within the Potomac Gorge enables fish to move upriver. Removing obstructions and constructing fish passages are important ways to help migratory fish like shad, eels, herring, and perch reach spawning habitat. <br /> <br /> Restocking programs have also been critical to boosting the depleted shad fishery- now very slowly recovering. Seen here, local community members release baby shad they raised into the Potomac River.<br />  ",
+    "audioDescription": "An information panel is embedded into a wood fence. A stone wall sits beneath it. Vegetation, rocks, and flowing water are seen behind and below the information panel.",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "",
+    "isManagedByNps": "1",
+    "amenities": [
+      "Historical/Interpretive Information/Exhibits"
+    ],
+    "managedByOrg": "",
+    "quickFacts": [],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  },
+  {
+    "id": "198062F7-7207-4190-95BD-64A4CD9F30E8",
+    "url": "https://www.nps.gov/places/information-panel-people-and-the-potomac.htm",
+    "title": "Information Panel: People and the Potomac",
+    "listingDescription": "The Potomac River is the second largest watershed feeding the Chesapeake Bay. Early peoples depended on the river for food and made their homes along its banks. European settlers saw the river as a source for transportation, expansion, and settlement. ",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/3AA1C17B-C146-49FE-387C9D5134F8CC42.jpg",
+        "credit": "Photo: NPS / Claire Hassler",
+        "altText": "A black and white image of two women sitting on rocks overlooking the river in 1920 is displayed.",
+        "title": "Information Panel: People & the Potomac",
+        "description": "",
+        "caption": "Information Panel: People and the Potomac",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/3AA1C17B-C146-49FE-387C9D5134F8CC42.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/3AA1C17B-C146-49FE-387C9D5134F8CC42.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "VA",
+        "parkCode": "grfa",
+        "designation": "Park",
+        "fullName": "Great Falls Park",
+        "url": "https://www.nps.gov/grfa/index.htm",
+        "name": "Great Falls"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [],
+    "latitude": "39.00147663704508",
+    "longitude": "-77.25110650062561",
+    "latLong": "39.00147663704508,-77.25110650062561",
+    "bodyText": "The Potomac River is the second largest watershed feeding the Chesapeake Bay. Early peoples depended on the river for food and made their homes along its banks. European settlers saw the river as a source for transportation, expansion, and settlement. <br /> <br /> We still rely on the river in important ways. Most of the people in the Washington, D.C. area depend on the Potomac River as a source of their drinking water. Millions more see the river as a place to recreate- a place to escape from busy lives. <br /> <br /> What is YOUR relationship to the river?",
+    "audioDescription": "An information panel is embedded into a barrier constructed of wood. The barrier protects visitors from falling. The surface leading to the wayside is wood paneling. A river with rocks on either side is seen in the background.",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "",
+    "isManagedByNps": "1",
+    "amenities": [
+      "Historical/Interpretive Information/Exhibits"
+    ],
+    "managedByOrg": "",
+    "quickFacts": [],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  },
+  {
+    "id": "AFE7203B-6155-4F56-A782-C70C88618698",
+    "url": "https://www.nps.gov/places/information-panel-river-of-change.htm",
+    "title": "Information Panel: River of Change",
+    "listingDescription": "The Potomac River begins as a small spring near Fairfax Stone, West Virginia. Like a giant funnel it gathers water from Pennsylvania, West Virginia, Maryland, Virginia, and the District of Columbia as it travels 383 miles to the Chesapeake Bay.",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/3CBACBAE-FA55-0684-704A68FC290579C3.jpg",
+        "credit": "Photo: NPS / Claire Hassler",
+        "altText": "Three images of the water flowing down Great Falls is displayed on the information panel.",
+        "title": "Information Panel: River of Change",
+        "description": "",
+        "caption": "Information Panel: River of Change",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/3CBACBAE-FA55-0684-704A68FC290579C3.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/3CBACBAE-FA55-0684-704A68FC290579C3.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "VA",
+        "parkCode": "grfa",
+        "designation": "Park",
+        "fullName": "Great Falls Park",
+        "url": "https://www.nps.gov/grfa/index.htm",
+        "name": "Great Falls"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [],
+    "latitude": "38.995193902974705",
+    "longitude": "-77.25306987762451",
+    "latLong": "38.995193902974705,-77.25306987762451",
+    "bodyText": "The Potomac River begins as a small spring near Fairfax Stone, West Virginia. Like a giant funnel it gathers water from Pennsylvania, West Virginia, Maryland, Virginia, and the District of Columbia as it travels 383 miles to the Chesapeake Bay.<br /> <br /> When it reaches Great Falls, the river narrows and drops 76 feet into a canyon called Mather Gorge. Changing weather conditions in the river's watershed affect the character of the river at Great Falls. <br /> <br /> During dry periods the river shrinks to a trickle on the face of a rock wall. At average flow, the river cascades over the rocks into a 25-foot deep pool. Within 72 hours after a snow melt or heavy rains upstream, the Potomac swells. Sometimes the flow is so great that all the water cannot force its way through the narrow entrance of Mather Gorge. When this happens, the river backs up, covers the falls and floods the riverbank. ",
+    "audioDescription": "An information panel is embedded in a barrier constructed of wood. The barrier is positioned on a stone wall. Water flows down and in between rocks in the background.",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "",
+    "isManagedByNps": "1",
+    "amenities": [
+      "Historical/Interpretive Information/Exhibits"
+    ],
+    "managedByOrg": "",
+    "quickFacts": [],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  },
+  {
+    "id": "89F18F80-4039-472B-B740-194CEB05D1CF",
+    "url": "https://www.nps.gov/places/information-panel-something-more-than-a-statue.htm",
+    "title": "Information Panel: Something More than a Statue",
+    "listingDescription": "Before World War II, there were no national memorials honoring American veterans. This was the first. Felix de Weldon was working for the Navy when he first saw the flag-raising photo. Powerfully inspired, he started work. He created his first small statue in only 48 hours. He then secured approval from the Corps and Congress to make something grander. ",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/686CF38D-BABB-2C06-512EE15B58F74CD9.jpg",
+        "credit": "Photo: NPS / Claire Hassler",
+        "altText": "A black and white image of soldiers is positioned next to images of ads for the military years ago.",
+        "title": "Info Panel: Something More than a Statue",
+        "description": "",
+        "caption": "Information Panel: Something More than a Statue",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/686CF38D-BABB-2C06-512EE15B58F74CD9.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/686CF38D-BABB-2C06-512EE15B58F74CD9.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "VA",
+        "parkCode": "grfa",
+        "designation": "Park",
+        "fullName": "Great Falls Park",
+        "url": "https://www.nps.gov/grfa/index.htm",
+        "name": "Great Falls"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [],
+    "latitude": "38.8907864804854",
+    "longitude": "-77.07059383392334",
+    "latLong": "38.8907864804854,-77.07059383392334",
+    "bodyText": "Dedicated: 10 November 1954<br /> Sculptor: Felix de Weldon (1907-2003)<br /> Made of: Bronze and black granite from Sweden<br /> Height: 79 feet, 23.8 m<br /> Cost (1954): $850, 000<br /> Paid for by: Individual Marines and friends of the Corps<br /> <br /> Before World War II, there were no national memorials honoring American veterans. This was the first. Felix de Weldon was working for the Navy when he first saw the flag-raising photo. Powerfully inspired, he started work. He created his first small statue in only 48 hours. He then secured approval from the Corps and Congress to make something grander. <br /> <br /> He hoped for monumental art that could \"encompass the valiant spirit of our fighting men and thrill the heart of the Nation.\"  <h3>A Legacy Older than the Republic</h3> You might be surprised to learn that there have been Marines for longer than there has been a country called the United States of America.<br /> <br /> The Second Continental Congress, meeting in Philadelphia, first authorized the raising of the \"Continental Marines\" - in November 1775. <br /> <br /> The well-known ability of the Marines to quickly respond to emergencies- in any part of the globe- has made them a part of almost every conflict in the history of the United States. Marines have \"fought their country's battles\" on every continent, and sailed every sea on the planet, for more than 240 years. <br /> <br /> One of your best opportunities to learn more in depth about Marines, their challenges, triumphs, and traditions in not far away. Near Quantico, Virginia, about 30 minutes driving time from here, you can explore the National Museum of the Marine Corps or conduct research at the Marine Corps History Division. ",
+    "audioDescription": "Two, long information panels are positioned low to the ground just off a paved path. The panels stand at about half a foot from the ground. A grassy field is positioned behind the panels. A memorial of men raising an American flag is seen in the background.",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "",
+    "isManagedByNps": "1",
+    "amenities": [
+      "Audio Description",
+      "Historical/Interpretive Information/Exhibits",
+      "Tactile Exhibit"
+    ],
+    "managedByOrg": "",
+    "quickFacts": [],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  },
+  {
+    "id": "C71D23BC-DDCF-4B55-B30F-730EC7509EDF",
+    "url": "https://www.nps.gov/places/matildaville.htm",
+    "title": "Matildaville",
+    "listingDescription": "These rocks mark the site of a building of the now-vanished town of Matildaville. Founded in 1790, the town was planned as an industrial community which would profit from its location on the canal. It once boasted a forge, gristmill, store, storage buildings, some homes and an inn, but it could not survive the closing of the canal in 1830.",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/68059E7D-F33F-F67F-915B912D0CDFEA30.jpg",
+        "credit": "Photo: NPS / Claire Hassler",
+        "altText": "A small stone structure is held together with cement. Metal railings act as a barrier to protect it.",
+        "title": "Matildaville",
+        "description": "",
+        "caption": "Matildaville",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/68059E7D-F33F-F67F-915B912D0CDFEA30.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/68059E7D-F33F-F67F-915B912D0CDFEA30.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "VA",
+        "parkCode": "grfa",
+        "designation": "Park",
+        "fullName": "Great Falls Park",
+        "url": "https://www.nps.gov/grfa/index.htm",
+        "name": "Great Falls"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [],
+    "latitude": "38.88263987972626",
+    "longitude": "-77.25275874137878",
+    "latLong": "38.88263987972626,-77.25275874137878",
+    "bodyText": "These rocks mark the site of a building of the now-vanished town of Matildaville. Founded in 1790, the town was planned as an industrial community which would profit from its location on the canal. It once boasted a forge, gristmill, store, storage buildings, some homes and an inn, but it could not survive the closing of the canal in 1830.",
+    "audioDescription": "A small, stone structure is held together with cement. Metal railings act as a barrier to protect it. Brown, plant overgrowth covers the structure's foundation. A gravel path seems to circle around the stone structure. Tall trees stand in the background.",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "",
+    "isManagedByNps": "1",
+    "amenities": [
+      "Historical/Interpretive Information/Exhibits"
+    ],
+    "managedByOrg": "",
+    "quickFacts": [],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  },
+  {
+    "id": "439624ED-779C-4897-BBC7-A77CEB127EE9",
+    "url": "https://www.nps.gov/places/pawtomac-canal-company-house.htm",
+    "title": "Pawtomac Canal Company House",
+    "listingDescription": "These rock walls mark the site of a house built in the late 1790's by the Patowmac Company. Intended for the Canal Superintendent and his family, the house took so long to build that only one of the superintendents ever lived in it. Later it was occupied by the canal lock-tenders.",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/3E4393CC-D9DD-7C31-CE68CC97DC62BB5A.jpg",
+        "credit": "Photo: NPS / Claire Hassler",
+        "altText": "Two structures constructed of stone and cement are positioned in a wood area.",
+        "title": "Pawtomac Canal Company House",
+        "description": "",
+        "caption": "Pawtomac Canal Company House",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/3E4393CC-D9DD-7C31-CE68CC97DC62BB5A.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/3E4393CC-D9DD-7C31-CE68CC97DC62BB5A.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "VA",
+        "parkCode": "grfa",
+        "designation": "Park",
+        "fullName": "Great Falls Park",
+        "url": "https://www.nps.gov/grfa/index.htm",
+        "name": "Great Falls"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [],
+    "latitude": "38.99108710312846",
+    "longitude": "-77.25019454956055",
+    "latLong": "38.99108710312846,-77.25019454956055",
+    "bodyText": "These rock walls mark the site of a house built in the late 1790's by the Patowmac Company. Intended for the Canal Superintendent and his family, the house took so long to build that only one of the superintendents ever lived in it. Later it was occupied by the canal lock-tenders.",
+    "audioDescription": "Two structures constructed of stone and cement are positioned in a wood area. The two structures are not connected, but seem as though at one point, they were. Overgrowth covers the bottom parts of the stone structures.",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "",
+    "isManagedByNps": "1",
+    "amenities": [
+      "Historical/Interpretive Information/Exhibits"
+    ],
+    "managedByOrg": "",
+    "quickFacts": [],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  },
+  {
+    "id": "35D6733F-7A91-4656-AF1E-F581EE75CA4B",
+    "url": "https://www.nps.gov/places/pawtomac-canal-holding-basin.htm",
+    "title": "Pawtomac Canal Holding Basin",
+    "listingDescription": "Since entering the woods, you have been walking through what was the holding basin of the Patowmac Canal. Water held here by the wooden gates was used to fill the locks for boats locking through.",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/3DF4E5DE-C94A-7874-06DA0DEB046079DE.jpg",
+        "credit": "Photo: NPS / Claire Hassler",
+        "altText": "A dirt/gravel pathway is surrounded by short walls of rock on either side.",
+        "title": "Pawtomac Canal Holding Basin",
+        "description": "",
+        "caption": "Pawtomac Canal Holding Basin",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/3DF4E5DE-C94A-7874-06DA0DEB046079DE.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/3DF4E5DE-C94A-7874-06DA0DEB046079DE.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "VA",
+        "parkCode": "grfa",
+        "designation": "Park",
+        "fullName": "Great Falls Park",
+        "url": "https://www.nps.gov/grfa/index.htm",
+        "name": "Great Falls"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [],
+    "latitude": "38.991491539681746",
+    "longitude": "-77.25016236305237",
+    "latLong": "38.991491539681746,-77.25016236305237",
+    "bodyText": "Since entering the woods you have been walking through what was the holding basin of the Patowmac Canal. Water held here by the wooden gates was used to fill the locks for boats locking through.",
+    "audioDescription": "A dirt/gravel pathway is surrounded by short walls of rock on either side. The pathway seems to lead into the distance and to the right. Trees stand tall in the background.",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "",
+    "isManagedByNps": "1",
+    "amenities": [
+      "Historical/Interpretive Information/Exhibits"
+    ],
+    "managedByOrg": "",
+    "quickFacts": [],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  },
+  {
+    "id": "9A6144F2-E644-49A0-8D8D-30530B8265BD",
+    "url": "https://www.nps.gov/places/potomac-canal-historic-district.htm",
+    "title": "Potowmack Canal",
+    "listingDescription": "The Potowmack Canal Historic District consists of the largest, longest and most intact remains of the Potowmack Canal, built between 1786 and 1802, and the ruins of the small associated town of Matildaville. The development of the Potowmack Canal required interstate cooperation and the canal planners saw that the new republic would require similar collaboration thus inspiring the unification of the colonies to become the United States of America.",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/157B55A8-0542-8683-66E5B21FFEB584AE.jpg",
+        "credit": "NPS / Claire Hassler",
+        "altText": "A wayside in front of a trail",
+        "title": "Potowmack Canal",
+        "description": "",
+        "caption": "Potowmack Canal",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/157B55A8-0542-8683-66E5B21FFEB584AE.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/157B55A8-0542-8683-66E5B21FFEB584AE.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "VA",
+        "parkCode": "grfa",
+        "designation": "Park",
+        "fullName": "Great Falls Park",
+        "url": "https://www.nps.gov/grfa/index.htm",
+        "name": "Great Falls"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [
+      "National Historic Landmark",
+      "nhl",
+      "Virginia",
+      "VA",
+      "NCR",
+      "colonial America",
+      "Constitutional Convention",
+      "National Capital Region",
+      "Potowmack Canal Company",
+      "George Washington",
+      "james madison",
+      "Annapolis Convention",
+      "Potomac River",
+      "great falls",
+      "Matildaville",
+      "Labor History"
+    ],
+    "latitude": "38.995981881005505",
+    "longitude": "-77.25435197386105",
+    "latLong": "38.995981881005505,-77.25435197386105",
+    "bodyText": "<p style=\"margin:0in; margin-bottom:.0001pt\"><span style=\"color:#000000;\">The Potowmack Canal is the best preserved segment of a river navigation system constructed between 1786 and 1802 by the Potowmack Canal Company. Although it is among the earliest and best surviving examples of an early American canal system, its national importance relates not to its engineering or commercial success, but instead to its direct connections to important public questions of the day and to the formative events that led to the development of the United States Constitution. Among those questions were the debate over federal authority to regulate interstate commerce, the need for internal improvements to link the country, and the role government would play in accomplishing such projects.  <br /> <br /> Visionary American leaders including George Washington and James Madison played pivotal roles in both the Potowmack Canal Company and the formation of the nation. Meetings initiated as part of the formation of the Potowmack Canal reinforced the need to clarify and strengthen the role of the central government in trade and commerce. Trade conferences that took place at the beginning of the Potowmack Canal venture directly influenced James Madison and others to create the 1787 Constitutional Convention. </span><br /> <br /> <span style=\"color:#000000;\"><span style=\"background:white\">Prior to the American Revolution, George Washington wished to develop transportation routes from the eastern seaboard to the vast western territories. After years of petitioning, his dreams were finally realized in the 1780s. Along with James Madison, Washington proposed a canal as one element of an overall strategy to unite the new country. By January 1785, both Maryland and Virginia had passed the legislation needed to build a canal.</span></span><br />  </p> <p style=\"margin:0in; margin-bottom:.0001pt\"><span style=\"color:#000000;\"><span style=\"background:white\">In March 1785, representatives from Maryland and Virginia successfully negotiated a broad agreement for the joint use of the Potomac River and Chesapeake Bay at George Washington's Mount Vernon. The report of the meeting also called for an annual conference on commercial matters between Maryland, Virginia and other states.The first of these meetings occurred the following year at the Annapolis Convention, where several states called for a constitutional convention to draft a cohesive federal constitution. The Potomac improvements, which would be organized by the new Patowmack Company, thus helped crystallize sentiments for national unity. </span><br /> <br /> <span style=\"background:white\">In May 1785, Washington was elected the first president of the Patowmack Company. Its goal was to reduce navigation hazards in the river and its tributaries, for example, by clearing out sandbars and rubble and by blasting channels in shallow places. Workers constructed five “skirting” canals at places where obstacles were too large to be removed and the river was not navigable. The canal at Great Falls is the best preserved example of these by-passing waterways.<br /> <br /> The work was difficult and dangerous. The company hired free people, but also utilized indentured servants and enslaved people living in the vicinity. Washington often traveled to the construction sites to observe and direct the process. In 1789, he resigned from the company to become the first president of the United States.</span></span><br />  </p> <p style=\"margin:0in; margin-bottom:.0001pt\"><span style=\"color:#000000;\"><span style=\"background:white\">Floods and accidents plagued the construction of locks at Great Falls and delayed the opening of the canal by years. Even after the canal was fully operational in 1802, fluctuations in weather and water level drastically affected operations. The erratic and limited operating schedule discouraged traffic, which limited income from tolls, the only source of revenue.</span></span><br />  </p> <p style=\"margin:0in; margin-bottom:.0001pt\"><span style=\"color:#000000;\"><span style=\"background:white\">Near the canal construction, Revolutionary War hero, “Light Horse” Harry Lee, the father of Robert E. Lee, founded Matildaville (named after his wife). Here the Patowmack Company stationed its headquarters and created housing for workers. In the little town, one could find a market, gristmill, sawmill, foundry, inn, and ice house. Boardinghouses and other small homes also emerged to meet the increasing demands of canal patrons.</span></span><br />  </p> <p style=\"margin:0in; margin-bottom:.0001pt\"><span style=\"color:#000000;\"><span style=\"background:white\">Thousands of boats headed to Georgetown used the skirting canals to successfully transport goods such as flour, whiskey, tobacco, and iron. Vessels heading upstream, which was much more difficult, brought manufactured goods such as cloth, firearms and hardware towards Cumberland. The downstream trip took three to five days. The upstream journey, which required laborers to pole against the current, lasted ten to twelve days.</span><br /> <br /> <span style=\"background:white\">During the 1820s, Virginia and Maryland politicians advocated for the construction of another canal to connect the Chesapeake Bay and the Ohio River. In 1825, the Chesapeake and Ohio Canal (also known as the C&O Canal) was chartered. Shortly thereafter, in 1828, the Patowmack Company closed. The new canal company continued to operate the Patowmack Canal until 1830. In that year, the company dismantled the working parts of the locks, thereby rendering it nonfunctional. Since that time, nature has taken its course with the derelict canal, although major elements of it survive as ruins. Matildaville likewise declined, although some of its structures continued to be used on a sporadic basis. The traces of the town can still be seen on the landscape today.</span><br /> <br /> <span style=\"background:white\">As the predecessor to the C&O Canal, the Patowmack Canal helped usher the new country into an era of bustling transportation and economic expansion. The canal was intimately linked with important public issues of its day: Federal authority over matters pertaining to interstate commerce, the need for the creation of internal improvements to link distant parts of the new nation, and the role of government in accomplishing such projects.<br /> <br /> <br /> For more information visit </span></span><a href=\"https://www.nps.gov/grfa/learn/historyculture/canal.htm\">The Potowmack Canal</a><span style=\"color:#000000;\"><span style=\"background:white\"> </span></span><br /> <br /> <br />  </p> <p><a href=\"http://npgallery.nps.gov/NRHP/AssetDetail?assetID=bb5013ee-e288-4334-9c66-08fb860faf3a\"><span style=\"color:#000000;\">National Historic Landmark Nomination</span></a><span style=\"color:#000000;\"> of the Potowmack Canal Historic District.</span><br />  </p> <p><em><a href=\"https://www.nps.gov/nhl/index.htm\"><span style=\"color:#000000;\">National Historic Landmarks (NHLs)</span></a><span style=\"color:#000000;\"> are historic places that possess exceptional value in commemorating or illustrating the history of the United States. The National Park Service’s National Historic Landmarks Program oversees the designation of such sites. There are just over 2,500 National Historic Landmarks. All NHLs are also listed in the </span><a href=\"https://www.nps.gov/nr/\"><span style=\"color:#000000;\">National Register of Historic Places.</span></a></em></p>",
+    "audioDescription": "",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "https://www.nps.gov/grfa/learn/historyculture/canal.htm",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "",
+    "isManagedByNps": "1",
+    "amenities": [
+      "Historical/Interpretive Information/Exhibits"
+    ],
+    "managedByOrg": "",
+    "quickFacts": [
+      {
+        "id": "5C252B96-2DEB-4EF4-91D1-B5D2B202FCD7",
+        "value": "Virginia ",
+        "name": "Location"
+      },
+      {
+        "id": "E32D2136-A184-4C1A-91D2-4C20CEF9CBAF",
+        "value": "National Historic Landmark ",
+        "name": "Designation"
+      }
+    ],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  },
+  {
+    "id": "07C2C4EC-67DB-47D6-AE9C-E0A76DE98117",
+    "url": "https://www.nps.gov/places/restrooms-at-great-falls-park.htm",
+    "title": "Restrooms at Great Falls Park",
+    "listingDescription": "Restrooms at Great Falls Park",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/1588FD8D-996A-E355-4BFC81CC16464F2A.jpg",
+        "credit": "NPS / Claire Hassler",
+        "altText": "A restroom surrounded by woods",
+        "title": "Restrooms at Great Falls Park",
+        "description": "",
+        "caption": "Restrooms at Great Falls Park",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/1588FD8D-996A-E355-4BFC81CC16464F2A.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/1588FD8D-996A-E355-4BFC81CC16464F2A.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "VA",
+        "parkCode": "grfa",
+        "designation": "Park",
+        "fullName": "Great Falls Park",
+        "url": "https://www.nps.gov/grfa/index.htm",
+        "name": "Great Falls"
+      },
+      {
+        "states": "DC,MD,VA",
+        "parkCode": "gwmp",
+        "designation": "Memorial Parkway",
+        "fullName": "George Washington Memorial Parkway",
+        "url": "https://www.nps.gov/gwmp/index.htm",
+        "name": "George Washington"
+      },
+      {
+        "states": "DC,MD,PA,VA",
+        "parkCode": "pohe",
+        "designation": "National Scenic Trail",
+        "fullName": "Potomac Heritage National Scenic Trail",
+        "url": "https://www.nps.gov/pohe/index.htm",
+        "name": "Potomac Heritage"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [
+      "restrooms"
+    ],
+    "latitude": "38.99290223305869",
+    "longitude": "-77.25294295798872",
+    "latLong": "38.99290223305869,-77.25294295798872",
+    "bodyText": "Restrooms at Great Falls Park.",
+    "audioDescription": "One story brown building.",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "",
+    "isManagedByNps": "1",
+    "amenities": [
+      "Restroom"
+    ],
+    "managedByOrg": "",
+    "quickFacts": [],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  }
+]

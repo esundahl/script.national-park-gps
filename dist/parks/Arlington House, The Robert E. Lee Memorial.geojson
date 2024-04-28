@@ -1,0 +1,155 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0727328991,
+          38.8819108999
+        ]
+      },
+      "properties": {
+        "name": "Arlington House Museum",
+        "notes": "Arlington House Museum\nhttps://www.nps.gov/places/000/arlington-house-museum.htm\n\nMuseum housed in an old potting shed that interprets the life and legacy of Robert E. Lee.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0729576001,
+          38.8813769998
+        ]
+      },
+      "properties": {
+        "name": "Arlington House North Slave Quarters",
+        "notes": "Arlington House North Slave Quarters\nhttps://www.nps.gov/places/000/arlington-house-north-slave-quarters.htm\n\n ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.073042,
+          38.880964
+        ]
+      },
+      "properties": {
+        "name": "Arlington House South Slave Quarters",
+        "notes": "Arlington House South Slave Quarters\nhttps://www.nps.gov/places/000/arlington-house-south-slave-quarters.htm\n\nThis dependency was used as slave quarters for Selina Gray and her family as well as a smokehouse. Today, exhibits describe life for the enslaved people on site.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.072944299,
+          38.882058
+        ]
+      },
+      "properties": {
+        "name": "Arlington House gift shop and restrooms",
+        "notes": "Arlington House gift shop and restrooms\nhttps://www.nps.gov/places/000/arlington-house-gift-shop-and-restrooms.htm\n\n<p>Your purchase at the book and souvenir shop supports this and other national parks.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.072662,
+          38.880951
+        ]
+      },
+      "properties": {
+        "name": "Arlington House, The Robert E. Lee Memorial",
+        "notes": "Arlington House, The Robert E. Lee Memorial\nhttps://www.nps.gov/places/000/arlington-house-the-robert-e-lee-memorial.htm\n\n<p>Arlington House is the nation's memorial to Robert E. Lee. It honors him for specific reasons, including his role in promoting peace and reunion after the Civil War. In a larger sense it exists as a place of study and contemplation of the meaning of some of the most difficult aspects of American History: military service; sacrifice; citizenship; duty; loyalty; slavery and freedom.<br /> <br /> Architect: George Hadfield</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.07313656806946,
+          38.88102798640793
+        ]
+      },
+      "properties": {
+        "name": "Information Panel: Cherish these forest trees",
+        "notes": "Information Panel: Cherish these forest trees\nhttps://www.nps.gov/places/information-panel-cherish-these-forest-trees.htm\n\nTowering groves of oak and chestnut trees once shaded the grounds of Arlington House. A dark, leafy backdrop made the pale-colored bricks pop in contrast. The Custis family admired the natural beauty of the forest, but war and burials transformed the landscape. Only 12 original acres of mature forest, known as Arlington Woods, survive today. <blockquote> <p>\"Recollect, my dear, how much easier it is to cut a tree down than to make one grow.\"</p> <p style=\"text-align: right;\">Marquis de Lafayette to Mary Custis, amid the cool breeze of the Arlington House portico, 1824.</p> </blockquote> <p>An acorn appears at the top of the Lee family crest, which declares in Latin, \"Not Heedless of the Future.\"<br /> <br /> After the Union Army's occupation of Arlington House, the forest was cleared to improve sight lines on the hill.<br /> <br /> Union soldiers camped in the woods around Arlington House.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.07316875457764,
+          38.881445578860024
+        ]
+      },
+      "properties": {
+        "name": "Information Panel: Division And Reunification",
+        "notes": "Information Panel: Division And Reunification\nhttps://www.nps.gov/places/information-panel-division-and-reunification.htm\n\nRobert E. Lee, a soldier and scholar, once lived at Arlington House and managed the plantation on this land. After Lee took command of the Confederate Army of Northern Virginia, the Union Army seized his home. Union soldiers buried their casualties of war on these grounds. Enslaved families endured their struggle for freedom here. A controversial figure today, Lee worked to reunify the country after the American Civil War. The National Park Service welcomes you to explore this place of peace and conflict.<br /> <br /> Accessibility<br /> The entire site is accessible to all. In the mansion, wheelchair access is available to select areas on the main floor.<br /> <br /> Plan Your Visit<br /> Quick History<br /> Grounds<br /> Enjoy the expansive view of Arlington National Cemetery and the surrounding Washington, DC, area.<br /> Flower Garden<br /> Smell the fragrand flowers once enjoyed by Lee family guests.<br /> Kitchen Garden<br /> Stroll among the roots of the past.<br /> <br /> Take it all in<br /> Slave Quarters<br /> Learn about the lives of those enslaved at Arlington Plantation<br /> Arlington House<br /> Explore exhibits and historical furnishings.<br /> Museum<br /> View historical artifacts about Lee, Custis, and Washington<br /> Bookstore<br /> Take a memory of Arlington with you.<br /> <br /> Learn More<br /> Guided Tours<br /> History comes to life. Check online schedule for details, ask a park ranger or a volunteer.<br /> Junior rangers<br /> Children can complete activities to receive a Junior Ranger badge!<br /> Park Website<br /> Visit nps.gov/arho to learn about the park.<br /> <br />  ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.07304000854492,
+          38.88067720685157
+        ]
+      },
+      "properties": {
+        "name": "Information Panel: Hallowed Ground",
+        "notes": "Information Panel: Hallowed Ground\nhttps://www.nps.gov/places/information-panel-hallowed-ground.htm\n\nArlington National Cemetery began when Civil War casualties overwhelmed area cemeteries. Three years after the Lees fled their home, Quartermaster Montgomery Meigs orders the bodies of Union soldiers to be stratetigally buried around Mrs. Lee's Garden.<br /> <br /> The tomb to your right contains over 2,000 unidentified Civil War soldiers. After the Civil War, presidents and families visited this space to honor the fallen. Today, Arlington National Cemetery stands as a memorial to service and sacrifice.<br /> <br /> This 1869 Harpers Weekly illustration conveys the somber scene. The artistic license of this scene includes the addition of graves and the omission of slave quarters.<br />   <blockquote> <p>\"Coffins had been piled in long rows like cordwood.\"</p> <p style=\"text-align: right;\">Jim Parks</p> </blockquote> <p>Jim Parks helped shape Arlington National Cemetery. His life linked the plantation's past and present: born enslaved and buried at Arlington with full military honors in 1929. Parks was 18 when the war began. Parks earned equal pay to white workers, and the Secretary of War granted special permission for his burial in appreciation for his service.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.07285761833191,
+          38.880652151102716
+        ]
+      },
+      "properties": {
+        "name": "Information Panel: The Path to Freedom",
+        "notes": "Information Panel: The Path to Freedom\nhttps://www.nps.gov/places/information-panel-the-path-to-freedom.htm\n\nPast the rose garden, about a 10-minute walk from here, rows of houses curved around the land once owned by the Lee family. This was Freedmans Village, a temporary community of former slaves established in 1863. Most who lived here risked their lives to escape the chains of slavery. Their opportunity came as Union troops marched throughout Virginia and Maryland.<br /> <br /> Freedmans Village was home to more than 1,100 people including Sojourner Truth, who lived here for one year. Two families made a home under each roof, planting trees and vegetable gardens. A hospital cared for the sick, while churches and schools cultivated minds. Many worked in construction and some enlisted in the Union Army. Under segregation, villagers faced hardships and the threat of eviction. Nonetheless, a chance at a new life began.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0745,
+          38.88099
+        ]
+      },
+      "properties": {
+        "name": "Old Administration Building of Arlington National Cemetery",
+        "notes": "Old Administration Building of Arlington National Cemetery\nhttps://www.nps.gov/places/000/old-administration-building-of-arlington-national-cemetery.htm\n\n<p>This site once functioned as the administrative offices for Arlington National Cemetery. Earlier still, George Washington Parke Custis kept his stables here. The original structures are mostly lost, but the current building resembles their photographs. It serves as a ranger office. There are no public facilities.</p>",
+        "icon": "red-pin-down.png"
+      }
+    }
+  ]
+}

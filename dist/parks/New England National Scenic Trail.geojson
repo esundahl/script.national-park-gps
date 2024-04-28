@@ -1,0 +1,20 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.68707036972046,
+          42.111149368075914
+        ]
+      },
+      "properties": {
+        "name": "New England National Scenic Trail",
+        "notes": "New England National Scenic Trail\nhttps://www.nps.gov/places/new-england-national-scenic-trail.htm\n\n<p>The New England National Scenic Trail (NET) is a 215-mile hiking trail route that has been in existence for over half a century. The NET travels through 41 communities in Connecticut and Massachusetts, and is comprised primarily of the historic Mattabesett, Metacomet, and Monadnock (M-M-M) Trail systems.<br /> <br /> The NET  travels through classic New England landscape features: long-distance vistas with rural towns as a backdrop, agrarian lands, un-fragmented forests, and large river valleys. The trail also travels through colonial historical landmarks and highlights a range of diverse ecosystems and natural resources:  mountain ridges and summits, forested glades, wetlands and vernal pools, lakes, streams and waterfalls.<br />  </p> <p>The NET was designated on March 30, 2009 as part of Public Law 111-11 (<a href=\"https://newenglandtrail.org/sites/default/files/omnibuspubliclandmanagementact2009_sec_5202.pdf\">Section 5202</a>). The law references the Trail Management Blueprint described in the report titled the ‘<a href=\"https://newenglandtrail.org/sites/default/files/nps_final_report.pdf\">Metacomet Monadnock Mattabesett Trail System National Scenic Trail Feasibility Study and Environmental Assessment</a>’, prepared by the National Park Service, and dated Spring 2006, as the framework for trail management and administration.<br /> <br /> Since the federal designation in 2009, there have been some noteworthy changes to the historic route, including a 4-mile extension to Long Island Sound in Connecticut and a 22+ mile eastward deviation from the historic Metacomet-Monadnock Trail in Massachusetts.</p>",
+        "icon": "red-pin-down.png"
+      }
+    }
+  ]
+}

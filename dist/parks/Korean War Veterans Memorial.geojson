@@ -1,0 +1,110 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0476711886,
+          38.887823379
+        ]
+      },
+      "properties": {
+        "name": "Korean War Veterans Memorial",
+        "notes": "Korean War Veterans Memorial\nhttps://www.nps.gov/places/000/korean-war-veterans-memorial.htm\n\n<p>Honoring the service members who served in the Korean War from 1950-1953, this memorial opened in 1995. The stainless steel soldiers represent different branches of service including Army, Marines, Navy, and Air Force. Faces on the black stone wall are those of real war veterans. Walking through the memorial, one gets the sense of walking with the soldiers, an evocative experience unique among the war memorials in DC.</p> <h4>Inscriptions</h4> <p><strong>Pool Wall</strong><br /> FREEDOM IS NOT FREE<br /> <br /> <strong>North Curb</strong><br /> AUSTRALIA NETHERLANDS<br /> BELGIUM NEW ZEALAND<br /> CANADA NORWAY<br /> COLOMBIA PHILIPPINES<br /> DENMARK REPUBLIC OF KOREA<br /> ETHIOPIA SOUTH AFRICA<br /> FRANCE SWEDEN<br /> GREECE THAILAND<br /> INDIA TURKEY<br /> ITALY UNITED KINGDOM<br /> LUXEMBOURG UNITED STATES<br /> <br /> <strong>Plaza Apex</strong><br /> OUR NATION HONORS HER SONS AND DAUGHTERS WHO ANSWERED THE CALL TO DEFEND A COUNTRY THEY NEVER KNEW AND A PEOPLE THEY NEVER MET<br /> <br /> <strong>Pool Curb</strong><br /> DEAD<br /> USA. 54,246 U.N. 628,833<br /> MISSING<br /> USA.8,177 U.N. 470,267<br /> CAPTURED USA. 7,140 U.N. 92,970<br /> WOUNDED<br /> USA. 103,284 U.N. 1,064,453<br /> <br /> <strong>Dedication behind wall of faces</strong><br /> KOREAN WAR VETERANS MEMORIAL<br /> Established by the<br /> American Battle Monuments Commission<br /> and the<br /> Korean War Veterans Memorial Advisory Board<br /> Architects<br /> Cooper-Lecky Architects<br /> Sculptor<br /> Frank C. Gaylord, II<br /> Muralist<br /> Louis Nelson Associates<br /> Builders and Fabricators<br /> Faith Construction, Inc.<br /> R.J. Crowley, Inc.<br /> Cold Spring Granite Company<br /> Tallix Art Foundry<br /> Design and Construction Agent<br /> Army Corps of Engineers, Baltimore District<br /> Funded by Donations<br /> From Veterans, Families, and Friends<br /> Dedicated<br /> July 27, 1995</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.04905,
+          38.888419
+        ]
+      },
+      "properties": {
+        "name": "Korean War Veterans Memorial information kiosk",
+        "notes": "Korean War Veterans Memorial information kiosk\nhttps://www.nps.gov/places/000/korean-war-veterans-memorial-kiosk.htm\n\n<p>Visitors may obtain information about the Korean War Veterans Memorial and the Lincoln Memorial at this location.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.047393,
+          38.887737
+        ]
+      },
+      "properties": {
+        "name": "Korean War Veterans Memorial: Pool of Remembrance",
+        "notes": "Korean War Veterans Memorial: Pool of Remembrance\nhttps://www.nps.gov/places/000/korean-war-veterans-memorial-pool-of-remembrance.htm\n\n<p>The Pool of Remembrance is a place for quiet reflection at the Korean War Veterans Memorial. Surrounded by a grove of linden trees, the pool is one of two major elements of the memorial, the first being the triangular Field of Service.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.047548,
+          38.887841
+        ]
+      },
+      "properties": {
+        "name": "Korean War Veterans Memorial: Soldier Statues",
+        "notes": "Korean War Veterans Memorial: Soldier Statues\nhttps://www.nps.gov/places/000/korean-war-veterans-memorial-soldier-statues.htm\n\n<p>These stainless steel statues sculpted by Frank Gaylord represent several branches of service: Army, Marines, Navy, and Air Force. Look for two Marines carrying a machine gun and mount, the Air Force forward air observer with a fur hat, and the Navy corpsman who is not carrying a weapon. Other soldiers represent different roles in a combat patrol, from rifleman and heavy rifleman to squad leader, radioman, and forward artillery observer.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.047222,
+          38.887778
+        ]
+      },
+      "properties": {
+        "name": "Korean War Veterans Memorial: United Nations Wall",
+        "notes": "Korean War Veterans Memorial: United Nations Wall\nhttps://www.nps.gov/places/korean-war-veterans-memorial-united-nations-wall.htm\n\nThe United Nations wall is the granite curb on the north side of the statues. This wall lists the 22 countries that gave combat or medical support to the UN forces. Nearly 150,000 foreign service members joined American troops on the Korean peninsula. Over 3,300 of them died in the effort, and over 1,800 are still unaccounted for. <br /> <br />  ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.047721,
+          38.8877
+        ]
+      },
+      "properties": {
+        "name": "Korean War Veterans Memorial: Wall of Faces",
+        "notes": "Korean War Veterans Memorial: Wall of Faces\nhttps://www.nps.gov/places/000/korean-war-veterans-memorial-wall-of-faces.htm\n\n<p>The images on this wall are of real Korean War veterans, taken from photographs. They are clustered into occupational groups. From a distance the arrangement of figures forms a backdrop that looks like distant mountains behind the marching soldiers' statues.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.022999,
+          38.889611
+        ]
+      },
+      "properties": {
+        "name": "National Mall and Memorial Parks",
+        "notes": "National Mall and Memorial Parks\nhttps://www.nps.gov/places/crnama.htm\n\n<p>Officially established in 1965, National Mall and Memorial Parks contains some of the oldest protected park lands in the National Park Service. The sprawling lands include the Mall, the public promenade extending from 3rd Street near the Capitol to 14th Street. The National Mall is the continuation of that space where congressionally authorized park icons, such as the Washington Monument, WWII and Lincoln Memorials stand. This historic expanse is the linear area between the Potomac River and Capital Reflecting Pool. In addition to the memorial core, the park includes some 156 reservations, circles, fountains and other open spaces, all of which serve as the nation’s front yard. Ford’s Theatre, The House where Lincoln died, Potomac Park, Hains Point and Pennsylvania Avenue NHS are also among the park managed areas that constitute National Mall and Memorial Parks.</p> <p>Having over 1,000 acres of National Park Service managed land at the heart of our nation’s capital, National Mall and Memorial Parks provides visitors with abundant opportunities to get in touch with our heritage. With everything from colossal monuments to commemorative gardens, from presidential inaugurals to civil rights demonstrations, National Mall and Memorial Parks hosts history in the making. Numerous First Amendment activities and special events are held in the park each year to honor the courage, sacrifice and devotion to duty of war veterans; celebrate the United States commitment to freedom, equality and democratic ideals; and enjoy symbolic architecture, historic vistas and renowned natural landscapes. </p>",
+        "icon": "red-pin-down.png"
+      }
+    }
+  ]
+}

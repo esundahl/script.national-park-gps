@@ -1,0 +1,485 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.371478777,
+          37.9339673108
+        ]
+      },
+      "properties": {
+        "name": "Atchison Village",
+        "notes": "Atchison Village\nhttps://www.nps.gov/places/atchison-village.htm\n\n<h2>Housing for Workers</h2> <p>Named for its location across the street from the Atchison, Topeka and Santa Fe Railroad station and yards, Atchison Village was built by the U.S. government to house the first influx of workers for the new Kaiser shipyards in 1941. The modest 450-unit complex was hailed at the time as a cutting-edge example of worker housing. It was designed with winding streets, spacious yards, simple wood duplexes and fourplexes and a community center and park.Today, Atchison Village is a viable planned community that is a living part of the park. There is a park entrance sign as you enter the neighborhood.<br /> <br /> <strong>Note</strong>: Visitors may view the village during a driving tour. However, please be aware that there are current residents that live in the housing units and there are no NPS staff at the site. </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Barbara and Jay Vincent Park",
+        "notes": "Barbara and Jay Vincent Park\nhttps://www.nps.gov/places/barbara-and-jay-vincent-park.htm\n\n<h2>Campaigned for Access</h2> <p>This park is dedicated to Barbara Vincent and her husband Jay who campaigned for public access to 33 miles of Richmond’s shoreline primarily owned by private industry in the 1950s. Together they spearheaded the creation of many coastal access points, including Point Isabel, Point Pinole, and the Bay Trail. The park site once was part of Kaiser Shipyard No. 2 and is now home to the Liberty Ship Monument describing WWII shipyard worker experiences.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.36903374402709,
+          37.91348025353861
+        ]
+      },
+      "properties": {
+        "name": "Cafeteria - Shipyard No. 3",
+        "notes": "Cafeteria - Shipyard No. 3\nhttps://www.nps.gov/places/cafeteria-shipyard-no-3.htm\n\n<h2>Better Nutrtion for Workers</h2> <p><strong>Richmond Shipyard, No. 3</strong><br /> During the war, this cafeteria was open 24 hours a day, as a place for home front workers to come to eat and socialize before or after their shipyard work shifts. Physicians and shipyard managers believed that better nutrition would bring about increased productivity through healthier workers and higher staff morale.<br /> <br /> Initially, the cafeteria was only available to officials, supervisors, and management, regulating who could eat there based on rank and position. Lunch stands were available to shift employees, but most workers brought their own lunches to work with them. The cafeteria that once served the workers is still intact today. The wood-frame building is an excellent example of the International Style of architecture used for most Kaiser buildings in Richmond.<br /> <br /> <strong>Note: </strong>This historic building is not habitable and is only viewable from the outside, only. </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.35984473914203,
+          37.915003500055604
+        ]
+      },
+      "properties": {
+        "name": "Filice and Perrelli Cannery",
+        "notes": "Filice and Perrelli Cannery\nhttps://www.nps.gov/places/filice-and-perrelli-cannery.htm\n\n<h2>WWII Challenges For Workers and Businesses</h2> <p>Opened in 1930, this cannery “barely made it through” the Great Depression, according to its founder Joseph Perrelli. World War II brought new contracts to supply tomatoes and fruits to the military and allowed the cannery to hire 1,200 workers during peak season. However, many cannery workers were Italian, like its founders, and were affected by the new law designating Richmond a “defense prohibited zone.” As a result, many community elders lacked U.S. citizenship and were forced to move away from Richmond. The company’s building still stands on Harbour Way.<br /> <br /> <strong>Note: </strong>The cannery may be viewed from the outside. There are no NPS guided tours of this buidling. Please be mindful of the business and their property. </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.36586585672939,
+          37.90972947733676
+        ]
+      },
+      "properties": {
+        "name": "First Aid Station -Richmond Shipyard No. 3",
+        "notes": "First Aid Station -Richmond Shipyard No. 3\nhttps://www.nps.gov/places/first-aid-station-richmond-shipyard-no-3.htm\n\n<h2>Caring For the Workers</h2> <p>This medical facility was used for treating minor injuries and ailments of shipyard workers. It served as the first tier of a pre-paid, three-part system developed by Kaiser Permanente for the benefit of shipyard workers. The system survived after WWII, thanks in part to continued participation by members of the International Longshore Workers Union (ILWU).<br /> <br /> <strong>Note: </strong>This building is viewable from the outside only, as part of your visit to Shipyard, No. 3. It may be challenging to see from the parking location. </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.35932798077647,
+          37.912177653657054
+        ]
+      },
+      "properties": {
+        "name": "Ford Assembly Plant",
+        "notes": "Ford Assembly Plant\nhttps://www.nps.gov/places/ford-assembly-plant.htm\n\n<h2>Ford Assembly Plant</h2> <p><em><strong>Audio program for this location is available in the \"Self-Guided Tours\" section of the NPS app.</strong></em><br /> <br /> The Ford Assembly Plant assembled 49,000 jeeps, but it's \"claim to fame\" was becoming one of only three tank depots in the entire United States. Every combat vehicle used in WWII was processed by one of these three depots. Here the finishing touches were put on 91,000 tanks, half-tracks, armored cars and other military vehicles destined for combat.This Assembly Plant was one cog in that mobilization of the \"Arsenal of Democracy\" and a historical part of what is today's industrial culture of the United States.</p> <p>The City of Richmond has repaired and prepared the Ford Assembly Plant for use. Title to the building has passed to Orton Development and the majority of the building is now leased to various businesses including Craneway Pavilion, Assemble Restaurant and more.<br /> <br /> Note: Visitors will be able to see the outside of the Ford Assembly Plant when arriving to the Visitor Education Center. The National Park Service does not own the plant, but visitors may park at the visitor center and walk around the large buidling, including a waterfront view. Rangers and docents can provide information about the Ford Assembly Plant, at the Visitor Education Center. <br /> <br /> <strong>Note: </strong>Many businesses occupy the Ford building. Visitors may walk around the outside of the building but there are no guided tours for the inside spaces. </p> <h3> </h3>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.36480629034384,
+          37.90602959629742
+        ]
+      },
+      "properties": {
+        "name": "General Warehouse: Richmond Shipyard No. 3",
+        "notes": "General Warehouse: Richmond Shipyard No. 3\nhttps://www.nps.gov/places/general-warehouse-richmond-shipyard-no-3.htm\n\n<h2>Finishing Touches</h2> <p><strong>Richmond, California</strong><br /> A part of the WWII Home Front, Shipyard No. 3, the general warehouse is a four-story building from which ships received their finishing touches: blankets, mops, brooms and all the other individual pieces of furnishings and equipment needed to completely fit out a self-contained floating vessel.<br /> <br /> <strong>Note: </strong>Guests may walk by the building but it is viewable from the outside, only. </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.357319832,
+          37.9097205588
+        ]
+      },
+      "properties": {
+        "name": "Healthcare, Childcare & Education - Audio Program",
+        "notes": "Healthcare, Childcare & Education - Audio Program\nhttps://www.nps.gov/places/healthcare-childcare-education-audio-program.htm\n\n<h2>Healing and Learning</h2> <p><strong>Rosie the Riveter/WWII Home Front National Historical Park <br /> Audio Program Intro - 8 of 8</strong><br /> <br /> Welcome to the audio program for \"<b>Healthcare, Childcare & Education</b>\". This program is designed to provide an overview of WWII history and the Richmond, California Home Front. </p> <h3>Where and When to Listen?</h3> <p><strong>Available On: Park Website </strong>(player or download), <strong>NPS App Driving Tour</strong> and this \"<strong>Place</strong>\" page (web browser only) <br /> <br /> This program is part of an introduction to the history of the park and the WWII Home Front. You can listen to it at home, while driving, before your visit to the park visitor center or as part of the official NPS App driving tour. These files are also available as a free download on our website and can be a great educational tool for your classroom.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.35731983161429,
+          37.9097205588426
+        ]
+      },
+      "properties": {
+        "name": "Historic \"Oil House\" - Rosie the Riveter Visitor Center",
+        "notes": "Historic \"Oil House\" - Rosie the Riveter Visitor Center\nhttps://www.nps.gov/places/historic-oil-house-rosie-the-riveter-visitor-center.htm\n\n<h2>Rosie the Riveter Visitor Education Center</h2> <p>Welcome to <strong>Rosie the Riveter/World War II Home Front National Historical Park</strong>. The park visitor center is housed in the historic \"Oil House\" , a part of the Ford Assembly Building complex, and provides educational and interactive exhibits. People of all ages can learn about this important time and place in history and how it impacted our daily lives. This relatively new National Park was established in 2000.<br /> <br /> The park staff is currently working with the City of Richmond, Contra Costa County and other park partners to preserve the historic World War II resources in Richmond. Some historic sites are open to the public, while others are only viewable from the outside. Please be sure stop by the Visitor Education Center, first, in order to watch our films, learn about local history and pick up a map that will provide guidance to park sites throughout the city of Richmond, California.</p> <p>We are located at: <a href=\"https://www.nps.gov/rori/planyourvisit/directions.htm\">1414 Harbour Way South, Suite 3000, in Richmond, California</a>. We provide interactive and educational exhibits as well as a variety of park films, which show in our theater on a regular schedule. Entry to the visitor center and the films are free. Call 510-232-5050, with any questions.</p> <h3>Audio Stop</h3> <p>Welcome to the audio program for \"<b>Oil House/Rosie the Riveter Visitor Education Center\"</b>. This program is designed to provide an overview of WWII history and the Richmond, California Home Front. </p> <h3>Where and When to Listen?</h3> <p><strong>Available On: </strong> <strong>NPS App, Self-Guided Tours</strong> and this \"<strong>Place</strong>\" page (web browser only) <br /> <br /> This program is part of an introduction to the history of the park and the WWII Home Front. You can listen to it at home, while driving, before your visit to the park visitor center or as part of the official NPS App driving tour. These files are also available as a free download on our website and can be a great educational tool for your classroom.</p> <br />  ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.357319832,
+          37.9097205588
+        ]
+      },
+      "properties": {
+        "name": "Inclusivity & Division in the Workplace - Audio Program",
+        "notes": "Inclusivity & Division in the Workplace - Audio Program\nhttps://www.nps.gov/places/inclusivity-division-in-the-workplace-audio-program.htm\n\n<h2>Facing Discrimination and Racism on the Home Front</h2> <p><strong>Rosie the Riveter/WWII Home Front National Historical Park <br /> Audio Program Intro - 5 of 8</strong><br /> <br /> Welcome to the audio program for \"<strong>Inclusivity & Division in the Workplace</strong>\". This program is designed to provide an overview of WWII history and the Richmond, California Home Front. </p> <h3>Where and When to Listen?</h3> <p><strong>Available On: Park Website </strong>(player or download), <strong>NPS App Driving Tour</strong> and this \"<strong>Place</strong>\" page (web browser only) <br /> <br /> This program is part of an introduction to the history of the park and the WWII Home Front. You can listen to it at home, while driving, before your visit to the park visitor center or as part of the official NPS App driving tour. These files are also available as a free download on our website and can be a great educational tool for your classroom.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.32408246430458,
+          37.92791748181232
+        ]
+      },
+      "properties": {
+        "name": "Japanese American Nurseries",
+        "notes": "Japanese American Nurseries\nhttps://www.nps.gov/places/japanese-american-nurseries.htm\n\n<h2>The Loss of a Flourishing Richmond Industry</h2> <p>Over one dozen nurseries owned by Japanese American families flourished in Richmond from the 1910’s until the forced relocation and incarceration of their community in 1942. This area (bounded roughly by Cutting Boulevard, 45th Street, San Pablo, and the Santa Fe Railroad) held the most intense concentration of Japanese American families and their nurseries, which specialized in growing carnations, roses, and other cut flowers, primarily for the wholesale market.<br /> <br /> After Japanese Americans were forced to leave behind their homes and businesses in Richmond and incarcerated, many of their nurseries in were vandalized and fell into disrepair. A few, such as the Ninomiya’s in North Richmond, found friends or neighbors who cared for their nurseries on their behalf while they were imprisoned.<br /> <br /> However, a comparatively high percentage of the original owners were able to return and revive their nursery businesses in Richmond. After reclaiming their businesses, the Oishi and Sakai nurseries were operated by members of the original families until the properties were sold ca. 2006.<br /> <br /> This area has been redeveloped as housing and a park, featuring a handful of historic nursery buildings that were relocated and have been restored for adaptive reuse. The development, called “Miraflores,” holds a series of interpretive elements that tell the story of the nursery families and other aspects of community history.<br /> <br /> <strong>Note: </strong>None of the original greenhouses remain in this area. The location has been redeveloped into a park and housing. Visitors may explore the Miraflores Sustainable Greenbelt park trail. Please always be mindful while parking and exploring any area. </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.357319832,
+          37.9097205588
+        ]
+      },
+      "properties": {
+        "name": "Japanese Internment - Audio Program",
+        "notes": "Japanese Internment - Audio Program\nhttps://www.nps.gov/places/japanese-internment-audio-program.htm\n\n<p><strong>Rosie the Riveter/WWII Home Front National Historical Park <br /> Audio Program Intro - 7 of 8</strong><br /> <br /> Welcome to the audio program for \"<strong>Japanese Internment</strong>\". This program is designed to provide an overview of WWII history and the Richmond, California Home Front. </p> <h3>Where and When to Listen?</h3> <p><strong>Available On: Park Website </strong>(player or download), <strong>NPS App Driving Tour</strong> and this \"<strong>Place</strong>\" page (web browser only) <br /> <br /> This program is part of an introduction to the history of the park and the WWII Home Front. You can listen to it at home, while driving, before your visit to the park visitor center or as part of the official NPS App driving tour. These files are also available as a free download on our website and can be a great educational tool for your classroom.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.35645410566178,
+          37.924515715899574
+        ]
+      },
+      "properties": {
+        "name": "Kaiser Field Hospital",
+        "notes": "Kaiser Field Hospital\nhttps://www.nps.gov/places/kaiser-field-hospital.htm\n\n<h2>Starting from 10 Beds</h2> <p>The Field Hospital at this location opened with only ten beds. Later additions increased its capacity to 160 beds by 1944. It was the second tier of emergency treatment for those injured at the yards, with the first tier being a clinic on-site that administered first aid. If the patient needed serious care, he or she was taken to the Kaiser Hospital in Oakland. It operated as a Kaiser Permanente hospital until closing in 1995. The building still exists and is privately owned.<br /> <br /> <strong>Note:</strong> Visitors may only view this building from the outside. There are no tours offered and the building is privately owned at this time. Please be mindful. </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.35559039668482,
+          37.90992615435361
+        ]
+      },
+      "properties": {
+        "name": "Lucretia W. Edwards Park",
+        "notes": "Lucretia W. Edwards Park\nhttps://www.nps.gov/places/lucretia-w-edwards-park.htm\n\n<h2>A local Champion</h2> <p><strong>Richmond, California</strong><br /> This two-acre park honors Lucretia Edwards, a champion of open space and open shorelines. It also memorializes the wartime contributions made by the Bay Area Shipyards during World War II.<br /> <br /> Cast boot prints point visitors toward the locations of additional WWII shipyards that ringed the Bay. Surrounding a granite map of the Bay Area at the center of the plaza are three shadow figures, two adults and one child, by artist Wang Po Shu. The two adult figures represent liberty and victory and are inscribed with historical definitions of these concepts. The infant figure, left blank, is a representation of the possibilities of the future.<br /> <br /> <strong>Note: </strong>Visitors can reach this park by walking a short distance from the Rosie the Riveter Visitor Education Center. </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Macdonald Avenue - Richmond WWII Home Front",
+        "notes": "Macdonald Avenue - Richmond WWII Home Front\nhttps://www.nps.gov/places/macdonald-avenue-richmond-wwii-home-front.htm\n\n<h2>Main Street - Richmond, California</h2> <p><strong>History and Landmarks</strong><br /> The Macdonald Landmarks are a series of sculptural interpretive markers designed to share the history of Macdonald Avenue—Richmond’s historic “Main Street.” The five markers describe the Avenue’s many evolutions, including its important role as the heart of the city during World War II, when Richmond was home to the nation’s largest shipbuilding effort. These and the Bay Trail markers were developed by historian Donna Graves with designers Mayer/Reed.<br /> <br />  </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3651266086664,
+          37.90713879774338
+        ]
+      },
+      "properties": {
+        "name": "Machine Shop: Richmond Shipyard No. 3",
+        "notes": "Machine Shop: Richmond Shipyard No. 3\nhttps://www.nps.gov/places/machine-shop-richmond-shipyard-no-3.htm\n\n<h2>Historic Shipyard Building </h2> <p>The machine shop is part of several outfitting buildings. Propellers and propulsion machinery were assembled, cleaned, and polished there. The machine shop housed the most modern tools and equipment of the day, including a lathe that could turn sections of steel fifty feet in length. Traces of the original equipment and “jig patterns” remain throughout the building to this day.<br /> <br /> <strong>Note: </strong>Visitors may view this historic building from the outside, only. </p> <h3>Audio Program</h3> <p>Welcome to the audio program for \"<b>Machine Shop</b>\". This program is designed to provide an overview of WWII history and the Richmond, California Home Front. </p> <h3>Where and When to Listen?</h3> <p><strong>Available On: Park Website </strong>(player or download), <strong>NPS App Driving Tour</strong> and this \"<strong>Place</strong>\" page (web browser only) <br /> <br /> This program is part of an introduction to the history of the park and the WWII Home Front. You can listen to it at home, while driving, before your visit to the park visitor center or as part of the official NPS App driving tour. These files are also available as a free download on our website and can be a great educational tool for your classroom.</p> <h3> </h3>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.35932367918019,
+          37.92925429086186
+        ]
+      },
+      "properties": {
+        "name": "Maritime Child Development Center",
+        "notes": "Maritime Child Development Center\nhttps://www.nps.gov/places/maritime-child-development-center.htm\n\n<h2>The Future of Childhood Education</h2> <p>In addition to health care, Henry J. Kaiser provided child care for families working in his four Richmond shipyards during WWII. The child care centers he built with funding provided by the United States Maritime Commission incorporated progressive educational programming, and innovative curriculum and services including art classes, well-balanced hot meals, health care, and family counseling.One of the largest facilities in Richmond was the Maritime Child Development Center, opened in 1943. Completely restored and reopened as a multi-use building in 2011, today it houses a small exhibit by the National Park Service of a wartime preschool classroom. On regularly scheduled guided tours, visitors have the opportunity to explore the vital role of federally funded childcare in bringing women into the WWII work force. Tours are available by appointment as well.<br /> <br /> The Maritime Child Development Center was one of approximately 35 nursery school units of varying sizes established in the Richmond area during World War II in order to provide child care for women working in the Kaiser shipyards. In 2012, the Rosie the Riveter Trust, partnering with the National Park Service and many partners throughout the city and school district, completed a $9 million historic renovation of the building and won a LEED Gold for Schools award. The Trust now operates the building on behalf of the park. It houses a K-3 charter school, Richmond College Prep, and the Richmond Community Foundation, along with a National Park Service exhibit room which can be visited on scheduled tours.</p> <p><strong>Note:</strong> Occasionally, the park offers guided tours of an historic classroom inside the building. There are no NPS staff who are onsite, so please contact the park. However, visitors without tours are allowed to view the building from the outside, as part of their driving tour. Please be aware that this is a buidling that is currently in use. </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.357319832,
+          37.9097205588
+        ]
+      },
+      "properties": {
+        "name": "Migration, Housing and Relocation - Audio Program",
+        "notes": "Migration, Housing and Relocation - Audio Program\nhttps://www.nps.gov/places/migration-housing-and-relocation-audio-program.htm\n\n<h2>Finding a Home in Richmond</h2> <p><strong>Rosie the Riveter/WWII Home Front National Historical Park <br /> Audio Program Intro - 6 of 8</strong><br /> <br /> Welcome to the audio program for \"<strong>Migration, Housing and Relocation</strong>\". This program is designed to provide an overview of WWII history and the Richmond, California Home Front. </p> <h3>Where and When to Listen?</h3> <p><strong>Available On: Park Website </strong>(player or download), <strong>NPS App Driving Tour</strong> and this \"<strong>Place</strong>\" page (web browser only) <br /> <br /> This program is part of an introduction to the history of the park and the WWII Home Front. You can listen to it at home, while driving, before your visit to the park visitor center or as part of the official NPS App driving tour. These files are also available as a free download on our website and can be a great educational tool for your classroom.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.35972945193822,
+          37.927786690906935
+        ]
+      },
+      "properties": {
+        "name": "Nystrom School",
+        "notes": "Nystrom School\nhttps://www.nps.gov/places/nystrom-school.htm\n\n<h2>Overcrowding of Schools</h2> <p>Nystrom School, along with Pullman, Lincoln, and Stege Schools, were overcrowded during WWII because of their proximity to the defense housing projects and the large proportion of new students who lived there. With construction, Nystrom was able to triple the number of classrooms. Because funding was unavailable for construction of new classrooms in other facilities, Richmond schools held double and even triple daily sessions. The construction of only sixty additional rooms by 1944 led the average elementary school enrollment to rise to sixty-seven children per classroom.<br /> <br /> <strong>Note: Located at 230 Harbour Way South, Richmond, California.</strong><br /> Nystrom school is still a working elementrary school, so there are no tours available. Visitors may drive by the school but please be mindful of laws and safety when viewing this historic site. </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Nystrom Village",
+        "notes": "Nystrom Village\nhttps://www.nps.gov/places/nystrom-village.htm\n\n<h2>Housing for Workers</h2> <p>Nystrom Village is situated on Maine, Virginia and Florida Avenues between 13th and 16th Streets, with 51 single-story duplexes arranged around central open spaces. It shares many design attributes with Atchison Village, the only other surviving defense housing project in the area.<br /> <br /> Today, the complex of one-, two-, and three-bedroom units is largely intact and is administered as low-income housing by the Richmond Housing Authority. Future plans for the park include refitting one of the houses as an exhibit on daily war-time home life that will eventually be open to visitors.<br /> <br /> <strong>Note:</strong> Visitors may drive through the area and see the historic homes. However, please be respectful of residents. There are no NPS staff members on site. </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.35886402352628,
+          37.92523671406119
+        ]
+      },
+      "properties": {
+        "name": "Richmond Fire Station",
+        "notes": "Richmond Fire Station\nhttps://www.nps.gov/places/richmond-fire-station.htm\n\n<h2>From WWII Fire Protection to Today</h2> <p>The original Richmond Fire Station 67, also known as Fire Station 7 located at 1131 Cutting Boulevard, was built by the City of Richmond to serve the Richmond Kaiser Shipyards. It remains as an architectural reminder of the emergency support activities that took place at the Kaiser Shipyards during the war. The historic structure has been modernized and is currently in use by the Richmond Fire Department.<br /> <br /> <strong>Note: </strong>This is a working fire station. Visitors may observe the fire station from the road. There are no tours of the station and no NPS staff on site. Please be mindful of safety for emergency vehicles and property. </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.35630925502471,
+          37.90953369922179
+        ]
+      },
+      "properties": {
+        "name": "Richmond Marina Bay Trail",
+        "notes": "Richmond Marina Bay Trail\nhttps://www.nps.gov/places/richmond-marina-bay-trail.htm\n\n<h2>Walking Along the Home Front</h2> <p>The San Francisco Bay Trail weaves along the edge of the national historical park on the Richmond waterfront. Eight interpretive markers shaped like ship’s prows tell various stories of the World War II home front that expand on the histories presented at the Rosie the Riveter Memorial.<br /> <br /> The Bay Trail extends for many miles around the Bay but is a great way to get a nice walk or bike ride between the Rosie the Riveter Visitor Education Center, Lucretia W. Edwards Park, and the Rosie the Riveter Memorial. </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.34658990888899,
+          37.91476425891834
+        ]
+      },
+      "properties": {
+        "name": "Rosie the Riveter Memorial",
+        "notes": "Rosie the Riveter Memorial\nhttps://www.nps.gov/places/rosie-the-riveter-memorial.htm\n\n<p><strong>The Rosie the Riveter Memorial began as a public art project for the City of Richmond in the 1990's. During the creation of the memorial, the National Park Service was invited to participate, and this partnership led to the founding of the National Park in Richmond, California.</strong></p> <p>Designed by visual artist Susan Schwartzenberg and landscape architect/environmental sculptor Cheryl Barton, the Rosie the Riveter Memorial: Honoring American Women's Labor During WWII is the first in the nation to honor and describe this important chapter of American history. Chairwoman Donna Powers led the campaign to establish the Memorial and the sculpture was commissioned by the City of Richmond and the Richmond Redevelopment Agency.<br /> <br /> The principal component is a walkway, the length of a ship's keel, which slopes toward the San Francisco Bay and aligns with the Golden Gate Bridge.The path is inscribed with a timeline about the home front and quotes from women workers sandblasted into white granite. Sculptural elements of stainless steel encountered on the walkway are drawn from ship's blueprints and suggest the unfinished forms of hull, stack and stern under construction. Two gardens - one of rockrose and one of dune grass - occupy the location of the ship's fore and aft hatches. Porcelain enamel panels on the hull and stack reproduce memorabilia and letters gathered from former shipyard workers during the course of the Memorial project, along with photographs of women at work in jobs across the nation.<br /> <br /> The panels, quotes and timeline illustrate the complex opportunities, challenges and hardships faced by women during the war years, including gender discrimination, hazardous working conditions, food rationing, and shortages of housing and childcare.<br /> <br /> Donna Powers was inspired to create the Memorial by two women in her family. Her mother-in-law Ruth Powers was a teacher at the Richmond shipyards daycare centers and her great aunt Clarissa Hicks was a riveter at Douglas Aircraft in Tulsa, Oklahoma. Their wonderful stories led her to ask other women around Richmond what their jobs and lives were like during WWII, and the project grew under the leadership of historian and cultural planner Donna Graves.<br />  </p> <h3>How to Listen to the Audio Program</h3> <p>The play button is the small sideways triangle on the left side of the audio player, below. You can also download the file to your computer or phone with the downward arrow button on the top right of the audio player. </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.357319832,
+          37.9097205588
+        ]
+      },
+      "properties": {
+        "name": "Rosie the Riveter in Richmond - Audio Program",
+        "notes": "Rosie the Riveter in Richmond - Audio Program\nhttps://www.nps.gov/places/rosie-the-riveter-in-richmond-audio-program.htm\n\n<h2>We Can Do It!</h2> <p><strong>Rosie the Riveter/WWII Home Front National Historical Park <br /> Audio Program Intro - 4 of 8</strong><br /> <br /> Welcome to the audio program for \"<strong>Rosie the Riveter in Richmond</strong>\". This program is designed to provide an overview of WWII history and the Richmond, California Home Front. </p> <h3>Where and When to Listen?</h3> <p><strong>Available On: Park Website </strong>(player or download), <strong>NPS App Driving Tour</strong> and this \"<strong>Place</strong>\" page (web browser only) <br /> <br /> This program is part of an introduction to the history of the park and the WWII Home Front. You can listen to it at home, while driving, before your visit to the park visitor center or as part of the official NPS App driving tour. These files are also available as a free download on our website and can be a great educational tool for your classroom.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.36561649238843,
+          37.90547074284354
+        ]
+      },
+      "properties": {
+        "name": "SS Red Oak Victory Ship",
+        "notes": "SS Red Oak Victory Ship\nhttps://www.nps.gov/places/ss-red-oak-victory-ship.htm\n\n<h2>Historic WWII Ship</h2> <p><strong>Audio program available on this page in web browser or on the official NPS app. </strong><br /> <br /> The Victory ship <em>SS Red Oak Victory</em> was built in Richmond Kaiser Shipyard # 1, and launched on November 9, 1944. It was one of 414 Victories built during World War II, but one of only a few of these ships to be transferred from the Merchant Marine to the U.S. Navy. The Red Oak Victory served as an ammunition ship in the South Pacific during WWII. The ship was named for the town of Red Oak, Iowa, which suffered the highest per capita casualty rate of any American community during World War II.<br /> <br /> Following a fitting out period, the <em>Red Oak Victory </em>was loaded with cargo and departed San Francisco for Pearl Harbor on January 10, 1945. Red Oak Victory departed Hawaii on February 10 loaded with munitions needed in the Marshall and Caroline islands. Sent onward from Eniwetok, she arrived in Ulithi on February 28, 1945, and then began operating under Commander Service Squadron Ten. Operating out of the Philippines, the vessel issued cargo and ammunition to various ships in the fleet through the end of the war in August 1945. During a hazardous tour of duty in the Pacific, <em>SS Red Oak Victory </em>handled many tons of ammunition, supplying the fleet without a single casualty.<br /> <br /> Many Rosies recounted how important their jobs were in welding these ships and how careful they were in doing it. They realized the lives of their husbands, brothers and sons depended on the cargoes delivered by these ships. Victory ships were not supposed to last long--but the welds of the <em>Red Oak Victory</em> are still intact after 60 years. The Red Oak Victory is 455 feet in length, and armed with one five-inch/38 caliber gun; one three-inch/50 caliber gun, and eight 20 mm guns. The vessel was decommissioned in 1946 and returned to the U.S. Maritime Commission. <em>Red Oak Victory</em> was used by the Luckenback Steamship Company from 1947 through the 1950s, during which time the vessel went to Japan, Korea, Cuba, Pakistan, India, Singapore and Japan.<br /> <br /> The <em>SS Red Oak Victory Ship </em>is the last surviving ship built in the Kaiser Shipyards, and is owned by the non-profit Richmond Museum Association. Today, the <em>Red Oak Victory </em>remains a monument to the men and women who worked in war related industries as part of the World War II Home Front. In 1998, the ship was saved from the Naval Reserve Fleet in Suisun Bay by a courageous group of men and women and has been under restoration since that time. When visiting, take the time to talk to the volunteers on boards the ship. If you are lucky enough to find one who actually served on Merchant Marine vessels during the war, find out what that life was like - ask them how they felt to be on board ships built by women.<br /> <br /> <strong>Note: </strong>The SS Red Oak Victory Ship is now oriented differently than what the photo depicts. <a href=\"https://redoakvictory.us/\">Tours of the ship </a>are offered by the Richmond Museum Association on Sundays from 10am-4pm. There is a $10 sugessted donation. Visitors may view the ship from the outside on days that tours are not offered. </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.36459694238681,
+          37.90534399944035
+        ]
+      },
+      "properties": {
+        "name": "Sheet Metal Shop - Riggers Loft - Paint Shop",
+        "notes": "Sheet Metal Shop - Riggers Loft - Paint Shop\nhttps://www.nps.gov/places/sheet-metal-shop-riggers-loft-paint-shop.htm\n\n<h2>Historic Shipyard No. 3 </h2> <p><strong>Richmond, California<br /> Sheet Metal Shop - Riggers Loft - Paint Shop</strong><br /> This single-story building was built between 1941 and 1942, as part of Richmond Shipyard No. 3. The building was divided into three areas and used as a riggers loft, paint shop, and sheet metal shop. It served as a venue for assembling prefabricated ship parts. This historic building that once played a vital role in building the Liberty and Victory ships of World War II is now a working winery and cidery.<br /> <br /> <strong>Note: </strong>Visitors may view the building from the outside as part of the visit to Shipyard No. 3. </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.344746319,
+          37.9082422496
+        ]
+      },
+      "properties": {
+        "name": "Shimada Friendship (Peace) Park",
+        "notes": "Shimada Friendship (Peace) Park\nhttps://www.nps.gov/places/shimada-friendship-peace-park.htm\n\n<h2>Richmond's Sister City</h2> <p>Located along the shoreline and forming the eastern end of the national historical park, this three-acre peace park commemorates the sister city relationship established in 1961 between the City of Richmond and Shimada, Japan.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.365981028,
+          37.908572115
+        ]
+      },
+      "properties": {
+        "name": "The Richmond Shipyards - Audio Program",
+        "notes": "The Richmond Shipyards - Audio Program\nhttps://www.nps.gov/places/the-richmond-shipyards-audio-program.htm\n\n<p><strong>Rosie the Riveter/WWII Home Front National Historical Park </strong><br /> Welcome to the audio program for \"<b>The Richmond Shipyards</b>\". This program is designed to provide an overview of WWII history and the Richmond, California Home Front. There are additional audio programs for the various sites within the shipyard, and they can be accessed via the official NPS app. </p> <h3>Where and When to Listen?</h3> <p><strong>Available On: Park Website </strong>(player or download), <strong>NPS App Driving Tour</strong> and this \"<strong>Place</strong>\" page (web browser only) <br /> <br /> This program is part of an introduction to the history of the park and the WWII Home Front. You can listen to it at home, while driving, before your visit to the park visitor center or as part of the official NPS App driving tour. These files are also available as a free download on our website and can be a great educational tool for your classroom.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.357319832,
+          37.9097205588
+        ]
+      },
+      "properties": {
+        "name": "The WWII Home Front - Audio Program",
+        "notes": "The WWII Home Front - Audio Program\nhttps://www.nps.gov/places/the-wwii-home-front-audio-program.htm\n\n<h2>Richmond and the Country Faced Significant Change</h2> <p><strong>Rosie the Riveter/WWII Home Front National Historical Park <br /> Audio Program Intro - 2 of 8</strong><br /> <br /> Welcome to the audio program for \"<strong>WWII Home Front</strong>\". This program is designed to provide an overview of WWII history and the Richmond, California Home Front. </p> <h3>Where and When to Listen?</h3> <p><strong>Available On: Park Website </strong>(player or download), <strong>NPS App Driving Tour</strong> and this \"<strong>Place</strong>\" page (web browser only) <br /> <br /> This program is part of an introduction to the history of the park and the WWII Home Front. You can listen to it at home, while driving, before your visit to the park visitor center or as part of the official NPS App driving tour. These files are also available as a free download on our website and can be a great educational tool for your classroom.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.36538492537704,
+          37.90557357618293
+        ]
+      },
+      "properties": {
+        "name": "Whirley Crane: Richmond Shipyard No. 3",
+        "notes": "Whirley Crane: Richmond Shipyard No. 3\nhttps://www.nps.gov/places/whirley-crane-richmond-shipyard-no-3.htm\n\n<h2>Enormous Lifting Power</h2> <p>The Whirley Crane, named for its ability to turn 360 degrees, currently sits next to the SS Red Oak Victory ship. At a weight of close to 230 thousand pounds, this crane is the only one left of dozens that were used to help build ships at record speed. The scale of it, is enormous, like a revolving boxcar sitting on massive legs as tall as a 10-story building. Whirley cranes were used to move very large and heavy components from place to place in the shipyard. The cranes could work alone or in unison and could manage enormous amounts of steel while lifting and moving large, prefabricated components into place during the assembly of ships. A single Whirley crane could lift up to 166 thousand pounds, alone.<br /> <br /> Today, Shipyard No. 3 is the only remaining shipyard of the four constructed in Richmond. This shipyard facilitated mass production of wartime ships and retained its exemplary resources in part because it was built to be a permanent facility.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.357319832,
+          37.9097205588
+        ]
+      },
+      "properties": {
+        "name": "Why Richmond California? - Audio Program",
+        "notes": "Why Richmond California? - Audio Program\nhttps://www.nps.gov/places/why-richmond-california-audio-program.htm\n\n<h2>National Park Introduction</h2> <p><strong>Rosie the Riveter/WWII Home Front National Historcal Park <br /> Audio Program Intro - 1 of 8</strong><br /> <br /> Welcome to the audio program for \"<strong>Why Richmond California?</strong>\". This program is designed to provide an overview of why the city of Richmond was chosen as this national park site. </p> <h3>Where and When to Listen?</h3> <p><strong>Available On: Park Website </strong>(player or download), <strong>NPS App Driving Tour</strong> and this \"<strong>Place</strong>\" page (web browser only) <br /> <br /> This program is part of an introduction to the history of the park and the WWII Home Front. You can listen to it at home, while driving, before your visit to the park visitor center or as part of the official NPS App driving tour. These files are also available as a free download on our website and can be a great educational tool for your classroom.<br /> <br />  </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Women's Rights National Historical Park",
+        "notes": "Women's Rights National Historical Park\nhttps://www.nps.gov/places/crwomensrights.htm\n\n<p><span style=\"font-size: 11pt;\">Many people who actively supported women’s rights supported the abolition of slavery. Several participants in the 1848 First Women’s Rights Convection in Seneca Falls, New York had already labored in the antislavery movement. The organizers and their families, the Motts, Wrights, Stantons, M’Clintocks, and Hunts, were active abolitionists to a greater or lesser degree. Frederick Douglass, noted abolitionist and former slave, attended and addressed the 1848 convention.</span></p> <p>Arguments for women’s rights came from experiences in the antislavery movement. As reformers, women developed organizational skills necessary for a successful social movement. They learned townie persuasively, raise funds, organize supporters and events, and to speak to large groups of men and women about important social and political issues. In the service of antislavery, many women found their voice.</p> <p>At the 1848 First Women’s Rights Convention, the Declaration of Sentiments, drafted by Elizabeth Cady Stanton and Elizabeth and Mary M’Clintock, was read and signed by 100 men and women. Claiming that “all men and women are created equal,” the signers called for extending to women the right to vote, control property, sign legal documents, serve on juries, and enjoy equal access to education and the professions.</p> <p>Today at Women’s Rights National Historical Park, the connection between the organizers of the 1848 convention and anti-slavery movement is incorporated into interpretive programs. The M’Clinock House in nearby Waterloo, a site on the Underground Railroad, offers a unique opportunity to learn about the relationship between these two reform movements of the 19<sup>th</sup> century.</p>",
+        "icon": "red-pin-down.png"
+      }
+    }
+  ]
+}

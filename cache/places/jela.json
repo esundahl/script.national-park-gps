@@ -1,0 +1,323 @@
+[
+  {
+    "id": "85B5123D-236F-4F79-845F-52F8AFEC6D57",
+    "url": "https://www.nps.gov/places/chalmette-battlefield.htm",
+    "title": "Chalmette Battlefield",
+    "listingDescription": "Just downriver from New Orleans in Chalmette is the site of the January 8, 1815, Battle of New Orleans: Chalmette Battlefield.",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/places/images/nri/20130816/siteadmin/5947CDD9-155D-4519-3EEC434B57B1624A/5947CDD9-155D-4519-3EEC434B57B1624A.jpg",
+        "credit": "NPS",
+        "altText": "7th infantry firing at a Battle of New Orleans commemoration",
+        "title": "",
+        "description": "",
+        "caption": "The 7th US infantry were among the only",
+        "crops": []
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "LA",
+        "parkCode": "jela",
+        "designation": "National Historical Park and Preserve",
+        "fullName": "Jean Lafitte National Historical Park and Preserve",
+        "url": "https://www.nps.gov/jela/index.htm",
+        "name": "Jean Lafitte"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [
+      "war of 1812"
+    ],
+    "latitude": "29.940885632019622",
+    "longitude": "-89.99148178100587",
+    "latLong": "29.940885632019622,-89.99148178100587",
+    "bodyText": "<p>Just downriver from New Orleans in Chalmette is the site of the January 8, 1815, Battle of New Orleans: Chalmette Battlefield. Many people believe that this last great battle of the War of 1812 between the United States and Britain was unnecessary, since the treaty ending the war was signed in late 1814, but <a href=\"https://www.nps.gov/jela/learn/historyculture/the-treaty-of-ghent.htm\">the war was not over</a>. </p> <p><span>The resounding American victory at the Battle of New Orleans soon became a symbol of a new idea: American democracy triumphing over the old European ideas of aristocracy and entitlement. General Andrew Jackson's hastily assembled army had won the day against a battle-hardened and numerically superior British force. Americans took great pride in the victory and for decades celebrated January 8 as a national holiday, just like the Fourth of July.</span></p>",
+    "audioDescription": "",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "",
+    "isManagedByNps": "1",
+    "amenities": [],
+    "managedByOrg": "",
+    "quickFacts": [
+      {
+        "id": "5C252B96-2DEB-4EF4-91D1-B5D2B202FCD7",
+        "value": "Chalmette, Louisiana",
+        "name": "Location"
+      },
+      {
+        "id": "208F1B3C-44DC-4CF5-9A61-9B26A364D701",
+        "value": "Site of the Battle of New Orleans",
+        "name": "Significance"
+      },
+      {
+        "id": "E32D2136-A184-4C1A-91D2-4C20CEF9CBAF",
+        "value": "National Historical Park",
+        "name": "Designation"
+      }
+    ],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  },
+  {
+    "id": "B1649F1B-B3CB-4DA6-A045-B3758E653D17",
+    "url": "https://www.nps.gov/places/chalmette-national-cemetery.htm",
+    "title": "Chalmette National Cemetery",
+    "listingDescription": "Although the Chalmette National Cemetery began as one of many large Federal cemeteries for Union war dead, , it serves today to link the generations. Its location is symbolic, being on the battlefield where a young United States continued its independence by defeating Great Britain in the Battle of New Orleans in 1815. Joining those who fought for Union and freedom are veterans from 20th century wars.",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/places/images/nri/subject/civilwar/CC1937F8-D89F-3CEF-9FC6C467461172A0/CC1937F8-D89F-3CEF-9FC6C467461172A0.jpg",
+        "credit": "",
+        "altText": "Photo of the gates of Chalmette National Cemetery",
+        "title": "Photo of the gates of Chalmette National Cemetery",
+        "description": "Chalmette National Cemetery",
+        "caption": "Chalmette National Cemetery",
+        "crops": []
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "LA",
+        "parkCode": "jela",
+        "designation": "National Historical Park and Preserve",
+        "fullName": "Jean Lafitte National Historical Park and Preserve",
+        "url": "https://www.nps.gov/jela/index.htm",
+        "name": "Jean Lafitte"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [
+      "Civil War",
+      "National Cemetery"
+    ],
+    "latitude": "29.941682",
+    "longitude": "-89.987881",
+    "latLong": "29.941682,-89.987881",
+    "bodyText": "<p>Established in May 1864 as a final resting place for Union soldiers who died in Louisiana during the Civil War, the 15,000 headstones in the cemetery mark the gravesites of veterans of the Spanish-American War, World Wars I and II, and the Vietnam War. Four Americans who fought in the War of 1812 are buried here, though only one of them took part in the Battle of New Orleans. The national cemetery is located on the site of the Battle of New Orleans in 1815, next to Chalmette Battlefield.</p>",
+    "audioDescription": "",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "",
+    "isOpenToPublic": "0",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "",
+    "isManagedByNps": "0",
+    "amenities": [],
+    "managedByOrg": "",
+    "quickFacts": [
+      {
+        "id": "5C252B96-2DEB-4EF4-91D1-B5D2B202FCD7",
+        "value": "Chalmette, LA",
+        "name": "Location"
+      },
+      {
+        "id": "208F1B3C-44DC-4CF5-9A61-9B26A364D701",
+        "value": "Federal military cemetery established in 1864",
+        "name": "Significance"
+      },
+      {
+        "id": "E32D2136-A184-4C1A-91D2-4C20CEF9CBAF",
+        "value": "National Park",
+        "name": "Designation"
+      }
+    ],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  },
+  {
+    "id": "31CF1ACB-A88E-473B-BB51-03078A32928C",
+    "url": "https://www.nps.gov/places/fazendeville.htm",
+    "title": "Fazendeville",
+    "listingDescription": "When the smoke of the battle cleared, and the bodies returned to the earth, life went on at the site of the Battle of New Orleans. The land changed hands a number of times, by 1870 belonging to free man of color and grocer of New Orleans Jean-Pierre Fazende. He subdivided it into 33 lots and sold off the swampy, unappealing land to eager buyers: former slaves and free people of color following the Civil War. And so, Fazendeville war born.",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/places/images/nri/20140214/siteadmin/F502685C-95FB-B28B-4327CCD44CC0578D/F502685C-95FB-B28B-4327CCD44CC0578D.jpg",
+        "credit": "NPS Photo",
+        "altText": "Large crowds of cars and people in foreground, houses of Fazendeville in background",
+        "title": "",
+        "description": "",
+        "caption": "Fazendeville visible in the background of this photo of the Battle of New Orleans sesquicentennial",
+        "crops": []
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "LA",
+        "parkCode": "jela",
+        "designation": "National Historical Park and Preserve",
+        "fullName": "Jean Lafitte National Historical Park and Preserve",
+        "url": "https://www.nps.gov/jela/index.htm",
+        "name": "Jean Lafitte"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [
+      "war of 1812"
+    ],
+    "latitude": "29.941328",
+    "longitude": "-89.992911",
+    "latLong": "29.941328,-89.992911",
+    "bodyText": "<p>When the smoke of the battle cleared, and the bodies returned to the earth, life went on at the <a href=\"https://www.nps.gov/jela/chalmette-battlefield.htm\">site</a> of the <a href=\"https://www.nps.gov/jela/historyculture/places.htm\">Battle of New Orleans</a>. The plantation of Ignacio de Lino de Chalmet shuttered, and the land changed hands a number of times, by 1870 belonging to free man of color and grocer of New Orleans Jean-Pierre Fazende. Although this swampy land lacked even a road connecting it back to New Orleans, it had two notable features: cheap land and seclusion from the post- Civil War race tensions increasingly plaguing the city. Fazende divided his land into 33 lots and sold it off. And so the community of Fazendeville was born.</p> <p>These humble blocks were bought up by free people of color and emancipated slaves following the <a href=\"https://www.nps.gov/civilwar/index.htm\">Civil War</a>. Unable to come by their 40 acres and a mule, the settlers were content enough with a small parcel to build a modest home. Fazendeville was a small but thriving, self-sufficient community with rich social and cultural traditions, and a heavy emphasis on community. Referred to simply as “the Village” by its residents, Fazendeville had grocery stores, a baseball diamond, two churches, a one-room school, and a few dozen homes. The Village thrived through the struggle of <a href=\"https://www.nps.gov/malu/forteachers/jim_crow_laws.htm\">Jim Crow</a>, through the Great Migration that dissolved so many southern communities such as it, and through a barrage of floods and storms that threatened to wash it away. But sandwiched between Chalmette Monument and the <a href=\"https://www.nps.gov/jela/chalmette-national-cemetery.htm\">National Cemetery</a>, situated on the hallowed ground of <a href=\"https://www.nps.gov/jela/chalmette-battlefield.htm\">Chalmette Battlefield</a>, this peace did not last.</p> <p>What stories have value? Whose history will be preserved? What knowledge is sacrificed in making those choices? Lyle K. Linch was the superintendent of Chalmette in 1961, as the National Park Service prepared to commemorate the sesquicentennial of the War of 1812. Located in the middle of the Battle of New Orleans battlefield, Fazendeville was an anachronism (something out of its time) for visitors learning about Chalmette Battlefield’s significance in the War of 1812. Linch and others thought that the community should go in order to enhance the sesquicentennial commemoration, and in 1960s Louisiana, people of color had few rights and the civil rights struggle the community was embroiled in was not yet considered history worth preserving.</p> <p>What decision would we make today? How do you balance the needs of one community over another? What happens when a compromise cannot be reached?</p> <p>For the sake of the sesquicentennial, the government decided to tear down Fazendeville in 1963 and restore the battlefield to an approximate 1815 appearance. When the sun rose on January 8, 1965, the 150<sup>th</sup> anniversary of the Battle of New Orleans, it revealed a field which would have been vaguely reminiscent to a solider from 1815, but completely unrecognizable to a resident from the year before.</p> <p>The choice to preserve one history sacrificed another. While we may be able to better visualize the experience of soldiers during the War of 1812 as a result of this choice, it leaves us less able to appreciate the struggles and triumphs of later generations, and less aware of the complex layers that make up our shared history. Today, only a slight depression is visible in the battlefield where the street that ran through Fazendeville was laid. Yet, for those who know Fazendeville, imagination brings that dip to life with the bustle of residents heading to church, children playing stickball in the street, and the chatter of neighbors on front porch swings. Fazendeville lives on as a memory.</p>",
+    "audioDescription": "",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "",
+    "isOpenToPublic": "0",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "",
+    "isManagedByNps": "0",
+    "amenities": [],
+    "managedByOrg": "",
+    "quickFacts": [
+      {
+        "id": "5C252B96-2DEB-4EF4-91D1-B5D2B202FCD7",
+        "value": "Chalmette, Louisiana",
+        "name": "Location"
+      }
+    ],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  },
+  {
+    "id": "F76A71F7-3177-4D43-B085-62BD4639E571",
+    "url": "https://www.nps.gov/places/jean-lafitte-park-store.htm",
+    "title": "Jean Lafitte Park Store",
+    "listingDescription": "",
+    "images": [
+      {
+        "url": "",
+        "credit": "",
+        "altText": "",
+        "title": "",
+        "description": "",
+        "caption": "",
+        "crops": []
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "LA",
+        "parkCode": "jela",
+        "designation": "National Historical Park and Preserve",
+        "fullName": "Jean Lafitte National Historical Park and Preserve",
+        "url": "https://www.nps.gov/jela/index.htm",
+        "name": "Jean Lafitte"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [
+      "park store",
+      "Gift Shop"
+    ],
+    "latitude": "",
+    "longitude": "",
+    "latLong": "",
+    "bodyText": "The park store is operated by <a href=\"http://easternnational.org/\">Eastern National</a> and <a href=\"https://shop.americasnationalparks.org/store/\">America’s National Parks™</a>, official non-profit partners of the National Park Service dedicated to supporting the educational mission of Jean Lafitte National Historical Park and Preserve. The park store has a wide range of books, patches, activity books, and other items available for retail sale. These products complement the interpretive themes you experience when visiting the park. You'll find a park store at <a href=\"https://www.nps.gov/jela/planyourvisit/index.htm\">each of our six sites</a>, or you can <a href=\"https://shop.americasnationalparks.org/store/home/6163/Jean-LaFitte-National-Historical-Park--Preserve/\">visit the online park store.</a>",
+    "audioDescription": "",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "",
+    "isManagedByNps": "1",
+    "amenities": [],
+    "managedByOrg": "",
+    "quickFacts": [],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  },
+  {
+    "id": "BE4D887F-4BDA-4C61-8D0E-0BC53FFD3B87",
+    "url": "https://www.nps.gov/places/places-darmes.htm",
+    "title": "Place d'Armes (Jackson Square)",
+    "listingDescription": "What today is known as Jackson Square, at the heart of New Orleans' French Quarter, was known in the 19th century as the Place d'Armes -- the traditional town square where important ceremonies and parades were held. During the New Orleans campaign of the War of 1812, American Major General Andrw Jackson made use of the square that would later bear his name.",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/places/images/nri/20130816/siteadmin/5A105EB8-155D-4519-3E7CFF1E5BC4D9CC/5A105EB8-155D-4519-3E7CFF1E5BC4D9CC.jpg",
+        "credit": "NPS",
+        "altText": "Jackson Square, New Orleans, Louisiana",
+        "title": "",
+        "description": "",
+        "caption": "The statue of Andrew Jackson now dominates a square once known as the Place d'Armes",
+        "crops": []
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "LA",
+        "parkCode": "jela",
+        "designation": "National Historical Park and Preserve",
+        "fullName": "Jean Lafitte National Historical Park and Preserve",
+        "url": "https://www.nps.gov/jela/index.htm",
+        "name": "Jean Lafitte"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [
+      "war of 1812"
+    ],
+    "latitude": "29.957494735717773",
+    "longitude": "-90.06295013427734",
+    "latLong": "29.957494735717773,-90.06295013427734",
+    "bodyText": "<p>What today is known as Jackson Square, at the heart of New Orleans' French Quarter, was known in the 19th century as the Place d'Armes -- the traditional town square where important ceremonies and parades were held. During the New Orleans campaign of the War of 1812, American Major General Andrw Jackson made use of the square that would later bear his name. </p><p>Jackson held several musterings on the square, including a large review of troops <span style=\"font-size: 11pt;\" data-mce-style=\"font-size: 11pt;\">on December 18, 1814. New Orleans residents crowded the streets and buildings to watch a grand procession of 6,000 troops entering the square to the sound of beating drums and citizens' applause. Jackson read a speech, translated in by Edward Livingston, Aide-de-Camp to Jackson himself.</span></p><p>The oratory focused on the need to work together to fight a common foe: \"with movies of division that might have operated on some minds, you ahve forgotten the differences of language and prejudice of national pride, and united with a cordiality that does honor to your understanding as well as your patriotism.\"</p><p>The speech and Jackson's leadership were a success. The Americans won the Battle of New Orleans, and Jackson became a local hero. </p><p>The square was known as the Place d'Armes through the middle of the 19th century, until 1851 when the current statue of Andrew Jackson was erected, and the name changed -- to Jackson Square.</p>",
+    "audioDescription": "",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "",
+    "isOpenToPublic": "0",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "",
+    "isManagedByNps": "0",
+    "amenities": [],
+    "managedByOrg": "",
+    "quickFacts": [
+      {
+        "id": "5C252B96-2DEB-4EF4-91D1-B5D2B202FCD7",
+        "value": "New Orleans, Louisiana",
+        "name": "Location"
+      },
+      {
+        "id": "208F1B3C-44DC-4CF5-9A61-9B26A364D701",
+        "value": "Muster point and ceremonial parade ground for Andrew Jackson's troops",
+        "name": "Significance"
+      },
+      {
+        "id": "E32D2136-A184-4C1A-91D2-4C20CEF9CBAF",
+        "value": "National Historic Landmark",
+        "name": "Designation"
+      }
+    ],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  }
+]

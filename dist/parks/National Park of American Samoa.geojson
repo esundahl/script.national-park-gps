@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -170.8425,
+          -14.32639
+        ]
+      },
+      "properties": {
+        "name": "Cape TapuTapu",
+        "notes": "Cape TapuTapu\nhttps://www.nps.gov/places/cape-taputapu.htm\n\n<p paraeid=\"{0edba5a9-2899-446d-b88a-052605c9a763}{252}\" paraid=\"783098417\">Cape Taputapu offers the best illustration in American Samoa of wave action on older massive volcanic activity which created Tutuila Island.  </p> <p paraeid=\"{bc63d6b0-e0ab-45fc-928a-a6faae96d25d}{5}\" paraid=\"1278649821\">Directions: Drive the coast road west to the village of ‘Amanave. Park off the road just before the road makes a sharp right turn uphill. The cape is about a mile walk along the shoreline. ONLY HIKE AT LOW TIDE. </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -170.6881,
+          -14.26454
+        ]
+      },
+      "properties": {
+        "name": "Mount Alava",
+        "notes": "Mount Alava\nhttps://www.nps.gov/places/mount-alava.htm\n\nFrom the Top of Mt. Alava, you can see the Island of Tutuila. The volcanic island of Tutuila is the largest of the seven islands in American Samoa. Pago Pago Harbor, a collapsed volcanic caldera, is one of the largest natural harbors in the South Pacific. ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Ofu Lagoon",
+        "notes": "Ofu Lagoon\nhttps://www.nps.gov/places/ofu-lagoon.htm\n\nCatch a glimpse of the colorful reef life in the world famous Ofu Lagoon. The Ofu island unit has a shallow protected reef with a great diversity of coral cover and fish. This is a feast for the eyes in the morning light. Keep an eye out for octopus and sea turtles. Be aware of the location of rip current (avas) wherever you swim. <br /> <br /> Note: There are no gear rentals available. Bring your own gear.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -169.463753,
+          -14.245354
+        ]
+      },
+      "properties": {
+        "name": "Saua Village",
+        "notes": "Saua Village\nhttps://www.nps.gov/places/saua.htm\n\nTake a stroll down to the ancient village of Saua on the island of Ta’u, the birthplace of Polynesia. Saua is one of the most sacred sites in the National Park of American Samoa, it holds some of the earliest secrets to Samoan prehistory. The wells, mounds, and platforms of Saua showcase early architecture in Samoa. The locations of these archaeological features in Saua village also showcase settlement patterns in Samoa.   ",
+        "icon": "red-pin-down.png"
+      }
+    }
+  ]
+}

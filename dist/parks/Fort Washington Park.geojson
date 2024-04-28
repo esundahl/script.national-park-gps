@@ -1,0 +1,560 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0327373134,
+          38.7131715693
+        ]
+      },
+      "properties": {
+        "name": "Battery Decatur",
+        "notes": "Battery Decatur\nhttps://www.nps.gov/places/000/battery-decatur.htm\n\n<p>In 1885, Secretary of War William C. Endicott, recommended a new system of seacoast defense that employed heavy steel breech-loading rifled guns, large mortars, rapid fire guns and underwater mines.</p> <p>Battery Decatur was the first modern gun position built for the defense of Washington, D.C.<br /> Named for Commodore Stephen Decatur, one of America's earliest naval heroes, who rose to distinction in the War of Tripoli and the War of 1812.<br /> <br /> Construction started: 1892<br /> Completed: 1897<br /> Cost: $128.492<br /> Armament: Two 10-guns</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.032043297,
+          38.709453033
+        ]
+      },
+      "properties": {
+        "name": "Battery Emory",
+        "notes": "Battery Emory\nhttps://www.nps.gov/places/000/battery-emory.htm\n\n<p>In 1885, Secretary of War William C. Endicott, recommended a new system of seacoast defense that employed heavy steel breech-loading rifled guns, large mortars, rapid fire guns and underwater mines. <br /> <br /> Named for Major General William H. Emory, U.S. Volunteers and a distinguished soldier in the War with Mexico and the Civil War.<br /> <br /> Construction started: 1869<br /> Completed:1897<br /> Cost:  $91,432<br /> Armament: Two 6\" guns</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.02909115751737,
+          38.707741119785126
+        ]
+      },
+      "properties": {
+        "name": "Battery Humphreys",
+        "notes": "Battery Humphreys\nhttps://www.nps.gov/places/000/battery-humphreys.htm\n\n<p>In 1885, Secretary of War William C. Endicott, recommended a new system of seacoast defense that employed heavy steel breech-loading rifled guns, large mortars, rapid fire guns and underwater mines. <br /> <br /> Named for Major General Andrew A. Humphreys, U.S. Volunteers, served with distinction during the Civil War and was Chief of Engineers, U.S. Army, 1866-1879.<br /> <br /> Construction started: 1899<br /> Cost: $93,207<br /> Armament: Two 10-inch guns</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0259739971,
+          38.7096409198
+        ]
+      },
+      "properties": {
+        "name": "Battery Meigs",
+        "notes": "Battery Meigs\nhttps://www.nps.gov/places/000/battery-meigs.htm\n\n<p>In 1885, Secretary of War William C. Endicott, recommended a new system of seacoast defense that employed heavy steel breech-loading rifled guns, large mortars, rapid fire guns and underwater mines. </p> <p paraeid=\"{3fe572b3-e749-4dba-9421-5b7f7123beb1}{212}\" paraid=\"1504870880\">Named for Brevet General Montgomery C. Meigs, U.S. Army, 1861-1862.  <br /> <br /> Construction started: 1898<br /> Completed in 1907<br /> Cost: $117.000<br /> Armament: Eight 12-inch mortars</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.029311765,
+          38.705590435
+        ]
+      },
+      "properties": {
+        "name": "Battery Smith",
+        "notes": "Battery Smith\nhttps://www.nps.gov/places/000/battery-smith.htm\n\n<p>In 1885, Secretary of War William C. Endicott, recommended a new system of seacoast defense that employed heavy steel breech-loading rifled guns, large mortars, rapid fire guns and underwater mines. </p> <p paraeid=\"{bc0abfc1-7bdb-4ab4-9e6d-e85158ed3ad1}{11}\" paraid=\"1931287829\">Named for Second Lieutenant Joseph P. Smith, 5th U.S. Infantry, killed September 13, 1847 at the Battle of Chapultepec, Mexico. <br /> <br /> Construction started: 1899<br /> Completed: 1903<br /> Armament: Two 3-inch guns</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0356402252,
+          38.7119371569
+        ]
+      },
+      "properties": {
+        "name": "Battery White",
+        "notes": "Battery White\nhttps://www.nps.gov/places/000/battery-white.htm\n\n<p paraeid=\"{bc0abfc1-7bdb-4ab4-9e6d-e85158ed3ad1}{11}\" paraid=\"1931287829\">In 1885, Secretary of War William C. Endicott, recommended a new system of seacoast defense that employed heavy steel breech-loading rifled guns, large mortars, rapid fire guns and underwater mines. <br />  </p> <p paraeid=\"{3fe572b3-e749-4dba-9421-5b7f7123beb1}{252}\" paraid=\"1240167282\">Named for Major William J.H. White, Surgeon, U.S. Army. Killed at the Battle of Antietam, September 17, 1862. <br /> <br /> Construction started: 1898<br /> Completed: 1903 <br /> Armament: Two 4” guns. </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.027759,
+          38.70452
+        ]
+      },
+      "properties": {
+        "name": "Battery Wilkin",
+        "notes": "Battery Wilkin\nhttps://www.nps.gov/places/000/battery-wilkin.htm\n\n<p>In 1885, Secretary of War William C. Endicott, recommended a new system of seacoast defense that employed heavy steel breech-loading rifled guns, large mortars, rapid fire guns and underwater mines. </p>   <p paraeid=\"{3fe572b3-e749-4dba-9421-5b7f7123beb1}{230}\" paraid=\"1131728087\">Named for Captain Alexander Wilkin, 17th U.S. Infantry, and Colonel, 9th Minnesota Volunteer Infantry. Killed on July 14, 1864 at the Battle of Tupelo, Mississippi. <br /> <br /> Construction started: 1899<br /> Completed: 1902<br /> Cost: $64,630<br /> Armament: Two 6-inch guns </p> <br />   ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.035769,
+          38.710336
+        ]
+      },
+      "properties": {
+        "name": "Counterscarp Gallery",
+        "notes": "Counterscarp Gallery\nhttps://www.nps.gov/places/000/counterscarp-gallery.htm\n\nEnemy soldiers landing at Piscataway Creek would need to contend with this position. In what is basically a bunker, defending soldiers could direct small arms, like rifles, towards an approaching foe. If enemy troops managed to breach the outer defenses, fire could also be reversed and directed towards the outer lying dry moat. <br /> <br /> The Counterscarp Gallery is in poor condition. Please exercise caution around the site. ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.03522,
+          38.710584
+        ]
+      },
+      "properties": {
+        "name": "Enlisted Men's Barracks",
+        "notes": "Enlisted Men's Barracks\nhttps://www.nps.gov/places/000/enlisted-mens-barracks.htm\n\nCompleted in 1821, this structure housed one full company of, around 60, enlisted men. Two rooms made up the first floor while the second level was a single dormitory. Soldiers would sleep in close quarters on the upper level and the lower was reserved for work as well as housing for some non-commissioned officers. For a time, the fort hospital was also here.<br /> <br /> The building is currently empty, but occassionally open to the public during special events. ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0368965836,
+          38.712280339
+        ]
+      },
+      "properties": {
+        "name": "Fort Washington Lighthouse",
+        "notes": "Fort Washington Lighthouse\nhttps://www.nps.gov/places/000/fort-washington-lighthouse.htm\n\n<p paraeid=\"{fab6dc90-e817-49a9-98df-5048faf46c82}{197}\" paraid=\"1830596095\">The Secretary of Treasury, James Guthrie requested in 1856 that a light be placed on Digges Point. Since this area belonged to the War, Jefferson Davis. Davis agreed to allow a light to be placed with conditions that \" the light shall be placed upon the wharf and not within any of the fortifications; and the light keeper shall be subordinate to the military command of the post and public ground in all that relate to police and discipline. If the care of the light can be placed with the Ordnance Sergeant, it will prevent interference with his present charge of other public property.\" With this permission the Lighthouse Board appropriated $500 for a light. This first light was an 18.5-foot iron post, which was placed November 7,1857. </p> <p paraeid=\"{fab6dc90-e817-49a9-98df-5048faf46c82}{215}\" paraid=\"1587903521\">The 1857 light pole remained until the 1870's when growth of the wharf caused obstruction to the light pole. A small 16-foot tower was built closer to the water's edge to replace to light pole. This was considered the first \"real\" lighthouse and a sixth order illuminant lens was placed in the tower. </p> <p paraeid=\"{fab6dc90-e817-49a9-98df-5048faf46c82}{221}\" paraid=\"1996703945\">The current tower was built in 1889 as the Fog Bell Tower.  In 1901 the light was moved to the tower, due to the surrounding area overshadowing the “real” lighthouse.   </p> <p paraeid=\"{fab6dc90-e817-49a9-98df-5048faf46c82}{229}\" paraid=\"1672031331\">In 1954, the light was changed to unmanned automatic flashing red light. During the years that followed the wharf and all buildings associated with the lighthouse were removed. The light/fog bell tower is all that remains of a once active light station. Sometime during the late 1970's the fog bell mechanism broke, ending the bell ringing at Fort Washington. In 2020, the United States Coast Guard, removed the triangle red marker and light to the river, ending a more than a century of active duty. The tower remains standing in its original place.  </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0342359058,
+          38.7130922462
+        ]
+      },
+      "properties": {
+        "name": "Fort Washington Lighthouse Area Bathroom",
+        "notes": "Fort Washington Lighthouse Area Bathroom\nhttps://www.nps.gov/places/000/lighthouse-area-bathroom.htm\n\nService/Sanitation Facility ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0297823255,
+          38.7144020047
+        ]
+      },
+      "properties": {
+        "name": "Fort Washington Main Parking Lot Bathroom",
+        "notes": "Fort Washington Main Parking Lot Bathroom\nhttps://www.nps.gov/places/000/fort-washington-main-parking-lot-bathroom.htm\n\nMen's and Women's restroom facility. Open all year. Accessible.  <br /> <br /> The men's room has one accessible stall and one regular stall, plus two urinals. The women's room has one accessible stall and three regular stalls. Both restrooms has two sinks.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.033991,
+          38.711301
+        ]
+      },
+      "properties": {
+        "name": "Fort Washington Officer's Quarters",
+        "notes": "Fort Washington Officer's Quarters\nhttps://www.nps.gov/places/000/fort-washington-officers-quarters.htm\n\nCompleted in 1824, the Officer's Quarters was designed for four commissioned officers and their families. There building has two separate areas of the same designed, each would have been for two families. There is a basement kitchen on each end of the building, and the food would have been brought up to the first floor using a \"dumb waiter\".  <br /> <br /> Today the north side first floor is used as a visitor contact station when staffing permits and the second floor is used for storage. The south side first floor is used by the park's living history volunteers.  ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.024123,
+          38.71235
+        ]
+      },
+      "properties": {
+        "name": "Fort Washington Park",
+        "notes": "Fort Washington Park\nhttps://www.nps.gov/places/000/fort-washington-park.htm\n\n<p>Built to defend the river approach to Washington, DC, Fort Washington has stood as silent sentry for over 200 years. As technologies advanced so did Fort Washington, from the brick and stone of the 19th century to the concrete and steel of the 20th century. Joining the National Park Service in 1946, the park continues to protect the Potomac River.</p> <hr /> <p>Fort Washington was the only fort protecting the approach to Washington, D.C. at the time of the War of 1812.</p> <p>When a British invasion fleet entered the Cheseapeake Bay in the Summer of 1814, the American Secretary of War did not believe Washington D.C. a valuable enough target to warrant a British attack, and so he declined to make adequate preparations for the defense of the nation's capital. </p> <p>Fort Washington was left understaffed and ill-equipped while British troops landed and engaged American defenders at Bladensburg, Maryland. After routing the Americans, British forces entered Washington and burned its public buildings. Fort Washington (sometimes referred to at the time as Fort Warburton), was soon abandoned and destroyed in order to prevent its capture by the enemy. </p> <p>After the conclusion of the War of 1812, the United States recognized the need for a more thorough and modern coastal defense system, and many new masonry forts were constructed. Fort Washington, recognized as the key position defending Washington D.C., was repaired and updated, and remained an active defensive works until well into the twentieth century.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.028337,
+          38.711068
+        ]
+      },
+      "properties": {
+        "name": "Fort Washington Picnic Area A",
+        "notes": "Fort Washington Picnic Area A\nhttps://www.nps.gov/places/000/fort-washington-picnic-area-a.htm\n\n<p lang=\"EN-US\" paraeid=\"{7d448c57-5bbc-4227-916f-95ee6e9127c8}{47}\" paraid=\"887880606\" xml:lang=\"EN-US\">Fort Washington’s group picnic areas require a reservation April 1 through October 31. They can be reserved using Recreation.gov.<br /> <br /> Area A has parking lot with about 50 spaces. It is a larger area, for up to 200 people. </p> <p lang=\"EN-US\" paraeid=\"{25e2ecb0-40b1-4be6-b7e3-69a4c1d2d86c}{201}\" paraid=\"452734007\" xml:lang=\"EN-US\">25-28 picnic tables, several small pedestal grills and one large pedestal grill with three separate grills. The tables are placed in a stand of trees that provide shade.</p> <p lang=\"EN-US\" paraeid=\"{406ccdaa-1c02-4545-92d4-7e9d37ce8071}{97}\" paraid=\"1173353088\" xml:lang=\"EN-US\">A Restroom is in the area. The area has a large open field behind the tables. </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.02663,
+          38.709592
+        ]
+      },
+      "properties": {
+        "name": "Fort Washington Picnic Area B1",
+        "notes": "Fort Washington Picnic Area B1\nhttps://www.nps.gov/places/000/fort-washington-picnic-area-b1.htm\n\nFort Washington’s group picnic areas require a reservation April 1 through October 31. They can be reserved using Recreation.gov.<br /> <br /> The B picnic area has four different areas that can be reserved, there is a large open field behind all the tables that is shared. There is one large parking lot shared by all the areas. A playground is in the area between B1 and B2. There are two restroom facilities on the outer edges of the space, closest to B1 and B4.<br /> <br /> Area B1 is a larger area that can be reserved for up to 200 people. <br /> <br /> 25-28 picnic tables, stone grill plus several small pedestal grills.<br /> <br /> A restroom located next to the area.<br /> <br /> The tables placed under trees.<br /> <br /> Area B1 may also use the maintenance parking lot which is behind the tables that has a sidewalk to the tables.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.02742487643788,
+          38.70966081660379
+        ]
+      },
+      "properties": {
+        "name": "Fort Washington Picnic Area B2",
+        "notes": "Fort Washington Picnic Area B2\nhttps://www.nps.gov/places/000/fort-washington-picnic-area-b2.htm\n\nFort Washington’s group picnic areas require a reservation April 1 through October 31. They can be reserved using Recreation.gov.<br /> <br /> he B picnic area has four different areas that can be reserved, there is a large open field behind all the tables that is shared. There is one large parking lot shared by all the areas. A playground is in the area between B1 and B2. There are two restroom facilities on the outer edges of the space, closest to B1 and B4.<br /> <br /> Picnic area B2 is a reserved area for up to 100 people. It has 15-17 picnic tables and several small pedestal grills. The area is mostly sunny with a couple of large trees which provide shade. Restrooms and playground are located nearby. <br />  ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.02839421771786,
+          38.7090138488987
+        ]
+      },
+      "properties": {
+        "name": "Fort Washington Picnic Area B3",
+        "notes": "Fort Washington Picnic Area B3\nhttps://www.nps.gov/places/000/fort-washington-picnic-area-b3.htm\n\nFort Washington’s group picnic areas require a reservation April 1 through October 31. They can be reserved using Recreation.gov.<br /> <br /> he B picnic area has four different areas that can be reserved, there is a large open field behind all the tables that is shared. There is one large parking lot shared by all the areas. A playground is in the area between B1 and B2. There are two restroom facilities on the outer edges of the space, closest to B1 and B4.<br /> <br /> Picnic area B3 can be reserved for up to 200 people. It contains 25-28 picnic tables, a stone grill, and several small pedestal grills. There are two nearby restrooms and available parking. the tables are placed under large trees which provide plenty of shade. ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.028437,
+          38.708177
+        ]
+      },
+      "properties": {
+        "name": "Fort Washington Picnic Area B4",
+        "notes": "Fort Washington Picnic Area B4\nhttps://www.nps.gov/places/000/fort-washington-picnic-area-b4.htm\n\nFort Washington’s group picnic areas require a reservation April 1 through October 31. They can be reserved using Recreation.gov. <p paraeid=\"{88fd4c2c-8835-4def-b916-daece53bca93}{113}\" paraid=\"1214095133\"><br /> The B picnic area has four different areas that can be reserved, there is a large open field behind all the tables that is shared. There is one large parking lot shared by all the areas. A playground is in the area between B1 and B2. There are two restroom facilities on the outer edges of the space, closest to B1 and B4.<br /> <br /> Picnic Area B4 can be reserved for up to 200 people. There are 25-28 picnic tables that are placed among the trees. The area has several small pedestal grills and one large pedestal grill with three grill areas.<br /> <br /> There is a bathroom near the area. </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.030433,
+          38.709779
+        ]
+      },
+      "properties": {
+        "name": "Fort Washington Picnic Area C",
+        "notes": "Fort Washington Picnic Area C\nhttps://www.nps.gov/places/000/fort-washington-picnic-area-c.htm\n\nFort Washington’s group picnic areas require a reservation April 1 through October 31. They can be reserved using Recreation.gov.<br />   <p paraeid=\"{d27173e2-891b-407b-8059-474b9738b5f9}{139}\" paraid=\"1120891349\">Area C has its own parking lot with about 50 parking spaces. It is reservable for up to 200 people. </p> <p paraeid=\"{d27173e2-891b-407b-8059-474b9738b5f9}{147}\" paraid=\"1350274621\">Area C has 25-28 picnic tables, several small pedestal grills and one large pedestal grill with three grill areas. There is a restroom in the area just a short walk from the tables. <br /> <br /> Many trees provide plenty of shade. The basketball court is located near the area. The court is open to all visitors and is not part of the reserved area.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.029753,
+          38.708155
+        ]
+      },
+      "properties": {
+        "name": "Fort Washington Picnic Area D1",
+        "notes": "Fort Washington Picnic Area D1\nhttps://www.nps.gov/places/000/fort-washington-picnic-area-d1.htm\n\nFort Washington’s group picnic areas require a reservation April 1 through October 31. They can be reserved using Recreation.gov.<br /> <br /> The is a small area for up to 50 people. It has eight to ten picnic tables and two small charcoal grills. There is a 10 car parking lot.<br /> <br /> The restroom is across the road in the B4 area.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.029775,
+          38.70734
+        ]
+      },
+      "properties": {
+        "name": "Fort Washington Picnic Area D2",
+        "notes": "Fort Washington Picnic Area D2\nhttps://www.nps.gov/places/000/fort-washington-picnic-area-d2.htm\n\nFort Washington’s group picnic areas require a reservation April 1 through October 31. They can be reserved using Recreation.gov.<br /> <br /> The is a small area for up to 50 people. It has eight to ten picnic tables and two small charcoal grills. The area is heavily shaded. There is a 10 car parking lot.<br /> <br /> The nearest bathroom is across the road in Picnic Area B4.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.026225,
+          38.712076
+        ]
+      },
+      "properties": {
+        "name": "Fort Washington Post Exchange",
+        "notes": "Fort Washington Post Exchange\nhttps://www.nps.gov/places/000/fort-washington-post-exchange.htm\n\nBuilt in the 1890s, this building operated as the postal exchange and gymnasium for the soldiers stationed here during the Spanish-American War and World War One. During World War Two, it served as the headquarters for a large Army training post.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.035465,
+          38.710408
+        ]
+      },
+      "properties": {
+        "name": "Fort Washington South Powder Magazine",
+        "notes": "Fort Washington South Powder Magazine\nhttps://www.nps.gov/places/000/fort-washington-south-powder-magazine.htm\n\nStored here was the powder and ammunition for the fort's guns. Masonry walls and interior wood lining provides protection against weather and incoming fire. A ventilation system prevented the buildup of combustible gas, which was quite explosive. ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0327373134,
+          38.7131715693
+        ]
+      },
+      "properties": {
+        "name": "Information Panel: Battery Decatur and Disappearing Guns",
+        "notes": "Information Panel: Battery Decatur and Disappearing Guns\nhttps://www.nps.gov/places/information-panel-battery-decatur-and-disappearing-guns.htm\n\nAmerican coastal defenses were modernized from the 1890s to 1910 with the developement of the Endicott System. Emphasis in military tactics shifted the masonry forticications to more effective weapons based on rifled steel guns, improved breech-loading systems, better propellants (gunpowder), and reinforced concrete gun emplacements.<br /> <br /> Here you will see the remains of Bettery Decatur, a reinforced concrete emplacement completed in 1891. It mounted two 10-inch dissapearing guns similar to the Fort Monroe rifled gun shown in the photographs below. The lower rooms of the battery were for shot, shell, and powder storage with cranes and hoists that moved the heavy ammunition up to the gun platforms.<br /> <br /> Ingenious disappearing carriages used recoil energy to lower the gun out of sight of the enemy for reloading and servicing. These 10-inch guns had a firing range of approximately seven miles.<br /> <br /> The guns were aimed and fired by means of complex range finding and fore control equipment centered in the Battery Commander's Station, visable to your left. This Depression Position Finder, mounted in the tower, located the target exactly.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.03459322452545,
+          38.71090185229905
+        ]
+      },
+      "properties": {
+        "name": "Information Panel: Caponiere",
+        "notes": "Information Panel: Caponiere\nhttps://www.nps.gov/places/information-panel-caponiere.htm\n\nDuring the 1840s improvements were made to this wall, defensively the weakest part of the fort. The parapet was raised and an outer work, called the caponiere, was added. The protected passageway on your left will lead you to the outerwork that mounted four howitzers in the chamber ahead and two on the upper level. These weapons are no longer here but you will see the tracks they were mounted on. these traverse rails made it easy to position the howitzers for firing.<br /> <br /> The small room at the end of the outerwork served as the \"sink\" or latrine, for the troops.<br /> <br /> These 24-pound gowitzers were short range weapons used to protect the imediate area around the fort against land attack.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.03553199768066,
+          38.71057116411619
+        ]
+      },
+      "properties": {
+        "name": "Information Panel: Counterscarp Battery",
+        "notes": "Information Panel: Counterscarp Battery\nhttps://www.nps.gov/places/information-panel-counterscarp-battery.htm\n\nAlong the outer wall of the ditch you see the counterscarp battery, named for its location on the \"counterscarp,\" or outer wall, of the dry ditch.<br /> <br /> This structure sheltered troops who could direct musketry toward the river or into the ditch itself.<br /> <br /> The reverse fire tactic enhanced the protection of this area.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.03573048114777,
+          38.710968826934646
+        ]
+      },
+      "properties": {
+        "name": "Information Panel: Minefields",
+        "notes": "Information Panel: Minefields\nhttps://www.nps.gov/places/information-panel-minefields.htm\n\nMinefields were an important part of the Endicott System of defense at the turn of the century. You are standing on the site that controlled the minefield operation.<br /> <br /> Groups of underwater mines anchored in the river downstream from the fort could be fired electronically from here when enemy ships passed nearby. The guns of Batteries White (visible below to your right), Many, and Smith protected the minefield from enemy mine-sweepers and destroyers.<br /> <br /> This building housed the plotting instrument and controls for the minefield.<br /> <br /> This building, located on the lower level, housed the generator that supplied the power for the minefield.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.03527450561523,
+          38.711906465244326
+        ]
+      },
+      "properties": {
+        "name": "Information Panel: New Guns for an Old Fort",
+        "notes": "Information Panel: New Guns for an Old Fort\nhttps://www.nps.gov/places/information-panel-new-guns-for-an-old-fort.htm\n\nRemnants of former gun emplacements are the reminders of the three generations of armaments that occupied this V-shaped Water Battery. Each generation reflects the latest technologies and precision in the manufacture of armaments.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0352852344513,
+          38.7110734746771
+        ]
+      },
+      "properties": {
+        "name": "Information Panel: Shot and Shell",
+        "notes": "Information Panel: Shot and Shell\nhttps://www.nps.gov/places/information-panel-shot-and-shell.htm\n\nFort Washington's solid masonry walls offered good protection against shot from smoothbore cannon of the early 19th century.<br /> <br /> When rifled artillery was introduced in the late 1850s and used during the Civil War, effectiveness of masonry structures decreased. The new weapons fired projectiles that fit the bore tightly and were given a stabiliting spin by the grooves in the barrel.<br /> <br /> These improvements gave the rifled guns a range, accuracy, and hitting-power nearly three times greater than the smoothbore cannon of the early 19th century.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.03539788722992,
+          38.71054186255784
+        ]
+      },
+      "properties": {
+        "name": "Information Panel: The Cisterns",
+        "notes": "Information Panel: The Cisterns\nhttps://www.nps.gov/places/information-panel-the-cisterns.htm\n\nA reliable supply of drinking water for the garrison was a priority at Fort Washington. Three wells dug early in the fort's construction proved inadequate.<br /> <br /> By 1823, four cisterns were installed to store rainwater. Located underground at each end of the barracks and officers' quarters, these cisterns had a total capacity of 19,000 gallons.<br /> <br /> Rainwater from the gutters and downspouts of the buildings flowed through a filter box into the cisterns. The water could then be removed by a handpump.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.03484535217285,
+          38.71121160946258
+        ]
+      },
+      "properties": {
+        "name": "Information Panel: Water Battery",
+        "notes": "Information Panel: Water Battery\nhttps://www.nps.gov/places/information-panel-water-battery.htm\n\nConstruction of this inverted V-shaped outerwork began in 1814. The traces of its shape are visible today. Surrounded by a dry ditch, the Water Battery mounted 24-pounder guns that provided an additional level of firepower to the fort.<br /> <br /> The Water Battery underwent two major changes after 1872. The gatehouse and other buildings were removed and construction of earthworks to surround the fort began. Four platforms for 15-inch Rodman guns and three magazines were completed before the government interest and funding waned.<br /> <br /> The Edicott System in the 1890s brought the construction of Battery White, the concrete structure that is visible now.<br /> <br /> Ricochet Firing<br /> Guns in the Water Battery could ricochet or bounce, shot across the river surface and hit a ship near the waterline causing sever hull damage.<br /> <br /> The Water Battery held many structures to support the Fort's operation:<br /> <br /> (1) Magazine- stored ammunition<br /> (2) Storehouse- housed gun carriages in peacetimer<br /> (3) Stables- housed workhorses<br /> (4) Saddlers shop- where leather equipment was repaired<br /> (5) Shot furnace- a furnace for heating solid cannon-balls. A red hot shot lodged in a ship's timbers could start a disasterous fire.<br /> (6) Blacksmith shop- where metal items were repaired and manufactured<br /> (7) Gatehouse- included two guardrooms and a bridge over the ditch",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.03610062599182,
+          38.71237527978737
+        ]
+      },
+      "properties": {
+        "name": "Information Panel: Welcome to Fort Washington's Waterside Trail",
+        "notes": "Information Panel: Welcome to Fort Washington's Waterside Trail\nhttps://www.nps.gov/places/information-panel-welcome-to-fort-washington-s-waterside-trail.htm\n\nStar Spangled Banner National Historic Trail<br /> <br /> \"The garrison to our great surprise, retreated from the fort and a short time afterward Fort Washington was blown up, which left the Capitol of America and the populous town of Alexandria open to the squadron without the loss of a man.\"<br /> <br /> Self-Destruction<br /> <br /> Explosions at Fort WashingtonAugust 27, 1814 surprised British and Americans alike. A British squadron slowly making its way up the Potomac expected resistance from the well-positioned fort. Alexandrians, fearing they were next after Washington's fall three days before, expected protection from the fort.<br /> <br /> Samuel Dyson, U.S. Army captain in command decided his 45-man garrison would be no match for the British. He ordered the fort destroyed and was later court martialed for his decision.<br /> <br /> Defenseless Alexandria negotiated surrender, and the British confiscated tobacco and other property. As the enemy withdrew down the Potomac with their prizes, angry Americans shot from shore and dispatched fire-ships with little effect.<br /> <br /> Welcome to Fort Washington's Waterside Trail<br /> <br /> Living where the land meets the water gives us everything we need: shelter in the woods, food to eat, and clean water to drink. Our climate promises a good life for the 15 million people and the more than 3,000 types of plants and animals that live in the Chesapeake Bay watershed. Certain soils and plant roots soak up much of the 30-40 inches of rain we receive each year. Leaves also absorb water, and forests slow a hard rain’s fall to earth. Woodlands shade the streams, and their roots hold stream banks in place. Pine trees and hardwoods layered over flowering shrubs, berry bushes, and wildflowers provide food and shelter for birds, mammals, insects, and turtles- just to name a few. In the clean, cool water nearby, fishes and shellfish feast on aquatic plants, and become food for larger fish, birds- like the Bald Eagle -and people.<br /> <br /> When rivers flood, or when rain hits land without woodlands, fast running water takes everything in its path to the bay. Pollutants from our homes, yards, cars, and work also flow into the bay. To protect the water, plants, and animals that live here, ribbons of waterside (or riparian) buffers of forests line the rivers and streams. These waterside woodlands slow the erosion of soil and absorb extra nutrients, while also providing shelter and food for wildlife. Preserving even small sections of riparian habitat helps protect our largest estuary, the Chesapeake Bay. <br /> <br /> As a river meets the ocean, a dynamic world of daily and seasonal changes in saltiness and temperature becomes the home to unique plants and animals. The rhythmic tidal changes work like an engine producing food, and decomposing matter. Winter storms tear wetland plants into food for fishes and all microscopic life. These tiny aquatic plants and single-cell animals grow in abundance when nutrients churn up from the bay floor and flow off the land. In the spring, many different types of ocean fishes swim up rivers to eat and lay eggs, and then return again to the salty ocean. In the warm waters of summer, crayfish and shellfish find food, and become food. Throughout the fall, millions of migratory birds come to the Atlantic Flyway to feed on the plants, nutrients, fishes, and shellfish. Throughout the year, each part of the ecosystem depends on another in a powerful dance of life. Walking on this trail, you will see some of the plants and Animals that make their home in waterside woodlands.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.034195,
+          38.712593
+        ]
+      },
+      "properties": {
+        "name": "Non-Commissioned Officer's Quarters",
+        "notes": "Non-Commissioned Officer's Quarters\nhttps://www.nps.gov/places/000/non-commissioned-officers-quarters.htm\n\nCompleted in 1822, this structure was the housing unit of senior non-commissioned officers. The two room-building was also, at different times, used as both a hospital and kitchen.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.033734,
+          38.711463
+        ]
+      },
+      "properties": {
+        "name": "North Powder Magazine",
+        "notes": "North Powder Magazine\nhttps://www.nps.gov/places/000/north-powder-magazine.htm\n\nStored here was the powder and ammunition for the fort's guns. Masonry walls and interior wood lining provides protection against weather and incoming fire. A ventilation system prevented the buildup of combustible gas, which was quite explosive. ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.036391,
+          38.712062
+        ]
+      },
+      "properties": {
+        "name": "Perimeter Trail - Piscataway Creek",
+        "notes": "Perimeter Trail - Piscataway Creek\nhttps://www.nps.gov/places/000/perimeter-trail-piscataway-creek.htm\n\nThe Piscataway Creek Perimeter Trail is a 1.5 mile nature trail that wraps around the south-west side of Fort Washington Park. The trail parallels the Potomac River, and offers a walk through the forests and wetlands of Fort Washington Park.  ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.023774,
+          38.712285
+        ]
+      },
+      "properties": {
+        "name": "Perimeter Trail - Swan Creek",
+        "notes": "Perimeter Trail - Swan Creek\nhttps://www.nps.gov/places/000/perimeter-trail-swan-creek.htm\n\nThe Swan Creek Perimeter Trail is a 1.5 mile nature trail that wraps around the north-west side of Fort Washington Park. The trail parallels the Potomac River, and offers a walk through the forests and wetlands of Fort Washington Park.  ",
+        "icon": "red-pin-down.png"
+      }
+    }
+  ]
+}

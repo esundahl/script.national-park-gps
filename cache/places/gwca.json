@@ -1,0 +1,477 @@
+[
+  {
+    "id": "E3C2E775-4A1A-4488-BEB4-FAE93FE9D811",
+    "url": "https://www.nps.gov/places/george-washington-carver-birth-site.htm",
+    "title": "George Washington Carver Birthplace Site",
+    "listingDescription": "When Moses and Susan Carver moved to southwest Missouri, they built a small 14 x 14 cabin. Eventually that same cabin was inhabited by an enslaved young woman named Mary, who was purchased by Moses Carver in 1855 and gave birth to George Washington Carver towards the end of the Civil War. Today visitors can see the approximate area where the cabin once stood with a wooden frame outline. .",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/FA48E007-AF96-AE2C-3D8C54BEFE9E355C.jpg",
+        "credit": "NPS",
+        "altText": "A outline structure about 2-1/2 foot high wooden frame outline of the footprint of the cabin.",
+        "title": "Birthplace Cabin Site",
+        "description": "",
+        "caption": "George Washington Carver birthplace cabin site.",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/FA48E007-AF96-AE2C-3D8C54BEFE9E355C.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/FA48E007-AF96-AE2C-3D8C54BEFE9E355C.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "MO",
+        "parkCode": "gwca",
+        "designation": "National Monument",
+        "fullName": "George Washington Carver National Monument",
+        "url": "https://www.nps.gov/gwca/index.htm",
+        "name": "George Washington Carver"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [
+      "Civil War",
+      "George Washington Carver",
+      "George Washington Carver National Monument",
+      "African American Experience",
+      "black history",
+      "African American heritage",
+      "national park service",
+      "reconstruction era",
+      "Segregation",
+      "midwest national parks"
+    ],
+    "latitude": "36.986334",
+    "longitude": "-94.354557",
+    "latLong": "36.986334,-94.354557",
+    "bodyText": "<p>When Moses and Susan Carver moved to southwest Missouri, they built a small 14 x 14 cabin. Eventually that same cabin was inhabited by an enslaved young woman named Mary, who was purchased by Moses Carver in 1855 and gave birth to George Washington Carver towards the end of the Civil War. Today visitors can see the approximate area where the cabin once stood with a wooden frame outline.<br /> <br /> During the Civil War, guerrilla warfare intensified along the Missouri-Kansas border. Born enslaved on the Moses and Susan Carver farm about 1864, George Washington Carver was caught up in the turmoil. When George was an infant outlaws kidnapped him and his mother Mary. George was located in Arkansas and returned to the Carvers, orphaned and nearly dead from whooping cough. His mother was never found. He never knew the identity of his father, although George believed he was enslaved on a nearby farm. George's frail health freed him from many daily chores, giving him time to explore. \"Day after day I spent in the woods alone in order to collect my floral beauties and put them in my little garden I had hidden in brush.\" The flowers thrived under his care, and George acquired the nickname \"The Plant Doctor\" in his community. George left the farm about 1876. He never again lived with the Carvers, but many of his values were shaped during his years on the farm. </p>",
+    "audioDescription": "The cabin outline is located on a flat grassy knoll above a spring. A wooden structure has been placed on the purported site to mark George Washington Carver’s birthplace. Although accuracy of his site has since been called into question, it continues to be interpreted using a 2-1/2-foot high wooden frame outline of the footprint of the cabin. The structure contains an opening at a suggested doorway that allows visitors to stand inside the exhibit. The cabin outline is interpreted with a wayside exhibit.",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "Park passport stamp is located in the visitor center.",
+    "passportStampImages": [
+      {
+        "credit": "",
+        "description": "",
+        "crops": [
+          {
+            "aspectRatio": 1,
+            "url": "https://www.nps.gov/common/uploads/passport_stamps/primary/7A3070F1-EF78-5BF9-3AB1968C15C439DD.jpg"
+          }
+        ],
+        "altText": "Park passport stamp with orange color for text. ",
+        "title": "Passport Stamp",
+        "caption": "",
+        "url": "https://www.nps.gov/common/uploads/passport_stamps/7A3070F1-EF78-5BF9-3AB1968C15C439DD.jpg"
+      }
+    ],
+    "managedByUrl": "",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "",
+    "isManagedByNps": "1",
+    "amenities": [
+      "Accessible Rooms",
+      "Accessible Sites",
+      "Assistive Listening Systems",
+      "Automated External Defibrillator (AED)",
+      "Braille",
+      "Captioned Media",
+      "Cellular Signal",
+      "Elevator",
+      "Fire Extinguisher",
+      "First Aid Kit Available",
+      "Food/Drink - Vending Machine/Self Service",
+      "Gifts/Souvenirs/Books",
+      "Historical/Interpretive Information/Exhibits",
+      "Information",
+      "Information - Maps Available",
+      "Information - Ranger/Staff Member Present",
+      "Information Kiosk/Bulletin Board",
+      "Internet/WiFi Available",
+      "Open Captioning",
+      "Parking - Auto",
+      "Picnic Table",
+      "Recycling",
+      "Restroom",
+      "Restroom - Accessible",
+      "Restroom - Family",
+      "Telephone",
+      "Theater/Auditorium",
+      "Toilet - Flush",
+      "Trash/Litter Receptacles",
+      "Water - Bottle-Filling Station",
+      "Water - Drinking/Potable",
+      "Wheelchair Accessible",
+      "Wheelchairs Available"
+    ],
+    "managedByOrg": "",
+    "quickFacts": [
+      {
+        "id": "5C252B96-2DEB-4EF4-91D1-B5D2B202FCD7",
+        "value": "Diamond, MO",
+        "name": "Location"
+      },
+      {
+        "id": "208F1B3C-44DC-4CF5-9A61-9B26A364D701",
+        "value": "Structure at George Washington Carver NM",
+        "name": "Significance"
+      }
+    ],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  },
+  {
+    "id": "AAA46DEB-ACC8-4F7E-A0D6-A9207A99B2C7",
+    "url": "https://www.nps.gov/places/george-washington-carver-bust.htm",
+    "title": "George Washington Carver Bust",
+    "listingDescription": "A bust of George Washington Carver stands in a small plaza at the end of the Carver trail. The cast concrete bust was created by Audrey Corwin in 1952 and presented to the park at its dedication in 1953 by the George Washington Carver Memorial Institute. An audio box inset into the base plays a recording of George Washington Carver reciting Edgar A. Guest poem, “Equipment,” at a 1942 commencement address at Selma University.",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/FFDF455D-99F5-0118-6F281C9548C377D3.jpg",
+        "credit": "NPS",
+        "altText": "Cast concrete bust of George Washington Carver on a cut stone cap over a concrete block base.",
+        "title": "George Washington Carver Bust",
+        "description": "",
+        "caption": "George Washington Carver Bust",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/FFDF455D-99F5-0118-6F281C9548C377D3.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/FFDF455D-99F5-0118-6F281C9548C377D3.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "MO",
+        "parkCode": "gwca",
+        "designation": "National Monument",
+        "fullName": "George Washington Carver National Monument",
+        "url": "https://www.nps.gov/gwca/index.htm",
+        "name": "George Washington Carver"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [
+      "George Washington Carver",
+      "George Washington Carver National Monument",
+      "national park service",
+      "midwest national parks",
+      "Midwest NPS",
+      "Find Your Park",
+      "African American Experience",
+      "African American heritage",
+      "African American History and Culture",
+      "art",
+      "Sculptor",
+      "bust",
+      "black history",
+      "reconstruction era",
+      "Segregation",
+      "african american artists",
+      "Tuskegee Institute",
+      "things to do",
+      "Places To Go"
+    ],
+    "latitude": "36.986334",
+    "longitude": "-94.354557",
+    "latLong": "36.986334,-94.354557",
+    "bodyText": "A bust of George Washington Carver stands in a small plaza at the end of the Carver trail. The 2 foot 9-inch-high cast concrete bust was created by Audrey Corwin in 1952 and presented to the park at its dedication in 1953 by the George Washington Carver Memorial Institute. The bust sits on a cut stone cap over a concrete block base with a limestone veneer. The stone cap is engraved with George Washington Carver’s name. An audio box inset into the base plays a recording of George Washington Carver reciting Edgar A. Guest poem, “Equipment,” at the 1942 commencement address at Selma University (Selma, Alabama). <br /> <br /> “Equipment” Poem by Edgar A. Guest<br /> Figure it out for yourself, my lad,<br /> You’ve all that the greatest of men have had,<br /> Two arms, two hands, two legs, two eyes<br /> And a brain to use if you would be wise.<br /> With this equipment they all began,<br /> So start for the top and say, “I can.”<br /> <br /> Look them over, the wise and great,<br /> They take their food from a common plate,<br /> And similar knives and forks they use,<br /> With similar laces they tie their shoes.<br /> The world considers them brave and smart,<br /> But you’ve all they had when they made their start.<br /> <br /> You can triumph and come to skill,<br /> You can be great if you only will.<br /> You’re well equipped for what fight you choose,<br /> You have legs and arms and a brain to use,<br /> And the man who has risen great deeds to do<br /> Began his life with no more than you.<br /> <br /> You are the handicap you must face,<br /> You are the one who must choose your place,<br /> You must say where you want to go,<br /> How much you will study the truth to know.<br /> God has equipped you for life, but He<br /> Lets you decide what you want to be.<br /> <br /> Courage must come from the soul within,<br /> The man must furnish the will to win.<br /> So figure it out for yourself, my lad. <br /> You were born with all that the great have had,<br /> With your equipment they all began,<br /> Get hold of yourself and say, “I can.”",
+    "audioDescription": "A bust of George Washington Carver stands in a small plaza at the end of the Carver trail. The 2 foot 9-inch-high cast concrete bust coated with a waterproof sealer, was created by Audrey Corwin in 1952 and presented to the park at its dedication in 1953 by the George Washington Carver Memorial Institute. The bust sits on a cut stone cap over a concrete block base with a limestone veneer. The stone cap is engraved with George Washington Carver’s name. An audio box inset into the base plays a recording of George Washington Carver reciting Edgar A. Guest poem, “Equipment,” at a 1942 commencement address at Selma University. “Equipment” Poem by Edgar A. Guest Figure it out for yourself, my lad, You’ve all that the greatest of men have had, Two arms, two hands, two legs, two eyes And a brain to use if you would be wise. With this equipment they all began, So start for the top and say, “I can.” Look them over, the wise and great, They take their food from a common plate, And similar knives and forks they use, With similar laces they tie their shoes. The world considers them brave and smart, But you’ve all they had when they made their start. You can triumph and come to skill, You can be great if you only will. You’re well equipped for what fight you choose, You have legs and arms and a brain to use, And the man who has risen great deeds to do Began his life with no more than you. You are the handicap you must face, You are the one who must choose your place, You must say where you want to go, How much you will study the truth to know. God has equipped you for life, but He Lets you decide what you want to be. Courage must come from the soul within, The man must furnish the will to win. So figure it out for yourself, my lad. You were born with all that the great have had, With your equipment they all began, Get hold of yourself and say, “I can.”",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "The park passport stamp is located in the visitor center.",
+    "passportStampImages": [
+      {
+        "credit": "",
+        "description": "",
+        "crops": [
+          {
+            "aspectRatio": 1,
+            "url": "https://www.nps.gov/common/uploads/passport_stamps/primary/7A3070F1-EF78-5BF9-3AB1968C15C439DD.jpg"
+          }
+        ],
+        "altText": "Park passport stamp with orange color for text. ",
+        "title": "Passport Stamp",
+        "caption": "",
+        "url": "https://www.nps.gov/common/uploads/passport_stamps/7A3070F1-EF78-5BF9-3AB1968C15C439DD.jpg"
+      }
+    ],
+    "managedByUrl": "",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "",
+    "isManagedByNps": "1",
+    "amenities": [
+      "Accessible Rooms",
+      "Accessible Sites",
+      "Assistive Listening Systems",
+      "Assistive Listening Systems - T-Coil Compatible",
+      "Braille",
+      "Captioned Media",
+      "Cellular Signal",
+      "Fire Extinguisher",
+      "First Aid Kit Available",
+      "Gifts/Souvenirs/Books",
+      "Historical/Interpretive Information/Exhibits",
+      "Information",
+      "Information - Maps Available",
+      "Information - Ranger/Staff Member Present",
+      "Information Kiosk/Bulletin Board",
+      "Internet/WiFi Available",
+      "Open Captioning",
+      "Parking - Auto",
+      "Parking - Bus/RV",
+      "Picnic Table",
+      "Restroom",
+      "Restroom - Accessible",
+      "Restroom - Family",
+      "Telephone",
+      "Theater/Auditorium",
+      "Toilet - Flush",
+      "Trailhead",
+      "Trash/Litter Receptacles",
+      "Water - Bottle-Filling Station",
+      "Wheelchair Accessible",
+      "Wheelchairs Available"
+    ],
+    "managedByOrg": "",
+    "quickFacts": [
+      {
+        "id": "5C252B96-2DEB-4EF4-91D1-B5D2B202FCD7",
+        "value": "Diamond, Missouri",
+        "name": "Location"
+      },
+      {
+        "id": "208F1B3C-44DC-4CF5-9A61-9B26A364D701",
+        "value": "Bust at George Washington Carver NM",
+        "name": "Significance"
+      }
+    ],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  },
+  {
+    "id": "7A18C174-6E8F-4FBA-993B-80ADA738CA9F",
+    "url": "https://www.nps.gov/places/george-washington-carver-national-monument.htm",
+    "title": "George Washington Carver National Monument",
+    "listingDescription": "At George Washington Carver National Monument near Diamond, Missouri, park rangers and naturalists present programs developed around Carver’s struggles, achievements, and enduring legacy in a beautiful park setting.",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/place/nri/20180824/places/39329289-FA7D-DD18-9FCFB493CCAB7943/39329289-FA7D-DD18-9FCFB493CCAB7943.jpg",
+        "credit": "NPS Photo",
+        "altText": "a bronze bust of George Washington Carver in front of green meadow",
+        "title": "",
+        "description": "",
+        "caption": "George Washington Carver National Monument",
+        "crops": []
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "MO",
+        "parkCode": "gwca",
+        "designation": "National Monument",
+        "fullName": "George Washington Carver National Monument",
+        "url": "https://www.nps.gov/gwca/index.htm",
+        "name": "George Washington Carver"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [
+      "Civil Rights",
+      "African American History",
+      "Tuskegee Institute",
+      "Slavery",
+      "farming",
+      "Missouri",
+      "African Americans"
+    ],
+    "latitude": "",
+    "longitude": "",
+    "latLong": "",
+    "bodyText": "<p>George Washington Carver National Monument is in Newton County in southwest Missouri and is composed of land that was the 240-acre farm of Moses Carver. The farm was the birthplace and childhood home of George Washington Carver, the distinguished African American scientist, educator, and humanitarian who became known for his work at Tuskegee Institute.<br /> <br /> On July 14, 1943, the bill authorizing the establishment of the monument passed and became Public Law (PL) 148 of the 78th Congress. Congress directed the National Park Service to maintain and preserve George Washington Carver’s birthplace as a suitable and enduring public memorial in his honor. This was the first time in United States history that a birthplace site was designated as a national monument to someone other than a United States president, and the first time a unit of the national park system was established to honor the contributions of an African American.<br /> <br /> While the park was established in 1943, it was not until July 23, 1949, that the District Court of the United States for the Western District of Missouri, Southwestern District, entered a judgment decreeing the title to 210 acres of land to the United States for the purpose of establishing the monument. Funding to pay for the decree was not authorized by Congress until September 1950. On June 14, 1951, almost eight years after PL 148-78 passed, 210 acres of the original 240-acre Moses Carver Farm were turned over to the National Park Service. In 2004 the remaining 30 acres of the original Moses Carver Farm were donated to the George Washington Carver Birthplace District Association by Mrs. Evelyn Taylor and her late husband W.J. “Bud” Taylor. The Association later donated the land to the National Park Service, making the 240-acre Moses Carver Farm property complete.<br /> <br /> The National Park Service began staffing the park in September 1952, and on July 14, 1953, George Washington Carver National Monument was officially dedicated. The park’s first visitor center, maintenance building, roads, and residences were constructed as a part of the “Mission 66” program, and were dedicated in July 1960. Mission 66 was a program to improve park facilities and conditions within the national park system after World War II. The original visitor center housed a museum, restroom facilities, and administrative offices.<br /> <br /> In June 2007 the construction of a newly remodeled and expanded (18,000 square foot) visitor center was completed. This multilevel facility houses a museum, theater, gift shop, interactive exhibit areas, classrooms, additional restrooms, library, museum collection storage facility, office space, and a large multipurpose area that also serves as a tornado shelter.<br /> <br /> The current landscape of the monument is a combined setting of restoration prairie, woodlands, streams, riparian corridors, and the manicured lawns surrounding the visitor center.</p>",
+    "audioDescription": "",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "",
+    "isManagedByNps": "1",
+    "amenities": [],
+    "managedByOrg": "",
+    "quickFacts": [
+      {
+        "id": "5C252B96-2DEB-4EF4-91D1-B5D2B202FCD7",
+        "value": "Near Diamond, Missouri",
+        "name": "Location"
+      },
+      {
+        "id": "208F1B3C-44DC-4CF5-9A61-9B26A364D701",
+        "value": "birthplace and childhood home of George Washington Carver",
+        "name": "Significance"
+      },
+      {
+        "id": "E32D2136-A184-4C1A-91D2-4C20CEF9CBAF",
+        "value": "National Monument",
+        "name": "Designation"
+      }
+    ],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  },
+  {
+    "id": "6E0F0247-3399-49F9-9F0A-33A0D3D50356",
+    "url": "https://www.nps.gov/places/young-george-washington-carver-statue.htm",
+    "title": "Young George Washington Carver Statue",
+    "listingDescription": "Robert Amendola sculpted this tribute to young George Washington Carver in 1961 and entitled it “Boy Carver Statue.” The statue depicts George tenderly cradling a plant in his left hand, illustrating his love and respect for nature. It shows why, as a young child, he was called “The Plant Doctor.”",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/33181431-EB6C-B3BB-6B8EBF7AFAA322F3.jpg",
+        "credit": "NPS",
+        "altText": "Bronze statue of young George Washington Carver.",
+        "title": "\"Boy Carver Statue\"",
+        "description": "",
+        "caption": "Young George Washington Carver statue on the Carver trail.",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/33181431-EB6C-B3BB-6B8EBF7AFAA322F3.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/33181431-EB6C-B3BB-6B8EBF7AFAA322F3.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "MO",
+        "parkCode": "gwca",
+        "designation": "National Monument",
+        "fullName": "George Washington Carver National Monument",
+        "url": "https://www.nps.gov/gwca/index.htm",
+        "name": "George Washington Carver"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [
+      "George Washington Carver",
+      "George Washington Carver National Monument",
+      "Statue",
+      "African American heritage",
+      "African American Experience",
+      "place",
+      "things to do",
+      "national park service",
+      "Midwest NPS",
+      "Artist",
+      "art",
+      "sculpture",
+      "Sculptor"
+    ],
+    "latitude": "36.986334",
+    "longitude": "-94.354557",
+    "latLong": "36.986334,-94.354557",
+    "bodyText": "Robert Amendola sculpted this tribute to young George Washington Carver in 1961 and entitled it “Boy Carver Statue.” The statue depicts George tenderly cradling a plant in his left hand, illustrating his love and respect for nature. It shows why, as a young child, he was called “The Plant Doctor.”<br /> <br /> <i>GEORGE WASHINGTON CARVER AS A BOY:</i><br /> <i>George Washington Carver National Monument</i><br /> <i>Diamond, Missouri</i><br /> <br /> <i>The concept of this sculpture was inspired by the extraordinary prayer of a young boy-George Washington Carver. From early youth, believing that the creator has made all things in nature for the good of mankind but had left to man the challenging tasks of discovering the potential and appropriate use of each, he was impelled by a burning curiosity to daily set aside time for a walk alone in the woods seeking out and contemplating some facts of nature while communing with its creator-a practice he continued throughout his long life. </i><br /> <br /> <i>It is one such moment in his boyhood this sculpture means to commemorate: </i><br /> <br /> <i>Following through deeps woods the gravelly windings of a nearly dry seasonal stream the young boy’s thoughtful progress is arrested by a captivating obstruction-a 10 foot pinnacle of deeply eroded ledge-rock fallen from an undercut outcropping in the side of a ancient river bank to land point up in the middle of the stream which has shaped it. Now a small muddy island hugged its base from which three kinds of wild vine straggled up the rock while various other plants had taken root in the crannies and pockets of its water-sculptured contours. </i><br /> <br /> <i>Excitedly the clambered up its crappy bulk and, finding a precarious perch at its peak, sits balanced-boy fashion-watch a family of lizards emerge from a crevice to bask in the sun. An odd and lovely plant in a stone pocket just below his rough seat has caught his eye and gently loosening it (to add to his “secret garden”) he cups it, earth and roots, in one hand, earnestly studying it. </i><br /> <br /> <i>Finally he turns his face toward heaven and his heart to the plants’ creator in wonder and thanksgiving. </i><i>For me the plant is also a symbol of George Washington Carver’s multipetalled genius growing and flowering among adverse conditions where it seen nothing could ever take root. </i><br /> <br /> Robert Amendola, Sculptor, May 26, 1981<br /> <br /> “Recognizing Carver’s many and varied talents, one visitor asked, ‘How have you been able to do so many things?’”<br /> <br /> “Would it surprise you,” Dr. Carver replied gently, “if I told you that I have been doing only one thing? The artist-his writings, his weaving, his music, his paintings are just the expressions of his soul in his search for truth.<br /> <br /> Quote from an article entitled, <i>George Washington Carver as Artist</i> by Georgia B. Skaggs.",
+    "audioDescription": "The \"Boy Carver Statue\" was cast by sculptor Robert Amendola and acquired by the park from the artist in 1962. The 4-foot tall bronze statue portrays George Washington Carver as a young child. It is set atop a 5 foots tall, 6-ton limestone boulder chosen by the artist. The statue depicts a barefoot and shirtless George Washington Carver, “the plant doctor,” sitting in his wild garden, plant in hand and looking toward the sky. It is situated on a circular plaza edged by a stone wall near Carver Branch.",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "Park passport stamp is located in the visitor center. The visitor center is open 9 a.m. to 5 p.m. daily.",
+    "passportStampImages": [
+      {
+        "credit": "",
+        "description": "",
+        "crops": [
+          {
+            "aspectRatio": 1,
+            "url": "https://www.nps.gov/common/uploads/passport_stamps/primary/F7AFA0B1-C96D-09F9-2A08740A50193660.jpg"
+          }
+        ],
+        "altText": "Orange oval-shape park passport cancellation stamp. ",
+        "title": "Park Cancellation Passport Stamp",
+        "caption": "",
+        "url": "https://www.nps.gov/common/uploads/passport_stamps/F7AFA0B1-C96D-09F9-2A08740A50193660.jpg"
+      }
+    ],
+    "managedByUrl": "",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "",
+    "isManagedByNps": "1",
+    "amenities": [
+      "Accessible Sites",
+      "Assistive Listening Systems",
+      "Automated External Defibrillator (AED)",
+      "Benches/Seating",
+      "Braille",
+      "Captioned Media",
+      "Cellular Signal",
+      "Elevator",
+      "Fire Extinguisher",
+      "First Aid Kit Available",
+      "Gifts/Souvenirs/Books",
+      "Historical/Interpretive Information/Exhibits",
+      "Information",
+      "Information - Maps Available",
+      "Information - Ranger/Staff Member Present",
+      "Information Kiosk/Bulletin Board",
+      "Internet/WiFi Available",
+      "Parking - Auto",
+      "Picnic Table",
+      "Recycling",
+      "Restroom",
+      "Restroom - Accessible",
+      "Telephone",
+      "Theater/Auditorium",
+      "Toilet - Flush",
+      "Trailhead",
+      "Trash/Litter Receptacles",
+      "Water - Drinking/Potable",
+      "Wheelchair Accessible",
+      "Wheelchairs Available"
+    ],
+    "managedByOrg": "",
+    "quickFacts": [
+      {
+        "id": "5C252B96-2DEB-4EF4-91D1-B5D2B202FCD7",
+        "value": "Diamond, Missouri",
+        "name": "Location"
+      },
+      {
+        "id": "208F1B3C-44DC-4CF5-9A61-9B26A364D701",
+        "value": "Statue at George Washington Carver National Monument",
+        "name": "Significance"
+      }
+    ],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  }
+]

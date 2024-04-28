@@ -1,0 +1,1325 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.65924332026394,
+          25.40034986659957
+        ]
+      },
+      "properties": {
+        "name": "3-in-1 Trail",
+        "notes": "3-in-1 Trail\nhttps://www.nps.gov/places/3-in-1-trail.htm\n\nThis 0.8 mile (1200 meter) loop offers a fantastic glimpse of the majesty and complexity of life in the park. Slight elevation changes raise roots and rocks from the river of grass, framing parallel Pine Rockland, Hardwood Hammock, and Sawgrass Prairie habitats for visitors to explore. The trail begins at the south end of the picnic area and is not wheelchair accessible.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.79357581984372,
+          25.17648325231862
+        ]
+      },
+      "properties": {
+        "name": "Alligator Creek Campsite",
+        "notes": "Alligator Creek Campsite\nhttps://www.nps.gov/places/alligator-creek-campsite.htm\n\n<br /> Located on marl prairie, along a canal section of Alligator Creek, about 100 feet from Garfield Bight. Campers at this remote and rarely-visited site will likely be gloriously alone, except for the crocodilians who often sun themselves at the landing. Mosquitoes can be abundant all year round.<br /> <br /> Access - Accessible at all tides via the West Lake Canoe Trail (motors prohibited past West Lake). Florida Bay access limited: Garfield Bight is too shallow during strong North winds or low tide. Motors are allowed on the Florida Bay route. Foot trails are overgrown and not recommended. Ask for a map of Flamingo Area Canoe Trails if traveling on the West lake Canoe Trail. Obtain local knowledge from rangers for Florida Bay Route.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.6093541641,
+          25.382047016
+        ]
+      },
+      "properties": {
+        "name": "Anhinga Trail",
+        "notes": "Anhinga Trail\nhttps://www.nps.gov/places/anhinga-trail.htm\n\nThe famous Anhinga Trail is a self-guiding pavement and boardwalk trail winding through and over sawgrass marsh and freshwater slough. A paved path leads you along the water and to a looping boardwalk, providing views into the prairie and the clear waters of the slough. You may see alligators, fish, turtles, anhingas, and many other birds, especially during the winter, when the generally lower waters of the dry season concentrate aquatic wildlife in the slough. This is one the most popular trails in the park because of its abundance of wildlife. The view of the expansive sky over the water and grass make it a popular place to watch sunrise and sunset. It is wheelchair accessible and is 0.8miles (1200meters) round trip.<br /> <br /> <a href=\"https://www.nps.gov/ever/planyourvisit/royal-palm.htm\">Royal Palm - Everglades National Park (U.S. National Park Service) (nps.gov)</a>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.9584033276,
+          25.1370760885
+        ]
+      },
+      "properties": {
+        "name": "Bayshore Loop Trail",
+        "notes": "Bayshore Loop Trail\nhttps://www.nps.gov/places/bayshore-loop-trail.htm\n\n<strong>******THE BAYSHORE LOOP TRAIL IS CLOSED UNTIL FURTHER NOTICE******</strong><br /> <br /> The trail is 2 miles (3.2 km) round trip. Meander along the shore of Florida Bay, watching for remnants of an outpost fishing village. Observe the effects of hurricanes Katrina and Wilma on the landscape. Begin at the Coastal Prairie Trailhead at the back of Loop \"C\" in the Flamingo Campground. Veer left at the trail junction to the bay. Not wheelchair accessible. Bicycles not allowed.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.923202,
+          25.148717
+        ]
+      },
+      "properties": {
+        "name": "Bear Lake Trail",
+        "notes": "Bear Lake Trail\nhttps://www.nps.gov/places/bear-lake-trail.htm\n\nLocated at the end of Bear Lake Road (2 miles long), Bear Lake Trail is 1.6 miles one way. Biking is allowed on Bear Lake Road only and not permitted on Bear Lake Trail.<br /> <br /> Journey through a dense hardwood hammock mixed with mangroves. The trail follows the old Homestead Canal, built in 1922, and is an excellent area for woodland birds. There are more than 50 different tree species. Bike, drive, or walk to the end of Bear Lake Road (2 miles one way) to begin this trail.<br /> <br /> Bear Lake Road closes to traffic in the summer months due to flooding and erosion.<br /> <br /> Bear Lake Canoe Trail is no longer passable.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.76396434959561,
+          25.756509778384213
+        ]
+      },
+      "properties": {
+        "name": "Bobcat Boardwalk Trail",
+        "notes": "Bobcat Boardwalk Trail\nhttps://www.nps.gov/places/bobcat-boardwalk-trail.htm\n\nA short accessible .2 miles trail that winds through a willowhead. The boardwalk allows visitors to view the wildlife all around them. Open year round.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.7664,
+          25.6563
+        ]
+      },
+      "properties": {
+        "name": "Borrow Pit Trail",
+        "notes": "Borrow Pit Trail\nhttps://www.nps.gov/places/borrow-pit-trail.htm\n\nTrail that borders the borrow pit at the Shark Valley Tower. Limestone was gathered or 'borrowed' to build local construction before the park. This is a great place to see alligators and other wildlife, open year round",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Broad River Campsite",
+        "notes": "Broad River Campsite\nhttps://www.nps.gov/places/broad-river-campsite.htm\n\nA ground campsite located on the south bank of the Broad River near WW marker #25. This site can get muddy after a heavy rain and mosquitoes can be prolific due to the dense mangroves nearby. Facilities are located on a small clearing of high ground surrounded by tall trees. This wide river eventually flows into Rodger’s River. It is reported that Joe Wiggins had a floating store on Broad River early in the century.<br /> <br /> Safely exploring a wilderness by water requires careful preparation and planning. Please visit our <a href=\"https://www.nps.gov/ever/planyourvisit/wilderness-trip-planner.htm\">Wilderness Trip Planner</a> page to learn more. ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.99995898,
+          25.4881296
+        ]
+      },
+      "properties": {
+        "name": "Camp Lonesome",
+        "notes": "Camp Lonesome\nhttps://www.nps.gov/places/camp-lonesome.htm\n\nThis ground campsite is located on an old Calusa Indian mound and shaded by tropical hardwood trees. The Seminole Indians had a hunting camp here when the Park was established in 1947. At least one Seminole claimed to have grown up at his family’s home at Camp Lonesome. This site is one of the few which extends inland into the sawgrass prairie. Paddlers may want to explore the Wood River (unmarked) just south of the site.<br /> <br /> Safely exploring a wilderness by water requires careful preparation and planning. Please visit our <a href=\"https://www.nps.gov/ever/planyourvisit/wilderness-trip-planner.htm\">Wilderness Trip Planner</a> page to learn more.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.918611792,
+          25.15156231
+        ]
+      },
+      "properties": {
+        "name": "Christian Point Hiking Trail",
+        "notes": "Christian Point Hiking Trail\nhttps://www.nps.gov/places/christian-point-hiking-trail.htm\n\nChristian Point is 1.6 miles one way. Wander a rustic path through a wide diversity of habitats. The trail begins in dense mangroves and buttonwoods full of bromeliads, or airplants. Next, investigate the unusual, salt–loving vegetation of open coastal prairie. Dead buttonwood snags interrupt these expanses that were shaped by hurricanes. Finally, you'll end–up along the shore of Snake Bight.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.03892945687143,
+          25.12929218297206
+        ]
+      },
+      "properties": {
+        "name": "Clubhouse Beach",
+        "notes": "Clubhouse Beach\nhttps://www.nps.gov/places/clubhouse-beach.htm\n\nDescription - Beach Site. This campsite is a sand/marl beach, backed by mangroves and coastal prairie. Mosquitoes and sandflies may be a problem year round, especially if wind is out of the north.<br /> <br /> Access - Accessible by foot, powerboat, canoe or kayak. Site is located between Slagle and House Ditches on the southern coast. It can be reached by foot on Flamingo’s Coastal Prairie Trail, or by boat via Florida Bay. Low tide exposes mud flats, making it inaccessible by powerboat.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.9485867068,
+          25.1367222466
+        ]
+      },
+      "properties": {
+        "name": "Coastal Prairie Trail",
+        "notes": "Coastal Prairie Trail\nhttps://www.nps.gov/places/coastal-prairie-trail.htm\n\nThis trial is 6 miles one way. Step back in time as you walk this old road once used by cotton pickers and fishermen. Open prairies of succulent coastal plants dotted with shady buttonwoods surround you as you journey towards the shore of Florida Bay. Begin at the rear of Loop \"C\" in the campground. A backcountry permit is required for camping.<br /> <br /> Note: There is very little shade on this exposed trail. Sunscreen, sun protection, and water are necessities.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.8980367862,
+          25.1826529033
+        ]
+      },
+      "properties": {
+        "name": "Coot Bay Pond",
+        "notes": "Coot Bay Pond\nhttps://www.nps.gov/places/coot-bay-pond.htm\n\nThis small pond opens up to Coot Bay, and is great for paddling and wildlife viewing.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.2985618322,
+          25.7964270994
+        ]
+      },
+      "properties": {
+        "name": "Crooked Creek Chickee",
+        "notes": "Crooked Creek Chickee\nhttps://www.nps.gov/places/crooked-creek-chickee.htm\n\nDouble Chickee Campsite<br /> <br /> At marker #126, look for the “No Wake” sign – this marks the entrance to the passage where the chickee is located. Listen for dolphins at night. Curious sea turtles may surface from time to time. The chickee is sheltered from all but the strongest breezes. Mosquitoes may visit in the early morning and evening hours.<br /> <br /> Safely exploring a wilderness by water requires careful preparation and planning. Please visit our <a href=\"https://www.nps.gov/ever/planyourvisit/wilderness-trip-planner.htm\">Wilderness Trip Planner</a> page to learn more. ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.2023634775805,
+          25.6939660596997
+        ]
+      },
+      "properties": {
+        "name": "Darwin's Place",
+        "notes": "Darwin's Place\nhttps://www.nps.gov/places/darwin-s-place.htm\n\nThis flat clearing was a homestead built from shell and cement by Arthur Darwin, who lived there from 1945 to 1971. He was the last private resident on Park lands. Artifacts from the site can still be seen and are protected. Tie your vessel securely. The island is also known as Opossum Key named because of the great number of opossums killed on the island. Before this, it was known as Chevelier Place, named after Jean Chevelier, a plume hunter who lived here. There is no dock and the Wilderness Waterway is used frequently by passing boaters.<br /> <br /> Safely exploring a wilderness by water requires careful preparation and planning. Please visit our <a href=\"https://www.nps.gov/ever/planyourvisit/wilderness-trip-planner.htm\">Wilderness Trip Planner</a> page to learn more.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.0830082,
+          25.1174383
+        ]
+      },
+      "properties": {
+        "name": "East Cape Campsite",
+        "notes": "East Cape Campsite\nhttps://www.nps.gov/places/east-cape-campsite.htm\n\n<br /> This campsite is an open shelly sand beach stretching for several miles along the Gulf of Mexico. Expect expansive sea views as well as magnificent sunsets and sunrises. Ruins of a dock used by an old concession tour may be found here. In the 1830s, Fort Poinsett was located here. Its mission was to thwart suspected arms trading between Indians and Spanish fisherman. Mosquitoes and sandflies may be a problem year round. Raccoons are in the area; store food and water appropriately.<br /> <br /> Access - Accessible by powerboat, canoe or kayak via Florida Bay. The Bear Lake Canal is overgrown and impassible and should not be attempted as an alternate route between the Cape beaches and Flamingo. Hazardous conditions exist at this cape for paddlers when wind and tides are opposed. Powerboats should anchor from the bow in unfavorable weather to avoid swamping.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.0030819929085,
+          25.1247376996785
+        ]
+      },
+      "properties": {
+        "name": "East Clubhouse Beach",
+        "notes": "East Clubhouse Beach\nhttps://www.nps.gov/places/east-clubhouse-beach.htm\n\nBeach Site. This campsite is a sand/marl beach, backed by mangroves and buttonwoods. Mosquitoes and sandflies may be a problem year round, especially if wind is out of the north. The site affords a lovely view of northern Florida Bay. Many trekkers use this site as a final stopover in order to get an early return to Flamingo the next day.<br /> <br /> Access - Accessible by powerboat, canoe or kayak, if consideration is given to the tide state. Low tide exposes mud flats, making it almost inaccessible. Site is located east of Slagle Ditch on the southern coast. It can be reached by boat from Florida Bay.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.937588284,
+          25.138728035
+        ]
+      },
+      "properties": {
+        "name": "Eco Pond",
+        "notes": "Eco Pond\nhttps://www.nps.gov/places/eco-pond.htm\n\nLocated on the road to the Flamingo Campground, Eco Pond has a ½ mile loop trail. Wading birds, shorebirds and occasional crocodiles can often be seen at this location.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.59005078834963,
+          25.394469943506024
+        ]
+      },
+      "properties": {
+        "name": "Everglades Homestead Entrance Station",
+        "notes": "Everglades Homestead Entrance Station\nhttps://www.nps.gov/places/everglades-homestead-entrance-station.htm\n\nAbout 500 meters after you've passed the Ernest Coe Visitor Center along the Main Park Road, you will encounter the Homestead Entrance Gate. Fees apply to enter Everglades National Park.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.7879638671875,
+          25.363882272740256
+        ]
+      },
+      "properties": {
+        "name": "Everglades National Park",
+        "notes": "Everglades National Park\nhttps://www.nps.gov/places/everglades-national-park.htm\n\n<p paraeid=\"{386eba4a-ecc6-4cce-bd3f-d7e5035f43df}{217}\" paraid=\"737427291\">In 1919, the National Parks Association was founded as an independent supporter of the National Park Service, to protect and enhance our park systems for generations to come. The NPA Board of Trustees was filled with prominent American conservationists, including Frederick Law Olmsted Jr.</p> <p paraeid=\"{386eba4a-ecc6-4cce-bd3f-d7e5035f43df}{221}\" paraid=\"805996790\">By 1928 the campaign for a park in the Everglades got rolling, with Jr. focusing on the park’s functions and purposes rather than specific prohibitions, as many Florida Representatives wanted. In 1931, William P Wharton joined the fight for a national park in the Everglades.</p> <p paraeid=\"{386eba4a-ecc6-4cce-bd3f-d7e5035f43df}{225}\" paraid=\"10292663\">Wharton was involved in the Massachusetts State Park System, National Association of Audubon Societies, and the American Forestry Association, a perfect match to join Olmsted Jr. in crafting the report for a proposed national park in the Everglades. Olmsted Jr. and Wharton would spend ten days walking extensively in the Everglades region, speaking with fisherman, guides, hunters, and trappers.</p> <p paraeid=\"{386eba4a-ecc6-4cce-bd3f-d7e5035f43df}{229}\" paraid=\"1947744284\">After their adventure, the two concluded the Everglades not only had all the qualities necessary for a national park but was also so different from any other in existence, having a “special force of novelty”. Olmsted Jr. and Wharton believed that coastal mangrove forests and “the abundance of many species of wild bird life not commonly found in other parts” made the Everglades highly desirable for a national park.</p> <p paraeid=\"{386eba4a-ecc6-4cce-bd3f-d7e5035f43df}{233}\" paraid=\"166938486\">Despite not proposing any specific recommendations for park development, they firmly believed believing “that the primitive character of the region should be protected to the utmost.” Not only did they see the Everglades as providing recreational enjoyment, they also saw the importance it would serve as a study site for botanists, zoologists, and geologists.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.1007,
+          25.569278
+        ]
+      },
+      "properties": {
+        "name": "Everglades Paddling Trail",
+        "notes": "Everglades Paddling Trail\nhttps://www.nps.gov/places/everglades-paddling-trail.htm\n\nA new waterway along the west side of the park – the Everglades Paddling Trail – was approved in the 2015 General Management Plan. This 120-mile route provides additional wilderness and backcountry opportunities and includes several segments totaling about 30 miles that have boating use restrictions to enhance visitor enjoyment in the busy winter-spring seasons. You will need a wilderness camping permit (available at the Flamingo and Gulf Coast Visitor Centers) if you plan to stay overnight at a campsite.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.144427,
+          25.478806
+        ]
+      },
+      "properties": {
+        "name": "Everglades Wilderness Waterway",
+        "notes": "Everglades Wilderness Waterway\nhttps://www.nps.gov/places/everglades-wilderness-waterway.htm\n\nThe wilderness of Everglades National Park is very different from other places you may have boated, paddled, or camped. It can be confusing and difficult to navigate as the mazes of mangrove–lined creeks and bays all begin to look the same. With proper planning, you can avoid the frustration and hours wasted from getting lost. The 99-mile Wilderness Waterway attracts interest because it connects Flamingo and Everglades City. Most paddlers allow at least eight days to complete the trip. This route is recommended for experienced paddlers only. Paddlers traveling in one direction only need to make arrangements in advance for a vehicle shuttle from a friend or private company. There are many areas of very shallow water that may be encountered along the Wilderness Waterway. Powerboats over 18' long may have to detour around Alligator and Plate Creeks. The “Nightmare” and Broad Creek are passable only to paddlers at high tide. To prevent prop dredging, which results in increased turbidity and the destruction of sub-merged natural features, boats with drafts of two feet or more, including the propeller, should not use the waterway.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.923503,
+          25.142667
+        ]
+      },
+      "properties": {
+        "name": "Flamingo Fish Cleaning Station",
+        "notes": "Flamingo Fish Cleaning Station\nhttps://www.nps.gov/places/flamingo-fish-cleaning-station.htm\n\nThe Flamingo Fish Cleaning Station is located adjacent to public boat ramps and the marina store, and is available 24-hours a day, year-round.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.922790731,
+          25.143274293
+        ]
+      },
+      "properties": {
+        "name": "Flamingo Marina",
+        "notes": "Flamingo Marina\nhttps://www.nps.gov/places/flamingo-marina.htm\n\nThe Flamingo Marina, open year-round, can accommodate boats with electric and water hookups. Marina is currently open with access to power, 30A water pedestals, pump out, showers (available for $3), fuel, and fully stocked marina store (beer, water, sunscreen, bug spray, to-go food etc.) The channel will accept a four-foot maximum draft at HIGH-TIDE. At SLACK TIDE (0 tide) the channel is approximately two feet deep.<br /> <br /> Bout Tours depart from the marina, and there are also bike, canoe, kayak, motorboat and houseboat rentals available.<br /> <br /> Hours for off season are 9am-5pm (Mid-April-Mid November), on season are 7am-7pm (Mid November-Mid April)<br /> <br /> Visitors are encouraged to check <a href=\"https://www.flamingoeverglades.com\">flamingoeverglades.com </a>for up to date information.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.921927,
+          25.140849
+        ]
+      },
+      "properties": {
+        "name": "Florida Bay",
+        "notes": "Florida Bay\nhttps://www.nps.gov/places/florida-bay.htm\n\nFlorida Bay is a large (approximately 2,200-square-kilometer), shallow lagoon bounded to the north by the Florida peninsula and to the south and east by the Florida Keys (see map below). Though connected to the Gulf of Mexico to the west, a series of shallow banks, typically covered with and stabilized by seagrass communities, limits the exchange of water between the gulf and the bay. These banks separate the bay into basins, each with its own physical characteristics. These basins provide unique habitat for many plants, invertebrates, fishes, birds, mammals, and reptiles, including several threatened or endangered species such as the Florida manatee (Trichechus manatus latirostris) and species of special concern such as the roseate spoonbill (Platalea ajaja). Approximately 1,625 square kilometers of Florida Bay are located within Everglades National Park and protected by the National Park Service. Boating in the Florida Bay is a task for the skilled. Treacherous passes cut through long banks of mud and seagrass that separate the shallow basins that make up Florida Bay. Safe boating requires the ability to \"read the water\" as well as a chart. Shallow areas are not always marked, so polarized sunglasses are a key to reading the water. Having a weatherproof copy of NOAA chart #11451 is highly recommended. Visitors should know the limits of their boat. On average, the bay is less than 3 feet deep, so knowing the draft (depth) of your boat is important.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.38626752090457,
+          25.845419945722796
+        ]
+      },
+      "properties": {
+        "name": "Gulf Coast Canoe/Kayak Launch",
+        "notes": "Gulf Coast Canoe/Kayak Launch\nhttps://www.nps.gov/places/gulf-coast-canoe-kayak-launch.htm\n\nNon-motorized boat launch available 24 hours a day, every day. No fee charged for boat launch. Vehicles cannot pull right up to the water. Canoes and kayaks must be carried the short distance from the parking area to the water. Parking is on a dirt / grassy area. A wilderness permit is required for all overnight stays in Everglades National Park. Wilderness permits are available at the nearby Gulf Coast Visitor Center. A park entrance pass is required if entering the waters of Everglades National Park. Passes are sold at the visitor center and online. The boat launch provides access to the Ten Thousand Islands and to the northern end of the 99-mile Wilderness Waterway.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.3858792518,
+          25.8452022078
+        ]
+      },
+      "properties": {
+        "name": "Gulf Coast Nature Trail",
+        "notes": "Gulf Coast Nature Trail\nhttps://www.nps.gov/places/gulf-coast-nature-trail.htm\n\nThe Everglades is an area where temperate and tropical zones meet, creating an ideal climate for plants to thrive. In the Gulf Coast district fresh and saltwater meet. Enjoy a short walk on the Gulf Coast Visitor Center grounds highlighting some of the native plants that exist in this place where worlds join. This is a 1/4 mile easy walk. To find the trail head look at the visitor center and go right across the lawn. Some of the plants are marked to help you identify them. Part of the walk is over uneven ground and during the summer it may be muddy, so watch your step!",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.6100237713,
+          25.382164895
+        ]
+      },
+      "properties": {
+        "name": "Gumbo Limbo Trail",
+        "notes": "Gumbo Limbo Trail\nhttps://www.nps.gov/places/gumbo-limbo-trail.htm\n\nThe Gumbo-Limbo trail is a self-guided, paved trail meandering through a shaded, jungle-like hardwood hammock. In the hammock, hardwood trees such as oaks and gumbo limbos form a dense canopy overhead. Look for majestic royal palms, ferns, and air plants such as bromeliads. You may hear or see birds such as warblers, barred owls, or catbirds. Look closely and you may spot a liguus tree snail, the jewel of the hardwood hammock, on the bark of the trees. As the trail passes a pond, look closely and you may see an alligator camouflaging amongst the vegetation. The trail is wheelchair accessible and is 0.4 miles (600 meters) round trip.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.9324117271,
+          25.1375913151
+        ]
+      },
+      "properties": {
+        "name": "Guy Bradley Trail",
+        "notes": "Guy Bradley Trail\nhttps://www.nps.gov/places/guy-bradley-trail.htm\n\nMingle with a variety of birds and butterflies as you amble along the shore of Florida Bay. Old pier pilings are a reminder that Flamingo was once a small fishing village. The trail was named for Audubon warden Guy Bradley, who was killed in 1905 while trying to protect a bird rookery in Florida Bay. This trail is a scenic short-cut from the Visitor Center to the Flamingo Campground day-use area and is 1 mile (1.6 km) one way. Wheelchair accessible and bicycles are allowed.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.68283740445793,
+          25.389339405169864
+        ]
+      },
+      "properties": {
+        "name": "HM-69 Integrated Fire Control",
+        "notes": "HM-69 Integrated Fire Control\nhttps://www.nps.gov/places/hm-69-integrated-fire-control.htm\n\n<i>Please note: This building and its associated structures and parking lot are not open to the public and have no public facilities. Please only stop your vehicle on the grass across the road.</i><br /> <br /> The building today called the Daniel Beard Research Center, where National Park scientists are based, was originally called Integrated Fire Control and built as the headquarters of the Nike missile base. It housed soldiers and officers, included a mess hall and recreational facilities, and had offices for all “up range” purposes. The Battery Commander would work from this building, and if the decision was made to fire the missiles, the launch buttons would have been pressed here.<br /> <br /> Integrated Fire Control buildings had to be kept at a distance from the “down-range” facilities, where the missiles were kept. First, if there were a mistake with one of the missiles, the distance provided some protection of the people “up-range.” Second, this is where the radar towers stood, now gone. Five towers were here, both to track incoming aircraft and to track any missiles launched from the base. If the radar tracking the missiles were less than 3000 feet (about 1 km) from the launching missile they were to track, the missile would travel so fast as to be out of the range of the radar before the radar could lock onto it.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.68544828891756,
+          25.36869197421285
+        ]
+      },
+      "properties": {
+        "name": "HM-69 Missile Assembly Building",
+        "notes": "HM-69 Missile Assembly Building\nhttps://www.nps.gov/places/hm-69-missile-assembly-building.htm\n\nMaintenance was critical to keep missiles and warheads ready. This battery was in “hot status” rotation with the other three batteries of the 2<sup>nd</sup> Battalion in south Florida, with one always ready to aim their missiles at a moment’s notice. When a dignitary was in town, such as the US President, all four Batteries were on hot status.<br /> <br /> Soldiers had to constantly test and maintain equipment.Though they had little downtime on duty, soldiers still enjoyed pursuits beyond their day-to-day jobs. This painting of a missile is original artwork, showing the pride soldiers took in being responsible for this technological marvel on the front line of the Cold War.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.68467572337522,
+          25.3697184489846
+        ]
+      },
+      "properties": {
+        "name": "HM-69 Missile Barn C",
+        "notes": "HM-69 Missile Barn C\nhttps://www.nps.gov/places/hm-69-missile-barn-c.htm\n\nSection Barn C, one of the three barns that held the missiles and protected them when they were not deployed to be tested or fired. The large paved area between the road and the barn had three launch pads with rails between so two soldiers could roll out the five ton missiles to their positions. At Nike bases elsewhere in the country, the missiles would be housed below the launch pads and elevators brought the missiles up; here the water table is too close to the surface to have underground facilities, so the barns were built.<br /> <br /> Maintenance and cleaning had to be kept to perfection here. If there was so much as a pebble in the rails, the missiles might not be able to be readied quickly enough to destroy incoming aircraft from Cuba. Security was at its tightest, as shown by many of the warnings on the inside walls. Crews had to call security within 60 seconds of entering the barn. As you explore, note that the displays added by the Park Service are on tables and easels. Everything on the walls of the barn is exactly as it was left when the site was decommissioned in 1979.The missile on display is a real Nike Hercules missile, though it no longer has its nuclear warhead. It was restored in 2012 by students at George T. Baker Aviation School in Miami, 50 years after the Cuban Missile Crisis.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.6848109802522,
+          25.368953458524373
+        ]
+      },
+      "properties": {
+        "name": "HM-69 Mosquito Painting",
+        "notes": "HM-69 Mosquito Painting\nhttps://www.nps.gov/places/hm-69-mosquito-painting.htm\n\nThe sub-tropical wilderness surrounding the base made wildlife a daily part of the conditions soldiers lived with. Just like today, the area had snakes, alligators, and insects to deal with. The blotches on the pavement here are old paint, once a painting of a mosquito. Soldiers claimed it was life sized at about a foot long by a foot wide (30 cm on each side). Heat and humidity, heavy rains, and the threat of hurricanes made maintaining and readying equipment more difficult. But this was an upgrade from their original location just outside the entrance to the park. There, soldiers lived in tents with no electricity or running water. Summer rains would turn the ground to mud and flood the tents where soldiers slept and ate.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.6861694250096,
+          25.37065987469319
+        ]
+      },
+      "properties": {
+        "name": "HM-69 Security Down Range",
+        "notes": "HM-69 Security Down Range\nhttps://www.nps.gov/places/hm-69-security-down-range.htm\n\nThis is the down-range section of the base, an extremely high security area. Even authorized soldiers known to military police guarding the site would be held at gunpoint if they were found in a part of the site they were not expected in. This sign is a replica of one originally placed outside the fence you just came through, and it is an example of the kind of security expected here. <br /> <br /> The sign’s text reads, in English and Spanish:U.S. ARMY<br /> RESTRICTED AREA<br /> USE OF DEADLY FORCE IS AUTHORIZED<br /> WARNING<br /> THIS SITE HAS BEEN DECLARED A RESTRICTED AREA BY AUTHORITY OF THE COMMANDING GENERAL IN ACCORDANCE WITH THE PROVISIONS OF THE DIRECTIVE ISSUED BY THE SECRETARY OF DEFENSE ON 20 AUGUST 1954, PURSUANT TO THE PROVISIONS OF SECTION 21, INTERNAL SECURITY ACT OF 1950. UNAUTHORIZED ENTRY IS PROHIBITED. ALL PERSONS AND VEHICLES ENTERING HEREON ARE LIABLE TO SEARCH. PHOTOGRAPHING, MAKING NOTES, DRAWINGS, MAPS, OR GRAPHIC REPRESENTATIONS OF THIS AREA OR ITS ACTIVITIES, IS PROHIBITED UNLESS SPECIFICALLY AUTHORIZED BY THE COMMANDING OFFICER. ANY SUCH MATERIAL FOUND IN THE POSSESSION OF UNAUTHORIZED PERSONS WILL BE CONFISCATED.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.6857322733497,
+          25.36916540732372
+        ]
+      },
+      "properties": {
+        "name": "HM-69 Sentry Dog Kennels",
+        "notes": "HM-69 Sentry Dog Kennels\nhttps://www.nps.gov/places/hm-69-sentry-dog-kennels.htm\n\nThis structure is what remains of the security dog kennel when the site was operaitonal. The small building and enclosure was home for the dogs who patrolled the exclusionary zone between the outer and inner fences.<br /> <br /> Each Nike base had an average of four sentry dogs, each with a military police officer as their handler. The dogs were trained to only listen to their one handler, and to attack all other people. There are stories of soldiers running for cover if a dog got loose, until their handler got them back under control. These dogs and their armed handlers patrolled the fenceline every night, no matter the weather. As they patrolled, they carried metal weapons, and walked between metal fences. There were several occasions of dogs and handlers being struck by lightning.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.355624,
+          25.854897
+        ]
+      },
+      "properties": {
+        "name": "Halfway Creek Paddling Trail",
+        "notes": "Halfway Creek Paddling Trail\nhttps://www.nps.gov/places/halfway-creek-paddling-trail.htm\n\nThe Halfway Creek and Loop Trails are accessible from the Gulf Coast Visitor Center in Everglades City or from the Big Cypress Welcome Center on Sea Grape Drive off of US 41. The Creek is 7.3 miles long from the Big Cypress Welcome Center to the Gulf Coast Visitor Center. The upper loop is an additional 3.7 miles. From the Gulf Coast Visitor Center, the Halfway Creek-Left Hand Turner-Turner River loop is 11 miles. Allow 4-8 hours for these trails.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.823277188,
+          25.232482168
+        ]
+      },
+      "properties": {
+        "name": "Hells Bay Canoe Trail",
+        "notes": "Hells Bay Canoe Trail\nhttps://www.nps.gov/places/hells-bay-canoe-trail.htm\n\nHell’s Bay is 3.0 miles to Lard Can Campsite, 3.5 miles to Pearl Bay Chickee, and 5.5 miles to Hells Bay Chickee. “Hell to get into and Hell to get out of,” or so the old timers claimed. This sheltered route weaves through mangrove creeks and ponds to a series of small bays beyond Lard Can. The trail is marked with more than 160 poles.<br /> <br /> A more detailed trail map is also available. Motors are prohibited from the trailhead to Lard Can. A wilderness pemit is required for overnight stays.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.8786273803,
+          25.2533955427
+        ]
+      },
+      "properties": {
+        "name": "Hells Bay Chickee",
+        "notes": "Hells Bay Chickee\nhttps://www.nps.gov/places/hells-bay-chickee.htm\n\nThis campsite is so named because the bay was “hell to get to and hell to get out of!” This applies whether approaching from the Main Park Road via the twisty Hells Bay Canoe Trail, or from Whitewater Bay via the unmarked East River route. The chickee sits in the middle of the bay in front of a mangrove island. Alligators may be in the area. Do not allow food scraps to fall into the water near any chickee.<br /> <br /> Access - Accessible by boat, canoe, and kayak at all tides via the East River from Whitewater Bay. Accessible via Hell’s Bay Canoe Trail (starts off park road), by canoe or kayak only. The site is located at the end of Hell’s Bay Trail near marker #178.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.205397,
+          25.5013
+        ]
+      },
+      "properties": {
+        "name": "Highland Beach Campsite",
+        "notes": "Highland Beach Campsite\nhttps://www.nps.gov/places/highland-beach-campsite.htm\n\nA beach campsite located between Highland Point and the beaches north of the mouth of Rodger’s River. There are many large coconut palms growing along this narrow beach and it is a good location for bird watching. Make sure your camp is set up above the high tide line and secure food from racoons. The Rewis family lived at this site for about 27 years and spent most of it on the beach. Australian Pines, exotics to the area, can still be seen today.<br /> <br /> Safely exploring a wilderness by water requires careful preparation and planning. Please visit our <a href=\"https://www.nps.gov/ever/planyourvisit/wilderness-trip-planner.htm\">Wilderness Trip Planner</a> page to learn more. ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.68622041557157,
+          25.370701297137686
+        ]
+      },
+      "properties": {
+        "name": "Historic Nike Missile Site",
+        "notes": "Historic Nike Missile Site\nhttps://www.nps.gov/places/historic-nike-missile-site.htm\n\nThe historic Nike Missile Site is one of the best preserved relics of the Cold War in Florida, active from the years 1966-1979. Visitors may visit the site most days between early December and late March. There is an open house program, as well as Ranger-guided tours. The area includes 3 missile barns, a missile assembly building, a guard dog kennel, barracks, a Nike Hercules missile, and various support elements.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Hog Key Campsite",
+        "notes": "Hog Key Campsite\nhttps://www.nps.gov/places/hog-key-campsite.htm\n\n<span style=\"color:null;\">The western shore of Hog Key is currently closed to protect vulnerable resources. Hog Key has a small campsite on the north end that may be used.</span><br /> <br /> Excellent fishing areas are only minutes away to both the north and the south. Paddlers may choose to use Hog Key to shorten days between Lostman’s River and Turkey Key due to traditionally rougher seas in that area. Access may be difficult and should be done at a higher tide.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.418406,
+          25.788553
+        ]
+      },
+      "properties": {
+        "name": "Jewell Key Campsite",
+        "notes": "Jewell Key Campsite\nhttps://www.nps.gov/places/jewell-key-campsite.htm\n\nThis beach site is located on a small key in the Ten Thousand Islands. The camping area is located on a sandy spit on the back side of the island, near the outhouse. Camping on the Gulf side is not possible.<br /> <br /> Safely exploring a wilderness by water requires careful preparation and planning. Please visit our <a href=\"https://www.nps.gov/ever/planyourvisit/wilderness-trip-planner.htm\">Wilderness Trip Planner</a> page to learn more. ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.06636272063963,
+          25.279888203082123
+        ]
+      },
+      "properties": {
+        "name": "Joe River Chickee",
+        "notes": "Joe River Chickee\nhttps://www.nps.gov/places/joe-river-chickee.htm\n\nThis double chickee campsite is located on an alternate route from the Wilderness Waterway on the east bank of the mouth of Joe River. The chickee sits in a small but beautiful cove. At night, listen for dolphins who puff their way past your home to fish in the creek behind the chickee. Tall trees block all but southwesterly breezes, so be prepared for tiny winged visitors.<br /> <br /> Access - Accessible at all tides by powerboat, canoe, and kayak. From the Wilderness Waterway, travel southwest from marker #2 through Oyster Bay. Traveling through Joe River between Oyster Bay and Flamingo affords some protection from gusty winds and rough water common on Whitewater Bay, although Joe Bay can get quite rough on windy days.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.8471007166096,
+          25.2492773252133
+        ]
+      },
+      "properties": {
+        "name": "Lard Can Campsite",
+        "notes": "Lard Can Campsite\nhttps://www.nps.gov/places/lard-can-campsite.htm\n\nThis ground campsite is located on a small patch of slightly elevated ground. It is shaded by buttonwoods and surrounded by mangroves. Soil compaction at the site makes it very muddy after a rainstorm. The thick vegetation and shade can lead to high mosquito levels, especially in summer.<br /> <br /> Access - Accessible by paddlers from the Hell’s Bay Trail. Motors are prohibited from the Hells Bay Trail Head to Lard Can. The trail winds through mangroves and is protected from the wind for most of the way. White numbered PVC poles mark the route.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.65459110232035,
+          25.403523024056184
+        ]
+      },
+      "properties": {
+        "name": "Long Pine Key Trail",
+        "notes": "Long Pine Key Trail\nhttps://www.nps.gov/places/long-pine-key-trail.htm\n\nCutting across shrubby pineland forest, this wide, rocky trail winds from Long Pine Key Rd west over 7miles (11km) to Pine Glades Lake through the heart of the Everglades rarest ecosystem. Birds, bugs, and blossoms abound along palmetto lined corridors of South Florida slash pines. Aside from seasonal washout zones through waterlogged prairie, the trail is dominated by dry, exposed limestone dotted with shallow pools. At the trails end by main park road, waterfowl, fish, and reptiles frequent the shores of Pine Glades Lake.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.306053,
+          25.787911
+        ]
+      },
+      "properties": {
+        "name": "Lopez River Campsite",
+        "notes": "Lopez River Campsite\nhttps://www.nps.gov/places/lopez-river-campsite.htm\n\nClosest campsite on the Wilderness Waterway to Everglades City, located between marker #126 and #127 on the southern bank of the Lopez River. This campsite is easily located by spotting the cement cistern which marks the old Lopez homestead built at the turn of the century.<br /> <br /> Safely exploring a wilderness by water requires careful preparation and planning. Please visit our <a href=\"https://www.nps.gov/ever/planyourvisit/wilderness-trip-planner.htm\">Wilderness Trip Planner</a> page to learn more. ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.142783,
+          25.633961
+        ]
+      },
+      "properties": {
+        "name": "Lostman's Five Campsite",
+        "notes": "Lostman's Five Campsite\nhttps://www.nps.gov/places/lostman-s-five-campsite.htm\n\nA ground campsite located on a clearing of higher ground with a few palm trees that provide shade. This site was once an inholding. Soil compaction at this site can cause flooding during rainy weather. The dock is larger than most and can accommodate several vessels. This is a popular site for fishing groups with powerboats.<br /> <br /> Safely exploring a wilderness by water requires careful preparation and planning. Please visit our <a href=\"https://www.nps.gov/ever/planyourvisit/wilderness-trip-planner.htm\">Wilderness Trip Planner</a> page to learn more. ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.83195913676174,
+          25.323568204148643
+        ]
+      },
+      "properties": {
+        "name": "Mahogany Hammock",
+        "notes": "Mahogany Hammock\nhttps://www.nps.gov/places/mahogany-hammock.htm\n\nThis self-guiding boardwalk trail meanders through a dense, jungle-like hardwood \"hammock.\" Lush vegetation includes gumbo-limbo trees, air plants, and the largest living mahogany tree (Swietenia mahogani) in the United States. The trail is 0.5 miles (800 meters) roundtrip and is wheelchair accessible.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.08395311267088,
+          25.12347902881416
+        ]
+      },
+      "properties": {
+        "name": "Middle Cape Campsite",
+        "notes": "Middle Cape Campsite\nhttps://www.nps.gov/places/middle-cape-campsite.htm\n\nThis beach campsite, popular with fishermen, is a long, shelly sand beach on the Gulf of Mexico. There is little shade, and it is exposed to wind in all directions. Campers will find spectacular sunrises and sunsets and unparalleled views of the Gulf or Mexico. Raccoons are in the area; store food and water appropriately.<br /> <br /> Access - Accessible by powerboat, canoe or kayak via Florida Bay and the Gulf of Mexico. The site is exposed; canoes and kayaks should be pulled far onto shore in case the wind picks up. Powerboats should anchor from the bow in unfavorable weather to avoid swamping.<br /> <br /> Safely exploring a wilderness by water requires careful preparation and planning. Please visit our <a href=\"https://www.nps.gov/ever/planyourvisit/wilderness-trip-planner.htm\">Wilderness Trip Planner</a> page to learn more. ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.289692,
+          25.673639
+        ]
+      },
+      "properties": {
+        "name": "Mormon Key",
+        "notes": "Mormon Key\nhttps://www.nps.gov/places/mormon-key.htm\n\nBeach campsite. There is good fishing in the area located near the mouth of the Huston and Chatham Rivers. Make sure your camp is set up above the high tide line. Make sure vessels are tied, beached, or anchored securely.<br /> <br /> Safely exploring a wilderness by water requires careful preparation and planning. Please visit our <a href=\"https://www.nps.gov/ever/planyourvisit/wilderness-trip-planner.htm\">Wilderness Trip Planner</a> page to learn more. ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.89347124099731,
+          25.18610744372614
+        ]
+      },
+      "properties": {
+        "name": "Mrazek Pond",
+        "notes": "Mrazek Pond\nhttps://www.nps.gov/places/mrazek-pond.htm\n\nMost of the year you'll see only a few ducks and wading birds, but for a few days during some winters, large numbers of wading birds, including Roseate Spoonbills and Wood Storks, move in to feast. Mrazek Pond is located approximately 3 miles north of the Guy Bradley Visitor Center. ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.926506,
+          25.190217
+        ]
+      },
+      "properties": {
+        "name": "Mud Lake Canoe Trail",
+        "notes": "Mud Lake Canoe Trail\nhttps://www.nps.gov/places/mud-lake-canoe-trail.htm\n\nThis trail is 7 miles round trip from Coot Bay Pond. Venture inland through the mangroves on this trail connecting the Buttonwood Canal, Coot Bay, Mud Lake, and Bear Lake. Birding is often good at Mud Lake. Accessible from the Bear Lake Trailhead (note: Bear Lake Canoe Trail is impassable) or Coot Bay Pond. Motors not allowed.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.281217,
+          25.646806
+        ]
+      },
+      "properties": {
+        "name": "New Turkey Key Campsite",
+        "notes": "New Turkey Key Campsite\nhttps://www.nps.gov/places/new-turkey-key-campsite.htm\n\nThe beach site in the middle of the key has a vault toilet nearby, but is buggy. The other site is on an open sand spit which usually has less bugs, but at high tide you must use a boat to reach the toilet in the middle of the key. The sand spit is getting smaller and holds less people.<br /> <br /> Safely exploring a wilderness by water requires careful preparation and planning. Please visit our <a href=\"https://www.nps.gov/ever/planyourvisit/wilderness-trip-planner.htm\">Wilderness Trip Planner</a> page to learn more. ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.7934735385,
+          25.2543199127
+        ]
+      },
+      "properties": {
+        "name": "Nine Mile Pond Canoe Trail",
+        "notes": "Nine Mile Pond Canoe Trail\nhttps://www.nps.gov/places/nine-mile-pond-canoe-trail.htm\n\nNine Mile Pond is a 5.2 mile loop. This scenic trail passes through shallow grassy marsh with scattered mangrove islands. Watch for alligators, crocodiles, wading birds, and an occasional endangered snail kite. The trail is marked with numbered white poles. Water levels are good for passage in the fall and winter. <h2>Everglades Institute</h2> <p>The Everglades Institute offers guided paddling tours of Nine Mile Pond when water levels permit. Canoes and paddling equipment will be supplied to all guests.</p> <ul> <li>Learn more at: <a href=\"https://evernpi.org/\">Everglades Institute</a></li> </ul>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.818901,
+          25.234989
+        ]
+      },
+      "properties": {
+        "name": "Noble Hammock Canoe Trail",
+        "notes": "Noble Hammock Canoe Trail\nhttps://www.nps.gov/places/noble-hammock-canoe-trail.htm\n\nNoble Hammock is a 2 mile loop winding through a maze of shady mangrovelined creeks and small ponds, the sharp turns and narrow passageways require good maneuvering skills. Enjoy a “crash” course. Check for low water levels during the dry season. Motors prohibited.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.50959133792654,
+          25.149857326684625
+        ]
+      },
+      "properties": {
+        "name": "North Nest Key",
+        "notes": "North Nest Key\nhttps://www.nps.gov/places/north-nest-key.htm\n\nGround Site. One of only two keys open to camping in Florida Bay. This site is popular with boaters and can be a very busy area, especially on weekends. Snorkelers should be cautious: use a dive flag with a buddy. And be alert for other boats in the area.<br /> <br /> Access - Accessible to powerboats at all tides. Not recommended for paddlers due to long distance over open water, unless launching from Key Largo. The dock will accommodate several vessels. Located five miles west of Upper Florida Keys.<br /> <br /> Safely exploring a wilderness by water requires careful preparation and planning. Please visit our <a href=\"https://www.nps.gov/ever/planyourvisit/wilderness-trip-planner.htm\">Wilderness Trip Planner</a> page to learn more.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.1695025666504,
+          25.234873979502026
+        ]
+      },
+      "properties": {
+        "name": "Northwest Cape Campsite",
+        "notes": "Northwest Cape Campsite\nhttps://www.nps.gov/places/northwest-cape-campsite.htm\n\nThis beach campsite is an open shelly sand beach with no shade. It is exposed to sun and wind in all directions. Mosquitoes and sandflies may be a present year round. Raccoons are in the area; store food and water in appropriately (hard sided containers). Beautiful sunsets and a sense of wilderness solitude will reward campers here, at this least frequented of the three Cape Sable beaches.<br /> <br /> Access - Accessible by powerboat, canoe or kayak via Florida Bay and the Gulf of Mexico. The site is open; canoes and kayaks should be pulled far onto shore in case the wind picks up. Powerboats should anchor from the bow in unfavorable weather to avoid swamping.<br /> <br /> Safely exploring a wilderness by water requires careful preparation and planning. Please visit our <a href=\"https://www.nps.gov/ever/planyourvisit/wilderness-trip-planner.htm\">Wilderness Trip Planner</a> page to learn more. ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.62216373730818,
+          25.375509030882085
+        ]
+      },
+      "properties": {
+        "name": "Old Ingraham Highway",
+        "notes": "Old Ingraham Highway\nhttps://www.nps.gov/places/old-ingraham-highway.htm\n\nThe historic Old Ingraham Highway was the first motorway to Flamingo but now provides at least 10 miles (one way) of backpacking into the heart of the Everglades. This packed gravel historic road can be flooded during the wetter months but allows wonderful uninterrupted vistas of the Taylor Slough and tree islands looming in the distance.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.7668687323,
+          25.7485459907
+        ]
+      },
+      "properties": {
+        "name": "Otter Cave Hammock Trail",
+        "notes": "Otter Cave Hammock Trail\nhttps://www.nps.gov/places/otter-cave-hammock-trail.htm\n\nA short, .3 mile trail over a rough limestone surface. This hammock provides an up close view of the solution holes that permeate the floor of the Everglades, open year round.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.78369398973788,
+          25.440862619898652
+        ]
+      },
+      "properties": {
+        "name": "Pa-hay-Okee",
+        "notes": "Pa-hay-Okee\nhttps://www.nps.gov/places/pa-hay-okee.htm\n\nThis elevated wooden boardwalk leads to an overlook that offers sweeping vistas of the \"river of grass\". This raised observation platform provides close up views of dwarf cypress trees, magnolia, air plants and string lillies. The trail is 0.16 miles or 260 meters roundtrip, Wheelchair accessible.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.799749695,
+          25.2820544666
+        ]
+      },
+      "properties": {
+        "name": "Paurotis Pond",
+        "notes": "Paurotis Pond\nhttps://www.nps.gov/places/paurotis-pond.htm\n\nPaurotis Pond is a scenic point along the Main Park Road. It is a rookery for many wading birds during the nesting season. It offers picnic tables and parking.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.352253,
+          25.70725
+        ]
+      },
+      "properties": {
+        "name": "Pavilion Key Campsite",
+        "notes": "Pavilion Key Campsite\nhttps://www.nps.gov/places/pavilion-key-campsite.htm\n\nThe interior of Pavilion Key is closed to protect vulnerable resources. Pavilion Key has a small campsite on the north end that may be used.<br /> <br /> Bird watching is popular on the shoreline and fishing in the area is great. Tie or anchor your vessel securely and protect your food from racoons.<br /> <br /> Safely exploring a wilderness by water requires careful preparation and planning. Please visit our <a href=\"https://www.nps.gov/ever/planyourvisit/wilderness-trip-planner.htm\">Wilderness Trip Planner</a> page to learn more. ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.8561941319,
+          25.2595317737
+        ]
+      },
+      "properties": {
+        "name": "Pearl Bay Chickee",
+        "notes": "Pearl Bay Chickee\nhttps://www.nps.gov/places/pearl-bay-chickee.htm\n\nThis chickee is designed to accommodate campers with disabilities. The platforms have railings on several sides, and there is a large chemical toilet. One of the platforms has steps leading down to the water to facilitate access. The chickee sits in the bay, away from the surrounding mangroves, and is open at all sides, so mosquitoes usually are not a problem. On a moonless night, the stars are reflected hugely in the still waters of the bay. Dolphins swim past, hunting a midnight snack.<br /> <br /> Access - Accessible by boat, canoe, and kayak from Whitewater Bay. Accessible by canoe or kayak only, via Hell’s Bay Canoe Trail (starts off park road). The trail is well marked with white PVC poles from the trailhead.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.485017,
+          25.824197
+        ]
+      },
+      "properties": {
+        "name": "Picnic Key Campsite",
+        "notes": "Picnic Key Campsite\nhttps://www.nps.gov/places/picnic-key-campsite.htm\n\nCampsites are located along the narrow beach. The channel offshore of the site is deep and swift with numerous oyster bars on the bottom. This site can be very buggy when calm and is exposed to westerly winds in stormy weather. Camp well above the high tide line.<br /> <br /> Safely exploring a wilderness by water requires careful preparation and planning. Please visit our <a href=\"https://www.nps.gov/ever/planyourvisit/wilderness-trip-planner.htm\">Wilderness Trip Planner</a> page to learn more. ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.6796454356,
+          25.423188461
+        ]
+      },
+      "properties": {
+        "name": "Pinelands Trail",
+        "notes": "Pinelands Trail\nhttps://www.nps.gov/places/pinelands-trail.htm\n\nPinelands Trail is a short, paved loop trail is 2 miles west of the Long Pine Key turnoff on the main park road. This trail loops through a forest of pines, palmettos, and wildflowers. It is 0.4 miles (650 meters) roundtrip. Wheelchair accessible.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.149028,
+          25.640947
+        ]
+      },
+      "properties": {
+        "name": "Plate Creek Chickee",
+        "notes": "Plate Creek Chickee\nhttps://www.nps.gov/places/plate-creek-chickee.htm\n\nChickee campsite located on a small key facing southeast. This key gets good air circulation, making it more insect-free than most. Free standing tents are needed for the chickee.<br /> <br /> Safely exploring a wilderness by water requires careful preparation and planning. Please visit our <a href=\"https://www.nps.gov/ever/planyourvisit/wilderness-trip-planner.htm\">Wilderness Trip Planner</a> page to learn more. ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.37938124423606,
+          25.751145483632456
+        ]
+      },
+      "properties": {
+        "name": "Rabbit Key Campsite",
+        "notes": "Rabbit Key Campsite\nhttps://www.nps.gov/places/rabbit-key-campsite.htm\n\nThis beach campsite site is located at the mouth of Rabbit Key Pass on the eastern side of the island. A vault toilet marks the designated site. This campsite is a narrow beach with dune vegetation. Be aware of prickly pear cactus near toilet.<br /> <br /> Safely exploring a wilderness by water requires careful preparation and planning. Please visit our <a href=\"https://www.nps.gov/ever/planyourvisit/wilderness-trip-planner.htm\">Wilderness Trip Planner</a> page to learn more. ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.0639526553,
+          25.5367251088
+        ]
+      },
+      "properties": {
+        "name": "Rodger's River Chickee",
+        "notes": "Rodger's River Chickee\nhttps://www.nps.gov/places/rodger-s-river-chickee.htm\n\nThis double chickee is set in the middle of a small protected cove. It is far enough from the mangroves and situated so that it usually gets a breeze off the water and has few mosquitoes. The nearby bays offer good tarpon fishing and there is access to freshwater bass fishing as well. Eating bass caught in this area is not advised due to high mercury content.<br /> <br /> Safely exploring a wilderness by water requires careful preparation and planning. Please visit our <a href=\"https://www.nps.gov/ever/planyourvisit/wilderness-trip-planner.htm\">Wilderness Trip Planner</a> page to learn more.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.904995107,
+          25.1750171412
+        ]
+      },
+      "properties": {
+        "name": "Rowdy Bend Hiking Trail",
+        "notes": "Rowdy Bend Hiking Trail\nhttps://www.nps.gov/places/rowdy-bend-hiking-trail.htm\n\nRowdy Bend Trail is 2.6 miles one way. Explore an overgrown old roadbed through shady buttonwoods and open coastal prairie. This is an opportunity for good woodland bird watching. Combine this trail with the Main Park Road (use caution!) and the Snake Bight Trail for a 12.6-mile round–trip bike ride from the Guy Bradley Visitor Center.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.60974636652409,
+          25.38249259938044
+        ]
+      },
+      "properties": {
+        "name": "Royal Palm",
+        "notes": "Royal Palm\nhttps://www.nps.gov/places/royal-palm.htm\n\nRoyal Palm Information Station and Bookstore is a great place to stop to see wildlife, walk trails, attend a ranger program, or purchase souvenirs. The gift shop is open year-round from 9AM-4PM. Attend a ranger talk or follow a ranger on a guided walk beginning at the Royal Palm Visitor Center. Royal Palm serves as the terminus of two wheelchair accessible trails, the Anhinga Trail and Gumbo Limbo Trails, each offering visitors the opportunity to explore a different ecosystem along a paved trail or boardwalk. The Royal Palm area became a state park in 1916 before it became one of the original parts of Everglades National Park in 1947.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Sandfly Hiking Trail",
+        "notes": "Sandfly Hiking Trail\nhttps://www.nps.gov/places/sandfly-hiking-trail.htm\n\nSandfly Island appears wild and natural, like hundreds of other islands of mud and mangroves in this estuary. But the trail reveals many layers of human history. Pioneer homesteading is the most obvious; notice the old concrete cistern. Shell mounds and the shape of the shoreline indicate that the entire island was engineered. The earliest inhabitants, Calusa Indians, built the island in a horseshoe configuration to facilitate fishing with the aid of the tides and a net. The hiking trail 0.9 miles, visitors should allow 40 minutes to complete. The surface is bare ground and the trail is not wheelchair accessible.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.398528,
+          25.814727
+        ]
+      },
+      "properties": {
+        "name": "Sandfly Loop Paddling Trail",
+        "notes": "Sandfly Loop Paddling Trail\nhttps://www.nps.gov/places/sandfly-loop-paddling-trail.htm\n\nThis trip is 5 miles and can take between 2.5 - 4 hours. Trip durations may vary if you walk the trail on Sandfly Island or if strong winds or unfavorable tides are present. If you decide to stop at Sandfly Island, please use the beach area next to the dock, as the dock can be slippery and dangerous. Always tie up your boat.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Shark River Chickee",
+        "notes": "Shark River Chickee\nhttps://www.nps.gov/places/shark-river-chickee.htm\n\nA single chickee structure located on the south shore of a branch of the Little Shark River, 0.3 miles south of WW marker #6. This is a shady site, with northern exposure. The chickee is tucked up against a tall red mangrove forest. The rattling and plopping and thunkings of the forest residents will be heard all night long.<br /> <br /> Access - Accessible by boat, canoe, and kayak at all tides. Be aware of the strong tidal current and plan your route accordingly. Wilderness Waterway travelers will access the chickee from the Little Shark River. Others may take on the challenge of the aptly named Labyrinth route and approach from the southeast.<br /> <br /> Safely exploring a wilderness by water requires careful preparation and planning. Please visit our <a href=\"https://www.nps.gov/ever/planyourvisit/wilderness-trip-planner.htm\">Wilderness Trip Planner</a> page to learn more. ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.76638690346417,
+          25.758183713974447
+        ]
+      },
+      "properties": {
+        "name": "Shark Valley Entrance Station",
+        "notes": "Shark Valley Entrance Station\nhttps://www.nps.gov/places/shark-valley-entrance-station.htm\n\nEntrance booth to the Shark Valley District. All park passes are sold here. Open year round, hours vary due to season.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.7664165988,
+          25.6560972133
+        ]
+      },
+      "properties": {
+        "name": "Shark Valley Observation Tower",
+        "notes": "Shark Valley Observation Tower\nhttps://www.nps.gov/places/shark-valley-observation-tower.htm\n\nThe highest elevation a visitor can reach by foot in the entire park, at 70 feet in elevation. Panoramic views up to 20 miles of the Everglades are a favorite for visitors. The elevated view provides wonderful perspective of the diverse landscapes. Open year round and 24-hours a day.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.7654239,
+          25.7570115
+        ]
+      },
+      "properties": {
+        "name": "Shark Valley Tram Trail",
+        "notes": "Shark Valley Tram Trail\nhttps://www.nps.gov/places/shark-valley-tram-trail.htm\n\nA 15-mile, flat paved loop trail, open year around, and only access to the Shark Valley Observation Tower. Great panoramic views of the Everglades along with wildlife sightings. Open 24-hours a day, year around. This trail is popular for walking and bicycling because of its abundance of wildlife, particularly during the dry winter months.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.7977716022,
+          25.3899766221
+        ]
+      },
+      "properties": {
+        "name": "Sisal Pond",
+        "notes": "Sisal Pond\nhttps://www.nps.gov/places/sisal-pond.htm\n\nSisal Pond is freshwater borrow pit 15 miles from the park entrance. It can be accessed through the Long Pine Key Nature Trail or along the Main Park Road. Freshwater fishing is available.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.874231,
+          25.201054
+        ]
+      },
+      "properties": {
+        "name": "Snake Bight Hiking Trail",
+        "notes": "Snake Bight Hiking Trail\nhttps://www.nps.gov/places/snake-bight-hiking-trail.htm\n\nSnake Bight is 1.8 miles one way, but don't let the name deter you! In this play on words, a \"bight\" is actually a bay (Snake Bight) within a larger bay (Florida Bay). Enter another world as you travel through a tropical hardwood hammock, with dozens of tropical tree species. There is excellent bird watching from the boardwalk at the end of trail if you plan your hike or bike ride to arrive near high tide.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.2118845637,
+          25.7445215952
+        ]
+      },
+      "properties": {
+        "name": "Sweetwater Chickee",
+        "notes": "Sweetwater Chickee\nhttps://www.nps.gov/places/sweetwater-chickee.htm\n\nSweetwater is a double chickee campsite located in a less frequently traveled area. Bring a free-standing tent with extra rope to tie it down. No hammering stakes or nails into chickee.<br /> <br /> Safely exploring a wilderness by water requires careful preparation and planning. Please visit our <a href=\"https://www.nps.gov/ever/planyourvisit/wilderness-trip-planner.htm\">Wilderness Trip Planner</a> page to learn more.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.245794,
+          25.709122
+        ]
+      },
+      "properties": {
+        "name": "The Watson Place",
+        "notes": "The Watson Place\nhttps://www.nps.gov/places/the-watson-place.htm\n\nAt the turn of the century Ed Watson lived here in a two-story house growing vegetables and refining sugarcane. Historic objects can still be located including: a cement cistern, a sugarcane syrup cauldron, and farm machinery. Several exotic plant species still grow at this site. Visitors can camp at this backcountry ground site. <br /> <br /> Safely exploring a wilderness by water requires careful preparation and planning. Please visit our <a href=\"https://www.nps.gov/ever/planyourvisit/wilderness-trip-planner.htm\">Wilderness Trip Planner</a> page to learn more. ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.492642,
+          25.833179
+        ]
+      },
+      "properties": {
+        "name": "Tiger Key Campsite",
+        "notes": "Tiger Key Campsite\nhttps://www.nps.gov/places/tiger-key-campsite.htm\n\nThe beach camp sites on the western side offer a nice breeze and more privacy. Locate your campsite away from vegetation to minimize your impact in this fragile area.<br /> <br /> Safely exploring a wilderness by water requires careful preparation and planning. Please visit our <a href=\"https://www.nps.gov/ever/planyourvisit/wilderness-trip-planner.htm\">Wilderness Trip Planner</a> page to learn more. ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.2721611286,
+          25.6440906026
+        ]
+      },
+      "properties": {
+        "name": "Turkey Key Campsite",
+        "notes": "Turkey Key Campsite\nhttps://www.nps.gov/places/turkey-key-campsite.htm\n\nA beach campsite. The beach is narrow and sloping in many places, but a few flat spots can be found. Watch out for prickly pear cactus and try to protect the fragile vegetation in the area.<br /> <br /> Safely exploring a wilderness by water requires careful preparation and planning. Please visit our <a href=\"https://www.nps.gov/ever/planyourvisit/wilderness-trip-planner.htm\">Wilderness Trip Planner</a> page to learn more. ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.270635597,
+          25.891393111
+        ]
+      },
+      "properties": {
+        "name": "Turner River Paddling Trail",
+        "notes": "Turner River Paddling Trail\nhttps://www.nps.gov/places/turner-river-paddling-trail.htm\n\nTo complete the entire Turner River Canoe Trail is a full day paddle. Sections can be done as an out and back. It is accessible from the canoe launch on US Hwy 41 in Big Cypress National Preserve or by launching from Chokoloskee or the Gulf Coast Visitor Center canoe launch. The total trail is 8.5 miles between Turner River Launch and Chokoloskee. Between Chokoloskee and the Gulf Coast Visitor Center launch adds an additional 3 miles. Allow 5-8 hours. From the Gulf Coast Visitor Center, the Halfway Creek-Left Hand Turner-Turner River loop is 11 miles.<br /> <br /> The Turner River may be impassable if water levels are too high or too low. Check water levels at the Big Cypress Welcome Center. Alligators are in the area. Keep a safe distance and give them the right of way.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.8241759453,
+          25.2080574303
+        ]
+      },
+      "properties": {
+        "name": "West Lake",
+        "notes": "West Lake\nhttps://www.nps.gov/places/west-lake.htm\n\nA great place for wildlife viewing, picnics, paddle trips, hiking adventures and more, West Lake is a great destination. Boating visitors are reminded that watercraft with engines of 6 horsepower or less are permitted on West Lake, but not beyond.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.8507249712,
+          25.2143374023
+        ]
+      },
+      "properties": {
+        "name": "West Lake Boardwalk",
+        "notes": "West Lake Boardwalk\nhttps://www.nps.gov/places/west-lake-boardwalk.htm\n\nThis self-guided boardwalk trail wanders through a forest of white mangrove (Laguncularia racemosa), black mangrove (Avicennia nitida), red mangrove (Rhizophora mangle), and buttonwood (Conocarpus erectus) trees to the edge of West Lake.<br /> <br /> Directions to Trail: Seven miles (11km) north of the Flamingo Visitor Center on the main park road.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.8504378651,
+          25.2148208485
+        ]
+      },
+      "properties": {
+        "name": "West Lake Canoe Trail",
+        "notes": "West Lake Canoe Trail\nhttps://www.nps.gov/places/west-lake-canoe-trail.htm\n\nPaddle through a series of large open lakes connected by narrow creeks lined with mangroves. Look for alligators and crocodiles. West Lake is closed to vessels with motors greater than 6 h.p. Motors are prohibited from the east end of West Lake through Alligator Creek. Not recommended on windy days due to open, rough waters. A wilderness permit is required for overnight stays.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.9827284171,
+          25.2762667424
+        ]
+      },
+      "properties": {
+        "name": "Whitewater Bay",
+        "notes": "Whitewater Bay\nhttps://www.nps.gov/places/whitewater-bay.htm\n\nWhitewater Bay is a large, open body of water that can prove challenging for some boaters. Strong winds and long distances can make this an arduous paddle for canoes and kayaks. Navigation can by tricky thanks to the monotony of the mangrove shoreline. Visitors are encouraged to use NOAA Chart #11433 to assist them in exploring this area.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.055494,
+          25.580525
+        ]
+      },
+      "properties": {
+        "name": "Willy Willy",
+        "notes": "Willy Willy\nhttps://www.nps.gov/places/willy-willy.htm\n\nThis campsite is located on an old Calusa Indian mound, shaded by tropical hardwood trees. A canoe can follow the narrow, winding creek that connects the west end of Rocky Creek Bay to Lostman’s Five Bay to explore a different route back to the Wilderness Waterway.<br /> <br /> Safely exploring a wilderness by water requires careful preparation and planning. Please visit our <a href=\"https://www.nps.gov/ever/planyourvisit/wilderness-trip-planner.htm\">Wilderness Trip Planner</a> page to learn more. ",
+        "icon": "red-pin-down.png"
+      }
+    }
+  ]
+}

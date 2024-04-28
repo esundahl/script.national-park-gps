@@ -1,0 +1,35 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.423873,
+          37.80627
+        ]
+      },
+      "properties": {
+        "name": "San Francisco Maritime Museum",
+        "notes": "San Francisco Maritime Museum\nhttps://www.nps.gov/places/000/san-francisco-maritime-museum.htm\n\n<p>Housed in a Works Progress Administration building originally designed as a bathhouse, the <a href=\"https://www.nps.gov/safr/learn/historyculture/bathhousebuilding.htm\">Maritime Museum</a> features exhibits on navigation, naval history, ships and more. The museum is free, and open seven days a week from 10 a.m. to 4 p.m.</p> <h3>San Francisco Senior Center</h3> <p>Founded in 1947, the <a href=\"http://www.sfsenior.com/\">San Francisco Senior Center</a> is located in the Maritime Museum building near the Aquatic Park and is the oldest non-profit senior center in the entire US. With an array of programs, including low-cost nutritious lunches served daily, the Senior Center is dedicated to improving the lives of San Francisco's elders.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.420531,
+          37.807572
+        ]
+      },
+      "properties": {
+        "name": "San Francisco Maritime National Historical Park and Visitor Center",
+        "notes": "San Francisco Maritime National Historical Park and Visitor Center\nhttps://www.nps.gov/places/000/san-francisco-maritime-national-historical-park-and-visitor-center.htm\n\n<p>The <a href=\"http://www.maritime.org/index.htm\">Maritime Museum</a> is your one stop spot for all things naval in San Francisco. In addition to the outdoor waterfront exhibit on Hyde Street Pier, the Visitor Center in the Argonaut Hotel (at the corner of Jefferson and Hyde Streets) has fascinating exhibits on the maritime history of the San Francisco area.</p>",
+        "icon": "red-pin-down.png"
+      }
+    }
+  ]
+}

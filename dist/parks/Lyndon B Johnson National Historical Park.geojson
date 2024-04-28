@@ -1,0 +1,1490 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.4174068604,
+          30.2744708074
+        ]
+      },
+      "properties": {
+        "name": "A Century of Use",
+        "notes": "A Century of Use\nhttps://www.nps.gov/places/000/a-century-of-use.htm\n\n<p>In 1872, Sam and Eliza Johnson left their frontier property after a successful run in the cattle business. A hundred years later, their grandson, President Lyndon B. Johnson, would help fund the purchase of this property by the National Park Foundation in 1972. The few original structures still present at that time were restored to their historic 19th-century appearance.<br /> <br /> Sam Johnson Sr., his brother Tom, and three of their nephews ran cattle from this settlement after the Civil War during the boom years for the cattle industry until the Johnsons dissolved their business in 1871.<br /> <br /> The Johnson brothers sold the land to their nephew James Polk Johnson. In 1879 at a spring barbecue, the settlers in the area voted for James's property on the Pedernales River to be the site of the new town, which was named in his honor as Johnson City. In 1882, some of the land known as the original Johnson Ranch was sold to the Bruckner family, who resided there for nearly a century.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.6252458038,
+          30.239050042
+        ]
+      },
+      "properties": {
+        "name": "A Grand Entrance",
+        "notes": "A Grand Entrance\nhttps://www.nps.gov/places/000/a-grand-entrance.htm\n\n<p>Across the river, the Texas White House is nearly hidden by several large live oak trees. Access to the Johnsons' home and the LBJ Ranch was originally a low-water crossing a short distance downriver. The crossing gave visitors a dramatic entry into Lyndon Johnson's world.<br /> <br /> Constructed in 1951, the dam and crossing were the first improvements Lyndon Johnson made to the ranch after purchasing the property. He knew that water was the key to running a successful ranching operation, but in the Hill Country, water was not dependable. Often there was not enough water and at other times there was too much—sometimes all at once! To remedy this, Marcus Burg, a local contractor from Stonewall, was hired to stretch a nine-foot-high wall of concrete across the Pedernales River. The resulting lake supplied water to irrigate pastures for Johnson's Hereford cattle while also holding some of the water in times of flood. An added benefit was the creation of a swimming hole for the family.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.4151783498,
+          30.2745896795
+        ]
+      },
+      "properties": {
+        "name": "A Land Transformed",
+        "notes": "A Land Transformed\nhttps://www.nps.gov/places/000/a-land-transformed.htm\n\n<p>Abundant timber, \"stirrup-high\" grass, and seemingly adequate water lured the hill country's first settlers to this land. But the land deceived. Only a thin layer of poor soil sustained this lush landscape.<br /> <br /> The virgin grasses that attracted the first settlers were the product not of one growing season—as was so back east—but of dozens. Once consumed by cattle and sheep, the grass regenerated slowly. Crops of cotton and corn thrived in the first years, but by 1890 per-acre yields had dropped by as much as two-thirds. Prosperity gave way to a toilsome struggle for survival.<br /> <br /> Today, brush, cedars, and non-native grasses dominate a land where once mustang grapes, wild plums, persimmons, and agarita bushes grew. Pecans now stand beside the native cypress. Terraces and fence lines crisscross the landscape. The imprint of human use is everywhere.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.610045812,
+          30.23976838
+        ]
+      },
+      "properties": {
+        "name": "A More Perfect Society",
+        "notes": "A More Perfect Society\nhttps://www.nps.gov/places/000/a-more-perfect-society.htm\n\n<p>Lyndon Johnson's vision of a Great Society was cast in his hometown communities of Stonewall and Johnson City, Texas. The Hill Country of his youth, although a place of rural natural beauty and neighborly caring, was also a place of poverty. President Johnson believed that people in such circumstances, given the right tools, could rise to new heights. The domestic programs of Lyndon Johnson's Great Society were the tools he introduced to assist them.<br /> <br /> Johnson determined to eradicate racial inequality and poverty.<br /> <br /> He addressed education, health care, consumer protection, transportation, and environmental issues. Funding for the arts provided not just for \"man's welfare but the dignity of man's spirit.\" The number of major proposals totaled more than 200.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.610048495,
+          30.239805455
+        ]
+      },
+      "properties": {
+        "name": "A River Runs Through: Pedernales River",
+        "notes": "A River Runs Through: Pedernales River\nhttps://www.nps.gov/places/000/a-river-runs-through-pedernales-river.htm\n\n<p>The Pedernales River carves out the landscape of the Texas Hill Country, stretching 106 miles from Harper to the Colorado River. Native peoples, German settlers, and cattle ranchers have all traversed its banks. Lyndon Johnson was among those with a connection to the river: \"Here is where I would always return, to the Pedernales River, the scenes of my childhood.\"<br /> <br /> The LBJ Ranch sits in the middle of the river's course. President Johnson took great pleasure in driving guests over the low-water crossing and hosting barbecues along the river's edge. The Pedernales made a lasting impression on the president who proposed the Water Quality Act of 1965, the Land and Water Conservation Act of 1965, and the Wild and Scenic Rivers Act of 1968.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.6252699420263,
+          30.2420299748071
+        ]
+      },
+      "properties": {
+        "name": "Air Force \"One-Half\"",
+        "notes": "Air Force \"One-Half\"\nhttps://www.nps.gov/places/000/air-force-one-half.htm\n\n<p>The following are the specifications for the Lockheed JetStar (VC-140): <br /> <br /> Span: 54 feet, 11 inches.<br /> Length: 60 feet, 5 inches.<br /> Height: 20 feet, 5 inches.<br /> Weight: 41,000 pounds maximum.<br /> Engines: four Pratt and Whitney J-60 turbojets.<br /> Crew: 3 (2 cockpit, 1 flight attendant.)<br /> Performance: Maximum speed, 605 miles per hour.<br /> Cruising speed, 520 miles per hour.<br /> Range: 2,200 miles.<br /> Service ceiling: 45,000 feet</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.625228,
+          30.242005
+        ]
+      },
+      "properties": {
+        "name": "Aviation: Key to the Texas White House",
+        "notes": "Aviation: Key to the Texas White House\nhttps://www.nps.gov/places/000/aviation-key-to-the-texas-white-house.htm\n\n<p>In 1951 Senator Lyndon Johnson set out to establish a home base where he could continue his work away from Washington. To improve access to his ranch he added a 3,000-foot grass landing strip in 1953. By the time Johnson became president, a series of improvements had resulted in a 6,300-foot asphalt airstrip that serviced a variety of aircraft. The expanded airstrip, however, could not support the weight of the Boeing 707 normally used as Air Force One. As a result, after landing at an air base in Austin or San Antonio, President Johnson boarded a smaller JetStar or a Sikorsky helicopter for the short flight home. These modern aircraft allowed him to take his official duties home with him on a scale not seen before.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.623972,
+          30.240487
+        ]
+      },
+      "properties": {
+        "name": "Barbecue Grove",
+        "notes": "Barbecue Grove\nhttps://www.nps.gov/places/000/barbecue-grove.htm\n\n<p>Amidst the grove of live oak trees, Lyndon and Lady Bird Johnson hosted large Texas-style barbecues. At these events hundreds of guests dined on delicious barbecued ribs or brisket smoked over pits here in the grove. Music from the guitars and trumpets of mariachi bands filled the grove with a festive air. These outdoor barbecues were simultaneously great show, great fun, and serious politics. \"All the world\" was welcome at these western galas. Guests-of-honor hailed from around the globe: Mexico, West Germany, Pakistan, and from nations throughout Latin America.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.623716,
+          30.236078
+        ]
+      },
+      "properties": {
+        "name": "Beckmann Barn",
+        "notes": "Beckmann Barn\nhttps://www.nps.gov/places/000/beckmann-barn.htm\n\n<p>In 1915, Emil Beckmann used the money he earned from his successful cotton crop to build a new barn. Today it is used as it was historically—a place to store supplies and a space to work the animals. The tool room and tack room within the barn display common farm items of the era that may differ greatly from our modern devices. There is also space from milking the Jersey cows. The milk was used not only for drinking but also in the creation of butter or cheese.<br /> <br /> Remember, the livestock here are working animals and do not like to be touched. Please give them plenty of space.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.610166,
+          30.241822
+        ]
+      },
+      "properties": {
+        "name": "Birthplace Restroom",
+        "notes": "Birthplace Restroom\nhttps://www.nps.gov/places/000/birthplace-restroom.htm\n\n<p>Behind the Reconstructed Birthplace are modern restrooms as well as a water fountain with bottle filling station.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.623786,
+          30.236353
+        ]
+      },
+      "properties": {
+        "name": "Blacksmith Shop-Sauer Beckmann Farm",
+        "notes": "Blacksmith Shop-Sauer Beckmann Farm\nhttps://www.nps.gov/places/000/blacksmith-shop-sauer-beckmann-farm.htm\n\n<p>While the Blacksmith Shop is a reconstruction, it is time-period appropriate, and many local farms had similar structures at the turn of the twentieth century. This is the only building not original to the farm site.<br /> <br /> At the time, farmers were able to purchase items from general stores in Fredericksburg or from the Sears, Roebuck & Co. catalog. However, many folks were self-sufficient and made as much as possible at home. Using a coal-fueled fire, tools could often be repaired and sometimes produced. Having a shop like this could turn a broken tool into a new one!</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.411547,
+          30.277921
+        ]
+      },
+      "properties": {
+        "name": "Blanco County Courthouse",
+        "notes": "Blanco County Courthouse\nhttps://www.nps.gov/places/000/blanco-county-courthouse.htm\n\n<p>The town of Johnson City was founded in 1879 by James Polk Johnson, a relative of President Lyndon Johnson. The county seat for Blanco County was moved to the new town in 1890 from the town of Blanco, 15 miles away. The current courthouse was constructed in 1916 and designed by San Antonio architect Henry T. Phelps.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.410146,
+          30.275162
+        ]
+      },
+      "properties": {
+        "name": "Boyhood Home Barn",
+        "notes": "Boyhood Home Barn\nhttps://www.nps.gov/places/000/boyhood-home-barn.htm\n\n<p>The original Johnson barn was a post-frame structure with raised roof described as a \"shed barn with a loft.\" While the loft was used for hay storage, the central area was where father Sam Johnson would park the family car.<br /> <br /> Around age ten, a young Lyndon Johnson fell from the hay loft and broke his leg.<br /> <br /> The current structure was originally built in the 1920s at a farm in Albert, fifteen miles southwest of Johnson City, and moved to this site in 1972. While it is not an exact replica of the original Johnson barn, it stands as a typical representation of 1920s barn architecture. The original barn was torn down in the 1950s by Lyndon Johnson's aunt, Frank Martin, who was living on the property at that time.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.41071,
+          30.275006
+        ]
+      },
+      "properties": {
+        "name": "Boyhood Home Outhouse",
+        "notes": "Boyhood Home Outhouse\nhttps://www.nps.gov/places/000/boyhood-home-outhouse.htm\n\n<p>Outhouses (or privies) were common in rural communities that did not have the benefit of indoor plumbing. Johnson City residents, as well as the few businesses in town, all relied on outhouses well into the 1930s. The Johnson family renovated their house in 1934, and at that point, it saw the addition of interior plumbing and a toilet.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.410458,
+          30.275347
+        ]
+      },
+      "properties": {
+        "name": "Boyhood Home Smokehouse",
+        "notes": "Boyhood Home Smokehouse\nhttps://www.nps.gov/places/000/boyhood-home-smokehouse.htm\n\n<p>The large building closest to the Boyhood Home was known as the smokehouse. This two-room structure was multi-functional, as remembered by the Johnson siblings. Today, the east room displays tools of the 1920s, but growing up, the Johnsons recall their father, Sam, using that room for smoking meats. The west room was a playroom for the children, but it also had shelves where their mother, Rebekah, could keep books and magazines. The lean-to shed on the south side had laundry tubs and a large iron pot for rendering lard.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.4104875717,
+          30.2755487389
+        ]
+      },
+      "properties": {
+        "name": "Boyhood Home Virtual Tour",
+        "notes": "Boyhood Home Virtual Tour\nhttps://www.nps.gov/places/boyhood-home-virtual-tour.htm\n\nLyndon Johnson's family moved into a three-bedroom, white frame home in Johnson City in September 1913, just two weeks after Lyndon's fifth birthday. For most of the next twenty-four years, this was their home.<br /> <br /> The Johnson family included Lyndon's parents, Sam Ealy Johnson Jr. and Rebekah Baines Johnson, and Lyndon's four siblings: his sisters Rebekah, Josefa, and Lucia, and his brother Sam Houston Johnson. The family life that Lyndon Johnson experienced here as he grew to adulthood strongly influenced the man who became our thirty-sixth president. <h3><a href=\"https://www.nps.gov/lyjo/learn/photosmultimedia/boyhood-home-virtual-tour.htm\">Go To Virtual Tour</a></h3>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.624095136,
+          30.258607965
+        ]
+      },
+      "properties": {
+        "name": "Bringing Washington Home",
+        "notes": "Bringing Washington Home\nhttps://www.nps.gov/places/000/bringing-washington-home.htm\n\n<p>Imagine a plane roaring onto a newly constructed 3,000-foot grass airstrip. It's 1953, and Senator Lyndon Johnson has arrived at the LBJ Ranch. Initially built to improve access to the ranch during floods, the small airstrip soon proved inadequate for Johnson's rising political aspirations. Within eight years it was lengthened to 6,300 feet to accommodate the increasing number and size of aircraft.<br /> <br /> Throughout Johnson's political career the LBJ Ranch was a magnet for politicians, businessmen, and entertainers. Inviting these decision makers and prominent guests to the ranch fulfilled Lyndon Johnson's desire to talk Washington politics in a Hill Country setting. The airstrip served as the connection between the two worlds.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.4172679434,
+          30.2742845454
+        ]
+      },
+      "properties": {
+        "name": "Bruckner Barn",
+        "notes": "Bruckner Barn\nhttps://www.nps.gov/places/000/bruckner-barn.htm\n\n<p>John Bruckner, a German immigrant, purchased the property in 1882 from James Polk Johnson as an investment property, originally farmed by his brother, Christian Bruckner. Before moving to the property himself, Bruckner made many upgrades to the living quarters, the log cabin that had once belonged to Sam Johnson Sr. and Eliza Bunton Johnson. He also constructed several stone outbuildings, including this barn in 1884. It was built in German style and is similar to stone buildings built by the Pennsylvania Dutch settlers in central Pennsylvania.<br /> <br /> This photo is of the Bruckner family in 1911 in front of the cabin.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.617931419,
+          30.239205297
+        ]
+      },
+      "properties": {
+        "name": "Cedar Guest House",
+        "notes": "Cedar Guest House\nhttps://www.nps.gov/places/000/cedar-guest-house.htm\n\n<p>The Cedar Guest House was used to house invited guests of the LBJ Ranch. The prefabricated home was purchased in 1966 during the Johnson presidency and housed high administration officials as well as VIP guests. Most notably, this guest house was the site of an interview between Walter Cronkite and the former president before his death later that month in January 1973.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.623483,
+          30.236506
+        ]
+      },
+      "properties": {
+        "name": "Chicken Coop-Sauer Beckmann Farm",
+        "notes": "Chicken Coop-Sauer Beckmann Farm\nhttps://www.nps.gov/places/000/chicken-coop-sauer-beckmann-farm.htm\n\n<p>This reconstructed chicken coop provides a safe place for poultry to sleep at night and to lay their eggs. Raising poultry was an important part of any farm. The guineas, chickens, and turkeys provided a reliable source of food.<br /> <br /> Poultry was most useful for the eggs—not only for the farmers to eat but also to take to town and sell. Different breeds of poultry served different purposes. Some chickens are better to eat, others do better at laying eggs, and other breeds are better at \"brooding\" or incubating eggs so they hatch.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.624899799,
+          30.241988266
+        ]
+      },
+      "properties": {
+        "name": "Communicating with the World",
+        "notes": "Communicating with the World\nhttps://www.nps.gov/places/000/communicating-with-the-world.htm\n\n<p>The LBJ Ranch had but a single telephone line when Lyndon Johnson purchased the property in 1951. By the time he became vice president in 1960, the array of technology had grown to 15 local and long-distance phone lines as well as a 50-foot-tall antenna to supply reception for three televisions—one for each network. Despite these upgrades, Johnson's rise to the presidency in November 1963 demanded a modern system allowing secure communications throughout the United States and the world. Within four weeks the LBJ Ranch had enough equipment for a small city: microwave towers providing 120 channels to Austin, two-way radios, teleprinters, cryptographic machines, and an extensive telephone system with 100 lines.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.624864929,
+          30.241717156
+        ]
+      },
+      "properties": {
+        "name": "Communications Trailers",
+        "notes": "Communications Trailers\nhttps://www.nps.gov/places/000/communications-trailers.htm\n\n<p>The Aides and Communications Complex (ACC) consisted of three connecting trailers. These structures housed the switchboard for the White House Communication Agency (WHCA), a cryptograph section, and quarters for military aides and other personnel on 24-hour call.<br /> <br /> The assassination of President Kennedy in 1963 necessitated the establishment of a complex Presidential Communications Network at the Ranch. In a relatively short time, additional telephone and teletype circuits, microwave radio relay towers and spy-proof, tap-proof communications were all installed.<br /> <br /> After the president's term in office and until Mrs. Johnson's death, the White House Communications Agency continued its presence at the Ranch in service of US Secret Service communications. Any equipment not authorized for service of a former president by military aides or the WHCA was removed.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.619465643,
+          30.242980012
+        ]
+      },
+      "properties": {
+        "name": "Conserving the Landscape",
+        "notes": "Conserving the Landscape\nhttps://www.nps.gov/places/000/conserving-the-landscape.htm\n\n<p><b style=\"color: rgb(70, 70, 70); font-family: arial, helvetica, sans-serif; font-size: 14px;\">Acres of Land</b></p> At the time of Lyndon Johnson's death in 1973, the LBJ Ranch comprised approximately 2,800 acres (1,133 hectares). The heart of ranch—the portion that President and Mrs. Johnson donated to the National Park Service and the part visitors experience today—totaled around 600 acres (243 hectares). The remaining 2,000+ acres (~800+ hectares) remained in the Johnson family, theirs to use, lease, sell or add to over the years. Today's visitors travel right along the property line between the national park and Johnson family property as they drive LBJ Ranch Tour route. <p> </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.635719,
+          30.237108
+        ]
+      },
+      "properties": {
+        "name": "Danz Cabin",
+        "notes": "Danz Cabin\nhttps://www.nps.gov/places/000/danz-cabin.htm\n\n<p>In 1845, hundreds of hopeful German immigrants came to the Texas Hill Country in search of land, political freedom, and adventure. Johann \"Casper\" Danz, his wife Elisabeth, and their baby Frederick were among them.<br /> <br /> Tragedy struck the Danz family many times. Soon after they arrived in Gillespie County, Elisabeth and her son died from an epidemic. Casper's second bride, Johannette Margarethe Knaup-Flick, died during childbirth.<br /> <br /> In 1857, Danz married his third wife, Johanne Dorothea Bock. This time the family flourished with eleven children. In 1860, the couple purchased this land and built a two-room (dogtrot) cabin. One room served as both a bedroom and living space, and the other room was a kitchen. Fireplaces provided heat for warmth and cooking. Outdoor stairways leading to the sleeping lofts saved much needed space indoors.<br /> <br /> The smaller cabin nearby was moved here from a local community in 1974 to provide space for living history demonstrations and storage. This building sits atop a stone cellar that is believed to be the foundation of an earlier cabin built by Danz.<br /> <br /> Descendants of the immigrant Danz family lived here until 1966, when the land became a state park.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.412175095,
+          30.274954793
+        ]
+      },
+      "properties": {
+        "name": "Education Center",
+        "notes": "Education Center\nhttps://www.nps.gov/places/000/education-center.htm\n\n<p>This original structure built in 1900 near Town Creek was the home of the George T. Bryan family. Its architectural style was typical of residences during Lyndon Johnson's youth in the early 20th century. The historic house was rehabilitated in 1997 and now serves as the park's Education Building and local office for the Texas A&M Forest Service.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.6062825844,
+          30.2435199066
+        ]
+      },
+      "properties": {
+        "name": "Education for All",
+        "notes": "Education for All\nhttps://www.nps.gov/places/000/education-for-all.htm\n\n<p>\"I felt a very strong desire to go back to the beginnings of my own education,\" President Johnson said at a bill-signing here in 1965, \"to be reminded and to remind others of that magic time when the world of learning began to open before our eyes.\"<br /> <br /> The Johnson Administration saw the passage of over 60 education bills—more education legislation than in any other presidential administration. In comparison, only six major education bills were passed from the time of Lincoln to Kennedy. With such an interest in education, it was only fitting that President Johnson would come back to his first school to sign one of these major education bills.<br /> <br /> Sitting at a picnic table outside the Junction School with his first teacher, Miss Katie Deadrich, at his side, President Johnson signed the Elementary and Secondary Education Act on April 11, 1965. This landmark law for the first time provided extensive federal funding to the nation's schools.<br />  </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.6242131527,
+          30.2411494434
+        ]
+      },
+      "properties": {
+        "name": "Friendship Stones",
+        "notes": "Friendship Stones\nhttps://www.nps.gov/places/000/friendship-stones.htm\n\n<p>Guests of the LBJ Ranch signed wet concrete—instead of the more common paper register—to signify their visit. Known as the \"Friendship Stones,\" these replicas represent a \"who's who\" from the Johnson era; signatures of fellow politicians, cabinet members, astronauts, religious leaders, celebrities, even beloved dogs were among those immortalized in concrete. For preservation, the original stones are kept in curatorial storage, but look for some originals on display in the park visitor centers.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.4164957202,
+          30.2750878086
+        ]
+      },
+      "properties": {
+        "name": "Frontier Legacy",
+        "notes": "Frontier Legacy\nhttps://www.nps.gov/places/000/frontier-legacy.htm\n\n<p>Because of his love for this land, respect for his pioneer ancestors, and his devotion to both, Lyndon Johnson has been called the \"last of the frontier presidents.\"<br /> <br /> Confederate veteran Samuel Ealy Johnson, Sr., and his wife Eliza Bunton Johnson—Lyndon Johnson's grandparents—settled here in 1867. From this 960-acre ranch, Sam and his brother Tom drove cattle north on the Chisholm Trail, amassing in the process a large but fleeting fortune. In 1870 alone they returned with $100,000 in gold coins. The Johnsons remained here until 1872, when collapse of the cattle market left them bankrupt.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.6216945589,
+          30.2585824809
+        ]
+      },
+      "properties": {
+        "name": "Hereford: Breed of Choice",
+        "notes": "Hereford: Breed of Choice\nhttps://www.nps.gov/places/000/hereford-breed-of-choice.htm\n\n<p>The names of Lyndon Johnson's cabinet and staff members are nearly as well known as the president himself: Robert McNamara, secretary of defense; Bill Moyers, White House press secretary; Jack Valenti, special assistant to the president; and many others. But do you know the names Mischief, Husker, Domino, and Lamplighter?<br /> <br /> These registered Hereford bloodlines were integral to the LBJ Ranch and the image Lyndon Johnson wished to portray as a man of the great American West—symbol of honor, self-reliance, and frontier spirit. With bloodlines dating back to 1817 when statesman Henry Clay introduced Herefords from England, Lyndon Johnson's prized bulls formed the basis for a herd of 400 animals. Descendants of these cattle roam the ranch today just as they did in the 1950s and 1960s.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.6133502058168,
+          30.2382992509841
+        ]
+      },
+      "properties": {
+        "name": "Housing the World",
+        "notes": "Housing the World\nhttps://www.nps.gov/places/000/housing-the-world.htm\n\n<p>The welcome mat at the Johnson home read, \"All the World is Welcome Here\", but as the house became an alternate White House, it soon became clear there was not enough room. Describing the steady stream of visitors in her home, Lady Bird Johnson exclaimed, \"These old walls are bursting at the seams!\" Other houses on the ranch, such as President Johnson's birthplace, were soon pressed into service.<br /> <br /> Here visitors learned there was a world beyond the Potomac where cattle still roamed, and rivers flowed steadily into the future. These homes had more than a practical purpose. The Birthplace, Cedar Guest House, and others on the ranch were ideal places, away from the chaos of Washington, where leaders and staff could chart the course of the War on Poverty and the Great Society.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.417579332,
+          30.274883935
+        ]
+      },
+      "properties": {
+        "name": "James Polk Johnson Barn",
+        "notes": "James Polk Johnson Barn\nhttps://www.nps.gov/places/000/james-polk-johnson-barn.htm\n\n<p>The structure has been restored to its 1880s appearance and originally contained a corn crib, hay loft, grainery, tack room, mule stall, and wagon storage. It was built by James Polk Johnson, founder of the town of Johnson City and nephew to Sam Ealy Johnson Sr., President Johnson's grandfather.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.415948,
+          30.27786
+        ]
+      },
+      "properties": {
+        "name": "James Polk Johnson Cemetery",
+        "notes": "James Polk Johnson Cemetery\nhttps://www.nps.gov/places/000/james-polk-johnson-cemetery.htm\n\n<p>Born in Alabama on August 24, 1845, James Polk Johnson was still a child when his family moved to Texas in search of a better life. As a teenager he served in the Civil War and then moved to Blanco county to join his uncles Tom and Sam Ealy Johnson in their cattle droving business. For a time it was the largest cattle operation in Blanco and surrounding six counties, but the partnership was eventually dissolved in 1871, and James bought out his uncles' land holdings.<br /> <br /> By 1879 local settlers desired to establish a town in the area. At a Fourth of July celebration on Town Creek they selected James Polk Johnson's land for the site of the new community. Unfortunately, James's dream of making Johnson City the seat of Blanco County was not realized until 1890, six years after his death. Little did he know that the town that bears his name would someday also be known as the hometown of his cousin and 36th president of the United States, Lyndon Baines Johnson.</p> <h3>James Polk Johnson's Legacy</h3> <p>James Polk Johnson became successful in his own right. Before his death at the age of 40, he constructed several buildings in Johnson City that still exist today.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.62529,
+          30.242042
+        ]
+      },
+      "properties": {
+        "name": "JetStar",
+        "notes": "JetStar\nhttps://www.nps.gov/places/000/jetstar.htm\n\n<p>Advances in aviation played a major role in the success of the LBJ Ranch functioning as a remote White House for President Johnson in the 1960s. At that time, aviation technology improved fuel efficiency and reduced flight times.<br /> <br /> While the large Boeing 707—popularly known as \"Air Force One\"—never landed on the ranch airstrip, it did fly to either San Antonio's Randolph Air Force Base or Austin's Bergstrom Air Force Base. From there, the president would be shuttled to his ranch via helicopter (\"Marine One\") or by the JetStar. Of course, while the president was aboard the smaller aircraft, it was designated \"Air Force One.\"<br /> <br /> In 2010, the National Park Service acquired one of the JetStars used by the Johnson administration. It was found at the Davis-Monthan Air Force Base \"boneyard\" outside Tucson, Arizona 23 years after it was decommissioned. It is now on permanent display at the LBJ Ranch. <br /> <br /> The Boeing 707 on which Johnson was sworn in after Kennedy's assassination can be visited at the National Museum of the US Air Force at Wright-Patterson AFB in Dayton, Ohio.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.411085793,
+          30.274594409
+        ]
+      },
+      "properties": {
+        "name": "Johnson City - Wayside Panel",
+        "notes": "Johnson City - Wayside Panel\nhttps://www.nps.gov/places/000/johnson-city.htm\n\n<p>No plumbing. No electricity. Unpaved streets. No place to buy a loaf of bread or a pound of meat. A café that sometimes hung out a sign, \"Closed for Lunch.\" A courthouse, a cotton-gin, a ramshackle hotel. Three churches. This was the Johnson City of Lyndon B. Johnson's youth. Here, comfort and amusement came mostly from one's family and neighbors. Many of the buildings of Johnson City's early days still stand. The strong sense of community that forever attracted Lyndon Johnson back to this place still endures.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.61020729,
+          30.239865174
+        ]
+      },
+      "properties": {
+        "name": "Johnson Family Cemetery",
+        "notes": "Johnson Family Cemetery\nhttps://www.nps.gov/places/000/johnson-family-cemetery.htm\n\n<p>Most of the people buried in the cemetery are related to Lyndon Johnson. The first burial, in 1905, is marked by a white marble gravestone with a lamb on top and belongs to the president's great-grandmother, Priscilla McIntosh Bunton. Due to a violent spring storm and river flooding, she was unable to be buried beside her husband at the Stonewall Community Cemetery. A spot within a grove of live oak trees was chosen for her final resting place on her son-in-law's (Sam Ealy Johnson Sr., the president's grandfather) property.<br /> <br /> President and Mrs. Johnson's gravestones are the tallest red granite markers in the main row. While looking at the headstones from the main cemetery gate, the headstones to the right of the first lady and president mark the final resting places of the president's parents and grandparents. Rebekah Johnson, the president's mother, died in 1958 while her son was majority leader of the US Senate. Next is the burial site for Sam E. Johnson Jr., the president's father. Sam died in 1937, a few months after Lyndon Johnson was elected to the US House of Representatives. The president's grandparents, Sam Ealy Johnson Sr. and his wife Eliza (Bunton) Johnson, share a headstone.<br /> <br /> To the left of President and Mrs Johnson are the president's brother, Sam, and his three sisters, Rebekah, Josefa, and Lucia. Rebekah's husband, Oscar Bobbitt, is also buried in the main row as is Lucia's husband, Birge Alexander.<br /> <br /> The prominent gray gravestone in front marks the burial site of the president's Aunt Frank and Uncle Clarence Martin. It was the Martins' house and property that Senator Johnson acquired in 1951.<br /> <br /> After lying in state at the Capitol Rotunda in Washington, D.C. and at his library in Austin, Texas, President Johnson's funeral was held at his ranch on a cold and rainy day, January 25, 1973. Hundreds of people attended the funeral, which was conducted by Reverend Billy Graham.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.4174994895,
+          30.2761675638
+        ]
+      },
+      "properties": {
+        "name": "Johnson Settlement Parking",
+        "notes": "Johnson Settlement Parking\nhttps://www.nps.gov/places/000/johnson-settlement-parking.htm\n\n<p>About a half-mile west of downtown Johnson City is a parking area for the Johnson Settlement. This large, gravel pullout is located on the south side just off US Highway 290. Historic structures from the post-Civil War years (1870s-1880s) are visible within the Johnson Settlement and a short walk from the parking area.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.4154574509,
+          30.2743887845
+        ]
+      },
+      "properties": {
+        "name": "Johnson Settlement Picnic Area",
+        "notes": "Johnson Settlement Picnic Area\nhttps://www.nps.gov/places/000/johnson-settlement-picnic-area.htm\n\n<p>Under the seasonal shade of massive pecan trees, visitors can enjoy a picnic outside in the Johnson Settlement.<br /> <br /> Nearby at the Event Center are modern restrooms, trash and recycling bins, and a drinking fountain with bottle-filling station.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.4108333938,
+          30.2748068387
+        ]
+      },
+      "properties": {
+        "name": "Johnson Settlement Trail",
+        "notes": "Johnson Settlement Trail\nhttps://www.nps.gov/places/000/johnson-settlement-trail.htm\n\n<p>The sidewalk ahead leads to the Johnson Settlement. From the visitor center, this trail is approximately one mile (1.6 km) in distance and can be walked as a loop.<br /> <br /> Before there was a town of Johnson City, this central area of Blanco County was simply known as the \"Johnson Ranch.\" It was from here that the president's grandfather and great-uncle drove cattle up the Chisholm Trail in the late 1860s to the railheads in Kansas. Visitors today can experience some of the historic landscape in the restored prairie. Early pioneer heritage is also evident with original structures of the post-Civil War era (1867-1880s) from the Johnsons and subsequent owners, the Bruckners.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.4127683093,
+          30.2748000217
+        ]
+      },
+      "properties": {
+        "name": "Johnson Settlement Trailhead",
+        "notes": "Johnson Settlement Trailhead\nhttps://www.nps.gov/places/000/johnson-settlement-trailhead.htm\n\n<p>The Johnson Settlement is where Lyndon Johnson's grandparents first settled in the Texas Hill Country. His grandfather, Sam Ealy Johnson Sr. was a cattle drover, rounding up cattle here in the Hill Country and herding them north along the Chisholm Trail to the railheads in Abilene, Kansas. From there cattle were sold to growing eastern cities with a large demand for beef.<br /> <br /> The settlement is restored to its appearance in about 1870 and contains many of the original buildings and a restored prairie landscape. The National Park Foundation purchased the land in the early 1970s with money donated by Lyndon Johnson.</p> <h4>Restrictions & Warnings</h4> <br /> The trail is open from dawn to dusk. Bikes are allowed on the shared-use trail. Dogs on leash are permitted. Do not approach livestock or wildlife. Smoking is allowed only in approved outside areas near the Event Center. <p> </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.606841,
+          30.2438
+        ]
+      },
+      "properties": {
+        "name": "Junction School Restroom",
+        "notes": "Junction School Restroom\nhttps://www.nps.gov/places/000/junction-school-restroom.htm\n\n<p>Vault toilets are located a short distance beyond the historic Junction School. A short driveway from the park road leads to a small parking area which allows access to the schoolhouse entrance as well as the two vault toilets.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.606427424,
+          30.243512956
+        ]
+      },
+      "properties": {
+        "name": "Junction School Virtual Tour",
+        "notes": "Junction School Virtual Tour\nhttps://www.nps.gov/places/junction-school-virtual-tour.htm\n\nBuilt in 1910, the Junction School served children of rural Gillespie County for 37 years. Students walked to school to learn the “3Rs”—<strong>r</strong>eading, w<strong>r</strong>iting, and a<strong>r</strong>ithmetic—in a sparsely decorated room heated by a wood stove and illuminated by kerosene lamps. A water bucket and dipper provided drinking water. Children brought their lunches from home in tin pails.<br /> <br /> In 1912, four-year-old Lyndon Johnson began his education in this building. Kate Deadrich taught 30 students ranging from preschool to eighth grade. Boys sat on one side of the room, girls on the other. The future president, youngest student in the school, often sat on Miss Kate’s lap for reading lessons.<br /> <br /> Inspired by his brief time in this simple schoolhouse, Lyndon Johnson would champion the cause of public education throughout his life. <h3><a href=\"https://www.nps.gov/lyjo/learn/photosmultimedia/junction-school-virtual-tour.htm\">Go To Virtual Tour</a></h3>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.625128,
+          30.241209
+        ]
+      },
+      "properties": {
+        "name": "Klein Shop",
+        "notes": "Klein Shop\nhttps://www.nps.gov/places/000/klein-shop.htm\n\n<p>For a decade beginning in the late 1950s, the maintenance supervisor—Lawrence Klein—operated out of a small building west of the Texas White House. It was remembered as a \"dilapidated frame eyesore.\" Soon, plans were drawn up for a new maintenance shop made of corrugated metal, situated just west of the Martin Barn.<br /> <br /> The spacious new shop, completed in late 1967, contained an office, tool room, workbench, service entrance, paint storage locker, and a restroom. Like other buildings on the property, the new shop was painted \"LBJ Green.\"<br /> <br /> In 2015, the National Park Service re-purposed the historic structure as a small museum to house some of the president's cars and renamed the building the Klein Shop after its original foreman.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.4110305438,
+          30.2745198277
+        ]
+      },
+      "properties": {
+        "name": "LBJ Bulletin Board",
+        "notes": "LBJ Bulletin Board\nhttps://www.nps.gov/places/000/lbj-bulletin-board.htm\n\n<p>General park information during or after regular business hours can be obtained outside the entrance to the Johnson City Visitor Center on the bulletin board.<br /> <br /> Today's visitor center building was originally built as a regional hospital in 1969. Initially known as the Pedernales Valley Hospital, the name would later be changed to remember the former president: the LBJ Memorial Hospital. Over the decades, it became more efficient to transport critical patients via helicopter to larger, better-equipped hospitals in Austin or San Antonio. In the mid-1990s, this building was repurposed as the park headquarters and visitor center.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.606359,
+          30.243202
+        ]
+      },
+      "properties": {
+        "name": "LBJ Ranch Entrance",
+        "notes": "LBJ Ranch Entrance\nhttps://www.nps.gov/places/lbj-ranch-entrance.htm\n\nA National Park Service sign now marks the entrance to the LBJ Ranch. In 1972, the Johnsons donated approximately 600 acres of their ranch to the National Park Service.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.624804,
+          30.242134
+        ]
+      },
+      "properties": {
+        "name": "LBJ Ranch Taxiway",
+        "notes": "LBJ Ranch Taxiway\nhttps://www.nps.gov/places/lbj-ranch-taxiway.htm\n\n<p>Shortly after acquiring the ranch from his aunt, Frank Martin, in 1951, Lyndon Johnson set out to improve access to the property by adding a 3,000-foot grass landing strip. By the time Johnson became president in 1963, a series of improvements resulted in a 6,300-foot asphalt airstrip and connected taxiway. Since 2008, the taxiway has served as an integral part of the driving loop through the LBJ Ranch and a parking area for the nearby Airplane Hangar visitor center.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.626028,
+          30.237632
+        ]
+      },
+      "properties": {
+        "name": "LBJ State Park Exhibit Hall",
+        "notes": "LBJ State Park Exhibit Hall\nhttps://www.nps.gov/places/000/lbj-state-park-exhibit-hall.htm\n\n<p>The exhibit hall contains memorabilia from President Johnson's presidency and interactive displays about the land and people that shaped a president.<br /> <br /> Connected to the exhibit hall by a covered walkway is the Behrens Cabin, a two-room dogtrot cabin built by German immigrant H.C. Behrens during the 1870s. The furnishings are typical of such homes in that period.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.626169,
+          30.238288
+        ]
+      },
+      "properties": {
+        "name": "LBJ State Park Nature Trail Trailhead",
+        "notes": "LBJ State Park Nature Trail Trailhead\nhttps://www.nps.gov/places/000/lbj-state-park-nature-trail-trailhead.htm\n\n<p>The nature trails, including a Hill Country botanical exhibit, winds past wildlife enclosures with bison, white-tailed deer, wild turkey, and longhorn cattle. From the trailhead, one trail crosses the open landscape of seasonal wildflowers. It travels along the longhorn cattle pen and ends at the historic Danz Cabins. Another trail, closer to the Exhibit Hall, is mostly forested and heads east to cross a non-perennial creek and ends at the living history farm.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.625653499,
+          30.238681599
+        ]
+      },
+      "properties": {
+        "name": "LBJ Statue",
+        "notes": "LBJ Statue\nhttps://www.nps.gov/places/000/lbj-statue.htm\n\n<p>President Lyndon B. Johnson wished to have this statue placed at the state park, overlooking the river. While it may appear the statue takes on a somewhat assertive stance similar to the \"Johnson Treatment,\" the pointing statue is directing our attention to the river and the land of his birth. President Johnson felt most at home in the Hill Country and at his ranch, located just across the river. Some of his earliest memories, he said, were of the Pedernales River.<br /> <br /> This statue was donated by former Texas Parks and Wildlife Commissioner, Judge A.W. Moursund, who was an adviser and life-long Johnson family friend.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.625519,
+          30.247618
+        ]
+      },
+      "properties": {
+        "name": "LBJ: The Western Image",
+        "notes": "LBJ: The Western Image\nhttps://www.nps.gov/places/000/lbj-the-western-image.htm\n\n<p>From his childhood and throughout his political career, Lyndon Johnson drew from his western heritage. The grandson of a Chisholm Trail cattle drover never forgot the \"can do\" spirit of the early-day cowboys. The LBJ Ranch was the best place for national and world leaders, celebrities, and respected journalists to encounter the real LBJ—a progressive westerner in a big hat, with big dreams and big goals, under a big sky.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.6247469118,
+          30.2413857975
+        ]
+      },
+      "properties": {
+        "name": "Lifetime of Service",
+        "notes": "Lifetime of Service\nhttps://www.nps.gov/places/000/lifetime-of-service.htm\n\n<p>Both President and Mrs. Johnson received lifetime protection from the US Secret Service when Johnson became president in 1963. Mrs. Johnson maintained the LBJ Ranch and Texas White House as a part-time residence until her death in 2007. After she passed away, the US Secret Service departed the ranch but left some of their equipment. Throughout the Texas White House Complex and the LBJ Ranch, remnants of the past protection detail can be seen in surveillance cameras, motion detectors, and guard shacks.<br /> <br /> The restoration of the US Secret Service Command Post is an ongoing project. Our goal is to eventually have the interior restored so that visitors can walk inside and see what it would be like to be an agent protecting President Johnson and his family at the LBJ Ranch in the 1960s.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.623995,
+          30.235734
+        ]
+      },
+      "properties": {
+        "name": "Livestock Pens-Sauer Beckmann Farm",
+        "notes": "Livestock Pens-Sauer Beckmann Farm\nhttps://www.nps.gov/places/000/livestock-pens.htm\n\n<p>Typical of early German-Texan farms, animals are kept to provide meat. A pig is butchered in the winter so the cold weather can prevent the meat from spoiling as it is processed. Bacon, ham, roast, pork chops and sausage are some of the products made from a butchered pig. For a farm family, the fat from the pig is as important as the meat. The fat is rendered into lard and then used for axle grease, cooking oil, ointment base, baking and making soap. Pigs are important farm animals since they also eat food scraps and ensure that nothing goes to waste.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.6209998928,
+          30.2392285642
+        ]
+      },
+      "properties": {
+        "name": "Low Water Crossing",
+        "notes": "Low Water Crossing\nhttps://www.nps.gov/places/000/low-water-crossing.htm\n\n<p>For many years this low-water crossing served as the primary access to the LBJ Ranch; for non-Texans, it served as a dramatic entry into LBJ's world. The construction of this dam and crossing was the first improvement made to the ranch by Lyndon Johnson after he purchased it in 1951. In times of high water, the Johnsons had to fly out or go out the back of the ranch. The first bridge over this stretch of the Pedernales was not built until 1968.<br /> <br /> Behind you is the East Gate to the ranch—the main entrance. During the presidential years, security here was heavy. When President and Mrs. Johnson visited the ranch, so did dozens of Secret Service agents. Even when the Johnsons were away, the Secret Service kept watch over the property. Most of the equipment and structures built for security reasons still remain.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.4104875717,
+          30.2755487389
+        ]
+      },
+      "properties": {
+        "name": "Lyndon B. Johnson Boyhood Home",
+        "notes": "Lyndon B. Johnson Boyhood Home\nhttps://www.nps.gov/places/000/lyndon-b-johnson-boyhood-home.htm\n\n<p>Lyndon Johnson's family moved to Johnson City from a farm near Stonewall—a distance of about fourteen miles. The move took place in September 1913, just two weeks after Lyndon's fifth birthday. For most of the next twenty-four years, this was their home.<br /> <br /> The Johnson family included Lyndon's parents, Sam Ealy Johnson Jr. and Rebekah Baines Johnson, and Lyndon's four siblings: his sisters Rebekah, Josefa, and Lucia, and brother Sam Houston Johnson. The family life that Lyndon Johnson experienced here as he grew to adulthood strongly influenced the man who became our thirty-sixth president.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.6249212559,
+          30.2411981054
+        ]
+      },
+      "properties": {
+        "name": "Martin Barn",
+        "notes": "Martin Barn\nhttps://www.nps.gov/places/000/martin-barn.htm\n\n<p>The historic barn was constructed by the Judge Clarence and Frank Martin—the president's uncle and aunt—in the 1930s. Over thirty years later, President Johnson wanted to tear down the structure. However, the family's architect, Roy White, felt that the barn complemented the landscape as well as the house, and family friends also pleaded for its preservation. In the end, the barn was saved and rehabilitated.<br /> <br /> Before construction of the Klein Shop in 1967 and before ranching operations were moved northwest of the airstrip, the barn had adjacent corrals. Four pens, a chute alley and a grass patch could work up to 60 cattle at a time. By the mid-1960s, the cattle operation had grown as had the function of the Texas White House. Increased activity of White House Communications and the US Secret Service-as well as Mrs. Johnson's displeasure with the livestock smell and noise—prompted the move to the current Show Barn.<br /> <br /> Today, the historic Martin Barn contains exhibits on the famous LBJ Ranch barbecues held down in the live oak grove along the river.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.6100704521,
+          30.2397281917
+        ]
+      },
+      "properties": {
+        "name": "Mr. Jelly Bean",
+        "notes": "Mr. Jelly Bean\nhttps://www.nps.gov/places/000/mr-jelly-bean.htm\n\n<p>Beyond the Pedernales River is a small, gray building that housed Stonewall's Project Head Start program from 1967 to 1999—a symbol of one of President Johnson's enduring legacies to the American people. President Johnson initiated the Head Start program in 1965; it was one of many programs that transformed the American educational system during the 1960s. Mrs. Johnson was national chairperson for this initiative. After his retirement, the former president occasionally visited the Head Start program here in Stonewall. He often gave candy to the children, who in turn came to know him as \"Mr. Jelly Bean.\" Each Christmas, the children would visit the LBJ Ranch to sing Christmas carols to the Johnsons, a tradition that continues today as the children sing to the park rangers and visitors.<br /> <br /> The spire to the left of the Head Start building marks Trinity Lutheran Church, one of several churches where the Johnson family worshipped.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.415817,
+          30.275345
+        ]
+      },
+      "properties": {
+        "name": "Native Grass Plots",
+        "notes": "Native Grass Plots\nhttps://www.nps.gov/places/000/native-grass-plots.htm\n\n<p>Sixteen separate plots have been laid out to exemplify several native grasses typical of the mixed-grass prairie ecosystem. While this outdoor display is a work-in-progress, some plots already have excellent developed examples, such as Lindheimer's muhly (<strong>Muhlenbergia lindheimeri</strong>), and switchgrass (<strong>panicum virgatum</strong>).</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.6187789973,
+          30.2396015443
+        ]
+      },
+      "properties": {
+        "name": "Oriole Bailey House",
+        "notes": "Oriole Bailey House\nhttps://www.nps.gov/places/000/oriole-bailey-house.htm\n\n<p>Purchased in 1966, the Bailey House was home to President Johnson's cousin, Oriole Bailey. It now serves as a park ranger station.<br /> <br /> From here, the driving tour route will move away from the Pedernales River and continues on to the open rangeland of the historic LBJ Ranch.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.62337,
+          30.236515
+        ]
+      },
+      "properties": {
+        "name": "Outhouse-Sauer Beckmann Farm",
+        "notes": "Outhouse-Sauer Beckmann Farm\nhttps://www.nps.gov/places/000/outhouse-sauer-beckmann-farm.htm\n\n<p>Before plumbing came to the farm, this small building served as the site's toilet. It is a reconstruction—the original was torn down. This outhouse features a seat with two holes. This was not unusual as many outhouses had different sized holes for adults and children. There are also some pages from an old Sears and Roebuck Catalog in the structure. Farmers wouldn't waste money on purchasing toilet paper when they could recycle something they no longer needed!</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.409912,
+          30.275711
+        ]
+      },
+      "properties": {
+        "name": "Pedernales Electric Co-op",
+        "notes": "Pedernales Electric Co-op\nhttps://www.nps.gov/places/000/pedernales-electric-co-op.htm\n\n<p>Across the street from Lyndon Johnson's Boyhood Home is the modern headquarters of the Pedernales Electric Cooperative (PEC). When Lyndon Johnson was growing up, Johnson City had no electricity, a common occurrence at that time in most rural areas around the United States. People relied on kerosene lanterns for lighting, and on windmills, horses, and the occasional gasoline motor for other jobs that were too difficult to be performed by hand.<br /> <br /> In 1935, President Franklin Roosevelt created the Rural Electrification Administration, which encouraged rural areas to develop electrical grids by providing low-cost loans and other aid. The process was difficult, and there were significant challenges such as minimum population density requirements that needed to be overcome.<br /> <br /> Newly elected to the U.S. House of Representatives in 1937, Lyndon Johnson immediately began lobbying the Roosevelt administration to waive the population density requirement. Meanwhile, local representatives across five Texas counties, sought support from area ranchers and residents, and in May 1938, the Pedernales Electric Cooperative was established. Later that year, Congressman Johnson was able to secure federal funds, and construction began on the infrastructure that would eventually bring electricity and the modern era to the Texas Hill Country.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.631826,
+          30.238921
+        ]
+      },
+      "properties": {
+        "name": "Picnic Area (Ranch Road 1)",
+        "notes": "Picnic Area (Ranch Road 1)\nhttps://www.nps.gov/places/000/picnic-area-ranch-road-1.htm\n\n<p>A short drive west of the state park visitor center complex is a pleasant picnic area located just off Ranch Road 1. There are four covered shelters in a scenic area with many trees and a view of the nearby Pedernales River. Each shelter has a picnic table with benches, a trash can and a grill.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.625882,
+          30.236066
+        ]
+      },
+      "properties": {
+        "name": "Picnic Area (State Park Visitor Center)",
+        "notes": "Picnic Area (State Park Visitor Center)\nhttps://www.nps.gov/places/000/picnic-area-state-park-visitor-center.htm\n\n<p>Close to the state park entrance and a short drive from the Visitor Center complex is the day-use picnic area. Under several shade trees, there are six separate picnic areas, each has a table with attached benches and a grill. A dumpster is available for trash, but there is no drinking water.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.624084407,
+          30.24084589
+        ]
+      },
+      "properties": {
+        "name": "Pool House",
+        "notes": "Pool House\nhttps://www.nps.gov/places/000/pool-house.htm\n\n<p>The pool house was constructed in 1955 around the same time as the swimming pool. The small structure had space for pool equipment and maintenance and also served as a cabana with separate changing rooms for men and women.<br /> <br /> This building is not open to the public.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.4107698098,
+          30.2749575578
+        ]
+      },
+      "properties": {
+        "name": "President Johnson's Boyhood Home (exhibit)",
+        "notes": "President Johnson's Boyhood Home (exhibit)\nhttps://www.nps.gov/places/000/president-johnsons-boyhood-home-exhibit.htm\n\n<p>When Lyndon Johnson's father, Sam Ealy Johnson Jr., purchased the home at 200 Elm Street in 1913, he also acquired the whole block. The family's lot was 1.75 acres (.71 hectare), and it looked very different in the early 20th century. The landscape here was much more exposed with few shade trees and common low brush. The dirt yard was home to various farm animals such as a mule, a milking cow or goat, a pig, and chickens. While the house is original, other structures are reconstructions in their historic locations.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.610122,
+          30.24151
+        ]
+      },
+      "properties": {
+        "name": "Reconstructed Birthplace",
+        "notes": "Reconstructed Birthplace\nhttps://www.nps.gov/places/000/reconstructed-birthplace.htm\n\n<p>In 1964, President Johnson hired architect J. Roy White of Austin, Texas to reconstruct his birthplace home on the site where the original once stood. The reconstructed birthplace is similar in size and style to the dogtrot house that Sam Ealy Johnson Sr., the president's grandfather, built in 1889, but because the Johnsons intended to use it as a guesthouse, a modern kitchen and bathroom, running water, and electricity were added.<br /> <br /> President and Mrs. Johnson then furnished the house with many objects to which they had a deep sentimental attachment, either because they had belonged to family or were gifts from special friends.<br /> <br /> The Lyndon B. Johnson Birthplace-Cottage has the distinction of being the nation's only presidential birthplace to be reconstructed, refurnished, and interpreted by an incumbent chief executive.</p> <h3>What is a Dogtrot?</h3> <p>Stand in the open hallway of the Reconstructed Birthplace. Do you feel something? Imagine living through a hot, humid southern summer in a home before the benefit of air-conditioning. To provide shade and a cooling breeze, a covered porch area was built to separate the two main areas of the house. This is the dogtrot. By opening doors and windows, a homeowner could draw a breeze from the dogtrot throughout the house. Pets also enjoyed the cool shade, thus resulting in the name dogtrot.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.621483,
+          30.238073
+        ]
+      },
+      "properties": {
+        "name": "River Creatures Exhibit",
+        "notes": "River Creatures Exhibit\nhttps://www.nps.gov/places/000/river-creatures-exhibit.htm\n\n<p>The scenic area along the Peder­nales River draws not only humans but wildlife as well. White-tailed deer are common in the state park at the LBJ Ranch district.<br /> <br /> A diverse variety of bird species also live here. Some are spotted along the river banks, others are seen in the forested and prairie areas of the state park. The nature trail leads to a bird blind which can be an excellent place to quietly spot birds.<br /> <br /> Two large mammal species played an outsized role in Texas history: American bison and Texas longhorn. You can marvel at both in the state park.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.417599196,
+          30.276019557
+        ]
+      },
+      "properties": {
+        "name": "Roots of a Frontier President",
+        "notes": "Roots of a Frontier President\nhttps://www.nps.gov/places/000/roots-of-a-frontier-president.htm\n\n<p>As a child, Lyndon Johnson never tired of his grandparents' stories of 1860s life on the Texas frontier. He loved the tales of long, dusty cattle drives and bravery in the face of Comanche raids. By walking less than a mile, you can experience the setting for these stories. Along the way, you will see additional structures built by other pioneering families during the 1870s and 1880s. A stop in the Event Center will give you the opportunity to learn more about President Johnson's grandparents and the struggles they faced to carve out a life in the Texas Hill Country. It will also acquaint you with the transformation that took place as open range gave way to fenced pastures and farms.<br /> <br /> President Johnson did not forget the hardships that his ancestors endured. He drew strength from his frontier roots as he faced his own challenges as President of the United States.<br /> <br />  </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.416767,
+          30.274118
+        ]
+      },
+      "properties": {
+        "name": "Sam E. Johnson Sr. Cabin",
+        "notes": "Sam E. Johnson Sr. Cabin\nhttps://www.nps.gov/places/000/sam-e-johnson-sr-cabin.htm\n\n<p>For five years (1867–1872) this cabin was the home of Samuel Ealy Johnson and his wife Eliza. While Sam ran the family's cattle business, Eliza attended by hand to virtually every detail of running the ranch. She hauled water, spun wool, made clothes, cooked meals, and tended the animals. Self-sufficiency was a must; the nearest store was in Blanco, a day's ride away.<br /> <br /> The Johnson cabin is typical of the \"dogtrot\" cabins that were once common in Texas. The shaded breezeway—through which a dog could easily trot—provided storage space and much-needed relief during the hill country's blistering summers. The west wing, nearest you, was built first, in 1856; Sam Johnson added the east wing about 1868.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.6132348709,
+          30.2387557514
+        ]
+      },
+      "properties": {
+        "name": "Sam E. Johnson Sr. House",
+        "notes": "Sam E. Johnson Sr. House\nhttps://www.nps.gov/places/000/sam-e-johnson-sr-house.htm\n\n<p>The scene was a common one: young Lyndon Johnson, only a few years old, toddling down the road to visit his grandparents in this house. Here he found a ready supply of apples, candy, and affection. The future president felt a powerful attraction to his paternal grandparents, Sam Johnson Sr. and Eliza Bunton Johnson; he would always identify himself with the frontier struggles they had endured.<br /> <br /> Sam and Eliza Johnson were among the first and most successful Hill Country cattle drovers, settling near what is now Johnson City in the late 1860s. After amassing a fortune, they lost it, and eventually resettled here along the Pedernales, where, Eliza Johnson remembered, \"the tempo of life was slower.\" Sam lived here until his death in 1915. Eliza lived here until 1917. Both are buried in the Johnson family cemetery.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.6132965617671,
+          30.2382992509861
+        ]
+      },
+      "properties": {
+        "name": "Sam Sr. and Eliza Johnson House (Wayside)",
+        "notes": "Sam Sr. and Eliza Johnson House (Wayside)\nhttps://www.nps.gov/places/000/sam-sr-and-eliza-johnson-house-wayside.htm\n\n<p>Upon leaving President Johnson's grandparents' home, enjoy the drive through the live oak grove to the next two sites, the Cedar Guest House and Oriole Bailey House. Along the way keep an eye out for wildlife which love to take advantage of the shade provided by these beautiful trees. Commonly seen are whitetail deer and blackbuck antelope. If you spot a bird with a long, forked tail doing acrobatic maneuvers to catch insects, you have seen a scissor-tailed flycatcher.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.624007,
+          30.235579
+        ]
+      },
+      "properties": {
+        "name": "Sauer Beckman Living History Farm",
+        "notes": "Sauer Beckman Living History Farm\nhttps://www.nps.gov/places/000/sauer-beckman-living-history-farm.htm\n\n<p>When visitors can smell lunch being cooked on a wood-burning stove, they are close to the Sauer-Beckmann Living Farm! Here, costumed interpreters carry out the day-to-day activities of a turn-of-the-century Texas-German farm family. Some chores are seasonal, such as canning and butchering. Farm animals, however, must be cared for on a daily basis, including activities like feeding, milking, gathering eggs and slopping the hogs. Also, the house is cleaned, meals are cooked, butter is churned and cheese is made. Visitors may see the \"family\" scrubbing the floors with homemade lye soap, or plowing the garden with a team of horses.<br /> <br /> The setting for the present-day living history activities is an authentic Hill Country farm. Johann and Christine Sauer, along with their four children, settled this land in 1869. Their family prospered and grew and, by 1885, several stone buildings were built near the original rock and log cabins. Eventually, the Sauers had 10 children. One of those, Augusta Sauer Lindig, served as midwife at the birth of President Johnson.<br /> <br /> The Beckmann family acquired the property in 1900. A good cotton crop in 1915 allowed Emil and Emma Beckmann to build a new barn, to add a frame room onto the old rock structure, and to construct porches connecting to a lovely Victorian house covered with fashionable pressed tin. In 1966, Edna Beckmann Hightower sold the site to the Texas Parks and Wildlife Department. Archeological surveying and restoration work was undertaken and the farm opened to the public in 1975. Since then, time has stood still and the farm remains forever a small piece of Texas as it was at the beginning of the 20th century. Park visitors can experience the farm at their leisure and groups can make arrangements for tours.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.62347,
+          30.23628
+        ]
+      },
+      "properties": {
+        "name": "Sauer Cabins",
+        "notes": "Sauer Cabins\nhttps://www.nps.gov/places/000/sauer-cabins.htm\n\n<p>Johann Frederick Sauer and his wife Christine, both immigrants from Germany, married in nearby Fredericksburg in 1865. Four years and four children later, they settled this land in 1869. Their family prospered and grew and, by 1885, several stone buildings were built near the original rock and log cabins. Eventually, the Sauers had 10 children. One of them, Augusta Sauer Lindig, served as midwife at the birth of Lyndon B. Johnson in 1908.<br /> <br /> With most of their children out on their own by 1900, the Sauers sold the farm to Herman Beckmann and moved closer to their sons in Doss. The Beckmanns used the Sauer cabin as a living space until their own home was completed. Later, they converted the Sauer cabins into work and storage space. Today, state park staff and volunteers use the historic home as the Beckmanns did in 1915.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.415854672,
+          30.2742839855
+        ]
+      },
+      "properties": {
+        "name": "Settlement Event Center",
+        "notes": "Settlement Event Center\nhttps://www.nps.gov/places/000/settlement-event-center.htm\n\n<p>The Settlement Event Center contains exhibits about pioneer life, cattle droving, and ranching during the time of Lyndon Johnson's grandparents. Across the walkway there are restrooms, a water fountain, and a water bottle filling station.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.417513,
+          30.275973
+        ]
+      },
+      "properties": {
+        "name": "Settlement Warnings",
+        "notes": "Settlement Warnings\nhttps://www.nps.gov/places/000/settlement-warnings.htm\n\n<p>The Johnson Settlement is where Lyndon Johnson's grandparents first settled in the Texas Hill Country. His grandfather, Sam Ealy Johnson Sr. was a cattle drover, rounding up cattle here in the Hill Country and herding them north along the Chisholm Trail to the railheads in Abilene, Kansas. From there cattle were sold to growing eastern cities with a large demand for beef.<br /> <br /> The settlement is restored to its appearance in about 1870 and contains many of the original buildings and a restored prairie landscape. The National Park Foundation purchased the land in the early 1970s with money donated by Lyndon Johnson.</p> <h4>Restrictions & Warnings</h4> The trail is open from dawn to dusk. Bikes are allowed on the shared-use trail. Dogs on leash are permitted. Do not approach livestock or wildlife. Smoking is allowed only in approved outside areas near the Event Center. <p> </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.624272161,
+          30.258974016
+        ]
+      },
+      "properties": {
+        "name": "Show Barn",
+        "notes": "Show Barn\nhttps://www.nps.gov/places/000/show-barn.htm\n\n<p>Prior to the Show Barn's construction, the ranch's agricultural operations took place near the Texas White House. The cattle pens were attached to the old Martin Barn just west of the home. When Lyndon B. Johnson became president, the role of the ranch expanded. Daily presence and activity of guests, reporters, and US Secret Service increased.<br /> <br /> Construction of the Show Barn began in 1964 and was completed in 1966. It was built on a hill and at an angle to take advantage of breezes for keeping the cattle cool and dispersing unpleasant odors. Constructed of metal trusses and H-shaped perimeter supports, the gabled building has open sides where the cattle pens are located. The office, wash rack, and storage areas have concrete masonry unit walls and concrete floors, whereas the open alleys and pens have an earth floor.<br /> <br /> The Show Barn's primary purpose was the upkeep of ranch's herd of Hereford show cattle. Ranch hands could maintain both registered and commercial stock here.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.6241273215,
+          30.2587099038
+        ]
+      },
+      "properties": {
+        "name": "Show Barn (wayside)",
+        "notes": "Show Barn (wayside)\nhttps://www.nps.gov/places/000/show-barn-wayside.htm\n\n<p>Although ranching produced just a fraction of the Johnsons' income, it constituted a major portion of the President's public identity. The Johnsons maintained two herds of cattle on the LBJ Ranch—one of them a commercial herd sold for beef, the other a herd of about 500 registered Herefords, sold for breeding purposes. The registered Herefords on the ranch today are descendants of the animals owned by President Johnson. The show barn was the center of the ranching operation, where equipment was stored and the ranch's five or six employees reported to work. Here ranch hands prepared cattle for showing, both to prospective buyers and at shows throughout Texas. Herdsmen trained and fitted the show cattle. Each animal represented a considerable investment; at that time a prize-winning bull was worth between $500 and $1500.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.623342,
+          30.23643
+        ]
+      },
+      "properties": {
+        "name": "Smoke House-Sauer Beckmann Farm",
+        "notes": "Smoke House-Sauer Beckmann Farm\nhttps://www.nps.gov/places/000/smoke-house-sauer-beckmann-farm.htm\n\n<p>Built by the Sauers sometime before 1900, this limestone smokehouse served the farm well. While today it does double duty as a smokehouse and a cool place to store vegetables, the Sauers and the Beckmanns used the downstairs for smoking meat and the upstairs for storage.<br /> <br /> To smoke meats like sausage, hams, and bacon, a small bucket is filled with bark and wood chips and placed on the floor. A small fire is set in the bucket, and a lid (one with holes in it) is placed on the bucket. The fire is left to smolder. The meat is typically smoked overnight. Then the meat is left to hang for several weeks as it is cured by the salt mixed with it and the dryness of the smokehouse. Once it is fully cured, the meat is taken and stored in lard or preserved through the canning process.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.6242775257,
+          30.2407972294
+        ]
+      },
+      "properties": {
+        "name": "Swimming Pool",
+        "notes": "Swimming Pool\nhttps://www.nps.gov/places/000/swimming-pool.htm\n\n<p>In July 1955, Senator Johnson suffered a severe heart attack at a friend's estate in Virginia. After nearly a month at Bethesda Naval Hospital and a second month at home in Washington, DC, he was permitted by doctors to return to his Texas ranch for further recovery. Even before the heart attack, the Johnsons were planning to build a swimming pool southeast of their home.<br /> <br /> During his convalescence, the pool, a cabana, and area landscaping were planned and constructed under his watchful eye. For a multi-tasking man with an incredibly active mind, taking on this project was an effective way to pass the time while regaining his health. The senator would set up a yard chair outside to observe the excavation of the gaping hole and the pouring of concrete.<br /> <br /> In the end, the Johnsons had a kidney-shaped pool, long enough for laps and deep enough for diving. Like the ranch and like their home, it was a place for family time and for the business of politics.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.623401,
+          30.236232
+        ]
+      },
+      "properties": {
+        "name": "Tank house-Sauer Beckmann Farm",
+        "notes": "Tank house-Sauer Beckmann Farm\nhttps://www.nps.gov/places/000/tank-house-sauer-beckmann-farm.htm\n\n<p>This tank house was built by the Sauers before they sold the farm in 1900. While it is used to store laundry supplies today, the structure's primary purpose is to hold the large water tank on top. This cypress tank holds several hundred gallons of water. The tank is filled by the windmill next to it pumping water from a 50-foot deep well. The tank provides extra water storage as well as gravity fed pressure to the water faucet next to it.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.623543,
+          30.254878
+        ]
+      },
+      "properties": {
+        "name": "Tetrahedron",
+        "notes": "Tetrahedron\nhttps://www.nps.gov/places/000/tetrahedron.htm\n\n<p>The tetrahedron is a wind direction device used to guide aircraft into the LBJ Ranch. It is mounted on a swivel, so that it can turn, and it will point into the wind. Knowing the wind direction is important for pilots. Takeoffs and landings are always done into the wind.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.6245242888,
+          30.2410219984
+        ]
+      },
+      "properties": {
+        "name": "Texas White House Virtual Tour",
+        "notes": "Texas White House Virtual Tour\nhttps://www.nps.gov/places/texas-white-house-virtual-tour.htm\n\nAs a boy, Lyndon Johnson knew the home of his Uncle Clarence and Aunt Frank Martin as \"the big house on the river.\" In 1951 he took ownership of the house from his widowed aunt, and the expanding home and associated LBJ Ranch became a center of political activity for nearly 20 years. During the presidential years, the nation and world came to know the big house on the river as the Texas White House.<br /> <br /> Today the majority of rooms have been restored to their appearance during the presidential years (1963-1968) while the master bedroom suites retain their appearance at the time of President and Mrs. Johnson's deaths (1973 and 2007, respectively).<br /> <br /> Currently the Texas White House is not open for tours while the National Park Service completes an assessment of the structure—parts of which are over a century old—and prepares for an extensive rehabilitation of the home. However, this virtual tour will allow you to explore the first floor of the Texas White House and learn more about many of the objects on display. <h3><a href=\"https://www.nps.gov/lyjo/learn/photosmultimedia/texas-white-house-virtual-tour.htm\">Go To Virtual Tour</a></h3>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Texas: Lyndon B. Johnson National Historical Park",
+        "notes": "Texas: Lyndon B. Johnson National Historical Park\nhttps://www.nps.gov/places/lyndon-b-johnson-national-historical-park.htm\n\n<p>Lyndon B. Johnson National Historical Park is located in central Texas about 50 miles west of Austin in the Texas Hill Country. The park protects the birthplace, home, ranch, and final resting place of Lyndon B. Johnson, 36th President of the United States.<br /> <br /> In November 1963 President Kennedy was assasinated in Dallas, Texas. This occurred as civil rights legislation began to take shape in Congress. President Lyndon Johnson addressed Congress five days after Kennedy's assassination, urging them to pass the bill. Johnson was famous for his tactics in getting legislation passed even as a member of Congress himself (he served in both the House and the Senate), before serving in the White House, and he used these skills to pressure Congress into passing what would eventualy become the Civil Rights Act of 1964.<br /> <br /> The Voting Rights Acts was a result of two things: 1. The elimination of the voting rights provision in the original Civil Rights Act of 1964 and 2. The Selma to Montgomery March in March 1965, which was a peaceful 54-mile march in an effort to register black voters in the South. The marchers were met with extreme violencefrom local authorites and white terrorists groups. Six days after the march, LBJ pledged his support for a Voting Rights Act.<br /> <br /> Following Dr. King's assassination in Memphis, Tennessee on April 4, 1968, President Johnson used the political climate at the time to push for more civil rights legislation. In a ltter to Congree, Johnson invoked Dr. King's assassination, imploring Congress to act in the name of a man \"who devoted his life to nonviolent achievement of rights that most Americans take for granted...\" On APril 10, 1968, the day after Dr. King's funeral, the House voted to pass the Civil RIghts Act of 1968 (commonly referred to as the Fair Housing Act of 1968).<br /> <br /> <span style=\"font-size:12pt\"><span style=\"font-family:\"Times New Roman\",serif\"><span style=\"font-size:11.0pt\"><span style=\"font-family:\"Arial\",sans-serif\"><span style=\"background:white\">The Lyndon B. Johnson National Historical Park was chosen for inclusion in the </span><a href=\"https://www.nps.gov/subjects/civilrights/african-american-civil-rights-network.htm\">African American Civil Rights Network</a><span style=\"background:white\"> in October 2019.</span><br style=\"box-sizing:border-box; font-variant-ligatures:normal; font-variant-caps:normal; orphans:2; text-align:start; widows:2; -webkit-text-stroke-width:0px; text-decoration-style:initial; text-decoration-color:initial; word-spacing:0px\" /> <br style=\"box-sizing:border-box; font-variant-ligatures:normal; font-variant-caps:normal; orphans:2; text-align:start; widows:2; -webkit-text-stroke-width:0px; text-decoration-style:initial; text-decoration-color:initial; word-spacing:0px\" /> <em><span style=\"font-family:\"Arial\",sans-serif\">The African American Civil Rights Network (AACRN) recognizes the civil rights movement in the United States and the sacrifices made by those who fought against discrimination and segregation. Created by the African American Civil Rights Act of 2017, and coordinated by the National Park Service, the Network tells the stories of the people, places, and events of the modern U.S. civil rights movement from 1939 -1968 through a collection of public and private elements.</span></em></span></span></span></span></p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.619511241,
+          30.2505220544
+        ]
+      },
+      "properties": {
+        "name": "The Environmental First Lady",
+        "notes": "The Environmental First Lady\nhttps://www.nps.gov/places/000/the-environmental-first-lady.htm\n\n<p>Lady Bird Johnson's environmental ethic spanned her entire lifetime of 94 years. A child of East Texas, she spent many of her days outdoors. The sense of place that came from being close to the land never left her. She would eventually carry that with her to the White House.<br /> <br /> The Beautification Act of 1965, known as \"Lady Bird's Bill,\" is a well-known result of her tireless work. Often associated only with wildflowers, Lady Bird Johnson emphasized that \"beautification\" meant much more. It meant clean water, clean air, clean roadsides, and preservation of landmarks, parks, and wilderness areas.<br /> <br /> Her commitment to the natural world resulted in a national awareness not seen prior to her time as first lady, and it served as a catalyst for the modern environmental movement. Lady Bird Johnson demonstrated that through the activism of one person great change can happen.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.6194683247,
+          30.2456748235
+        ]
+      },
+      "properties": {
+        "name": "The Environmental President",
+        "notes": "The Environmental President\nhttps://www.nps.gov/places/000/the-environmental-president.htm\n\n<p>Growing up in the scenic Texas Hill Country, Lyndon Johnson developed a deep appreciation and respect for the land. As part of his dream for a \"Great Society,\" he felt a responsibility to protect the natural heritage of the United States. During his administration President Johnson signed nearly 300 conservation measures into law, forming the basis of the modern environmental movement. Included among the legislation were bills to ensure clean air and protect water quality. Laws governing waste disposal and pesticide use were put into effect. Protection for endangered animals was initiated.<br /> <br /> Wilderness areas and a national trails system were created. Nearly 50 new national park areas were added and existing ones expanded, ensuring that many more Americans would have the opportunity to enjoy the natural, historic, and cultural beauty of the nation.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.625067,
+          30.242019
+        ]
+      },
+      "properties": {
+        "name": "The Jet Age Arrives!",
+        "notes": "The Jet Age Arrives!\nhttps://www.nps.gov/places/000/the-jet-age-arrives.htm\n\n<p>In October 1961 the United States Air Force replaced twin-engine, propeller-driven aircraft with the four-engine Lockheed JetStar for executive transport. Lyndon Johnson was the first vice president to have an aircraft assigned to him. His choice was the Lockheed JetStar C-140B (VC). As president he continued to use the JetStar for travel to and from his ranch. He jokingly referred to the plane as \"Air Force One-Half,\" although it did bear the call sign Air Force One.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.416657,
+          30.274035
+        ]
+      },
+      "properties": {
+        "name": "The Johnson Cabin (exhibit)",
+        "notes": "The Johnson Cabin (exhibit)\nhttps://www.nps.gov/places/000/the-johnson-cabin-exhibit.htm\n\n<p>For five years (1867–1872) this cabin was the home of Samuel Ealy Johnson and his wife Eliza. While Sam ran the family's cattle business, Eliza attended by hand to virtually every detail of running the ranch. She hauled water, spun wool, made clothes, cooked meals, and tended the animals. Self-sufficiency was a must; the nearest store was in Blanco, a day's ride away.<br /> <br /> The Johnson cabin is typical of the \"dogtrot\" cabins that were once common in Texas. The west wing was built first, in 1856; Sam Johnson added the east wing about 1868. The shaded breezeway—through which a dog could easily trot—provided storage space and much-needed relief during the hill country's blistering summers.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.6062505154,
+          30.2433225515
+        ]
+      },
+      "properties": {
+        "name": "The Junction School",
+        "notes": "The Junction School\nhttps://www.nps.gov/places/000/the-junction-school.htm\n\n<p>The one-room school was very important to the rural people living in Gillespie County. Here, near their homes, the children learned the \"3Rs\"—reading, writing, and arithmetic—enabling many of them to go on to high school and college. The schools were located close enough to children's homes to allow to them to walk to school. There were 31 one-room schools located in Gillespie County.<br /> <br /> The Junction School was a typical one-room school. A wood stove sat in a sand box in the center of the school and was the only source of heat. Two kerosene lamps suspended from the ceiling at opposite ends of the room provided light. The teacher's desk and a chair were in front of the classroom. A small brass bell on the teacher's desk summoned the students. Students sat at double desks which had wooden tops with holes for the glass inkwells. The desks were arranged in rows facing the teacher's desk; the boys in one row and the girls in another.<br /> <br /> The Junction School opened on November 21, 1910 and served the area for 37 years. In the spring of 1947 the school became part of the Stonewall Consolidated School District. With this move, the Junction School closed and its students attended the nearby Stonewall School. In 1972 the National Park Foundation purchased the land to become part of the Lyndon B. Johnson National Historical Park.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.411038,
+          30.274602
+        ]
+      },
+      "properties": {
+        "name": "The LBJ Legacy: Pedernales Electric Co-op",
+        "notes": "The LBJ Legacy: Pedernales Electric Co-op\nhttps://www.nps.gov/places/000/the-lbj-legacy-pedernales-electric-co-op.htm\n\n<p>Just as Johnson City helped shape Lyndon Johnson, Lyndon Johnson helped shape the modern face of Johnson City. Throughout the town are buildings that reflect Johnson's quest to ease the hardships he knew here in his youth. The former LBJ Hospital—now the park visitor center—is one of them.<br /> <br /> The white stone building east of the boyhood home is the headquarters of the Pedernales Electric Cooperative or PEC, one of Lyndon Johnson's most important contributions to the people of the Texas Hill Country. Throughout the summer of 1938, freshman congressman Lyndon Johnson stumped hard for rural electrification. His arguments convinced wary farmers and ranchers that the cost would be worth the elimination of hand-pumped water, hand-washed laundry, and red-hot cook stoves. In 1939, electricity flowed to thousands of hill country residents for the first time.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.6255891255,
+          30.2515785894
+        ]
+      },
+      "properties": {
+        "name": "The LBJ Ranch: A Living Legend",
+        "notes": "The LBJ Ranch: A Living Legend\nhttps://www.nps.gov/places/000/the-lbj-ranch-a-living-legend.htm\n\n<p>The LBJ Ranch was suddenly thrust upon the world stage when Lyndon Johnson assumed the presidency following the assassination of John F. Kennedy. Relatively unknown to the nation before November 1963, the Johnson family's Hill Country retreat became the second most significant location in the country after the White House.<br /> <br /> President Johnson introduced the world to Texas as he used the property for cabinet meetings, conferences, and diplomatic functions. Visitors to the ranch left with a new understanding of the president. The LBJ Ranch, like the man, became larger than life—a place of myth and legend.<br /> <br /> In December 1972, the Johnsons deeded their home to the National Park Service. The former president encouraged the NPS to use the ranch as a site for teaching about US history and agriculture. Today, visitors continue to come from around the world to have their own LBJ Ranch experience.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.6100452382,
+          30.2405667198
+        ]
+      },
+      "properties": {
+        "name": "The Reconstructed Birthplace (wayside)",
+        "notes": "The Reconstructed Birthplace (wayside)\nhttps://www.nps.gov/places/000/the-reconstructed-birthplace-wayside.htm\n\n<p>Near this site at dawn on August 27, 1908, the future 36th President of the United States was born. He was the first child of Sam Ealy Johnson Jr.—a state legislator—and Rebekah Baines Johnson, an educator and journalist. Lyndon Baines Johnson lived here for the first five years of his life.<br /> <br /> In 1964 President and Mrs. Johnson had the building in front of you constructed as a guest house for visitors to the LBJ Ranch. It stands on the site of, and closely resembles, the original home that was removed in the 1930s. Though never intended as a literal reconstruction, 'the birthplace' was furnished with Johnson family mementos spanning many generations.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.624824696,
+          30.24090382
+        ]
+      },
+      "properties": {
+        "name": "The Texas White House",
+        "notes": "The Texas White House\nhttps://www.nps.gov/places/000/the-texas-white-house.htm\n\n<p>The home of Lyndon and Lady Bird Johnson at the LBJ Ranch was a place of family and of politics...as well as a place for rejuvenation. During his five-year administration, President Johnson spent a quarter of his time here—74 visits totaling 490 days. To the world, it became known as \"The Texas White,\" but for the Johnson family, it was simply known as \"Our Heart's Home.\"<br /> <br /> While Lyndon Johnson was growing up, it was the home of his Uncle Clarence and Aunt Frank Martin. Some of his earliest memories as a young boy were of the \"big house on the river.\" The house he loved for decades became his in 1951 after he purchased it and approximately 240 acres from his widowed aunt.<br /> <br /> As his career grew, so did the house and its functions. The Johnsons added an office in 1958 when he was senate majority leader. In 1962, the dining room and kitchen were both extended to create additional space for entertaining when he was vice president. Additional bedrooms and bathrooms were created and remodeled to house invited guests including world leaders such as the President of Mexico, West German Chancellor, and Israeli Prime Minister. In 1967, late in his presidency, the couple added two master suites for the comfort of their upcoming retirement.<br /> <br /> In the end, the Texas White House expanded to include 28 rooms (8 bedrooms, 9 bathrooms) spanning over 8,400 square feet.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.624167555,
+          30.258684419
+        ]
+      },
+      "properties": {
+        "name": "The Working Corrals",
+        "notes": "The Working Corrals\nhttps://www.nps.gov/places/000/the-working-corrals.htm\n\n<p>President Johnson always kept a close eye on his ranch operations. The image of him handling steers or working a bull is appealing, but most of the physical labor on the ranch was done by a handful of ranch hands—many of them long-time employees, such as Dale Malechek, the ranch foreman.<br /> <br /> This, said Lyndon Johnson, was \"where the cattle go out and the money comes in.\" In the working pens, ranch hands tended to the herds-branding, castrating, doctoring, and, most importantly, loading cattle out for shipment after a sale.<br /> <br /> The ramp in front of you is a \"loading chute\" for loading cattle into trucks. The majority of cattle shipped off the ranch were from the Johnson's beef herd—some of which he would simply purchase, clean up, and resell at a profit. Though LBJ was proudest of his registered Herefords (sold for breeding), much of his ranching revenue came from the sale of unregistered beef cattle.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.61029219604461,
+          30.236897812903692
+        ]
+      },
+      "properties": {
+        "name": "Trinity Lutheran Church",
+        "notes": "Trinity Lutheran Church\nhttps://www.nps.gov/places/trinity-lutheran-church.htm\n\n<p>The congregation of Trinity Lutheran Church traces its history to 1902, when it was first organized in the nearby Albert, Texas schoolhouse. The members donated funds to purchase three acres of land overlooking the Pedernales River, and a small sanctuary was built here in 1904, just across from where Lyndon Johnson would be born in 1908. The elegant structure you see today was constructed in 1928. A fine example of the Gothic Revival style of architecture, the church features lovely arched window and door openings, a Gothic steeple, and its original pressed-metal siding. Worship services were conducted in the German language until 1950.<br /> <br /> Although President Johnson was a member of the Christian Church (Disciples of Christ) and Lady Bird Johnson was Episcopalian, they would frequently attend services at Trinity Lutheran while at home on the LBJ Ranch.<br /> <br /> The church grounds also became the site for one of the first Head Start Schools in the nation. Operation Head Start was a strategic program in President Johnson's Great Society educational program. Launched in the summer of 1965, Head Start provides pre-school children with health, nutrition, education, and other social services. Since its founding, more than 36 million children have participated in Head Start programs, preparing them for the classroom at schools around the country. After his retirement, Lyndon Johnson would visit the Stonewall Head Start, arriving with candy for the children who knew him, not as \"Mr. President,\" but as \"Mr. Jelly Bean.\"</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.624725,
+          30.241508
+        ]
+      },
+      "properties": {
+        "name": "US Secret Service Command Post",
+        "notes": "US Secret Service Command Post\nhttps://www.nps.gov/places/000/us-secret-service-command-post.htm\n\n<p>This historic cottage was originally constructed on the south side of the Pedernales River where today the Lyndon B. Johnson State Park exists. It was used by the Beckmann family in the 1940s for about a decade. After it was abandoned and unoccupied, the family sold the house to Lyndon Johnson, and it was moved to its current location in the late 1950s.<br /> <br /> Initially, the cottage was used for employees of the LBJ Ranch. Although the US Secret Service had a presence on the ranch beginning with Johnson's vice presidency in 1961, the agency did not have permanent quarters. Initially, agents assigned to the ranch had posts in the Klein Shop or even in their automobiles.<br /> <br /> At some point early in the Kennedy-Johnson administration, a trailer was placed on the property northeast of the main house. After Johnson became president in November 1963, Secret Service continued to use the trailer until around 1966, at which point the agency began to use the old Beckmann cottage. It served as a security post as well as office space for Johnson's protection detail.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.622496539,
+          30.259956324
+        ]
+      },
+      "properties": {
+        "name": "Volunteer RV Sites",
+        "notes": "Volunteer RV Sites\nhttps://www.nps.gov/places/000/volunteer-rv-sites.htm\n\n<p>Near the north end of the airstrip, this area was previously used for military barracks during the Johnson presidency. Today, the scenic spot is used as a RV campground for the Volunteers-In-Park. For their service working with interpretation, ranching, maintenance or curatorial, our talented volunteers are given a space to use during their time at the park.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.619980626,
+          30.253459936
+        ]
+      },
+      "properties": {
+        "name": "Watering the Landscape: Valley Irrigation",
+        "notes": "Watering the Landscape: Valley Irrigation\nhttps://www.nps.gov/places/000/watering-the-landscape-valley-irrigation.htm\n\n<p>Water is a valuable resource for ranchers in the Texas Hill Country. The Pedernales River and the many local creeks are the main sources of water for irrigation. As droughts are common here, supplemental irrigation was necessary for President Johnson to maintain his fields of oats, winter wheat, and grass.<br /> <br /> The Valley Irrigation Systems rolled across the landscape providing precious water to a thirsty land. Johnson understood that water was priceless. He enacted several pieces of legislation to ensure wise use of water resources. He once said he wanted to be remembered as the \"conservation president.\"</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.625103,
+          30.242007
+        ]
+      },
+      "properties": {
+        "name": "Welcome to the Hangar",
+        "notes": "Welcome to the Hangar\nhttps://www.nps.gov/places/000/welcome-to-the-hangar.htm\n\n<p>The Airplane Hangar has served many functions over the years. Finished around 1959, it was initially constructed to protect then Senator Johnson's private plane from the elements. The spacious hangar faced the taxiway and had a wide carport in the back. In between the hangar and carport, two small quarters were built to house staff. Early on, the hangar was used for hay storage at one point, but during Johnson's presidency, it was a gathering place for community and political events as well as for official press conferences. The hangar was even used as a movie theater for the Johnson family and their friends. Today, it has been repurposed as the LBJ Ranch District visitor center, complete with exhibits, park film, and bookstore.</p> <h4>The Many Functions of the Hangar</h4> <p>Hay was not the only thing that has been stored in the hangar. Zoom into this December 29, 1963 photo. Underneath the wings of the aircraft is a stack of lumber. In this photo, President Johnson takes Secretary of Defense Robert McNamara ( <strong>front passenger seat</strong> ) and others for a spin in the golf cart. Jack Valenti ( <strong>pictured in the dark jacket directly behind Johnson</strong> ) follows on foot.<br /> <br /> Protecting aircraft from the elements was the primary purpose for the hangar. In this 1965 photo, President Johnson has a conversation underneath the open hangar door. Today the hangar door has been opened permanently to allow a wall of glass windows to be added, thus giving visitors a panoramic view of the ranch from inside. Step inside the hangar and underneath the open door; look up and through a glass ceiling to see the hangar door.<br /> <br /> The hangar, with it's size and open space, made an ideal location for press conferences during President Johnson's time in office. Joining the president for this September 1967 press conference are Lynda Bird Johnson and her fiancé Captain Charles Robb ( <strong>far right</strong> ).<br /> <br /> Parties and dinners were often held in the hangar as well. On November 6, 1968, a dinner for military support personnel and their families was held. President Johnson spoke to the approximately 300 in attendance with his grandson, Patrick Lyndon Nugent, by his side. Notice the wall paneling, ceiling tiles, and lights which can still be seen in the hangar today.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.41035,
+          30.275258
+        ]
+      },
+      "properties": {
+        "name": "Windmill and Water Tank",
+        "notes": "Windmill and Water Tank\nhttps://www.nps.gov/places/000/windmill-and-water-tank.htm\n\n<p>The windmill and water tank are located near a big live oak tree behind the house. The windmill was a Dempster model, and the water tank was originally situated in a tank house. For many years, the Johnson family did not have indoor plumbing. However, by the early 1920s, they had gravity-fed water to their house. Using wind power, the windmill would draw the water from the well into the storage tank. From there, water flowed with the pressure of gravity through pipes in the ground to the house.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.4171555424,
+          30.2752059456
+        ]
+      },
+      "properties": {
+        "name": "Windmill, Water Tank, Cooler House",
+        "notes": "Windmill, Water Tank, Cooler House\nhttps://www.nps.gov/places/000/windmill-water-tank-cooler-house.htm\n\n<h4>Windmill</h4> <br /> The Cyclone windmill situated above the well pumped the cold well water into the adjoining storage tank. Its many blades allowed for the windmill to hold up to the pressure of strong winds and still generate enough torque to pump water from the well during periods of low winds. The well water then flowed by gravity through a pipe to the wooden water trough inside the cooler house. Wind was an important resource that the settlers harnessed. Cooperation with nature was an integral part of life. <h4>Water Tank</h4> <br /> The water tank is an essential part of the pumping process. It stores water above the height of where it will be used, and then is gravity-fed into water troughs and buildings. No electric or mechanical energy source is required for this part of the process. <h4>Cooler House</h4> <br /> The original cooler house was built in the 1880s by N.T. Stubbs, a cousin by marriage to President Lyndon B. Johnson. The cooler house provided cold storage for perishable food and dairy products. It was constructed out of native limestone with walls 18 inches thick. Inside, shelves were built along the thick stone walls for storage of crocks filled with wild dewberries, hog plums, and garden vegetables such as onions, peas, beans, and tomatoes. Cans of milk and churns filled with cream for making butter were kept cool in the wooden water trough. Eggs, preserved in salt, and cabbage, stored in barrels for making sauerkraut, were kept on the cool, moist sand floor, while potatoes and other root vegetables were stored in a large box, layered with sand to keep them dry. <p> </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.411895,
+          30.276624
+        ]
+      },
+      "properties": {
+        "name": "Withers and Spauldings General Store",
+        "notes": "Withers and Spauldings General Store\nhttps://www.nps.gov/places/000/withers-and-spauldings-general-store.htm\n\n<p>In the early 20th century, general stores were an important fixture in small, rural towns such as Johnson City. Not only did they provide \"store-bought goods,\" but they served as social centers and community message centers. Shoppers who entered would be met by long counters, rounded glass showcases, and side walls lined with shelves, drawers, and bins holding all manner of items for sale. Imagine the Johnsons and their neighbors coming to the store to purchase such necessities as flour, tools, lanterns, fabric, or shoes. Lucky children with a little spending money could select penny candies from glass jars. The shop keeper would cut, grind, or weigh merchandise that required it, wrap the purchases with brown paper and string from a roll at the end of the counter, and ring the total up on the cash register. The waiting customers could catch up on the latest local news or peruse the notices posted on the store wall.<br /> <br /> W.E. \"Bud\" Withers and Warren and E.D. Spauldings operated the general store in Johnson City as a partnership from April 1909 until December 1915 when Withers bought out the Spauldings. He continued to run the business as <strong>W.E. Withers</strong> until 1925, first in the original frame building and then in the stone building which currently houses the Johnson City Bank.<br /> <br /> The historic Withers & Spauldings General Store now serves as an exhibit area and information center for Johnson City. Visitors can learn about Johnson City shopping and dining options as well as additional attractions in the surrounding Hill Country community.<br /> <br /> Staffed by Johnson City Chamber of Commerce members, the property is part of Lyndon B. Johnson National Historical Park and is managed by the National Park Service.</p>",
+        "icon": "red-pin-down.png"
+      }
+    }
+  ]
+}

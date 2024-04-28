@@ -1,0 +1,84 @@
+[
+  {
+    "id": "F04B0244-70C5-45D5-873A-42F8F6602DF1",
+    "url": "https://www.nps.gov/places/keepers-quarters-museum.htm",
+    "title": "Keepers Quarters Museum",
+    "listingDescription": "Keepers lived on-site near the lighthouse to always be available to tend the light at night. This quarters was built in 1873 to house all three keepers. This lighthouse was a bachelor area -- no families -- until after 1900. To accommodate families, this building was divided so the 1st Assistant's family lived on the first floor and the 2nd Assistant's family lived on the second floor. A new quarters was built for the principal keeper's family.",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/682A1A60-A7B6-35FF-7F503C48C7E286FF.jpg",
+        "credit": "NPS photo",
+        "altText": "2 story white house with green shutters seen from the top of the lighthouse",
+        "title": "Keepers' Quarters",
+        "description": "",
+        "caption": "The Lighthouse Keepers' Quarters was built in 1873, today it serves as a museum",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/682A1A60-A7B6-35FF-7F503C48C7E286FF.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/682A1A60-A7B6-35FF-7F503C48C7E286FF.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "NC",
+        "parkCode": "calo",
+        "designation": "National Seashore",
+        "fullName": "Cape Lookout National Seashore",
+        "url": "https://www.nps.gov/calo/index.htm",
+        "name": "Cape Lookout"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [
+      "Cape Lookout Light Station",
+      "Historic District",
+      "keepers quarters"
+    ],
+    "latitude": "34.622739845",
+    "longitude": "-76.5245235716",
+    "latLong": "34.622739845,-76.5245235716",
+    "bodyText": "<p>Built in 1873 as replacement quarters for all three keepers of Cape Lookout Lighthouse. At that time, keepers families did not live at the station, only the men on duty. It wasn't until 1907, when an additional quarters building was built, that the men's families could join them. At that time the principal keeper and his family moved into the new quarters and this building was divided to accomodate the two assistant keepers' and their families. The 1st Assistant keeper and family lived on the first floor and the 2nd Assistant keeper and family had the second floor.</p> <p>Today the Keepers' Quarters is a museum with exhibits on the U.S. Lighthouse and U.S. Life-Saving Services, lives of the keepers, and the history of the Cape Lookout light on the ground floor. The second floor is closed to visitors. The museum is open seasonally from 9:30 am to 4:30 pm from March to October.</p>",
+    "audioDescription": "A two story brick house with wooden porches at both entry doors. There is a short step over a raised door sill to enter the building. A central hallway with doors at both ends allows the wind to cool the building down. On hot days, the coolest part of the building is in this hall. Large windows, open during the summer months, in each room allow for views of the inlet and the lighthouse. The house has 4 rooms on the ground floor matching the original floor plan. These rooms hold exhibits and a small theater showing the park movie on a wall mounted TV screen.",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "ff3fbdbf-e288-433a-9d60-0cd5be3a7ec9",
+    "isManagedByNps": "1",
+    "amenities": [
+      "Assistive Listening Systems - T-Coil Compatible",
+      "Benches/Seating",
+      "Historical/Interpretive Information/Exhibits",
+      "Open Captioning",
+      "Scenic View/Photo Spot",
+      "Tactile Exhibit"
+    ],
+    "managedByOrg": "",
+    "quickFacts": [
+      {
+        "id": "5C252B96-2DEB-4EF4-91D1-B5D2B202FCD7",
+        "value": "Core Banks near the lighthouse",
+        "name": "Location"
+      },
+      {
+        "id": "208F1B3C-44DC-4CF5-9A61-9B26A364D701",
+        "value": "Historic Structure",
+        "name": "Significance"
+      }
+    ],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  }
+]

@@ -1,0 +1,200 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.93750262260437,
+          38.91057077063121
+        ]
+      },
+      "properties": {
+        "name": "Information Panel: Beauty and Business ",
+        "notes": "Information Panel: Beauty and Business \nhttps://www.nps.gov/places/information-panel-beauty-and-business.htm\n\n<p>\"Beauty cannot be purchased, it must be created.\"- Helen Shaw Fowler.<br /> <br /> Welcome to these aquatic gardens- transcend the busy streets and embrace the unique beauty, peace and natural rhythm to be found here.<br /> <br /> The pond area today looks much as it did during the early 20th century when it was operating as one of the largest aquatic plant businesses in the nation. <br /> <br /> Shaw Gardens was started in the 1880s by Civil War veteran Walter B. Shaw. The water gardens blended plant sales with aesthetic beauty. After 1912, Shaw's daughter Helen led the company. Together, family members and hired laborers dug ponds, planted, nurtured, and harvested aquatic plants. <br /> <br /> Along with being available for purchase by local residents, plant shipments were sent every week to New York, Boston, Philadelphia and Chicago. </p> <h3>A Floral Experience in Washington, D.C. </h3> <p>Thousands of blooming flowers drew hundreds of Washingtonians to these aquatic gardens on summer weekends during the early 1900s. <br /> <br /> Visitors came from all walks of life and included government officials, plant lovers and those who just wanted to picnic for an afternoon. <br /> <br /> President Woodrow Wilson and his wife, as well as First Ladies Florence Harding and Grace Coolidge frequented the gardens and became friends with the Shaw family.<br /> <br /> In 1938, a Washington Post reporter wrote: \"The ponds are separated by dikes with grassy paths, shaded by large trees making a picture of satisfying beauty. Acres of blooms reach away in all directions, the surface of the water almost entirely with foliage and blossoms of white, pink, rose, crimson and blue...\"</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.94976568222046,
+          38.90108635466225
+        ]
+      },
+      "properties": {
+        "name": "Information Panel: Birds, Wetlands and... Conservation ",
+        "notes": "Information Panel: Birds, Wetlands and... Conservation \nhttps://www.nps.gov/places/information-panel-birds-wetlands-and-conservation.htm\n\n<p>Anacostia River tidal marshes were far more extensive a hundred years ago than today. Marshes support amphibians, small fish and insects. This abundant aquatic life attracts herons, egrets, rails and other birds to feed. Over-hunting and draining of the wetland caused the decline of many bird species along the river. <br /> <br /> People dedicated to changing this trend included Paul Bartsch, a local bird watcher, conservationist and professor at George Washington University. The Smithsonian Institution published his study, <em>Herons of the Anacostia</em>, in 1903. <br /> <br /> Angry about losing so many birds to hunting, he and the National Audubon Society successfully lobbied Congress to pass some of the first nationwide laws protecting birds.<br /> <br /> The National Park Service, local governments and non-profit organizations continue restoring wetlands along the Anacostia River. As a result, many herons and egrets have returned.<br /> <br /> Effects are felt far beyond the Anacostia watershed as migratory birds use these wetlands as a stopover on their journeys.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.94449782371521,
+          38.91895206935024
+        ]
+      },
+      "properties": {
+        "name": "Information Panel: Boardwalk to Tidal Marsh ",
+        "notes": "Information Panel: Boardwalk to Tidal Marsh \nhttps://www.nps.gov/places/information-panel-boardwalk-to-tidal-marsh.htm\n\n<p>Along the boardwalk you will see tidal wetlands fed by the Anacostia River, with a tidal ranger of two to three feet. These wetlands support people and wildlife by serving as a natural water filter, acting as a storage basin for floodwater, and providing habitat for a wide variety of plants and animals. This area also includes some of the last original tidal wetlands in the nation's capital and some of the best wildlife viewing in the park. Keep your eyes open for herons, egrets, osprey, bald eagles, and beavers. </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.93744897842407,
+          38.90955225852221
+        ]
+      },
+      "properties": {
+        "name": "Information Panel: Flexing the River’s Mussels ",
+        "notes": "Information Panel: Flexing the River’s Mussels \nhttps://www.nps.gov/places/information-panel-flexing-the-river-s-mussels.htm\n\n<p>There are eight recorded species of native freshwater mussels in the Anacostia River. <br /> <br /> Mussels are filter feeders. An adult mussel can filter between 10 and 20 gallons of water a day. Mussels remove sediment from the water, depositing it on the river bottom. They also eat E. coli and other kinds of bacteria!<br /> <br /> Due to pollution and habitat loss, freshwater mussels are one of the most imperiled animals in the world.<br /> <br /> The Anacostia Watershed Society is working with partners like the National Park Service to restore the freshwater mussels of the Anacostia River. </p> <h3>The Unsung Heroes of the Anacostia River: Freshwater Mussels at Work</h3> <p>Notice the difference in water clarity between the two containers above. The left one contains live freshwater mussels. The container on the right has no mussels in it. <br /> <br /> Mussels can be hard to see as they spend their lives on the river bed. Shown here: Eastern eliptio. </p> <h3>What is a Freshwater Mussel?</h3> <p>Mussels are aquatic animals with soft bodies and hard, hinged shells. They remove excess nutrients like Nitrogen and Phosphorus from water. This promotes aquatic plant life that supports habitat for other animals. <br /> <br /> Visit www.anacostiaws.org to learn more about mussels and find out how you can get involved!</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9418478012085,
+          38.91289158789238
+        ]
+      },
+      "properties": {
+        "name": "Information Panel: Helen Shaw Fowler ",
+        "notes": "Information Panel: Helen Shaw Fowler \nhttps://www.nps.gov/places/information-panel-helen-shaw-fowler.htm\n\n<p>Helen Fowler took over administration of the Shaw Gardens from her father in 1912. Under her guidance the gardens grew into one of the most extensive water plant businesses in the nation. By 1938, Shaw Gardens encompassed 42 ponds spread over nine acres and contained 500,000 plants. Widely respected, Fowler traveled the world to collect lilies and roots. The botanist and curator of the U.S. National Herbarium gave her a letter of introduction to directors of botanical gardens in the West Indies and South America. <br /> <br /> The business was progressive for its time. In addition to being woman-owned, Helen Fowler employed a number of local African American residents. She was the first woman in Washington, D.C. to have a commercial driver's license. <br /> <br /> Local women's organizations such as the YWCA and the Women's Improvement Club of Silver Spring, Maryland, recognized Helen's role as a business owner and invited her to speak on several occasions. <br /> <br /> \"Presiding over the whole establishment- ponds, pools, greenhouses, studio- is a woman, Mrs. Helen L. Fowler\" - 1935 article in the Washington Post. </p> <h3>From Commerce to Community</h3> <p>A proposed expansion of Anacostia Park by eminent domain, to include a seizure of the Shaw Gardens, sparked by a 19-year legal battle. <br /> <br /> Helen Fowler led the Shaw family in opposing this plan by the federal government. With public and political pressure weighing against her, Helen Fowler agreed to sell the gardens to the government in 1938, for $50,000.<br /> <br /> She lived on this property, serving as an authority on aquatic plants and advisor to the national park staff, until her death in 1957. </p> <h3>The Helen Fowler Water Lily (Nymphaea odorata)</h3> <p>In 1900, Shaw introduced a deep rose-colored water lily named after his daughter, Nymphaea odoratam 'Helen Fowler.'</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.941646,
+          38.913275
+        ]
+      },
+      "properties": {
+        "name": "Information Panel: Planting Time / Sembrar o no sembrar?",
+        "notes": "Information Panel: Planting Time / Sembrar o no sembrar?\nhttps://www.nps.gov/places/000/information-panel-planting-time-sembrar-o-no-sembrar.htm\n\n<p>Water lilies come in two types: hardy and tropical. The hardy lilies remain in the ponds all year long and while the flower and leaves may die back in winter, they regrow in summer. Tropical lilies need to be removed in the fall. Their tubers are taken from the pond and preserved during winter. Tubers regrow in the greenhouses in winter and spring and are reintroduced to the ponds in the summer.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.93777084350586,
+          38.91108002120524
+        ]
+      },
+      "properties": {
+        "name": "Information Panel: Preserve and Protect ",
+        "notes": "Information Panel: Preserve and Protect \nhttps://www.nps.gov/places/information-panel-preserve-and-protect.htm\n\n<p>National parks are special places owned by all Americans. Caring for these treasures is everyone's job. Throughout the country, citizen organized friends groups get people interested in and involved with preserving natural and cultural treasures. <br /> <br /> <em>Friends of Kenilworth Aquatic Gardens</em> is a non-profit organization. We work in cooperation with the National Park Service to connect people to this park through stewardship, public engagement and education programs. <br /> <br /> Be one of the growing number of people committed to celebrating and protecting Kenilworth Aquatic Gardens- for this and future generations. </p> <h3>Get Involved</h3> <ul> <li> <p>Volunteer activities</p> </li> <li> <p>Educational experiences</p> </li> <li> <p>Festivals, concerts and special events</p> </li> </ul> <p>See staff in the visitor center for volunteer opportunities and more information. </p> <h3>To Preserve, Protect, and Provide for the benefit of future generations: The National Park Service</h3> <p>Since 1939, the National Park Service (NPS) has operated and maintained Kenilworth Aquatic Gardens. NPS shifted the purpose of the gardens- from propagating and selling lilies and lotus- to interpreting and educating visitors about the site's history, ecosystems and aquatic plants. <br /> <br /> In addition to park rangers leading tours and educational programs, a dedicated maintenance staff keeps the ponds, buildings and grounds in good repair. <br /> <br /> The Friends of Kenilworth Aquatic Gardens help the National Park Service in its mission. </p> <h3>Five Star Staff</h3> <p>Some of the first NPS staff at the park, such as Fred Lundy, were former Shaw Gardens employees. <br /> <br /> Local residents have also become influential rangers here. One being Walter McDowney, winner of the 1985 NPS Freeman Tilden Award for excellence in interpretation. <br /> <br /> Growing up, Walter, \"Ranger Mac\" to visitors, often explored these gardens on his own and through ranger-led activities. Then, in 1968, he was hired as one of the first African American national park rangers. He inspired everyone with his love of nature. </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.945736,
+          38.912232
+        ]
+      },
+      "properties": {
+        "name": "Kenilworth Aquatic Gardens: Under the Boardwalk",
+        "notes": "Kenilworth Aquatic Gardens: Under the Boardwalk\nhttps://www.nps.gov/places/000/kenilworth-aquatic-gardens-under-the-boardwalk.htm\n\n<p>For years local residents urged the city and federal government to improve the water quality in the Anacostia River. As a result, the Kenilworth Marsh Project was launched. Begun in 1992, over 32 acres of tidal wetland was regraded and planted with native vegitation. The wetlands foster a diversity of wildlife. The water from this marsh comes from the Anacostia River and feeds the aquatic garden ponds.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.944945,
+          38.91254
+        ]
+      },
+      "properties": {
+        "name": "Kenilworth Boardwalk access",
+        "notes": "Kenilworth Boardwalk access\nhttps://www.nps.gov/places/000/kenilworth-boardwalk-access.htm\n\n<p>The trail to your left leads to a boardwalk that extends over a tidal wetland. The boardwalk extends over three marsh zones: low, medium and high. The end of the boardwalk offers a panoramic view of the wetland and good bird watching.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.940195,
+          38.913158
+        ]
+      },
+      "properties": {
+        "name": "Kenilworth Park and Aquatic Gardens",
+        "notes": "Kenilworth Park and Aquatic Gardens\nhttps://www.nps.gov/places/000/kenilworth-park-and-aquatic-gardens.htm\n\n<p>Built in a tidal flat of the Anacostia River, Walter Shaw's lotus and lily ponds have drawn crowds since the 1800s. The park and its boardwalk are popular for nature hikes and photography, but never more so than during the lotus blooming season in July.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.942395,
+          38.912357
+        ]
+      },
+      "properties": {
+        "name": "Kenilworth Picnic area",
+        "notes": "Kenilworth Picnic area\nhttps://www.nps.gov/places/000/kenilworth-picnic-area.htm\n\n<p>The picnic area offers a nice respite from summer heat. Feel free to have a picnic lunch and enjoy the sites and sounds of the nearby aquatic garden from this location.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9466,
+          38.911525
+        ]
+      },
+      "properties": {
+        "name": "Kenilworth Viewing platform and Wayside",
+        "notes": "Kenilworth Viewing platform and Wayside\nhttps://www.nps.gov/places/000/kenilworth-viewing-platform-and-wayside.htm\n\n<p>Birds and Wetlands and Conservation! The wetlands in front of you have long been popular for bird watchers and hunters. A hundred years ago, the Anacostia River marshes were far more extensive than they are today. This habitat supports herons, egrets, swallows and various migratory birds. Overhunting and the draining of wetlands in the early 20th Century saw a decline in bird species in the area. Laws prohibiting the indiscriminate killing of birds and restoration of some tidal wetlands such as these have prompted a rebound of species.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.94177269935608,
+          38.91351769465903
+        ]
+      },
+      "properties": {
+        "name": "River Trail at Kenilworth Aquatic Gardens",
+        "notes": "River Trail at Kenilworth Aquatic Gardens\nhttps://www.nps.gov/places/river-trail-at-kenilworth-aquatic-gardens.htm\n\n<p>The Anacostia River trail is .25 miles long. Coming from the parking lot, at the right of the map, you can take the river trail to the top to bike along the Anacostia River or go counterclockwise around the park, which will be 1/2 a mile.</p>",
+        "icon": "red-pin-down.png"
+      }
+    }
+  ]
+}

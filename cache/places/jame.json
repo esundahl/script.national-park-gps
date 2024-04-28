@@ -1,0 +1,111 @@
+[
+  {
+    "id": "030970C5-FE56-4E9E-9F26-05A64CAF31FA",
+    "url": "https://www.nps.gov/places/glasshouse.htm",
+    "title": "Glasshouse",
+    "listingDescription": "",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/C125BEBF-FB5E-91A8-44C3F904813CD540.jpg",
+        "credit": "National Park Service",
+        "altText": "Jamestown Glasshouse",
+        "title": "Jamestown Glasshouse",
+        "description": "",
+        "caption": "Historic Jamestowne",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/C125BEBF-FB5E-91A8-44C3F904813CD540.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/C125BEBF-FB5E-91A8-44C3F904813CD540.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "VA",
+        "parkCode": "jame",
+        "designation": "Part of Colonial National Historical Park",
+        "fullName": "Historic Jamestowne Part of Colonial National Historical Park",
+        "url": "https://www.nps.gov/jame/index.htm",
+        "name": "Historic Jamestowne"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [
+      "Historic Jamestowne",
+      "colonial national historical park",
+      "#passport stamp"
+    ],
+    "latitude": "37.22110237319116",
+    "longitude": "-76.78416776678932",
+    "latLong": "37.22110237319116,-76.78416776678932",
+    "bodyText": "At \"glass point\" near Jamestown, the glass furnaces were re-discovered and excavated in 1948. Today, in a reconstructed, interpretive facility, glassblowing is again performed at Jamestown. Modern artisans, in reproductive clothing, produce common glass objects very much as they must have done almost 400 years ago.<br /> <br /> Visitors can see the remains of the original furnaces used by those early glassblowers and watch as modern glassblowers produce wine bottles, pitchers, candleholders and various other glass objects. Today's glass furnaces are heated by natural gas, rather than by wood as in 1608. Glassblowers, however, use tools and methods similar to those of the 17th century.Come witness what was surely one of England's first industries in North America. You will be mesmerized as artisans form glass into useful household products. Many of these treasures can be purchased through our sales outlet at the Glasshouse.",
+    "audioDescription": "At \"glass point\" near Jamestown, the glass furnaces were re-discovered and excavated in 1948. Today, in a reconstructed, interpretive facility, glassblowing is again performed at Jamestown. Modern artisans, in reproductive clothing, produce common glass objects very much as they must have done almost 400 years ago. Visitors can see the remains of the original furnaces used by those early glassblowers and watch as modern glassblowers produce wine bottles, pitchers, candleholders and various other glass objects. Today's glass furnaces are heated by natural gas, rather than by wood as in 1608. Glassblowers, however, use tools and methods similar to those of the 17th century. Come witness what was surely one of England's first industries in North America. You will be mesmerized as artisans form glass into useful household products. Many of these treasures can be purchased through our sales outlet at the Glasshouse.",
+    "isPassportStampLocation": "1",
+    "passportStampLocationDescription": "Passport Stamp is located in gift shop.",
+    "passportStampImages": [
+      {
+        "credit": "",
+        "description": "",
+        "crops": [
+          {
+            "aspectRatio": 1,
+            "url": "https://www.nps.gov/common/uploads/passport_stamps/primary/4D58FD5A-D765-3F70-A440A018A1197F8C.jpg"
+          }
+        ],
+        "altText": "Passport to Your National Parks",
+        "title": "Passport to Your National Parks",
+        "caption": "",
+        "url": "https://www.nps.gov/common/uploads/passport_stamps/4D58FD5A-D765-3F70-A440A018A1197F8C.jpg"
+      }
+    ],
+    "managedByUrl": "",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "",
+    "isManagedByNps": "1",
+    "amenities": [
+      "First Aid Kit Available",
+      "Food/Drink - Vending Machine/Self Service",
+      "Historical/Interpretive Information/Exhibits",
+      "Information",
+      "Information Kiosk/Bulletin Board",
+      "Parking - Auto",
+      "Parking - Bus/RV",
+      "Restroom",
+      "Restroom - Accessible",
+      "Toilet - Flush",
+      "Trash/Litter Receptacles",
+      "Water - Drinking/Potable",
+      "Wheelchair Accessible"
+    ],
+    "managedByOrg": "",
+    "quickFacts": [
+      {
+        "id": "5C252B96-2DEB-4EF4-91D1-B5D2B202FCD7",
+        "value": "Historic Jamestowne",
+        "name": "Location"
+      },
+      {
+        "id": "208F1B3C-44DC-4CF5-9A61-9B26A364D701",
+        "value": "Historical",
+        "name": "Significance"
+      },
+      {
+        "id": "E32D2136-A184-4C1A-91D2-4C20CEF9CBAF",
+        "value": "National Historical Park",
+        "name": "Designation"
+      }
+    ],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  }
+]

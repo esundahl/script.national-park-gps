@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.1759782988,
+          31.6067370775
+        ]
+      },
+      "properties": {
+        "name": "Waco Mammoth NM Amphitheater",
+        "notes": "Waco Mammoth NM Amphitheater\nhttps://www.nps.gov/places/waco-mammoth-nm-amphitheater.htm\n\nWaco Mammoth National Monument has a shaded, outdoor amphitheater when various programs take place throughout the year.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.1743258564,
+          31.6058447104
+        ]
+      },
+      "properties": {
+        "name": "Waco Mammoth National Monument Dig Shelter",
+        "notes": "Waco Mammoth National Monument Dig Shelter\nhttps://www.nps.gov/places/waco-mammoth-nm-dig-shelter.htm\n\nIn 1978, two men discovered an unusual bone in a ravine near the Bosque River. They took the find to Baylor University's Strecker Museum, where museum staff identified it as part of a Columbian mammoth. This now extinct species lived during the Pleistocene Epoch (more commonly known as the Ice Age) and inhabited North America from southern Cananda to as far south as Costa Rica.<br /> <br /> For the next 20 years staff, students, and volunteers excavated the Waco Mammoth Site. Their efforts uncovered a nursery herd that appeared to have drowned together in a single event between 65,000 and 72,000 years ago. The excavation also discovered the remains of additional mammoths and other Ice Age animals including a Western camel, saber-toothed cat, dwarf antelope, American alligator, and giant tortoise.<br /> <br /> While most of the excavated bones are now housed at Baylor University's Mayborn Museum, many exposed bones remain <em>in situ</em> (still in their original location). <br /> <br /> The climate-controlled Dig Shelter protects the in situ bones from the elements and features a suspended walkway that allows visitors an overhead view.<br /> <br /> <strong>Access is by guided tour only. Please start at the Welcome Center. A small fee is charged.</strong>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.1759400228,
+          31.6060209784
+        ]
+      },
+      "properties": {
+        "name": "Waco Mammoth National Monument Picnic Area",
+        "notes": "Waco Mammoth National Monument Picnic Area\nhttps://www.nps.gov/places/waco-mammoth-nm-picnic-area.htm\n\nA shaded picnic area is a perfect place for a break from the hot, Texas sun.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.1752964262123,
+          31.605527846067865
+        ]
+      },
+      "properties": {
+        "name": "Waco Mammoth National Monument Trailhead",
+        "notes": "Waco Mammoth National Monument Trailhead\nhttps://www.nps.gov/places/waco-mammoth-nm-trailhead.htm\n\n<p><strong>Five trails of varying length and difficulty start at the Trailhead.</strong><br /> <br /> Waco Mammoth National Monument is a new park, but its environment dates back thousands of years before the 1978 discovery of the Columbian Mammoth nursery herd. Within the park’s 108 acres, visitors can catch a glimpse of a Texas Ice Age that was not very cold, a habitat for numerous species such as roadrunners and raccoons, and a river that was used by Columbian mammoths, saber-toothed cats, and camels for thousands of years. The natural resources that exist in the park today are only a glimpse of a world that flourished with life during the Ice Age.<br /> <br /> Once visitors step onto the park’s hiking paths, each step takes them back in time. These easy paths will lead visitors past honey locust plants that were here during the ice age, a Texas Live Oak tree that is as old as America’s constitution, and few rambunctious roadrunners or elusive deer. If you want to enjoy nature, join a nature walk with one of our rangers or become a citizen scientist by creating an online inventory with the park’s iNaturalist application, <a href=\"https://www.inaturalist.org/projects/mammoth-trackers\">Mammoth Trackers</a>, and a <a href=\"https://www.nps.gov/waco/learn/nature/upload/WMNM-Adventure-Guide-Brochure.pdf\">nature journal.</a> <br /> <br /> <strong>Remember that central Texas can get very hot! Bring plenty of water, a good sun hat, and sunscreen.</strong></p>",
+        "icon": "red-pin-down.png"
+      }
+    }
+  ]
+}

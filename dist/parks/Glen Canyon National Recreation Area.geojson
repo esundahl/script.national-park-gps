@@ -1,0 +1,815 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.585472,
+          36.866859
+        ]
+      },
+      "properties": {
+        "name": "American Placer Corporation Office",
+        "notes": "American Placer Corporation Office\nhttps://www.nps.gov/places/american-placer-corporation-office.htm\n\n<h4>Headquarters of Charles H. Spencer’s gold mining company</h4> <p><em>Built 1911</em></p> <p><span style=\"color: rgb(70, 70, 70); font-family: arial, helvetica, sans-serif; font-size: 14px;\">First of Spencer’s eight stone buildings. Failing to recover gold, Spencer abandoned his mining outpost around 1912. Cowboys, miners, and travelers occasionally camped in the empty building. It briefly functioned as a post office in 1922, though no mail was sent or delivered.</span><br />  </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.43227240835256,
+          36.95375634599711
+        ]
+      },
+      "properties": {
+        "name": "Antelope Point Entrance Station",
+        "notes": "Antelope Point Entrance Station\nhttps://www.nps.gov/places/antelope-point-entrance-station.htm\n\n<h2>Welcome to Antelope Point Marina at Glen Canyon National Recreation Area</h2> <p>Antelope Point Holdings LLC Is an authorized Concessioner of the National Park Service Glen Canyon National Recreation Area and a Lessee of the Navajo Nation. From here you can drive down the access road to the pubic launch ramp and launch your own boat, or turn into the marina area for an RV park, gift shop, boat tours, boat rentals, a restaurant, and marina services. If you already have an entrance pass (boat Expanded Amenity Fee), just show it (your boat) to the attendant. If you need to purchase your weekly or choose to purchase an annual pass, you can do it here. A flagpole at the booth indicates whether there are people there. If there is no person in the booths to help, you can use the Automated Fee machine for all relevant passes.</p> <h2>Vessel Expanded Amenity Fee Rates</h2> <p>A Glen Canyon Weekly Pass allows use for one single private motorized vessel for 1-7 days.<br /> Additional private motorized vessels on the same trailer are charged according to length.<br /> A Glen Canyon Annual Pass allows use in Glen Canyon for one motorized vessel for one calendar year</p> <table border=\"1\"> <thead> <tr> <th scope=\"col\" style=\"border-color: rgb(0, 0, 0);\"> <h3>Vessel Length</h3> </th> <th scope=\"col\" style=\"border-color: rgb(0, 0, 0);\"> <h3>2024 Weekly Fee</h3> </th> <th scope=\"col\" style=\"border-color: rgb(0, 0, 0);\"> <h3>2024 Annual Fee</h3> </th> </tr> </thead> <tbody> <tr> <td style=\"border-color: rgb(0, 0, 0);\"> <p>Personal Water Craft (16 feet and below)</p> </td> <td style=\"border-color: rgb(0, 0, 0);\"> <p>$20.00</p> </td> <td style=\"border-color: rgb(0, 0, 0);\"> <p>$40.00</p> </td> </tr> <tr> <td style=\"border-color: rgb(0, 0, 0);\"> <p>26 feet and below</p> </td> <td style=\"border-color: rgb(0, 0, 0);\"> <p>$30.00</p> </td> <td style=\"border-color: rgb(0, 0, 0);\"> <p>$60.00</p> </td> </tr> <tr> <td style=\"border-color: rgb(0, 0, 0);\"> <p>27 - 40 feet</p> </td> <td style=\"border-color: rgb(0, 0, 0);\"> <p>$50.00</p> </td> <td style=\"border-color: rgb(0, 0, 0);\"> <p>$100.00</p> </td> </tr> <tr> <td style=\"border-color: rgb(0, 0, 0);\"> <p>41 - 60 feet</p> </td> <td style=\"border-color: rgb(0, 0, 0);\"> <p>$100.00</p> </td> <td style=\"border-color: rgb(0, 0, 0);\"> <p>$200.00</p> </td> </tr> <tr> <td style=\"border-color: rgb(0, 0, 0);\"> <p>61 - 80 feet</p> </td> <td style=\"border-color: rgb(0, 0, 0);\"> <p>$200.00</p> </td> <td style=\"border-color: rgb(0, 0, 0);\"> <p>$400.00</p> </td> </tr> <tr> <td style=\"border-color: rgb(0, 0, 0);\"> <p>81 - 100 feet</p> </td> <td style=\"border-color: rgb(0, 0, 0);\"> <p>$400.00</p> </td> <td style=\"border-color: rgb(0, 0, 0);\"> <p>$800.00</p> </td> </tr> <tr> <td style=\"border-color: rgb(0, 0, 0);\"> <p>Over 100 feet</p> </td> <td style=\"border-color: rgb(0, 0, 0);\"> <p>$800.00</p> </td> <td style=\"border-color: rgb(0, 0, 0);\"> <p>$1,600.00</p> </td> </tr> </tbody> </table> <p><br /> <br /> Please visit Antelope Point Marina's <a href=\"https://antelopepointlakepowell.com/marina-services/park-entrance-information/\">website</a> for more information about fees and passes.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.441974,
+          36.96641
+        ]
+      },
+      "properties": {
+        "name": "Antelope Point Public Launch Ramp",
+        "notes": "Antelope Point Public Launch Ramp\nhttps://www.nps.gov/places/antelope-point-public-launch-ramp.htm\n\n<h4>Antelope Point Launch Ramp, located near Antelope Point Marina, is open seasonally for you to launch your boat. Due to low water, this ramp is only available for non-motorized paddlecraft hand launching.</h4> <p><br /> The public launch ramp at the Antelope Point marina area. Put your boat on Lake Powell here. Large enough for multiple boats, to launch at the same time. Convenient launch for visitors who already own a houseboat at Antelope Point Marina to launch their other boats. The ramp is long and changes when the lake level changes. Prepare for a long walk back down the ramp after you park your boat trailer. Courtesy docks have a thirty minute time limit. Fuel docks and pumpout station just downstream of ramp. You can still hand launch non-motorized vessels when the ramp is closed to motorized launching. The ramp may also close for winter.<br /> <br /> All boats exiting Lake Powell must follow decontamination protocols to keep quagga mussels and other aquatic invasive species out of other bodies of water.<br /> <br /> Contact <a href=\"https://antelopepointlakepowell.com/marina-services/boat-yard/valet-boat-service/\">Antelope Point Marina</a> for information about their private valet launch ramp.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.632233,
+          36.84118
+        ]
+      },
+      "properties": {
+        "name": "Balanced Rock at Lees Ferry",
+        "notes": "Balanced Rock at Lees Ferry\nhttps://www.nps.gov/places/balanced-rock-at-lees-ferry.htm\n\n<h4> </h4> Thousands of years ago a huge rock boulder broke from the cliff above and tumbled to a stop here. The hard conglomerate boulder compressed the softer dirt directly beneath, making it resistant to erosion. The boulder also acted as a massive umbrella, protecting the stone beneath from years of wind and rain. Over time, at least 6 feet (2.8 m) of the surrounding loose ground was carried away, leaving an ever-growing pedestal with a balanced rock perched on top. You can see this process taking place under many rocks in the area. At some point, the sheltering boulder may become too much weight for its pedestal, toppling and taking another fateful tumble.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.50242427040214,
+          36.936650453818615
+        ]
+      },
+      "properties": {
+        "name": "Beehives Trailhead",
+        "notes": "Beehives Trailhead\nhttps://www.nps.gov/places/beehives-trailhead.htm\n\n<p><strong>Distance Varies<br /> Easy</strong><br /> <br /> Explore the area across from the Wahweap Entrance road for a self-guided adventure through slickrock sand formations. Watch your step, fragile rock shelves underfoot.<br /> <br /> <strong>Trailhead: </strong>Parking to explore this area is reached near the Beehives Campground. From US Hwy 89 north of Carl Hayden Visitor Center, turn let onto dirt road 1/4 mile before the turnoff to Wahweap South Entrance. Drive past the Beehives campground to the designated parking area for Beehive area hikes</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.70507775922822,
+          37.5355391217001
+        ]
+      },
+      "properties": {
+        "name": "Bullfrog Entrance Station",
+        "notes": "Bullfrog Entrance Station\nhttps://www.nps.gov/places/bf-entrance.htm\n\n<h2>Welcome to Glen Canyon National Recreation Area</h2> <p>Bullfrog Entrance is the gateway to the Bullfrog Marina at the upper end of Lake Powell. From here you can drive down the scenic road to Defiance House Lodge, launch your own boat, or just come enjoy the views. If you already have an entrance pass (Vessel Expanded Amenity Fee pass), just show it (your boat's sticker) to the attendant. If you need to purchase your weekly or choose to purchase an annual pass, you can do it here. A flagpole at the first booth indicates whether there are people there. If there is no person in the booths to help, you can use the Automated Fee machine for all relevant passes.<br /> <br /> Visit our Fees & Passes page or the Fees tab on the NPS App for entrance fee information.</p> <h2>Vessel Expanded Amenity Fee Rates</h2> <p>A Glen Canyon Weekly Pass allows use for one single private motorized vessel for 1-7 days.<br /> Additional private motorized vessels on the same trailer are charged according to length.<br /> A Glen Canyon Annual Pass allows use in Glen Canyon for one motorized vessel for one calendar year</p> <table border=\"1\"> <thead> <tr> <th scope=\"col\"> <h3>Vessel Length</h3> </th> <th scope=\"col\"> <h3>2024 Weekly Fee</h3> </th> <th scope=\"col\"> <h3>2024 Annual Fee</h3> </th> </tr> </thead> <tbody> <tr> <td> <p>Personal Water Craft (16 feet and below)</p> </td> <td> <p>$20.00</p> </td> <td> <p>$40.00</p> </td> </tr> <tr> <td> <p>26 feet and below</p> </td> <td> <p>$30.00</p> </td> <td> <p>$60.00</p> </td> </tr> <tr> <td> <p>27 - 40 feet</p> </td> <td> <p>$50.00</p> </td> <td> <p>$100.00</p> </td> </tr> <tr> <td> <p>41 - 60 feet</p> </td> <td> <p>$100.00</p> </td> <td> <p>$200.00</p> </td> </tr> <tr> <td> <p>61 - 80 feet</p> </td> <td> <p>$200.00</p> </td> <td> <p>$400.00</p> </td> </tr> <tr> <td> <p>81 - 100 feet</p> </td> <td> <p>$400.00</p> </td> <td> <p>$800.00</p> </td> </tr> <tr> <td> <p>Over 100 feet</p> </td> <td> <p>$800.00</p> </td> <td> <p>$1,600.00</p> </td> </tr> </tbody> </table>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.73088161631034,
+          37.51459269732414
+        ]
+      },
+      "properties": {
+        "name": "Bullfrog Main Launch Ramp",
+        "notes": "Bullfrog Main Launch Ramp\nhttps://www.nps.gov/places/bullfrog-main-launch-ramp.htm\n\n<h4>Bullfrog Main launch ramp, located near the Defiance House Lodge at Bullfrog. This ramp is inoperable for launching due to lake level. A spur ramp off the side of this ramp is available for vessles less than 25' long.</h4> <p><br /> The main launch ramp in the Bullfrog Marina area. Put your boat on Lake Powell here. Large enough for multiple boats, including houseboats, to launch at the same time. The ramp is long and changes when the lake level changes. Prepare for a long walk back down the ramp after you park your boat trailer. Courtesy docks have a thirty minute time limit. Fuel docks and pumpout station just downstream of ramp. 14-day parking is at the top of the ramp.</p> <p><br /> All boats exiting Lake Powell must follow decontamination protocols to keep quagga mussels and other aquatic invasive species out of other bodies of water. Check your home state's regulations. Always Clean, Drain, and Dry your vessel and gear.<br /> <br /> Check ramp conditions before you arrive on our <a href=\"https://www.nps.gov/glca/learn/changing-lake-levels.htm\">Low Water Webpage</a>.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.74411017,
+          37.519160004
+        ]
+      },
+      "properties": {
+        "name": "Bullfrog North Launch Ramp",
+        "notes": "Bullfrog North Launch Ramp\nhttps://www.nps.gov/places/bullfrog-north-launch-ramp.htm\n\n<h4>Bullfrog North launch ramp, located north or the Boat rentals dock at Bullfrog, is open to launch your boat when Bullfrog Main ramp closes. This ramp is available to small vessels with the use of boilerplate extensions, and the left lane is operable to large vessels, including houseboats, at 3529 ft.</h4> <p><br /> An auxilary launch ramp in the Bullfrog Marina area. Put your boat on Lake Powell here when the Bullfrog Main ramp is closed. Only large enough for two lanes of boats, including houseboats, to launch at the same time. The ramp is long and changes when the lake level changes. It is operable for smaller motorized vessels when the lake level is at 3525' or above. The left lane is operable to large vessels, including houseboats, at 3529'. Prepare for a long walk back down the ramp after you park your boat trailer. Courtesy docks have a thirty minute time limit. Fuel docks and pumpout station just downstream of ramp. 14-day parking is at the top of the ramp.<br /> <br /> All boats exiting Lake Powell must follow decontamination protocols to keep quagga mussels and other aquatic invasive species out of other bodies of water. Check your home state's regulations. Always Clean, Drain, and Dry your vessel and gear.<br /> <br /> Check ramp conditions before you arrive on our <a href=\"https://www.nps.gov/glca/learn/changing-lake-levels.htm\">Low Water Webpage</a>.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.640212,
+          36.833756
+        ]
+      },
+      "properties": {
+        "name": "Cathedral Wash at Lees Ferry",
+        "notes": "Cathedral Wash at Lees Ferry\nhttps://www.nps.gov/places/cathedral-wash-at-lees-ferry.htm\n\n<p><strong>Distance: 3 miles (4.8 km) round-trip<br /> Moderate</strong><br /> <br /> Canyon walls rise as you follow a mostly dry wash to the Colorado River. This adventure has no major technical challenges, but scrambling and careful decision-making are needed to choose safe routes over ledges and dropoffs. Named after church-like Cathedral Rock at the head of this small canyon, your journey will take you deeper and deeper through Kaibab Limestone and Toroweap Formations until ending at the river, where canyon debris created Cathedral Wash Rapid.  <br /> <br /> Some rock scrambling and wayfinding required. Do not hike when there is a potential for flash flooding. Bring plenty of water and avoid hiking during the hottest part of the day. <br /> <br /> <strong>Trailhead:</strong> Follow the Lees Ferry access road 1.3 miles (2.1 km). The trailhead is at the pull out on your left. You can access both upper and lower Cathedral Wash from this parking area. No overnight parking.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.477206744,
+          36.9239908085
+        ]
+      },
+      "properties": {
+        "name": "Dam Overlook Trailhead",
+        "notes": "Dam Overlook Trailhead\nhttps://www.nps.gov/places/dam-overlook-trailhead.htm\n\n<p><strong>Distance: 940 feet (286 m)<br /> Easy</strong><br /> <br /> This very short walk takes you to a viewpoint on the canyon rim high above the Colorado River. It affords an unparalleled view of the river, the canyon, and Glen Canyon Dam. This scenic view provides spectacular vistas of the Colorado River as it flows through Glen Canyon and of Glen Canyon Dam itself. From the parking area, follow the metal handrail down the uneven rock steps. <br /> <br /> <strong>Trailhead: </strong>From U.S. Hwy. 89, turn west on Scenic View Drive, 1.5 miles (2.4 km) south of Carl Hayden Visitor Center. Take the first road to the right, and park in the parking area at the end of the road. (You may also access Scenic View Drive just south of the Park Headquarters building.) <br /> <br /> Please note: The guard rails are there for your safety. Please do not climb on the walls or on the rocks.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.595916,
+          36.868434
+        ]
+      },
+      "properties": {
+        "name": "Founding Family",
+        "notes": "Founding Family\nhttps://www.nps.gov/places/founding-family.htm\n\n<h4><strong>1872</strong></h4> <p>Sent by their church, John D. Lee and wife Emma established the river ferry and ranch. Living in a small cabin, they shuttled wagon trains and travelers across the Colorado River on makeshift ferry boats and skiffs. The river crossing solidified as a key rustic outpost during the Great Mormon Migration and settlement of Arizona. It also provided a veil over Lee, who arrived at the ranch a fugitive for his involvement in the Mountain Meadows Massacre (1857) Lee’s frequent absences left Emma to become the driving force behind all operations. The aw eventually caught up with Lee in 1874. His execution in 1877 left behind 19 wives and more than 50 children. Emma continued on at Lonely Dell until 1889, sold the property, and left. More families would follow, serving their church as they maintained the crucial link on the migration trail. </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.71324442,
+          37.4547057769
+        ]
+      },
+      "properties": {
+        "name": "Halls Crossing Entrance Station",
+        "notes": "Halls Crossing Entrance Station\nhttps://www.nps.gov/places/hx-entrance.htm\n\n<h2>Welcome to Glen Canyon National Recreation Area</h2> <p>Halls Crossing Entrance is the gateway to the Halls Crossing Marina at the upper end of Lake Powell. From here you can drive down to the campground and enjoy the views. Due to changing lake levels, the launch ramp may be inoperable, but if you already have a boat on the lake at the Halls Crossing Marina, you can still access it. If you already have an entrance pass (boat Expanded Amenity Fee pass), just show it (your boat) to the attendant. If you need to purchase your weekly or choose to purchase an annual pass, you can do it here. A flagpole at the booth indicates whether there are people there. If there is no person in the booth to help, you can use the Automated Fee machine for all relevant passes.</p> <p>Visit our Fees & Passes page or the Fees tab on the NPS App for entrance fee information.</p> <h2>Vessel Expanded Amenity Fee Rates</h2> <p>A Glen Canyon Weekly Pass allows use for one single private motorized vessel for 1-7 days.<br /> Additional private motorized vessels on the same trailer are charged according to length.<br /> A Glen Canyon Annual Pass allows use in Glen Canyon for one motorized vessel for one calendar year</p> <table border=\"1\"> <thead> <tr> <th scope=\"col\"> <h3>Vessel Length</h3> </th> <th scope=\"col\"> <h3>2024 Weekly Fee</h3> </th> <th scope=\"col\"> <h3>2024 Annual Fee</h3> </th> </tr> </thead> <tbody> <tr> <td> <p>Personal Water Craft (16 feet and below)</p> </td> <td> <p>$20.00</p> </td> <td> <p>$40.00</p> </td> </tr> <tr> <td> <p>26 feet and below</p> </td> <td> <p>$30.00</p> </td> <td> <p>$60.00</p> </td> </tr> <tr> <td> <p>27 - 40 feet</p> </td> <td> <p>$50.00</p> </td> <td> <p>$100.00</p> </td> </tr> <tr> <td> <p>41 - 60 feet</p> </td> <td> <p>$100.00</p> </td> <td> <p>$200.00</p> </td> </tr> <tr> <td> <p>61 - 80 feet</p> </td> <td> <p>$200.00</p> </td> <td> <p>$400.00</p> </td> </tr> <tr> <td> <p>81 - 100 feet</p> </td> <td> <p>$400.00</p> </td> <td> <p>$800.00</p> </td> </tr> <tr> <td> <p>Over 100 feet</p> </td> <td> <p>$800.00</p> </td> <td> <p>$1,600.00</p> </td> </tr> </tbody> </table>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.717662397,
+          37.4642945248
+        ]
+      },
+      "properties": {
+        "name": "Halls Crossing Launch Ramp",
+        "notes": "Halls Crossing Launch Ramp\nhttps://www.nps.gov/places/halls-crossing-launch-ramp.htm\n\n<h4>Halls Crossing launch ramp, located at the Halls Crossing Marina, Hwy 276, Lake Powell, Utah, is open to launch your boat year-round. This ramp is available for all vessel launching.</h4> <p><br /> The main launch ramp in the Halls Crossing Marina area. Put your boat on Lake Powell here. Large enough for multiple boats, including houseboats, to launch at the same time. The ramp is long and changes when the lake level changes. Prepare for a long walk back down the ramp after you park your boat trailer. Courtesy docks have a thirty minute time limit. Fuel docks and pumpout station just upstream of ramp. 14-day parking is at the top of the ramp.<br /> <br /> All boats exiting Lake Powell must follow decontamination protocols to keep quagga mussels and other aquatic invasive species out of other bodies of water. Check your home state's regulations. Always Clean, Drain, and Dry your vessel and gear.<br /> Check ramp conditions before you arrive on our <a href=\"https://www.nps.gov/glca/learn/changing-lake-levels.htm\">Low Water Webpage</a>.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.47603133583924,
+          36.93713068383571
+        ]
+      },
+      "properties": {
+        "name": "Hanging Garden Trailhead",
+        "notes": "Hanging Garden Trailhead\nhttps://www.nps.gov/places/glen-canyon-hanging-garden-trailhead.htm\n\n<p><strong>Distance:</strong> <strong>1 mile (1.6 km) round-trip<br /> Easy to Moderate</strong><br /> <br /> This hike leads you to a luxuriant Hanging Garden on a mesa high above Lake Powell. Securely hidden by Jurassic Navajo sandstone, this seep spring quickly takes hostage every drop of rainwater it can absorb. Slowly it liberates this water over time to create a surprisingly lush plant and animal habitat that delights and surprises those who discover it. The desert is astonishingly subtle and delicate. If you walk quietly, you will see and hear more. It can refresh observations and awaken inactive senses with each step you take.<br /> <br /> <strong>Trailhead: </strong>The turn-off is 1/4 mile (0.4 km) east of Glen Canyon Bridge (the opposite side of the bridge from Carl Hayden Visitor Center) on Highway 89. Trailhead parking is 500 yards (455 m) off of Highway 89.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.5853282,
+          36.8665022
+        ]
+      },
+      "properties": {
+        "name": "Historic District River Trail",
+        "notes": "Historic District River Trail\nhttps://www.nps.gov/places/historic-district-river-trail.htm\n\n<h4>Throughout the 1800 and 1900s, Lees Ferry was backdrop to a mix of Westward expansion dreams and failed schemes.</h4> <p>Because of its strategic location along the Colorado River, unlikely groups overlapped on these shores. Miners, traders, U.S. government scientist, Church elders, and the occasional outlaw shared the trials of frontier life here. Walk the River Trail to glimpse the myriad people and purposes that left a mark on Lees Ferry.</p>   <p><strong>Great Expectations</strong><br /> <span style=\"color: rgb(70, 70, 70); font-family: arial, helvetica, sans-serif; font-size: 14px;\">Prospector Charles H. Spencer made an outsized impact on Lees Ferry in his short time here. A better salesman than miner, Spencer never succeeded in extracting minerals the way he succeeded in exciting investors. When he staked his claim at Lees Ferry, financial investors and hardworking miners when along for the ride, but never struck it rich with Charlie.</span><br />  </p> <h4>Historic District River Trail Information: </h4> <p><strong>Distance: 2 miles ( 3.2 km) round-trip<br /> Easy</strong></p> <p><font color=\"#464646\" face=\"arial, helvetica, sans-serif\"><span style=\"font-size: 14px;\">The</span></font> self-guided walking tour follows the trail along the river front of Lees Ferry. Starting near the gravel parking lot by the boat ramp, walk alongside old stone buildings that line the once busy river crossing area. Mix of gravel to rocky to sandy terrain with no shade. Practice caution during extreme heat and avoid hiking during the warmest part of the day. Bring plenty of water. </p> <p>Do not remove any natural or cultural objects from the park including fossils, rocks, animals, plants and artifacts. <br /> <br /> <strong>Trailhead</strong>: Follow the Lees Ferry access road 5.8 miles (9.3 km) to the boat launch. A gravel parking lot at the end of the paved area will give you access to the start of the historic district. No overnight parking.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.510009542,
+          36.878941871
+        ]
+      },
+      "properties": {
+        "name": "Horseshoe Bend on the Colorado River",
+        "notes": "Horseshoe Bend on the Colorado River\nhttps://www.nps.gov/places/hsb.htm\n\n<p>A social media darling, Horseshoe Bend has become one of the most recognized and visited places in Glen Canyon National Recreation Area. The parking lot and trailhead is located off US Highway 89, approximately 5 miles (8 km) south of the Carl Hayden Visitor Center.<br />  </p> <p>Changes are underway in this busy and beautiful place, including expanded parking and trail maintenance. Please respect construction closures. Much of the rim remains exposed, so watch your footing and keep track of children.</p> <h2>Hiking</h2> <p>The hike to the overlook is 1.5 miles (2.4 km) round-trip over a hardened path. The trail is accessible under the regulations of the Americans with Disabilities Act. There are two shade strctures along the length of the trail, but not at the overlook. There are railings at the edge of the overlook's viewing platform, but not along the trail.</p> <p>As with any hike, be prepared with plenty of water, sturdy footwear, sunscreen, and other basic hiking essentials. Know that there is little shade along the Horseshoe Bend Trail. Avoid hiking during the hottest part of the day.</p> <h2>Where Am I?</h2> <p>Horseshoe Bend has been featured as a landmark for Glen Canyon National Recreation Area, Grand Canyon National Park, the Cities of Page AZ, Kanab UT, St George UT, and the Navajo Nation. Boundary lines are very close in some places. Horseshoe Bend itself, and that part of the Colorado River, are a part of Glen Canyon National Recreation Area. About nine miles downstream is where Grand Canyon National Park begins. US Highway 89, the land north of the trail to the Horseshoe Bend overlook, and the parking area for the trailhead are in the City of Page. The land south of the parking area and the trail and overlook are on the Navajo Nation. This mixture of jurisdictions provides a unique opportunity in the management of this magnificent trail and overlook.</p> <h2>An Entrenched Meander</h2> <p>Below the rim, the Colorado River makes a wide sweep around a sandstone escarpment. On its long downward journey to the sea, the river meandered, sometimes making wide bends, but always seeking the path of least resistance. Around 5 million years ago, the Colorado Plateau uplifted and the meandering rivers that crossed the ancient landscape were trapped in their beds. Over time, the rivers cut through the uplifted layers of sandstone.</p> <p>Here at Horseshoe Bend, the Colorado River created a roughly 1,000 ft (305 m) deep, 270º horseshoe-shaped bend in Glen Canyon.</p> <h2>Parking Fees</h2> <p and=\"\" area=\"\" bend=\"\" by=\"\" canyon=\"\" city=\"\" glen=\"\" horseshoe=\"\" in=\"\" is=\"\" located=\"\" lot=\"\" managed=\"\" national=\"\" of=\"\" page.=\"\" park=\"\" parking=\"\" recreation=\"\" service.=\"\" the=\"\" within=\"\">Horseshoe Bend itself is in the park, but the parking lot is on city land. The <a href=\"https://cityofpage.org/hsb\">City of Page</a> requires visitors to pay for parking at the Horseshoe Bend trailhead. National Park Service passes do not apply for the parking lot. Contact the City of Page for questions about the parking at Horseshoe Bend at their website <a href=\"https://cityofpage.org/hsb\">here</a>. <br /> <br /> PLEASE NOTE: On Holidays and busy weekends, the City of Page may require all visitors to use a shuttle to visit once the parking lot is full. Check with them if you plan to visit during busy times.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.595782,
+          36.868434
+        ]
+      },
+      "properties": {
+        "name": "Irrigation",
+        "notes": "Irrigation\nhttps://www.nps.gov/places/irrigation.htm\n\n<h4><strong>1872</strong></h4> <p>Every Lonely Dell family struggled to water their fields through various dams, tunnels, and hand-dug ditches. The Paria River’s muddy flows and unpredictable floods caused problems, but ferryman Warren Johnson worked tirelessly to grow crops and food for his family. Constant rebuilding and digging meant tremendous labor, but the payoff of 100 tons of hay each year was worth it. Later owners added flagstone to the mile-long ditch for stability. Today water is pumped from the Colorado River.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.580503,
+          36.865776
+        ]
+      },
+      "properties": {
+        "name": "Lee's Backbone",
+        "notes": "Lee's Backbone\nhttps://www.nps.gov/places/lee-s-backbone.htm\n\n<strong>Rough, angled rock ledge on opposite river bank</strong>.<br /> <br /> Until 1899, many pioneers crossed the river near present-day boat dock, necessitating a harrowing wagon ride either up or down the unforgiving rock ledge know as “Lee’s Backbone\".In 1960 long dugway or rough-cut road, later allowed travelers to avoid Lee’s backbone. The road is still visible across the river.<br /> <br /> Formed 225 million years ago. During the Late Triassic, a slow, meandering river laid down sand and rocks that were cemented into the hard Shinarump conglomerate.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.587078024,
+          36.8660083751
+        ]
+      },
+      "properties": {
+        "name": "Lees Ferry Boat Launch",
+        "notes": "Lees Ferry Boat Launch\nhttps://www.nps.gov/places/lees-ferry-boat-launch.htm\n\n<h2>Access to the Colorado River below Glen Canyon Dam</h2> <p><br /> Follow the entrance road at Lees Ferry all the way to the end to access this boat launch. Here you will find yourself at the end of Glen Canyon National Recreation Area and the beginning of Grand Canyon National Park. Wear a life jacket on the river.<br /> <br /> <b>Upstream: </b>15 miles (24 km) of smooth water open to boaters between Lees Ferry and Glen Canyon Dam.<br /> <br /> <b>Downstream: </b>Restricted waters. Do not boat below the cable downstream from the Lees Ferry launch ramp without a permit.<br /> <br /> The launch ramp at Lees Ferry is divided into the gravel section downstream for loading and launching downriver trips, and the paved section upstream for all upstream use. All river users need to be able to access these ramps in a timely manner for their intended purpose, so it is important not to block the paved section. Ready your boats and kayaks before you launch. Personal Watercraft (PWC)(those small vessels with inboard engines that one usually sits upon that have brand names like Jetski and SeaDoo) are not permitted on the Colorado River between Glen Canyon Dam and the boundary with Grand Canyon National Park.<br /> <br /> <b>Clean. Drain. Dry. </b>All boaters, paddlers, and fishermen must clean, drain, and dry equipment after contact with these waters to prevent the spread of aquatic invasive species.<br /> <br /> Check out the <a href=\"javascript:HandleLink(\">Paria Overlook webcam </a>for current conditions of the area. <br /> <br /> <br /> <b>River Recreation Fishing</b></p> • Arizona fishing license required. Youth under 10 years old may fish without a license.<br /> • Use only artificial flies and lures with barbless hooks.<br /> • Adhere to possession limits established by state law.<br /> • Check for up to day information regarding the <a href=\"https://www.nps.gov/glca/planyourvisit/brown-trout-harvest.htm\">Brown Trout Incentivized Harvest</a> program before heading out to the river. <br /> <br />  ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.635661212,
+          36.8250389707
+        ]
+      },
+      "properties": {
+        "name": "Lees Ferry Entrance Station",
+        "notes": "Lees Ferry Entrance Station\nhttps://www.nps.gov/places/lf-entrance.htm\n\n<h2>Welcome to Glen Canyon National Recreation Area</h2> <p>Lees Ferry is located off US Hwy 89A, about 45 miles south of Page AZ. At Marble Canyon, turn off onto the Lees Ferry Road, and in about half a mile stop at the Entrance Station. Use the automated fee machine for your entrance fee and all relevant passes. No cash, the machine accepts cards only.</p> <p>Lees Ferry is the only place within Glen Canyon where visitors can drive to the Colorado River in over 700 miles of canyon country, right up to the first rapid in the Grand Canyon. A natural corridor between Utah and Arizona, Lees Ferry figured prominently in the exploration and settlement of northern Arizona. Lees Ferry is now a meeting of the old and the new.</p> <p>Here at the very start of the Grand Canyon, adventurous river runners launch their boats for trips down the canyon. Fishermen enjoy world-class trout fishing upstream to Glen Canyon Dam. Backpackers finish their 4 or 5 day hike through the Paria Canyon Wilderness Area here. Hikers can explore canyons and desert ridges.</p> <h2>Vessel Expanded Amenity Fee Rates</h2> <p>A Glen Canyon Weekly Pass allows use for one single private motorized vessel for 1-7 days.<br /> Additional private motorized vessels on the same trailer are charged according to length.<br /> A Glen Canyon Annual Pass allows use in Glen Canyon for one motorized vessel for one calendar year</p> <table border=\"1\"> <thead> <tr> <th scope=\"col\"> <h3>Vessel Length</h3> </th> <th scope=\"col\"> <h3>2024 Weekly Fee</h3> </th> <th scope=\"col\"> <h3>2024 Annual Fee</h3> </th> </tr> </thead> <tbody> <tr> <td> <p>Personal Water Craft (16 feet and below)</p> </td> <td> <p>$20.00</p> </td> <td> <p>$40.00</p> </td> </tr> <tr> <td> <p>26 feet and below</p> </td> <td> <p>$30.00</p> </td> <td> <p>$60.00</p> </td> </tr> <tr> <td> <p>27 - 40 feet</p> </td> <td> <p>$50.00</p> </td> <td> <p>$100.00</p> </td> </tr> <tr> <td> <p>41 - 60 feet</p> </td> <td> <p>$100.00</p> </td> <td> <p>$200.00</p> </td> </tr> <tr> <td> <p>61 - 80 feet</p> </td> <td> <p>$200.00</p> </td> <td> <p>$400.00</p> </td> </tr> <tr> <td> <p>81 - 100 feet</p> </td> <td> <p>$400.00</p> </td> <td> <p>$800.00</p> </td> </tr> <tr> <td> <p>Over 100 feet</p> </td> <td> <p>$800.00</p> </td> <td> <p>$1,600.00</p> </td> </tr> </tbody> </table> <h2>Lees Ferry Campground</h2> <ul> <li> <p>$20 per site per night. No reservations. Pay at campground.</p> </li> <li>54 designated sites. No hookups. RV dump station available seasonally.</li> <li>Modern bathroom/comfort station, potable water available. Grills, tables provided, no open fires.</li> </ul> <p>Please visit our <a href=\"https://www.nps.gov/glca/planyourvisit/fees.htm\">website</a> or the Fees tab on the NPS App for more information about fees and passes.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.585116,
+          36.866835
+        ]
+      },
+      "properties": {
+        "name": "Lees Ferry Fort",
+        "notes": "Lees Ferry Fort\nhttps://www.nps.gov/places/lees-ferry-fort.htm\n\n<h4>Assert control of the river crossing during tensions between missionaries and tribes.</h4> <em>Built Summer 1874</em><br /> <br /> The fort was never attacked, but welcomed travelers as a short-lived trading post. In 1911, miners expanded the building to use briefly as a crew mess hall. Though the 1930s, it mainly served as a home for various ferry families, USGS employees, and passing travelers.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.556440816,
+          37.0147660278
+        ]
+      },
+      "properties": {
+        "name": "Lone Rock Beach Entrance Station",
+        "notes": "Lone Rock Beach Entrance Station\nhttps://www.nps.gov/places/lr-beach-entrance-station.htm\n\n<h2>Welcome to Glen Canyon National Recreation Area</h2> <p>Lone Rock Beach Entrance Station is near the Utah-Arizona border at Greenehaven AZ. This entrance only leads to Lone Rock Beach a day use and primitive camping area with beach access. If you already have an entrance pass (boat Expanded Amenity Fee pass), just show it (your boat) to the attendant. If you need to purchase your weekly or choose to purchase an annual pass, you can do it here. If you plan to stay overnight, pay your camping fees now as well. A flagpole at the booth indicates whether there are rangers there. If there is no person in the booths to help, you can use the Automated Fee machine for all relevant passes.</p> <h2><br /> Entrance Fees - Weekly</h2> <p>1-7 Day Vehicle Entrance - $30.00<br /> Admits one single, private, non-commercial vehicle and all its passengers</p> <p>1-7 Day Motorcycle Entrance - $25.00<br /> Admits one single, private, non-commercial motorcycle and its riders.</p> <p>1-7 Day Individual Entrance - $15.00<br /> Admits one individual when entering on foot or bicycle. Individuals 15 years of age and younger are admitted free.</p> <h2>Vessel Expanded Amenity Fee - Weekly</h2> <p>1-7 Day Boating Expanded Amenity Fee - $30.00<br /> Admits one single private vessel. If a Senior Pass is presented at time of purchase, the boat entrance fee is $15.00 and good for 1-7 Days.</p> <p>1-7 Day Boating Expanded Amenity Fee additional vessel - $30.00<br /> Admits one single private vessel on the same trailer as a vessel paying full entry fees</p> <h2>Lone Rock Beach</h2> <ul> <li> <p>$14 per night per vehicle</p> </li> <li> <p>No reservations: Sites are first come, first served</p> </li> <li> <p>Cost of park admission is not included in the camping fee</p> </li> <li> <p>Beach camping area</p> </li> <li> <p>Facilities may be closed in the off season</p> </li> </ul> <p><br /> <br /> Please visit our <a href=\"https://www.nps.gov/glca/planyourvisit/fees.htm\">website</a> for more information about fees and passes.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.595318,
+          36.867116
+        ]
+      },
+      "properties": {
+        "name": "Lonely Dell Ranch Historic Site",
+        "notes": "Lonely Dell Ranch Historic Site\nhttps://www.nps.gov/places/lonely-dell-ranch-historic-site.htm\n\n<p>To the pioneer missionary, it was an isolated settlement offering small comfort during the Great Mormon Migration deep into Arizona. To the families who lived here, the ranch was the centerpiece of daily life where hard work was required to tame and survive the rugged yet beautiful desert. For some it offered employment in a hardscrabble setting, and for later owners it promised rustic peace and quiet. Today, Lonely Dell Ranch still serves its main purpose as a place for the traveler to rest a while, enjoy variety of nature, and bask in the shade of the trees.</p> <p> <b>A Homesteading Mission </b><br /> Jacob Hamblin, a Mormon missionary sent by The Church of Jesus Christ of Latter-Day Saints, successfully crossed the Colorado River near here in 1864. Seeing its importance in the settlement of Arizona, Hamblin recommended his church establish a river crossing. Over the years three Mormon families, the Lees, Johnsons and Emetts, sent here to homestead and work the busy river crossing known as Lees Ferry.<br /> <br />  </p> <h4>Lonely Dell Guided Hike Information: </h4> <p><strong>Distance: 1 miles ( 1.6 km) round-trip<br /> Easy</strong></p> <h4>Lonely Dell Guided Hike</h4> <p>The self-guided walking tour follows an improved dirt road leading back to the ranch and orchard with two uneven dirt trails leading to the ranch buildings and grassy picnic area. Walk among the fruit trees and pick what is in season. Watch your step, as hand dug irrigation channels help bring water to the orchard. Take care in extreme temperatures, and avoid hiking during the hottest parts of the day. Bring plenty of water. Be flash flood aware if you continue hiking up the Paria River Trail.  Pets allowed on trails. Keep on leash, no longer that 6 ft (1.6 m)<br /> <br /> Do not remove any natural or cultural objects from the park including fossils, rocks, animals, plants and artifacts. </p> <p><span style=\"color: rgb(34, 34, 34); font-family: inherit; font-size: 1.25rem; font-weight: 700;\">Lonely Dell Orchard</span></p> <p>Walk among the fruit trees in the orchard and search for a ripe snack. Collection of fruit at Lonely Dell Ranch Orchard is permitted for personal consumption only and not for purposes of sale or exchange. Fruit collected at Lonely Dell Ranch Orchard shall not exceed 5 gallons per person per day.<br /> <br /> <strong>Trailhead: </strong>Follow the Lees Ferry access road approximately 5.1 miles (8.2 km). On the left a gravel roads leads you back to a small parking area at the start of the ranch. Take a walk through the gate to the orchard, ranch, and cemetery beyond. No overnight parking.<br />  </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.595592,
+          36.86895
+        ]
+      },
+      "properties": {
+        "name": "Lonely Dell Root Cellar",
+        "notes": "Lonely Dell Root Cellar\nhttps://www.nps.gov/places/lonely-dell-root-cellar.htm\n\n<h4><strong>1878</strong></h4> <p>Flagstone walls and a roof made from earth, this partially dugout building was common on most pioneer farms and ranches. Before modern electric appliances, the cellar acted as a refrigerator to keep vegetables from freezing in the winter, butter and cheese from spoiling in the summer, and provided workers a place to hide from the hot sun. While the exact date of this cellar remains unknown, the location and materials place it within the time period of the newly completed Johnson family home.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.583121,
+          36.866482
+        ]
+      },
+      "properties": {
+        "name": "Mining the Chinle Shale",
+        "notes": "Mining the Chinle Shale\nhttps://www.nps.gov/places/mining-the-chinle-shale.htm\n\n<h4>Charles clay. Spencer. Spencer’s second gold mining site</h4> <em>1910-11</em><br /> <br /> Spencer moved the boiler here to extract gold from the colorful hills before you. He blasted water at the cliffs in high pressure hoses, washing sediments down a wooden flume to an amalgamator. This experiment failed too, as the gold could not be efficiently separated from the clay. Spencer used an amalgamator reliant on mercury to pull gold from the clay. Test recovered a little gold, but also some other metal, exhausting the mercury supply. Years later the mystery substance was identified as rhenium- now valuable, but useless at the time.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.63167787700002,
+          36.817783415
+        ]
+      },
+      "properties": {
+        "name": "Navajo Bridge",
+        "notes": "Navajo Bridge\nhttps://www.nps.gov/places/navajo-bridge.htm\n\n<p>Those traveling across the country on Highway 89A between Bitter Springs and Jacob Lake, AZ arrive at two bridges similar in appearance spanning the Colorado River. These two bridges, one historic and one new, represent one of only seven land crossings of the Colorado River for 750 miles (1207 km).</p> <div class=\"cs_control CS_Element_Custom\" id=\"cs_control_1922169\" style=\"text-align:start; -webkit-text-stroke-width:0px\"> <div class=\"Component text-content-size text-content-style ArticleTextGroup clearfix\" style=\"margin-bottom:1.875rem\"> <h3>The Historic Bridge</h3> <p><span style=\"font-size:14px\"><span style=\"box-sizing:border-box\"><span style=\"display:block\"><span style=\"color:#000000\"><span style=\"font-family:Arial, sans-serif\"><span style=\"font-style:normal\"><span style=\"font-variant-ligatures:normal\"><span style=\"font-variant-caps:normal\"><span style=\"font-weight:400\"><span style=\"letter-spacing:normal\"><span style=\"orphans:2\"><span style=\"text-transform:none\"><span style=\"white-space:normal\"><span style=\"widows:2\"><span style=\"word-spacing:0px\"><span style=\"background-color:#ffffff\"><span style=\"text-decoration-style:initial\"><span style=\"text-decoration-color:initial\"><span style=\"font-size:1rem\"><span style=\"box-sizing:border-box\"><span style=\"color:#555555\"><span style=\"font-family:Arial, sans-serif\"><span style=\"font-weight:400\"><span style=\"font-size:16px\"><span style=\"box-sizing:border-box\"><span style=\"line-height:1.7\">In the 1870s, pioneers from Utah began to expand their settlements into northern Arizona. Nearly 600 miles (965 km) of deep canyons along the Colorado River stood in their way. One of the only places a wagon could reach the river from both north and south was at the mouth of Glen Canyon. Since the area was accessible and was a natural corridor between Utah and Arizona, a ferry was established there in 1873. Named after the first ferry operator, John D. Lee, Lees Ferry became an important route for pioneers, settlers and local traffic. In the 1920s, automobiles began using the ferry as a means to cross the Colorado River. It was recognized that it was time to find a safer, more reliable way for vehicles to cross. A bridge site was selected 5 miles (8km) downriver at Marble Canyon.<br /> <br /> Construction of the bridge began in June of 1927. This was rugged and remote country and it was difficult to get men, materials and equipment from one rim to the other, a distance of only 800 feet (244m). The ferry was used to transport materials when possible. However, on June 7, 1928, the ferry sank in an accident which killed three men. Since the bridge known then as Grand Canyon Bridge was nearing completion, the ferry was not replaced.</span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></p> <p style=\"margin: 0px 0px 15px;\"><span style=\"font-size:14px\"><span style=\"box-sizing:border-box\"><span style=\"display:block\"><span style=\"color:#000000\"><span style=\"font-family:Arial, sans-serif\"><span style=\"font-style:normal\"><span style=\"font-variant-ligatures:normal\"><span style=\"font-variant-caps:normal\"><span style=\"font-weight:400\"><span style=\"letter-spacing:normal\"><span style=\"orphans:2\"><span style=\"text-transform:none\"><span style=\"white-space:normal\"><span style=\"widows:2\"><span style=\"word-spacing:0px\"><span style=\"background-color:#ffffff\"><span style=\"text-decoration-style:initial\"><span style=\"text-decoration-color:initial\"><span style=\"font-size:1rem\"><span style=\"box-sizing:border-box\"><span style=\"color:#555555\"><span style=\"font-family:Arial, sans-serif\"><span style=\"font-weight:400\">So, for the next several months, no direct route existed between Utah and Arizona. People had to travel 800 miles (1287km) around the canyon to reach the other side of the river. It was an historic day when, on January 12, 1929, the bridge was opened to traffic. At the time, it was the highest steel arch bridge in the world and made traveling between Utah and Arizona much easier. No longer did travelers have to contend with the moods of the Colorado River at Lees Ferry. The dedication of the bridge took place June 14-15, 1929. For such an isolated spot, it was an astounding event. Nearly 7,000 people in 1,217 automobiles arrived for the celebration. Speeches were given by the governors of Arizona, New Mexico, and Utah and by the President of the Mormon Church. Bands, choral groups, and Native American dancers were also a part of the festivities. It was reported that airplanes flew under the bridge and as Prohibition was in effect, the bridge was christened with a bottle of ginger ale. The bridge was known as the Grand Canyon Bridge for five years following the dedication. In 1934, after great debate in the Arizona legislature, the official name was changed to Navajo Bridge.</span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></p> <h3>The New Bridge</h3> <p><a href=\"https://www.nps.gov/glca/learn/historyculture/navajobridge.htm\">Navajo Bridge</a><span style=\"font-size: 14px; letter-spacing: normal;\"> </span><span style=\"background-color: rgb(255, 255, 255); color: rgb(85, 85, 85); font-weight: 400;\">served the area well for 66 years. However, as automobiles and trucks became larger, wider, and heavier, the need for a stronger, wider bridge became evident. The historic bridge was only 18 feet (5.5m) wide and had a 40 ton (36 metric tons) limit. Approaches to the bridge on each side were dangerous with limited sight of oncoming traffic. Pedestrian safety was also a factor. Although pedestrians were not allowed on the bridge, the temptation was too great for many. Over a 13 year period, 72 accidents occurred on or while approaching the bridge; eight were fatal.</span><br /> <br style=\"box-sizing:border-box\" /> <span style=\"font-size:14px\"><span style=\"box-sizing:border-box\"><span style=\"display:block\"><span style=\"color:#000000\"><span style=\"font-family:Arial, sans-serif\"><span style=\"font-style:normal\"><span style=\"font-variant-ligatures:normal\"><span style=\"font-variant-caps:normal\"><span style=\"font-weight:400\"><span style=\"letter-spacing:normal\"><span style=\"orphans:2\"><span style=\"text-transform:none\"><span style=\"white-space:normal\"><span style=\"widows:2\"><span style=\"word-spacing:0px\"><span style=\"background-color:#ffffff\"><span style=\"text-decoration-style:initial\"><span style=\"text-decoration-color:initial\"><span style=\"font-size:1rem\"><span style=\"box-sizing:border-box\"><span style=\"color:#555555\"><span style=\"font-family:Arial, sans-serif\"><span style=\"font-weight:400\"><span style=\"font-size:16px\"><span style=\"box-sizing:border-box\"><span style=\"line-height:1.7\">The time had come to replace the historic bridge. It was decided a new bridge would be built just downstream from the existing bridge, with new approaches on each side. The historic bridge would remain and serve as a pedestrian bridge and provide visitors with a breathtaking view of the Colorado River 467 feet (142m) below.</span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span><br /> <br /> <span style=\"font-size: 16px; background-color: rgb(255, 255, 255);\">Construction on the new bridge began in May of 1993. During construction, it was necessary to make sure no rocks fell into the river. There would be too great a danger to the rafters on the Colorado River below. A net was strung under the bridge to catch debris. All rock for the footings was cut and hauled up to the rim. Additionally, it was necessary to remove rock for the new approaches to the bridge. The rock was cut using a technique that made it appear natural and in places it was stained to give it a weathered look. On May 2, 1995, two years after construction began traffic was diverted onto the new Navajo Bridge</span><br /> <br /> <span style=\"font-size: 16px; background-color: rgb(255, 255, 255);\">The dedication took place on September 14, 1995. Once again, the ceremony attracted a large number of people. Speakers included representatives from state and local governments, National Park Service, Native American tribes and Arizona Department of Transportation. The new Navajo Bridge was christened with a bucket of Colorado River water.</span></span></span></span></p> <h3>Navajo Bridge Interpretive Center</h3> <p><span style=\"font-size:14px\"><span style=\"box-sizing:border-box\"><span style=\"display:block\"><span style=\"font-size: 16px; background-color: rgb(255, 255, 255);\">Navajo Bridge Interpretive Center is open to the public year-round. Displays about the historic and modern bridges can be found inside and out on the deck. Visitors are welcome to walk across the historic bridge and take in the sights.</span></span></span></span></p> </div> </div>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.603789,
+          36.856824
+        ]
+      },
+      "properties": {
+        "name": "Paria Riffle and the Colorado River",
+        "notes": "Paria Riffle and the Colorado River\nhttps://www.nps.gov/places/paria-riffle-and-the-colorado-river.htm\n\n<h4>Building a Rapid</h4> Passing over a riffle—bump, bump, bump, -- feels very different from plunging into a rapid’s churning whitewater. But as a basic level, a riffle and a rapid are much the same. Both are formed were a tributary flows into a main river, as the Paria river does here. Tributaries deposit sediment into the river channel. During floods this could include large boulders and rocks as well as sand and gravel. The debris clutters the river bottom and constricts the channel, forcing the river to gain speed and power. The river swirls thought or crashes over the debris-strewn riverbed, forming mild riffles or deadly crushing rapids. Paria Riffle is the first turbulence faced by boaters on their Grand Canyon river journey. Once through, over 90 named features still await them, and the rapids only get bigger. A flash flood may completely change a rapid overnight. Even on calm days, you can see the muddy Paria river depositing sediment into the clear Colorado river.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.77733468285561,
+          37.59718275052328
+        ]
+      },
+      "properties": {
+        "name": "Pedestal Alley Trailhead",
+        "notes": "Pedestal Alley Trailhead\nhttps://www.nps.gov/places/pedestal-alley-trailhead.htm\n\n<p><strong>Distance: 3 mile (4.8 km) round-trip</strong><br /> <strong>Moderate</strong><br /> <br /> Experience towering rock sculptures as red canyon walls surround a hike not heavily traveled. Follow along the wash approximately 1 mi (1.6 km) until rock formations appear in the distance. There is little to no shade on the trail. Use caution during extreme heat and avoid hiking during the hottest parts of the day. Do not hike when there is a potential for flash flooding.<br /> <br /> <strong>Trailhead:</strong> From the Bullfrog Visitor Center drive 4.4 miles (7 km) north on Hwy 276 to the marked junction with the Burr Trail. Turn left and drive 4.8 miles (7.7 km) down the Burr Trail. The parking area can be found on the opposite side of the Burr Trail, approximately 50ft (15.2 m) north of the trail head.<br />  </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.597743,
+          36.871366
+        ]
+      },
+      "properties": {
+        "name": "Pioneer Cemetery",
+        "notes": "Pioneer Cemetery\nhttps://www.nps.gov/places/pioneer-cemetery.htm\n\n<h4><strong>1874</strong></h4> As travelers arrived and departed from Lonely Dell, they brought more than goods and company. In close quarters with poor sanitation, unrecognized disease spread easily. After giving hospitality to travelers, Warren and Permelia Johnson lost four children within weeks to a mysterious illness, now recognized as diphtheria. Sickness, childbirth, and exposure to the elements claimed many lives in the pioneer movement throughout the Southwest. Descendants of the 20 pioneers buried here visit and tend to the graves today.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Polygamist Cabin",
+        "notes": "Polygamist Cabin\nhttps://www.nps.gov/places/polygamist-cabin.htm\n\n<h4><strong>1925</strong></h4> <p>Jerry Johnson, son of former ferryman Warren Johnson and wife Samantha, built this cabin as part of a polygamist haven. With the completion of Navajo Bridge in 1929, travelers bypassed Lees Ferry and the ranch grew quiet. Johnson and his family decided it would be a perfect place to live and discreetly practice their religion, which included plural marriages. At that time, polygamy was illegal and no longer accepted by The Church of Jesus Christ of Latter-Day Saints. By 1934 the commune had relocated and new owners incorporated the cabin into their dude ranch.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.718897,
+          37.529212
+        ]
+      },
+      "properties": {
+        "name": "Red Wash Trailhead",
+        "notes": "Red Wash Trailhead\nhttps://www.nps.gov/places/red-wash-trailhead.htm\n\n<p><strong>Distance: 1 mile ( 1.6 km) <br /> Easy</strong><br /> <br /> A sandy hike that involves rock scrambling to lead in and out of the wash. Great beginner trail that illustrates how the power of water formed much of the local landscape. Be prepared to get muddy and wet. Do not hike when there is a potential for flash flooding.<br /> <br /> <strong>Trailhead: </strong>Access near the Bullfrog Visitor Center. Located approximately 100 miles south of Interstate 70, just north of the launch ramp on Hwy 276.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.595539,
+          36.868752
+        ]
+      },
+      "properties": {
+        "name": "Samantha's Cabin",
+        "notes": "Samantha's Cabin\nhttps://www.nps.gov/places/samantha-s-cabin.htm\n\n<h4><strong>1886</strong></h4> <p>Warren Johnson, who took over operations after the Lees, built this cabin for his second wife Samantha and their young children. Samantha lived here only a year until the large family home was completed next door. When she moved out, farm hands moved in. In 1897, new ferryman James Emett converted the cabin into a school for the children of Lees Ferry. Using salvaged parts from a steamboat abandoned along the shore of the Colorado River, Emett extended walls and improved the floor and roof. Throughout the years, the cabin housed ranch workers and travelers, then reprised its role as a schoolhouse in the 1920s. By 1935, vacationers could rent the cabin at the new Paradise Canyon Ranch.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.583137,
+          36.866533
+        ]
+      },
+      "properties": {
+        "name": "Spencer Boiler",
+        "notes": "Spencer Boiler\nhttps://www.nps.gov/places/spencer-boiler.htm\n\n<h4>Steam engine to pump water for Charles H. Spencer’s mining experiments</h4> <em>Erected 1910</em><br /> <br /> In his first attempt to extract gold Spencer set up a pipe dredge across the river. The boiler produced stem that ran engines to pump water and air down a pipe to the ground. Theoretically it would force stand and gold up through a casing. Unfortunately for Spencer, the pipe only went down a few feet before hitting rock. The experiment failed.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.580359,
+          36.86572
+        ]
+      },
+      "properties": {
+        "name": "Spencer Steamboat",
+        "notes": "Spencer Steamboat\nhttps://www.nps.gov/places/spencer-steamboat.htm\n\n<strong>Steamboat Charles H. Spencer built for transporting coal from Warm Creek Canyon</strong><br /> <em>Launched 1912</em><br /> <br /> Hauled in pieces from San Francisco and constructed at Warm Creek mine. Unaware of the difficulties in navigating the Colorado River, Spencer’s investors thought a boat would serve better than a mule train for carrying coal. The boat proved too unwieldy, plus it burned all the coal it could haul. It was abandoned ashore after only a few runs. Image caption: Designed for the placid Sacramento River, it was no match for the Colorado.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.580581,
+          36.86584
+        ]
+      },
+      "properties": {
+        "name": "Spencer Trail",
+        "notes": "Spencer Trail\nhttps://www.nps.gov/places/spencer-trail-wayside.htm\n\n<h4>Rough mule trail for hauling Charles G. Spencer’s gold mining supplies.</h4> <p><em>Built 1910</em><br /> <br /> Spencer’s mining machinery needed fuel. As the rest of the miners hauled equipment to Lees Ferry, two men spend the fall of 1910 building a trail up this sheer cliff to a coalmine at Warm Creek Canyon, 30 miles away. Pack mules carried several loads of coal down the trail later that year. The trail climbs over 1500 feet in only a mile.<br /> <br /> If you choose to go up the Spencer Trail instead of continuing on the Historic River Trail, be prepared. </p> <h4>Spencer Trail Information: </h4> <p><strong>Distance: 4.4 miles (7 km) round-trip<br /> Difficult</strong><br /> <br /> A short but strenuous hike with amazing views of the Colorado River and the City of Page, this rocky climb up switchbacks ascends out of the canyon surrounding Lees Ferry. Avoid hiking during the hottest part of the day. Best times include Spring and Fall. Bring plenty of water with you. <br /> <br /> <strong>Trailhead:</strong>Follow the Lees Ferry access road 5.8 miles (9.3 km) to the boat launch. A gravel parking lot at the end of the paved area will give you access to the start of the historic district. Divert from River Trail roughly .36 miles (.58 km) at posted junction. No overnight parking.</p> <p> </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.495735,
+          37.003882
+        ]
+      },
+      "properties": {
+        "name": "Stateline Auxiliary Launch Ramp",
+        "notes": "Stateline Auxiliary Launch Ramp\nhttps://www.nps.gov/places/stateline-auxiliary-launch-ramp.htm\n\n<h4>Stateline Auxiliary Launch Ramp, located after a turnoff from the Stateline Launch Ramp near what used to be Wahweap Swim Beach, is open for launch and retrieval of motorized vessels daily. Paddlecraft should not use this ramp, they should go to Wahweap Main or Antelope Point Public ramps.<br />  </h4> <p>The National Park Service, in partnership with Aramark, rehabilitated the Stateline Auxiliary Boat Ramp to provide access to the southern parts of Lake Powell during low water conditions. Temporary closures are anticipated as ramp extension construction continues. The Stateline Auxiliary Ramp is located in the highest visitation area of Lake Powell and is accessed via Highway 89 near Page, Arizona.</p> <ul> <li>Auxiliary ramp is accessed from the spur road on the right of the the Wahweap Stateline Main Ramp.</li> <li>Prepare all boats in the Stateline Main Ramp parking lot before accessing the auxiliary ramp. </li> <li>Boat launch and retrieval will only occur on installed boiler plate materials and the useable area will be marked.  </li> <li>Parking will remain in designated parking lots only.  </li> </ul> <p>All boats exiting Lake Powell must follow decontamination protocols to keep quagga mussels and other aquatic invasive species out of other bodies of water. Check your home state's regulations. Always Clean, Drain, and Dry your vessel and gear.<br /> <br /> Check ramp conditions before you arrive on our <a href=\"https://www.nps.gov/glca/learn/changing-lake-levels.htm\">Low Water Webpage</a>.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.607858667144,
+          37.00729535308226
+        ]
+      },
+      "properties": {
+        "name": "Stud Horse Trailhead",
+        "notes": "Stud Horse Trailhead\nhttps://www.nps.gov/places/stud-horse-trailhead.htm\n\n<p><strong>Distance: Varies</strong><br /> <strong>Easy/Moderate</strong><br /> <br /> Build your own adventure when exploring the 6.5 mi (10.4 km) network of trails. Explore an area with large hoodoos scattered throughout and distance views of Lake Powell and Skylight Arch.<br /> <br /> <strong>Trailhead<em>: </em></strong>Take Highway 89 north 7.6 mi (12.2 km) past the Carl Hayden Visitor Center. Turn left on to Seismograph Road and follow for 0.75 mi (1.2 km) and turn left. Continue 1.5 mi (2.4 km) until a BLM wayside and a fork in the road, keep left. Continue on this road as it curves right to head west to connect to Powerline Road. Stay on this Powerline Road for approximately 1.1 mi (1.7 km) and turn right heading north and up onto the mesa. <strong>High clearance vehicles are recommended.</strong></p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.46003357208332,
+          36.91940378211903
+        ]
+      },
+      "properties": {
+        "name": "The Big Relief Map",
+        "notes": "The Big Relief Map\nhttps://www.nps.gov/places/the-big-relief-map.htm\n\n<h2>The Map of The Lake That Was Built Before The Lake</h2> <p><br /> During the construction of Glen Canyon Dam, The U.S. Bureau of Reclamation commissioned a scale model relief map of what would be Lake Powell and the surrounding area. Model map builder Robert Miller used information from topographic maps and overflights of the area to construct the model in his basement. It took over a year to complete. He cut the map into seven pieces to be transported to the opening of the Glen Canyon Visitor Center, later renamed after Arizona senator and water use proponent Carl Hayden.<br /> <br /> This terrain relief model of the Glen Canyon National Recreation Area and vicinity can only be described as precisely accurate. The topography shown was based on both topographic maps and aerial photographs. Everything on the map actually exists just as it appears to, considering the vertical scale of the model. When it was installed at the visitor center at Glen Canyon Dam, is was oriented to real life. You could use it for wayfinding.<br /> <br /> In 2017, during the installation of new exhibits at Carl Hayden Visitor Center, the relief map was cut into the original seven pieces and removed from the building. Two years later, park partners Glen Canyon Conservancy retrieved the pieces and reassembled the map at their Flagship office and retail store for the public to once again enjoy and plan trips. In mid-2023, renovations at the Powell Museum & Archives were complete, so the map has a forever home amongst relevant exhibits. Over 55 years after its construction, aside from a few new roads, the map still accurately depicts the landscape of and around Glen Canyon National Recreation Area.</p> <h2>Map Stats</h2> <p><strong>Model Maker:</strong> Robert S. Miller Dimensionals, Colorado<br /> <strong>Year Constructed:</strong> 1967<br /> <strong>Cost at the time:</strong> $24,000<br /> <strong>Modeling Method:</strong></p> <ul> <li> <p>Built in seven different sections</p> </li> <li> <p>Carved and routed by hand (NOT molded)</p> </li> <li> <p>Dentist tools used to do the fine carving</p> </li> <li> <p>Rock sample or a vial of sand was taken from 38 different locations to produce 78 different shades of color</p> </li> <li> <p>Model carved in Robert Miller’s shop</p> </li> <li> <p>Pieces were brought to the Carl Hayden Visitor Center to be assembled and painted</p> </li> </ul> <p><strong>Carving time:</strong> 1,952 hours (279 eight hour work days; 49 work weeks)<br /> <strong>Painting Time:</strong> 698 hours (87 eight hour work days; 17 work weeks)<br /> <strong>Total Work Time:</strong> 2,921 hours (365 eight hour work days; 1 year)<br /> <strong>Area Shown: </strong>10,000 square miles (6,400,000 acres)<br /> <strong>Lake Level Painted:</strong> 3,640 feet above sea level (60 feet below “full pool” elevation of 3,700 feet above sea level)</p> <h4>Major Features</h4> <p><strong>National Parks:</strong> Grand Canyon,Capitol Reef, Canyonlands<br /> <strong>National Monuments:</strong> Rainbow Bridge, Natural Bridges, Grand Staircase-Escalante, Bears Ears<br /> <strong>Utah State Parks:</strong> Goosenecks<br /> <strong>Navajo Tribal Parks:</strong> Monument Valley, Lake Powell (Antelope Canyon[Upper, Lower], Waterholes Canyon)<br /> <strong>Henry Mt Range:</strong> Mt. Pennell 11,371 ft, Mt. Hillers 10,723 ft, Mt. Holmes 7,930 ft, Mt. Ellsworth 8,235 ft<br /> <strong>Other Mts: </strong>Navajo Mountain 10,388 ft<br /> <strong>Rivers:</strong> Colorado, Green, Dirty Devil, Escalante, San Juan, Paria<br /> <strong>Marinas:</strong> Wahweap, Antelope Pt (almost), Dangling Rope, Bullfrog, Halls Crossing, Hite<br /> <br /> <strong>Bonus secret:</strong> Bob Miller created the map with such accuracy, he included 12 natural bridges and arches in the topography. How many can you find?</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.597743,
+          36.871366
+        ]
+      },
+      "properties": {
+        "name": "The Edge of Wilderness",
+        "notes": "The Edge of Wilderness\nhttps://www.nps.gov/places/the-edge-of-wilderness.htm\n\n<h4>1965</h4> Ranch owner Gus Griffin put a pump system in this spot to improve on previous efforts to control water flow. The pump could only be used when the Paria River ran clear, which rarely happened, as mud would clog and ruin machinery.The road to Kanab, Utah once continued from here. Today a trail into the Paria Canyon Wilderness takes its place. Explore upstream and the irrigation system, where skeletons of scattered ranch buildings decay amid spectacular red rock desert.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.595628,
+          36.868907
+        ]
+      },
+      "properties": {
+        "name": "The Family Home",
+        "notes": "The Family Home\nhttps://www.nps.gov/places/the-family-home.htm\n\n<h4><strong>1866</strong></h4> <p>Warren Johnson built a two story house for his families using proceeds from the ferry. They tore down Emma Lee’s cabin to make room for the new home, removing the last sign of the Lees at Lonely Dell. In 1897, new lead ferryman James Emett moved in with his family and added a wing to the house. The home continued to be the center of the ranch until consumed by fire in 1926. Remaining wood and stone were used in other buildings. A single story, one room wooden house with rock porch and low slanted wooden awning.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.595683,
+          36.867994
+        ]
+      },
+      "properties": {
+        "name": "The Orchard",
+        "notes": "The Orchard\nhttps://www.nps.gov/places/the-orchard.htm\n\n<h2><strong>1965</strong></h2> Isolated from amenities, pioneers had to provide for themselves. Growing their own food proved to be a constant struggle as unreliable irrigation plagued the desert fields. Lonely Dell families endured and grew lush gardens, orchards, and fields of hay and alfalfa just north<br /> of the modern ranch house. Signs of their labor have faded over time. Today’s orchard grows from new seeds planted by the last private owners. <h3>Gathering Fruit</h3> Explore the orchard using colors to identify trees, and enjoy the ripe fruit of this desert oasis. <ul> <li> <p>Light Purple: Almond   </p> </li> <li> <p>Green: Apple  </p> </li> <li> <p>Blue: Apricot  </p> </li> <li> <p>Gray: Fig   </p> </li> <li> <p>Red: Nectarine</p> </li> <li> <p>Orange: Peach</p> </li> <li> <p>Yellow: Pear</p> </li> <li> <p>Purple: Plum</p> </li> <li> <p>Teal: Quince</p> </li> </ul>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.583904,
+          36.86642
+        ]
+      },
+      "properties": {
+        "name": "USGS Guesthouse & Spencer Bunkhouse",
+        "notes": "USGS Guesthouse & Spencer Bunkhouse\nhttps://www.nps.gov/places/usgs-guesthouse-spencer-bunkhouse.htm\n\n<h4>The USGS Guesthouse<br /> U.S. Geological Survey (USGS)</h4> <em>Build in 1950</em><br /> <br /> The USGS established a presence here as part of the Colorado River Compact, a 1922 water rights agreement. Using a cable car to measure the river’s flow, they ensured proper water sharing between neighboring states. The USGS constructed this guesthouse using stones from demolished Spencer buildings. <h4>Spencer Bunkhouse<br /> Sleeping Quarters for Gold Miners</h4> <em>Build 1911</em><br /> <br /> Ferryman Jerry Johnson turned the last of Charles Spencer’s crew bunkhouses into a school in 1921–25.In 1947, the USGS remodeled it as a residence, then a silt laboratory. Image of cable car from 1921 over river with a crew of men. Picture of school age children outside of bunkhouse now school.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.57738447189331,
+          36.863604958251585
+        ]
+      },
+      "properties": {
+        "name": "Upper Ferry Site",
+        "notes": "Upper Ferry Site\nhttps://www.nps.gov/places/upper-ferry-site.htm\n\n<h4>Safer and easier crossing made possible by moving the landing site here</h4> <em>Completed 1899</em><br /> <br /> Improvement included a new ferry launch site, a new ferry boat mounted on permanent track cable, and new road. James Emett took over as lead ferryman in 1896 and requested major changes. Previous operators fought their way upstream rowing boats across the river, but the new cable system let the river current do much of the work. ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.640484,
+          36.833479
+        ]
+      },
+      "properties": {
+        "name": "Vermillion Cliffs at Lees Ferry",
+        "notes": "Vermillion Cliffs at Lees Ferry\nhttps://www.nps.gov/places/vermillion-cliffs-at-lees-ferry.htm\n\n<h4>Piece of Cake</h4> The geologic strata of the “Grand Staircase” is perhaps best described as a 250 million year old layer cake. If so, consider the Vermilion Cliffs looming before you like a 3,000 feet thick red velvet cake, perched upon a Chocolate Cliffs base. This colorful cake can also be read as a stack of differing ancient environments. It took millions of years for each layer to form; time for the earth and landscape to change extensively while sediment stacked and cemented into layers. Geologists further divide the “steps” into specific rock formations: Environmental conditions at sediment deposition—like wetness or dryness—along with mineral presence account for differing rock appearance and color. The Vermilion Cliffs’ namesake reds come from an abundance of iron minerals in the rock sediment. When iron is exposed to oxygen in the air, it oxidizes, or rusts. The same chemistry that applies to a rusty old nail applies to the rock in this rusty-hued plateau.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.4854894495187,
+          36.99367809477008
+        ]
+      },
+      "properties": {
+        "name": "Wahweap Main Launch Ramp",
+        "notes": "Wahweap Main Launch Ramp\nhttps://www.nps.gov/places/wahweap-main-launch-ramp.htm\n\n<h4>Wahweap Main launch ramp is located next to the Lake Powell Resort at Wahweap. For your safety the ramp is open to all motorized vessels and unavailable to paddlecraft. Paddlecraft should use Stateline Main or Antelope Point Public launch ramps.</h4> <p><br /> The main launch ramp in the Wahweap Marina area. Put your boat on Lake Powell here. Large enough for multiple boats, including houseboats, to launch at the same time. The ramp is long and changes when the lake level changes. Prepare for a long walk back down the ramp after you park your boat trailer. Courtesy docks have a thirty minute time limit. Fuel docks and pumpout station just downstream of ramp.<br /> <br /> Mid-ramp, there is a turnoff that leads to parking for the private marina. It would be difficult to maneuver a boat trailer there, we do not recommend using that parking lot. 14-day parking is at the top of the ramp.<br /> <br /> All boats exiting Lake Powell must follow decontamination protocols to keep quagga mussels and other aquatic invasive species out of other bodies of water. Check your home state's regulations. Always Clean, Drain, and Dry your vessel and gear.<br /> <br /> Check ramp conditions before you arrive on our <a href=\"https://www.nps.gov/glca/learn/changing-lake-levels.htm\">Low Water Webpage</a>.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.515777868,
+          36.9892890013
+        ]
+      },
+      "properties": {
+        "name": "Wahweap North Entrance Station",
+        "notes": "Wahweap North Entrance Station\nhttps://www.nps.gov/places/ww-north.htm\n\n<h2>Welcome to Glen Canyon National Recreation Area</h2> <p>Wahweap North Entrance is near to Page AZ. The South and North entrances both go to Wahweap. From here you can drive down the scenic road to Lake Powell Resort, launch your own boat, or just come enjoy the views. If you already have an entrance pass (boat Expanded Amenity Fee pass), just show it (your boat's sticker) to the attendant. If you need to purchase your weekly or choose to purchase an annual pass, you can do it here. A flagpole at the first booth indicates whether there are people there. If there is no person in the booths to help, you can use the Automated Fee machine for all relevant passes.</p> <h2>Vessel Expanded Amenity Fee Rates</h2> <p>A Glen Canyon Weekly Pass allows use for one single private motorized vessel for 1-7 days.<br /> Additional private motorized vessels on the same trailer are charged according to length.<br /> A Glen Canyon Annual Pass allows use in Glen Canyon for one motorized vessel for one calendar year</p> <table border=\"1\"> <thead> <tr> <th scope=\"col\"> <h3>Vessel Length</h3> </th> <th scope=\"col\"> <h3>2024 Weekly Fee</h3> </th> <th scope=\"col\"> <h3>2024 Annual Fee</h3> </th> </tr> </thead> <tbody> <tr> <td> <p>Personal Water Craft (16 feet and below)</p> </td> <td> <p>$20.00</p> </td> <td> <p>$40.00</p> </td> </tr> <tr> <td> <p>26 feet and below</p> </td> <td> <p>$30.00</p> </td> <td> <p>$60.00</p> </td> </tr> <tr> <td> <p>27 - 40 feet</p> </td> <td> <p>$50.00</p> </td> <td> <p>$100.00</p> </td> </tr> <tr> <td> <p>41 - 60 feet</p> </td> <td> <p>$100.00</p> </td> <td> <p>$200.00</p> </td> </tr> <tr> <td> <p>61 - 80 feet</p> </td> <td> <p>$200.00</p> </td> <td> <p>$400.00</p> </td> </tr> <tr> <td> <p>81 - 100 feet</p> </td> <td> <p>$400.00</p> </td> <td> <p>$800.00</p> </td> </tr> <tr> <td> <p>Over 100 feet</p> </td> <td> <p>$800.00</p> </td> <td> <p>$1,600.00</p> </td> </tr> </tbody> </table> <p><br /> <br /> Please visit our <a href=\"https://www.nps.gov/glca/planyourvisit/fees.htm\">website</a> or the Fees tab on the NPS App for more information about fees and passes.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.49904496075563,
+          36.96906197377838
+        ]
+      },
+      "properties": {
+        "name": "Wahweap Overlook",
+        "notes": "Wahweap Overlook\nhttps://www.nps.gov/places/wahweap-overlook.htm\n\n<p>A short journey from the Carl Hayden Visitor Center, you will find the Wahweap Overlook. This high point offers a 360-degree panorama of the Glen Canyon National Recreation Area. It is a “must see” at anytime of day, however, sunrise and sunset adds a fusion of brilliant color to this awe-inspiring scene. There is a shade shelter and a bench for your viewing comfort. Bring a picnic, camera, and binoculars along and enjoy this delightful view.<br /> <br /> <strong>Safety Comes First</strong><br /> Take plenty of water. Wear sunglasses, sunscreen, and a hat. Avoid hiking in the hottest part of the day. Tell a friend where you are hiking and when you will be home. There is no railing at the viewpoint. Parts of the edge are very slippery. Watch your footing, and keep track of your children!<br /> <br /> <strong>Leave No Trace</strong><br /> Pack garbage out. Don’t disturb any plants or animals you come across. Dogs must stay on leashes no longer than six feet.<br /> <br /> In every view, there is a story. Like a window to the past, the landscape before you represents a timeline of natural and cultural events. Within the panorama that is Glen Canyon, stories and secrets are revealed; and through exploration, we discover some of its mysteries. Glance over the Glen Canyon landscape, and imagine events form a distant past.<br /> <br /> <strong>The Colorado River and Lake Powell</strong><br /> In 1869 Major John Wesley Powell led an expedition down the Colorado River, taking copious notes about the geography, geology, natural and cultural history he encountered along the way. With the building of the Glen Canyon Dam, nearly a century later, this reservoir would be his namesake. Lake Powell and the Colorado River provide water, vital to western habitation, by contributing to crop irrigation and water resources for the lower basin states of California, Nevada and Arizona, as well as Mexico. In addition, it provides clean hydroelectric power.<br /> Throughout the years, the Colorado River has been both friend and foe. It has been a barrier to cross and conquer, a way to explore uncharted territories, a provider of vital resources, and simply a means to experience the adventure of it all. Lake Powell and the Colorado River continue to fulfill our zest for adventure.<br /> <br /> <strong>Stories Within the Stone</strong><br /> On the north side of Lake Powell, the geological layers of the Straight Cliffs, Tropic Shale, and Dakota formations allude to a world long gone. Within the fossil record, a remnant of the Cretaceous period (144-65 million years ago) is revealed. Plesiosaurs, Ichthyosaurs, and Tortoises swam in a vast inland seaway. The shoreline sported a lush habitat and the first flowering plants appeared. Among them, dinosaurs roamed the earth and early mammals flourished.<br /> <br /> <strong>Franciscan Explorers</strong><br /> On July 29, 1776 two Franciscan Priests, Padres Francisco Atanasio Domínguez, and Silvestre Vélez de Escalante set out on a quest. With a small assemblage of men, horses, and cattle, they departed Santa Fe, New Mexico in search of a trade route to Monterey, California. With winter soon at their heels, they decided to turn back, reaching the Colorado River at the Paria confluence on October 26. Finding the river difficult to cross, the padres dispatched scouts to seek out a better location. Think of the frustration experienced by these hungry, exhausted, explorers. Imagine the desperate hope that motivated their search. On November 7, they finally forded the river in present day Padre Bay at a location now known as Crossing of the Fathers. Though they failed in their quest to reach Monterey, part of their original route would come to be known as the Old Spanish Trail.<br /> <br /> <strong>Kaiparowits Plateau</strong><br /> Opposite Navajo Mountain, the Kaiparowits Plateau reaches in from your left. Though the origin of its name is unknown, some sources have revealed two possible, yet unsubstantiated meanings: “Big Mountain’s Little Brother”, or “One Arm”. One thing is certain, archeological evidence reveals the fact that Ancestral Puebloans hunted and gathered here. The diversity of the Pinion-Juniper woodland provided nuts, berries and grains to gather, as well as rabbits and deer to hunt. What kind of tools do you think prehistoric humans created to help them survive in a harsh desert environment?<br /> <br /> <strong>Wahweap Creek</strong><br /> Nested on the edge of the canyon, Wahweap Marina serves as a destination resort and launch point for modern day explorers seeking recreational adventure on present day Lake Powell. Wahweap Bay curves around from the left eventually joining the main channel of the Colorado River. Before the building of Glen Canyon Dam, Wahweap Creek meandered as an intermittent stream. Along this channel, seeps and springs occur, and the Paiute name of Wahweap, referring to the bitter taste of these alkaline seeps, is bestowed upon this canyon. Early river runners hiked up Wahweap Creek to seek out these cool grottoes. Other seep springs thrive within Glen Canyon providing vital habitats for many plant and animal species. Our continued stewardship will help protect these fragile and unique habitats.<br /> <br /> <strong>Navajo Mountain</strong><br /> On the far horizon, Navajo Mountain looms, a big dome erupting from the canyon landscape - a laccolith, a volcano that never came to be. Reaching an elevation of 10,388 feet (3,166m) above sea level, Navajo Mountain supports several plant life zones: desert scrub, riparian, pinion-juniper woodlands and ponderosa pine forests. It is one of many mountains sacred to the Navajo People.<br /> <br /> <strong>Tower Butte</strong><br /> Glancing across from left to right many buttes and formations appear. The most prominent on the far right is Tower Butte. Once a part of Romana Mesa, time and the erosive forces of water and weather carved and washed away the materials that connected them. Now this 1600-foot (488m) monolith stands solo and someday it too will crumble and disappear into the landscape.<br /> <br /> <strong>The Dynamic Force of Water</strong><br /> Water has played a significant role in Glen Canyon’s past, and continues to do so today. Deposits left by ancient sea beds, runoff from a melting ice age, undercutting seeps that create a desert oasis, erosion, and the flowing force of the Colorado River have all contributed to the dynamic scene before you. Within this tough and rugged landscape resides the delicate beauty of life. Butterflies dance from one wildflower to another, coyotes lurk in the shadows of twilight, ravens play in the air currents overhead. Water is the liquid gold that makes life possible within the desert environment, however, periodic drought can challenge even the heartiest species. We must be ever mindful of the challenges that plants and animals must endure, remembering we are respectful visitors in their desert home.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.49369452600001,
+          36.943055662
+        ]
+      },
+      "properties": {
+        "name": "Wahweap South Entrance Station",
+        "notes": "Wahweap South Entrance Station\nhttps://www.nps.gov/places/ww-south.htm\n\n<h2>Welcome to Glen Canyon National Recreation Area</h2> <p>Wahweap South Entrance is the closest to Page AZ. The South and North entrances both go to Wahweap. From here you can drive down the scenic road to Lake Powell Resort, launch your own boat, or just come enjoy the views. If you already have an entrance pass (or a Boating Expanded Amenity Fee pass), just show it (your boat with the sticker) to the attendant. If you need to purchase your weekly or choose to purchase an annual pass, you can do it here. This is also the place to pay your camping fees for Beehives Campground. A flagpole at the first booth indicates whether there are people there. If there is no person in the booths to help, you can use the Automated Fee machine for all relevant passes.<br /> <br /> Visit our Fees & Passes page or the Fees tab on the NPS App for entrance fee information.</p> <h2>Vessel Expanded Amenity Fee Rates</h2> <p>A Glen Canyon Weekly Pass allows use for one single private motorized vessel for 1-7 days.<br /> Additional private motorized vessels on the same trailer are charged according to length.<br /> A Glen Canyon Annual Pass allows use in Glen Canyon for one motorized vessel for one calendar year</p> <table border=\"1\"> <thead> <tr> <th scope=\"col\" style=\"border-color: rgb(0, 0, 0);\"> <h3>Vessel Length</h3> </th> <th scope=\"col\" style=\"border-color: rgb(0, 0, 0);\"> <h3>2024 Weekly Fee</h3> </th> <th scope=\"col\" style=\"border-color: rgb(0, 0, 0);\"> <h3>2024 Annual Fee</h3> </th> </tr> </thead> <tbody> <tr> <td style=\"border-color: rgb(0, 0, 0);\"> <p>Personal Water Craft (16 feet and below)</p> </td> <td style=\"border-color: rgb(0, 0, 0);\"> <p>$20.00</p> </td> <td style=\"border-color: rgb(0, 0, 0);\"> <p>$40.00</p> </td> </tr> <tr> <td style=\"border-color: rgb(0, 0, 0);\"> <p>26 feet and below</p> </td> <td style=\"border-color: rgb(0, 0, 0);\"> <p>$30.00</p> </td> <td style=\"border-color: rgb(0, 0, 0);\"> <p>$60.00</p> </td> </tr> <tr> <td style=\"border-color: rgb(0, 0, 0);\"> <p>27 - 40 feet</p> </td> <td style=\"border-color: rgb(0, 0, 0);\"> <p>$50.00</p> </td> <td style=\"border-color: rgb(0, 0, 0);\"> <p>$100.00</p> </td> </tr> <tr> <td style=\"border-color: rgb(0, 0, 0);\"> <p>41 - 60 feet</p> </td> <td style=\"border-color: rgb(0, 0, 0);\"> <p>$100.00</p> </td> <td style=\"border-color: rgb(0, 0, 0);\"> <p>$200.00</p> </td> </tr> <tr> <td style=\"border-color: rgb(0, 0, 0);\"> <p>61 - 80 feet</p> </td> <td style=\"border-color: rgb(0, 0, 0);\"> <p>$200.00</p> </td> <td style=\"border-color: rgb(0, 0, 0);\"> <p>$400.00</p> </td> </tr> <tr> <td style=\"border-color: rgb(0, 0, 0);\"> <p>81 - 100 feet</p> </td> <td style=\"border-color: rgb(0, 0, 0);\"> <p>$400.00</p> </td> <td style=\"border-color: rgb(0, 0, 0);\"> <p>$800.00</p> </td> </tr> <tr> <td style=\"border-color: rgb(0, 0, 0);\"> <p>Over 100 feet</p> </td> <td style=\"border-color: rgb(0, 0, 0);\"> <p>$800.00</p> </td> <td style=\"border-color: rgb(0, 0, 0);\"> <p>$1,600.00</p> </td> </tr> </tbody> </table> <h3>Beehives Campground</h3> <ul> <li>$14 per night. No reservations.</li> <li>6 designated sites. Picnic table at each site.</li> <li>No hookups, dump station, or restrooms. Pack it in, pack it out. Portable toilets required. No campfires or glass containers.</li> <li>Three night camping limit.</li> </ul> <p>Please visit our <a href=\"https://www.nps.gov/glca/planyourvisit/fees.htm\">website</a> for more information about fees and passes.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.497673403,
+          37.0039417543
+        ]
+      },
+      "properties": {
+        "name": "Wahweap Stateline Launch Ramp",
+        "notes": "Wahweap Stateline Launch Ramp\nhttps://www.nps.gov/places/wahweap-stateline-launch-ramp.htm\n\n<h4>Wahweap Stateline launch ramp, located near the Wahweap Boat Rentals, was open seasonally for you to launch your boat. This ramp is closed to motorized vessels. Paddlecraft may launch at your own risk.</h4> <p><br /> Stateline launch ramp straddles the Arizona/Utah stateline and provides an alternative launch to the busy but still nearby Main Ramp at Wahweap. Put your boat on Lake Powell here. Large enough for multiple boats, including houseboats, to launch at the same time. The ramp is long and changes when the lake level changes. Prepare for a long walk back down the ramp after you park your boat trailer. Courtesy docks have a thirty minute time limit. Fuel docks and pumpout station just upstream of ramp. This ramp closes for the winter.<br /> <br /> All boats exiting Lake Powell must follow decontamination protocols to keep quagga mussels and other aquatic invasive species out of other bodies of water.<br /> <br /> Check ramp conditions before you arrive on our <a href=\"https://www.nps.gov/glca/learn/changing-lake-levels.htm\">Low Water Webpage</a>.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.5833145,
+          36.8663136
+        ]
+      },
+      "properties": {
+        "name": "Water Intake",
+        "notes": "Water Intake\nhttps://www.nps.gov/places/water-intake.htm\n\n<h4>Pump System for all Lees Ferry water facilities, including Lonely Dell Ranch</h4> <em>Original treatment plant installed 1972</em><br /> <br /> Plant and intake site routinely modified and updated Even today, life at Lees Ferry means being self-sufficient, as evidenced by the area’s self-contained water system. Wells proved infeasible here, so the National Park Service draws water directly from the river, just like Spencer did. Of course, the park pump systems far more advanced and includes a water treatment plant for sanitation.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.595281,
+          36.868964
+        ]
+      },
+      "properties": {
+        "name": "Weaver House",
+        "notes": "Weaver House\nhttps://www.nps.gov/places/weaver-house.htm\n\n<h4><strong>1936</strong></h4> Leo and Hazel Weaver had big plans for their newly purchased ranch as they flipped old cabins into rentals for guests. They hired Hopi stonemason Poli Hugavi to build this house which acted as the main lodge. The rustic Paradise Canyon Ranch was open for business but, lacked electricity, running water, and returning guests. Where pioneers had persevered years before, the Weavers struggled to make a profit, and soon gave up their cowboy dream. Gus and Romana Griffin bought the ranch to enjoy their retirement in isolation and nature. In later years, the Griffins sold to a group of private investors who added electricity and replanted the orchard.In 1974, ownership changed hands for the final time. The National Park Service maintains this historic site to preserve the spirit of western exploration.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.58935397974668,
+          37.07791567904754
+        ]
+      },
+      "properties": {
+        "name": "Wiregrass Canyon Trailhead",
+        "notes": "Wiregrass Canyon Trailhead\nhttps://www.nps.gov/places/wiregrass-canyon-trailhead.htm\n\n<p><span style=\"color:null;\"><strong>Distance: 6 Miles (9.7 km) round-trip </strong></span><br /> <span style=\"color:null;\"><strong>Easy to Moderate</strong><br /> <br /> This sandy wash takes you through a small canyon and requires some scrambling and detours. Look for cairns (small stacks of rocks that act as trail markers) to lead you out. Wayfinding required. Use caution in extreme heat and avoid hiking during the hottest part of the day. There is always a potential for flash floods. Do not hike when there is potential for flash floods. <br /> <br /> <strong>Trailhead: </strong>From Page, drive north on Highway 89 about 12 miles (19 km) to Big Water, Utah. Between mile posts 7 and 8, turn right, in the opposite direction of the Big Water Visitor Center. Turn right again in 0.3 mile (0.5 km), at a sign reading, “Glen Canyon National Recreation Area – State Highway 12.” Drive 4.6 miles (7.5 km) to the Wiregrass Canyon Back Country Use Area and park in the pullout. If you get to the side road for Crosby Canyon, you have driven too far.</span></p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.5969,
+          36.870464
+        ]
+      },
+      "properties": {
+        "name": "Working Hands",
+        "notes": "Working Hands\nhttps://www.nps.gov/places/working-hands.htm\n\n<h4><strong>1873</strong></h4> This crooked relic, one of many cabins that once littered the ranch, holds stories from the rotating characters who lived and worked at Lees Ferry. Farm hands, bee keepers, hay bailers, and educators all toiled together to support and sustain life on a busy ranch. Native Americans and pioneers of differing faiths shared tales of success and hardship around glowing candle light within these outbuildings and homes.The tragic story of Lonely Dell character James Jackson told a tale of a school teacher who set off to bring back a wife only to return heartbroken on frostbitten feet. The cold cabin walls of his home played audience in his final moments. Jackson would be the first person buried at Lonely Dell cemetery under loose dirt and stones, but not the last supporting player to call the ranch community home.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.57724499702454,
+          36.863622125801264
+        ]
+      },
+      "properties": {
+        "name": "“Louse House” and Johnson Cabin",
+        "notes": "“Louse House” and Johnson Cabin\nhttps://www.nps.gov/places/-louse-house-and-johnson-cabin.htm\n\n<h4>Dwelling for ferry costumers and operators</h4> <em>Built Winter 1913-14</em><br /> <br /> Only a ruin remains of the small stone cabin available to travelers staying overnight. The ruin with two stone fireplaces was home to Ferryman Frank Johnson, son of previous ferryman. The trail ends here, through intrepid fisherman tread a faint path beyond.",
+        "icon": "red-pin-down.png"
+      }
+    }
+  ]
+}

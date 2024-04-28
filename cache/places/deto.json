@@ -1,0 +1,582 @@
+[
+  {
+    "id": "6813BCA4-D69D-4B8F-9C5D-E1042C4389C3",
+    "url": "https://www.nps.gov/places/deto-amphitheater.htm",
+    "title": "Amphitheater (Devils Tower National Monument)",
+    "listingDescription": "Catch an evening program, watch the stars, or start a trail at the park’s amphitheater.",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/68A3DEDA-CABE-0BD0-87FC5E7A7B7251F4.jpg",
+        "credit": "NPS photo",
+        "altText": "rows of curved benches around a flat stage area with screen and fire pit",
+        "title": "Devils Tower Amphitheater",
+        "description": "",
+        "caption": "Watch an evening program or look at the stars from our amphitheater.",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/68A3DEDA-CABE-0BD0-87FC5E7A7B7251F4.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/68A3DEDA-CABE-0BD0-87FC5E7A7B7251F4.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "WY",
+        "parkCode": "deto",
+        "designation": "National Monument",
+        "fullName": "Devils Tower National Monument",
+        "url": "https://www.nps.gov/deto/index.htm",
+        "name": "Devils Tower"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [
+      "belle fourche river hub",
+      "amphitheater",
+      "stargazing",
+      "ranger programs",
+      "trailhead",
+      "Devils Tower National Monument",
+      "Devils Tower"
+    ],
+    "latitude": "44.582910805455185",
+    "longitude": "-104.7079537916305",
+    "latLong": "44.582910805455185,-104.7079537916305",
+    "bodyText": "<p paraeid=\"{9df3681c-f9ac-4403-b29d-ccad342e45fe}{147}\" paraid=\"1194666483\">The park’s amphitheater is a great place to catch <a href=\"https://www.nps.gov/deto/planyourvisit/rangerledactivities.htm\">ranger programs</a> (in season), have a seat, or <a href=\"https://www.nps.gov/deto/planyourvisit/night-sky-viewing.htm\">stargaze</a>. The amphitheater is also the trailhead for <a href=\"https://www.nps.gov/thingstodo/hike-south-side-trail.htm\">South Side</a> and <a href=\"https://www.nps.gov/thingstodo/hike-valley-view-trail.htm\">Valley View</a> trails and has great views of the <a href=\"https://www.nps.gov/places/deto-prairiedogtown.htm\">prairie dog town</a>. </p> <p lang=\"EN-US\" paraeid=\"{6dde6b33-d075-4cad-8bd7-d86c1ef3ba8a}{49}\" paraid=\"1411821968\" xml:lang=\"EN-US\">The amphitheater is wheelchair accessible from the <a href=\"https://www.nps.gov/deto/planyourvisit/campgrounds.htm\">Belle Fourche River Campground</a> or <a href=\"https://www.nps.gov/places/deto-picnic-area.htm\">picnic area</a> parking lot. Sidewalk leads from both locations to the amphitheater, which is also paved. There is accessible parking spaces in the picnic area parking lot. </p> <p lang=\"EN-US\" paraeid=\"{81e3dee0-9c68-401f-afb3-07e3ff344718}{225}\" paraid=\"1276080284\" xml:lang=\"EN-US\">The amphitheater is in the Belle Fourche River hub, along with the Belle Fourche River Campground, picnic area, prairie dog town, and hiking trails.</p>",
+    "audioDescription": "A paved area with rows of benches in a half circle. The benches face an open stage area with a large, permanent screen. There is a small shed in the back. A hip-height stone wall lines the back of the amphitheater and walkways, separating the amphitheater from the prairie dog town. Beyond the wall, prairie dogs and burrows are scattered through a prairie meadow. Devils Tower looms in the background.",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "",
+    "isManagedByNps": "1",
+    "amenities": [
+      "Amphitheater",
+      "Benches/Seating",
+      "Fire Pit",
+      "Trailhead",
+      "Trash/Litter Receptacles",
+      "Wheelchair Accessible"
+    ],
+    "managedByOrg": "",
+    "quickFacts": [
+      {
+        "id": "5C252B96-2DEB-4EF4-91D1-B5D2B202FCD7",
+        "value": "Belle Fourche River hub, Devils Tower National Monument",
+        "name": "Location"
+      }
+    ],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  },
+  {
+    "id": "97C3275E-A0A9-4ECE-A85E-19DFB3444EFC",
+    "url": "https://www.nps.gov/places/deto-climbingkiosk.htm",
+    "title": "Climbing Kiosk (Devils Tower National Monument)",
+    "listingDescription": "Self register at the climbing kiosk before rock climbing or scrambling on Devils Tower. Registration is free and mandatory.",
+    "images": [
+      {
+        "url": "",
+        "credit": "",
+        "altText": "",
+        "title": "",
+        "description": "",
+        "caption": "",
+        "crops": []
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "WY",
+        "parkCode": "deto",
+        "designation": "National Monument",
+        "fullName": "Devils Tower National Monument",
+        "url": "https://www.nps.gov/deto/index.htm",
+        "name": "Devils Tower"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [
+      "devils tower climbing kiosk",
+      "Rock Climbing",
+      "Devils Tower National Monument",
+      "Devils Tower",
+      "DETO visitor center hub"
+    ],
+    "latitude": "44.5902612197",
+    "longitude": "-104.719595036",
+    "latLong": "44.5902612197,-104.719595036",
+    "bodyText": "<p paraeid=\"{5e58ad13-a6b2-40a6-98db-abc065b82bb7}{23}\" paraid=\"1282916875\">Register to rock climb at the climbing kiosk. The kiosk is located in the visitor center hub near the start of the <a href=\"https://www.nps.gov/thingstodo/deto-tower-trail-walk.htm\">Tower Trail</a>. Anyone who climbs or scrambles above the boulder field must self-register before starting and must deposit the return slip at the end of each climb. Learn more about <a href=\"https://www.nps.gov/deto/planyourvisit/climbing.htm\">rocking climbing at Devils Tower</a> and <a href=\"https://www.nps.gov/deto/planyourvisit/currentclimbingclosures.htm\">current route closures</a>. </p> <p lang=\"EN-US\" paraeid=\"{ac6aea12-a205-4b17-b6d8-def064057561}{51}\" paraid=\"116675820\" xml:lang=\"EN-US\">The climbing kiosk also typically has recent weather information, current climbing closures, and other pertinent information to climbers. In season, climbing rangers often patrol the area to answer questions and ensure registration. Anyone with questions or comments may call the climbing office at (307) 467-5283 x632. </p> <p lang=\"EN-US\" paraeid=\"{ac6aea12-a205-4b17-b6d8-def064057561}{78}\" paraid=\"979289790\" xml:lang=\"EN-US\">Failure to obtain a permit is subject to citation and fine. This mandatory registration is free and in the best interests of you and the climbing community: it ensures climber safety, documents use of the Tower as a climbing resource, and becomes part of a historical database that has been maintained since 1937. </p> <p lang=\"EN-US\" paraeid=\"{28a61fc2-db1e-4845-babd-79918a6f9cd7}{72}\" paraid=\"779142274\" xml:lang=\"EN-US\">Climbers are asked to park their vehicles in the lower gravel parking lot. This can be reached by taking a right at the stop sign when they reach the top of the park road.</p>",
+    "audioDescription": "A brown, 5-sided structure with a roof, similar to a gazebo. The structure is dark brown wood with an NPS arrowhead on one side.",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "77d16ca0-2aef-438d-a311-4ce61f2f51c8",
+    "isManagedByNps": "1",
+    "amenities": [
+      "Information Kiosk/Bulletin Board",
+      "Permits Issued"
+    ],
+    "managedByOrg": "",
+    "quickFacts": [
+      {
+        "id": "5C252B96-2DEB-4EF4-91D1-B5D2B202FCD7",
+        "value": "Visitor Center hub, Devils Tower National Monument",
+        "name": "Location"
+      },
+      {
+        "id": "208F1B3C-44DC-4CF5-9A61-9B26A364D701",
+        "value": "Registration kiosk for rock climbers ",
+        "name": "Significance"
+      }
+    ],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  },
+  {
+    "id": "5E2A9DF3-16E2-44C8-9CFF-F4CB5303816C",
+    "url": "https://www.nps.gov/places/deto-boulderfield.htm",
+    "title": "Devils Tower Boulder Field",
+    "listingDescription": "First stop on the Tower Trail and a must-see for visitors to the monument! The boulder field is a great start to exploring Devils Tower, learning about geology, or getting a good scramble in. We ask that visitors in the month of June stay on trail as part of the voluntary June closure.",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/C8E5633A-CBA2-A908-8589924213192514.jpg",
+        "credit": "NPS photo",
+        "altText": "a field of boulders with a paved bath winding through, the base of Devils Tower in the background",
+        "title": "Devils Tower boulder field",
+        "description": "",
+        "caption": "Explore the boulder field as your start the Tower Trail.",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/C8E5633A-CBA2-A908-8589924213192514.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/C8E5633A-CBA2-A908-8589924213192514.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "WY",
+        "parkCode": "deto",
+        "designation": "National Monument",
+        "fullName": "Devils Tower National Monument",
+        "url": "https://www.nps.gov/deto/index.htm",
+        "name": "Devils Tower"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [
+      "boulder field",
+      "tower trail",
+      "Devils Tower",
+      "Devils Tower National Monument",
+      "climbing",
+      "scrambling",
+      "DETO visitor center hub"
+    ],
+    "latitude": "44.59054194743865",
+    "longitude": "-104.71648016544752",
+    "latLong": "44.59054194743865,-104.71648016544752",
+    "bodyText": "<p paraeid=\"{fc5c9f79-92b8-441a-94e1-4cf376bcbde1}{173}\" paraid=\"827932320\">As the first stop on the Tower Trail, the boulder field is the first close-up impression you get of Devils Tower. From the trail, the Tower appears perched atop this giant pile of boulders. Cracks in the Tower’s columns lead people to wonder “How often do they fall?” and “Am I likely to get hit?” The answer to the former is not often, with the last large chunk of column falling over 100 years ago. The second question, however, is possible, though very unlikely.</p> <p lang=\"EN-US\" paraeid=\"{40bf457f-d918-4f6d-a338-377560cf0535}{77}\" paraid=\"125435271\" xml:lang=\"EN-US\">Boulders range from small pebbles to the size of refrigerators and the length of school buses. The boulder field inspires visitors of all ages to and climb and scramble all over. If you feel compelled, feel free, just be safe and do not venture above the boulder field unless you register at the <a href=\"https://www.nps.gov/places/deto-climbingkiosk.htm\">climbing kiosk</a>. </p> <p lang=\"EN-US\" paraeid=\"{5c4d394c-4a1c-4032-a73e-43621a64e3ee}{61}\" paraid=\"198366129\" xml:lang=\"EN-US\">The boulder field is a great place to watch rock climbers. In spring, summer, and fall, around 5,000 people climb Devils Tower. Only about half will summit, but often that’s intentional – reaching the top isn’t always the goal. You may even catch a climbing ranger out on patrol. </p> <p lang=\"EN-US\" paraeid=\"{45e62c4c-8c5b-4a8c-a829-3942865666c3}{230}\" paraid=\"997718980\" xml:lang=\"EN-US\">Devils Tower is special to people throughout time and place. Those who visit the Tower up close feel it. Over 26 Native American tribes consider the Tower sacred; many have visited for centuries and continue to do so today. Learn more about the <a href=\"https://www.nps.gov/deto/learn/historyculture/americanindians.htm\">cultural connections here</a>. </p> <h3 lang=\"EN-US\" paraeid=\"{2368bd2b-613a-4089-8f65-309ab2f9c5b8}{82}\" paraid=\"42767971\" xml:lang=\"EN-US\">Visiting in June? </h3> <p lang=\"EN-US\" paraeid=\"{3c4bec0d-2dcb-451f-a618-13eeabc304bf}{12}\" paraid=\"1062238250\" xml:lang=\"EN-US\">If you visit the boulder field during the month of June, we ask that you stay on the Tower Trail and do not scramble on the boulders. This area is part of the <a href=\"https://www.nps.gov/deto/planyourvisit/currentclimbingclosures.htm\">voluntary June closure</a> to respect Native American cultural values. The closure is part of the 1995 Climbing Management Plan and was agreed upon a work group including climbers and tribal representatives. </p> <p lang=\"EN-US\" paraeid=\"{45e62c4c-8c5b-4a8c-a829-3942865666c3}{230}\" paraid=\"997718980\" xml:lang=\"EN-US\"> </p>",
+    "audioDescription": "A large pile of gray-brown boulders of all different shapes and sizes, with a paved trail winding through them. Devils Tower rises out of the background. Boulders range from basketball size to the length of school buses.",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "",
+    "isManagedByNps": "1",
+    "amenities": [
+      "Benches/Seating",
+      "Scenic View/Photo Spot",
+      "Trailhead"
+    ],
+    "managedByOrg": "",
+    "quickFacts": [
+      {
+        "id": "5C252B96-2DEB-4EF4-91D1-B5D2B202FCD7",
+        "value": "Tower Trail, visitor center hub, Devils Tower National Monument",
+        "name": "Location"
+      },
+      {
+        "id": "208F1B3C-44DC-4CF5-9A61-9B26A364D701",
+        "value": "Rubble from continuing natural erosion of Devils Tower ",
+        "name": "Significance"
+      }
+    ],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  },
+  {
+    "id": "5A1A15CD-2CB0-43F4-8F50-2D537CBAD78C",
+    "url": "https://www.nps.gov/places/devils-tower-national-monument-entrance-station.htm",
+    "title": "Devils Tower National Monument Entrance Station",
+    "listingDescription": "This is the only entrance to Devils Tower national monument and is a historic entrance station at Devils Tower National Monument",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/E6D80EE4-B4D9-7652-05E49B095C20C0EB.jpg",
+        "credit": "NPS",
+        "altText": "Devils tower in background american flag and entrance station",
+        "title": "Entrance in Winter",
+        "description": "",
+        "caption": "Devils Tower National Monument Entrance Station in Winter",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/E6D80EE4-B4D9-7652-05E49B095C20C0EB.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/E6D80EE4-B4D9-7652-05E49B095C20C0EB.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "WY",
+        "parkCode": "deto",
+        "designation": "National Monument",
+        "fullName": "Devils Tower National Monument",
+        "url": "https://www.nps.gov/deto/index.htm",
+        "name": "Devils Tower"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [
+      "Devils Tower",
+      "devils tower entrance station",
+      "entrance station",
+      "Devils Tower National Monument Entrance Station"
+    ],
+    "latitude": "",
+    "longitude": "",
+    "latLong": "",
+    "bodyText": "The entrance station at Devils Tower National Monument is historic. This was built by the Civilian Conservation Corps in 1935",
+    "audioDescription": "The entrance station at Devils Tower National Monument is historic. This was built by the Civilian Conservation Corps in 1935. There is a view of the massive rock monolith 1.5 miles away.",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "",
+    "isManagedByNps": "1",
+    "amenities": [
+      "Information",
+      "Information - Maps Available",
+      "Information - Park Newspaper Available",
+      "Information - Ranger/Staff Member Present",
+      "Information Kiosk/Bulletin Board"
+    ],
+    "managedByOrg": "",
+    "quickFacts": [
+      {
+        "id": "5C252B96-2DEB-4EF4-91D1-B5D2B202FCD7",
+        "value": "Devils Tower, WY",
+        "name": "Location"
+      },
+      {
+        "id": "208F1B3C-44DC-4CF5-9A61-9B26A364D701",
+        "value": "How to get into the park",
+        "name": "Significance"
+      }
+    ],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  },
+  {
+    "id": "36844269-997F-45EC-9D48-4947622EBF0E",
+    "url": "https://www.nps.gov/places/deto-picnic-area.htm",
+    "title": "Devils Tower Picnic Area",
+    "listingDescription": "Devils Tower Picnic Area is conveniently located in the Belle Fourche River hub, near the Belle Fourche River Campground, the prairie dog town, and hiking trails.",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/663ED922-BBF3-1623-C50F68A79EAB99F7.jpg",
+        "credit": "NPS photo",
+        "altText": "picnic benches under leafy trees in a grass field",
+        "title": "Devils Tower Picnic Area",
+        "description": "",
+        "caption": "The picnic area is a great place to hang in the shade.",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/663ED922-BBF3-1623-C50F68A79EAB99F7.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/663ED922-BBF3-1623-C50F68A79EAB99F7.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "WY",
+        "parkCode": "deto",
+        "designation": "National Monument",
+        "fullName": "Devils Tower National Monument",
+        "url": "https://www.nps.gov/deto/index.htm",
+        "name": "Devils Tower"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [
+      "belle fourche river hub",
+      "Devils Tower National Monument",
+      "Devils Tower",
+      "picnic",
+      "picnic area",
+      "devils tower picnic area"
+    ],
+    "latitude": "44.58196903198039",
+    "longitude": "-104.70880508422852",
+    "latLong": "44.58196903198039,-104.70880508422852",
+    "bodyText": "<p paraeid=\"{673a670d-6b13-4083-8100-b925518d4e8e}{14}\" paraid=\"246614727\">Take a break from exploring the Tower and <a href=\"https://www.nps.gov/thingstodo/eat-lunch-at-the-devils-tower-picnic-area.htm\">eat lunch at the Devils Tower picnic area</a>! Enjoy views of Devils Tower on one side and the Belle Fourche River on the other. Picnic tables are scattered under cottonwood trees and in a picnic shelter. Restrooms and drinking water (seasonally) are nearby. Practice fire safety when using the grills in the picnic area. Do not leave fires unattended and ensure fires are extinguished before leaving. As always, check for any fire restrictions before using the grills.</p> <p lang=\"EN-US\" paraeid=\"{1fe9fd54-623a-4f00-b866-930a16ff0519}{64}\" paraid=\"2104452760\" xml:lang=\"EN-US\">The picnic area is part of the Belle Fourche River hub, along with <a href=\"https://www.nps.gov/thingstodo/hike-south-side-trail.htm\">South Side</a> and <a href=\"https://www.nps.gov/thingstodo/hike-valley-view-trail.htm\">Valley View</a> trails, <a href=\"https://www.nps.gov/deto/planyourvisit/campgrounds.htm\">Belle Fourche River Campground</a> and amphitheater, and the prairie dog town.</p>",
+    "audioDescription": "Brown picnic tables scattered under tall leafy trees in the grass. Some picnic tables are under a shelter with a roof and no walls. A river winds through the prairie on one side.",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "",
+    "isManagedByNps": "1",
+    "amenities": [
+      "Benches/Seating",
+      "Grill",
+      "Information Kiosk/Bulletin Board",
+      "Parking - Auto",
+      "Picnic Shelter/Pavilion",
+      "Picnic Table",
+      "Recycling",
+      "Restroom - Seasonal",
+      "Toilet - Flush",
+      "Trash/Litter Receptacles",
+      "Water - Drinking/Potable"
+    ],
+    "managedByOrg": "",
+    "quickFacts": [
+      {
+        "id": "5C252B96-2DEB-4EF4-91D1-B5D2B202FCD7",
+        "value": "Belle Fourche River hub, Devils Tower National Monument",
+        "name": "Location"
+      }
+    ],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  },
+  {
+    "id": "A1453A79-5C52-4100-8D41-8BFC12661706",
+    "url": "https://www.nps.gov/places/joyner-ridge.htm",
+    "title": "Joyner Ridge",
+    "listingDescription": "Solitude and scenery awaits you at Joyner Ridge. Hike or sit and enjoy the sights and sounds of nature. Ideal for photographing Devils Tower, avoiding crowds, and stargazing at night.",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/30676558-DB65-105D-6D05F65BDCCE700A.jpg",
+        "credit": "NPS Photo",
+        "altText": "a bench in the shade of a pine tree looking out over prairie and Devils Tower",
+        "title": "Joyner Ridge",
+        "description": "",
+        "caption": "This bench is the perfect place to enjoy Devils Tower in peace.",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/30676558-DB65-105D-6D05F65BDCCE700A.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/30676558-DB65-105D-6D05F65BDCCE700A.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "WY",
+        "parkCode": "deto",
+        "designation": "National Monument",
+        "fullName": "Devils Tower National Monument",
+        "url": "https://www.nps.gov/deto/index.htm",
+        "name": "Devils Tower"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [
+      "hiking",
+      "scenic vista",
+      "Joyner Ridge",
+      "Devils Tower",
+      "Devils Tower National Monument",
+      "joyner",
+      "newell joyner"
+    ],
+    "latitude": "44.59753869222243",
+    "longitude": "-104.72253799438477",
+    "latLong": "44.59753869222243,-104.72253799438477",
+    "bodyText": "<p lang=\"EN-US\" paraeid=\"{287ac1e3-519d-4639-843a-5c7babcf517c}{163}\" paraid=\"802754861\" xml:lang=\"EN-US\">Joyner Ridge is one of the quietest, yet most scenic, places in Devils Tower National Monument. Set to the north of the Tower, Joyner Ridge offers brilliant views of the Tower itself and surrounding landscape as well as choice examples of ponderosa pine forest and mixed grass prairie. This area is also popular with stargazers and astro-photographers because of its wide open, dark night skies. The ridge is named for the monument’s most notable custodian, <a href=\"https://www.nps.gov/deto/learn/historyculture/newell-joyner.htm\">Newell Joyner</a>. </p> <h3 lang=\"EN-US\" paraeid=\"{deaab5f4-810f-4cc6-a522-8574f8108137}{101}\" paraid=\"858804124\" xml:lang=\"EN-US\">What to Do </h3> <p lang=\"EN-US\" paraeid=\"{4f03440c-a4ab-48a2-896e-f044e1ac7117}{231}\" paraid=\"1114981617\" xml:lang=\"EN-US\">Joyner Ridge has a small parking area with great views of Devils Tower during the day and the stars at night. Take in the scenery from your vehicle or hike <a href=\"https://www.nps.gov/thingstodo/hike-joyner-ridge-trail.htm\">Joyner Ridge Trail</a>, a 1.5 mile loop trail that explores the ridgeline and valley below.  Wayside exhibits along the trail interpret the monument’s natural and cultural significance. A bench sits at the top of Joyner Ridge, along trail and close to the parking area, for comfortable contemplation of the Tower. </p> <h3 lang=\"EN-US\" paraeid=\"{f776b2e4-4f78-4765-9b56-31464a45d83c}{245}\" paraid=\"1843120373\" xml:lang=\"EN-US\">How to Get There </h3> <p lang=\"EN-US\" paraeid=\"{fe619700-5bdf-47eb-babf-a2bdffbd26bc}{47}\" paraid=\"1322631943\" xml:lang=\"EN-US\">From the park entrance station, take the park road about 2 miles, then turn left onto the gravel road. There is a sign just before the intersection for Joyner Ridge. Take the gravel road about 0.3 miles, then turn right into the small gravel parking area. Joyner Ridge trail leaves from here. RVs and motorcycles are not recommended on the gravel road. </p> <h3 lang=\"EN-US\" paraeid=\"{519aecf3-a2b9-457c-961e-ccc985640f63}{28}\" paraid=\"1806034684\" xml:lang=\"EN-US\">Considerations When Visiting </h3> <ul role=\"list\"> <li aria-setsize=\"-1\" data-aria-level=\"1\" data-aria-posinset=\"1\" data-font=\"Symbol\" data-leveltext=\"\" data-listid=\"1\" role=\"listitem\"> <p lang=\"EN-US\" paraeid=\"{519aecf3-a2b9-457c-961e-ccc985640f63}{212}\" paraid=\"1933306650\" xml:lang=\"EN-US\">No Restrooms or Water – both are available at the picnic area or visitor center (seasonally) </p> </li> <li aria-setsize=\"-1\" data-aria-level=\"1\" data-aria-posinset=\"2\" data-font=\"Symbol\" data-leveltext=\"\" data-listid=\"1\" role=\"listitem\"> <p lang=\"EN-US\" paraeid=\"{22a2f619-efc7-40d9-a2ec-945ee0a082bc}{56}\" paraid=\"960312753\" xml:lang=\"EN-US\">No camping overnight – camping in the park is only allowed at the Belle Fourche River Campground </p> </li> <li aria-setsize=\"-1\" data-aria-level=\"1\" data-aria-posinset=\"3\" data-font=\"Symbol\" data-leveltext=\"\" data-listid=\"1\" role=\"listitem\"> <p lang=\"EN-US\" paraeid=\"{eaf22f9f-b8be-4bd7-9bf2-c69398554075}{36}\" paraid=\"89096485\" xml:lang=\"EN-US\">You may visit at night to hike or stargaze, but you cannot park or camp overnight </p> </li> <li aria-setsize=\"-1\" data-aria-level=\"1\" data-aria-posinset=\"4\" data-font=\"Symbol\" data-leveltext=\"\" data-listid=\"1\" role=\"listitem\"> <p lang=\"EN-US\" paraeid=\"{d7f3d19f-0f29-4951-a695-d8fba9625601}{152}\" paraid=\"1031789037\" xml:lang=\"EN-US\">Joyner Ridge is exposed to the elements – summers are hot and sunny and the trail is covered in ice and snow during the winter months </p> </li> <li aria-setsize=\"-1\" data-aria-level=\"1\" data-aria-posinset=\"5\" data-font=\"Symbol\" data-leveltext=\"\" data-listid=\"1\" role=\"listitem\"> <p lang=\"EN-US\" paraeid=\"{033a1974-3de4-4747-876a-9ff2764b2119}{173}\" paraid=\"1033449912\" xml:lang=\"EN-US\">Dogs are not allowed on Joyner Ridge Trail. Dogs on leash may be walked along the gravel road to Joyner Ridge. </p> </li> </ul>",
+    "audioDescription": "A bench sits atop a grassy ridgeline with tall pine trees around and behind. From the bench, the ridgeline slopes down into open grass prairie. Devils Tower looms in the background: a tall, ridged tower of gray and brown rock with the base studded in boulders and pine trees. A dirt trail leads from the gravel parking area behind the bench and into the trees, circling down into the prairie downslope and back to the parking area. Prayer bundles hang from the trees: colorful fabric bundles tied to tree branches.",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "",
+    "isManagedByNps": "1",
+    "amenities": [
+      "Benches/Seating",
+      "Historical/Interpretive Information/Exhibits",
+      "Parking - Auto",
+      "Scenic View/Photo Spot",
+      "Trailhead"
+    ],
+    "managedByOrg": "",
+    "quickFacts": [
+      {
+        "id": "5C252B96-2DEB-4EF4-91D1-B5D2B202FCD7",
+        "value": "Devils Tower National Monument",
+        "name": "Location"
+      },
+      {
+        "id": "208F1B3C-44DC-4CF5-9A61-9B26A364D701",
+        "value": "Scenic area named after Newell Joyner ",
+        "name": "Significance"
+      },
+      {
+        "id": "E32D2136-A184-4C1A-91D2-4C20CEF9CBAF",
+        "value": "In a national park, no official designation ",
+        "name": "Designation"
+      }
+    ],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  },
+  {
+    "id": "18959E1A-EE27-4363-91D8-8CDBEAFD0425",
+    "url": "https://www.nps.gov/places/deto-prairiedogtown.htm",
+    "title": "Prairie Dog Town (Devils Tower National Monument)",
+    "listingDescription": "Check out the prairie dog town, a bustling community of over 600 residents! The prairie dog town is a great place to watch for wildlife, take a stroll, or enjoy the sweeping view of Devils Tower.",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/67814F6C-9F6D-74B6-EEC778700B32BD27.jpg",
+        "credit": "NPS photo",
+        "altText": "prairie grasses in the foreground, with prairie dogs and burrows in the middle ground",
+        "title": "Devils Tower prairie dog town",
+        "description": "",
+        "caption": "See prairie dogs from the car or on one of our hiking trails.",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/67814F6C-9F6D-74B6-EEC778700B32BD27.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/67814F6C-9F6D-74B6-EEC778700B32BD27.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "WY",
+        "parkCode": "deto",
+        "designation": "National Monument",
+        "fullName": "Devils Tower National Monument",
+        "url": "https://www.nps.gov/deto/index.htm",
+        "name": "Devils Tower"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [
+      "prairie dog",
+      "Prairie Dog Town",
+      "Devils Tower",
+      "Devils Tower National Monument",
+      "belle fourche river hub"
+    ],
+    "latitude": "44.58513707252805",
+    "longitude": "-104.70787361728443",
+    "latLong": "44.58513707252805,-104.70787361728443",
+    "bodyText": "<p lang=\"EN-US\" paraeid=\"{4a49e496-8624-474b-abc3-dc4e6857a80a}{215}\" paraid=\"1494238110\" xml:lang=\"EN-US\">Located near the Belle Fourche River, the park’s prairie dog town spans 40 acres and is home to over 600 residents. Prairie dogs are not only cute, they are also a keystone species vital to the park’s ecosystem. In town, you will also find deer, foxes, and birds of prey. <a href=\"https://www.nps.gov/deto/learn/nature/prairiedogs.htm\">Learn more about prairie dogs on the park website.</a> </p> <p lang=\"EN-US\" paraeid=\"{46d6a5fe-dee1-463a-8dd3-6b2b16957d8b}{166}\" paraid=\"852767448\" xml:lang=\"EN-US\">View prairie dog town <a href=\"https://www.nps.gov/thingstodo/watch-for-wildlife-at-prairie-dog-town.htm\">from your car</a> or explore on foot on the <a href=\"https://www.nps.gov/thingstodo/hike-south-side-trail.htm\">South Side</a> or <a href=\"https://www.nps.gov/thingstodo/hike-valley-view-trail.htm\">Valley View</a> trails. Do not approach or feed wildlife in the park. <a href=\"https://www.nps.gov/deto/learn/nature/wildlife-safety.htm\">Keep wildlife wild</a> by observing from a distance, using a zoom lens for photographs, and disposing of trash properly. </p> <p paraeid=\"{89c0f131-8779-4e6b-9bf1-de1c2c86cf00}{104}\" paraid=\"1996555088\">The prairie dog town is part of the Belle Fourche River hub, near the <a href=\"https://www.nps.gov/deto/planyourvisit/campgrounds.htm\">Belle Fourche River Campground</a> and amphitheater, <a href=\"https://www.nps.gov/places/deto-picnic-area.htm\">picnic area</a>, and hiking trails. </p>",
+    "audioDescription": "A prairie meadow dotted with small burrows. Prairie dogs perch at the opening of many burrows, or scurry between them. Birds soar overhead. Deer occasionally wander through. The prairie dogs scurry underground when a fox trots by. The town is divided by the park road. Cars park along pullouts to take pictures of the town.",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "",
+    "isManagedByNps": "1",
+    "amenities": [
+      "Parking - Auto",
+      "Parking - Bus/RV",
+      "Scenic View/Photo Spot"
+    ],
+    "managedByOrg": "",
+    "quickFacts": [
+      {
+        "id": "5C252B96-2DEB-4EF4-91D1-B5D2B202FCD7",
+        "value": "Belle Fourche River hub, Devils Tower National Monument",
+        "name": "Location"
+      },
+      {
+        "id": "208F1B3C-44DC-4CF5-9A61-9B26A364D701",
+        "value": "One of few remaining prairie dog towns in Black Hills area",
+        "name": "Significance"
+      }
+    ],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [
+      {
+        "title": "Prairie Dogs",
+        "id": "B2A0D1D9-1DD8-B71B-0BE8-EBC5142F97D9",
+        "type": "multimedia/galleries",
+        "url": "https://www.nps.gov/media/photo/gallery.htm?pg=6674951&id=B2A0D1D9-1DD8-B71B-0BE8-EBC5142F97D9"
+      }
+    ],
+    "relevanceScore": 1
+  }
+]

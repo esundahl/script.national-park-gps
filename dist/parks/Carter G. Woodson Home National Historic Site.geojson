@@ -1,0 +1,20 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.024081,
+          38.910895
+        ]
+      },
+      "properties": {
+        "name": "Carter G. Woodson Home NHS",
+        "notes": "Carter G. Woodson Home NHS\nhttps://www.nps.gov/places/000/carter-g-woodson-home-nhs.htm\n\n<p>Before Dr. Carter G. Woodson, there was very little accurate written history about the lives and experiences of Americans of African descent. Dr. Woodson's office-home served as the headquarters for both the Association for the Study of African American Life and History, Inc. (ASALH) and his publishing company, the Associated Publishers, Inc. Here, Dr. Woodson established Negro History Week in 1926, which we celebrate today as Black History Month.<br /> Plaque<br /> CARTER G. WOODSON HOUSE<br /> HAS BEEN DESIGNATED A<br /> NATIONAL HISTORIC LANDMARK<br /> THIS SITE POSSESSES NATIONAL SIGNIFICANCE IN COMMEMORATING THE HISTORY OF THE UNITED STATES OF AMERICA<br /> 1976<br /> NATIONAL PARK SERVICE<br /> UNITED STATES DEPARTMENT OF THE INTERIOR.</p>",
+        "icon": "red-pin-down.png"
+      }
+    }
+  ]
+}

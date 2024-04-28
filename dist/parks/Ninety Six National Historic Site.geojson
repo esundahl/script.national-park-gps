@@ -1,0 +1,35 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.02329551285897,
+          34.14666928060806
+        ]
+      },
+      "properties": {
+        "name": "Ninety Six Park Store",
+        "notes": "Ninety Six Park Store\nhttps://www.nps.gov/places/ninety-six-park-store.htm\n\n<p>The park store is operated by <a href=\"https://shop.americasnationalparks.org/store/\">America's National Parks™</a>, an official no-profit partner of the National Park Service dedicated to supporting the educational mission of Ninety Six National Historic Site.The park store has a wide range of books, media, educational games, and other items available for retail sale. These products complement the interpretive themes you experience when visiting the park.<br /> <br /> The park store is located inside the Ninety Six Visitor Center, or you can visit the<a href=\"https://shop.americasnationalparks.org/store/home/5631/Ninety-Six-National-Historical-Site/\"> online park store</a>.<br /> <br /> The store is open during regular visitor center hours of operation.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.01,
+          34.147
+        ]
+      },
+      "properties": {
+        "name": "Ninety Six Star Fort Pond",
+        "notes": "Ninety Six Star Fort Pond\nhttps://www.nps.gov/places/ninety-six-star-fort-pond.htm\n\n<p>Built in the 1950s by the Greenwood Mill Company, the Star Fort Pond provides the community with opportunities for fishing, hiking, and bird watching. Located on the backside of the park off Highway 246 on Kinard Road the pond can be a amazing place to enjoy nature. <br /> <br /> Hiking can be done year round. The Fisherman's Trail travels around the park, providing access to the lake at several points. While traveling this trail be wary of stinging and biting insects and snakes.<br /> <br /> The Star Fort Pond is home to many species of birds, especially aquatic birds. While many of these birds, such as great blue herons, are year round residents other, such as the ruddy duck, are seasonal. <br /> <br /> The fishing season at the Star Fort Pond is limited from April through October. Visitors may cast a line on Wednesdays, Fridays and Saturdays. Fishing can be done from the bank, the fishing pier, or from a boat. Check out the <a href=\"https://www.nps.gov/nisi/planyourvisit/fishing.htm\">fishing page</a> to learn more about the rules and regulations. </p>",
+        "icon": "red-pin-down.png"
+      }
+    }
+  ]
+}

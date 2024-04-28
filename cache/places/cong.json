@@ -1,0 +1,65 @@
+[
+  {
+    "id": "4E546B48-B9D4-4594-BCE6-32543B15C00A",
+    "url": "https://www.nps.gov/places/congaree-np-park-store.htm",
+    "title": "Congaree NP Park Store",
+    "listingDescription": "",
+    "images": [
+      {
+        "url": "",
+        "credit": "",
+        "altText": "",
+        "title": "",
+        "description": "",
+        "caption": "",
+        "crops": []
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "SC",
+        "parkCode": "cong",
+        "designation": "National Park",
+        "fullName": "Congaree National Park",
+        "url": "https://www.nps.gov/cong/index.htm",
+        "name": "Congaree"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [
+      "gifts",
+      "bookstore",
+      "Souvenir"
+    ],
+    "latitude": "33.8296859",
+    "longitude": "-80.8236619",
+    "latLong": "33.8296859,-80.8236619",
+    "bodyText": "The park store is operated by <a href=\"https://americasnationalparks.org/\">America's National Parks</a>, an official non-profit partner of the National Park Service dedicated to supporting the educational mission of Congaree National Park. The park store has a wide range of books, media, educational games, and other items available for retail sale. These products complement the interpretive themes you experience when visiting the park. The park store is located at the Harry Hampton Visitor Center, or you can visit the <a href=\"https://shop.americasnationalparks.org/store/home/5191/Congaree-National-Park/\">online park store</a>.",
+    "audioDescription": "",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "",
+    "isManagedByNps": "1",
+    "amenities": [
+      "Gifts/Souvenirs/Books"
+    ],
+    "managedByOrg": "",
+    "quickFacts": [
+      {
+        "id": "5C252B96-2DEB-4EF4-91D1-B5D2B202FCD7",
+        "value": "100 National Park Road, Hopkins, SC 29061",
+        "name": "Location"
+      }
+    ],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  }
+]

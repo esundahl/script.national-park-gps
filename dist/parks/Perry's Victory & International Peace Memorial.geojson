@@ -1,0 +1,35 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.8139328956604,
+          41.65348311715819
+        ]
+      },
+      "properties": {
+        "name": "Commodore Perry's Longboat",
+        "notes": "Commodore Perry's Longboat\nhttps://www.nps.gov/places/perryslongboat.htm\n\nDuring the Battle of Lake Erie, Commodore Oliver Hazard Perry realized that his flagship the Brig Lawrence had sustained great damage and loss of life. In order to increase his advantage of winning the battle, he decided to move his command to the second flagship, the Brig Niagara. While the battle raged, Perry boarded a longboat with his \"Dont Give Up the Ship\" flag in hand. A small crew rowed the boat across the lake between the two ships. They miraculoulsy dodged the ensuing gunfire and Commodore Perry took command from the Brig Niagara and won the Battle of Lake Erie. <br /> <br /> Perry's longboat along with the \"DGUTS\" flag is the iconic representation of the Battle of Lake Erie. <br /> <br /> This boat is a replica based on historical accounts of boat designs from that era. It is on display at the park mid-May to mid-October.<br />  <br /> <br /> <br />  ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.81316041946411,
+          41.65381980299794
+        ]
+      },
+      "properties": {
+        "name": "Flags of International Peace",
+        "notes": "Flags of International Peace\nhttps://www.nps.gov/places/flags-of-international-peace.htm\n\nThe international peace aspect of the Memorial is represented in several ways throughout the park but most visibly at the flag poles. Situated midway between the visitor center and the Memorial are three poles. During the summer, everyday around 9:45 am, National Park Service Rangers in park uniform and sometimes in 1812 military dress, raise and salute the official flags from the United States, Canada and Great Britain.<br /> <br /> A \"Treaty of Peace and Amity Between the United States and Great Britain\"<strong> </strong>was signed on December 24, 1814. It ended the War of 1812, fought between Great Britain and the United States. The Battle of Lake Erie was conducted along Canada's border (which was under British rule at that time).<br /> <br /> The U.S. flag goes up first on the right (closest to the Memorial), followed by the British in the center and the Canadian flag on the left.  All three flags fly at the same height throughout the day. Around 6 pm every evening, in the reverse order of how they were raised, the flags are lowered. Each flag is folded per that conuntry's tradition.  <br /> <br /> A blue flag with the words “Dont Give Up The Ship” is flown in the remaining hours of the day. The original \"DGUTS\" flag was carried by Commodore Perry when he left his command post on the flagship Brig Niagara and transferred to the second flagship, Brig Lawrence. From hence he defeated the British in the Battle of Lake Erie. <br /> <br /> Flown every year on Flag Day, June 14, the national flags are replaced with three historic versions of the United States of America flag. Included are the 50 Stars and Stripes, which is current today, and flags referred to as the Betsy Ross (1777 to 1795) and the Star Spangled Banner (1795 to 1818) flags. ",
+        "icon": "red-pin-down.png"
+      }
+    }
+  ]
+}

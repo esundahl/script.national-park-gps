@@ -1,0 +1,1039 @@
+[
+  {
+    "id": "68AB7C57-A622-4D47-A7F5-CE2FB1FC8052",
+    "url": "https://www.nps.gov/places/1883-monument.htm",
+    "title": "1883 Monument",
+    "listingDescription": "",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/D65E2B4C-B21B-C4ED-0813EC682E55F470.jpg",
+        "credit": "NPS photo",
+        "altText": "Trail leading towards 6-ton granite, obelisk shaped monument amongst lodgepole pine trees with Visit",
+        "title": "1883 Monument",
+        "description": "",
+        "caption": "Monument placed in 1863 to honor those soldiers and civilians that died here.",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/D65E2B4C-B21B-C4ED-0813EC682E55F470.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/D65E2B4C-B21B-C4ED-0813EC682E55F470.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "MT",
+        "parkCode": "biho",
+        "designation": "National Battlefield",
+        "fullName": "Big Hole National Battlefield",
+        "url": "https://www.nps.gov/biho/index.htm",
+        "name": "Big Hole"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [
+      "monument",
+      "granite",
+      "7th infantry",
+      "Bitterroot Civilian Volunteers"
+    ],
+    "latitude": "45.64627549689395",
+    "longitude": "-113.65269192650739",
+    "latLong": "45.64627549689395,-113.65269192650739",
+    "bodyText": "Soldier/Civilian Volunteer Monument In 1883, six years after the Battle of the Big Hole, a 6-ton granite monument was placed on the battlefield to remember and honor the officers and soldiers of the 7 th US Infantry and the civilian volunteers who had fought and died during the battle. In 1882 Secretary of War Robert T. Lincoln authorized the building and erection of the monument and the stone was cut in Concord, New Hampshire. On three sides there are inscriptions carved into the stone including the names of the fallen.<br /> <br /> The monument was transported by train to Dillon, Montana and brought the rest of the way to the battlefield in a wagon pulled by oxen. A detachment of soldiers under the supervision of First Lieutenant J.P. Thompson of the Third US Infantry Regiment out of Missoula, Montana would put the monument in place.<br /> <br /> In the ensuing years the monument would see vandalism from souvenir and relic seekers and in 1909 a wrought iron steel fence was placed around it to protect it. In 1967 the fence was taken down and the monument still stands in the Siege Area.",
+    "audioDescription": "In front of you is a 6-ton granite monument in a obelisk shape. The granite has inscription on all four sides.",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "",
+    "isManagedByNps": "1",
+    "amenities": [
+      "Benches/Seating"
+    ],
+    "managedByOrg": "",
+    "quickFacts": [
+      {
+        "id": "5C252B96-2DEB-4EF4-91D1-B5D2B202FCD7",
+        "value": "The monument is located along the 1.2 mile round trip siege trail.",
+        "name": "Location"
+      }
+    ],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  },
+  {
+    "id": "3B74CC28-816B-40FE-B243-DD313C680215",
+    "url": "https://www.nps.gov/places/bear-paw-battlefield.htm",
+    "title": "Bear Paw Battlefield",
+    "listingDescription": "The Bear Paw Battlefield is the location of the final battle of the Nez Perce Flight of 1877. Following the breakout of war in Idaho, approximately 800 Nimiipuu (Nez Perce) spent a long and arduous summer fleeing U.S. Army troops first toward Crow allies and then toward refuge in Canada. The Nimiipuu arrived at C’aynnim Alikinwaaspa (Place of the Manure Fire, now known as the Bear Paw Battlefield), a mere forty miles short of the Canadian border.",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/662C54BD-AF0B-34EE-F2C6D9D5BE586C8D.jpg",
+        "credit": "NPS Photo",
+        "altText": "A yellow grass rolling hill with mountains in the distance and a blue near-cloudless sky",
+        "title": "Bear Paw Battlefield",
+        "description": "",
+        "caption": "Bear Paw Battlefield is the last battle during the Flight of 1877",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/662C54BD-AF0B-34EE-F2C6D9D5BE586C8D.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/662C54BD-AF0B-34EE-F2C6D9D5BE586C8D.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "MT",
+        "parkCode": "biho",
+        "designation": "National Battlefield",
+        "fullName": "Big Hole National Battlefield",
+        "url": "https://www.nps.gov/biho/index.htm",
+        "name": "Big Hole"
+      },
+      {
+        "states": "ID,MT,OR,WA",
+        "parkCode": "nepe",
+        "designation": "National Historical Park",
+        "fullName": "Nez Perce National Historical Park",
+        "url": "https://www.nps.gov/nepe/index.htm",
+        "name": "Nez Perce"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [
+      "Flight of 1877",
+      "Nez Perce",
+      "nez perce national historic trail",
+      "Nez Perce National Historical Park",
+      "big hole national battlefield",
+      "US Army"
+    ],
+    "latitude": "48.3779786861",
+    "longitude": "-109.212873467",
+    "latLong": "48.3779786861,-109.212873467",
+    "bodyText": "<p>The Bear Paw Battlefield is the location of the final battle of the <a href=\"https://www.nps.gov/nepe/learn/historyculture/1877.htm\">Nez Perce Flight of 1877.</a> Following the breakout of war in Idaho, approximately 800 Nimiipuu<em> </em>(Nez Perce) spent a long and arduous summer fleeing U.S. Army troops first toward Crow allies and then toward refuge in Canada. After the skirmishes at <a href=\"https://www.nps.gov/nepe/learn/historyculture/canyon-creek-history.htm\">Canyon Creek</a>, the Nimiipuu arrived at <em>C’aynnim Alikinwaaspa</em> (Place of the Manure Fire, now known as the Bear Paw Battlefield), a mere forty miles short of the Canadian border. Following a five-day battle and siege, the Nimiipuu ceased fighting at Bear Paw on October 5th, 1877, in which Chief Joseph gave his immortal speech: \"From where the sun now stands, I will fight no more forever.\"</p> <h2>The Battle at Bear Paw</h2> <h3>September 29, 1877</h3> <p>Abundant game and fresh water offered by Snake Creek made <em>C’aynnim Alikinwaaspa </em>a good place to camp and gather supplies<em>. </em>With <a href=\"https://www.nps.gov/places/general-oliver-otis-howard-house.htm\">General Oliver Otis Howard</a> far behind them the Nimiipuu thought they had time to rest their weary hearts, bodies, and horses, and to hunt and butcher some bison before the final push to Canada.</p> <p>Their tipis destroyed at <a href=\"https://www.nps.gov/biho/learn/historyculture/index.htm\">Big Hole</a> left little else for protection. The people spent the night huddled in crude lodges and lean-tos, warmed only by blankets and fire pits burning bison dung.</p> <h3>September 30, 1877</h3> <p>The morning found the non-treaty Nimiipuu preparing to break camp and head north. A rider pulled his horse to a halt on the south bluff waving a blanket to warn everyone that soldiers would be upon them in moments. <a href=\"https://www.nps.gov/people/nelson-miles.htm\">Colonel Nelson Miles</a> commanding 450 men had traveled approximately 260 miles in 9 days in an attempt to intercept the Nimiipuu.</p> <p>Some Nimiipuu attempted to escape. Warriors rushed to the bluffs above the camp to defend it. Others ran into camp to aid with the defense. The families trapped in camp sought shelter. Some, knowing the horses were critical to their escape, rushed to protect the herd. Black Eagle recalled: \"I left going for the horses. I saw our horses not far away. The horses were wise to the shooting and all began to stampede.\"</p> <p>The attack came in two sweeping wings. The 2nd Cavalry hit the horse herd to the west of camp and in a five mile running battle captured most of the Nimiipuu horses. The 7th Cavalry charged directly towards the bluffs above the camp; warriors rose up from just below the edge of the bluff and stopped the charge cold. The fighting was intense with soldiers and warriors locked in close combat. With the aid of the 5th Infantry the soldiers secured the southern bluff but the warriors kept the soldiers from the camp and their families. Though the army was stopped, the Nimiipuu<em> </em>suffered serious losses as 26 died the first day including Chiefs <em>Ollikut </em>(Joseph's younger brother<em>) </em>and Lean Elk.</p> <p>As a cold night fell, both forces found themselves in a stalemate. The Nimiipuu could not escape without their horses and the soldiers could not dislodge the Nimiipuu from the camp. Both sides dug rifle pits and the lines were drawn for a prolonged siege. The Nimiipuu families used <em>tu’kes </em>(digging sticks used to harvest camas roots), knives, and trowel bayonets they had captured from the army during earlier engagements to dig shelter pits.</p> <h3>October 1, 1877</h3> <p>Dawn brought fresh snow on the ground and ice in water buckets. That day under a white flag of truce, Chief Joseph met with <a href=\"https://www.nps.gov/people/nelson-miles.htm\">Colonel Nelson Miles</a> and both sides ventured forth to gather dead and wounded. At the end of the meeting, Joseph turned to leave. He was called back by Miles and was placed in chains to use as leverage. Seeing this occur the Nimiipuu made Lieutenant Jerome, who was very close to their camp on reconnaissance, a guest of theirs. By his account, he was given food, blanket, shelter, and allowed to move freely about the Nez Perce camp while retaining his pistol.</p> <h3>October 2, 1877</h3> <p>The prisoners were exchanged and both returned to their home camps. The military supply train arrived with the 12-Pound Napoleon Cannon.</p> <p>Yellow Wolf remembered October 2 as the day Chief Looking Glass was killed. \"Some warriors in [this] pit with him saw at a distance a horseback Indian. One pointed and called to Looking Glass, 'Look! A Sioux!\" Looking Glass stepped quickly from the pit. Stood on the bluff unprotected. A bullet struck his left forehead and he fell back dead.\" Looking Glass was hopeful help had come from the camp of Sitting Bull in Canada.</p> <h3>October 3, 1877</h3> <p>The fighting continued. The army targeted the area where the families were sheltered with cannon fire.</p> <h3>October 4, 1877</h3> <p>General Howard arrived with a small retinue; as the remainder of his army had already been sent home. This information was not conveyed to the Nimiipuu still in camp. As far as they knew, a second army was on its way.</p> <h3>October 5, 1877</h3> <p>That morning the two remaining hereditary leaders, White Bird and Joseph, met two Nez Perce<em> </em>men from the bands honoring <a href=\"https://www.nps.gov/nepe/learn/historyculture/the-treaty-era.htm\">the 1863 treaty</a>, who were following General Howard at that time. They had entered camp to convince the remaining non-treaty Nimiipuu to quit fighting. Joseph and Whitebird were told that they would be returned to Idaho, the leaders will not be killed, and, most importantly, that the army wanted to quit fighting.</p> <p>White Bird mistrusted the army's promises and refused to surrender. However, Joseph returned to camp to tell the people that they could be saved by ending the fighting. This important decision was up to each individual. Choices were few and none were favorable. Could the Nimiipuu continue the fight? The supply of soldiers was endless. Should the Nimiipuu try to escape on foot under cover of darkness through the lands of traditional enemies? Not everyone could make this trip. Many were too weak. Who would care for the elders, children, and wounded? Would they be able to bury their dead? Would they be allowed to go home?</p> <p>At 2pm Joseph met with Miles and Howard, handed over his rifle, and made his now famous speech:</p> <blockquote> <p>\"I am tired of fighting. Our chiefs are killed. Looking Glass is dead. <em>Tulhuulhulsuit</em> is dead. The old men are all dead. It is the young men who say “Yes” or “No”. He who led the young men is dead. It is cold, and we have no blankets. The little children are freezing to death. My people, some of them, have run away to the hills, and have no blankets, no food. No one knows where they are, perhaps freezing to death. I want to have time to look for my children, and see how many of them I can find. Maybe I shall find them among the dead. Hear me, my chiefs. I am tired. My heart is sick and sad. From where the sun now stands, I will fight no more forever.\"</p> </blockquote> <p>Afterwards, other Nimiipuu handed their weapons over to Miles in an understood mutual decision to lay down arms and negotiate peace. As to their destination, Miles told Joseph: \"Which is the place that you love to stay in? I want you to tell me, as I have the power to remove these white people, and let you live there.\" Miles also promised: \"I will give half of them [weapons] back to you after awhile.\"</p> <h2>Aftermath</h2> <p>All told, over 400 Nimiipuu agreed to quit fighting and turn themselves over the military care. Another group of 30 to 50 Nimiipuu left with White Bird that night; the last of between 200 and 300 people<i> </i>who did make it to Canada. The 126 day flight was over, but the plight of those capture and those who escaped to Canada was not even halfway over in terms of time and distance.<br /> <strong>Driving to Bear Paw Battlefield</strong><br /> From Big Hole National Battlefield, turn left onto MT-43 East for 61 miles. Turn left to merge onto I-15 North. Continue for 18.3 miles. Take the I-90 East exit toward I-15 N/Butte. Merge onto I-15 North/I-90. Take exit 122 toward Rocker. Turn right toward Grizzly Trail. Turn left onto Grizzly Trail. Grizzly Trail turns right and becomes South Rocker Rd. Turn left onto Santa Claus Road. Turn right onto Centennial Avenue. Turn right onto Montana Street. Turn left onto La Salle Street. Use the left lane to take the I-15 N/I-90 E ramp. Take exit 129 for I-15 N toward Helena. Continue on I-15 N for 149 miles. Take exit 280 for Central Ave W toward US-87 N. Turn right onto Central Ave W (signs for US-87 N/City Center/Fairgrounds Areas). Turn left onto 3<sup>rd</sup> St NW. Continue onto Smelter Ave NE. Turn left onto Old Havre Hwy. Turn left on US-87 N and continue for 107 miles. Turn right onto US-2 E and continue for 24.4 miles. Turn right onto Cleveland Rd W. Slight right onto Cleveland Rd W/Missouri St. Continue onto Conner Ave. Slight right onto Cleveland Rd/Rte 240. The site battlefield will be on the left.<br /> <strong>Things to Do at Bear Paw Battlefield</strong><br /> <strong>Explore the Site</strong><br /> A self-guided 1 ¼ mile interpretive trail winds through the battlefield. The trail is moderate in difficulty. <a href=\"https://www.nps.gov/nepe/upload/Bear-Paw-unigrid-Brochure_-compressed-for-web.pdf\">A brochure/trail map</a> can be downloaded, or a physical copy can be picked up at the battlefield, the staff offices in town, or the Blaine County Museum. Picnic tables and vault toilets are available on site. Please bring a hat and plenty of water during the hotter summer months.</p>",
+    "audioDescription": "Open grassland rolling hills with a large parking area and an outhouse.",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "d3348d88-6a8d-4821-ae6f-e46428ffd246",
+    "isManagedByNps": "1",
+    "amenities": [
+      "Parking - Auto",
+      "Parking - Bus/RV",
+      "Picnic Shelter/Pavilion",
+      "Picnic Table",
+      "Restroom - Seasonal",
+      "Trailhead"
+    ],
+    "managedByOrg": "",
+    "quickFacts": [
+      {
+        "id": "5C252B96-2DEB-4EF4-91D1-B5D2B202FCD7",
+        "value": "48°22'40.35\"N 109°12'48.07\"W",
+        "name": "Location"
+      },
+      {
+        "id": "208F1B3C-44DC-4CF5-9A61-9B26A364D701",
+        "value": "Site of the last battle in the Nez Perce Flight of 1877",
+        "name": "Significance"
+      }
+    ],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  },
+  {
+    "id": "8A3A6D68-A20B-4F40-90CA-52E99CA483B5",
+    "url": "https://www.nps.gov/places/big-hole-national-battlefield.htm",
+    "title": "Big Hole National Battlefield",
+    "listingDescription": "On August 9, 1877 gun shots shattered a chilly dawn on a sleeping camp of Nez Perce. By the time the smoke cleared on August 10, almost 90 Nez Perce were dead along with 31 soldiers and volunteers. Big Hole National Battlefield was created to honor all who were there.",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/places/images/nri/20130826/siteadmin/5BF8425D-09CF-39BB-B0B9B464A621778A/5BF8425D-09CF-39BB-B0B9B464A621778A.jpg",
+        "credit": "NPS",
+        "altText": "entrance sign at Big Hole National Battlefield",
+        "title": "",
+        "description": "",
+        "caption": "The Entrance Sign at Big Hole National Battlefield",
+        "crops": []
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "MT",
+        "parkCode": "biho",
+        "designation": "National Battlefield",
+        "fullName": "Big Hole National Battlefield",
+        "url": "https://www.nps.gov/biho/index.htm",
+        "name": "Big Hole"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [
+      "American Indians",
+      "Civil Rights",
+      "Nez Perce",
+      "Westward Expansion",
+      "commemoration",
+      "Montana",
+      "Native American"
+    ],
+    "latitude": "45.641471862793",
+    "longitude": "-113.643058776855",
+    "latLong": "45.641471862793,-113.643058776855",
+    "bodyText": "<p><span style=\"font-size: 11pt;\">For countless generations, the Nimiipuu, or Nez Perce tribe of Native Americans, have lived among the rivers, canyons, prairies, and mountains of the inland northwest. Since the beginning of time, the Nez Perce have called this place home. On August 9, 1877 gun shots shattered a chilly dawn on a sleeping camp of Nez Perce. By the time the smoke cleared on August 10, almost 90 Nez Perce were dead along with 31 soldiers and volunteers. Big Hole National Battlefield was created to honor all who were there.</span></p> <p>Big Hole National Battlefield is part of Nez Perce National Historical Park that has thirty-eight sites spread over four states (Idaho, Montana, Oregon and Washington) that touch on many of the threads that make up the Nez Perce story. Join us in commemorating the history of a culture that has left a distinctive mark on the history of the west and continue to make contributions to the tapestry that is the American experience. A visit to Big Hole should begin at the visitor center. A film, museum, and book store provide an overview of the events that took place on the battlefield in August of 1877. </p>",
+    "audioDescription": "",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "",
+    "isManagedByNps": "1",
+    "amenities": [
+      "Gifts/Souvenirs/Books",
+      "Historical/Interpretive Information/Exhibits",
+      "Information",
+      "Information - Ranger/Staff Member Present",
+      "Information Kiosk/Bulletin Board",
+      "Restroom",
+      "Wheelchair Accessible"
+    ],
+    "managedByOrg": "",
+    "quickFacts": [
+      {
+        "id": "5C252B96-2DEB-4EF4-91D1-B5D2B202FCD7",
+        "value": "Wisdom, Montana",
+        "name": "Location"
+      },
+      {
+        "id": "E32D2136-A184-4C1A-91D2-4C20CEF9CBAF",
+        "value": "National Battlefield",
+        "name": "Designation"
+      }
+    ],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  },
+  {
+    "id": "29252354-61F4-401B-A8CB-319E22B18B10",
+    "url": "https://www.nps.gov/places/east-bluff.htm",
+    "title": "East Bluff",
+    "listingDescription": "",
+    "images": [
+      {
+        "url": "",
+        "credit": "",
+        "altText": "",
+        "title": "",
+        "description": "",
+        "caption": "",
+        "crops": []
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "MT",
+        "parkCode": "biho",
+        "designation": "National Battlefield",
+        "fullName": "Big Hole National Battlefield",
+        "url": "https://www.nps.gov/biho/index.htm",
+        "name": "Big Hole"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [],
+    "latitude": "48.37947092831975",
+    "longitude": "-109.20845746994019",
+    "latLong": "48.37947092831975,-109.20845746994019",
+    "bodyText": "<table> <tbody> <tr> <td>Under a U.S. flag of truce on the morning of October 1, Miles and Joseph met. The precise meeting location is unknown. At the end of the meeting, Joseph turned to leave. He was called back by Miles and was placed in chains. Shortly after Joseph’s capture, Lieutenant Lovell Jerome was captured while on reconnaissance. By his account he was given food, blanket, shelter and allowed to move freely about the Nez Perce camp while retaining his pistol. On October 2nd a prisioner exchange was arranged under the watchful gun sights of soldiers and warriors. The siege continued without negotiations until October 5.</td> </tr> </tbody> </table>",
+    "audioDescription": "",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "",
+    "isManagedByNps": "1",
+    "amenities": [],
+    "managedByOrg": "",
+    "quickFacts": [],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  },
+  {
+    "id": "66E1AE05-A5C4-401D-B8E4-6ED13748E11A",
+    "url": "https://www.nps.gov/places/east-bluff-initial-assault.htm",
+    "title": "East Bluff: Initial Assault",
+    "listingDescription": "",
+    "images": [
+      {
+        "url": "",
+        "credit": "",
+        "altText": "",
+        "title": "",
+        "description": "",
+        "caption": "",
+        "crops": []
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "MT",
+        "parkCode": "biho",
+        "designation": "National Battlefield",
+        "fullName": "Big Hole National Battlefield",
+        "url": "https://www.nps.gov/biho/index.htm",
+        "name": "Big Hole"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [],
+    "latitude": "48.37834500301686",
+    "longitude": "-109.20728445205896",
+    "latLong": "48.37834500301686,-109.20728445205896",
+    "bodyText": "<table> <tbody> <tr> <td>Company K of the 7th U.S. Cavalry charged and outpaced the remainder of Miles’ command along this bluff. They expected little resistance. Racing northward with the 7th, Captain Myles Moylan recalls: After crossing the divide which separated us from the Indians village, the battalion formed a line about 11/2 miles from the village, Company K on the right, Company D in the center, and Company A on the left. During the movement to the front line, Company K struck the Indians first and was repulsed [after being] severely handled by the Indians. Somewhere near the trail as Lieutenant Henry Romeyn explains: Captain [Owen] Hale and Lieutenant [Jonathan] W. Biddle [of Comp. K] were killed at the first. Numerous officers and enlisted men were wounded. The element of surprise was lost.</td> </tr> </tbody> </table>",
+    "audioDescription": "",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "",
+    "isManagedByNps": "1",
+    "amenities": [],
+    "managedByOrg": "",
+    "quickFacts": [],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  },
+  {
+    "id": "6A0342D7-6F27-4B42-831B-B627208CEFE9",
+    "url": "https://www.nps.gov/places/howitzer.htm",
+    "title": "Howitzer Capture Site",
+    "listingDescription": "See the location from where the 12 pound mountain howitzer was improperly fired and eventually captured by the Nez Perce.",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/D479BB55-0968-B7E6-68AEAE261013B71B.jpg",
+        "credit": "NPSPhoto",
+        "altText": "Scenic picture of howitzer with green limber and yellow flowers in the foreground.",
+        "title": "Replica howitzer.",
+        "description": "",
+        "caption": "A replica howitzer located at the end of the howitzer trail.",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/D479BB55-0968-B7E6-68AEAE261013B71B.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/D479BB55-0968-B7E6-68AEAE261013B71B.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "MT",
+        "parkCode": "biho",
+        "designation": "National Battlefield",
+        "fullName": "Big Hole National Battlefield",
+        "url": "https://www.nps.gov/biho/index.htm",
+        "name": "Big Hole"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [
+      "howitzer",
+      "captured",
+      "duck and dive",
+      "Nez Perce",
+      "7th infantry",
+      "Civiian Volunteers",
+      "indian wars"
+    ],
+    "latitude": "45.64594581264205",
+    "longitude": "-113.65642638886584",
+    "latLong": "45.64594581264205,-113.65642638886584",
+    "bodyText": "Colonel John Gibbon the post commander of Fort Shaw in 1877 was ordered to pursue the non-treaty Nez Perce during the Flight of 1877. He chose to bring a “mountain howitzer” along on this campaign, but because the 7th U.S. Infantry assigned to him was not an artillery unit, a raw crew of six enlisted men was assembled to travel with the howitzer. This crew was composed of Sergeant Fredrick, Sergeant Daly, Corporal Sale, Privates McGregor, Goale, and Bennett. Traveling with the crew were two civilians, William Woodcock, a black manservant leading a pack mule and Joseph Blodgett, a guide.<br /> <br /> <br /> Colonel Gibbon’s report of the campaign states; “…The howitzer could not accompany the column in consequence of the quantity of fallen timber obstructing the trail and the noise which would have been made in removing it. Orders were therefore given that at early daylight it should start out after us with a pack mule loaded with 2,000 rounds of extra [rifle] ammunition.”<br /> <br /> <br /> The howitzer and crew arrived on the steep hillside south of the Nez Perce camp late morning of August 9, 1877 and fired two ineffective rounds at the encampment 1,200 yards away. Taking advantage of the inexperienced crew, a group of warriors, among them pıyopıyó·t̉alıkt and hotó·to, overran them. In the ensuing struggle, Private Bennett was trapped beneath the mule he was holding, both sergeants were wounded, and Corporal Sale was killed. At the first sign of trouble, Privates Goale and McGregor ran. All surviving members of the party were able to escape.<br /> <br /> <br /> Mountain Howitzer No. 111 was captured by the Nez Perce along with the rifle ammunition and mules. The warriors disassembled the carriage, rolling the wheels down the hillside, “burying” the bronze tube and scattering the contents of the limber. To this day the Nez Perce sing of the bravery of their men in a song called “The Duck and Dive”.<br />   <br /> <br /> After the arrival of General Oliver O. Howard on August 11, soldiers recovered the howitzer and took it with the wounded soldiers and civilians to Deer Lodge, Montana, 80 miles away where the territorial prison is located. The prison infirmary, staffed by a doctor and nurses, tended to the wounded. When the command departed Deer Lodge, they left the howitzer behind and in an unsigned letter from prison files it states the howitzer was a gift to the penitentiary. The howitzer sat in the courtyard of the prison for 31 more years before it was returned to Big Hole Battlefield<br />  ",
+    "audioDescription": "This vantage point is over 300 feet above the valley floor and located along the tree line on Battle Mountain. In front of you is a replica of the howitzer pointed at the Nez Perce encampment far below in the valley floor.",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "",
+    "isManagedByNps": "1",
+    "amenities": [
+      "Historical/Interpretive Information/Exhibits",
+      "Information",
+      "Scenic View/Photo Spot"
+    ],
+    "managedByOrg": "",
+    "quickFacts": [
+      {
+        "id": "5C252B96-2DEB-4EF4-91D1-B5D2B202FCD7",
+        "value": "8/10 of a mile round trip from the fork of the siege trail. ",
+        "name": "Location"
+      },
+      {
+        "id": "208F1B3C-44DC-4CF5-9A61-9B26A364D701",
+        "value": "An Important turning point in the overall battle.",
+        "name": "Significance"
+      },
+      {
+        "id": "E32D2136-A184-4C1A-91D2-4C20CEF9CBAF",
+        "value": "Viewpoint/Interpretive point",
+        "name": "Designation"
+      }
+    ],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  },
+  {
+    "id": "2EC41D52-9750-480A-AA0A-24516C270DB3",
+    "url": "https://www.nps.gov/places/joseph-band.htm",
+    "title": "Joseph Band",
+    "listingDescription": "",
+    "images": [
+      {
+        "url": "",
+        "credit": "",
+        "altText": "",
+        "title": "",
+        "description": "",
+        "caption": "",
+        "crops": []
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "MT",
+        "parkCode": "biho",
+        "designation": "National Battlefield",
+        "fullName": "Big Hole National Battlefield",
+        "url": "https://www.nps.gov/biho/index.htm",
+        "name": "Big Hole"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [],
+    "latitude": "48.37853503593602",
+    "longitude": "-109.20945882791784",
+    "latLong": "48.37853503593602,-109.20945882791784",
+    "bodyText": "Abundant game and fresh water offered by Snake Creek made this a good place to camp and gather supplies before the final push to Canada. Lean Elk and Wottolen expressed concern. Both experienced visions of attack. However, the fatigue of the forced march and no sign of the military convinced the chiefs to order camp. The teepees destroyed at Big Hole left little else for protection. Huddled in crude lodges and wrapped in blankets the people camped, warmed by fire pits burning buffalo dung. The village was arranged in familiar patterns with families, bands and allies together.",
+    "audioDescription": "",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "",
+    "isManagedByNps": "1",
+    "amenities": [],
+    "managedByOrg": "",
+    "quickFacts": [],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  },
+  {
+    "id": "A7E40B49-F6EA-43E2-AAF0-F27D52815CDA",
+    "url": "https://www.nps.gov/places/looking-glass-band-with-ally-husishusis-kute.htm",
+    "title": "Looking Glass Band with ally Husishusis Kute",
+    "listingDescription": "",
+    "images": [
+      {
+        "url": "",
+        "credit": "",
+        "altText": "",
+        "title": "",
+        "description": "",
+        "caption": "",
+        "crops": []
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "MT",
+        "parkCode": "biho",
+        "designation": "National Battlefield",
+        "fullName": "Big Hole National Battlefield",
+        "url": "https://www.nps.gov/biho/index.htm",
+        "name": "Big Hole"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [],
+    "latitude": "48.37923814400649",
+    "longitude": "-109.20922994580906",
+    "latLong": "48.37923814400649,-109.20922994580906",
+    "bodyText": "<table> <tbody> <tr> <td>On the morning of September 30, Yellow Wolf recalls: Next morning, not too early, while some were still eating breakfast, two [Nez Perce] scouts came galloping from the south. As they drew near, they called loudly. Stampeding buffaloes! Soldiers! Soldiers! The young son of White Bird recalls the surprise: It was morning and we children were playing. We had hardwood sticks, throwing mud balls. I looked up and saw a spotted horse, a Cheyenne warrior, wearing a war bonnet, come to the bluff above me. He was closely followed by the troops. Some of the children ran back to the camps, some hurried to the gulch. Horses were critical as Yellow Wolf recounts: Joseph’s voice was above the noise as he called “Horses! Horses! Save the horses! Black Eagle recalls: I left going for the horses. I saw our horses not far away. The horses were wise to the shooting and all began to stampede. Within minutes hope faded as horses were scattered</td> </tr> </tbody> </table>",
+    "audioDescription": "",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "",
+    "isManagedByNps": "1",
+    "amenities": [],
+    "managedByOrg": "",
+    "quickFacts": [],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  },
+  {
+    "id": "70F9081F-EE94-4473-943F-17DF5BC27A08",
+    "url": "https://www.nps.gov/places/memorial-tipi-frames.htm",
+    "title": "Memorial Tipi Frames",
+    "listingDescription": "Walk on sacred ground surrounded by tipi frames placed as a memorial to the Nez Perce lives lost in this battle.",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/D585E85B-E8B8-C99D-4E8C82490B0FC078.jpg",
+        "credit": "NPSPhoto",
+        "altText": "Visitors walking along trail surrounded by tipi frames.",
+        "title": "Nez Perce Encampment",
+        "description": "",
+        "caption": "Walking along the encampment trail through the tipi frames.",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/D585E85B-E8B8-C99D-4E8C82490B0FC078.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/D585E85B-E8B8-C99D-4E8C82490B0FC078.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "MT",
+        "parkCode": "biho",
+        "designation": "National Battlefield",
+        "fullName": "Big Hole National Battlefield",
+        "url": "https://www.nps.gov/biho/index.htm",
+        "name": "Big Hole"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [
+      "tipi frames",
+      "Nez Perce",
+      "Memorial",
+      "offerings"
+    ],
+    "latitude": "45.64780095418312",
+    "longitude": "-113.64431122521793",
+    "latLong": "45.64780095418312,-113.64431122521793",
+    "bodyText": "The tipi poles that are in the encampment today are a form of memorialization and a place to leave offerings. Beginning in the late 1960s, the park staff and Nez Perce descendants began to set up tipi poles to remember and honor those that were here.",
+    "audioDescription": "Standing in front of the encampment, you are on the valley floor with the North Fork of the Big Hole River running just north of where you are standing. The trail in front of you makes a keyhole pattern as it winds through the 50+ tipi frames. These frames consist of seven poles each and surround the trail on both sides.",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "",
+    "isManagedByNps": "1",
+    "amenities": [],
+    "managedByOrg": "",
+    "quickFacts": [
+      {
+        "id": "5C252B96-2DEB-4EF4-91D1-B5D2B202FCD7",
+        "value": "1.6 miles round trip from the trailhead to the encampment and back.",
+        "name": "Location"
+      }
+    ],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  },
+  {
+    "id": "5B707162-453B-4650-85D8-5D9C3867ECFC",
+    "url": "https://www.nps.gov/places/memorial-of-chief-josephs-final-speech.htm",
+    "title": "Memorial of Chief Josephs final speech",
+    "listingDescription": "",
+    "images": [
+      {
+        "url": "",
+        "credit": "",
+        "altText": "",
+        "title": "",
+        "description": "",
+        "caption": "",
+        "crops": []
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "MT",
+        "parkCode": "biho",
+        "designation": "National Battlefield",
+        "fullName": "Big Hole National Battlefield",
+        "url": "https://www.nps.gov/biho/index.htm",
+        "name": "Big Hole"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [],
+    "latitude": "48.3764066435554",
+    "longitude": "-109.21123087406158",
+    "latLong": "48.3764066435554,-109.21123087406158",
+    "bodyText": "<table> <tbody> <tr> <td>On the morning of October 5, the two remaining hereditary leaders, White Bird and Joseph, met two ‘Treaty Nez Perce’ to discuss terms of “quitting the fight”. White Bird mistrusts the Army’s promises, refuses to surrender, and with 30 others escapes to Canada that night. Joseph declares to the Nez Perce Camp that his decision to end the fighting is to save his people. At 2:00 PM, as he hands over his rifle to Miles, he states briefly and simply. “From where the sun now stands, I will fight no more, forever.”</td> </tr> </tbody> </table>",
+    "audioDescription": "",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "",
+    "isManagedByNps": "1",
+    "amenities": [],
+    "managedByOrg": "",
+    "quickFacts": [],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  },
+  {
+    "id": "952A1B23-BA9A-4BCC-8517-4C9C133888DC",
+    "url": "https://www.nps.gov/places/nez-perce-camp.htm",
+    "title": "Nez Perce Encampment",
+    "listingDescription": "An Important spot for cultural interpretation as well as a major focal point in the story of Big Hole National Battlefield.",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/cropped_image/2AE6C0B5-967A-8884-0979ABB7D1A70099.jpg",
+        "credit": "NPS",
+        "altText": "The Nez Perce Encampment",
+        "title": "Nez Perce Encampment",
+        "description": "",
+        "caption": "The Nez Perce Encampment at Big Hole National Battlefield.",
+        "crops": [
+          {
+            "aspectRatio": "1.78",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/primary/2AE6C0B5-967A-8884-0979ABB7D1A70099.jpg"
+          },
+          {
+            "aspectRatio": "1.33",
+            "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/2AE6C0B5-967A-8884-0979ABB7D1A70099.jpg"
+          }
+        ]
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "MT",
+        "parkCode": "biho",
+        "designation": "National Battlefield",
+        "fullName": "Big Hole National Battlefield",
+        "url": "https://www.nps.gov/biho/index.htm",
+        "name": "Big Hole"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [
+      "historic",
+      "Indian camp",
+      "interpretation",
+      "Nez Perce",
+      "Nez Perce National Historical Park",
+      "big hole battlefield"
+    ],
+    "latitude": "45.64734618383871",
+    "longitude": "-113.64464139504466",
+    "latLong": "45.64734618383871,-113.64464139504466",
+    "bodyText": "<p>When the 800 <em>nımí·pu· </em>reached <em>?ıckumcılé.lıkpe</em>, they had been traveling for six weeks.  This was a place familiar to many of them, who regularly traveled east across the Bitterroot Mountains to hunt buffalo.  This particular part of the Big Hole Valley had fresh water, grass for their horses, game, and fish from the river.  As the families established their camp sites, they took advantage of the resources the valley offered. </p> <p>The Big Hole Valley has an abundant supply of lodgepole pines, which could be fashioned into tipi frames.  At the base of Battle Mountain, women collected qemas (camas) bulbs, a traditional root food, and began to bake them in pits.  However, before the cooking process could be completed, Colonel John Gibbon’s forces attacked.  </p> <p>In the early hours of August 9<sup>th</sup>, 1877, sleeping families of <em>nımí·pu· </em>were attacked in their tipis at this campsite.  Many did not live to tell their stories.  That day, when the river ran red, forever marked <em>?ıckumcılé.lıkpe</em> as a sacred land.   </p> <p>60-90 <em>nımí·pu· </em>children, adults, and elders are buried here, in and near the campsite.  Tipis have been erected in the exact locations where these people camped, played, sang, and cooked peacefully for two days before the battle.  Many are marked with the names of who slept inside them.  When exploring this site, please remain on the established trail out of respect for those buried here. </p>",
+    "audioDescription": "",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "",
+    "isManagedByNps": "1",
+    "amenities": [
+      "Accessible Sites",
+      "Benches/Seating",
+      "Historical/Interpretive Information/Exhibits",
+      "Information",
+      "Information - Ranger/Staff Member Present"
+    ],
+    "managedByOrg": "",
+    "quickFacts": [],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  },
+  {
+    "id": "86441FDC-0237-4B48-AD85-085D509B9765",
+    "url": "https://www.nps.gov/places/point-of-rocks.htm",
+    "title": "Point of Rocks",
+    "listingDescription": "",
+    "images": [
+      {
+        "url": "",
+        "credit": "",
+        "altText": "",
+        "title": "",
+        "description": "",
+        "caption": "",
+        "crops": []
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "MT",
+        "parkCode": "biho",
+        "designation": "National Battlefield",
+        "fullName": "Big Hole National Battlefield",
+        "url": "https://www.nps.gov/biho/index.htm",
+        "name": "Big Hole"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [],
+    "latitude": "",
+    "longitude": "",
+    "latLong": "",
+    "bodyText": "After scattering the horses, the Army and the Cheyenne Scouts turned their attention to fleeing Nez Perce and defenders at the north end of the camp. Among the defenders were Tulhuulhulsuit and seven warriors. Caught between the 2nd Calvary and Scouts, the warriors became trapped at the base of the red, rocky outcrop. In the open, and unable to find a defensible position, Tulhuulhulsuit and five others were killed. Eagle Necklance the Younger and Tamyahnin were wounded but made it back to camp. ",
+    "audioDescription": "",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "",
+    "isManagedByNps": "1",
+    "amenities": [],
+    "managedByOrg": "",
+    "quickFacts": [],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  },
+  {
+    "id": "5448A801-C65F-4B85-BC6C-FC3DABCA1CA4",
+    "url": "https://www.nps.gov/places/rifle-pits.htm",
+    "title": "Rifle Pits",
+    "listingDescription": "",
+    "images": [
+      {
+        "url": "",
+        "credit": "",
+        "altText": "",
+        "title": "",
+        "description": "",
+        "caption": "",
+        "crops": []
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "MT",
+        "parkCode": "biho",
+        "designation": "National Battlefield",
+        "fullName": "Big Hole National Battlefield",
+        "url": "https://www.nps.gov/biho/index.htm",
+        "name": "Big Hole"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [],
+    "latitude": "48.37999825200195",
+    "longitude": "-109.20843601234992",
+    "latLong": "48.37999825200195,-109.20843601234992",
+    "bodyText": "<table> <tbody> <tr> <td>Ollikut, Lean Elk and other warriors met the soldiers as they advanced along this bluff. The fighting was intense and made worse by low clouds and drizzle. The Army was stopped, but the Nez Perce suffered serious losses as 26 died the first day. On the west edge of the bluff, a marker identifies where Ollikut, Joseph’s brother, was killed. Across the coulee to the northeast Lean Elk was mistaken for an enemy in the severe weather and killed by other Nez Perce. His warning to Looking Glass had come true that neither would leave this place. Nez Perce warriors prepared fortifications in the form of shallow rifle pits on the bluffs overlooking the camp and in the coulees leading into it. Yellow Wolf remembers October 2 : It came morning, third sun of battle. The rifle shooting went on just like play. But soon Chief Looking Glass was killed. Some warriors in [this] pit with him saw at a distance a horseback Indian. One pointed and called to Looking Glass “Look! A Sioux!” Looking Glass stepped quickly from the pit. Stood on the bluff unprotected. A bullet struck his left forehead and he fell back dead. Looking Glass was hopeful help had come from the camp of Sitting Bull in Canada.</td> </tr> </tbody> </table>",
+    "audioDescription": "",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "",
+    "isManagedByNps": "1",
+    "amenities": [],
+    "managedByOrg": "",
+    "quickFacts": [],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  },
+  {
+    "id": "07BC001F-BD63-47BF-9DEF-3D18AD13254E",
+    "url": "https://www.nps.gov/places/soldier-grave-site.htm",
+    "title": "Soldier Grave Site",
+    "listingDescription": "",
+    "images": [
+      {
+        "url": "",
+        "credit": "",
+        "altText": "",
+        "title": "",
+        "description": "",
+        "caption": "",
+        "crops": []
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "MT",
+        "parkCode": "biho",
+        "designation": "National Battlefield",
+        "fullName": "Big Hole National Battlefield",
+        "url": "https://www.nps.gov/biho/index.htm",
+        "name": "Big Hole"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [],
+    "latitude": "48.37596480076913",
+    "longitude": "-109.20969486247486",
+    "latLong": "48.37596480076913,-109.20969486247486",
+    "bodyText": "<table> <tbody> <tr> <td>A temporary field hospital and command post were located here as described by Romeyn: A small piece of ground directly in the rear of the steep bluff alluded to was sheltered from the enemy’s fire, and the wounded who could walk or crawl were gathered for attention by the Surgeons. Two fallen soldiers were returned to their hometowns for burial. Twenty-one soldiers were buried in a mass grave. From 1877 to 1903 local residents maintained the gravesite. The remains of the soldiers were removed to Fort Assiniboine in 1903. Then, in 1912, they were relocated to Custer National Cemetery at Little Bighorn Battlefield National Monument. The long depression is the only evidence of the mass grave.</td> </tr> </tbody> </table>",
+    "audioDescription": "",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "",
+    "isManagedByNps": "1",
+    "amenities": [],
+    "managedByOrg": "",
+    "quickFacts": [],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  },
+  {
+    "id": "87CBCBDF-D781-43A5-8082-658B5F8320B2",
+    "url": "https://www.nps.gov/places/south-bluff.htm",
+    "title": "South Bluff",
+    "listingDescription": "",
+    "images": [
+      {
+        "url": "",
+        "credit": "",
+        "altText": "",
+        "title": "",
+        "description": "",
+        "caption": "",
+        "crops": []
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "MT",
+        "parkCode": "biho",
+        "designation": "National Battlefield",
+        "fullName": "Big Hole National Battlefield",
+        "url": "https://www.nps.gov/biho/index.htm",
+        "name": "Big Hole"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [],
+    "latitude": "48.37618809799305",
+    "longitude": "-109.20853614883526",
+    "latLong": "48.37618809799305,-109.20853614883526",
+    "bodyText": "<table> <tbody> <tr> <td>Much of the initial fighting occurred along this narrow bluff overlooking the Nez Perce Camp. Romeyn recounts: At the south end of the campground there was a perpendicular bluff that afforded excellent cover. This was instantly occupied by the Nez Perces who, withholding fire until the 7th [Company A & D] were within two hundred yards, then delivered it with murderous effect. Wherever the Indians heard a voice raised in command there they at once directed their fire. After retreating, Miles ordered the cavalry to dismount and reinforce Company K. Fire was directed toward the bluff on the west side of the coulee. The Nez Perce held their position of advantage. The 5th Infantry came up and was halted at the crest. Here it was met by a hot fire from the coulee and men and horses began to drop before they could dismount. The Hotchkiss gun was brought up [near this location] and was soon driven from the position with severe loss to its gunners. Only hand to hand combat with units of the U.S. 5th Infantry forced the Nez Perce to yield the high ground. Romeyn continued: By three o’clock it was evident that the attack must become a siege.</td> </tr> </tbody> </table>",
+    "audioDescription": "",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "",
+    "isManagedByNps": "1",
+    "amenities": [],
+    "managedByOrg": "",
+    "quickFacts": [],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  },
+  {
+    "id": "133972EE-AC1C-4685-80FD-ED7AA89C34AB",
+    "url": "https://www.nps.gov/places/southeast-coulee.htm",
+    "title": "Southeast Coulee",
+    "listingDescription": "",
+    "images": [
+      {
+        "url": "",
+        "credit": "",
+        "altText": "",
+        "title": "",
+        "description": "",
+        "caption": "",
+        "crops": []
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "MT",
+        "parkCode": "biho",
+        "designation": "National Battlefield",
+        "fullName": "Big Hole National Battlefield",
+        "url": "https://www.nps.gov/biho/index.htm",
+        "name": "Big Hole"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [],
+    "latitude": "48.377147789204095",
+    "longitude": "-109.20642614615645",
+    "latLong": "48.377147789204095,-109.20642614615645",
+    "bodyText": "<table> <tbody> <tr> <td>On the left coulee slope, Moylan recalls: Capt [Edward F.] Godfrey had his horse killed from under him. The fall stunned him. Trumpter Thomas Herwood rode between Godfrey and the Indians. In this gallant attempt to save his officer, Trumpter Herwood was wounded. Before you, in the gully draining to Snake Creek, soldiers lay dead or wounded as the evening fell. Romeyn remembers: Those who fell into the hands of the hostiles were not molested otherwise than to be stripped of arms and ammunition. They [Nez Perce] even gave some of the wounded water after nightfall when it could be done safely. Another account recalls a warrior giving a blanket to a wounded soldier.</td> </tr> </tbody> </table>",
+    "audioDescription": "",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "",
+    "isManagedByNps": "1",
+    "amenities": [],
+    "managedByOrg": "",
+    "quickFacts": [],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  },
+  {
+    "id": "0F7E4656-A456-4E1F-B817-E9BE7E0BB2C8",
+    "url": "https://www.nps.gov/places/white-bird-band.htm",
+    "title": "White Bird Band",
+    "listingDescription": "",
+    "images": [
+      {
+        "url": "",
+        "credit": "",
+        "altText": "",
+        "title": "",
+        "description": "",
+        "caption": "",
+        "crops": []
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "MT",
+        "parkCode": "biho",
+        "designation": "National Battlefield",
+        "fullName": "Big Hole National Battlefield",
+        "url": "https://www.nps.gov/biho/index.htm",
+        "name": "Big Hole"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [],
+    "latitude": "48.37977022090377",
+    "longitude": "-109.2093372349882",
+    "latLong": "48.37977022090377,-109.2093372349882",
+    "bodyText": "Yellow Wolf reflects: Evening, and the battle grew less. Only occasional shots. Soldiers guarding, sitting down, two and two. Soldiers all around the camp so that none could escape. It was snowing. The wind was cold. About 450 men, women and children retreated to the north end of the camp. On the flats and the sides of the coulees the ground became frozen as rain turned to snow and temperatures dropped. A Nez Perce woman recalls: We digged trenches with camas hooks and butcher knives. With pans we threw out the dirt. We could not do much cooking. Dried meat and some other grub would be handed around. It would be given to the children first. I was three days without food. Children cried with hunger and cold. In the small creek there was water, but we could get to it only at night. Four more terrifying days remained. On October 4, according to Yellow Wolf: It was towards noon that a bursting shell struck and broke in a shelter pit, burying four women, a little boy, and a girl of about twelve snows. This girl and her grandmother were both killed. The other three women and the boy were rescued",
+    "audioDescription": "",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "",
+    "isManagedByNps": "1",
+    "amenities": [],
+    "managedByOrg": "",
+    "quickFacts": [],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  }
+]

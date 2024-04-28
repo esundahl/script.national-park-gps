@@ -1,0 +1,80 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.6589625382655,
+          48.16516361386185
+        ]
+      },
+      "properties": {
+        "name": "Ebey's Reserve - Crockett Lake",
+        "notes": "Ebey's Reserve - Crockett Lake\nhttps://www.nps.gov/places/ebey-s-reserve-crockett-lake.htm\n\nThroughout the year, Ebey’s Reserve erupts with seasonal colors and sounds. Attracting a wide variety of migratory shorebirds and waterfowl, more than 230 species of birds can be found throughout the rich breeding and nesting grounds. Crockett Lake located along the Keystone Spit offers prime bird-watching opportunities.<br /> <br /> Shallow and weather protected, birdwatchers will find the Great Blue Heron, Bald Eagles, Harriers, Red-Winged Blackbird, and more. In spring, some 90 different species – both terrestrial and aquatic – rest and feed in the marshy grasslands around Crockett Lake. Turn toward the Salish Sea and see the spectacular Olympic Mountains and Mt. Rainier in the distance.<br /> <br /> During the spring and summer, ample sunshine and cool breezes off Admiralty Inlet create ideal conditions for strolling, birdwatching, and other naturalist activities. Park along Keystone Spit in designated parking areas, get out your binoculars and see what you can see!",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.68847287783481,
+          48.22114004722441
+        ]
+      },
+      "properties": {
+        "name": "Ebey's Reserve - the Alexander Blockhouse",
+        "notes": "Ebey's Reserve - the Alexander Blockhouse\nhttps://www.nps.gov/places/ebey-s-reserve-the-alexander-blockhouse.htm\n\nOriginally home to eleven blockhouses scattered throughout the Ebey’s Reserve, only four remain: the Crockett Blockhouse on Ft. Casey Road; the Ebey Blockhouse next to the Jacob & Sarah Ebey House; the Davis Blockhouse located in Sunnyside Cemetery; and, the Alexander Blockhouse in downtown Coupeville alongside the Island County Museum.<br /> <br /> These territorial structures were built during the mid-1850’s, and were used primarily as a small fortification for white settlers. With the decline of any perceived threat from Native Americans, the use of these structures shifted to storage and outbuildings used for farming. Winfield Scott Ebey (brother of Isaac Ebey) used the Ebey Blockhouse as a law office.<br /> <br /> The Alexander Blockhouse, which is open to the public, sits on what was originally the Donation Land Claim of John Alexander along the shores of Penn Cove.  Originally, this land was the site of a Lower Skagit Village called “ bac̓ádzale ” in the Lushootseed language.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.325216,
+          47.611608
+        ]
+      },
+      "properties": {
+        "name": "Maritime Washington National Heritage Area",
+        "notes": "Maritime Washington National Heritage Area\nhttps://www.nps.gov/places/maritime-washington-national-heritage-area.htm\n\n<p paraeid=\"{53103d88-8610-4d83-ab9c-a5392def8c09}{64}\" paraid=\"6\">The Maritime Washington National Heritage Area (designated in 2019) encompasses 3,000 miles of western Washington’s saltwater coastline from Grays Harbor County to the Canadian border, 18 federally recognized tribes, 13 counties, 32 incorporated cities, and 30 port districts, as well as innumerable harbors, inlets, peninsulas, island shores, and parks—all connected by the nation’s largest ferry system. The Washington Trust for Historic Preservation, a state-wide non-profit dedicated to preserving the state’s historic resources, is the NHA’s Coordinating Entity. <br /> <br /> Communities here were connected to the rest of the world by boat long before roads and railroads were built. The first peoples created complex cultures around canoe journeys and salmon cycles. Then came Spanish, English, Russian and American explorers in search of territory and shipping lanes. As the country developed, the region’s ports began to bolster trade of vast natural resources, and naval installations came to guard the continent. <br /> <br /> Washington’s coastline is rich with historic buildings and vessels, museums, and archival collections, and the maritime industry remains a foundation of the region’s economy today. Shipyards, container ports, cruise ships, tugs, and marinas full of small and large pleasure craft are as much a part of this NHA’s inheritance as historic ships or lighthouses.   <br /> <br /> To read the Maritime Washington National Heritage Area management plan, click here. <br /> <br /> The vast diversity of this living landscape can be divided by geographic regions:  </p> <h2 paraeid=\"{53103d88-8610-4d83-ab9c-a5392def8c09}{94}\" paraid=\"11\">Olympic Peninsula </h2> <p paraeid=\"{53103d88-8610-4d83-ab9c-a5392def8c09}{100}\" paraid=\"12\">The Olympic Peninsula is surrounded by the Pacific Ocean, the Strait of Juan de Fuca, and Puget Sound’s Hood Canal. The Olympic Mountains rise prominently in the interior. Historic ports, coastal communities, and traditional tribal lands rim this boxy landmass. Home to Olympic National Park, the peninsula features the longest stretch of publicly-owned and undeveloped shoreline on the Pacific Coast, and closely resembles the shoreline inhabited by the tribes before Europeans arrived. Olympic National Park is also a UNESCO World Heritage Site, designated for its ecosystem diversity, while the Olympic Coast National Marine Sanctuary lies offshore, distinguished for its educational opportunities.  </p> <h2 paraeid=\"{53103d88-8610-4d83-ab9c-a5392def8c09}{106}\" paraid=\"13\">Puget Sound </h2> <p paraeid=\"{53103d88-8610-4d83-ab9c-a5392def8c09}{112}\" paraid=\"14\">A complex inlet of the Pacific Ocean and the third-largest estuary in the United States, Puget Sound comprises many waterways, basins, and bays, including Seattle’s brackish Lake Union. For millennia, the sound connected the Northwest people to the sea – for travel, trade, sustenance, protection, and recreation. Today, Puget Sound is home to maritime industries, military bases, small coastal communities, the cities of Seattle, Tacoma, Everett, and the state capital Olympia. The Kitsap Peninsula and enchanting islands lie in the interior of Puget Sound, with the Hood Canal between them and the Olympic Peninsula.    </p> <h2 paraeid=\"{53103d88-8610-4d83-ab9c-a5392def8c09}{118}\" paraid=\"15\">Northern Coast </h2> <p paraeid=\"{53103d88-8610-4d83-ab9c-a5392def8c09}{124}\" paraid=\"16\">Along the western edge of Skagit and Whatcom Counties lies Washington’s northern coastline, a series of protected bays stretching north to the Strait of Georgia, which separates Vancouver Island from mainland Canada. The traditional aquaculture, fishing, and sea trade economies remain important in this region. Continuing a centuries-old tradition, northern coastal cities like Bellingham still provide jumping-off points for journeys to Alaska through the Inside Passage.  </p> <h2 paraeid=\"{53103d88-8610-4d83-ab9c-a5392def8c09}{130}\" paraid=\"17\">Salish Sea Islands </h2> <p paraeid=\"{53103d88-8610-4d83-ab9c-a5392def8c09}{136}\" paraid=\"18\">Three Northwest water bodies – the Strait of Juan de Fuca, Puget Sound, and Canada’s Strait of Georgia - are together called the Salish Sea. The over 400 islands that lie in these waters are the ancient homelands of native tribes and habitat for some of the region’s most diverse marine wildlife. This varied island environment– including Whidbey Island, one of the largest islands in the contiguous United States, and the San Juan archipelago— contains some of the most remote and rugged places in this region, as well as active ports and popular vacation destinations. </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.32992016414363,
+          47.62048705900283
+        ]
+      },
+      "properties": {
+        "name": "Outdoor Recreation Information Center",
+        "notes": "Outdoor Recreation Information Center\nhttps://www.nps.gov/places/outdoor-recreation-information-center.htm\n\nAt the Ranger Desk in the REI Seattle Flagship Store, we have the information you need to discover the best recreation opportunities on public lands in Washington State. We also have a wide selection of educational merchandise and free printed materials to help you make the most of your visit. We're able to bring you this unique service experience through a dynamic partnership with the <a href=\"https://www.nps.gov/index.htm\">National Park Service</a>, <a href=\"https://www.fs.usda.gov/r6\">U.S. Forest Service</a>, <a href=\"https://parks.state.wa.us/\">Washington State Parks</a>, and <a href=\"https://www.rei.com/\">REI</a>.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.94682870486264,
+          48.38419076327381
+        ]
+      },
+      "properties": {
+        "name": "The Salish Sea",
+        "notes": "The Salish Sea\nhttps://www.nps.gov/places/the-salish-sea.htm\n\nThe frigid waters of the Salish Sea are a prominent feature of our park. Tranquil <a href=\"https://www.nps.gov/places/garrison-bay.htm\">Garrison Bay</a>, where shellfish breed in abundance and the powerful waves at <a href=\"https://www.nps.gov/places/south-beach-trail.htm\">South Beach</a> are both part of the Salish Sea. The Salish Sea has played a pivotal role in the lives of Coast Salish Tribes and Euro-American settlers. <br /> <br /> The southern boundary of the Salish Sea is Budd Inlet, which borders the city of Olympia, Washington. Its northern boundary is formed by the Discovery Islands, to the north and west of the city of Vancouver, British Columbia. The cities of Seattle, Vancouver, Victoria, and Tacoma all sit alongside its waters which include but are not limited the Strait of Georgia, the Puget Sound, and the Strait of Juan de Fuca. These major cities were a direct result of the Salish Sea and the commercial opportunities and marine resources which it contains.<br /> <br /> The term, Salish Sea is a recent innovation by geographers who wished to stress the interconnected ecosystems and cultures of the areas connected by this body of water. The Coast Salish Tribes, the sea’s namesake, have lived in this region since time immemorial. Their culture and lifeways have been deeply shaped by the Salish Sea, which provided abundant salmon and shellfish and served as a transportation route between settlements throughout its waters in the US and Canada. Coast Salish people indigenous to San Juan Island invented an advanced and unique form of technology known as reef net fishing, which enabled them to harvest large numbers of migratory salmon and preserve them to sustain their families. The sea’s importance to living native cultures can be seen in the canoe journeys which annually traverse its waters and the tribal communities that still call the Salish Sea their home.<br /> <br /> Euro-American settlers were also drawn to the Salish Sea because of its resources. The <a href=\"https://www.nps.gov/places/hudson-s-bay-company.htm\">Hudson’s Bay Company </a>first sent workers to San Juan Island in 1852 to purchase and preserve salmon for export to the Hawaiian market. The first steam powered sawmill in Seattle, built by settler Henry Yesler, began operating on the shores of the Salish Sea in March of 1853 and was a major employer and driver of settlement in this city’s early days. The strategic importance of the Salish Sea and access to its waters are believed by historians to be a major factor in inspiring General William Harney to order forces to San Juan Island during the Pig War, so as to protect American access In the late 1800s and early 1900s, industrial salmon packing plants which over-exploited the Salish Sea’s natural resources were built throughout its waters, including the San Juan Islands, where they were major employers and sources of wealth.<br /> <br /> Today, the Salish Sea is home to millions of people and hosts visitors from across the globe. Coast Salish Tribes on both sides of the American and Canadian border continue to draw sustenance from its abundant resources. Visitors and residents alike kayak and canoe amidst the bioluminescent algae in our coastal waters and travel for work and play between the mainland and its numerous islands. Major international ports and naval bases have been built to take advantage of its deep ports. Endangered Southern Resident Killer Whales regularly swim through the Salish Sea, whose Chinook salmon they have evolved to eat. The University of Washington’s Friday Harbor Labs performs cutting edge science that allows us to better understand this unique ecosystem",
+        "icon": "red-pin-down.png"
+      }
+    }
+  ]
+}

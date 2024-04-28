@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.70331641960303,
+          35.579411689923425
+        ]
+      },
+      "properties": {
+        "name": "Alibates Flint Quarries Bookstore",
+        "notes": "Alibates Flint Quarries Bookstore\nhttps://www.nps.gov/places/alibates-flint-quarries-bookstore.htm\n\nThe park store is operated by Western National Park Association, an official non-profit partner of the National Park Service dedicated to supporting the educational mission of Alibates Flint Quarries National Monument . The park store has a wide range of books, maps, travel guides, media, posters, and other items available for retail sale. These products complement the interpretive themes you experience when visiting the park. The park store is located at the Alibates Flint Quarries Visitor Center, or you can visit the online park store <a href=\"https://www.wnpa.org/\">WNPA.org</a>. ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Fishing",
+        "notes": "Fishing\nhttps://www.nps.gov/places/fishing.htm\n\nLake Meredith Reservoir has a very diverse fish community and provides opportunities for all types of anglers. Walleye are the primary sport fish in the reservoir and are maintained through natural reproduction. Lake Meredith Reservoir also has an excellent smallmouth bass population. Most of the reservoir is rocky habitat, which is preferred by smallmouth bass. A number of 4-pound and larger fish are caught from the lake each year. White bass provide an excellent fishery, especially during summer and fall. Largemouth bass are limited by habitat, but crappie fishing is generally good with occasional years of excellent fishing. Yellow perch are caught on rare occasions. The Texas record of 1.04 pounds came from Lake Meredith in 1996. Channel and flathead catfish are present in good numbers",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.7424087524414,
+          35.55685043334961
+        ]
+      },
+      "properties": {
+        "name": "Off-Road Adventures",
+        "notes": "Off-Road Adventures\nhttps://www.nps.gov/places/off-road-adventures.htm\n\nWhether you call it 4-wheeling or muddin', Lake Meredith has two areas set aside for off-road driving. Rosita Flats and Blue Creek are available for all-terrain vehicle recreation. Riders must stay within the cutbanks of Blue Creek and Rosita and below 3000 ft. elevation. All riders must wear a DOT approved safety helmet and eye protection.<br /> <br /> What is required? A Texas State ORV decal is required and can be purchased from the Texas Parks & Wildlife Customer Service Center at (512) 389-8917.<br /> At no cost, an NPS ORV permit is required when using the off road areas of Blue Creek and Rosita Flats.  <br /> <br /> <strong>For maps and specific Off-Road Vehicle questions, including information about the NPS OHV permitting system, please call Park Headquarters at 806-857-3151.</strong><br /> <br />  ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.55761,
+          35.634408
+        ]
+      },
+      "properties": {
+        "name": "Park Bookstore",
+        "notes": "Park Bookstore\nhttps://www.nps.gov/places/park-bookstore.htm\n\nThe park store is operated by Western National Park Association, an official non-profit partner of the National Park Service dedicated to supporting the educational mission of Lake Meredith National Recreation Area. The park store has a wide range of books, maps, travel guides, media, educational games, posters, and other items available for retail sale. These products complement the interpretive themes you experience when visiting the park. The park store is located at Park Headquarters in Fritch, Texas.<i> </i>",
+        "icon": "red-pin-down.png"
+      }
+    }
+  ]
+}

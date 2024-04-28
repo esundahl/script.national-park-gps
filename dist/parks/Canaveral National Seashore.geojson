@@ -1,0 +1,230 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.81206444858816,
+          28.910954178429794
+        ]
+      },
+      "properties": {
+        "name": "Apollo Parking Lot 2",
+        "notes": "Apollo Parking Lot 2\nhttps://www.nps.gov/places/apollo-parking-lot-2.htm\n\nParking area two has restrooms and an accessible boardwalk over the dunes to the beach. Make sure to bring everything you need for you beach visit such as sunscreen and water.<br /> <br /> Observe the dune strand for birds, pollinators, gopher tortoises and more. Please be kind to the dunes and stay on the boardwalk when crossing them. Out on the ocean, observe dolphin, rays, sea turtles and in the winter the North Atlantic Right Whale. Enjoy the seashore.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.824823,
+          28.926855
+        ]
+      },
+      "properties": {
+        "name": "Apollo Visitor Center Dock",
+        "notes": "Apollo Visitor Center Dock\nhttps://www.nps.gov/places/apollo-visitor-center-dock.htm\n\nThe Apollo Visitor Center dock is a perfect place to observe wildlife and enjoy the scenery. Fishing is not allowed at this dock.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.8208433752,
+          28.9095754465
+        ]
+      },
+      "properties": {
+        "name": "Eldora",
+        "notes": "Eldora\nhttps://www.nps.gov/places/eldora.htm\n\nEldora was named for early residents, Ellen and Dora Pitzer the daughters of George Pitzer. Settlers came as treasure hunters, having purchased maps to hidden riches. Others came as carpenters, fishermen, beekeepers, and farmers. These hardy folks were met with harsh environments, lack of fresh water, mosquitos and summer heat.<br /> <br /> All depended on the shallow draft steamboats that served the inland waterways for transportation of goods and people. It played an important role in Florida’s interior development before roads and rail lines were built. When the railroad came to Edgewater the Eldora economy was transformed. The little town was no longer on the main trade route.<br /> <br /> Two years of killing frost in the 1890’s wiped out most of the citrus, causing residents to leave. By 1900 nearly all business on the island had ended. Some families stayed and made the turn from a farming community to a resort area for visitors seeking refuge from cold northern winters. ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.683361,
+          28.644914
+        ]
+      },
+      "properties": {
+        "name": "Playalinda Beach",
+        "notes": "Playalinda Beach\nhttps://www.nps.gov/places/playalinda-beach.htm\n\n<h4>Playalinda Beach </h4> <p>Located on the space coast in Brevard County, Playalinda Beach is a popular destination for beach going, wildlife viewing and rocket launch viewing. On the way to the seashore stop off at our sister park <a href=\"https://www.fws.gov/refuge/merritt_island/\">Merritt Island National Wildlife Refuge</a> or <a href=\"https://www.kennedyspacecenter.com/\">Kennedy Space Center at their visitor complex</a>.<br /> <br /> Canaveral National Seashore manages the Playalinda District up through Klondike Beach to Apollo parking area number four to provide enjoyment, education and wildlife protection on behalf of Kennedy Space Center. Merritt Island National Wildlife Refuge co-manages 140,000 acres on behalf of Kennedy Space Center.<br /> <br /> Once you enter Playalinda Beach vistas one through eight offer wildlife viewing for a variety of migratory birds, alligators and other pond dwelling species. Look a few miles into the distance and catch a glimpse of the historic launch pads that launched man to the moon. <br /> <br /> Playalinda offers fourteen beach access areas leaving plenty of space for visitors to find relaxation. Some tips to know before you go is to bring everything you may need while enjoying the beach (water, food, sunscreen, chairs, etc). There are parking areas, restrooms and accessible ramps at each beach parking area. </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.837593,
+          28.869235
+        ]
+      },
+      "properties": {
+        "name": "Seminole Rest Entrance",
+        "notes": "Seminole Rest Entrance\nhttps://www.nps.gov/places/seminole-rest-entrance.htm\n\nSeminole Rest is a part of Canaveral National Seashore and is situated in a perfect place for the off-the-beaten-path kind of adventurer. This site is approximately a 40 - 45 minute drive from Apollo Beach and a 30 minute drive from Playalinda Beach. Taking the time to visit this site will provide rich historical context about Central Florida. The serene landscape and informative waysides will help paint a picture about what people found so special about this area. The address for Seminole Rest is, 211 River Rd. Oak Hill Florida, 32759.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.83698285330745,
+          28.869234299056625
+        ]
+      },
+      "properties": {
+        "name": "Seminole Rest Wayside, Lost Mounds",
+        "notes": "Seminole Rest Wayside, Lost Mounds\nhttps://www.nps.gov/places/seminole-rest-wayside-one.htm\n\nFor thousands of years the Timucuan Indians harvested millions of clams and oysters form Mosquito Lagoon. They left the shells behind and formed mounds like the one here at Seminole Rest. Over time most of the mounds were destroyed and their stories lost with them.Oak Hill Mound, also called Sam’s Mound, once occupied the spit of land to your right. In 1918 it was reported that 2000 railroad cars of shells were removed from the mound for road fill.<br /> <br /> Quote from former resident, Jacqueline Snyder Stevens, “We always called it Sam’s Mound. They built the road out here for the railroad – just a little railroad- and they just cleared that mound. All the roads used to be shell. When they were taking down Sam’s Mound, I went down there often after I got out of school and I had quite a collection of pottery and stuff like that.”Please do not collect any artifacts from Seminole Rest property which are protected under the Archeological Resource Protection Act of 1985.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.837571,
+          28.870599
+        ]
+      },
+      "properties": {
+        "name": "Seminole Rest Wayside, Mounds of Evidence",
+        "notes": "Seminole Rest Wayside, Mounds of Evidence\nhttps://www.nps.gov/places/seminole-rest-wayside-five.htm\n\nSeveral mounds exist here at Seminole Rest. Snyder's mound, the largest mound, is not one mass of shells but in some areas seventeen different layers deposited over time. In an effort to find clues to the Timucuans, archeologists are interpreting the layers. <br /> <br /> Clam shells make up most of the mound layers even though other materials, including oysters, conchs, and whelk shells and the remains of sea trout, shark, and bass were discovered. The abundance of clam shells indicates the site was mostly used for harvesting clams. <br /> <br /> There are layers that suggest there were periods when the mound was not used but instead was overgrown with vegetation. Remains of poke berry, hackberry, and skullcap in the layers show vegetation has changed very little over the centuries. Many of these plants may have been used by the Timucua for food, fuel, and medicine. ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.836918,
+          28.870518
+        ]
+      },
+      "properties": {
+        "name": "Seminole Rest Wayside, Preserving the Mound",
+        "notes": "Seminole Rest Wayside, Preserving the Mound\nhttps://www.nps.gov/places/seminole-rest-wayside-three.htm\n\nIn 1911, Mr. and Mrs. Wesley H. Snyder purchased this house and the surrounding land. They named their homesite “Seminole Rest” after the Seminole Indians. Their purchase saved the story of an even earlier culture – the Timucuan Indians.<br /> <br /> “Daddy bought the place from an Englishman, “Lord” Turnor – the buildings, this house, and the other house. There was a long dock that went out and the boathouse was on the dock. My father saw this place as he was going duck hunting with some people over across the lagoon. Then to come over and see it.<br /> <br /> It was vacant when my father saw it. He bought it and the 10-acre grove. Bet you can’t guess what he paid for it all, $2,000 for the hill, and 10 acres. Mother added to it – there was some land south of the grove between here and Sam’s Mound – just to protect it.” – Jacqueline Snyder Stevens",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.83722,
+          28.871185
+        ]
+      },
+      "properties": {
+        "name": "Seminole Rest Wayside, The Caretakers",
+        "notes": "Seminole Rest Wayside, The Caretakers\nhttps://www.nps.gov/places/seminole-rest-wayside-four.htm\n\nLocals often stayed in this cottage when caring for the Snyder property. The name \"caretakers\" is just as appropriate for the Snyders. For 77 years the family guarded the Timucuan story. Their sense of preservation saved the information found in the mound. Otherwise, the mound would have been used to build railroad beds and highways.<br /> <br /> \"When they were building the roads - or railroads - they wanted to buy the shell. Granddaddy said he wouldn't sell. He said it would spoil the beauty of the property, that's why we have the elevation here.\" - Marion Snyder Porta, granddaughter",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.837741,
+          28.870249
+        ]
+      },
+      "properties": {
+        "name": "Seminole Rest Wayside, The Timucuan Way of Life",
+        "notes": "Seminole Rest Wayside, The Timucuan Way of Life\nhttps://www.nps.gov/places/seminole-rest-wayside-six.htm\n\nArcheologists agree that the Timucua lived in the wooded area in the distance. The trees provided wood for fuel and shelter, while fresh water springs supplied water. <br /> <br /> In 1564 illustrator Jacque LeMoyne came to Florida as part of a French expedition. His vivid drawings depicting Timucuan life are our only visual record of this now-extinct cvilization that occupied much of Florida for thousands of years. ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.83707637048164,
+          28.86989466403025
+        ]
+      },
+      "properties": {
+        "name": "Seminole Rest Wayside, What Do You Think?",
+        "notes": "Seminole Rest Wayside, What Do You Think?\nhttps://www.nps.gov/places/seminole-rest-wayside-two.htm\n\nArcheologists believe that women and children gathered shellfish along the shore, using their feet and hands or digging with sticks or rakes. Meanwhile, the men fished in the deeper waters of the Mosquito Lagoon or Atlantic Ocean, using fish traps, nets, barbed arrows, or spears. <br /> <br /> What did the Timucua look for when choosing a location a location to obtaine food? What might cause them to return to the same spot repeatedly? Was this a clam-processing site as archeologists suggest or could it have had other purposes?",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.8272046747,
+          28.9308106475
+        ]
+      },
+      "properties": {
+        "name": "Turtle Mound",
+        "notes": "Turtle Mound\nhttps://www.nps.gov/places/turtle-mound.htm\n\nWalk to the top of Turtle Mound and experience breathtaking views of the ocean and the lagoon from multiple over looks. A 35-foot-high pathway to the top, it is the tallest shell mound on the east coast of Florida. The primarily oyster shell mound historically reached 70 feet high. Early explorers once thought it looked like a turtle shell from the ocean which is it's name sake. Currently it faces constant erosion from sea level rise and annual storm surge. Learn about shoreline stabilization efforts underway by volunteers from the University of Central Florida.<br /> <br /> Plant life on the mound represents the cross section of both the temperate and the subtropical. While making your way to the top observe the various plants present. Look for the oyster shells peeking out on the surface of the forest floor. Also explore the small fisherman’s path around the side of the mound which gives a view of the transect layers of the mound. Enjoy salt water fishing along the shore of Mosquito Lagoon. Salt water fishing permits acquired through Florida Fish and Wildlife. ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.827319,
+          28.930624
+        ]
+      },
+      "properties": {
+        "name": "Turtle Mound's Middle Observation Deck",
+        "notes": "Turtle Mound's Middle Observation Deck\nhttps://www.nps.gov/places/turtle-mounds-middle-observation-deck.htm\n\nLocated at Turtle Mound is a boardwalk path that leads to the top of the mound. While at the top turn left, right or straight to one of the three observation decks. These recordings were produced by sound artist Dr. Nathan Wolek during his 2020 artist-in-residence program at Canaveral National Seashore.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.827263,
+          28.93085
+        ]
+      },
+      "properties": {
+        "name": "Turtle Mound's North Observation Deck",
+        "notes": "Turtle Mound's North Observation Deck\nhttps://www.nps.gov/places/turtle-mounds-north-observation-deck.htm\n\nLocated at Turtle Mound is a boardwalk path that leads to the top of the mound. While at the top turn left, right or straight to one of the three observation decks. At this location you may listen to cicadas at sunset with soft ocean sounds in the background. These recordings were produced by sound artist Dr. Nathan Wolek during his 2020 artist-in-residence program at Canaveral National Seashore.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.827153,
+          28.930511
+        ]
+      },
+      "properties": {
+        "name": "Turtle Mound's South Observation Deck",
+        "notes": "Turtle Mound's South Observation Deck\nhttps://www.nps.gov/places/turtle-mounds-south-observation-deck.htm\n\nPanoramic views of the Atlantic Ocean through the coastal hammock to Mosquito Lagoon provide a breathtaking backdrop to the sound of crashing waves. ",
+        "icon": "red-pin-down.png"
+      }
+    }
+  ]
+}

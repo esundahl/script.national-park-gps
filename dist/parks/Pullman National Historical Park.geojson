@@ -1,0 +1,200 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.60880675988845,
+          41.69435352454436
+        ]
+      },
+      "properties": {
+        "name": "Administration-Clock Tower Building",
+        "notes": "Administration-Clock Tower Building\nhttps://www.nps.gov/places/administration-clock-tower-building.htm\n\nBuilt in 1880, the Administration Clock Tower Building formed the central mass of a monumental structure seven hundred feet long. As the manufacturing center of Pullman, the Administration and Factory Complex was an unusually ornate industrial building designed to sit in a park-like setting. The structure overlooked the artificial Lake Vista, which was a cooling reservoir for the Corliss steam engine. The main facade faced the Illinois Central tracks, and thus was one of the first buildings a visitor would see. The Pullman Company stood as both a real and symbolic expression of the great economic power of the railroad industry, it was essential the building display a strong sense of formal ordering.<br /> <br /> In 1991, the State of Illinois purchased the Administration Clock Tower Building to comprise the Illinois Pullman State Historic Site. The 12.66-acre site is at the northeast corner of 111th Street and Cottage Grove Avenue, directly north of the Hotel Florence.<br /> <br /> After standing for 117 years as a Pullman landmark, the Administration Clock Tower Building was seriously damaged by a fire set by an arsonist on December 1, 1998. The tower and clock were rebuilt and installed on site in late 2005. The district was named a National Monument (now National Historical Park) on February 19, 2015, making it a component of the National Park System. Now, as of Labor Day 2021, the building hosts the National Park Service's Visitor Center. ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.60846046431712,
+          41.69171106202583
+        ]
+      },
+      "properties": {
+        "name": "Arcade Park",
+        "notes": "Arcade Park\nhttps://www.nps.gov/places/arcade-park.htm\n\nDesigned by Nathan Barrett, Arcade Park was a formal garden for residents to use for leisure in the company town of Pullman. <br /> <br /> Arcade Park boasted an interior planting scheme that was ultra-formal -- thousands of annuals, all trimmed to the same height by Pullman company staff and arranged to form geometric patterns. Surrounding this formal interior was a \"naturalistic instinct\" enclosure - dense, but not tall so as not to obstruct the view plantings of native wildflowers, shrubs and a few small trees.<br /> <br /> After years of neglect, Arcade Park was built to its current configuration in the 1970s, and is loosely based on the original layout. However the original planting scheme was not replicated, because the upkeep of a large formal garden was too costly.<br /> <br /> The center section was hollowed out so that it could be flooded in the winter for ice skating; unfortunately, the ice skating idea never panned out. The flower beds, echoing the original configuration, are now maintained by the all-volunteer <a href=\"http://www.hpgc.org/\">Historic Pullman Garden Club</a> and managed by the Chicago Park District.<br /> <br /> Arcade Park originally sat adjacent to the Arcade Building, which was a large, four-story shopping and office center. The Arcade also held a 1,000-seat theater, a subscription-only library (books donated by George Pullman), and the Pullman Bank. The Arcade Building was demolished in 1926 after falling into disrepair. <br />  ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.608015,
+          41.690678
+        ]
+      },
+      "properties": {
+        "name": "Greenstone Church (Greenstone United Methodist Church)",
+        "notes": "Greenstone Church (Greenstone United Methodist Church)\nhttps://www.nps.gov/places/greenstone-church-greenstone-united-methodist-church.htm\n\nThe Greenstone Church was built in 1882 as part of the original plan for the town of Pullman. The church was designed by Solon S. Beman and features a unique facade of green stone quarried in Pennsylvania and seats 600.<br /> <br /> With the exception of the chancel arrangements, the sanctuary has remained unchanged since the 1880s. The cherrywood that comprises the altar and pews, over 90% of the stained glass windows, and the manual-tracker pipe organ are original to the building.<br /> <br /> The Greenstone Church was built to “complete the scene” of the town, but George Pullman, having family roots in the Universalist Church, thought the building would be a church that was “for all to unite in union with the body.\" However, it was quickly realized that each denomination wanted to worship in their tradition, their own language, with their own pastors.<br /> <br /> In addition to this complication, the church building sat empty for over two years due to the high monthly rent. Small religious societies met in rooms rented at the Market Hall, the Arcade, or the Casino buildings. The rent of $300 per month for the church and $65 for the parsonage to the south end of the building were deemed excessive. Eventually, the rent was lowered, and the Presbyterians were the first tenants of the church, having leased the building by 1887.<br /> <br /> Following a much-publicized antitrust controversy, the Pullman Company was forced to sell off most of the town, beginning in 1898, the year following George Pullman’s death. A Methodist congregation soon afterwards purchased the building and it has remained in their care since. ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.60967969894409,
+          41.691337218397926
+        ]
+      },
+      "properties": {
+        "name": "Historic Pullman Foundation Pullman Exhibit Hall",
+        "notes": "Historic Pullman Foundation Pullman Exhibit Hall\nhttps://www.nps.gov/places/historic-pullman-foundation-pullman-exhibit-hall.htm\n\nVisit the Historic Pullman Foundation Shared Pullman Exhibit Hall located at Cottage Grove and 112th Street. Volunteers and partners from the Historic Pullman Foundation are on-hand to answer questions and provide suggestions on how to enjoy your visit to the park. There are informational displays, artifacts and an introductory film available.<br /> <br /> The Historic Pullman Foundation holds a number free and paid events throughout the year. For more information <a href=\"https://www.pullmanil.org/events/list/\">click here.</a>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.602452,
+          41.704331
+        ]
+      },
+      "properties": {
+        "name": "Historic Pullman Wheelworks",
+        "notes": "Historic Pullman Wheelworks\nhttps://www.nps.gov/places/historic-pullman-wheelworks.htm\n\nThe Pullman Wheelworks was built in 1918 as a manufacturing facility for the Packard Open Body Shop for assembling Packard Automobiles. The facilities were built by the Pullman Company in contract with Packard from 1919 to 1923. <br /> <br /> In 1981, the Wheelworks were converted into 210 multifamily apartment units, with recent renovations in 2010 done by Mercy Lakefront Housing, the current property manager. ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.608055,
+          41.691137
+        ]
+      },
+      "properties": {
+        "name": "Historic Pullman Workers' Homes",
+        "notes": "Historic Pullman Workers' Homes\nhttps://www.nps.gov/places/historic-pullman-workers-homes.htm\n\nThe original rowhomes of the 1880's Pullman Company Town were various sizes and designed to accommodate workers of all levels. The rowhomes were rented to residents by the company, and boasted unique amenities such as indoor plumbing (flush toilets), well-ventilated and well-lit rooms, and steam heating for the the executive homes.<br />  <br /> George M. Pullman hired architect Solon Beman to design the buildings of the town of Pullman. Beman's design for Pullman consisted of elements typical of the American Queen Anne style. Although most Queen Anne buildings are made of wood, fire-resistant brick was used instead. In addition, Beman made a special effort to introduce variety and imagination to the facades of the rowhouses, attempting to avoid the monotony typical of industrial housing.  <br /> <br /> Nathan Barrett, the landscape architect, designed Pullman to resemble a suburban park -- a radical notion for a working-class community. Each rowhome had a small front yard. A variety of trees were planted along the parkways, and the company performed landscape maintenance. <br /> <br /> Today, the homes are all privately owned. Protection of the facades went into effect after Pullman was designated a National Historic Landmark District and a City of Chicago Landmark District in the 1970s.<br /> <br /> Pullman's most recent designation is as a National Historical Park. The Historic Landmark District and National Historical Park incorporates all homes and buildings 103rd street to 115th (north to south) and S. Cottage Grove Ave to S. Ellis St. (east to west). You can still see a variety of styles here, from executive homes that face the old factory grounds to historic blockhouses that have gone through adaptive reuse to become artist housing. <br />  ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.60930042460392,
+          41.69223196436805
+        ]
+      },
+      "properties": {
+        "name": "Hotel Florence",
+        "notes": "Hotel Florence\nhttps://www.nps.gov/places/hotel-florence.htm\n\nThe Hotel Florence is a former hotel located in the Pullman Historic District on the far south side of Chicago, Illinois. It was built in 1881 to a design by architect Solon Spencer Beman. George Pullman approved the design, and construction commenced on the new 50-room Hotel Florence to rent rooms to supply representatives for his company. <br /> <br /> The hotel cost $100,000 to build. George Pullman named the hotel after his oldest daughter, Florence Pullman. The most luxurious suite in the hotel, the Pullman Suite, was designed for the personal use of George Pullman and his family. The hotel could also offer first-class accommodations to railroad CEOs who came to Pullman to do business with the firm. The hotel opened to guests on November 1, 1881.<br /> <br /> George Pullman died in 1897. The town of Pullman was divested from the company and the Hotel Florence was sold in 1898 into new owenership. The Hotel Florence built a major addition, the Annex, in c. 1914. The Historic Pullman Foundation purchased the hotel in 1975 to save it from demolition; the Illinois Historic Preservation Agency (now the Illinois Department of Natural Resources) took the title in 1991. <br /> <br /> Visit the <a href=\"https://www2.illinois.gov/dnrhistoric/Experience/Sites/Northeast/Pages/Pullman-Site.aspx\">Illinois Department of Natural Resources website </a>for more information.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Illinois and Michigan Canal National Heritage Area",
+        "notes": "Illinois and Michigan Canal National Heritage Area\nhttps://www.nps.gov/places/illinois-and-michigan-canal-national-heritage-area.htm\n\n<p paraeid=\"{95e6b090-606a-4fe4-a170-333a1e4c8151}{236}\" paraid=\"8\"><a href=\"https://iandmcanal.org/\">The Illinois and Michigan Canal National Heritage Area</a> (I & M Canal) was designated in 1984 and is America's first National Heritage Area. The Canal Corridor Association serves as its coordinating entity. In the 36 years since designation, the Canal Corridor Association has strengthened the collective voices of the region and interprets the history of the Corridor and its significance in the settlement and growth of the region and nation. </p> <p paraeid=\"{95e6b090-606a-4fe4-a170-333a1e4c8151}{245}\" paraid=\"9\">The 96-mile hand-dug Illinois and Michigan Canal opened in 1848 to connect the American heartland to New York Harbor and New Orleans. The canal was carved through a glacial passageway and used by migratory birds, Native Americans, French fur traders, nineteenth-century pioneers, canal traders, and modern shipping industries. The effects of the I&M Canal was profoundly felt in the Midwest, as farmers now had a reliable way to transport crops to market. The canal opened the floodgates for new ideas, new people, and commodities. For the first time, manufactured goods from the eastern U. S. and products from the south such as molasses, tobacco, and oranges, could be shipped to Chicago. Chicago’s rapid development from a frontier settlement to the bustling city is also directly linked to this great US shipping canal. Abraham Lincoln advocated for improvements in public transportation and actively supported the construction, use, and expansion of the canal. The I & M canal reached its peak influence in the second half of the 19th century. In 1853, railroads began to parallel its path and new water highways were developed in the early 1900s. The canal was soon replaced by the bigger water highways and officially closed to commerce in 1933. However, the character, history, culture, and heritage of this region resonates deeply in its communities.  </p> <p paraeid=\"{f6613082-0cd1-47fc-942b-6bcf63d061c7}{12}\" paraid=\"10\">The National Heritage Area was proposed to fight the “rust belt” disinvestment of the 1970s. Its designation was a key turning point in the continued history of the canal. Today, the Illinois & Michigan Canal National Heritage Area continues as a passageway for transportation and recreation. The 60 communities that call this region home are connected by the canal’s everlasting impacts. This heritage area hopes that visitors will become heritage stewards, which is further promoted by their <a href=\"https://iandmcanal.org/passport-stamp-locations/\">NPS Passport Stamp locations</a> and their <a href=\"https://iandmcanal.org/junior-ranger/\">Junior Ranger Program. </a> </p> <h2 paraeid=\"{f6613082-0cd1-47fc-942b-6bcf63d061c7}{74}\" paraid=\"17\">Historic Sites and Points of Interest: </h2> <ol role=\"list\" start=\"1\"> <li aria-setsize=\"-1\" data-aria-level=\"1\" data-aria-posinset=\"1\" data-font=\"\" data-leveltext=\"%1.\" data-listid=\"3\" role=\"listitem\"> <p paraeid=\"{f6613082-0cd1-47fc-942b-6bcf63d061c7}{80}\" paraid=\"18\"><a href=\"https://iandmcanal.org/experiences/canal-boat/\">I&M Canal Visitor Center and Boat</a> </p> </li> </ol> <ol role=\"list\" start=\"2\"> <li aria-setsize=\"-1\" data-aria-level=\"1\" data-aria-posinset=\"2\" data-font=\"\" data-leveltext=\"%1.\" data-listid=\"3\" role=\"listitem\"> <p paraeid=\"{f6613082-0cd1-47fc-942b-6bcf63d061c7}{88}\" paraid=\"19\"><a href=\"https://www.lemonthistory.org/\">Lemont Area Historical Society and Museum</a>  </p> </li> </ol> <ol role=\"list\" start=\"3\"> <li aria-setsize=\"-1\" data-aria-level=\"1\" data-aria-posinset=\"3\" data-font=\"\" data-leveltext=\"%1.\" data-listid=\"3\" role=\"listitem\"> <p paraeid=\"{f6613082-0cd1-47fc-942b-6bcf63d061c7}{98}\" paraid=\"20\"><a href=\"https://www.choosechicago.com/neighborhoods/bronzeville/\">Bronzeville Neighborhood</a> </p> </li> </ol> <ol role=\"list\" start=\"4\"> <li aria-setsize=\"-1\" data-aria-level=\"1\" data-aria-posinset=\"4\" data-font=\"\" data-leveltext=\"%1.\" data-listid=\"3\" role=\"listitem\"> <p paraeid=\"{f6613082-0cd1-47fc-942b-6bcf63d061c7}{106}\" paraid=\"21\"><a href=\"https://navypier.org/\">Navy Pier</a> </p> </li> </ol> <ol role=\"list\" start=\"5\"> <li aria-setsize=\"-1\" data-aria-level=\"1\" data-aria-posinset=\"5\" data-font=\"\" data-leveltext=\"%1.\" data-listid=\"3\" role=\"listitem\"> <p paraeid=\"{f6613082-0cd1-47fc-942b-6bcf63d061c7}{114}\" paraid=\"22\"><a href=\"https://iandmcanal.org/experiences/canal-towns/morris/\">Morris and the </a><a href=\"https://iandmcanal.org/experiences/canal-towns/morris/\">Canal Port Plaza</a> </p> </li> </ol> <ol role=\"list\" start=\"6\"> <li aria-setsize=\"-1\" data-aria-level=\"1\" data-aria-posinset=\"6\" data-font=\"\" data-leveltext=\"%1.\" data-listid=\"3\" role=\"listitem\"> <p paraeid=\"{f6613082-0cd1-47fc-942b-6bcf63d061c7}{125}\" paraid=\"23\"><a href=\"https://www.fs.usda.gov/midewin\">Midewin National Tallgrass Prairie</a>  </p> </li> </ol> <ol role=\"list\" start=\"7\"> <li aria-setsize=\"-1\" data-aria-level=\"1\" data-aria-posinset=\"7\" data-font=\"\" data-leveltext=\"%1.\" data-listid=\"3\" role=\"listitem\"> <p paraeid=\"{f6613082-0cd1-47fc-942b-6bcf63d061c7}{135}\" paraid=\"24\"><a href=\"https://iandmcanal.org/experiences/canal-towns/lemont/\">Downtown Historic Lemont</a> </p> </li> </ol> <ol role=\"list\" start=\"8\"> <li aria-setsize=\"-1\" data-aria-level=\"1\" data-aria-posinset=\"8\" data-font=\"\" data-leveltext=\"%1.\" data-listid=\"3\" role=\"listitem\"> <p paraeid=\"{f6613082-0cd1-47fc-942b-6bcf63d061c7}{143}\" paraid=\"25\">The Interpretive Silhouettes </p> </li> </ol> <ol role=\"list\" start=\"9\"> <li aria-setsize=\"-1\" data-aria-level=\"1\" data-aria-posinset=\"9\" data-font=\"\" data-leveltext=\"%1.\" data-listid=\"3\" role=\"listitem\"> <p paraeid=\"{f6613082-0cd1-47fc-942b-6bcf63d061c7}{154}\" paraid=\"26\"><a href=\"https://www.reconnectwithnature.org/preserves-trails/visitor-centers/isle-a-la-cache-museum\">Isle a la Cache Museum</a>  </p> </li> </ol> <ol role=\"list\" start=\"10\"> <li aria-setsize=\"-1\" data-aria-level=\"1\" data-aria-posinset=\"10\" data-font=\"\" data-leveltext=\"%1.\" data-listid=\"3\" role=\"listitem\"> <p paraeid=\"{f6613082-0cd1-47fc-942b-6bcf63d061c7}{164}\" paraid=\"27\"><a href=\"http://reddickmansion.org/\">Reddick Mansion</a> </p> </li> </ol> <h2 paraeid=\"{f6613082-0cd1-47fc-942b-6bcf63d061c7}{172}\" paraid=\"28\">Notable People:  </h2> <ol role=\"list\" start=\"1\"> <li aria-setsize=\"-1\" data-aria-level=\"1\" data-aria-posinset=\"1\" data-font=\"\" data-leveltext=\"%1.\" data-listid=\"1\" role=\"listitem\"> <p paraeid=\"{f6613082-0cd1-47fc-942b-6bcf63d061c7}{178}\" paraid=\"29\"><a href=\"https://www.biography.com/religious-figure/jacques-marquette\">Jacques Marquette</a> </p> </li> </ol> <ol role=\"list\" start=\"2\"> <li aria-setsize=\"-1\" data-aria-level=\"1\" data-aria-posinset=\"2\" data-font=\"\" data-leveltext=\"%1.\" data-listid=\"1\" role=\"listitem\"> <p paraeid=\"{f6613082-0cd1-47fc-942b-6bcf63d061c7}{186}\" paraid=\"30\"><a href=\"https://www.biography.com/explorer/louis-joliet\">Louis Jolliet</a> </p> </li> </ol> <ol role=\"list\" start=\"3\"> <li aria-setsize=\"-1\" data-aria-level=\"1\" data-aria-posinset=\"3\" data-font=\"\" data-leveltext=\"%1.\" data-listid=\"1\" role=\"listitem\"> <p paraeid=\"{f6613082-0cd1-47fc-942b-6bcf63d061c7}{194}\" paraid=\"31\"><a href=\"https://www.nps.gov/people/george-m-pullman.htm\">George M. Pullman</a> </p> </li> </ol> <ol role=\"list\" start=\"4\"> <li aria-setsize=\"-1\" data-aria-level=\"1\" data-aria-posinset=\"4\" data-font=\"\" data-leveltext=\"%1.\" data-listid=\"1\" role=\"listitem\"> <p paraeid=\"{f6613082-0cd1-47fc-942b-6bcf63d061c7}{202}\" paraid=\"32\"><a href=\"https://www.nps.gov/people/idabwells.htm\">Ida B. Wells</a> </p> </li> </ol> <ol role=\"list\" start=\"5\"> <li aria-setsize=\"-1\" data-aria-level=\"1\" data-aria-posinset=\"5\" data-font=\"\" data-leveltext=\"%1.\" data-listid=\"1\" role=\"listitem\"> <p paraeid=\"{f6613082-0cd1-47fc-942b-6bcf63d061c7}{210}\" paraid=\"33\"><a href=\"https://www.nps.gov/people/abraham-lincoln.htm\">Abraham Lincoln</a>  </p> </li> </ol>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Illinois: Pullman National Historical Park",
+        "notes": "Illinois: Pullman National Historical Park\nhttps://www.nps.gov/places/pullman-national-monument.htm\n\n  <p>Pullman National Historical Park, also known as The Pullman District and Pullman Historic District, is located in Chicago, Illinois. The district is significant for its historical origins in the Pullman Company, one of the most famous company towns in the United States, and scene of the tumultuous 1894 Pullman strike.<br /> <br /> Located in what is now the Pullman community area of Chicago, the district includes the Pullman factory and also the Hotel Florence, named after George Pullman's daughter. Also within the district is the A. Philip Randolph Pullman Porter Museum, named for the prominent leader <a href=\"https://www.nps.gov/people/a-philip-randolph.htm\">A. Philip Randolph</a>, which recognizes and explores African American labor history.<br /> <br /> Unionization of African American workers began in 1925, when the Brotherhood of Sleeping Car Porters was founded by A. Philip Randolph in New York City. Forty-four percent of the Pullman workforce was porters, making Pullman the nation's largest employer of African Americans. A landmark agreement was reached between the two parties in 1937, becoming the first major labor agreement between a company and an African American union. The NAACP lauded the contract and recognized it as an important step in African American Civil Rights.<br /> <br /> President Barack Obama designated Pullman as a National Monument on February 19, 2015. It became the first unit of the National Park Service in Chicago. Pullman National Historical Park became part of the <a href=\"https://www.nps.gov/subjects/civilrights/african-american-civil-rights-network.htm\">African American Civil Rights Movement</a> in October 2019. <br /> <br /> <em>The African American Civil Rights Network (AACRN) recognizes the civil rights movement in the United States and the sacrifices made by those who fought against discrimination and segregation. Created by the African American Civil Rights Act of 2017, and coordinated by the National Park Service, the Network tells the stories of the people, places, and events of the U.S. civil rights movement through a collection of public and private elements.</em></p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.607169,
+          41.690993
+        ]
+      },
+      "properties": {
+        "name": "Market Hall",
+        "notes": "Market Hall\nhttps://www.nps.gov/places/pullman-market-hall.htm\n\nThe original Market Hall was built at the same time as the test of the town of Pullman. It had two floors containing a lunch counter, sixteen stalls for the sale of fresh meats and vegetables, and a meeting hall. In 1892, it was destroyed by fire. In 1893, it was rebuilt with a new three-story design intended to mimic the Romanesque buildings of the 1983 World's Columbian Exposition. Pullman was considered one of the \"marvels\" of the nearby world's fair, and visitors were flocking to the town to see it. To help lodge them, colonnaded apartments were built around Market Hall. <br /> <br /> Today, after suffering fires in both 1931 and 1973, only the lower half of the Market Hall remains. It was purchased by the Historic Pullman Foundation soon after its 1974 fire, and has been stabilized for visitors to the neighborhood to view. It has been used for public art displays in the past and its colonnade apartments are still lived in today. ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.603079,
+          41.705375
+        ]
+      },
+      "properties": {
+        "name": "National A. Philip Randolph Pullman Porter Museum",
+        "notes": "National A. Philip Randolph Pullman Porter Museum\nhttps://www.nps.gov/places/national-a-philip-randolph-pullman-porter-museum.htm\n\nThe National A. Philip Randolph Pullman Porter Museum (NAPPRM) was founded in 1995 by Dr. Lyn Hughes. The museum is named after Asa Philip Randolph and Pullman Porters, the men who made up the membership of the Brotherhood of Sleeping Car Porters (BSCP) union.<br /> <br /> Randolph was the chief organizer and co-founder of the BSCP. BSCP was the first African-American labor union in the country to be recognized by the American Federation of Labor and win a collective bargaining agreement against a major corporation, the Pullman Palace Car Company. <br /> <br /> The museum's mission \"...is to promote, honor and celebrate the legacy of A. Philip Randolph, Pullman Porters, the Brotherhood of Sleeping Car Porters and contributions made by African-Americans to America’s labor movement; with a significant focus on the African American Railroad Employee\". They do so through \"educational and cultural enrichment for all of mankind. All activities, past, present and future are for the purposes and objectives of facilitating study, through the preservation,multimedia programming interpretation,the enjoyment of African-American history and culture\".<br /> <br /> Inside the museum, they showcase a permanent collection through exhibits and media.<br /> <br /> Visit <a href=\"https://aprpullmanportermuseum.org/\">NAPPRM's website</a> for more details.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6068455,
+          41.69713367
+        ]
+      },
+      "properties": {
+        "name": "Pullman Firehouse",
+        "notes": "Pullman Firehouse\nhttps://www.nps.gov/places/pullman-firehouse.htm\n\nThe Firehouse was built in 1894 in a Romanesque style. It replaced the earlier firehouse, located across from the Arcade Building in southern Pullman. The tall, narrow tower was used to survey the area for any signs of fire nearby, and also to hang and dry fire hoses. It is the last surviving firehouse in Chicago with a hose-drying watchtower.<br /> <br /> Throughout its history, the building has been operated by the Chicago Fire Department and used as a storage facility by the Sherwin-Williams Company. Today, the historic fire station is owned by the City of Chicago, and is not in use. ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.60812401771545,
+          41.69258702173087
+        ]
+      },
+      "properties": {
+        "name": "Pullman House Project",
+        "notes": "Pullman House Project\nhttps://www.nps.gov/places/pullman-house-project.htm\n\nThe Pullman House Project is a program sponsored by the Bielenberg Historic Pullman House Foundation (a 501(c)(3) not for profit organization). The Bielenberg Foundation is an interpretive/programmatic partner organization to the National Park Service - Pullman National Historical Park.<br /> <br /> The Pullman House Project's Welcome Center is located in the renovated home of one of Pullman's General Manager, H.H. Sessions. In the Welcome Center you find exhibits, visitor orientation, and the Pullman Club Coffee Shop (Open 8 am - 3 pm Tuesday - Sunday)<br /> <br /> The Pullman House Project also offers tours every day at 1 pm that leave from the Welcome Center and have interpretors escorting visitors to see the interior of the Jordan and Dunbar homes. These homes have been styled to evoke the period of the 1880's when these families would have lived here. Registration for the tours ends at Noon on the day of the tour.<br /> <br /> For more information on tours with the Pullman House Project <a href=\"https://www.pullmanathome.org/tours\">click here.</a>",
+        "icon": "red-pin-down.png"
+      }
+    }
+  ]
+}

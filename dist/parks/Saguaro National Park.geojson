@@ -1,0 +1,290 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.19754505175484,
+          32.25427642535152
+        ]
+      },
+      "properties": {
+        "name": "Cactus Garden Trail",
+        "notes": "Cactus Garden Trail\nhttps://www.nps.gov/places/cactus-garden-trail.htm\n\nA paved, 300-foot (91 m) accessible loop trail, located on the west side of the Red Hills Visitor Center parking lot. This short trail provides a great introduction to the notable species of the Sonoran Desert, featuring signs that identify and interpret many of the most common species. ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.16596878,
+          32.31948595
+        ]
+      },
+      "properties": {
+        "name": "Cam-Boh Picnic Area (West District)",
+        "notes": "Cam-Boh Picnic Area (West District)\nhttps://www.nps.gov/places/cam-boh-picnic-area.htm\n\nThis picnic area is located in Saguaro National Park's West District along Picture Rocks Rd. There is a trailhead at this location, as well as a place for horse trailers to park. The Prophecy Wash Trail is accessed from here. ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.210529,
+          32.262561
+        ]
+      },
+      "properties": {
+        "name": "Desert Discovery Trail",
+        "notes": "Desert Discovery Trail\nhttps://www.nps.gov/places/desert-discovery-trail.htm\n\nThe Desert Discovery Trail is an easy, paved, accessible, 0.5 mile (0.8 km) trail in Saguaro National Park's west district. The trailhead is located along Kinney Road, 1 mile (1.6 km) northwest from the Red Hills Visitor Center. <br /> <br /> Interpretive signage along the trail provides an introduction to the ecology and habitats of the Sonoran Desert. There are several shade structures and benches along the way. This trail features any large and impressive saguaros along with impressive views of Avra Valley to the west and the Quinlan Mountains and the Baboquivari Mountains to the southwest.<br /> <br /> This is a great introduction to Saguaro National Park and a family-friendly trail that allows pets on leash and is accessible to wheelchairs.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.16996765136719,
+          32.28533172607422
+        ]
+      },
+      "properties": {
+        "name": "Ez-Kim-In-Zin Picnic Area (West District)",
+        "notes": "Ez-Kim-In-Zin Picnic Area (West District)\nhttps://www.nps.gov/places/ez-kim-in-zin-picnic-area.htm\n\nThis picnic area is located along the Bajada Loop Drive in Saguaro National Park's West District. It is located near the Sendero Esperanza Trailhead. ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.73576629161835,
+          32.18004848799357
+        ]
+      },
+      "properties": {
+        "name": "Fee Kiosk, Rincon Mountain District",
+        "notes": "Fee Kiosk, Rincon Mountain District\nhttps://www.nps.gov/places/fee-kiosk-rincon-mountain-district.htm\n\nFee Kiosk by the Rincon Mountain District Visitor Center, at the entrance of the scenic Cactus Forest Drive.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.7232666015625,
+          32.166038513183594
+        ]
+      },
+      "properties": {
+        "name": "Javelina Picnic Area (East District)",
+        "notes": "Javelina Picnic Area (East District)\nhttps://www.nps.gov/places/javelina-picnic-area.htm\n\nThis is the closest picnic area from the Saguaro National Park East District entrance. There are plenty of parking spots and covered table areas. The Tanque Verde Ridge Trail starts from this location. Backpackers looking to take the Tanque Verde Ridge Trail up into the Rincon Mountains can park their car here and start their ascent. The closest campsite from here is Juniper Basin (6.9 miles away on foot, 4000 ft of climbing). ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.19755685329437,
+          32.25429796035736
+        ]
+      },
+      "properties": {
+        "name": "Javelina Wash Trail",
+        "notes": "Javelina Wash Trail\nhttps://www.nps.gov/places/javelina-wash-trail.htm\n\nA 600-yard loop trail through the wash behind the Red Hills Visitor Center, looping through the wash from one end of the building to the other. Flat, but sandy and rocky, with stairs at either end.<br /> <br /> Follow the self-guided \"Signs of Life in the Desert\" tour under Self-Guided Tours in the NPS app to learn more about the habitats you'll see along this short, varied trail.<br /> <br /> The Javelina Wash Trail allows visitors to get a taste of the Sonoran Desert right next to the Visitor Center, and is the setting for various guided ranger walks. A variety of Sonoran Desert pland and animals can be seen close-up in the wash, as well as a variety of animal habiats, from their holes and burrows. <br /> <br />  ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.167192,
+          32.247339
+        ]
+      },
+      "properties": {
+        "name": "King Canyon Trailhead",
+        "notes": "King Canyon Trailhead\nhttps://www.nps.gov/places/king-canyon-trailhead.htm\n\nThis trailhead is located in Tucson Mountain Park, just outside of the National Park boundary. It is the starting point for several trails: the King Canyon Trail, King Canyon Wash Trail, and Gould Mine Trail, all of which connect to Saguaro National Park's West District's extensive trail system.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.15986974,
+          32.25647914
+        ]
+      },
+      "properties": {
+        "name": "Mam-A-Gah Picnic Area (West District)",
+        "notes": "Mam-A-Gah Picnic Area (West District)\nhttps://www.nps.gov/places/mam-a-gah-picnic-area.htm\n\nThis is a unique picnic area located along the Sendero Esperanza Trail. This picnic area is hike in only and cannot be reached with any form of vehicle. It is most easily accessed from the King Canyon Trailhead in Tucson Mountain Park, consisting of a hike from the parking lot of just under 1 mile.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Manning Cabin",
+        "notes": "Manning Cabin\nhttps://www.nps.gov/places/manning-cabin.htm\n\n<p>The Manning Cabin sits in the Rincon Mountains in Saguaro National Park. <a href=\"https://nps.gov/people/levi-manning.htm\">Levi H. Manning</a> had the cabin built in 1905 for use as a mountain summer home. It was the first such retreat built in the Rincon Mountains.</p> <p>The cabin was built using pack horses and wagons to transport materials to the site. Trees for the cabin came from the immediate vicinity. The log structure contained a living room with a fireplace, a kitchen, two bedrooms, and two small bunk rooms. The cabin also housed a piano, brought up from the Rincon Valley via the wagon road.</p> <p>The Manning family used the cabin as a summer home from mid-summer 1905 to mid-1907. In 1907, the area became part of the Coronado National Forest. For several subsequent years, Manning leased the land from the Forest Service but did not use the cabin again.</p> <p>The historical importance of the cabin was formally recognized in 1975, when it was added to the <a href=\"https://focus.nps.gov/AssetDetail/NRIS/75000169\">National Register of Historic Places</a>. For more on Manning Cabin and it's original owner, visit <a href=\"https://www.nps.gov/articles/manning-cabin.htm\">Levi Manning and Manning Cabin: Past and Present</a>.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.72463989257812,
+          32.211490631103516
+        ]
+      },
+      "properties": {
+        "name": "Mica View Picnic Area (East District)",
+        "notes": "Mica View Picnic Area (East District)\nhttps://www.nps.gov/places/mica-view-picnic-area.htm\n\nThis is a great place to take some shorter hikes and enjoy covered picnic areas. There is a large, family-friendly and accessible picnic shelter near the parking lot. There is an ADA accessible trail starting form this area called the Mica View Trail.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.19731545448303,
+          32.25449303492965
+        ]
+      },
+      "properties": {
+        "name": "Saguaro National Park West",
+        "notes": "Saguaro National Park West\nhttps://www.nps.gov/places/saguaro-national-park-west.htm\n\nTucson, Arizona is home to the nation's largest cacti. The giant saguaro is the universal symbol of the American west. These majestic plants, found only in a small portion of the United States, are protected by Saguaro National Park, to the east and west of the modern city of Tucson. Here you have a chance to see these enormous cacti, silhouetted by the beauty of a magnificent desert sunset.<br /> <br /> Saguaro National Park is west of the Anza Expedition historic route. The park offers a spectacular view of the desert, very similar to how it would have appeared to the expedition in 1775. This is also a passport stamp location for the Anza Trail.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Santa Cruz Valley National Heritage Area",
+        "notes": "Santa Cruz Valley National Heritage Area\nhttps://www.nps.gov/places/santa-cruz-valley-national-heritage-area.htm\n\n<p paraeid=\"{e5eadcd5-68c1-4372-b385-a06e2ecca7bf}{229}\" paraid=\"8\">Designated by Congress in 2019, <a href=\"https://santacruzheritage.org/\">Santa Cruz Valley National Heritage Area (SCVNHA)</a> recognizes the rich history, natural and cultural resources, and heritage of the Santa Cruz River watershed. The Santa Cruz Valley Heritage Alliance is a non-profit local coordinating entity for the heritage area. It is an alliance of partners that includes local governments, non-profit organizations, and businesses that collaborate together in the region to further the mission of the heritage area.<br /> <br /> SCVNHA is a unique and diverse watershed in the southwestern U.S. that encompasses a mosaic of cultures and history. Living together in this region are Native American tribes with ancient roots to the area, the descendants of Spanish settlers who colonized the valley in the late 1600s, Mexican families who settled the area before the 1854 Gadsden Purchase made it part of the United States, and current generations of late nineteenth-century American pioneers who ventured into this borderland seeking new beginnings. <br />  </p> <p paraeid=\"{e5eadcd5-68c1-4372-b385-a06e2ecca7bf}{252}\" paraid=\"11\"><strong>The SCVNHA supports community-led efforts to:  </strong></p> <ul role=\"list\"> <li aria-setsize=\"-1\" data-aria-level=\"1\" data-aria-posinset=\"1\" data-font=\"Noto Sans Symbols\" data-leveltext=\"●\" data-listid=\"1\" role=\"listitem\"> <p paraeid=\"{6004c223-f64c-4bf9-bb61-a14236ff80f5}{3}\" paraid=\"12\">Increase heritage and nature tourism and grow tourism-related economic impact </p> </li> <li aria-setsize=\"-1\" data-aria-level=\"1\" data-aria-posinset=\"2\" data-font=\"Noto Sans Symbols\" data-leveltext=\"●\" data-listid=\"1\" role=\"listitem\"> <p paraeid=\"{6004c223-f64c-4bf9-bb61-a14236ff80f5}{14}\" paraid=\"13\">Develop heritage education programs </p> </li> <li aria-setsize=\"-1\" data-aria-level=\"1\" data-aria-posinset=\"3\" data-font=\"Noto Sans Symbols\" data-leveltext=\"●\" data-listid=\"1\" role=\"listitem\"> <p paraeid=\"{6004c223-f64c-4bf9-bb61-a14236ff80f5}{21}\" paraid=\"14\">Promote local foods, crafts, and other traditional products </p> </li> <li aria-setsize=\"-1\" data-aria-level=\"1\" data-aria-posinset=\"4\" data-font=\"Noto Sans Symbols\" data-leveltext=\"●\" data-listid=\"1\" role=\"listitem\"> <p paraeid=\"{6004c223-f64c-4bf9-bb61-a14236ff80f5}{28}\" paraid=\"15\">Riparian restoration </p> </li> </ul> <ul role=\"list\"> <li aria-setsize=\"-1\" data-aria-level=\"1\" data-aria-posinset=\"1\" data-font=\"Noto Sans Symbols\" data-leveltext=\"●\" data-listid=\"1\" role=\"listitem\"> <p paraeid=\"{6004c223-f64c-4bf9-bb61-a14236ff80f5}{35}\" paraid=\"16\">Rehabilitation of historic buildings </p> </li> <li aria-setsize=\"-1\" data-aria-level=\"1\" data-aria-posinset=\"2\" data-font=\"Noto Sans Symbols\" data-leveltext=\"●\" data-listid=\"1\" role=\"listitem\"> <p paraeid=\"{6004c223-f64c-4bf9-bb61-a14236ff80f5}{42}\" paraid=\"17\">Improve the quality of life for residents by instilling a sense of place </p> </li> </ul> <p paraeid=\"{6004c223-f64c-4bf9-bb61-a14236ff80f5}{49}\" paraid=\"18\">The region has an abundance of well-preserved historic and archaeological resources associated with the rich multicultural history, along with spectacular natural, scenic, and outdoor recreational resources. From museums to national, state, and local parks to historical sites, the SCVNHA has something for everyone. </p> <h2 paraeid=\"{6004c223-f64c-4bf9-bb61-a14236ff80f5}{111}\" paraid=\"28\"><strong>Historic Sites and Points of Interest: </strong></h2> <ul role=\"list\"> <li><a href=\"https://www.nps.gov/subjects/travelspanishmissions/san-xavier-del-bac-mission.htm\">San Xavier del Bac Mission</a><a href=\"https://www.nps.gov/subjects/travelspanishmissions/san-xavier-del-bac-mission.htm\">, National Historic Landmark</a></li> <li><a href=\"https://webcms.pima.gov/cms/One.aspx?pageId=1507\">Historic Canoa Ranch</a> </li> <li><a href=\"http://www.sanxaviercoop.org/\">San Xavier </a><a href=\"http://www.sanxaviercoop.org/\">Co-op</a><a href=\"http://www.sanxaviercoop.org/\"> Farm</a></li> <li><a href=\"https://azstateparks.com/tubac/\">Tubac Presidio State Historic Park</a></li> <li><a href=\"https://azstateparks.com/catalina/\">Catalina State Park</a></li> <li><a href=\"https://www.nature.org/en-us/get-involved/how-to-help/places-we-protect/patagonia-sonoita-creek-preserve/\">Patagonia-Sonoita Creek Preserve</a></li> <li><a href=\"https://www.desertmuseum.org/\">Arizona-Sonora Desert Museum</a></li> <li><a href=\"https://www.missiongarden.org/\">Mission Garden</a></li> <li><a href=\"https://tucsonpresidio.com/\">Presidio San Agustín del Tucson Museum</a></li> <li><a href=\"https://webcms.pima.gov/cms/one.aspx?portalId=169&pageId=1503\">Agua Caliente Park</a></li> </ul> <h2 paraeid=\"{6004c223-f64c-4bf9-bb61-a14236ff80f5}{180}\" paraid=\"37\"><strong>Notable People:  </strong></h2> <ul role=\"list\"> <li><a href=\"https://www.nps.gov/tuma/learn/historyculture/eusebio-francisco-kino.htm\">Eusebio Francisco Kino</a>    </li> <li><a href=\"http://www.tonation-nsn.gov/history-culture/\">Tohono O’odham Nation</a> </li> <li><a href=\"https://www.pascuayaqui-nsn.gov/index.php/culture-home\">Pascua Yaqui Tribe</a></li> </ul>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.167582,
+          32.284867
+        ]
+      },
+      "properties": {
+        "name": "Sendero Esperanza Picnic Area (West District)",
+        "notes": "Sendero Esperanza Picnic Area (West District)\nhttps://www.nps.gov/places/sendero-esperanza-picnic-area-west-district.htm\n\nSendera Esperanza Picnic Area is the last stop along Golden Gate Road on the Bajada Loop Drive. THis picnic area provides visitors with a large parking area (big enough for RVs and busses to use to turn around at), unshaded and wheelchair accessible picnic tables, a restroom, bootbrush, closest parking for the largest dog friendly trail (Golden Gate Multi-Use Trail), as well as access to the large trail network on the north side of the Tuscon Mountain Range. ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.20887,
+          32.289768
+        ]
+      },
+      "properties": {
+        "name": "Signal Hill (West District)",
+        "notes": "Signal Hill (West District)\nhttps://www.nps.gov/places/signal-hill.htm\n\nThe road to, and picnic area at, Signal Hill picnic area is currently under construction. The trail itself is still open to the public, and can be accessed via Manville Trail (entrance along Sandario Road). NO ACCESS TO SIGNAL HILL VIA THE ROAD IS ALLOWED, THIS MEANS DO NOT PARK AT ENTRANCE TO THE ROAD AND/OR WALK DOWN THE ROAD! <br /> <br /> <br /> Signal Hill is a popular multi-use area along the Bajada Loop Drive in Saguaro National Park's west district. This is a popular destination, as it is the best place to see petroglyphs within the park. There are trails that start from this destination, as well as a picnic area. The trails from this area (including the short walk up to the petroglyphs) are not ADA accessible. ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.19760452297822,
+          32.25431574192859
+        ]
+      },
+      "properties": {
+        "name": "Signs of Life Tour Stop 1",
+        "notes": "Signs of Life Tour Stop 1\nhttps://www.nps.gov/places/signs-of-life-tour-stop-1.htm\n\nStop 1 of the \"Signs of Life in the Desert\" self-guided tour.<br /> <br /> Stop 1. Crevices in the Wall<br /> <br /> When the Park Service built this wall, their main objective was probably retaining the soil and bordering the trail. They likely were not creating habitat, but that is what happened. These huge slabs of flagstone (sandstone) provide cracks and fissures for all kinds of small animals. Look for spider webs, rodent droppings, and dirt excavated from beneath along the length of this wall.<br /> <br /> If it’s a sunny day, look along the tops of the rocks to find lizards sunning themselves. At night this wall is alive with running crab spiders and bark scorpions, among many other small invertebrate animals. And the “caution” sign with the rattlesnake depicted on it is not just there for the entertainment of visitors: the crevices in this wall are often used by snakes of many kinds, including rattlesnakes.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.210848,
+          32.271791
+        ]
+      },
+      "properties": {
+        "name": "Sus Picnic Area (West District)",
+        "notes": "Sus Picnic Area (West District)\nhttps://www.nps.gov/places/sus-picnic-area.htm\n\nThis is the closest picnic area to the Red Hills Visitor Center in the west district of Saguaro National Park. It is along the Bajada Loop Drive. ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.197776,
+          32.277055
+        ]
+      },
+      "properties": {
+        "name": "Valley View Overlook Nature Trail",
+        "notes": "Valley View Overlook Nature Trail\nhttps://www.nps.gov/places/valley-view-overlook-nature-trail.htm\n\nThe Valley View Overlook Nature Trail is an easy 0.8 mile (1.3 km) roundtrip trail, starting at the Valley View Trailhead along the Bajada Loop Scenic Drive in Saguaro National Park's west district. <br /> <br /> This short trail was built by the Civilian Conservation Corps in the 1930s. The trail drops into and out of a couple of washes and then gradually ascends to a ridge. Along the way, you will travel through typical Sonoran Desert vegetation. Signs along the way identify and interpret several of the more common species of plants. The trail ends at a ridge with benches that allow you to relax and enjoy sweeping views. From here you can see Avra Valley to the west, Signal Hill, which looks like a small black mound from here, and the jagged ridge of Picacho Peak to the north. ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.197776,
+          32.277055
+        ]
+      },
+      "properties": {
+        "name": "Valley View Trailhead",
+        "notes": "Valley View Trailhead\nhttps://www.nps.gov/places/valley-view-trailhead.htm\n\nThe Valley View Trailhead is located on the Bajada Loop Scenic Drive, about 1.3 miles (2.1 km) from the turn-off from Kinney Road. <br /> <br /> There are several parking spots along the left side of the dirt Bajado Loop Scenic Drive. If parking spots are full, please don't park illegally. Continue along the loop to explore other trailheads with more parking availability and try again later. ",
+        "icon": "red-pin-down.png"
+      }
+    }
+  ]
+}

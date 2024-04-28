@@ -1,0 +1,20 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.149845,
+          39.961961
+        ]
+      },
+      "properties": {
+        "name": "The Poe House",
+        "notes": "The Poe House\nhttps://www.nps.gov/places/poe-house.htm\n\nThe site is located at 532 N. 7th Street. Entrance to this site is through the adjacent exhibit area. The site is open from Friday through Sunday, from 9am to 12pm, and from 1pm to 5pm (closed 12pm to 1pm).<br /> <br /> During his six years in Philadelphia (1838-1844), Edgar Allan Poe lived in five different houses. Only this house survives. Many of Poe's most important and famous tales were published during his residence in the city - a major publishing center at the time. The author lived in this house with his young wife Virginia, then suffering from the early effects of tuberculosis. Poe hoped that Virginia's fragile health would improve here, in a home located at the edge of the city. In addition to Edgar and Virginia, the household included Virginia’s mother Maria Clemm, known affectionately as “Muddy,” and their cat, Catterina.  <br /> <br /> The Poe House does not have any furnished rooms today. Instead, wall mounted illustrations help in imagining the life and times of Edgar Allan Poe and his family in Philadelphia in the 1840s.",
+        "icon": "red-pin-down.png"
+      }
+    }
+  ]
+}

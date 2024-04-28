@@ -1,0 +1,35 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.2126413655185,
+          32.34096602010688
+        ]
+      },
+      "properties": {
+        "name": "Evers Family Home",
+        "notes": "Evers Family Home\nhttps://www.nps.gov/places/evers-family-home.htm\n\n<p>In 1956, Medgar and Myrlie Evers purchased the house at 2332 Guynes Street (now Margaret Walker Alexander Street), located in the Elraine subdivision, Mississippi’s first modern subdivision designed for middle-class blacks. Like most homes in the neighborhood, it is a classic post-war Ranch style home.</p> <h3>Ranch Style Homes</h3> <p>The <a href=\"https://www.ncptt.nps.gov/blog/identifying-the-1950s-ranch-house-interior-as-a-cultural-resource/\">Ranch style</a> developed in California in the 1930s. In the post-WWII housing boom, the style spread across the country, becoming the ubiquitous suburban housing type into the 1970s. Characteristics include asymmetrical facade, low-pitched roofs with moderate or wide eaves, and an overall horizontal emphasis. Generally one-story, the Ranch house offered adaptability.</p> <p>Houses of the post-war era were designed to accommodate modern conveniences. Attached garages and carports signified America’s growing dependence on automobiles. Utility rooms could house automatic washers and dryers. The houses also highlighted a new informality in homelife. In open floorplans, like at the Evers’, the living room and kitchen blend together with dining space thrown into the mix too, allowing for family interaction throughout.</p> <h3>Home Security</h3> <p>“It may seem incredible to the average American homebuyer, but security from attack was a consideration we discussed at length.”<br /> Myrlie Evers-Williams</p> <p>They rejected an available corner lot since Evers considered the location was too exposed. Unlike most of the other houses on the street, the Evers house lacked a front door. The couple chose to forego a front door in favor of a side entrance sheltered by a carport.</p> <p>They placed furniture in front of windows to block gunfire in case of an attack. The entire Evers family was prepared for the possibility of violence, and Evers taught his children how to crawl infantry-style on the floor to the bathroom if they heard strange noises. The porcelain-covered cast iron tub was deemed the safest spot in case of gunfire or explosives.</p> <p>On May 24, 1963, someone hurled a Molotov cocktail onto the Evers’ carport. Although the police dismissed the incident as a \"prank,\" Evers increased security measures. The family slept with their mattresses on the floor—lower than windows and potential sniper bullets. Guard dogs occupied the backyard.</p> <h3>All-Consuming Work</h3> <p>“[The] end of the working day, generally meant simply that we moved our headquarters from the office to home, where the same people gathered, the same telephone calls came in, and the same problems were pursued.”<br /> Myrlie Evers</p> <p>The fight for equality was all-consuming work, and the Evers home was an extension of the NAACP office. While Medgar was the NAACP’s public face in Mississippi, Myrlie Evers worked behind the scenes running the NAACP’s Jackson field office, drafting speeches, and providing personal and logistical support for her husband and other civil rights workers. Even after demands of family life kept her physically home, she never ceased working.</p> <p>The couple hosted civil rights workers, sheltered African Americans threatened by white supremacists, endured death threats that arrived by telephone and mail, and lived with constant danger even as they raised three children.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.21377062739884,
+          32.34114660512638
+        ]
+      },
+      "properties": {
+        "name": "Myrlie's Garden",
+        "notes": "Myrlie's Garden\nhttps://www.nps.gov/places/myrlie-s-garden.htm\n\nMyrlie's Garden, located on the corner of Missouri Street, is the historic location of a garden plot where Myrlie Evers hosted a local garden club while the Evers family lived in the neighborhood. In the 1960s, African Americans were not allowed to join garden clubs, so Myrlie Evers worked to form her own club to prusue their interests. On the garden lot, The Garden Club would plant produce, herbs, and flowers for all to enjoy.<br /> <br /> Today, Myrlie's Garden offers a community garden for all to enjoy, as well as a sheltered pavilion, educational exhibits, picnic benches, and a paved walkway. Myrlie's Garden also offers parking for the home site, located 300ft down Margaret Alexander Road.<br /> <br /> Myrle's Garden is open sunrise to sunset.",
+        "icon": "red-pin-down.png"
+      }
+    }
+  ]
+}

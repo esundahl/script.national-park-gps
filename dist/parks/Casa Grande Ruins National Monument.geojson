@@ -1,0 +1,20 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.53264617919922,
+          32.99700927734375
+        ]
+      },
+      "properties": {
+        "name": "Casa Grande Ruins",
+        "notes": "Casa Grande Ruins\nhttps://www.nps.gov/places/casa-grande-ruins.htm\n\n<p>Rising from the Sonoran Desert floor near the Gila River is one of the largest prehistoric structures ever built in North America. Its purpose remains a mystery, though many have tried to understand and explain its existence. What is clear is that the three-story structure was built around 1350 C.E. by the Ancestral Sonoran Desert people and included a vast and complex network of irrigation channels to deliver the Gila River waters to the parched agricultural plots surrounding the \"Great House\". <br /> <br /> In late October of 1775, Commander Anza and Father Font of the overland Anza expedition took a detour from their route to visit Casa Grande with the intention of taking measurements. They were guided by the 'governor of Uturitúc', a nearby O'odham village (Font refers to the people as the Gila Pima). The O'odham are the ancestors of the Casa Grande builders, and the governor of Uturitúc \"narrated ... a story and tradition preserved by the Gila Pimas\". <br /> <br /> Font diligently recorded the story. This interaction with the governor of Uturitúc produced the oldest known historical account of Gila River O'odham cosmology and Casa Grande. <br /> <br /> Font's interpretation of the governor Uturitúc’s story includes subjective comments influenced by his cultural perspective and ethnocentric bias. For instance, Font dismisses the story as \"fables mingled and tangled up with a few Catholic truths\". Even with its embedded biases and unabashed mockery, Font’s description of the story is valuable to the O’odham and to historians and anthropologists of today because it provides a glimpse into the oral history of the O'odham in 1775.<br /> <br /> The journey to Casa Grande on October 30, 1775 was a short day trip by members of the Anza expedition, but the measurements made by Font and the stories that he documented are valuable pieces of the past that can help us interpret the history of this intriguing structure and the people who built it.<br /> <br /> Take your own journey to Casa Grande Ruins National Monument and stand in awe in front of this monumental earthen structure. Check the park’s website to learn about operating hours, events, and amenities: <a href=\"http://www.nps.gov/cagr\">www.nps.gov/cagr</a></p> <br /> <br />  ",
+        "icon": "red-pin-down.png"
+      }
+    }
+  ]
+}

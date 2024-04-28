@@ -1,0 +1,95 @@
+[
+  {
+    "id": "0FA4026F-5A3F-4E04-B36C-C2C3F39F2A8E",
+    "url": "https://www.nps.gov/places/coal-national-heritage-area.htm",
+    "title": "National Coal Heritage Area",
+    "listingDescription": "The 5300 square mile National Coal Heritage Area lies in southern West Virginia, a region shaped by the history of coal deposits found in its ancient mountains. Today, the area’s communities retain much of their original character as “company towns,” reflecting local traditions, immigrant laborers and the dominance of the coal industry.",
+    "images": [
+      {
+        "url": "https://www.nps.gov/common/uploads/place/nri/20170822/places/6682414B-1DD8-B71B-0B27B495664590C4/6682414B-1DD8-B71B-0B27B495664590C4.jpg",
+        "credit": "Photo by Patrick Hutchinson",
+        "altText": "A colorful West Virginia coal freighter",
+        "title": "",
+        "description": "",
+        "caption": "\"Hauling the Coal\" portrays a glimpse into the industrial history of the region",
+        "crops": []
+      }
+    ],
+    "relatedParks": [
+      {
+        "states": "WV",
+        "parkCode": "blue",
+        "designation": "National Scenic River",
+        "fullName": "Bluestone National Scenic River",
+        "url": "https://www.nps.gov/blue/index.htm",
+        "name": "Bluestone"
+      },
+      {
+        "states": "WV",
+        "parkCode": "gari",
+        "designation": "National Recreation Area",
+        "fullName": "Gauley River National Recreation Area",
+        "url": "https://www.nps.gov/gari/index.htm",
+        "name": "Gauley River"
+      },
+      {
+        "states": "WV",
+        "parkCode": "neri",
+        "designation": "National Park & Preserve",
+        "fullName": "New River Gorge National Park & Preserve",
+        "url": "https://www.nps.gov/neri/index.htm",
+        "name": "New River Gorge"
+      }
+    ],
+    "relatedOrganizations": [],
+    "tags": [
+      "National Heritage Areas Program",
+      "Northeast Region",
+      "New River Gorge National River",
+      "Coal National Heritage Area",
+      "Bluestone National Scenic River",
+      "Gauley River National Recreation Area",
+      "National Heritage Area",
+      "NHA",
+      "West Virginia"
+    ],
+    "latitude": "37.7775917053223",
+    "longitude": "-81.1876373291016",
+    "latLong": "37.7775917053223,-81.1876373291016",
+    "bodyText": "<p>The mission of the National Coal Heritage Area (NCHA) is to preserve, protect, and interpret lands, structures, and communities associated with the coal mining heritage of southern West Virginia.  The NCHA includes 13 counties in southern West Virginia: Boone, Cabell, Fayette, Logan, McDowell, Mercer, Mingo, Raleigh, Summers, Wayne, Lincoln, Wyoming, and Cabin Creek and Paint Creek in Kanawha County.<br /> <br /> As the coordinating entity for the National Heritage Area, <a href=\"http://www.coalheritage.org/\">National Coal Heritage Area Authority</a> works to preserve, interpret, and promote the rich coal heritage of southern West Virginia.  To accomplish this, the NCHA depends on a strong network of partner organizations at the local, state, and federal level.<br /> <br /> In addition to other cultural preservation initiatives, projects the NCHA has supported include revitalization of the downtown Bluefield Historic District including Chicory Square; restoration of the Nellis Church in Boone County; reconstruction of the Bramwell Depot in Mercer County; assistance with development of new exhibits at the Miner’s Museum in Boone County; construction of the new visitor center at the Beckley Exhibition Coal Mine; and more.<br /> <br /> <strong>National Coal Heritage Area is home to the following NPS units:</strong></p> <ul> <li> <p><a href=\"https://www.nps.gov/blue/index.htm\">Bluestone National Scenic River</a></p> </li> <li> <p><a href=\"https://www.nps.gov/gari/index.htm\">Gauley River National Recreation Area</a></p> </li> <li> <p><a href=\"https://www.nps.gov/neri/index.htm\">New River Gorge National River</a></p> </li> </ul>",
+    "audioDescription": "",
+    "isPassportStampLocation": "0",
+    "passportStampLocationDescription": "",
+    "passportStampImages": [],
+    "managedByUrl": "http://www.coalheritage.org",
+    "isOpenToPublic": "1",
+    "isMapPinHidden": "0",
+    "npmapId": "",
+    "geometryPoiId": "",
+    "isManagedByNps": "0",
+    "amenities": [],
+    "managedByOrg": "National Coal Heritage Area Authority",
+    "quickFacts": [
+      {
+        "id": "5C252B96-2DEB-4EF4-91D1-B5D2B202FCD7",
+        "value": "Southern WV",
+        "name": "Location"
+      },
+      {
+        "id": "208F1B3C-44DC-4CF5-9A61-9B26A364D701",
+        "value": "The 5300-square-mile National Coal Heritage Area lies in southern West Virginia, a region shaped by the history of coal deposits found in its ancient mountains. Today, the area’s communities retain much of their original character as “company towns,” reflecting local traditions, immigrant laborers and the dominance of the coal industry.",
+        "name": "Significance"
+      },
+      {
+        "id": "E32D2136-A184-4C1A-91D2-4C20CEF9CBAF",
+        "value": "National Heritage Area",
+        "name": "Designation"
+      }
+    ],
+    "location": "",
+    "locationDescription": "",
+    "credit": "",
+    "multimedia": [],
+    "relevanceScore": 1
+  }
+]

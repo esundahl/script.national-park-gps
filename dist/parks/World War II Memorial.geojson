@@ -1,0 +1,185 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.039624,
+          38.889395
+        ]
+      },
+      "properties": {
+        "name": "Announcement Stone",
+        "notes": "Announcement Stone\nhttps://www.nps.gov/places/000/world-war-ii-memorial-scenic-viewpoint.htm\n\n<p>The angled piece of granite at the entrance to the World War II Memorial reads: \"Here in the presence of Washington and Lincoln, one the eighteenth century father and the other the nineteenth century preserver of our nation, we honor those twentieth century Americans who took up the struggle during the second world war and made the sacrifices to perpetuate the gift our forefathers entrusted to us, a nation conceived in liberty and justice.\"<br /> <br /> Inscriptions<br /> Granite slab, entrance<br /> HERE IN THE PRESENCE OF WASHINGTON AND LINCOLN, ONE THE EIGHTEENTH CENTURY FATHER AND THE OTHER THE NINETEENTH CENTURY PRESERVER OF OUR NATION, WE HONOR THOSE TWENTIETH CENTURY AMERICANS WHO TOOK UP THE STRUGGLE DURING THE SECOND WORLD WAR AND MADE THE SACRIFICES TO PERPETUATE THE GIFT OUR FOREFATHERS ENTRUSTED TO US: A NATION CONCEIVED IN LIBERTY AND JUSTICE.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.040524,
+          38.889893
+        ]
+      },
+      "properties": {
+        "name": "Atlantic Pavilion",
+        "notes": "Atlantic Pavilion\nhttps://www.nps.gov/places/000/world-war-ii-memorial-atlantic-entrance.htm\n\n<p>One of three entrances to the World War II Memorial, this \"victory pavilion\" houses a dramatic sculpture of bald eagles laying a laurel wreath, symbolizing victory. On the floor, find a depiction of the victory medal presented to each servicemember at the end of the war.<br /> <br /> Inscriptions<br /> Entrance floor<br /> World War II<br /> 1941-1945<br /> Victory on Land<br /> Victory at Sea<br /> Victory in Air<br /> Pool edge<br /> NORTH AFRICA<br /> BATTLE OF THE ATLANTIC<br /> MURMANSK RUN<br /> TUNISIA<br /> SOUTHERN EUROPE<br /> SICILY<br /> SALERNO<br /> ANZIO<br /> ROME<br /> PO VALLEY<br /> NORMANDY<br /> ST. LO<br /> WESTERN EUROPE<br /> AIR WAR IN EUROPE<br /> ALSACE<br /> RHINELAND<br /> HUERTGEN FOREST<br /> CENTRAL EUROPE<br /> BATTLE OF THE BULGE<br /> REMAGEN BRIDGE<br /> GERMANY<br /> Walls beside fountain<br /> WE ARE DETERMINED THAT BEFORE THE SUN SETS ON THIS TERRIBLE STRUGGLE FOR OUR FLAG WILL BE RECOGNIZED THROUGHOUT THE WORLD AS A SYMBOL OF FREEDOM ON THE ONE HAND AND OF OVERWHELMING FORCE ON THE OTHER.<br /> General George C. Marshall<br /> D-DAY JUNE 6, 1944<br /> YOU ARE ABOUT TO EMBARK UPON THE GREAT CRUSADE TOWARD WHICH WE HAVE STRIVEN THERE MANY MONTHS. THE EYES OF THE WORLD ARE UPON YOU...<br /> I HAVE FULL CONFIDENCE IN YOUR COURAGE, DEVOTION TO DUTY AND SKILL IN BATTLE.<br /> General Dwight D. Eisenhower</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.039897,
+          38.889585
+        ]
+      },
+      "properties": {
+        "name": "Bas-Reliefs of Atlantic Theater",
+        "notes": "Bas-Reliefs of Atlantic Theater\nhttps://www.nps.gov/places/000/world-war-ii-memorial-bas-reliefs-of-atlantic-theater.htm\n\n<p>Twelve \"bas-relief\" or shallow sculptures line the wall on the north side of the World War II Memorial's entrance. They illustrate the American expereince in the Atlantic theater of war, from the United States' Lend-Lease policy of providing aid to friendly countries before Pearl Harbor to the US Army meeting the Soviet Red Army at the Elbe River in Germany, an event that signaled the ending of the war in Europe.<br /> <br /> Inscriptions<br /> corner pillar, side of bas reliefs<br /> Women who stepped up were measured as citizens of the nation, not as women...<br /> This was a people's war, and everyone was in it.<br /> Colonel Oveta Culp Hobby<br /> Corner pillar, side of plaza<br /> They have given their sons to the military services. They have stoked the furnaces and hurried the factory wheels. They have made the planes and welded the tanks, riveted the ships and rolled the shells.<br /> President Franklin D. Roosevelt</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.039886,
+          38.889209
+        ]
+      },
+      "properties": {
+        "name": "Bas-Reliefs of Pacific Theater",
+        "notes": "Bas-Reliefs of Pacific Theater\nhttps://www.nps.gov/places/000/world-war-ii-memorial-bas-reliefs-of-pacific-theater.htm\n\n<p>Twelve \"bas-relief\" or shallow sculptures line the wall on the south side of the World War II Memorial entrance. They illustrate the American expereince in the Pacific theater of war, from the Japanese attack at Pearl Harbor to the end of the war on V-J, or Victory in Japan, Day.<br /> <br /> Inscriptions<br /> corner pillar, bas relief side<br /> They fought together as brother-in-arms. They died together and now they sleep side by side. To them we have a solemn obligation.<br /> Admiral Chester W. Nimitz<br /> corner pillar, plaza side<br /> PEARL HARBOR<br /> December 7, 1941, A date which will live in infamy...No matter how long it may take us to overcome this premeditated invasion, the American people, in their righteous might, will win through to absolute victory.<br /> President Franklin D. Roosevelt</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.039699,
+          38.889596
+        ]
+      },
+      "properties": {
+        "name": "Cornerstone - WWII Memorial",
+        "notes": "Cornerstone - WWII Memorial\nhttps://www.nps.gov/places/000/world-war-ii-memorial-dedication-plaque.htm\n\n<p>A stone inscription near the entrance to the World War II Memorial noting the the year that the memorial was dedicated, 2004, the president in office, George W. Bush, the design architect of the memorial, Freidrich St. Florian, and the organization that built the memorial, the American Battle Monuments Commission.<br /> <br /> Inscriptions<br /> WORLD WAR II MEMORIAL<br /> George W. Bush<br /> President of the United States<br /> Friedrich St. Florian<br /> Design Architect<br /> American Battle<br /> Monuments Commission<br /> 2004</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0407586995,
+          38.8884240994
+        ]
+      },
+      "properties": {
+        "name": "Information - WWII Memorial",
+        "notes": "Information - WWII Memorial\nhttps://www.nps.gov/places/000/world-war-ii-memorial-kiosk.htm\n\n<p>The World War II Memorial visitor contact station is a good place to get visitor information and to interact with the digital World War II registry presented on three touchscreen monitors.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.04077756410334,
+          38.889255326590934
+        ]
+      },
+      "properties": {
+        "name": "Kilroy Was Here",
+        "notes": "Kilroy Was Here\nhttps://www.nps.gov/places/https-www-nps-gov-wwii-kilroy-was-here.htm\n\n“Kilroy was here”, accompanied by a cartoon drawing of a man looking over a wall, was a popular piece of graffiti drawn by American troops in the Atlantic Theater and then later in the Pacific Theater. It came to be a universal sign that American soldiers had come through an area and left their mark. Eventually, during the war, Kilroy became so popular that this graffiti could be found everywhere. On ship holds, bathrooms, bridges and painted on the shells of Air Force missiles. Its origins most likely come from a British cartoon and the name of an American shipyard inspector. The myths surrounding it are numerous and often center on a German belief that Kilroy was some kind of superspy who could go anywhere he pleased. There are two Kilroy inscriptions hidden in the memorial tucked in the corners of both the Atlantic and Pacific sides of the memorial.<br /> <br /> Can you find them?<br /> <br />  ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.022999,
+          38.889611
+        ]
+      },
+      "properties": {
+        "name": "National Mall and Memorial Parks",
+        "notes": "National Mall and Memorial Parks\nhttps://www.nps.gov/places/crnama.htm\n\n<p>Officially established in 1965, National Mall and Memorial Parks contains some of the oldest protected park lands in the National Park Service. The sprawling lands include the Mall, the public promenade extending from 3rd Street near the Capitol to 14th Street. The National Mall is the continuation of that space where congressionally authorized park icons, such as the Washington Monument, WWII and Lincoln Memorials stand. This historic expanse is the linear area between the Potomac River and Capital Reflecting Pool. In addition to the memorial core, the park includes some 156 reservations, circles, fountains and other open spaces, all of which serve as the nation’s front yard. Ford’s Theatre, The House where Lincoln died, Potomac Park, Hains Point and Pennsylvania Avenue NHS are also among the park managed areas that constitute National Mall and Memorial Parks.</p> <p>Having over 1,000 acres of National Park Service managed land at the heart of our nation’s capital, National Mall and Memorial Parks provides visitors with abundant opportunities to get in touch with our heritage. With everything from colossal monuments to commemorative gardens, from presidential inaugurals to civil rights demonstrations, National Mall and Memorial Parks hosts history in the making. Numerous First Amendment activities and special events are held in the park each year to honor the courage, sacrifice and devotion to duty of war veterans; celebrate the United States commitment to freedom, equality and democratic ideals; and enjoy symbolic architecture, historic vistas and renowned natural landscapes. </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.040499,
+          38.888855
+        ]
+      },
+      "properties": {
+        "name": "Pacific Pavilion",
+        "notes": "Pacific Pavilion\nhttps://www.nps.gov/places/000/world-war-ii-memorial-pacific-entrance.htm\n\n<p>One of three entrances to the World War II Memorial, this \"victory pavilion\" houses a dramatic sculpture of bald eagles laying a laurel wreath, symbolizing victory. On the floor, find a depiction of the victory medal presented to each servicemember at the end of the war.<br /> <br /> Inscriptions<br /> Entrance floor<br /> World War II<br /> 1941-1945<br /> Victory on Land<br /> Victory at Sea<br /> Victory in Air<br /> Pool edge<br /> PEARL HARBOR<br /> WAKE ISLAND<br /> CHINA BURMA INDIA<br /> BATAAN CORREGIDOR<br /> CORAL SEA<br /> SOUTHWEST PACIFIC<br /> MIDWAY<br /> GUADALCANAL<br /> NEW GUINEA<br /> BUNA<br /> CENTRAL PACIFIC<br /> TARAWA<br /> KWAJALEIN<br /> ATTU<br /> SAIPAN TINIAN GUAM<br /> PHILIPPINE SEA<br /> NORTH PACIFIC<br /> PELELIU<br /> LEYTE GULF<br /> LUZON<br /> MANILA<br /> IWO JIMA<br /> OKINAWA<br /> JAPAN<br /> Fountain sides<br /> BATTLE OF MIDWAY JUNE 4-7, 1942<br /> THEY HAD NO RIGHT TO WIN, YET THEY DID, AND IN DOING SO THEY CHANGED THE COURSE OF A WAR. EVEN AGAINST THE GREATES OF ODDS, THERE IS SOMETHING IN THE HUMAN SPIRIT - A MAGIC BLEND OF SKILL, FAITH AND VALOR - THAT CAN LIFT ME FROM CERTAIN DEFEAT TO INCREDIBLE VICTORY<br /> Walter Lord Author<br /> THE WAR'S END<br /> TODAY YTHE GUNS ARE SILENT. A GREAT TRAGEDY HAS ENDED. A GREAT VICTORY HAS BEEN WON. THE SKIES NO LONGER RAIN DEATH - THE SEAS BEAR ONLY COMMERCE - MEN EVERYWHERE WALK UPRIGHT IN THE SUNLIGHT. THE ENTIRE WORLD IS QUIETLY AT PEACE.<br /> General Douglas MacArthur</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.04053899999997,
+          38.888579
+        ]
+      },
+      "properties": {
+        "name": "Senator Robert Dole Plaque",
+        "notes": "Senator Robert Dole Plaque\nhttps://www.nps.gov/places/000/world-war-ii-memorial-bob-dole-plaque.htm\n\n<p>Bob Dole fought and was severly wounded in World War II. After serving as a congressman and senator, Dole became the national chairman of the World War II Memorial Campaign which raised funds for the construction of the World War II Memorial. This plaque honors his unique contribution to this memorial.<br /> <br /> Inscriptions<br /> A Grateful Nation Hereby Recognizes<br /> Senator Robert J. Dole of Kansas<br /> For His Tireless Support of America's Veterans and the World War II Memorial</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.040958,
+          38.889355
+        ]
+      },
+      "properties": {
+        "name": "Wall of Stars",
+        "notes": "Wall of Stars\nhttps://www.nps.gov/places/000/world-war-ii-memorial-wall-of-stars.htm\n\n<p>These 4,048 gold stars represent Americans who gave their lives in service during World War II. Each star represents approximately 100 service members.<br /> <br /> Inscriptions<br /> Pool edge<br /> HERE WE MARK THE PRICE OF FREEDOM<br /> Waterfall sides<br /> Our debt to the heroic men and valiant women in the service of our country can never be repaid. They have earned our undying gratitude. America will never forget their sacrifices.<br /> President Harry S. Truman<br /> The Heroism of our troops...was matched by that of the Armed Forces of the nations that fought by our side...They absorbed the blows...And they shared to the full in the ultimate destruction of the enemy.<br /> President Harry S. Truman</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0405106005,
+          38.8894190006
+        ]
+      },
+      "properties": {
+        "name": "World War II Memorial",
+        "notes": "World War II Memorial\nhttps://www.nps.gov/places/national-world-war-ii-memorial.htm\n\n<p>Dedicated in 2004, the World War II Memorial is a large stone plaza designed by architect Friedrich St. Florian. The plaza forms a ring of columns representing the U.S. states and territories, joined together by a bronze cord symbolizing their united effort.</p> <p>Bas relief artwork by Ray Kaskey Studios depicts the many facets of the American war effort both on the homefront and the battle front. Two victory pavilions, repesenting the Atlantic and Pacific theaters where the war was fought, house massive bronze sculptures of eagles laying laurel wreaths above a representation of the Victory Medal. At the base of each pavilion is a pool with the names of campaigns and battles of each theater of the war.</p> <p>At the west side of the memorial, 4,048 gold stars each represent 100 American servicemen who gave their lives in the conflict.</p> <p>The World War II Memorial is located on 17th Street NW between Independence and Constitution avenues, at the east end of the Lincoln Memorial Reflecting Pool. The nearest metro stop is Smithsonian; walk west from the station past the Washington Monument and cross 17th Street at the crosswalk to enter the memorial.</p>",
+        "icon": "red-pin-down.png"
+      }
+    }
+  ]
+}

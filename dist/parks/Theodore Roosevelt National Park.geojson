@@ -1,0 +1,485 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.452207908,
+          46.9219357970001
+        ]
+      },
+      "properties": {
+        "name": "Badlands Overlook",
+        "notes": "Badlands Overlook\nhttps://www.nps.gov/places/badlands-overlook.htm\n\nThe views of the Little Missouri badlands are spectacular from anywhere in Theodore Roosevelt National Park, but one of the best vistas awaits at Badlands Overlook. Located at the end of the South Unit Scenic Drive, Badlands Overlook offers a panoramic look at the broken and rolling badlands spread out below. Perfect for watching the sunrise or picking out elk or bison wandering through the buttes, Badlands Overlook makes for a great destination on a visit to the South Unit.<br /> <br /> It is illegal to remove any resource from a national park. Leave any flower, stone, or other object where you find it so that other visitors can enjoy it as well. <br /> <br /> It is illegal to carve, paint, or otherwise alter anything in a national park.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.405403,
+          46.963005
+        ]
+      },
+      "properties": {
+        "name": "Boicourt Overlook",
+        "notes": "Boicourt Overlook\nhttps://www.nps.gov/places/boicourt-overlook.htm\n\nTheodore Roosevelt described the Little Missouri Badlands as “...a land of vast, silent spaces...” and standing at Boicourt Overlook, you can understand what he meant. Stretching away toward the horizon, the broken rolling landscape of Theodore Roosevelt National Park is utterly unique. From here, you can even see beyond park boundaries, where some of the larger buttes in the area stand, silhouetted against the horizon.<br /> <br /> It is illegal to remove any resource from a national park. Leave any flower, stone, or other object where you find it so that other visitors can enjoy it as well. <br /> <br /> It is illegal to carve, paint, or otherwise alter anything in a national park.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.401854,
+          46.959367
+        ]
+      },
+      "properties": {
+        "name": "Boicourt Trail",
+        "notes": "Boicourt Trail\nhttps://www.nps.gov/places/boicourt-trail.htm\n\nBoicourt Trail is located approximately halfway along the South Unit scenic drive, making it the perfect place to hop out of the car and take in a little fresh air. This 0.2-mile accessible trail offers some incredible views while hiking the paved trail out over the badlands. Want to keep going? An additional unpaved section continues past the end of the trail, leading to another overlook.<br /> <br /> It is illegal to remove any resource from a national park. Leave any flower, stone, or other object where you find it so that other visitors can enjoy it as well. <br /> <br /> It is illegal to carve, paint, or otherwise alter anything in a national park. ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.389793638,
+          46.9266083790001
+        ]
+      },
+      "properties": {
+        "name": "Buck Hill",
+        "notes": "Buck Hill\nhttps://www.nps.gov/places/buck-hill.htm\n\nThe South Unit of Theodore Roosevelt National Park offers many incredible scenic views, but none have quite the same scope as the view from the top of Buck Hill. One of the highest points in the park, climbing to the top offers a beautiful 360° view. On clear days, one can see for miles, from Painted Canyon to Boicourt and beyond, all by simply turning in a circle.<br /> <br /> While up on Buck Hill, inspect the rock around you. You might be able to spot ripples in the stone; this high point used to be the bottom of an ancient streambed!<br /> <br /> Buck Hill is also a great place for stargazing, with unobstructed views of the clear North Dakota Sky.<br /> <br /> It is illegal to remove any resource from a national park. Leave any flower, stone, or other object where you find it so that other visitors can enjoy it as well. <br /> <br /> It is illegal to carve, paint, or otherwise alter anything in a national park.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.332467436,
+          47.5964320860001
+        ]
+      },
+      "properties": {
+        "name": "Cannonball Concretions",
+        "notes": "Cannonball Concretions\nhttps://www.nps.gov/places/cannonball-concretions.htm\n\nWhat are cannonball concretions? Jutting out from the landscape, these large, round stones don’t appear to properly fit into the badlands. The secret lies in the large butte located nearby.<br /> <br /> When mineral rich water seeps down through the porous layers that make up the badlands, it can deposit those minerals in spaces or gaps in the sediments. The minerals act as a kind of glue, holding these sediments together, often forming around a core. As more and more layers are deposited, the concretion builds outward like a pearl, before being exposed by erosion.<br /> <br /> Who knows how many concretions are still waiting to be exposed, deep inside the butte?<br /> <br /> It is illegal to remove any resource from a national park. Leave any flower, stone, or other object where you find it so that other visitors can enjoy it as well. <br /> <br /> It is illegal to carve, paint, or otherwise alter anything in a national park. ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.39885,
+          46.92315
+        ]
+      },
+      "properties": {
+        "name": "Coal Vein Trail Post 10: Seasonal Stream",
+        "notes": "Coal Vein Trail Post 10: Seasonal Stream\nhttps://www.nps.gov/places/coal-vein-trail-post-10-seasonal-stream.htm\n\nJust ahead, stairs lead to the valley of a seasonal stream. As you descend, notice the cool, moist air against your skin. Because it is protected from the sun, this area stays moist and cool. Note the plants you see here and compare them to the plants you encountered in open grassland. What are the differences? <hr /><strong>Continue straight ahead to follow the guided nature trail. </strong>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.40075,
+          46.92309
+        ]
+      },
+      "properties": {
+        "name": "Coal Vein Trail Post 11: Ignition",
+        "notes": "Coal Vein Trail Post 11: Ignition\nhttps://www.nps.gov/places/coal-vein-trail-post-11-ignition.htm\n\nThis is the spot where the coal vein ignited during a lightning storm in 1951. Even today, these natural fires can be started by lightning, prairie fires, or even spontaneous combustion. <hr /><strong>Caution! Steep cliff edges ahead.</strong> ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.40156,
+          46.92293
+        ]
+      },
+      "properties": {
+        "name": "Coal Vein Trail Post 12: Clinker Overlook",
+        "notes": "Coal Vein Trail Post 12: Clinker Overlook\nhttps://www.nps.gov/places/coal-vein-trail-post-12-clinker-overlook.htm\n\nThe small spur trail going up the hill leads to an overlook. Be careful; the edge drops sharply. When you look to the left and right you can see and feel the clinker where it forms a protective caprock. The red color of the clinker comes from iron in the rocks that has oxidized (rusted).",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.40263,
+          46.92302
+        ]
+      },
+      "properties": {
+        "name": "Coal Vein Trail Post 13: Slumping",
+        "notes": "Coal Vein Trail Post 13: Slumping\nhttps://www.nps.gov/places/coal-vein-trail-post-13-slumping.htm\n\nThe hill in front of you has the appearance of sliding slowly into a jumble. That is exactly what it is doing through a process called slumping.<br /> <br /> When the coal vein burned under this area, cracks formed in the hillside. Rain flowing into the cracks weakens the hill, especially where it saturates bentonite clay layers which become slippery when wet. As the bentonite slides, the hill slowly slumps away. <br /> <br /> Slumping happens on a small scale like you see here, but also on a very large scale when entire hillsides slide. The picture above, taken in the North Unit, shows masses of rock that slid from near the top of the canyon, coming to rest far below. ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4039,
+          46.92325
+        ]
+      },
+      "properties": {
+        "name": "Coal Vein Trail Post 14: Grassland",
+        "notes": "Coal Vein Trail Post 14: Grassland\nhttps://www.nps.gov/places/coal-vein-trail-post-14-grassland.htm\n\nWhen the underground coal fire was burning, this area looked more like a wasteland than a grassland. After the fire burned out, prairie plants reclaimed the land slowly over time.<br /> <br /> From a distance, prairie may look plain, but it is actually one of the most diverse ecosystems in the world. An up-close look reveals many different species of grasses and other plants. ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.40324,
+          46.92363
+        ]
+      },
+      "properties": {
+        "name": "Coal Vein Trail Post 15: The Big Picture",
+        "notes": "Coal Vein Trail Post 15: The Big Picture\nhttps://www.nps.gov/places/coal-vein-trail-post-15-the-big-picture.htm\n\nTake in the view. The things you have observed on this trail are not unique to this one spot. They can be seen, felt, and identified throughout the badlands. Even today, coal fires shape the dynamic landscape of the badlands.<br /> <br /> Geology is not only a study of the past; here it is an ever present process. How do these things fit into the big picture of the park? How long will these processes continue to shape this land?",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.40246,
+          46.9236
+        ]
+      },
+      "properties": {
+        "name": "Coal Vein Trail Post 16: Chimney",
+        "notes": "Coal Vein Trail Post 16: Chimney\nhttps://www.nps.gov/places/coal-vein-trail-post-16-chimney.htm\n\nWhat is unusual about the massive piece of clinker in front of you?<br /> <br /> Fires need oxygen, even when they are burning underground. As the coal fire burned deep into the hillside, cracks in the rock layers allowed air to be sucked down into the fire. Fire burned up the cracks and baked the rocks nearby, forming vertical \"chimneys.\" Chimneys are the hottest part of the coal fire and bake the rock inside into a very hard clinker called porcellanite which is especially resistant to erosion.<br /> <br /> This chimney you are looking at was exposed when softer sediments around it eroded away.  <hr />There are many signs that large coal vein fires have burned throughout the park in the past. Even today, coal fires can sometimes be found shaping and changing the landscape of the badlands.<br /> <br /> Geology is not only a study of the past; it is an ongoing process.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.401789,
+          46.924415
+        ]
+      },
+      "properties": {
+        "name": "Coal Vein Trail Post 1: Layers",
+        "notes": "Coal Vein Trail Post 1: Layers\nhttps://www.nps.gov/places/coal-vein-trail-post-1-layers.htm\n\nEach layer of rock has its own origin story, told by its color.<br /> <br /> <span style=\"color:#e74c3c;\"><strong>Brick-Red</strong></span><br /> <strong>Clinker</strong> forms when coal veins catch fire and bake the rock above, changing it into this much harder, red rock.<br /> <br /> <span style=\"color:#ffcc99;\"><strong>Brown and Tan</strong></span><br /> <strong>Sandstone, siltstone, </strong>and <b>mudstone</b> are sediments washed down from the Rocky Mountains.<br /> <br /> <strong>Black<br /> Coal</strong> is the remains of ancient plants and animals that lived in Everglades-like swamps.<br /> <br /> <strong><span style=\"color:#7f8c8d;\">Blue-grey</span></strong><br /> <span style=\"color:null;\"><strong>Bentonite clay </strong>is made of ash from distant volcanoes.</span>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.401504,
+          46.924276
+        ]
+      },
+      "properties": {
+        "name": "Coal Vein Trail Post 2: Collapse",
+        "notes": "Coal Vein Trail Post 2: Collapse\nhttps://www.nps.gov/places/coal-vein-trail-post-2-collapse.htm\n\nIn this area there was a 12-foot-thick coal vein deep underground. In 1951 it caught fire and burned for 26 years. As it burned away, the rocks above were left unsupported and the surface collapsed, forming the depression you are about to enter. Before the fire, the land was level with the top of the stairs. ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.399948,
+          46.924137
+        ]
+      },
+      "properties": {
+        "name": "Coal Vein Trail Post 3: Bentonite",
+        "notes": "Coal Vein Trail Post 3: Bentonite\nhttps://www.nps.gov/places/coal-vein-trail-post-3-bentonite.htm\n\nNotice the sediment on either side of the trail. Fifty-Five million years ago, volcanoes in the Rockies spewed out ash that blew east. At that time, this area was a vast, tropical swamp. The ash settled in wet areas and became bentonite clay. <br /> <br /> Bentonite looks like popcorn when dry, but becomes sticky, slick mud when wet. It can absorb up to five times its weight in water. Known as the mineral of one thousand uses, it is used to seal landfills and ponds, to make cat litter, and much more. <hr /><strong>Stay to the left to continue on the guided nature trail. Take the right on the cutoff trail to avoid a section of trail with very steep stairs. You will rejoin the guided nature trail near post #11. </strong>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.39915,
+          46.923944
+        ]
+      },
+      "properties": {
+        "name": "Coal Vein Trail Post 4: Caprocks",
+        "notes": "Coal Vein Trail Post 4: Caprocks\nhttps://www.nps.gov/places/coal-vein-trail-post-4-caprocks.htm\n\nRocks in the badlands are generally soft and easily eroded by rain and streams. Some are harder than others, and become <b>caprocks</b>. A caprock acts like a helmet, shielding softer rock underneath. When the rocks underneath finally erode away, large pieces of caprock break off and fall. The large pieces of sandstone behind you were once caprocks at the top of the hill. ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3986,
+          46.923783
+        ]
+      },
+      "properties": {
+        "name": "Coal Vein Trail Post 5: Dry Climate",
+        "notes": "Coal Vein Trail Post 5: Dry Climate\nhttps://www.nps.gov/places/coal-vein-trail-post-5-dry-climate.htm\n\nThe dry climate of western North Dakota keeps the badlands from eroding away more quickly - if rain were more common, the soft rocks would have washed away long ago. The lack of moisture allows only the hardiest plants to survive.<br /> <br /> The trees here are Rocky Mountain juniper. They, and all the other shrubs, grasses, and wildflowers you find here, are adapted to survive in this land of extreme temperatures and little moisture. ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.398328,
+          46.923556
+        ]
+      },
+      "properties": {
+        "name": "Coal Vein Trail Post 6: Seasonal Pool",
+        "notes": "Coal Vein Trail Post 6: Seasonal Pool\nhttps://www.nps.gov/places/coal-vein-trail-post-6-seasonal-pool.htm\n\nLow spots like this one formed when the ground collapsed during the coal vein fire. They fill with water in the wet springtime and after summer rains. These seasonal ponds are important habitats for western chorus frogs which must lay their eggs in standing water. Listen for the chirping of the male chorus frogs near seasonal pools from April to June. ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.39796,
+          46.92341
+        ]
+      },
+      "properties": {
+        "name": "Coal Vein Trail Post 7: Burn Out",
+        "notes": "Coal Vein Trail Post 7: Burn Out\nhttps://www.nps.gov/places/coal-vein-trail-post-7-burn-out.htm\n\nJust ahead and to the right is where the coal vein fire burned out after 26 years (1951-1977). Visitors could see smoke, glowing coals, and sometimes flames. They even roasted marshmallows over the fire! <hr /><strong>Caution! Steep cliff edges ahead.</strong>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.39868,
+          46.92289
+        ]
+      },
+      "properties": {
+        "name": "Coal Vein Trail Post 8: Hills Overlook",
+        "notes": "Coal Vein Trail Post 8: Hills Overlook\nhttps://www.nps.gov/places/coal-vein-trail-post-8-hills-overlook.htm\n\nThe trail goes to the right. To your left is an overlook. Be careful; the edge drops off sharply. From the overlook, you can see how the terrain affects plant life. The slopes you see face north. They receive very little direct sunlight which helps retain moisture, allowing juniper to thrive. South-facing slopes receive a lot of direct sunlight. They are very dry and support only hardy grasses and a few drought-tolerant shrubs. ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.39867,
+          46.92306
+        ]
+      },
+      "properties": {
+        "name": "Coal Vein Trail Post 9: Clinker",
+        "notes": "Coal Vein Trail Post 9: Clinker\nhttps://www.nps.gov/places/coal-vein-trail-post-9-clinker.htm\n\nFeel the red rock next to the post. It is locally called scoria, but its true name is clinker. Clinker is created when a burning coal seam bakes the rock layer above it. Baking rock is like putting clay into a kiln to make pottery - the rock hardens as it bakes. Because clinker is one of the hardest rocks in the badlands, it functions as a caprock atop many buttes. ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.40189,
+          46.92449
+        ]
+      },
+      "properties": {
+        "name": "Coal Vein Trailhead",
+        "notes": "Coal Vein Trailhead\nhttps://www.nps.gov/places/coal-vein-trailhead.htm\n\nBeautiful layers of rock tell a story of the 60-million-year geologic history of the badlands. From ancient swamps to recent coal fires, this landscape is constantly changing. Learn about badlands geology by following the numbered trail posts. <hr /><strong>Stay to the left to follow the posts in numerical order. </strong>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.622276,
+          47.241898
+        ]
+      },
+      "properties": {
+        "name": "Elkhorn Ranch Cabin Site",
+        "notes": "Elkhorn Ranch Cabin Site\nhttps://www.nps.gov/places/elkhorn-ranch-cabin-site.htm\n\nOn February 14, 1884, tragedy struck Theodore Roosevelt’s life, when both his wife and mother passed away on the same day. Four months later, he returned to Dakota Territory, having decided that he would devote his life to ranching. He found, though, that he desired more solitude than that offered by the Maltese Cross Cabin, which was relatively close to the town of Medora. Eventually, he settled on a location 35 miles north, where he would establish his Elkhorn Ranch.<br /> <br /> While the Elkhorn Cabin no longer stands, foundation stones indicate where the structure, built of the local cottonwood, was once located. A visitor, stopping and closing their eyes, can imagine what Roosevelt’s ranch life might have been like.<br /> <br /> \"My home ranch-house stands on the river brink. From the low, long veranda, shaded by leafy cotton-woods, one looks across sand bars and shallows to a strip of meadowland, behind which rises a line of sheer cliffs and grassy plateaus. This veranda is a pleasant place in the summer evenings when a cool breeze stirs along the river and blows in the faces of the tired men, who loll back in their rocking-chairs (what true American does not enjoy a rocking-chair?), book in hand--though they do not often read the books, but rock gently to and for, gazing sleepily out at the weird-looking buttes opposite, until their sharp outlines grow indistinct and purple in the after-glow of the sunset.\" - From <em>Hunting Trips of a Ranchman</em> by Theodore Roosevelt.<br /> <br /> <strong>Visiting the Elkhorn Ranch Site</strong><br /> <br /> The Elkhorn Ranch is a remote unit, located between the North and South units of the park. Reaching the Elkhorn Ranch requires a drive of approximately 90 minutes each way, mostly on gravel roads.<br /> <br /> <strong>Driving from the North Unit to the Elkhorn Ranch Unit</strong><br /> - Take US 85 north (left). Travel 13.8 miles to Watford City.<br /> - Turn left at the light to stay on US 85. Travel 16.5 more miles on US 85.<br /> - Turn left onto ND-68 W. Travel 16.7 miles.<br /> - Turn left onto ND-16 S. Travel 31.4 miles.<br /> - Turn left on Black Tail Road/FH 2 (gravel).<br /> - Travel 12.2 miles.<br /> - Turn right on Bell Lake Road (still FH 2).<br /> - Travel 3 miles.<br /> - Staying on FH2, turn left towards the USFS Elkhorn Campground. Follow FH2 for 3 miles, continuing past the campground and MDHT trailhead to the Elkhorn Ranch Unit parking area.<br /> <br /> <strong>Driving from the South Unit to the Elkhorn Ranch Unit</strong><br /> - Take I-94 westbound to exit 10.<br /> - At the end of the exit ramp, turn right on County Road 11 (gravel). Follow County Road 11 for 8.8 miles.<br /> - Turn right on Westerheim Road. Follow Westerheim road for 6.5 miles.<br /> - Turn left on Bell Lake Road. Follow Bell Lake Road for 11.7 miles.<br /> - Turn right onto FH2 towards the USFS Elkhorn Campground. Follow FH2 for 3 miles, continuing past the campground and MDHT trailhead to the Elkhorn Ranch Unit parking area.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.526235678,
+          46.9169018110001
+        ]
+      },
+      "properties": {
+        "name": "Maltese Cross Cabin",
+        "notes": "Maltese Cross Cabin\nhttps://www.nps.gov/places/maltese-cross-cabin.htm\n\n<p>In 1901 Theodore Roosevelt became the 26<sup>th</sup> President of the United States, and ultimately one of its greatest conservationists. He later said, \"I would not have been president had it not been for my experience in North Dakota.\"</p> <p>Those experiences began in 1883, when Roosevelt arrived in the Dakota Badlands to hunt bison. Before he left, he purchased the primary interest in the Chimney Butte Ranch (known locally as the Maltese Cross Ranch). Roosevelt thrived on the vigorous outdoor lifestyle, actively participating in the life of a working cowboy. He would write three books about his experiences, which would deepen and broaden his career-defining conservation ethic.</p> <p>What became known as the Maltese Cross Cabin was only a temporary home for Roosevelt. He would split his time between Dakota and New York for the next several years. Following the death of his wife and mother in February of 1884, Roosevelt returned to Dakota, establishing a second ranch he named the Elkhorn. By 1887, Roosevelt began to sell his interests in the cattle industry. By 1900 the Maltese Cross Cabin was claimed by other residents.</p> <p>During Roosevelt's presidency, the cabin was acquired for the 1904 World's Fair, hosted in St. Louis, MO. The cabin traveled from Missouri to Portland, OR for the Lewis and Clark Centennial Exposition. It would spend time in Fargo, ND before settling on the grounds of the state capital in Bismarck, ND.</p> <p>The Daughters of the American Revolution eventually took over the care of the cabin, and acquired many of the items you can see today. In 1959, twelve years after the park was established, the Maltese Cross Cabin came to <a href=\"https://www.nps.gov/thro/index.htm\">Theodore Roosevelt National Park</a>. Restored to its original state, you can walk in Roosevelt's footsteps by touring the cabin behind the South Unit Visitor Center.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.422211,
+          46.908688
+        ]
+      },
+      "properties": {
+        "name": "Old East Entrance",
+        "notes": "Old East Entrance\nhttps://www.nps.gov/places/old-east-entrance.htm\n\nThe original gateway to Theodore Roosevelt National Park, the Old East Entrance Station was built as part of a 1938 relief project during the Great Depression. When Interstate 94 was built in 1968 and replaced US Highway 10, the park entrance was moved to Medora.<br /> <br /> The Old East Entrance, situated in one of the park's many active prairie dog towns, is a beautiful example of hand-hewn stone masonry. It harkens back to an earlier time in national parks, and is worth the 0.4 mile hike.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.441606,
+          47.60272
+        ]
+      },
+      "properties": {
+        "name": "Oxbow Overlook",
+        "notes": "Oxbow Overlook\nhttps://www.nps.gov/places/oxbow-overlook.htm\n\nA spectacular scenic vista awaits your exploration at the end of the North Unit Scenic Drive. Explore interpretive waysides along a short accessible sidewalk and take in the views of the meandering Little Missouri River surrounded by tall cottonwood trees and impressive buttes. Aptly named, Oxbow Overlook represents a type of meander that is occurring in the river. Oxbows and oxbow lakes are common along this free-flowing river where natural flood cycles constantly shift the river's course. Be sure to look for wildlife amongst the surrounding buttes.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.504139,
+          46.958951
+        ]
+      },
+      "properties": {
+        "name": "Peaceful Valley Ranch",
+        "notes": "Peaceful Valley Ranch\nhttps://www.nps.gov/places/peaceful-valley-ranch.htm\n\nOne of the oldest “dude ranches” in the state of North Dakota, Peaceful Valley Ranch started out as a simple cabin built in 1883 by Eldridge “Gerry” Paddock. Over the years, it changed hands and expanded, with the ranch house built circa 1885. After the Olsen family bought it in 1915, the ranch became a tourist destination, with guided horseback rides, camping, and roundups.<br /> <br /> The ranch was sold to the federal government in 1936, and the house then served as headquarters for Civilian Conservation Corps, Works Progress Administration, and Emergency Relief Administration staff. When Theodore Roosevelt National Memorial Park was established in 1947, the ranch became the first park headquarters. After the new headquarters moved to Medora in 1959, a series of concessionaires ran guided horseback rides out of the ranch until 2014.<br /> <br /> Today, the ranch buildings are still there, newly renovated. Standing on the boardwalk that stretches between the ranch house and the stable, one can feel transported back to a different time, to a frontier dude ranch in the badlands of North Dakota.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.58652,
+          46.998451
+        ]
+      },
+      "properties": {
+        "name": "Petrified Forest - North",
+        "notes": "Petrified Forest - North\nhttps://www.nps.gov/places/petrified-forest-north.htm\n\n<p>Theodore Roosevelt National Park was a very different place 65 million years ago. Just after the extinction of the dinosaurs, the Rocky Mountains were forming in the west and the land where the park now sits was a flat, swampy delta. <i>Champsosaurus gigas</i>, a crocodile-like predator hunted in the water, swimming alongside turtles, snails, and clams. And all around grew massive trees like sequoia, bald cypress, and magnolia.<br /> <br /> These trees are still around today if you know where to look. Quickly buried by sediments washed down from the growing Rockies, the trees didn’t decompose, instead undergoing a process called petrification: water washed through the mineral rich sediments surrounding the buried trees and these minerals slowly replaced the organic compounds inside the trunks. As the badlands eroded, these petrified remnants were slowly exposed.<br /> <br /> The petrified forest in Theodore Roosevelt National Park contains the third highest concentration of petrified wood in the United States, after Petrified Forest National Park and Yellowstone National Park.<br /> <br /> The northern section of the petrified forest has slightly more stumps than the southern section, but doesn’t afford the dramatic views to the southeast.<br /> <br /> It is illegal to remove any resource from a national park. Leave any flower, stone, or other object where you find it so that other visitors can enjoy it as well. <br /> <br /> It is illegal to carve, paint, or otherwise alter anything in a national park.<br /> <br /> <strong>Directions to the Petrified Forest Trailhead</strong><br /> <br /> The petrified forest trailhead is located on the western boundary of the park. The drive from Medora to the trailhead is approximately 30 minutes on gravel roads. There are small signs indicating turns, but turn-by-turn instructions are below:</p> <ul> <li> <p>Take I-94 westbound to exit 23. At the end of the exit ramp, turn right on Forest Service Road 730. Travel 2.7 miles.</p> </li> <li> <p>Turn left to stay on 730. Travel 2.5 miles. You will pass a \"Private Road\" sign; you can continue.</p> </li> <li> <p>Turn right on Road 730-2. In 150 yards, take the first left.</p> </li> <li> <p>At the next \"Y\", veer left, continue 0.6 miles to the parking area.</p> </li> <li> <p>The trail starts at the lift gate beyond the trailhead sign.</p> </li> </ul> <p> </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.584605,
+          46.990917
+        ]
+      },
+      "properties": {
+        "name": "Petrified Forest - South",
+        "notes": "Petrified Forest - South\nhttps://www.nps.gov/places/petrified-forest-south.htm\n\n<p>Theodore Roosevelt National Park was a very different place 65 million years ago. Just after the extinction of the dinosaurs, the Rocky Mountains were forming in the west and the land where the park now sits was a flat, swampy delta. <i>Champsosaurus gigas</i>, a crocodile-like predator hunted in the water, where turtles, snails, clams and more lived. And all around grew massive trees like sequoia, bald cypress, and magnolia.<br /> <br /> These trees are still around today if you know where to look. Quickly buried by sediments washed down from the growing Rockies, the trees didn’t decompose, instead undergoing a process called petrification: water washed through the mineral rich sediments surrounding the buried trees and these minerals slowly replaced the organic compounds inside the trunks. As the badlands eroded, these petrified remnants were slowly exposed.<br /> <br /> The petrified forest in Theodore Roosevelt National Park contains the third highest concentration of petrified wood in the United States, after Petrified Forest National Park and Yellowstone National Park.<br /> <br /> The southern section of the petrified forest has slightly fewer stumps than the northern section, but offers dramatic views of the wilderness to the southeast, where elk are frequently seen.<br /> <br /> It is illegal to remove any resource from a national park. Leave any flower, stone, or other object where you find it so that other visitors can enjoy it as well. <br /> <br /> It is illegal to carve, paint, or otherwise alter anything in a national park.<br /> <br /> <strong>Directions to the Petrified Forest Trailhead</strong><br /> <br /> The petrified forest trailhead is located on the western boundary of the park. The drive from Medora to the trailhead is approximately 30 minutes on gravel roads. There are small signs indicating turns, but turn-by-turn instructions are below:</p> <ul> <li> <p>Take I-94 westbound to exit 23. At the end of the exit ramp, turn right on Forest Service Road 730. Travel 2.7 miles.</p> </li> <li> <p>Turn left to stay on 730. Travel 2.5 miles. You will pass a \"Private Road\" sign; you can continue.</p> </li> <li> <p>Turn right on Road 730-2. In 150 yards, take the first left.</p> </li> <li> <p>At the next \"Y\", veer left, continue 0.6 miles to the parking area.</p> </li> <li> <p>The trail starts at the lift gate beyond the trailhead sign.</p> </li> </ul>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.377894,
+          47.608948
+        ]
+      },
+      "properties": {
+        "name": "River Bend Overlook",
+        "notes": "River Bend Overlook\nhttps://www.nps.gov/places/river-bend-overlook.htm\n\nThere are many beautiful views in Theodore Roosevelt National Park, but perhaps none are better than the view from the shelter at River Bend Overlook. Built by the Civilian Conservation Corps circa 1937, this stone structure stands on the edge of a butte, providing a dramatic view of the Little Missouri River valley below. It also serves as a tangible example of the projects created by the CCC on the land that would eventually become Theodore Roosevelt National Park.<br /> <br /> While you enjoy the view from this shelter, reflect on these words from a badlands CCC veteran on the occasion of the CCC’s 50<sup>th</sup> anniversary: “You learned how to live with other men, you learned self-esteem…you learned about yourself.”",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.532985,
+          46.934089
+        ]
+      },
+      "properties": {
+        "name": "Skyline Vista",
+        "notes": "Skyline Vista\nhttps://www.nps.gov/places/skyline-vista.htm\n\nThe trailhead for Skyline Vista is one of the first that visitors encounter when entering the South Unit of Theodore Roosevelt National Park. It’s a magnificent introduction. Hiking the 0.1-mile accessible trail to an overlook, one is treated to wonderful views of the Little Missouri River, the western horizon, and the surrounding badlands.<br /> <br /> It is illegal to remove any resource from a national park. Leave any flower, stone, or other object where you find it so that other visitors can enjoy it as well.<br /> <br /> It is illegal to carve, paint, or otherwise alter anything in a national park.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.485281,
+          46.988682
+        ]
+      },
+      "properties": {
+        "name": "Wind Canyon",
+        "notes": "Wind Canyon\nhttps://www.nps.gov/places/wind-canyon.htm\n\nWhen Theodore Roosevelt described the badlands of North Dakota he said they \"...grade all the way from those that are almost rolling in character to those that are so fantastically broken in form and so bizarre in color as to seem hardly properly to belong to this earth.\" Wind Canyon, with its soft smooth contours and spire-like hoodoos, definitely fits the bill. <br /> <br /> An excellent example of how erosion formed the badlands landscape, Wind Canyon has been a popular destination for as long as the park has existed. It channels the wind, which rushes through before escaping across the Little Missouri River. The canyon walls contain hollows, carved by years of exposure, which now act as nest sites for Great Horned Owls and other birds. <br /> <br /> Hiking up the trail that borders the canyon edge, visitors can experience one of the best views in the South Unit of Theodore Roosevelt National Park, an unbroken expanse of river, badlands, and sky.<br /> <br /> It is illegal to remove any resource from a national park. Leave any flower, stone, or other object where you find it so that other visitors can enjoy it as well. <br /> <br /> It is illegal to carve, paint, or otherwise alter anything in a national park.",
+        "icon": "red-pin-down.png"
+      }
+    }
+  ]
+}

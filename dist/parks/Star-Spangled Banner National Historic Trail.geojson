@@ -1,0 +1,530 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.61196827888489,
+          39.28587648530367
+        ]
+      },
+      "properties": {
+        "name": "Baltimore Inner Harbor",
+        "notes": "Baltimore Inner Harbor\nhttps://www.nps.gov/places/baltimore-inner-harbor.htm\n\n<br /> <meta charset=\"utf-8\" /> <p dir=\"ltr\"><b id=\"docs-internal-guid-f60e477e-7fff-f665-1342-b60b593af9a5\">With various shops and restaurants, the inner harbor offers many options for dining, shopping, and relaxation in the hub of Baltimore city. If traveling by foot: You’ll pass the Baltimore Visitors Center (401 Light Street), which is air conditioned with public restrooms. Stop in there to find out local recomendations, attractions, and other helpful information about the city and surrounding area. </b></p>   <p dir=\"ltr\"><b id=\"docs-internal-guid-f60e477e-7fff-f665-1342-b60b593af9a5\"><u>National Aquarium (501 East Pratt Street)</u><br /> The National Aquarium in Baltimore offers the opportunity to experience different live animal experiences from around the world. Just a block from the inner harbor, this is an option for people of all ages. Learn more about what the Aquarium has to offer, as well as ticketing information here - </b><a href=\"https://aqua.org/\">aqua.org </a></p>   <p dir=\"ltr\"><b id=\"docs-internal-guid-f60e477e-7fff-f665-1342-b60b593af9a5\"><u>Historic ships (</u></b><u><strong>301 E Pratt St)</strong></u><br /> <b>The Baltimore harbor is home to many different historic ships. These ships are available for deck tours and other informational sessions throughout the year. Learn more here - </b><a href=\"https://historicships.org/\">historicships.org</a></p>   <p dir=\"ltr\"><u><b id=\"docs-internal-guid-f60e477e-7fff-f665-1342-b60b593af9a5\">Reginald F Lewis Museum</b></u> <strong>(830 E Pratt St)(</strong><u><b>Directly next to SSB Flag House) </b></u></p> <p dir=\"ltr\"><b id=\"docs-internal-guid-f60e477e-7fff-f665-1342-b60b593af9a5\">Located in the heart of Downtown Baltimore, the Reginald F. Lewis Museum of Maryland African American History & Culture is the premier experience and best resource for information and inspiration about the lives of African American Marylanders. Learn more information about the museum and ticketing options here - </b><a href=\"https://www.lewismuseum.org/\">lewismuseum.org</a><br />  </p> <p dir=\"ltr\"><meta charset=\"utf-8\" /></p> <p dir=\"ltr\"><b id=\"docs-internal-guid-56984f3c-7fff-cf62-dcd0-6bd68a85250c\">Explore by water: Take the Baltimore Water Taxi to Fort McHenry. Closest stops to the Star-Spangled Banner Flag House are at Harborplace, Harborplace East, and Fells Point. Runs Memorial Day through Labor Day.. <a href=\"https://www.baltimorewatertaxi.com/harbor-connector\">Harbor Connector | Baltimore Water Taxi</a></b></p> <p dir=\"ltr\"> </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.609260559082,
+          39.2905807495117
+        ]
+      },
+      "properties": {
+        "name": "Baltimore National Heritage Area",
+        "notes": "Baltimore National Heritage Area\nhttps://www.nps.gov/places/baltimore-national-heritage-area.htm\n\nThe <a href=\"http://explorebaltimore.org\">Baltimore National Heritage Area</a> (BNHA) promotes, preserves, and enhances Baltimore’s cultural and historic legacy and natural resources for current and future generations. Originally in the Office of the Mayor, BNHA is now managed through the non-profit Baltimore Heritage Area Association, Inc. <br /> <br /> The purpose of the heritage area is to help local agencies and non-profits with <span style=\"color: rgb(70, 70, 70); font-family: arial, helvetica, sans-serif; font-size: 14px;\">projects and programs that recognize and protect heritage resources; </span>develop recreational and educational opportunities; increase public awareness and appreciation of natural, historic, scenic, and cultural resources; protect and restore historic places that reflect the area’s themes; and identify points of interest.<br /> <br /> One of BNHA’s most visible projects is its network of <strong><a href=\"https://www.explorebaltimore.org/tours\">urban heritage trails</a></strong>. BNHA works n partnership with <a href=\"www.nps.gov/fomc/index.htm\">Fort McHenry National Monument and Historic Shrine</a>. <a href=\"https://www.nps.gov/thingstodo/baltimore-star-spangled-tour.htm\">Things to do in BNHA.</a> The <a href=\"http://explorebaltimore.org/about-us\">Year in Review publications</a> is an in-depth look at the heritage area's impacts.<br /> <br /> <strong>The Baltimore National Heritage Area includes the following National Historic Landmarks:</strong> <ul> <li><a href=\"https://www.explorebaltimore.org/places/basilica-of-the-assumption-baltimore-basilica\">Basilica of the Assumption</a> (Baltimore Basilica)</li> <li><a href=\"https://www.explorebaltimore.org/places/davidge-hall-college-of-medicine-of-maryland\">Davidge Hall</a> (College of Medicine of Maryland)</li> <li><a href=\"https://www.explorebaltimore.org/places/edgar-allan-poe-house\">Edgar Allan Poe House</a></li> <li><a href=\"https://www.explorebaltimore.org/places/edgar-allan-poe-house\">First Unitarian Church of Baltimore</a></li> <li><a href=\"https://www.nps.gov/places/star-spangled-banner-flag-house.htm\">Star-Spangled Banner Flag House</a></li> <li><a href=\"https://www.explorebaltimore.org/news/bnha-takes-stewardship-role-in-future-of-mencken-house\">H.L. Mencken House</a></li> <li><a href=\"https://www.explorebaltimore.org/places/lightship-chesapeake\">Lightship Chesapeake</a></li> <li><a href=\"https://www.explorebaltimore.org/places/mount-clare-station-and-roundhouse\">Mount Clare Station and Roundhouse</a></li> <li><a href=\"https://www.explorebaltimore.org/places/peale-museum\">Peale Museum</a></li> <li><a href=\"https://www.explorebaltimore.org/places/phoenix-shot-tower\">Phoenix Shot Tower</a></li> <li><a href=\"https://www.explorebaltimore.org/places/saint-marys-seminary-chapel\">Saint Mary's Seminary Chapel</a></li> <li><a href=\"https://www.nps.gov/thingstodo/the-baltimore-the-last-steam-powered-tugboat.htm\">Steam Tug Baltimore</a></li> <li><a href=\"https://www.nps.gov/places/uscgc-taney.htm\">USCGC Taney</a></li> <li><a href=\"https://www.nps.gov/thingstodo/board-the-uss-constellation.htm\">USS Constellation</a></li> <li><a href=\"https://www.nps.gov/places/uss-torsk.htm\">USS Torsk</a></li> </ul>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.61275148391724,
+          39.28366756530204
+        ]
+      },
+      "properties": {
+        "name": "Baltimore Visitor Center",
+        "notes": "Baltimore Visitor Center\nhttps://www.nps.gov/places/baltimore-visitor-center.htm\n\n<p>The Baltimore Visitor Center, located in the Inner Harbor of Baltimore, is an excellent starting point for exploring Baltimore City. The large, state-of-the-art facility provides up-to-date information, resources, and services for visitors to learn all about the best places and sites to visit in Baltimore. The center contains hundreds of brochures, visitor guides and maps for tourism throughout the city as well as exhibits and artworks from city museums and galleries.</p> <h2>History</h2> <p><em>War of 1812</em><br /> After crushing the Americans at <a href=\"https://www.nps.gov/stsp/learn/historyculture/battle-of-bladensburg.htm\">Bladensburg</a> and invading the <a href=\"https://www.nps.gov/stsp/learn/historyculture/invasion-of-washington-dc.htm\">Nation’s Capital</a>, the British targeted Baltimore. If they could capture the city—the third largest in the United States and a commercial and shipbuilding hub—they could likely bring the war to an end. Military and civilians, including free and enslaved African Americans, rallied to fend off the British.<br /> <br /> On September 12-14, 1814, the British attacked by land from <a href=\"https://www.nps.gov/stsp/learn/historyculture/battle-of-north-point.htm\">North Point</a> and by water at <a href=\"https://www.nps.gov/fomc/learn/historyculture/the-bombardment-of-fort-mchenry.htm\">Fort McHenry</a> on the Patapsco. The impressive American defenses and the failure to capture Fort McHenry persuaded the British to withdraw, essentially ending their campaign of the Chesapeake Bay.<br /> <br /> Throughout Baltimore you can find links to people and events that helped turn the tide of the War of 1812:</p> <ul> <li> <p><a href=\"https://www.mdhistory.org/\">Maryland Center for Histori and Culture</a> – War of 1812 exhibits and original manuscript of “Star-Spangled Banner” </p> </li> <li> <p><a href=\"https://pattersonpark.com/\">Patterson Park</a> – Remnants of defensive earthworks on Hampstead Hill; views of British approaches to Baltimore</p> </li> <li> <p><a href=\"https://www.nps.gov/fomc/index.htm\">Fort McHenry National Monument and Historic Shrine </a>– Exhibits and programs about the Star-Spangled Banner and defense of Baltimore</p> </li> <li> <p><a href=\"http://www.flaghouse.org/\">Star-Spangled Banner Flag House</a> – Programs about the flag that inspired the national anthem </p> </li> <li> <p><a href=\"https://www.nps.gov/places/fells-point.htm\">Fells Point</a>  – Historic seaport prominent during the War of 1812</p> </li> </ul>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Battle Acre Park",
+        "notes": "Battle Acre Park\nhttps://www.nps.gov/places/battle-acre-park.htm\n\nBattle Acre Park is a small park that commemorates the <a href=\"https://www.nps.gov/stsp/learn/historyculture/battle-of-north-point.htm\">Battle of North Point</a> on September 12, 1814. Located in Dundalk, MD, the park was dedicated in 1839 to honor the Maryland militia who fought against the British forces.<br /> <br /> The park's large “Home of the Brave” mural highlights the region’s role during the War of 1812 through five separate images. The main image is a depiction of the Battle of North Point with American militia troops engaging British soldiers en route to Baltimore City. On either side of the center image are portraits of the two military leaders for the conflict, with U.S. Brigadier General <a href=\"https://www.nps.gov/stsp/learn/historyculture/john-stricker.htm\">John Stricker</a> on the left and British Major General <a href=\"https://www.nps.gov/people/robert-ross.htm\">Robert Ross </a>on the right. The final two flanking panels showcase Todd’s Inheritance, a signal house and horse courier station during the war, and the 25th anniversary commemoration event where the original Star-Spangled Banner was spread across the stage. The mural, created by artist Marshall Adams and unveiled in 2014, runs along the park's western boundary on an exterior wall of a business, across the street from the <a href=\"https://dnr.maryland.gov/publiclands/Pages/central/NorthPointBattlefield.aspx\">North Point State Battlefield.</a>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.5927,
+          38.4903
+        ]
+      },
+      "properties": {
+        "name": "Battle Creek Cypress Swamp",
+        "notes": "Battle Creek Cypress Swamp\nhttps://www.nps.gov/places/battle-creek-cypress-swamp.htm\n\n<p>Battle Creek Cypress Swamp is one of the northernmost stands of bald cypress trees. These unusual conifers shed their feathery leaves in the fall. In winter, their gray, shreddy bark distinguishes bald cypress from other deciduous trees. A small, wooden boardwalk snakes around these relics of the past. Distinctive, knobby cypress \"knees\" emerge from the water near the boardwalk.</p> <p>On spring mornings, visitors are serenaded by birds such as the golden-colored Prothonotary warbler and the ground-foraging Louisiana waterthrush. In late summer, visitors can enjoy splashes of color provided by cardinal-flower and the threatened red turtlehead (Chelone obliqua). In the evening, one may also hear the quick trill of the arboreal gray treefrog. Visitors can enjoy several hiking trails that lead through the property.</p> <p>Battle Creek Cypress Swamp encompasses about 100 acres of cypress swamp and surrounding upland woods. It was purchased in 1977 by The Nature Conservancy and is currently leased and operated by Calvert County Parks and Recreation. The special habitat at Battle Creek was recognized as a National Natural Landmark in 1965.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.003577,
+          38.892483
+        ]
+      },
+      "properties": {
+        "name": "Belmont-Paul Women's Equality National Monument",
+        "notes": "Belmont-Paul Women's Equality National Monument\nhttps://www.nps.gov/places/000/belmont-paul-womens-equality-national-monument.htm\n\n<p>Home to the <a href=\"https://www.nps.gov/bepa/getinvolved/partners.htm\">National Woman's Party </a>for more than 90 years, this building was the epicenter of the struggle for women's rights. From this house in the shadow of the US Capitol and Supreme Court, <a href=\"https://www.nps.gov/people/alice-paul.htm\">Alice Paul </a>and the NWP developed innovative strategies and tactics to advocate for the Equal Rights Amendment and equality for women. President Barack Obama designated the national monument on April 12, 2016. Visitor entrance is on Second Street.</p> <h3>Inscriptions on Historic Plaques</h3> <h4>Front Doorway, right side</h4> <p>Residence of Albert Gallatin, peace negotiator and Secretary of the Treasury 1801-1814, who negotiated the <a href=\"https://www.nps.gov/articles/treaty-of-ghent-1.htm\">Treaty of Ghent</a>. When the British marched on Washington in the summer of 1813, some American patriots with Commodore Joshua Barney and from this house offered the only resistance. This Property was <a href=\"https://www.nps.gov/articles/000/sewall_house_burned_war1812.htm\">partly burned</a> as was the Capitol and the White House.<br /> <br /> Placed by The National Society United States Daughters of 1812 <br /> 8th January 1967<br /> Commemorating the 75th Anniversary of their society</p> <h4>Southeast corner of house</h4> <p>The oldest part is one of the earliest buildings in this region.<br /> <a href=\"https://www.nps.gov/bepa/learn/history-of-the-house.htm\">Robert Sewall</a> bought the property and enlarged the house in 1799, and rebuilt and greatly altered it after war damage in 1814.<br /> Residence and office of Albert Gallatin, Secretary of the Treasury, 1801-1813. Here he directed the financing of the Louisiana Purchase from France (1803), which nearly doubled the then area of the United States.<br /> Described in the United States Senate as one of the most historic buildings in Washington in discussion of the bill which preserved it, signed by President Eisenhower, May 29, 1958.<br /> Placed by the Capitol Hill Restoration Society MCMLIX</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.93867206573486,
+          38.93523600542635
+        ]
+      },
+      "properties": {
+        "name": "Bladensburg Waterfront Park",
+        "notes": "Bladensburg Waterfront Park\nhttps://www.nps.gov/places/bladensburg-waterfront-park.htm\n\nBladensburg Waterfront Park, located in Prince George’s County, Maryland, runs along the Anacostia River, one of the most historic waterways in America. The urban waterfront features a paved riverside walk, picnic pavilion, fishing pier, playgrounds and more. An interpretive pontoon boat offers tours for visitors to explore the ecology and history of the Anacostia. Other environmental and history programs are also offered on-site.<br /> <br /> The park itself directly links to the hiking and biking trails of the Anacostia Tributary Trail System and the Anacostia River Trail. Boat ramps as well as kayak and canoe launches are also available on-site. <h2>History</h2> <p><em>War of 1812</em></p> A wooden bridge just upriver from the present-day park became the focal point on August 24, 1814, when American and British forces clashed in the <a href=\"https://www.nps.gov/stsp/learn/historyculture/battle-of-bladensburg.htm\">Battle of Bladensburg</a>. By the time the Americans realized that the British invasion force was heading to Washington, they had little time to prepare. <br /> <br /> The British veteran force of 4,500 had marched for four days carrying loaded packs in near 100-degree heat. This included a contingent of <a href=\"https://www.nps.gov/stsp/learn/historyculture/colonial-marines.htm\">Colonial Marines</a>, formerly enslaved men from the Chesapeake region who had sought their freedom with the British.  There were 6,000 Americans, including regulars, Chesapeake Flotilla crewmen, marines, and inexperienced militia.<br /> <br /> At 1:00p.m. the British stormed the bridge.<br /> <br /> The opposing troops clashed in three hours of intense fighting. Though superior in number, most of the American defensive forces were poorly trained, ill-equipped, and positioned so the lines could not support one another. They were no match for the seasoned British army. <br /> <br /> President James Madison and several cabinet members were on the field of battle that day. Seeing the start of an American rout, they beat a hasty retreat to Washington, sending word ahead to warn others to save what possessions they could and flee. After a few hours of rest, the British then moved on to Washington, D.C. <br />  ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.4643,
+          38.3316
+        ]
+      },
+      "properties": {
+        "name": "Calvert Marine Museum",
+        "notes": "Calvert Marine Museum\nhttps://www.nps.gov/places/calvert-marine-museum.htm\n\n<p>The Calvert Marine Museum is located at the confluence of the Patuxent River and the Chesapeake Bay in Calvert County, MD. Its unique location allows the site to be a focal point for many visitors passing through the region.<br /> <br /> The museum itself details the maritime and ecological history of Southern Maryland through exhibits, educational programs, boat trips and a guided lighthouse tour of two lighthouses.The museum itself is in Solomons which provides local waterfront access through a walkable pier with scenic views. Nearby restaurants and shops are within walking distance as well.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0384845,
+          38.9000142
+        ]
+      },
+      "properties": {
+        "name": "Commodore Stephen Decatur House",
+        "notes": "Commodore Stephen Decatur House\nhttps://www.nps.gov/places/commodore-stephen-decatur-house.htm\n\n<p paraeid=\"{ef683079-f1c0-4188-8c23-11728d05dbf8}{179}\" paraid=\"598011376\">Designed by Architect of the Capital, Benjamin Henry Latrobe, the Commodore Stephen Decatur House was the home of the famous naval captain from 1818 until Decatur’s death in 1820. Located near the White House at the northwestern corner of Lafayette Square, Decatur commissioned the house as his family’s Washington residence where he entertained friends and dignitaries. After Decatur’s death in a duel in 1820, the property temporarily housed several prominent Washington statesmen including Senator Henry Clay and future-president Martin Van Buren. During the 19th century, the Decatur House served as a social center for Washington’s elite and as a residence for many prominent Washington politicians and foreign envoys.  <br /> <br /> Born in 1779 on Maryland’s Eastern Shore in a small fishing town, Stephen Decatur was the son of a merchant seaman who fought the British and French Navies during the Revolutionary War. As a teenager, Decatur joined the fledgling American Navy and distinguished himself as an able fighter and skilled seaman in the Quasi-War (1798-1800) with the French Republic. After being promoted to the rank of lieutenant, Decatur battled the Barbary Pirates in North Africa and successfully raided Tripoli Harbor in 1804. His actions in the southern Mediterranean won Decatur international fame and earned him the captaincy of the USS <em>Philadelphia</em> at the age of twenty-five. During the War of 1812, Decatur was further promoted to the rank of Commodore and won glory after the capture of the British Warship HMS<em> Macedonian</em> off the coast of the Azores.  <br /> <br /> With money acquired from his capture of the British frigate <em>Macedonian</em>, Decatur and his wife, Susan Wheeler Decatur, commissioned famed architect Benjamin Henry Latrobe to design an elegant three-story, Federal-style brick mansion at the northwest corner of Lafayette Square near the White House in Washington D.C. Latrobe, who designed nearby St. John’s Episcopal Church and the White House portico, was instructed by the Decatur’s to create a luxurious private residence “fit for entertaining.” Latrobe’s design included spacious double-drawing rooms that allowed the family to host balls and other social gatherings attended by Washington’s political elite and European dignitaries. Commodore Decatur had lived in the house for only fourteen months when he was killed in a duel with Commodore James Barron in March of 1820 after Decatur publicly criticized Barron’s capture by British forces in 1807. <br /> <br /> After her husband’s death, Sarah Decatur relocated to Georgetown and rented the house to a series of foreign diplomats. During this period, Decatur House became the unofficial residence of the U.S. Secretaries of State including Henry Clay, Martin Van Buren, and Edward Livingston who successively occupied the property between 1827 and 1833. After becoming heavily indebted, Susan Decatur sold Decatur House to John Gadsby in 1836, a prominent Washington area hotelier. Gadsby purchased the Decatur House as a retirement home for him and his family and moved ten enslaved individuals from his National Hotel to reside and work at the property. After Gadsby’s death in 1844, his wife, Providence, leased the property for twelve years during which time it was occupied by Vice President George M. Dallas and Senator Judah P. Benjamin. In 1871, the Decatur House was purchased by California statesman Edward Beale whose family owned the property until 1952 when it was donated to the National Trust for Historic Preservation. The Decatur House served as one of the first headquarters of the National Trust and as the Trust’s first house museum property. In 1967, the property was designated a National Historic Landmark and became a public museum. The property is currently leased to the White House Historical Association.<br /> <br /> Generations of enslaved families lived and worked at the Decatur House prior to Emancipation. The quarters where the enslaved workers lived still stands today as a rare example of an extant urban slave dwelling in the nation’s capital. Many of the prominent American politicians living at Decatur House enslaved people who resided and worked at the property. One enslaved resident, Charlotte Dupuy sued her owner, noted politician and statesman Henry Clay, for her freedom triggering a lengthy legal battle that eventually resulted in her emancipation in 1840. Throughout his ownership of the Decatur House, John Gadsby purchased and sold many slaves, often from outside of Washington D.C. with the explicit intent to sever family connections. Gadsby owned several enslaved individuals that worked at the Decatur House and were housed in the two-story structure facing H Street.<br /> <br /> The Decatur House is both an architectural landmark and a historical landmark as the first private residence in the neighborhood of the White House and as one of the few remaining residential designs of renowned Architect of the Capital Benjamin Henry Latrobe. Throughout its two-hundred years of existence, the Decatur House has been the residence of many influential American politicians and military figures of the 19th century and a site of enslavement for generations of African Americans. Through the legacy of the individuals that resided and worked there and through its architectural expression, the Decatur House remains a symbol of the United States’ growing political and cultural ambitions during the 19th century. </p> <p paraeid=\"{3a9e30b2-99e3-4ffe-800a-df461f381c0b}{248}\" paraid=\"2013037136\"><br /> <u>Sources:</u> </p> <p paraeid=\"{3a9e30b2-99e3-4ffe-800a-df461f381c0b}{254}\" paraid=\"1195789854\">Allison, Robert J.  <br /> 2005 Stephen Decatur: American Naval Hero, 1779-1820, University of Massachusetts Press, Boston, MA </p> <p paraeid=\"{f801bced-e89e-4a05-b76e-782e870e038f}{19}\" paraid=\"558016836\">De Kay, James T.  <br /> 2004 A Rage for Glory: The Life of Commodore Stephen Decatur, Free Press Publishers, New York, NY </p> <p paraeid=\"{f801bced-e89e-4a05-b76e-782e870e038f}{39}\" paraid=\"480689417\">Long, David F.  <br /> 1979 William Bainbridge and the Barron-Decatur Duel: Mere Participant or Active Plotter?, The Pennsylvania Magazine of History and Biography, Vol. 103, No. 1 </p> <p paraeid=\"{f801bced-e89e-4a05-b76e-782e870e038f}{59}\" paraid=\"214562037\">National Park Service, <br /> American Federation of Labor Building National Register of Historic Places Inventory- Nomination Form, National Park Service, Department of Labor  </p> <p paraeid=\"{f801bced-e89e-4a05-b76e-782e870e038f}{79}\" paraid=\"1203683834\">White House Historical Association <br /> The Historic Decatur House, White House Association Website, <a href=\"https://www.whitehousehistory.org/the-historic-decatur-house\">https://www.whitehousehistory.org/the-historic-decatur-house</a></p> <p paraeid=\"{f801bced-e89e-4a05-b76e-782e870e038f}{116}\" paraid=\"1655579538\">White House Historical Association <br /> Commodore Stephen Decatur: An Early American Naval War Hero, White House Association Website, <a href=\"https://www.whitehousehistory.org/commodore-stephen-decatur-an-early-american-naval-war-hero\">https://www.whitehousehistory.org/commodore-stephen-decatur-an-early-american-naval-war-hero</a></p> <p paraeid=\"{f801bced-e89e-4a05-b76e-782e870e038f}{143}\" paraid=\"1539173108\">White House Historical Association  <br /> Slavery in the President’s Neighborhood Press Collection, White House Historical Association Press Collection, <a href=\"https://www.whitehousehistory.org/press-room/press-collections/slavery-in-the-presidents-neighborhood-press-collection\">https://www.whitehousehistory.org/press-room/press-collections/slavery-in-the-presidents-neighborhood-press-collection</a><br />  </p> <p paraeid=\"{f801bced-e89e-4a05-b76e-782e870e038f}{166}\" paraid=\"1746462312\"><a href=\"https://catalog.archives.gov/id/117691809\">NHL Nomination</a>  <br />  </p> <p paraeid=\"{f801bced-e89e-4a05-b76e-782e870e038f}{175}\" paraid=\"508302343\"><a href=\"https://www.nps.gov/nhl/index.htm\">National Historic Landmarks (NHLs)</a> are historic places that possess exceptional value in commemorating or illustrating the history of the United States. The National Park Service’s National Historic Landmarks Program oversees the designation of such sites. There are just over 2,500 National Historic Landmarks. All NHLs are also listed in the <a href=\"https://www.nps.gov/nr/\">National Register of Historic Places.</a>  </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.08476936817169,
+          39.54071979144129
+        ]
+      },
+      "properties": {
+        "name": "Concord Point Lighthouse",
+        "notes": "Concord Point Lighthouse\nhttps://www.nps.gov/places/concord-point-lighthouse.htm\n\n<p>The Concord Point Lighthouse, located in Havre de Grace, Maryland, sits adjacent to the mouth of the Susquehanna River where it flows into the Chesapeake Bay. Constructed in 1827, Concord Point Lighthouse is the second oldest lighthouse in Maryland and was an aid for navigation for 148 years.<br /> <br /> War of 1812 veteran John O'Neill received a presidential appointment as first keeper of Concord Point Lighthouse due to his bravery during the British raid of Havre de Grace in 1813.  He served there from 1827 until his death in 1838. <br /> <br /> Decommissioned in 1975, the lighthouse now serves as a beacon for tourism and history in the region. The site itself offers a spectacular view of the mouth of the Susquehanna River and the Chesapeake Bay. The lighthouse park also sits within a designated historic district and a river promenade, allowing visitors to explore other nearby historic sites and points of interest.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.59634709358215,
+          39.279984493026696
+        ]
+      },
+      "properties": {
+        "name": "Fells Point",
+        "notes": "Fells Point\nhttps://www.nps.gov/places/fells-point.htm\n\n<p><meta charset=\"utf-8\" /></p> <p>Founded in 1726 by English shipbuilder William Fell, Fells Point served as the city’s deep-water port and shipbuilding center. Today, Fells is a National Register Historic District and is noted for its cobblestone streets, historic architecture, restaurants, and shops. Visitors can explore dozens of buildings that once served as homes and businesses for shipbuilders, seamen, immigrants, enslaved and free African Americans, merchants, and families in this bustling maritime neighborhood.</p> <h2>History</h2> <p><em>War of 1812</em><br /> Baltimore’s importance as the commercial heart of the Chesapeake region wasn’t the only reason the British wanted to capture the city in 1814. They also wanted to stifle Fells Point---the home port for many of the privateers that preyed on British merchant ships. The United States augmented its small navy by licensing privately owned ships to attack enemy vessels. Baltimore privateers captured more than 500 British ships during the War of 1812. </p> <h2>Learn more</h2> <p>To find out more specifics on Fells Point in regards to resturants, shops and other various attractions, please visit the Visit Baltimore website,<a href=\"https://baltimore.org/neighborhoods/fells-point/\"> https://baltimore.org/neighborhoods/fells-point/</a>.<br /> <br /> Paid public parking is available.</p> <p dir=\"ltr\"> </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.580237,
+          39.263624
+        ]
+      },
+      "properties": {
+        "name": "Fort McHenry National Monument and Historic Shrine",
+        "notes": "Fort McHenry National Monument and Historic Shrine\nhttps://www.nps.gov/places/fort-mchenry.htm\n\n<p>In September of 1814, after occupying Washington, D.C. and burning the public buildings, a British invasion force proceeded to Baltimore - a busy port city that specialized in outfitting privateers to prey on British shipping. <br /> <br /> Baltimore represented a more stategically important target than the largely undeveloped capital city of Washington, and was thus well protected by a masonry fort commanding the entrance to Baltimore harbor. After a 25 hour bombardment by the British fleet and determined resistance by the gunners of Fort McHenry, the invasion force was repulsed. <br /> <br /> After two and a half years of indecisive campaigning on the Canadian frontier, America was in debt, weary of war, and facing a trained and disciplined European army. There was no hope of achieving the stated goals of the war: free trade, sailors' rights, and the annexation of Canada. But a victory at Fort McHenry offered hope that the War of 1812 might end on terms agreeable to the United States and that the American republic could endure. <br /> <br /> The feeling of pride, patriotism, and hope emerging from the victory at <a href=\"https://www.nps.gov/fomc/index.htm\">Fort McHenry</a> was recorded by Francis Scott Key, who witnessed the fort's American flag surviving the bomardment and recorded his impressions in the words that became America's national anthem -\"The Star Spangled Banner.\"</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.024123,
+          38.71235
+        ]
+      },
+      "properties": {
+        "name": "Fort Washington Park",
+        "notes": "Fort Washington Park\nhttps://www.nps.gov/places/000/fort-washington-park.htm\n\n<p>Built to defend the river approach to Washington, DC, Fort Washington has stood as silent sentry for over 200 years. As technologies advanced so did Fort Washington, from the brick and stone of the 19th century to the concrete and steel of the 20th century. Joining the National Park Service in 1946, the park continues to protect the Potomac River.</p> <hr /> <p>Fort Washington was the only fort protecting the approach to Washington, D.C. at the time of the War of 1812.</p> <p>When a British invasion fleet entered the Cheseapeake Bay in the Summer of 1814, the American Secretary of War did not believe Washington D.C. a valuable enough target to warrant a British attack, and so he declined to make adequate preparations for the defense of the nation's capital. </p> <p>Fort Washington was left understaffed and ill-equipped while British troops landed and engaged American defenders at Bladensburg, Maryland. After routing the Americans, British forces entered Washington and burned its public buildings. Fort Washington (sometimes referred to at the time as Fort Warburton), was soon abandoned and destroyed in order to prevent its capture by the enemy. </p> <p>After the conclusion of the War of 1812, the United States recognized the need for a more thorough and modern coastal defense system, and many new masonry forts were constructed. Fort Washington, recognized as the key position defending Washington D.C., was repaired and updated, and remained an active defensive works until well into the twentieth century.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.068275,
+          38.904797
+        ]
+      },
+      "properties": {
+        "name": "Francis Scott Key Park",
+        "notes": "Francis Scott Key Park\nhttps://www.nps.gov/places/000/francis-scott-key-park.htm\n\n<p>The small but formal park and memorial is located at 34th and M Street, NW, Washington DC, in the Georgetown neighborhood. It was built by the Francis Scott Key Foundation and donated to the National Park Service in 1993.<br /> <br /> The site includes a bronze bust of Francis Scott Key, wayside exhibits explaining his story, and an American flag depicting the year 1814 when Key penned his now famous poem. The poem was set to the tune of \"To Anacreon in Heaven\" and became the United States' national anthem in 1931.</p> <h4>Inscriptions</h4> <br /> <em>Dedication</em><br /> <br /> Francis Scott Key Park / The Star-Spangled Banner Monument / Dedicated September 14, 1993<br /> <br /> <em>Bust</em><br /> FRANCIS SCOTT KEY / BRONZE / 1985 / SCULPTOR BETTY MAILHOUSE DUNSTON <p> </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.065981,
+          38.807509
+        ]
+      },
+      "properties": {
+        "name": "George Washington Masonic National Memorial",
+        "notes": "George Washington Masonic National Memorial\nhttps://www.nps.gov/places/george-washington-masonic-national-memorial.htm\n\n<p paraeid=\"{9f2d9219-042f-4c9e-a32d-4f22ca3e04de}{171}\" paraid=\"2029543174\">The George Washington Masonic National Memorial in Alexandria, Virginia is a national center of Freemasonry and a uniquely designed Freemason structure that combines Neo-Classical and skyscraper architectural features. The Masonic National Memorial is one of the most expensive and monumental private efforts to memorialize the nation’s first President and represents a rare nationwide cooperation of Freemason lodges. Originally intended as a museum to house important artifacts commemorating the life of George Washington, the building of the Memorial began in 1922, but was not officially completed and opened to the public until 1970. Now one of the most grand and recognizable buildings in the Washington area skyline, the George Washington Masonic National Memorial was designated as a National Historic Monument in 2015. </p> <p paraeid=\"{9f2d9219-042f-4c9e-a32d-4f22ca3e04de}{215}\" paraid=\"1965470763\">Freemasonry is a political and social organization that traces its origins to Medieval British labor collectives of skilled craftsmen called trade guilds. In the 18th century, stone mason guild meetings became Enlightenment-era salons where middle-class tradesmen could exchange ideas on contemporary society and politics. These socially concious guilds formed the earliest Freemason groups in the British Isles and dedicated themselves to upholding the principles of personal liberty and freedom of thought. During the late 1700s, Freemasonry societies became popular among the political and military leaders of the Revolutionary forces in the American colonies, including George Washington. <br /> <br /> Washington began his life as a Freemason in 1752 at the age of twenty when he was admitted into a small Freemason Lodge in Fredericksburg, Virginia. For the rest of his military and political career, Washington was an active member of Freemason social circles and established Alexandria’s Freemason Lodge No. 22 in 1788. Upon Washington’s death, Lodge No. 22 was granted many of Washington’s personal belongings, artifacts referred to as Washingtonia, including those related to his term as the Lodge’s first Grand Master.  </p> <p paraeid=\"{17569f8d-0976-4bbf-a403-65a7c7eec024}{20}\" paraid=\"56304192\">In the mid-19th century, Washington’s personal life and career became topics of renewed public and academic interest. Locations important in Washington’s life, such as Ferry Farm in Fredericksburg and Mount Vernon in Fairfax County, became the focus of intensive preservation efforts. With increased membership during the Progressive Era, Freemason groups across the nation began highlighting their organization’s role in shaping the United States through Freemasons like Washington. In 1910, Freemason leaders from across the nation convened in Washington D.C. to discuss financing a grand monument and museum dedicated to George Washington. Out of this conference, the George Washington Masonic National Memorial Association was formed which began raising money for the construction of a Washington-dedicated monument and park on Shooter’s Hill in eastern Alexandria, Virginia. </p> <p paraeid=\"{17569f8d-0976-4bbf-a403-65a7c7eec024}{80}\" paraid=\"1810281912\">The Association hired famed New York skyscraper architect Harvey Wiley Corbett to design the Memorial and the surrounding grounds. Within weeks of being hired, Corbett drafted a design model of the Memorial as a modern-day reimagining of an ancient Mediterranean lighthouse featuring both Neoclassical and modern skyscraper architectural elements. The design plan for the Memorial called for a raised columnated portico of New Hampshire granite at the base of the structure and a four-tiered stone and steel tower rising from its center. Corbett’s final skyscraper design was enthusiastically approved by the Freemason Grandmasters of the Memorial Association and ground was officially broken on June 5, 1922 during a ceremony attended by President Calvin Coolidge. As costs for the construction mounted in the next decade, the Freemasons refused to borrow money for construction and instead adopted a slow, but fiscally responsible approach to financing based on Lodge donations. </p> <p paraeid=\"{17569f8d-0976-4bbf-a403-65a7c7eec024}{138}\" paraid=\"193119598\">While construction took place over several periods throughout the 1920’s, the exterior of the Memorial was finally completed in February of 1931. As a result of the economic pressures of the Great Depression, construction on the Memorial’s interior was slowed. Over the next four decades, various architectural firms and artists would work to complete the Memorial’s interior museum space and Freemason meeting chambers. Some of the most iconic art pieces displayed by the Memorial include a seventeen-foot-tall bronze statue of Washington designed by Bryant Baker and artist Allyn Cox’s murals depicting episodes from Washington’s life in the Memorial Hall. </p> <p paraeid=\"{17569f8d-0976-4bbf-a403-65a7c7eec024}{178}\" paraid=\"1409167378\">The George Washington Masonic National Memorial is truly a unique landmark as it represents a rare occasion of nationwide cooperation among American Freemasons to build a monumental landmark to George Washington that enshrines his role as a lifelong Freemason. Among the many memorials and monuments to the life of the nation’s first President in and around the District of Columbia, the Masonic National Memorial uniquely highlights George Washington’s moralistic principles and personal beliefs. Therefore, the Memorial serves as a visual metaphor for Freemasonry’s role in shaping the life and career of George Washington and the United States of America.  </p> <p paraeid=\"{17569f8d-0976-4bbf-a403-65a7c7eec024}{204}\" paraid=\"58303884\"> </p> <p paraeid=\"{17569f8d-0976-4bbf-a403-65a7c7eec024}{208}\" paraid=\"465529199\">Sources:  </p> <p paraeid=\"{17569f8d-0976-4bbf-a403-65a7c7eec024}{214}\" paraid=\"1808569636\">Bullock, Steven C.  <br /> 1996, Revolutionary Brotherhood: Freemasonry and the Transformation of the American Social Order, 1730-1840, University of North Carolina Press, Chapel Hill, NC </p> <p paraeid=\"{17569f8d-0976-4bbf-a403-65a7c7eec024}{234}\" paraid=\"628089171\">George Washington’s Mount Vernon <br /> The George Washington Masonic National Memorial, Mount Vernon Association, <a href=\"https://www.mountvernon.org/george-washington/freemasonry/the-george-washington-masonic-national-memorial/\">https://www.mountvernon.org/george-washington/freemasonry/the-george-washington-masonic-national-memorial/</a>, retrieved 5/26/2020 <br /> <br /> Elliot, Paul and Stephen Daniels<br /> 2006, The 'School of True, Useful and Universal Science'? Freemasonry, Natural Philosophy and Scientific Culture in Eighteenth-Century England, The British Journal for the History of Science, Vol. 39, No. 2</p> <p paraeid=\"{93e3caae-27a0-4641-892c-cd1d0b1f9a92}{2}\" paraid=\"1688588862\">National Park Service  <br /> 2015, George Washington Masonic National Memorial- National Historic Landmark Nomination Form, National Park Service, Department of the Interior </p> <p paraeid=\"{93e3caae-27a0-4641-892c-cd1d0b1f9a92}{22}\" paraid=\"1726540867\">National Park Service <br /> 2015, George Washington Masonic National Memorial, National Historic Landmarks Program, National Park System Advisory Board for Historic Preservatio </p> <p paraeid=\"{93e3caae-27a0-4641-892c-cd1d0b1f9a92}{38}\" paraid=\"1468753687\">Mitnick, Barbara J. et al. <br /> 1999, George Washington: American Symbol, Hudson Hills Press, NY, Museum at Stony Brook and the Museum of Our National Heritage <br />  </p> <p paraeid=\"{93e3caae-27a0-4641-892c-cd1d0b1f9a92}{58}\" paraid=\"1131126372\"><a href=\"https://www.nps.gov/nhl/index.htm\">National Historic Landmarks (NHLs)</a> are historic places that possess exceptional value in commemorating or illustrating the history of the United States. The National Park Service’s National Historic Landmarks Program oversees the designation of such sites. There are just over 2,500 National Historic Landmarks. All NHLs are also listed in the <a href=\"https://www.nps.gov/nr/\">National Register of Historic Places.</a>  </p> <h4 paraeid=\"{93e3caae-27a0-4641-892c-cd1d0b1f9a92}{58}\" paraid=\"1131126372\">About Shooter's Hill</h4> <p paraeid=\"{93e3caae-27a0-4641-892c-cd1d0b1f9a92}{58}\" paraid=\"1131126372\">The memorial sits upon Shooter's Hill (also known at Shuter's Hill). During the War of 1812, with Alexandria under British control in August 1814, top-ranking U.S. military men gathered at this high point above the city. President Madison conferred with Secretary of the Navy William Jones, Brigadier General John Hungerford, and U.S. Navy Captain David Porter, Jr. The men decided to harass the British ships as they withdrew down the Potomac.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.587648,
+          39.416322
+        ]
+      },
+      "properties": {
+        "name": "Hampton National Historic Site",
+        "notes": "Hampton National Historic Site\nhttps://www.nps.gov/places/hampton.htm\n\n<p>Most people today know Hampton as a sedate Georgian mansion, elegantly furnished and settled amid gardens and shade trees. Built as a country seat just after the Revolutionary War by the prominent Ridgely family of Maryland, the house and its immediate surroundings are just a remnant of the Hampton estate of the early 1800s.<br /> <br /> In its heyday, Ridgely property equaled half the area of present-day Baltimore, land that made its owners rich through iron production, agriculture, and investments. Hampton is the story of a family business, early American industry, and commerce, the cultural tastes of the times, the deprivations of war, and the economic and moral changes that finally made this kind of life obsolete.<br /> <br /> Needing labor in abundance, the Ridgely family employed many types of workers. In just the last fifty years of the eighteenth century they bought over 300 indentured servants. They also employed free workers, British prisoners of war, and enslaved African Americans. Slavery was part of the Hampton estate for over 100 years, ending only when Maryland State law ended the institution in 1864. Its presence predated the construction of the mansion and over its history over 700 enslaved people would come through the Hampton plantation. Enslaved people were instrumental in building the mansion, and their work supported the gracious lifestyle of the Ridgelys in the mansion.<br /> <br /> Slavery at Hampton was unusual for two reasons. First, the Ridgelys main product from this labor was the harvesting and production of iron from their Northampton ironworks, unlike most of the agricultural South. Second, Hampton is very close to the free state of Pennsylvania and the city of Baltimore with its huge population of free African Americans. Refuges for freedom seekers were close by. Hampton is the site of one of the largest manumissions in history when the second owner of Hampton died with nearly 350 enslaved people on the Hampton plantation. In his will he manumitted females between the ages of 25 and 45 and males between the ages 28 and 45. This is one of the largest manumissions in the history of Maryland, but it did not end slavery at Hampton. His son, John Ridgely, purchased some sixty or so more slaves and manumitted only one.</p> <h4>War of 1812 History</h4> <p>Hampton’s Northampton Iron Furnace, approximately a mile north of the current park location, played a significant role in the War of 1812. Enslaved African Americans, the foundry's primary workforce, produced iron, cannons, shot and camp equipment for the war effort. Charles Carnan Ridgely, ironmaster and owner of the estate, also contributed funds and other supplies for Baltimore’s defense in 1814.<br /> <br /> <em>A project through the <a href=\"http://go.nps.gov/sat\">Save America's Treasures Grant Program</a>, which helps preserve nationally significant historic properties and collections, funded work to restore and stabilize farm buildings at Hampton in 1999. </em></p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.090675,
+          39.548525
+        ]
+      },
+      "properties": {
+        "name": "Havre de Grace Visitor Center",
+        "notes": "Havre de Grace Visitor Center\nhttps://www.nps.gov/places/havre-de-grace-visitor-center.htm\n\nVisitors to Havre de Grace can enjoy a walk through the historic downtown, along the Bay-front boardwalk, and past the Concord Point Lighthouse. <br /> <br /> Havre de Grace is located at the mouth of the Susquehanna River. Algonquian and Iroquoian-speaking peoples lived in this area for thousands of years. Englishman Captain John Smith reached the lower Susquehanna in the summer of 1608, and recorded the name of the people he met there as the Susquehannock.<br /> <br /> During the War of 1812, the city was burned by British Rear Admiral George Cockburn. Due to its proximity to the Pennsylvania border, the town was also an important stop on the Underground Railroad.<br /> <br /> Address: 450 Pennington Ave, Havre de Grace, MD 21078. ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.54191434383392,
+          38.376199532946735
+        ]
+      },
+      "properties": {
+        "name": "Historic Sotterley",
+        "notes": "Historic Sotterley\nhttps://www.nps.gov/places/historic-sotterley.htm\n\n<h3>A Historic Plantation</h3> <p>Built in 1703, Sotterley Plantation grew to become one of the largest plantations in the Chesapeake Bay region. An economic hub of its own, Sotterley's wharf on the Patuxent River saw the export of tobacco, corn, and lumber produced by the enslaved population of the plantation. Ships arrived into the port carrying captive Africans alongside luxury goods from Europe. Managed by a succession of powerful owners, the plantation's income eventually collapsed with the outlawing of slavery in 1864. The buildings and garden have since been restored, and today the site operates as an educational organization with National Historic Landmark status. Sotterley seeks to engage visitors with the challenging realities of our history, cultivating a respect for the past and the natural environment. </p> <h3>Visit Historic Sotterley </h3> Find detailed information about Historic Sotterley on their website: <a href=\"https://sotterley.org/\">Historic Sotterley Home - Sotterley</a><br /> <br /> <u><strong>Address:</strong></u> 44300 Sotterley Ln. Hollywood, MD 20636<br /> <br /> <u><strong>Hours:</strong><br /> Grounds and Gardens:</u><br /> Open 7 days a week*<br /> Monday - Saturday 10 am - 4 pm<br /> Sunday 11:30 am - 4 pm<br /> <br /> <u>Visitor Center:</u><br /> Thursday - Saturday 10 am - 4 pm<br /> Sunday 11:30 am - 4 pm<br /> <br /> <u>Guided Tours:</u><br /> Thursday - Saturday<br /> 10:30 am , 11:30 am, 1 pm, 2 pm, 3 pm<br /> Sunday<br /> Noon, 1 pm, 2 pm, 3 pm<br /> <br /> <u>Office</u><br /> Monday - Friday 9 am - 5 pm<br /> <br /> <u>*Site Closed</u><br /> New Year's Day, Martin Luther King, Jr. Day, Presidents Day, Easter, Memorial Day, Independence Day, Labor Day, Thanksgiving Day, Christmas Day<br /> <br /> <strong><u>Fee:</u></strong><br /> $5, plus additional fee for guided tours:<br /> Adults $ 10<br /> Seniors $ 9<br /> Youth (6-18) $ 6<br /> Children (Under 6) Free",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.429669,
+          38.180699
+        ]
+      },
+      "properties": {
+        "name": "Historic St. Mary's City",
+        "notes": "Historic St. Mary's City\nhttps://www.nps.gov/places/historic-st-marys-city.htm\n\n<p>Historic St. Mary’s City sits along a tributary of the Potomac River in St. Mary’s County, MD and preserves the site of the first European colonization in Maryland. Though the site is the first permanent settlement in Maryland, Historic St. Mary’s is the fourth settlement in North America by British colonizers.<br /> <br /> The living outdoor museum recounts and explores the history of the English colonizers that first sailed to the region as well as the history of the Yaocomaco that lived on the land first. This history is explored through exhibits, walking trails, active archaeological digs, school programs and more.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.5162464074707,
+          38.40920768527154
+        ]
+      },
+      "properties": {
+        "name": "Jefferson Patterson Park & Museum",
+        "notes": "Jefferson Patterson Park & Museum\nhttps://www.nps.gov/places/jefferson-patterson-park.htm\n\n<p>Jefferson Patterson Park and Museum is in Calvert County, Maryland and expands for 560-acres along the shoreline of the Patuxent River. The site itself is a very important archaeological site in the Chesapeake Bay region and explores the 10,000+ years’ worth of history on the property. Numerous archaeological digs and excavations have been performed on-site with the oldest evidence of human use dating back to 7500 BC. The site also saw use during the War of 1812 with the <a href=\"https://www.nps.gov/stsp/learn/historyculture/battles-of-st-leonard-creek.htm\">Battle of St. Leonard’s Creek</a>, the largest naval battle fought in Maryland.<br /> <br /> The park itself was donated to Maryland in 1983 by the Patterson Family, one of the largest land donations ever received by the state. Since then, the site has been open for public use and recreation, offering miles of hiking trails, educational and interpretive exhibits, view access of the Patuxent River, and many yearly events.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.42656862735748,
+          39.207230120671916
+        ]
+      },
+      "properties": {
+        "name": "North Point State Park - MD",
+        "notes": "North Point State Park - MD\nhttps://www.nps.gov/places/north-point-sp.htm\n\n<p>North Point State Park is in Baltimore County, Maryland and expands for 1,310 acres along the shoreline of the Chesapeake Bay. Over half of the park boasts protected wetlands, known as the Black Marsh Natural Area, which hosts upper tidal marsh with shrubs, wetland grasses and unique flowers. The many natural areas of the parks host a variety of wildlife species, including muskrats, beavers, foxes, otters, osprey and more.<br /> <br /> North Point has an extensive history of human use, with evidence dating back at least 9,000 years. The site played a key role for the <a href=\"https://www.nps.gov/fomc/learn/historyculture/the-bombardment-of-fort-mchenry.htm\">Battle of Baltimore</a> during the War of 1812. A 1767 farmhouse formerly located at the park served as a lookout station during the war. In September 1814, a signal flag atop the farmhouse sent a warning to Baltimore that the British fleet was approaching, alerting American troops and local residents to prepare for an attack. During the 20<sup>th</sup> century, the park was the site of the Bay Shore Amusement Park, a small park featuring gardens, a dance hall and even a bowling alley. Today, the park features fishing piers, picnicking areas, hiking trails, a water accessible area and more.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.041435,
+          38.89642
+        ]
+      },
+      "properties": {
+        "name": "Octagon House",
+        "notes": "Octagon House\nhttps://www.nps.gov/places/octagon-house.htm\n\n<p>On August 24, 1814, an invading British army set fire to the White House, Capitol, and other public Washington, D.C. buildings in retaliation for an American <a href=\"http://www.eighteentwelve.ca/?q=eng/Topic/47&img=2\">attack on the Canadian capital, York</a>, the year prior. <a href=\"https://www.nps.gov/people/james-madison.htm\">President James Madison</a> and <a href=\"https://www.nps.gov/people/dolley-madison.htm\">First Lady Dolley Madison</a> fled the attack, seeking safety in Leesburg, Virginia, and later Brookeville, Maryland. Upon their return to Washington a few weeks later, with the White House destroyed, the First Family needed another place to stay.</p> <p><a href=\"https://www.nps.gov/articles/the-octagon-of-washington-d-c-the-house-that-helped-build-a-capital-teaching-with-historic-places.htm\">The Madisons found the Octagon House</a>, likely spared from British flames because of the tricolor flag its resident, French Minister Louis Serrurier, flew. This unique Federalist-style home was completed in 1800, and was one of the grandest townhouses in the nation at the time. Although the Madisons were offered use of several homes, the Octagon House was nearby and met their needs, becoming the temporary White House when they moved in on September 8, 1814.</p> <p>Presidential life quickly resumed a normal pace, although wartime anxieties cast a pall over social gatherings. The Madisons maintained their living quarters on the second floor, in the southeast suite, which consisted of a small vestibule, a large bedroom with a fireplace, and a smaller dressing room. The President used the adjoining circular tower room as a study and at least some of the time as a meeting place for his Cabinet. This was where the Treaty of Ghent was signed on February 17, 1815 before being sent to Congress for ratification, ending the War of 1812.</p> <p>This masterpiece of late <a href=\"https://www.nps.gov/history/nr/travel/wash/dc22.htm\">Federalist architecture</a> features Coade stone decorative elements imported from England, as well as local construction materials. The Octagon House became the home of the American Institute of Architects in 1899, and has been in their care ever since.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0092098,
+          38.8024012
+        ]
+      },
+      "properties": {
+        "name": "Oxon Hill Mount Welby",
+        "notes": "Oxon Hill Mount Welby\nhttps://www.nps.gov/places/000/oxon-hill-mount-welby.htm\n\nThe farmhouse, known as Mount Welby, is the oldest building on the farm, dating to around 1811. <br /> <br /> During the War of 1812, Mary DeButts and her husband Samuel lived at the home. The war was especially hard for the DeButts; unable to access English banks and markets, the British sympathizers (Samuel was from Ireland, Mary from England) struggled to keep their farm. When the British navigated up the Potomac in late summer of 1814, they sailed past Mount Welby; the DeButts later found three Congreve rockets near their home.  <br /> <br /> Today, it is used as the Park's Administrative offices.  <br /> <br />  ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.01572691110945,
+          38.804481499345975
+        ]
+      },
+      "properties": {
+        "name": "Oxon Hill Oxon Cove",
+        "notes": "Oxon Hill Oxon Cove\nhttps://www.nps.gov/places/000/oxon-hill-oxon-cove.htm\n\nOxon Cove is located on the Western shore of Prince George’s County. This is an area of broad Potomac River floodplain and high upland terrace. Elevation can range from less than 10ft above main sea level to nearly 200 ft. The upland terrace is divided by drainages that descend to the floodplain. The flood plain is crossed by Oxon Run. It was originally called St. Thomas Bay until the land was acquired by the DeButts.  ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.33783721923828,
+          38.06446075439453
+        ]
+      },
+      "properties": {
+        "name": "Point Lookout State Park",
+        "notes": "Point Lookout State Park\nhttps://www.nps.gov/places/point-lookout-state-park.htm\n\n<p>Point Lookout State Park, in St. Mary’s County, Maryland, sits on a peninsula bordered by the Chesapeake Bay and the Potomac River. This well-known park is steeped in American history, beginning in the pre-Colonial era, and continuing through opening its gates as a park in 1965.<br /> <br /> During the War of 1812, British Troops used the peninsula as an encampment as they burned and looted the surrounding countryside and offered haven for enslaved people. British troops offered freedom for the enslaved people who made it to the grounds. In 1862, the grounds served as a port, hospital, garrison, and prisoner of war camp for the Union Army during the American Civil War. Thousands of soldiers perished on the grounds of Point Lookout due to harsh conditions in the marshes and swamps of the peninsula. The site is also home to the Point Lookout Lighthouse which was first commissioned in 1830 and oversaw much of the history of the park.<br /> <br /> Point Lookout also offers many recreational opportunities including swimming, fishing, boating, and camping. Guided tours of the lighthouse are available and a nearby nature center and museum provides information on the extensive history of the park and region. The park is open daily throughout the year.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Pride of Baltimore II",
+        "notes": "Pride of Baltimore II\nhttps://www.nps.gov/places/pride-of-baltimore-ii.htm\n\n<p><i>Pride of Baltimore II</i> is a historically evocative reproduction of a War of 1812-era <a href=\"https://www.nps.gov/stsp/learn/historyculture/privateers-make-their-mark.htm\">privateer</a> based out of Baltimore, Maryland. Capturing public imagination through unique worldwide voyages of discovery, <i>Pride II</i> honors Maryland seafarers of all eras and, wherever she sails, shares the innovation, entrepreneurial spirit, and patriotism that forged and continues to define Maryland’s maritime identity.<br /> <br /> <i>Pride of Baltimore II</i> was commissioned in 1988 and was built as a successor to <i>Pride of Baltimore, </i>tragically lost in May 1986 during a storm in the Atlantic Ocean.<br /> <br /> <i>Pride II </i>has visited over 200 ports in 40 countries and logged more than 275,000 nautical miles. When docked in Baltimore, the ship hosts public sails, deck tours, and interpretive programs throughout the year. The ship is also available for private charters.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.40666007995604,
+          39.02087985281855
+        ]
+      },
+      "properties": {
+        "name": "Sandy Point State Park",
+        "notes": "Sandy Point State Park\nhttps://www.nps.gov/places/sandy-point-state-park.htm\n\n<p>Sandy Point State Park in Annapolis is a fabulous park for those looking to swim or sunbathe at the beach. The marina has 22 boat ramps, and a small boat launch nearby serves smaller crafts. </p> <p> </p> <p>1100 East College Parkway<br /> Annapolis MD 21409</p> <p><strong>Hours:</strong><br /> 7 a.m. to dusk, year-round<br /> 7 a.m. to 4 p.m., Mid-November - January 2 due to Lights on the Bay program<br /> <br /> Fishing: 24 hr. access year-round (Fishing requires that all persons must be actively fishing including children)</p> <p>Boating: 24 hr. access year-round</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.5786633680724,
+          39.2635394612164
+        ]
+      },
+      "properties": {
+        "name": "Star Fort Historic Zone",
+        "notes": "Star Fort Historic Zone\nhttps://www.nps.gov/places/star-fort-historic-zone.htm\n\nThe star fort structure was completed in 1803 and named after James McHenry, Washington's Secretary of War and a signer of the Declaration of Independence. The fort was constructed to defend Baltimore's harbor that sits just about 2 miles to the north west. This structure, as well as water batteries that would have surrounded it, is what stood between the British Navy and being able to support their ground forces in the possible burning of Baltimore in 1814 during the War of 1812. The British Navy Bombarded this fort for 25 hours but was unable to remove the defenders from its wall, forcing their invading forces to withdraw and saving the City of Baltimore from destruction. This event inspired Francis Scott Key to write the Star-Spangled Banner, today's National Anthem.<br /> <br /> The fort remained active beyond its War of 1812 fame. Today the fort most resembles its Civil War era appearance with the inner buildings being built up to two stories, and an outer battery area featuring Rodman cannons dating to the 1860's. The Civil War period found the fort acting as prison for both prisoners of war, and political prisoners who threatened Maryland's possible secession. The fort's busiest time period was during the First World War where it was the centerpiece of a 3,000 bed hospital that was built up on the grounds surrounding it. Shortly after the First World War the fort was removed from active military use, although it was recalled into action during the Second World War as a Coast Guard training facility.<br /> <br /> As you enter the fort explore the various rooms in the buildings that tell the many stories of the fort's long history. Follow paths on top of the ramparts and outer battery that provide scenic and historic view sheds. And take a step back in time with interpretive programs that occur regularly. ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.603493,
+          39.287489
+        ]
+      },
+      "properties": {
+        "name": "Star-Spangled Banner Flag House",
+        "notes": "Star-Spangled Banner Flag House\nhttps://www.nps.gov/places/star-spangled-banner-flag-house.htm\n\n<br /> <meta charset=\"utf-8\" /> <p dir=\"ltr\">Located at 844 E. Pratt Street, the <a href=\"http://www.flaghouse.org/\">Star-Spangled Banner Flag House</a> was constructed in the late 1700s. Mary Pickersgill and her family began renting the house in the early 1800s. Mary started a flag making business and in a little over a decade, she saved enough money to buy the house, an unusual accomplishment for a woman at this time. She even added a kitchen and a boarder’s room to the house in 1820.</p> <p dir=\"ltr\">In summer of 1813, Mary was commissioned to sew a garrison flag and a smaller storm flag for <a href=\"https://www.nps.gov/fomc/index.htm\">Fort McHenry</a>. Mary’s mother, daughter, nieces, and indentured and enslaved <a href=\"https://www.nps.gov/fomc/learn/historyculture/grace-wisher.htm\">African American servants</a> helped complete the task in about seven weeks.<br /> <br /> On September 14, 1814, Fort McHenry withstood a 25-hour British bombardment. The 30 x 42-foot garrison flag waving over the victorious fort inspired <a href=\"https://www.nps.gov/fomc/learn/historyculture/francis-scott-key.htm\">Francis Scott Key</a> to pen lyrics that became the U.S. national anthem.</p> <p dir=\"ltr\">Mary lived in the house until her death in 1857 and the property remained in the Pickersgill family until 1864. The house exchanged hands multiple times and later functioned as a saloon and a warehouse. In 1929, the City of Baltimore purchased the property and preserved it as a historic building. A National Historic Landmark, the house is now a historic home and museum.</p>   <p dir=\"ltr\">Return to the <a href=\"https://www.nps.gov/subjects/travelbaltimore/index.htm\">Travel Baltimore</a> main page.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.58,
+          39.2630555555556
+        ]
+      },
+      "properties": {
+        "name": "Star-Spangled Banner National Historic Trail",
+        "notes": "Star-Spangled Banner National Historic Trail\nhttps://www.nps.gov/places/star-spangled-banner.htm\n\n<p>During the War of 1812, the Chesapeake Bay was the site of British military raids and the hub of American privateers who harassed British shipping. In the summer of 1814, a British invasion force entered the bay, <a href=\"../../stories/burning-the-capital.htm\">captured and burned Washington D.C.</a>, and attempted to subdue Baltimore. </p> <p>The successful defense of Batlimore at <a href=\"../../places/fort-mchenry.htm\">Fort McHenry</a> inspired the words that became America's national anthem, and caused the British to abandon their Chesapeake Bay campaign. The Star-Spangled Banner National Historic Trail marks and interprets numerous sites associated with the War of 1812 in Virginia, Maryland, and Washington D.C. and the military campaign that culminated in the birth of \"<a href=\"https://www.nps.gov/fomc/learn/historyculture/the-national-anthem.htm\">the Star-Spangled Banner</a>.\"<br /> <br /> Learn more about the Trail at <a href=\"http://www.nps.gov/stsp\">www.nps.gov/stsp</a>.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.99179077148438,
+          37.82133102416992
+        ]
+      },
+      "properties": {
+        "name": "Tangier Island",
+        "notes": "Tangier Island\nhttps://www.nps.gov/places/tangier-island.htm\n\n<h2>A Small Island With a Storied Past</h2> <p>Tangier is a low-lying island, barely visible above the expansive waters of the <a href=\"https://www.nps.gov/chba/index.htm\">Chesapeake Bay</a>. However, this small island is home to a community of watermen and women whose ancestors have lived here since colonial times. Surprising stories emerge from the island's history, from the Native Americans who came here to hunt and fish to the enslaved African Americans who escaped to the island to find their freedom. </p> <h2>Visiting Tangier</h2> <p>Tangier Island is only accesible by private boat or ferry. Catch a ferry from one of these locations:<br /> <br /> <a href=\"https://www.nps.gov/places/onancock-marina.htm\">Onancock</a>, Virginia (Eastern Shore)<br /> <a href=\"https://www.nps.gov/places/reedville-fisherman-s-museum.htm\">Reedville</a>, Virginia (Western Shore)<br /> Chrisfield, Maryland (Eastern Shore)<br /> <br /> <a href=\"https://www.tangierisland-va.com/transportation/\">Find detailed information about ferry rides here.</a><br /> <br /> Visit the <a href=\"https://www.tangierisland-va.com/\">Tangier Island website</a> for a comprehensive guide to travel, lodging, ammenities, and activities available on the island. <br /> <br /> Learn about the <a href=\"https://www.nps.gov/places/tangier-island-history-museum.htm\">TANGIER ISLAND HISTORY MUSEUM</a> here. </p> <h2>Tangier's History</h2> <h3>Native Americans on Tangier</h3> <p>Shell middens, or waste piles of oyster shells, and many stone points discovered on the island reveal that Indigenous peoples visited Tangier Island. They likely came here to take advantage of the summer's rich bounty of fish and shellfish.The Pocomoke people of the Bay's Eastern Shore were among the groups that could have traveled here. They would have reached the offshore island in dugout canoes, the largest of which could reach 70 feet long. </p> <h3>Colonial Settlement</h3> <p>Among the first Europeans to observe the island, John Smith and his crew spotted Tangier and its neighboring islands during their voyage throughout the Bay in the summer of 1608. With a penchant for naming the places he visited, Smith called the islands the Russell Isles, after a member of his crew, Doctor Russell. As early as the 1670s, colonists held patents to the island, which they primarily used to graze livestock. A century later, the first permanent residents arrived on the island. At first they made their living by farming, but fishing, crabbing, and oystering soon took over as their primary occupation. </p> <h3>War of 1812</h3> <p>For nearly 1,000 slaves during the War of 1812, Tangier Island was a fortress of salvation, and the place where they took their first free steps. Fort Albion, named after the ancient name for England and <a href=\"https://www.nps.gov/people/george-cockburn.htm\">Commodore George Cockburn</a>’s flagship, was constructed on the island in 1814 to serve two major functions: as a central base to sustain continued British attacks along the Chesapeake, and as a depot for receiving runaway American slaves into citizenship and service to His Majesty, King George III of England.</p> <p>Using America’s slaves against itself was not a novel idea – the British successfully employed this war tactic during the Revolutionary War. However, in the War of 1812, American slaves were considered free British citizens as soon as they set foot on British soil (which included forts and vessels), as slavery was illegal in all British territories. The new recruits remained neither American nor enslaved in the eyes of the British. Some slaves stole boats or canoes and met British troops directly; others started fires to get the attention of British soldiers for rescue. In some cases, these slaves took up arms as part of an active offense, while in others they simply took the opportunity presented by the British to escape bondage.</p> <p>As early as 1813, British army and navy officers were instructed to “provide shelter, protection, and evacuation to refugees.” <a href=\"https://www.nps.gov/people/alexander-cochrane.htm\">Admiral Alexander Cochrane</a> formalized the policy in April 1814, with a <a href=\"http://www.novascotia.ca/nsarm/virtual/africanns/archives.asp?ID=70\">proclamation</a> offering the “choice of either entering into His Majesty’s Sea or Land Forces, or of being sent as FREE Settlers to the British Possessions in North America or the West Indies.”</p> <p>With an anticipated influx of new recruits, the Royal Navy needed a new base. Tangier Island provided an easy access point in the Chesapeake to the Upper and Lower Bays, as well as the Potomac, Washington and Baltimore, while being surrounded by slaves in the plantation country of Virginia and Maryland. Fort Albion included a barracks, a hospital, a church, family dwellings and gardens, meant to accommodate not just prospective soldiers, but the families they brought with them as well. From its earliest inception, Fort Albion was conceived not just as a place for military training, but a place which would be a temporary home for newly freed Britons.</p> <p>Tangier Island was not employed long; the War of 1812 ended less than a year after Fort Albion was built, on February 17, 1815. As the British withdrew, Cockburn ordered that “on no account [is] a Single Negro [to] be left, except by his own request,” fully embracing the status of the former slaves – whether in service or not – as free subjects of the British Empire. On March 21, 1815, the evacuation of the British from the island was completed, and Fort Albion and its barracks were burned. Former slaves were sent as soldiers and citizens to settle British colonies in the Caribbean and Canada.</p> <p>Between the fort’s intentional destruction and subsequent unintentional destruction by storms and floods common in the Chesapeake, nothing remains of Fort Albion today. Much of Tangier Island where it stood has eroded, leaving a sandy beach reminiscent of those that slaves saw as they set foot on the island, in search of freedom.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.99196493625641,
+          37.82616262550315
+        ]
+      },
+      "properties": {
+        "name": "Tangier Island History Museum",
+        "notes": "Tangier Island History Museum\nhttps://www.nps.gov/places/tangier-island-history-museum.htm\n\n<h2>An oasis among the waves</h2> <p>The Tangier Island History Museum tells the surprising story of a small island off the shore of Virginia. Like Smith Island in Maryland, <a href=\"https://www.nps.gov/places/tangier-island.htm\">Tangier Island</a> has been a fishing community for hundreds of years.Today, the island remains a vibrant watermen community and receives hundreds of tourists every year seeking stunning views of the Chesapeake Bay and a taste of the island's unique culture and history.</p> <h2>Small island, big history</h2> <p>Native Americans utilized the Chesapeake's islands, including Tangier, as evidenced by plentiful stone points visible along their shores. John Smith and his crew were among the first Europeans to visit the island, catching sight of it during their 1608 explorations of the region. Smith named Tangier and its neighboring islands the \"Russell Isles,\" after Doctor Russell, a member of his crew. The island's first settlers in the 1700s relied on farming for their occupation, but over the next century, harvesting seafood became the more lucrative profession. During the War of 1812, the British built Fort Albion on Tangier Island and used it as a staging area for battles further inland. Several enslaved African Americans escaped to Tangier Island and were given their freedom by the British. Some joined the Corps of Colonial Marines, an all-black unit who fought against the Americans. </p> <h2>Visiting the museum</h2> <h4>Getting there</h4> <p>Tangier Island is only accesible by private boat or ferry. Catch a ferry from one of these locations:<br /> <br /> <a href=\"https://www.nps.gov/places/onancock-marina.htm\">Onancock</a>, Virginia (Eastern Shore)<br /> <a href=\"https://www.nps.gov/places/reedville-fisherman-s-museum.htm\">Reedville</a>, Virginia (Western Shore)<br /> Chrisfield, Maryland (Eastern Shore)</p> <h4>Hours & Admission</h4> <p>The museum is open:<br /> Monday - Saturday, 11 a.m. - 4 p.m.<br /> Sunday, 12 p.m. - 4 p.m.<br /> <br /> Admission: $3<br /> Free: Children under 11, Military Veterans, Active Duty, and Residents</p> <h4>Contact</h4> <p>(757) 891-2374</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.03930554627351,
+          38.53119371432405
+        ]
+      },
+      "properties": {
+        "name": "The Thomas Stone House",
+        "notes": "The Thomas Stone House\nhttps://www.nps.gov/places/the-mansion-at-haberdeventure.htm\n\n<p>One of the more unique features at Thomas Stone’s plantation of Haberdeventure is the curved five-part house. While parts of the house are original to Thomas Stone’s lifetime, fire damage, renovation, and modernization have changed the structure.</p> <p>Thomas Stone purchased the 442-acre property from his uncle, Daniel Jenifer, on December 13, 1770. Construction of the house's brick Central Block began in the spring of 1771. The following year, Thomas and his family likely took up residence even though the work was incomplete.</p> <p>The Central Block’s first floor comprises the Center Passage along with the East and West Rooms. The second floor had two large rooms that would have served as bed chambers.</p> <h4>Center Passage</h4> <p>Upon entering the Center Passage, guests could see a large and attractive stairway, expensive portraits, and decorative rooms to the left and right, which provided clues to the wealth and status of the Stones. With doors at each end, this breezeway may have been one of the house's most comfortable rooms during the spring, summer, and fall.</p> <h4>West Room</h4> <p>The West Room is believed to be the Master Bedchamber. Ornate first floor bedchambers in colonial era homes often served the dual purposes of being daytime or informal parlors. In the case of Margaret Stone, who developed a debilitating case of arthritis that often turned her into an invalid, she likely did not receive many guests but could converse with her family on her better days.</p> <p>While there is no supporting evidence, the lifestyles of slave owning gentry of the time suggests that an enslaved African American may have slept either on the floor of the West Room or in the adjacent Center Passage, to be readily available to care for the family's needs both night and day.</p> <h4>East Room</h4> <p>It is evident this room was used for entertaining. Contrary to modern and romanticized visions of colonial era homes, most were not elegant and pristine. Few colonial homes had rooms as beautiful as Thomas Stone's East Room. The expensive furnishing and window coverings and the well crafted woodwork were designed to impress guests, and even though this woodwork is a reconstruction of the original it still shows the detail that was put into the work.</p> <p>Aside from its beauty, the East Room may have served a more important function. With only one doorway, the room could provide privacy for Thomas Stone as he performed his legal and political duties along with directing county defense activities during the American Revolution. In Maryland’s heavily class-based society, the elegance of the East Room emphasized the importance, power, and success of Thomas Stone and justified his role as a leading figure in the community.</p> <h4>Second Floor</h4> <p>The purpose of the second floor was to serve as bed chambers, not just for Thomas and Margaret Stone’s three children. Upon Thomas's father's and eldest brother's deaths in 1773, Thomas permitted some of his younger brothers and sisters to live in the home. Also, as a host to law clients, political allies, several siblings and their families, distant relations, and countless friends, Stone was expected to provide places for everyone to sleep. </p> <p>Crowded homes were quite common in the colonial era. Rooms were hot and stuffy in the summer and drafty and cold in the winter. Privacy by modern standards barely existed. Even George Washington referred to his mansion of Mount Vernon as a “well-restored tavern.”</p> <h4>West Hyphen</h4> <p>The adjoining West Hyphen was built during Thomas Stone’s ownership to connect to the West Wing, which served as a kitchen for the Stones. This Hyphen may have served as a multi-use space with easily moved furnishings to allow dining, indoor chores and crafts, entertaining, and possibly to serve as a guest chamber.</p> <h4>West Wing</h4> <p>The original West Wing kitchen space is believed to have been a small and relatively unadorned structure designed for the function of cooking, cleaning, and other household chores by enslaved workers. The current West Wing, which partially rests upon the original foundations, dates from the mid-1840s. There are two rooms on the first floor and a steep stairway that leads to two more rooms above. In 1846, William Briscoe Stone remarked in a letter to his daughter Mary that the West Wing was, “…much enlarged improved & amended. I am certain you will be surprised and pleased with the change.\"<br /> <br /> During the 20th-century, the residents redesigned the West Hyphen to create a connective hallway between the second floor of the Central Block and the West Wing. This modernization was removed by the National Park Service to help return the mansion to a more historical design.</p> <h4>East Hyphen</h4> <p>The East Hyphen was a unique space. Its primary function was to serve as a protective cover for the full cellar that existed beneath the Central Block. It is not connected in the same way as the West Hyphen is connected. In order to gain access to the space, one would have to go outside the house and enter from the outside. </p> <h4>East Wing</h4> <p>Architectural historians believe that the East Wing is the oldest part of the house. It was likely a wholly separate and independent structure moved from some other location on the plantation to serve as the East Wing. Like the East Hyphen, there was no internal connection from the Central Block to the East Wing. One had to exit the mansion, walk across the lawn, and then enter the East Wing. </p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.00912547111513,
+          38.88976690056586
+        ]
+      },
+      "properties": {
+        "name": "United States Capitol",
+        "notes": "United States Capitol\nhttps://www.nps.gov/places/us-capitol.htm\n\n<p><span>For more than two centuries, the United States legislature has met in Washington, D.C. at the Capitol building. It is a symbol of the American democracy. In addition to being a functioning meeting hall, it also houses important American art, and stands as an architectural symbol in its own right.</span></p> <p><span>Construction of the Capitol building began in 1793. Using ancient architectural models, the young American republic sought to connect its radical experiment in democracy with familiar, stoic building forms that projected strength and stability. The building would continue to evolve, change, and be added to in order to meet the needs of a growing Congress and an evolving American public over the course of the next two hundred years under the care of dozens of architects.</span></p> <p>Congress convened in the Capitol for the first time in 1800, despite the building not being completed. The first iteration was completed in 1811 but did not last long. On August 22, 1814, about 4,500 British troops arrived in southern Maryland, 16 miles from Washington, D.C., to avenge an attack on the Canadian capital the year prior. The troops arrived in the city on August 24<sup>th</sup>, and began following their orders to destroy public buildings. The Capitol was <a href=\"http://www.gpo.gov/fdsys/pkg/GPO-CDOC-106sdoc29/pdf/GPO-CDOC-106sdoc29-6-3.pdf\">burned</a> at approximately 9:00 in the evening, but a light rain minimized the permanent damage. Still, the newly finished seat of American government <a href=\"http://www.loc.gov/pictures/resource/cph.3b51944/\">required renovation</a>, beginning in 1815 and continuing through 1819.</p> <p>The Capitol would continue to <a href=\"http://www.visitthecapitol.gov/about-the-capitol/evolution-the-capitol\">grow</a>. As the population of the nation expanded, so did its House of Representatives, requiring <a href=\"https://www.nps.gov/history/nr/travel/wash/dc76.htm\">more space</a>. Today, the building is still maintained by the <a href=\"http://www.aoc.gov/\">Architect of the Capitol</a>. Centrally located in downtown Washington, D.C., it stands as a beacon and symbol of the endurance and flexibility of democracy.</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.03657940030098,
+          38.898768638109
+        ]
+      },
+      "properties": {
+        "name": "White House",
+        "notes": "White House\nhttps://www.nps.gov/places/white-house.htm\n\n<p>A key feature of the design of the capital city, the President has lived in a home at 1600 Pennsylvania Avenue since 1800. Although it didn’t bear the name we know it by today – the White House – until around 1811, President John Adams and wife Abigail were the home’s first residents, and it has been the official residence of the president ever since.</p> <p>The White House was designed by Irish architect James Hoban, whose winning design was selected by President George Washington in a competition for the honor of designing the home of the American president. With heavy influence from Georgian and neoclassical designs of Hoban’s native Ireland, the President’s Palace quickly became a focal point of French engineer Pierre Charles L’Enfant’s city.<br /> <br /> The story of the White House and President’s Park cannot be told without accounting for the enslaved people who helped construct the house and grounds. The original laborers and stonecutter constructing the White House were African American slaves hired from their owners. Many other cultures were represented at the construction site; most of the crews were comprised of immigrant skilled workers and independent laborers. As an example of this cultural diversity, the stone masons were Scots and the designer of the President’s house was Irish.  The 1795 payroll for the project lists three carpenters.</p> <p>The White House has undergone constant revisions, additions, and renovations by architects and residents throughout its history. Perhaps the most notable reconstruction came in the wake of 1814 – an invading British army torched the White House, Capitol Building and Treasury on August 24, 1814 during the War of 1812 in retaliation for an American attack on the Canadian capitol York the year prior. President James Madison and First Lady Dolley fled the attack, but not before rescuing the Gilbert Stuart portrait of President Washington.</p> <p>Although the exterior walls stood following the attack, weakened by the fire, little of the original structure would remain intact. Reconstruction of the home began in 1815 supervised by architect Benjamin Latrobe, according to Hoban’s original design. The White House re-opened to the First Family in 1817, with President James Madison and First Lady Elizabeth moving back in.</p> <p>The home would continue to evolve to meet the needs of a changing presidency and a changing nation, including adding the West Wing in 1901, a second story in the 1930s, structural renovations from 1949 to 1951, and an extensive interior redecoration from 1961 to 1963.</p> <p>Today, the White House and/or White House grounds are open periodically to the public for tours.</p>",
+        "icon": "red-pin-down.png"
+      }
+    }
+  ]
+}

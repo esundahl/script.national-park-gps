@@ -1,0 +1,50 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7040533008839,
+          42.3698146997728
+        ]
+      },
+      "properties": {
+        "name": "Lindenwald",
+        "notes": "Lindenwald\nhttps://www.nps.gov/places/lindenwald.htm\n\nLindenwald is the name that Van Buren gave to the home and farm he would cultivate here after his presidency. A home was originally built here in 1792, and after Van Buren's purchase of the property in 1839 it would be modified to the appearance it retains today. The building is an eccentric mix of Federalist, Italianate, and Gothic Victorian styles as a result of Van Buren's renovations to the house, which included the tower on the south-west corner of the home. The home served as a political headquarters for Van Buren during his attempts to be reelected, and a place of work for the many domestic servants and farm workers that he needed to operate his residence.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.70496786326851,
+          42.36964094300193
+        ]
+      },
+      "properties": {
+        "name": "The Old Sycamore",
+        "notes": "The Old Sycamore\nhttps://www.nps.gov/places/the-old-sycamore.htm\n\nThe oldest tree on the park grounds is the American Sycamore tree behind Van Buren's home. The towering tree stands taller than the tower of Van Buren's home, and requires multiple people to join hands at its base to go around it. Sycamore trees can live for over 200 years under the correct circumstances, but it is impossible to know for sure exactly how old our sycamore is without damaging it. This is because depending on environmental factors trees can grow at different rates, the only way to know exactly how the old the tree is would be to take cores out and count rings. By growth estimates however the tree is believed to have originated from Van Buren's time on the property making it the only witness tree to his time here.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.70307314370208,
+          42.3713736144447
+        ]
+      },
+      "properties": {
+        "name": "The Van Buren Farm",
+        "notes": "The Van Buren Farm\nhttps://www.nps.gov/places/the-van-buren-farm.htm\n\nVan Buren was a passionate farm manager in the later years of his life. Following Jefferson's example after his presidency he decided to try his hand at being a gentleman farmer. Van Buren's twenty years here though are only a small part of the hundreds of years of agricutural heritage in the area. The farm remains active today, and each year the fields are planted with different crops. As the farm is active we do ask that visitors stay on the park trails.",
+        "icon": "red-pin-down.png"
+      }
+    }
+  ]
+}

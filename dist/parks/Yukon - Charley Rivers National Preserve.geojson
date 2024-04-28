@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -143.22513578425688,
+          64.5659507922153
+        ]
+      },
+      "properties": {
+        "name": "Charley River",
+        "notes": "Charley River\nhttps://www.nps.gov/places/charley-river.htm\n\n<h4>The Charley River is a complete watershed protected within the preserve and is virtually unaltered by modern human activities.</h4> <p>The preserve protects the Charley River in a free-flowing, natural state and the entire 1.1-million-acre Charley River watershed is seemingly unaffected by human activity. The Charley River basin is a focal point for scientific study of subarctic ecosystems that range from river bottoms to alpine habitat. The preserve provides habitat for populations of fish and wildlife, including but not limited to peregrine falcons and other raptorial birds, caribou, moose, Dall's sheep, grizzly bears, and wolves. Visitors are attracted to the remote and challenging floating conditions the Charley River offers, as well as opportunities for float hunting, fishing, and other recreational pursuits such as wildlife viewing.</p> <h3><a href=\"https://www.nps.gov/yuch/planyourvisit/floatingthecharleyriver.htm\">Learn about floating the Charley River</a></h3>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -143.14418112287927,
+          65.31082844421434
+        ]
+      },
+      "properties": {
+        "name": "Coal Creek Camp",
+        "notes": "Coal Creek Camp\nhttps://www.nps.gov/places/coal-creek-camp.htm\n\n<p>When the <a href=\"https://www.nps.gov/yuch/planyourvisit/coalcreekdredge.htm\">Coal Creek dredge</a> was in operation, it traveled for miles along the creek valley, making it necessary to construct a camp for the workers built on log skids that could periodically be moved. Today the Coal Creek mining camp has been restored by the National Park Service and includes a number of bunkhouses, a mess hall, an assaying and refining office, machine shops, and even a <a href=\"https://www.nps.gov/yuch/planyourvisit/publicusecabins.htm\">public use cabin</a>. The camp, gold dredge, and many other <a href=\"https://www.nps.gov/yuch/learn/historyculture/drilling-rigs.htm\">artifacts of the industrial gold mining</a> era are all part of Yukon-Charley Rivers National Preserve.</p> <h3><a href=\"https://www.nps.gov/yuch/learn/historyculture/coal-creek-dredge-history.htm\">Read more about the Coal Creek Historic Mining District.</a></h3>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -141.20762960649637,
+          64.78912885890185
+        ]
+      },
+      "properties": {
+        "name": "Eagle Historic District National Historic Landmark",
+        "notes": "Eagle Historic District National Historic Landmark\nhttps://www.nps.gov/places/eagle-historic-district.htm\n\n  <h4>A 19th Century City in Alaska</h4> <p>Preserved much as it was in 1899, the small isolated community of Eagle offers visitors a rare glimpse into Alaska’s past. In its heyday, the City of Eagle served as judicial and transportation hub for interior Alaska, and adjacent Fort Egbert as the military and communications center. Eagle began as a fur trading post around 1880. When gold was discovered at nearby American Creek, a small mining camp was established at Eagle. The rush of gold seekers to Canada’s Klondike in brought national attention to Eagle. The prime site along the Yukon River a few miles from the Canadian border was an ideal location for the development of the City of Eagle. Fort Egbert was established as a control station and headquarters for interior Alaska in 1899 adjacent to Eagle.<br /> <br /> Today, the Bureau of Land Management and Eagle Historical Society and Museums manage several of the historic buildings of Eagle. In addition, many of the historic homes are privately owned. A joint BLM/NPS field office is located in Eagle and can provide the visitor with more information on Eagle as well as nearby Yukon-Charley Rivers National Preserve.</p> <h4><br /> Additional Information</h4> <p><a href=\"https://www.blm.gov/visit-us/search-details/14535/2\">Visit Fort Egbert in Eagle, Alaska</a></p> <p><a href=\"https://babel.hathitrust.org/cgi/pt?id=umn.31951p00916616d&view=1up&seq=1\">Eagle - Fort Egbert: A Remnant of the Past, BLM</a></p> <p><a href=\"http://www.eaglehistoricalsociety.com/\">Eagle Historical Society</a></p> <p><a href=\"https://www.nps.gov/yuch/learn/historyculture/eagle-city.htm\">Yukon Charley Rivers National Preserve - Learn about Eagle's history</a></p> <p><a href=\"https://www.nps.gov/akso/history/PDF/NHL-Goldrush.pdf\">Alaska Goldrush NHLs: The Stampede North</a></p> <p><a href=\"http://npgallery.nps.gov/NRHP/AssetDetail?assetID=2704ba41-0107-4c07-8a9d-e2231f72a6e2\">National Register of Historic Places - Official Nomination Form</a></p> <p><a href=\"https://www.nps.gov/subjects/nhlalaska/index.htm\">More National Historic Landmarks in Alaska</a></p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -143.1226348876953,
+          65.35047149658203
+        ]
+      },
+      "properties": {
+        "name": "Slaven's Roadhouse",
+        "notes": "Slaven's Roadhouse\nhttps://www.nps.gov/places/slavens-roadhouse.htm\n\n<p>While many historic roadhouses have burned or have rotted away, <a href=\"https://www.nps.gov/yuch/learn/historyculture/slavensroadhouse.htm\">Slaven’s Roadhouse</a> has been restored and now serves as a public use cabin and landmark along the river between Eagle and Circle. From 1990 through 1996, the National Park Service restored Slaven's Roadhouse to its original 1938-42 condition.</p> <p>Slaven's Roadhouse continues to serve the public as a landmark along the Yukon River. It is open to public access and frequently has people spending the night while traveling up and down the river.</p> <p>Each February, it serves as a dog drop point during the <a href=\"https://www.nps.gov/yuch/learn/historyculture/yukon-quest.htm\">Yukon Quest</a> International Sled Dog Race. At times, the roadhouse also serves as quarters for volunteers working for the National Park Service.</p> <h3><a href=\"https://www.nps.gov/yuch/learn/historyculture/slavensroadhouse.htm\">Learn more about Slaven's Roadhouse on the Yukon-Charley Rivers website.</a></h3>",
+        "icon": "red-pin-down.png"
+      }
+    }
+  ]
+}

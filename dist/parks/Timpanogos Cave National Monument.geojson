@@ -1,0 +1,290 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.70497179031372,
+          40.443664762303555
+        ]
+      },
+      "properties": {
+        "name": "Along the Way #1",
+        "notes": "Along the Way #1\nhttps://www.nps.gov/places/along-the-way-1.htm\n\n<h2>1 - Up We Go! </h2> Hiking is fun, especially if you open your eyes and discover the many hidden treasures along this well-loved trail. There are large and small animals, many different types of rocks and minerals, and countless varieties of plant life. As you hike past pristine wildflowers and towering trees, take your time and see what you can discover along the way. ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.71149492263794,
+          40.43999035877813
+        ]
+      },
+      "properties": {
+        "name": "Along the Way #10",
+        "notes": "Along the Way #10\nhttps://www.nps.gov/places/along-the-way-10.htm\n\n<h2>Hidden Cave</h2> Along this rock wall are remains of an ancient cave. Can you find it? The cave had calcite formations, just like the Timpanogos Cave system. Walk along this wall and see if you can find evidence that a cave was here, such as smooth flowstone coating the wall. People are not allowed to touch any of the formations in the cave, but you can touch these exposed formations. ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.71194553375244,
+          40.439859709621956
+        ]
+      },
+      "properties": {
+        "name": "Along the Way #11",
+        "notes": "Along the Way #11\nhttps://www.nps.gov/places/along-the-way-11.htm\n\n<h2>11. High-heeled Hiking</h2> More than 100 years ago people hiked a very different trail to the cave. The historic trail was made up of steep cliffs, trees, and rugged terrain. People used to wear their best clothes: me worse suits and ties, while the women wore dresses and high heels. What clothes would you have worn back then? Would you have wanted to walk up a steep dirt trail dressed like that in order to explore the caves?",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.71258389949799,
+          40.439398352757905
+        ]
+      },
+      "properties": {
+        "name": "Along the Way #12",
+        "notes": "Along the Way #12\nhttps://www.nps.gov/places/along-the-way-12.htm\n\n<h2>12 Snake Safety</h2> Reptiles! When you come to the canyon you're visiting the home of the sagebrush lizard, rubber boa, and Great Basin rattlesnake. If you're lucky you might even get to see one! Snakes like to hide in rock walls or under plants. Be careful not to put your hands between rocks, under bushes, or anywhere you can't see. If you find a snake, leave it alone. This is there home, and if you leave them alone they'll leave you alone. ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.71272337436676,
+          40.43863894429929
+        ]
+      },
+      "properties": {
+        "name": "Along the Way #13",
+        "notes": "Along the Way #13\nhttps://www.nps.gov/places/along-the-way-13.htm\n\n<h2>13 Roots on the Rise?</h2> Erosion takes place all the time in the canyon, it may even uncover the roots of plants. As you hike look around for roots that are sticking out. Sometimes the roots sink deep into the ground and hold tight while the dirt and rocks on the surface keep creeping downhill. This creates interesting shapes in the stems an trunks of trees and plants. See if ou can find trees that have trunks shaped like the letter \"J\" because of erosion. ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.71194553375244,
+          40.43897782117673
+        ]
+      },
+      "properties": {
+        "name": "Along the Way #14",
+        "notes": "Along the Way #14\nhttps://www.nps.gov/places/along-the-way-14.htm\n\n<h2>Carving the Earth</h2> <p>Look out toward the valley. Does this canyon have a shape like a \"V\" or like a \"U\"? A \"U\" shape would tell us this canyon was carved by a slow-moving glacier. The steep \"V\" shape of this canyon shows that it's a young canyon carved by fast-moving water. This is still happening today. Can you guess what water source created this canyon? Did you guess the river below?</p>",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.713062205,
+          40.4382033017
+        ]
+      },
+      "properties": {
+        "name": "Along the Way #16",
+        "notes": "Along the Way #16\nhttps://www.nps.gov/places/along-the-way-16.htm\n\n<h2>16 Find the Flyers</h2> Have you heard any birds as you've walked up the trail? Stop and take a moment to listen for birds nearby. Some birds you might hear are the Canyon wren, Peregrine falcon, Dark-eyed junco, Townsend's solitaire, Western tanager, SDteller's jay and Mountain chickadee. Look for these birds and tell your group what birds you are finding!",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.71172022819519,
+          40.43811633564606
+        ]
+      },
+      "properties": {
+        "name": "Along the Way #17",
+        "notes": "Along the Way #17\nhttps://www.nps.gov/places/along-the-way-17.htm\n\n<h2>17 Tracks to the Cave</h2> You're almost there! The first cave you're going to visit is Hansen Cave. It was first discovered by Martin Hansen in 1887. Martin was a brave and curious man; to find the cave he followed Mountain lion tracks all the way up to the entrance! The footprint of a Mountain lion is about 3 3/8\" long and 3 3/8\" wide.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.70471429824829,
+          40.44354636798817
+        ]
+      },
+      "properties": {
+        "name": "Along the Way #2",
+        "notes": "Along the Way #2\nhttps://www.nps.gov/places/along-the-way-2.htm\n\n<h2>This or That? </h2> <br /> Look down toward the road. Listen. Can you hear cards and people going about their activities? Now look up toward the top of the mountain. What do you see and hear? At first it mat seem like there is nothing happening about you. If you stay still long enough, look closely, and listen, you will start to notice the world come alive around you while you hike up the trail. ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.70644700527191,
+          40.44335040452518
+        ]
+      },
+      "properties": {
+        "name": "Along the Way #3",
+        "notes": "Along the Way #3\nhttps://www.nps.gov/places/along-the-way-3.htm\n\n<h2>Caution!</h2> When you see yellow and red stripes, what do you think of? The stripes on the trail are placed in high risk rock fall zones, and tell you to watch out for falling rocks. Although rock can fall anywhere, these stripes mark high risk places where you shoulodn't stop and rest. Pay attention as you walk along the trail: wind, animals, other people, and even rain can cause rocks to spill all over the trail. As you hike, point out ot your group places where you can see that rocks have hit the trail. ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.70811533927917,
+          40.4422480994011
+        ]
+      },
+      "properties": {
+        "name": "Along the Way #6",
+        "notes": "Along the Way #6\nhttps://www.nps.gov/places/along-the-way-6.htm\n\n<h2>The Power of Water</h2> <br /> Do you see evidence of water along the trail? Did you know that the water we drink every day is strong enough to break apart rocks? Water seeps into cracks in the rock, and then it freezes during the winter. The ice them pushes the rock apart, which makes the crack bigger. <br /> <br /> This type of erosion is called mechanical weathering. Do you see the big cracks in the rocks around you? WHen the cracks get big enough plants can grow inside them. Can you find a plant growing out of a cracked rock on the trail?",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.70809388160706,
+          40.44202355354861
+        ]
+      },
+      "properties": {
+        "name": "Along the Way #7",
+        "notes": "Along the Way #7\nhttps://www.nps.gov/places/along-the-way-7.htm\n\n<h2>Hiking & Hydration</h2> The amount of sun hitting the trail depends on the season. During the summer m onths the sun shines brightly on the trail for most of the day. In the spring and fall the trail will stay mostly shaded in the morning and evening. <br /> <br /> No matter whenyou are hiking, make sure to carry plenty of water. We recommend 32 ounces per person to stay safe. During the hot summer m onths temperatures on the trail can be over 100 degrees F, and it's easy to become dehydrated if you're not careful. Make sure to drink water regularly, and take occasional breaks in shaded areas. If you haven't stopped for a break recently, now is a perfect time. ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.70816898345947,
+          40.441411151956814
+        ]
+      },
+      "properties": {
+        "name": "Along the Way #8",
+        "notes": "Along the Way #8\nhttps://www.nps.gov/places/along-the-way-8.htm\n\n<h2>A Squirrel! <br /> ...Or Maybe a Chipmunk?</h2> Animals you are more likely to see today includes squirrels and chipmunks. Golden-mantled squirrels and Least Chipmunks look a lot alike. The easiest way to tell them apart is to look at their stripes. Least chipmunks have stripes on their faces and backs. Golden-mantled squirrels' stripes run along only their sides. The next time you see one ask yourself: is it a chipmunk or a squirrel? No matter what animals you see, remember that they're all wild. This is their home, so please leave them alone. Human food is not good for them, and if you get your fingers too close they'll bite!",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.71092629432678,
+          40.44106003919458
+        ]
+      },
+      "properties": {
+        "name": "Along the Way #9",
+        "notes": "Along the Way #9\nhttps://www.nps.gov/places/along-the-way-9.htm\n\n<h2>Ancient Beach</h2> Millions of years ago some of the rocks in the canyon were sand under a warm, shallow sea. Have any of the rocks you've touched felt like sand? After milions of years the sand turned into sandstone. With more time and pressure the sandstone was then squished and cooked into quartzite. Look at the sediment building up on the ground next to the sign. Do you think the rocks could turn back into sand? How? As you keep hiking up the trail feel the different textures of the rocks.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.711939688,
+          40.4375580287
+        ]
+      },
+      "properties": {
+        "name": "Along the Way - Cave Entrance",
+        "notes": "Along the Way - Cave Entrance\nhttps://www.nps.gov/places/along-the-way-cave-entrance.htm\n\nCongratulations! You have conquered a mountain today. No matter if you're going in the cave or were just hiking for the joy of hiking, completing this trail was a real accomplishment. Look for a display with some cave formations - notice how the one that hasn't been touched is much prettier than the other. As you go through the cave or back down the trail keep this in mind and remember to leave Timpanogos Cave National Monument just as pretty as the way you found it!",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.71112221484259,
+          40.438938730947854
+        ]
+      },
+      "properties": {
+        "name": "Last Chance Outhouse",
+        "notes": "Last Chance Outhouse\nhttps://www.nps.gov/places/last-chance-outhouse.htm\n\nLast Chance Outhouse is one of the protected, historic buildings within the park. Although there are no flushing toilets, running water, or garbage cans there are several stalls and hand sanitizer. This is the only restroom on the trail and it is a highly recommended stop for those going on the tour as the caves are cold, wet, and drippy. ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.70585997988435,
+          40.44424194822814
+        ]
+      },
+      "properties": {
+        "name": "River View Picnic Area",
+        "notes": "River View Picnic Area\nhttps://www.nps.gov/places/river-view-picnic-area.htm\n\nThe River View Picnic area features four picnic tables, a small natural play area, a water fountain, a dog bowl filling station, a small amphitheatre and a step stone trail leading down to the river. <br /> <br /> Please be aware of your childrens safety at all times, the river can be rapid and dangerous. <br /> <br /> There are no bathrooms in this picnic area. ",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.710676,
+          40.443136
+        ]
+      },
+      "properties": {
+        "name": "Swinging Bridge Picnic Area",
+        "notes": "Swinging Bridge Picnic Area\nhttps://www.nps.gov/places/swinging-bridge-picnic-area.htm\n\nEnjoy a picnic at one of the many picnic sites at Swinging Bridge. Although the swinging bridge was replaced long ago, there are still a dozen beautiful picnic areas with tables, fire rings, and grills. <br /> <br /> The picnic area is just north of the American Fork River, make sure to watch kids carefully as the river can be fast and fierce. <br /> <br /> The east end of the picnic area connects to the Canyon Nature Trail which is a quarter-mile, one way trail that ends near the vistior center.<br /> <br /> There are several garbage cans and recycling bins located throughout the the area, make sure that you leave no trace when you're packing up!<br /> <br /> Bathrooms and parking lots are open seasonally.",
+        "icon": "red-pin-down.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.708412,
+          40.441382
+        ]
+      },
+      "properties": {
+        "name": "Timpanogos Cave Book Store",
+        "notes": "Timpanogos Cave Book Store\nhttps://www.nps.gov/places/timpanogos-cave-book-store.htm\n\n<p data-ogsc=\"windowtext\">The park store is operated by <a href=\"https://www.wnpa.org/\">Western National Parks Association</a>, an official non-profit partner of the National Park Service dedicated to supporting the educational mission of Timpanogos Cave National Monument. The park store has a wide range of books, media, educational resources,, and other items available for retail sale. These products complement the interpretive themes you experience when visiting the park. The park store is located at the visitor center, or you can <a href=\"https://store.wnpa.org/park-stores/timpanogos-cave-national-monument.html\">visit the online park store.</a></p> <p data-ogsc=\"windowtext\"> </p>",
+        "icon": "red-pin-down.png"
+      }
+    }
+  ]
+}
