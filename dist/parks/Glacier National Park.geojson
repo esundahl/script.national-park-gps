@@ -43,7 +43,7 @@
       "properties": {
         "name": "Apgar Campground",
         "notes": "Apgar Campground\nhttps://www.nps.gov/places/apgar-campground.htm\n\n<p>Apgar campground is the largest campground in the park. It is situated in trees and provides tent and RV campers with shade and some privacy. Evening sunsets on Lake McDonald are only a short stroll, and you won't want to miss evening programs with a ranger at the Apgar Amphitheater. Many trails are located within a short drive of the campground. Five Group Sites are reservable in advance.</p>",
-        "icon": "red-pin-down.png"
+        "icon": "shelter"
       }
     },
     {
@@ -118,7 +118,7 @@
       "properties": {
         "name": "Beaver Pond Loop Trailhead",
         "notes": "Beaver Pond Loop Trailhead\nhttps://www.nps.gov/places/beaver-pond-loop-trailhead.htm\n\nThe loop trail is 3 miles. In the summer, Beaver Pond Loop is a nice, relatively flat trail for hikers. In the winter, this route offers skiing and snowshoeing through aspen, meadows, and mixed conifer stands in the rolling hills east of St. Mary Lake. The trailhead is near the historic 1913 Ranger Station. The Red Eagle Trail also starts from this trailhead.",
-        "icon": "red-pin-down.png"
+        "icon": "trailhead"
       }
     },
     {
@@ -148,7 +148,7 @@
       "properties": {
         "name": "Bird Woman Falls Overlook",
         "notes": "Bird Woman Falls Overlook\nhttps://www.nps.gov/places/bird-woman-falls-overlook.htm\n\nThis overlook grants a view of Bird Woman Falls, one of the tallest waterfalls in Glacier. Across the Valley, it falls 492 feet, beginning between Mount Oberlin on the left and Mount Cannon on the right.",
-        "icon": "red-pin-down.png"
+        "icon": "binoculars"
       }
     },
     {
@@ -163,7 +163,7 @@
       "properties": {
         "name": "Camas Road Gate Parking",
         "notes": "Camas Road Gate Parking\nhttps://www.nps.gov/places/camas-road-gate-parking.htm\n\n<p>Parking at the Camas Road Gate is only allowed during the winter months. From here, skiers and snowshoers can access a variety of trails. <br /> <br /> Trails that can be reached from this parking area are: </p> <ul> <li>Lower McDonald Creek, 2-3 miles roundtrip. The trail begins just south of the McDonald Creek Bridge. The gentle terrain along lower McDonald Creek provides easy skiing through the forest with side trips along the creek.</li> <li>Rocky Point, 6 miles roundtrip. The trail winds down a short hill but the route is fairly level for the most part. The forest opens as you approach Rocky Point where there are views up and down Lake McDonald.  </li> <li>McGee Meadow, 11.5 miles roundtrip. The meadows can be reached via Camas Road and the Inside North Fork Road and is a nice loop, especially in winter when the roads are closed to cars but can be snowshoed or skied.</li> </ul>",
-        "icon": "red-pin-down.png"
+        "icon": "parking"
       }
     },
     {
@@ -223,7 +223,7 @@
       "properties": {
         "name": "Jackson Glacier Overlook",
         "notes": "Jackson Glacier Overlook\nhttps://www.nps.gov/places/jackson-glacier-overlook.htm\n\nJackson Glacier Overlook is home to the best view of a glacier along Going-to-the-Sun Road, telling one of the park's most important stories. In 1966, Jackson Glacier measured 316 acres. By 2015, it measured 187 acres. <br /> <br /> You can see Jackson Glacier from the parking area, or hike towards it along the trail to Gunsight Lake, which begins at Jackson Glacier Overlook.",
-        "icon": "red-pin-down.png"
+        "icon": "binoculars"
       }
     },
     {
@@ -238,7 +238,7 @@
       "properties": {
         "name": "Lake McDonald Lodge",
         "notes": "Lake McDonald Lodge\nhttps://www.nps.gov/places/lakemcdonaldlodge.htm\n\n<h4>Lake McDonald Lodge</h4> <strong>Built in 1913-14</strong><br /> Originally there was the Snyder Hotel, which John Lewis bought in 1896. During the winter of 1913-14, Lewis had a new 65-room hotel built on the site. Construction materials that could not be locally sourced had to be hauled from the depot in Belton then ferried nearly 10 miles up lake. The Lewis Hotel, decorated as a hunting lodge, was a community gathering point where artist Charlie Russell could sometimes be found telling stories in the lobby. In 1930, Lewis sold the property. New management changed the hotel's name to Lake McDonald Lodge.",
-        "icon": "red-pin-down.png"
+        "icon": "shelter"
       }
     },
     {
@@ -373,7 +373,7 @@
       "properties": {
         "name": "McDonald Creek Overlook",
         "notes": "McDonald Creek Overlook\nhttps://www.nps.gov/places/mcdonald-creek-overlook.htm\n\nUpper McDonald Creek (seen here) and lower McDonald Creek (by Apgar) make up the longest creek system in Glacier at around 25 miles. This observation platform at McDonald Creek Overlook allows visitors to get an up close look at this beautiful and powerful force of nature.",
-        "icon": "red-pin-down.png"
+        "icon": "binoculars"
       }
     },
     {
@@ -493,7 +493,7 @@
       "properties": {
         "name": "Running Eagle Falls Nature Trail",
         "notes": "Running Eagle Falls Nature Trail\nhttps://www.nps.gov/places/running-eagle-falls-nature-trail.htm\n\nExplore native plants and their traditional uses along this trail. People have lived in this area for centuries, long before it became a park. Understanding how to use native plants made life more enjoyable; plants served as food, fuel, and other valuable resources. ",
-        "icon": "red-pin-down.png"
+        "icon": "known-route"
       }
     },
     {
@@ -508,7 +508,7 @@
       "properties": {
         "name": "Running Eagle Falls Trailhead",
         "notes": "Running Eagle Falls Trailhead\nhttps://www.nps.gov/places/running-eagle-falls-trailhead.htm\n\nThe Running Eagle Falls Trailhead is in the Two Medicine area of the park, past the entrance station.<br /> <br /> This area offers restrooms and accesible hiking opportunities to the Running Eagle Falls and along the Running Eagle Falls Nature Trail. ",
-        "icon": "red-pin-down.png"
+        "icon": "trailhead"
       }
     },
     {
@@ -553,7 +553,7 @@
       "properties": {
         "name": "St. Mary Falls Trailhead",
         "notes": "St. Mary Falls Trailhead\nhttps://www.nps.gov/places/st-mary-falls-trailhead.htm\n\nThe hike to St. Mary and Virginia Falls—family-friendly hikes with world-class scenery—is one of the most popular day hikes on the east side of Going-to-the-Sun Road. <br /> <br /> This trailhead is a great place to start the hike, but parking is limited and fills quickly during the busy months. The nearby St. Mary Falls shuttle stop is an excellent alternative for visitors using the shuttle service.<br /> <br /> Hikers who are willing to walk a little farther can begin the trail from Sun Point, a few miles east of here.",
-        "icon": "red-pin-down.png"
+        "icon": "trailhead"
       }
     },
     {
@@ -718,7 +718,7 @@
       "properties": {
         "name": "Wild Goose Island Overlook",
         "notes": "Wild Goose Island Overlook\nhttps://www.nps.gov/places/wild-goose-island-overlook.htm\n\n<p>The view of Saint Mary Lake at Wild Goose Island Overlook is perhaps one of the most recognizable scenes in all of Glacier.<br /> <br /> Surrounded by towering mountains, the tiny island rises only 14 feet from the surface of St. Mary Lake. Available parking and an accessible viewing area make this a frequent stop along the road.</p>",
-        "icon": "red-pin-down.png"
+        "icon": "binoculars"
       }
     }
   ]

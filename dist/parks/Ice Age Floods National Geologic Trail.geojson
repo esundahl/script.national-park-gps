@@ -13,7 +13,7 @@
       "properties": {
         "name": "Back to Trailhead Park",
         "notes": "Back to Trailhead Park\nhttps://www.nps.gov/places/back-to-trailhead-park.htm\n\nNow you have returned to Trailhead Park. We hope you enjoyed your tour of Badger Mountain, one of the Lake Lewis Islands, which occured during the Missoula Floods at the end of the last ice age about 15,000 years ago.",
-        "icon": "red-pin-down.png"
+        "icon": "trailhead"
       }
     },
     {
@@ -118,7 +118,7 @@
       "properties": {
         "name": "Candy Mountain Trailhead",
         "notes": "Candy Mountain Trailhead\nhttps://www.nps.gov/places/candy-mountain-trailhead.htm\n\nCandy mountain trailhead",
-        "icon": "red-pin-down.png"
+        "icon": "trailhead"
       }
     },
     {
@@ -643,7 +643,7 @@
       "properties": {
         "name": "Multnomah Falls and Lodge",
         "notes": "Multnomah Falls and Lodge\nhttps://www.nps.gov/places/multnomah-falls-and-lodge.htm\n\n<p>Oregon’s tallest waterfall (620 ft.) is just 30 minutes east of Portland and 30 minutes west of Hood River. Offering scenic splendor and a gateway to the Gorge’s Waterfall Corridor, the waterfall is the most visited outdoor attraction in the Pacific Northwest due to its constant flow and proximity to the Historic Columbia River Highway. The falls are fed by rainwater and snowmelt, and its steady stream runs year-round, making it a four-seasons attraction. The highest volume comes in winter and spring, and the waterfall sometimes freezes partially at the height of winter.</p> <p>Located at the base of the waterfall, Multnomah Falls Lodge built in 1925 has excellent views and is home to a restaurant, gift shop, espresso bar and U.S. Forest Service interpretive center.</p> <p>The I-84 parking lot is the only way to access to the falls; parking or stopping is not allowed on the historic highway. It is recommended visiting at off-times, ie. early morning or mid week.  You can also take a guided tour or a <a href=\"https://www.travelportland.com/region/car-free-columbia-river-gorge/\">shuttle</a>.</p>",
-        "icon": "red-pin-down.png"
+        "icon": "shelter"
       }
     },
     {
@@ -1018,7 +1018,7 @@
       "properties": {
         "name": "Trailhead Park Badger Mountain",
         "notes": "Trailhead Park Badger Mountain\nhttps://www.nps.gov/places/trailhead-park-badger-mountain.htm\n\nIn the City of Richland, Washington Trailhead Park is a great starting point for any Badger Mountain hike. Hike to the summit of Badger Mountain for panoramic views of the Tri-Cities (southeastern Washington). This ridgeline trail system (on the Lake Lewis islands) provides a window into the past to explore the Ice Age Floods that shaped our landscape.<br /> <br />  ",
-        "icon": "red-pin-down.png"
+        "icon": "trailhead"
       }
     },
     {
@@ -1063,7 +1063,7 @@
       "properties": {
         "name": "Tualatin Ice Age Walking Trail",
         "notes": "Tualatin Ice Age Walking Trail\nhttps://www.nps.gov/places/tualatin-ice-age-walking-trail.htm\n\n<p>The <a href=\"https://tualatinvalley.org/business/tualatin-ice-age-trail/\"><strong>Tualatin Ice Age Trail</strong></a> is a self-guided tour of sites representing the ancient history of our area. Along the trail, you’ll discover evidence of centuries-old ice, rock and bone, including the sites where a mastodon and ground sloth were unearthed. The trail also leads to a portion of the <a href=\"https://tualatinvalley.org/local-favorites/tours-routes-trails/tualatin-art-walk/\"><strong>Tualatin ArtWalk,</strong></a> featuring sculptures, engravings and other Ice Age-inspired works of art.</p> <p>There are seven self-guided tours for the Tualatin Ice Age Trail, where you can read and learn more on interpretive signs, as well as on the <strong><a href=\"http://tualatintrails.com/pages/tour_description.asp\">Tualatin Trails website</a></strong>.<br /> <br /> <a href=\"http://tualatintrails.com/pages/stop_description.asp?themeID=3\"><strong>The Raging Waters Tour</strong></a> takes you back to the Ice Age floods that carried erratic boulders here and shaped the Tualatin River with landslides and deposits. The water-themed artwork at Tualatin Lake of the Commons is also a nod to that history.</p>",
-        "icon": "red-pin-down.png"
+        "icon": "known-route"
       }
     },
     {
@@ -1138,7 +1138,7 @@
       "properties": {
         "name": "Willamette Falls",
         "notes": "Willamette Falls\nhttps://www.nps.gov/places/willamette-falls.htm\n\nWillamette Falls is the second largest, by volume, waterfall in the United States. Created as a receding waterfall during the outflow of the Ice Age Floods this falls on the Willamette River drops 50 feet. Designated a National Heritage Area in April of 2015, the falls is an important historic, cultural and industrial site. The trading and fishing spot for Native Americans, the end of the Oregon Trail for the pioneers, and in 1889 the first long distance transmission of electrical power.<br /> <br /> The 42-foot-high and 1,500-foot-wide falls occurs 26 river miles upstream from the Willamette's confluence with the Columbia River.<br /> <br /> High on the bluffs above Willamette Falls are scablands eroded by the Ice Age Floods: Camassia Nature Preserve on the West Linn side and Canemah Bluff Nature Park on the Oregon City side. These scablands offer nature walks where you can enjoy the unique ecology of the area.<br /> <br /> Imagine Ice Age Floodwaters several dozen feet above head, carving out and receding the falls!<br /> <br /> Viewpoints for the Willamette Falls are located along Highway 99E just south of downtown Oregon City and Interstate 205 (milepost 7.5), again south of the city. The 99E viewpoint offers closer looks at the falls, but the 205 viewpoint is higher up, so you can see more of the surrounding bluffs and scenery.",
-        "icon": "red-pin-down.png"
+        "icon": "waterfall"
       }
     },
     {

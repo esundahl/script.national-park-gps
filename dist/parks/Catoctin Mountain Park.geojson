@@ -103,7 +103,7 @@
       "properties": {
         "name": "Blue Ridge Summit Overlook",
         "notes": "Blue Ridge Summit Overlook\nhttps://www.nps.gov/places/000/blue-ridge-summit-overlook.htm\n\nThe Blue Ridge Summit Overlook is the most accessible high vista point in the park The trail leaves from Hog Rock Parking Area and is a short, gradual climb to the vista. This vista offers a beautiful view to the north of the Harbaugh Valley and mountains of southern Pennsylvnia. The valleys and slopes seen to the north drain into Owens Creek.",
-        "icon": "red-pin-down.png"
+        "icon": "binoculars"
       }
     },
     {
@@ -403,7 +403,7 @@
       "properties": {
         "name": "Chestnut Picnic Area",
         "notes": "Chestnut Picnic Area\nhttps://www.nps.gov/places/000/chestnut-picnic-area.htm\n\nThe Chestnut Picnic Area is a great place to start exploring the West Side trails of the park, including the Catoctin National Recreation Trail. Parking for horse trailers is next to the picnic area so that equestrians have easy access to the park Horse Trails.",
-        "icon": "red-pin-down.png"
+        "icon": "picnic"
       }
     },
     {
@@ -418,7 +418,7 @@
       "properties": {
         "name": "Chestnut Picnic Area Restrooms",
         "notes": "Chestnut Picnic Area Restrooms\nhttps://www.nps.gov/places/chestnut-picnic-area-restrooms.htm\n\nThe restroom facility at the Chestnut Picnic Area is located in the center of the picnic area. Wheelchair-accessible trails from the parking areas lead directly to the restrooms. The restrooms have flush toilets and sinks with running water. This restroom facility is open seasonally.",
-        "icon": "red-pin-down.png"
+        "icon": "toilets"
       }
     },
     {
@@ -448,7 +448,7 @@
       "properties": {
         "name": "Cunningham Falls",
         "notes": "Cunningham Falls\nhttps://www.nps.gov/places/cunningham-falls.htm\n\nCunningham Falls is the largest cascading waterfall in the state of Maryland. Just across State Route 77 in Cunninham Falls State Park, hikers can access this scenic spot by taking the yellow trail from the visitor center. After a 1 mile hike, visitors can cross the road and talk a short boardwalk to the base of the falls.<br /> A small, handicap pulloff parking lot is available by the boardwalk. ",
-        "icon": "red-pin-down.png"
+        "icon": "waterfall"
       }
     },
     {
@@ -703,7 +703,7 @@
       "properties": {
         "name": "Hog Rock Parking Area Restroom",
         "notes": "Hog Rock Parking Area Restroom\nhttps://www.nps.gov/places/hog-rock-parking-area-restroom.htm\n\nThe Hog Rock Parking Area Restroom is a single vault toilet restroom with no running water. This facility is located directly adjacent to the parking area and is wheelchair accessible. This restroom facility is located along Park Central Road 1.8 miles away from the Visitor Center.",
-        "icon": "red-pin-down.png"
+        "icon": "toilets"
       }
     },
     {
@@ -733,7 +733,7 @@
       "properties": {
         "name": "Owens Creek Picnic Area",
         "notes": "Owens Creek Picnic Area\nhttps://www.nps.gov/places/000/owens-creek-picnic-area.htm\n\nQuiet, calm, and scenic. The Owens Creek Picnic Area provides a wide variety of things to do for park patrons. With multiple picnic tables and grills, people can sit beneath the shade of the forest to relax and eat. The picnic area is a great place to start your exploration of the West Side trails of the park, including the Catoctin National Recreation Trail and the Browns Farm Trail. For those interested in history, the Owens Creek Saw Mill is also nearby. ",
-        "icon": "red-pin-down.png"
+        "icon": "picnic"
       }
     },
     {
@@ -748,7 +748,7 @@
       "properties": {
         "name": "Owens Creek Picnic Area Restrooms",
         "notes": "Owens Creek Picnic Area Restrooms\nhttps://www.nps.gov/places/owens-creek-picnic-area-restrooms.htm\n\nThe wheelchair accessible restroom located at the Owens Creek Picnic Area is a vault toilet restroom with no running water. The restroom facility is located adjacent to several parking spaces on the upper side of the picnic area. For hikers, this restroom facility is located near the Brown’s Farm Loop Trail, the Deerfield Nature Trail, and a section of the Horse Trail. This restroom facility is open seasonally. ",
-        "icon": "red-pin-down.png"
+        "icon": "toilets"
       }
     },
     {
@@ -838,7 +838,7 @@
       "properties": {
         "name": "Trailhead: Blue Blazes Whiskey Still Trail",
         "notes": "Trailhead: Blue Blazes Whiskey Still Trail\nhttps://www.nps.gov/places/trailhead-blue-blazes-whiskey-trail.htm\n\nThe Blue Blazes Trail is 0.3 miles one-way. Roundtrip to and from the Whiskey Still Exhibit from the trailhead is 0.6 miles. <br /> <br /> The Blue Blazes Whiskey Still Trail is accessed from the gravel parking lot across from the visitor center. The trailhead begins just before the wooden footbridge at the northwest corner of the gravel parking lot. As you travel along the Blue Blazes creek, interpretive trailside signs explore stream ecology and the history of whiskey production on Catoctin Mountain during the time of Prohibition. The trail concludes at an actual whiskey still.",
-        "icon": "red-pin-down.png"
+        "icon": "known-route"
       }
     },
     {
@@ -853,7 +853,7 @@
       "properties": {
         "name": "Trailhead: Blue Ridge Summit",
         "notes": "Trailhead: Blue Ridge Summit\nhttps://www.nps.gov/places/000/trailhead-blue-ridge-summit.htm\n\nThe hike from the parking lot to the vista is 0.3 miles and 0.6 miles round trip. It is part of the larger Yellow Blaze loop wihich is 4.6 miles.<br /> <br /> The Blue Ridge Summit Vista is most readily accessible from the Hog Rock Parking Area. Picnic tables and a comfort station (pit toilet) are located at this parking area. From the Hog Rock Parking area, expect one hill to climb to reach the mass of boulders that make up the vista area.",
-        "icon": "red-pin-down.png"
+        "icon": "trailhead"
       }
     },
     {
@@ -868,7 +868,7 @@
       "properties": {
         "name": "Trailhead: Browns Farm North Terminus",
         "notes": "Trailhead: Browns Farm North Terminus\nhttps://www.nps.gov/places/000/trailhead-browns-farm-north-terminus.htm\n\nThe Browns Farm Trail starts wiith a 0.4 mile loop starting and leading back to the Owens Creek Picnic Area, marked by a white triangle blaze. The trail itself continues south for 0.5 miles, marked by a white rectangle blaze from the southern junction of the loop, ending at Camp Round Meadow.<br /> <br /> Starting near the Owens Creek Parking Area, follow the Browns Farm Nature Trail south as it winds through dense hardwood forests, pine groves, and the abandoned Browns Farm. ",
-        "icon": "red-pin-down.png"
+        "icon": "trailhead"
       }
     },
     {
@@ -883,7 +883,7 @@
       "properties": {
         "name": "Trailhead: Catoctin National Recreation Trail",
         "notes": "Trailhead: Catoctin National Recreation Trail\nhttps://www.nps.gov/places/000/trailhead-catoctin-national-recreation-trail.htm\n\nThis trail is marked by a blue blaze with 4.75 miles within the boundaries of the park.<br /> <br /> The north trailhead is in Catoctin Mountatin Park and lies within three miles of the Appalachian National Scenic Trail. Along its route the trail crosses a State Scenic Byway and parallels the Catoctin Mountain National Scenic Byway. There are historic districts (Camp Greentop and Camp Misty Mount) as well as historic and prehistoric archeological resources along the trail, including Indian flint napping sites and Colonial era charcoal hearths. In addition to skirting several lakes, the trail also accessess numerous scenic vistas with views of the Monocacy River Valley. The entire trail runs for 26 miles, connecting Catoctin Mountain Park, Cunningham Falls State Park, Frederick City Municipal Forest, and Gambrill State Park.",
-        "icon": "red-pin-down.png"
+        "icon": "known-route"
       }
     },
     {
@@ -898,7 +898,7 @@
       "properties": {
         "name": "Trailhead: Charcoal Exhibit Trail",
         "notes": "Trailhead: Charcoal Exhibit Trail\nhttps://www.nps.gov/places/000/trailhead-charcoal-exhibit-trail.htm\n\nThis trail is a one-half mile loop.<br /> <br /> The trail will take you along several exhibits and displays that will tell the story of the once thriving charcoal making industry on the mountain. The trail is readily accessible from the Thurmont Vista Parking Area. The Charcoal Exhibit Trail can also be accessed from the nearby Thurmont Vista Trail (Blazed Pink/Purple Rectangle) or from the Hog Rock Loop Trail<br /> (Blazed Yellow Rectangle.)",
-        "icon": "red-pin-down.png"
+        "icon": "known-route"
       }
     },
     {
@@ -913,7 +913,7 @@
       "properties": {
         "name": "Trailhead: Chimney Rock & Wolf Rock",
         "notes": "Trailhead: Chimney Rock & Wolf Rock\nhttps://www.nps.gov/places/000/trailhead-chimney-rock-wolf-rock.htm\n\nThis trail system is marked by a orange blaze and follows a loop for 3.9 miles. <br /> <br /> This loop trail contains the most strenuous sections of trail in the park. Expect uneven and rocky terrain from the river valley areas of the Visitor Center and Park Headquarters as you hike approx. 600 feet in elevation to the mountain ridgeline where Chimney Rock and Wolf Rock are located.<br /> <br /> Please use caution when walking along rock surfaces. These areas can be slippery.<br /> Closely supervise children at all times. Watch for rattlesnakes in the areas of Chimney Rock and Wolf Rock.",
-        "icon": "red-pin-down.png"
+        "icon": "trailhead"
       }
     },
     {
@@ -928,7 +928,7 @@
       "properties": {
         "name": "Trailhead: Cunningham Falls Nature Trail",
         "notes": "Trailhead: Cunningham Falls Nature Trail\nhttps://www.nps.gov/places/trailhead-cunningham-falls-nature-trail.htm\n\nThe Cunningham Falls Nautre Trail is 2.8 miles round trip from the visitor center to the falls and back. <br /> <br /> The Falls Nature Trail is accessed from the gravel parking lot directly across from the visitor center. The trail begins at the back of the gravel parking lot on the right hand side and crosses Md. Rt. 77 1.1 miles from the Visitor Center. The most popular trail in the park, this trail takes visitors to the largest cascading waterfall in Maryland. Expect multiple hills uneven and rocky surfaces.<br /> <br /> <u>Note:</u> The Cunningham Falls are located within the boundaries of Cunningham Falls State Park and State Park regulations and guidelines apply.",
-        "icon": "red-pin-down.png"
+        "icon": "known-route"
       }
     },
     {
@@ -943,7 +943,7 @@
       "properties": {
         "name": "Trailhead: Deerfield Nature",
         "notes": "Trailhead: Deerfield Nature\nhttps://www.nps.gov/places/000/trailhead-deerfield-nature.htm\n\nThe trail follows a loop that is 1.3 miles with mild changes in elevation.<br /> <br /> The Deerfield Nature Trail provides a soothing hike filled with informative panels which describe the local forest ecology and history. This trail is marked by a yellow triangle.",
-        "icon": "red-pin-down.png"
+        "icon": "trailhead"
       }
     },
     {
@@ -958,7 +958,7 @@
       "properties": {
         "name": "Trailhead: Gateway Trail",
         "notes": "Trailhead: Gateway Trail\nhttps://www.nps.gov/places/000/trailhead-gateway-trail.htm\n\nThis trail is 3.9 miles and is marked by a white blaze.<br /> <br /> Accessible from the Visitor Center, Park Headquarters, or from the Lewis Property Parking Area, the Gateway Trail in Catoctin Mountain Park<br /> offers a challenging hike through rocky and hilly terrain. Coming from the Lewis Property Parking Area, one is offered the opportunity to parallel Big Hunting Creek or to summit the mountain near Chimney Rock. Alternatively, the Gateway Trail can lead you off park lands and into the community of Thurmont.",
-        "icon": "red-pin-down.png"
+        "icon": "known-route"
       }
     },
     {
@@ -973,7 +973,7 @@
       "properties": {
         "name": "Trailhead: Hog Rock",
         "notes": "Trailhead: Hog Rock\nhttps://www.nps.gov/places/000/trailhead-hog-rock.htm\n\nThis section of the yellow trail is 1 mile, the entire Yellow Blaze runs for 4.6 miles.<br /> <br /> An extension of the Hog Rock Loop Trail, the Hog Rock Nature Trail is most readily accessed from the Hog Rock Parking Area off of Park Central Road. Picnic tables and a comfort station (pit toilet) are located at this parking area. As you venture into the woods, labeled posts, which accompanies a brochure guide (obtained at the trailhead or Visitor Center) identifies several<br /> features you will discover along the trail. Expect a few small hills, uneven surfaces, and several rocky features along the hike.",
-        "icon": "red-pin-down.png"
+        "icon": "trailhead"
       }
     },
     {
@@ -988,7 +988,7 @@
       "properties": {
         "name": "Trailhead: Horse Trail",
         "notes": "Trailhead: Horse Trail\nhttps://www.nps.gov/places/000/trailhead-horse-trail.htm\n\nApproximately 6 miles of trails are maintained in Catoctin Mountain Park for public horseback riding. <strong>These trails are identified with a Orange Triangle Blaze. </strong>The section of the Catoctin National Recreation Trail North of Park Central Road also accommodates equestrian use<strong>.</strong><br /> <br /> Trailer parking is available across from the entrance to Camp Greentop. If the parking area is snow covered or muddy, horse trailers should be parked at Round Meadow and horses led or ridden along the shoulder of Park Central Road to the trails.",
-        "icon": "red-pin-down.png"
+        "icon": "known-route"
       }
     },
     {
@@ -1003,7 +1003,7 @@
       "properties": {
         "name": "Trailhead: Spicebush Trail",
         "notes": "Trailhead: Spicebush Trail\nhttps://www.nps.gov/places/000/trailhead-spicebush-trail.htm\n\nThis trail loop is around 0.2 miles.<br /> <br /> Easily accessed from the Chestnut Picnic Area, the Spicebush Nature Trail is a wheelchair-accessible loop that has wayside panels describing the natural histroy of the mountain's forests. ",
-        "icon": "red-pin-down.png"
+        "icon": "known-route"
       }
     },
     {
@@ -1018,7 +1018,7 @@
       "properties": {
         "name": "Trailhead: Thurmont Vista",
         "notes": "Trailhead: Thurmont Vista\nhttps://www.nps.gov/places/000/trailhead-thurmont-vista.htm\n\nThe Thurmont Vista Loop Trail is 2.6 miles. <br /> <br /> Most readily accessible from the Thurmont Vista Parking Area, the short yet moderately challenging hike will crest the mountain ridgeline at the Thurmont Vista. The Charcoal Exhibit Trail can also be accessed nearby as well as the Hog Rock Loop Trail (Blazed Yellow Rectangle).",
-        "icon": "red-pin-down.png"
+        "icon": "trailhead"
       }
     },
     {
@@ -1033,7 +1033,7 @@
       "properties": {
         "name": "Trailhead: Wolf Rock",
         "notes": "Trailhead: Wolf Rock\nhttps://www.nps.gov/places/000/trailhead-wolf-rock.htm\n\nThe trail distance to Wolf Rock is 1 mile. This trail is part of the larger 3.9 mile Orange Blaze Loop.<br /> <br /> Accessed from a small pull-off parking lot along Park Central Road, the Wolf Rock Trailhead is a good access point to mutliple trails across the park. From this trail junction, hikers can either travel to Wolf Rock or link up with the Pink and Yellow trails to reach Thurmont, Blue Ridge Summit, and Hog Rock vistas.",
-        "icon": "red-pin-down.png"
+        "icon": "trailhead"
       }
     },
     {

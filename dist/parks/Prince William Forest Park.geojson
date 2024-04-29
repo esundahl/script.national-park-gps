@@ -88,7 +88,7 @@
       "properties": {
         "name": "Historic Routes - The Crossing Trail",
         "notes": "Historic Routes - The Crossing Trail\nhttps://www.nps.gov/places/historic-routes-the-crossing-trail.htm\n\nFollow in the footsteps of thousands of people before you as you hike the Crossing Trail, which partially follows an old roadbed. Initially a path to travel between American Indian villages and hunting grounds, early European settlers widened this road into the Potomac Path, a roadway soldiers travelled in both the Revoluntionary and Civil Wars. Today part of the Washington-Rochambeau Revoluntionary Route National Historic Trail, the trail meanders through the forest following a faint network of old roadways that existed before Prince William Forest Park was created.",
-        "icon": "red-pin-down.png"
+        "icon": "known-route"
       }
     },
     {
@@ -103,7 +103,7 @@
       "properties": {
         "name": "Laurel Trail Loop Trailhead",
         "notes": "Laurel Trail Loop Trailhead\nhttps://www.nps.gov/places/laurel-trail-loop-trailhead.htm\n\n<p paraeid=\"{ef78bf55-3b2b-4153-ba67-c3a3f291ab7f}{4}\" paraid=\"31925447\">The Laurel Trail Loop is a moderately strenuous 1.3-mile loop that winds through deciduous forest to South Fork Quantico Creek. Colors pop all year along this trail. In the spring, mountain laurel burst into bloom with clusters of delicate pink and white. In autumn, the green leaves of summer turn into endless shades of yellow, orange, red, and tan.  </p> <p paraeid=\"{ef78bf55-3b2b-4153-ba67-c3a3f291ab7f}{14}\" paraid=\"2063827090\"> </p> <p paraeid=\"{ef78bf55-3b2b-4153-ba67-c3a3f291ab7f}{18}\" paraid=\"589556891\">Watch your step for tree stumps and slippery rocks. Check yourself periodically for ticks. Keep your pets on a leash and do not feed wildlife. Do not disturb or remove any plants, animals, or historic features.</p>",
-        "icon": "red-pin-down.png"
+        "icon": "trailhead"
       }
     },
     {
@@ -163,7 +163,7 @@
       "properties": {
         "name": "Oak Ridge Trailheads",
         "notes": "Oak Ridge Trailheads\nhttps://www.nps.gov/places/oak-ridge-trailheads.htm\n\n<p paraeid=\"{14ee3302-3268-45d4-bc28-dc31c1caa29b}{136}\" paraid=\"328626544\">Park at Oak Ridge to access the Farms to Forest Trail, a 1.7-mile loop, and the South Valley Trail, a 9.7-mile trail that weaves throughout the park. </p> <p paraeid=\"{14ee3302-3268-45d4-bc28-dc31c1caa29b}{148}\" paraid=\"40375285\">White blazes mark the 9.7-mile South Valley Trail, the park’s longest trail. Beginning at Oak Ridge Campground, this trail follows South Fork Quantico Creek to its confluence with Quantico Creek on the southeastern border of the park. The terrain and difficulty of this trail vary along its length. Study the map and create your own loop with other trails, fire roads, or the Scenic Drive. Enjoy the oak, beech, and tulip poplar trees and be alert for beaver activity. As you travel along, look for traces of former mills and homesites. </p> <p paraeid=\"{14ee3302-3268-45d4-bc28-dc31c1caa29b}{158}\" paraid=\"1235863883\">The Farms to Forest Trail consists of two loops. Follow the green blazes tracing a 1-mile, self-guiding trail through an old farm area that has been reclaimed by the forest. At about the midpoint in the first loop, follow the yellow blazes for a 1.8-mile moderately strenuous extension that winds through a marshy area near Quantico Creek. If you are hiking in the early morning and early evening, keep an eye out- especially on the second loop of this trail – for birds, beavers, and other wildlife. </p> <p paraeid=\"{14ee3302-3268-45d4-bc28-dc31c1caa29b}{168}\" paraid=\"401415375\">Watch your step for tree stumps and slippery rocks. Check yourself periodically for ticks. Keep your pets on a leash and do not feed wildlife. Do not disturb or remove any plants, animals, or historic features. </p>",
-        "icon": "red-pin-down.png"
+        "icon": "trailhead"
       }
     },
     {
@@ -313,7 +313,7 @@
       "properties": {
         "name": "Piedmont Forest Trailhead",
         "notes": "Piedmont Forest Trailhead\nhttps://www.nps.gov/places/piedmont-forest-trailhead.htm\n\n<p paraeid=\"{39862d6d-380f-422b-b37e-e66e0cca41e0}{120}\" paraid=\"1410089201\">The Piedmont Forest Trail is a .2-mile loop that is wheelchair accessible with parking nearby. Follow the green blazes to immerse yourself in the mixed hardwood forest that once covered these rolling hills from New York to Alabama. Agricultural practices and development have destroyed most of these eastern woodlands. This national park protects the largest expanse of Piedmont Forest in the National Park System. </p> <p paraeid=\"{39862d6d-380f-422b-b37e-e66e0cca41e0}{126}\" paraid=\"206612662\"> </p> <p paraeid=\"{39862d6d-380f-422b-b37e-e66e0cca41e0}{130}\" paraid=\"1486779435\">Watch your step for tree stumps and slippery rocks. Check yourself periodically for ticks. Keep your pets on a leash and do not feed wildlife. Do not disturb or remove any plants, animals, or historic features. </p>",
-        "icon": "red-pin-down.png"
+        "icon": "trailhead"
       }
     },
     {
@@ -358,7 +358,7 @@
       "properties": {
         "name": "Pine Grove Trailhead",
         "notes": "Pine Grove Trailhead\nhttps://www.nps.gov/places/pine-grove-trailhead.htm\n\nThis trailhead provides access to the .2-mile Muschette trail, .5-mile South Orenda Road, and the 1.4-mile Laurel Trail Loop. The Pine Grove Picnic Pavilion and a playground are nearby if you’re looking for a place to eat and play before or after your hike.",
-        "icon": "red-pin-down.png"
+        "icon": "trailhead"
       }
     },
     {
@@ -448,7 +448,7 @@
       "properties": {
         "name": "The Crossing Trailhead",
         "notes": "The Crossing Trailhead\nhttps://www.nps.gov/places/the-crossing-trailhead.htm\n\nThe Crossing Trail is a .5-mile loop trail with the option of connecting to the Birch Bluff Trail. Follow the green blazes as this easy trail takes you along a portion of the historic north-south route used by American Indians and early settlers. Revolutionary War troops commanded by George Washington and the Comte de Rochambeau traveled this roadway on their way to Yorktown. The abandoned roadbed continues north as part of today’s Birch Bluff Trail, while the Crossing Trail winds back to the park road to your left.<br /> <br /> Watch your step for tree stumps and slippery rocks. Check yourself periodically for ticks. Keep your pets on a leash and do not feed wildlife. Do not disturb or remove any plants, animals, or historic features. ",
-        "icon": "red-pin-down.png"
+        "icon": "trailhead"
       }
     },
     {
@@ -478,7 +478,7 @@
       "properties": {
         "name": "Turkey Run Ridge Trailheads",
         "notes": "Turkey Run Ridge Trailheads\nhttps://www.nps.gov/places/turkey-run-ridge-trailheads.htm\n\n<p paraeid=\"{178c589d-95f7-46be-bdd4-ed4bde45f169}{92}\" paraid=\"523033850\">The day use parking lot provides access to Old Blacktop Road (a 1.6-mile hike and bike trail), Mary Bird Branch (a .5-mile hiking trail), and the Little Run Loop (a .6-mile loop). There is a group campground nearby that requires a permit. </p> <p paraeid=\"{17df5993-9343-4ef7-b274-995162893a95}{175}\" paraid=\"965931581\">Watch your step for tree stumps and slippery rocks. Check yourself periodically for ticks. Keep your pets on a leash and do not feed wildlife. Do not disturb or remove any plants, animals, or historic features.</p>",
-        "icon": "red-pin-down.png"
+        "icon": "trailhead"
       }
     },
     {

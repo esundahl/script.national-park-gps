@@ -43,7 +43,7 @@
       "properties": {
         "name": "Abbotts Bridge Unit Trailhead",
         "notes": "Abbotts Bridge Unit Trailhead\nhttps://www.nps.gov/places/abbotts-bridge-unit-trailhead.htm\n\n<p>The trailhead in the Abbotts Bridge Unit is located on the downstream side of the boat ramp. Stop by the Information Kiosk near the parking lot before starting down the trail.</p> <p>The trail follows the river downstream for about a mile ending at the soccer fields in the Scott Hudgens Park operated by the City of Duluth. The river bank is very steep along the trail providing no access to the river. However, due to the steep banks there are some scenic views of the river. In the early part of the trail are some very impressive oak trees.</p>",
-        "icon": "red-pin-down.png"
+        "icon": "trailhead"
       }
     },
     {
@@ -88,7 +88,7 @@
       "properties": {
         "name": "CRNRA Park Store",
         "notes": "CRNRA Park Store\nhttps://www.nps.gov/places/chattahoochee-river-national-recreation-area-park-store.htm\n\n<p>The park store is operated by <a href=\"https://americasnationalparks.org/\">America's National Parks</a>, an official non-profit partner of the National Park Service dedicated to supporting the educational mission of Chattahoochee River National Recreation Area. The park store has a wide range of educational products and services available for retail sale. These products complement the interpretive themes you experience when visiting the park. The park store is located at the Island Ford Visitor Center in the historic Hewlett Lodge, or you can visit the <a href=\"https://shop.americasnationalparks.org/store/\">online park store</a>.</p> <h3>Hours of Operation</h3> <p>Open Daily except December 25<br /> <strong>9:00 am - 5:00 pm</strong></p>",
-        "icon": "red-pin-down.png"
+        "icon": "market"
       }
     },
     {
@@ -148,7 +148,7 @@
       "properties": {
         "name": "Hewlett Lodge",
         "notes": "Hewlett Lodge\nhttps://www.nps.gov/places/hewlett-lodge.htm\n\nListed on the National Register of Historic Places, Hewlett Lodge was originally built in the 1930’s as a summer home for Georgia Supreme Court Justice Samuel Hewlett. The Lodge later served as both a country club and a camp center before being acquired by the National Park Service in 1979. ",
-        "icon": "red-pin-down.png"
+        "icon": "shelter"
       }
     },
     {
@@ -193,7 +193,7 @@
       "properties": {
         "name": "Island Ford Unit - Hewlett Lodge Trailhead",
         "notes": "Island Ford Unit - Hewlett Lodge Trailhead\nhttps://www.nps.gov/places/island-ford-hewlett-lodge-trailhead.htm\n\n<p>This trailhead is located on the north end of historic Hewlett Lodge near the informational kiosk. Following the paved trail with the brown handrail you will pass by the lodge and come to two trail junctions.</p> <p>At the first trail junction you will see a patio area behind the lodge with several Adirondack chairs and a picnic table.</p> <p>A short distance further down the paved trail you will come to the second trail junction. Following the trail to your left you will descend several steps arriving shortly at a wood shelter with a large stone fire place. Continue on the trail past the shelter down more steps to arrive on the bank of a stream and eventually the riverside trail.</p> <p>Continue straight on the paved path to Hewlett Field. As you approach the edge of the field you pass by several picnic tables and a trail junction with a riverside trail. On the west end of the field is a launch for small watercraft.</p>",
-        "icon": "red-pin-down.png"
+        "icon": "trailhead"
       }
     },
     {
@@ -388,7 +388,7 @@
       "properties": {
         "name": "Palisades Overlook",
         "notes": "Palisades Overlook\nhttps://www.nps.gov/places/palisades-overlook-place.htm\n\n<p>Located in the East Palisades Unit between trail markers EP10 and EP14, Indian Trail overlook offers stunning views of river rapids below and the Atlanta skyline in the distance. The overlook has benches so you can sit, relax and enjoy the view of the Devils Race Course Shoals below and the metro Atlanta skyline above. So, take a seat, enjoy the view, then follow the trail on down to walk along the Chattahoochee. </p>",
-        "icon": "red-pin-down.png"
+        "icon": "binoculars"
       }
     },
     {

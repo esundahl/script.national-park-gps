@@ -148,7 +148,7 @@
       "properties": {
         "name": "Filene Center Loop picnic area",
         "notes": "Filene Center Loop picnic area\nhttps://www.nps.gov/places/000/filene-center-loop-picnic-area.htm\n\n<p>In 2012, park staff converted the maintained grass turf (approximately one acre) at the \"dimple\" near the Filene Center's main gate into a garden meadow of native plants. The main goal of the project was to \"demonstrate that Wolf Trap National Park for the Performing Arts is serious about natural resource management and was willing to take bold steps to show that it was prepared to be a leader in the community as well as the National Park Service.\" This meadow of native plants creates habitat for insects, birds and other animals; reduces stormwater runoff; reduces our carbon footprint as a no mow zone; provides educational opportunities for visitors; serves as a model for use of sustainable landscape techniques; it enhances the visitor experience and natural beauty of the park; and it helps maintain the pastoral setting that Mrs. Shouse envisioned.</p>",
-        "icon": "red-pin-down.png"
+        "icon": "picnic"
       }
     },
     {
@@ -343,7 +343,7 @@
       "properties": {
         "name": "Picnic Area & Restroom",
         "notes": "Picnic Area & Restroom\nhttps://www.nps.gov/places/000/wolf-trap-picnic-tables-restroom.htm\n\nPicnic tables are throughout the Meadow and are available on a first come first served basis. The Meadow Restroom is open seasonally.",
-        "icon": "red-pin-down.png"
+        "icon": "toilets"
       }
     },
     {
@@ -358,7 +358,7 @@
       "properties": {
         "name": "Picnic Area - near Barn",
         "notes": "Picnic Area - near Barn\nhttps://www.nps.gov/places/000/wolf-trap-picnic-tables-1.htm\n\n<p>Picnic tables are available on a first-come, first-served basis and are available throughout the park, and most tables are located in partly-shaded areas.</p>",
-        "icon": "red-pin-down.png"
+        "icon": "picnic"
       }
     },
     {

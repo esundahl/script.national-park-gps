@@ -103,7 +103,7 @@
       "properties": {
         "name": "Chatham Parking",
         "notes": "Chatham Parking\nhttps://www.nps.gov/places/chatham-parking.htm\n\n<p>Atop Stafford Heights, over 250 years of history blend with the present at Chatham. Constructed in 1771, Chatham witnessed the horrors of slavery, the establishment of the United States, conflict surrounding the institution of slavery and Civil War, Reconstruction, Colonial Revivalism and today, the continued struggle to come to terms with the country’s past. Its perch made it a desirable location for the US Army to use as a headquarters for the Battle of Fredericksburg. Its proximity to the river crossing made it a convenient hospital for wounded soldiers.<br />  </p> <h2>While you're here...</h2> <p>Visit the <a href=\"https://www.nps.gov/frsp/planyourvisit/hours.htm\">Operating Hours & Seasons</a> page for open hours.</p> <h4><br /> Visit the Chatham House</h4> <p>The first floor of Chatham is organized as a museum. It is not set up like a traditional historic house with furnished rooms. Instead, Chatham is set up as with exhibits, including a 12-minute film that plays on demand.<br />  </p> <h4>Explore the Grounds</h4> <p>Walk through the peaceful 1920s gardens, look out over the city of Fredericksburg or contemplate the many lives that toiled here or died here.<br />  </p> <h4>Go on a Ranger Program</h4> <p>During our summer season on Saturdays and Sundays, join a Ranger to learn about the history of Chatham. View the <a href=\"https://www.nps.gov/frsp/planyourvisit/calendar.htm\">Calendar</a> to see if there are any programs scheduled during your visit.<br />  </p> <h4>Learn More about Chatham</h4> Visit the <a href=\"https://www.nps.gov/frsp/learn/historyculture/chatham.htm\">Chatham</a> page on the park website to learn more about Chatham's history and watch the 12-minute Chatham film. ",
-        "icon": "red-pin-down.png"
+        "icon": "parking"
       }
     },
     {
@@ -268,7 +268,7 @@
       "properties": {
         "name": "Fredericksburg Park Store",
         "notes": "Fredericksburg Park Store\nhttps://www.nps.gov/places/fredericksburg-park-store.htm\n\nVisit the Fredericksburg Park Store, managed by America's National Parks, for books, gifts, souvenirs, and information about the Battle of Fredericksburg.<br /> <br /> Visit the <a href=\"https://www.nps.gov/frsp/learn/en.htm\">Park Stores</a> page on the website to learn more!",
-        "icon": "red-pin-down.png"
+        "icon": "market"
       }
     },
     {
@@ -688,7 +688,7 @@
       "properties": {
         "name": "Superintendent's Lodge",
         "notes": "Superintendent's Lodge\nhttps://www.nps.gov/places/superintendents-lodge.htm\n\n<strong>This building is not open to the public. </strong><br /> <br /> Within the National Cemetery system, certain features became standardized. One of those was the superintendents’ lodges. These buildings all replicate a style known as the “federal style” that mirrored the design of the War Department building in Washington, D.C. In later years, cemetery superintendents placed plaques featuring the Gettysburg Address on their quarters. You can still see that plaque at the Superintendent's Lodge in the Fredericksburg National Cemetery today.",
-        "icon": "red-pin-down.png"
+        "icon": "shelter"
       }
     },
     {

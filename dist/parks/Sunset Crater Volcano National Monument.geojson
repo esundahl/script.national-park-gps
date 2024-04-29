@@ -13,7 +13,7 @@
       "properties": {
         "name": "A'a Overlook",
         "notes": "A'a Overlook\nhttps://www.nps.gov/places/a-a-overlook.htm\n\nThe A'a Overlook has views of the Bonito Lava Flow and A'a Trail below.",
-        "icon": "red-pin-down.png"
+        "icon": "binoculars"
       }
     },
     {
@@ -28,7 +28,7 @@
       "properties": {
         "name": "Cinder Hills Overlook",
         "notes": "Cinder Hills Overlook\nhttps://www.nps.gov/places/cinder-hills-overlook.htm\n\nThe Cinder Hills Overlook provides spectacular views of  Sunset Crater Volcano and additional cinder hills within the San Francisco Volcanic Field. You can park along the overlook loop road, enjoy the view, take a moment, and snap some photos. This is also an excellent spot for bird watching and observing wildlife. No trails are accessible from this location but hiking opportunities are available nearby at the Lava Flow Trail and within the Coconino National Forest.<br /> <br /> The overlook is located near the boundaries of Sunset Crater Volcano National Monument, managed by the National Park Service (NPS) and Coconino National Forest, managed by the US Forest Service (USFS). These agencies have different land management policies which determine visitor use and access. You may see off-road vehicles or people camping in nearby areas. <br /> <br /> NPS preserves natural and cultural resources and values, protects them for future generations, and provides opportunities for research, education, and discovery. This means resources are preserved and protected in their natural or historical state. Visitors hike on designated trails or within specified boundaries, leaving other areas closed to visitation to protect fragile environments. <br /> <br /> USFS cares for the land and serves the people, maintaining the health, diversity and productivity of the nation’s forests and grasslands through sustainable multiple-use policies. Off-highway vehicles, hunting, wood cutting, and dispersed camping are activities allowed in some USFS areas but prohibited throughout the national monument.  <br /> <br /> Both land management agencies provide meaningful recreational opportunities while protecting natural and cultural resources. <br /> <br /> Thank you for following agency policies and treating these lands with respect. Land managers study the effects of both natural processes and human impacts across agency boundaries, adjusting access and use to protect resources. How we collectively interact with the landscape directly affects recreation for present and future generations. <br /> <br />  ",
-        "icon": "red-pin-down.png"
+        "icon": "binoculars"
       }
     },
     {
@@ -43,7 +43,7 @@
       "properties": {
         "name": "Lava Flow Trail Amphitheater",
         "notes": "Lava Flow Trail Amphitheater\nhttps://www.nps.gov/places/lava-flow-trail-amphitheater.htm\n\nThe Lava Flow Trail Amphitheater is located a few hundred feet from the Lava Flow parking lot along a paved accessible trail. This is a great place to enjoy scenic views of Sunset Crater Volcano and the surrounding geology. Visit here on a clear night for spectacular views of starry skies. ",
-        "icon": "red-pin-down.png"
+        "icon": ""
       }
     },
     {
@@ -58,7 +58,7 @@
       "properties": {
         "name": "Lava Flow Trail Picnic Area",
         "notes": "Lava Flow Trail Picnic Area\nhttps://www.nps.gov/places/lava-flow-trail-picnic-area.htm\n\nFive picnic tables around the Lava Flow Trail parking lot offer a place to eat lunch, a quick snack, or just take a break under the shade of ponderosa pine trees. This picnic area is open every day year-round with nearby trash cans, an accessible composting toilet, and information signs about trails in the area. Thank you for helping us keep the park clean and protecting wildlife by cleaning up all food and trash after eating. ",
-        "icon": "red-pin-down.png"
+        "icon": "picnic"
       }
     },
     {
@@ -73,7 +73,7 @@
       "properties": {
         "name": "Sunset Crater Volcano Visitor Center Picnic Area",
         "notes": "Sunset Crater Volcano Visitor Center Picnic Area\nhttps://www.nps.gov/places/sunset-crater-volcano-visitor-center-picnic-area.htm\n\nEnjoy a picnic next to the visitor center surrounded by ponderosa pine trees, chirping birds, and scampering squirrels. This picnic area is open every day, year-round, even when the visitor center is closed. Shade may be available depending on the time of day. Restrooms and trash cans are located nearby. Thank you for helping us keep the park clean and protecting wildlife by picking up all food and trash after eating. ",
-        "icon": "red-pin-down.png"
+        "icon": "picnic"
       }
     }
   ]

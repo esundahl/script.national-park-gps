@@ -73,7 +73,7 @@
       "properties": {
         "name": "Appalachian Trail Trailhead at The Point",
         "notes": "Appalachian Trail Trailhead at The Point\nhttps://www.nps.gov/places/000/appalachian-trail-trailhead-at-the-point.htm\n\n<p>One of the most well-known hikes in the United States, this trail runs through Harpers Ferry and visitors can hike a portion of it! This sign at The Point can help direct guests and get them started on this famous trail.</p>",
-        "icon": "red-pin-down.png"
+        "icon": "trailhead"
       }
     },
     {
@@ -268,7 +268,7 @@
       "properties": {
         "name": "Cavalier Heights Picnic Area",
         "notes": "Cavalier Heights Picnic Area\nhttps://www.nps.gov/places/cavalier-heights-picnic-area.htm\n\n<p>Picnicking is available at Harpers Ferry National Historical Park in this designated picnic area adjacent to the Visitor Center parking lot. Its location by the parking lot provides ample parking for vehicles and buses.<br /> <br /> The picnic area includes 14 tables in a mostly shaded area. Restroom facilities are available at the Visitor Center plaza.</p> <ul> <li>Picnic tables are available on a first-come, first-served basis.</li> <li>Please remember to clean your area, including the ground area the table, after each use.</li> <li>Remember to follow the <a href=\"https://www.nps.gov/hafe/planyourvisit/trashfreepark.htm\">park’s trash-free rules</a>: please be prepared to dispose of your trash and recycling properly by carrying it out of the park when you leave.</li> <li>No alcohol or fires of any kind are allowed in the park.</li> </ul>",
-        "icon": "red-pin-down.png"
+        "icon": "picnic"
       }
     },
     {
@@ -343,7 +343,7 @@
       "properties": {
         "name": "Dry Goods Store",
         "notes": "Dry Goods Store\nhttps://www.nps.gov/places/000/dry-goods-store.htm\n\n<p>Step through the doors of this exhibit and be taken back in time to an 1860s store where you could buy anything from cloth and hats to spices and household items. When the exhibit is staffed, take the time to learn about the time period by chatting with the person in the store.</p>",
-        "icon": "red-pin-down.png"
+        "icon": "market"
       }
     },
     {
@@ -433,7 +433,7 @@
       "properties": {
         "name": "Harpers Ferry Historic Town Trailhead",
         "notes": "Harpers Ferry Historic Town Trailhead\nhttps://www.nps.gov/places/000/harpers-ferry-historic-town-trailhead.htm\n\nThis trailhead leads the way from the Appalachian National Scenic Trail into Harpers Ferry's historic Lower Town.",
-        "icon": "red-pin-down.png"
+        "icon": "trailhead"
       }
     },
     {
@@ -868,7 +868,7 @@
       "properties": {
         "name": "Information Panel: Civil War Campgrounds",
         "notes": "Information Panel: Civil War Campgrounds\nhttps://www.nps.gov/places/000/information-panel-civil-war-campgrounds.htm\n\n<p>For more than three years - May 1862 through July 1865 - Union soldiers lived, worked, and played on Maryland Heights. They built numerous campgrounds on this inhospitable mountain that lacked water, level ground, or adequate sanitation conditions.<br /> <br /> The stone walls, visible across this plateau, perhaps marked a camp boundary; they may simply be rock mounds piled by soldiers while clearing a camp site. As soon as you continue along the trail, look for clues of encampments such as stone foundations and ground depressions.<br /> <br /> A soldier's quarters could vary greatly, from primitive canopies and tents to elaborate log cabins. Whatever the style, all quarters on the Heights were built to protect the soldier from the weather - a nearly impossible task.<br /> <br /> \"After a varied experience of wind, snow, sleet, hail, rain, and mud, the men came to the conclusion that it was nowhere else than up here among these mountains that the weather was made and tried on.\" Joseph Kirkley, 7th Maryland Infantry<br /> <br /> Photo Caption: Sibley tents, often adjusted to suit the soldiers' needs, served as the basic shelter for infantry regiments. \"The boys have raised the tent about 2 feet with logs and put the tent on top. The cracks they will plaster shut and then we can keep warm.\" William J. Reichard, October 1862, 128th Pennsylvania Volunteer Infantry<br /> <br /> Photo Caption: Heavy Artillery units, assigned to specific fortifications, resided in huts or cabins weathered to withstand the harsh winters. This 1864 charcoal drawing of a Signal Corps campground reflects the elaborate quarters built on Maryland Heights.<br /> <br /> \"Our little group of five built our cabin on the bow of a hill, we dug down about three feet and leveled a space about eight by ten feet, the sides were built with logs and the chinks filled with clay; the roof was laid with saplings covered with the earth which we dug while leveling the space. We made a stove out of a piece of heavy sheet iron, picked up in the ruins of the old arsenal at Harpers Ferry...\" Frederick Wild, 1862, Baltimore Battery of Light Artillery</p>",
-        "icon": "red-pin-down.png"
+        "icon": "shelter"
       }
     },
     {
@@ -1573,7 +1573,7 @@
       "properties": {
         "name": "Information Panel: Jefferson Rock Trailhead",
         "notes": "Information Panel: Jefferson Rock Trailhead\nhttps://www.nps.gov/places/000/jefferson-rock-trailhead.htm\n\nYou are standing on the 2,176-mile Appalachian National Scenic trail (A.T.). Every year hundreds of A.T. hikers travel through Harpers Ferry on their trek to Maine to Georgia. Join them by following the white blazes that mark the trail.",
-        "icon": "red-pin-down.png"
+        "icon": "trailhead"
       }
     },
     {
@@ -1903,7 +1903,7 @@
       "properties": {
         "name": "Information Panel: Schoolhouse Ridge North Trailhead",
         "notes": "Information Panel: Schoolhouse Ridge North Trailhead\nhttps://www.nps.gov/places/000/schoolhouse-ridge-north-trailhead.htm\n\nThis moderate 2.1 mile round-trip hike offers a stroll over rolling hills through farm fields. Hikers will see the terrain from the confederate perspective of 1862, views of Bolivar Heights, Maryland Heights and Civil War cannons.",
-        "icon": "red-pin-down.png"
+        "icon": "trailhead"
       }
     },
     {
@@ -2263,7 +2263,7 @@
       "properties": {
         "name": "Information Panel: The Union Skirmish Line Trail",
         "notes": "Information Panel: The Union Skirmish Line Trail\nhttps://www.nps.gov/places/000/the-union-skirmish-line-trail.htm\n\n ",
-        "icon": "red-pin-down.png"
+        "icon": "known-route"
       }
     },
     {
@@ -2518,7 +2518,7 @@
       "properties": {
         "name": "Loudoun Heights Trailhead",
         "notes": "Loudoun Heights Trailhead\nhttps://www.nps.gov/places/000/loudoun-heights-trailhead.htm\n\nYou are standing on the 2,176-mile Appalachian national Scenic Trail (A.T.). Every year hundreds of A.T. hikers travel through Harpers Ferry on their trek to Maine or Georgia. Join them by following the white blazes that mark the trail. Look for while blazes – 2” x 6” rectangles – painted on posts and trees throughout the park.",
-        "icon": "red-pin-down.png"
+        "icon": "trailhead"
       }
     },
     {
@@ -2593,7 +2593,7 @@
       "properties": {
         "name": "Mennen's Toilet Powder Sign",
         "notes": "Mennen's Toilet Powder Sign\nhttps://www.nps.gov/places/000/mennens-toilet-powder-sign.htm\n\n<h4>What Does the Sign Say?</h4> <p>The faded painting on the face of Maryland Heights was an early 1900s advertisement aimed at passengers on the B&O Railroad, which was a heavily traveled rail line. It read <strong>Mennen’s Borated Talcum Toilet Powder</strong>.</p> <h4>Origins of the Sign</h4> <p>From the establishment of the town in the 1700s through today, this landscape has been exploited for business. From her house on High Street in 1906, Clara Riley watched as sign painters created a huge advertisement, out of a milk and whitewash mixture, on the side of the mountain. Mrs. Riley remembered the year because she was in labor with her first child while the sign was being painted.<br /> <br /> In the late 19th and early 20th centuries, painting advertisements on brick buildings and stone cliffs was very popular. Although the Mennen’s powder sign may have been the largest in the area, it was not alone (The wall around the famous John Brown Fort advertised liver pills). As transportation shifted to roads and automobiles, advertisements moved to billboards and highways.</p> <h4>Maintaining the Sign</h4> <p>In May of 1963, the Potomac Appalachian Trail Club (PATC) attempted to hide the sign at the request of Park Superintendent Joseph Prentice. Prentice said that looking at the sign was “like looking across the Grand Canyon and seeing a Coca-Cola sign.”<br /> <br /> The PATC and the superintendent were not the only ones who disliked the sign. Many local residents believed it to be a “desecration of nature.”<br /> <br /> Eager to eradicate the sign, PATC volunteers scaled the cliff and attacked the old sign with paint remover and carbon black. However, only four years later the sign was visible once again and has since been left alone.</p>",
-        "icon": "red-pin-down.png"
+        "icon": "information"
       }
     },
     {
@@ -2683,7 +2683,7 @@
       "properties": {
         "name": "Murphy Farm Trailhead",
         "notes": "Murphy Farm Trailhead\nhttps://www.nps.gov/places/000/murphy-farm-trailhead.htm\n\n<p>Begin your hike here for the Murphy-Chambers Farm Trail. This hike is considered an easy to moderate, 1 or 3 miles round trip if you hike the side trails. This hike can take anywhere from 30 minutes to 2 hours and includes wayside exhibits, scenic overviews and historic ruins.<br />  </p>",
-        "icon": "red-pin-down.png"
+        "icon": "trailhead"
       }
     },
     {
@@ -2863,7 +2863,7 @@
       "properties": {
         "name": "Prospects of Peace 1864 Tour: Dry Goods Store",
         "notes": "Prospects of Peace 1864 Tour: Dry Goods Store\nhttps://www.nps.gov/places/dry-goods-store.htm\n\n<p paraeid=\"{7bbeab00-d81d-4396-a19b-7dc140bd4f83}{18}\" paraid=\"1370797801\">The military regulated all goods to ensure fairness in quantity and price. They licensed, regulated, and operated businesses to prevent hoarding and trading with the enemy and evading taxes. Treasury agents enforced tax regulations. People attempting to cross the Potomac from enemy territory of Loudoun County were supposed to go to Berlin, Maryland, ordered to take the oath, and remarkably, deal with U.S. Customs to carry on business. All military activities, and shopping, were under the authority of the Post Commander, General Stevenson.  </p> <p paraeid=\"{7bbeab00-d81d-4396-a19b-7dc140bd4f83}{42}\" paraid=\"1055655830\">During the war time Yuletide, the stores catered to soldiers and citizens who hoped that Santa would once again visit their hearths to leave presents for the children. Aimed at children and their parents, a December 1864 newspaper story called “Santa Claus Visits the New York Herald Newspaper Office ” allowed Santa to speak to the editor and comment on what the war had done to Americans and assert the joy that toys could bring to children: “No prima donna sings so deliciously as a little girl putting her doll to sleep…you ask… if I am as busy as ever this year. Busier, sir, busier! There are so many soldier’s children to look after, and alas! so many orphans. To these I am unusually tender, and it is the duty of every man to assist me. Ah, the brave old Christmas times in the South are over until the war is over. The hearthstones are desolate. Children who ought to be playing with popguns are shouldering real muskets in the rebel armies. Oh, sir, it would make you heart bleed if I could tell you of the scenes I have witnessed in Southern homes during the past four years. They were dreadful, dreadful. Merry old man as I am it saddens me to think of them. I went South as long as I could. I kept green the memory of Santa Claus in their hearts for three martial years. But now I find myself shut out by the blockades at every point, and this Christmas they must do without me. Let us hope...that before another Christmas comes round there will be a reunited Union, a permanent peace, and a Santa Claus for all the children.” </p>",
-        "icon": "red-pin-down.png"
+        "icon": "market"
       }
     },
     {
@@ -3013,7 +3013,7 @@
       "properties": {
         "name": "Restrooms",
         "notes": "Restrooms\nhttps://www.nps.gov/places/000/restrooms.htm\n\n<p>Visitors to the town can find public restrooms located under the large orange sign labeled \"Bakery\" on Shenandoah Street. </p>",
-        "icon": "red-pin-down.png"
+        "icon": "toilets"
       }
     },
     {

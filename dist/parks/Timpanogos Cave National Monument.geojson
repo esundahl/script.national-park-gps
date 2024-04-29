@@ -253,7 +253,7 @@
       "properties": {
         "name": "River View Picnic Area",
         "notes": "River View Picnic Area\nhttps://www.nps.gov/places/river-view-picnic-area.htm\n\nThe River View Picnic area features four picnic tables, a small natural play area, a water fountain, a dog bowl filling station, a small amphitheatre and a step stone trail leading down to the river. <br /> <br /> Please be aware of your childrens safety at all times, the river can be rapid and dangerous. <br /> <br /> There are no bathrooms in this picnic area. ",
-        "icon": "red-pin-down.png"
+        "icon": "picnic"
       }
     },
     {
@@ -268,7 +268,7 @@
       "properties": {
         "name": "Swinging Bridge Picnic Area",
         "notes": "Swinging Bridge Picnic Area\nhttps://www.nps.gov/places/swinging-bridge-picnic-area.htm\n\nEnjoy a picnic at one of the many picnic sites at Swinging Bridge. Although the swinging bridge was replaced long ago, there are still a dozen beautiful picnic areas with tables, fire rings, and grills. <br /> <br /> The picnic area is just north of the American Fork River, make sure to watch kids carefully as the river can be fast and fierce. <br /> <br /> The east end of the picnic area connects to the Canyon Nature Trail which is a quarter-mile, one way trail that ends near the vistior center.<br /> <br /> There are several garbage cans and recycling bins located throughout the the area, make sure that you leave no trace when you're packing up!<br /> <br /> Bathrooms and parking lots are open seasonally.",
-        "icon": "red-pin-down.png"
+        "icon": "picnic"
       }
     },
     {
@@ -283,7 +283,7 @@
       "properties": {
         "name": "Timpanogos Cave Book Store",
         "notes": "Timpanogos Cave Book Store\nhttps://www.nps.gov/places/timpanogos-cave-book-store.htm\n\n<p data-ogsc=\"windowtext\">The park store is operated by <a href=\"https://www.wnpa.org/\">Western National Parks Association</a>, an official non-profit partner of the National Park Service dedicated to supporting the educational mission of Timpanogos Cave National Monument. The park store has a wide range of books, media, educational resources,, and other items available for retail sale. These products complement the interpretive themes you experience when visiting the park. The park store is located at the visitor center, or you can <a href=\"https://store.wnpa.org/park-stores/timpanogos-cave-national-monument.html\">visit the online park store.</a></p> <p data-ogsc=\"windowtext\"> </p>",
-        "icon": "red-pin-down.png"
+        "icon": "market"
       }
     }
   ]

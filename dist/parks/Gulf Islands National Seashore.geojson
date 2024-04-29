@@ -118,7 +118,7 @@
       "properties": {
         "name": "Andrew Jackson Trail",
         "notes": "Andrew Jackson Trail\nhttps://www.nps.gov/places/andrew-jackson-trail.htm\n\nThis trail bisects the northern section of the <a href=\"https://www.nps.gov/guis/planyourvisit/naval-live-oaks-area.htm\">Naval Live Oaks area</a>, and can be started from several trailheads. It is wide and sandy, features varying types of coastal forest from pines to oaks, and hosts many side trails if visitors wish to extend their hike or see the bay. <br /> <br /> If completed as an out-and-back trail, the total distance is 4.8 miles, or 2.4 miles one way. From the Group Camp site to Bayshore Road is 1.4 miles. Dogs and horses are allowed on the trail. <br /> <br /> <b>Trailhead locations:</b> <ul> <li>Intersection with Group Camp (North Bay) Trail</li> <li>Adjacent to Naval Live Oaks Group Camping site</li> <li>Northwest of the Gulf Breeze Hospital</li> <li>Bayshore Road, just north of Highway 98</li> </ul> <p><strong>Duration: </strong>1.5-2.5 hours</p>",
-        "icon": "red-pin-down.png"
+        "icon": "known-route"
       }
     },
     {
@@ -313,7 +313,7 @@
       "properties": {
         "name": "Battery Worth Picnic Area",
         "notes": "Battery Worth Picnic Area\nhttps://www.nps.gov/places/000/battery-worth-picnic-area.htm\n\n<p>Located on the sound side of the Fort Pickens Area, this picnic spot features several picnic tables under shade trees.<br /> <br /> Access to the Florida National Scenic Trail, Battery Worth, and restrooms with drinking water are nearby.</p>",
-        "icon": "red-pin-down.png"
+        "icon": "picnic"
       }
     },
     {
@@ -343,7 +343,7 @@
       "properties": {
         "name": "Beach Access 15A",
         "notes": "Beach Access 15A\nhttps://www.nps.gov/places/000/beach-access-15a.htm\n\n<p>Beach conditions: 850-932-7873<br /> Emergencies: 9-1-1<br /> <br /> This beach access point is located on the Gulf-side of Fort Pickens Area in Florida. This area consists of the westernmost eight miles of Santa Rosa Island. The boardwalk leads away from the parking area through patchy dune grasses to provide access to Langdon Beach. This beach is great for activities such as swimming, wildlife viewing, fishing, beach-combing and more. Limited parking is available across the street at the <a href=\"https://www.nps.gov/guis/planyourvisit/fort-pickens-tram-service.htm\">Tram Stop 2</a> lot. <br /> <br /> <br />  </p>",
-        "icon": "red-pin-down.png"
+        "icon": "swimming"
       }
     },
     {
@@ -358,7 +358,7 @@
       "properties": {
         "name": "Beach Access 15B",
         "notes": "Beach Access 15B\nhttps://www.nps.gov/places/000/beach-access-15b.htm\n\n<p>Beach conditions: 850-932-7873<br /> Emergencies: 911<br /> <br /> This beach access point is located on the Gulf-side of Fort Pickens Area in Florida. This area consists of the westernmost eight miles of Santa Rosa Island. The boardwalk leads through patchy dune grasses to provide access to Langdon Beach and the Dune Nature Trail. This beach is great for activities such as swimming, wildlife viewing, fishing, beach-combing and more. Limited parking is available at this access point, do not park in the campground. Please stay off of the dunes and out of shorebird enclosures. <br />  </p>",
-        "icon": "red-pin-down.png"
+        "icon": "swimming"
       }
     },
     {
@@ -373,7 +373,7 @@
       "properties": {
         "name": "Beach Access 17A",
         "notes": "Beach Access 17A\nhttps://www.nps.gov/places/000/beach-access-17a.htm\n\n<p>Beach conditions: 850-932-7873<br /> Emergencies: 911<br /> <br /> The second beach access on the Gulf-side you come across after entering the Fort Pickens Area in Florida. This area consists of the westernmost eight miles of Santa Rosa Island. This beach is great for activities such as swimming, wildlife viewing, fishing, beach-combing and more. Limited parking is available at this access point vehicles only, no RVs or campers. Please stay off of the dunes and out of shorebird enclosures. <br /> <br />  </p>",
-        "icon": "red-pin-down.png"
+        "icon": "swimming"
       }
     },
     {
@@ -388,7 +388,7 @@
       "properties": {
         "name": "Beach Access 19A",
         "notes": "Beach Access 19A\nhttps://www.nps.gov/places/000/beach-access-19a.htm\n\n<p>Beach conditions: 850-932-7873<br /> Emergencies: 911<br /> <br /> The first beach access on the Gulf-side you come across after entering the Fort Pickens Area in Florida. This area consists of the westernmost eight miles of Santa Rosa Island. This beach is great for activities such as swimming, wildlife viewing, fishing, beach-combing and more. Limited parking is available at this access point vehicles only, no RVs or campers. Please stay off of the dunes and out of shorebird enclosures. <br />  </p>",
-        "icon": "red-pin-down.png"
+        "icon": "swimming"
       }
     },
     {
@@ -403,7 +403,7 @@
       "properties": {
         "name": "Beach Access 32A",
         "notes": "Beach Access 32A\nhttps://www.nps.gov/places/000/beach-access-32a.htm\n\n<p>Only a stretch of bare white sand lies between the parking area and the beach. This beach access point is located on the Gulf of Mexico side of Opal Beach and provides access for swimming, wading, fishing, and beach-combing. There are no restrooms, beach showers, or water fountains at this access point.<br /> <br /> Know Before You Go:<br /> <br /> Beach conditions: 850-932-7873<br /> Emergencies: 911<br /> <br /> - Stay off of the dunes and out of shorebird enclosures<br /> - Camping and overnight parking is not permitted<br /> - Pets, glass, and driving are not permitted on beach<br /> <br /> <br />  </p>",
-        "icon": "red-pin-down.png"
+        "icon": "swimming"
       }
     },
     {
@@ -418,7 +418,7 @@
       "properties": {
         "name": "Beach Access 33A",
         "notes": "Beach Access 33A\nhttps://www.nps.gov/places/000/beach-access-33a.htm\n\n<p>Beach conditions: 850-932-7873<br />Emergencies: 911<br /><br />This beach access point is located on the Gulf-side and provides access for swimming, wading, fishing, beach-combing and more. Park in designated spaces only, roadside parking is not permitted. There are no restrooms, beach showers, or water fountains at this access point.<br /><br />Please stay off of the dunes and out of shorebird enclosures. Camping and overnight parking is not permitted. Pets, glass, and driving are not permitted on beach.<br /><br /> <b>Marine Debris Kills</b> Many animals including birds and turtles die when they become entangled in nets and fishing lines or ingest plastic trash.<br /><br /> <b>Rip Currents Kill</b> Rip currents commonly form after storms. If you are caught in a rip current, stay calm. Do not try to swim against the current. Swim right or left to escape the flow.<br /><br /> <b>Beach Safety</b> In just a few minutes a wonderful day at the beach can turn into a disaster. Visit our <a href=\"https://www.nps.gov/guis/planyourvisit/safety.htm\">Safety web page</a> for more information.<br /><br /> <a href=\"https://myescambia.com/pensacola-beach/pensacola-beach-lifeguards\"> <b>Beach Safety Flags</b> </a> <br />Two Red Flags: Water Closed to Public Highly dangerous surf and/or strong currents. <br />Single Red Flag: High Hazard. High surf and/or strong currents. <br />Yellow Flag: Medium Hazard. Moderate surf and/or currents. <br />Green Flag: Low Hazard. Calm conditions, exercise caution.<br />Purple Flag: Dangerous Marine Life. Stinging organisms or sharks.</p>",
-        "icon": "red-pin-down.png"
+        "icon": "swimming"
       }
     },
     {
@@ -433,7 +433,7 @@
       "properties": {
         "name": "Beach Access 36A",
         "notes": "Beach Access 36A\nhttps://www.nps.gov/places/000/beach-access-36a.htm\n\n<p>Only a stretch of bare white sand lies between the parking area and the beach. This beach access point is located on the Gulf of Mexico side of Opal Beach and provides access for swimming, wading, fishing, and beach-combing. There are no restrooms, beach showers, or water fountains at this access point.<br /> <br /> Know Before You Go:<br /> <br /> Beach conditions: 850-932-7873<br /> Emergencies: 911<br /> <br /> - Stay off of the dunes and out of shorebird enclosures<br /> - Camping and overnight parking is not permitted<br /> - Pets, glass, and driving are not permitted on beach<br /> <br />  </p>",
-        "icon": "red-pin-down.png"
+        "icon": "swimming"
       }
     },
     {
@@ -448,7 +448,7 @@
       "properties": {
         "name": "Beaver Pond Trail",
         "notes": "Beaver Pond Trail\nhttps://www.nps.gov/places/beaver-pond-trail.htm\n\nThis 1.3 mile trail intersects with the Old Borrow Pit, Brown's Pond, and North South, and Pine Scrub Trails in the Naval Live Oaks area. It can be accessed from multiple points on Reservation Road, but parking is extremely limited as the area is residential. If completed as an out-and-back trail, the total length is 2.6 miles.<br /> <br /> The Beaver Pond Trail traverses through several plant communities typical of southeastern forests. A beaver dam can be seen at the northern end of the trail. <p><br /> <strong>Duration: </strong>1-2 hours</p>",
-        "icon": "red-pin-down.png"
+        "icon": "known-route"
       }
     },
     {
@@ -478,7 +478,7 @@
       "properties": {
         "name": "Blackbird Marsh North Trailhead",
         "notes": "Blackbird Marsh North Trailhead\nhttps://www.nps.gov/places/000/blackbird-marsh-north-trailhead.htm\n\n<p>At this point, you can turn left or right to begin the 0.44-mile self-guiding trail that winds along the edges of Blackbird Marsh. Exhibits along the trail identify and describe various plants that live in this habitat.</p>",
-        "icon": "red-pin-down.png"
+        "icon": "trailhead"
       }
     },
     {
@@ -493,7 +493,7 @@
       "properties": {
         "name": "Blackbird Marsh South Trailhead",
         "notes": "Blackbird Marsh South Trailhead\nhttps://www.nps.gov/places/000/blackbird-marsh-south-trailhead.htm\n\n<p>At this point, you can turn left or right to begin the 0.44-mile self-guiding trail that winds along the edges of Blackbird Marsh. Exhibits along the trail identify and describe various plants that live in this habitat.</p>",
-        "icon": "red-pin-down.png"
+        "icon": "trailhead"
       }
     },
     {
@@ -508,7 +508,7 @@
       "properties": {
         "name": "Blackbird Marsh Trail",
         "notes": "Blackbird Marsh Trail\nhttps://www.nps.gov/places/000/blackbird-marsh-trail.htm\n\n<p>This flat, sandy trail is 0.44 miles total, with resting points and interpretive markers where birds and other wildlife may be observed. <br /> <br /> Visitors may begin the Blackbird Marsh Trail about 160 yards from Loop A at the Fort Pickens campground. There is only one parking spot at the trailhead, additional parking is available at the restroom facility. <br /> <br /> The Blackbird Marsh Trail also connects to the <a href=\"https://www.fs.usda.gov/fnst\">Florida National Scenic Trail </a> and social trails leading to Pensacola Bay. <br /> <br /> <strong>Trailhead Locations:</strong></p> <ul> <li>Fort Pickens Campground Loop A, north side</li> <li>Florida National Scenic Trail - between Battery Langdon and Campground Loops B-E</li> </ul> <p><strong>Duration:</strong> 15-30 minutes</p>",
-        "icon": "red-pin-down.png"
+        "icon": "known-route"
       }
     },
     {
@@ -523,7 +523,7 @@
       "properties": {
         "name": "Brackenridge Accessible Trail Beach Access",
         "notes": "Brackenridge Accessible Trail Beach Access\nhttps://www.nps.gov/places/000/brackenridge-accessible-trail-beach-access.htm\n\n<p>The Brackenridge Nature Trail is a 0.3-mile boardwalk loop trail located in the <a href=\"https://www.nps.gov/guis/planyourvisit/naval-live-oaks-area.htm\">Naval Live Oaks Area.</a><strong> </strong>At this point, visitors can exit the Brackenridge Accessible Trail and venture down to the coast of the Santa Rosa Sound. The shallow water of Santa Rosa Sound is a great place to swim, snorkel, or kayak.</p>",
-        "icon": "red-pin-down.png"
+        "icon": "swimming"
       }
     },
     {
@@ -538,7 +538,7 @@
       "properties": {
         "name": "Brackenridge Accessible Trailhead",
         "notes": "Brackenridge Accessible Trailhead\nhttps://www.nps.gov/places/000/brackenridge-accessible-trailhead.htm\n\n<p>Located next to the Gulf Islands National Seashore Headquarters, is the entrance to the Brackenridge Accessible Trailhead. It begins in the park's <a href=\"https://www.nps.gov/guis/planyourvisit/naval-live-oaks-area.htm\">Naval Live Oak Area</a>, heads west 0.3 miles, and exits at the Santa Rosa Sound shoreline. This fully accessible trail leads to 30-foot-wide wooden deck and benches that overlooks the Santa Rosa Sound. This is a great place to photograph the sunset or view wildlife. The trailhead also provides access to the full Brackenridge Loop Trail (additional 0.5 mile) which is not fully accessible.</p>",
-        "icon": "red-pin-down.png"
+        "icon": "trailhead"
       }
     },
     {
@@ -568,7 +568,7 @@
       "properties": {
         "name": "Brackenridge Loop Trailhead",
         "notes": "Brackenridge Loop Trailhead\nhttps://www.nps.gov/places/000/brackenridge-loop-trailhead.htm\n\n<p>Visitors can depart the fully accessible Brackenridge Boardwalk Trail and venture onto the 0.5-mile Brackenridge Loop Trail. This trail is not fully accessible. It connects to the Fishing Trail and an Brackenridge observation deck.</p>",
-        "icon": "red-pin-down.png"
+        "icon": "trailhead"
       }
     },
     {
@@ -583,7 +583,7 @@
       "properties": {
         "name": "Brackenridge Nature Trail",
         "notes": "Brackenridge Nature Trail\nhttps://www.nps.gov/places/brackenridge-nature-trail.htm\n\nThe Brackenridge Nature Trail is an accessible loop trail located directly behind Gulf Islands National Seashore Headquarters on Gulf Breeze Parkway. At the trailhead, there is a 30 foot wide wooden deck and benches that provide picturesque views of the Santa Rosa Sound and the Pensacola Bay Bridge. The boardwalk loop traverses through coastal forest and past several waysides detailing wildlife found in the area. Bird calls can be heard year round, if you are patient enough to stop and listen.<br /> <br /> The fully accessible portion of the trail is 0.3 miles total. Visitors may choose to extend their hike and complete a second loop found directly off the accessible boardwalk, adding 0.5 miles to make the trail a figure-8. For an even further extension, visitors may connect the Brackenridge figure-8 loop to the Fishing Trail.<br /> <br /> Visitors may park in the lot directly in front of the headquarters building in Naval Live Oaks. Though there is no fee for entry, gates to this area open at at 7am and close at 5pm. <br /> <br /> <strong>Duration: </strong>15-30 minutes<br />  ",
-        "icon": "red-pin-down.png"
+        "icon": "known-route"
       }
     },
     {
@@ -598,7 +598,7 @@
       "properties": {
         "name": "Brown's Pond Trail",
         "notes": "Brown's Pond Trail\nhttps://www.nps.gov/places/brown-s-pond-trail.htm\n\n<p>This 2.0 mile out-and-back trail can be started the dirt parking area on Reservation Road, which is a residential area. The east side of the loop is a clearly distinguished, sandy fire break that will take you all the way to Highway 98. There is a side trail off the main Brown's Pond Trail that is much narrower and winding, and two join near the end of the main trail. This trail also intersects with the Beaver Pond, Old Quarry, and Andrew Jackson Trails.<br /> <br /> Near the trailhead, visitors will see Brown's Pond, and may be able to observe wildlife that uses this area as their home. During the spring, listen for sounds of fish mating calls beneath the water.<br /> <br /> <strong>Duration: </strong>1-1.5 hours</p>",
-        "icon": "red-pin-down.png"
+        "icon": "known-route"
       }
     },
     {
@@ -613,7 +613,7 @@
       "properties": {
         "name": "CCC Overlook",
         "notes": "CCC Overlook\nhttps://www.nps.gov/places/ccc-overlook.htm\n\nIn front of you is the CCC outlook, originally put at the end of this trail to give visitors a view of the bayou. This view is now somewhat obscured by vegetation, as the National Park Service values allowing nature to blossom as much as possible. However, the water can still be seen beyond the palmetto leaves and magnolia tree branches.<br /> <br /> The foundations of this outlook mark the location of the dining pavilion built and used by the Civilian Conservation Corps while creating this recreation area.",
-        "icon": "red-pin-down.png"
+        "icon": "binoculars"
       }
     },
     {
@@ -733,7 +733,7 @@
       "properties": {
         "name": "Civilian Conservation Corps Spur Trail",
         "notes": "Civilian Conservation Corps Spur Trail\nhttps://www.nps.gov/places/000/ccc-trailhead.htm\n\n<p>The CCC Spur Trail is a 0.2 mile long hiking trail that takes visitors through the woodlands surrounding the bayou, ending at an outlook point that faces the water. The trailhead is located on the west side of the main park road on the way to the visitor center. You'll travel through a mix of pines, deciduous trees, and palmettos, before reaching the overlook. <br /> <br /> The trail is named for the Civilian Conservation Corps who were responsible for creating this recreation area in 1938. While on this trail visitors can view the remnants of the CCC settlement while experiencing the biodiversity of Mississippi forest habits.<br /> <br /> <strong>Duration: </strong>15-30 minutes</p>",
-        "icon": "red-pin-down.png"
+        "icon": "known-route"
       }
     },
     {
@@ -793,7 +793,7 @@
       "properties": {
         "name": "Davis Bayou Area Orientation Kiosk - Picnic Area",
         "notes": "Davis Bayou Area Orientation Kiosk - Picnic Area\nhttps://www.nps.gov/places/000/davis-bayou-area-orientation-kiosk-picnic-area.htm\n\n<h3><b>Davis Bayou Area</b></h3> <p>The salt water of the Gulf of Mexico mixes here in the Davis Bayou Area with fresh water from the mainland to create a rich estuary teeming with wildlife. Walk the trails, camp, and explore the bayous and salt marshes, which serve as nurseries for crabs, fish, and other marine life. See the film and exhibits in the visitor center. Fish from the pier, paddle around a bayou, or camp here in the 52-site campground. Plan your visit to Fort Massachusetts on West Ship Island, or one of other the barrier islands off the coast.<br /> <br /> Know Before You Go:<br /> - Check the weather in advance<br /> - Be aware of uneven and slippery surfaces<br /> - Do not disturb or remove any natural, historical, or archaeological objects<br /> - Do not feed wildlife<br /> <br />  </p>",
-        "icon": "red-pin-down.png"
+        "icon": "picnic"
       }
     },
     {
@@ -838,7 +838,7 @@
       "properties": {
         "name": "Davis Bayou Boat Launch",
         "notes": "Davis Bayou Boat Launch\nhttps://www.nps.gov/places/000/davis-bayou-boat-launch.htm\n\n<p>The Davis Bayou Boat Launch features a two-slip trailer launch and a small craft hand-launch area. This launch is the perfect place to access Davis Bayou, the Mississippi Sound, and the Gulf of Mexico, as well as take pictures and go fishing. Trailer parking is permitted in the designated spaces and gravel parking area.<br /> <br /> At the hand-launch area, located on the east side of the parking lot, visitors can access the Davis Bayou Blueway. Connecting Davis, Stark, and Halstead Bayous this Blueway is an excellent way to explore the area's marine resources. Common sites at the launch are of fish jumping out the water, boating traffic, and birds like pelicans and seagulls diving for food. <br /> <br /> The winding marshes are rich in plant and animal diversity, but also demonstrate the extremes of the salt marsh environment. The Davis Bayou Blueway offers an excellent example of a unique and productive ecosystem, and was developed through a partnership between the National Park Service, National Park Foundation, and Heritage Trails.</p>",
-        "icon": "red-pin-down.png"
+        "icon": "canoe"
       }
     },
     {
@@ -853,7 +853,7 @@
       "properties": {
         "name": "Davis Bayou Campground",
         "notes": "Davis Bayou Campground\nhttps://www.nps.gov/places/000/davis-bayou-campground.htm\n\n<p>Located east of downtown Ocean Springs, Mississippi, visitors can enjoy the <a href=\"https://www.nps.gov/guis/planyourvisit/db-campground.htm\">Davis Bayou Campground</a> for its easy access to boating, fishing, biking and hiking trails.<br /> <br /> The campground features 52 sites nestled among live oaks and pine trees and is adjacent to a saltwater marsh. Most campsites offer some shade throughout the day and offer a tranquil setting for migratory bird watching and picnicking.<br /> <br /> <a href=\"youtu.be/P0BtlH3VcZI\">Know Before You Go!</a> </p>",
-        "icon": "red-pin-down.png"
+        "icon": "shelter"
       }
     },
     {
@@ -868,7 +868,7 @@
       "properties": {
         "name": "Davis Bayou Campground Restrooms",
         "notes": "Davis Bayou Campground Restrooms\nhttps://www.nps.gov/places/000/davis-bayou-campground-restrooms.htm\n\n<p>The <a href=\"https://www.nps.gov/guis/planyourvisit/db-campground.htm\">Davis Bayou Campground</a> Restrooms are for registered campers only and feature men's and women's restrooms as well as shower facilities.</p>",
-        "icon": "red-pin-down.png"
+        "icon": "toilets"
       }
     },
     {
@@ -898,7 +898,7 @@
       "properties": {
         "name": "Davis Bayou Fishing Pier Restrooms",
         "notes": "Davis Bayou Fishing Pier Restrooms\nhttps://www.nps.gov/places/000/davis-bayou-fishing-pier-restrooms.htm\n\n<p>These restrooms are located within walking distance of the Davis Bayou Fishing Pier and the Visitor Center Picnic Area.</p>",
-        "icon": "red-pin-down.png"
+        "icon": "toilets"
       }
     },
     {
@@ -943,7 +943,7 @@
       "properties": {
         "name": "Davis Bayou North Trailhead",
         "notes": "Davis Bayou North Trailhead\nhttps://www.nps.gov/places/000/davis-bayou-north-trailhead.htm\n\n<p>This trailhead of the Davis Bayou Trail begins at the intersection of Robert McGhee Road and Boat Launch Road, and continues south for 1 mile to the William M. Colmer Visitor Center. The trail runs alongside Hanley and the main Park Road. The trail provides access to the CCC Spur Trail and the Nature's Way Loop Trail.<br /> <br /> <strong>Duration: </strong>30-60 minutes</p> <p> </p>",
-        "icon": "red-pin-down.png"
+        "icon": "trailhead"
       }
     },
     {
@@ -958,7 +958,7 @@
       "properties": {
         "name": "Davis Bayou Overlook",
         "notes": "Davis Bayou Overlook\nhttps://www.nps.gov/places/000/davis-bayou-overlook.htm\n\n<p>The Davis Bayou Overlook offers a great view of Davis Bayou. These bayous are full of life above and below the water. Davis Bayou Blueway connects Davis, Stark, and Halstead Bayous into a 1.5 mile recreational waterway.<br /> <br /> Appropriate for beginning and experienced paddlers alike, the winding marsh exhibits rich plant and animal diversity while demonstrating the extremes of the salt marsh environment.<br /> <br /> Davis Bayou Blueway is federally protected within the boundaries of Gulf Islands National Seashore and provides a pristine example of the unique, productive, and vanishing salt marsh ecosystem.<br />  </p>",
-        "icon": "red-pin-down.png"
+        "icon": "binoculars"
       }
     },
     {
@@ -973,7 +973,7 @@
       "properties": {
         "name": "Davis Bayou Picnic Area",
         "notes": "Davis Bayou Picnic Area\nhttps://www.nps.gov/places/000/davis-bayou-picnic-area.htm\n\n<p>The Davis Bayou Picnic Area is the perfect place for a picnic all year long with plenty of shade trees and picnic shelters scattered throughout the area. Picnic tables and grills are spaced throughout and are surround nearby fields for games and activities.<br /> <br /> There are a total of five covered pavilions available for use with a restroom facility located on the northwest side. Groups of 25 or more wishing to use the pavilion should complete and submit a <a href=\"https://www.nps.gov/guis/planyourvisit/special-use-permits.htm\">Special Use Permit</a> .</p>",
-        "icon": "red-pin-down.png"
+        "icon": "picnic"
       }
     },
     {
@@ -988,7 +988,7 @@
       "properties": {
         "name": "Davis Bayou Picnic Area Restrooms",
         "notes": "Davis Bayou Picnic Area Restrooms\nhttps://www.nps.gov/places/000/davis-bayou-picnic-area-restrooms.htm\n\n<p>This men's and women's restroom facility is open daily and conveniently located by the Davis Bayou Picnic Area. There is also a a water filling station attached. </p>",
-        "icon": "red-pin-down.png"
+        "icon": "toilets"
       }
     },
     {
@@ -1078,7 +1078,7 @@
       "properties": {
         "name": "Davis Bayou South Trailhead",
         "notes": "Davis Bayou South Trailhead\nhttps://www.nps.gov/places/000/davis-bayou-south-trailhead.htm\n\n<p>This trailhead of the Davis Bayou Trail begins at the edge of the visitor center complex parking lot and continues north for 1 mile to the picnic area. The trail provides access to the CCC Spur Trail and the Nature's Way Loop Trail, and runs alongside Hanely and the main Park Road.<br /> <br /> <strong>Duration: </strong>30-60 minutes</p> <p> </p>",
-        "icon": "red-pin-down.png"
+        "icon": "trailhead"
       }
     },
     {
@@ -1093,7 +1093,7 @@
       "properties": {
         "name": "Davis Bayou Visitor Center Picnic Area",
         "notes": "Davis Bayou Visitor Center Picnic Area\nhttps://www.nps.gov/places/000/davis-bayou-visitor-center-picnic-area.htm\n\n<p>This is a small picnic area near the William M. Colmer Visitor Center where visitors can relax under the shade of live oaks with a view of the water. The area features several uncovered tables, each with a charcoal grill. It features of the bayou and conveniently located near the fishing pier and fishing pier restrooms.<br /> <br />  </p>",
-        "icon": "red-pin-down.png"
+        "icon": "picnic"
       }
     },
     {
@@ -1108,7 +1108,7 @@
       "properties": {
         "name": "Ferry Landing Plaza Restrooms",
         "notes": "Ferry Landing Plaza Restrooms\nhttps://www.nps.gov/places/ferry-landing-plaza-restrooms.htm\n\nPublic restrooms are located near the Mine Storeroom and Ferry Pier, about 500 feet from the entrance to Fort Pickens. They stand on the foundation of the Cable Tank building.<br /> <br /> This large, rectangular concrete foundation is all that remains of the Cable Tank. Inside this the structure, the Army stored electrical cables in water-filled drums. These cables were used for the submarine mine defenses on Pensacola Bay. The Cable Tank was first constructed in 1898, but was destroyed by the June 1899 explosion at Fort Pickens' Bastion D. The Army rebuilt the Cable Tank, with some new modifications, by 1900.",
-        "icon": "red-pin-down.png"
+        "icon": "toilets"
       }
     },
     {
@@ -1123,7 +1123,7 @@
       "properties": {
         "name": "Fishing Trail",
         "notes": "Fishing Trail\nhttps://www.nps.gov/places/000/fishing-trailhead.htm\n\n<p>The Fishing Trail runs the length of the Santa Rosa Sound side of the <a href=\"https://www.nps.gov/guis/planyourvisit/naval-live-oaks-area.htm\">Naval Live Oaks Area.</a> There are several water access points along the trail for fishing or to launch a kayak. Visitors may traverse through dense forest down to the sandy bay, where wildlife can be observed. This trail connects to the Brackenridge Loop Trail and overlook.<br /> <br /> The Fishing Trail runs 0.92 miles parallel to US Highway 98, not including intersections with other trails. If completed as an out-and-back, the total length is 1.84 miles.<br /> <br /> <strong>Trailhead locations:</strong></p> <ul> <li>Intersection with Brackenridge Nature Trail</li> <li>3 pullouts on the south side of US Highway 98 going east from Gulf Breeze to Naval Live Oaks</li> </ul> <p><strong>Duration: </strong>1-1.5 hours</p>",
-        "icon": "red-pin-down.png"
+        "icon": "known-route"
       }
     },
     {
@@ -1138,7 +1138,7 @@
       "properties": {
         "name": "Fishing Trail Beach Access",
         "notes": "Fishing Trail Beach Access\nhttps://www.nps.gov/places/000/fishing-trail-beach-access.htm\n\n<p>The Fishing Trail runs the length of the Santa Rosa Sound side of the <a href=\"https://www.nps.gov/guis/planyourvisit/naval-live-oaks-area.htm\">Naval Live Oaks Area</a> and ends on the shore with beach access. There are several water access points along the trail for fishing or to launch a kayak. This trail connects to the Brackenridge Loop Trail and overlook.</p>",
-        "icon": "red-pin-down.png"
+        "icon": "swimming"
       }
     },
     {
@@ -1183,7 +1183,7 @@
       "properties": {
         "name": "Florida National Scenic Trail at Opal Beach",
         "notes": "Florida National Scenic Trail at Opal Beach\nhttps://www.nps.gov/places/000/florida-national-scenic-trail-at-opal-beach.htm\n\nThis trail marker stands on Opal Beach in the Santa Rosa area of Gulf Islands National Seashore. The Florida National Scenic Trail hugs the coastline for 7 miles in this area of the park, before exiting at Navarre to the east or Pensacola Beach to the west. The northern terminus at Fort Pickens can be found about 20 miles to the west of here. <br /> <br /> Restrooms and parking are available on site. Enjoy the relaxing walk on white sandy beaches with a breeze at your back and a beautiful view of the famous Emerald Coast.",
-        "icon": "red-pin-down.png"
+        "icon": "swimming"
       }
     },
     {
@@ -1333,7 +1333,7 @@
       "properties": {
         "name": "Fort Barrancas Entrance Sign",
         "notes": "Fort Barrancas Entrance Sign\nhttps://www.nps.gov/places/000/fort-barrancas-entrance-sign.htm\n\n<p>The <a href=\"https://www.nps.gov/guis/planyourvisit/fort-barrancas-area.htm\">Fort Barrancas Area</a> is located on Naval Air Station Pensacola, Florida, and features centuries of coastal defensive structures. Tour the visitor center, visit <a href=\"https://www.nps.gov/guis/learn/historyculture/fort-barrancas.htm\">Fort Barrancas</a>, or hike the Woodland Trail. Then walk along the Trench Trail or drive to <a href=\"https://www.nps.gov/guis/learn/historyculture/advanced-redoubt.htm\">Advanced Redoubt</a>.</p>",
-        "icon": "red-pin-down.png"
+        "icon": "information"
       }
     },
     {
@@ -1348,7 +1348,7 @@
       "properties": {
         "name": "Fort Barrancas Overlook",
         "notes": "Fort Barrancas Overlook\nhttps://www.nps.gov/places/000/fort-barrancas-overlook.htm\n\n<p>The U.S. Army built Fort Barrancas in the 1840's as one of four fortifications to protect Pensacola Bay and the navy yard from attack. Fort Pickens on Santa Rosa Island and Fort McRee on Perdido Key, guarded the channel.<br /> <br /> Americans built harbor forts during the Revolutionary War (first system) and another series of forts between 1789 and 1812 (second system). Advanced Redoubt and Forts Barrancas, Pickens, and McRee were part of the Third System of coastal fortifications built between 1816 and 1870.<br /> <br /> Fort Barrancas and its water battery, situated on a bluff, could support their crossfire and fire shots at ships that entered the bay.<br /> <br /> Advanced Redoubt was built to protect the Navy Yard and Fort Barrancas from a land-based attack. During the Civil War the Confederates briefly held Fort Barrancas and exchanged gunfire with Federal forces at Fort Pickens.<br /> <br /> <b>Spanish Water Battery</b><br /> The white, stuccoed, semicircular structure down in front of you is BaterÃ­a de San Antonio, a battery built by Spain in 1797. After recapturing the Pensacola area from the British, the Spanish decided to build this fortification as part of a plan to strengthen harbor defenses. The maximum range of smoothbore cannon at that time was about one mile. The United States modified and armed the battery while building Fort Barrancas in the 1840s.<br /> <br /> The term water battery comes from the fortification's location, which was close to water level. From this battery gunners could fire smoothbore cannon shots at ship masts or skip shots across the surface of the bay hoping to hit wooden hulls at the waterline.<br /> <br /> <b>Fort McRee</b><br /> In front of you across Pensacola Bay once stood Fort McRee. The US Army built the fort at the end of Perdido Key in the early 1840s to help protect Pensacola Bay and ended up almost destroying it during the Civil War. In January 1861-three months before the war started at Fort Sumter in South Carolina-the US Army abandoned Barrancas and Fort McRee and consolidated its troops at Fort Pickens. The governors of Alabama and Florida quickly dispatched state militias to occupy the vacant military posts. In a massive artillery exchange with the Confederates in November, cannon fire from two Union ships and Fort Pickens nearly demolished Fort McRee. Considered obsolete by the end of the Civil War, Fort McRee was never repaired.<br /> <br /> Simultaneous volleys raked [Fort McRee's] outer walls and parapets ... the whole structure seemed to bulge and sink to earth in one general conflagration.<br /> <br /> Years after the Civil War battle the ruins of Fort McRee crumbled into the sand and the Gulf of Mexico.</p>",
-        "icon": "red-pin-down.png"
+        "icon": "binoculars"
       }
     },
     {
@@ -1798,7 +1798,7 @@
       "properties": {
         "name": "Fort Pickens Bay Trail",
         "notes": "Fort Pickens Bay Trail\nhttps://www.nps.gov/places/000/dune-trail.htm\n\nThe Bay Trail is a 0.15 mile trail beginning at the north side of Fort Pickens Campground Loop E. Visitors may park at overflow parking located directly in front of the trailhead, or walk from their campsite. The Florida National Scenic Trail can be found a few feet to the right.<br /> <br /> A gently inclined, sandy slope will bring visitors up over the dunes, past coastal vegetation, and down to the Pensacola Bay. A variety of birds can frequently be seen flying overhead, including bald eagles, ospreys, great blue herons, and more.<br /> <br /> <strong>Duration:</strong> 15-30 minutes",
-        "icon": "red-pin-down.png"
+        "icon": "known-route"
       }
     },
     {
@@ -1813,7 +1813,7 @@
       "properties": {
         "name": "Fort Pickens Campground: Loop A",
         "notes": "Fort Pickens Campground: Loop A\nhttps://www.nps.gov/places/000/fort-pickens-campground-loop-a.htm\n\n<p><a href=\"https://www.nps.gov/guis/planyourvisit/fp-loop-a.htm\">Loop A</a> Fort Pickens Campground is the most popular at the national seashore with 43 total sites to choose from. Live oaks and other trees provide excellent shade over nearly all sites and there is a beach access point directly across the street from the entrance to the campground loop.<br /> <br /> The loop is located east of the main campground loops. To the north of the loop is the Blackbird Marsh Trail, a nature trail with interpretive panels. The trail connects to the Florida Trail providing access to the rest of the Fort Pickens Area.<br /> <br /> <a href=\"youtu.be/uOOkXP1nQWA\">Know Before You Go! </a></p>",
-        "icon": "red-pin-down.png"
+        "icon": "shelter"
       }
     },
     {
@@ -1828,7 +1828,7 @@
       "properties": {
         "name": "Fort Pickens Campground: Loop A Dump Station",
         "notes": "Fort Pickens Campground: Loop A Dump Station\nhttps://www.nps.gov/places/000/fort-pickens-campground-loop-a-dump-station.htm\n\n<p>Fort Pickens Campground RV dump stations are for the use of registered campers only. Non-campers must pay a $5 fee at the campground office to use the dump stations.</p>",
-        "icon": "red-pin-down.png"
+        "icon": "shelter"
       }
     },
     {
@@ -1843,7 +1843,7 @@
       "properties": {
         "name": "Fort Pickens Campground: Loop A Dumpster",
         "notes": "Fort Pickens Campground: Loop A Dumpster\nhttps://www.nps.gov/places/000/fort-pickens-campground-loop-a-dumpster.htm\n\n<p>There are two dumpsters at this location; one is for normal waste, the other is for recycling.</p>",
-        "icon": "red-pin-down.png"
+        "icon": "shelter"
       }
     },
     {
@@ -1858,7 +1858,7 @@
       "properties": {
         "name": "Fort Pickens Campground: Loop A Restrooms",
         "notes": "Fort Pickens Campground: Loop A Restrooms\nhttps://www.nps.gov/places/000/fort-pickens-campground-loop-a-restrooms.htm\n\n<p>This facility features men's and women's restrooms and showers. Coin-operated laundry machines are available at the Loop C Restroom building.<br /> <br /> <b>Facilities for registered campers only.</b></p>",
-        "icon": "red-pin-down.png"
+        "icon": "toilets"
       }
     },
     {
@@ -1873,7 +1873,7 @@
       "properties": {
         "name": "Fort Pickens Campground: Loop B",
         "notes": "Fort Pickens Campground: Loop B\nhttps://www.nps.gov/places/000/fort-pickens-campground-loop-b.htm\n\n<p><a href=\"https://www.nps.gov/guis/planyourvisit/fp-loop-b.htm\">Loop B</a> is reserved for soft-sided, on the ground tents only. With 13 sites total, each campsite has a grill/fire ring and picnic table. There are no site hook-ups, but there are centralized water stations. Generators are not permitted in this loop.<br /> <br /> There is a beach access point directly across the street from the entrance to the campground loop. The Florida Trail runs through the loop providing access to the rest of the Fort Pickens Area including the historic district.<br /> <br /> <a href=\"youtu.be/uOOkXP1nQWA\">Know Before You Go!</a></p>",
-        "icon": "red-pin-down.png"
+        "icon": "shelter"
       }
     },
     {
@@ -1888,7 +1888,7 @@
       "properties": {
         "name": "Fort Pickens Campground: Loop C",
         "notes": "Fort Pickens Campground: Loop C\nhttps://www.nps.gov/places/000/fort-pickens-campground-loop-c.htm\n\n<p><a href=\"https://www.nps.gov/guis/planyourvisit/fp-loop-c.htm\">Loop C</a> in the Fort Pickens Campground is one of the larger loops at the national seashore with 60 total sites. The loop is located on the eastern end of the campground. There are limited sites with shade, tree replanting efforts are underway. <br /> <br /> There is a beach access point directly across the street from the entrance of the campground loop. The Florida Trail runs through the campground providing access to the rest of the Fort Pickens Area.<br /> <br /> <a href=\"youtu.be/uOOkXP1nQWA\">Know Before You Go!</a> </p>",
-        "icon": "red-pin-down.png"
+        "icon": "shelter"
       }
     },
     {
@@ -1903,7 +1903,7 @@
       "properties": {
         "name": "Fort Pickens Campground: Loop C Restrooms",
         "notes": "Fort Pickens Campground: Loop C Restrooms\nhttps://www.nps.gov/places/000/fort-pickens-campground-loop-c-restrooms.htm\n\n<p>This facility features men's and women's restrooms, showers, and coin-operated laundry machines.<br /><br /> <b>Facilities for registered campers only.</b> </p>",
-        "icon": "red-pin-down.png"
+        "icon": "toilets"
       }
     },
     {
@@ -1918,7 +1918,7 @@
       "properties": {
         "name": "Fort Pickens Campground: Loop D",
         "notes": "Fort Pickens Campground: Loop D\nhttps://www.nps.gov/places/000/fort-pickens-campground-loop-d.htm\n\n<p><a href=\"https://www.nps.gov/guis/planyourvisit/fp-loop-d.htm\">Loop D</a> in the Fort Pickens Campground offers 29 total sites that can accommodate small recreational vehicles (Class-B), pick-up campers, and tents. Each campsite has a grill/fire ring and picnic table. There are no site hook-ups, but there are centralized water stations. Trailers are not permitted in this loop.<br /> <br /> There is a beach access point directly across the street from the entrance to the campground loop. The Florida Trail runs through the loop providing access to the rest of the Fort Pickens Area.<br /> <br /> <a href=\"youtu.be/uOOkXP1nQWA\">Know Before You Go! </a></p>",
-        "icon": "red-pin-down.png"
+        "icon": "shelter"
       }
     },
     {
@@ -1933,7 +1933,7 @@
       "properties": {
         "name": "Fort Pickens Campground: Loop E",
         "notes": "Fort Pickens Campground: Loop E\nhttps://www.nps.gov/places/000/fort-pickens-campground-loop-e.htm\n\n<p><a href=\"https://www.nps.gov/guis/planyourvisit/fp-loop-e.htm\">Loop E</a> in the Fort Pickens Campground is the largest loop in the national seashore with 66 total sites. Each site has water and electricity hook-ups, grill/fire rings, and picnic tables.<br /> <br /> There is a beach access point directly across the street from the campground loop entrance. The Florida Trail runs through the loop providing access to the rest of the Fort Pickens Area.<br /> <br /> <a href=\"youtu.be/uOOkXP1nQWA\">Know Before You Go! </a></p>",
-        "icon": "red-pin-down.png"
+        "icon": "shelter"
       }
     },
     {
@@ -1948,7 +1948,7 @@
       "properties": {
         "name": "Fort Pickens Campground: Loop E Dumpsters",
         "notes": "Fort Pickens Campground: Loop E Dumpsters\nhttps://www.nps.gov/places/000/fort-pickens-campground-loop-e-dumpsters.htm\n\n<p>There are two dumpsters in this location. One for regular camping waste, the other is for recycling only.</p>",
-        "icon": "red-pin-down.png"
+        "icon": "shelter"
       }
     },
     {
@@ -1963,7 +1963,7 @@
       "properties": {
         "name": "Fort Pickens Campground: Loop E Restrooms",
         "notes": "Fort Pickens Campground: Loop E Restrooms\nhttps://www.nps.gov/places/000/fort-pickens-campground-loop-e-restrooms.htm\n\n<p>This facility features men's and women's restrooms and showers. Coin-operated laundry machines are available at the Loop C Restroom building.<br /> <br /> <b>Facilities for registered campers only.</b></p>",
-        "icon": "red-pin-down.png"
+        "icon": "toilets"
       }
     },
     {
@@ -1978,7 +1978,7 @@
       "properties": {
         "name": "Fort Pickens Campground: Loops B & D Restrooms",
         "notes": "Fort Pickens Campground: Loops B & D Restrooms\nhttps://www.nps.gov/places/000/fort-pickens-campground-loops-b-d-restrooms.htm\n\n<p>This facility features men's and women's restrooms, showers, and coin-operated laundry machines.<br /> <br /> <b>Facilities for registered campers only.</b></p>",
-        "icon": "red-pin-down.png"
+        "icon": "toilets"
       }
     },
     {
@@ -1993,7 +1993,7 @@
       "properties": {
         "name": "Fort Pickens Campground: Loops B-E Dump Station",
         "notes": "Fort Pickens Campground: Loops B-E Dump Station\nhttps://www.nps.gov/places/000/fort-pickens-campground-loops-b-e-dump-station.htm\n\n<p>Fort Pickens Campground RV dump stations are for the use of registered campers only. Non-campers must pay a $5 fee at the campground office to use the dump stations.</p>",
-        "icon": "red-pin-down.png"
+        "icon": "shelter"
       }
     },
     {
@@ -2008,7 +2008,7 @@
       "properties": {
         "name": "Fort Pickens Dune Trail",
         "notes": "Fort Pickens Dune Trail\nhttps://www.nps.gov/places/000/dune-nature-trailhead.htm\n\n<p>The Dune Trail is a 0.15 mile boardwalk trail through primary and secondary dunescape. It is located in the Fort Pickens area, directly south of campground Loop A. Visitors may walk or bike to the trailhead, or park in the lot directly in front. Please stay on the trail and do not walk in the dunes, to preserve our coastal vegetation.<br /> <br /> The boardwalk traverses through foredune communities, which are home to many different animal and plant species. Foredunes are created by sand blowing inland from the beach, forming a line that runs adjacent to the coast. Foredunes help shelter plant life from exposure to and create pockets where less salt-tolerant floral communities can form. <br /> <br /> A rest bench is provided along the trail, but no shade will be found on sunny days, so bring water and pack accordingly.<br /> <br /> <strong>Duration:</strong> 15-30 minutes</p>",
-        "icon": "red-pin-down.png"
+        "icon": "known-route"
       }
     },
     {
@@ -2068,7 +2068,7 @@
       "properties": {
         "name": "Fort Pickens Park Store",
         "notes": "Fort Pickens Park Store\nhttps://www.nps.gov/places/fort-pickens-park-store.htm\n\nThe Gulf Islands National Seashore park store is found on the right side of the sally port, or large entrance archway, of Fort Pickens. It is operated by <a href=\"http://easternnational.org/\">Eastern National</a>, an official non-profit partner of the National Park Service dedicated to supporting our educational mission. <br /> <br /> The park store has a wide range of books, clothing, replica historical items, educational games, posters, and other items available for retail sale. No food is sold, and only bottled water is available. These products complement the interpretive themes you experience when visiting the park. Over the years, funds from bookstore sales have funded special events, signage for trails and exhibits, publications, interpretive programs, research grants, internships, the purchase of historical artifacts, park programs for kids, reenactments, interpretive exhibits, and much more.<br /> <br /> The park store is located in Fort Pickens, Florida, or you can purchase Gulf Islands products from the online park store at <b><a href=\"https://shop.americasnationalparks.org/store/home/5413/Gulf-Islands-National-Seashore/\">Americas National Parks.</a> </b>",
-        "icon": "red-pin-down.png"
+        "icon": "market"
       }
     },
     {
@@ -2458,7 +2458,7 @@
       "properties": {
         "name": "Historic Fire Station Restrooms",
         "notes": "Historic Fire Station Restrooms\nhttps://www.nps.gov/places/000/fort-pickens-discovery-center-restrooms.htm\n\n<p>Public restrooms are located directly across from the Discovery Center entrance and south of the Fort Pickens Fishing Pier. The building white and green building is a historic Fire Station built in 1940. </p>",
-        "icon": "red-pin-down.png"
+        "icon": "toilets"
       }
     },
     {
@@ -2518,7 +2518,7 @@
       "properties": {
         "name": "Langdon Beach Access 16A",
         "notes": "Langdon Beach Access 16A\nhttps://www.nps.gov/places/000/langdon-beach-access-16a.htm\n\n<p>This beach access point is located on the Gulf-side within the Fort Pickens Area. It provides access for swimming, fishing, beach-combing and more. Lifeguards are on duty between May and September.<br /> <br /> Please stay off of the dunes and out of shorebird enclosures. Camping and overnight parking is not permitted. Pets, glass, and driving are not permitted on beach.<br />  </p>",
-        "icon": "red-pin-down.png"
+        "icon": "swimming"
       }
     },
     {
@@ -2533,7 +2533,7 @@
       "properties": {
         "name": "Langdon Beach Pavilion",
         "notes": "Langdon Beach Pavilion\nhttps://www.nps.gov/places/000/langdon-beach-pavilion.htm\n\n<p>The Langdon Beach pavilion is the only on-beach pavilion in the Fort Pickens Area. Facing the Gulf of Mexico, the pavilion features restrooms, a drinking fountain, and beach showers. The free Fort Pickens Tram Service stops at the pavilion.</p>",
-        "icon": "red-pin-down.png"
+        "icon": "swimming"
       }
     },
     {
@@ -2593,7 +2593,7 @@
       "properties": {
         "name": "Nature's Way Trail",
         "notes": "Nature's Way Trail\nhttps://www.nps.gov/places/000/nature-s-way-trail.htm\n\nThis trail is located off of Hanley Road and connects to the Davis Bayou Trail. There are 2 trailheads, both located on Hanley Road. The 0.5 mile loop features views of the bayou and opportunities to view wildlife such as herons and alligators.<br /> <br /> There is no parking at either end of the trailhead. Visitors may park and walk to the trail from the campground or visitor center, located on the main park road. <br /> <br /> <strong>Duration: </strong>15-30 minutes",
-        "icon": "red-pin-down.png"
+        "icon": "known-route"
       }
     },
     {
@@ -2638,7 +2638,7 @@
       "properties": {
         "name": "Naval Live Oaks Picnic Area",
         "notes": "Naval Live Oaks Picnic Area\nhttps://www.nps.gov/places/000/naval-live-oaks-picnic-area.htm\n\n<p>The picnic area is located in the Naval Live Oaks Area, offers a great view of the Santa Rosa Sound. This uncovered eating area includes picnic tables and charcoal grills. There are restrooms and drinking water nearby. The picnic tables and grills are on a first come, first served basis.<br /> <br /> Not far from here are trails that lead to the shore, a great place to launch a kayak, fish, or look for wildlife.  <br /> <br /> Important: Pets are not permitted under the pavilion or in any facilities. Please dispose of grill materials and waste properly.  </p>",
-        "icon": "red-pin-down.png"
+        "icon": "picnic"
       }
     },
     {
@@ -2653,7 +2653,7 @@
       "properties": {
         "name": "Naval Live Oaks Restrooms",
         "notes": "Naval Live Oaks Restrooms\nhttps://www.nps.gov/places/000/naval-live-oaks-restrooms.htm\n\n<p>Restrooms are located near the Naval Live Oaks picnic area and pavilion. In addition to the restrooms, beach showers on the north side of this facility.</p>",
-        "icon": "red-pin-down.png"
+        "icon": "toilets"
       }
     },
     {
@@ -2668,7 +2668,7 @@
       "properties": {
         "name": "Naval Live Oaks Small Boat Launch",
         "notes": "Naval Live Oaks Small Boat Launch\nhttps://www.nps.gov/places/000/naval-live-oaks-small-boat-launch.htm\n\n<p>Access the calm water of the sound after walking on the tranquil trails in the Naval Live Oaks Area. This is a great place to launch a kayak, canoe, or paddle boat. The launch site is located 60 yards after the sand trail.<br /> <br />  </p>",
-        "icon": "red-pin-down.png"
+        "icon": "canoe"
       }
     },
     {
@@ -2683,7 +2683,7 @@
       "properties": {
         "name": "Naval Live Oaks Youth Campground",
         "notes": "Naval Live Oaks Youth Campground\nhttps://www.nps.gov/places/000/naval-live-oaks-youth-campground.htm\n\n<p>The Naval Live Oaks Youth Group campground is available for reservation seasonally by organized groups comprised of youth under the age of 18.</p> <p><br /> This group camping area has direct access to Pensacola Bay for water recreation and trailheads. It features restrooms, outdoor showers, a picnic shelter, and campfire ring. </p>",
-        "icon": "red-pin-down.png"
+        "icon": "shelter"
       }
     },
     {
@@ -2713,7 +2713,7 @@
       "properties": {
         "name": "North Bay Trail",
         "notes": "North Bay Trail\nhttps://www.nps.gov/places/north-bay-trail.htm\n\nAlso known as the Group Camp Trail, the 0.3 mile there-and-back North Bay Trail begins on the Andrew Jackson Trail and follows a sandy path down to the Pensacola Bay.<br /> <br /> <strong>Duration: </strong>15-30 minutes",
-        "icon": "red-pin-down.png"
+        "icon": "known-route"
       }
     },
     {
@@ -2728,7 +2728,7 @@
       "properties": {
         "name": "North South Trail",
         "notes": "North South Trail\nhttps://www.nps.gov/places/north-south-trail.htm\n\nAs the name suggests, this trail runs from the North to South end of Naval Live Oaks. The trail can be started from the end of Reservation Road, but this area is residential and parking is extremely limited. A side trail at the beginning will take visitors down to the Pensacola Bay. If completed as an out-and-back, the trail is 2.2 miles total and takes visitors all the way to Highway 98.<br /> <br /> The trail also intersects with the Beaver Pond and Andrew Jackson Trails for visitors wishing to extend their hike.<br /> <br /> <strong>Duration: </strong>1.5-2 hrs",
-        "icon": "red-pin-down.png"
+        "icon": "known-route"
       }
     },
     {
@@ -2758,7 +2758,7 @@
       "properties": {
         "name": "Okaloosa Area Boat Launch",
         "notes": "Okaloosa Area Boat Launch\nhttps://www.nps.gov/places/000/okaloosa-area-boat-launch.htm\n\n<p>The Okaloosa Area features an excellent opportunity for access to the calm waters of Choctawhatchee Bay. Located between Fort Walton Beach and Destin, this area is a great place to picnic, boat, and swim. <br /> <br /> The boat launch is the perfect place to launch a kayak, canoe, or paddleboard. Trailer launching is not recommended.<br />  </p>",
-        "icon": "red-pin-down.png"
+        "icon": "canoe"
       }
     },
     {
@@ -2788,7 +2788,7 @@
       "properties": {
         "name": "Okaloosa Area Restrooms",
         "notes": "Okaloosa Area Restrooms\nhttps://www.nps.gov/places/000/okaloosa-area-restrooms.htm\n\n<p>The Okaloosa Area features a restroom facility with beach showers.</p>",
-        "icon": "red-pin-down.png"
+        "icon": "toilets"
       }
     },
     {
@@ -2803,7 +2803,7 @@
       "properties": {
         "name": "Old Borrow Pit Trail",
         "notes": "Old Borrow Pit Trail\nhttps://www.nps.gov/places/old-borrow-pit-trail.htm\n\n<p>If completed round-trip, the Old Borrow Pit Trail is 1.8 miles total. This there-and-back trail begins at a trailhead behind residential property at Reservation Road and leads to Highway 98. There is no parking available at the trailhead as the area is residential, but visitors may park at the dirt pulloff further down Reservation Road.<br /> <br /> Sand from the borrow pit was used for the construction of U. S. Highway 98. The trail is sandy with little shade, so be sure to bring appropriate footwear and water. It also intersects with the Old Quarry, Beaver Pond, and Andrew Jackson Trails for visitors wishing to extend their hike.<br /> <br /> <strong>Duration: </strong>1-1.5 hours</p>",
-        "icon": "red-pin-down.png"
+        "icon": "known-route"
       }
     },
     {
@@ -2818,7 +2818,7 @@
       "properties": {
         "name": "Old Quarry Trail",
         "notes": "Old Quarry Trail\nhttps://www.nps.gov/places/old-quarry-trail.htm\n\n<p>The Old Quarry Trail begins from the trailhead on Bayshore Boulevard where limited roadside parking is available. This is a 1.7-mile out-and-back trail that ends where it joins the North-South Trail. You will find several other main trails that connect to the Quarry trail for visitors who wish to extend their hike, including the Old Borrow Pit Trail, Brown's Pond Trail, and North South Trail. There is also a small loop available almost immediately after the trail begins.<br /> <br /> The trail is sandy with little shade, so be sure to bring water and appropriate footwear.<br /> <br /> <strong>Duration: </strong>45-90 minutes</p>",
-        "icon": "red-pin-down.png"
+        "icon": "known-route"
       }
     },
     {
@@ -2833,7 +2833,7 @@
       "properties": {
         "name": "Opal Beach Area",
         "notes": "Opal Beach Area\nhttps://www.nps.gov/places/000/opal-beach-area.htm\n\n<p>Gulf Islands National Seashore protects historical heritage and ever-changing features of the Gulf Coast-salt marshes, marine woodlands, sparkling white beaches, and coastal waters. The seashore includes several islands and portions of the mainland. <br /> <br /> The Opal Beach Complex is located along Highway 399 between Pensacola Beach and Navarre Beach, provides access to one of the park's greatest treasures, Opal Beach. This is a great place to fish, swim, and picnic. Parking, restrooms, pavilions, and beach showers are available both Gulf-side and sound-side.<br /> <br /> Visitors must pay an <a href=\"https://www.nps.gov/guis/planyourvisit/entrancefees.htm\"> entrance fee</a> or display a park pass to use this area. Passes are good for seven days and can be purchased at the park entrance stations or online. For more frequent visitors, the national seashore offers an <a href=\"https://www.nps.gov/guis/planyourvisit/fees.htm\">annual pass</a> providing 12-months of unlimited entries into all of the park's areas.</p>",
-        "icon": "red-pin-down.png"
+        "icon": "swimming"
       }
     },
     {
@@ -2848,7 +2848,7 @@
       "properties": {
         "name": "Opal Beach Cluster A",
         "notes": "Opal Beach Cluster A\nhttps://www.nps.gov/places/000/opal-beach-cluster-a.htm\n\n<p>Enjoy the white sands and emerald green waters of the gulf or the calm waters of the sound. The Opal Beach Complex located in the Santa Rosa Area of Gulf Islands National Seashore is a great place to boat, fish, and swim.<br /> <br /> Cluster A is the western-most cluster of pavilions on the Gulf-side of the Opal Beach Complex. This is one of four pavilions in the complex that can be reserved by visiting the <a href=\"https://www.nps.gov/guis/planyourvisit/permits.htm\">permits page.</a> <br /> <br /> Lifeguards are on duty in this area May through September. Please stay off of the dunes and out of shorebird enclosures. Camping and overnight parking is not permitted. Pets, glass, and driving not permitted on the beach.</p>",
-        "icon": "red-pin-down.png"
+        "icon": "swimming"
       }
     },
     {
@@ -2863,7 +2863,7 @@
       "properties": {
         "name": "Opal Beach Cluster B1",
         "notes": "Opal Beach Cluster B1\nhttps://www.nps.gov/places/000/opal-beach-cluster-b1.htm\n\n<p>Enjoy the white sands and emerald green waters of the gulf or the calm waters of the sound. The Opal Beach Complex located in the Santa Rosa Area of Gulf Islands National Seashore is a great place to boat, fish, and swim.<br /> <br /> Cluster B1 is a cluster of pavilions on the Gulf-side of the Opal Beach Complex. This is one of four pavilions in the complex that can be reserved by visiting the <a href=\"https://www.nps.gov/guis/planyourvisit/permits.htm\">permits page.</a> <br /> <br /> Lifeguards are on duty in this area May through September. Please stay off of the dunes and out of shorebird enclosures. Camping and overnight parking is not permitted. Pets, glass, and driving not permitted on the beach.</p>",
-        "icon": "red-pin-down.png"
+        "icon": "swimming"
       }
     },
     {
@@ -2878,7 +2878,7 @@
       "properties": {
         "name": "Opal Beach Cluster B2",
         "notes": "Opal Beach Cluster B2\nhttps://www.nps.gov/places/000/opal-beach-cluster-b2.htm\n\n<p>Enjoy the white sands and emerald green waters of the gulf or the calm waters of the sound. The Opal Beach Complex located in the Santa Rosa Area of Gulf Islands National Seashore is a great place to boat, fish, and swim.</p> <p><br /> Cluster B2 is a cluster of pavilions on the Gulf-side of the Opal Beach Complex. This is one of four pavilions in the complex that can be reserved by visiting the <a href=\"https://www.nps.gov/guis/planyourvisit/permits.htm\">permits page.</a> <br /> <br /> Lifeguards are on duty in this area May through September. Please stay off of the dunes and out of shorebird enclosures. Camping and overnight parking is not permitted. Pets, glass, and driving not permitted on the beach.</p>",
-        "icon": "red-pin-down.png"
+        "icon": "swimming"
       }
     },
     {
@@ -2893,7 +2893,7 @@
       "properties": {
         "name": "Opal Beach Cluster C",
         "notes": "Opal Beach Cluster C\nhttps://www.nps.gov/places/000/opal-beach-cluster-c.htm\n\n<p>Enjoy the white sands and emerald green waters of the gulf or the calm waters of the sound. The Opal Beach Complex located in the Santa Rosa Area of Gulf Islands National Seashore is a great place to boat, fish, and swim.<br /> <br /> Cluster C is the only cluster of pavilions on the sound-side of the Opal Beach Complex. The area also has facilities including restrooms, pavilion, water fountains, and outdoors showers. Lifeguards are on duty in this area May through September.<br /> <br /> Please stay off of the dunes and out of shorebird enclosures. Camping and overnight parking is not permitted. Pets, glass, and driving not permitted on the beach.</p>",
-        "icon": "red-pin-down.png"
+        "icon": "swimming"
       }
     },
     {
@@ -2908,7 +2908,7 @@
       "properties": {
         "name": "Opal Beach Cluster D",
         "notes": "Opal Beach Cluster D\nhttps://www.nps.gov/places/000/opal-beach-cluster-d.htm\n\n<p>Enjoy the white sands and emerald green waters of the gulf or the calm waters of the sound. The Opal Beach Complex located in the Santa Rosa Area of Gulf Islands National Seashore is a great place to boat, fish, and swim.<br /> <br /> Cluster D is the central cluster of pavilions on the Gulf-side of the Opal Beach Complex. The area also has facilities including restrooms, pavilion, water fountains, and outdoors showers. Lifeguards are on duty in this area May through September.<br /> <br /> Please stay off of the dunes and out of shorebird enclosures. Camping and overnight parking is not permitted. Pets, glass, and driving not permitted on the beach.</p>",
-        "icon": "red-pin-down.png"
+        "icon": "swimming"
       }
     },
     {
@@ -2923,7 +2923,7 @@
       "properties": {
         "name": "Opal Beach Cluster E",
         "notes": "Opal Beach Cluster E\nhttps://www.nps.gov/places/000/opal-beach-cluster-e.htm\n\n<p>Enjoy the white sands and emerald green waters of the gulf or the calm waters of the sound. The Opal Beach Complex located in the Santa Rosa Area of Gulf Islands National Seashore is a great place to boat, fish, and swim.<br /> <br /> Cluster E is the eastern-most cluster of pavilions on the Gulf-side of the Opal Beach Complex. Lifeguards are on duty in this area May through September.<br /> <br /> lease stay off of the dunes and out of shorebird enclosures. Camping and overnight parking is not permitted. Pets, glass, and driving not permitted on beach.</p>",
-        "icon": "red-pin-down.png"
+        "icon": "swimming"
       }
     },
     {
@@ -2968,7 +2968,7 @@
       "properties": {
         "name": "Pensacola Bay City Ferry: Pensacola Beach Departure Point",
         "notes": "Pensacola Bay City Ferry: Pensacola Beach Departure Point\nhttps://www.nps.gov/places/000/pensacola-bay-city-ferry-pensacola-beach-departure-point.htm\n\n<p>Pensacola Bay City Ferry tour boats link downtown Pensacola, Pensacola Beach, and the Fort Pickens Area of Gulf Islands National Seashore seasonally. Whionboardard the vessels visitors will enjoy beautiful views of the coastline and historic structures. The ride is about 45 minutes between each departure point location. </p> <p>No matter what the season, beachgoers can relax on the sunny, peaceful shores of the Pensacola Beach area's emerald-green coastline. Pensacola Beach also offers an array of shopping, lodging, restaurants, and entertainment.<br /> <br /> HMS Ferries, Inc., operating as Pensacola Bay City Ferry, a private, nonsubsidized, for-profit company has signed a concessions contract to operate the service.</p>",
-        "icon": "red-pin-down.png"
+        "icon": "swimming"
       }
     },
     {
@@ -3013,7 +3013,7 @@
       "properties": {
         "name": "Perdido Key Discovery Trail",
         "notes": "Perdido Key Discovery Trail\nhttps://www.nps.gov/places/000/perdido-key-discovery-trail.htm\n\n<p><span style=\"color:#c0392b;\"><strong>Note: This trail is currently closed to the public due to sustained hurricane damage. We apologize for the inconvenience.</strong></span><br /> <br /> Walk along this boardwalk loop in the Perdido Key area and discover a variety of habitats, including a salt marsh, wooded wetland, and sand dunes. From herons to woodpeckers, raccoons to otters, and frogs to snakes, these barrier island habitats attract a diversity of birds, small mammals, and reptiles. Take your time, look high and low, and listen carefully.<br /> <br /> The 0.36 mile accessible trail loops back to Johnson Beach Road about 0.1 mile away. Visitors may park across the street at Johnson Beach Road parking and cross over to access the trail.<br /> <br /> <strong>Trailhead locations:</strong></p> <ul> <li>North loop - near Johnson Beach ramp/boat launch</li> <li>South loop - first left on Johnson Beach Road</li> </ul> <p><strong>Duration: </strong>15-30 minutes</p>",
-        "icon": "red-pin-down.png"
+        "icon": "known-route"
       }
     },
     {
@@ -3028,7 +3028,7 @@
       "properties": {
         "name": "Perdido Key Discovery Trail - North Trailhead",
         "notes": "Perdido Key Discovery Trail - North Trailhead\nhttps://www.nps.gov/places/000/perdido-key-discovery-north-trailhead.htm\n\n<p><span style=\"color:#c0392b;\"><strong>Note: This trail is currently closed to the public due to sustained hurricane damage. We apologize for the inconvenience.</strong></span><br /> <br /> Walk along this boardwalk loop in the Perdido Key area and discover a variety of habitats, including a salt marsh, wooded wetland, and sand dunes. From herons to woodpeckers, raccoons to otters, and frogs to snakes, these barrier island habitats attract a diversity of birds, small mammals, and reptiles. Take your time, look high and low, and listen carefully.<br /> <br /> The 0.36 mile accessible trail loops back to Johnson Beach Road about 0.1 mile away. Visitors may park across the street at Johnson Beach Road parking and cross over to access the trail.<br /> <br /> <strong>Trailhead locations:</strong></p> <ul> <li>North loop - near Johnson Beach ramp/boat launch</li> <li>South loop - first left on Johnson Beach Road</li> </ul>",
-        "icon": "red-pin-down.png"
+        "icon": "trailhead"
       }
     },
     {
@@ -3043,7 +3043,7 @@
       "properties": {
         "name": "Perdido Key Small Boat Launch",
         "notes": "Perdido Key Small Boat Launch\nhttps://www.nps.gov/places/000/perdido-key-small-boat-launch.htm\n\n<p>Lauch your kayak or paddleboard here for access to historical points of interest, extensive seagrass beds, and interesting wildlife. This small boat launch is the trail-head for the Perdido Key Blueway. This Perdido Key Blueway comprises the first 5.5 mile portion of the 1,515 mile Florida Circumnavigational Saltwater Paddling Trail. <br /> <br /> This launch is not suitable for trailer boat launching. Parking is limited at this launch, you may need to unload and then park in the larger Rosamond Johnson Beach parking lots.<br /> <br /> Do not enter historic military ruins near the site of Fort McRee or remove any historic artifacts on land or in the water.</p> <p> </p>",
-        "icon": "red-pin-down.png"
+        "icon": "canoe"
       }
     },
     {
@@ -3118,7 +3118,7 @@
       "properties": {
         "name": "Rosamond Johnson Beach",
         "notes": "Rosamond Johnson Beach\nhttps://www.nps.gov/places/000/rosamond-johnson-beach.htm\n\n<p>Visit <a href=\"https://www.nps.gov/guis/learn/historyculture/rosamond-johnson.htm\">Rosamond Johnson</a> Beach for access to the pristine emerald coast waters of the Gulf of Mexico. Great for water activities, beach combing, and most popular as a swim beach. During the summer months (May to September), lifeguards are on duty and fishing is not permitted within the flagged swim beach.<br /> <br /> Two large parking lots provide convenient access to the beach, picnic pavilions, restrooms, water fountains, and beach showers.<br /> <br /> Please stay off of the dunes and out of shorebird enclosures. Pets, glass, and driving are not permitted on the beach. Overnight parking is not permitted.<br /> <br /> Traffic does back up at this location and is monitored. Traffic updates can be found on the digital reader boards before reaching the entrance stations. </p>",
-        "icon": "red-pin-down.png"
+        "icon": "swimming"
       }
     },
     {
@@ -3133,7 +3133,7 @@
       "properties": {
         "name": "Rosamond Johnson Beach East Pavilion",
         "notes": "Rosamond Johnson Beach East Pavilion\nhttps://www.nps.gov/places/000/rosamond-johnson-beach-east-pavilion.htm\n\n<p>This picnic pavilion is located on the eastern end of Rosamond Johnson Beach overlooking the beach and the Gulf of Mexico. A ramp leads up to the pavilion from the parking lot. There are accessible restrooms, drinking fountains, beach showers, and grills located immediately adjacent to the pavilion.<br />  </p>",
-        "icon": "red-pin-down.png"
+        "icon": "swimming"
       }
     },
     {
@@ -3148,7 +3148,7 @@
       "properties": {
         "name": "Rosamond Johnson Beach West Pavilion",
         "notes": "Rosamond Johnson Beach West Pavilion\nhttps://www.nps.gov/places/000/rosamond-johnson-beach-west-pavilion.htm\n\n<p>This picnic pavilion is located on the western end of Rosamond Johnson Beach overlooking the beach and the Gulf of Mexico. A ramp leads up to the pavilion from the parking lot. There are accessible restrooms, drinking fountains, beach showers, and grills located immediately adjacent to the pavilion<br />  </p>",
-        "icon": "red-pin-down.png"
+        "icon": "swimming"
       }
     },
     {
@@ -3223,7 +3223,7 @@
       "properties": {
         "name": "Santa Rosa Area Entrance Sign",
         "notes": "Santa Rosa Area Entrance Sign\nhttps://www.nps.gov/places/000/santa-rosa-area-entrance-sign.htm\n\n<p>Welcome to the Santa Rosa Area! This area features access to the white-sand beaches and blue-green waters of the Gulf of Mexico. Visitors can continue to hike on the Florida National Scenic Trail along the beach or enjoy the scenery from a boardwalk trail. Restrooms, showers, parking, and picnic shelters are available at the Opal Beach Complex.</p>",
-        "icon": "red-pin-down.png"
+        "icon": "information"
       }
     },
     {
@@ -3253,7 +3253,7 @@
       "properties": {
         "name": "Ship Island Entrance Sign",
         "notes": "Ship Island Entrance Sign\nhttps://www.nps.gov/places/000/ship-island-entrance-sign.htm\n\n<p>Welcome to <a href=\"https://www.nps.gov/guis/planyourvisit/ship-island.htm\">Ship Island</a> ! Explore historic Fort Massachusetts, have a picnic, go for a hike, swim in the Gulf of Mexico, spot wildlife, or just sit back and enjoy the salt air on the beach.</p>",
-        "icon": "red-pin-down.png"
+        "icon": "information"
       }
     },
     {
@@ -3313,7 +3313,7 @@
       "properties": {
         "name": "Ship Island Swim Beach",
         "notes": "Ship Island Swim Beach\nhttps://www.nps.gov/places/000/ship-island-swim-beach.htm\n\n<p>The Ship Island swim beach is located on the southside of the island and provides access for swimming, wading, fishing, beach-combing and more.<br /> <br /> There are restrooms, beach showers, water fountains, a pavilion, and concession stand located nearby. This beach is accessable by private boat. Lifeguards are on duty during the summer months.<br />  </p>",
-        "icon": "red-pin-down.png"
+        "icon": "swimming"
       }
     },
     {
@@ -3358,7 +3358,7 @@
       "properties": {
         "name": "Stark Bayou Overlook",
         "notes": "Stark Bayou Overlook\nhttps://www.nps.gov/places/000/stark-bayou-overlook.htm\n\n<p>The Stark Bayou overlooks an open marsh full of vegetation and winding waterways, all bordered by a woodland area. A boardwalk stretching across the bayou makes this is a great place to view wildlife or take photographs. Often this waterway is one of the best places to see wildlife like birds, turtles, crabs, and alligators. <br /> <br /> Parking is available at the beginning of the waterway in front of the Nature’s Way Loop Trail entrance, or just past the waterway across at the corner of Robert MeGhee Road and Boat Launch. Please do not stop your vehicle in the road for a photo, as this can be dangerous to other cars, people, and wildlife.<br />  </p>",
-        "icon": "red-pin-down.png"
+        "icon": "binoculars"
       }
     },
     {
@@ -3403,7 +3403,7 @@
       "properties": {
         "name": "Teeming with Life - Brackenridge Trail",
         "notes": "Teeming with Life - Brackenridge Trail\nhttps://www.nps.gov/places/000/teeming-with-life-brackenridge-trail.htm\n\n<p>From the forest floor to the treetops, this coastal woodland is full of activity. Beneath the live oaks, magnolias, and saw palmettos, frogs, skinks, snakes, and salamanders forage for bugs and beetles in the leaf litter and on downed trees. Armadillos, skunks, and raccoons shuffle along feeding on ants, worms, spiders, and berries. Squirrels dart here and there gathering acorns and nuts to feed their young high up in the oak and hickory trees. Vireos, warblers, and woodpeckers fill the air with calls and songs.</p>",
-        "icon": "red-pin-down.png"
+        "icon": "known-route"
       }
     },
     {
@@ -3433,7 +3433,7 @@
       "properties": {
         "name": "Trench Trail",
         "notes": "Trench Trail\nhttps://www.nps.gov/places/000/fort-barrancas-trench-visitor-center-trailhead.htm\n\n<p>This trail begins adjacent to the Fort Barrancas Visitor Center. Visitors may park next to the visitor center and begin the trail, which crosses the road and connects to Advanced Redoubt. Portions of the historic communication trench are visible all along the trail.<br /> Use extreme caution crossing the busy highway. Bicycles are not permitted. The trail is 0.5 miles total.<br /> <br /> <strong>Trailhead locations: </strong></p> <ul> <li>Fort Barrancas Visitor Center</li> <li>Advanced Redoubt</li> </ul> <p><strong>Duration:</strong> 30-45 minutes</p> <p><span style=\"color:#c0392b;\"><strong>Note: This trail is inside Naval Air Station Pensacola, which is currently closed to the public. Visitors must have an eligible DoD ID to access the base and the Fort Barrancas area. We apologize for the inconvenience.</strong></span><br /> <br />  </p>",
-        "icon": "red-pin-down.png"
+        "icon": "known-route"
       }
     },
     {
@@ -3448,7 +3448,7 @@
       "properties": {
         "name": "Trench Trail - Advanced Redoubt Trailhead",
         "notes": "Trench Trail - Advanced Redoubt Trailhead\nhttps://www.nps.gov/places/000/fort-barrancas-trench-advanced-redoubt-trailhead.htm\n\n<p>This trail begins in the southeast corner of the Advanced Redoubt parkling lot. Visitors may park at Advanced Redoubt and begin the trail, which crosses the road and connects to Fort Barrancas and the visitor center. Portions of the historic communication trench are visible all along the trail.<br /> Use extreme caution crossing the busy highway. Bicycles are not permitted. The trail is 0.5 miles total.<br /> <br /> <strong>Trailhead locations: </strong></p> <ul> <li>Fort Barrancas Visitor Center</li> <li>Advanced Redoubt</li> </ul> <p><span style=\"color:#c0392b;\"><strong>Note: This trail is inside Naval Air Station Pensacola, which is currently closed to the public. Visitors must have a military or federal ID to access the base and the Fort Barrancas area. We apologize for the inconvenience.</strong></span><br />  </p> <p> </p>",
-        "icon": "red-pin-down.png"
+        "icon": "trailhead"
       }
     },
     {
@@ -3508,7 +3508,7 @@
       "properties": {
         "name": "Woodland Nature Trail",
         "notes": "Woodland Nature Trail\nhttps://www.nps.gov/places/000/fort-barrancas-woodland-nature-trailhead.htm\n\n<p>This trail is a 0.25 mile loop that begins and ends at the Fort Barrancas Visitor Center. Visitors may park at the visitor center and begin the trail to the west. The dirt path is fairly smooth with a sandy base, but can be slippery when wet. Use caution and respect wildlife on the trail. <br /> <br /> Succession in natural communities is the process by which new species of plants and animals become established as conditions change. As trees grow tall in coastal woodlands, they shade out sun-loving plants on the forest floor. Sometimes change occurs rapidly. Winds generated by tropical storms knock down mature trees and strip the leaves from others. This permits sunlight to reach the forest floor again and allows the return of wildflowers, grasses, and mosses.<br /> <br /> <strong>Duration:</strong> 15-30 minutes<br /> <br /> <span style=\"color:#c0392b;\"><strong>Note: This trail is inside Naval Air Station Pensacola, which is currently closed to the public. Visitors must have a military or federal ID to access the base and the Fort Barrancas area. We apologize for the inconvenience.</strong></span></p>",
-        "icon": "red-pin-down.png"
+        "icon": "known-route"
       }
     }
   ]

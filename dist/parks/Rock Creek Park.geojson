@@ -433,7 +433,7 @@
       "properties": {
         "name": "Fort Bunker Hill Park: CCC Amphitheater",
         "notes": "Fort Bunker Hill Park: CCC Amphitheater\nhttps://www.nps.gov/places/000/fort-bunker-hill-park-ccc-amphitheater.htm\n\nFort Bunker Hill was leveled after the Civil War, but the grounds were reclaimed for civilian use. The land was acquired by the National Park Service in the 1930s. The Civilian Conservation Corps constructed an outdoor amphitheater and installed concrete water fountains at Fort Bunker Hill. The park was was for concerts, summer camps, and other recreational activites. ",
-        "icon": "red-pin-down.png"
+        "icon": ""
       }
     },
     {
@@ -448,7 +448,7 @@
       "properties": {
         "name": "Fort Bunker Hill Park: picnic area",
         "notes": "Fort Bunker Hill Park: picnic area\nhttps://www.nps.gov/places/000/fort-bunker-hill-park-picnic-area.htm\n\n<strong>Location Description: </strong>The Fort Bunker Hill Picnic Area is located at the intersection of 14th Street NE and Otis Street NE. The picnic area has two tables and set of trash cans.<br /> <br /> <strong>Restrooms: </strong>No<br /> <br /> <strong>Parking: </strong>Yes- Street Parking is available with restrictions<br /> <br /> <strong>Reservations and Permits: </strong>This is a first-come, first-served picnic area and is limited to no more than 25 people.",
-        "icon": "red-pin-down.png"
+        "icon": "picnic"
       }
     },
     {
@@ -673,7 +673,7 @@
       "properties": {
         "name": "Fort Totten Picnic Area",
         "notes": "Fort Totten Picnic Area\nhttps://www.nps.gov/places/fort-totten-picnic-area.htm\n\n<strong>Location Description: </strong>The Fort Totten Picnic Area consists of several picnic tables near the intersection of Fort Totten Drive NE and Allison Street NE. The tables are scattered along a slight hill. <br /> <br /> <strong>Restrooms: </strong>No<br /> <br /> <strong>Parking: </strong>There is no vehicle access at Fort Totten. Street parking is available with restrictions. All picnic tables are walk-up only<br /> <br /> <strong>Reservations and Permits: </strong>This is a first-come, first-served picnic area and is limited to no more than 25 people.",
-        "icon": "red-pin-down.png"
+        "icon": "picnic"
       }
     },
     {
@@ -1948,7 +1948,7 @@
       "properties": {
         "name": "Peirce Barn Restrooms",
         "notes": "Peirce Barn Restrooms\nhttps://www.nps.gov/places/peirce-barn-restrooms.htm\n\nThe restroom facilities are located behind <a href=\"https://www.nps.gov/places/000/peirce-barn.htm\">Peirce Barn</a> and consist of two unisex facilities.<br /> <br /> These facilities will be open independently of <a href=\"https://www.nps.gov/rocr/planyourvisit/peirce-mill-visitor-center.htm\">Peirce Mill</a> or Peirce Barn.<br /> <br /> There is also a water bottle filling station on this building.",
-        "icon": "red-pin-down.png"
+        "icon": "toilets"
       }
     },
     {
@@ -1993,7 +1993,7 @@
       "properties": {
         "name": "Picnic Grove #1 Restrooms",
         "notes": "Picnic Grove #1 Restrooms\nhttps://www.nps.gov/places/picnic-grove-1-restrooms.htm\n\nThe restroom facilities at Picnic Grove #1 are attached to and create the rear wall of the Picnic Pavilion.<br /> <br /> Visitors who reserve Picnic Grove #1 for their event can not obstruct use of the rest room facilities by other members of the public.",
-        "icon": "red-pin-down.png"
+        "icon": "toilets"
       }
     },
     {
@@ -2008,7 +2008,7 @@
       "properties": {
         "name": "Picnic Grove #10 Restrooms",
         "notes": "Picnic Grove #10 Restrooms\nhttps://www.nps.gov/places/picnic-grove-10-restrooms.htm\n\nPicnic Grove #10 comfort station is open seasonally as conditions permit.<br /> <br /> <strong><font color=\"#c0392b\">Update: Picnic Grove #10 is closed for the 2022 season. It will reopen in spring of 2023.</font></strong>",
-        "icon": "red-pin-down.png"
+        "icon": "toilets"
       }
     },
     {
@@ -2023,7 +2023,7 @@
       "properties": {
         "name": "Picnic Grove #24 Restrooms",
         "notes": "Picnic Grove #24 Restrooms\nhttps://www.nps.gov/places/picnic-grove-24-restrooms.htm\n\nThe restroom facilities at Picnic Grove #24 are located near the playground on the opposite side from the pavilion.",
-        "icon": "red-pin-down.png"
+        "icon": "toilets"
       }
     },
     {
@@ -2038,7 +2038,7 @@
       "properties": {
         "name": "Picnic Grove #6 restrooms",
         "notes": "Picnic Grove #6 restrooms\nhttps://www.nps.gov/places/picnic-grove-6-restrooms.htm\n\nThe restroom facilities are located on Beach Drive opposite Picnic Grove #6 close to the Joaquin Miller Cabin and Milkhouse Ford. There is a small automobile pull out for temporary, short-term parking. ",
-        "icon": "red-pin-down.png"
+        "icon": "toilets"
       }
     },
     {
@@ -2818,7 +2818,7 @@
       "properties": {
         "name": "Trailhead: Black Horse Trail at Beach Drive",
         "notes": "Trailhead: Black Horse Trail at Beach Drive\nhttps://www.nps.gov/places/trailhead-black-horse-trail-at-beach-drive.htm\n\nThis trailhead is where the White Horse Trail and Black Horse Trail intersect. It is a popular trail that paralells Rock Creek.",
-        "icon": "red-pin-down.png"
+        "icon": "trailhead"
       }
     },
     {
@@ -2833,7 +2833,7 @@
       "properties": {
         "name": "Trailhead: Black Horse Trail at Milkhouse Ford",
         "notes": "Trailhead: Black Horse Trail at Milkhouse Ford\nhttps://www.nps.gov/places/trailhead-black-horse-trail-at-milkhouse-ford.htm\n\nThe Black Horse Trail at Milkhouse Ford is a popular trail with both pedestrians and equestrians. The trail is broad and relatively flat and connects Beach Drive and the White Horse Trail.",
-        "icon": "red-pin-down.png"
+        "icon": "trailhead"
       }
     },
     {
@@ -2848,7 +2848,7 @@
       "properties": {
         "name": "Trailhead: Black Horse Trail junction with White Horse Trail",
         "notes": "Trailhead: Black Horse Trail junction with White Horse Trail\nhttps://www.nps.gov/places/trailhead-black-horse-trail-junction-with-white-horse-trail.htm\n\nThe two popular horse trails in the park cross at this point.  ",
-        "icon": "red-pin-down.png"
+        "icon": "known-route"
       }
     },
     {
@@ -2863,7 +2863,7 @@
       "properties": {
         "name": "Trailhead: Cross Trail #5",
         "notes": "Trailhead: Cross Trail #5\nhttps://www.nps.gov/places/trailhead-cross-trail-5.htm\n\nCross Trail #5 runs in an east-west direction. This trailhead is located on the east side of Cross Trail #5 and is near the historic Milkhouse Ford. It is part of the park's popular highlighted <a href=\"https://www.nps.gov/thingstodo/milkhouse-ford-hike.htm\">Milkhouse Ford Hike</a> ",
-        "icon": "red-pin-down.png"
+        "icon": "trailhead"
       }
     },
     {
@@ -2878,7 +2878,7 @@
       "properties": {
         "name": "Trailhead: Cross Trail #6 at Black Horse Trail",
         "notes": "Trailhead: Cross Trail #6 at Black Horse Trail\nhttps://www.nps.gov/places/trailhead-cross-trail-6-at-black-horse-trail.htm\n\nCross Trail #6 runs between the Rock Creek Park Horse Center and the Black Horse Trail near Rock Creek. ",
-        "icon": "red-pin-down.png"
+        "icon": "known-route"
       }
     },
     {
@@ -2893,7 +2893,7 @@
       "properties": {
         "name": "Trailhead: Cross Trail #9 at Beach Drive",
         "notes": "Trailhead: Cross Trail #9 at Beach Drive\nhttps://www.nps.gov/places/trailhead-cross-trail-9-at-beach-drive.htm\n\nCross Trail #9 does not have a parking lot associated with it on Beach Drive NW. It is accessible by foot only and is the recommended route to return to the Nature Center on the Boulder Bridge Loop.",
-        "icon": "red-pin-down.png"
+        "icon": "trailhead"
       }
     },
     {
@@ -2908,7 +2908,7 @@
       "properties": {
         "name": "Trailhead: Fort DeRussy Trail and White Horse Trail",
         "notes": "Trailhead: Fort DeRussy Trail and White Horse Trail\nhttps://www.nps.gov/places/trailhead-fort-derussy-trail-and-white-horse-trail.htm\n\nThis popular trail is enjoyed by pedestrians and equestrians alike. The wide dirt trail takes park visitors past historic <a href=\"https://www.nps.gov/places/fort-derussy.htm\">Fort DeRussy</a> and continues down to Rock Creek. <br /> <br /> The trail parallels Military Road NW and Bike Trail #3, which is the paved option for cyclists to navigate safely between Oregon Avenue NW and Beach Drive NW.<br /> <br /> Note: Bicyclists are not allowed on dirt trails in Rock Creek Park.<br />  ",
-        "icon": "red-pin-down.png"
+        "icon": "known-route"
       }
     },
     {
@@ -2923,7 +2923,7 @@
       "properties": {
         "name": "Trailhead: Pinehurst Trail",
         "notes": "Trailhead: Pinehurst Trail\nhttps://www.nps.gov/places/trailhead-pinehurst-trail.htm\n\nThe Pinehurst Trail runs for just under 1.5 miles from the western border between the District of Columbia and Maryland to Beach Drive. The trail follows the Pinehurst Branch, a small tributary of Rock Creek. <br /> <br /> The Pinehurst Trail is blazed with goldenrod colored markings.",
-        "icon": "red-pin-down.png"
+        "icon": "known-route"
       }
     },
     {
@@ -2938,7 +2938,7 @@
       "properties": {
         "name": "Trailhead: Valley Trail at Parkside Drive NW",
         "notes": "Trailhead: Valley Trail at Parkside Drive NW\nhttps://www.nps.gov/places/trailhead-valley-trail-at-parkside-drive-nw.htm\n\nThis trailhead provides access to the Valley Trail in the North Floodplain area of the park. This trailhead does not have a parking area. Obey all posted signs as the only parking available is on a nearby residential street.",
-        "icon": "red-pin-down.png"
+        "icon": "trailhead"
       }
     },
     {
@@ -2953,7 +2953,7 @@
       "properties": {
         "name": "Trailhead: Valley Trail at Rapids Bridge",
         "notes": "Trailhead: Valley Trail at Rapids Bridge\nhttps://www.nps.gov/places/trailhead-valley-trail-at-rapids-bridge.htm\n\nThis trailhead is accessible by foot and is part of the popular Boulder Bridge Loop. Located close to Rapids Bridge, it requires hikers to cross Beach Drive from the parking pull out near the bridge or from the Black Horse Trail on the opposite side of Rapids Bridge.<br /> <br /> Hikers are urged to use caution when crossing Beach Drive to access this section of the trail. ",
-        "icon": "red-pin-down.png"
+        "icon": "trailhead"
       }
     },
     {
@@ -2968,7 +2968,7 @@
       "properties": {
         "name": "Trailhead: Western Ridge Trail at Broadbranch Road NW",
         "notes": "Trailhead: Western Ridge Trail at Broadbranch Road NW\nhttps://www.nps.gov/places/trailhead-western-ridge-trail-at-broad-branch-road-nw.htm\n\nThis trailhead is at the intersection of Beach Drive NW and Broad Branch Road NW. The paved hiker/biker trail (Bike Trail #4- Glover Rd South to Beach Drive), Black Horse Trail and White Horse Trail intersect near this trailhead.<br /> <br /> The Western Ridge Trail is blazed with green markings and runs from the DC/Maryland border in the north to Bluff Bridge in the southern section of the park.<br />  ",
-        "icon": "red-pin-down.png"
+        "icon": "trailhead"
       }
     },
     {
@@ -2983,7 +2983,7 @@
       "properties": {
         "name": "Trailhead: Western Ridge at White Horse Trail",
         "notes": "Trailhead: Western Ridge at White Horse Trail\nhttps://www.nps.gov/places/trailhead-western-ridge-at-white-horse-trail.htm\n\nThe Western Ridge Trail is one of the popular trails in Rock Creek Park. It runs in a north-south direction from <a href=\"https://www.nps.gov/places/000/boundary-bridge.htm\">Boundary Bridge</a> to Bluff Bridge.<br /> <br /> This trailhead is located near historic Fort DeRussy and is the juncture between the Black Horse Trail, the Potomac Heritage National Scenic Trail and the Fort DeRussy Trail. It is very close to Bike Trail #1 and Bike Trail #3.<br /> <br /> Note: Bicycles are not allowed on the Western Ridge Trail.",
-        "icon": "red-pin-down.png"
+        "icon": "known-route"
       }
     },
     {
@@ -2998,7 +2998,7 @@
       "properties": {
         "name": "Trailhead: White Horse Trail",
         "notes": "Trailhead: White Horse Trail\nhttps://www.nps.gov/places/trail-head-white-horse-trail.htm\n\nThis trailhead is located near the Rock Creek Park Horse Center's outdoor riding area. To access the trailhead, enter the Horse Center and veer to the left through their small parking area and then pass a large gray barn on the right. The outdoor riding area is straight ahead and surrounded by fencing. <br /> <br /> Circle around the left hand side of the riding arena where you will find the trail head. <br /> <br /> This trail is a bridle trail and is meant for both horse and pedestrian traffic. Pets are allowed on the trail but they must be leashed at all times. <br /> <br /> This trail will bring visitors down to Rock Creek where they can access:<br /> <a href=\"https://www.nps.gov/places/rock-creek-park-picnic-grove-22.htm\">Picnic Grove 22</a><br /> <a href=\"https://www.nps.gov/places/joaquin-miller-cabin.htm\">Joaquin Miller Cabin</a><br /> Milkhouse Ford<br /> <a href=\"https://www.nps.gov/places/000/rapids-bridge.htm\">Rapids Bridge</a><br /> <a href=\"https://www.nps.gov/places/000/boulder-bridge.htm\">Boulder Bridge</a><br /> and Beach Drive NW.<br /> <br /> This trailhead is the beginning of the <a href=\"https://www.nps.gov/thingstodo/rapids-bridge-hike.htm\">Rapids Bridge hike</a> following <span style=\"color:#f39c12;\">orange </span>markings and the <a href=\"https://www.nps.gov/thingstodo/boulder-bridge-hike.htm\">Boulder Bridge hike</a> following <span style=\"color:#ff33cc;\">pink </span>markings.",
-        "icon": "red-pin-down.png"
+        "icon": "known-route"
       }
     },
     {
@@ -3178,7 +3178,7 @@
       "properties": {
         "name": "trailhead: cross trail #5 & Western Ridge Trail",
         "notes": "trailhead: cross trail #5 & Western Ridge Trail\nhttps://www.nps.gov/places/trailhead-cross-trail-5-western-ridge-trail.htm\n\nCross Trail #5 runs in an east-west direction between the Western Ridge Trail and Milkhouse Ford. It runs along--or very close to--the historic roadbed that was Milkhouse Ford Road.<br /> <br /> Cross trail #5 follows a gradual slope and parallels a small tributary of Rock Creek. ",
-        "icon": "red-pin-down.png"
+        "icon": "known-route"
       }
     }
   ]

@@ -13,7 +13,7 @@
       "properties": {
         "name": "Badlands Overlook",
         "notes": "Badlands Overlook\nhttps://www.nps.gov/places/badlands-overlook.htm\n\nThe views of the Little Missouri badlands are spectacular from anywhere in Theodore Roosevelt National Park, but one of the best vistas awaits at Badlands Overlook. Located at the end of the South Unit Scenic Drive, Badlands Overlook offers a panoramic look at the broken and rolling badlands spread out below. Perfect for watching the sunrise or picking out elk or bison wandering through the buttes, Badlands Overlook makes for a great destination on a visit to the South Unit.<br /> <br /> It is illegal to remove any resource from a national park. Leave any flower, stone, or other object where you find it so that other visitors can enjoy it as well. <br /> <br /> It is illegal to carve, paint, or otherwise alter anything in a national park.",
-        "icon": "red-pin-down.png"
+        "icon": "binoculars"
       }
     },
     {
@@ -28,7 +28,7 @@
       "properties": {
         "name": "Boicourt Overlook",
         "notes": "Boicourt Overlook\nhttps://www.nps.gov/places/boicourt-overlook.htm\n\nTheodore Roosevelt described the Little Missouri Badlands as “...a land of vast, silent spaces...” and standing at Boicourt Overlook, you can understand what he meant. Stretching away toward the horizon, the broken rolling landscape of Theodore Roosevelt National Park is utterly unique. From here, you can even see beyond park boundaries, where some of the larger buttes in the area stand, silhouetted against the horizon.<br /> <br /> It is illegal to remove any resource from a national park. Leave any flower, stone, or other object where you find it so that other visitors can enjoy it as well. <br /> <br /> It is illegal to carve, paint, or otherwise alter anything in a national park.",
-        "icon": "red-pin-down.png"
+        "icon": "binoculars"
       }
     },
     {
@@ -43,7 +43,7 @@
       "properties": {
         "name": "Boicourt Trail",
         "notes": "Boicourt Trail\nhttps://www.nps.gov/places/boicourt-trail.htm\n\nBoicourt Trail is located approximately halfway along the South Unit scenic drive, making it the perfect place to hop out of the car and take in a little fresh air. This 0.2-mile accessible trail offers some incredible views while hiking the paved trail out over the badlands. Want to keep going? An additional unpaved section continues past the end of the trail, leading to another overlook.<br /> <br /> It is illegal to remove any resource from a national park. Leave any flower, stone, or other object where you find it so that other visitors can enjoy it as well. <br /> <br /> It is illegal to carve, paint, or otherwise alter anything in a national park. ",
-        "icon": "red-pin-down.png"
+        "icon": "known-route"
       }
     },
     {
@@ -118,7 +118,7 @@
       "properties": {
         "name": "Coal Vein Trail Post 12: Clinker Overlook",
         "notes": "Coal Vein Trail Post 12: Clinker Overlook\nhttps://www.nps.gov/places/coal-vein-trail-post-12-clinker-overlook.htm\n\nThe small spur trail going up the hill leads to an overlook. Be careful; the edge drops sharply. When you look to the left and right you can see and feel the clinker where it forms a protective caprock. The red color of the clinker comes from iron in the rocks that has oxidized (rusted).",
-        "icon": "red-pin-down.png"
+        "icon": "binoculars"
       }
     },
     {
@@ -298,7 +298,7 @@
       "properties": {
         "name": "Coal Vein Trail Post 8: Hills Overlook",
         "notes": "Coal Vein Trail Post 8: Hills Overlook\nhttps://www.nps.gov/places/coal-vein-trail-post-8-hills-overlook.htm\n\nThe trail goes to the right. To your left is an overlook. Be careful; the edge drops off sharply. From the overlook, you can see how the terrain affects plant life. The slopes you see face north. They receive very little direct sunlight which helps retain moisture, allowing juniper to thrive. South-facing slopes receive a lot of direct sunlight. They are very dry and support only hardy grasses and a few drought-tolerant shrubs. ",
-        "icon": "red-pin-down.png"
+        "icon": "binoculars"
       }
     },
     {
@@ -328,7 +328,7 @@
       "properties": {
         "name": "Coal Vein Trailhead",
         "notes": "Coal Vein Trailhead\nhttps://www.nps.gov/places/coal-vein-trailhead.htm\n\nBeautiful layers of rock tell a story of the 60-million-year geologic history of the badlands. From ancient swamps to recent coal fires, this landscape is constantly changing. Learn about badlands geology by following the numbered trail posts. <hr /><strong>Stay to the left to follow the posts in numerical order. </strong>",
-        "icon": "red-pin-down.png"
+        "icon": "trailhead"
       }
     },
     {
@@ -388,7 +388,7 @@
       "properties": {
         "name": "Oxbow Overlook",
         "notes": "Oxbow Overlook\nhttps://www.nps.gov/places/oxbow-overlook.htm\n\nA spectacular scenic vista awaits your exploration at the end of the North Unit Scenic Drive. Explore interpretive waysides along a short accessible sidewalk and take in the views of the meandering Little Missouri River surrounded by tall cottonwood trees and impressive buttes. Aptly named, Oxbow Overlook represents a type of meander that is occurring in the river. Oxbows and oxbow lakes are common along this free-flowing river where natural flood cycles constantly shift the river's course. Be sure to look for wildlife amongst the surrounding buttes.",
-        "icon": "red-pin-down.png"
+        "icon": "binoculars"
       }
     },
     {
@@ -448,7 +448,7 @@
       "properties": {
         "name": "River Bend Overlook",
         "notes": "River Bend Overlook\nhttps://www.nps.gov/places/river-bend-overlook.htm\n\nThere are many beautiful views in Theodore Roosevelt National Park, but perhaps none are better than the view from the shelter at River Bend Overlook. Built by the Civilian Conservation Corps circa 1937, this stone structure stands on the edge of a butte, providing a dramatic view of the Little Missouri River valley below. It also serves as a tangible example of the projects created by the CCC on the land that would eventually become Theodore Roosevelt National Park.<br /> <br /> While you enjoy the view from this shelter, reflect on these words from a badlands CCC veteran on the occasion of the CCC’s 50<sup>th</sup> anniversary: “You learned how to live with other men, you learned self-esteem…you learned about yourself.”",
-        "icon": "red-pin-down.png"
+        "icon": "binoculars"
       }
     },
     {

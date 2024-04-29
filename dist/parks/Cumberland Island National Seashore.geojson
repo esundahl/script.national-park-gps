@@ -178,7 +178,7 @@
       "properties": {
         "name": "Dungeness Beach Crossing",
         "notes": "Dungeness Beach Crossing\nhttps://www.nps.gov/places/dungeness-beach-crossing.htm\n\n<p paraeid=\"{5729dede-21cd-400c-b30a-8e205247b7d5}{166}\" paraid=\"1400501440\">Dungeness Beach is the closest beach to the Dungeness Historic District. The Dungeness beach crossing begins near the Greene-Miller Cemetery. There are two main routes to get to the beach from this point. One route is to follow the sandy road directly to the beach. The road is about half a mile long. It consists of soft sand and can be hilly in parts and flooded during certain times of the year. This route is not recommended during the hot summer months, for those with mobility issues, or those using strollers or beach wheelchairs.   </p> <p paraeid=\"{5729dede-21cd-400c-b30a-8e205247b7d5}{198}\" paraid=\"1183689624\">The recommended route is to follow a series of trails and boardwalks that begin at the Greene-Miller Cemetery. On the far side of the cemetery, a shaded trail follows the edge of the salt marsh. This path leads to a boardwalk that extends over the marsh, providing a view of the Beach Creek marsh area.  Wading shorebirds frequent these tidal areas, and manatees often surface to feed on the cord grasses in the summer. </p> <p paraeid=\"{5729dede-21cd-400c-b30a-8e205247b7d5}{220}\" paraid=\"30214394\">The path surface later changes to a sandy dune field. The trail turns slightly left and visitors will have to trudge up a small dune field. Extra attention should be paid to the signage along the trail. Please stay on the trail in this sensitive area. This dune crossing is not recommended in summer because of the exposure, soft sand, and hot sand temperature. The shaded path to Sea Camp Beach is a great alternative for those wishing to go to the beach.   </p> <p paraeid=\"{3b7c3ef0-77b8-4ebd-aad8-44d11de2be40}{27}\" paraid=\"2100136430\">After the first dune crossing, a second boardwalk traverses the inter-dune meadow ecosystem. From here, you can reconnect with the vehicle road, or follow a footpath through the dunes to the beach. Please note the sand sifts often in this area and the footpath may not be readily visible and may have developed steep berms. Follow the wooden posts with arrows to the beach. The beach crossing is marked with a black and white striped pole. </p> <p paraeid=\"{3b7c3ef0-77b8-4ebd-aad8-44d11de2be40}{51}\" paraid=\"556280771\">Once on the Dungeness beach, you are more than halfway around the southend loop. Visitors may find it easier to hike the beach north a mile to the dune crossing at Sea Camp Beach. A black and white striped pole on the beach indicates the dune crossing to the interior of the island. </p>",
-        "icon": "red-pin-down.png"
+        "icon": "swimming"
       }
     },
     {
@@ -568,7 +568,7 @@
       "properties": {
         "name": "River Trailhead North",
         "notes": "River Trailhead North\nhttps://www.nps.gov/places/river-trailhead-north.htm\n\nThe River Trail is a 0.75 mile trail that winds through the maritime forest near the Intracoastal Waterway. The trail empties near the Ice House Museum at the Dungeness Dock. This trial is a great place to look for warblers during migration. <br /> <br /> There are sign posts along the trail that correspond with a tour that provides information on the native uses of the plants found along the trail. Walking the trail north to south, you will see the numbers decend from 10 to 1. To access the interpretive content, click on the 'Tours' category in the app. You will have to view the tour in reverse when traveling north to south. ",
-        "icon": "red-pin-down.png"
+        "icon": "trailhead"
       }
     },
     {
@@ -583,7 +583,7 @@
       "properties": {
         "name": "River Trailhead South",
         "notes": "River Trailhead South\nhttps://www.nps.gov/places/river-trailhead-south.htm\n\nThe River Trail winds through the maritime forest to the Sea Camp Dock. The trail is 0.75 miles long. <br /> <br /> There are 10 sign posts along the trail that are stops along an interpretive tour. To access the content, navigate to the 'Tours' section of the NPS App. <br /> <br /> The earliest evidence of native peoples on Cumberland Island date back around 4000. These native peoples did not live full time on the island but used it to hunt and gather resources. The Timucuan Indians established villages on the island starting around 700 years ago and were the earliest known humans to live on this island. The Timucuans called this island Missoe, which means ‘beautiful land’. The vegetation found on Missoe provided them with food, clothing, medicine, and shelter. Some of these plants are still in use today as food and medicine.<br /> <br /> As you stroll along the River Trail, discover some of the plants that provided the basic necessities of life for these early inhabitants of Cumberland. Please keep in mind picking plants and collecting artifacts in National Parks is strictly prohibited.<br />  ",
-        "icon": "red-pin-down.png"
+        "icon": "trailhead"
       }
     },
     {
@@ -598,7 +598,7 @@
       "properties": {
         "name": "Sea Camp Beach Crossing",
         "notes": "Sea Camp Beach Crossing\nhttps://www.nps.gov/places/sea-camp-beach-crossing.htm\n\n<p paraeid=\"{b78236bc-e16b-452e-a52c-414b8e911a69}{166}\" paraid=\"1047248441\">Sea Camp Beach is the most accessible beach crossing on the island. It is the closest beach to the Sea Camp Dock and is easily accessible from the Sea camp Campground. Ferry passengers can take the short 0.5 mile path from the dock, through the maritime forest, and over the dune boardwalk to reach Sea Camp Beach. Those camping at Sea Camp Campground are just beyond the dunes from the beach and need only take the dune boardwalk to arrive at the beach.  </p> <p lang=\"EN-US\" paraeid=\"{37e55e8b-b91b-4ab8-bcf3-f6e312993cae}{240}\" paraid=\"1025895182\" xml:lang=\"EN-US\">The boardwalk is a great place to view the tracks of animals that pass through the sand dune ecosystem. The boardwalk leads to an interdune meadow where you can find many plants that thrive in the moist meadow. There is a short section of soft sand that leads to the beach.  This sand can shift after high wind events and can lead to small hills at the crossing. Please stay off the sensitive sand dunes. </p> <p lang=\"EN-US\" paraeid=\"{c1e1a1da-7f24-4c61-a783-4e3181d65cb2}{193}\" paraid=\"1913762627\" xml:lang=\"EN-US\">A bathhouse that serves as the main facilities for campers at Sea Camp is located just before the dune crossing. Water fountain and restrooms are located here. Swimming and shelling are popular beach activities on Cumberland Island’s 18 miles of undeveloped coastline. Swim at your own risk, there are no lifeguards.</p>",
-        "icon": "red-pin-down.png"
+        "icon": "swimming"
       }
     },
     {

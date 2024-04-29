@@ -73,7 +73,7 @@
       "properties": {
         "name": "Anacostia Riverwalk Trail",
         "notes": "Anacostia Riverwalk Trail\nhttps://www.nps.gov/places/anacostia-riverwalk-trail.htm\n\n<p paraeid=\"{cbf3787d-d303-45ec-a1fa-ee27859c2d6f}{83}\" paraid=\"557181009\">The Anacostia Riverwalk Trail is a paved multi-use trail that runs along the Anacostia River. It is free and is open year-round during daylight hours. The trail is excellent for biking, jogging and walking. Pets are welcome along the trail as long as they are on a 6 foot or shorter leash. The trail is 3.5 miles long in Anacostia Park, but you have many options to extend your journey. You can do a 7.8 mile loop by crossing the Anacostia River and riding along the west bank or the river. You can also continue along the trail north to Bladensburg Park in Maryland, or south by going across one of the bridges into downtown DC to the Capitol Hill and Navy Yard neighborhoods.   </p> <p paraeid=\"{cbf3787d-d303-45ec-a1fa-ee27859c2d6f}{97}\" paraid=\"947513966\">Local attractions along the trail in Anacostia Park include the Anacostia Park Pavillion, where you can rent roller-skates from Memorial Day until Labor Day. The Anacostia Pool, tennis courts, basketball courts and many athletic fields provide the opportunity for sports and recreation. The trail connects other nearby areas to explore including the Kenilworth Aquatic Gardens, River Terrace Park, the Maine Avenue Fish Market and Wharf, Nationals Park, Historic Anacostia, and the Bladensburg Marina Park.  </p> <p paraeid=\"{cbf3787d-d303-45ec-a1fa-ee27859c2d6f}{103}\" paraid=\"44808534\">The newest portion of the riverwalk trail that extended Benning Road NE to the Bladensburg Trail was completed in 2016. Mileage markers were completed in 2022 to assist in navigation and directions for trail users. </p>",
-        "icon": "red-pin-down.png"
+        "icon": "known-route"
       }
     },
     {
@@ -433,7 +433,7 @@
       "properties": {
         "name": "Fort Dupont Historic Earthwork picnic area",
         "notes": "Fort Dupont Historic Earthwork picnic area\nhttps://www.nps.gov/places/000/fort-dupont-historic-earthwork-picnic-area.htm\n\n<p>Picnic amidst history at the site of Fort Dupont's historic earthworks.<br /> <br /> Picnickers may reserve sites through <a href=\"https://www.recreation.gov/camping/campgrounds/250017\">Recreation.gov</a> .</p>",
-        "icon": "red-pin-down.png"
+        "icon": "picnic"
       }
     },
     {
@@ -448,7 +448,7 @@
       "properties": {
         "name": "Fort Dupont Randle Circle picnic area",
         "notes": "Fort Dupont Randle Circle picnic area\nhttps://www.nps.gov/places/000/fort-dupont-randle-circle-picnic-area.htm\n\n<p>The picnic grove at Fort Dupont offers a number of recreational opportunities. In addition to picnicking, visitors can hike the nearby trails that link the various Civil War-era forts that protected the capital.<br /> <br /> Picnickers may reserve sites through <a href=\"https://www.recreation.gov/camping/campgrounds/250017\">Recreation.gov</a> .</p>",
-        "icon": "red-pin-down.png"
+        "icon": "picnic"
       }
     },
     {
@@ -463,7 +463,7 @@
       "properties": {
         "name": "Fort Dupont Ridge picnic area",
         "notes": "Fort Dupont Ridge picnic area\nhttps://www.nps.gov/places/000/fort-dupont-ridge-picnic-area.htm\n\nFort Dupont Ridge picnic area",
-        "icon": "red-pin-down.png"
+        "icon": "picnic"
       }
     },
     {
@@ -658,7 +658,7 @@
       "properties": {
         "name": "Fort Washington Picnic Area A",
         "notes": "Fort Washington Picnic Area A\nhttps://www.nps.gov/places/000/fort-washington-picnic-area-a.htm\n\n<p lang=\"EN-US\" paraeid=\"{7d448c57-5bbc-4227-916f-95ee6e9127c8}{47}\" paraid=\"887880606\" xml:lang=\"EN-US\">Fort Washington’s group picnic areas require a reservation April 1 through October 31. They can be reserved using Recreation.gov.<br /> <br /> Area A has parking lot with about 50 spaces. It is a larger area, for up to 200 people. </p> <p lang=\"EN-US\" paraeid=\"{25e2ecb0-40b1-4be6-b7e3-69a4c1d2d86c}{201}\" paraid=\"452734007\" xml:lang=\"EN-US\">25-28 picnic tables, several small pedestal grills and one large pedestal grill with three separate grills. The tables are placed in a stand of trees that provide shade.</p> <p lang=\"EN-US\" paraeid=\"{406ccdaa-1c02-4545-92d4-7e9d37ce8071}{97}\" paraid=\"1173353088\" xml:lang=\"EN-US\">A Restroom is in the area. The area has a large open field behind the tables. </p>",
-        "icon": "red-pin-down.png"
+        "icon": "picnic"
       }
     },
     {
@@ -673,7 +673,7 @@
       "properties": {
         "name": "Fort Washington Picnic Area B2",
         "notes": "Fort Washington Picnic Area B2\nhttps://www.nps.gov/places/000/fort-washington-picnic-area-b2.htm\n\nFort Washington’s group picnic areas require a reservation April 1 through October 31. They can be reserved using Recreation.gov.<br /> <br /> he B picnic area has four different areas that can be reserved, there is a large open field behind all the tables that is shared. There is one large parking lot shared by all the areas. A playground is in the area between B1 and B2. There are two restroom facilities on the outer edges of the space, closest to B1 and B4.<br /> <br /> Picnic area B2 is a reserved area for up to 100 people. It has 15-17 picnic tables and several small pedestal grills. The area is mostly sunny with a couple of large trees which provide shade. Restrooms and playground are located nearby. <br />  ",
-        "icon": "red-pin-down.png"
+        "icon": "picnic"
       }
     },
     {
@@ -688,7 +688,7 @@
       "properties": {
         "name": "Fort Washington Picnic Area B3",
         "notes": "Fort Washington Picnic Area B3\nhttps://www.nps.gov/places/000/fort-washington-picnic-area-b3.htm\n\nFort Washington’s group picnic areas require a reservation April 1 through October 31. They can be reserved using Recreation.gov.<br /> <br /> he B picnic area has four different areas that can be reserved, there is a large open field behind all the tables that is shared. There is one large parking lot shared by all the areas. A playground is in the area between B1 and B2. There are two restroom facilities on the outer edges of the space, closest to B1 and B4.<br /> <br /> Picnic area B3 can be reserved for up to 200 people. It contains 25-28 picnic tables, a stone grill, and several small pedestal grills. There are two nearby restrooms and available parking. the tables are placed under large trees which provide plenty of shade. ",
-        "icon": "red-pin-down.png"
+        "icon": "picnic"
       }
     },
     {
@@ -703,7 +703,7 @@
       "properties": {
         "name": "Fort Washington Picnic Area B4",
         "notes": "Fort Washington Picnic Area B4\nhttps://www.nps.gov/places/000/fort-washington-picnic-area-b4.htm\n\nFort Washington’s group picnic areas require a reservation April 1 through October 31. They can be reserved using Recreation.gov. <p paraeid=\"{88fd4c2c-8835-4def-b916-daece53bca93}{113}\" paraid=\"1214095133\"><br /> The B picnic area has four different areas that can be reserved, there is a large open field behind all the tables that is shared. There is one large parking lot shared by all the areas. A playground is in the area between B1 and B2. There are two restroom facilities on the outer edges of the space, closest to B1 and B4.<br /> <br /> Picnic Area B4 can be reserved for up to 200 people. There are 25-28 picnic tables that are placed among the trees. The area has several small pedestal grills and one large pedestal grill with three grill areas.<br /> <br /> There is a bathroom near the area. </p>",
-        "icon": "red-pin-down.png"
+        "icon": "picnic"
       }
     },
     {
@@ -718,7 +718,7 @@
       "properties": {
         "name": "Fort Washington Picnic Area C",
         "notes": "Fort Washington Picnic Area C\nhttps://www.nps.gov/places/000/fort-washington-picnic-area-c.htm\n\nFort Washington’s group picnic areas require a reservation April 1 through October 31. They can be reserved using Recreation.gov.<br />   <p paraeid=\"{d27173e2-891b-407b-8059-474b9738b5f9}{139}\" paraid=\"1120891349\">Area C has its own parking lot with about 50 parking spaces. It is reservable for up to 200 people. </p> <p paraeid=\"{d27173e2-891b-407b-8059-474b9738b5f9}{147}\" paraid=\"1350274621\">Area C has 25-28 picnic tables, several small pedestal grills and one large pedestal grill with three grill areas. There is a restroom in the area just a short walk from the tables. <br /> <br /> Many trees provide plenty of shade. The basketball court is located near the area. The court is open to all visitors and is not part of the reserved area.</p>",
-        "icon": "red-pin-down.png"
+        "icon": "picnic"
       }
     },
     {
@@ -733,7 +733,7 @@
       "properties": {
         "name": "Fort Washington Picnic Area D1",
         "notes": "Fort Washington Picnic Area D1\nhttps://www.nps.gov/places/000/fort-washington-picnic-area-d1.htm\n\nFort Washington’s group picnic areas require a reservation April 1 through October 31. They can be reserved using Recreation.gov.<br /> <br /> The is a small area for up to 50 people. It has eight to ten picnic tables and two small charcoal grills. There is a 10 car parking lot.<br /> <br /> The restroom is across the road in the B4 area.",
-        "icon": "red-pin-down.png"
+        "icon": "picnic"
       }
     },
     {
@@ -748,7 +748,7 @@
       "properties": {
         "name": "Fort Washington Picnic Area D2",
         "notes": "Fort Washington Picnic Area D2\nhttps://www.nps.gov/places/000/fort-washington-picnic-area-d2.htm\n\nFort Washington’s group picnic areas require a reservation April 1 through October 31. They can be reserved using Recreation.gov.<br /> <br /> The is a small area for up to 50 people. It has eight to ten picnic tables and two small charcoal grills. The area is heavily shaded. There is a 10 car parking lot.<br /> <br /> The nearest bathroom is across the road in Picnic Area B4.",
-        "icon": "red-pin-down.png"
+        "icon": "picnic"
       }
     },
     {
@@ -1048,7 +1048,7 @@
       "properties": {
         "name": "Information Panel: Welcome to Fort Washington's Waterside Trail",
         "notes": "Information Panel: Welcome to Fort Washington's Waterside Trail\nhttps://www.nps.gov/places/information-panel-welcome-to-fort-washington-s-waterside-trail.htm\n\nStar Spangled Banner National Historic Trail<br /> <br /> \"The garrison to our great surprise, retreated from the fort and a short time afterward Fort Washington was blown up, which left the Capitol of America and the populous town of Alexandria open to the squadron without the loss of a man.\"<br /> <br /> Self-Destruction<br /> <br /> Explosions at Fort WashingtonAugust 27, 1814 surprised British and Americans alike. A British squadron slowly making its way up the Potomac expected resistance from the well-positioned fort. Alexandrians, fearing they were next after Washington's fall three days before, expected protection from the fort.<br /> <br /> Samuel Dyson, U.S. Army captain in command decided his 45-man garrison would be no match for the British. He ordered the fort destroyed and was later court martialed for his decision.<br /> <br /> Defenseless Alexandria negotiated surrender, and the British confiscated tobacco and other property. As the enemy withdrew down the Potomac with their prizes, angry Americans shot from shore and dispatched fire-ships with little effect.<br /> <br /> Welcome to Fort Washington's Waterside Trail<br /> <br /> Living where the land meets the water gives us everything we need: shelter in the woods, food to eat, and clean water to drink. Our climate promises a good life for the 15 million people and the more than 3,000 types of plants and animals that live in the Chesapeake Bay watershed. Certain soils and plant roots soak up much of the 30-40 inches of rain we receive each year. Leaves also absorb water, and forests slow a hard rain’s fall to earth. Woodlands shade the streams, and their roots hold stream banks in place. Pine trees and hardwoods layered over flowering shrubs, berry bushes, and wildflowers provide food and shelter for birds, mammals, insects, and turtles- just to name a few. In the clean, cool water nearby, fishes and shellfish feast on aquatic plants, and become food for larger fish, birds- like the Bald Eagle -and people.<br /> <br /> When rivers flood, or when rain hits land without woodlands, fast running water takes everything in its path to the bay. Pollutants from our homes, yards, cars, and work also flow into the bay. To protect the water, plants, and animals that live here, ribbons of waterside (or riparian) buffers of forests line the rivers and streams. These waterside woodlands slow the erosion of soil and absorb extra nutrients, while also providing shelter and food for wildlife. Preserving even small sections of riparian habitat helps protect our largest estuary, the Chesapeake Bay. <br /> <br /> As a river meets the ocean, a dynamic world of daily and seasonal changes in saltiness and temperature becomes the home to unique plants and animals. The rhythmic tidal changes work like an engine producing food, and decomposing matter. Winter storms tear wetland plants into food for fishes and all microscopic life. These tiny aquatic plants and single-cell animals grow in abundance when nutrients churn up from the bay floor and flow off the land. In the spring, many different types of ocean fishes swim up rivers to eat and lay eggs, and then return again to the salty ocean. In the warm waters of summer, crayfish and shellfish find food, and become food. Throughout the fall, millions of migratory birds come to the Atlantic Flyway to feed on the plants, nutrients, fishes, and shellfish. Throughout the year, each part of the ecosystem depends on another in a powerful dance of life. Walking on this trail, you will see some of the plants and Animals that make their home in waterside woodlands.",
-        "icon": "red-pin-down.png"
+        "icon": "known-route"
       }
     },
     {
@@ -1258,7 +1258,7 @@
       "properties": {
         "name": "Kenilworth Picnic area",
         "notes": "Kenilworth Picnic area\nhttps://www.nps.gov/places/000/kenilworth-picnic-area.htm\n\n<p>The picnic area offers a nice respite from summer heat. Feel free to have a picnic lunch and enjoy the sites and sounds of the nearby aquatic garden from this location.</p>",
-        "icon": "red-pin-down.png"
+        "icon": "picnic"
       }
     },
     {
@@ -1663,7 +1663,7 @@
       "properties": {
         "name": "Oxon Hill Farm Picnic Area",
         "notes": "Oxon Hill Farm Picnic Area\nhttps://www.nps.gov/places/oxon-hill-farm-picnic-area.htm\n\nBy the entrance and main parking lot at Oxon Cove Park is a first-come-first-serve picnic area. This area has many picnic tables, grills, and trash cans for visitor use. It is a great place to relax and eat before or after your visit to Oxon Hill Farm. <br /> <br /> Please be respectful and clean up after yourselves. Trash cans and hot coal receptacles are available. ",
-        "icon": "red-pin-down.png"
+        "icon": "picnic"
       }
     },
     {
@@ -1783,7 +1783,7 @@
       "properties": {
         "name": "Oxon Hill Oxon Cove Trailhead",
         "notes": "Oxon Hill Oxon Cove Trailhead\nhttps://www.nps.gov/places/000/oxon-hill-oxon-cove-trailhead.htm\n\nThe Oxon Cove Trailhead is located at the lower area of Oxon Hill Farm. The Hiker-Biker Trail, which runs from the farm parking lot to the Oxon Cove Park boundary on the Maryland-Washington border. It is part of the Potomac Heritage National Scenic Trail.  In fact, at the border you are at the northern terminus of the Southern Maryland Potomac Heritage Trail Bicycling Route. <br /> <br /> It is open to pedestrians and bicyclists, and has paved surface and moderate hills.<br /> <br />  ",
-        "icon": "red-pin-down.png"
+        "icon": "trailhead"
       }
     },
     {

@@ -28,7 +28,7 @@
       "properties": {
         "name": "Campground Restroom",
         "notes": "Campground Restroom\nhttps://www.nps.gov/places/campground-restroom.htm\n\n<p paraeid=\"{a3e8ca0c-ebf7-40d7-8b8a-0a60f4229680}{30}\" paraid=\"1030972470\"><strong>Compostable restrooms </strong><br /> Waste is composted in the equipment below the units. These systems are <strong>very fragile</strong> and are designed only for the disposal of human waste and toilet paper. Please do not put trash, food scraps, or other items in these toilets. Please lower toilet lids when not in use to reduce odor and aid in the composting process.</p> <ul> <li paraeid=\"{a3e8ca0c-ebf7-40d7-8b8a-0a60f4229680}{30}\" paraid=\"1030972470\">The composting toilets are<strong> closed</strong> from approximately <strong>10:00 AM </strong>to<strong> 3:00 PM</strong>. During these hours, please use the facilities aboard the commercial ferry boats at the dock.</li> </ul>",
-        "icon": "red-pin-down.png"
+        "icon": "toilets"
       }
     },
     {
@@ -43,7 +43,7 @@
       "properties": {
         "name": "Dock House and Information",
         "notes": "Dock House and Information\nhttps://www.nps.gov/places/garden-key-dock-house.htm\n\nThe dock house at Garden Key is located on the dock where the ferry lands. It is dead center of Fort Jefferson's only entrance, the sally port.  <br /> <br /> <strong>Changing Rooms</strong><br /> There are changing rooms available in the dock house on the East side. The rooms are open 24/7 and are handicap accessible with handrails and benches. <br /> <br /> <strong>Information Room</strong><br /> On the West side of the dock house, there is an information room with park brochures. Private boaters can pick up and fill out a <strong>boat permit</strong> at this location. Useful boating, diving and fishing material can be found here, along with a <strong>marine band radio</strong> for required visitor use. As soon as available,<strong> tide charts and weather</strong> are posted in this room. <br /> <em>The dock house information room is a great place to start your Dry Tortugas visit. You can learn more about what to do and find information to help you have a safe and enjoyable time.</em><br /> <br /> <strong>Fee Station</strong><br /> You can pay your park entrance and camping fees here. <br /> <br />  ",
-        "icon": "red-pin-down.png"
+        "icon": "information"
       }
     },
     {
@@ -208,7 +208,7 @@
       "properties": {
         "name": "W. Garden Key Dinghy Beach",
         "notes": "W. Garden Key Dinghy Beach\nhttps://www.nps.gov/places/w-garden-key-dinghy-beach.htm\n\nTucked in between the finger piers and South Coal Docks, this is the best spot to enter or exit the water on Garden Key with your kayak, paddleboard or dinghy. Be mindful of vessels using the channel and snorkelers in the pilings.  ",
-        "icon": "red-pin-down.png"
+        "icon": "swimming"
       }
     },
     {

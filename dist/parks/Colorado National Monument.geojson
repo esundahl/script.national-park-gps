@@ -58,7 +58,7 @@
       "properties": {
         "name": "CCC Era Campground C-Loop Restroom",
         "notes": "CCC Era Campground C-Loop Restroom\nhttps://www.nps.gov/places/ccc-era-campground-c-loop-restroom.htm\n\nThe first improved camping facility at Colorado National Monument was built by the Civilian Conservation Corps (CCC) and is now called Loop C in the Saddlehorn Campground. It contained 27 camp spaces. According to park records, the CCC worked on the Campground Comfort Station from December 1936 to June 1937.  The building is a rectangular, one-story structure designed by the National Park Service and constructed of native red sandstone masonry by the CCC.  It resembles the other historic buildings in the Saddlehorn area and is an excellent example of NPS Rustic Architecture.  This structure was “built by detail,” just as the Caretaker’s Residence and Garage.  The comfort station consists of a women’s and men’s restroom with a janitorial closet between them.   ",
-        "icon": "red-pin-down.png"
+        "icon": "toilets"
       }
     },
     {
@@ -133,7 +133,7 @@
       "properties": {
         "name": "Devils Kitchen Picnic Area",
         "notes": "Devils Kitchen Picnic Area\nhttps://www.nps.gov/places/devils-kitchen-picnic-area.htm\n\n<p>There are several great locations to enjoy a picnic at Colorado National Monument. Devils Kitchen Picnic Area is the closest venue to the City of Grand Junction, located just inside the East Entrance. It has 15 picnic tables, a shade shelter, 6 charcoal-only grills, a drinking fountain, bathrooms open seasonally, and garbage/recycling.</p> <p>Devils Ktichen Picnic Area can be <a href=\"https://www.nps.gov/colm/planyourvisit/picnics.htm\">reserved for special events</a>, permits and fees apply. For event reservations, consider the following:</p> <ol> <li>Maximum number of parking spaces that can be occupied is 10.</li> <li>Overflow parking is available in the field near the east entrance station. The maximum number of parking spaces there is 50.</li> <li>Event attendees may not walk the road to the Devils Kitchen Picnic Area. Events that use the additional parking area must provide a parking attendant and coordinate shuttling guests to the picnic area.</li> </ol>",
-        "icon": "red-pin-down.png"
+        "icon": "picnic"
       }
     },
     {
@@ -388,7 +388,7 @@
       "properties": {
         "name": "Saddlehorn Campground Kiosk",
         "notes": "Saddlehorn Campground Kiosk\nhttps://www.nps.gov/places/saddlehorn-campground-kiosk.htm\n\nWhen camping became popular as an inexpensive way to stay at parks, different services had to be considered.  Gone were the days of staying at the big lodges within park boundaries, as more people drove (versus train travel) and were looking for less costly accommodations. For Colorado National Monument, loops A and B were added in 1966 to further expand camping sites that originally were only located in what is now Loop C.  Since the park is usually open 24 hours, a simple kiosk was also constructed so campers could pay upon arrival (there was no reservation system back then.) <br /> Even though this kiosk was not fully documented (along with other small-scaled features constructed during CCC or Mission 66 eras), it’s still used today as a self-service fee station, and is being preserved to showcase the history of Mission 66 developments in Colorado National Monument.<br />  ",
-        "icon": "red-pin-down.png"
+        "icon": "shelter"
       }
     },
     {
@@ -403,7 +403,7 @@
       "properties": {
         "name": "Saddlehorn Picnic Area",
         "notes": "Saddlehorn Picnic Area\nhttps://www.nps.gov/places/saddlehorn-picnic-area.htm\n\n<p>There are several great locations to enjoy a picnic at Colorado National Monument. Saddlehorn Picnic Area is located just a minute's drive from Saddlehorn Visitor Center. It has a large parking area, 45 picnic tables, 18 charcoal-only grills (No Wood Fires), a drinking fountain, bathrooms open seasonally, and garbage/recycling.</p> <p>Saddlehorn Picnic Area can be <a href=\"https://www.nps.gov/colm/planyourvisit/picnics.htm\">reserved for special events</a>, permits and fees apply. Things to note for event reservations:</p> <ol> <li>Event participants must park in the Saddlehorn Picnic Area parking lot.</li> <li>Maximum number of parking spaces that can be occupied is 10.</li> </ol> <p>This picnic area started out in the 1930s as a baseball field for the Civilian Conservation Corps men housed at the NM-2 camp just a quarter mile from here. Baseball was one of several recreational activities the men participated in when not working.<br /> Later picnic tables and a restroom were added. Generations of families have picniked in this site.</p>",
-        "icon": "red-pin-down.png"
+        "icon": "picnic"
       }
     },
     {

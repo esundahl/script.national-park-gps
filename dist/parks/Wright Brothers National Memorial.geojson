@@ -268,7 +268,7 @@
       "properties": {
         "name": "Airstrip Picnic Area",
         "notes": "Airstrip Picnic Area\nhttps://www.nps.gov/places/000/picnic-area-3.htm\n\n<p>Enjoy a picnic lunch with views of Big Kill Devil Hill and the Wright Brothers Monument and maybe catch a plane or two landing on the airstrip. Picnic tables can be found beneath the large oaks surrounding the KFFA Pilot's Facility.<br /> <br /> Parking is located across in the first parking lot on the Loop Road. Please use caution when crossing the road.<br /> <br /> Restroom facilities can be found within the KFFA Pilots' Facility. </p> <h3>Leave No Trace</h3> <p>Please take a moment to be a good steward to this special place in American history and observe some simple principles. Doing so helps protect this place, and leave it in as good a condition for future visitors.</p> <ul> <li>Please dispose of all waste properly</li> <li>Please respect wildlife (refrain from feeding them and clean up all food scraps)</li> <li>Please be considerate of other visitors</li> </ul>",
-        "icon": "red-pin-down.png"
+        "icon": "picnic"
       }
     },
     {
@@ -493,7 +493,7 @@
       "properties": {
         "name": "Wright Brothers Park Store",
         "notes": "Wright Brothers Park Store\nhttps://www.nps.gov/places/wright-brothers-park-store.htm\n\nThe park store is operated by <a href=\"http://easternnational.org/\">Eastern National</a>, an official non-profit partner of the National Park Service dedicated to supporting the educational mission of Wright Brothers National Memorial. The park store has a wide range of books, media, educational games, and other items available for retail sale. These products complement the interpretive themes you experience when visiting the park.",
-        "icon": "red-pin-down.png"
+        "icon": "market"
       }
     }
   ]

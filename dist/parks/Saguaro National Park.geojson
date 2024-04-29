@@ -13,7 +13,7 @@
       "properties": {
         "name": "Cactus Garden Trail",
         "notes": "Cactus Garden Trail\nhttps://www.nps.gov/places/cactus-garden-trail.htm\n\nA paved, 300-foot (91 m) accessible loop trail, located on the west side of the Red Hills Visitor Center parking lot. This short trail provides a great introduction to the notable species of the Sonoran Desert, featuring signs that identify and interpret many of the most common species. ",
-        "icon": "red-pin-down.png"
+        "icon": "known-route"
       }
     },
     {
@@ -28,7 +28,7 @@
       "properties": {
         "name": "Cam-Boh Picnic Area (West District)",
         "notes": "Cam-Boh Picnic Area (West District)\nhttps://www.nps.gov/places/cam-boh-picnic-area.htm\n\nThis picnic area is located in Saguaro National Park's West District along Picture Rocks Rd. There is a trailhead at this location, as well as a place for horse trailers to park. The Prophecy Wash Trail is accessed from here. ",
-        "icon": "red-pin-down.png"
+        "icon": "picnic"
       }
     },
     {
@@ -43,7 +43,7 @@
       "properties": {
         "name": "Desert Discovery Trail",
         "notes": "Desert Discovery Trail\nhttps://www.nps.gov/places/desert-discovery-trail.htm\n\nThe Desert Discovery Trail is an easy, paved, accessible, 0.5 mile (0.8 km) trail in Saguaro National Park's west district. The trailhead is located along Kinney Road, 1 mile (1.6 km) northwest from the Red Hills Visitor Center. <br /> <br /> Interpretive signage along the trail provides an introduction to the ecology and habitats of the Sonoran Desert. There are several shade structures and benches along the way. This trail features any large and impressive saguaros along with impressive views of Avra Valley to the west and the Quinlan Mountains and the Baboquivari Mountains to the southwest.<br /> <br /> This is a great introduction to Saguaro National Park and a family-friendly trail that allows pets on leash and is accessible to wheelchairs.",
-        "icon": "red-pin-down.png"
+        "icon": "known-route"
       }
     },
     {
@@ -58,7 +58,7 @@
       "properties": {
         "name": "Ez-Kim-In-Zin Picnic Area (West District)",
         "notes": "Ez-Kim-In-Zin Picnic Area (West District)\nhttps://www.nps.gov/places/ez-kim-in-zin-picnic-area.htm\n\nThis picnic area is located along the Bajada Loop Drive in Saguaro National Park's West District. It is located near the Sendero Esperanza Trailhead. ",
-        "icon": "red-pin-down.png"
+        "icon": "picnic"
       }
     },
     {
@@ -88,7 +88,7 @@
       "properties": {
         "name": "Javelina Picnic Area (East District)",
         "notes": "Javelina Picnic Area (East District)\nhttps://www.nps.gov/places/javelina-picnic-area.htm\n\nThis is the closest picnic area from the Saguaro National Park East District entrance. There are plenty of parking spots and covered table areas. The Tanque Verde Ridge Trail starts from this location. Backpackers looking to take the Tanque Verde Ridge Trail up into the Rincon Mountains can park their car here and start their ascent. The closest campsite from here is Juniper Basin (6.9 miles away on foot, 4000 ft of climbing). ",
-        "icon": "red-pin-down.png"
+        "icon": "picnic"
       }
     },
     {
@@ -103,7 +103,7 @@
       "properties": {
         "name": "Javelina Wash Trail",
         "notes": "Javelina Wash Trail\nhttps://www.nps.gov/places/javelina-wash-trail.htm\n\nA 600-yard loop trail through the wash behind the Red Hills Visitor Center, looping through the wash from one end of the building to the other. Flat, but sandy and rocky, with stairs at either end.<br /> <br /> Follow the self-guided \"Signs of Life in the Desert\" tour under Self-Guided Tours in the NPS app to learn more about the habitats you'll see along this short, varied trail.<br /> <br /> The Javelina Wash Trail allows visitors to get a taste of the Sonoran Desert right next to the Visitor Center, and is the setting for various guided ranger walks. A variety of Sonoran Desert pland and animals can be seen close-up in the wash, as well as a variety of animal habiats, from their holes and burrows. <br /> <br />  ",
-        "icon": "red-pin-down.png"
+        "icon": "known-route"
       }
     },
     {
@@ -118,7 +118,7 @@
       "properties": {
         "name": "King Canyon Trailhead",
         "notes": "King Canyon Trailhead\nhttps://www.nps.gov/places/king-canyon-trailhead.htm\n\nThis trailhead is located in Tucson Mountain Park, just outside of the National Park boundary. It is the starting point for several trails: the King Canyon Trail, King Canyon Wash Trail, and Gould Mine Trail, all of which connect to Saguaro National Park's West District's extensive trail system.",
-        "icon": "red-pin-down.png"
+        "icon": "trailhead"
       }
     },
     {
@@ -133,7 +133,7 @@
       "properties": {
         "name": "Mam-A-Gah Picnic Area (West District)",
         "notes": "Mam-A-Gah Picnic Area (West District)\nhttps://www.nps.gov/places/mam-a-gah-picnic-area.htm\n\nThis is a unique picnic area located along the Sendero Esperanza Trail. This picnic area is hike in only and cannot be reached with any form of vehicle. It is most easily accessed from the King Canyon Trailhead in Tucson Mountain Park, consisting of a hike from the parking lot of just under 1 mile.",
-        "icon": "red-pin-down.png"
+        "icon": "picnic"
       }
     },
     {
@@ -163,7 +163,7 @@
       "properties": {
         "name": "Mica View Picnic Area (East District)",
         "notes": "Mica View Picnic Area (East District)\nhttps://www.nps.gov/places/mica-view-picnic-area.htm\n\nThis is a great place to take some shorter hikes and enjoy covered picnic areas. There is a large, family-friendly and accessible picnic shelter near the parking lot. There is an ADA accessible trail starting form this area called the Mica View Trail.",
-        "icon": "red-pin-down.png"
+        "icon": "picnic"
       }
     },
     {
@@ -208,7 +208,7 @@
       "properties": {
         "name": "Sendero Esperanza Picnic Area (West District)",
         "notes": "Sendero Esperanza Picnic Area (West District)\nhttps://www.nps.gov/places/sendero-esperanza-picnic-area-west-district.htm\n\nSendera Esperanza Picnic Area is the last stop along Golden Gate Road on the Bajada Loop Drive. THis picnic area provides visitors with a large parking area (big enough for RVs and busses to use to turn around at), unshaded and wheelchair accessible picnic tables, a restroom, bootbrush, closest parking for the largest dog friendly trail (Golden Gate Multi-Use Trail), as well as access to the large trail network on the north side of the Tuscon Mountain Range. ",
-        "icon": "red-pin-down.png"
+        "icon": "picnic"
       }
     },
     {
@@ -253,7 +253,7 @@
       "properties": {
         "name": "Sus Picnic Area (West District)",
         "notes": "Sus Picnic Area (West District)\nhttps://www.nps.gov/places/sus-picnic-area.htm\n\nThis is the closest picnic area to the Red Hills Visitor Center in the west district of Saguaro National Park. It is along the Bajada Loop Drive. ",
-        "icon": "red-pin-down.png"
+        "icon": "picnic"
       }
     },
     {
@@ -268,7 +268,7 @@
       "properties": {
         "name": "Valley View Overlook Nature Trail",
         "notes": "Valley View Overlook Nature Trail\nhttps://www.nps.gov/places/valley-view-overlook-nature-trail.htm\n\nThe Valley View Overlook Nature Trail is an easy 0.8 mile (1.3 km) roundtrip trail, starting at the Valley View Trailhead along the Bajada Loop Scenic Drive in Saguaro National Park's west district. <br /> <br /> This short trail was built by the Civilian Conservation Corps in the 1930s. The trail drops into and out of a couple of washes and then gradually ascends to a ridge. Along the way, you will travel through typical Sonoran Desert vegetation. Signs along the way identify and interpret several of the more common species of plants. The trail ends at a ridge with benches that allow you to relax and enjoy sweeping views. From here you can see Avra Valley to the west, Signal Hill, which looks like a small black mound from here, and the jagged ridge of Picacho Peak to the north. ",
-        "icon": "red-pin-down.png"
+        "icon": "known-route"
       }
     },
     {
@@ -283,7 +283,7 @@
       "properties": {
         "name": "Valley View Trailhead",
         "notes": "Valley View Trailhead\nhttps://www.nps.gov/places/valley-view-trailhead.htm\n\nThe Valley View Trailhead is located on the Bajada Loop Scenic Drive, about 1.3 miles (2.1 km) from the turn-off from Kinney Road. <br /> <br /> There are several parking spots along the left side of the dirt Bajado Loop Scenic Drive. If parking spots are full, please don't park illegally. Continue along the loop to explore other trailheads with more parking availability and try again later. ",
-        "icon": "red-pin-down.png"
+        "icon": "trailhead"
       }
     }
   ]

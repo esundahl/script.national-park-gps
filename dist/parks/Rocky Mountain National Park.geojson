@@ -43,7 +43,7 @@
       "properties": {
         "name": "Beaver Creek Picnic Area",
         "notes": "Beaver Creek Picnic Area\nhttps://www.nps.gov/places/romo_beavercreekpicnic.htm\n\n<p>At the Beaver Creek Picnic Area visitors will find a quiet spot for picnicking in the scenic Kawnueeche Valley.</p> <p>Picnic tables located on the top of a small hill provide an ideal viewing location for the wildlife that often visit this section of the meadow. During the Elk Rut in autumn, this location gives visitors an elevated viewing spot to watch wildlife from a safe distance.</p> <p><strong>Tables: </strong>4<br /> <strong>Fire Grates: </strong>4<br /> <strong>Use of Portable Grills:</strong> No</p> <p><strong>Keep wildlife wild. </strong>Remember to never approach wildlife and always stay at least 75 feet away from elk, moose, coyote, or any other large animals. 75 feet is the length of two school buses. Please help protect our park’s wildlife by practicing Leave No Trace principles! Always take your garbage with you and never feed the wildlife.</p> <p>For restrooms, visit nearby Beaver Ponds Picnic Area one stop south on Trail Ridge Road or Timber Lake trail head one stop north.</p>",
-        "icon": "red-pin-down.png"
+        "icon": "picnic"
       }
     },
     {
@@ -88,7 +88,7 @@
       "properties": {
         "name": "Beaver Ponds Picnic Area",
         "notes": "Beaver Ponds Picnic Area\nhttps://www.nps.gov/places/romo_beaverpondspicnic.htm\n\n<p>Beaver Ponds Picnic Area is an excellent location to enjoy the peacefulness of the Kawnueeche Valley.</p> <p>This picnic area has tables overlooking two large ponds where visitors can enjoy the scenery while stopping to have a meal. Water sources like the ones found here provide necessary resources for many types of wildlife that live in the area. Keep your binoculars ready for sightings of local birds such as White Crown Sparrows, Dark-eyed Juncos, or Yellow-rumped Warblers. For a closer look at the aquatic ecosystem, look for the short staircase leading down to the water’s edge.</p> <p><strong>Tables:</strong> 6<br /> <strong>Fire Grates:</strong> 6<br /> <strong>Use of Portable Grills*:</strong> Yes</p> <p>* The use of disposable or portable charcoal grills, wood fuel camp stoves, and gas grills is allowed for food preparation as adjuncts to fire grates provided by the park in auto campgrounds and picnic areas. Where portable grills are allowed, the used charcoal and ash must be completely extinguished and disposed of in trash receptacle.</p> <p><strong>Keep Wildlife Wild: </strong>Remember to never approach wildlife and always stay at least 75 feet away from elk, moose, coyote, or any other large animals. 75 feet is the length of two school buses. Please help protect our park’s wildlife by practicing Leave No Trace principles! Always take your garbage with you and never feed the wildlife.</p> <p> </p>",
-        "icon": "red-pin-down.png"
+        "icon": "picnic"
       }
     },
     {
@@ -118,7 +118,7 @@
       "properties": {
         "name": "Bowen-Baker Trailhead",
         "notes": "Bowen-Baker Trailhead\nhttps://www.nps.gov/places/romo_bowenbaker.htm\n\n<p>The Bowen-Baker Trailhead provides easy access to the meadow in the Kawuneeche Valley.</p> <p>On the far side of the meadow sits the Never Summer Range. This forested mountain range is the only volcanic mountain range in Rocky Mountain National Park. It’s rolling mountainsides are covered in Lodgepole Pines and Aspens, which provide shade for Elk during the hot summer months. The Bowen-Baker Trailhead also sits next to the Colorado River, making it a convenient location for visitors who would like to fish. During hunting season, Bowen-Baker provides an entry point to Arapaho National Forest. A dirt road, only open to vehicles during hunting season, crosses the meadow for access to the National Forest. Visitors are welcome to walk along this road at any time of the year to enter the meadow and observe wildlife. Follow all posted instructions at the trailhead if you are using this area for entry to the National Forest.</p> <p><strong>Picnic Tables: </strong>3<br /> <strong>Fire Grates: </strong>0<br /> <strong>Use of Portable Grills*: </strong>Yes</p> <p>* The use of disposable or portable charcoal grills, wood fuel camp stoves, and gas grills is allowed for food preparation as adjuncts to fire grates provided by the park in auto campgrounds and picnic areas. Where portable grills are allowed, the used charcoal and ash must be completely extinguished and disposed of in trash receptacle.</p> <p><strong>Help keep wildlife wild.</strong> Never approach or feed wildlife. Animals that learn people are a source of food can become aggressive or stop hunting or foraging on their own. Keep your distance - it's the law! You could be hurt or issued a fine.</p>",
-        "icon": "red-pin-down.png"
+        "icon": "trailhead"
       }
     },
     {
@@ -148,7 +148,7 @@
       "properties": {
         "name": "Colorado River Trailhead",
         "notes": "Colorado River Trailhead\nhttps://www.nps.gov/places/romo_corivertrailhead.htm\n\n<p>The Colorado River Trailhead is the access point for many trails in the northwest corner of Rocky Mountain National Park.</p> <p>From this location, park visitors can explore a variety of trails. For a simple excursion, hike 0.5 miles to find the Colorado River. This point marks the start of its journey through the Kawnueeche Valley. Visitors interested in the history of the area can hike the 3.7 mile trail to the site of Lulu City. This location was a hopeful mining town in the 1880’s. Other popular sites include the Grand Ditch and Little Yellowstone. It is common to find wildlife such as elk, moose, coyotes, and foxes on the way to these destinations. Remember to keep your distance from wildlife. Never approach or feed wildlife. You could be hurt or issued a fine.</p> <p><strong>Picnic Tables: </strong>6<br /> <strong>Fire Grates: </strong>4<br /> <strong>Use of Portable Grills*:</strong> Yes  </p> <p>* The use of disposable or portable charcoal grills, wood fuel camp stoves, and gas grills is allowed for food preparation as adjuncts to fire grates provided by the park in auto campgrounds and picnic areas. Where portable grills are allowed, the used charcoal and ash must be completely extinguished and disposed of in trash receptacle.</p> <p><strong>Note:</strong> Trail Ridge Road is closed from here east to Many Parks Curve mid-October to Memorial Day. Extreme weather can change the status of Trail Ridge Road at any time—be ready to adjust your travel plans if needed, and always check the weather before you start your drive.</p>",
-        "icon": "red-pin-down.png"
+        "icon": "trailhead"
       }
     },
     {
@@ -178,7 +178,7 @@
       "properties": {
         "name": "Endovalley Picnic Area",
         "notes": "Endovalley Picnic Area\nhttps://www.nps.gov/places/romo_endovalleypicnic.htm\n\n<p>Stop at the Endovalley picnic area to enjoy a meal or quiet solitude.</p> <p>There are plenty of picnic tables in this loop that was once a campground. A river flows through the area so be on the lookout for birds, moose, and small critters.</p> <p><strong>Tables: </strong>32<br /> <strong>Fire Grates: </strong>30<br /> <strong>Use of Portable Grills*: </strong>Yes</p> <p>* The use of disposable or portable charcoal grills, wood fuel camp stoves, and gas grills is allowed for food preparation as adjuncts to fire grates provided by the park in auto campgrounds and picnic areas. Where portable grills are allowed, the used charcoal and ash must be completely extinguished and disposed of in trash receptacle.</p> <p><strong>Help keep wildlife wild</strong>. Never approach or feed wildlife. Animals that learn people are a source of food can become aggressive or stop hunting or foraging on their own. Keep your distance - it's the law! You could be hurt or issued a fine.</p>",
-        "icon": "red-pin-down.png"
+        "icon": "picnic"
       }
     },
     {
@@ -268,7 +268,7 @@
       "properties": {
         "name": "Farview Curve Overlook",
         "notes": "Farview Curve Overlook\nhttps://www.nps.gov/places/romo_farviewcurve.htm\n\n<p>Enjoy sweeping views of the Kawnueeche Valley and the Never Summer Range from this spectacular overlook.</p> <p>For thousands of years, Native American communities lived seasonally in the Kawnueeche Valley. The Colorado River provided valuable resources that sustained communities through the summer months. In the late 1800’s, settlers from the United States of America began to farm the valley as homesteads.</p> <p>Along the far side of the valley, visitors can view the impressive Never Summer Range. This row of mountains is the only volcanic mountain range in Rocky Mountain National Park. In the late 1800’s, prospectors looking for precious metals mined the valley below Farview Curve. The mines never produced riches, but today, the Never Summers provide another valuable resource: water. Look for a horizontal stripe running across the middle of the mountain range. Known as the Grand Ditch, this canal collects and carries water to Long Draw Reservoir. Even today, the ditch provides water to farmers and communities living east of Colorado's Front Range.</p> <p><strong>Note: </strong>Trail Ridge Road closes from here west to Colorado River Trailhead mid-October to Memorial Day. Extreme weather can change the status of Trail Ridge Road at any time—be ready to adjust your travel plans if needed, and always check the weather before you start your drive.</p> <p><strong>Altitude Warning: </strong>Altitude sickness affects many visitors every year. Symptoms include headache, nausea, fatigue, dizziness, vomiting, and even unconsciousness. Altitude can also aggravate pre-existing conditions like heart and lung disease. Take your time, drink water, eat, and rest. The only cure for altitude sickness is to go down to a lower altitude.</p> <p><strong>Help keep wildlife wild. </strong>Never approach or feed wildlife. Animals that learn people are a source of food can become aggressive or stop hunting or foraging on their own. Keep your distance - it's the law! You could be hurt or issued a fine.</p>",
-        "icon": "red-pin-down.png"
+        "icon": "binoculars"
       }
     },
     {
@@ -283,7 +283,7 @@
       "properties": {
         "name": "Forest Canyon Overlook",
         "notes": "Forest Canyon Overlook\nhttps://www.nps.gov/places/romo_forestcanyon.htm\n\n<p>Get a panoramic view at 11,716 feet!</p> <p>Take a five minute walk down the paved asphalt trail to see Forest Canyon and its tributary canyons, Hayden Gorge and Gorge Lakes. Here the erosive force of glacial ice is unmistakable. A 1,500 feet thick glacier shaped a V-shaped stream valley below. With grinding force, the ice scoured the valley into the distinctive U-shaped valley of today.</p> <p>Please stay on the paved asphalt trail to protect fragile alpine tundra plants. Studies have shown it can take decades for alpine plants and soil to recover after human trampling. Thank you for staying on the path and enjoying the flowers by not picking them, so future visitors can enjoy them as well.</p> <p><strong>Note:</strong> Trail Ridge Road closes mid-October to Memorial Day. Extreme weather can change the status of Trail Ridge Road at any time—be ready to adjust your travel plans if needed, and always check the weather before you start your drive.</p> <p><strong>Altitude Warning:</strong> Altitude sickness affects many visitors every year. Symptoms include headache, nausea, fatigue, dizziness, vomiting, and even unconsciousness. Altitude can also aggravate pre-existing conditions like heart and lung disease. Take your time, drink water, eat, and rest. The only cure for altitude sickness is to go down to a lower altitude.</p>",
-        "icon": "red-pin-down.png"
+        "icon": "binoculars"
       }
     },
     {
@@ -298,7 +298,7 @@
       "properties": {
         "name": "Gore Range Overlook",
         "notes": "Gore Range Overlook\nhttps://www.nps.gov/places/romo_gorerange.htm\n\n<p>Get spectacular views of Rocky Mountain National Park’s highest peaks!</p> <p>Gore Range Overlook offers views of the Never Summer Mountains, and the Gore Range. From this western-facing pullout, the flat top of Long’s Peak is in sight - the highest peak at 14,259 feet in the park. The Never Summer Mountains were created by volcanic activity between 29 and 24 million years ago. The Arapaho Indians call these mountains Ni-chebe-chii, which translates to “Never No Summer”. The Gore Range is named after St. George Gore, an Irish aristocrat who visited the area in the mid 1800’s to lead an infamous hunting expedition.</p> <p><strong>Note:</strong> Trail Ridge Road closes mid-October to Memorial Day. Extreme weather can change the status of Trail Ridge Road at any time—be ready to adjust your travel plans if needed, and always check the weather before you start your drive.</p> <p><strong>Altitude Warning:</strong> Altitude sickness affects many visitors every year. Symptoms include headache, nausea, fatigue, dizziness, vomiting, and even unconsciousness. Altitude can also aggravate pre-existing conditions like heart and lung disease. Take your time, drink water, eat, and rest. The only cure for altitude sickness is to go down to a lower altitude.</p>",
-        "icon": "red-pin-down.png"
+        "icon": "binoculars"
       }
     },
     {
@@ -508,7 +508,7 @@
       "properties": {
         "name": "Lake Irene Picnic Area",
         "notes": "Lake Irene Picnic Area\nhttps://www.nps.gov/places/romo_lakeirenepicnic.htm\n\n<p>The Lake Irene Picnic Area is an ideal location to enjoy Rocky Mountain National Park’s sub-alpine ecosystem.</p> <p>There are several picnic tables available at this location and it is just a short walk to Lake Irene. After your picnic, stroll the 0.5 mile loop around this scenic lake to look for wildflowers in mid-summer. At this elevation, subalpine fir and Engelmann spruce are the iconic trees to see.</p> <p>Directly across Trail Ridge Road from the picnic area is Sheep Rock. Look closely at the top of this rock formation and you may find Bighorn Sheep perched upon it.</p> <p><strong>Tables: </strong>8<br /> <b>Fire Grates: </b>0<br /> <strong>Use of Portable Grills*: </strong>Yes</p> <p>* The use of disposable or portable charcoal grills, wood fuel camp stoves, and gas grills is allowed for food preparation as adjuncts to fire grates provided by the park in auto campgrounds and picnic areas. Where portable grills are allowed, the used charcoal and ash must be completely extinguished and disposed of in trash receptacle.</p> <p><strong>Note:</strong> Trail Ridge Road closes mid-October to Memorial Day. Extreme weather can change the status of Trail Ridge Road at any time—be ready to adjust your travel plans if needed, and always check the weather before you start your drive.</p> <p><strong>Altitude Warning:</strong> Altitude sickness affects many visitors every year. Symptoms include headache, nausea, fatigue, dizziness, vomiting, and even unconsciousness. Altitude can also aggravate pre-existing conditions like heart and lung disease. Take your time, drink water, eat, and rest. The only cure for altitude sickness is to go down to a lower altitude.</p> <p><strong>Help keep wildlife wild</strong>. Never approach or feed wildlife. Animals that learn people are a source of food can become aggressive or stop hunting or foraging on their own. Keep your distance - it's the law! You could be hurt or issued a fine.</p>",
-        "icon": "red-pin-down.png"
+        "icon": "picnic"
       }
     },
     {
@@ -763,7 +763,7 @@
       "properties": {
         "name": "Trail Ridge Store",
         "notes": "Trail Ridge Store\nhttps://www.nps.gov/places/romo_trailridgestore.htm\n\n<p>At 11,796 feet, the Alpine Visitor Center is the highest visitor center in the National Park Service!</p> <p>Usually only open from May to October, it is chilly even in the heart of summer, so make sure to bring layers or even a hat. Located on Trail Ridge Road in the alpine tundra, the area is subjected to extreme winds, especially in the winter. The heavy logs on the roof of the center are permanently attached to prevent shingles from being blown away. Trail Ridge Store is the larger building next to the visitor center, and offers a small café, gift shop, and shelter from fast-approaching storms.</p> <p>The glacial cirque seen below is ideally situated to collect enormous amounts of snow, and usually has snow still present well into August. There is a viewing area of this between the buildings, as well as interpretive signs and benches. Accessed from this parking lot is Alpine Ridge Trail and the Ute Trail to Milner Pass.  </p> <p><strong>Note: </strong>Extreme weather can change the status of Trail Ridge Road at any time—be ready to adjust your travel plans if needed, and always check the weather before you start your drive.</p> <p><strong>Help keep wildlife wild. </strong>Never approach or feed wildlife. Animals that learn people are a source of food can become aggressive or stop hunting or foraging on their own. Keep your distance - it's the law! You could be hurt or issued a fine.</p> <p><strong>Weather Warning:</strong> Weather in the mountains can turn in an instant! Be prepared for changing weather conditions. Check the forecast before heading out. Lightning can strike anywhere in Rocky. Watch for building storm clouds and be aware of your surroundings.</p> <p><strong>Altitude Warning:</strong> Altitude sickness affects many visitors every year. Symptoms include headache, nausea, fatigue, dizziness, vomiting, and even unconsciousness. Altitude can also aggravate pre-existing conditions like heart and lung disease. Take your time, drink water, eat, and rest. The only cure for altitude sickness is to go down to a lower altitude.</p>",
-        "icon": "red-pin-down.png"
+        "icon": "market"
       }
     },
     {
@@ -778,7 +778,7 @@
       "properties": {
         "name": "Tuxedo Park Picnic Area",
         "notes": "Tuxedo Park Picnic Area\nhttps://www.nps.gov/places/romo_tuxedopark.htm\n\n<p>Picnic by the river!</p> <p>Descend from the parking area to reach a quiet picnic area next to a shady stream. Feel free to sit and relax, have a good meal, or go fishing with the correct permits and knowledge of regulations. A short trail can be accessed from this location. There are no bathrooms, trash cans, or accessible paths at this location.</p> <p><b>Tables: </b>2 by the road, 5 or 6 by the stream<br /> <b>Fire Grates:</b> 0<br /> <strong>Use of Portable Grills*: </strong>Yes</p> <p>* The use of disposable or portable charcoal grills, wood fuel camp stoves, and gas grills is allowed for food preparation as adjuncts to fire grates provided by the park in auto campgrounds and picnic areas. Where portable grills are allowed, the used charcoal and ash must be completely extinguished and disposed of in trash receptacle.</p> <p><strong>Help keep wildlife wild. </strong>Never approach or feed wildlife. Animals that learn people are a source of food can become aggressive or stop hunting or foraging on their own. Keep your distance - it's the law! You could be hurt or issued a fine.</p>",
-        "icon": "red-pin-down.png"
+        "icon": "picnic"
       }
     },
     {
@@ -793,7 +793,7 @@
       "properties": {
         "name": "Upper Beaver Meadows Picnic Area",
         "notes": "Upper Beaver Meadows Picnic Area\nhttps://www.nps.gov/places/romo_upperbeavermeadowspicnic.htm\n\n<p>Picnic time!</p> <p>Stop along Upper Beaver Meadows road to enjoy a secluded picnic area overlooking peaceful meadows with the backdrop of the Continental Divide.</p> <p><strong>Tables: </strong>10<br /> <strong>Fire Grates:</strong> 6<br /> <strong>Use of portable grills*: </strong>Yes<br /> <strong>Notes:</strong> Walking access only in winter.</p> <p>* The use of disposable or portable charcoal grills, wood fuel camp stoves, and gas grills is allowed for food preparation as adjuncts to fire grates provided by the park in auto campgrounds and picnic areas. Where portable grills are allowed, the used charcoal and ash must be completely extinguished and disposed of in trash receptacle.</p>",
-        "icon": "red-pin-down.png"
+        "icon": "picnic"
       }
     },
     {

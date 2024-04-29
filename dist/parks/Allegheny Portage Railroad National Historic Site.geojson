@@ -28,7 +28,7 @@
       "properties": {
         "name": "Allegheny Portage Railroad Picnic Area",
         "notes": "Allegheny Portage Railroad Picnic Area\nhttps://www.nps.gov/places/allegheny-portage-railroad-picnic-area.htm\n\nEnjoy a picnic lunch at our covered pavilion. The Engine House and Lemon House sites can be reached from the trails from the Picnic Area in addition to the boardwalk from the Visitor Center. To get to the Visitor Center parking lot from the Picnic Area, take the Gallitzin Exit from New Route 22 and turn right to enter the park. For more information about the park and special programs, please call 814-886-6150. For emergencies, please dial 911.",
-        "icon": "red-pin-down.png"
+        "icon": "picnic"
       }
     },
     {
@@ -58,7 +58,7 @@
       "properties": {
         "name": "Incline #6 Overlook",
         "notes": "Incline #6 Overlook\nhttps://www.nps.gov/places/incline-6-overlook.htm\n\nThe old railbed in front of you is what remains of Incline Plane No. 6. There were 10 inclines on the railroad between Hollidaysburg and Johnstown. In the 1830s, when the Portage Railroad was built, the primitive locomotives couldn’t haul trains up steep grades. The engineers of the Portage came up with the idea to build 11 sections of nearly level track that were connected by 10 inclined planes to raise or lower trains from one level to the next. This made the railroad like a giant staircase up one side and down the other side of the mountain. Each incline was operated by a stationary steam engine housed in a structure like the one to your right. The rail cars and sectional canal boats were attached to a large hemp rope that raised and lowered them. Accidents were common and this hemp rope was eventually replaced by John Roebling’s iron wire rope. The tracks in front of you are reproductions. Notice how there are no stone sleepers here. They would have shifted out of place on the steep incline, so wooden ties were used instead on all 10 planes. Also notice that the rails themselves are mostly wood, with just a strap of iron on top since heavy locomotives wouldn’t be traveling on the incline. On select summer days, rangers can be seen making these wooden ties just like they did in the days of the Portage along the trail to your left.",
-        "icon": "red-pin-down.png"
+        "icon": "binoculars"
       }
     },
     {
@@ -193,7 +193,7 @@
       "properties": {
         "name": "Staple Bend Tunnel Trailhead",
         "notes": "Staple Bend Tunnel Trailhead\nhttps://www.nps.gov/places/staple-bend-tunnel-trailhead.htm\n\nThe Staple Bend Tunnel was the first railroad tunnel built in America and shortened the Portage Railroad by bypassing a bend in the Little Conemaugh River. The trail follows the old railbed of the Portage Railroad and remains of the Portage can be seen along the two miles it takes to reach the tunnel. A flashlight is helpful to see features in the tunnel itself. Please pace yourself on the four mile round trip. To learn more about the Allegheny Portage Railroad, please visit our main site which is just off the Gallitzin exit of Route 22 between Ebensburg and Altoona. For more information, please call the park at 814-886-6150. For emergencies, please dial 911.",
-        "icon": "red-pin-down.png"
+        "icon": "trailhead"
       }
     },
     {
@@ -238,7 +238,7 @@
       "properties": {
         "name": "Trailhead for the Inclines 6 to 10 Trail",
         "notes": "Trailhead for the Inclines 6 to 10 Trail\nhttps://www.nps.gov/places/trailhead-for-the-inclines-6-to-10-trail.htm\n\nYou are now at the Dry Run Road Trailhead for the park’s Inclines 6 to 10 Trail, which follows the path of two versions of the Portage Railroad. Please become familiar with our rules and regulations posted on the informational panel here at the trailhead. Motorized vehicles are prohibited on the trail and pets must be on a leash at all times. Certain sections of the trail are for both hiking and bicycling, while others are for hiking only. Some sections of the hiking trail are very steep and uneven. Please pace yourself and watch your step. Most important of all, enjoy your day on our trails and take the time to also stop in our visitor center and see the rest of the park which is just off the Gallitizin exit of New Route 22. For more information about the park and special events, please call 814-886-6150. For emergencies, please dial 911.",
-        "icon": "red-pin-down.png"
+        "icon": "known-route"
       }
     }
   ]

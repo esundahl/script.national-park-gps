@@ -298,7 +298,7 @@
       "properties": {
         "name": "1871 Trailhead",
         "notes": "1871 Trailhead\nhttps://www.nps.gov/places/1871trailhead.htm\n\n<p><em>The rugged lava shoreline of the South Kona coast beckons you to explore the backcountry trails of the park. Have you ever imagined visiting a historic abandoned Hawaiian village? Come and experience this special and unique area. Step back in time. The ocean will whisper ancient stories from the past as you pass by places used by people of long ago.</em></p>   <p>Explore beyond the Royal Grounds and Puʻuhonua and hike the 1871 Trail to Kiʻilae village. This two-mile (round trip) hike takes you along coastal cliffs as you pass by numerous ancient and historic sites. See the dramatic Keanaeʻe cliffs and the ingenuity of the Alahaka Ramp all while taking in the ocean's beauty.</p> <p>The 1871 Trail is just one section of the <a href=\"https://www.nps.gov/alka/index.htm\">Ala Kahakai National Historic Trail</a>. This 175-mile long trail corridor traverses from the northernmost tip of the island, along its western edge, around its southern tip and into Puna, the island's most eastern district. The Ala Kahakai National Historic Trail works with partners around the island to preserve ancient, historic, and modern connector trails so that we, and future generations, can continue walking in the footsteps of the ancestors.<br /> <br /> The ancient trail that is now the 1871 Trail existed long before Europeans arrived in Hawaiʻi and originally connected coastal villages along the South Kona Coast. In the late 1800's the trail was expanded to accommodate those traveling in horse-drawn carriages.</p>",
-        "icon": "red-pin-down.png"
+        "icon": "trailhead"
       }
     },
     {
@@ -478,7 +478,7 @@
       "properties": {
         "name": "J - Shoreline Viewpoint on the 1871 Trail",
         "notes": "J - Shoreline Viewpoint on the 1871 Trail\nhttps://www.nps.gov/places/shoreline-view-1871.htm\n\n<p>Rest for a moment on this shady bench as you take in the view of the coastline you just traversed. Listen to the waves pound the shoreline below. Think about your journey so far and imagine what it would have been like years ago when this trail would have been your only connection to the world beyond your village.<br /> <br /> Anything you needed that wasn’t provided by the ocean or the <em>kula</em> (upland) gardens would have to be brought into the village via this route. If you were lucky, you had access to a mule, if not, you had to carry your goods along this rocky route... barefoot! Most oral histories taken from people living in the area at this time mention that people rarely wore shoes.<br /> <br /> Given the modern conveniences we are used to today, it would be difficult for us to adjust to living in historic times. <em>What are a few modern conveniences that would be difficult for you to live without? How would this change how you interact with your world?</em></p>",
-        "icon": "red-pin-down.png"
+        "icon": "known-route"
       }
     },
     {
@@ -493,7 +493,7 @@
       "properties": {
         "name": "Junction of the 1871 Trail & Coastal Trail",
         "notes": "Junction of the 1871 Trail & Coastal Trail\nhttps://www.nps.gov/places/1871-coastal-trail-junction.htm\n\n<p>On the <em>makai </em>(ocean) side of the trail is the junction with the Coastal Trail. This short (0.3 mi) connector trail leads along the shoreline to the Picnic Area. When you are finished with the tour, consider taking this route back to the visitor center for a change of scenery. <br /> <br /> Along the coastal trail you'll see ancient and historic sites such as the Chief Keawe House site, cattle holding pen, historic salt pans, and the sandy Paumoa beach area.</p>",
-        "icon": "red-pin-down.png"
+        "icon": "known-route"
       }
     },
     {
@@ -688,7 +688,7 @@
       "properties": {
         "name": "N - Mauka-Makai Trail",
         "notes": "N - Mauka-Makai Trail\nhttps://www.nps.gov/places/maukamakaitrail.htm\n\n<blockquote> <p><strong><i>Ua ola no uka ia uka</i> – Life comes from the land</strong></p> </blockquote> <p>Along the fence line leading up the mountain is what remains of another type of ancient trail that connected the coastal areas with the fertile, rainy uplands. These trails are referred to as mauka-makai trails and highlight the importance of connecting the resources available from mountain to ocean.<br /> <br /> In ancient Hawaiʻi, the land was divided into long sections called ahupuaʻa that ran from the mountain to the ocean providing the people living in them almost everything they needed to survive. Larger trees for carving from the forest, fertile lands with ample rainfall in the <i>kula</i> (uplands), and abundant ocean resources from the <i>kahakai</i> (coastal area). Resources from each area were meticulously managed and shared throughout the ahupuaʻa along mauka-makai trails.<br /> <br /> While the primary village area for Kiʻilae was concentrated in this coastal area around the 1871 trail, as historian Frances Jackson (1966) states,</p> <blockquote> <p>“to attempt to show Ki‘ilae Village as existing only at the shore would show barely a third of the life of the villagers.” </p> </blockquote> <p>Families also maintained <i>kula</i> gardens with <em>ʻuala</em> (sweet potato), yams, pumpkins, squash, <em>kō</em> (sugar cane), papaya, <em>maiʻa</em> (bananas),<em> pia</em> (arrowroot), <em>ipu </em>(gourds), and <em>ulu</em> (breadfruit). These <i>kula</i> gardens were located far enough upslope to receive regular rain. In addition to kula gardens, many also cared for dryland <em>kalo</em> (taro) fields located even further upslope. A network of trails connected fields to field houses and to a mauka-makai trail that served as the main artery for travel between the <i>mauka</i> gardens and the coastal residences.<br /> <br /> This is no longer a maintained trail. Please make sure to stay on the 1871 Trail and practice Leave No Trace Principles to help protect archeological sites.</p>",
-        "icon": "red-pin-down.png"
+        "icon": "known-route"
       }
     },
     {
@@ -733,7 +733,7 @@
       "properties": {
         "name": "Puʻuhonua o Hōnaunau Picnic Area",
         "notes": "Puʻuhonua o Hōnaunau Picnic Area\nhttps://www.nps.gov/places/puho-picnic-area.htm\n\n<p>Coconut trees, ocean views, tide pools, and more! The picnic area is a favorite destination for locals and visitors alike. Located south of the Great Wall, the picnic area is a fantastic place to relax, have a beach picnic, explore the tide pools in the lava rock, and experience the iconic South Kona coast.</p> <h2>Rules & Regulations</h2> <p>Please help protect this area. With your help we can preserve this culturally significant site and provide a safe place for families to enjoy into the future. Please visit the <a href=\"https://www.nps.gov/puho/learn/management/index.htm\">Management</a> page on our website for more details on these rules and regulations.</p> <ol> <li> <p><strong>Preservation of natural, cultural and archaeological resources. </strong>Dead wood may not be collected anywhere in the park. Creating stone messages are prohibited. No digging, scraping or excavating allowed (including children's shovels) 36CFR2.1</p> </li> <li> <p><strong>Beach Umbrellas, shade tents, canopies, free-standing tents are prohibited. </strong><em>The use of these items detracts from the cultural landscape of the area and detracts from the traditional Native Hawaiian cultural values for which the park was established. </em>36CFR2.1</p> </li> <li> <p><strong>Pets (dogs, cats, others) must be restrained on a leash,</strong> which shall not exceed six feet in length, or otherwise confine a pet at all times. <em>Do not tie your pet to a tree or table, the regulations specifically state \"under your physical control.\" </em>36CFR2.15(a)2</p> </li> <li> <p><strong>Pet excrement must be placed in garbage containers.</strong> 36CFR2.15(a)5</p> </li> <li> <p><strong>Loud music or other audio disturbances are prohibited. </strong>The operation of vehicle audio systems, portable audio devices or musical instruments in a manner of unreasonable impact to other park users is prohibited. 36CFR2.12(a)1(ii)</p> </li> <li> <p><strong>No open fires.</strong> All cooking will be limited to camp stoves or contained in charcoal fire grill. Tiki torches and candles are prohibited in the park. 36CFR2.13(a)2</p> </li> <li> <p><strong>No recreational activites allowed.</strong> <em>For example: Frisbee, volleyball, horseshoes, kite flying, baseball, football, soccer, streamers and balloons, and setting up hammocks.</em> 36CFR2.11</p> </li> <li> <p><strong>Special Use Permits are required for the following:</strong> All wedding ceremonies and photography. Groups of 25 people of more engaged in parties/gatherings, special events, public assemblies and meetings, or political gatherings require a permit. All parties may not exceed 50 persons per permit. 36CFR1.5(d)</p> </li> <li> <p><strong>Collecting seashells and coral stones are prohibited. </strong>Up to 15 noni fruit may be collected by one person per day. Collection is authorized along the picnic road and parking lot only. Coconuts on the ground in the Picnic Area may be collected, one per person per day. 36CFR2.1(c)(1),(c)(2)</p> </li> <li> <p><strong>This is a \"Day Use\" area only, no overnight camping is allowed. </strong>36CFR2.10</p> </li> </ol>",
-        "icon": "red-pin-down.png"
+        "icon": "picnic"
       }
     },
     {
@@ -748,7 +748,7 @@
       "properties": {
         "name": "The Coastal Trail Trailhead",
         "notes": "The Coastal Trail Trailhead\nhttps://www.nps.gov/places/puhocoastaltrail.htm\n\nThis short (0.3 mi) connector trail leads to the longer 1871 Trail to Kiʻilae village. Walk along the sandy coastline then turn mauka (towards the mountain) as the trail turns to lava rock and intersects with the 1871 Trail. <br /> <br /> See ancient, historic, and natural features such as kou trees, Paumoa Beach, historic salt pans, and the Chief Keawe House Complex.",
-        "icon": "red-pin-down.png"
+        "icon": "trailhead"
       }
     },
     {

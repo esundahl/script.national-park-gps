@@ -13,7 +13,7 @@
       "properties": {
         "name": "Amphitheater",
         "notes": "Amphitheater\nhttps://www.nps.gov/places/amphitheater.htm\n\n<p>The Amphitheater, located on the north side of the Cedar Pass Campground, is where nightly ranger programs are conducted on various subjects that focus on the park and its resources. Special events, such as guest speakers and concerts, can also happen here. However, one of the biggest draws to the Amphitheater is the Night Sky program. Astronomy rangers provide a tour of one of the best dark skies in the National Park Service. Visitors can ask questions, learn more about the galaxy, and view telescopes pointed at celestial objects like planets.</p>",
-        "icon": "red-pin-down.png"
+        "icon": ""
       }
     },
     {
@@ -28,7 +28,7 @@
       "properties": {
         "name": "Ancient Hunters Overlook",
         "notes": "Ancient Hunters Overlook\nhttps://www.nps.gov/places/ancient-hunters.htm\n\n<p>This road pull-off provides the opportunity to observe an archeological site at Badlands National Park. This geologic slump provides a slightly wetter area where trees grow in abundance. Arrowheads and bison bones have been found at this archeological site, suggesting that it may have been an ancient butchering location.</p>",
-        "icon": "red-pin-down.png"
+        "icon": "binoculars"
       }
     },
     {
@@ -103,7 +103,7 @@
       "properties": {
         "name": "Badlands Wilderness Overlook",
         "notes": "Badlands Wilderness Overlook\nhttps://www.nps.gov/places/badlands-wilderness-overlook.htm\n\n<p>The Badlands Wilderness Overlook begins to display an even transition from near completely eroded Badlands formations into prairie. Bison are known to frequent this area, and they are not shy of roads, vehicles, or people.</p>",
-        "icon": "red-pin-down.png"
+        "icon": "binoculars"
       }
     },
     {
@@ -118,7 +118,7 @@
       "properties": {
         "name": "Big Badlands Overlook",
         "notes": "Big Badlands Overlook\nhttps://www.nps.gov/places/big-badlands-overlook.htm\n\n<p>Big Badlands Overlook provides the opportunity to view the eastern portion of the Badlands wall, and erosional feature that expands from near the town Kadoka (east) to the town of Wall (west). On clearer days, you can see Eagle Nest Butte rising in the southeast horizon, which is situated next to the town of Wanblee, South Dakota. This view shows the lower units of the Badlands Formations. The reddish stripes of the Brule Formation (Scenic Member; Oligocene Epoch, 33.7-32.0 million years ago) dominates the view. The darker gray beds near the base of the outcrops are the older Chadron Formation (Peanut Peak Member; Eocene Epoch, 35.0-33.7 million years ago).</p>",
-        "icon": "red-pin-down.png"
+        "icon": "binoculars"
       }
     },
     {
@@ -133,7 +133,7 @@
       "properties": {
         "name": "Bigfoot Pass Overlook",
         "notes": "Bigfoot Pass Overlook\nhttps://www.nps.gov/places/bigfoot-pass-overlook.htm\n\n<p>Aside from being an impressive geologic vista, Big Foot Pass is also a historic area.  After the murder of Sitting Bull on December 15, 1890, approximately 200 Hunkpapa Lakota fled to join Chief Spotted Elk, also known as Big Foot, and his band of Miniconjou Lakota at the Cheyenne Reservation.  This group departed for the Pine Ridge Indian Reservation on December 23, seeking refuge with Chief Red Cloud.  Five days later, a detachment of the 7th Calvary met the traveling group and escorted them to Wounded Knee Creek. The next day (December 29, 1890), tensions rose and the 7th Calvary massacred an estimated 150-300 men, women, and children at Wounded Knee.</p>",
-        "icon": "red-pin-down.png"
+        "icon": "binoculars"
       }
     },
     {
@@ -148,7 +148,7 @@
       "properties": {
         "name": "Burns Basin Overlook",
         "notes": "Burns Basin Overlook\nhttps://www.nps.gov/places/burns-basin-overlook.htm\n\n<p>This overlook is named after the homestead of Wilson Burns, who raised sheep in the basin during the early 20th century. A freshwater spring was a rare commodity that kept this operation going. Now wells must be dug a few thousand feet deep.</p>",
-        "icon": "red-pin-down.png"
+        "icon": "binoculars"
       }
     },
     {
@@ -163,7 +163,7 @@
       "properties": {
         "name": "Castle Trailhead",
         "notes": "Castle Trailhead\nhttps://www.nps.gov/places/castle-trailhead.htm\n\n<p>The longest trail in the park travels five miles (ten miles round-trip) between the Door and Window parking area and Fossil Exhibit Trail. Relatively level, the path passes along some Badlands formations. The trailhead is equipped with backcountry camping registration kiosks.</p>",
-        "icon": "red-pin-down.png"
+        "icon": "trailhead"
       }
     },
     {
@@ -193,7 +193,7 @@
       "properties": {
         "name": "Cedar Pass Lodge",
         "notes": "Cedar Pass Lodge\nhttps://www.nps.gov/places/cedar-pass-lodge.htm\n\n<p>The Cedar Pass Lodge was the first establishment in what would later become Badlands National Park. IFounded by Ben Millard in 1926, it was originally a barn-like structure that served as a dance hall. Famous names, like Lawrence Welk, played to a crowded hall on weekends. Cabins were also available for people wanting to visit the Badlands. Today, the Cedar Pass Lodge has lodging and camping available for visitors as well as a gift shop, convenience store, and restaurant.</p>",
-        "icon": "red-pin-down.png"
+        "icon": "shelter"
       }
     },
     {
@@ -208,7 +208,7 @@
       "properties": {
         "name": "Cliff Shelf Trailhead",
         "notes": "Cliff Shelf Trailhead\nhttps://www.nps.gov/places/cliff-shelf-trailhead.htm\n\n<p>This loop follows boardwalks and climbs stairs through a juniper forest perched along the Badlands wall. Abundant shade is provided by the junipers and a small pond occasionally exists in the area, which attracts local wildlife. The trail has some boardwalks and stairs, which climb approximately 200 feet in elevation.</p>",
-        "icon": "red-pin-down.png"
+        "icon": "trailhead"
       }
     },
     {
@@ -223,7 +223,7 @@
       "properties": {
         "name": "Conata Basin Overlook",
         "notes": "Conata Basin Overlook\nhttps://www.nps.gov/places/conata-basin-overlook.htm\n\n<p>Conata Basin Overlook has some incredible views of the park’s paleosols. Paleosols are ancient soils that often take on bright colors in the rock record. At Conata Basin Overlook, one can see two of the park’s most vibrant paleosols: the Yellow Mounds and the Interior Paleosol.</p>",
-        "icon": "red-pin-down.png"
+        "icon": "binoculars"
       }
     },
     {
@@ -238,7 +238,7 @@
       "properties": {
         "name": "Conata Picnic Area",
         "notes": "Conata Picnic Area\nhttps://www.nps.gov/places/conata-picnic-area.htm\n\n<p>The Conata Picnic Ground is one of the more remote rest stops on Badlands Loop Road, located just a ways down Conata Road. Vault toilets and picnic benches are available. This area is also fairly easy to explore on foot. The west side of the parking lot hosts the Deer Haven trailhead.</p>",
-        "icon": "red-pin-down.png"
+        "icon": "picnic"
       }
     },
     {
@@ -253,7 +253,7 @@
       "properties": {
         "name": "Deer Haven Trailhead",
         "notes": "Deer Haven Trailhead\nhttps://www.nps.gov/places/deer-haven-trailhead.htm\n\n<p>The Deer Haven Trail is the name given to an unmaintained network of game trails that see frequent human contact. A small alcove of trees, known as Deer Haven, is located about 3 miles west of the trailhead. Deer Haven stands out from the surrounding area due to the Junipers in this alcove, which are visible for miles.</p>",
-        "icon": "red-pin-down.png"
+        "icon": "trailhead"
       }
     },
     {
@@ -268,7 +268,7 @@
       "properties": {
         "name": "Door Trailhead",
         "notes": "Door Trailhead\nhttps://www.nps.gov/places/door-trail.htm\n\n<p>A wheelchair-accessible ¼ mile boardwalk leads through a break in the Badlands Wall known as “the Door” to a panoramic view of the Badlands. From there, the maintained trail ends and continues onto Badlands bedrock, with yellow posts marking the primitive portion of the trail. Travel beyond this point is at your own risk.</p>",
-        "icon": "red-pin-down.png"
+        "icon": "trailhead"
       }
     },
     {
@@ -298,7 +298,7 @@
       "properties": {
         "name": "Fossil Exhibit Trailhead",
         "notes": "Fossil Exhibit Trailhead\nhttps://www.nps.gov/places/fossil-exhibit-trailhead.htm\n\n<p>The Fossil Exhibit Trail is a self-guided, fully accessible boardwalk featuring fossil replicas and exhibits of extinct creatures that once lived in the area. The exhibits are tactile, so please feel free to touch. Braille is incorporated into the exhibits.</p>",
-        "icon": "red-pin-down.png"
+        "icon": "trailhead"
       }
     },
     {
@@ -313,7 +313,7 @@
       "properties": {
         "name": "Hay Butte Overlook",
         "notes": "Hay Butte Overlook\nhttps://www.nps.gov/places/hay-butte-overlook.htm\n\n<p>The Hay Butte Overlook provides another view into the Sage Creek Wilderness Area. This vantage point also displays a massive, grass-capped butte of Badlands formation known as Hay Butte, one of the major landmarks in the wilderness area. Bison and Bighorn Sheep are known to frequent this area, and they are not shy of roads, vehicles, or people.</p>",
-        "icon": "red-pin-down.png"
+        "icon": "binoculars"
       }
     },
     {
@@ -328,7 +328,7 @@
       "properties": {
         "name": "Homestead Overlook",
         "notes": "Homestead Overlook\nhttps://www.nps.gov/places/homestead-overlook.htm\n\n<p><a href=\"https://www.nps.gov/articles/000/homesteading.htm\">The Homesteading Acts</a> were laws issued by the US government to promote Westward expansion by giving away free land. In 1862, President Abraham Lincoln signed the first Homesteading Act into law. Under this initial law, a US citizen could claim a 160-acre plot of public land in the West by filing an application, living on and improving the land for a minimum of five years, and filing for a deed within seven years.<br /> <br /> While the Homesteading Acts offered free land to settlers, this “free” land came at a great cost to Native Americans. Much of the land offered as homesteading plots was seized from the Native Americans who previously inhabited the Great Plains through legislation like the <a href=\"https://www.nps.gov/articles/000/dawes-act.htm\">Dawes Act.</a></p>",
-        "icon": "red-pin-down.png"
+        "icon": "binoculars"
       }
     },
     {
@@ -358,7 +358,7 @@
       "properties": {
         "name": "Medicine Root Trailhead",
         "notes": "Medicine Root Trailhead\nhttps://www.nps.gov/places/medicine-root-trailhead.htm\n\n<p>This generally rolling spur trail connects with the Castle Trail on the East near Old Northeast Road and on the West at the intersection of the Castle and Saddle Pass trails. Trail users are provided the opportunity to explore the mixed grass prairie while enjoying views of the Badlands in the distance. Watch for cactus.</p>",
-        "icon": "red-pin-down.png"
+        "icon": "trailhead"
       }
     },
     {
@@ -418,7 +418,7 @@
       "properties": {
         "name": "Notch Trailhead",
         "notes": "Notch Trailhead\nhttps://www.nps.gov/places/notch-trail.htm\n\n<p>After meandering through a canyon, this 1.5-mile (round trip) trail climbs a log ladder and follows a ledge to “the Notch” for a dramatic view of the White River Valley. Trail begins at the south end of the Door and Window parking area. Watch for drop-offs. Not recommended for anyone with a fear of heights. Treacherous during or after heavy rains or snow.</p>",
-        "icon": "red-pin-down.png"
+        "icon": "trailhead"
       }
     },
     {
@@ -448,7 +448,7 @@
       "properties": {
         "name": "Panorama Point Overlook",
         "notes": "Panorama Point Overlook\nhttps://www.nps.gov/places/panorama-point.htm\n\n<p>Panorama Point offers a wide view of the Badlands landscape, downward towards the White River Valley. The view is similar to what is seen in the Big Foot Pass area.</p>",
-        "icon": "red-pin-down.png"
+        "icon": "binoculars"
       }
     },
     {
@@ -478,7 +478,7 @@
       "properties": {
         "name": "Pinnacles Overlook",
         "notes": "Pinnacles Overlook\nhttps://www.nps.gov/places/pinnacles-overlook.htm\n\n<p>This view displays the expanse of the Sage Creek Wilderness area. On clear days, the Black Hills are visible on the horizon. Bison might be visible in the distance, in the valley below or the upper prairie to the northwest. This overlook is also a popular spot for Bighorn sheep to gather. This is also a lambing area for Bighorn sheep in late April to early May, so it’s not unusual to see lambs traversing the rocky slopes of the Badlands.</p>",
-        "icon": "red-pin-down.png"
+        "icon": "binoculars"
       }
     },
     {
@@ -493,7 +493,7 @@
       "properties": {
         "name": "Prairie Wind Overlook",
         "notes": "Prairie Wind Overlook\nhttps://www.nps.gov/places/prairie-wind-overlook.htm\n\n<p>This overlook provides a serene view of the mixed-grass prairie at Badlands National Park. The North American <a href=\"https://www.nps.gov/articles/000/prairie-ecology-badl.htm\">prairie ecosystem</a> is separated into three major components, based on which type of grass dominates the ecology: short-grass prairie, mixed-grass prairie, and tall-grass prairie. The short-grass prairie runs along the rain shadow of the Rocky Mountains, where short grasses receive little moisture. The tall-grass prairie ecosystem Badlands hosts the largest preserved mixed-grass prairie in the United States.  Today, the native prairie only retains about 2% of its original range. Invasive plants further threaten what little is left, pushing out native plants virtually unchallenged. Badlands National Park does what it can to manage these invaders with various tactics, including prescribed fires and spraying herbicides.</p>",
-        "icon": "red-pin-down.png"
+        "icon": "binoculars"
       }
     },
     {
@@ -523,7 +523,7 @@
       "properties": {
         "name": "Red Shirt Table Overlook",
         "notes": "Red Shirt Table Overlook\nhttps://www.nps.gov/places/red-shirt-table-overlook.htm\n\n<p>Red Shirt Table Overlook is an unassuming pull-off with one of the most breathtaking views of the Badlands. The geologic section here is near complete, providing one of the most colorful vistas in the park.</p>",
-        "icon": "red-pin-down.png"
+        "icon": "binoculars"
       }
     },
     {
@@ -553,7 +553,7 @@
       "properties": {
         "name": "Saddle Pass Trailhead",
         "notes": "Saddle Pass Trailhead\nhttps://www.nps.gov/places/saddle-pass-trailhead.htm\n\n<p>This short trail climbs up the Badlands Wall to a view over the White River Valley. The trail ends where it connects with the Castle and Medicine Root Loop trails. Despite being one of the shorter trails in the park, Saddle Pass is one of the steepest, with approximately 300 feet of elevation change.</p>",
-        "icon": "red-pin-down.png"
+        "icon": "trailhead"
       }
     },
     {
@@ -568,7 +568,7 @@
       "properties": {
         "name": "Sage Creek Basin Overlook",
         "notes": "Sage Creek Basin Overlook\nhttps://www.nps.gov/places/sage-creek-basin-overlook.htm\n\n<p>The Sage Creek Basin Overlook provides a view into a pristine mixed grass prairie. Here, Badlands formations have eroded away almost entirely, revealing an underlying terrain more suitable for grasslands soil development. Trails are visible throughout this area, but they are not developed or maintained by the park. These are game trails made by bison. </p>",
-        "icon": "red-pin-down.png"
+        "icon": "binoculars"
       }
     },
     {
@@ -598,7 +598,7 @@
       "properties": {
         "name": "Sheep Mountain Table Overlook",
         "notes": "Sheep Mountain Table Overlook\nhttps://www.nps.gov/places/sheep-mountain-table-overlook.htm\n\n<p>Sheep Mountain Table is the highest area in the park at nearly 3,300 feet above sea level. Horses or cattle might be seen roaming the area because of agreements made with local ranchers on the Pine Ridge Reservation. Part of the agreement between the National Park Service and the Oglala Lakota Nation is that park lands remain accessible to tribal ranchers on the Reservation.  Badlands National Park is one of the only NPS units that allows this.</p>",
-        "icon": "red-pin-down.png"
+        "icon": "binoculars"
       }
     },
     {
@@ -793,7 +793,7 @@
       "properties": {
         "name": "White River Valley Overlook",
         "notes": "White River Valley Overlook\nhttps://www.nps.gov/places/white-river-valley-overlook.htm\n\n<p>This overlook provides an expansive view  of Badlands close to a set of tall formations, known as the Castle, to the west. The view continues downward into the White River Valley.</p>",
-        "icon": "red-pin-down.png"
+        "icon": "binoculars"
       }
     },
     {
@@ -808,7 +808,7 @@
       "properties": {
         "name": "Window Trailhead",
         "notes": "Window Trailhead\nhttps://www.nps.gov/places/window-trail.htm\n\n<p>This trail is short and provides excellent views of layered badlands geology. The view at the end provides a premier vantage point of the Badlands wall, extending far beyond the park’s eastern boundary.</p>",
-        "icon": "red-pin-down.png"
+        "icon": "trailhead"
       }
     },
     {
@@ -823,7 +823,7 @@
       "properties": {
         "name": "Yellow Mounds Overlook",
         "notes": "Yellow Mounds Overlook\nhttps://www.nps.gov/places/yellow-mounds-overlook.htm\n\n<p>This overlook is placed within the most colorful portion of Badlands geology. Yellow, purple, gray, and striped reddish beds display the sequence of Yellow Mounds, the Interior Paleosol, Chadron, and Brule formations respectively, from bottom to top.</p>",
-        "icon": "red-pin-down.png"
+        "icon": "binoculars"
       }
     }
   ]

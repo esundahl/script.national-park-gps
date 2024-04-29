@@ -238,7 +238,7 @@
       "properties": {
         "name": "Mount Rose Trail Depot Overlook",
         "notes": "Mount Rose Trail Depot Overlook\nhttps://www.nps.gov/places/mount-rose-trail-depot-overlook.htm\n\n<p>This overlook is at a low rock wall along the trail.</p>",
-        "icon": "red-pin-down.png"
+        "icon": "binoculars"
       }
     },
     {
@@ -253,7 +253,7 @@
       "properties": {
         "name": "Mount Rose Trail Interpretive Overlook",
         "notes": "Mount Rose Trail Interpretive Overlook\nhttps://www.nps.gov/places/mount-rose-trail-interpretive-overlook.htm\n\n<p>The Mount Rose Trails offers multiple stops to view Grand Portage Bay and the Historic Depot from above. Learn some fur trade history and take a photo.</p>",
-        "icon": "red-pin-down.png"
+        "icon": "binoculars"
       }
     },
     {
@@ -283,7 +283,7 @@
       "properties": {
         "name": "Mount Rose Trailhead (Depot)",
         "notes": "Mount Rose Trailhead (Depot)\nhttps://www.nps.gov/places/mount-rose-trailhead-depot.htm\n\n<p>This trailhead, beginning across from the historic depot, is one of two access points. From the Heritage Center, follow the community walking path along Mile Creek Road to where it intersects with Store Road. Find the trailhead sign for Mount Rose and begin.</p>",
-        "icon": "red-pin-down.png"
+        "icon": "trailhead"
       }
     },
     {
@@ -298,7 +298,7 @@
       "properties": {
         "name": "Mount Rose Trailhead (parking lot)",
         "notes": "Mount Rose Trailhead (parking lot)\nhttps://www.nps.gov/places/mount-rose-trailhead-parking-lot.htm\n\n<h2>Mount Rose Loop Trail</h2> <p>This dirt path between flights of wooden stairs accessed from the Heritage Center parking lot, near the picnic area, is the steeper, more direct, path to the summit. A series of wooden steps climb the side of an ancient rock wall then a dirt path gently rises along the spine of Mount Rose until it connects with the older paved Mount Rose Trail near the overlook, the highest point of Mount Rose (906 ft., 276 m).</p>",
-        "icon": "red-pin-down.png"
+        "icon": "trailhead"
       }
     },
     {
@@ -343,7 +343,7 @@
       "properties": {
         "name": "Trailhead for Gichi Onigaming, The Grand Portage",
         "notes": "Trailhead for Gichi Onigaming, The Grand Portage\nhttps://www.nps.gov/places/trailhead-for-gichi-onigaming-the-grand-portage.htm\n\n<p>Today's eight-and-a-half mile (13.7 kilometers) <a href=\"https://www.nps.gov/thingstodo/hike-the-grand-portage.htm\">portage trail </a>corridor can be thought of in two parts: the eastern \"half\" that passes through gaps and valleys to avoid the high rocky ridges and the western \"half\" that passes over elevated terrain to avoid steep slopes and swamps. The parking area at Old Highway 61 approximately divides the halves so hikers can choose the \"exploration into history\" of their choice.<br /> <br /> <a href=\"https://www.nps.gov/grpo/planyourvisit/fort-charlotte-camping-permit-application.htm\">Click here to make a camping reservation at Fort Charlotte.</a></p> <ul> <li> <p>Hike the Grand Portage footpath from the stockade to Old Highway 61 (eight miles round trip - three to four hours)</p> </li> <li> <p>Hike the Grand Portage from Old Highway 61 to Fort Charlotte (nine miles round trip - six to eight hours)</p> </li> <li> <p>Hike the entire Grand Portage footpath from the stockade on Lake Superior to Fort Charlotte and back (17 miles round trip eight to 16 hours)</p> </li> </ul>",
-        "icon": "red-pin-down.png"
+        "icon": "trailhead"
       }
     }
   ]

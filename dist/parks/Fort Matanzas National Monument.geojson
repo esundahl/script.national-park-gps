@@ -58,7 +58,7 @@
       "properties": {
         "name": "Beach Ramp Parking",
         "notes": "Beach Ramp Parking\nhttps://www.nps.gov/places/000/beach-ramp-parking.htm\n\nThe beach ramp parking area is the exit only ramp for driving on the St. John's County area beaches. Beach driving is not allowed on the Fort Matanzas Beach. There is no oversized parking available.",
-        "icon": "red-pin-down.png"
+        "icon": "parking"
       }
     },
     {
@@ -73,7 +73,7 @@
       "properties": {
         "name": "Beaches",
         "notes": "Beaches\nhttps://www.nps.gov/places/000/beaches.htm\n\n<p>The beaches of our National Monument are some of the most beautiful and popular in St. Augustine. One visit and you will see why! <br /><br />The park-protected beach stretches from the beach ramp all the way to the ferry docks. If you are at the park entrance, you will see a parking area directly across A1A. The beach ramp is open during the summer months and is operated by the county as an exit only ramp. If you wish to drive on the beach, head north on A1A to access the beach from another ramp; you will drive south and exit at our ramp. The beach south of the ramp is NPS property and is closed to motorized vehicles.<br /><br />If you drive south on A1A, you will find two parking areas before the bridge over the Matanzas Inlet. On the northbound side is a boardwalk over the dunes to the beach, an area that is favored by surfers and fishermen. The lot on the southbound side provides access to the river with a short, accessible boardwalk. The river side often has shallow areas ideal for swimming. Remember that the currents near the inlet are extremely strong as the tides go in and out. Use caution when swimming and supervise children closely. <br /><br />A popular fishing area is on the southern end of Rattlesnake Island. There is a small parking area accessible by a dirt road in the Summer Island neighborhood. Access to the fort itself is only permitted by the NPS ferry boat. Visitors on foot or in personal watercraft may not access the fort. <br /><br />Wherever you choose to enjoy our beaches, be safe and help us to preserve and protect our resources.<br /></p>",
-        "icon": "red-pin-down.png"
+        "icon": "swimming"
       }
     },
     {
@@ -103,7 +103,7 @@
       "properties": {
         "name": "Coastal Hammock Trail",
         "notes": "Coastal Hammock Trail\nhttps://www.nps.gov/places/000/coastal-hammock-trail.htm\n\n<p>Pick up a free trail guide to learn about the oldest and highest part of the barrier island is covered with a forest called a hammock (\"shady place\") -- an ancient dune on which larger plant species have taken root in the thin layer of decayed remains from pioneer species.<br /> <br /> Cabbage palm, red bay, magnolia, and live oak provide a canopy under which diverse animal species can thrive. These plants provide food for animals as well as for migrating birds who stop for a rest in the maritime forest.<br /> <br /> Follow this <a href=\"https://www.nps.gov/foma/learn/nature/nature-trail-guide.htm\">link</a> for a digital trail guide.</p>",
-        "icon": "red-pin-down.png"
+        "icon": "known-route"
       }
     },
     {
@@ -163,7 +163,7 @@
       "properties": {
         "name": "Dunes Overlook",
         "notes": "Dunes Overlook\nhttps://www.nps.gov/places/000/dunes-overlook.htm\n\n<p>Look for wildlife tracks in the sand. You might see the paw prints of a raccoon, opossum, or even a bobcat. Look carefully for the faint trace of a lizard or a black racer snake. You may see a racerunner lizard itself, but because of daytime heat and the threat of being caught by predators, many wild animals search for food in the dark of the night.</p>",
-        "icon": "red-pin-down.png"
+        "icon": "binoculars"
       }
     },
     {
@@ -523,7 +523,7 @@
       "properties": {
         "name": "Picnic Area - Fort Matanzas",
         "notes": "Picnic Area - Fort Matanzas\nhttps://www.nps.gov/places/picnic-area-fort-matanzas.htm\n\nLocated in the main visitor center entrance and parking is a beautifly shaded picnic area. Shaded by an old oak canopy. Here you will find a public restroom facility, nature trailhead, and sidewalk to the visitor center. This gated area of the park is open 9:00am - 5:30pm daily.",
-        "icon": "red-pin-down.png"
+        "icon": "picnic"
       }
     },
     {
@@ -688,7 +688,7 @@
       "properties": {
         "name": "Visitor Center Area Restrooms",
         "notes": "Visitor Center Area Restrooms\nhttps://www.nps.gov/places/000/visitor-center-area-restrooms.htm\n\nThis restroom facility is located in the main visitor parking area. Oversized parking is not available. There are no restrooms at the visitor center, on the boat, or at the fort.",
-        "icon": "red-pin-down.png"
+        "icon": "toilets"
       }
     },
     {

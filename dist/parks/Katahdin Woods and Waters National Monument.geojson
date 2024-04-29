@@ -28,7 +28,7 @@
       "properties": {
         "name": "Barnard Mountain Trailhead",
         "notes": "Barnard Mountain Trailhead\nhttps://www.nps.gov/places/barnard-mountain-trailhead.htm\n\nThe <a href=\"https://www.nps.gov/places/barnard-mountain.htm\">Barnard Mountain</a> trailhead is located just before mile marker 12 on the Katahdin Loop Road. The hike to the top of Barnard Mountain is 4 miles round trip. From the top there is a spectacular view of neighboring Baxter State Park and Mount Katahdin. <br /> <br /> The International Appalachian Trail (IAT) also starts from this trailhead. The IAT extends on from the <a href=\"https://www.nps.gov/appa/index.htm\">Appalachian Trail</a>. The trail follows the ancient Appalachian Mountains, now separated by the North Atlantic Ocean. The IAT links traces of these mountains around the arc of the North Atlantic. The section of the trail that runs through Maine starts here and continues through the national monument for 30 miles, then continues another 100 miles to Fort Fairfield, Maine, and then on into Canada, Greenland, and Europe, ending in Morocco.<br /> <br /> <br /> <br /> <br /> <br />  ",
-        "icon": "red-pin-down.png"
+        "icon": "trailhead"
       }
     },
     {
@@ -43,7 +43,7 @@
       "properties": {
         "name": "Bowlin Falls",
         "notes": "Bowlin Falls\nhttps://www.nps.gov/places/bowlin-falls.htm\n\nWhile paddling down the East Branch of the Penobscot River, Bowlin Falls is the last waterfall and portage within national monument boundaries, There are no trails to Bowlin Falls and it is only accessible by water.",
-        "icon": "red-pin-down.png"
+        "icon": "waterfall"
       }
     },
     {
@@ -178,7 +178,7 @@
       "properties": {
         "name": "Katahdin Overlook",
         "notes": "Katahdin Overlook\nhttps://www.nps.gov/places/katahdin-overlook.htm\n\nTravelers on the Katahdin Loop Road can pause here to enjoy unparalleled views of Katahdin, Millinocket Lake, and other prominent landmarks stretching out to the west. Access is via a short driveway at Mile 6.4 leading uphill to a clearing and parking area. A vault toilet and several picnic tables make this a popular rest stop. After sunset, this location also serves as an excellent night-sky viewing area for stargazers. Camping is located nearby at the Sandbank Stream campsites.",
-        "icon": "red-pin-down.png"
+        "icon": "binoculars"
       }
     },
     {
@@ -238,7 +238,7 @@
       "properties": {
         "name": "Lunksoos Boat Launch",
         "notes": "Lunksoos Boat Launch\nhttps://www.nps.gov/places/lunksoos-launch.htm\n\nAt the heart of Katahdin Woods and Waters National Monument lies the East Branch of the Penobscot River, which runs the length of the monument north to south. From native Penobscots to noted American visitors like Henry David Thoreau, this waterway has been an important corridor of travel for centuries.<br /> <br /> Lunksoos Boat Launch is a small gravel boat launch near the historic site of Lunksoos Camps. It offers a put-in point for paddlers wishing to head upstream to the river's confluence with the Seboeis, or downstream to Whetstone Falls and the main stem of the Penobscot beyond.<br /> <br /> The parking lot and vault toilet is located across the Seboeis Road. Unload your belongings by the boat ramp and park in the designated parking lot.",
-        "icon": "red-pin-down.png"
+        "icon": "canoe"
       }
     },
     {
@@ -433,7 +433,7 @@
       "properties": {
         "name": "Orin Falls",
         "notes": "Orin Falls\nhttps://www.nps.gov/places/orin-falls.htm\n\nLarge boulders in Wassataquoik Stream cause its waters to churn and tumble through the rapids of Orin Falls. The geology in this area hint at a glacial past. This location provides for a scenic picnic and <a href=\"https://www.nps.gov/kaww/planyourvisit/fishing-at-katahdin-woods-and-waters.htm\">fishing</a> spot. Orin Falls is accessed via a 3 mile out and back hike or bike, mostly along an old streamside logging road. Prepare for high concentrations of biting and stinging insects during the spring and summer months.<br />   <p><strong>Elevation Gain:</strong> 87ft / 26m</p> <p><strong>Distance (Round-Trip):</strong> 6 Miles</p> <p><strong>Difficulty:</strong> Easy</p> <p><strong>Restrooms:</strong> There is a vault toilet located at Wassataquoik Gate parking area</p> <p><strong>Water:</strong> Potable water is not available anywhere inside of Katahdin Woods and Waters. <a href=\"https://www.nps.gov/articles/2wayspurifywater.htm\">Prepare accordingly</a>.</p> <p><strong>Parking:</strong> Parking is available at Wassataquoik Gate.</p> <p><strong>Trail Etiquette:</strong> Leashed pets are allowed on this trail. Carry out all trash and food waste (fruit peels, shells, etc.). Do not feed the wildlife</p>",
-        "icon": "red-pin-down.png"
+        "icon": "waterfall"
       }
     },
     {
@@ -448,7 +448,7 @@
       "properties": {
         "name": "Oxbow Picnic Area",
         "notes": "Oxbow Picnic Area\nhttps://www.nps.gov/places/oxbow.htm\n\nOxbow Picnic Area is located at the top of a steep embankment along the East Branch of the Penobscot River. Enjoy a picnic with a view of the waterway as it enters a series of sharp bends known as the Oxbow. <br /> <br /> To get to the Oxbow Picnic Site, follow New River Road south past the North Gate parking area and turn onto Oxbow Road. Follow Oxbow road until you reach the picnic site. There is a vault toilet and a couple picnic tables at this location.",
-        "icon": "red-pin-down.png"
+        "icon": "picnic"
       }
     },
     {
@@ -508,7 +508,7 @@
       "properties": {
         "name": "Rocky Pond Road Trailhead - Katahdin Loop Road - Mile 5.75",
         "notes": "Rocky Pond Road Trailhead - Katahdin Loop Road - Mile 5.75\nhttps://www.nps.gov/places/rocky-pond-road-trailhead-katahdin-loop-road-mile-5-75.htm\n\nThe Rocky Pond Road Trail is a 4.1 mile stretch of dirt logging road that allows cycling, hiking, and even horseback riding. Use road with caution. This road is used by authorized vehicles only.<br />  ",
-        "icon": "red-pin-down.png"
+        "icon": "trailhead"
       }
     },
     {
@@ -523,7 +523,7 @@
       "properties": {
         "name": "Rocky Pond Road Trailhead - Katahdin Loop Road - Mile 9",
         "notes": "Rocky Pond Road Trailhead - Katahdin Loop Road - Mile 9\nhttps://www.nps.gov/places/rocky-pond-road-trailhead-katahdin-loop-road-mile-9.htm\n\nThe 4.1 mile Rocky Pond Road Trail allows bicycles, horses, and hikers. This road is used by authorized vehicles only. Use Rocky Pond Road with caution.",
-        "icon": "red-pin-down.png"
+        "icon": "trailhead"
       }
     },
     {
@@ -553,7 +553,7 @@
       "properties": {
         "name": "Seboeis Riverside Trail North Trailhead",
         "notes": "Seboeis Riverside Trail North Trailhead\nhttps://www.nps.gov/places/seboeis-riverside-trail-north.htm\n\nThe northern access point for the <a href=\"https://penobscotrivertrails.org/seboeis-riverside-trail/\">Seboeis Riverside Trail</a> is the start of a 6.75 mile one-way trail that leads south along the Seboeis River <a href=\"https://home.nps.gov/places/seboeis-riverside-trail-south.htm\">into the Seboeis Parcel </a>of Katahdin Woods and Waters National Monument.<br /> <br /> Across Grand Lake Road is a recreation area where you can access a vault toilet and launch canoes and kayaks to paddle down the Seboeis. <br /> <br />  ",
-        "icon": "red-pin-down.png"
+        "icon": "trailhead"
       }
     },
     {
@@ -568,7 +568,7 @@
       "properties": {
         "name": "Seboeis Riverside Trail South Trailhead",
         "notes": "Seboeis Riverside Trail South Trailhead\nhttps://www.nps.gov/places/seboeis-riverside-trail-south.htm\n\nThe southern access point for the <a href=\"https://penobscotrivertrails.org/seboeis-riverside-trail/\">Seboeis Riverside Trail</a> is located in the Seboeis Parcel of Katahdin Woods and Waters National Monument. This trailhead offers a 7.2 mile (one-way) out and back trail along the Seboeis River. The trail extends past the monument boundaries. To get to this location, a high clearance vehicle is recommended. There is an unmarked dirt parking area located just north of the trailhead (46.07529,-68.63553).<br /> <br /> Note: Philpott Bridge and areas west of the Seboeis River are not within the boundaries of Katahdin Woods and Waters National Monument.<br /> <br /> The northern end of the trail is located off Grand Lake Road, 5.7 miles north of Shin Pond. In the winter, you can snowshoe from the north trailhead. This trailhead is not maintained during the winter.",
-        "icon": "red-pin-down.png"
+        "icon": "trailhead"
       }
     },
     {
@@ -598,7 +598,7 @@
       "properties": {
         "name": "Slash Trailhead",
         "notes": "Slash Trailhead\nhttps://www.nps.gov/places/slash-trailhead.htm\n\nSlash Trail starts nearby the Katahdin Overlook just off Katahdin Loop Road and connects approximately at the midpoint of Rocky Pond Road Trail. Expect tall grasses and thick vegetation along the trail.<br />   <p><strong>Elevation Gain:</strong> 201ft / 61.3m</p> <p><strong>Distance(Round-Trip):</strong> 1.2 miles/ 1.9km</p> <p><strong>Difficulty:</strong> Easy</p> <p><strong>Restrooms:</strong> The closest vault toilet is at the Katahdin Loop Road Overlook.</p> <p><strong>Parking:</strong> Park completely off the gravel road. Do not block the road or trailhead.</p> <p><strong>Trail Etiquette:</strong> Leashed <a href=\"https://www.nps.gov/kaww/planyourvisit/pets.htm\">pets</a> are allowed on this trail. <a href=\"https://www.nps.gov/kaww/planyourvisit/leave-no-trace.htm\">Carry out all trash and food waste</a> (fruit peels, shells, etc.). Do not feed the wildlife.</p>",
-        "icon": "red-pin-down.png"
+        "icon": "trailhead"
       }
     },
     {
@@ -613,7 +613,7 @@
       "properties": {
         "name": "Stair Falls",
         "notes": "Stair Falls\nhttps://www.nps.gov/places/stair-falls.htm\n\nThe East Branch of the Penobscot River flows over a series of parallel bedrock ridges that cause the river to appear to be flowing over stairs as it drops 18 feet within 8/10 of a mile. The name came from Maynard Marsh through a survey commissioned by the Commonwealth of Massachusetts in 1793. In his field notes Marsh wrote,<em> </em>\"...at the foot of the handsomest falls I ever saw... as regular as a stair case.\" Stair Falls was recognized as a significant rapid in the state of Maine's evaluations of critical areas in the late 1970s and early 1980s. Access to the falls is along the International Appalachian Trail, with the fastest route beginning at Haskell Gate. Please be mindful that there is a campsite in this area.<br />   <p paraeid=\"{3308131e-cec3-4d50-9a39-3baf352609fd}{103}\" paraid=\"670875697\"><strong>Elevation Gain: </strong>87ft / 26m</p> <p paraeid=\"{3308131e-cec3-4d50-9a39-3baf352609fd}{112}\" paraid=\"1276450351\"><strong>Distance (Round-Trip):</strong> 4 miles</p> <p paraeid=\"{3308131e-cec3-4d50-9a39-3baf352609fd}{119}\" paraid=\"1271770078\"><strong>Difficulty:</strong> Easy</p> <p paraeid=\"{3308131e-cec3-4d50-9a39-3baf352609fd}{128}\" paraid=\"1736736795\"><strong>Restrooms:</strong> The closest vault toilets are located at the North Gate parking lot and the Oxbow Picnic Area.</p> <p paraeid=\"{3308131e-cec3-4d50-9a39-3baf352609fd}{139}\" paraid=\"618006864\"><strong>Parking:</strong> Parking is available at the Haskell Gate trailhead on New River Road.</p> <p paraeid=\"{3308131e-cec3-4d50-9a39-3baf352609fd}{146}\" paraid=\"1206225073\"><strong>Trail Etiquette:</strong> <a href=\"https://www.nps.gov/kaww/planyourvisit/pets.htm\">Leashed pets</a> are allowed on this trail. Carry out all trash and food waste (fruit peels, shells, etc.). Do not feed the wildlife. Be mindful of the campsite area when visiting the falls.</p>",
-        "icon": "red-pin-down.png"
+        "icon": "waterfall"
       }
     },
     {

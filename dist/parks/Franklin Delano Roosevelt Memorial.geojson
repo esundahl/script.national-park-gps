@@ -103,7 +103,7 @@
       "properties": {
         "name": "Franklin Delano Roosevelt Memorial - Restrooms (South)",
         "notes": "Franklin Delano Roosevelt Memorial - Restrooms (South)\nhttps://www.nps.gov/places/000/franklin-delano-roosevelt-memorial-restrooms-south.htm\n\nRestrooms located near the southern entrance of the Franklin Delano Roosevelt Memorial. Additional restrooms are at the north entrance of the memorial.",
-        "icon": "red-pin-down.png"
+        "icon": "toilets"
       }
     },
     {
@@ -268,7 +268,7 @@
       "properties": {
         "name": "Visitor Center and Bookstore",
         "notes": "Visitor Center and Bookstore\nhttps://www.nps.gov/places/fdr-memorial-bookstore.htm\n\nThe Franklin Delano Roosevelt bookstore and information kiosk. Restrooms are on the back side of the bookstore. ",
-        "icon": "red-pin-down.png"
+        "icon": "market"
       }
     }
   ]

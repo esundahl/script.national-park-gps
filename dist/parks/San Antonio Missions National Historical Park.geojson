@@ -13,7 +13,7 @@
       "properties": {
         "name": "Acequia Trail Trailhead - Mission San Juan",
         "notes": "Acequia Trail Trailhead - Mission San Juan\nhttps://www.nps.gov/places/saju-acequia-trail.htm\n\nAccess the Acequia Trail from Mission San Juan, just off of Mission Road. The Acequia trail takes hikers and bicyclists along the historic irrigation ditches of Mission San Juan. Portions of this trail are gravel. Travel 1.2 miles north on this trail to reach the San Antonio River Hike & Bike Trail. The San Antonio River Hike & Bike Trail connects all 5 missions in San Antonio along a beautiful stretch of waterways, native plants, and wildlife. Hike or bike along this trail and stop at each mission site, or travel straight down to the southernmost mission site, Mission Espada, approx 2.5 miles south along the river.<br /> <br /> The Acequia Trailhead is located at the entrance to the parking lot of Mission San Juan.<br /> <br /> For a map of the San Antonio River Hike & Bike Trail, visit the <a href=\"https://www.sariverauthority.org/resources/san-antonio-river-walk-map\">San Antonio River Authority site.</a>",
-        "icon": "red-pin-down.png"
+        "icon": "trailhead"
       }
     },
     {
@@ -43,7 +43,7 @@
       "properties": {
         "name": "E. Pyron Drive Trailhead - San Antonio River Hike & Bike",
         "notes": "E. Pyron Drive Trailhead - San Antonio River Hike & Bike\nhttps://www.nps.gov/places/e-pyron-dr-trailhead.htm\n\nAccess the San Antonio River Hike & Bike Trail from Mission San Jose via the East Pyron Drive Trailhead. The San Antonio River Hike & Bike Trail connects all 5 missions in San Antonio along a beautiful stretch of waterways, native plants, and wildlife. Hike or bike along this trail and stop at each mission site, or travel straight down to the southernmost mission site, Mission Espada, approx 5 miles from this trailhead.<br /> <br /> The East Pyron Drive Trailhead is 0.4 miles east of Mission San Jose. The trailhead is a 9 minute walk from Mission San Jose, or a 2 minute bike ride.<br /> <br /> For a map of the San Antonio River Hike & Bike Trail, visit the <a href=\"https://www.sariverauthority.org/resources/san-antonio-river-walk-map\">San Antonio River Authority site.</a>",
-        "icon": "red-pin-down.png"
+        "icon": "trailhead"
       }
     },
     {
@@ -88,7 +88,7 @@
       "properties": {
         "name": "Farm Loop Trailhead",
         "notes": "Farm Loop Trailhead\nhttps://www.nps.gov/places/farm-loop-trailhead.htm\n\n<p lang=\"EN-US\" paraeid=\"{5bf9cf9c-cfbd-4a1c-b8ae-96591bb048d9}{174}\" paraid=\"1658251818\" xml:lang=\"EN-US\">explore more of the farm fields and see the historic flowing acequias, or irrigation ditches, carrying water from the San Antonio River. During the mission period, this acequia would water all the Mission San Juan farmland. This was easily done using wooden gates. Gates could be opened or closed depending on what fields needed water. In our demonstration garden, you can see how they planted their seeds on the berms and dug furrows for the water to flow.   </p> <p paraeid=\"{9c6db387-d7c7-4843-b36f-0e47f5167a4c}{201}\" paraid=\"685540323\">The irrigation ditches are still flowing today and are used by the San Antonio Food Bank to irrigate their crops. The food bank pulls water from these acequias into their modern irrigation systems.   </p> <p paraeid=\"{9c6db387-d7c7-4843-b36f-0e47f5167a4c}{217}\" paraid=\"210099888\">The farmland is still being used to feed people in the local community. The San Antonio Food Bank manages this farmland, and donates the produce they grow to feed the people of San Antonio. </p>",
-        "icon": "red-pin-down.png"
+        "icon": "trailhead"
       }
     },
     {
@@ -103,7 +103,7 @@
       "properties": {
         "name": "Graf Road Trailhead - San Antonio River Hike & Bike",
         "notes": "Graf Road Trailhead - San Antonio River Hike & Bike\nhttps://www.nps.gov/places/graf-rd-hike-bike.htm\n\nAccess the San Antonio River Hike & Bike Trail from Mission San Juan via the Graf Road Trailhead. The San Antonio River Hike & Bike Trail connects all 5 missions in San Antonio along a beautiful stretch of waterways, native plants, and wildlife. Hike or bike along this trail and stop at each mission site, either to the north or south.<br /> <br /> The Graf Road Trailhead is just west of the Mission San Juan parking lot. The trail begins at a San Antonio Bike Share station. This trail extends south, past Mission San Juan and the historic demonstration farm. This trail meets the San Antonio River 0.6 miles south. Continue south on the river for a total of 1.4 miles to reach Mission Espada.<br /> <br /> For a map of the San Antonio River Hike & Bike Trail, visit the <a href=\"https://www.sariverauthority.org/resources/san-antonio-river-walk-map\">San Antonio River Authority site.</a>",
-        "icon": "red-pin-down.png"
+        "icon": "trailhead"
       }
     },
     {
@@ -148,7 +148,7 @@
       "properties": {
         "name": "Mission Espada Trailhead - San Antonio River Hike & Bike Trail",
         "notes": "Mission Espada Trailhead - San Antonio River Hike & Bike Trail\nhttps://www.nps.gov/places/espa-hike-bike-trail.htm\n\nAccess the San Antonio River Hike & Bike Trail from Mission Espada on the northwest corner of the mission complex. The San Antonio River Hike & Bike Trail connects all 5 missions in San Antonio along a beautiful stretch of waterways, native plants, and wildlife. Hike or bike along this trail and stop at each mission site going north. This trailhead is the southernmost point on the Hike & Bike Trail.<br /> <br /> The trail begins at a San Antonio Bike Share station.<br /> <br /> For a map of the San Antonio River Hike & Bike Trail, visit the <a href=\"https://www.sariverauthority.org/resources/san-antonio-river-walk-map\">San Antonio River Authority site.</a>",
-        "icon": "red-pin-down.png"
+        "icon": "known-route"
       }
     },
     {
@@ -238,7 +238,7 @@
       "properties": {
         "name": "Theo Parkway Trailhead - San Antonio River Hike & Bike",
         "notes": "Theo Parkway Trailhead - San Antonio River Hike & Bike\nhttps://www.nps.gov/places/conc-hike-bike.htm\n\nAccess the San Antonio River Hike & Bike Trail from Mission Concepcion via the Theo Parkway Trailhead. The San Antonio River Hike & Bike Trail connects all 5 missions in San Antonio along a beautiful stretch of waterways, native plants, and wildlife. Hike or bike along this trail and stop at each mission site, or travel straight down to the southernmost mission site, Mission Espada, for approx 7 miles of outdoor exercise.<br /> <br /> The Theo Parkway Trailhead is 0.6 miles west of Mission Concepcion. The trailhead is a 12 minute walk from Mission Concepcion, or a 4 minute bike ride.<br /> <br /> For a map of the San Antonio River Hike & Bike Trail, visit the <a href=\"https://www.sariverauthority.org/resources/san-antonio-river-walk-map\">San Antonio River Authority site.</a>",
-        "icon": "red-pin-down.png"
+        "icon": "trailhead"
       }
     },
     {
@@ -253,7 +253,7 @@
       "properties": {
         "name": "Yanaguana Trailhead",
         "notes": "Yanaguana Trailhead\nhttps://www.nps.gov/places/yanaguana-trailhead.htm\n\n<p paraeid=\"{6ffde553-8d77-4388-9d17-1a97faa0e010}{234}\" paraid=\"1307226737\">Just southwest of Mission San Juan, visitors can find the Yanaguana Trailhead. The Yanaguana Trail is a 0.3 mile long paved trail that weaves its way through the lush overgrowth along an original channel of the San Antonio River. The trail provides visitors the opportunity to experience some of the natural Texas ecosystems that were common before the Spanish arrival. <br />  </p> <p paraeid=\"{0d8ff1ac-eafc-4507-ace7-4c04c6a2ad4b}{7}\" paraid=\"213882730\"><strong>Wild San Antonio </strong></p> <p lang=\"EN-US\" paraeid=\"{5bf9cf9c-cfbd-4a1c-b8ae-96591bb048d9}{189}\" paraid=\"1516406589\" xml:lang=\"EN-US\">The Yanaguana Trail takes you through a riparian area out to an original channel of the San Antonio river. The Yanaguana offers a rare look at what the San Antonio river and riparian area would’ve looked like before the Spanish arrived.  Look all around you, and you will find pecan and mulberry trees, and grape vines. This would’ve been prime gathering grounds for the indigenous people of South Texas.   Follow the trail out to the river channel and see if you can spot a Great Blue Heron perched on the rivers edge or Red-eared Slider on a log. Listen carefully and you might hear the call of a Red-shouldered Hawk or of a Barred Owl. The Barred Owl sounds like it is saying “who cooks for you? who cooks for you all?\" <br /> Keep your eyes and ears open as you are bound to experience a wilder side to San Antonio.   </p>",
-        "icon": "red-pin-down.png"
+        "icon": "trailhead"
       }
     },
     {

@@ -58,7 +58,7 @@
       "properties": {
         "name": "Bandelier Park Store",
         "notes": "Bandelier Park Store\nhttps://www.nps.gov/places/bandelier-park-store.htm\n\nThe park store is located in the bottom of Frijoles Canyon inside Bandelier National Monument. It is a place where visitors can shop for park related gifts and souvenirs in a building built by the CCC in the 1930s. The staff is friendly and helpful, and willing to assist visitors and their needs.",
-        "icon": "red-pin-down.png"
+        "icon": "market"
       }
     },
     {
@@ -448,7 +448,7 @@
       "properties": {
         "name": "Falls Trail",
         "notes": "Falls Trail\nhttps://www.nps.gov/places/falls-trail.htm\n\nThe Falls Trail begins a short distance from the park visitor center and travels down Frijoles Canyon to an 80 foot waterfall (unfortunately often dry in summer). The roundtrip is 3 miles with 400 foot elevation change. Lots of cool geology, plants, and wildlife on this hike that stays in the riparian zone along the creek.",
-        "icon": "red-pin-down.png"
+        "icon": "known-route"
       }
     },
     {
@@ -748,7 +748,7 @@
       "properties": {
         "name": "Frey Trail",
         "notes": "Frey Trail\nhttps://www.nps.gov/places/frey-trail.htm\n\nThe Frey Trail is a historic trail that travels from the park visitor center in Frijoles Canyon up onto the mesa and Juniper Family Campground. Distance one way is 2 miles and approximately 550 feet elevation change. Lots of great vistas and closeup encounters with the Piñon- Juniper Woodlands. When the park shuttle is running (usually summer and early fall), you can hike one way and ride the shuttle the other. Make sure the shuttle is operating before counting on this option.",
-        "icon": "red-pin-down.png"
+        "icon": "known-route"
       }
     },
     {
@@ -943,7 +943,7 @@
       "properties": {
         "name": "Main Pueblo Loop Trail",
         "notes": "Main Pueblo Loop Trail\nhttps://www.nps.gov/places/main-pueblo-loop-trail.htm\n\nThe Main Pueblo Loop Trail is the most popular trail in Bandelier at 1.4 miles roundtrip, you see more archeological sites here than on any other trail. This trail begins directly behind the park visitor center and includes climbing ladders into cavates, petroglyphs, and a paved trail. More information can be found under guided tours.",
-        "icon": "red-pin-down.png"
+        "icon": "known-route"
       }
     },
     {
@@ -1243,7 +1243,7 @@
       "properties": {
         "name": "Tyuonyi Overlook Trail",
         "notes": "Tyuonyi Overlook Trail\nhttps://www.nps.gov/places/tyuonyi-overlook-trail.htm\n\nTyuonyi Overlook Trail begins near Juniper Family Campground and travels to several dramatic overlooks into Frijoles Canyon. The trail is 2.2 miles roundtrip and doesn't provide access into Frijoles Canyon. The trail is dirt, and can be muddy in spring or other wet times. Additional information is available for this trail under guided tours.",
-        "icon": "red-pin-down.png"
+        "icon": "known-route"
       }
     },
     {

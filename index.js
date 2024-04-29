@@ -15,14 +15,14 @@ async function main() {
     console.log('Fetching', park.fullName)
     return [...agg, { ...park, places: await fetchPlaces(park.parkCode) }]
   }, []))
-  const mappedParks = parks.map(({ latitude, longitude, fullName, description, url }) => ({ latitude, longitude, name: fullName, icon: 'red-pin-down.png', notes: `${fullName}\n${url}\n\n${description}` }))
+  const mappedParks = parks.map(({ latitude, longitude, fullName: name, description, url }) => ({ latitude, longitude, name, icon: getIcon({ name }), notes: `${name}\n${url}\n\n${description}` }))
 
   // Save GEOJson 
   await fs.writeFile('dist/national-parks.geojson', JSON.stringify(GEOJson.parse(mappedParks, { Point: ['latitude', 'longitude'], include: ['name', 'notes', 'icon'] })))
   await parks.reduce(async (curr, park) => {
     await curr
     console.log('Saving', park.fullName)
-    const mappedPlaces = park.places.map(({ latitude, longitude, title, bodyText, url }) => ({ latitude, longitude, name: title, icon: 'red-pin-down.png', notes: `${title}\n${url}\n\n${bodyText}` }))
+    const mappedPlaces = park.places.map(({ latitude, longitude, title, bodyText, url }) => ({ latitude, longitude, name: title, icon: getIcon({ title }), notes: `${title}\n${url}\n\n${bodyText}` }))
     await fs.writeFile(`dist/parks/${park.fullName}.geojson`, JSON.stringify(GEOJson.parse(mappedPlaces, { Point: ['latitude', 'longitude'], include: ['name', 'notes', 'icon'] }), null, 2))
   }, [])
 }
@@ -53,4 +53,30 @@ async function fetchPlaces(parkCode, result = []) {
 
   await fs.writeFile(cacheFile, JSON.stringify(combined, null, 2))
   return combined
+}
+
+function getIcon({ title = '', name = '' } = {}) {
+  const formattedTitle = (title || name).toLowerCase()
+  if (formattedTitle.endsWith('day use area')) return 'picnic'
+  if (formattedTitle.endsWith('boat launch')) return 'canoe'
+  if (formattedTitle.endsWith('ranger station')) return 'police'
+  if (formattedTitle.endsWith('amphitheater')) return ''
+  if (formattedTitle.endsWith('falls')) return 'waterfall'
+  if (formattedTitle.endsWith('overlook')) return 'binoculars'
+  if (formattedTitle.endsWith('parking')) return 'parking'
+  if (formattedTitle.endsWith('sign')) return 'information'
+  if (formattedTitle.endsWith('information')) return 'information'
+  if (formattedTitle.endsWith('lodge')) return 'shelter'
+  if (formattedTitle.endsWith('trail')) return 'known-route'
+  if (formattedTitle.endsWith('store')) return 'market'
+
+  if (formattedTitle.startsWith('[sign]')) return 'information'
+
+  if (formattedTitle.includes('restroom')) return 'toilets'
+  if (formattedTitle.includes('campground')) return 'shelter'
+  if (formattedTitle.includes('trailhead')) return 'trailhead'
+  if (formattedTitle.includes('picnic area')) return 'picnic'
+  if (formattedTitle.includes('beach')) return 'swimming'
+
+  return 'red-pin-down.png'
 }

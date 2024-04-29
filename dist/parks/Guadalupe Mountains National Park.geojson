@@ -58,7 +58,7 @@
       "properties": {
         "name": "Campground Junction",
         "notes": "Campground Junction\nhttps://www.nps.gov/places/gumo_gp_campgroundjunction.htm\n\nAt three and one quarter miles up the trail hikers will pass a sign indicating the Guadalupe Peak backcountry campsite. A short trail leads north to the campsite, where there are five individual tent sites. Backpackers wishing to hike the peak for sunrise and sunset can camp here. Camping is only permitted in designated sites and requires a Wilderness Use Permit that must be obtained before you begin your hike. <br /> <br /> Along the trail, you may occasionally find fossils that remind us that this land was once covered by an ancient sea. During the Permian period, between 250 and 290 million years ago, a reef formed at the bottom of an ancient sea that covered much of what is now West Texas and Southeast New Mexico. The 400-mile long, horseshoe-shaped Capitan Reef was formed of algae, sponges, and other lime-secreting organisms, as well as lime that precipitated directly from the seawater. <br /> <br /> Eventually the channel connecting the sea to the ocean became restricted and the sea began to dry up. As the water evaporated, the reef was buried beneath a thick blanket of sediments and salts. Millions of years later, faulting lifted this ancient reef and exposed it to the elements, which quickly eroded away the sediments in which it had long been buried. This reef is exposed today in the Guadalupe Mountains, the Apache Mountains, and the Glass Mountains. ",
-        "icon": "red-pin-down.png"
+        "icon": "shelter"
       }
     },
     {
@@ -88,7 +88,7 @@
       "properties": {
         "name": "Chosa Campground (BLM)",
         "notes": "Chosa Campground (BLM)\nhttps://www.nps.gov/places/gumo_chosa_campground_blm.htm\n\n<p>The Chosa Campground is a maintained dry camping area. Camping is free and the camping limit is 14 days. The entire area is a large, square, gravel parking lot which makes it easy for leveling. There are no electric, water, or sewer hookups available. Trash cans are available on site.</p>",
-        "icon": "red-pin-down.png"
+        "icon": "shelter"
       }
     },
     {
@@ -148,7 +148,7 @@
       "properties": {
         "name": "Frijole Horse Corral Trailhead",
         "notes": "Frijole Horse Corral Trailhead\nhttps://www.nps.gov/places/gumo_horsetrailhead.htm\n\n<p>The Frijole Horse Corral Trailhead is located at the Frijole Horse Corral Campground and a short distance from the historic ranch compound. For those visitors riding horses within the park, this is one of two trailheads with corrals and hitching posts.  <br /> <br /> Stock trails and routes beginning here include:</p> <ul> <li><a href=\"https://www.nps.gov/places/gumo_frijole_ranch_museum.htm\">Frijole Ranch Museum</a></li> <li><a href=\"https://www.nps.gov/thingstodo/gumo_foothills_loop.htm\">Foothills Loop</a></li> <li>Tejas Trail</li> <li><a href=\"https://www.nps.gov/thingstodo/gumo_hike_guadalupe_peak.htm\">Guadalupe Peak</a><br />  </li> </ul>",
-        "icon": "red-pin-down.png"
+        "icon": "trailhead"
       }
     },
     {
@@ -178,7 +178,7 @@
       "properties": {
         "name": "Frijole Ranch Trailhead",
         "notes": "Frijole Ranch Trailhead\nhttps://www.nps.gov/places/gumo_frijole_ranch_trailhead.htm\n\n<p>The Frijole Ranch trailhead is located at the end of the Frijole Ranch Road and a short distance from the historic ranch. The popular Smith Spring loop trail begins here. A picnic area is immediately adjacent the trailhead. <br /> <br /> Trails and routes beginning here include:</p> <ul> <li><a href=\"https://www.nps.gov/places/gumo_frijole_ranch_museum.htm\">Frijole Ranch Museum</a></li> <li><a href=\"https://www.nps.gov/thingstodo/gumo_manzanita_spring.htm\">Manzanita Spring</a></li> <li><a href=\"https://www.nps.gov/thingstodo/gumo_hike_smith_springs_trail.htm\">Smith Spring Loop</a></li> <li><a href=\"https://www.nps.gov/thingstodo/hunter-peak.htm\">Hunter Peak</a></li> <li><a href=\"https://www.nps.gov/thingstodo/gumo_foothills_loop.htm\">Foothills Loop</a></li> </ul>",
-        "icon": "red-pin-down.png"
+        "icon": "trailhead"
       }
     },
     {
@@ -283,7 +283,7 @@
       "properties": {
         "name": "McKittrick Canyon Trailhead",
         "notes": "McKittrick Canyon Trailhead\nhttps://www.nps.gov/places/gumo_mckittrick_canyon_trailhead.htm\n\n<p>The McKittrick Canyon trailhead is the starting point for trails for destinations in McKittrick Canyon as well as above and beyond the canyon. Trail destinations inside the canyon make excellent day hikes. The trailhead is located on the other side of the visitor center from the parking lot. This is a day use area and visitors must exit before the gate closing time each evening. <br /> <br /> Trails and routes beginning here include:</p> <ul> <li><a href=\"https://www.nps.gov/thingstodo/gumo_hike_mckittrick_canyon_nature_trail.htm\">McKittrick Canyon Nature Trail</a></li> <li><a href=\"https://www.nps.gov/thingstodo/gumo_hiketoprattcabin.htm\">Pratt Cabin</a></li> <li><a href=\"https://www.nps.gov/thingstodo/gumo_hiketogrottohunter.htm\">The Grotto and Hunter Line Shack</a></li> <li><a href=\"https://www.nps.gov/thingstodo/gumo_hike_the_notch.htm\">The Notch</a></li> <li><a href=\"https://www.nps.gov/thingstodo/gumo_permian_reef_trail.htm\">Permian Reef Trail</a></li> <li><a href=\"https://www.nps.gov/thingstodo/gumo_mckittrickridge-overnight.htm\">Overnight on McKittrick Ridge</a></li> <li><a href=\"https://www.nps.gov/thingstodo/gumo_overnight_wildernessridge.htm\">Overnight on Wilderness Ridge</a></li> <li><a href=\"https://www.nps.gov/thingstodo/gumo_pinesprings2mckittrickcyn.htm\">McKittrick Canyon to Pine Springs</a></li> <li><a href=\"https://www.nps.gov/thingstodo/mckittrick-canyon-to-dog-canyon.htm\">McKittrick Canyon to Dog Canyon</a></li> </ul>",
-        "icon": "red-pin-down.png"
+        "icon": "trailhead"
       }
     },
     {
@@ -328,7 +328,7 @@
       "properties": {
         "name": "Pine Springs Trailhead",
         "notes": "Pine Springs Trailhead\nhttps://www.nps.gov/places/gumo_pinesprings_trailhead.htm\n\n<p>The Pine Springs trailhead is the starting point for many park trails, and is located above the Pine Springs Visitor Center and near the campground. Except for the <a href=\"https://www.nps.gov/thingstodo/gumo_pinery_trail.htm\">Pinery Trail</a> near the visitor center, most of the trails starting here are rated strenuous with significant elevation gains. <a href=\"https://www.nps.gov/gumo/planyourvisit/whenitsbusy.htm\">On busy weekends</a> this trailhead area often fills first. A connector trail leads from the visitor center parking area through the campground to this trailhead. <br /> <br /> Trails and routes beginning here include:</p> <ul> <li><a href=\"https://www.nps.gov/thingstodo/gumo_hike_devils_hall_trail.htm\">Devil's Hall</a></li> <li><a href=\"https://www.nps.gov/thingstodo/gumo_hike_guadalupe_peak.htm\">Guadalupe Peak</a></li> <li>El Capitan</li> <li>Salt Basin Overlook</li> <li><a href=\"https://www.nps.gov/thingstodo/hunter-peak.htm\">Hunter Peak</a></li> <li>The Bowl</li> <li><a href=\"https://www.nps.gov/thingstodo/gumo_foothills_loop.htm\">Foothills Loop</a></li> <li><a href=\"https://www.nps.gov/thingstodo/gumo_pinesprings2mckittrickcyn.htm\">Pine Springs to McKittrick Canyon</a></li> <li><a href=\"https://www.nps.gov/thingstodo/gumo_tejastrail_hikethru.htm\">Pine Springs to Dog Canyon via the Tejas Trail</a></li> <li>Tejas Trail & Bush Mountain Loop</li> <li>Overnight to Shumard Canyon</li> </ul>",
-        "icon": "red-pin-down.png"
+        "icon": "trailhead"
       }
     },
     {
@@ -373,7 +373,7 @@
       "properties": {
         "name": "Salt Basin Dunes Trailhead",
         "notes": "Salt Basin Dunes Trailhead\nhttps://www.nps.gov/places/gumo_salt_basin_dunes_trailhead.htm\n\nThe white gypsum sands of the Salt Basin Dunes rise 100 feet from the desert floor and provide a brilliant contrast to the dark, towering cliffs of the Guadalupe Mountains. To the west are barren salt flats that are the source of these beautiful dunes. When rain runs off the highly soluble limestone rock in the adjacent mountains, salts are leached. This runoff pools in the desert basin and as it evaporates, large grains of mineral salts are left behind. The wind carries the salt grains northeast toward the Guadalupe Mountains and deposits them at the base of the western Guadalupe escarpment to form gypsum dunes.<br /> <br /> The dune landscape is geologically young. It developed over the past few thousand years as dissolved salts and gypsum from an adjacent lake bed were deposited by wind into ever changing sculpted hill, swale, and ripple formations. The mesquite coppice dunes form stabilized spots where wildlife abounds.<br /> <br /> The dunes environment is home to gypsum-loving plant and animal life such as gypsum scalebroom, a white variant of the lesser earless spiny lizard, and five of the park’s seven species of scorpions.<br /> <br /> Visitors are allowed to hike over the open dunes, but are encouraged to avoid walking on the fragile biological soil crusts. Visitors may also hike on abandoned ranch road traces and discover windmills and other historic remnants of the past. Temperatures in the dunes area are generally mild in the winter and dangerously hot in the summer.",
-        "icon": "red-pin-down.png"
+        "icon": "trailhead"
       }
     },
     {
@@ -448,7 +448,7 @@
       "properties": {
         "name": "Sunset Reef Campground (BLM)",
         "notes": "Sunset Reef Campground (BLM)\nhttps://www.nps.gov/places/gumo_sunsetreefcampground_blm.htm\n\nThe Sunset Reef Campground, located off the Washington Ranch Road, is a reclaimed well pad with 11 developed campsites; five RV spaces and six tent sites. Each site has a covered picnic table and grill for your camping convenience with a vault toilet on site. Visitors can dry camp in the area for a maximum of five nights for free.",
-        "icon": "red-pin-down.png"
+        "icon": "shelter"
       }
     },
     {
@@ -493,7 +493,7 @@
       "properties": {
         "name": "The Dog Canyon Trailhead",
         "notes": "The Dog Canyon Trailhead\nhttps://www.nps.gov/places/gumo_dogcanyon_trailhd.htm\n\n<p>The Dog Canyon Trailhead is located in the remote northern district of the park. The higher elevation makes for faster access to the wilderness and high country. Most of the trails and routes starting here are rated strenuous with significant elevation gains. <br /> <br /> Trails and routes beginning here include:</p> <ul> <li><a href=\"https://www.nps.gov/thingstodo/gumo_marcus-overlook.htm\">Marcus Overlook</a></li> <li><a href=\"https://www.nps.gov/thingstodo/gumo_lost_peak.htm\">Lost Peak Saddle</a></li> <li>Marcus Trail Loop</li> <li><a href=\"https://www.nps.gov/thingstodo/mckittrick-canyon-to-dog-canyon.htm\">Dog Canyon to McKittrick Canyon</a></li> <li><a href=\"https://www.nps.gov/thingstodo/gumo_tejastrail_hikethru.htm\">Dog Canyon to Pine Springs via the Tejas Trail</a></li> </ul>",
-        "icon": "red-pin-down.png"
+        "icon": "trailhead"
       }
     },
     {

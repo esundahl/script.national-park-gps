@@ -28,7 +28,7 @@
       "properties": {
         "name": "Betzwood Picnic Area",
         "notes": "Betzwood Picnic Area\nhttps://www.nps.gov/places/betzwood-picnic-area.htm\n\n<p>Located on the north side of the Schuylkill River within Valley Forge National Historical Park, the Betzwood picnic area provides shade, picnic tables, potable water, restrooms, and two established charcoal grills. (Bringing your own self-contained charcoal grill is encouraged).</p> <p>Betzwood also provides boat trailer parking and a boat ramp on the Schuylkill River, trailhead access to the popular regional Schuylkill River Trail, and trailhead access to the NPS-managed River Trail.</p>",
-        "icon": "red-pin-down.png"
+        "icon": "picnic"
       }
     },
     {
@@ -328,7 +328,7 @@
       "properties": {
         "name": "Varnum's Picnic Area",
         "notes": "Varnum's Picnic Area\nhttps://www.nps.gov/places/varnums-picnic-area.htm\n\n<p>Varnum's picnic area is a shady, grassy lawn with picnic tables. In the parking lot there is a seasonal restroom facility, an information kiosk, trailhead access to the Chapel trail, and a short path to the Star Redoubt.</p> <p>Nearby, just across Rt. 23, is the Steuben Statue, Varnum's Quarters, the Grand Parade trail, and the 5-mile loop of the Joseph Plumb Martin trail.</p> <p>NOTE: The Varnum's picnic area parking lot is open daily from April to October, 7 AM to dark, then open weekends only through November. The parking lot is closed December through March.</p>",
-        "icon": "red-pin-down.png"
+        "icon": "picnic"
       }
     },
     {
@@ -448,7 +448,7 @@
       "properties": {
         "name": "Wayne's Woods Picnic Area",
         "notes": "Wayne's Woods Picnic Area\nhttps://www.nps.gov/places/waynes-woods-picnic-area.htm\n\n<p>Wayne's Woods picnic area provides excellent views of the National Memorial Arch and the landscape of Valley Forge. The area features wooden picnic tables under the shade of tall trees and easy access to the paved 5-mile loop of the Joseph Plumb Martin trail. The use of picnic tables is first-come, first-served. A public restroom and outdoor water fountain is available seasonally.</p> <p>Groups of 30 people or more must apply for a special-use permit in advance.</p>",
-        "icon": "red-pin-down.png"
+        "icon": "picnic"
       }
     }
   ]

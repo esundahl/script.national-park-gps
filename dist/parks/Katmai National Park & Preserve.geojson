@@ -73,7 +73,7 @@
       "properties": {
         "name": "Brooks Camp Cultural Site Trailhead",
         "notes": "Brooks Camp Cultural Site Trailhead\nhttps://www.nps.gov/places/brooks-camp-cultural-site-trailhead.htm\n\n<b>The Trail</b><br /> The trailhead is located across from the Brooks Camp Visitor Center. Follow this trail 1/4 mile one way to reach the reconstructed home site. The trail has practically no elevation gain or loss and is wheelchair accessible. The closest bathroom is here, near the Visitor Center. Occasionally, rangers lead guided cultural walks to the site. Inquire at the Visitor Center for more information. As always, be bear aware.<br /> <br /> <b>Who lived here? A broad archaeological overview. </b>Human habitation in the Brooks River area began around 2400 BC and continued for the next 4,200 years. There were three distinct waves of human habitation in the region, known as “Traditions,” which are characterized by unique types of artifacts. These help us piece together the archaeological record and learn something about the cultures and people who lived here in the past.<br /> <br /> The first known people in the region were from the Paleoarctic Tradition (9,000-7,000 years ago), followed by the Northern Archaic Tradition (5,000 to 3,850 years ago), the Arctic Small Tool Tradition (3,850-3,000 years ago), the Norton Tradition (2,250-900 years ago), and finally the Thule Tradition (900 years ago to historic contact). The people of these ancient societies were the ancestors of today’s Alaska Native people whose families originate from this area, particularly the Alutiiq people. We are able to piece together the stories of the past with the help of oral traditions from Alutiiq communities, as well as evidence from artifacts and ancient housing sites, like those found along Brooks River.",
-        "icon": "red-pin-down.png"
+        "icon": "trailhead"
       }
     },
     {
@@ -88,7 +88,7 @@
       "properties": {
         "name": "Brooks Camp Ranger Station",
         "notes": "Brooks Camp Ranger Station\nhttps://www.nps.gov/places/brooks-camp-ranger-station.htm\n\nThis structure was originally a boathouse built circa 1959-1960. It served as a boathouse, then a VIP cabin, and for a time, even a space for interpretive ranger presentations. Starting after 1990 and continuing today, it became office space where you can find the rangers taking care of their day-to-day tasks. The bear cutout located just to the side of the log cabin demonstrates 50 yards from the Visitor’s Center, one of the first rules you learn about required distancing from the bears.",
-        "icon": "red-pin-down.png"
+        "icon": "police"
       }
     },
     {
@@ -133,7 +133,7 @@
       "properties": {
         "name": "Brooks Falls Trailhead",
         "notes": "Brooks Falls Trailhead\nhttps://www.nps.gov/places/brooks-falls-trailhead.htm\n\nThis is the most popular trail in Katmai. It contrasts a quiet walk through the boreal forest with the intimidating and exciting presence of brown bears. The Brooks Falls Trail begins across from the vault toilets .3 miles from the South Platform. During July, the Brooks Falls Trail rewards visitors with superb bear viewing opportunities. At the end of the trail, .6 miles one way, two raised platforms offer a bird’s eye view of bears fishing in the Brooks River. Bear viewing at the Falls is best during the July salmon run. This hike can be intimidating with frequent bear encounters along its entire length. Bears are commonly encountered walking and sleeping along the Falls Trail especially in July and September. Hikers must exercise caution and be prepared to move off of the trail in order to let bears pass.<br /> <br /> The trail is unpaved. While the trail is wheelchair accessible, it will be difficult to move off trail in the event of bear encounters.",
-        "icon": "red-pin-down.png"
+        "icon": "trailhead"
       }
     },
     {
@@ -148,7 +148,7 @@
       "properties": {
         "name": "Brooks Lodge",
         "notes": "Brooks Lodge\nhttps://www.nps.gov/places/brooks-lodge.htm\n\n<p>Brooks Lodge is the only lodge in the Brooks Camp Area. It is run by <a href=\"http://www.katmailand.com/\">Katmailand</a>, and is the only National Park Service authorized concessioner in Katmai offering overnight accommodations and food and beverage service. <br /> <br /> The lodge is open from June 1 until September 17. Reservations are necessary and may be made by contacting <a href=\"http://www.katmailand.com/\">Katmailand</a>. <br /> <br /> Brooks Lodge also offers guided sport fishing, gifts and merchandise, outdoor recreation equipment rental, public showers, ground transportation and sightseeing, and camper drop-off services.</p> <h2><strong>Other Lodging Within Katmai</strong></h2> <p>Several other private lodges offer lodging on inholdings, or private land, surrounded by the boundaries of Katmai and may offer tour packages within Katmai and throughout the Alaska Peninsula area.</p>",
-        "icon": "red-pin-down.png"
+        "icon": "shelter"
       }
     },
     {

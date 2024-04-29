@@ -43,7 +43,7 @@
       "properties": {
         "name": "Big Tubes Area Trailhead",
         "notes": "Big Tubes Area Trailhead\nhttps://www.nps.gov/places/big-tubes-area-trailhead.htm\n\n<p>Start your <a href=\"https://www.nps.gov/elma/planyourvisit/big-tubes-area.htm\">Big Tubes</a> adventure here! Along this trail you will encounter a vast volcanic landscape, with some of the largest lava tube cave features in El Malpais. This rugged hike ventures over an otherworldly lava landscape formed by lava tube caves and collapse features. If you're planning to <a href=\"https://www.nps.gov/elma/planyourvisit/caving.htm\">cave</a>, don't forget to pick up a caving permit in advance from the <a href=\"https://www.nps.gov/elma/planyourvisit/visitorcenters.htm\">El Malpais Visitor Center</a>.<br /> <br /> <a href=\"https://www.nps.gov/elma/planyourvisit/driving-to-big-tubes.htm\">Getting to Big Tubes </a>is an adventure all on its own. The road is typically best navigated with a high clearance, four-wheel-drive vehicle and may be impassible after heavy rains or snow. Call the El Malpais Visitor Center for current road conditions.<br /> <br /> <a href=\"https://www.nps.gov/elma/planyourvisit/camping.htm\">Camping </a>is not allowed at this trailhead or any trailheads in El Malpais National Monument. </p>",
-        "icon": "red-pin-down.png"
+        "icon": "trailhead"
       }
     },
     {
@@ -73,7 +73,7 @@
       "properties": {
         "name": "El Calderon Area Trailhead",
         "notes": "El Calderon Area Trailhead\nhttps://www.nps.gov/places/el-calderon-area-trailhead.htm\n\n<h2>Exploring El Calderon</h2> <p>The <a href=\"https://www.nps.gov/elma/planyourvisit/el-calderon-area.htm\">El Calderon Area</a> Trailhead marks the beginning of a well marked, easy to moderate difficulty hike. The trail crosses the oldest lava flow at El Malpais National Monument and passes by several <a href=\"https://www.nps.gov/elma/planyourvisit/caving.htm\">lava tube cave</a> entrances on the way to the summit of a cinder cone volcano. Picnic benches and a pit toilet are available at the trailhead.</p> <h2>Geology In Motion</h2> <p>The processes of geology are usually so slow that they cannot be measured in a human lifetime. Occasionally, we can see the effects of erosion or other processes after a good rain or high spring winds, but these are exceptions. However, there are some events that happen so quickly their effects can be seen immediately. Volcanic eruptions are one of these events.<br /> <br /> In 1943 near Parícutin, Mexico, a farmer noticed a crack in one of his fields sending out gas and ash. Less than ten years later, a cinder cone 1,200 feet (365 m) high towered over the field. El Calderon Cinder Cone would have had a similar beginning when it was formed somewhere between 30,000 to 60,000 years ago.<br /> <br /> A volcanic vent shot cinders hundreds of feet into the air, creating the cinder cone you see today. Rivers of molten rock created lava trenches and lava tubes. Since then, the changes have been less dramatic. A combination of vegetation and erosion slowly break down lava into smaller particles. Eventually, the area is transformed from a blackened landscape to the forested land you see today.</p> <h2>Signs of Life</h2> <p>The seasons bring an ever changing array of life to the El Calderon trail. In the spring, look for piñon jays and the occasional snake or lizard basking in the sun. Summer brings warmer temperatures, insects, and several species of bats that can be seen chasing after the insects from Bat Cave. As summer progresses and monsoon rains fall, wildflowers blanket the ground. Fall is a good time to spot deer, elk, and other animals foraging for food. During winter, prints from coyotes, bobcats, rabbits, and other animals are easy to spot on freshly fallen snow.</p>",
-        "icon": "red-pin-down.png"
+        "icon": "trailhead"
       }
     },
     {
@@ -328,7 +328,7 @@
       "properties": {
         "name": "Lava Falls Trailhead",
         "notes": "Lava Falls Trailhead\nhttps://www.nps.gov/places/elma-lava-falls-trailhead.htm\n\n<p>Start your exploration of the youngest lava flow in El Malpais National Monument at the Lava Falls Trailhead. From here, venture out on the 1200 - 3900 year old McCartys Lava Flow following a one-mile, cairn-marked loop across this rugged landscape. Keep an eye out for fascinating basaltic volcanic features like lava toes, ropy pāhoehoe lava, squeeze-ups, and pressure ridges. <br /> <br /> The parking area features picnic benches and a vault toilet. To reach the parking area, you must drive down a 1/2 mile gravel road that may be difficult for oversized vehicles, particularly if muddy or slick.</p>",
-        "icon": "red-pin-down.png"
+        "icon": "trailhead"
       }
     },
     {
@@ -358,7 +358,7 @@
       "properties": {
         "name": "Sandstone Bluffs Overlook",
         "notes": "Sandstone Bluffs Overlook\nhttps://www.nps.gov/places/elma-sandstone-bluffs-overlook.htm\n\nAt Sandstone Bluffs, every direction you turn gives you a different view with a new feature to focus on. Below the bluffs are the lava flows of El Malpais. To the north is a dramatic view of Mount Taylor. Below your feet is Dakota Sandstone that contrasts with the dark lava flows farther below where you stand. If you enjoy sweeping vistas, Sandstone Bluffs is the place to be for a sunset or a cloudless afternoon.",
-        "icon": "red-pin-down.png"
+        "icon": "binoculars"
       }
     },
     {
@@ -388,7 +388,7 @@
       "properties": {
         "name": "WNPA Store",
         "notes": "WNPA Store\nhttps://www.nps.gov/places/el-malpais-national-monument-store.htm\n\n<p>The park store is operated by Western National Parks Association, an official non-profit partner of the National Park Service dedicated to supporting the educational mission of El Malpais National Monument. The park store has a wide range of books, travel guides, educational games, and other items available for retail sale. These products complement the interpretive themes you experience when visiting the park. The park store is located at the El Malpais Visitor Center, or you can visit their <a href=\"store.wnpa.org/\">online park store.</a></p>",
-        "icon": "red-pin-down.png"
+        "icon": "market"
       }
     },
     {
@@ -403,7 +403,7 @@
       "properties": {
         "name": "Zuni-Acoma Trailhead",
         "notes": "Zuni-Acoma Trailhead\nhttps://www.nps.gov/places/zuni-acoma-trailhead.htm\n\n<p>Start (or end) your adventure on the ancient <a href=\"https://www.nps.gov/elma/planyourvisit/zuni-acoma-trail.htm\">Zuni-Acoma Trail</a> across the lava flows of El Malpais National Monument from here. This trailhead features a pit toilet and picnic area.<br /> <br /> If venturing out on the trail, <a href=\"https://www.nps.gov/elma/planyourvisit/safety.htm\">be prepared</a> with plenty of food and water. The trail is marked by cairns--piles of rock--so be sure to have the next cairn in sight before continuing onward. </p>",
-        "icon": "red-pin-down.png"
+        "icon": "trailhead"
       }
     }
   ]

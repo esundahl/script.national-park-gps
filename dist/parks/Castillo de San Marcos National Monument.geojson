@@ -388,7 +388,7 @@
       "properties": {
         "name": "Museum Store",
         "notes": "Museum Store\nhttps://www.nps.gov/places/000/museum-store.htm\n\n<p>The park store is operated by America’s National Parks™, an official non-profit partner of the National Park Service dedicated to supporting the educational mission of Castillo de San Marcos. The park store has a wide range of books, maps, travel guides, media, educational games, posters, and other items available for retail sale. These products complement the interpretive themes you experience when visiting the park. The park store is located inside the Castillo, in the first door on your left as you enter. <a href=\"https://shop.americasnationalparks.org/store/home/5161/Castillo-de-San-Marcos-National-Monument/\">You can also purchase online</a><br /> <br /> The store is open from 9 a.m. to 4:30 p.m.<br /> <br /> Questions? Call us at 267-530-0821</p>",
-        "icon": "red-pin-down.png"
+        "icon": "market"
       }
     },
     {
@@ -493,7 +493,7 @@
       "properties": {
         "name": "Restroom Area",
         "notes": "Restroom Area\nhttps://www.nps.gov/places/000/restroom-area.htm\n\nThe restrooms are along the east wall in the courtyard, under the tall stone curved arch, underneath the Gundeck stairs. There is also a water bottle filling station, a wheelchair accessible water fountain, and an adult water fountain.",
-        "icon": "red-pin-down.png"
+        "icon": "toilets"
       }
     },
     {

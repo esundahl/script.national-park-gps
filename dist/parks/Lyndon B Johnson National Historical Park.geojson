@@ -148,7 +148,7 @@
       "properties": {
         "name": "Birthplace Restroom",
         "notes": "Birthplace Restroom\nhttps://www.nps.gov/places/000/birthplace-restroom.htm\n\n<p>Behind the Reconstructed Birthplace are modern restrooms as well as a water fountain with bottle filling station.</p>",
-        "icon": "red-pin-down.png"
+        "icon": "toilets"
       }
     },
     {
@@ -538,7 +538,7 @@
       "properties": {
         "name": "Johnson Settlement Parking",
         "notes": "Johnson Settlement Parking\nhttps://www.nps.gov/places/000/johnson-settlement-parking.htm\n\n<p>About a half-mile west of downtown Johnson City is a parking area for the Johnson Settlement. This large, gravel pullout is located on the south side just off US Highway 290. Historic structures from the post-Civil War years (1870s-1880s) are visible within the Johnson Settlement and a short walk from the parking area.</p>",
-        "icon": "red-pin-down.png"
+        "icon": "parking"
       }
     },
     {
@@ -553,7 +553,7 @@
       "properties": {
         "name": "Johnson Settlement Picnic Area",
         "notes": "Johnson Settlement Picnic Area\nhttps://www.nps.gov/places/000/johnson-settlement-picnic-area.htm\n\n<p>Under the seasonal shade of massive pecan trees, visitors can enjoy a picnic outside in the Johnson Settlement.<br /> <br /> Nearby at the Event Center are modern restrooms, trash and recycling bins, and a drinking fountain with bottle-filling station.</p>",
-        "icon": "red-pin-down.png"
+        "icon": "picnic"
       }
     },
     {
@@ -568,7 +568,7 @@
       "properties": {
         "name": "Johnson Settlement Trail",
         "notes": "Johnson Settlement Trail\nhttps://www.nps.gov/places/000/johnson-settlement-trail.htm\n\n<p>The sidewalk ahead leads to the Johnson Settlement. From the visitor center, this trail is approximately one mile (1.6 km) in distance and can be walked as a loop.<br /> <br /> Before there was a town of Johnson City, this central area of Blanco County was simply known as the \"Johnson Ranch.\" It was from here that the president's grandfather and great-uncle drove cattle up the Chisholm Trail in the late 1860s to the railheads in Kansas. Visitors today can experience some of the historic landscape in the restored prairie. Early pioneer heritage is also evident with original structures of the post-Civil War era (1867-1880s) from the Johnsons and subsequent owners, the Bruckners.</p>",
-        "icon": "red-pin-down.png"
+        "icon": "known-route"
       }
     },
     {
@@ -583,7 +583,7 @@
       "properties": {
         "name": "Johnson Settlement Trailhead",
         "notes": "Johnson Settlement Trailhead\nhttps://www.nps.gov/places/000/johnson-settlement-trailhead.htm\n\n<p>The Johnson Settlement is where Lyndon Johnson's grandparents first settled in the Texas Hill Country. His grandfather, Sam Ealy Johnson Sr. was a cattle drover, rounding up cattle here in the Hill Country and herding them north along the Chisholm Trail to the railheads in Abilene, Kansas. From there cattle were sold to growing eastern cities with a large demand for beef.<br /> <br /> The settlement is restored to its appearance in about 1870 and contains many of the original buildings and a restored prairie landscape. The National Park Foundation purchased the land in the early 1970s with money donated by Lyndon Johnson.</p> <h4>Restrictions & Warnings</h4> <br /> The trail is open from dawn to dusk. Bikes are allowed on the shared-use trail. Dogs on leash are permitted. Do not approach livestock or wildlife. Smoking is allowed only in approved outside areas near the Event Center. <p> </p>",
-        "icon": "red-pin-down.png"
+        "icon": "trailhead"
       }
     },
     {
@@ -598,7 +598,7 @@
       "properties": {
         "name": "Junction School Restroom",
         "notes": "Junction School Restroom\nhttps://www.nps.gov/places/000/junction-school-restroom.htm\n\n<p>Vault toilets are located a short distance beyond the historic Junction School. A short driveway from the park road leads to a small parking area which allows access to the schoolhouse entrance as well as the two vault toilets.</p>",
-        "icon": "red-pin-down.png"
+        "icon": "toilets"
       }
     },
     {
@@ -703,7 +703,7 @@
       "properties": {
         "name": "LBJ State Park Nature Trail Trailhead",
         "notes": "LBJ State Park Nature Trail Trailhead\nhttps://www.nps.gov/places/000/lbj-state-park-nature-trail-trailhead.htm\n\n<p>The nature trails, including a Hill Country botanical exhibit, winds past wildlife enclosures with bison, white-tailed deer, wild turkey, and longhorn cattle. From the trailhead, one trail crosses the open landscape of seasonal wildflowers. It travels along the longhorn cattle pen and ends at the historic Danz Cabins. Another trail, closer to the Exhibit Hall, is mostly forested and heads east to cross a non-perennial creek and ends at the living history farm.</p>",
-        "icon": "red-pin-down.png"
+        "icon": "trailhead"
       }
     },
     {
@@ -898,7 +898,7 @@
       "properties": {
         "name": "Picnic Area (Ranch Road 1)",
         "notes": "Picnic Area (Ranch Road 1)\nhttps://www.nps.gov/places/000/picnic-area-ranch-road-1.htm\n\n<p>A short drive west of the state park visitor center complex is a pleasant picnic area located just off Ranch Road 1. There are four covered shelters in a scenic area with many trees and a view of the nearby Pedernales River. Each shelter has a picnic table with benches, a trash can and a grill.</p>",
-        "icon": "red-pin-down.png"
+        "icon": "picnic"
       }
     },
     {
@@ -913,7 +913,7 @@
       "properties": {
         "name": "Picnic Area (State Park Visitor Center)",
         "notes": "Picnic Area (State Park Visitor Center)\nhttps://www.nps.gov/places/000/picnic-area-state-park-visitor-center.htm\n\n<p>Close to the state park entrance and a short drive from the Visitor Center complex is the day-use picnic area. Under several shade trees, there are six separate picnic areas, each has a table with attached benches and a grill. A dumpster is available for trash, but there is no drinking water.</p>",
-        "icon": "red-pin-down.png"
+        "icon": "picnic"
       }
     },
     {
@@ -1483,7 +1483,7 @@
       "properties": {
         "name": "Withers and Spauldings General Store",
         "notes": "Withers and Spauldings General Store\nhttps://www.nps.gov/places/000/withers-and-spauldings-general-store.htm\n\n<p>In the early 20th century, general stores were an important fixture in small, rural towns such as Johnson City. Not only did they provide \"store-bought goods,\" but they served as social centers and community message centers. Shoppers who entered would be met by long counters, rounded glass showcases, and side walls lined with shelves, drawers, and bins holding all manner of items for sale. Imagine the Johnsons and their neighbors coming to the store to purchase such necessities as flour, tools, lanterns, fabric, or shoes. Lucky children with a little spending money could select penny candies from glass jars. The shop keeper would cut, grind, or weigh merchandise that required it, wrap the purchases with brown paper and string from a roll at the end of the counter, and ring the total up on the cash register. The waiting customers could catch up on the latest local news or peruse the notices posted on the store wall.<br /> <br /> W.E. \"Bud\" Withers and Warren and E.D. Spauldings operated the general store in Johnson City as a partnership from April 1909 until December 1915 when Withers bought out the Spauldings. He continued to run the business as <strong>W.E. Withers</strong> until 1925, first in the original frame building and then in the stone building which currently houses the Johnson City Bank.<br /> <br /> The historic Withers & Spauldings General Store now serves as an exhibit area and information center for Johnson City. Visitors can learn about Johnson City shopping and dining options as well as additional attractions in the surrounding Hill Country community.<br /> <br /> Staffed by Johnson City Chamber of Commerce members, the property is part of Lyndon B. Johnson National Historical Park and is managed by the National Park Service.</p>",
-        "icon": "red-pin-down.png"
+        "icon": "market"
       }
     }
   ]

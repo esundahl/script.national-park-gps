@@ -823,7 +823,7 @@
       "properties": {
         "name": "Restrooms (Gettysburg National Cemetery)",
         "notes": "Restrooms (Gettysburg National Cemetery)\nhttps://www.nps.gov/places/restrooms-cemetery.htm\n\nThe restrooms located within the Gettysburg National Cemetery are open year-round. ",
-        "icon": "red-pin-down.png"
+        "icon": "toilets"
       }
     },
     {
@@ -838,7 +838,7 @@
       "properties": {
         "name": "Seasonal Restrooms (Pennsylvania Memorial)",
         "notes": "Seasonal Restrooms (Pennsylvania Memorial)\nhttps://www.nps.gov/places/seasonal-restrooms-pennsylvania-memorial.htm\n\nThe restrooms near the Pennsylvania Memorial are open seasonally. ",
-        "icon": "red-pin-down.png"
+        "icon": "toilets"
       }
     },
     {
@@ -853,7 +853,7 @@
       "properties": {
         "name": "Seasonal Restrooms (Spangler's Spring)",
         "notes": "Seasonal Restrooms (Spangler's Spring)\nhttps://www.nps.gov/places/seasonal-restrooms-spangler-s-spring.htm\n\nThe restrooms at Spangler's Spring are open seasonally.",
-        "icon": "red-pin-down.png"
+        "icon": "toilets"
       }
     },
     {
